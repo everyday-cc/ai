@@ -56,15 +56,20 @@ related:
         width: 1000
         height: 580
         isCached: true
-  - title: "The impact of artificial intelligence on the coffee industry"
-    excerpt: "GCR explores how AI is helping businesses save time and money, and why it’s not necessarily something to fear."
-    publishedDateTime: 2023-11-08T21:43:00Z
-    webUrl: "https://www.gcrmag.com/the-impact-of-artificial-intelligence-on-the-coffee-industry/"
+  - title: "How to Regulate Artificial Intelligence"
+    excerpt: "Prime Minister Najib Mikati’s tentative proposal needs Western backers. Podcast: How to Regulate Artificial Intelligence Sign up to receive updates about FP podcasts. FP Podcast Updates Submit your name and email to receive updates about FP podcasts."
+    publishedDateTime: 2023-11-10T15:48:00Z
+    webUrl: "https://foreignpolicy.com/podcasts/global-reboot/how-to-regulate-artificial-intelligence/?tpcc=recirc_latest062921"
     type: article
     provider:
-      name: gcrmag.com
-      domain: gcrmag.com
-    quality: 19
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 37
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2023/11/Global-Reboot-Season-3-Social-Maydell.jpg?w=1000"
+        width: 1000
+        height: 523
+        isCached: true
 
 secured: "Fd0iG6VSlToS2XsSBsuSNcA9PzcerRquuhlck19674rQis/BQar+9L/Wfz38wBKOuXxMo7g9pUMVSFuYJdXTdqOeisqBsVpXyXPEIJAWn7zVTk3BTvE6z6kCPXxuneLuExT1nPuyIRLoL6wbOuYacb9qii1i54tnoWJjMWIe7F5buhUU5xNXs+ZtYXrS7b6MIFmYbYxv6NmKKjFcnn4DoK7bZzbA6GG3p4z0xSUcog8b0rKrfzfAjT6iJL7cL86L5AU4ubrmTocmbM1W1t/FjW4cuJYpEdDjZNsTVxY5zNRNxvJgzdUOBSufc5FpgSN2ZLPBPCE3sYiAejy4FJFfysIoQHXlA7mUt0i5Q36c5oM=;7fEPfJIyrHBfqCj6PzrSrw=="
 ---

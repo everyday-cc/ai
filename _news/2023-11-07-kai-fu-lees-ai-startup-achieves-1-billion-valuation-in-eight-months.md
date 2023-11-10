@@ -65,15 +65,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
-  - title: "China AI start-up hits unicorn status in less than 8 months"
-    excerpt: "BENGALURU - A Chinese start-up founded by computer scientist Lee Kai-Fu has become a unicorn in less than eight months on the strength of a new open-source artificial-intelligence (AI) model that outstrips Silicon Valley’s best, on at least certain metrics."
-    publishedDateTime: 2023-11-06T00:20:00Z
-    webUrl: "https://www.straitstimes.com/business/china-ai-start-up-hits-unicorn-status-in-less-than-8-months"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 17
 
 secured: "UyME8/DAANmF+Q06LXUNw9MFOs4+5eavPMj/9kwUP4ERuBlgGRTf1EcllDXSnXVpZGYwehvBab0y2sM4ghPdpoCLr/G6hAE7WA4EvZ8KS4rCLmFPElQe7z3k4s0IAxQeu0LUwg0WIZf4Gd6XA313ZTQkhs4X+gaa32+Tv+Co84ZfVDIiJARzZREpxTs9nkDphfyxUpBlk/8/w9M0NG+L3Hqiqlssuff4RTYdoPfP1icx50gUPduu+zrTLHDhI41oqw98UXAfJyyMtYUHbsEsV5oY7lN+TOA/IiU47FA0wMPEHZd+9ur75tb5ra/N3dEQ8TxGm1U8woU7FiSEtD0tahDKWh/GI2dzuo3aXvZW5js=;2oda0LCMwB6hjSt+r0r8KA=="
 ---

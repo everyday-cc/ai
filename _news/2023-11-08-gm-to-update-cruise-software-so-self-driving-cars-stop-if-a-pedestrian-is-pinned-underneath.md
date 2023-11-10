@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gm-update-cruise-self-driving-softwa
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11?amp"
 type: article
 quality: 64
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://www.nydailynews.com/wp-content/uploads/2023/11/AP23115659233014.jpg?w=1024&#038;h=576"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Chevrolet recalls all self-driving Cruise Bolt cars"
+    excerpt: "Chevrolet has recalled all self-driving Cruise Bolt cars. The General Motors owned carmaker has requested the return of all of its 950 vehicles so that they can update the software following one of the cars dragging a pedestrian to the side of a San ..."
+    publishedDateTime: 2023-11-10T15:06:00Z
+    webUrl: "https://rollingout.com/2023/11/10/chevrolet-recalls-all-self-driving-bolt/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 24
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2023/11/1699535584cropped4508x2930-1.jpg"
+        width: 1000
+        height: 650
         isCached: true
   - title: "Cruise Recalls All Self-Driving Cars Due to Unsafe Software Glitch"
     excerpt: "After General Motors’ self-driving car company Cruise suspended operations nationwide on Oct. 27 after facing a federal investigation into its cars’ safety, it announced this week that it’s recalling all of its remaining 950 vehicles for a software problem. That problem led to one of the company’s most harrowing crashes in San Francisco last month."

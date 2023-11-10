@@ -44,6 +44,22 @@ related:
         width: 3840
         height: 2160
         isCached: true
+  - title: "Humane’s Ai Pin up close"
+    excerpt: "We spent 90 minutes with the pin and its founders at Humane's San Francisco office to the discus the $699 AI wearable."
+    publishedDateTime: 2023-11-10T00:27:00Z
+    webUrl: "https://techcrunch.com/2023/11/09/humanes-ai-pin-up-close/"
+    ampWebUrl: "https://techcrunch.com/2023/11/09/humanes-ai-pin-up-close/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/09/humanes-ai-pin-up-close/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/IMG_9861.jpg?resize=1200,900"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Humane launches wearable AI projector pin to replace your phone"
     excerpt: "Back in April, ex-Apple veteran and Humane cofounder Imran Chaudhri appeared at a TED Talk to show off his startup’s inaugural product — a wearable AI projector pin that works like ChatGPT. The company has now officially launched the AI-powered device, giving it the name AI Pin."
     publishedDateTime: 2023-11-09T19:02:00Z

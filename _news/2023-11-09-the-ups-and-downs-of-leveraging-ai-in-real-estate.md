@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Unleashing the Power of AI in the Internet of the Future"
-    excerpt: "The Internet of the future is set to be a dynamic and transformative force, with artificial intelligence (AI) poised to play a central role. The integration of AI into the fabric of the Internet promises to unlock new realms of innovation,"
-    publishedDateTime: 2023-11-07T12:31:00Z
-    webUrl: "https://techbullion.com/unleashing-the-power-of-ai-in-the-internet-of-the-future/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
   - title: "These Top Companies are Transforming Real Estate with the Help of AI"
     excerpt: "Artificial intelligence (AI) is quickly transforming just about every industry, including real estate. In fact, “AI has enormous potential to reshape real estate, with near- and long-term impacts ranging from the emergence of new markets and asset"
     publishedDateTime: 2023-11-08T14:15:00Z
@@ -72,15 +63,6 @@ related:
     provider:
       name: BayStreet
       domain: baystreet.ca
-    quality: 19
-  - title: "These Top Companies are Transforming Real Estate with the Help of AI"
-    excerpt: "“We believe their expansive network of banks and first-in-class AI enabled fintech platform will help drive referrals to our brokers. In addition, our agreement with Janover builds on our track record and growing brand recognition within the residential ..."
-    publishedDateTime: 2023-11-09T00:14:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/O-N/pressreleases/21824810/these-top-companies-are-transforming-real-estate-with-the-help-of-ai/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
     quality: 19
 
 secured: "MSj9JVP+6pCPvEHY5nToa1MqeCIKb5czmNDXUzGPsIS12Z09QkDE17NGAuWBBD4DcWS45wGKgE75jshIhpzJX2XWpYyoYuZh/RqhIG6rRRnKgjgL1G32BADOPLf+zMa3Zt6T12WFe2SqrFY7gUDTp1Mto1FbIJYdTQw3RJQ8xQxDVE4R5hb7jns/L/Q0LUttsSzMOKqM3bUhsD8pQoe0w2qknKCnmBBhlqjX8fawiVytx7jc0oE9Go4Mg8M7CHCPhin51dy14KP5YK1pzJAUupWHO7tWAHDfDe1uWfhazn5irf8wXS1VYTbq3bOAhK0dCNWzT+2OajuIuHEaJRdAwVSHYHmj8s0nHRVWhjjsxmI=;4hilyswqrdGktsbyscFDnQ=="

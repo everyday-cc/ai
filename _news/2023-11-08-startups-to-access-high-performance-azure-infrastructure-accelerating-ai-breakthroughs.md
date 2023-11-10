@@ -238,15 +238,6 @@ related:
       name: Men's Journal
       domain: mensjournal.com
     quality: 33
-  - title: "Microsoft signs new partnership with AI and data analytics startup – SpaceNews"
-    excerpt: "Microsoft announced Aug. 29 a five-year agreement to provide cloud-computing resources to Synthetaic, a startup that uses artificial intelligence to analyze data from space and air sensors. Wisconsin-based Synthetaic made news earlier this year after it used artificial intelligence and Planet Labs’ satellite imagery archive to independently track the Chinese spy balloon’s path across the United States before it was shot down."
-    publishedDateTime: 2023-11-05T23:02:00Z
-    webUrl: "https://www.inferse.com/784876/microsoft-signs-new-partnership-with-ai-and-data-analytics-startup-spacenews/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 30
   - title: "Vandis Achieves Microsoft Solutions Partner Designation For Infrastructure And Is A Member Of The Microsoft AI Cloud Partner Program"
     excerpt: "Vandis, Inc , today announced it has earned the Microsoft Solutions Partner designation for Infrastructure and is a member of the Microsoft AI Cloud Partner Program. The new program and designations replace the legacy Microsoft Partner Network program and its gold and silver competencies to help customers identify qualified partners with the technical capabilities and expertise they need."
     publishedDateTime: 2023-11-08T18:26:00Z

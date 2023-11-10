@@ -141,15 +141,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "AI and the Erosion of Human Cognition"
-    excerpt: "The intersection of AI and human cognition is as much about philosophy and ethics as it is about technology. If history is any guide, every significant technological advancement brings with it societal trepidation. The printing press, electricity ..."
-    publishedDateTime: 2023-11-05T21:41:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202311/ai-and-the-erosion-of-human-cognition"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 19
 
 secured: "7KUNfh280bh7R57G7kft5rvDOrY0AXr3Nr+G+LGmqZ4g+zsKCldGWMjmvbaIvSGQZnOlJ1EZGpG8o91fVFJ27ukQrdA1Z8/HlgA6G4jBHaB+hW/Fz6GK1qI3czn4xGQhLhrMyWExG6je7GNnpInYNrgjIUVKm7DWGkk/W2DrMxO8x0XldEvmGHN7Vv2/LTfK2/yp/Rqv+D4iiEJIgch5jNZTzDKqBObPW27HFgQTxcQZD5WXiYkqHpMBjjC+UuQ3DLOPgp8UtFxyx0dQQKCWrMnKu3xIRuXcEAZkQFH1g6Rr9M9AkfUXESanjzpbjcOv4tc7xoRkvsxco5eCM0LNIj8GEp/ZvNURoR//wkl0VB7L/xFuho5o2hS0XE+PToO/kNIeZ08LRjSSlTE1oF7IbTRmgv3PnfctOy1nZeM92J9d8R11DpXGF6u9FaaqtofNyrUe+RnzJViVD8AL0RoQ1F48M/W61JppkWIechmNPy23sRV6cL24iQtS1Zffpk5QGQh7/0EFb+NiT7EUrNpeug==;fPYegzjfjVSiditVw/kx7g=="
 ---

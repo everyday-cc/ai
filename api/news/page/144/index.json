@@ -2,6 +2,304 @@
   "page": 144,
   "value": [
     {
+      "path": "_news/2023-07-31-a-group-of-seven-technology-leaders-agree-to-ai-safeguards.md",
+      "title": "A Group Of Seven Technology Leaders Agree To AI Safeguards",
+      "excerpt": "This article discusses Amazon, Google, Inflection, Meta, Microsoft & OpenAI's voluntary commitment to AI Safeguards & discusses the USA WhiteHouse AI legislation status.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c76de0561a39fa1d6b2a39/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/31/a-group-of-seven-technology-leaders-agree-to-ai-safeguards/amp/",
+      "publishedDateTime": "2023-07-31T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops.md",
+      "title": "Kubeflow Joins CNCF To Accelerate The Adoption Of MLOps",
+      "excerpt": "CNCF’s acceptance of Kubeflow as an incubation project marks an important milestone in the evolution of the open source MLOps platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c74b2ceb8e510cf216a81a/0x0.png?format=png&width=1200",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/07/31/kubeflow-joins-cncf-to-accelerate-the-adoption-of-mlops/amp/",
+      "publishedDateTime": "2023-07-30T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-deepminds-rt-2-makes-robot-control-a-matter-of-ai-chat.md",
+      "title": "DeepMind's RT-2 makes robot control a matter of AI chat",
+      "excerpt": "Instructing a robot can be just a matter of a large language model that handles actions in the same prompt as images and words.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
+      "originalUrl": "https://www.zdnet.com/article/deepminds-rt-2-makes-robot-control-a-matter-of-chat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/69766a4a0ca637cc1b3aa27816b94e2102772847/2023/07/31/dcacd18a-42b7-4fd8-b9ef-c05a182163b6/deepmind-rt-2-picks-up-objects.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-30T22:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-how-researchers-train-machine-learning-model-in-outer-space-on-satellite.md",
+      "title": "How Researchers Train Machine Learning Model in Outer Space on Satellite",
+      "excerpt": "In a groundbreaking development, a group of researchers led by DPhil student Vít Růžička from the Department of Computer Science at the University of Oxford successfully trained a machine learning model in outer space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cryptopolitan.com/machine-learning-model-in-space-on-satellite/",
+      "originalUrl": "https://www.cryptopolitan.com/machine-learning-model-in-space-on-satellite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-31_11-25-04.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-30T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cryptopolitan",
+        "domain": "cryptopolitan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-how-is-machine-learning-different-from-deep-learning.md",
+      "title": "How is machine learning different from deep learning?",
+      "excerpt": "The confusion between machine learning and deep learning is an obvious one. Oftentimes, many people use the two interchangeably. However, these are",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/general-knowledge/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
+      "originalUrl": "https://www.jagranjosh.com/general-knowledge/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com/images/2023/July/3172023/AnalyticsVidhya-1_11zon.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
+      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
+      "publishedDateTime": "2023-07-30T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-the-first-self-driving-car-fatality-case-put-to-rest-who-was-responsible-for-killing-a-pedestrian-in-this-case-it-was-not-the-robot.md",
+      "title": "The first self-driving car fatality case put to rest who was responsible for killing a pedestrian. In this case, it was not the robot.",
+      "excerpt": "Rafaela Vasquez, who was behind the wheel of a self-driving Uber that killed a pedestrian in 2018, pleaded guilty to endangerment on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
+      "originalUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c6e413048ff200190dc4ee?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
+      "publishedDateTime": "2023-07-30T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms.md",
       "title": "Generative AI Exposure Widens Return Gap Between Tech And Traditional Firms",
       "excerpt": "A new study from the National Bureau of Economic Research reveals that recent advances in generative AI are accelerating the divergence in stock market performance.",
@@ -892,281 +1190,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-a-bull-market-is-coming-1-artificial-intelligence-ai-growth-stock-has-billionaires-betting-big.md",
-      "title": "A Bull Market Is Coming: 1 Artificial Intelligence (AI) Growth Stock Has Billionaires Betting Big",
-      "excerpt": "Artificial intelligence (AI) promises to usher in a ... its autonomous driving subsidiary Waymo and its AI research unit DeepMind could evolve into sizable revenue streams in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/29/bull-market-coming-1-ai-stock-billionaires-bet-big/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/29/bull-market-coming-1-ai-stock-billionaires-bet-big/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-29T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-bridging-the-ai-language-gap-in-africa-and-beyond.md",
-      "title": "Bridging the AI language gap in Africa and beyond",
-      "excerpt": "AI tools, from ChatGPT to Google Translate, are useless to billions of people in the Global South who don't work in western languages. Researchers and startups from Africa and other parts of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dw.com/en/bridging-the-ai-language-gap-in-africa-and-beyond/a-66331763",
-      "originalUrl": "https://www.dw.com/en/bridging-the-ai-language-gap-in-africa-and-beyond/a-66331763",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.dw.com/image/66379734_6.jpg",
-          "width": 940,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.dw.com/en/bridging-the-ai-language-gap-in-africa-and-beyond/a-66331763",
-      "cdnAmpWebUrl": "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/bridging-the-ai-language-gap-in-africa-and-beyond/a-66331763",
-      "publishedDateTime": "2023-07-29T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dw",
-        "domain": "dw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-what-role-does-ai-play-in-enhancing-aviation-cybersecurity.md",
-      "title": "What Role Does AI Play In Enhancing Aviation Cybersecurity?",
-      "excerpt": "Cybersecurity is critical to the safety of aviation. Attacks to critical aviation infrastructure pose real threats. So, how does the FAA address these cyber challenges?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/29/what-role-does-ai-play-in-enhancing-aviation-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/29/what-role-does-ai-play-in-enhancing-aviation-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c3bdca3e9ca5472f03e488/0x0.jpg?format=jpg&crop=273,273,x0,y79,safe&width=1200",
-          "width": 273,
-          "height": 273,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/29/what-role-does-ai-play-in-enhancing-aviation-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/29/what-role-does-ai-play-in-enhancing-aviation-cybersecurity/amp/",
-      "publishedDateTime": "2023-07-29T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-the-robots-we-were-afraid-of-are-already-here.md",
-      "title": "The Robots We Were Afraid of Are Already Here",
-      "excerpt": "The long-anticipated automation revolution has begun. Robots are ready to operate forklifts and do laundry. It’s not as scary as it sounds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/07/29/business/robots-workers-future.html",
-      "originalUrl": "https://www.nytimes.com/2023/07/29/business/robots-workers-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/07/30/multimedia/00mr-robot-01-zmfw/00mr-robot-01-zmfw-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-29T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-google-deepmind-enables-robots-to-perform-novel-tasks.md",
-      "title": "Google DeepMind enables robots to perform novel tasks",
-      "excerpt": "Google has demonstrated its first vision-language-action (VLA) model for robot control that showed improved generalisation capabilities and semantic and visual understanding beyond the robotic data it was exposed to.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/google-deepmind-enables-robots-to-perform-novel-tasks/articleshow/102228809.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-29T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading.md",
-      "title": "Artificial Intelligence Heralds New Digital Revolution in Investment and Trading",
-      "excerpt": "Artificial intelligence, big data, and machine learning have revolutionized the financial markets, facilitating rapid analysis of large volumes",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading-1032491451",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-heralds-new-digital-revolution-in-investment-and-trading-1032491451",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/hRDRdnMaMyatndx4VvIkA5ajDjK2/1690551810174-0.jpg",
-          "width": 800,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3240451/china-start-01a
 webUrl: "https://www.scmp.com/tech/big-tech/article/3240451/china-start-01ai-hits-us1-billion-valuation-top-ranked-open-source-model?module=live&pgtype=homepage"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
         width: 2504
         height: 1508
         isCached: true
-  - title: "China AI start-up hits unicorn status in less than 8 months"
-    excerpt: "BENGALURU - A Chinese start-up founded by computer scientist Lee Kai-Fu has become a unicorn in less than eight months on the strength of a new open-source artificial-intelligence (AI) model that outstrips Silicon Valley’s best, on at least certain metrics."
-    publishedDateTime: 2023-11-06T00:20:00Z
-    webUrl: "https://www.straitstimes.com/business/china-ai-start-up-hits-unicorn-status-in-less-than-8-months"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 17
 
 secured: "8xpKrdA+yHws6bVEuBP94m83AXdoluzY0ktZBwFZZz2ZRDKfyTw26jT4crMCjxYZLdJmA1DncJRNz1KCheK9KEatE33GFRo+6GrxxJhhukR1Lj/lr5AxlbJ/jxhJV55fOhHygHFO5QK8OS+ycvar3mcnwCcNK+mrx96vJPmuhRmJ10Byfl08Ox1TSb/lNurbETLAfvCBQdzde2Mo9nHzW+adgKef0WGra4+N/RNKTZ++ACeswFEFH0mT3A2++Sgn15wBQYYgfDTHcROBgYOYanKHVUFHAgiyWcVxFNFnu3YVTUcyTc/wyzXQuJl96v2xVVMIy9xxgI0jSi8zdd4DP71Wb8NS5BXDs7KjWY4gxSQeWr23lkdihAt2qnaq+gguI+nAnIrPXOGw/fxKwTVdyKDw4b3RJn7QjeU9hRaZ9mOPCzP5DxfAHsd6mnkJLEzEUsabjDus2pMgWVf7MD4MVYc1JqkKT1cosMUD8NG4vwX48NBKOtWi0bcQq6M/juQKb9nos7VlruCDAPM8byMwVA==;oOATRZallnwANuA8tlHGvA=="
 ---

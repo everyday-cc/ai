@@ -24,190 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Healthcare: Four Key Directives From The Biden Administration"
-    excerpt: "President Biden's Executive Order on AI aims to ensure the development and use of artificial intelligence are safe, secure, and trustworthy for healthcare"
-    publishedDateTime: 2023-11-07T03:46:00Z
-    webUrl: "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/"
-    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/"
+  - title: "AI Technical Standards Need a Bigger Push Than Executive Order"
+    excerpt: "Dentons’ Peter Stockburger says safe use of AI in the future needs purposeful development of social and technical standards worldwide, and that President Joe Biden’s executive order is just a start."
+    publishedDateTime: 2023-11-06T16:51:00Z
+    webUrl: "https://news.bloomberglaw.com/us-law-week/ai-technical-standards-need-a-bigger-push-than-executive-order"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6549b0e788cfbd6daa04c33f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/b835b4f/2147483647/crop/4307x1660%2B18%2B634/resize/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F3b%2F1e%2Fb39816a848a896db958c1fb3ff5d%2Fgettyimages-1765557688.jpg"
+        width: 1920
+        height: 740
         isCached: true
-  - title: "Ethical Considerations in AI-Driven Healthcare"
-    excerpt: "There are a number of ethical concerns relating to the collection and handling of patient data in AI-driven healthcare. For example, the confidentiality and security of patient information must be ensured to protect patients from the negative impacts of data breaches and unauthorized access."
-    publishedDateTime: 2023-11-06T14:06:00Z
-    webUrl: "https://www.news-medical.net/health/Ethical-Considerations-in-AI-Driven-Healthcare.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 71
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23905_16992787609573557.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "New Artificial Intelligence Executive Order Contains Numerous Healthcare Implications"
-    excerpt: "President Joe Biden on Oct. 30, 2023, signed an executive order (EO) to establish the first set of standards for using artificial intelligence (AI) in healthcare and other industries. The EO seeks to find balance between managing potential risks of AI ..."
-    publishedDateTime: 2023-11-07T22:47:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/new-artificial-intelligence-executive-3104620/"
+  - title: "Biden Issues Executive Order on Artificial Intelligence"
+    excerpt: "President Biden recently issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence, which establishes the administration’s principles on artificial intelligence (AI) and requires or encourages executive ..."
+    publishedDateTime: 2023-11-10T15:34:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/biden-issues-executive-order-on-7275910/"
     type: article
     provider:
       name: JD Supra
       domain: jdsupra.com
-    quality: 62
+    quality: 37
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14849_2738.jpg"
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15871_0103.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "AI in Healthcare: Transforming the Industry in 2024"
-    excerpt: "Introduction Artificial Intelligence (AI) has been making waves across various industries, and healthcare is no exception. In 2024, AI is poised to revolutionize the healthcare industry in ways we could have never imagined."
-    publishedDateTime: 2023-11-08T14:23:00Z
-    webUrl: "https://techbullion.com/ai-in-healthcare-transforming-the-industry-in-2024/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 54
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-in-Healthcare-Transforming-the-Industry-in-2024-1.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Generative AI in Healthcare: Transforming Patient Care by 2024"
-    excerpt: "Introduction In recent years, the field of healthcare has undergone a remarkable transformation, primarily due to the integration of Generative Artificial Intelligence (AI). This cutting-edge technology has the potential to reshape patient care,"
-    publishedDateTime: 2023-11-08T09:55:00Z
-    webUrl: "https://techbullion.com/generative-ai-in-healthcare-transforming-patient-care-by-2024/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 54
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Generative-AI-in-Healthcare-Transforming-Patient-Care-by-2024.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "WHO Offers Recommendations for AI Guidelines in Healthcare"
-    excerpt: "Experts emphasize the importance of training AI systems on reliable data and of checking the systems’ safety and efficacy."
-    publishedDateTime: 2023-11-08T18:24:00Z
-    webUrl: "https://www.medscape.com/viewarticle/998216"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 54
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/gty_231108_ai_guidelines_medical_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "AI Advancements In Healthcare: Promise, Progress And Pitfalls"
-    excerpt: "AI has raised questions about the need for ongoing training and education for healthcare professionals to effectively utilise these tool."
-    publishedDateTime: 2023-11-10T03:31:00Z
-    webUrl: "https://inc42.com/resources/ai-advancements-in-healthcare-promise-progress-and-pitfalls/"
-    ampWebUrl: "https://inc42.com/resources/ai-advancements-in-healthcare-promise-progress-and-pitfalls/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/ai-advancements-in-healthcare-promise-progress-and-pitfalls/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 54
-  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
-    excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
-    publishedDateTime: 2023-11-06T06:08:00Z
-    webUrl: "https://www.inferse.com/785317/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 52
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-3967.png"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Policymakers Must Balance Innovation With Patient Safety for AI in Healthcare"
-    excerpt: "When it comes to artificial intelligence (AI) in healthcare, policymakers must balance innovation with potential harms to patients and healthcare workers, lawmakers and witnesses said during a Senate hearing Wednesday."
-    publishedDateTime: 2023-11-09T22:13:00Z
-    webUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/107260"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 51
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/107xxx/107260.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Biden Administration Issues Sweeping Executive Order on Artificial Intelligence"
-    excerpt: "The Biden Administration issued a sweeping Executive Order directing a broad set of government actions addressing consumer harms, discrimination, privacy protections and other issues stemming from the widespread use of artificial intelligence. While the ..."
-    publishedDateTime: 2023-11-06T17:37:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/biden-administration-issues-sweeping-2370402/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 35
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.12022_1330.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Biden’s Safeguards Against Artificial Intelligence"
-    excerpt: "Joe Biden, this Monday October 30, has signed an executive order to restrict the use of artificial intelligence (AI).  Recently, there has been a rapid development of artificial intell"
-    publishedDateTime: 2023-11-09T08:35:00Z
-    webUrl: "https://www.davisvanguard.org/2023/11/bidens-safeguards-against-artificial-intelligence/"
-    type: article
-    provider:
-      name: Davis Vanguard
-      domain: davisvanguard.org
-    quality: 32
-  - title: "Competition considerations featured in President Biden’s Executive Order on Artificial Intelligence"
-    excerpt: "On October 30, 2023, President Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. The Order, which recognizes AI’s extraordinary potential but also the substantial risks requiring ..."
-    publishedDateTime: 2023-11-08T14:59:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/competition-considerations-featured-in-1678317/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 23
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15723_926.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Better Patient Care and Operational Success: Seven Ways to Benefit From Generative AI in Healthcare"
-    excerpt: "Generative artificial intelligence (AI) has been the latest disruptor for many industries, quickly becoming widely used by companies that run the gamut. However, given the sensitive data and importance of privacy in the healthcare industry, its use there ..."
-    publishedDateTime: 2023-11-08T20:16:00Z
-    webUrl: "https://medcitynews.com/2023/11/better-patient-care-and-operational-success-seven-ways-to-benefit-from-generative-ai-in-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 20
-  - title: "OMB Releases Implementation Guidance Following President Biden’s Executive Order on Artificial Intelligence"
-    excerpt: "President Biden signed a landmark Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. As the United States takes action to realize the tremendous promise of AI while managing its risks,"
-    publishedDateTime: 2023-11-06T20:01:00Z
-    webUrl: "https://www.hstoday.us/federal-pages/dhs/omb-releases-implementation-guidance-following-president-bidens-executive-order-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 19
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2023/11/technology-3435575_1280.jpg"
-        width: 1280
-        height: 802
         isCached: true
 
 secured: "vv4PeCfJTun+CBPChHIchVSZi+3V9QgZ7yzhqFZmr7oyn2Rzw0R1LGzIfJ142SkHOy8iZvwUhny6IwvyoztKCMG44GpOOE/bTj+w5+Bw8UurAevHQeHLNr/c5B9dEUjpyPyA1BmqgSXJei6qMsLzq/Vq4c7eTMtUXrbLMxQI8bRuHi03G134R2mfkSHrBnGinNjYvQku1wHIXENmQoIsKSG9NxBmIyydIjbViw42qnhdyPthB6kz1cXh1qCL4HVKvAou4QQXmMoirtHei6PoA1/OnNv/PNcO1kVdJK4lrE7MRspILHubJMH9SupAT9Sz5Ubzs+0f0dVWkCbqqfv0A6bxabZUtLsidkN65aLj8Eg=;M6TxuCUlbmOsYiX11vClnQ=="

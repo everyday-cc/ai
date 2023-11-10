@@ -166,6 +166,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "OpenAI Data Partnerships announced for AI training with diverse global data"
+    excerpt: "OpenAI, a leading artificial intelligence research lab, has recently launched the OpenAI Data Partnerships program. This new initiative is designed to"
+    publishedDateTime: 2023-11-10T11:55:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-data-partnerships/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 17
 
 secured: "dJS9H7NsNq0bTti6r80HNQmcoc0tiSAaOOMuSpG5gd/TsGbYrFKVePT1Wgv/+RRJkzpWIty//w8WNvjsFxYrMuhSaAGbTrthA2FfD6Bnvy2WMuAY/uUT7idHxsNaignIZ9UA8M4WDc30ctwK2phSBJIDNV8Is5PHbg09xzUwaZEgvqa9yj22hxkegLHmDSRoC62fBrCr0mhjTP2dMrMwDzu5YGxJ3HrRo9yys2CjwXzPpL7pQoRSoEIVchQ8XKdUXGfzlAESBWBhGRBXXTv7gqbSPV3+Dyk5qWCMeeRtkIL66fMg2FtqwwWl380EZrX06pVkuUc9+kCa6tCqQw9BFyAWwhXL6fd4fyGdU8tku1jTyzdcRB32MKnD2FTCl5MoPjot67mBLuhNlBOgiFEV0+6rt7SqC15KR98DRtLKI5+T6eYiLVhVxPn2ml+Qny9fNjA2ioStACEG9iENux4hU31jmp8MIvQKLL5fxqXKJHEayh0iBxEdRgnvcXL9XT4HdaP+3MTCpy+GoxX6C7yfQg==;Xab1FTaP8TYO6EMhGFhEEg=="
 ---

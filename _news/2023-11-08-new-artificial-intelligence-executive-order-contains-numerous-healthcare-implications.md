@@ -25,140 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Healthcare: Four Key Directives From The Biden Administration"
-    excerpt: "President Biden's Executive Order on AI aims to ensure the development and use of artificial intelligence are safe, secure, and trustworthy for healthcare"
-    publishedDateTime: 2023-11-07T03:46:00Z
-    webUrl: "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/"
-    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/"
+  - title: "Five Questions To Consider When Evaluating An AI Solution"
+    excerpt: "Data is key to any AI strategy and a critical enterprise asset. Any tool you deploy within your organization needs to secure and protect your data. So, you should start by evaluating the public, private and open-source LLM models available and identifying ..."
+    publishedDateTime: 2023-11-08T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 106
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6549b0e788cfbd6daa04c33f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/654a751b6cca537b3db324ba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1334
         height: 900
         isCached: true
-  - title: "Ethical Considerations in AI-Driven Healthcare"
-    excerpt: "There are a number of ethical concerns relating to the collection and handling of patient data in AI-driven healthcare. For example, the confidentiality and security of patient information must be ensured to protect patients from the negative impacts of data breaches and unauthorized access."
-    publishedDateTime: 2023-11-06T14:06:00Z
-    webUrl: "https://www.news-medical.net/health/Ethical-Considerations-in-AI-Driven-Healthcare.aspx"
+  - title: "iMerit Introduces Defect Detection Solution for Advanced Manufacturing and Warehouse Robotics AI Applications"
+    excerpt: "Nov. 8, 2023 /PRNewswire/ -- iMerit, a leading artificial intelligence (AI) data solutions company, today introduced a new defect detection solution to accelerate AI development for advanced manufacturing and warehouse robotics applications. This new ..."
+    publishedDateTime: 2023-11-08T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/imerit-introduces-defect-detection-solution-for-advanced-manufacturing-and-warehouse-robotics-ai-applications-1032794037"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 71
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23905_16992787609573557.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "AI in Healthcare: Transforming the Industry in 2024"
-    excerpt: "Introduction Artificial Intelligence (AI) has been making waves across various industries, and healthcare is no exception. In 2024, AI is poised to revolutionize the healthcare industry in ways we could have never imagined."
-    publishedDateTime: 2023-11-08T14:23:00Z
-    webUrl: "https://techbullion.com/ai-in-healthcare-transforming-the-industry-in-2024/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+  - title: "Does an AI tool help boost adoptions? Key takeaways from an AP Investigation"
+    excerpt: "Former social worker Thea Ramirez has developed an artificial intelligence-powered tool that she says helps social service agencies find the best adoptive parents for some of the nation’s most vulnera"
+    publishedDateTime: 2023-11-06T05:17:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-tool-boost-adoptions-key-takeaways-ap-investigation-104650891"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-tool-boost-adoptions-key-takeaways-ap-investigation-104650891"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-tool-boost-adoptions-key-takeaways-ap-investigation-104650891"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 54
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-in-Healthcare-Transforming-the-Industry-in-2024-1.jpg"
-        width: 600
-        height: 450
+      - url: "https://s.abcnews.com/images/US/wirestory_f51f9573e3ced729a277c6817f45ffd8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Generative AI in Healthcare: Transforming Patient Care by 2024"
-    excerpt: "Introduction In recent years, the field of healthcare has undergone a remarkable transformation, primarily due to the integration of Generative Artificial Intelligence (AI). This cutting-edge technology has the potential to reshape patient care,"
-    publishedDateTime: 2023-11-08T09:55:00Z
-    webUrl: "https://techbullion.com/generative-ai-in-healthcare-transforming-patient-care-by-2024/"
+  - title: "Tech startup Sixty AI offers solution for notification fatigue"
+    excerpt: "Some say it can be very triggering. Tech startup Sixty AI has created a free AI-powered assistant to lessen the alerts, pings and interruptions that we face daily. CEO Mat Ellis says it will highlight what needs your attention and manage the rest of the ..."
+    publishedDateTime: 2023-11-08T20:50:00Z
+    webUrl: "https://www.fox17online.com/news/national/tech-startup-sixty-ai-offers-solution-for-notification-fatigue"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 54
+      name: fox17online
+      domain: fox17online.com
+    quality: 37
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Generative-AI-in-Healthcare-Transforming-Patient-Care-by-2024.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "WHO Offers Recommendations for AI Guidelines in Healthcare"
-    excerpt: "Experts emphasize the importance of training AI systems on reliable data and of checking the systems’ safety and efficacy."
-    publishedDateTime: 2023-11-08T18:24:00Z
-    webUrl: "https://www.medscape.com/viewarticle/998216"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 54
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/gty_231108_ai_guidelines_medical_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "AI Advancements In Healthcare: Promise, Progress And Pitfalls"
-    excerpt: "AI has raised questions about the need for ongoing training and education for healthcare professionals to effectively utilise these tool."
-    publishedDateTime: 2023-11-10T03:31:00Z
-    webUrl: "https://inc42.com/resources/ai-advancements-in-healthcare-promise-progress-and-pitfalls/"
-    ampWebUrl: "https://inc42.com/resources/ai-advancements-in-healthcare-promise-progress-and-pitfalls/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/ai-advancements-in-healthcare-promise-progress-and-pitfalls/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 54
-  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
-    excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
-    publishedDateTime: 2023-11-06T06:08:00Z
-    webUrl: "https://www.inferse.com/785317/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 52
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-3967.png"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Policymakers Must Balance Innovation With Patient Safety for AI in Healthcare"
-    excerpt: "When it comes to artificial intelligence (AI) in healthcare, policymakers must balance innovation with potential harms to patients and healthcare workers, lawmakers and witnesses said during a Senate hearing Wednesday."
-    publishedDateTime: 2023-11-09T22:13:00Z
-    webUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/107260"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 51
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/107xxx/107260.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Biden Administration Issues Sweeping Executive Order on Artificial Intelligence"
-    excerpt: "The Biden Administration issued a sweeping Executive Order directing a broad set of government actions addressing consumer harms, discrimination, privacy protections and other issues stemming from the widespread use of artificial intelligence. While the ..."
-    publishedDateTime: 2023-11-06T17:37:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/biden-administration-issues-sweeping-2370402/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 35
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.12022_1330.jpg"
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fe84c30/2147483647/strip/true/crop/2536x1331+0+42/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fa1%2F4d%2F1a18971e412596fddab27ed0cede%2Fscreen-shot-2023-11-03-at-4-34-58-pm.png"
         width: 1200
-        height: 900
+        height: 630
         isCached: true
-  - title: "Biden’s Safeguards Against Artificial Intelligence"
-    excerpt: "Joe Biden, this Monday October 30, has signed an executive order to restrict the use of artificial intelligence (AI).  Recently, there has been a rapid development of artificial intell"
-    publishedDateTime: 2023-11-09T08:35:00Z
-    webUrl: "https://www.davisvanguard.org/2023/11/bidens-safeguards-against-artificial-intelligence/"
-    type: article
-    provider:
-      name: Davis Vanguard
-      domain: davisvanguard.org
-    quality: 32
   - title: "Competition considerations featured in President Biden’s Executive Order on Artificial Intelligence"
     excerpt: "On October 30, 2023, President Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. The Order, which recognizes AI’s extraordinary potential but also the substantial risks requiring ..."
     publishedDateTime: 2023-11-08T14:59:00Z
@@ -173,43 +94,33 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Better Patient Care and Operational Success: Seven Ways to Benefit From Generative AI in Healthcare"
-    excerpt: "Generative artificial intelligence (AI) has been the latest disruptor for many industries, quickly becoming widely used by companies that run the gamut. However, given the sensitive data and importance of privacy in the healthcare industry, its use there ..."
-    publishedDateTime: 2023-11-08T20:16:00Z
-    webUrl: "https://medcitynews.com/2023/11/better-patient-care-and-operational-success-seven-ways-to-benefit-from-generative-ai-in-healthcare/"
+  - title: "Samsung unveils Galaxy AI, a comprehensive mobile AI solution"
+    excerpt: "Samsung says its Galaxy AI will give users an on-device artificial intelligence experience that they haven't seen anywhere before."
+    publishedDateTime: 2023-11-09T19:39:00Z
+    webUrl: "https://www.androidheadlines.com/2023/11/samsung-galaxy-ai-mobile-solution.html"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 20
-  - title: "OMB Releases Implementation Guidance Following President Biden’s Executive Order on Artificial Intelligence"
-    excerpt: "President Biden signed a landmark Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. As the United States takes action to realize the tremendous promise of AI while managing its risks,"
-    publishedDateTime: 2023-11-06T20:01:00Z
-    webUrl: "https://www.hstoday.us/federal-pages/dhs/omb-releases-implementation-guidance-following-president-bidens-executive-order-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
+      name: Android
+      domain: androidheadlines.com
     quality: 19
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2023/11/technology-3435575_1280.jpg"
-        width: 1280
-        height: 802
-        isCached: true
-  - title: "U.S. Regulation of Artificial Intelligence: Presidential Executive Order Paves the Way for Future Action in the Private Sector"
-    excerpt: "On October 30, 2023, President Joe Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (Order) that addresses the responsible use of artificial intelligence (AI) by the federal government and ..."
-    publishedDateTime: 2023-11-06T17:58:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/u-s-regulation-of-artificial-6299985/"
+  - title: "Retail tech startup offers an AI solution for pricing products"
+    excerpt: "Retail tech startup Particl launched AI Copilot, a new product that helps customers identify both new and mispriced products, CEO Josh Wilson tells Axios. Why it matters: Retailers need sophisticated software to help them manage supply chains efficiently."
+    publishedDateTime: 2023-11-07T15:45:00Z
+    webUrl: "https://www.axios.com/pro/retail-deals/2023/11/07/particl-inventory-management-tech"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 9
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16013_5523.jpg"
-        width: 1200
-        height: 900
-        isCached: true
+      name: Axios
+      domain: axios.com
+    quality: 17
+  - title: "Google SGE expands to 120 countries while adding new follow-up questions, AI translation help and more definitions"
+    excerpt: "The generative AI version of Google Search, Google Search Generative Experience, is now rolling out to over 120 countries and territories. Google also added new ways to follow up with AI-generated search answers, new AI translation help, and additional AI-powered definitions."
+    publishedDateTime: 2023-11-08T18:16:00Z
+    webUrl: "https://searchengineland.com/google-sge-expands-to-120-countries-while-adding-new-follow-up-questions-ai-translation-help-and-more-definitions-434351"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 0
 
 secured: "DIbD//zdxL4F6vhwzh0XwTiuHAGLgK9P//ZBrsT7mAh0BBOEFbkFWUsbUpcwszKSldmRlxRdmy9+yg320u69jkA8itnlwIy8yTRmH66rloneHfWEeNfRlHxmlIaJixAY+c/xR22MYsRQoyDGGDfJdElN6tykWtAzitMTCSuWftGAwJ+tUlrJ7K0ZSzLwkFITqNmSeiKj+NqKJgieuzxMv8Kl1hkoqLnyH5IUlN4ijs6WDNzUe7u8xP+TQJWlGsYPGiavDOa1/2ILmX15CuSVUKGWP6gVtQbHqaQ8ExHc70x51eYBQzGkYmcIWq9VF/HI5bjTRz2944n8O8F94wT5kwPYcUNtxMUSD/A4XwisO7k=;saYornMUGeUDIOCUbFIgZA=="
 ---

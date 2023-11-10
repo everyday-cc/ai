@@ -2,81 +2,29 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-11-10-unlocking-health-and-wealth-bliv-pioneers-preventive-healthcare-revolution-in-the-crypto-hub-of-the-world.md",
-      "title": "Unlocking Health and Wealth: BLiV Pioneers Preventive Healthcare Revolution in the Crypto Hub of the World",
-      "excerpt": "BLiV.io, the Web3 Live2Earn AI-Powered Preventive Healthcare platform crafted by the visionary minds at GoObat Pharma.Dubai, United Arab",
+      "path": "_news/2023-11-10-reducing-administrative-burden-in-the-healthcare-industry-with-ai-and-interoperability.md",
+      "title": "Reducing administrative burden in the healthcare industry with AI and interoperability",
+      "excerpt": "IBM has developed a comprehensive strategy to guide our healthcare clients in driving value through real end-to-end digital transformation.\nThe post Reducing administrative burden in the healthcare industry with AI and interoperability appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/unlocking-health-and-wealth-bliv-pioneers-preventive-healthcare-revolution-in-the-crypto-hub-of-the-world-1032806360",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/unlocking-health-and-wealth-bliv-pioneers-preventive-healthcare-revolution-in-the-crypto-hub-of-the-world-1032806360",
+      "webUrl": "https://www.ibm.com/blog/reducing-administrative-burden-in-the-healthcare-industry-with-ai-and-interoperability/",
+      "originalUrl": "https://www.ibm.com/blog/reducing-administrative-burden-in-the-healthcare-industry-with-ai-and-interoperability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh7-us.googleusercontent.com/_LmxTYG5r_0jlN5miO4rA8fwozhJj3p5qRCmdVCS9hFuA0CXhOYhq0MxKqYcUASQt2juaUyCe5iDLY78ZpLnh1E9S8NMbdBkrWjDWam00WSA5bjRJY4KZfYyk9h9oyXAT2F2YeZrAis0TYCBPnNouio",
-          "width": 1600,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T03:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-ai-alert-3-healthcare-stocks-that-are-investing-in-artificial-intelligence.md",
-      "title": "AI Alert: 3 Healthcare Stocks That Are Investing in Artificial Intelligence",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips We’re still in the initial stages of a massively disruptive artificial",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-alert-3-healthcare-stocks-that-are-investing-in-artificial-intelligence-1032802979",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-alert-3-healthcare-stocks-that-are-investing-in-artificial-intelligence-1032802979",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
+      "heat": 288,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T16:12:00-08:00",
+      "publishedDateTime": "2023-11-10T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "IBM",
+        "domain": "ibm.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -92,7 +40,7 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "IBM AI",
         "AI",
         "AI in Healthcare"
       ]
@@ -142,6 +90,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-09-who-offers-recommendations-for-ai-guidelines-in-healthcare.md",
+      "title": "WHO Offers Recommendations for AI Guidelines in Healthcare",
+      "excerpt": "Experts emphasize the importance of training AI systems on reliable data and of checking the systems’ safety and efficacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/998216",
+      "originalUrl": "https://www.medscape.com/viewarticle/998216",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/gty_231108_ai_guidelines_medical_800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T10:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-pharmspective-launches-accessai-market-access-artificial-intelligence-platform.md",
       "title": "Pharmspective Launches AccessAI™ Market Access Artificial Intelligence platform",
       "excerpt": "First of its' kind AI tool ready to replace legacy approaches to secondary research and knowledge acquisition about the Market Access",
@@ -182,59 +173,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-ai-in-healthcare-four-key-directives-from-the-biden-administration.md",
-      "title": "AI In Healthcare: Four Key Directives From The Biden Administration",
-      "excerpt": "President Biden's Executive Order on AI aims to ensure the development and use of artificial intelligence are safe, secure, and trustworthy for healthcare",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/",
-      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 246,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6549b0e788cfbd6daa04c33f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/",
-      "publishedDateTime": "2023-11-06T19:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -1318,6 +1256,58 @@
         "name": "The Border Mail",
         "domain": "bordermail.com.au",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-millionaire-uses-artificial-intelligence-to-develop-life-saving-drugs.md",
+      "title": "Millionaire uses Artificial Intelligence to develop life-saving drugs",
+      "excerpt": "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-wales-67171042",
+      "originalUrl": "https://www.bbc.com/news/uk-wales-67171042",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-wales-67171042.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp",
+      "publishedDateTime": "2023-10-20T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

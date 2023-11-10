@@ -53,20 +53,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "Biden eyes adding AI chip curbs to Chinese companies abroad"
-    excerpt: "CSET found in a June 2022 report that out of 97 individual AI chips procured via Chinese military tenders over an 8-month period in 2020, nearly all of them were designed by U.S.-based companies ..."
-    publishedDateTime: 2023-11-06T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/15028085"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 54
-    images:
-      - url: "https://p.potaufeu.asahi.com/9747-p/picture/27894651/6b1819ba929329a40785f37a6cd4139a.jpg"
-        width: 660
-        height: 495
-        isCached: true
   - title: "Alibaba's Ant Group Gets Chinese Govt Approval To Release AI Products"
     excerpt: "Ant Group, the fintech affiliate of Chinese conglomerate Alibaba Group, has received approval from the Chinese government to offer"
     publishedDateTime: 2023-11-06T15:02:00Z
@@ -113,15 +99,6 @@ related:
         width: 3841
         height: 2161
         isCached: true
-  - title: "How Chinese influencers use AI digital clones of themselves to pump out content"
-    excerpt: "Questions over honesty and legality as livestreamers, particularly in online shopping, use avatars to boost their earnings"
-    publishedDateTime: 2023-11-05T23:08:00Z
-    webUrl: "https://www.theguardian.com/world/2023/nov/06/chinese-influencers-using-ai-digital-clones-of-themselves-to-pump-out-content"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 13
 
 secured: "W+YJbSYxg5KLBr4dXS0aI0SRqrTOkC8IwehjKnS+11UYPSQf7WvgevKmZQGCJQqZ2vf6U7HvOm/3eqFQq2FfPIa0WaOP0dfLRaQe7GtGfmndKbYVuteGZjr2wfXo0hMEXIFAkkNBdWZWgHpbWpiiGOo7kzFI+iq4MzMuPFCffamAVD4uOa0vM0SWZcVUVmqm7eKOUlVXca5JABQ63RZnwN3bdoY+oFnnL5Xyv8HWo5POU49SkE+IqFYb0fNq3d8IqDy9BTLEsmiHxr4knG565Cj+hEcvj6s34Icoyj5wkooK0ZnHEYFg8n9Q2SsDmExHuBwCCEVBHF24ufudi4H+zZQct6KSucnXI9lse97NSfJ6q4YjsO6LzqeXgSCrMyTDcwybswUO12/ZHKUEwSIWueORHOWgSpa33JJSp5WbgITocKAg2aV1lHKiydniJPKhnUCLDFlNEYQC08L1ZsCU9hjd3+ur8lT9holEl2vyY3QjqPQ73r5qIW5pC8pAMqymFPJdru1TyxfDFqvgMIFJFg==;2kGO8OCD+bZb3gs0NfIbiQ=="
 ---

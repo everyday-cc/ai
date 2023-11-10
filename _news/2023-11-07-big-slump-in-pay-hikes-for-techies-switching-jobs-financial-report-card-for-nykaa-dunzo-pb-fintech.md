@@ -75,15 +75,6 @@ related:
         width: 1200
         height: 1568
         isCached: true
-  - title: "Stability AI Gets Intel Backing in New Financing"
-    excerpt: "Stability AI has raised new financing led by chipmaker Intel Corp., according to people familiar with the matter — a cash infusion that arrives at a critical time for the company."
-    publishedDateTime: 2023-11-09T20:26:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-11-09/stability-ai-gets-intel-backing-in-new-financing"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
   - title: "5 firms leveraging AI to transform the future of FinTech in USA"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-11-06T10:46:00Z
@@ -128,15 +119,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Why last week felt like 2021 in fintech"
-    excerpt: "Combined, the three fintech companies raised $650 million alone ... The startup claims it is “the first personal finance platform to provide holistic tracking of net worth, AI-powered financial guidance, automated investing, easy tax filing, estate ..."
-    publishedDateTime: 2023-11-05T22:48:00Z
-    webUrl: "https://techcrunch.com/2023/11/05/the-return-of-mega-rounds-in-fintech-and-where-all-the-former-mint-users-are-headed/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
   - title: "The King’s Speech: What does it mean for the future of fintech?"
     excerpt: "What did King Charles say? King Charles started by highlighting the economic pressures on the nation and promised that his “Government will continue to take action to bring down inflation, to ease the cost of living for families and help businesses fund new jobs and investment."
     publishedDateTime: 2023-11-08T09:46:00Z

@@ -57,20 +57,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "Biden eyes adding AI chip curbs to Chinese companies abroad"
-    excerpt: "CSET found in a June 2022 report that out of 97 individual AI chips procured via Chinese military tenders over an 8-month period in 2020, nearly all of them were designed by U.S.-based companies ..."
-    publishedDateTime: 2023-11-06T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/15028085"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 54
-    images:
-      - url: "https://p.potaufeu.asahi.com/9747-p/picture/27894651/6b1819ba929329a40785f37a6cd4139a.jpg"
-        width: 660
-        height: 495
-        isCached: true
   - title: "NVIDIA to launch 3 new AI chips for Chinese market"
     excerpt: "NVIDIA is said to be preparing the launch of three new chips specifically for the Chinese market, as reported by local media"
     publishedDateTime: 2023-11-09T09:56:00Z
@@ -117,15 +103,6 @@ related:
         width: 3841
         height: 2161
         isCached: true
-  - title: "How Chinese influencers use AI digital clones of themselves to pump out content"
-    excerpt: "Questions over honesty and legality as livestreamers, particularly in online shopping, use avatars to boost their earnings"
-    publishedDateTime: 2023-11-05T23:08:00Z
-    webUrl: "https://www.theguardian.com/world/2023/nov/06/chinese-influencers-using-ai-digital-clones-of-themselves-to-pump-out-content"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 13
 
 secured: "yk/Uinr1lmO8ldk0SkokYPUjNtP9BTCEdFNDTOudHS0CeGHZrhW2sGHw0LnTCrI6Rwl+/5AWEARubXWTiHRKogopGXQ4bsC7Q0ExGZjd+QLb3dvu/wxZYpR2lPctfSo95JVI8uBJS/h3BaSKswgdSryJfMwnGWG6BtH4SVNqQxoRrkntcCpNjLFcSuGwdRLX41j8Z71zeJzFf3lHFTU1KeB60u/fMQTwgkyZqirA1gBjIDHxrmhLaFnFmyvbcU8mPymCw2ndIe6YFrZxCNl1fsQys5nCgkDHE42IYkq7hPTH6L223z2v00Ydy4S5MnO3bHZBJjNAXGqxomYGJAfGhW7kpNVeAv63aeeupeMEims=;x/ezCsK7tGdfDlF1p3+WEw=="
 ---

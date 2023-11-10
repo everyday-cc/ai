@@ -92,6 +92,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 9
+  - title: "Explainable AI Market worth $16.2 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "The global Explainable AI Market size is to grow from USD 6.2 billion in 2023 to USD 16.2 billion by 2028, at a Compound Annual Growth Rate (CAGR) of 20.9% during the forecast period, according to MarketsandMarkets."
+    publishedDateTime: 2023-11-10T15:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/10/9915967.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
   - title: "Global Agriculture Autonomous Robots Market Poised to Surge to $3.13 Billion by 2028, Addressing Labor Shortages and Enhancing Farming Efficiency - ResearchAndMarkets.com"
     excerpt: "The \"Agriculture Autonomous Robots Market - A Global and Regional Analysis: Focus on Product, Application, Supply Chain Analysis, and Country Analysis - Analysis and Forecast, 2023-2028\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2023-11-08T13:41:00Z

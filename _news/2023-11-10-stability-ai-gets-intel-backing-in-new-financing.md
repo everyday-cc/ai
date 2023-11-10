@@ -23,183 +23,217 @@ topics:
   - Facebook AI
 
 related:
-  - title: "AI Ethics In Fintech: Building Trust In Tomorrow's Financial Ecosystem"
-    excerpt: "The nexus between AI and finance paints a horizon replete with opportunities. From crafting unparalleled user experiences to broadening financial access—the prospects are limitless. But, as we navigate this uncharted terrain, let our compass be ethics ..."
-    publishedDateTime: 2023-11-07T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/"
+  - title: "Reducing administrative burden in the healthcare industry with AI and interoperability"
+    excerpt: "IBM has developed a comprehensive strategy to guide our healthcare clients in driving value through real end-to-end digital transformation.\nThe post Reducing administrative burden in the healthcare industry with AI and interoperability appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-10T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/reducing-administrative-burden-in-the-healthcare-industry-with-ai-and-interoperability/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 108
+  - title: "AI In Healthcare: Four Key Directives From The Biden Administration"
+    excerpt: "President Biden's Executive Order on AI aims to ensure the development and use of artificial intelligence are safe, secure, and trustworthy for healthcare"
+    publishedDateTime: 2023-11-07T03:46:00Z
+    webUrl: "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/"
+    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 106
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6549b0e788cfbd6daa04c33f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "Smart banking leads the road to our fintech future"
-    excerpt: "The future of banking lies in touch-based and voice-enabled transactions, and the demand for that change is rising with each day. To integrate the future of cashless technology, banks in Bangladesh have to ensure banking services that are accessible anytime and anywhere"
-    publishedDateTime: 2023-11-08T05:39:00Z
-    webUrl: "https://www.dhakatribune.com/business/banks/330402/smart-banking-leads-the-road-to-our-fintech-future"
-    ampWebUrl: "https://www.dhakatribune.com/amp/business/banks/330402/smart-banking-leads-the-road-to-our-fintech-future"
-    cdnAmpWebUrl: "https://www-dhakatribune-com.cdn.ampproject.org/c/s/www.dhakatribune.com/amp/business/banks/330402/smart-banking-leads-the-road-to-our-fintech-future"
+  - title: "Unlock the power of generative AI with intelligent automation"
+    excerpt: "AI that's integrated into automation technology is referred to as “intelligent automation,” which helps businesses put generative AI to work.\nThe post Unlock the power of generative AI with intelligent automation appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-07T14:00:00Z
+    webUrl: "https://www.ibm.com/blog/unlock-the-power-of-generative-ai-with-intelligent-automation/"
     type: article
     provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 59
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "AI Alert: 3 Healthcare Stocks That Are Investing in Artificial Intelligence"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips We’re still in the initial stages of a massively disruptive artificial"
+    publishedDateTime: 2023-11-10T00:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-alert-3-healthcare-stocks-that-are-investing-in-artificial-intelligence-1032802979"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+  - title: "How the semiconductor industry is leveraging high-performance computing to drive innovation"
+    excerpt: "As enterprises look to solve their most complex challenges, IBM will continue to deliver clients an integrated solution across critical components.\nThe post How the semiconductor industry is leveraging high-performance computing to drive innovation appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-10T14:42:28Z
+    webUrl: "https://www.ibm.com/blog/how-the-semiconductor-industry-is-leveraging-high-performance-computing-to-drive-innovation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 72
+  - title: "Ethical Considerations in AI-Driven Healthcare"
+    excerpt: "There are a number of ethical concerns relating to the collection and handling of patient data in AI-driven healthcare. For example, the confidentiality and security of patient information must be ensured to protect patients from the negative impacts of data breaches and unauthorized access."
+    publishedDateTime: 2023-11-06T14:06:00Z
+    webUrl: "https://www.news-medical.net/health/Ethical-Considerations-in-AI-Driven-Healthcare.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 71
     images:
-      - url: "https://ecdn.dhakatribune.net/contents/cache/images/600x315x1/uploads/media/2023/11/08/Smart-Banking-18d54092c4929545e64c7d74c1de947b.jpg?jadewits_media_id=8618"
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23905_16992787609573557.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Intel invests in generative AI startup Stability AI"
+    excerpt: "Generative AI startup Stability AI has received funding from Intel Corp after struggling for the past few months. The startup became a unicorn last year."
+    publishedDateTime: 2023-11-10T11:36:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/intel-invests-in-generative-ai-startup-stability-ai/article67521148.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/intel-invests-in-generative-ai-startup-stability-ai/article67521148.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/intel-invests-in-generative-ai-startup-stability-ai/article67521148.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://th-i.thgim.com/public/news/international/v4jy2u/article36938450.ece/alternates/FREE_320/FILE-PHOTO-Security-officers-keep-watch-in-front-of-an-AI-Artificial-Intellige"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "Unraveling 2024’s transformative trends with AI taking over healthcare"
+    excerpt: "Here are the 10 Transformative Trends to Watch in 2024! Predictive Analytics: AI is refining the foresight in healthcare, predicting patient outcomes with increasing accuracy – a transformative tool for preemptive care."
+    publishedDateTime: 2023-11-10T10:23:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/features/Unraveling-2024-s-transformative-trends-with-AI-taking-over-healthcare-1878590"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 56
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/195/19566337.jpg"
         width: 600
-        height: 315
+        height: 431
         isCached: true
-  - title: "Fintech Startup Black Ore Raises $60M to Bring AI to Financial Services"
-    excerpt: "Black Ore, an AI platform for financial services, launched today and announced $60 million in financing led by a16z and Oak HC/FT."
-    publishedDateTime: 2023-11-08T21:17:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/11/215465-fintech-startup-black-ore-raises-60m-to-bring-ai-to-financial-services/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/215465-fintech-startup-black-ore-raises-60m-to-bring-ai-to-financial-services/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/215465-fintech-startup-black-ore-raises-60m-to-bring-ai-to-financial-services/amp/"
+  - title: "AI in Healthcare: Transforming the Industry in 2024"
+    excerpt: "Introduction Artificial Intelligence (AI) has been making waves across various industries, and healthcare is no exception. In 2024, AI is poised to revolutionize the healthcare industry in ways we could have never imagined."
+    publishedDateTime: 2023-11-08T14:23:00Z
+    webUrl: "https://techbullion.com/ai-in-healthcare-transforming-the-industry-in-2024/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Cyber-Dollar-AI-Artificial-Intelligence.jpg"
-        width: 1200
-        height: 1568
-        isCached: true
-  - title: "5 firms leveraging AI to transform the future of FinTech in USA"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-11-06T10:46:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-firms-leveraging-ai-to-transform-the-future-of-fintech-in-usa/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/06/Generative-AI-in-Banking.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Fintechs weigh in on the White House's executive order on AI"
-    excerpt: "The order \"immediately posed the question of how do you identify these models without some sort of self regulation,\" said Amitay Kalmar, co-founder and chief executive of the AI-powered auto lending fintech Lendbuzz in Boston. \"From the outside ..."
-    publishedDateTime: 2023-11-08T21:28:00Z
-    webUrl: "https://www.americanbanker.com/news/fintechs-weigh-in-on-the-white-houses-executive-order-on-ai"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/059a66d/2147483647/strip/true/crop/5000x2625+0+442/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F20%2F42%2F44bb221f4f189976d1913ca7f581%2F393263320.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Salary hikes for IT staff take a cut; financial report card for Nykaa, Dunzo, PB Fintech"
-    excerpt: "Employees at Indian IT firms are not getting the salary hikes they were used to on switching jobs anymore, data from staffing companies suggests. This and more in todays ETtech Morning Dispatch."
-    publishedDateTime: 2023-11-07T01:49:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/articleshow/105024512.cms?from=mdr"
-    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 35
-    images:
-      - url: "https://img.etimg.com/photo/msid-105024651/OpenAI.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Why last week felt like 2021 in fintech"
-    excerpt: "Combined, the three fintech companies raised $650 million alone ... The startup claims it is “the first personal finance platform to provide holistic tracking of net worth, AI-powered financial guidance, automated investing, easy tax filing, estate ..."
-    publishedDateTime: 2023-11-05T22:48:00Z
-    webUrl: "https://techcrunch.com/2023/11/05/the-return-of-mega-rounds-in-fintech-and-where-all-the-former-mint-users-are-headed/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
-  - title: "Big slump in pay hikes for techies switching jobs; financial report card for Nykaa, Dunzo, PB Fintech"
-    excerpt: "Employees at Indian IT firms are not getting the salary hikes they were used to on switching jobs anymore, data from staffing companies suggests. This and more in todays ETtech Morning Dispatch."
-    publishedDateTime: 2023-11-07T02:29:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/articleshow/105024512.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 29
-    images:
-      - url: "https://img.etimg.com/photo/msid-105024651/OpenAI.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "The King’s Speech: What does it mean for the future of fintech?"
-    excerpt: "What did King Charles say? King Charles started by highlighting the economic pressures on the nation and promised that his “Government will continue to take action to bring down inflation, to ease the cost of living for families and help businesses fund new jobs and investment."
-    publishedDateTime: 2023-11-08T09:46:00Z
-    webUrl: "https://www.finextra.com/the-long-read/850/the-kings-speech-what-does-it-mean-for-the-future-of-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/850.jpg"
-        width: 800
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-in-Healthcare-Transforming-the-Industry-in-2024-1.jpg"
+        width: 600
         height: 450
         isCached: true
-  - title: "Exploring the future of fintech"
-    excerpt: "The Singapore FinTech Festival has emerged as an important platform for discourse among policymakers, technologists and financial sector experts. Photos: Singapore FinTech Festival, Elevandi With advancements in artificial intelligence (AI),"
-    publishedDateTime: 2023-11-09T09:16:00Z
-    webUrl: "https://www.channelnewsasia.com/advertorial/exploring-future-fintech-3899741"
+  - title: "Generative AI in Healthcare: Transforming Patient Care by 2024"
+    excerpt: "Introduction In recent years, the field of healthcare has undergone a remarkable transformation, primarily due to the integration of Generative Artificial Intelligence (AI). This cutting-edge technology has the potential to reshape patient care,"
+    publishedDateTime: 2023-11-08T09:55:00Z
+    webUrl: "https://techbullion.com/generative-ai-in-healthcare-transforming-patient-care-by-2024/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 24
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--jlxy0wBs--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/06/bstudio_sff_elevandi_lead.jpg?itok=vXKSHFgp"
-        width: 1200
-        height: 676
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Generative-AI-in-Healthcare-Transforming-Patient-Care-by-2024.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Top fintech events to attend in 2024"
-    excerpt: "Imagine jetting off to the dynamic and rapidly growing fintech hub of Dubai in January 2024 for the World Finance Council's Fintech Conference. This global gathering brings together financial leaders, tech experts, and policymakers, all with a shared goal:  exploring the fusion of finance and technology in the Middle East."
-    publishedDateTime: 2023-11-09T09:45:00Z
-    webUrl: "https://www.finextra.com/blogposting/25172/top-fintech-events-to-attend-in-2024"
+  - title: "The Interaction of the Internet of Things, AI and Machine Learning"
+    excerpt: "More and more devices can communicate without the need for human input thanks to the rise of the Internet of Things (IoT). You might have a home assistant device, such as an Amazon Echo or a Google Home,"
+    publishedDateTime: 2023-11-08T11:36:00Z
+    webUrl: "https://techbullion.com/the-interaction-of-the-internet-of-things-ai-and-machine-learning/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
     images:
-      - url: "https://lh7-us.googleusercontent.com/aBnCOszzZC1zUyfDG6-8Ugve8DqZydcR7NQKhWIIe_6a5J9OHA6NTdBRtKrzIV5OiegM3Ypn_iWNhZrB3EqrObWlpseEyb8uVMLOaiytaTiBOK0tMdSpPJ_MudXwkiYzgCX9rk5J6RY-8VBB3vGVESw"
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Internet-of-things.jpg"
+        width: 466
+        height: 311
+        isCached: true
+  - title: "Policymakers Must Balance Innovation With Patient Safety for AI in Healthcare"
+    excerpt: "When it comes to artificial intelligence (AI) in healthcare, policymakers must balance innovation with potential harms to patients and healthcare workers, lawmakers and witnesses said during a Senate hearing Wednesday."
+    publishedDateTime: 2023-11-09T22:13:00Z
+    webUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/107260"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 51
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/107xxx/107260.jpg"
         width: 1600
-        height: 636
+        height: 900
         isCached: true
-  - title: "AI fintech Black Ore emerges from stealth with $60m"
-    excerpt: "Black Ore, a startup developing AI tools for financial services firms, has emerged from stealth with $60 million in financing led by a16z and Oak HC/FT, with participation from a host of big-name angel investors."
-    publishedDateTime: 2023-11-08T00:29:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43250/ai-fintech-black-ore-emerges-from-stealth-with-60m"
+  - title: "Biden Administration Issues Sweeping Executive Order on Artificial Intelligence"
+    excerpt: "The Biden Administration issued a sweeping Executive Order directing a broad set of government actions addressing consumer harms, discrimination, privacy protections and other issues stemming from the widespread use of artificial intelligence. While the ..."
+    publishedDateTime: 2023-11-06T17:37:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/biden-administration-issues-sweeping-2370402/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 35
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.12022_1330.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Better Patient Care and Operational Success: Seven Ways to Benefit From Generative AI in Healthcare"
+    excerpt: "Generative artificial intelligence (AI) has been the latest disruptor for many industries, quickly becoming widely used by companies that run the gamut. However, given the sensitive data and importance of privacy in the healthcare industry, its use there ..."
+    publishedDateTime: 2023-11-08T20:16:00Z
+    webUrl: "https://medcitynews.com/2023/11/better-patient-care-and-operational-success-seven-ways-to-benefit-from-generative-ai-in-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 20
+  - title: "Unleashing the Power of AI in the Internet of the Future"
+    excerpt: "The Internet of the future is set to be a dynamic and transformative force, with artificial intelligence (AI) poised to play a central role. The integration of AI into the fabric of the Internet promises to unlock new realms of innovation,"
+    publishedDateTime: 2023-11-07T12:31:00Z
+    webUrl: "https://techbullion.com/unleashing-the-power-of-ai-in-the-internet-of-the-future/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
     quality: 19
-  - title: "BIT2023: Banking, Fintech Co-Create Larger Ecosystem, Build Strong Foundation"
-    excerpt: "Get ready to be acquainted with the Who's who of banking and fintech fraternity of the UAE over two consecutive days next week on November15 and Nov"
-    publishedDateTime: 2023-11-07T20:15:00Z
-    webUrl: "https://menafn.com/1107389124/BIT2023-Banking-Fintech-Co-Create-Larger-Ecosystem-Build-Strong-Foundation"
+  - title: "The impact of artificial intelligence on the coffee industry"
+    excerpt: "GCR explores how AI is helping businesses save time and money, and why it’s not necessarily something to fear."
+    publishedDateTime: 2023-11-08T21:43:00Z
+    webUrl: "https://www.gcrmag.com/the-impact-of-artificial-intelligence-on-the-coffee-industry/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 16
+      name: gcrmag.com
+      domain: gcrmag.com
+    quality: 19
+  - title: "These Top Companies are Transforming Real Estate with the Help of AI"
+    excerpt: "“We believe their expansive network of banks and first-in-class AI enabled fintech platform will help drive referrals to our brokers. In addition, our agreement with Janover builds on our track record and growing brand recognition within the residential ..."
+    publishedDateTime: 2023-11-09T00:14:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/O-N/pressreleases/21824810/these-top-companies-are-transforming-real-estate-with-the-help-of-ai/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 19
+  - title: "Top 8 Generative AI Jobs in India"
+    excerpt: "Currently, there's a widespread trend of enhancing capabilities in generative AI across startups and major tech companies, leading to the creation of new positions specifically for experts in LLMs."
+    publishedDateTime: 2023-11-09T12:27:00Z
+    webUrl: "https://analyticsindiamag.com/top-8-generative-ai-jobs-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "SMc0oU2UXmp27HZHy7aijIgjNx+NvIxiU9K7BUBcs7CcJu47VA20r5q/dHqeeBDfWiphi147Te6c9LmoEoQGOdlohVvVzWmoj5weySI+kPo5SS2/OWS5Tv9s9QuEj46eoDBS7tJrcSVkVweu4Kz1v6BoXpLq+RtRckLYgUMdaAWxkxlEoqPqE3urOExv8b43BePJjMUdF+Zex08GMFyPShoayA5pXDxFyfhFbMSk5uqPNsoGjzIGGr7FumfwZ9+gyjOhClYhfbQ4nWp+9l6jFIqhV5eaar/fFDk4g+Zy/cydy8tQ1ntt/7aUIZAoteN7qz+AsRBnEQZElz4GFKSD2682gJzeizyLVCrt4QiK2J38TxDxNoqjMBaYDYcfzIlwtWiCm/yzmt5uAjCCgxBefMpzjOEadqfrN5LoBd/utShw0vJxUsViDhrdaqNfQ/c2RPq3ldulKAazb1F/8DkbLdjjI/dMCC0yObvNYOtHOXnwaZGluTaxUjnQalvRCz2j4BmUn0eAJN0t3ich02U9kQ==;uakTWf4IOMKLV2U+LpgYvw=="
 ---

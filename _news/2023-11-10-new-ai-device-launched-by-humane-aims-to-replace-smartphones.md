@@ -41,6 +41,22 @@ related:
         width: 3840
         height: 2160
         isCached: true
+  - title: "Humane’s Ai Pin up close"
+    excerpt: "We spent 90 minutes with the pin and its founders at Humane's San Francisco office to the discus the $699 AI wearable."
+    publishedDateTime: 2023-11-10T00:27:00Z
+    webUrl: "https://techcrunch.com/2023/11/09/humanes-ai-pin-up-close/"
+    ampWebUrl: "https://techcrunch.com/2023/11/09/humanes-ai-pin-up-close/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/09/humanes-ai-pin-up-close/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/IMG_9861.jpg?resize=1200,900"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Humane’s Ai Pin is a $700 Smartphone Alternative You Wear All Day"
     excerpt: "If you’re willing to clip the Ai Pin to your chest, you can talk, gesture, and tap to take photos or summon a powerful virtual assistant."
     publishedDateTime: 2023-11-09T16:59:00Z
@@ -153,6 +169,6 @@ related:
       domain: bgr.com
     quality: 9
 
-secured: "9qBEN8/6oh6ZTEt2KwDRJnutC2lM/Er+x8UwDJv0NVbcGpsCJ55zgUvwVvExR2XpzqptNTe6FSNL6HP2IC8bW5xymdLYqgTmnYuVl9aK5M0i9/FmDfLOH5D4DR5cwV27Rg9g/V3Mi4rjPvyIPccoA0fvZvbpd385Hl/piqFo3fzUfiehC09WcV3Ure8lHemp5B+KutvUF4fohJ8oheK+Yns5yTRQgTKFRyJPNVDb02gP1UBOZPcaa8LEJHvhPVFLyWh2jTjZ+aGr0CLW4whFM8Pu/NPgHUfCwJlduLdhGs9RbPl6CvzUyYgrSCEQC0joB03wMgfra3Ysd89lWx52+bfaf2G737W8T3A1e0kO3qM=;aJvj1PmvXVUdBHhQHUnM4g=="
+secured: "WAKUNNECwByDG8+JnNdgHWw1zeKQYSpkYRGndcnt1ukqEwKFbPJLoHe/blvb1loYqYsUk+YPnInAb/esvGzfxbjRwOuTKIaEEIe+K/gL5WWAtE+0jqOFw2cDuB8p6vLz/cgiHZHLGoWuRMFypT1VhW5RGl4ge2wf2E81Vt7hi9v1A8eTNXC/Y3Z3Z8ZdU5SY/LFFqfX7hyvQVFoDD3CMkmmlV+svcvEbws7vcpLDkJX+Idi6sRqGjn23mJ9fjNsFM0zx/3zTJZm8heNP2kXVi7TImxLxJEqNm2eJsSpQbaJA3NNdKmhgbrcPqA8R8ThxJf4gGSqK268HqVAMV9yB5zNybgf/u+HJcjIVQFl6lAK1/RZyPcAOOQmHKvAHfivjUTvIZvgAB7LWw5yVucAM400RK2ijOMe0iFem3uX+TGfFo+w6Gp0uTar4V1bJgejSq9w65ChxG7gjuowgm2sZfyE9nsCr77W4FnGTfjnVC+9zGfPv27/dcYXEP8YwvIROd7kpyrrAIXJi1EGb3eXarA==;RbzWdR3M+CcedL75jw3wyA=="
 ---
 

@@ -165,6 +165,15 @@ related:
         width: 400
         height: 221
         isCached: true
+  - title: "Microsoft partners help businesses to adopt and deploy AI responsibly"
+    excerpt: "Eleven Microsoft partners are supporting their customers to implement responsible artificial intelligence systems, as part of the Microsoft Responsible AI Partner Initiative. Accenture, for example, has produced several research reports,"
+    publishedDateTime: 2023-11-10T13:51:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsoft-partners-help-businesses-to-adopt-and-deploy-ai-responsibly"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 36
   - title: "Amadeus and Microsoft Are Working on More AI Innovations — Here Are 3"
     excerpt: "Most recently, Amadeus revealed a new AI-powered retail system meant to make airline sales ... Everything will be hosted on the cloud-based Microsoft Azure system, set up in a way that gives clients easy access to real-time data that they can use to ..."
     publishedDateTime: 2023-11-07T20:44:00Z

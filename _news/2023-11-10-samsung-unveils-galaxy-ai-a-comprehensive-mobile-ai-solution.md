@@ -35,6 +35,20 @@ related:
         width: 1334
         height: 900
         isCached: true
+  - title: "New Artificial Intelligence Executive Order Contains Numerous Healthcare Implications"
+    excerpt: "President Joe Biden on Oct. 30, 2023, signed an executive order (EO) to establish the first set of standards for using artificial intelligence (AI) in healthcare and other industries. The EO seeks to find balance between managing potential risks of AI ..."
+    publishedDateTime: 2023-11-07T22:47:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-artificial-intelligence-executive-3104620/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 62
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14849_2738.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "iMerit Introduces Defect Detection Solution for Advanced Manufacturing and Warehouse Robotics AI Applications"
     excerpt: "Nov. 8, 2023 /PRNewswire/ -- iMerit, a leading artificial intelligence (AI) data solutions company, today introduced a new defect detection solution to accelerate AI development for advanced manufacturing and warehouse robotics applications. This new ..."
     publishedDateTime: 2023-11-08T13:01:00Z
@@ -73,6 +87,20 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/fe84c30/2147483647/strip/true/crop/2536x1331+0+42/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fa1%2F4d%2F1a18971e412596fddab27ed0cede%2Fscreen-shot-2023-11-03-at-4-34-58-pm.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Competition considerations featured in President Biden’s Executive Order on Artificial Intelligence"
+    excerpt: "On October 30, 2023, President Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. The Order, which recognizes AI’s extraordinary potential but also the substantial risks requiring ..."
+    publishedDateTime: 2023-11-08T14:59:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/competition-considerations-featured-in-1678317/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 23
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15723_926.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Retail tech startup offers an AI solution for pricing products"
     excerpt: "Retail tech startup Particl launched AI Copilot, a new product that helps customers identify both new and mispriced products, CEO Josh Wilson tells Axios. Why it matters: Retailers need sophisticated software to help them manage supply chains efficiently."

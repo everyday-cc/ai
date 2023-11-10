@@ -7,7 +7,7 @@ originalUrl: "https://www.gizbot.com/partner-content/bias-in-ai-how-to-reduce-bi
 webUrl: "https://www.gizbot.com/partner-content/bias-in-ai-how-to-reduce-bias-in-facial-recognition-systems-088279.html"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 660
         height: 437
         isCached: true
-  - title: "Facial recognition: Officials yet to meet obligation to seek views of Māori - documents"
-    excerpt: "Officials admit they have been using facial recognition to identify people for years without knowing if it distorts results for Māori. This is disclosed in memos about the powerful new Identity Check online verification system the government is developing ..."
-    publishedDateTime: 2023-11-06T00:49:00Z
-    webUrl: "https://www.stuff.co.nz/pou-tiaki/301003116/facial-recognition-officials-yet-to-meet-obligation-to-seek-views-of-mori--documents"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 11
 
 secured: "WKuK1DN8OWKO1ajmzaC8+7364wdd5dMR97pWnwtqffcXDJouuhjaT+ebUFXwo87xC0KZQrMw0b4AcvVkLZ/Tgny0kztHHXFfdeZfGjSpMp8BNQDAZuZg+llalPkCYzBlmbJ3qYS/RI0TA9fzesYnwbu/TfAPAl6Ye9ccfJ8u1U8BDRfKSDxrZcgtfe6428xO/qfIqst1b5uKbDhD84VoC3zny9asrQXNwXBThtyem04FvVna5r9ppZm9M8sFuMHzF0Dqj6KpVpLXA8JPiCSPrJpXNNeyKBFgAUx9l0absYFCJbaerkxa77hlLdOd0LW3SClYeZ+1TKoLgsMiNuLro2mIVQ/XApdm9OUG1M9A/bMQjL65kUz7ME3iwjX5BtwQwY4eICqkHdejvuoqkvrIr43wOUDSqLO02CqUP6wMnWIXOS5+QbSD04njwd7zkQcAIfhh/hZQl3LwJW9F4J78eg8y/VwezOvIlFQhAw9w3eE7mCHw48Y+q2zaK90XKkSiKHdq7eQQNOMJZyq8T5SCUg==;R1I6JcMeQLvPJjduud7UoA=="
 ---

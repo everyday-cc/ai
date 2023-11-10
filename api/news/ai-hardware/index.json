@@ -54,7 +54,7 @@
       "originalUrl": "https://dunyanews.tv/en/Technology/769258-Nvidia-plans-to-release-three-new-chips-for-China-",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -97,7 +97,7 @@
       "originalUrl": "https://www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -140,7 +140,7 @@
       "originalUrl": "https://www.tweaktown.com/news/94274/nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -288,7 +288,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 331,
+      "heat": 321,
       "tags": null,
       "images": [
         {
@@ -520,59 +520,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-ai-in-healthcare-four-key-directives-from-the-biden-administration.md",
-      "title": "AI In Healthcare: Four Key Directives From The Biden Administration",
-      "excerpt": "President Biden's Executive Order on AI aims to ensure the development and use of artificial intelligence are safe, secure, and trustworthy for healthcare",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/",
-      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 246,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6549b0e788cfbd6daa04c33f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/",
-      "publishedDateTime": "2023-11-06T19:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -1345,6 +1292,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-sk-hynix-cuts-losses-in-q3-on-higher-ai-memory-chip-sales.md",
+      "title": "SK hynix cuts losses in Q3 on higher AI memory chip sales",
+      "excerpt": "SK hynix posted an operating loss of 1.79 trillion won ($1.31 billion) in the third quarter, but the memory chip maker was able to reduce its deficit by focusing on high-priced and high-performance AI memory chips such as high-bandwidth memory (HBM),",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/10/129_361933.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/10/129_361933.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/336d93b73d2a4d70b2f47a9328f5ba29.jpg",
+          "width": 601,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361933",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361933",
+      "publishedDateTime": "2023-10-25T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
       ]
     }
   ],

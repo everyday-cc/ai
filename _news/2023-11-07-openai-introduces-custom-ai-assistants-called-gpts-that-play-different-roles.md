@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/11/openai-introd
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/amp/"
 type: article
 quality: 83
-heat: 193
+heat: 203
 published: true
 
 provider:
@@ -167,6 +167,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "OpenAI Data Partnerships announced for AI training with diverse global data"
+    excerpt: "OpenAI, a leading artificial intelligence research lab, has recently launched the OpenAI Data Partnerships program. This new initiative is designed to"
+    publishedDateTime: 2023-11-10T11:55:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-data-partnerships/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 17
 
 secured: "mKbihupkiupi1zvt0TVPbkAhxa/cuik+RoXu0+n3fIQTskV5qT1liPi9FB9pP8M7VOP28/Hlg3tMLMWQ//qdib0gbxWMlb+WJUoCTGjr9FcmxkCfftLCoxxBL147bHY422mhDAXrVuQhUJnXfj4OBnd20QPkMS89mtrI93XT/3wdQukyLQl47+6EN7Gw3Ep6JsAKFC3H2yVAzMZRs+Zb58jXmqm3PWL4AJTM7BKxya47T9MlUFXG0CeKNjT8HY0KppIxTEKfecAn0SPDjZsb/gApn+kFyo1jn8ac8DngFf2HUTuz0+XLbvmaavBCfsVFkHLcYDjMzO9TryT/G0XP6vyyPa+bW7EHQoquLBTQxbIH+fb9U3pZW6sT2pvRBdMFLk9WCWWG2zdHb5KyZ9XOM8k0pN6eK6pIKjHO202iqye01NyF9Pj+U7rragC9KK0mCkyowrLbFfFrnTY6gfOnBZnVKuq17TJkFchXqD1gj1pEZOlVTUc3tVe4imaLVtIKrmnaDoPpWZ20OiMAGOpu+A==;/U1UgfLmIozx6Eg0ZqwBUQ=="
 ---

@@ -87,6 +87,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Chevrolet recalls all self-driving Cruise Bolt cars"
+    excerpt: "Chevrolet has recalled all self-driving Cruise Bolt cars. The General Motors owned carmaker has requested the return of all of its 950 vehicles so that they can update the software following one of the cars dragging a pedestrian to the side of a San ..."
+    publishedDateTime: 2023-11-10T15:06:00Z
+    webUrl: "https://rollingout.com/2023/11/10/chevrolet-recalls-all-self-driving-bolt/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 24
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2023/11/1699535584cropped4508x2930-1.jpg"
+        width: 1000
+        height: 650
+        isCached: true
   - title: "Cruise Recalls All Self-Driving Cars Due to Unsafe Software Glitch"
     excerpt: "After General Motors’ self-driving car company Cruise suspended operations nationwide on Oct. 27 after facing a federal investigation into its cars’ safety, it announced this week that it’s recalling all of its remaining 950 vehicles for a software problem. That problem led to one of the company’s most harrowing crashes in San Francisco last month."
     publishedDateTime: 2023-11-09T22:18:00Z
@@ -111,6 +125,6 @@ related:
       domain: roadandtrack.com
     quality: 4
 
-secured: "uKXSlpFD6w5MD/CLQA0bjPbaaWrqxSkvzczPs4twcPxhsZxAPI/jA0TmpZbRf8dWPE1NIB1zNBg3ML9A7PWDXbJmX7m6g2D9/oRs/660kDMDB/LzSi2mCDh/5Rb7xp9mWqAOlb5GXFoEu1h7xpQO1hW6nPvI0dPB62Vb/cRuofTP5Zk5zaWQgqR3QiQyZqGASXnbTSkd+kRe1cn7WzlapNJef7lzYYtDSsEcSZGmBN2auNlv03g2aXJF7f1Qn/coUCLgTQzzF/Zj5Oq/gdSI2yeDsSYQY9wUPgbpYZHuUMCW4/xubIrg/SQdNrjl/CvDmTX3gtSlYag+P+yRCGsaHUmMAvGVp1V5Bi1peD9t9ms=;qYsJ/+Itm5iB5y7ZzTASRg=="
+secured: "3Ke3cA6hLU0SyBfW0vu7r+EQzDrAomxpaSnumZmz4vCIgARd9i3GW4aAuOpQbFtXKRpz2GxnnYn1LPvfaDOqaCIkCU1ZBUJJ7rvdihq8VaehE9WhTcgFVeYYB3q7q6/fMxP/u6KSTdgwl4mhFGRrdZNZuI9+q3B+e/yVvpyCnhpmcyBFqn6PYOaJHlZSIacdEoMDNRGlP1VFVHN7nvN0NAH7SkkTQ0NY2InVvqynfVr2X4asshBdlau2ebucNt+WW5SqglkB8sicIya/MDBj0b9bLqhad6nBMIk/JwZLM9zFmdUbwNVaPn8wSt62bEXjYqIWu5T24/Qml2BlVSjnNSNRJD43pPGSODoQLEKwi2KpdCcgZiWqlUH08zpdZXPnof8i0PZCbFZinrxtlQAyhhFmJujZvysfmKzKchBdDjUUFvxcg/qlt8ewuXJP+MHTbXP61XIo0OUQqNjby/v0CqVw8Y0f/MbpDLRZ1OPYPTy/b8ud3V1ldwHmeVDzvas12T3yUYxrFDH0rUG1j2Mm1A==;rItX4zy7922JH3brNhiX/Q=="
 ---
 

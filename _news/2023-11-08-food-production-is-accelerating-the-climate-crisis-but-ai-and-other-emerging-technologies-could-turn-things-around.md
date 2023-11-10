@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-emerging-tech-transforming-food-p
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-emerging-tech-transforming-food-production-2023-11?amp"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/11/07/mohamed-nohassi-tdu54w07_gw-unsplash.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The Interaction of the Internet of Things, AI and Machine Learning"
-    excerpt: "More and more devices can communicate without the need for human input thanks to the rise of the Internet of Things (IoT). You might have a home assistant device, such as an Amazon Echo or a Google Home,"
-    publishedDateTime: 2023-11-08T11:36:00Z
-    webUrl: "https://techbullion.com/the-interaction-of-the-internet-of-things-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 54
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Internet-of-things.jpg"
-        width: 466
-        height: 311
         isCached: true
   - title: "How teachers are utilizing, even embracing, AI in the classroom"
     excerpt: "Artificial intelligence has drawn a lot of attention lately. Between lawsuits and new legislation, there's no doubt a lot of questions surrounding the new technology. But some teachers are using it to their advantage."

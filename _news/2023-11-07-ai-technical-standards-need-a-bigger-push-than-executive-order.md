@@ -24,6 +24,36 @@ images:
     height: 740
     isCached: true
 
+related:
+  - title: "Biden Issues Executive Order on Artificial Intelligence"
+    excerpt: "President Biden recently issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence, which establishes the administration’s principles on artificial intelligence (AI) and requires or encourages executive ..."
+    publishedDateTime: 2023-11-10T15:34:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/biden-issues-executive-order-on-7275910/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 37
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15871_0103.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "U.S. Regulation of Artificial Intelligence: Presidential Executive Order Paves the Way for Future Action in the Private Sector"
+    excerpt: "On October 30, 2023, President Joe Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (Order) that addresses the responsible use of artificial intelligence (AI) by the federal government and ..."
+    publishedDateTime: 2023-11-06T17:58:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/u-s-regulation-of-artificial-6299985/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 9
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16013_5523.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+
 secured: "9hNcA5yQt3znO5+JU0p99e7AFnQ3lpsPjxbxTrSEf2k63mYhW+3CHlEpYf/DZiZjNSy5ywDgPr5JXJof0tbPPfvkv+9yVIqQlRrYTlNLNETjjV45Cg0auVNN+jjOWSvd0ypvwXtZQIOkCcPKqSqa7thXevTVkuwdjl+zCIZzwlqYeGl8nAiTNXxjqxqPmrwGS+E7tk9WsXuq9Xno3PWbPNtxqRHd8DT8+5mswuEBqYdcOuJSvVd18iaUatrwzT2+ACMnv10JCVWomD30HBCTSVUbHIfXrnI9pgQRppxDQFG2p5OFslgyJ8Y5dhPFtTm3M7Fxuc7MONFxUC3fqAJO5IFcdxFCmHrNgA6Pztxo/vUl+AzbwmbwxsIyOs6GzDRtwC18Na+RhtPLq8i1mWVLqwExhIfuzX5sTGeZ5AZq2NfhujXTYxN9GPqJf+PC2MGGekqv5SiMxITWKdo+fdqLK5gGPRdd1Su1qE79Va6PCYuRqU+HbJPB2pgo7k6rLn6rzfl2l/vyRhOQEIH54EpvRA==;0tHAQ7s1M+CF1VBtJ71Zhw=="
 ---
 

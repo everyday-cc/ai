@@ -1,28 +1,26 @@
 ---
 category: news
 title: "STEPIN, the K-Pop Dance AI Platform, Launches in Over 170 Countries Worldwide"
-excerpt: "Sidewalk Entertainment, an AI startup company based in Seoul, South Korea, has officially launched their K-Pop dance AI platform, STEPIN, across more than 170 countries worldwide, marking their significant entry into the international market."
-publishedDateTime: 2023-11-10T02:09:00Z
-originalUrl: "https://www.newswit.com/en/ifhmpdix3gr4zfog3ob16hk7eabplrey"
-webUrl: "https://www.newswit.com/en/ifhmpdix3gr4zfog3ob16hk7eabplrey"
+excerpt: "SEOUL, South Korea, Nov. 10, 2023 /PRNewswire/ -- Sidewalk Entertainment, an AI startup company based in Seoul, South Korea, has officially launched their K-Pop dance AI platform, STEPIN, across more than 170 countries worldwide, marking their significant entry into the international market."
+publishedDateTime: 2023-11-10T14:19:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/stepin-the-k-pop-dance-ai-platform-launches-in-over-170-countries-worldwide-1032806906"
+webUrl: "https://markets.businessinsider.com/news/stocks/stepin-the-k-pop-dance-ai-platform-launches-in-over-170-countries-worldwide-1032806906"
 type: article
-quality: 34
-heat: 34
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: academy
-  domain: newswit.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://www.newswit.com/storage/images/iqm9/0pr/1o52kso77571w9u4omwn51pm7/0-STEPIN.jpg.webp"
-    width: 800
-    height: 502
-    isCached: true
-
-secured: "iGxMsID+JE8YdEur/+Krw6lwc7qx13AK315s/B29I8G8WbOOdCixc+yT45IqWTJ+WpQr6vxAGwkePBCqwui0cDEft2FclPKeYiokmtiAhn341Ox7g2xv9+DWEoaxei02ek7tQ0j2YWlZGOP7Hr79jN/HjL2Yo26JgqTXD4fm9KQgcTn+2QvOwD89MY1nJw8pWfuH0Y6Ku0NSNM+PrZLTEqh5/2iFEmrLG4Aq1ibcqhKWtJqBPzVdrKKON7ESRgz/WTp06tgnODAApbNGnzOiGQIzEYrcQLF3fMHPZbrYiyT5sVf7Ow/pl5axARte3JFng5suBkajvgcXc3LaC9kjjAW5HXxIQFqM6qMdExHTwF0=;klmVfOUovXYOqyNfOu7LSg=="
+secured: "oQ4DgANQgh80BwCwMi7oedyy6seG+JlGbNiyvSUXza5LkBsSvlvAIluRkEiiaVrF7y609WHOGzW7BOpXsymsXtwhMme7BiTaAHo2NeY/LOk/65cFkUBhO33luqN+2A0cJae0yRw0zvnc68KJxDBSflUtr5OewbFzenCklUibKaWRwRcoseHpwUONXArzwgGQs6fLn4Soef3zEGhoGsii5kNBmGEC8YHShhRLk14dvjWmK0QWLjy4yChXosKyZyY2uSnIAQASVpOcj389eXiow7WscHqukcaWYRP5yVGX6N3Mdq2zVIqsKMUFq1VNM2tLKGsNBptJo0Q0OKuOSg+2BB1gQXbQwjB39duOPZwOiY6zlIqd9suCiBraCYHfdJAiBISYIWzLHeFq3X7Bomhx+1KHQJjwxo9uqlIZJMAZJ1EPs5C/ZYDkKwvODycybB72qGnzn+RiVExE5KN/TVCKysdIHD26Qv75xilXE898wBczLL6DIMSZGNGOhGpu61zqcr0+PQOStrNK/iSbRUEAPg==;YLcCFkGB/r2/xhRLb7v9Tw=="
 ---
 

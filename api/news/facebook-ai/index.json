@@ -2,29 +2,38 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-11-10-ai-alert-3-healthcare-stocks-that-are-investing-in-artificial-intelligence.md",
-      "title": "AI Alert: 3 Healthcare Stocks That Are Investing in Artificial Intelligence",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips We’re still in the initial stages of a massively disruptive artificial",
+      "path": "_news/2023-11-10-fei-fei-li-started-an-ai-revolution-by-seeing-like-an-algorithm.md",
+      "title": "Fei-Fei Li Started an AI Revolution By Seeing Like an Algorithm",
+      "excerpt": "Researcher Fei-Fei Li’s ImageNet project provided the feedstock for the deep learning boom that brought the world ChatGPT and other world-changing AI systems.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-alert-3-healthcare-stocks-that-are-investing-in-artificial-intelligence-1032802979",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-alert-3-healthcare-stocks-that-are-investing-in-artificial-intelligence-1032802979",
+      "webUrl": "https://www.wired.com/story/plaintext-fei-fei-li-ai-revolution-seeing-imagenet-algorithm/",
+      "originalUrl": "https://www.wired.com/story/plaintext-fei-fei-li-ai-revolution-seeing-imagenet-algorithm/",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/654d9e9d1315a4a8f6e5e17d/191:100/w_1280,c_limit/Fei-Fei-Li-Interview-Plaintext-Business-1052212916.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T16:12:00-08:00",
+      "publishedDateTime": "2023-11-10T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Wired",
+        "domain": "wired.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -41,8 +50,7 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {
@@ -263,7 +271,7 @@
       "originalUrl": "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 119,
       "tags": null,
       "images": [
         {

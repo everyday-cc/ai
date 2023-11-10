@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-10-ai-robotics-gpt-moment-is-near.md",
+      "title": "AI robotics’ ‘GPT moment’ is near",
+      "excerpt": "Building AI-powered robots that can learn how to interact with the physical world will enhance all forms of repetitive work.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/",
+      "originalUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/robustai.jpg?resize=1200,957",
+          "width": 1200,
+          "height": 957,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/amp/",
+      "publishedDateTime": "2023-11-10T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-ai-ethics-board-in-us-doj-would-advise-on-facial-recognition-deployment.md",
       "title": "AI ethics board in US DOJ would advise on facial recognition deployment",
       "excerpt": "Members would review legal and ethics compliance when using facial recognition and related algorithms for law enforcement.",
@@ -54,7 +108,7 @@
       "originalUrl": "https://www.gizbot.com/partner-content/bias-in-ai-how-to-reduce-bias-in-facial-recognition-systems-088279.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -550,33 +604,24 @@
     {
       "path": "_news/2023-10-30-lenskart-acquires-ai-based-computer-vision-startup-tango-eye.md",
       "title": "Lenskart acquires AI-based computer vision startup Tango Eye",
-      "excerpt": "With this acquisition, Lenskart plans to use visual artificial intelligence technology in improving store experience as well as its product experience. The company has also been an early investor in Tango, and the acquisition strengthens Lenskart's ...",
+      "excerpt": "New Delhi, Oct 30 (IANS) Lenskart on Monday announced the acquisition of Tango Eye, an AI-based computer vision startup. With this acquisition, Lenskart plans to use visual artificial intelligence ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937",
-      "originalUrl": "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937",
+      "webUrl": "https://glamsham.com/world/technology/lenskart-acquires-ai-based-computer-vision-startup-tango-eye",
+      "originalUrl": "https://glamsham.com/world/technology/lenskart-acquires-ai-based-computer-vision-startup-tango-eye",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/11/10/268663-sharemarketss.jpg?itok=n0eyjm4g",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp",
-      "publishedDateTime": "2023-10-30T02:52:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T03:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1199,58 +1244,6 @@
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/kevinkruse/2023/10/24/how-to-nourish-a-culture-of-recognition/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kevinkruse/2023/10/24/how-to-nourish-a-culture-of-recognition/amp/",
-      "publishedDateTime": "2023-10-24T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-stop-chasing-those-shiny-ai-objects-choosing-the-right-ai-for-you.md",
-      "title": "Stop Chasing Those Shiny AI Objects: Choosing The Right AI For You",
-      "excerpt": "With this baseline knowledge of how AI works, leaders are in a better position to make informed choices on the kind of AI that best meets their objectives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/stop-chasing-those-shiny-ai-objects-choosing-the-right-ai-for-you/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/stop-chasing-those-shiny-ai-objects-choosing-the-right-ai-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6536865debf36d9fb449e790/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 851,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/stop-chasing-those-shiny-ai-objects-choosing-the-right-ai-for-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/stop-chasing-those-shiny-ai-objects-choosing-the-right-ai-for-you/amp/",
       "publishedDateTime": "2023-10-24T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {

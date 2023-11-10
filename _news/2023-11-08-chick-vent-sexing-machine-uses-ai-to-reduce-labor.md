@@ -69,6 +69,20 @@ related:
         width: 1920
         height: 1024
         isCached: true
+  - title: "Detecting and preventing water leak damage using artificial intelligence"
+    excerpt: "Groundbreaking technology that uses AI to monitor water leaks and usage in commercial and residential buildings and on construction sites is significantly impacting dynamics in the builders’ risk and P&C markets."
+    publishedDateTime: 2023-11-10T15:19:00Z
+    webUrl: "https://www.insurancebusinessmag.com/us/news/technology/detecting-and-preventing-water-leak-damage-using-artificial-intelligence-466336.aspx"
+    type: article
+    provider:
+      name: insurancebusinessmag
+      domain: insurancebusinessmag.com
+    quality: 36
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/003/0343_638352262743418053.png"
+        width: 1000
+        height: 666
+        isCached: true
 
 secured: "4aHSj2h+3URxWov37xf9dv8CriDH8zW1FKg8nVTno/GkKYzsoiUs8+JpEX6vGy52jePk4Qk6TCcchijy2N0tXohoCrLevbxLhQ/qIWAOr4XEOd0aL5MEhk8iw3IhZe1PytPAYW1vI4OFOd08U1c5n2omsHhh/uVGFShwHix7sI9KqhUOpERWobNbJ/cL2nZilexcxpWeaupUoN0G70CIa0PTWjTJ81oCA2N4PTTWVDc9TOpPObl0/ZLE1LLXbyn9dI0sKQjZmWqPYpR3eWHtrpJDUYqLrpSQuvVIv0GbBsJfLCDyLTh1JRLikFF1UW6TCT3g2FNuCDTnOY0DJvdbHtEXR0EflVg1HXCDH84zDAc=;6/zwB6aqVUzLulM9l0+qBA=="
 ---

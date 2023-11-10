@@ -32,15 +32,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Unlock the power of generative AI with intelligent automation"
-    excerpt: "AI that's integrated into automation technology is referred to as “intelligent automation,” which helps businesses put generative AI to work.\nThe post Unlock the power of generative AI with intelligent automation appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-11-07T14:00:00Z
-    webUrl: "https://www.ibm.com/blog/unlock-the-power-of-generative-ai-with-intelligent-automation/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
   - title: "Building for the future: The enterprise generative AI application lifecycle with Azure AI"
     excerpt: "The enterprise development process requires collaboration, diligent evaluation, risk management, and scaled deployment. By providing a robust suite of capabilities supporting these challenges, Azure AI affords a clear and efficient path to generating value in your products for your customers.\nThe post"
     publishedDateTime: 2023-11-06T17:00:00Z

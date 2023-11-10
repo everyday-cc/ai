@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Brazilian Data Protection Authority opens a call for contribution for its Regulatory Sandbox for Artificial Intelligence and Data Protection"
+    excerpt: "The information obtained during the Consultation resulted in the publication of a technical study entitled \"Regulatory sandbox for artificial intelligence and data protection in Brazil\" (the “Study”). The creation of this sandbox marks an important ..."
+    publishedDateTime: 2023-11-10T16:31:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/brazilian-data-protection-authority-8730855/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 2
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15723_926.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "Uhc0+EHJxIJoKUlnRLsPxWiIOq4aidyWtNmkxFv79iavKb9TPX718jO8Mh72+CuGW4wgXhzwFbrZfFSpYHLDgy/2vysNhAVYcHRCQizcDL+awtlPz8gRKYmv54apx533i1pGlE1bRQ+G0PIe7bioiu1wCjvHZeDdAoDPAKI6Jrh9bRYRWqUpZCAf7ru66dAKi0a6m5MBjr8lsfEV9X1HhmiOTBkBQ8JC+/7E7Z4zbRf3zaAaz/HWkdPjfbi6IQas4FKtZtMfKywkxNp0A4JHA5lLkEcKH/tV7gIeAEPn5UM+NhyL/o8XrauU2mGm91QmO6Ly6/wCJuQyJoRkxZ8OBUdJeLEGsJyxbqPwhae8cmg=;EfNv6BWl7LI5NBAHF5gHjA=="
 ---

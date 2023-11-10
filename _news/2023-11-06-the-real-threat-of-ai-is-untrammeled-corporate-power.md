@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 2121
         height: 1413
         isCached: true
-  - title: "Unleashing the Power of AI in the Internet of the Future"
-    excerpt: "The Internet of the future is set to be a dynamic and transformative force, with artificial intelligence (AI) poised to play a central role. The integration of AI into the fabric of the Internet promises to unlock new realms of innovation,"
-    publishedDateTime: 2023-11-07T12:31:00Z
-    webUrl: "https://techbullion.com/unleashing-the-power-of-ai-in-the-internet-of-the-future/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
   - title: "These Top Companies are Transforming Real Estate with the Help of AI"
     excerpt: "Artificial intelligence (AI) is quickly transforming just about every industry, including real estate. In fact, “AI has enormous potential to reshape real estate, with near- and long-term impacts ranging from the emergence of new markets and asset"
     publishedDateTime: 2023-11-08T14:15:00Z
@@ -76,15 +67,6 @@ related:
     provider:
       name: BayStreet
       domain: baystreet.ca
-    quality: 19
-  - title: "These Top Companies are Transforming Real Estate with the Help of AI"
-    excerpt: "“We believe their expansive network of banks and first-in-class AI enabled fintech platform will help drive referrals to our brokers. In addition, our agreement with Janover builds on our track record and growing brand recognition within the residential ..."
-    publishedDateTime: 2023-11-09T00:14:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/O-N/pressreleases/21824810/these-top-companies-are-transforming-real-estate-with-the-help-of-ai/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
     quality: 19
 
 secured: "PXUHbF1LH4C5Z4mNMJIJika4g7kJ/ylyQ0NHGjj4u0SuqUsW2KUAZV/m+9c7Jx67eRx1ekFCri8a4s31Rs5y98X1kCO/cLEj3XZ3Y+FgDrX3A0D3QHvtQR6D355BrWPVLHfUXo+/fZpJqR49sGMA6/IcN3IK3uti22ogj/p+o4D4WgFl4Hcc1c0W5+vMJ6fQr0arOMHJmYyEneFl7zY8s4xMSZjuXvW1rkwp3665kywnscoIsGmSRsK7nJUCvwol5kk+UCmbUZ5QdBn5za5QxgNMt717AWSKVGl2EBRlzIoUmNJVSc94P1hHdU9fU3LK3Qx4zk7vTZgnLk7DqQHaOGmb65q4m814G3x/dmpklibralRwdqs9YLcimci0BCuHM4ZLZIINXgP2eIDMb3J2u5W5NrgsWuMVeGpZFCLbICJ1Op5ZXMdQ6l/R5TokEmDmXl4kDOuHOhqQZPSjQx9ivC/AStIZtlUcFmVtdCEGKQZ9GlA1rgceQ1/e9A4pDsxe9LlODZdr+on2ZWzgPglLjw==;dLgsMYBpCwEw+0KHTQ4QXw=="

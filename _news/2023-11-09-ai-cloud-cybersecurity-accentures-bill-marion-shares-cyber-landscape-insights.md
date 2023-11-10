@@ -41,15 +41,6 @@ related:
         width: 1575
         height: 900
         isCached: true
-  - title: "Fulbright Scholar Discusses the Duality of AI in Cybersecurity in School of Continuing Studies Seminar"
-    excerpt: "The Georgetown School of Continuing Studies (SCS) hosted Gayan Benedict, the Chief Technology Office of Salesforce Australia and New Zealand and Fulbright Scholar at the Georgetown University Cyber SMART research collaborative,"
-    publishedDateTime: 2023-11-06T00:07:00Z
-    webUrl: "https://thehoya.com/fulbright-scholar-discusses-the-duality-of-ai-in-cybersecurity-in-school-of-continuing-studies-seminar/"
-    type: article
-    provider:
-      name: The Hoya
-      domain: thehoya.com
-    quality: 3
 
 secured: "ulfO9w9dg5LPbgxWGTdvxTcLBGGhSlOF4oUo7AQnFLPW7JUDLz9COEXx1NxKbCQQczx5LvUIz5gcj/GOOlzzNzW6SwznV/DPDHCbT43BcsSAarHDirCyMI6Fqdbe/Y+eLlE0kL6mqtjs8m6s067TIWYiEkGgSJrPX7Nc8sa86IyDSixv4Aqni9ooAvnRDmpAHyV0Y02efosMb5b5MuWO71emKG9Yk0HPub4ro6AMkopkmIbGFOIJKM90+Acl4rswFPAA0CMf1LXJwK8FNU+fgwPEnKN9TlyNTST1AfGhd4cy6lTgp90X/lPd/+0Vkhty3T/YXwPzcR/tT0cwKOiZ4Bei2Pei/h6itQRdvYdPvU1WbHrjDLg6lZvCIVpN0gjKGABvFbPrrGNEc7+uOIrOJrez0dI6WdPZzetzHbzbR/b+7Wz2kqolo/h/deq+FMnJCALUHysHSaKSTaksh5cLdRSfgWEjSHCgmRR6/ZGgJhdgXtH673rE8oIwVUPzD92pGMcb078xiR6goL1DAggZLw==;v5VjLHY11QjRiFrtxWIhOA=="
 ---

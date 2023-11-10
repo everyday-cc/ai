@@ -53,15 +53,6 @@ related:
         width: 700
         height: 336
         isCached: true
-  - title: "Facial recognition: Officials yet to meet obligation to seek views of Māori - documents"
-    excerpt: "Officials admit they have been using facial recognition to identify people for years without knowing if it distorts results for Māori. This is disclosed in memos about the powerful new Identity Check online verification system the government is developing ..."
-    publishedDateTime: 2023-11-06T00:49:00Z
-    webUrl: "https://www.stuff.co.nz/pou-tiaki/301003116/facial-recognition-officials-yet-to-meet-obligation-to-seek-views-of-mori--documents"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 11
 
 secured: "nguo6PVjVXMPDBmuTAShmj82maVwWiTncV+1c9CWrWP4xFIfGbLLvM4EetKSqafvcxvI27TfCbxL6BXMYWrkwspW3S8QWihjrFr1Ym7LcnD1TbpYvjB7sk2kHHRxbN+JuoUyGbfR/wC9wqjkdZps+3FDDZObEsEKoyy+G9yp2Yd4oKp1aUZlYKI41F4wTSWJdM7zAfc2NU8zQOQpRtzFLnYj+9FkaK05GACCLlN0cg8hazC7KlNIk1q0JIpScXJ20roBwSv+7Ec4cFNj1y/AHYXxoixPeFS3jYEVV/Ty5Ks3aXxqOdvXCQGFJVDrtGoHb69pPoiOpsEgX+HjtlJq/ltJ3Yh/eN3T6P2aIwn8V0U=;pH2OM9YtKgeMNczaIPzq2g=="
 ---

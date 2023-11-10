@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/11/06/ai-in-healthcare-four-key-directives-from-the-biden-administration/amp/"
 type: article
 quality: 106
-heat: 246
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -32,6 +32,42 @@ images:
     isCached: true
 
 related:
+  - title: "Reducing administrative burden in the healthcare industry with AI and interoperability"
+    excerpt: "IBM has developed a comprehensive strategy to guide our healthcare clients in driving value through real end-to-end digital transformation.\nThe post Reducing administrative burden in the healthcare industry with AI and interoperability appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-10T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/reducing-administrative-burden-in-the-healthcare-industry-with-ai-and-interoperability/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 108
+  - title: "Unlock the power of generative AI with intelligent automation"
+    excerpt: "AI that's integrated into automation technology is referred to as “intelligent automation,” which helps businesses put generative AI to work.\nThe post Unlock the power of generative AI with intelligent automation appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-07T14:00:00Z
+    webUrl: "https://www.ibm.com/blog/unlock-the-power-of-generative-ai-with-intelligent-automation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "AI Alert: 3 Healthcare Stocks That Are Investing in Artificial Intelligence"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips We’re still in the initial stages of a massively disruptive artificial"
+    publishedDateTime: 2023-11-10T00:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-alert-3-healthcare-stocks-that-are-investing-in-artificial-intelligence-1032802979"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+  - title: "How the semiconductor industry is leveraging high-performance computing to drive innovation"
+    excerpt: "As enterprises look to solve their most complex challenges, IBM will continue to deliver clients an integrated solution across critical components.\nThe post How the semiconductor industry is leveraging high-performance computing to drive innovation appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-10T14:42:28Z
+    webUrl: "https://www.ibm.com/blog/how-the-semiconductor-industry-is-leveraging-high-performance-computing-to-drive-innovation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 72
   - title: "Ethical Considerations in AI-Driven Healthcare"
     excerpt: "There are a number of ethical concerns relating to the collection and handling of patient data in AI-driven healthcare. For example, the confidentiality and security of patient information must be ensured to protect patients from the negative impacts of data breaches and unauthorized access."
     publishedDateTime: 2023-11-06T14:06:00Z
@@ -46,19 +82,35 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "New Artificial Intelligence Executive Order Contains Numerous Healthcare Implications"
-    excerpt: "President Joe Biden on Oct. 30, 2023, signed an executive order (EO) to establish the first set of standards for using artificial intelligence (AI) in healthcare and other industries. The EO seeks to find balance between managing potential risks of AI ..."
-    publishedDateTime: 2023-11-07T22:47:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/new-artificial-intelligence-executive-3104620/"
+  - title: "Intel invests in generative AI startup Stability AI"
+    excerpt: "Generative AI startup Stability AI has received funding from Intel Corp after struggling for the past few months. The startup became a unicorn last year."
+    publishedDateTime: 2023-11-10T11:36:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/intel-invests-in-generative-ai-startup-stability-ai/article67521148.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/intel-invests-in-generative-ai-startup-stability-ai/article67521148.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/intel-invests-in-generative-ai-startup-stability-ai/article67521148.ece/amp/"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 62
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14849_2738.jpg"
-        width: 1200
-        height: 900
+      - url: "https://th-i.thgim.com/public/news/international/v4jy2u/article36938450.ece/alternates/FREE_320/FILE-PHOTO-Security-officers-keep-watch-in-front-of-an-AI-Artificial-Intellige"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "Unraveling 2024’s transformative trends with AI taking over healthcare"
+    excerpt: "Here are the 10 Transformative Trends to Watch in 2024! Predictive Analytics: AI is refining the foresight in healthcare, predicting patient outcomes with increasing accuracy – a transformative tool for preemptive care."
+    publishedDateTime: 2023-11-10T10:23:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/features/Unraveling-2024-s-transformative-trends-with-AI-taking-over-healthcare-1878590"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 56
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/195/19566337.jpg"
+        width: 600
+        height: 431
         isCached: true
   - title: "AI in Healthcare: Transforming the Industry in 2024"
     excerpt: "Introduction Artificial Intelligence (AI) has been making waves across various industries, and healthcare is no exception. In 2024, AI is poised to revolutionize the healthcare industry in ways we could have never imagined."
@@ -88,44 +140,19 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "WHO Offers Recommendations for AI Guidelines in Healthcare"
-    excerpt: "Experts emphasize the importance of training AI systems on reliable data and of checking the systems’ safety and efficacy."
-    publishedDateTime: 2023-11-08T18:24:00Z
-    webUrl: "https://www.medscape.com/viewarticle/998216"
+  - title: "The Interaction of the Internet of Things, AI and Machine Learning"
+    excerpt: "More and more devices can communicate without the need for human input thanks to the rise of the Internet of Things (IoT). You might have a home assistant device, such as an Amazon Echo or a Google Home,"
+    publishedDateTime: 2023-11-08T11:36:00Z
+    webUrl: "https://techbullion.com/the-interaction-of-the-internet-of-things-ai-and-machine-learning/"
     type: article
     provider:
-      name: Medscape
-      domain: medscape.com
+      name: Impacts
+      domain: techbullion.com
     quality: 54
     images:
-      - url: "https://img.medscape.com/thumbnail_library/gty_231108_ai_guidelines_medical_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "AI Advancements In Healthcare: Promise, Progress And Pitfalls"
-    excerpt: "AI has raised questions about the need for ongoing training and education for healthcare professionals to effectively utilise these tool."
-    publishedDateTime: 2023-11-10T03:31:00Z
-    webUrl: "https://inc42.com/resources/ai-advancements-in-healthcare-promise-progress-and-pitfalls/"
-    ampWebUrl: "https://inc42.com/resources/ai-advancements-in-healthcare-promise-progress-and-pitfalls/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/ai-advancements-in-healthcare-promise-progress-and-pitfalls/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 54
-  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
-    excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
-    publishedDateTime: 2023-11-06T06:08:00Z
-    webUrl: "https://www.inferse.com/785317/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 52
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-3967.png"
-        width: 900
-        height: 600
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Internet-of-things.jpg"
+        width: 466
+        height: 311
         isCached: true
   - title: "Policymakers Must Balance Innovation With Patient Safety for AI in Healthcare"
     excerpt: "When it comes to artificial intelligence (AI) in healthcare, policymakers must balance innovation with potential harms to patients and healthcare workers, lawmakers and witnesses said during a Senate hearing Wednesday."
@@ -141,6 +168,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Stability AI Gets Intel Backing in New Financing"
+    excerpt: "Stability AI has raised new financing led by chipmaker Intel Corp., according to people familiar with the matter — a cash infusion that arrives at a critical time for the company."
+    publishedDateTime: 2023-11-09T20:26:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-11-09/stability-ai-gets-intel-backing-in-new-financing"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
   - title: "Biden Administration Issues Sweeping Executive Order on Artificial Intelligence"
     excerpt: "The Biden Administration issued a sweeping Executive Order directing a broad set of government actions addressing consumer harms, discrimination, privacy protections and other issues stemming from the widespread use of artificial intelligence. While the ..."
     publishedDateTime: 2023-11-06T17:37:00Z
@@ -155,29 +191,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Biden’s Safeguards Against Artificial Intelligence"
-    excerpt: "Joe Biden, this Monday October 30, has signed an executive order to restrict the use of artificial intelligence (AI).  Recently, there has been a rapid development of artificial intell"
-    publishedDateTime: 2023-11-09T08:35:00Z
-    webUrl: "https://www.davisvanguard.org/2023/11/bidens-safeguards-against-artificial-intelligence/"
-    type: article
-    provider:
-      name: Davis Vanguard
-      domain: davisvanguard.org
-    quality: 32
-  - title: "Competition considerations featured in President Biden’s Executive Order on Artificial Intelligence"
-    excerpt: "On October 30, 2023, President Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. The Order, which recognizes AI’s extraordinary potential but also the substantial risks requiring ..."
-    publishedDateTime: 2023-11-08T14:59:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/competition-considerations-featured-in-1678317/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 23
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15723_926.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Better Patient Care and Operational Success: Seven Ways to Benefit From Generative AI in Healthcare"
     excerpt: "Generative artificial intelligence (AI) has been the latest disruptor for many industries, quickly becoming widely used by companies that run the gamut. However, given the sensitive data and importance of privacy in the healthcare industry, its use there ..."
     publishedDateTime: 2023-11-08T20:16:00Z
@@ -187,34 +200,42 @@ related:
       name: MedCity News
       domain: medcitynews.com
     quality: 20
-  - title: "OMB Releases Implementation Guidance Following President Biden’s Executive Order on Artificial Intelligence"
-    excerpt: "President Biden signed a landmark Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. As the United States takes action to realize the tremendous promise of AI while managing its risks,"
-    publishedDateTime: 2023-11-06T20:01:00Z
-    webUrl: "https://www.hstoday.us/federal-pages/dhs/omb-releases-implementation-guidance-following-president-bidens-executive-order-on-artificial-intelligence/"
+  - title: "Unleashing the Power of AI in the Internet of the Future"
+    excerpt: "The Internet of the future is set to be a dynamic and transformative force, with artificial intelligence (AI) poised to play a central role. The integration of AI into the fabric of the Internet promises to unlock new realms of innovation,"
+    publishedDateTime: 2023-11-07T12:31:00Z
+    webUrl: "https://techbullion.com/unleashing-the-power-of-ai-in-the-internet-of-the-future/"
     type: article
     provider:
-      name: Homeland Security Today
-      domain: hstoday.us
+      name: Impacts
+      domain: techbullion.com
     quality: 19
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2023/11/technology-3435575_1280.jpg"
-        width: 1280
-        height: 802
-        isCached: true
-  - title: "U.S. Regulation of Artificial Intelligence: Presidential Executive Order Paves the Way for Future Action in the Private Sector"
-    excerpt: "On October 30, 2023, President Joe Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (Order) that addresses the responsible use of artificial intelligence (AI) by the federal government and ..."
-    publishedDateTime: 2023-11-06T17:58:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/u-s-regulation-of-artificial-6299985/"
+  - title: "The impact of artificial intelligence on the coffee industry"
+    excerpt: "GCR explores how AI is helping businesses save time and money, and why it’s not necessarily something to fear."
+    publishedDateTime: 2023-11-08T21:43:00Z
+    webUrl: "https://www.gcrmag.com/the-impact-of-artificial-intelligence-on-the-coffee-industry/"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 9
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16013_5523.jpg"
-        width: 1200
-        height: 900
-        isCached: true
+      name: gcrmag.com
+      domain: gcrmag.com
+    quality: 19
+  - title: "These Top Companies are Transforming Real Estate with the Help of AI"
+    excerpt: "“We believe their expansive network of banks and first-in-class AI enabled fintech platform will help drive referrals to our brokers. In addition, our agreement with Janover builds on our track record and growing brand recognition within the residential ..."
+    publishedDateTime: 2023-11-09T00:14:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/O-N/pressreleases/21824810/these-top-companies-are-transforming-real-estate-with-the-help-of-ai/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 19
+  - title: "Top 8 Generative AI Jobs in India"
+    excerpt: "Currently, there's a widespread trend of enhancing capabilities in generative AI across startups and major tech companies, leading to the creation of new positions specifically for experts in LLMs."
+    publishedDateTime: 2023-11-09T12:27:00Z
+    webUrl: "https://analyticsindiamag.com/top-8-generative-ai-jobs-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "t7M0I5NLiFvXx7d/A7p3dtcD7d+Kjlf2sZf5CFqD+bR3wnTBqRj+yYpP1N9OOw9Z7xdbbhqFBDJ8Shqb1T4hKaCDLeczcFrPMjV19dQJ1cyf8ynyl4yt0h4/JADt8FdDkbOn6oRPQ2ShgIppG7Jho+nG654aEftL+UMLZFC00qwgevne5mU6q1dqBKfHRA7KcJ2c89MVqLPSs52rYdi+VGMa+0xvZfrniOfm6Vg/v7Nm5e67ah7OgrqqdLJWPVpPdQ1twZRWjKBx87toA+NW3hYzhDOXiYRVq+W7s8nX/b0I8aT8UJKIePUWG7iB0cJjpujFe6nwnL9VYpdSWtTDpH4a/sFfl6yKwRlGbudspg2NlCdo+kM3Ec3ou2LMT/jem1Ni1YwTfbVLmxFaoAt2rNk8XWKzIKassnoGZmk3E75xr8+MVnOCz7t9TVNcGpxxpVhiisbAjJ1W6y0nlaB4PZ27aZQAJ0hSVZmft4Y9PFx8YNzk532kn7Zj0YeIhYhZBd8CePpMsjDP0vcjvt3uKg==;bmU6gkmmPeuWoKeFQGKY5A=="
 ---

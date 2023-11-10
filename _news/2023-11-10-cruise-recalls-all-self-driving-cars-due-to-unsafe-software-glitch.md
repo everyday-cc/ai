@@ -101,6 +101,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Chevrolet recalls all self-driving Cruise Bolt cars"
+    excerpt: "Chevrolet has recalled all self-driving Cruise Bolt cars. The General Motors owned carmaker has requested the return of all of its 950 vehicles so that they can update the software following one of the cars dragging a pedestrian to the side of a San ..."
+    publishedDateTime: 2023-11-10T15:06:00Z
+    webUrl: "https://rollingout.com/2023/11/10/chevrolet-recalls-all-self-driving-bolt/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 24
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2023/11/1699535584cropped4508x2930-1.jpg"
+        width: 1000
+        height: 650
+        isCached: true
   - title: "Cruise Recalls 950 Self-Driving Cars After Pedestrian Collision"
     excerpt: "GM-owned Cruise announced a voluntary recall of 950 of its self-driving vehicles on Wednesday to fix issues with its collision detection system. The recall comes just over a month after a crash where one of its cars struck and dragged a pedestrian while ..."
     publishedDateTime: 2023-11-08T21:54:00Z

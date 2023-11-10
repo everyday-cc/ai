@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -142,15 +142,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "AI and the Erosion of Human Cognition"
-    excerpt: "The intersection of AI and human cognition is as much about philosophy and ethics as it is about technology. If history is any guide, every significant technological advancement brings with it societal trepidation. The printing press, electricity ..."
-    publishedDateTime: 2023-11-05T21:41:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202311/ai-and-the-erosion-of-human-cognition"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 19
 
 secured: "eFxghgE44c8BqnRGCVVH51rD6RC8NRN59mSy4HSqwQaAQIMPVfndHqCA5DNJNU3oveAkfHBZ0ZL4A5fCdOOHFQOkGNtJm2oiarKdWCou0cXGrx+8uk1LY0OZd12/xLzz0ObpqoQB2xGNMvfvf4L0m5/ZojoZRiKA9FS5gvzhdVUEJMsLpZPQWa499KmZ51nj8HRoIPZ/Mb27qb9zdrXp85S6x8/B8zLK1L9k7/4vBozfaL1dwuWUcZEjVVgXq+Iysig6k+vM+CrVWR91HEYvtfMVLUkPfBMy2KiZaGSNA/QkVnGJc2w/Z1jK9UWO13I60JoyDCO+W0Sf0eyAp2wZ1Ovz5jOhnjSOspR3J+1kTvk=;FY8+DyF1ErHwJQDWdj56UA=="
 ---

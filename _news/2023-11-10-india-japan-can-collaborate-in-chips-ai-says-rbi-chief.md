@@ -72,15 +72,6 @@ related:
       name: SiliconIndia
       domain: siliconindia.com
     quality: 33
-  - title: "Top 8 Generative AI Jobs in India"
-    excerpt: "Currently, there's a widespread trend of enhancing capabilities in generative AI across startups and major tech companies, leading to the creation of new positions specifically for experts in LLMs."
-    publishedDateTime: 2023-11-09T12:27:00Z
-    webUrl: "https://analyticsindiamag.com/top-8-generative-ai-jobs-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "U+jF4lRyqkMGFnYGyaMNM78AqpSQaUIhZNS8GCZLKL+G3r/EnnWLCmv9mBcRtfAS2Gg6zFjODDTVgXX8uMjTBiGI1JFWCpOdsGJy32MMgSAPan2yERlG8Bwe9fdIOL+Lg5LhPw6oomJQ+20Hchom3zlVMkPBG0arNQtVhU78WfWtPwh+eWquFZL24UBAhco1I7Xn00ZMo8gYxKgGo1PMkp9omTXNHrAS2/7BkqODQm9K3Sf9VHlsa/m5wRrg4Uxj58RgGypcUobSAXpnZFq0qN1Wgima1lGqgU94Mncg422ZJFO/ldn8F451EN7T5pyyXfkc2LujmKCbiTeVqXsf01oHnppFNoIrTRL+v0Lcz7Z6SxQ7EPfNkSsvDRpHITredVTt77nRRrSOoChFOwIWAgkdOJniwoK3nOzAtzx0wbstA2J9mPY7/frrQdlGFgo9bJy0JkMG1FnYrVKY8pNHhVq7m6H8w8WUpNdv3mnAV7/iaw170ZF2hVlPdhvjbEjE8Q77LqxqC6g8/HvbwD2LJQ==;5cRFTc05MybGzrXAzgwoiA=="
 ---

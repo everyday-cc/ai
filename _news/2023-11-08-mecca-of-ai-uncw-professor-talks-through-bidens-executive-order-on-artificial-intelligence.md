@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "OMB Releases Implementation Guidance Following President Biden’s Executive Order on Artificial Intelligence"
+    excerpt: "President Biden signed a landmark Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. As the United States takes action to realize the tremendous promise of AI while managing its risks,"
+    publishedDateTime: 2023-11-06T20:01:00Z
+    webUrl: "https://www.hstoday.us/federal-pages/dhs/omb-releases-implementation-guidance-following-president-bidens-executive-order-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 19
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2023/11/technology-3435575_1280.jpg"
+        width: 1280
+        height: 802
+        isCached: true
   - title: "Biden executive order forces AI companies to share safety test results with government"
     excerpt: "WASHINGTON - President Joe Biden signed a sweeping new executive order Monday targeting artificial intelligence in his administration's most aggressive move to date to confront growing concerns ..."
     publishedDateTime: 2023-11-07T10:04:00Z

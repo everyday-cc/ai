@@ -40,6 +40,20 @@ related:
         width: 1334
         height: 900
         isCached: true
+  - title: "New Artificial Intelligence Executive Order Contains Numerous Healthcare Implications"
+    excerpt: "President Joe Biden on Oct. 30, 2023, signed an executive order (EO) to establish the first set of standards for using artificial intelligence (AI) in healthcare and other industries. The EO seeks to find balance between managing potential risks of AI ..."
+    publishedDateTime: 2023-11-07T22:47:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-artificial-intelligence-executive-3104620/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 62
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14849_2738.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "iMerit Introduces Defect Detection Solution for Advanced Manufacturing and Warehouse Robotics AI Applications"
     excerpt: "Nov. 8, 2023 /PRNewswire/ -- iMerit, a leading artificial intelligence (AI) data solutions company, today introduced a new defect detection solution to accelerate AI development for advanced manufacturing and warehouse robotics applications. This new ..."
     publishedDateTime: 2023-11-08T13:01:00Z
@@ -64,6 +78,20 @@ related:
       - url: "https://s.abcnews.com/images/US/wirestory_f51f9573e3ced729a277c6817f45ffd8_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Competition considerations featured in President Biden’s Executive Order on Artificial Intelligence"
+    excerpt: "On October 30, 2023, President Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. The Order, which recognizes AI’s extraordinary potential but also the substantial risks requiring ..."
+    publishedDateTime: 2023-11-08T14:59:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/competition-considerations-featured-in-1678317/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 23
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15723_926.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Samsung unveils Galaxy AI, a comprehensive mobile AI solution"
     excerpt: "Samsung says its Galaxy AI will give users an on-device artificial intelligence experience that they haven't seen anywhere before."

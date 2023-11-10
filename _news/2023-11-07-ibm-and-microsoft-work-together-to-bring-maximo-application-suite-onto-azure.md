@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-
 webUrl: "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-maximo-application-suite-onto-azure/"
 type: article
 quality: 131
-heat: 261
+heat: 271
 published: true
 
 provider:
@@ -161,6 +161,15 @@ related:
         width: 400
         height: 221
         isCached: true
+  - title: "Microsoft partners help businesses to adopt and deploy AI responsibly"
+    excerpt: "Eleven Microsoft partners are supporting their customers to implement responsible artificial intelligence systems, as part of the Microsoft Responsible AI Partner Initiative. Accenture, for example, has produced several research reports,"
+    publishedDateTime: 2023-11-10T13:51:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsoft-partners-help-businesses-to-adopt-and-deploy-ai-responsibly"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 36
   - title: "Trimble Introduces AI-Powered Capability to Automatic Invoicing Functionality with Microsoft Azure"
     excerpt: "Automatic Invoicing is available within Trimble's ERP solutions, Viewpoint Spectrum® and Viewpoint Vista™. To learn more about how Automatic Invoicing can save your organization both time and accuracy, visit https://www.viewpoint.com/ ."
     publishedDateTime: 2023-11-06T11:44:00Z

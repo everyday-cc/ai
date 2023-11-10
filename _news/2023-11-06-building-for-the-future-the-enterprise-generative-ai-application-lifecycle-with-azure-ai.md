@@ -38,15 +38,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Unlock the power of generative AI with intelligent automation"
-    excerpt: "AI that's integrated into automation technology is referred to as “intelligent automation,” which helps businesses put generative AI to work.\nThe post Unlock the power of generative AI with intelligent automation appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-11-07T14:00:00Z
-    webUrl: "https://www.ibm.com/blog/unlock-the-power-of-generative-ai-with-intelligent-automation/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
   - title: "Transforming small farming with open-source, AI-powered connected edge solutions"
     excerpt: "Edge computing is helping to revolutionize agriculture, and the Linux Foundation is at the forefront of this transformation.\nThe post Transforming small farming with open-source, AI-powered connected edge solutions appeared first on IBM Blog.\n"
     publishedDateTime: 2023-11-09T13:00:00Z

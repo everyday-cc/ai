@@ -1,23 +1,27 @@
 ---
 category: news
 title: "BeyondEdge Announces the First Unified Orchestration Platform for Generative AI Ethernet Fabrics"
-excerpt: "Generative AI network fabrics are designed and built in a distinctive way that differs from traditional and high-performance data center network infrastructures. The combination o"
+excerpt: "Combining hyper-automation and IBN to facilitate the design, deployment, and ongoing operations of generative AI data center and cloud"
 publishedDateTime: 2023-11-09T13:30:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9914997.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9914997.htm"
+originalUrl: "https://markets.businessinsider.com/news/stocks/beyondedge-announces-the-first-unified-orchestration-platform-for-generative-ai-ethernet-fabrics-1032800513"
+webUrl: "https://markets.businessinsider.com/news/stocks/beyondedge-announces-the-first-unified-orchestration-platform-for-generative-ai-ethernet-fabrics-1032800513"
 type: article
-quality: 6
-heat: 6
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "dDgVo6UMWaa2hr1gjBIcBPB8d1keNWLp+PKUKgFzyC+f96Wyup5sCUZb9JUocv5lJU8W+/ulj3BXge7k2rjxpxp0ldzS9coh/zWAG0M8T7dN4vwb8F7PzRm+P6iAZ05Whv337nHPRzBH+8BCV69rRp/rD5lOM/kmrOZ4giNRdpAXIKipJm1JDEqYwoYog9tDxLoDhOwGt6Nxm19A/rQ7FA6pKejwhnAGZKWsX2GiEN92xZMyumRvKwzIDNfB4yZrc3/P1VRBFpQbUBdGmAkblByCFZNGL8GAjB6Yhpcx3JbIvkBDXwzYQeciuMrD3ZkG2GeIp+3dko8jAKQqggt4m7z9K1Yypldb29ZV+mFL6Sg=;cG3LZZ1lqZXC54iwsX4nqQ=="
+secured: "TndgGGjZEPDzCu0LRuMwHgACi9h9HC3eJl13p1+Pu04V5I8B6R3mK7EjsK9JSz1g9EtREB4SXVLt9gnQWPtWa4kAmL+M5ZbUlMnrKJtaq7SIXyHXVV20uXALcTjLROuJdOyGULIy7FyiX9BRr6lPLEL3UA8DUWNm81VZbwqU+EZVZYm+CnEP9k19ayIR+BjQ/oRO3XVc+V57PDxEHIKFwQBrdk26HQhZ8PfxomKnFS8K7PIWLknpluwRlGvIEvpVLJi/AENNuHRyta2YEk2l5HAh9OyChSw893NIIw+YHZ7ebscSmkdSAfheaHwSNV7WylZFnrh1xF/8lFjMJzeNayypHuCVqvmWpYIQAdEFuH8=;Vc65+Tv4eKuzMqxxElXSFw=="
 ---
 

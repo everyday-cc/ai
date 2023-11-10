@@ -2,6 +2,323 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-10-this-new-breed-of-ai-assistant-wants-to-do-your-boring-office-chores.md",
+      "title": "This New Breed of AI Assistant Wants to Do Your Boring Office Chores",
+      "excerpt": "An experimental AI helper attempts to operate a web browser in the same way a human does to take on office admin like processing invoices or screening job applicants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/this-new-breed-of-ai-assistant-wants-to-do-your-boring-office-chores/",
+      "originalUrl": "https://www.wired.com/story/this-new-breed-of-ai-assistant-wants-to-do-your-boring-office-chores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/654c219798d337ba5af8c646/191:100/w_1280,c_limit/110823-business-ai-office-chores.png",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-theres-something-going-on-with-ai-startups-in-france.md",
+      "title": "There’s something going on with AI startups in France",
+      "excerpt": "And if you look at the founders of Mistral AI, the French AI startup working on open-source large language models that raised a €105 million seed round ($112 million at today’s exchange rate), all three co-founders Arthur Mensch, Timothée Lacroix and ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/09/theres-something-going-on-with-ai-startups-in-france/",
+      "originalUrl": "https://techcrunch.com/2023/11/09/theres-something-going-on-with-ai-startups-in-france/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/The-GenAI-Show-1.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/09/theres-something-going-on-with-ai-startups-in-france/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/09/theres-something-going-on-with-ai-startups-in-france/amp/",
+      "publishedDateTime": "2023-11-09T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-an-industrial-robot-crushes-worker-to-death-at-a-plant-in-south-korea.md",
+      "title": "An industrial robot crushes worker to death at a plant in South Korea",
+      "excerpt": "SEOUL, South Korea -- An industrial robot crushed a worker to death at a vegetable packaging plant in South Korea, police said Thursday, as they investigate whether the machine was unsafe or had potential defects.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/wirestory_976dc34487051c762362f17166c17fd7_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839",
+      "publishedDateTime": "2023-11-09T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-deadly-robot-mistook-human-for-box-killed-man-and-raised-safety-concerns.md",
+      "title": "Deadly Robot Mistook Human for Box, Killed Man, and Raised Safety Concerns!",
+      "excerpt": "The tragedy occurred at a factory in Seoul, South Korea. The factory had been using robotic workers to reduce costs, as have many of their competitors. The industrial robot was tasked with lifting and stacking boxes of vegetables onto pallets. This helped the factory save time and money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/11/09/robot-crushes-man-to-death/",
+      "originalUrl": "https://www.gizmochina.com/2023/11/09/robot-crushes-man-to-death/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/11/robot-crushes-man-to-death.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-guest-opinion-artificial-intelligence-will-save-lives-if-skeptics-dont-derail-progress.md",
+      "title": "Guest opinion: Artificial intelligence will save lives If skeptics don’t derail progress",
+      "excerpt": "I hope Congress will consider our mission, our progress, and positive health care opportunities when they consider legislation and regulation about AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/opinion/2023/11/guest-opinion-artificial-intelligence-will-save-lives-if-skeptics-dont-derail-progress.html",
+      "originalUrl": "https://www.al.com/opinion/2023/11/guest-opinion-artificial-intelligence-will-save-lives-if-skeptics-dont-derail-progress.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QH7USJVJGRCRFM6AEH5YYHIIJU.jpg",
+          "width": 972,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/opinion/2023/11/guest-opinion-artificial-intelligence-will-save-lives-if-skeptics-dont-derail-progress.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/opinion/2023/11/guest-opinion-artificial-intelligence-will-save-lives-if-skeptics-dont-derail-progress.html?outputType=amp",
+      "publishedDateTime": "2023-11-09T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-five-scalability-pitfalls-to-avoid-with-your-kafka-application.md",
+      "title": "Five scalability pitfalls to avoid with your Kafka application",
+      "excerpt": "To unlock Apache Kafka’s full potential, you need to carefully consider these 5 pitfalls in the design of your application.\nThe post Five scalability pitfalls to avoid with your Kafka application appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/five-scalability-pitfalls-to-avoid-with-your-kafka-application/",
+      "originalUrl": "https://www.ibm.com/blog/five-scalability-pitfalls-to-avoid-with-your-kafka-application/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-3-reasons-amazon-is-still-a-top-artificial-intelligence-ai-stock-to-buy-right-now.md",
+      "title": "3 Reasons Amazon Is Still a Top Artificial Intelligence (AI) Stock to Buy Right Now",
+      "excerpt": "In the third quarter, operating income soared by almost 350% year over year to $11.2 billion, largely based on better e-commerce margins. While the company's shares are still richly valued at around 40 times forward earnings, future margin improvements and AI-driven growth can help justify the price tag and make the stock look like a long-term buy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-reasons-amazon-is-still-a-top-artificial-intelligence-ai-stock-to-buy-right-now",
+      "originalUrl": "https://www.nasdaq.com/articles/3-reasons-amazon-is-still-a-top-artificial-intelligence-ai-stock-to-buy-right-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-implementing-fhir-and-hl7-with-ibm-app-connect-and-ibm-cloud-pak-for-integration.md",
       "title": "Implementing FHIR and HL7 with IBM® App Connect and IBM Cloud Pak® for Integration",
       "excerpt": "Through tight integration between IBM App Connect and IBM API Connect, health IT providers can extend the reach of FHIR for multiple use cases.\nThe post Implementing FHIR and HL7 with IBM® App Connect and IBM Cloud Pak® for Integration appeared first on IBM Blog.\n",
@@ -61,7 +378,7 @@
       "originalUrl": "https://dunyanews.tv/en/Technology/769258-Nvidia-plans-to-release-three-new-chips-for-China-",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -155,7 +472,7 @@
       "originalUrl": "https://www.gizbot.com/partner-content/bias-in-ai-how-to-reduce-bias-in-facial-recognition-systems-088279.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -250,7 +567,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -403,7 +720,7 @@
       "originalUrl": "https://www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -490,7 +807,7 @@
       "originalUrl": "https://www.entrepreneur.com/en-in/technology/10-most-vital-ai-trends-we-need-to-be-ready-for-in-2024/465119",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -645,7 +962,7 @@
       "originalUrl": "https://www.tweaktown.com/news/94274/nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -876,369 +1193,6 @@
         "AWS AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws.md",
-      "title": "Build a medical imaging AI inference pipeline with MONAI Deploy on AWS",
-      "excerpt": "In this post, we show you how to create a MAP connector to AWS HealthImaging, which is reusable in applications built with the MONAI Deploy App SDK, to integrate with and accelerate image data retrieval from a cloud-native DICOM store to medical imaging AI workloads. The MONAI Deploy SDK can be used",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/02/monaideploy_arch-1260x571.png",
-          "width": 1260,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T10:47:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-the-us-and-30-other-nations-agree-to-set-guardrails-for-military-ai.md",
-      "title": "The US and 30 Other Nations Agree to Set Guardrails for Military AI",
-      "excerpt": "When politicians, tech executives, and researchers gathered in the UK last week to discuss the risks of artificial intelligence ... Lauren Kahn, a senior research analyst at the Center for Security and Emerging Technology (CSET) at Georgetown University ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/the-us-and-30-other-nations-agree-to-set-guardrails-for-military-ai/",
-      "originalUrl": "https://www.wired.com/story/the-us-and-30-other-nations-agree-to-set-guardrails-for-military-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/654ae8c1428f34179e6b33c2/191:100/w_1280,c_limit/Military-AI-Guardrails-Business-1757360709.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part.md",
-      "title": "Humane may be launching a $699 AI-powered projector to replace your phone. That's not the craziest part",
-      "excerpt": "The secretive startup, founded by former Apple employees and backed by OpenAI's CEO and Microsoft, is launching its AI Pin wearable tomorrow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "originalUrl": "https://www.zdnet.com/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/87cbc24ba40159165e2246bfb590a298b9f944f1/2023/07/03/1cc88643-728b-4a3e-8d11-206baab84df0/fz6bjtfaqaaivgz.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "publishedDateTime": "2023-11-08T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-generative-ai-in-search-expands-to-more-than-120-new-countries-and-territories.md",
-      "title": "Generative AI in Search expands to more than 120 new countries and territories",
-      "excerpt": "Generative AI in Search, or Search Generative Experience (SGE), is expanding around the world, and adding four new languages.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/google-search-generative-ai-international-expansion/",
-      "originalUrl": "https://blog.google/products/search/google-search-generative-ai-international-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_hero_hVttB6n.width-1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-optimize-for-sustainability-with-amazon-codewhisperer.md",
-      "title": "Optimize for sustainability with Amazon CodeWhisperer",
-      "excerpt": "This post explores how Amazon CodeWhisperer can help with code optimization for sustainability through increased resource efficiency. Computationally resource-efficient coding is one technique that aims to reduce the amount of energy required to process a line of code and, as a result, aid companies",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-for-sustainability-with-amazon-codewhisperer/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-for-sustainability-with-amazon-codewhisperer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/02/Picture1.gif",
-          "width": 936,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T09:41:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-code-generating-ai-platform-tabnine-nabs-25m-investment.md",
-      "title": "Code-generating AI platform Tabnine nabs $25M investment",
-      "excerpt": "Tabnine, a startup creating code-generating AI tools, has raised $25 million in a Series B venture capital equity round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/",
-      "originalUrl": "https://techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1356364303.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/amp/",
-      "publishedDateTime": "2023-11-08T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup.md",
-      "title": "Tech Moves: Seattle marketing vet lands at IonQ; Microsoft principal researcher joins startup",
-      "excerpt": "Margaret Arakawa, a longtime Seattle-area marketing leader, joined IonQ as chief marketing officer. Arakawa was",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup/",
-      "originalUrl": "https://www.geekwire.com/2023/tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/11/IONQ-SQUARE-HEADSHOTS_0000s_0012_Margaret-Arakawa-DSC_8061.jpeg",
-          "width": 288,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "Microsoft AI"
       ]
     }
   ],

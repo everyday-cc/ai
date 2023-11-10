@@ -41,6 +41,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Industrial robot crushed worker to death at a vegetable packing plant"
+    excerpt: "The man died of head and chest injuries after he was grabbed and pressed against a conveyor belt by the machine’s robotic arms."
+    publishedDateTime: 2023-11-10T15:11:00Z
+    webUrl: "https://www.kmvt.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/"
+    ampWebUrl: "https://www.kmvt.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kmvt-com.cdn.ampproject.org/c/s/www.kmvt.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/?outputType=amp"
+    type: article
+    provider:
+      name: KMVT News
+      domain: kmvt.com
+    quality: 59
+    images:
+      - url: "https://gray-kmvt-prod.cdn.arcpublishing.com/resizer/jTvY4PAZyHQYGjpXYVgBKrPlwUk=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/KD5MOBALNJDPJPQB5K4JYVFTBU.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Industrial robot crushes worker to death as he checks whether it was working properly"
     excerpt: "Authorities say he was he was grabbed and pressed against a conveyor belt by the machine's robotic arms in a vegetable packing plant."
     publishedDateTime: 2023-11-09T09:28:00Z
@@ -111,6 +127,6 @@ related:
       domain: manufacturing.net
     quality: 13
 
-secured: "uXAPcUQlMV1San+oBzG2xJHyyzcrexaZ16CIn+OEg889lVIFNK0upNelCxY4KvWLYLtPshcOFHR7vBj2LJSGIbN2yKoBQNMRZ+Cx1CfjSkbcu/j/AykQEFWrgep9SCNYizhGqsFdJ6P30XWh5UWc/YR6oBsWh4FyFv5Gaqg9K/HxHRHCvxi3a6zPTVunBIi4F4Yjf2FaZ1IcuQwnktaxLpyxwruFk86j6gUFgCDvPIoXGKFGuVT4NwAo9u2ZwuRrkgNiOFkprD/i2dmXTEzYc+n5K1Gsy8CNKF8H19OJq9nVPoCl5hhT0TArF4iQbE65zn9nor20i8h5Hj+f1lE4+JNB0zYADryD7S0Aoeq52fQ=;Fe7/JCp6lyvxiLqJYsdpsA=="
+secured: "GNz12AwXQtTTl2Z+a9a+c/wgCsnDf70fg2O/WCeGzpj3DgNRgAS73GQmAaVaX4eW5fZQLM5TFWIQ1Xz7d7ueRvbThbLJMHjqAkof1HI3pl1IOwfzRCXzzVw4Qk1G+ZdMt6Fyg0Wc6uuxD7D++L4mFMw1kMO1lbs5v7TZSJ3VUo8/Gp013oV+66koYhFtMKuqkc77HE02t5MAdRaj8ipnbHRR3jWYBkm/hK8SAICVmIH35JXoznd6n93RWcw9d48sLwfLvo929Hi9Ha7S/+HMr9sju9KgS3nbJc6pZnqQxon2GTlJkhMwtEsQKGjAXWRqZaxQkGfopmvnOQqgJFdjCpmbw1hv17t2Fumm2mD27L2bKdFEI9UV6selnD/t5saz3S82SxmLOkDxvcaB9t0py7PCA+HycgjypyBvkc/6Wa36aAqA9sjKLgczNDwoiKC524WJRfKRcvjpOEecHStIDWii76IrmcpwOPJi/gKMJPYuQWsAY0iku0qP5mduBUy2cYg4f9v61tmUvtSUY6cgYQ==;saVUarI5l3kS8z8l2c/EpQ=="
 ---
 

@@ -172,6 +172,20 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 24
+  - title: "FinTech LIVE London: Day two highlights and recap"
+    excerpt: "Discover FinTech LIVE London Day two Highlights & Insights. Explore key discussions, insights, and more from this dynamic fintech event!"
+    publishedDateTime: 2023-11-10T16:20:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-live-london-day-two-highlights-and-recap"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/a1d05b46cb774800901f4f82522631c5:d01befd6c8d3e2526cc362b8d3db7321/fintech-live.jpg.jpg"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "Provenir Named Winner of ‘Data Initiative of the Year’ in the 2023 US Fintech Awards"
     excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that it has been named winner of the “Data Initiative of the Year” category for the 2023 US Fintech Awards. Winners were unveiled during an awards ceremony at The Edison Ballroom in New York City on Nov."
     publishedDateTime: 2023-11-07T09:27:00Z
@@ -209,15 +223,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 7
-  - title: "Strong Swiss Presence at the Singapore Fintech Festival 2023"
-    excerpt: "Switzerland will be setting up their own national pavilions during the festival. The Swiss Pavilion is co-organized by S-GE (Switzerland’s export and investment promotion agency) and Swiss Business Hub ASEAN (part of the Swiss Embassy in Singapore),"
-    publishedDateTime: 2023-11-06T01:00:00Z
-    webUrl: "https://fintechnews.sg/79585/singapore-fintech-festival-2023/strong-swiss-presence-at-the-singapore-fintech-festival-2023/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 4
   - title: "Adaptation and Growth: The Road Ahead for the FinTech Sector"
     excerpt: "The number of open banking users worldwide is expected to grow at an average annual rate of nearly 50 percent between 2020 and 2024, meaning it will rise from 12.2 million to 63.8 million over this period. The value of global open banking transactions reached  57 billion U.S. dollars in 2023."
     publishedDateTime: 2023-11-07T08:01:00Z

@@ -39,6 +39,20 @@ related:
         width: 1680
         height: 1119
         isCached: true
+  - title: "Artificial Intelligence for Dummies"
+    excerpt: "OPINION: During and AI Safety Summit Kamala Harris said it had the potential to do profound good, and harm, while King Charles III said the rise of powerful artificial intelligence was as significant as the harnessing of fire."
+    publishedDateTime: 2023-11-10T16:00:00Z
+    webUrl: "https://www.stuff.co.nz/manawatu-standard/opinion/301005767/artificial-intelligence-for-dummies"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/1/1/t/a/image.related.StuffLandscapeSixteenByNine.1420x800.4z7ljb.png/1699488012929.jpg"
+        width: 1420
+        height: 798
+        isCached: true
 
 secured: "cwtXy5JRPv8mMs4zm/UJRyxZyjOUxlcEUajL6b6+BUBeEOEXX1YQbc3gyGdbBLmLs0xlyKrHXYXjh4UGvHVPxsuzblagjQqKmiB/HclLVl+aHYl6o5GP5nS6diM/SFwFKXaQ3/SGyphN2AZNWageSwZWbmb3dNrRivgI4bRlVd+mKPEMUpEaJsRDOnpaYvS3ZXYhuPZLUpc14UVqCiqJt3yWeTfCijF793AkeNuL7rKIzkLW5W+5PLxkOU0Awpj8jE9TINACrVQt7gvb4e3iIvfMdbW/gVSG3ts9VqayPa2cOJqaPv6QW7T4Prx3FFNSqo68uUHRw6wa1AlZMPnmbKbnCpEqFuKaT1Eok1QsxTk=;6hw7KCaLBrDuBh/RmI1HTw=="
 ---

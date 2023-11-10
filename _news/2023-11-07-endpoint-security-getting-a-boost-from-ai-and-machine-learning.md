@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/endpoint-security-getting-a-boost
 webUrl: "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/"
 type: article
 quality: 103
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://img.wattagnet.com/files/base/wattglobalmedia/all/image/2023/11/three_chicks_on_white_bkgrnd_1.654a678c422a8.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Detecting and preventing water leak damage using artificial intelligence"
+    excerpt: "Groundbreaking technology that uses AI to monitor water leaks and usage in commercial and residential buildings and on construction sites is significantly impacting dynamics in the builders’ risk and P&C markets."
+    publishedDateTime: 2023-11-10T15:19:00Z
+    webUrl: "https://www.insurancebusinessmag.com/us/news/technology/detecting-and-preventing-water-leak-damage-using-artificial-intelligence-466336.aspx"
+    type: article
+    provider:
+      name: insurancebusinessmag
+      domain: insurancebusinessmag.com
+    quality: 36
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/003/0343_638352262743418053.png"
+        width: 1000
+        height: 666
         isCached: true
 
 secured: "XymRkj5ENC23dcaBOEI6AKOjkSIQGM/OrsTTF1WMmGiV/bY7gPOrqUk1/T6qAXo8pcIe0PPmQNqpCdYC5KCiM19KU2ZCrm2M+AikdweY2B2fdJlSpIziCihvy0nB7GZ3LtU3dQEtL6UW7lRapzGnYay7EJWRZhJsODGkJccmW1S529JYNeXDlYJIKUYcTncvzDBu4tOkiaR8mwsvBxhgoUZXi+KyP+42CGQDhZQ2xFO/T2BHit5/sdFIMybTkjCpM/5wvMZMekRg/wGsq+o3VCf7L+m6QkHz8BxGrG6tq/bZMnnHArykcEKpoz0GFIlxTuF6vd8IloswmTdXb3vNGqRqPEAycrVJky9boEVPGsXcfsangbR0di50/XsFaqfqVNTwK9DgF/rQWkT8AVfO0xpyjGG7RNX5SpDAWOJ37ImQXofcjIK1OgNAFOZKxf0MQt9XQTouIP1BAxX2yvB950KEhN49lrepn2nAY9H4aGbflEOo2VvO/fHXZYYNJjqvVGEuPbd5cJUekDRzGbcNhw==;G4xMBEUDQGAoDa1TYgq86w=="

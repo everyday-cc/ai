@@ -72,15 +72,6 @@ related:
       name: The News Today
       domain: newstodaynet.com
     quality: 34
-  - title: "Top 8 Generative AI Jobs in India"
-    excerpt: "Currently, there's a widespread trend of enhancing capabilities in generative AI across startups and major tech companies, leading to the creation of new positions specifically for experts in LLMs."
-    publishedDateTime: 2023-11-09T12:27:00Z
-    webUrl: "https://analyticsindiamag.com/top-8-generative-ai-jobs-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "ETdpAKkLqAMmlDbfXwCbzW5GJX7y87AKd9Dz7b9TVJFn6pHDze9AUnLFNInFLugJEw0ST8g2JxB9rS+MQ2lWpnOiTHWL7Wj1FuiyuN+y7NCNSCoDH9WPerqGX5sd4w75l3pZC97pXnN/fDLZckZlgtAtKuhEi70P57Z1tZJW/sWHMoSTxYPYI2yVE87wzKY2XVmZvrs+0AUtYuCsv/L1sV+vr76zjVI2FqbQrfXCYo4JMyzrFdjXcYH3bUFDFyp9uutxExs+K2g1FGgdO966t/+k8lDVm5r462FokzYbLCYyNUJVGymTFaXKEa6tHANAzQdfQWtL4ln5h2GkMdFgMoqGkjP+IwLI035KpXL8hWT2XBriLoapiV4dNn5Z+CuKW4P4HzsilHywd/KOTNKK0DGsxLR9d4CraVOW1eTvTU50DDFYiUUgB31FeKMGiRo9+qojcP90H9nNF8jd+CNkXyLM/b6jtezPAQIWbC5jOXTO48dnOAA7UuC/5V+/qEAjwtK3VRCj3ePzqC/YxZZe1A==;723xVvYFjYLVJMS9eiwExQ=="
 ---

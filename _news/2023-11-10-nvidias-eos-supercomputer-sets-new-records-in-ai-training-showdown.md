@@ -61,6 +61,15 @@ related:
         width: 300
         height: 215
         isCached: true
+  - title: "Crypto Billionaire Jed McCaleb's New Nonprofit Buys $500 Million Worth of NVIDIA's H100 AI Chips"
+    excerpt: "A new nonprofit called Navigation Fund created by crypto billionaire Jed McCaleb purchased $500 million worth of NVIDIA H100 AI chips, making it one of the largest AI computing clusters in the world. Navigation Fund handed ownership of the chips to Voltage Park, a for-profit organization that functions as a subsidiary of Navigation Fund."
+    publishedDateTime: 2023-11-10T13:03:00Z
+    webUrl: "https://www.benzinga.com/startups/23/11/35725095/crypto-billionaire-jed-mccalebs-new-nonprofit-buys-500-million-worth-of-nvidias-h100-ai-chips"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
 
 secured: "IDmvM6IkCpFVTwq7mlPMiLC3zrt9P3fNlpHumpcxUFDwfYRw4iltWQC5dGwIxYir6PWuHo3YGx1RT6xCuZHxfIaUEt2S/B/62AUsHCIpmMDUMs8paYlM1SLWAdYR1ZCZnIinlnSF9zx0/I/5QSnheG8psAEsF0A1K/mjqAug4OTe/4vIhdAOhCwMZrThL33HU/71QTZVl3vwSOx0RPiuPQ8laTXgKrOL/sMY1o/x1RNc/AWdtj/1JOB35unr7rLp65RYIvThDLpSQ16ii+N/spujBr1XE8BlrmpaZ2a9YSDITOlY4XMhnWVaqfUwCIEB9ecJyeNaouMr+0o8aH34lb/5PW+pkv/jnvEE5MJ0wR4tiIsFBotwbHxRb/gt6GQgLx7OwmKLrBD+FgzN0zEMJGFMZkGL7Qad5Q993dPsbGu1LAr+2T24QzDDJTl70J/j/pDxwQV8vE3yd2M53joGf6j1iOh8vIX9QdYfjBuEs5TScKfQcjT0vccDkDv0+D1LZ+1TgTNBT0kxX1DUWhBxBw==;j8r9hX1IiIrOPXqBzIJojw=="
 ---

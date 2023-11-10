@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/11/07/tesla-owner-wins-10k-settlement-ove
 webUrl: "https://electrek.co/2023/11/07/tesla-owner-wins-10k-settlement-over-teslas-full-self-driving-claims/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Self-Driving Tesla? Boring—Check Out This Self-Drifting Toyota Supra"
+    excerpt: "A fierce straight-six growl filled the roll-caged cabin as the Toyota Supra accelerated sideways, its 600 horsepower easily reconstituting the rear tires into smoke and rubber particles. Drifting precision like this requires an innate connection between machine and driver—except, this machine had no driver at all."
+    publishedDateTime: 2023-11-10T15:30:00Z
+    webUrl: "https://www.motortrend.com/features/toyota-self-driving-drifting-ev-ai-technology/"
+    ampWebUrl: "https://www.motortrend.com/features/toyota-self-driving-drifting-ev-ai-technology/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/toyota-self-driving-drifting-ev-ai-technology/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 39
 
 secured: "QL0/oXgeRi+3SVmq6MR9llX+Hd/+rmAxe/F071f43GE3J55r1RAB1MOtEzrSHFsPW9mM/NlRDgK2gV0b+GNNMFn28N31b3BFfp/jb5tjJWZvRQoo/MY6WGXEW9jgfx03NojIJTcT37px/7SoC6Mk5cTLCZq+I8U6Z6IgNk2w+vUZCh39RJeoJW2uck9nZV9sq/rYbCUnqJAesfWdbET7xxdWqFwjTD13CGxxw6uXOC7lTTSwi6Ok/nriBAyBhfLtsgjbKvbmTGo+zieP6W8bQIUBRLT49O1xPiZ2LkPMiky1O5xeRwRhvae6pMraKSWuj4cDe+NSaeSErofC+uQop9V5w0F6PCVN9J30Hb97GxBxBBDoSzURBDUFsGatjl16IORz5uxveY7Ug4PHhOelPLCDuXqDULnYlB/NNW77Cfd4Wt842cTY7DJkek3kKq+bBI49ZVmeGwsSI108r7Mk/xR8F0II/d7pksu8qyQUIUkh+1+Kx5KhsQh3YwMAlLqaLYlpCMVe7MfXI4s2XRt6lg==;7JegGDGyBtH/4QL3L6MRJQ=="
 ---

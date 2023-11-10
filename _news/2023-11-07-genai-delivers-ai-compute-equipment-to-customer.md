@@ -163,6 +163,15 @@ related:
       name: IT News For Australia Business
       domain: itnews.com.au
     quality: 33
+  - title: "OpenAI Data Partnerships announced for AI training with diverse global data"
+    excerpt: "OpenAI, a leading artificial intelligence research lab, has recently launched the OpenAI Data Partnerships program. This new initiative is designed to"
+    publishedDateTime: 2023-11-10T11:55:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-data-partnerships/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 17
 
 secured: "NUknPfWr0kD9MK4N7paAwreJegetBjOWnSB1N1q98PGjJF10YP5N2yChlwz0Ub/gqkw5iWmTc858Cw9CTkL78Xt5XiJid9RsMiLpJRsCi8eHSMNE0Pgafo9AaQtco82gf8tIfFY+r6mpYNDoDQ3nwORt2+AzS3DVfHYxBtSUBWgCM4n1FI7Oi8ScMvGJ8+46IwpemyCU148Jd7sDt8pZiCO7MGCHVCcY4REwirKIhudn/Rntu4+K5xDYC82apEqGZGXHWcgQel4pPP7IAXUGOXBBmJuEZXRR7p6vcKSngxekRd/odib2S15SHQozGt5pyS6EjXt3CWiBm3L5hnBH/o2cTZiDyocJgv/FamHSAII6BWpfPCONdnZ+7uSLlg2mybIsCl9XJynU9Z7FjVU5dotUCyXkgpb07WyTC4ZJ5oVZ6Wex3VwZQkyojIuLFZOJ6JNXdCX94ip/PKWz7B8JVUGO8XpxjQpC3F5KI0JVVykPfBjjR1HaCjEZDZffVOSaS53Ba2v5tHVbAfMmd/oE/A==;SwBBejdZExD9jY2kaeTwdg=="
 ---

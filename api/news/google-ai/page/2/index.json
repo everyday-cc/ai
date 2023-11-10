@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-12-deepmind-looks-at-ways-to-make-ai-training-less-of-a-power-drain.md",
+      "title": "DeepMind Looks at Ways to Make AI Training Less of a Power Drain",
+      "excerpt": "It's completely free and we guarantee you'll learn something new every day. DeepMind wants to trim the fat. Google's AI arm filed a patent application in recent months for a system to allocate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/deepmind-looks-at-ways-to-make-ai-training-less-of-a-power-drain",
+      "originalUrl": "https://www.nasdaq.com/articles/deepmind-looks-at-ways-to-make-ai-training-less-of-a-power-drain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-new-ways-to-get-inspired-with-generative-ai-in-search.md",
       "title": "New ways to get inspired with generative AI in Search",
       "excerpt": "We’re testing new ways to get started on something you need to do — like creating an image that can bring an idea to life, or a written draft when you need a starting po…",
@@ -1344,58 +1378,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-data-commons-is-using-ai-to-make-the-worlds-public-data-more-accessible-and-helpful.md",
-      "title": "Data Commons is using AI to make the world’s public data more accessible and helpful",
-      "excerpt": "A look at Data Commons, Google’s initiative to make publicly available data more useful for people working on solutions to societal challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-data-commons-ai/",
-      "originalUrl": "https://blog.google/technology/ai/google-data-commons-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DataCommons_Hero_Image_02_TC_03_49.width-1300.png",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-data-commons-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-data-commons-ai/amp/",
-      "publishedDateTime": "2023-09-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

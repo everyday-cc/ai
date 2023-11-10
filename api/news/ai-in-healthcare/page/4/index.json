@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-09-25-new-artificial-intelligence-solutions-developed-to-combat-wildfires.md",
-      "title": "New Artificial Intelligence Solutions Developed to Combat Wildfires",
-      "excerpt": "Enter artificial intelligence. Firefighters and startups are using AI-enabled cameras to scan the horizon for signs of smoke. A German company is building a constellation of satellites to detect ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/a/new-artificial-intelligence-solutions-developed-to-combat-wildfires/7282474.html",
-      "originalUrl": "https://www.voanews.com/a/new-artificial-intelligence-solutions-developed-to-combat-wildfires/7282474.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gdb.voanews.com/3889d9d2-0cf4-4b87-ba63-771e372ecdae_w1080_h608_s.jpg",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voanews.com/amp/new-artificial-intelligence-solutions-developed-to-combat-wildfires/7282474.html",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/new-artificial-intelligence-solutions-developed-to-combat-wildfires/7282474.html",
-      "publishedDateTime": "2023-09-25T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-25-artificial-intelligence-is-rapidly-changing-the-world-of-medical-imaging.md",
       "title": "Artificial Intelligence Is Rapidly Changing The World Of Medical Imaging",
       "excerpt": "Among the most powerful tools that enable modern day healthcare delivery are advanced imaging techniques. Often, these tools are used to validate physical exams, visualize internal anatomy, or triangulate pathology based on subjective symptoms.",
@@ -1361,6 +1318,41 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-artificial-intelligence-the-future-is-now.md",
+      "title": "Artificial Intelligence: The Future is NOW",
+      "excerpt": "Companies and Investors are very focused on Artificial Intelligence. We think it is a significant, durable theme. The big tech companies are likely to have a competitive advantage, in our view.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence%3A-the-future-is-now",
+      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence%3A-the-future-is-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     }
   ],

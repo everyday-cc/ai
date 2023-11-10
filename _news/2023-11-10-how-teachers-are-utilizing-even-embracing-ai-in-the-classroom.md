@@ -56,21 +56,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Interaction of the Internet of Things, AI and Machine Learning"
-    excerpt: "More and more devices can communicate without the need for human input thanks to the rise of the Internet of Things (IoT). You might have a home assistant device, such as an Amazon Echo or a Google Home,"
-    publishedDateTime: 2023-11-08T11:36:00Z
-    webUrl: "https://techbullion.com/the-interaction-of-the-internet-of-things-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 54
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Internet-of-things.jpg"
-        width: 466
-        height: 311
-        isCached: true
 
-secured: "tvX6H7A5mumtO8kKqrydBZadvnGjrq0IofM8MFHZ9PpmZblS4xsl7fHLaHKxO2cSc7sq5e9dyy0HG1yoWzgvf1pQ1YkrHTpS993THmSTAVTf4nS0kMm7Luf+9iIajJ4Jn2h8xQE7sgBdfZ0HhCNvNZkisudFjukv+Y8EKTYG85AMpv2NTEd93y7C7nPxI2myGnGzx5EmXF+GtJ2RIl5aGXknwS4hUPctmYLht4rL8y30om8EChLuWvDP1YaGnKBV+ou1IUxbiDo/dPb6rKWTVVL8FIJgYYYviRnw6fYYvBvTVuQMcwLV/3NwGD95u7+sh7q1Vp22y9Nd7VJmAoL+ExUeSDUNa55dWolbm+mnpeI=;HzB5qJ++uy0hICjiMVpMMw=="
+secured: "AIr6W8tgCJAcH/5dV3aKUIW7bRHFIiS3CR8NhPRPg3R2zSPE8J/GDvrWYrBBuya3v3z9c878iaO+YDiZY0HjsTRHtRWJzhWCs9xV/qiSSG3vYe7arR40C71GqypXAP6vhpiOyWDBlB1uaWpxHTJ8+4C5KTe68MPdwiaLm0gLnK/g4lYndI7V/7sAmYBMUZOvUiN4fsNnkFq+oTBqvRarvj4z8987i1FssfVstnnzEYnUR64zQJa5azisDIhyUBnofD20eZHQ9YFOkoJWN+NgXNh8BaEmYLwv4c0evwkTDJMS2ZnjTkIcUNfvOtA9NYrvj5o5hHUE89mOHkAxwKgfNGIIj4tvIzrUnSWHPszKgPfZzXLnJh5Bb9/jMCEnKbFPU6Xcv3DVIzSqWKuC/AYPkOfFAx2MmVTu2B1MNzQGzI4kr/Adu0q8MurZQoKexP9041yo4M1fx7ISkXWJDjUb1VH/14zosz7ehNMPIfjOiMd3gMWFoTayWPGJNK5yTlHAna2kAFaTBPn2U7LFdlsy5A==;EPNpYpUyZGfBsjuBaYJBsA=="
 ---
 

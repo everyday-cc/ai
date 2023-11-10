@@ -9,7 +9,7 @@ ampWebUrl: "https://dunyanews.tv/amp/english/769258.php"
 cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/769258.php"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://www.crn.com/resources/0287-196b37e31c7f-2a11987026df-1000/nvidia-a800-active.jpeg"
         width: 650
         height: 246
+        isCached: true
+  - title: "Nvidia reportedly planning to release new AI chips for China, amid tightened US restrictions"
+    excerpt: "US chipmaker Nvidia reportedly plans to release new artificial intelligence (AI) chips aimed at the Chinese market following the US' tightened restrictions on selling high-end AI chips to China. Observers said that Washington's intensified moves targeting China will only backfire as US industrial players will lose out in the Chinese market."
+    publishedDateTime: 2023-11-10T15:12:00Z
+    webUrl: "https://www.globaltimes.cn/page/202311/1301640.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 43
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-08-17/506f8935-b6d2-4b55-9312-af89e28ad0e0.jpeg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "Nvidia develops AI chips for China in latest bid to avoid US rules"
     excerpt: "Nvidia is preparing to launch the new chips just weeks after the US restricted sales in China of high-performance chips that can be used to create AI systems, in the Biden administration’s latest salvo in a tit-for-tat tech war between the two superpowers."

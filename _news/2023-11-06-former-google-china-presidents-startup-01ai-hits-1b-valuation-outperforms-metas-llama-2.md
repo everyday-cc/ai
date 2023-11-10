@@ -65,15 +65,6 @@ related:
         width: 2504
         height: 1508
         isCached: true
-  - title: "China AI start-up hits unicorn status in less than 8 months"
-    excerpt: "BENGALURU - A Chinese start-up founded by computer scientist Lee Kai-Fu has become a unicorn in less than eight months on the strength of a new open-source artificial-intelligence (AI) model that outstrips Silicon Valley’s best, on at least certain metrics."
-    publishedDateTime: 2023-11-06T00:20:00Z
-    webUrl: "https://www.straitstimes.com/business/china-ai-start-up-hits-unicorn-status-in-less-than-8-months"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 17
 
 secured: "nDqAOos9HZ7w0WNNbh4ILqQpgxVCrht2iB1+0IgQqYqOQAD6tQ2sqE3gjNVu8ECEZkiwlCVY8jrQuboz69ShePJIziP+S3q7HR0cmC5HcsegiaHwCNyyiu4UMbvfTK3iV5fKDpcQJ1J/BEcZWzNoFCSoTcslC9QisVAXYeiECR5LyOfuxSc1O/XLyHwJx7vCOVx5X/p1RJzi1aDDtQgCzqtY/GcpsstInp2LyCph1V9tIcn/U4lAT8xNENMue9zi5KY6BHyBxEG1UW+ffkzHyBkl/kGNfXDxTSxoZJ31EF4a0nsGerry1MIfml0Vg5jGLndSuO1FYnh0gDNXCAAXZOJPi0f2ZPvQWLlopRmiIAA=;ZgoxpVJGszabnuuOmwqLjw=="
 ---
