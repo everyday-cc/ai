@@ -35,6 +35,20 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Here’s How Violent Extremists Are Exploiting Generative AI Tools"
+    excerpt: "Experts are finding thousands of examples of AI-created content every week that could allow terrorist groups and other violent extremists to bypass automated detection systems."
+    publishedDateTime: 2023-11-09T23:00:00Z
+    webUrl: "https://www.wired.com/story/generative-ai-terrorism-content/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/654d640f71250da0bf23bfca/191:100/w_1280,c_limit/security_extremists_ai.jpg"
+        width: 1280
+        height: 670
+        isCached: true
 
 secured: "LaPIytmfxD5CGlRrYggpzohz0C0U8rLz2KL9RNXxaOlnmbEEAMOI6cQT+mHp+xV5EAROkL1F+UT+GtOYWI/0bqB0jsGYIhFrvMROL5cM1uKSp3JV2lYrQx6NtIN6CH6YyeeX2X6N5qqWdVMeP/S/PY16LzZOpEDd8n9YrjEohalI6kuUKti4TsSyqS3Mv0H3gsfBc5TvGKU37Af4Eli/NZIAE+ur+MEGsVN25rdrBKU6VSv9KcpiXNE1eqc9boKN58zPbfqqKbvFdjAmHHfQxUau3oSG3+DVLp0k6/NUqW0ItdIEtkyl2OdD17/73xzJ0LZmNJdq+svFq5NpVSokp3t/nTIMhHSDbVoNkku7x9w=;qINRa6IWcGQ3Hdajzh7J3A=="
 ---

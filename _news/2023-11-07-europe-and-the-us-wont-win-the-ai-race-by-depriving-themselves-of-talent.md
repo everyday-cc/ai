@@ -67,20 +67,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Europe’s Aleph Alpha Challenges AI Giants"
-    excerpt: "Challenges faced by Aleph Alpha include addressing the diverse needs of European stakeholders, maintaining a universally applicable AI model, navigating stringent data privacy regulations, and addressing ethical concerns surrounding AI applications."
-    publishedDateTime: 2023-11-09T06:56:00Z
-    webUrl: "https://www.dmnews.com/europes-aleph-alpha-challenges-ai-giants/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 37
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/11/AI3.jpg"
-        width: 1000
-        height: 561
-        isCached: true
 
 secured: "NS6ZCtlWCFgb5xu8/S9+lkfx4uuVwTNcSZYr9COXCg42vNTj0APCE7QDUg8bO0Z+GpXtXQcHG5fueMVFOmXfoamECUpaH4Z+gA14yjlJtqy0mti/jtmyNT+lxlXTN67dLEz5077Be5RmnyClrdH8SiKYsSfisUET6GBL6BdBK7TMJ7KrhGKw3As+/l7tsFq5OqHxuaVpnb8tLEYfjI14X740ELkbGNEfE/8flRvZXSVn/eMHJXbbQX9fAKNM2SUjwepXKXZTCHWJkl35IGEASupej8JfJb4OliMFOr520olMoGI9YtxvGotMLLLOfW1Do9akBUdW9igEDs4Q8FKb6ING03yfz3vha5OpjkFrr1I=;9uzu34dp2ZVyIzUGjhp6cw=="
 ---

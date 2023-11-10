@@ -74,13 +74,18 @@ related:
         isCached: true
   - title: "Artificial Intelligence (AI) Software System Market Size to Grow USD 156800 Million by 2029 at a CAGR of 31.5% | Valuates Reports"
     excerpt: "The global Artificial Intelligence Software System market is projected to grow from USD 30320 Million in 2023 to USD 156800 Million by 2029, at a Compound Annual Growth Rate (CAGR) of 31.5% during the forecast period. Get Free Sample: https://reports.valuates.com/request/sample/QYRE-Auto-39U2156/Global_Artificial_Intelligence_Software_System"
-    publishedDateTime: 2023-11-09T16:41:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9915412.htm"
+    publishedDateTime: 2023-11-09T16:33:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-software-system-market-size-to-grow-usd-156800-million-by-2029-at-a-cagr-of-31-5--valuates-reports-301983673.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
 
 secured: "LYcYnVRNTGHeu5P+C5T43jrh2xyMFlfxPe0nGb/GkVf+LZzFu+rM0LdvtF0q2WFZ1OE/C2yCXa95Mwo1d/vkOTsOyf6GY3O7lc/0hSQHdU56fWSxG/lJztmvXiZZTygGOeEJyFpJ0N7xaETPZj3agI1Kksh9KGJTA2ODBB2ZQM7VTdEvpkOaNX2pxkfo3uL9HTl7WYxGNbSatkfd1pF3/HipGUhyAEwi+sH5BzvllXz9c0MOC6l7NtA/Z1WEhOWmNg9XJEGD2rZIo9jLJJz7FCUVCoolhL/6Zx+4w+q73fqlt80YbzjLo9j8lZCcvz2X/FnJemCJCbvyEAhGnDO1No+p2jkUTFtHeu4IC+EPfg4=;7NYEjNpLWUMLpezSHYcn2Q=="
 ---

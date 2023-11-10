@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Rockwell Combines Generative AI and Industrial Automation"
-excerpt: "Rockwell worked with Microsoft on the creation of these capabilities and uses Open AI to communicate with Rockwell products running in Azure, he said (see: Rockwell Forges Gen AI Pact With Microsoft, Buys Cyber Firm). \"Rockwell knows the OT side of things."
-publishedDateTime: 2023-11-09T20:36:00Z
-originalUrl: "https://www.govinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
-webUrl: "https://www.govinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
+excerpt: "The reliance on text bases in modern software development means Rockwell Automation can capitalize on generative AI's ability to read, produce and generate text."
+publishedDateTime: 2023-11-09T20:25:00Z
+originalUrl: "https://www.healthcareinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
+webUrl: "https://www.healthcareinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: HHS
-  domain: govinfosecurity.com
+  name: healthcareinfosecurity.com
+  domain: healthcareinfosecurity.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/rockwell-combines-generative-ai-industrial-automation-showcase_image-3-a-23564.jpg"
+    width: 860
+    height: 520
+    isCached: true
 
 related:
   - title: "4 ways to empower small and medium businesses with generative AI"
@@ -60,6 +66,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 94
+  - title: "How Small Business Entrepreneurs Can Level Up With AI"
+    excerpt: "As technology advances, those outside of the tech industry, including small business owners (SMB’s), are often left behind and competitively disadvantaged."
+    publishedDateTime: 2023-11-10T00:04:00Z
+    webUrl: "https://www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/654d7074b221d68fc89a6075/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 834
+        isCached: true
   - title: "Chinese Smartphone Makers Aim To Beat Apple And Samsung In Generative AI"
     excerpt: "Chinese phone makers, on the other hand, are adopting a different mindset. The likes of Xiaomi, Oppo, Vivo, and Huawei want to “squeeze” generative AI into their newest devices faster than Apple and Samsung because they see it as a chance to turn the tables on their rivals in the highly competitive smartphone market."
     publishedDateTime: 2023-11-07T03:35:00Z
@@ -183,6 +205,6 @@ related:
       domain: businesswire.com
     quality: 9
 
-secured: "dLvSJ8v8Ub9M7YrvARI9N5fh8UTDBVpkrCl9WjZ284uNMQ2FzfGQpQuZnZc2kSev2RNy+lbrpoDNuivifVfw+mN1aSYcn43IMp9/QXftVRAzK1HfCdPlREk8ZJB+SvxbuokghbVtNhwMP5dZxHSNQkZb6mXDMVqM4+nPQmbFbj70rfaZAsHjQbGbeyOD0kBiU5XTT8DtuSeY7G3DPlgFfT+DizOEU5SQWd9pWmeyN8HMRPzUfL7pEjpdeZEACdocFb5i2cpmqWG8Iyg5A9lprlTltX45pKi+mdWBcE1Uo4QGS+UjuU2B+24YCezPDF9H/sgJnh3EWG6w8oIQ9qCdur2o3k1u7oVr9i5J6YDZwzgxnDIZ+sylHpGh8N2MqrEEHK8kjtZOkPbZhEvT8DdwaZlzpN0mp/w54YyCdPqyY/iaYSjQrxDCDj2uSNpE1y4Demv0rb3yXWIlFmqnS6Rio0IjFkHtzAkpyQaLnogZF7LhK42IA9JYQbmBqrHqk8VBfuiQpS8tzUrWQt0UYvxUYw==;jcuvuJ71HV4Bjc8wXsl2vA=="
+secured: "cRelC4csUlkaNudQcDk0xxprJtoL+oeidBj3kZASgN3qPFr9/7UeRmEsx89K/xn/mAh2YGBLYAwdhYARQec+QNOasfpa9KR1DAHOp45rEokPLH1cMOjkDAqv0JqlvCRWBMgRPVTTU6uGW9+uoSxIVkgbBC+xw55PcRrd5pSQj4Op5D7l4O75CIwiQn2MZ6C5zDObjcGmMWniwnNSEzXbfDnns3P1b+yQSs83KJOqeVhC6bgz8l3HA9PLQDDtn5gHvUp2EyaqtqKJeGTpzagln7DiVtxxCYD+7jQupem/RDp06MBkynqhaF4utRXuTY5aX6gzLQa+kMVS9VWWtTwG80opm12zdVugz2uzqnHer8o=;JcItlH0DrEijgKlZiHNkeg=="
 ---
 

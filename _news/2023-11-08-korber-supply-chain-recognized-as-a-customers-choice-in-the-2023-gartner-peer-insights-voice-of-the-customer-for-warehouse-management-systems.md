@@ -26,6 +26,17 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "Druva Peer-Recognized as the Only Customers’ Choice in the 2023 Gartner® Peer Insights™ Voice of the Customer for Disaster Recovery as a Service Report"
+    excerpt: "Druva, the first and only at-scale SaaS platform for data resiliency, today announced that it has been recognized as the only Customers’ Choice in the"
+    publishedDateTime: 2023-11-09T23:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231109931362/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "Pk+vtw/de64+b/ZJu56KEsBoFQ8z64czIDZ5fqu7jn8Fzuv+iVkkyCJ2KaZVVg2OSufo3UYodTVLrvAFmXTRaPXr89JIpc86F8ZCOV0l0z+sB1JtE3xODpytvme0bCbzErPG9BfBHwyelChxda6Vec0G+MmivIZarV1MsFnEeYN7R1dXGPD+YZZ2DmNDBYXY/otc1CpZteA8e/DSvmG7AQ2su2YbaLofEs8Y2KR9WrJePOBJPrmrIB7Z3kCNWlpg1MIBH4JJaDJbtCLbExFzfoXHnGw1jt0hC+BWWRmRKdrymBMJfOmjaHcJ5XPYO0vxA1px91dVLeeqRKqDnFQd+6tLb7Wapt19ys/dBn3ER9E=;R2FZf8GJOXxN3wIL3vne6Q=="
 ---
 

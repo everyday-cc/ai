@@ -72,14 +72,14 @@ related:
   - title: "Humanoid robots are here, but they’re a little awkward. Do we really need them?"
     excerpt: "Forget affable-appearing Rosey and Robby of sci-fi yesteryear; today’s humanoid robots are a bit more Terminator-esque. Do we even need them? Artificial intelligence pioneers weigh in."
     publishedDateTime: 2023-11-06T18:30:00Z
-    webUrl: "https://omaha.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_084fa193-d022-5916-beb6-0606061398a2.html"
+    webUrl: "https://www.stltoday.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_9d8f93c0-9c17-5140-a004-70ed7282930b.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 35
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/84/084fa193-d022-5916-beb6-0606061398a2/6548f44d0d950.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/d8/9d8f93c0-9c17-5140-a004-70ed7282930b/6548f44d40334.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
         width: 670
         height: 352
         isCached: true

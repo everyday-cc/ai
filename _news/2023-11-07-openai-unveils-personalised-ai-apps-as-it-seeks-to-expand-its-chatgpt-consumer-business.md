@@ -103,6 +103,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Reuters NEXT Google wants AI chatbot Bard to help it reach billions of users"
+    excerpt: "Google's experimental chatbot Bard is a path to developing another product with two billion users, a director said on Thursday at the Reuters NEXT conference in New York."
+    publishedDateTime: 2023-11-09T22:56:00Z
+    webUrl: "https://www.reuters.com/article/reuters-next-google/google-wants-ai-chatbot-bard-to-help-it-reach-billions-of-users-idUSKBN32423G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+    images:
+      - url: "https://www.reuters.com/resizer/bSu4rK9OmQDlrcRJsuY3ED6pxz8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PMGE5Z7KDZP2VPURSKNDORCVIA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Warning: Hackers Using Bing's AI Chatbot To Trick Users – Yahoo Finance"
     excerpt: "It looks like the robots are turning to the dark side — or are being coerced into it by a group of clever hackers.According to some tech-savvy security"
     publishedDateTime: 2023-11-09T03:44:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/context-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/08/context-is-king-how-ctos-can-ensure-generative-ai-delivers-expected-outcomes/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Here’s How Violent Extremists Are Exploiting Generative AI Tools"
+    excerpt: "Experts are finding thousands of examples of AI-created content every week that could allow terrorist groups and other violent extremists to bypass automated detection systems."
+    publishedDateTime: 2023-11-09T23:00:00Z
+    webUrl: "https://www.wired.com/story/generative-ai-terrorism-content/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/654d640f71250da0bf23bfca/191:100/w_1280,c_limit/security_extremists_ai.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Numerade Launches Ace Images to Deepen Students' Learning and Understanding Through AI-Generated Visual Aids"
     excerpt: "Generative AI has made a significant impact ineducation, providing opportunities to drive positive learning outcomes. In fact, student retention on Numerade has increased by 33% since the introduction of Ace showing that students are spending time receiving step-by-step guidance and support from the AI tutor."
     publishedDateTime: 2023-11-08T16:15:00Z

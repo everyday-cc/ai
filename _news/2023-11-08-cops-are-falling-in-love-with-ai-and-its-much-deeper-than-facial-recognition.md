@@ -3,8 +3,8 @@ category: news
 title: "Cops are falling in love with AI, and it’s much deeper than facial recognition"
 excerpt: "While facial recognition has well-known bias and privacy problems when it comes to law enforcement, tech companies are pitching a variety of new ways to use AI for policing."
 publishedDateTime: 2023-11-07T22:22:00Z
-originalUrl: "https://www.aol.com/cops-falling-love-ai-much-202236582.html"
-webUrl: "https://www.aol.com/cops-falling-love-ai-much-202236582.html"
+originalUrl: "https://www.aol.com/cops-falling-love-ai-much-202236582.html?ref=biztoc.com"
+webUrl: "https://www.aol.com/cops-falling-love-ai-much-202236582.html?ref=biztoc.com"
 type: article
 quality: 52
 heat: -1
@@ -55,6 +55,6 @@ related:
         height: 631
         isCached: true
 
-secured: "/PDI+esxSov2zjdGxC6ZIdarA0K6v9R2tMM+UFOc8DYGrf6AXlm+ZKP9mAe0hmDP00CdXty4EiAprdx4V/03nMw7gd9MF7tyRL11HAUJruUjWwOSgKacilJJ2LtLLIcJsXHp35SycLeAf7cTuPUDKDQdaOXECj4QhUkf/e3Czdqzvd/NGZPNnd8T7wIx0wvwzDSyzCBRxeBfC+mawEQa2ca6WEL8iRT1tu3YY2fg0IKECpTCVGVd3WP7y1KQgJ7GNQyXc/OcTo8Y1o2qRPHjiZPWVvKrQq65/80YbOdGdoFAJr59IhT8BKicQHeoRjr0BkgWG8TTqghahde9qizGKH/yUtfi53A037sYJZvWiYM6q+j5hYmyZ2rRR0hVn/VSPxoN5lEBuCQZrWoLLRj8SGMhESBLK57dyHf3iJ/GCqSeJEYrXSONQ74yWHdp7vU/kexx2TWgX/EYZPJS0T8+etQN9k8Wc3mAbZ0VPa2KPBKzhfEuimustxBgEXN3zIGLLu1RPFNpFdIR3Ic/6j3HDA==;Myr9K6eA4fDUeX5wq+asdA=="
+secured: "vL2oRYB40HRkYNKJ88StFbGWZ0/dbu2cQVmA8eMyaBZR57kMtXvF/DEze5mpmoYholLMWWsiyxhzneBtj2r4Cwyl049xTcsdXwAH7hgexFwJ3bLEwpx8jiXry1w3v1NdNMjRKTOeMCmcQS+p+o22zwodJUTXrqIw4DDrN6IvnNfoAAEjCN2rV7EdgyaQwhNZxWY7Nsi8YJ6EONYvgehoOVLvsZ8/Kj02SHBZnYw/oYJMiGey6CW/HT6y0l+2eVReOuDcYZjQ6UmcuNOUKiE5QuQKpPjREI7q3SnMB1z0t7LEMmigFomCbsXt0nGG7qCheElaFg51tsVeTli9USDTqP3hL0MDauWKkQDV/NxjdyE=;dI5vfESUxrJevbJkebS53Q=="
 ---
 

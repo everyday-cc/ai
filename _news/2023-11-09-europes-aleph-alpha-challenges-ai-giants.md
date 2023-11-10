@@ -24,61 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "New IBM Study Explores the Changing Role of Leadership as Businesses in Europe Embrace Generative AI"
-    excerpt: "IBM launches new European study of 1600+ senior leaders and C-level executives to explore how leadership is changing in the age of AI82% of"
-    publishedDateTime: 2023-11-08T07:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-ibm-study-explores-the-changing-role-of-leadership-as-businesses-in-europe-embrace-generative-ai-1032792831"
+  - title: "This Week In XR: Open AI Dev Day Bombshells, Aleph Alpha AI Raises $500 Million, xAI’s Grok"
+    excerpt: "To grok is to deeply understand and empathize. In a post announcing Grok last Saturday, November 4th, the company explains Grok will grok the world in real time with a Large Language Model that includes a real time feed of X as it appears on the X,"
+    publishedDateTime: 2023-11-10T00:08:00Z
+    webUrl: "https://www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/"
+    ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
+      - url: "https://imageio.forbes.com/specials-images/imageserve/654d70041a5ab56f12e6aa5c/0x0.jpg?format=jpg&crop=4325,2434,x0,y358,safe&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
         isCached: true
-  - title: "Most European finance leaders believe Generative AI will greatly boost productivity and alter..."
-    excerpt: "Finance - Leaders across Europe’s financial services sector expect Generative Artificial Intelligence (GenAI) technologies to deliver a windfall to productivity,"
-    publishedDateTime: 2023-11-07T11:49:00Z
-    webUrl: "https://business-review.eu/money/finance/most-european-finance-leaders-believe-generative-ai-will-greatly-boost-productivity-and-alter-jobs-yet-many-companies-lack-workforce-upskilling-strategies-253644"
+  - title: "Thrilling $500M Boost for AI Startup Aleph Alpha"
+    excerpt: "Aleph Alpha, a German artificial intelligence (AI) startup, revealed on Monday that it secured $500 million in a Series B funding round."
+    publishedDateTime: 2023-11-09T06:48:00Z
+    webUrl: "https://www.dmnews.com/thrilling-500m-boost-for-ai-startup-aleph-alpha/"
     type: article
     provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 43
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 37
     images:
-      - url: "https://business-review.eu/wp-content/uploads/2023/11/Andrei-Ratiu-EY-Romania.jpg"
-        width: 1773
-        height: 1182
-        isCached: true
-  - title: "Europe's top experts discuss future of AI in Brussels"
-    excerpt: "International Artificial Intelligence Summit in the heart of the EU seeks to find answers to many of the questions around global AI regulatory cooperation, and what it will mean in practice."
-    publishedDateTime: 2023-11-08T18:31:00Z
-    webUrl: "https://www.euronews.com/next/2023/11/08/watch-live-euronews-ai-summit-kicks-off-in-brussels"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 39
-    images:
-      - url: "https://static.euronews.com/articles/stories/08/02/22/68/1000x563_cmsv2_b5e3b8e7-65a2-5d59-b570-470329d11fd4-8022268.jpg"
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/11/Thrilling-Aleph-Boost.jpg"
         width: 1000
-        height: 563
-        isCached: true
-  - title: "Europe and the US won’t win the AI race by depriving themselves of talent"
-    excerpt: "However, the US retains a unique advantage in its ability to attract talent that is all but impossible for other countries to replicate. Immigration has always been a powerful force in amplifying America’s talent base, especially in the tech sector."
-    publishedDateTime: 2023-11-07T05:00:00Z
-    webUrl: "https://www.ft.com/content/1758cf33-d646-435c-b154-3cc6352567b5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 38
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
+        height: 523
         isCached: true
 
 secured: "PJsOTwhckm/MEA99Ki1i5SiTFh4gEmCl2jmgBUMQVwR+8BzRta6wIzifAFwtgb6T5aSKSKY7+X5fknbtZ6sOzmCRCQ2EQcmnV6YJBi/NrOnyoQI/iQIZ2sWA+ms7/fUmVYI+hDKagcciZS/4Tg9LP7VGjffuktNktS92F5/TZjiVV1/iwKhF0Ne1GYxyCT/XywZCCSMjxmKyORq5dAghn3hWZXnUTCbuvyuiDbLoEzniFbYz2ONlWDn+1emb86sBtW+kkkvAIXLjwuNU1A+WYr65KYYhl1Y7qILLDPAwHc0BOz7Y/ayXzk+L8xOqE/4JnqotpSME4BM3j7DgEqVTu486SZUIpQ7wbN+72mv80ZU=;zQvHYq/NDMYhPcPkKD+8Kw=="

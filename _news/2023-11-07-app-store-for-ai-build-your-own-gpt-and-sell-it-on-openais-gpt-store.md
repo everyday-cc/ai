@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI startup Anthropic to use Google chips in expanded partnership"
+    excerpt: "Anthropic will deploy Google’s Cloud TPU v5e chips to help power its large language model, named Claude, the companies said on Wednesday. Such software uses a flood of data to train AI interfaces, letting them field questions and generate conversational text."
+    publishedDateTime: 2023-11-09T20:34:00Z
+    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-to-use-google-chips-in-expanded-partnership/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
   - title: "The evolution of Artificial Intelligence"
     excerpt: "But first, a bit of a timeline or history. In 1943, Warren McCulloch and Walter Pitts proposed a mathematical model of artificial neurons. This became the cornerstone for developing neural networks and computational models inspired by the human brain."
     publishedDateTime: 2023-11-09T19:45:00Z
@@ -98,15 +107,6 @@ related:
       name: Daily News
       domain: dailynews.lk
     quality: 21
-  - title: "AI startup Anthropic to use Google chips in expanded partnership"
-    excerpt: "Anthropic will deploy Google’s Cloud TPU v5e chips to help power its large language model, named Claude, the companies said on Wednesday. Such software uses a flood of data to train AI interfaces, letting them field questions and generate conversational text."
-    publishedDateTime: 2023-11-09T20:34:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-to-use-google-chips-in-expanded-partnership/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "kosmyOlMjG8FyB7hw2TW274wqwWdbuhKiP2U2rZWGhxXrzxBpDvx2UruorGYBmd0b1qF+AXiFxNNFi6l7Z4wpEzEWdV4fooWZdMlBS/hzjcfBIe08CzUNW7vAz6Ed14EbmQzPtkaWoR7R91tBmgrswG1HHauwaR3V6zhlT1cCOIUcmc1ktdwyS5DOOlBeTPhDFpYKk9h4ZGfMm4REFpvvMyU6V4y3dQ5gsFN1mp0tj0sbUm7vt8UASBF6+1AUA2YVKfL/WfZbBqwqdhez1XDnN2Vp12UiMNaOSbZF87GWDAwAj/eli4hi76ok+/OqkB2AD7O70XG/MFnEeZtaMAEcGeHB65VMNCPnNf615QBuqE=;3p/SN5e0DrFExET33ERfsw=="
 ---

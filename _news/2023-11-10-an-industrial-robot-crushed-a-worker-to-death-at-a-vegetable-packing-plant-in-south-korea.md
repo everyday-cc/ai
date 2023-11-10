@@ -2,24 +2,24 @@
 category: news
 title: "An industrial robot crushed a worker to death at a vegetable packing plant in South Korea"
 excerpt: "\"It wasn't an advanced, artificial intelligence-powered robot, but a machine that simply picks up boxes and puts them on pallets,\" said Kang Jin-gi, who heads the investigations department at Gosong Police Station. He said police were working with related ..."
-publishedDateTime: 2023-11-09T22:03:00Z
-originalUrl: "https://missoulian.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_b1510909-ad82-53f1-9937-3ba4a3da50aa.html"
-webUrl: "https://missoulian.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_b1510909-ad82-53f1-9937-3ba4a3da50aa.html"
+publishedDateTime: 2023-11-09T22:19:00Z
+originalUrl: "https://pantagraph.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_526fad0a-d4f5-5583-97f2-52a4a3a36358.html"
+webUrl: "https://pantagraph.com/news/nation-world/science/industrial-robot-crushes-worker-to-death-at-south-korea-plant/article_526fad0a-d4f5-5583-97f2-52a4a3a36358.html"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Missoulian
-  domain: missoulian.com
+  name: The Pantagraph
+  domain: pantagraph.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/b/15/b1510909-ad82-53f1-9937-3ba4a3da50aa/654d5391e248e.preview.jpg?crop=1418%2C744%2C6%2C56&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/5/26/526fad0a-d4f5-5583-97f2-52a4a3a36358/654d53926cde5.preview.jpg?crop=1418%2C744%2C6%2C56&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -97,6 +97,6 @@ related:
       domain: manufacturing.net
     quality: 13
 
-secured: "kuAYVneEfRIdERYA/6QF8zcPDKLBq0K5DOhsJsK7gGvH+FzOVIwf+q9q3erkJjCRd5wr+DwkUNvT36N6HQ+V3/IpzCzJBG4u5aqIdCKzknbk836rvHRz8Do4Ewu3HJsE+wBT80nVO5qsy5hdkxEa8yIVnMRxkIEjPN3ZFlOo9ZFPpBHWhJuXBGUxrWCw4hFV1TnH5m6pSzX30m9QkgU3b2gTC+No6e+atgmvIeUgilRpViYepHurnGexDypm5deR8GxnmeZLRyFJuuTUahWDBtEW+1e3fviwEmhH4ZtYNwUB3aoBl1wDckVfltsaQMi3HBmANcshQsu9VW1GbAAMIMQmVE2vtQl4Pf+8B69mWMU=;UQcXbkZDsyJU3mg77jszHw=="
+secured: "zRI/UUjk8maX5PvCdNp3tRCSxFktwQuAOhYycWRIWE8l0xq4qEpM4FzlaN7cDi7IuBw8kLigGks6XWG/+6seXylfoKjDITx+nxmQ93iPcnKs/QivJqOm/kY24HynuWNngDoZfmwZw1yHc2G9Q+3QC7qnhrAFRVyrnvnVqohFxOARXP0TWCL0X8VzUsQ6mJebM4NuVmqFhTvvAU8qsUSEwfnCbtiOZ6mgWM4GcM7BWvf+JfFsJ6qmLcXj6faSqiHKEIL8MSWhnKTNbzBrW461UGucFJ7U082/XYv5vIEYqiv1hvb7aZErIDTPNDAH2xsL/dOkID6i7l8EHL+m1runUQpINAh1H+fo33DPNvY7A0c=;UEwhnrnMM9iD4HUiB43/Jg=="
 ---
 

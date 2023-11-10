@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/08/tijani-artificial-i
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/08/tijani-artificial-intelligence-can-enhance-good-governance-security-others?amp=1"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

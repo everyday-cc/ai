@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/new-ibm-study-expl
 webUrl: "https://markets.businessinsider.com/news/stocks/new-ibm-study-explores-the-changing-role-of-leadership-as-businesses-in-europe-embrace-generative-ai-1032792831"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
         width: 619
         height: 377
-        isCached: true
-  - title: "Europe’s Aleph Alpha Challenges AI Giants"
-    excerpt: "Challenges faced by Aleph Alpha include addressing the diverse needs of European stakeholders, maintaining a universally applicable AI model, navigating stringent data privacy regulations, and addressing ethical concerns surrounding AI applications."
-    publishedDateTime: 2023-11-09T06:56:00Z
-    webUrl: "https://www.dmnews.com/europes-aleph-alpha-challenges-ai-giants/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 37
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/11/AI3.jpg"
-        width: 1000
-        height: 561
         isCached: true
 
 secured: "CNZUHWcMuXaprzValTFh4Yu+LQyRxydTJ7V3YEZym42r/5pJVeQmH6wb7R/vqTlQWN5EnV7p5aoy+2BR+eSuGipCk5e7mFfEz5g1ADMmfDW1D7IYhE3rrMr7P0cZo/ofaIalU5mHTTa1viUyEWu+j+aRMb9XPlmM324u1cfDNYsXD80Y77BfOQdhX0QgQXE6kkZun46eujLJ3mX6KfX4+fuoCfIf5Byz0otIJA21zHpMsc++W3RcKQrp629JkKmVX02Ctg4scoqykHS/4ailEint0XbjRn5WgS1fI5k4KAqurFcyMPlrXImjyVz7AaJwU9U0EpXWQuIQKNHLJK9UsStvMZordU0ppuo/ldMqEJqLOwL6RMCfbJQ5350xnn1vOBBTeZa+WsZljDOyoUrf60DuR7PakvJgaiJNMqTc4UwEDaCT5gdUVxjsb99gEgr+PTwDzVpAus0zpcc8O/9o8Ua3vTANnehmUCQTZd2q8NHHM2+a7AUxL4h84miEj1stkiAtIoUCySbezmk60w1U2g==;TpIP2U5CommhdDlE2/fC3w=="

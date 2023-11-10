@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI startup Anthropic to use Google chips in expanded partnership"
+    excerpt: "Anthropic will deploy Google’s Cloud TPU v5e chips to help power its large language model, named Claude, the companies said on Wednesday. Such software uses a flood of data to train AI interfaces, letting them field questions and generate conversational text."
+    publishedDateTime: 2023-11-09T20:34:00Z
+    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-to-use-google-chips-in-expanded-partnership/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
   - title: "The evolution of Artificial Intelligence"
     excerpt: "But first, a bit of a timeline or history. In 1943, Warren McCulloch and Walter Pitts proposed a mathematical model of artificial neurons. This became the cornerstone for developing neural networks and computational models inspired by the human brain."
     publishedDateTime: 2023-11-09T19:45:00Z
@@ -94,15 +103,6 @@ related:
       name: Daily News
       domain: dailynews.lk
     quality: 21
-  - title: "AI startup Anthropic to use Google chips in expanded partnership"
-    excerpt: "Anthropic will deploy Google’s Cloud TPU v5e chips to help power its large language model, named Claude, the companies said on Wednesday. Such software uses a flood of data to train AI interfaces, letting them field questions and generate conversational text."
-    publishedDateTime: 2023-11-09T20:34:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-to-use-google-chips-in-expanded-partnership/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "E4KaYSdXw048M2fvGoS5/9xuzQX+0meQsNn/8Z3MqUQi0udH2jtxQyVYQAnUkIreazvifQQ1EQRsCGmESj8/9Pa+WzoDOoEjz0KbQL03Pkun+tGWXnG5vEZk8Vxm/9yTsuaPsgrEC0Pp/s01VBbcbf/1mYUY2qfdXRSV+ckC2AodMweZ84B6ktMHeNgAcRKFtmB4y2/ZnTSUOEKHg7bPdqTnpx9z9YBxdIkAAwQ6ij9X8HfkS3prGssVJDC4TmddXh/ljJ1iFVyOsBQZWZfPSjwp1s2UwA0Z2G8y7+Vc5AsNhwAFciYTqMOTXKwLkN1JQPdorhhIpeQ0oocYVvmMgV5mIFPdUuruv33eHULivBVXCy+LaLKMgKmElQvJ8TjMv0lZr0zHGPndUlz3QQV2TPa5P1WS/VCLHUxC0x8rLyHlvWsQiIilHLIEnCCBMCZbgRo/yTU5WbkJCXGiIt1DSZ2lu0qnvi95X+22rJSNnwcGV/8m3qU9+OYiuE8vC3/8Bc0UQJEOyVyiywKNr+7p7A==;lPaJZ7bY4dMVkTB4R5vO9A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/black-friday/amazon-black-friday-deals"
 webUrl: "https://www.techradar.com/black-friday/amazon-black-friday-deals"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AWS AI
   - AI
   - AI in Sales
+
+related:
+  - title: "Amazon Black Friday deals 2023 - the 35+ best sales to shop right now"
+    excerpt: "While the official Amazon Black Friday deals event is set for November 17, there are plenty of early offers to shop right now. You can find record-low prices on TVs, appliances, Apple gadgets ..."
+    publishedDateTime: 2023-11-08T19:54:00Z
+    webUrl: "https://www.techradar.com/black-friday/amazon-black-friday-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 71
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/NiTNVFTYd9WoQxMzQdCPnM-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "n1bQws9c9X8I1XXxdNHRK0pFEd/QwMYVJ7IBRS7tVADwcuEtZGJbL12KgGyHwbdb0o/YiNxxcZzZ6F1VfdgFtlx4X6HGcvL0rr8JBL9XCaXivMpz7zDJhjDX3tJygdIgiV1wPgSFY7vcoPOYDispAiptwnm11UoouDjtEUFTMh8S98qPqYN4Gp2xr58lanXYzW0S+sTk9NaQqjYc2tBzVJUkW/RvdGgCPCIHF67Xe+BJXrCPZcZ20IALfusrquXHqGiUhHfTDTGOM94Jc2jyjbAIgfkfiBEbs3ZzVc42R0lZ9+K+10A+VkPiilWQHqQrtxxFPswF1wfWSIsuvU4cNjY85erhx6Gpr2hZvUNmTvs=;73IkTjrghlKZzEbGSHgJVQ=="
 ---

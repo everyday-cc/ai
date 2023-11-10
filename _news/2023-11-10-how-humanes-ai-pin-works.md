@@ -61,6 +61,34 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 49
+  - title: "Humane Launches Wearable AI Pin With a $700 Price Tag"
+    excerpt: "AI developer startup Humane officially launched the first iteration of its wearable AI pin on Thursday. Humane also confirmed the rumor that the pin would retail for $699 for the complete system, calling it a new beginning for personal consumer technology."
+    publishedDateTime: 2023-11-10T00:05:00Z
+    webUrl: "https://decrypt.co/205422/humane-wearable-ai-pin-700-dollars-privacy"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 37
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/11/Decrypt-Wallpaper-Format-2023-11-09T153709.544-gID_7.png"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Humane unveils an AI-powered wearable smart pin that could replace your phone"
+    excerpt: "Humane today unveiled its long-awaited artificial intelligence-powered wearable, the $699 Ai Pin, which the company says will revolutionize the way that people interact with their devices."
+    publishedDateTime: 2023-11-09T22:39:00Z
+    webUrl: "https://siliconangle.com/2023/11/09/humane-unveils-ai-powered-wearable-smart-pin-replace-phone/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ai-pin-screenshot.png"
+        width: 1650
+        height: 1042
+        isCached: true
   - title: "The Humane Ai Pin is a $699 screen-free wearable designed to replace your smartphone"
     excerpt: "A startup called Humane has been teasing a smartphone alternative for much of the year, and now the company has unveiled its screen-free mobile device called the Ai Pin. It goes on sale November 16 for $699 and customers in the US will be able to get unlimited text, talk, and data on T-Mobile’s network for $24 per month."
     publishedDateTime: 2023-11-09T17:13:00Z

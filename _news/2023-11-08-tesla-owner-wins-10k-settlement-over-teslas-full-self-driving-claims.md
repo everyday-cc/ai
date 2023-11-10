@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/11/07/tesla-owner-wins-10k-settlement-ove
 webUrl: "https://electrek.co/2023/11/07/tesla-owner-wins-10k-settlement-over-teslas-full-self-driving-claims/"
 type: article
 quality: 84
-heat: 96
+heat: 94
 published: true
 
 provider:

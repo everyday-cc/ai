@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/11/09/former-apple-designers-at-humane
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html"
 type: article
 quality: 87
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -63,6 +63,34 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Humane Launches Wearable AI Pin With a $700 Price Tag"
+    excerpt: "AI developer startup Humane officially launched the first iteration of its wearable AI pin on Thursday. Humane also confirmed the rumor that the pin would retail for $699 for the complete system, calling it a new beginning for personal consumer technology."
+    publishedDateTime: 2023-11-10T00:05:00Z
+    webUrl: "https://decrypt.co/205422/humane-wearable-ai-pin-700-dollars-privacy"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 37
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/11/Decrypt-Wallpaper-Format-2023-11-09T153709.544-gID_7.png"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Humane unveils an AI-powered wearable smart pin that could replace your phone"
+    excerpt: "Humane today unveiled its long-awaited artificial intelligence-powered wearable, the $699 Ai Pin, which the company says will revolutionize the way that people interact with their devices."
+    publishedDateTime: 2023-11-09T22:39:00Z
+    webUrl: "https://siliconangle.com/2023/11/09/humane-unveils-ai-powered-wearable-smart-pin-replace-phone/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ai-pin-screenshot.png"
+        width: 1650
+        height: 1042
+        isCached: true
   - title: "The Humane Ai Pin is a $699 screen-free wearable designed to replace your smartphone"
     excerpt: "A startup called Humane has been teasing a smartphone alternative for much of the year, and now the company has unveiled its screen-free mobile device called the Ai Pin. It goes on sale November 16 for $699 and customers in the US will be able to get unlimited text, talk, and data on T-Mobile’s network for $24 per month."
     publishedDateTime: 2023-11-09T17:13:00Z
@@ -87,6 +115,6 @@ related:
       domain: bgr.com
     quality: 9
 
-secured: "qDyr1N4wxUxtoKt53zuWVbMcgm4qhpChkoDMbcAU0msRqzhW04OrubD+Zizmioo/EY657JA/2XJQo3Bjz5UQ4wXd76XoTxiblcrqewKXW9+fY9aDsX+s0E0mn6OgObmHDxtH/M9veywyUtJ+HTX8QZ1Bp1sl+79VQtgo+0FQOA75hk1L2GHNjqcbrS0JKaT6wBViCl82wESUbzRRKHkTSx1a/6zAE2NUd8+BvJuTsMU8GfPmoSKW8An7nIcrAOtyrv+Z9pqMuAdASbc2j+fq6R/Ms2J8SFHsdkRiDt26UgoWeC8s/Pi+M+TWdEo03hoCi/844PozdD0d2TvmadGNOrjmq0dTvMENM92IrB+sE7k=;KGtX87zaapHZTl8btBZf1w=="
+secured: "7QV2I2kyeRM0Pd/U0uUg+KMilyxBmjGkWHx5PbMGaKfe39JPUe4ZHGUrN+U0ERap7gkauc2sv7gHwL+aeslYpYVYVwTKWnf+OEMo3xtpfXBd34Md0BxuSQ/tuw8323qR4diktTesfdR/1gr0H3o6AbnE6ryZdiZzJx59IZU6SkM7gwbCaS4hRqtsFOpkeX92z1G8/RrTa5MxZe6veL5DV4rN7GqB1gKX6Jqnb8KcjLrloVViNsbKv927+RwlV7ii1AWPqtxg8s6gF/A6j99c2OKxOyZZyiO2s5gtm1LnU6tk1Fci17DF9ZkAy8P1cipKyYlSVw4Q4YwtaRFNaUIz1EvvazDqXPM/2OtqqaJQ4rJ027aipXWR7HqHwKg1be+yc16YoPaE8ur795UCYM6orAz8ZbcmhJRrMHPqzQLNjnzDufKm9hjNtprlb032h3EcN1ss7uNMePx4SaB1ch6TT7eP1OqXCn1wUInIKPnDTjllabxtVt25tUuDtYUZNcKHrid9L9Dg/ZPna5HaL+YNmw==;m6UMHcfRc1XymhFwVZJnbA=="
 ---
 

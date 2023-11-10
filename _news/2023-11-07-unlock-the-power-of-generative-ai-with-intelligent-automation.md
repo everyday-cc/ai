@@ -55,6 +55,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 94
+  - title: "How Small Business Entrepreneurs Can Level Up With AI"
+    excerpt: "As technology advances, those outside of the tech industry, including small business owners (SMB’s), are often left behind and competitively disadvantaged."
+    publishedDateTime: 2023-11-10T00:04:00Z
+    webUrl: "https://www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/654d7074b221d68fc89a6075/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 834
+        isCached: true
   - title: "Chinese Smartphone Makers Aim To Beat Apple And Samsung In Generative AI"
     excerpt: "Chinese phone makers, on the other hand, are adopting a different mindset. The likes of Xiaomi, Oppo, Vivo, and Huawei want to “squeeze” generative AI into their newest devices faster than Apple and Samsung because they see it as a chance to turn the tables on their rivals in the highly competitive smartphone market."
     publishedDateTime: 2023-11-07T03:35:00Z
@@ -154,6 +170,20 @@ related:
         width: 1023
         height: 823
         isCached: true
+  - title: "Rockwell Combines Generative AI and Industrial Automation"
+    excerpt: "The reliance on text bases in modern software development means Rockwell Automation can capitalize on generative AI's ability to read, produce and generate text."
+    publishedDateTime: 2023-11-09T20:25:00Z
+    webUrl: "https://www.healthcareinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
+    type: article
+    provider:
+      name: healthcareinfosecurity.com
+      domain: healthcareinfosecurity.com
+    quality: 39
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/rockwell-combines-generative-ai-industrial-automation-showcase_image-3-a-23564.jpg"
+        width: 860
+        height: 520
+        isCached: true
   - title: "How Generative AI Will Transform Knowledge Work"
     excerpt: "Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine."
     publishedDateTime: 2023-11-07T13:05:00Z
@@ -168,15 +198,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Rockwell Combines Generative AI and Industrial Automation"
-    excerpt: "Rockwell worked with Microsoft on the creation of these capabilities and uses Open AI to communicate with Rockwell products running in Azure, he said (see: Rockwell Forges Gen AI Pact With Microsoft, Buys Cyber Firm). \"Rockwell knows the OT side of things."
-    publishedDateTime: 2023-11-09T20:36:00Z
-    webUrl: "https://www.govinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 19
   - title: "MicroStrategy ONE™ Platform Now Available in AWS Marketplace, Empowering Businesses with AI-Driven Business Intelligence"
     excerpt: "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS), customers can now access a ready solution for deploying ..."
     publishedDateTime: 2023-11-07T19:18:00Z

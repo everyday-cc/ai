@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/11/09/galaxy-ai-likely-to-debut-on
 webUrl: "https://www.gizmochina.com/2023/11/09/galaxy-ai-likely-to-debut-on-galaxy-s24-series-ai-live-translate-call-feature-revealed/"
 type: article
 quality: 76
-heat: 266
+heat: 276
 published: true
 
 provider:
@@ -104,6 +104,22 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2023/11/samsung-galaxy-s24-ai-based-translate.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Samsung unveils AI features for Galaxy phones that can translate your phone calls"
+    excerpt: "(Web Desk) - Samsung has introduced a new Galaxy AI feature, which promises to offer several AI-based features to Samsung phone users for a better smartphone experience. It confirmed that people will soon see the AI Live Translate Call tool. Samsung has taken a leap into the future of smartphone technology with the introduction of \"Galaxy AI.\""
+    publishedDateTime: 2023-11-09T23:40:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/769367-Samsung-unveils-AI-features-for-Galaxy-phones-that-can-translate-your-ph"
+    ampWebUrl: "https://dunyanews.tv/amp/english/769367.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/769367.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 69
+    images:
+      - url: "https://img.dunyanews.tv/news/2023/November/11-10-23/news_big_images/769367_44222801.jpg"
+        width: 752
+        height: 423
         isCached: true
   - title: "Samsung Teases 'AI Live Translate Call' Feature Coming to Galaxy Phones"
     excerpt: "\"Galaxy AI is a comprehensive mobile AI experience, powered by both on-device AI developed at Samsung and cloud-based AI enabled by our open collaborations with like-minded industry leaders,\" Samsung says. \"It will transform your everyday mobile experience with the peace of mind you count on from Galaxy security and privacy.\""
