@@ -46,6 +46,22 @@ related:
         width: 1277
         height: 843
         isCached: true
+  - title: "How to Leverage Generative Artificial Intelligence in Customer Service"
+    excerpt: "One way for businesses to leverage generative AI to improve the customer experience is to upgrade their call center technology with AI-driven solutions. This includes implementing intelligent bots to directly handle certain aspects of the customer experience while enhancing others."
+    publishedDateTime: 2023-11-06T22:30:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service"
+    ampWebUrl: "https://biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202311/GettyImages-1473086732.jpg?itok=owGHTh-q"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "6 ways business leaders are exploring generative AI at work"
     excerpt: "But he expects to see rapid progress in the level of automation -- and he advises all professionals to start exploring generative AI. \"I think the speed at which it's come to market and is developing means that everybody should be keeping an eye on it,\" he ..."
     publishedDateTime: 2023-11-08T20:27:00Z
@@ -55,15 +71,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "Five Signs Your Company Is Ready For Generative AI"
-    excerpt: "Recognizing the signs that your company is ready for generative AI is a pivotal step toward safely embracing the transformative power of this emerging technology. The potential rewards, from streamlining operations to fostering innovation, are immense and well-documented."
-    publishedDateTime: 2023-11-07T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/five-signs-your-company-is-ready-for-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "There’s more to AI than generative AI"
     excerpt: "It is typically used for deciphering complex data, such as image, text, audio, and/or video recognition, or for other complex ... as to what is the next most probable term or object to follow in building a sentence, constructing an image or extracting ..."
     publishedDateTime: 2023-11-09T16:30:00Z

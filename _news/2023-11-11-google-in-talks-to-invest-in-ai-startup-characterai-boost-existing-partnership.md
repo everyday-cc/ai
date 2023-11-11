@@ -43,20 +43,20 @@ related:
         height: 900
         isCached: true
   - title: "Google in talks to invest in AI startup Character.AI"
-    excerpt: "The investment, which could be structured as convertible notes, according to a third source, will deepen the existing partnership Character.AI already has with Google, in which it uses Google's cloud services and Tensor Processing Units (TPUs) to train models."
-    publishedDateTime: 2023-11-11T04:44:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/articleshow/105139693.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/amp_articleshow/105139693.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/amp_articleshow/105139693.cms"
+    excerpt: "Google in talks to invest hundreds of millions in Character.AI, a fast-growing AI chatbot startup. Deal could deepen existing partnership, with Character.AI using Google's cloud services and TPUs. Company appeals to 18-24 age group,"
+    publishedDateTime: 2023-11-11T07:50:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/google-in-talks-to-invest-in-ai-startup-characterai/article67524220.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-in-talks-to-invest-in-ai-startup-characterai/article67524220.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-in-talks-to-invest-in-ai-startup-characterai/article67524220.ece/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: The Hindu
+      domain: thehindu.com
     quality: 57
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211832,msid-105139706/what-googles-antitrust-trial-means-for-your-search-habits.jpg"
-        width: 600
-        height: 450
+      - url: "https://th-i.thgim.com/public/incoming/74qw6v/article67524223.ece/alternates/FREE_1200/Google_Antitrust_Showdown_Repercussions_61998.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "China major force in responsible AI use, experts say"
     excerpt: "They made the remarks at the ongoing 2023 World Internet Conference Wuzhen Summit."

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Size & Share to Surpass $7.1 Billion by 2030 | Vantage Market Research"
-    excerpt: "As per Vantage Market Research, the Global Artificial Intelligence in the Drug Discovery Market has been steadily growing over the years due to the growing demand for"
-    publishedDateTime: 2023-11-06T16:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35624848/artificial-intelligence-ai-in-drug-discovery-market-size-share-to-surpass-7-1-billion-by-2030-vant"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35624848"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35624848"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Artificial Intelligence (AI) In Social Media Market To Generate $11.99 Billion By 2031 | CAGR 28.7%"
     excerpt: "AI-driven algorithms that are able to scan social media data to detect possible financial hazards including market volatility, fraud, a"
     publishedDateTime: 2023-11-08T00:46:00Z

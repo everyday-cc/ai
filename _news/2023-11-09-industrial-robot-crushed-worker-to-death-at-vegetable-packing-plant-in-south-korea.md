@@ -69,17 +69,17 @@ related:
         isCached: true
   - title: "Industrial robot at vegetable packing plant in South Korea crushed worker to death"
     excerpt: "Police say initial information indicated that human error may have been the root cause of the incident over the machine itself."
-    publishedDateTime: 2023-11-11T01:09:00Z
-    webUrl: "https://www.wsbtv.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/"
-    ampWebUrl: "https://www.wsbtv.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/?outputType=amp"
+    publishedDateTime: 2023-11-11T07:10:00Z
+    webUrl: "https://www.kiro7.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/"
+    ampWebUrl: "https://www.kiro7.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/?outputType=amp"
     type: article
     provider:
-      name: WSB-TV
-      domain: wsbtv.com
+      name: KIRO-TV
+      domain: kiro7.com
     quality: 53
     images:
-      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/kCJmZW3kloT40uv2CB2CsqOCvGQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/LJZRCMADDFD2PBXAG76JXSK3BU.jpg"
+      - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/kCJmZW3kloT40uv2CB2CsqOCvGQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/LJZRCMADDFD2PBXAG76JXSK3BU.jpg"
         width: 1440
         height: 810
         isCached: true

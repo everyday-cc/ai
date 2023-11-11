@@ -22,75 +22,74 @@ topics:
   - AI
 
 related:
-  - title: "Building for the future: The enterprise generative AI application lifecycle with Azure AI"
-    excerpt: "The enterprise development process requires collaboration, diligent evaluation, risk management, and scaled deployment. By providing a robust suite of capabilities supporting these challenges, Azure AI affords a clear and efficient path to generating value in your products for your customers.\nThe post"
-    publishedDateTime: 2023-11-06T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/building-for-the-future-the-enterprise-generative-ai-application-lifecycle-with-azure-ai/"
+  - title: "EX Recession And AI Revolution Will Reshape The Future Of Work In 2024"
+    excerpt: "Generative AI lit a fire of innovation under a previously fallow artificial intelligence market. In 2024, employees and employers both stand to benefit: Employees will be empowered with new generative AI-based tools,"
+    publishedDateTime: 2023-11-08T14:59:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 95
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/11/Enterprise-Lifecycle.png"
-        width: 800
-        height: 448
+      - url: "https://imageio.forbes.com/specials-images/imageserve/654baec230d1aa1a1f10f5af/0x0.png?format=png&height=900&width=1600&fit=bounds"
+        width: 1050
+        height: 788
         isCached: true
-  - title: "Build trust and safety for generative AI applications with Amazon Comprehend and LangChain"
-    excerpt: "We are witnessing a rapid increase in the adoption of large language models (LLM) that power generative AI applications across industries. LLMs are capable of a variety of tasks, such as generating creative content, answering inquiries via chatbots, generating code, and more. Organizations looking to"
-    publishedDateTime: 2023-11-10T20:39:56Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/"
+  - title: "The future of airport security is facial recognition"
+    excerpt: "What is certain is that credential authentication technology is the driver that will transform airport security, and that biometrics like facial recognition are critical to effect this"
+    publishedDateTime: 2023-11-09T15:30:00Z
+    webUrl: "https://thehill.com/opinion/technology/4301825-the-future-of-airport-security-is-facial-recognition/"
+    ampWebUrl: "https://thehill.com/opinion/technology/4301825-the-future-of-airport-security-is-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4301825-the-future-of-airport-security-is-facial-recognition/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
-  - title: "How AI and automated scheduling will transform the meeting lifecycle"
-    excerpt: "With access to the right information at the right time, AI will optimize every meeting, delivering on its true value."
-    publishedDateTime: 2023-11-08T21:40:00Z
-    webUrl: "https://venturebeat.com/automation/how-ai-and-automated-scheduling-will-transform-the-meeting-lifecycle/?trk=public_post_comment-text"
+      name: The Hill
+      domain: thehill.com
+    quality: 71
+  - title: "Who will write the rules for AI? How nations are racing to regulate artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is a label that can cover a huge range of activities related to machines undertaking tasks with or without human intervention. Our understanding of AI technologies is largely shaped by where we encounter them,"
+    publishedDateTime: 2023-11-08T18:03:00Z
+    webUrl: "https://techxplore.com/news/2023-11-ai-nations-artificial-intelligence.html"
+    ampWebUrl: "https://techxplore.com/news/2023-11-ai-nations-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-nations-artificial-intelligence.amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: techxplore
+      domain: techxplore.com
+    quality: 64
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_205902735.jpeg?w=1200&strip=all"
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-rules.jpg"
+        width: 2880
+        height: 1921
+        isCached: true
+  - title: "3 out of 4 business professionals believe AI and HR function will coexist"
+    excerpt: "It remains a prominent concern for HR professionals navigating this transformative landscape. Amid the predominant ethical concerns about AI in HR, 3 out of 4 business professionals believe AI and the HR function will coexist."
+    publishedDateTime: 2023-11-08T16:04:00Z
+    webUrl: "https://www.thehansindia.com/hans/education-careers/3-out-of-4-business-professionals-believe-ai-and-hr-function-will-coexist-836287"
+    ampWebUrl: "https://www.thehansindia.com/amp/hans/education-careers/3-out-of-4-business-professionals-believe-ai-and-hr-function-will-coexist-836287"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/education-careers/3-out-of-4-business-professionals-believe-ai-and-hr-function-will-coexist-836287"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 58
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/11/08/1396944-hr.jpg"
         width: 1200
-        height: 693
+        height: 720
         isCached: true
-  - title: "Samsung jumps on the generative AI bandwagon with Gauss"
-    excerpt: "Named for a German mathematician, Gauss AI technology — including a large language model (LLM), coding capabilities, and art generation features — could debut on upcoming Samsung devices."
-    publishedDateTime: 2023-11-08T16:14:00Z
-    webUrl: "https://www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.html"
-    ampWebUrl: "https://www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.amp.html"
+  - title: "3 AI Stocks Poised to Power the Next Industrial Revolution"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is transforming the world as we know it. From"
+    publishedDateTime: 2023-11-07T00:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-poised-to-power-the-next-industrial-revolution-1032784136"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 61
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/04/04/14/enviar_imessage_android-100939355-large.jpg?auto=webp&quality=85,70"
-        width: 1199
-        height: 674
-        isCached: true
-  - title: "How to Leverage Generative Artificial Intelligence in Customer Service"
-    excerpt: "One way for businesses to leverage generative AI to improve the customer experience is to upgrade their call center technology with AI-driven solutions. This includes implementing intelligent bots to directly handle certain aspects of the customer experience while enhancing others."
-    publishedDateTime: 2023-11-06T22:30:00Z
-    webUrl: "https://biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service"
-    ampWebUrl: "https://biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service?amp"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 57
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202311/GettyImages-1473086732.jpg?itok=owGHTh-q"
-        width: 1440
-        height: 500
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "My North Star for the Future of AI"
     excerpt: "I’d seen the consequences of that over and over: brilliant technologists who could build just about anything but who stared blankly when the question of the ethics of their work was broached. The time has come to reevaluate the way AI is taught at every ..."
     publishedDateTime: 2023-11-07T13:24:00Z
@@ -100,56 +99,52 @@ related:
       name: The Atlantic
       domain: theatlantic.com
     quality: 49
-  - title: "TechSmith Audiate Launches Generative AI Features For Instant Content Creation"
-    excerpt: "TechSmith Corporation, an industry leader in visual communication and video creation, announces the launch of generative AI scripting and voiceover features in Audiate, the company’s audio recorder and text-based editing solution."
-    publishedDateTime: 2023-11-07T15:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/techsmith-audiate-launches-generative-ai-features-for-instant-content-creation-1032788734"
+  - title: "Who Will Write The Rules For AI? How Nations Are Racing To Regulate Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) is a label that can cover a huge range of activities related to machines undertaking tasks with or without human interv"
+    publishedDateTime: 2023-11-08T05:23:00Z
+    webUrl: "https://menafn.com/1107390486/Who-Will-Write-The-Rules-For-AI-How-Nations-Are-Racing-To-Regulate-Artificial-Intelligence"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "The Future of Generative AI: A Closer Look at 2024"
-    excerpt: "Welcome to the fascinating world of Generative AI, where machines have been programmed to tap into their creativity and produce awe-inspiring works that rival those made by humans. As we delve deeper into this captivating topic,"
-    publishedDateTime: 2023-11-08T11:45:00Z
-    webUrl: "https://techbullion.com/the-future-of-generative-ai-a-closer-look-at-2024/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
+      name: Mena FN
+      domain: menafn.com
+    quality: 44
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-2.jpg"
-        width: 1000
-        height: 500
+      - url: "https://menafn.com/updates/pr/2023-11/08/TC_ef96fimage_story.jpg"
+        width: 960
+        height: 640
         isCached: true
-  - title: "IBM launches $500M fund to develop generative AI for enterprise"
-    excerpt: "IBM’s primarily focused on enterprise-level solutions for its generative AI products such as its Watson X platform and numerous cloud offerings. According to Rob Thomas, a senior vice president at IBM, generative AI technologies will be a driving force ..."
-    publishedDateTime: 2023-11-07T19:32:00Z
-    webUrl: "https://cointelegraph.com/news/ibm-launches-500-million-fund-develop-generative-ai-enterprise"
+  - title: "AI expert reveals the best hiding place for the robot revolution"
+    excerpt: "Albert Fox Cahn, founder of the Surveillance Technology Oversight Project, has deep concerns about AI. He shares them in an interview with The ReidOut Blog."
+    publishedDateTime: 2023-11-09T20:40:00Z
+    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/ai-expert-concerns-robot-revolution-rcna123908"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
-  - title: "DataRobot Announces New Enterprise-Grade Functionality to Close the Generative AI Confidence Gap and Accelerate Adoption"
-    excerpt: "The new multi-provider LLM playground includes a first-of-its-kind visual interface with built-in GCP Vertex AI, AWS Bedrock, and Azure OpenAI to compare and experiment with different recipes for a combination of vector databases, foundations models ..."
-    publishedDateTime: 2023-11-09T15:56:00Z
-    webUrl: "https://www.datanami.com/2023/11/09/datarobot-announces-new-enterprise-grade-functionality-to-close-the-generative-ai-confidence-gap-and-accelerate-adoption/"
+      name: MSNBC
+      domain: msnbc.com
+    quality: 36
+  - title: "‘AI will revolutionise assessment, but implementation must be responsible’"
+    excerpt: "Conversations about artificial intelligence have taken the world by storm. In the education industry especially, it can feel like its existence brings more questions than answers, particularly because of its ever-evolving nature. However, with responsible implementation, AI presents significant opportunity to revolutionise education and assessment."
+    publishedDateTime: 2023-11-10T08:37:00Z
+    webUrl: "https://thepienews.com/the-view-from/ai-will-revolutionise-assessment-but-implementation-must-be-responsible/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 0
-  - title: "DataRobot Announces New Enterprise-Grade Functionality to Close the Generative AI Confidence Gap and Accelerate Adoption"
-    excerpt: "\"The demands around generative AI are broad, complex and evolving in real-time,\" said Venky Veeraraghavan, Chief Product Officer, DataRobot. \"With over 500 of our customers deploying and managing AI in production,"
-    publishedDateTime: 2023-11-09T18:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9915447.htm"
+      name: The PIE News
+      domain: thepienews.com
+    quality: 35
+    images:
+      - url: "https://d1pe6f90ru47yo.cloudfront.net/wp-content/uploads/2023/11/10083544/pie-image-860x375.jpeg"
+        width: 860
+        height: 375
+        isCached: true
+  - title: "Best's Review Examines Artificial Intelligence Revolution in Joint Effort With AM Best TV"
+    excerpt: "The November issue of Best's Review includes a special presentation, \"What the AI Revolution Means for Insurers, Insureds and the Insurance Workforce,\" which aired on AM Best TV throughout the year. I"
+    publishedDateTime: 2023-11-10T18:17:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35732519/bests-review-examines-artificial-intelligence-revolution-in-joint-effort-with-am-best-tv"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "7KUNfh280bh7R57G7kft5rvDOrY0AXr3Nr+G+LGmqZ4g+zsKCldGWMjmvbaIvSGQZnOlJ1EZGpG8o91fVFJ27ukQrdA1Z8/HlgA6G4jBHaB+hW/Fz6GK1qI3czn4xGQhLhrMyWExG6je7GNnpInYNrgjIUVKm7DWGkk/W2DrMxO8x0XldEvmGHN7Vv2/LTfK2/yp/Rqv+D4iiEJIgch5jNZTzDKqBObPW27HFgQTxcQZD5WXiYkqHpMBjjC+UuQ3DLOPgp8UtFxyx0dQQKCWrMnKu3xIRuXcEAZkQFH1g6Rr9M9AkfUXESanjzpbjcOv4tc7xoRkvsxco5eCM0LNIj8GEp/ZvNURoR//wkl0VB7L/xFuho5o2hS0XE+PToO/kNIeZ08LRjSSlTE1oF7IbTRmgv3PnfctOy1nZeM92J9d8R11DpXGF6u9FaaqtofNyrUe+RnzJViVD8AL0RoQ1F48M/W61JppkWIechmNPy23sRV6cL24iQtS1Zffpk5QGQh7/0EFb+NiT7EUrNpeug==;fPYegzjfjVSiditVw/kx7g=="
 ---

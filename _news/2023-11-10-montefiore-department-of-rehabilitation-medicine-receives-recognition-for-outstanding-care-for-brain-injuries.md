@@ -2,11 +2,11 @@
 category: news
 title: "Montefiore Department of Rehabilitation Medicine receives recognition for outstanding care for brain injuries"
 excerpt: "The Department of Rehabilitation Medicine at Montefiore Health System was awarded corporate citizen award for their quality care in brain injuries on Thursday."
-publishedDateTime: 2023-11-10T05:19:00Z
-originalUrl: "https://brooklyn.news12.com/montefiore-department-of-rehabilitation-medicine-receives-recognition-for-outstanding-care-for-brain-injuries"
-webUrl: "https://brooklyn.news12.com/montefiore-department-of-rehabilitation-medicine-receives-recognition-for-outstanding-care-for-brain-injuries"
-ampWebUrl: "https://brooklyn.news12.com/amp/montefiore-department-of-rehabilitation-medicine-receives-recognition-for-outstanding-care-for-brain-injuries"
-cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/montefiore-department-of-rehabilitation-medicine-receives-recognition-for-outstanding-care-for-brain-injuries"
+publishedDateTime: 2023-11-10T04:19:00Z
+originalUrl: "https://bronx.news12.com/montefiore-department-of-rehabilitation-medicine-receives-recognition-for-outstanding-care-for-brain-injuries"
+webUrl: "https://bronx.news12.com/montefiore-department-of-rehabilitation-medicine-receives-recognition-for-outstanding-care-for-brain-injuries"
+ampWebUrl: "https://bronx.news12.com/amp/montefiore-department-of-rehabilitation-medicine-receives-recognition-for-outstanding-care-for-brain-injuries"
+cdnAmpWebUrl: "https://bronx-news12-com.cdn.ampproject.org/c/s/bronx.news12.com/amp/montefiore-department-of-rehabilitation-medicine-receives-recognition-for-outstanding-care-for-brain-injuries"
 type: article
 quality: 20
 heat: -1
@@ -36,6 +36,6 @@ related:
         height: 300
         isCached: true
 
-secured: "s7ilxSLUG8Zn3e9NeiAuuZrJsPPAVzr2pPYlgx1ikEuwDue5mJEIt/UJfzuM4AWN5zAsrlj0HZ2l2PAy8mp7a2NZom+B1vQBOdrHyR7kSmM/CevQShz0ePlBoy0w/o2UNQnHu5Q2YOtmcMu7ogulB5XD68hmolvRLSitEQKdr2vZ4HQbOqdFd8PXdyGQuvMIIFoAdl4ZBUKUQGfOGv5TMpGc/xLlxX+3oXXV824RonNedqF98pzSUbhqHXiZ8FzzrAjLWCy68MkTnIH20va120qp2A101dMNlyLf+2ZleLhle31itmXfiX9AAeTvsJnaaOJL9dLfkXOH3OBOeB+Yy/Ey8bGC6J8GW98yI4NqoYQqrkNjMC8JbRdRmygUcbNDItzCJ7Zf71rZf+v2vrfeqNtCJPi+CcB5+90HcLMCNqG2fsXOKZgkm4Hk6zE7FMQOC5XFvRYAfO1PJRVW/YMfGclqCXzUQNCzaf0lu7hF/n2Zs02M12Wrpvcmr6ICfj3bwBoC3mL53HuFX/hX2HfWMQ==;aiOnVodYMSfymJ0HWcP5iA=="
+secured: "wMt55Jx6S5lljLvbRPPaQyiM9kzrKJnw5ZxAzsbirl9H3GlV07iYn5uGcIsd7KFTwGr0USO9xdfr30p+UmLmAWpsd/LXmxKilSAUHlGyhdU0A/dl3a+XMNIaqEv8TiiinoIcDgsCMRcMEAStrZ6ZsqYX6gC4W+cNHdJ+a4SAFc9G1xrqtx8IN+khwxRLJ8GyMpcbgqw8gOeSlmDOQN9q8etEEzX00EA9IdlFyuVY7p5gEP1kzSgzQsJxy09iTzjXAWFqC/wH0Fo31lX4ES+Hm3fjNd+P/VimdhuazztggdG5cSug+eD5NX1dI+xPTRUTTgRpIfhJpibCGJD6FItdrdz6XeTtkv7PvInG462vLPoQjDb/LMu87glsQFmKBa23RA5Y4jcCMxxFC38qR2hmMMb0y6NcqHro+x4NzvwVrw8vpG9UdrKZx2lq6spb2SdvVfbRDMkfTQwfPtz3vcDx0ljRtCo9eV7oD42HOgl1aH3LTyMYsW3bFIbNW5NZzg0HFWuN7c2TMg/82IajiulORw==;Al7LxzLzwFrE/Y1Xf2zViA=="
 ---
 

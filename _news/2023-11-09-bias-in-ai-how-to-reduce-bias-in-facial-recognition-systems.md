@@ -7,8 +7,8 @@ originalUrl: "https://www.gizbot.com/partner-content/bias-in-ai-how-to-reduce-bi
 webUrl: "https://www.gizbot.com/partner-content/bias-in-ai-how-to-reduce-bias-in-facial-recognition-systems-088279.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: GIZBOT
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to remove Face recognition on Windows 11"
-    excerpt: "In this post, we will show you how to disable Face recognition on Windows 11. Facial recognition is a feature in the Windows operating system that allows users to log in to their devices using facial recognition technology. It is part of the Windows Hello ..."
-    publishedDateTime: 2023-11-08T13:32:00Z
-    webUrl: "https://www.thewindowsclub.com/how-to-disable-face-login-in-windows"
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 39
-    images:
-      - url: "https://www.thewindowsclub.com/wp-content/uploads/2023/10/Windows-Sign-in-options.jpg"
-        width: 700
-        height: 336
-        isCached: true
   - title: "Review launched into rules governing facial recognition data"
     excerpt: "A government panel is considering whether stricter rules are needed for companies that handle facial recognition data. The Personal Information Protection Commission (PIPC) is mulling new ..."
     publishedDateTime: 2023-11-09T00:00:00Z

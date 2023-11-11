@@ -53,22 +53,6 @@ related:
         width: 1119
         height: 630
         isCached: true
-  - title: "Google Expands Generative AI in Search to Over 120 New Countries"
-    excerpt: "Initially, this AI-powered translation capability will be available for English-to-Spanish translations in the United States, with plans to support more countries and languages. Lastly, on relevant searches related to coding and health, specific words will ..."
-    publishedDateTime: 2023-11-09T08:54:00Z
-    webUrl: "https://www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/"
-    ampWebUrl: "https://www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/10/google-io-ai-search-645bf18b5f597-sej-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Air India bets on generative AI; to introduce more AI features to address customer queries"
     excerpt: "Read more about Air India bets on generative AI; to introduce more AI features to address customer queries on Devdiscourse"
     publishedDateTime: 2023-11-10T06:42:00Z
@@ -115,20 +99,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "IBM Expands Relationship With AWS To Deepen Generative AI Innovation And Launch A New Innovation Lab In India"
-    excerpt: "November 7, 2023-- IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies,"
-    publishedDateTime: 2023-11-07T13:20:00Z
-    webUrl: "https://menafn.com/1107384841/IBM-Expands-Relationship-With-AWS-To-Deepen-Generative-AI-Innovation-And-Launch-A-New-Innovation-Lab-In-India"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/updates/pr/2023-11/07/F_cd60dimage_story.jpg"
-        width: 1160
-        height: 522
-        isCached: true
   - title: "Google is launching generative AI search in 100 additional countries as AI wars continue"
     excerpt: "As part of Wednesday’s announcement, Google’s senior director of product management and search, Hema Budaraju, said SGE is expanding to 126 new regions including Brazil, Indonesia, Mexico, Nigeria, South Africa, and South Korea."
     publishedDateTime: 2023-11-08T20:01:00Z
@@ -143,15 +113,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Air India bets on generative AI; to introduce more AI features to address customer queries"
-    excerpt: "Air India plans to introduce sophisticated features to its generative artificial intelligence virtual agent that handles more than 6,000 customer queries daily. The Tata Group-owned airline is using ChatGPT to analyse even some complex questions it may not be able to immediately answer to improve customer experience in later interactions and is helping it to become more attuned to natural language."
-    publishedDateTime: 2023-11-10T22:53:00Z
-    webUrl: "https://www.dailyexcelsior.com/air-india-bets-on-generative-ai-to-introduce-more-ai-features-to-address-customer-queries/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 9
   - title: "Orkes Brings Generative AI and Human-in-the-Loop Capabilities to Microservices and Workflow Orchestration"
     excerpt: "Orkes has released new capabilities that allow organizations to implement generative AI models and vector databases"
     publishedDateTime: 2023-11-08T20:13:00Z

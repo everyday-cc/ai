@@ -41,6 +41,15 @@ related:
         width: 1800
         height: 1160
         isCached: true
+  - title: "Columbia University suspends Jewish Voice for Peace and Students for Justice in Palestine"
+    excerpt: "The announcement of the suspension comes after Jewish groups and state legislators signed a letter demanding universities withdraw their schools’ recognition and funding for SJP following October 7."
+    publishedDateTime: 2023-11-11T02:52:00Z
+    webUrl: "https://www.jpost.com/diaspora/article-772713"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 0
 
 secured: "rdo2G60x6BWf9I57cvlFbN9yNDPuuZHDdsdfkWef6UWNAoAAbYmVhiMdlWgh/B46bcdUU9eiw0AXSZZBwBOFve4AUThVCLvxQILBaoS+QJr1HTHUgNOUiLhrNxwt7hXSi0l42S/2ctbRVPL1AHuOusFgTUhsZUhNfg9ufGVbvWJjH8R6x3zm5Xw1tFEwIhLZ6A89eQpprG0ZWXSdc/csO9FGEwgERkVbbtSAmMbdFyMriBnznGwFFs+j9P3+TJKb94d8zzvjGPpx/+GKV8irOyJ85vVxhwPMaxhSBpUvwiuprMl5+ZH5xk01IkiAB7SqtgB7zVKMSMT3XvibW96x18rR9WGzPJf/yScIO9BCF8wRvtMshjuC6ksuWrZFlMjyAmtIKmuDa7bChZB2BW+f0mqkUsQYxhknjWOHCw3ibjgU/MrB3OSV6xdhWLHqWmfm/aJ6f7VcrnSSza7CmeINA4wtm0slmG22iUcfxFD1dqzU5yKsk2js4hT5+mzMooAgPIOTIQVpXK18n1usCbAawg==;97tFQi0dCvkH+f1HMbDgJw=="
 ---

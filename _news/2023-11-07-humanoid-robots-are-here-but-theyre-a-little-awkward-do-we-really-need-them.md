@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Humanoid robots are here, but they’re a little awkward. Do we really need them?"
-excerpt: "Building a robot that’s both humanlike and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze has sparked another wave of investments in the quest to build a humanoid, most of the ..."
-publishedDateTime: 2023-11-06T20:31:00Z
-originalUrl: "https://dailyprogress.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_15df894d-4027-5de1-97d0-89545156cce6.html"
-webUrl: "https://dailyprogress.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_15df894d-4027-5de1-97d0-89545156cce6.html"
+excerpt: "Forget affable-appearing Rosey and Robby of sci-fi yesteryear; today’s humanoid robots are a bit more Terminator-esque. Do we even need them? Artificial intelligence pioneers weigh in."
+publishedDateTime: 2023-11-06T18:30:00Z
+originalUrl: "https://omaha.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_084fa193-d022-5916-beb6-0606061398a2.html"
+webUrl: "https://omaha.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_084fa193-d022-5916-beb6-0606061398a2.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: The Daily Progress
-  domain: dailyprogress.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/1/5d/15df894d-4027-5de1-97d0-89545156cce6/6548f44c5b258.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/84/084fa193-d022-5916-beb6-0606061398a2/6548f44d0d950.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
     width: 670
     height: 352
     isCached: true
@@ -70,6 +70,6 @@ related:
         height: 500
         isCached: true
 
-secured: "vmMENA5ubWL8g+FUk2Y8etKJxhkNlDfFXVXj11Tse9Z8BjbfFRxBcVMwwC2VsSujjPPwjDkchnHf4aWuZV6RH5/GoOFJDXt8XIq/2gl8n854gm3vEmiMCViCmZsvyFff9zqTvx86iACGCsMOlusBvILf9gFO9Yq1cWuj5Bj/83TC5t/+o1SZebc3aJ7plBY0sFZECs7snhBsmY6YxYpTLz50QPR4JBfu2FglSIAy5OdcZHHB+uXxk3YJpZoLWBYsHeb4h0lfbwvJvW7X7wwsTeU2y4dTK3judMwdZM8QhMigc1pqUCEfzwzOslGLg19uLwZFhxL90kR1kMKShBDWkoDXREqyygb8VGGDpiNGno0=;Abz7BgXTccW+VGKpVA72WQ=="
+secured: "JMYNnUKYrgK7yJHQKip87UibYbe6r/EHaOYv52gTI1JrBinzpq5tfkBZ2LXIOFfl8OdPAVk9TTv0sspR4O4uMnPAGVzJ5kcYFsauxQy83cs6CwsnggDLTXqmI3w4a9AqwdsvCIghJSM6PGfeB+Ivg4615+9NOPechaeLXe+3Si/KxA4QOCDG8JqOCUNBg20BgtQs0gGqtzkop3mi7OdvtE7tQV0amANcB3pjXlLoteZTq1ayJnNMHpoqPjsOWZ5EGg5/n57wiGm72jgAalpcI1Fz2e3XxtDwvD/qXIq7LGAprWUynDIx2IjHs+xfg0GLBtbg1VAwvXmsjvqRHnIk5eXlcpsHG0GMaLexk38iANE=;ncT+H43MHIPAWyknaBxbTg=="
 ---
 

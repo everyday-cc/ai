@@ -41,20 +41,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Xbox Partners With Generative AI Company to Enable \"Dynamically-Generated Stories, Quests, Dialogue\""
-    excerpt: "Microsoft announced a partnership between its Xbox arm and Inworld AI, a company focusing on generative AI tools."
-    publishedDateTime: 2023-11-06T15:34:00Z
-    webUrl: "https://techraptor.net/gaming/news/xbox-partners-with-generative-ai-company-to-enable-dynamically-generated-stories-quests"
-    type: article
-    provider:
-      name: TechRaptor
-      domain: techraptor.net
-    quality: 24
-    images:
-      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2023-11/xbox-ai.jpg?itok=Sqew7hKm"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "u1LiTxOsA2r7P49wlaRcIQIRmvibBQKWUAeJmM0nLtUs7V4RdmUgS2+CXXYjfRjvrmG5735juUWMloQj5GXhw3lzkT8biL2xcai02CDTbPwq6O6YiWBlFDnVF3tyGwCZTXdkp+2PeSYKnj3IO3sOdBcc8dW78bPw9djwFG98OHltv6HlqU3C0qsCVfpzZ/w1gAXThhAc4F9fbryhSU/qG8Qjx25HZHfT3I2WsNLJoQ5h9s0Q0LJ+PDsGXJKZMfLk8O03yd1s+kTkl3tvjOgX0AQsqK8iPPduWQG60clVCBxjKYWsbab22gNt6e7LZ6pI+58L1sQl/drq5hoincKYJWcQHX4oLof3mmVkQvY5xYY=;sgIkEbgqxBM+ya/HwfZx9g=="
 ---

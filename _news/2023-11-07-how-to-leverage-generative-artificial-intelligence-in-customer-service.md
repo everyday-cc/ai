@@ -26,127 +26,61 @@ images:
     isCached: true
 
 related:
-  - title: "Building for the future: The enterprise generative AI application lifecycle with Azure AI"
-    excerpt: "The enterprise development process requires collaboration, diligent evaluation, risk management, and scaled deployment. By providing a robust suite of capabilities supporting these challenges, Azure AI affords a clear and efficient path to generating value in your products for your customers.\nThe post"
-    publishedDateTime: 2023-11-06T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/building-for-the-future-the-enterprise-generative-ai-application-lifecycle-with-azure-ai/"
+  - title: "What Successful Early Adopters Of Generative AI Have Learned"
+    excerpt: "Generative AI is still in the hype phase, and the real challenge lies in how businesses can adapt, scale, and ethically deploy these tools to realize tangible outcomes"
+    publishedDateTime: 2023-11-10T17:18:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 95
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/11/Enterprise-Lifecycle.png"
-        width: 800
-        height: 448
+      - url: "https://imageio.forbes.com/specials-images/imageserve/654e7241ce90a1eac32d936f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 843
         isCached: true
-  - title: "Build trust and safety for generative AI applications with Amazon Comprehend and LangChain"
-    excerpt: "We are witnessing a rapid increase in the adoption of large language models (LLM) that power generative AI applications across industries. LLMs are capable of a variety of tasks, such as generating creative content, answering inquiries via chatbots, generating code, and more. Organizations looking to"
-    publishedDateTime: 2023-11-10T20:39:56Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/"
+  - title: "Watchful bridges generative AI transparency gap"
+    excerpt: "Generative AI services like ChatGPT have demonstrated an impressive ability to generate text with human-level realism. But they also have a propensity to hallucinate and gloss over uncertainty in their responses."
+    publishedDateTime: 2023-11-09T16:00:00Z
+    webUrl: "https://diginomica.com/watchful-bridges-generative-ai-transparency-gap"
+    ampWebUrl: "https://diginomica.com/watchful-bridges-generative-ai-transparency-gap?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/watchful-bridges-generative-ai-transparency-gap?amp"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
-  - title: "How AI and automated scheduling will transform the meeting lifecycle"
-    excerpt: "With access to the right information at the right time, AI will optimize every meeting, delivering on its true value."
-    publishedDateTime: 2023-11-08T21:40:00Z
-    webUrl: "https://venturebeat.com/automation/how-ai-and-automated-scheduling-will-transform-the-meeting-lifecycle/?trk=public_post_comment-text"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_205902735.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 693
+      - url: "https://diginomica.com/sites/default/files/images/2016-12/man-facing-gap.jpg"
+        width: 1277
+        height: 843
         isCached: true
-  - title: "Samsung jumps on the generative AI bandwagon with Gauss"
-    excerpt: "Named for a German mathematician, Gauss AI technology — including a large language model (LLM), coding capabilities, and art generation features — could debut on upcoming Samsung devices."
-    publishedDateTime: 2023-11-08T16:14:00Z
-    webUrl: "https://www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.html"
-    ampWebUrl: "https://www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 61
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/04/04/14/enviar_imessage_android-100939355-large.jpg?auto=webp&quality=85,70"
-        width: 1199
-        height: 674
-        isCached: true
-  - title: "My North Star for the Future of AI"
-    excerpt: "I’d seen the consequences of that over and over: brilliant technologists who could build just about anything but who stared blankly when the question of the ethics of their work was broached. The time has come to reevaluate the way AI is taught at every ..."
-    publishedDateTime: 2023-11-07T13:24:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/11/ai-ethics-academia/675913/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 49
-  - title: "The Future of AI, Jobs, and Automation"
-    excerpt: "The Future of AI, Jobs, and Automation. We've entered a period of dramatic innovation in AI and automation and it's going to have a significant impact on the futur"
-    publishedDateTime: 2023-11-08T20:46:00Z
-    webUrl: "https://www.zdnet.com/collection/the-future-of-ai-jobs-and-automation/"
+  - title: "6 ways business leaders are exploring generative AI at work"
+    excerpt: "But he expects to see rapid progress in the level of automation -- and he advises all professionals to start exploring generative AI. \"I think the speed at which it's come to market and is developing means that everybody should be keeping an eye on it,\" he ..."
+    publishedDateTime: 2023-11-08T20:27:00Z
+    webUrl: "https://www.zdnet.com/article/6-ways-business-leaders-are-exploring-generative-ai-at-work/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 47
-  - title: "TechSmith Audiate Launches Generative AI Features For Instant Content Creation"
-    excerpt: "TechSmith Corporation, an industry leader in visual communication and video creation, announces the launch of generative AI scripting and voiceover features in Audiate, the company’s audio recorder and text-based editing solution."
-    publishedDateTime: 2023-11-07T15:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/techsmith-audiate-launches-generative-ai-features-for-instant-content-creation-1032788734"
+    quality: 49
+  - title: "There’s more to AI than generative AI"
+    excerpt: "It is typically used for deciphering complex data, such as image, text, audio, and/or video recognition, or for other complex ... as to what is the next most probable term or object to follow in building a sentence, constructing an image or extracting ..."
+    publishedDateTime: 2023-11-09T16:30:00Z
+    webUrl: "https://siliconangle.com/2023/11/09/theres-ai-generative-ai/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "The Future of Generative AI: A Closer Look at 2024"
-    excerpt: "Welcome to the fascinating world of Generative AI, where machines have been programmed to tap into their creativity and produce awe-inspiring works that rival those made by humans. As we delve deeper into this captivating topic,"
-    publishedDateTime: 2023-11-08T11:45:00Z
-    webUrl: "https://techbullion.com/the-future-of-generative-ai-a-closer-look-at-2024/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-2.jpg"
-        width: 1000
-        height: 500
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/twoaibrains.jpeg"
+        width: 1023
+        height: 823
         isCached: true
-  - title: "IBM launches $500M fund to develop generative AI for enterprise"
-    excerpt: "IBM’s primarily focused on enterprise-level solutions for its generative AI products such as its Watson X platform and numerous cloud offerings. According to Rob Thomas, a senior vice president at IBM, generative AI technologies will be a driving force ..."
-    publishedDateTime: 2023-11-07T19:32:00Z
-    webUrl: "https://cointelegraph.com/news/ibm-launches-500-million-fund-develop-generative-ai-enterprise"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
-  - title: "DataRobot Announces New Enterprise-Grade Functionality to Close the Generative AI Confidence Gap and Accelerate Adoption"
-    excerpt: "The new multi-provider LLM playground includes a first-of-its-kind visual interface with built-in GCP Vertex AI, AWS Bedrock, and Azure OpenAI to compare and experiment with different recipes for a combination of vector databases, foundations models ..."
-    publishedDateTime: 2023-11-09T15:56:00Z
-    webUrl: "https://www.datanami.com/2023/11/09/datarobot-announces-new-enterprise-grade-functionality-to-close-the-generative-ai-confidence-gap-and-accelerate-adoption/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 0
-  - title: "DataRobot Announces New Enterprise-Grade Functionality to Close the Generative AI Confidence Gap and Accelerate Adoption"
-    excerpt: "\"The demands around generative AI are broad, complex and evolving in real-time,\" said Venky Veeraraghavan, Chief Product Officer, DataRobot. \"With over 500 of our customers deploying and managing AI in production,"
-    publishedDateTime: 2023-11-09T18:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9915447.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "wetUFCGpYpkbWPvH48twZKkby1elOzofsydWt5ql69Z3xN8rlBv2iMPML5R9H4yooIN1NFCa+AAH5+Vd1INM8HGqdrrL70BBEN33fhIZ54fqCbOn+EhVCeUoI8xrBpa/yGVOb5nkCaWn15Kr6Sk74HfJSQwV95Xv2c/8aeSWDZ60X+ezeGc3x2XtQaa3iQ+C/NDyeeVgYTYzC5ow4/KrMqIr5xsEFuLCHLi/pzl3zY0X9427F5CmrNOakzdT9enK8L82gsxfJi0ICKGj43SD4REEidvAx3CrU0xyc+xJ9gjpP98gH7Li2/4oMBnxQjwKuCy9wT5YYdbz8Gda7xZo/bw3kcGm2fpF0j6bQMEVzDcJfyj3CXbZWr+6xrD/uC0JGQwV85+RBPcP57ldB0MSbRnpyCYQULAuC4r6r6yQK16QjYap8G3ZiiwcGojCLwKLHqo7wEqgEa3JwhSX5b8vlyIfjNUqRy94RBVFGGnY5PpmOtCrR0nFbH/7n4Yltn5Au5xFrF0pGfrInCCNM8T4Ag==;/ioFI2zvqyHPm0Anz7yQ+g=="
 ---

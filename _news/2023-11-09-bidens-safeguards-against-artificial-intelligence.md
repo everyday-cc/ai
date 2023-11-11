@@ -7,7 +7,7 @@ originalUrl: "https://www.davisvanguard.org/2023/11/bidens-safeguards-against-ar
 webUrl: "https://www.davisvanguard.org/2023/11/bidens-safeguards-against-artificial-intelligence/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,34 @@ topics:
   - AI
 
 related:
+  - title: "Biden Issues Executive Order on Artificial Intelligence"
+    excerpt: "President Biden recently issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence, which establishes the administration’s principles on artificial intelligence (AI) and requires or encourages executive ..."
+    publishedDateTime: 2023-11-10T15:34:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/biden-issues-executive-order-on-7275910/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 37
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15871_0103.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "‘Mecca’ of A.I.?: UNCW professor talks through Biden’s executive order on artificial intelligence"
+    excerpt: "Sweeping guidance and goals for America’s approach to artificial intelligence deployment was released last week and UNCW and its surrounding community is in a good position to benefit."
+    publishedDateTime: 2023-11-07T21:30:00Z
+    webUrl: "https://portcitydaily.com/latest-news/2023/11/07/mecca-of-a-i-uncw-professor-talks-through-bidens-executive-order-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Port City Daily
+      domain: portcitydaily.com
+    quality: 26
+    images:
+      - url: "https://images.portcitydaily.com/wp-content/uploads/2021/11/uncw00-4.jpg"
+        width: 1100
+        height: 733
+        isCached: true
   - title: "Dueling interests ask if Biden goes too far on AI or falls short"
     excerpt: "President Joe Biden’s executive order on artificial intelligence could empower agencies to overstep their bounds or lack the teeth to be effective."
     publishedDateTime: 2023-11-07T12:00:00Z
@@ -50,6 +78,20 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 13
+  - title: "U.S. Regulation of Artificial Intelligence: Presidential Executive Order Paves the Way for Future Action in the Private Sector"
+    excerpt: "On October 30, 2023, President Joe Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (Order) that addresses the responsible use of artificial intelligence (AI) by the federal government and ..."
+    publishedDateTime: 2023-11-06T17:58:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/u-s-regulation-of-artificial-6299985/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 9
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16013_5523.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "tqkS8IDWeiKR/K2m/uLNsevmYGjpISlBbPA3nq+2+t/Zzy6oI7k4HVwQeFubmaisN46q3bABx4rGSjZHwkQHUfCFFDZwP8BzadxeetIkrDA5TWvmy6lHtScyekwkPVzAJe3A8knSzbRom41msXDh/Qny7IlkhnLW+I+4ADfxmOyiIMzjil+VE0MwZFW8kcRQZOhfzdyuOK7AZ+J8h8Ejmgj0fri9UtV41DZx5hKGMpTw8H0VpO5uMs2qDd0TYeKw0CFk/TiqHam4n7nDf9MyGj/5MG0/RCroUXxvfLdnj6IBBDoXAfTKzbx8Fa+6hrm4gvazeCHkYj7bDlJz9wk+8R12LokYKBY4tds3/kwGiZPQsN/Jh5BOR1mNgiKFpOr2k086WU6L8arwng3Mi6yViapuTetiHwqMFBgrYuGuVd+S/U3fWYASvcn5863tbV8LEXnp2P/MnlAp0CIK32A40FFFdwMOR8kHZoPdYYH/r+O4ZPLkb1imEzBCChUI6PXAnP+TfFaqxtmYrFKDEdmKmQ==;AU9TpH+EQyhcoNuziri6Xg=="
 ---

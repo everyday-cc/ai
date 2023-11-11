@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Google in talks to invest in AI startup Character.AI"
-excerpt: "The investment, which could be structured as convertible notes, according to a third source, will deepen the existing partnership Character.AI already has with Google, in which it uses Google's cloud services and Tensor Processing Units (TPUs) to train models."
-publishedDateTime: 2023-11-11T04:44:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/articleshow/105139693.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/articleshow/105139693.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/amp_articleshow/105139693.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/amp_articleshow/105139693.cms"
+excerpt: "Google in talks to invest hundreds of millions in Character.AI, a fast-growing AI chatbot startup. Deal could deepen existing partnership, with Character.AI using Google's cloud services and TPUs. Company appeals to 18-24 age group,"
+publishedDateTime: 2023-11-11T07:50:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/google-in-talks-to-invest-in-ai-startup-characterai/article67524220.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/google-in-talks-to-invest-in-ai-startup-characterai/article67524220.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-in-talks-to-invest-in-ai-startup-characterai/article67524220.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-in-talks-to-invest-in-ai-startup-characterai/article67524220.ece/amp/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211832,msid-105139706/what-googles-antitrust-trial-means-for-your-search-habits.jpg"
-    width: 600
-    height: 450
+  - url: "https://th-i.thgim.com/public/incoming/74qw6v/article67524223.ece/alternates/FREE_1200/Google_Antitrust_Showdown_Repercussions_61998.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -73,6 +73,6 @@ related:
         height: 682
         isCached: true
 
-secured: "xVgzRtz4v4KKxFIjk80HU2a1FBhtlFm8RbOJ38mv1uOPX7uPT+bDEB34id9efNVLHocXcVwoAsqSiNCb3FR2OSHJG8ev5UnQgVYNrwmPL7S6KiyTId3plEg8tnypqjmd44a4yOe7/2yvp6yonIRZYCkLtEWLJsPN4CAdrumSBGKSZlA//lB78rXl9UDkhpXTQS2wPPA6r/2tcrDOO1tw0dLiFRk5j+DkEVrB0h2lKSNkMk85kYxc8eXve9VIBM9c5EVhh5oaRxXG5wXM2jwgWt6FLzIO6UEvxzZkaGu2Fub+VRegmGhBbVlv5JR4DvcAv9xBePizSD6P61GEO7jCDak1DbDIXZ4It+gqZGWo2guI7/a2wRp8dH1/n4bP+vy+SKRFF+T4OKBVS/K7I9q+G1B816QlS6i8JVy4WjiJvYt3m8fjX78ckU5LE9v/g9jbrfUlSOjWS76mY0mnnOrH4uwhCBBk16lZIaj86vmo1So3NPpZmaa7kSNveTlYHdZ0Nx6ucLiAtsUtELQ1em+uIw==;6O3Ux65Gstk9PEyDp/FNkg=="
+secured: "x2gSeOIxzyZSr3S1hGJhKaQdeG3YKa3ixyN7cjQS2mess/IaHJMsC6dg3uNisx8FgAyqdQLMIBsTmt7cPjCtCGUV33YJWGJzt4OHASoqwkTP+fY1iwphyx3PNUVqlYera+bTrDnh6XlpNhxOODYKsuqyoLROopEp05HMqasb+fb683itlHZw9eFu8Pn82/ErmuYZfBwHpNZtWE+5ms2kjhz3O2VxERwMBT1KLXzDI4dNnlmiDyFEPm5SF9EmMIfWefRvgTz0zwEkJduRVQ+1TuOnxd4Q8gi/+LVhlLf3AZPPZBkPNLxPUadmpxaevKpLGcohz6YK8fgZ2/YCb849KYRyPv3N0DHRH8Js/YiIkDY=;T3y5mS2D0l6HU0oyD1obag=="
 ---
 

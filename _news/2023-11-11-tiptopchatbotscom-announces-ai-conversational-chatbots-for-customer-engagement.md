@@ -213,20 +213,6 @@ related:
         width: 690
         height: 690
         isCached: true
-  - title: "Grok: AI Chatbot from Elon Musk’s xAI"
-    excerpt: "Delve into Elon Musk's Grok by xAI, a AI chatbot with real-time information retrieval, humor, and enhanced reasoning abilities. Find about Grok's technical backbone, Grok-1, its training, evaluation and much more."
-    publishedDateTime: 2023-11-06T16:44:00Z
-    webUrl: "https://www.unite.ai/grok-ai-chatbot-from-elon-musks-xai/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/11/Benchmark.png"
-        width: 1200
-        height: 439
-        isCached: true
   - title: "Grok vs ChatGPT: How Does Elon Musk’s AI Chatbot Stack Up?"
     excerpt: "Elon Musk and xAI have unveiled Grok, a new AI chatbot designed to beat ChatGPT. Is it any good and how do the two compare? Let's take a look."
     publishedDateTime: 2023-11-06T17:10:00Z
@@ -240,20 +226,6 @@ related:
       - url: "https://images.tech.co/wp-content/uploads/2023/11/06064406/AdobeStock_673546765_Editorial_Use_Only-1-e1699271108110.jpeg"
         width: 1920
         height: 960
-        isCached: true
-  - title: "xAI, Elon Musk’s AI Startup, Unveils its “Grok” Chatbot"
-    excerpt: "AI, Elon Musk’s new AI startup has just put the wraps off its first AI chatbot named Grok. It's currently available as a limited beta in the US."
-    publishedDateTime: 2023-11-06T15:08:00Z
-    webUrl: "https://www.thurrott.com/cloud/292358/xai-grok-chatbot"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 37
-    images:
-      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2023/11/xAI-Grok.jpg"
-        width: 1066
-        height: 600
         isCached: true
   - title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
     excerpt: "Musk, who helped start OpenAI before parting ways with the company, launched a new venture this year called xAI to set his own mark on the pace of AI development. Grok is only available to a limited number of early users but promises to answer “spicy ..."
@@ -297,6 +269,6 @@ related:
       domain: thestreet.com
     quality: 9
 
-secured: "Bdor4GXTmEeK0vWGvIxMueCYfHMjpbgqc5WUp2KOAK392pO/rdr8HzI9M/Kf928Xneu4iFTDLZc3uWJEZYobjhAuE8dn6EIS0yrcGJgwubeYqDcWwZPhqhqHzX9ZGOZ+BCGsX/VywsWCtd1Pn1MXePL4u9XnhbWfeJqETe3fljgmsZ0c7h+XUAE4cQDfHf3qZFfiC7Ya1RvILwe5hsIzScmBSzpUyx3/h9gwk6doQXyMMiqzaeJ2Nc9EpqwvmBh/Svl+Ud699uzep0OK0l1QwILC0HZPcoTobyo/8DFnVlz03F8h8AaEyq2WjpkwlRuLd53AapEoeG49DxU7xr5IlAwCeth9KoaAkphAtRbZYnM=;CYLwQRMUI3ApiPYhTOM2DQ=="
+secured: "UuPaobraoFaZGoB/oChTSwmgHQXCljZPL+cBc9JLCuw4x7CAd3N/L9y6ZV+5nM7NtdFQ93//mC/tvA6lhyvfToc3/9amq2e9CnoWNn0jOuMfGjnx9J5vFj6YPYvgt4Km4GpOJMq2CBt7KZTLFKK9RtEu7Cby+T2oUrNu2GlP+9tl2coF+Z3emnToCvOudL8fSKFV/z9PNsNNaU4yI28It9RXyygpW47532GGw1XFkt3c553dg6bEB1dZWiO9hVjcWu3KsrUHVBrkjIUqkOWHhI/Hs0wNl1MX4W8df2Jg81JnMa6WSdkyUPSWlLS2Zrb7xPf6WqyvtJv+rVh62PqsL+myhzgj9MKagspU7gOi8CbunofCYOhlHnTWSqLKOH0XxKKxwXYy+UUq8C8wisEChSAeWkSFdpwtWRv2CWOkZ/z47yP65e69NJj1ooebhdWxBP11E5+sNjfUtNyRl82PHxoISf+Nv0PT0ndWWjOKzgBMbK45Zq68rlortqKgDd/w3MFhdDcazza5SgOvu7E+nw==;F5l7jn51qyj6+e0EHKn0HA=="
 ---
 

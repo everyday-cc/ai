@@ -1,30 +1,48 @@
 ---
 category: news
 title: "Police Use of Face Recognition Is Sweeping the UK"
-excerpt: "A Beyoncé gig, the coronation of King Charles, and the British Formula One Grand Prix all have one thing in common: Thousands of people at the events, which all took place earlier this year, had their faces scanned by police-operated face recognition tech."
-publishedDateTime: 2023-11-09T07:03:00Z
-originalUrl: "https://www.wired.co.uk/article/uk-police-face-recognition-expansion"
-webUrl: "https://www.wired.co.uk/article/uk-police-face-recognition-expansion"
+excerpt: "Face recognition technology has been controversial for years. Cops in the UK are drastically increasing the amount they use it."
+publishedDateTime: 2023-11-09T07:00:00Z
+originalUrl: "https://www.wired.com/story/uk-police-face-recognition-expansion/"
+webUrl: "https://www.wired.com/story/uk-police-face-recognition-expansion/"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 69
+heat: 109
+published: true
 
 provider:
-  name: Wired UK
-  domain: wired.co.uk
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.wired.co.uk/photos/654bc5e907457b7ceeb9ecd8/16:9/w_1280,c_limit/The-UK-Is-Turning-Into-a-Facial-Recognition-Police-State-Security-GettyImages-1224837570.jpg"
+  - url: "https://media.wired.com/photos/654c2c7f0202a11bfdc62856/191:100/w_1280,c_limit/The-UK-Is-Turning-Into-a-Facial-Recognition-Police-State-Security-GettyImages-1224837570.jpg"
     width: 1280
-    height: 720
+    height: 670
     isCached: true
 
 related:
+  - title: "How to remove Face recognition on Windows 11"
+    excerpt: "In this post, we will show you how to disable Face recognition on Windows 11. Facial recognition is a feature in the Windows operating system that allows users to log in to their devices using facial recognition technology. It is part of the Windows Hello ..."
+    publishedDateTime: 2023-11-08T13:32:00Z
+    webUrl: "https://www.thewindowsclub.com/how-to-disable-face-login-in-windows"
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 39
+    images:
+      - url: "https://www.thewindowsclub.com/wp-content/uploads/2023/10/Windows-Sign-in-options.jpg"
+        width: 700
+        height: 336
+        isCached: true
   - title: "Sharp rise in facial recognition use by Scottish police, UK protest footage scanned"
     excerpt: "The police in Scotland have tripled the use of retrospective facial recognition over the last five years jumping to nearly 4,000 uses in 2022."
     publishedDateTime: 2023-11-06T20:43:00Z
@@ -38,6 +56,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/26183203/facial-recognition-close-crowd-scaled.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "UK MPs Asleep at the Wheel as Facial Recognition Technology Spells The End of Privacy in Public"
+    excerpt: "IntroductionThe use of facial recognition technology (FRT) by law enforcement and private companies in public spaces throughout the UK is on the rise."
+    publishedDateTime: 2023-11-07T10:55:00Z
+    webUrl: "https://privacyinternational.org/long-read/5155/uk-mps-asleep-wheel-facial-recognition-technology-spells-end-privacy-public"
+    type: article
+    provider:
+      name: Privacy International
+      domain: privacyinternational.org
+    quality: 29
+    images:
+      - url: "https://privacyinternational.org/sites/default/files/styles/middle_column_cropped_small_1x/public/2023-11/still-qrcode-v1.jpg?itok=L8JfKKi1"
+        width: 555
+        height: 312
         isCached: true
   - title: "Revealed: Met Police Scans Almost Quarter of a Million Faces Using Facial Recognition Technology in 2023"
     excerpt: "This newspaper has found officers in London have been zealous users of the system, which automatically scans the faces of passers-by and matches them against a watchlist"
@@ -54,6 +86,6 @@ related:
         height: 314
         isCached: true
 
-secured: "ap1YYKRpjZFYcwmE2AT4eQCQth9hv4iEOCSOCTehP1CwfYKmq8nxPaLuRj4W9ravFR1Y3j4P/XhE8grZ1zBpKNvo5r0JVbM8ZHKoSteZlbtxAZ+9s2lLByU7XIvkZTqtAAnzn97QuJFWahjaQk21zMJ6265T4TNTPIIHjrP+h5BrAvw4mr8bbmDbJcUtGmL7z9/9PKjM2a+qDLkqBcC/AqtHzBWsDZ6+CpE/mU6O2fUGIMwVUAKDEz05zJ/WTy/TDzhPIyuXwawoPFNd+j/RGt7qN5Sey3S67J2JTsWAoAse8NjQ1o/m43iUgKiwu+mRAdLvhOQV6N2+Q4uCAgaeAlGCz7frygc5/u7/a6ckTZu90i3dKIDhKlrcm3Zw7jieVcSRIK3FDFF6eOHP9X5lI0+9UlXUYQ+IlNQDqXLjcBt1/j4eKmhX+FrFtdiH7ybqc2SRhAE/jlz7mAM++UAk5J9MAsEyJA82iiKfs5yvVYAYGUp6WtjkcQbz06A8cw/U+YJn2RlbKgY7cr2I/noMPw==;3Ec3pRI0wIJkWlvwBjiAxg=="
+secured: "ETuqrLm6l7tKgOQsUuBm6OhXCkdUrwX08quWWtLwFqrI1HQ1K5MvLP7OXmL2ZBE5uxSgdlIfD5hR8eqXZ1gy/VdDzNt2GmYYo0lKjGcwBOMfF4kONzdaUAyLUJdSdLRFJ5n6xEuyCXcOkWOnI1IMG2WNawAFgGcsmWLNWnbFpsICaxt9gcGG2xmmR6JRIQ8gfkl66PqfA4/UNgQRle2Fnwh5SqKxtt2aMV5suDGEaw/sbEhiDQ+o042KS6rInf1QE+xWWAhgSEgK2OUSaPDlNV97/b4yi0OGnmkMoco17oj3W+YbU7j/ngkQ9gZ1rZvVCx0srbRf5qXz9YB3XAyMLjhvGDz+SL7PRF6GQYFbu7o=;xEjl4Rza6fd/Wslwxp107w=="
 ---
 

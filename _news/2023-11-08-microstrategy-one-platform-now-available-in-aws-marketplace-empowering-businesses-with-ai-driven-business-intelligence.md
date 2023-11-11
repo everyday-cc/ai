@@ -1,23 +1,23 @@
 ---
 category: news
 title: "MicroStrategy ONE™ Platform Now Available in AWS Marketplace, Empowering Businesses with AI-Driven Business Intelligence"
-excerpt: "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS), customers can now access a ready solution for deploying ..."
-publishedDateTime: 2023-11-07T19:18:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231107452958/en/MicroStrategy-ONE™-Platform-Now-Available-in-AWS-Marketplace-Empowering-Businesses-with-AI-Driven-Business-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20231107452958/en/MicroStrategy-ONE™-Platform-Now-Available-in-AWS-Marketplace-Empowering-Businesses-with-AI-Driven-Business-Intelligence"
+excerpt: "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS ..."
+publishedDateTime: 2023-11-07T17:08:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20231107452958/microstrategy-one-platform-now-available-in-aws-marketplace-empowering-businesses-with-ai-driven-business-intelligence"
+webUrl: "https://www.morningstar.com/news/business-wire/20231107452958/microstrategy-one-platform-now-available-in-aws-marketplace-empowering-businesses-with-ai-driven-business-intelligence"
 type: article
 quality: 9
 heat: 9
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "Kf2OtJQufzH2LybEXpYYQtCG8nleK0Bu5pWRQyTZU1iQSo1cw9nIGgTfKWzIOToxr4uJ3sj0yy7Qt2U3/3tMl0z3KHmgUcLR/Bcka33YL93QpwXCvUUC4YvD5Wn4odAsdhlqkJkySnEuOQjXMAxMQGXIfS01Zw+PR0E89jq8A9/7H7kwkEq2ej3hMDuBcsR15l2MYo3D8OW4RA5Nownd5EG5fJMypd1ja4EV5NSavbtdZJbU3bdzXR7VJo+qKMKo9h/mW6ga1nAEPnEy4f6gaxsRZ49ef6ZiYhPpR4soObNiUq5USDhOKEoTELUCAbPMoKmoozea7ELtq3tGS4oUXE74VC2ntqf1aufggxzmwJY=;2Ac7Gg5MpQw4Q08jLn46IA=="
+secured: "PV6n1xyD5LJkM6m6kKgMvX94iMVpXsmi7DR+7zK0d3bsqRY89o4Dw+1DuNqWtANwX6O+5EAof8Z9sRGCpbRfx6+c7ywR3KrzGx/LjzEsZ9LPWT2b0byTNxW+n+ok0nNq0IHJLC0VPryLvR86wI7OoOB78luZIaaXFCxeBOOMolEiRLd5F8rhYzyYZMhTa84Q+IkFI8JIzzYwXxQqRDOTRj9O4EfmfGXOqOEb+ZsX/UuL/68twNqsrucbcFsidi8tmY1so2gLDnYX8bFlVlpUp/GWed4ViofSAQEHf3D9wXnAhZwxYSA8kQBDLpJy+MvElnaNj28xZ9K/UkStXQMiW6r0iMSOjW/k2EGT433RGXc=;PpTlpafgXJmnwS7/mq6yrQ=="
 ---
 

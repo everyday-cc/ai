@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-g
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

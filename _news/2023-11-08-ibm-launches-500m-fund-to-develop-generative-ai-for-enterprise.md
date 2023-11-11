@@ -19,134 +19,140 @@ topics:
   - AI
 
 related:
-  - title: "Building for the future: The enterprise generative AI application lifecycle with Azure AI"
-    excerpt: "The enterprise development process requires collaboration, diligent evaluation, risk management, and scaled deployment. By providing a robust suite of capabilities supporting these challenges, Azure AI affords a clear and efficient path to generating value in your products for your customers.\nThe post"
-    publishedDateTime: 2023-11-06T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/building-for-the-future-the-enterprise-generative-ai-application-lifecycle-with-azure-ai/"
+  - title: "IBM Continues AI Push With $500M Enterprise AI Venture Fund"
+    excerpt: "IBM has unveiled a $500 million venture fund to invest in AI companies, ranging from early-stage startups to high-growth enterprises."
+    publishedDateTime: 2023-11-08T05:09:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 95
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/11/Enterprise-Lifecycle.png"
-        width: 800
-        height: 448
+      - url: "https://imageio.forbes.com/specials-images/imageserve/651cb4a382d94a88ea799277/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
         isCached: true
-  - title: "Build trust and safety for generative AI applications with Amazon Comprehend and LangChain"
-    excerpt: "We are witnessing a rapid increase in the adoption of large language models (LLM) that power generative AI applications across industries. LLMs are capable of a variety of tasks, such as generating creative content, answering inquiries via chatbots, generating code, and more. Organizations looking to"
-    publishedDateTime: 2023-11-10T20:39:56Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/"
+  - title: "IBM Unveils $500 MN Fund to Invest in AI Firms"
+    excerpt: "Continuing its commitment to promoting AI for businesses, IBM has launched a $500 million Enterpriese AI venture fund. The fund will scout for AI companies from early-stage to hyper-growth startups that are focused on accelerating generative AI technology ..."
+    publishedDateTime: 2023-11-08T08:21:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ibm-unveils-500-mn-fund-to-invest-in-ai-firms/465043"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
-  - title: "How AI and automated scheduling will transform the meeting lifecycle"
-    excerpt: "With access to the right information at the right time, AI will optimize every meeting, delivering on its true value."
-    publishedDateTime: 2023-11-08T21:40:00Z
-    webUrl: "https://venturebeat.com/automation/how-ai-and-automated-scheduling-will-transform-the-meeting-lifecycle/?trk=public_post_comment-text"
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1699430379-aitoolnew.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "IBM, which invested in Hugging Face, launches $500M enterprise AI venture fund"
+    excerpt: "IBM announced today that it is launching a $500 million venture fund to invest in enterprise AI-focused startups."
+    publishedDateTime: 2023-11-08T00:03:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-which-invested-in-hugging-face-launches-500m-enterprise-ai-venture-fund/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 63
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_205902735.jpeg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/c463d59a-fd3e-4a2c-b71b-4634e118cf35.webp?w=1200&strip=all"
         width: 1200
-        height: 693
+        height: 685
         isCached: true
-  - title: "Samsung jumps on the generative AI bandwagon with Gauss"
-    excerpt: "Named for a German mathematician, Gauss AI technology — including a large language model (LLM), coding capabilities, and art generation features — could debut on upcoming Samsung devices."
-    publishedDateTime: 2023-11-08T16:14:00Z
-    webUrl: "https://www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.html"
-    ampWebUrl: "https://www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.amp.html"
+  - title: "IBM launches $500M venture fund targeting artificial intelligence sector"
+    excerpt: "IBM is stepping up its artificial intelligence play, creating a $500 million venture capital fund in which it is the only investor to, in its words, back companies \"focused on accelerating generative AI technology and research for the enterprise."
+    publishedDateTime: 2023-11-07T16:13:00Z
+    webUrl: "https://wraltechwire.com/2023/11/07/ibm-launches-500m-venture-fund-targeting-artificial-intelligence-sector/"
+    ampWebUrl: "https://wraltechwire.com/2023/11/07/ibm-launches-500m-venture-fund-targeting-artificial-intelligence-sector/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/11/07/ibm-launches-500m-venture-fund-targeting-artificial-intelligence-sector/?amp=1"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 61
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 56
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/04/04/14/enviar_imessage_android-100939355-large.jpg?auto=webp&quality=85,70"
-        width: 1199
-        height: 674
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/07/face-g075075b2e_1280-e1690175609133.jpg"
+        width: 1260
+        height: 707
         isCached: true
-  - title: "How to Leverage Generative Artificial Intelligence in Customer Service"
-    excerpt: "One way for businesses to leverage generative AI to improve the customer experience is to upgrade their call center technology with AI-driven solutions. This includes implementing intelligent bots to directly handle certain aspects of the customer experience while enhancing others."
-    publishedDateTime: 2023-11-06T22:30:00Z
-    webUrl: "https://biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service"
-    ampWebUrl: "https://biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service?amp"
+  - title: "Lidl owner and Bosch Ventures co-lead $500M Series B into German AI startup Aleph Alpha"
+    excerpt: "German AI startup Aleph Alpha has raised a Series B funding round of $500 million from a consortium of seven new investors, as well as existing investors"
+    publishedDateTime: 2023-11-06T17:30:00Z
+    webUrl: "https://techcrunch.com/2023/11/06/lidl-owner-and-bosch-ventures-co-lead-500m-series-b-into-german-ai-start-up-aleph-alpha/"
     type: article
     provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 57
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202311/GettyImages-1473086732.jpg?itok=owGHTh-q"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "My North Star for the Future of AI"
-    excerpt: "I’d seen the consequences of that over and over: brilliant technologists who could build just about anything but who stared blankly when the question of the ethics of their work was broached. The time has come to reevaluate the way AI is taught at every ..."
-    publishedDateTime: 2023-11-07T13:24:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/11/ai-ethics-academia/675913/"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 39
+  - title: "IBM has a $500m fund for B2B generative AI start-ups"
+    excerpt: "The latest in a series of AI investments, the IBM fund for start-ups open ‘another channel to harness the enormous potential’ of AI."
+    publishedDateTime: 2023-11-08T11:32:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/ibm-ai-venture-fund-for-enterprise-investment-startups"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 49
-  - title: "The Future of AI, Jobs, and Automation"
-    excerpt: "The Future of AI, Jobs, and Automation. We've entered a period of dramatic innovation in AI and automation and it's going to have a significant impact on the futur"
-    publishedDateTime: 2023-11-08T20:46:00Z
-    webUrl: "https://www.zdnet.com/collection/the-future-of-ai-jobs-and-automation/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "TechSmith Audiate Launches Generative AI Features For Instant Content Creation"
-    excerpt: "TechSmith Corporation, an industry leader in visual communication and video creation, announces the launch of generative AI scripting and voiceover features in Audiate, the company’s audio recorder and text-based editing solution."
-    publishedDateTime: 2023-11-07T15:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/techsmith-audiate-launches-generative-ai-features-for-instant-content-creation-1032788734"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "The Future of Generative AI: A Closer Look at 2024"
-    excerpt: "Welcome to the fascinating world of Generative AI, where machines have been programmed to tap into their creativity and produce awe-inspiring works that rival those made by humans. As we delve deeper into this captivating topic,"
-    publishedDateTime: 2023-11-08T11:45:00Z
-    webUrl: "https://techbullion.com/the-future-of-generative-ai-a-closer-look-at-2024/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
+      name: SiliconRepublic
+      domain: siliconrepublic.com
     quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-2.jpg"
-        width: 1000
-        height: 500
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/11/a-3.jpeg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "DataRobot Announces New Enterprise-Grade Functionality to Close the Generative AI Confidence Gap and Accelerate Adoption"
-    excerpt: "The new multi-provider LLM playground includes a first-of-its-kind visual interface with built-in GCP Vertex AI, AWS Bedrock, and Azure OpenAI to compare and experiment with different recipes for a combination of vector databases, foundations models ..."
-    publishedDateTime: 2023-11-09T15:56:00Z
-    webUrl: "https://www.datanami.com/2023/11/09/datarobot-announces-new-enterprise-grade-functionality-to-close-the-generative-ai-confidence-gap-and-accelerate-adoption/"
+  - title: "IBM Establishes $500M Venture Fund for AI Startups"
+    excerpt: "IBM (NYSE: IBM) has launched a $500 million venture fund intended for artificial intelligence-focused early-stage and hyper-growth startups. The company said Tuesday IBM Enterprise AI Venture Fund will support the advancement of generative AI technology and research while expanding the company’s AI partnership ecosystem."
+    publishedDateTime: 2023-11-08T09:53:00Z
+    webUrl: "https://www.govconwire.com/2023/11/ibm-launches-500-million-enterprise-ai-venture-fund-for-current-and-future-ai-leaders/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 0
-  - title: "DataRobot Announces New Enterprise-Grade Functionality to Close the Generative AI Confidence Gap and Accelerate Adoption"
-    excerpt: "\"The demands around generative AI are broad, complex and evolving in real-time,\" said Venky Veeraraghavan, Chief Product Officer, DataRobot. \"With over 500 of our customers deploying and managing AI in production,"
-    publishedDateTime: 2023-11-09T18:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9915447.htm"
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 37
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/11/unnamed-file-47.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "IBM launches $500M fund to invest in enterprise AI startups"
+    excerpt: "IBM already made a number of AI startup investments prior to the launch of the fund. In September, it backed a $50 million round for HiddenLayer Inc., which develops a platform designed to protect language models from cyberattacks. IBM earlier joined a $ ..."
+    publishedDateTime: 2023-11-07T22:36:00Z
+    webUrl: "https://siliconangle.com/2023/11/07/ibm-launches-500m-fund-invest-enterprise-ai-startups/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/IBM-768x512-1.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "IBM introduces of $500 million venture fund to invest in range of AI companies"
+    excerpt: "IBM introduces of $500 million venture fund to invest in range of AI companies - IT major IBM announced that it is launching a $500 million venture fund to invest in a range of"
+    publishedDateTime: 2023-11-08T06:32:00Z
+    webUrl: "https://www.siliconindia.com/news/business/ibm-introduces-of-500-million-venture-fund-to-invest-in-range-of-ai-companies-nid-226348-cid-3.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 35
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/83atJuRM.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "IBM launches $500m AI venture fund"
+    excerpt: "American multinational technology corporation IBM announced the launch of a $500 million Enterprise AI Venture Fund, which will be focused on \"accelerating generative AI technology and research for the enterprise.\""
+    publishedDateTime: 2023-11-08T09:25:00Z
+    webUrl: "https://www.opalesque.com/700280/IBM_launches_AI_venture_fund028.html"
+    type: article
+    provider:
+      name: Opalesque
+      domain: opalesque.com
+    quality: 17
 
 secured: "k3m7DFv5+KTg7lny2aQ+GBd1R0oA1KZjOh3tMDqi7vUKKD5PWiW+JrZQGMNJro2xIlczcsPoc8rE0e55WCOHP6ukyTFBj0Q97uy7PGuSj1M4R+1w2tm50ey1CnsTwfyBo7D/gE1CeHFpMut1KJRv/HuPiO1fSKdXt4aiW4dilz88AWv9IDVNev8pvln3sm3nRYRc/a3ZDTvMrGWdXiL7845Mpf8DanTKiCBbUi58YSQ2BwYwbrYX029gxx5TtxHFbws1Cr9XuhKdakJCRs0rncz0WpAXnL6U0nB2w2sW1BjreZ25WzYdr6f4UjqluqvnonV7MzGf2vHaAfRpLNn4FAosNlvYkHPVm9pUdxbWtinEDrEh32EMKJU3OnWkk7HVdSbvlT2bReZOCUoyYj/I+fiQJ0vfzk/HLYGbGe05YQtUAhx/Hf+AkYf68t72/jsduf9e0ynYDADwpWZ7OnA6XJnMh490o8DhuyhIJHEOQqQyvl0z6BRcnlpHPEiTavWFK2dZS41Um8fnh4osphIEFg==;o7BqjecZXNsOEXJbDplknA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.jdsupra.com/legalnews/biden-issues-executive-order-on-
 webUrl: "https://www.jdsupra.com/legalnews/biden-issues-executive-order-on-7275910/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,61 @@ images:
     isCached: true
 
 related:
-  - title: "AI Technical Standards Need a Bigger Push Than Executive Order"
-    excerpt: "Dentons’ Peter Stockburger says safe use of AI in the future needs purposeful development of social and technical standards worldwide, and that President Joe Biden’s executive order is just a start."
-    publishedDateTime: 2023-11-06T16:51:00Z
-    webUrl: "https://news.bloomberglaw.com/us-law-week/ai-technical-standards-need-a-bigger-push-than-executive-order"
+  - title: "Biden’s Safeguards Against Artificial Intelligence"
+    excerpt: "Joe Biden, this Monday October 30, has signed an executive order to restrict the use of artificial intelligence (AI).  Recently, there has been a rapid development of artificial intell"
+    publishedDateTime: 2023-11-09T08:35:00Z
+    webUrl: "https://www.davisvanguard.org/2023/11/bidens-safeguards-against-artificial-intelligence/"
     type: article
     provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 39
+      name: Davis Vanguard
+      domain: davisvanguard.org
+    quality: 32
+  - title: "‘Mecca’ of A.I.?: UNCW professor talks through Biden’s executive order on artificial intelligence"
+    excerpt: "Sweeping guidance and goals for America’s approach to artificial intelligence deployment was released last week and UNCW and its surrounding community is in a good position to benefit."
+    publishedDateTime: 2023-11-07T21:30:00Z
+    webUrl: "https://portcitydaily.com/latest-news/2023/11/07/mecca-of-a-i-uncw-professor-talks-through-bidens-executive-order-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Port City Daily
+      domain: portcitydaily.com
+    quality: 26
     images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/b835b4f/2147483647/crop/4307x1660%2B18%2B634/resize/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F3b%2F1e%2Fb39816a848a896db958c1fb3ff5d%2Fgettyimages-1765557688.jpg"
-        width: 1920
-        height: 740
+      - url: "https://images.portcitydaily.com/wp-content/uploads/2021/11/uncw00-4.jpg"
+        width: 1100
+        height: 733
         isCached: true
+  - title: "Dueling interests ask if Biden goes too far on AI or falls short"
+    excerpt: "President Joe Biden’s executive order on artificial intelligence could empower agencies to overstep their bounds or lack the teeth to be effective."
+    publishedDateTime: 2023-11-07T12:00:00Z
+    webUrl: "https://rollcall.com/2023/11/07/dueling-interests-ask-if-biden-goes-too-far-on-ai-or-falls-short/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 19
+  - title: "OMB Releases Implementation Guidance Following President Biden’s Executive Order on Artificial Intelligence"
+    excerpt: "President Biden signed a landmark Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. As the United States takes action to realize the tremendous promise of AI while managing its risks,"
+    publishedDateTime: 2023-11-06T20:01:00Z
+    webUrl: "https://www.hstoday.us/federal-pages/dhs/omb-releases-implementation-guidance-following-president-bidens-executive-order-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 19
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2023/11/technology-3435575_1280.jpg"
+        width: 1280
+        height: 802
+        isCached: true
+  - title: "Biden executive order forces AI companies to share safety test results with government"
+    excerpt: "WASHINGTON - President Joe Biden signed a sweeping new executive order Monday targeting artificial intelligence in his administration's most aggressive move to date to confront growing concerns ..."
+    publishedDateTime: 2023-11-07T10:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2023/10/30/president-biden-signs-sweeping-artificial-intelligence-executive-order/71380002007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 13
   - title: "U.S. Regulation of Artificial Intelligence: Presidential Executive Order Paves the Way for Future Action in the Private Sector"
     excerpt: "On October 30, 2023, President Joe Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (Order) that addresses the responsible use of artificial intelligence (AI) by the federal government and ..."
     publishedDateTime: 2023-11-06T17:58:00Z

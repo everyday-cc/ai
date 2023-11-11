@@ -7,8 +7,8 @@ originalUrl: "https://www.wbur.org/radioboston/2023/11/07/ai-employee-workforce-
 webUrl: "https://www.wbur.org/radioboston/2023/11/07/ai-employee-workforce-future"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: WBUR
@@ -40,20 +40,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "Xbox Partners With Generative AI Company to Enable \"Dynamically-Generated Stories, Quests, Dialogue\""
-    excerpt: "Microsoft announced a partnership between its Xbox arm and Inworld AI, a company focusing on generative AI tools."
-    publishedDateTime: 2023-11-06T15:34:00Z
-    webUrl: "https://techraptor.net/gaming/news/xbox-partners-with-generative-ai-company-to-enable-dynamically-generated-stories-quests"
-    type: article
-    provider:
-      name: TechRaptor
-      domain: techraptor.net
-    quality: 24
-    images:
-      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2023-11/xbox-ai.jpg?itok=Sqew7hKm"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "U9QXJwjE7ju8aHKqBRwd5VreoBeVBc2O3vHxOikeIhW1l2lYjA6JQ8iQGCe/D1/ejuCpz1dOFDYVkuhVhcZUdv6hTmW7U72iX45pFUo1bMubxFlYwxzfa0aL/U7/1Ae4o4uviub4eWoLP4v/c55FILmxCNWSwNrLmGJ6k8ES6pCCrPHwRbITPFynJ9nnx6Vl7+Iz/aKPUX+6FN7dZyZBqrwrsEJmIbMgLN2LUgWdZ02ZjQidTLYBlhac/+EJwstmyteFAcYjD9ypuj+5UhU/aGgCFTiDBTjMdS/7UPn+JxaVdbO9uyT3yXliCAIu61VFwvicMFa223pncoG2GZJLAwrQftgVQrPpq1XtShJlDWI=;1OGtbNVlXQTsu7v6bU/4gg=="

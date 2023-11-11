@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Building for the future: The enterprise generative AI application lifecycle with Azure AI"
-    excerpt: "The enterprise development process requires collaboration, diligent evaluation, risk management, and scaled deployment. By providing a robust suite of capabilities supporting these challenges, Azure AI affords a clear and efficient path to generating value in your products for your customers.\nThe post"
-    publishedDateTime: 2023-11-06T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/building-for-the-future-the-enterprise-generative-ai-application-lifecycle-with-azure-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 95
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/11/Enterprise-Lifecycle.png"
-        width: 800
-        height: 448
-        isCached: true
   - title: "Build trust and safety for generative AI applications with Amazon Comprehend and LangChain"
     excerpt: "We are witnessing a rapid increase in the adoption of large language models (LLM) that power generative AI applications across industries. LLMs are capable of a variety of tasks, such as generating creative content, answering inquiries via chatbots, generating code, and more. Organizations looking to"
     publishedDateTime: 2023-11-10T20:39:56Z
@@ -51,53 +37,44 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 91
-  - title: "How AI and automated scheduling will transform the meeting lifecycle"
-    excerpt: "With access to the right information at the right time, AI will optimize every meeting, delivering on its true value."
-    publishedDateTime: 2023-11-08T21:40:00Z
-    webUrl: "https://venturebeat.com/automation/how-ai-and-automated-scheduling-will-transform-the-meeting-lifecycle/?trk=public_post_comment-text"
+  - title: "Overcoming the trust, talent and price tag challenges in scaling generative AI"
+    excerpt: "The biggest challenge that companies have when they’re ready to launch a gen AI initiative is the difficulty of managing scale."
+    publishedDateTime: 2023-11-09T14:40:00Z
+    webUrl: "https://venturebeat.com/ai/overcoming-the-trust-talent-and-price-tag-challenges-in-scaling-generative-ai/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 63
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_205902735.jpeg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_584789593_Preview.jpeg?w=1200&strip=all"
+        width: 995
+        height: 534
+        isCached: true
+  - title: "Google Expands Generative AI in Search to Over 120 New Countries"
+    excerpt: "Initially, this AI-powered translation capability will be available for English-to-Spanish translations in the United States, with plans to support more countries and languages. Lastly, on relevant searches related to coding and health, specific words will ..."
+    publishedDateTime: 2023-11-09T08:54:00Z
+    webUrl: "https://www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/"
+    ampWebUrl: "https://www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/10/google-io-ai-search-645bf18b5f597-sej-1200x630.jpg"
         width: 1200
-        height: 693
+        height: 630
         isCached: true
-  - title: "How to Leverage Generative Artificial Intelligence in Customer Service"
-    excerpt: "One way for businesses to leverage generative AI to improve the customer experience is to upgrade their call center technology with AI-driven solutions. This includes implementing intelligent bots to directly handle certain aspects of the customer experience while enhancing others."
-    publishedDateTime: 2023-11-06T22:30:00Z
-    webUrl: "https://biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service"
-    ampWebUrl: "https://biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service?amp"
+  - title: "Five Signs Your Company Is Ready For Generative AI"
+    excerpt: "Recognizing the signs that your company is ready for generative AI is a pivotal step toward safely embracing the transformative power of this emerging technology. The potential rewards, from streamlining operations to fostering innovation, are immense and well-documented."
+    publishedDateTime: 2023-11-07T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/five-signs-your-company-is-ready-for-generative-ai/"
     type: article
     provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 57
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202311/GettyImages-1473086732.jpg?itok=owGHTh-q"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "My North Star for the Future of AI"
-    excerpt: "I’d seen the consequences of that over and over: brilliant technologists who could build just about anything but who stared blankly when the question of the ethics of their work was broached. The time has come to reevaluate the way AI is taught at every ..."
-    publishedDateTime: 2023-11-07T13:24:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/11/ai-ethics-academia/675913/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 49
-  - title: "The Future of AI, Jobs, and Automation"
-    excerpt: "The Future of AI, Jobs, and Automation. We've entered a period of dramatic innovation in AI and automation and it's going to have a significant impact on the futur"
-    publishedDateTime: 2023-11-08T20:46:00Z
-    webUrl: "https://www.zdnet.com/collection/the-future-of-ai-jobs-and-automation/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Forbes
+      domain: forbes.com
     quality: 47
   - title: "TechSmith Audiate Launches Generative AI Features For Instant Content Creation"
     excerpt: "TechSmith Corporation, an industry leader in visual communication and video creation, announces the launch of generative AI scripting and voiceover features in Audiate, the company’s audio recorder and text-based editing solution."
@@ -108,46 +85,134 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "The Future of Generative AI: A Closer Look at 2024"
-    excerpt: "Welcome to the fascinating world of Generative AI, where machines have been programmed to tap into their creativity and produce awe-inspiring works that rival those made by humans. As we delve deeper into this captivating topic,"
-    publishedDateTime: 2023-11-08T11:45:00Z
-    webUrl: "https://techbullion.com/the-future-of-generative-ai-a-closer-look-at-2024/"
+  - title: "Six champions of generative AI innovation"
+    excerpt: "Damien Riehl has helped to develop innovative AI-driven technology aimed at three disparate professional groups, in quick succession: musicians; intellectual property litigants; and lawyers."
+    publishedDateTime: 2023-11-08T02:01:00Z
+    webUrl: "https://www.ft.com/content/0138bbd5-4266-48a2-a81f-c04549fa4f00"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 41
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F045a52eb-a8ce-436d-8d55-b51e7780855a.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Rockwell Combines Generative AI and Industrial Automation"
+    excerpt: "The reliance on text bases in modern software development means Rockwell Automation can capitalize on generative AI's ability to read, produce and generate text."
+    publishedDateTime: 2023-11-09T20:25:00Z
+    webUrl: "https://www.healthcareinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
+    type: article
+    provider:
+      name: healthcareinfosecurity.com
+      domain: healthcareinfosecurity.com
+    quality: 39
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/rockwell-combines-generative-ai-industrial-automation-showcase_image-3-a-23564.jpg"
+        width: 860
+        height: 520
+        isCached: true
+  - title: "Adobe Positioned For Success With AI Integration And Expanding Partnerships, Says Analyst"
+    excerpt: "BMO Capital Markets analyst Keith Bachman reiterated the Outperform rating on Adobe Inc. (NASDAQ:ADBE), raising the price target to $670 from $645. The analyst writes that Adobe is a market leader in its three core product categories: Creative Cloud,"
+    publishedDateTime: 2023-11-10T20:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/adobe-positioned-for-success-with-ai-integration-and-expanding-partnerships-says-analyst-1032807911"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "How Generative AI Will Transform Knowledge Work"
+    excerpt: "Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine."
+    publishedDateTime: 2023-11-07T13:05:00Z
+    webUrl: "https://hbr.org/2023/11/how-generative-ai-will-transform-knowledge-work"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_18_1456521984.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "IBM Expands Relationship With AWS To Deepen Generative AI Innovation And Launch A New Innovation Lab In India"
+    excerpt: "November 7, 2023-- IBM (NYSE: IBM) today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from the latest technologies,"
+    publishedDateTime: 2023-11-07T13:20:00Z
+    webUrl: "https://menafn.com/1107384841/IBM-Expands-Relationship-With-AWS-To-Deepen-Generative-AI-Innovation-And-Launch-A-New-Innovation-Lab-In-India"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/07/F_cd60dimage_story.jpg"
+        width: 1160
+        height: 522
+        isCached: true
+  - title: "Unveiling the Pulse of AI in Language Services: SAFE-AI Task Force Launches Pivotal Perception Survey"
+    excerpt: "Global discussions underscore the urgency of a collaborative approach towards navigating the frontier AI landscape. The Perception Survey by the SAFE-AI Task Force aligns with this international momentum, aiming to foster a comprehensive dialogue around AI ethics and safety in the domain of language interpretation."
+    publishedDateTime: 2023-11-08T18:24:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274026386/unveiling-the-pulse-of-ai-in-language-services-safe-ai-task-force-launches-pivotal-perception-survey"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 26
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1699242668411.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Munjal Shah and Hippocratic AI Focus on Non-Diagnostic Health Care Applications for Generative AI"
+    excerpt: "If you’re a knowledge worker, you know there’s simply no escaping the artificial intelligence discussion. Whether you work in health care, business, media, tech, or law, you’ve probably heard of a “game-changing” idea for applying large language ..."
+    publishedDateTime: 2023-11-09T21:22:00Z
+    webUrl: "https://www.sfweekly.com/marketplace/munjal-shah-and-hippocratic-ai-focus-on-non-diagnostic-health-care-applications-for-generative-ai/article_62030e06-7f44-11ee-aad3-f3188de9bffa.html"
+    type: article
+    provider:
+      name: SF Weekly
+      domain: sfweekly.com
+    quality: 26
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sfweekly.com/content/tncms/assets/v3/editorial/7/c2/7c29f7c2-7f44-11ee-a57a-0f62c6a84c00/654d4b0640898.image.jpg?crop=624%2C328%2C0%2C148&resize=624%2C328&order=crop%2Cresize"
+        width: 624
+        height: 328
+        isCached: true
+  - title: "Exploring the Ethics of Gartner’s Generative AI: Impacts, Challenges, and Considerations"
+    excerpt: "Attention tech enthusiasts and ethical minds! Are you ready to dive into the fascinating world of generative AI? Brace yourself for an eye-opening exploration as we unravel the ethics behind Gartner’s groundbreaking technology."
+    publishedDateTime: 2023-11-08T12:29:00Z
+    webUrl: "https://techbullion.com/exploring-the-ethics-of-gartners-generative-ai-impacts-challenges-and-considerations/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-2.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "IBM launches $500M fund to develop generative AI for enterprise"
-    excerpt: "IBM’s primarily focused on enterprise-level solutions for its generative AI products such as its Watson X platform and numerous cloud offerings. According to Rob Thomas, a senior vice president at IBM, generative AI technologies will be a driving force ..."
-    publishedDateTime: 2023-11-07T19:32:00Z
-    webUrl: "https://cointelegraph.com/news/ibm-launches-500-million-fund-develop-generative-ai-enterprise"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
-  - title: "DataRobot Announces New Enterprise-Grade Functionality to Close the Generative AI Confidence Gap and Accelerate Adoption"
-    excerpt: "The new multi-provider LLM playground includes a first-of-its-kind visual interface with built-in GCP Vertex AI, AWS Bedrock, and Azure OpenAI to compare and experiment with different recipes for a combination of vector databases, foundations models ..."
-    publishedDateTime: 2023-11-09T15:56:00Z
-    webUrl: "https://www.datanami.com/2023/11/09/datarobot-announces-new-enterprise-grade-functionality-to-close-the-generative-ai-confidence-gap-and-accelerate-adoption/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 0
-  - title: "DataRobot Announces New Enterprise-Grade Functionality to Close the Generative AI Confidence Gap and Accelerate Adoption"
-    excerpt: "\"The demands around generative AI are broad, complex and evolving in real-time,\" said Venky Veeraraghavan, Chief Product Officer, DataRobot. \"With over 500 of our customers deploying and managing AI in production,"
-    publishedDateTime: 2023-11-09T18:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9915447.htm"
+    quality: 25
+  - title: "How Do Incorporate IoT and Artificial Intelligence For Various Applications"
+    excerpt: "The Internet of Things (IoT) has altered the rules in a variety of industries, including manufacturing, housing, agriculture, healthcare, and many more, even if you have a passing familiarity with technological advancements."
+    publishedDateTime: 2023-11-09T16:24:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2023/11/09/457669-how-incorporate-iot-artificial-intelligence-various-applications.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 19
+  - title: "Air India bets on generative AI; to introduce more AI features to address customer queries"
+    excerpt: "Air India plans to introduce sophisticated features to its generative artificial intelligence virtual agent that handles more than 6,000 customer queries daily. The Tata Group-owned airline is using ChatGPT to analyse even some complex questions it may not be able to immediately answer to improve customer experience in later interactions and is helping it to become more attuned to natural language."
+    publishedDateTime: 2023-11-10T22:53:00Z
+    webUrl: "https://www.dailyexcelsior.com/air-india-bets-on-generative-ai-to-introduce-more-ai-features-to-address-customer-queries/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 9
+  - title: "Gretel Signs Strategic Collaboration Agreement with AWS to Launch Synthetic Data Accelerator to Launch Privacy-First Generative AI Applications"
+    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Gretel, a leading multimodal synthetic data generation platform, today announced a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate responsible generative artificial intelligence (AI ..."
+    publishedDateTime: 2023-11-07T17:14:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231107133349/en/Gretel-Signs-Strategic-Collaboration-Agreement-with-AWS-to-Launch-Synthetic-Data-Accelerator-to-Launch-Privacy-First-Generative-AI-Applications"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
 secured: "XVVIQ2A9I/zB5YPB2d5zhmNUZbWWQkD/1nVIx9Utsh00jLM8MWsseScOvGvwhk0rvQ9oTDThu3GBszAElLW+c3JABhzWukmk8Ew4OkanKs18FaqaJ4Vbyqin9eGSngSZkSnJVQWyqEDb9Y3+dplI3xSG7NuAOfzwHO6prUgUWe6kr+r1CpHe84sbgx+yK1iQQ7kbKfLMmENGFEeHlF/O+WAY5Vk9rAEU7B9t76ijyfs8BhTrCZFmVxC0BybecbV9a1b3D6vTOF9DGg0homvY2aK4XsP3DkABzjN0sO9GGx/52XDvHewdEl9VnKCWAlUhFHNy4/yd6p66GGOyNyQM0qNxHHR56odqqlJxUp+suIAtSPf6WONk+xgByWy+I//G2ho/eWLt8Gz55rhDv/f34EBkISq3C+NH2SQL3TVS7yav0jq10CWoVRyBSMUgnkRfFFNg74Bct+QwraWTcWL11mzEpzIRBWEFDJ3XeCuCUwvflqrMs4mSnJZTYV9A6dqUuQ5FOZr2W+3LSeqhyVHR9Q==;XxRVvkoNu1jdLDyqvMXX4g=="

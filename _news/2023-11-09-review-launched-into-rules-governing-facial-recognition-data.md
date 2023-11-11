@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How to remove Face recognition on Windows 11"
-    excerpt: "In this post, we will show you how to disable Face recognition on Windows 11. Facial recognition is a feature in the Windows operating system that allows users to log in to their devices using facial recognition technology. It is part of the Windows Hello ..."
-    publishedDateTime: 2023-11-08T13:32:00Z
-    webUrl: "https://www.thewindowsclub.com/how-to-disable-face-login-in-windows"
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 39
-    images:
-      - url: "https://www.thewindowsclub.com/wp-content/uploads/2023/10/Windows-Sign-in-options.jpg"
-        width: 700
-        height: 336
-        isCached: true
 
 secured: "nguo6PVjVXMPDBmuTAShmj82maVwWiTncV+1c9CWrWP4xFIfGbLLvM4EetKSqafvcxvI27TfCbxL6BXMYWrkwspW3S8QWihjrFr1Ym7LcnD1TbpYvjB7sk2kHHRxbN+JuoUyGbfR/wC9wqjkdZps+3FDDZObEsEKoyy+G9yp2Yd4oKp1aUZlYKI41F4wTSWJdM7zAfc2NU8zQOQpRtzFLnYj+9FkaK05GACCLlN0cg8hazC7KlNIk1q0JIpScXJ20roBwSv+7Ec4cFNj1y/AHYXxoixPeFS3jYEVV/Ty5Ks3aXxqOdvXCQGFJVDrtGoHb69pPoiOpsEgX+HjtlJq/ltJ3Yh/eN3T6P2aIwn8V0U=;pH2OM9YtKgeMNczaIPzq2g=="
 ---

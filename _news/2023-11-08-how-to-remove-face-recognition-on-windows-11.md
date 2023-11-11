@@ -25,33 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Bias in AI: How to Reduce Bias in Facial Recognition Systems"
-    excerpt: "One approach to mitigate bias is by fine-tuning the algorithm to be more sensitive to variations in skin tone and facial features. This often involves retraining the model on a more diverse dataset."
-    publishedDateTime: 2023-11-09T12:14:00Z
-    webUrl: "https://www.gizbot.com/partner-content/bias-in-ai-how-to-reduce-bias-in-facial-recognition-systems-088279.html"
+  - title: "Police Use of Face Recognition Is Sweeping the UK"
+    excerpt: "Face recognition technology has been controversial for years. Cops in the UK are drastically increasing the amount they use it."
+    publishedDateTime: 2023-11-09T07:00:00Z
+    webUrl: "https://www.wired.com/story/uk-police-face-recognition-expansion/"
     type: article
     provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 54
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://www.gizbot.com/img/2023/11/howtoreducebiasinfacialrecognitionsystems2-1699530988.jpg"
-        width: 1200
-        height: 675
+      - url: "https://media.wired.com/photos/654c2c7f0202a11bfdc62856/191:100/w_1280,c_limit/The-UK-Is-Turning-Into-a-Facial-Recognition-Police-State-Security-GettyImages-1224837570.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "Review launched into rules governing facial recognition data"
-    excerpt: "A government panel is considering whether stricter rules are needed for companies that handle facial recognition data. The Personal Information Protection Commission (PIPC) is mulling new ..."
-    publishedDateTime: 2023-11-09T00:00:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14508024"
+  - title: "Sharp rise in facial recognition use by Scottish police, UK protest footage scanned"
+    excerpt: "The police in Scotland have tripled the use of retrospective facial recognition over the last five years jumping to nearly 4,000 uses in 2022."
+    publishedDateTime: 2023-11-06T20:43:00Z
+    webUrl: "https://www.biometricupdate.com/202311/sharp-rise-in-facial-recognition-use-by-scottish-police-uk-protest-footage-scanned"
     type: article
     provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
     images:
-      - url: "https://p.potaufeu.asahi.com/33ad-p/picture/26551601/841e78f590d1ac87d0500ebc876f4573.jpg"
-        width: 660
-        height: 437
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/26183203/facial-recognition-close-crowd-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "UK MPs Asleep at the Wheel as Facial Recognition Technology Spells The End of Privacy in Public"
+    excerpt: "IntroductionThe use of facial recognition technology (FRT) by law enforcement and private companies in public spaces throughout the UK is on the rise."
+    publishedDateTime: 2023-11-07T10:55:00Z
+    webUrl: "https://privacyinternational.org/long-read/5155/uk-mps-asleep-wheel-facial-recognition-technology-spells-end-privacy-public"
+    type: article
+    provider:
+      name: Privacy International
+      domain: privacyinternational.org
+    quality: 29
+    images:
+      - url: "https://privacyinternational.org/sites/default/files/styles/middle_column_cropped_small_1x/public/2023-11/still-qrcode-v1.jpg?itok=L8JfKKi1"
+        width: 555
+        height: 312
+        isCached: true
+  - title: "Revealed: Met Police Scans Almost Quarter of a Million Faces Using Facial Recognition Technology in 2023"
+    excerpt: "This newspaper has found officers in London have been zealous users of the system, which automatically scans the faces of passers-by and matches them against a watchlist"
+    publishedDateTime: 2023-11-10T11:35:00Z
+    webUrl: "https://bylinetimes.com/2023/11/10/revealed-met-police-scans-almost-quarter-of-a-million-faces-using-facial-recognition-technology-in-2023/"
+    type: article
+    provider:
+      name: bylinetimes
+      domain: bylinetimes.com
+    quality: 24
+    images:
+      - url: "https://bylinetimes.com/wp-content/uploads/2022/10/Sir-Mark-Rowley-600x314.jpg"
+        width: 600
+        height: 314
         isCached: true
 
 secured: "UA6wZQ1u+inGulik1T5WSSxUsIZ8JpJmNH2Qp6CJCniu1fWkBqOE5/3AGLNmGTtcL2xwXqWBdav9f6LJ7kIsQuSYcjsdvzVZNyCUabWpiw36BZEba+kGlMX4R5Q3KKCU2Xe7PJzMMPEorQhylRUy8QUM+GXbWMXkqKYm9i3eo3ZxABqb/Fd5r+4coFQWqiV8a4fqIQhJ4U38Up5SKicYrGxnQoBQPE9cORgTiRu4N+1v6n5iHlnlLsb3smzFJ8a/jnlhBwya97nUullwq09qBEXA1yZufn8iXydk7Vq52Ue4gl8jHgWpgYcPj7PXwAweJDkF9ZlNAUT5TfZTQr29dZ7hxfJjGJX2hnKN1MPBgJ0=;0sTlgGYeVhA3Cq9Mq+nRUw=="

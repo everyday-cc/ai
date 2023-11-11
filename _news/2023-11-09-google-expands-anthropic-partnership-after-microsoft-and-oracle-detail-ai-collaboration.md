@@ -194,15 +194,6 @@ related:
       name: The Peninsula
       domain: thepeninsulaqatar.com
     quality: 34
-  - title: "Microsoft Windows Copilot AI: What You Should Know From The Ultimate Upgrade"
-    excerpt: "Microsoft's latest stride in AI has landed Copilot squarely into the laps of Windows 11 users, touting enhancements in creativity and productivity. An early"
-    publishedDateTime: 2023-11-06T16:00:00Z
-    webUrl: "https://www.mensjournal.com/gear/the-guide/microsoft-windows-copilot-ai-what-you-should-know-from-the-ultimate-upgrade"
-    type: article
-    provider:
-      name: Men's Journal
-      domain: mensjournal.com
-    quality: 33
   - title: "Startups to access high-performance Azure infrastructure, accelerating AI breakthroughs"
     excerpt: "Microsoft is updating its startup program to include a free Azure AI infrastructure option for high-end GPU virtual machine clusters, for use in training and running large language models and other deep learning models."
     publishedDateTime: 2023-11-07T16:00:00Z

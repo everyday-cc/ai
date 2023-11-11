@@ -84,22 +84,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ChatGPT-maker OpenAI hosts first big tech showcase as AI startup faces growing competition"
-    excerpt: "Less than a year into its meteoric rise, the company behind ChatGPT unveiled the future it has in mind for its artificial intelligence technology on Monday as it launched a new line of chatbot products that can be customized to a variety of tasks."
-    publishedDateTime: 2023-11-06T15:16:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/chatgpt-openai-tech-showcase-sf-developer-conference/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/chatgpt-openai-tech-showcase-sf-developer-conference/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/chatgpt-openai-tech-showcase-sf-developer-conference/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 47
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/06/084cd43a-59ac-415c-93c9-ce22d8998c47/thumbnail/1200x630/b387077217bc3f03dd742defc87c1155/chatgpt-openai-conference-1778708098.jpg?v=c81a9d6c51e6280f2f4f876031d7d9bc"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "OpenAI Announces GPT-4 Turbo, Ushering In A New Era Of AI"
     excerpt: "OpenAI, the leading artificial intelligence research lab, has launched GPT-4 Turbo, its latest and most powerful AI model to date."
     publishedDateTime: 2023-11-09T19:25:00Z

@@ -42,22 +42,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Size & Share to Surpass $7.1 Billion by 2030 | Vantage Market Research"
-    excerpt: "As per Vantage Market Research, the Global Artificial Intelligence in the Drug Discovery Market has been steadily growing over the years due to the growing demand for"
-    publishedDateTime: 2023-11-06T16:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35624848/artificial-intelligence-ai-in-drug-discovery-market-size-share-to-surpass-7-1-billion-by-2030-vant"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35624848"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35624848"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Artificial Intelligence (AI) Software System Market Size to Grow USD 156800 Million by 2029 at a CAGR of 31.5% | Valuates Reports"
     excerpt: "The global Artificial Intelligence Software System market is projected to grow from USD 30320 Million in 2023 to USD 156800 Million by 2029, at a Compound Annual Growth Rate (CAGR) of 31.5% during the forecast period. Get Free Sample: https://reports.valuates.com/request/sample/QYRE-Auto-39U2156/Global_Artificial_Intelligence_Software_System"
     publishedDateTime: 2023-11-09T16:33:00Z

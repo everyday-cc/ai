@@ -93,6 +93,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "My North Star for the Future of AI"
+    excerpt: "I’d seen the consequences of that over and over: brilliant technologists who could build just about anything but who stared blankly when the question of the ethics of their work was broached. The time has come to reevaluate the way AI is taught at every ..."
+    publishedDateTime: 2023-11-07T13:24:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/11/ai-ethics-academia/675913/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 49
+  - title: "The Future of AI, Jobs, and Automation"
+    excerpt: "The Future of AI, Jobs, and Automation. We've entered a period of dramatic innovation in AI and automation and it's going to have a significant impact on the futur"
+    publishedDateTime: 2023-11-08T20:46:00Z
+    webUrl: "https://www.zdnet.com/collection/the-future-of-ai-jobs-and-automation/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "AI expert reveals the best hiding place for the robot revolution"
     excerpt: "Albert Fox Cahn, founder of the Surveillance Technology Oversight Project, has deep concerns about AI. He shares them in an interview with The ReidOut Blog."
     publishedDateTime: 2023-11-09T20:40:00Z

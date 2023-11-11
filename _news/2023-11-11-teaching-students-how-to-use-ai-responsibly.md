@@ -21,13 +21,15 @@ topics:
 related:
   - title: "How To Use AI To Get Your Next Promotion and Start Earning More"
     excerpt: "When used effectively, artificial intelligence can help you move up at work -- and many employees are already jumping on board. A recent LinkedIn survey found that 84% of global professionals"
-    publishedDateTime: 2023-11-09T20:00:00Z
-    webUrl: "https://www.aol.com/finance/ai-next-promotion-start-earning-180018208.html"
+    publishedDateTime: 2023-11-09T16:59:00Z
+    webUrl: "https://www.aol.com/ai-next-promotion-start-earning-180018208.html"
+    ampWebUrl: "https://www.aol.com/amphtml/ai-next-promotion-start-earning-180018208.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-next-promotion-start-earning-180018208.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 37
+    quality: 57
     images:
       - url: "https://s.yimg.com/ny/api/res/1.2/g6WA_Km1TFdrHi3B0kuE7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/5225f7b39c4db7b90f3da9142234c392"
         width: 1200

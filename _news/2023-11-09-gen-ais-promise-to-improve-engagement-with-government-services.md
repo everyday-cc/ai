@@ -67,15 +67,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Alibaba's Ant Group Gets Chinese Govt Approval To Release AI Products"
-    excerpt: "Ant Group, the fintech affiliate of Chinese conglomerate Alibaba Group, has received approval from the Chinese government to offer"
-    publishedDateTime: 2023-11-06T15:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-s-ant-group-gets-chinese-govt-approval-to-release-ai-products-1032782312"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "President Xi Jinping tells Chinese internet conference he seeks keen eye on AI and regard for cyber sovereignty"
     excerpt: "Chinese President Xi Jinping has called for the “proper handling” of challenges posed by technology innovation, including “conflicts of rules, social risks and ethics”, as well as the safe development of AI in a video speech delivered on Wednesday."
     publishedDateTime: 2023-11-08T06:47:00Z

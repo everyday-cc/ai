@@ -24,22 +24,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "How Generative AI Will Transform Knowledge Work"
-    excerpt: "Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine."
-    publishedDateTime: 2023-11-07T13:05:00Z
-    webUrl: "https://hbr.org/2023/11/how-generative-ai-will-transform-knowledge-work"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_18_1456521984.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "JtAA1Tj9KE+VTU4LZrEvlI8Qd8RhsFaDsr/4/Med4kXri3Ra9XjgVPuAWNI9iK7eOR/icmYtctxg0IP1ixdsgRVprIJ6ybmrVr/XbpQlyQMxoMVs8TJI8nwGuddUHGBvhnWywOIi8vuMTvpc96B+Ch2pJdUC0CMhioUI4oOFPLfzFGMGL36m8f5oUJrD+jHPwx+9KFzeaJ4NuqFPfGH2kXjqNpjcY3DJ7Cny2Fy/km6AsZyyab7RbBrSenruSUw7V9A8ny+x1yRmr8GagYMOqLWGdFfhmjHmf1x6d6d/PE0QZpPs2pLf0aPDMZvNjgaH0oOUpAh3vXI/CP8uV//LSsaO7cQXvat7XOmYwmiE6aw=;0Rrp7a9qVY+WG2x00awt0g=="
 ---
 

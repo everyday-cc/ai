@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gaming/2023/11/xbox-moderation-team-turns-to
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gaming/2023/11/xbox-moderation-team-turns-to-ai-for-help-filtering-a-flood-of-user-content/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Xbox Team Working on Generative AI for Game Development"
-    excerpt: "A Microsoft partnership with Inworld aims to speed up game development and enable more interactive non-playable characters, but it could face backlash from human game developers."
-    publishedDateTime: 2023-11-06T17:04:00Z
-    webUrl: "https://www.pcmag.com/news/xbox-team-working-on-generative-ai-for-game-development"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04oQe70qTgjqVipzE5ug8ff-1.fit_lim.size_1200x630.v1699285389.jpg"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "x4NmyWE3DujWKA3P6PjxXNj71iLbEY32GPAbZylH2NVGW3sG4yHhY8FYR+zrmf36MnuQyEjdTQjMubg5d2WYaYQRhnk3AtIW0wM29JOrNoMMZc9cXffzeohZ2zBLC3aYNX2H/dRNJhvBKxyQbNflcnNCft1nzRjx5LfL/F6bm1GcyVAI6VicKt9lb5s7G4rnPt4QU6VCUF+SBlvNZmOFOYv8M1E9F80Dt/PFf1Mj1k/ZGXFwpWyS8Qbs6qXAhmYPHdgi1OE4NMp00xIHqKN9gQAg+XnSKNQ0IHmthISgGCUUp0/bI45toF9UUNVzLd9g0wS1dARGKpyUn37VGCyb4AbP+ThiVO+n61qEkASZLlDV1uaQzcNjRIKLa7XKusu62jF6j+KKgWXy4PUHBoy6nT91ls7qL5ngqgGAvJ/mPfrFpB9LPCE5w6/hAEuqnXCnuqUa9wRxEU05L3RbUjjqfyPv2NpNGHYUBHXm3uQPM9snveU1XogkGjLjuR6Yqfi8qiORWZpTzWHqJ5fWdSrP6A==;l1f9aNQa7/umujCTxcQNqw=="
 ---

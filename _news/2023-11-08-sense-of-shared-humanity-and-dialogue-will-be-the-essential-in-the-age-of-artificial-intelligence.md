@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 414
     height: 364
     isCached: true
-
-related:
-  - title: "Balancing the risks and rewards of AI will be key"
-    excerpt: "Letters: Readers on the artificial intelligence summit in London and Elon Musk’s comments about the impact of AI on all our lives"
-    publishedDateTime: 2023-11-06T16:45:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/dc758b4f15353dff8f0e24f228d75e679ac61968/0_172_7940_4764/master/7940.jpg?width=620&quality=85&auto=format&fit=max&s=8dd9f99fdc4bed0aec9203bb86e97647"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "The ups and downs of leveraging AI in real estate"
-    excerpt: "\"AI technology is here to stay,” Hata said ... who is a member of the National Association of Realtors and who subscribes to its strict Code of Ethics. There's more ... Looking for more real estate stories? Read Embarcadero Media's latest Real Estate ..."
-    publishedDateTime: 2023-11-08T22:40:00Z
-    webUrl: "https://www.paloaltoonline.com/real_estate/2023/11/08/the-ups-and-downs-of-leveraging-ai-in-real-estate"
-    type: article
-    provider:
-      name: Palo Alto Weekly
-      domain: paloaltoonline.com
-    quality: 39
-    images:
-      - url: "https://www.paloaltoonline.com/news/photos/2023/november/8/107059_col.jpg"
-        width: 2121
-        height: 1413
-        isCached: true
 
 secured: "d+jmJ931pD1WRXo6AKlbBEEx88fVXXL356R8viES+x3u0hfiXxWJBWXXEOjf2sheT/V4Q9ms1fvdZHw5lopiHS/jvZr9AFErxjr8za2uwOxU1TxkayNrAd/2JwOF9wbajRobwkmBoU7HaQPMPURz5q7v/t6KBzUlFp/wHuBudQuFWL+K13FwoeHum5Z7PRyJeVmFIl1g5zksaCAiR4oI1RzyR0A0k6SFlE/sc2OdFgg6SfEb21dLmTAInMGlMqAMZoGixX0dy5QlJctcvJbz5TjVvCpn34eQGH8PV34ik7wE9DpP79o9yA3R3/W/R0d4jzKoZoj+9k04L0cppGaKRkZIYCCyRQZ2BBTZbgGhRN8=;/v+AlDubXAgpgPTkW+0ulw=="
 ---

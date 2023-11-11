@@ -7,7 +7,7 @@ originalUrl: "https://www.paloaltoonline.com/real_estate/2023/11/08/the-ups-and-
 webUrl: "https://www.paloaltoonline.com/real_estate/2023/11/08/the-ups-and-downs-of-leveraging-ai-in-real-estate"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,37 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Balancing the risks and rewards of AI will be key"
-    excerpt: "Letters: Readers on the artificial intelligence summit in London and Elon Musk’s comments about the impact of AI on all our lives"
-    publishedDateTime: 2023-11-06T16:45:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
+  - title: "A Stalemate On Artificial Intelligence Is One Of Several Items Holding Up A Deal Between Actors And Studios"
+    excerpt: "Protections around artificial intelligence and the use of actors’ digital replicas have been part of SAG-AFTRA’s demands from the beginning of the strike."
+    publishedDateTime: 2023-11-07T23:54:00Z
+    webUrl: "https://laist.com/news/arts-and-entertainment/a-stalemate-on-artificial-intelligence-is-one-of-several-items-holding-up-a-deal-between-actors-and-studios"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: LAist
+      domain: laist.com
+    quality: 19
     images:
-      - url: "https://i.guim.co.uk/img/media/dc758b4f15353dff8f0e24f228d75e679ac61968/0_172_7940_4764/master/7940.jpg?width=620&quality=85&auto=format&fit=max&s=8dd9f99fdc4bed0aec9203bb86e97647"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Sense of shared humanity and dialogue will be the essential in the age of Artificial Intelligence"
-    excerpt: "He was previously Dean, International and Corporate Affairs and Dean, School of Computer Science and Engineering, Bennett University and Director, NVIDIA-BU Research Center on Artificial Intelligence. He has also served as Head, Computer Science at Thapar ..."
-    publishedDateTime: 2023-11-08T15:40:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 46
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
-        width: 414
-        height: 364
+      - url: "https://scpr.brightspotcdn.com/dims4/default/59ad25c/2147483647/strip/true/crop/3725x1956+0+401/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2Fbd%2Fa9%2F066076bc45c0846fae419adb1e51%2Fimg-3940.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "MSj9JVP+6pCPvEHY5nToa1MqeCIKb5czmNDXUzGPsIS12Z09QkDE17NGAuWBBD4DcWS45wGKgE75jshIhpzJX2XWpYyoYuZh/RqhIG6rRRnKgjgL1G32BADOPLf+zMa3Zt6T12WFe2SqrFY7gUDTp1Mto1FbIJYdTQw3RJQ8xQxDVE4R5hb7jns/L/Q0LUttsSzMOKqM3bUhsD8pQoe0w2qknKCnmBBhlqjX8fawiVytx7jc0oE9Go4Mg8M7CHCPhin51dy14KP5YK1pzJAUupWHO7tWAHDfDe1uWfhazn5irf8wXS1VYTbq3bOAhK0dCNWzT+2OajuIuHEaJRdAwVSHYHmj8s0nHRVWhjjsxmI=;4hilyswqrdGktsbyscFDnQ=="

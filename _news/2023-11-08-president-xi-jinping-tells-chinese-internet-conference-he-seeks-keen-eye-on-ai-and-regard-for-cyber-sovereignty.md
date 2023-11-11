@@ -71,15 +71,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Alibaba's Ant Group Gets Chinese Govt Approval To Release AI Products"
-    excerpt: "Ant Group, the fintech affiliate of Chinese conglomerate Alibaba Group, has received approval from the Chinese government to offer"
-    publishedDateTime: 2023-11-06T15:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-s-ant-group-gets-chinese-govt-approval-to-release-ai-products-1032782312"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "Gen AI’s promise to improve engagement with government services"
     excerpt: "The ability to provide a conversational approach to search and virtual agents, whether in English or other languages ... The generative AI tool would facilitate direct translation in each instance. “Looking at it from the perspective of the citizen ..."
     publishedDateTime: 2023-11-08T20:30:00Z

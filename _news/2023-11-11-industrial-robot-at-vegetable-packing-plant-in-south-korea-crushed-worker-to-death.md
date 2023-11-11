@@ -2,26 +2,26 @@
 category: news
 title: "Industrial robot at vegetable packing plant in South Korea crushed worker to death"
 excerpt: "Police say initial information indicated that human error may have been the root cause of the incident over the machine itself."
-publishedDateTime: 2023-11-11T01:09:00Z
-originalUrl: "https://www.wsbtv.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/"
-webUrl: "https://www.wsbtv.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/"
-ampWebUrl: "https://www.wsbtv.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/?outputType=amp"
+publishedDateTime: 2023-11-11T07:10:00Z
+originalUrl: "https://www.kiro7.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/"
+webUrl: "https://www.kiro7.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/"
+ampWebUrl: "https://www.kiro7.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/?outputType=amp"
+cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/?outputType=amp"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: WSB-TV
-  domain: wsbtv.com
+  name: KIRO-TV
+  domain: kiro7.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/kCJmZW3kloT40uv2CB2CsqOCvGQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/LJZRCMADDFD2PBXAG76JXSK3BU.jpg"
+  - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/kCJmZW3kloT40uv2CB2CsqOCvGQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/LJZRCMADDFD2PBXAG76JXSK3BU.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -159,6 +159,6 @@ related:
       domain: manufacturing.net
     quality: 13
 
-secured: "77qzC8zlHyVJS789daVpFPSYjY+lzniESaLYgfZXmzVfeNB5mlJUaAwWiGI0e2s5t2vvVatXMZlwahVt1uxotmT8SjAXLor6AQMFpxl0bJhthfC8LAIjWj9qf6ULJ6JVARxyz1ZHE8bdDstKNYH87dp/sQpVPZ4vj+lDRRN4jeBTm7GWKfYK2xzhf8sr1/fthl7OCotKgqgDaTJUmY8IMsQ2XtxtHhirmINacaQFu6rrTBv1CU4zbRVNAezLihirRGMfXTotzy7uMb/YDzrRB+VdF2tunnZ2X29gJTJi8LEKLqTgwUvGP9FKP7V7OqWaBedDrcVTGuYJ108Thyb1ZK9+boM9wcWFZsK/k+ApfHSMX/KSLOKJSouGbiRNbml1sxIleuH/0DprufOBLC0MePLXrfqKa57tcwQbr3kv3jkjT3MJD4S7NbcBDn7nmrIYf2oiJHeD++xJSqzyNKVUygPfooICvSdTQE05U1lDAVafj/nk3IzhAs8VsR3KxtuwijEZHyR9Yo/uWdOBhmJY5A==;7/F5fuvs6QVoAGIR8J9dig=="
+secured: "s95/dRUkaijRyfgMry4GulNjbUZZOAd7PzxfYDKBz+r5tEy6tZrtz/l9aZ8RNvpUxB8yt4/j6si6mwpeedlunwravWl3E309kxYM3YEWd5N83fpfOgZCP5cAYFO7dGEQuXvXeXhrkCPYuJs/RGXCIjLbEPgY3hYPF9MXHnyL/o8nzZ4M2FXOtUxOsjTPF+Llh4IPMyq+J2JR9kpt4RJdiASOrWBvvXMo/s1llGvmbsaenEkWV/2NMf+MRnNeLIbNz94i31itmpI9yVXFUTK5PSdWj2BzZW7w0j05a90ggPPjoaU9B0byfdRp9PAK/LNZCpIFAQz4+c0Jnh4QVFZAgAepoqYIJOX/lsC3Mveutk4=;9TcBYwsftArrPyycw5PWyA=="
 ---
 
