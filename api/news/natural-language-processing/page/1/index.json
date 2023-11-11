@@ -1106,22 +1106,31 @@
       "title": "Lilt Supports AI-Powered Translated Forecasts Offered By NOAA's National Weather Service",
       "excerpt": "the leading AI solution for enterprise translation, is proud to provide the AI-powered technology behind a new experimental language translation website by NOAA and the National Weather Service.",
       "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/article_ad8a03e8-30b5-51d8-aa3f-881c59d5b3a3.html",
-      "originalUrl": "https://www.news-journal.com/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/article_ad8a03e8-30b5-51d8-aa3f-881c59d5b3a3.html",
+      "webUrl": "https://fox40.com/business/press-releases/cision/20231027SF50824/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/",
+      "originalUrl": "https://fox40.com/business/press-releases/cision/20231027SF50824/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1276009/Lilt_Logo_Large_Logo.jpg?p=publish",
+          "width": 800,
+          "height": 286,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T12:23:00-07:00",
+      "publishedDateTime": "2023-10-27T20:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
+        "name": "FOX40 News",
+        "domain": "fox40.com",
         "images": null,
         "publishers": null,
         "authors": null

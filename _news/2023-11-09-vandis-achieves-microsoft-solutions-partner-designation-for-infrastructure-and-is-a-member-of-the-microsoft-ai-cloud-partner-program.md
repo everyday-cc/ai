@@ -212,20 +212,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Microsoft Vet Takes Reins at Curbit"
-    excerpt: "He left Microsoft at the beginning of the year and worked for a few months with Curbit, which is built on Azure, to provide guidance on business scaling, then stepped in as its chief executive in September. As Curbit’s AI and machine learning systems ..."
-    publishedDateTime: 2023-11-06T08:05:00Z
-    webUrl: "https://www.sfvbj.com/technology/microsoft-vet-takes-reins-at-curbit/"
-    type: article
-    provider:
-      name: sfvbj
-      domain: sfvbj.com
-    quality: 39
-    images:
-      - url: "https://d2dmozeuai8pbs.cloudfront.net/wp-content/uploads/2023/11/PG03_CURBIT_1106_Employees.png"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "Microsoft to provide startups with free access to develop AI models"
     excerpt: "Washington: Microsoft announced that it will provide distinguished startups Microsoft for Startups Founders Hub with free access to supercomputing"
     publishedDateTime: 2023-11-09T13:38:00Z

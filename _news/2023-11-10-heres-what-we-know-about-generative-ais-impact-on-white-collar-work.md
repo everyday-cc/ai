@@ -3,8 +3,8 @@ category: news
 title: "Here’s what we know about generative AI’s impact on white-collar work"
 excerpt: "Some jobs are vulnerable to automation but if you’re a ‘cyborg’ or a ‘centaur’ you can work better with robot help"
 publishedDateTime: 2023-11-10T05:00:00Z
-originalUrl: "https://www.ft.com/content/b2928076-5c52-43e9-8872-08fda2aa2fcf?sharetype=gift"
-webUrl: "https://www.ft.com/content/b2928076-5c52-43e9-8872-08fda2aa2fcf?sharetype=gift"
+originalUrl: "https://www.ft.com/content/b2928076-5c52-43e9-8872-08fda2aa2fcf?trk=public_post_comment-text"
+webUrl: "https://www.ft.com/content/b2928076-5c52-43e9-8872-08fda2aa2fcf?trk=public_post_comment-text"
 type: article
 quality: 37
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 267
         isCached: true
 
-secured: "eQHyGKHfwANM78G2ZGS2lbCfh8FzXA55jLml34Y7lmc6lNwm5MGmY54w83Pza0R7Q4CPAUejp6QKa8aUD/TVTtq1S2zIB7HnMq4WLYwHLA1aamQF+CN1LAL7Lvok8D4a/CZpWZL0hYDLmTo73dIG/FMnrfTsPTDN6MKAxu+JTfpqpdNca9DfA+Xa/QuOj5sMuXvaJFTG/VGROWFBHxDrplfzFeby6dOzovn5E/iJF8ohCsxTZma4f1SNx2f5XVyvIUPJb/5PicgRCwqePD5kR7CriKRx51v01y0pDx3QburKfdlRtrAHkZf/AcPD3KNDvhoRJbEVW9Eb1gLnGdBdcZyNiuKWmf4pKsoQxlHSxh8=;j5sin/iB+/+Y6fqbkzAVFQ=="
+secured: "6PCS7GvxcQ2cNmYcx2BGw0cFum4twLsoTrjOzSJQt8aCrPwkeVS6a3rfM77El008uF8AeSax9tmQWxoBrPZVJhThg392lrSwMNa5Y7XL7Tfrw5qQ225xjA63YpVxG3cw8Say/FCYANrwWxMrkHDENVQjpQbXgbCJHbx4JuZCgTnioJSNRozrY197sigfnggMmRl7VLi8ULBP/nuti3czkIuHIwC9Z8N5Ik3OCTQCA3y2rsixyCvr7oyGBMt123Xt9yTADP3CsHTfR4HFVCMJgKZlLQWZhnsdCmZwZRyTeGo5yrrmhA+MFxCqVeSa+nbUKcFXgvN6WzproGXqhi4hJ1WJZcO2lNRFf4JE09CDqPw=;auWHUe0zSBL8Glwismj7cg=="
 ---
 

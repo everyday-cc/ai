@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-10T21:55:00Z
 originalUrl: "https://siliconangle.com/2023/11/10/supercloud-5-coming-explore-generative-ai-impact-cloud-titans-thecubes-upcoming-event-nov-28-dec-1-supercloud5/"
 webUrl: "https://siliconangle.com/2023/11/10/supercloud-5-coming-explore-generative-ai-impact-cloud-titans-thecubes-upcoming-event-nov-28-dec-1-supercloud5/"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/Supercloud-5-2023-hero-image.png"
@@ -42,6 +43,6 @@ related:
         height: 900
         isCached: true
 
-secured: "lRoo754GGC59s8Hf6pJzzH/FHGj7Vlc+ybHTZ4+7NZbaG4jfeNXb7PW3KULnLJyImRz5xzZNcTX8GDnhei15iEJrwbkCUio53fb7kpJSmgPIeI61K8YTMxjKMCnPi4vz/Ecnc2zPQ3JTvh16TVDirELwM3YTPcI7wJjVbBFXJcy8PuVhR843iNFhUjhnRxYRbmySAqXXpsgjO6VfBUDclFBRKkCorceoq93HlmN9bvi/CKGo3ZCf/CyyiNGFpZVS2zL1VwMIJKpnvXv/ib8JdNsDjQc58Pc1gPwb+41h/dqw7DoV/hQxnGWxfGeX7toYpl8VPrT+waIBD63FnM0DfFtXjAZt7319gbBuqVri9ho=;wmRj6/PQ3PfgQVpn1R3kkA=="
+secured: "Hjm/Jpy0ngOAp5i6H5cTXDB/CrTuu7yviXsHVmkVrR4uYZFVXPOb9/Sw7hkqTP0hSZN4PRrV9FhWrZeSFJSXJDV1uaOFGs5dU0Q2Blqm1LgZ7BoxU6kR9u5tX2lB2ujdMcHWrXmadHesArxfdS6uNcJGzj823eUMLj4/mCfU651XV5VjgbSwhgVSlkk1GFJO+G3TGAmoqnO8x68mBMVGryFDjgGD0LSIn57tf9aGTUtJYSsFuVg6QPB5Vg00WraFQrjNCSq/3LDQKA4d6ekSjeyoaCmfdtDKPa/cJLp/0EIroMlyeWZirRSgEfhTRrrs5UKg0g5j8duuKhc4gK+8zGdNyhiDhB4t05kMO0vINPwmYciu3BtKouPmnVrIp0teHpGHPHgKOgFKCrSqcknaPomAmRmJ78//BoNqJ91lAjRYRdkhr+QUBzVo+q6XrHoKKiA3IUrbGkh1zqAC1g/gy3BoAgEssHyA6WjSWtmHxPFmEJZnDbAzThBTuaKDdD2lLihTs0repcySGZn6TlI+pg==;kgwvFU2ipmwAsifY2QcRhA=="
 ---
 

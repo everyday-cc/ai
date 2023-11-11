@@ -29,7 +29,7 @@ related:
   - title: "Here’s what we know about generative AI’s impact on white-collar work"
     excerpt: "Some jobs are vulnerable to automation but if you’re a ‘cyborg’ or a ‘centaur’ you can work better with robot help"
     publishedDateTime: 2023-11-10T05:00:00Z
-    webUrl: "https://www.ft.com/content/b2928076-5c52-43e9-8872-08fda2aa2fcf?sharetype=gift"
+    webUrl: "https://www.ft.com/content/b2928076-5c52-43e9-8872-08fda2aa2fcf?trk=public_post_comment-text"
     type: article
     provider:
       name: The Financial Times

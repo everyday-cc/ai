@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Humanoid robots are here, but they’re a little awkward. Do we really need them?"
-excerpt: "Forget affable-appearing Rosey and Robby of sci-fi yesteryear; today’s humanoid robots are a bit more Terminator-esque. Do we even need them? Artificial intelligence pioneers weigh in."
-publishedDateTime: 2023-11-06T18:30:00Z
-originalUrl: "https://www.stltoday.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_9d8f93c0-9c17-5140-a004-70ed7282930b.html"
-webUrl: "https://www.stltoday.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_9d8f93c0-9c17-5140-a004-70ed7282930b.html"
+excerpt: "Building a robot that’s both humanlike and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze has sparked another wave of investments in the quest to build a humanoid, most of the ..."
+publishedDateTime: 2023-11-06T20:31:00Z
+originalUrl: "https://dailyprogress.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_15df894d-4027-5de1-97d0-89545156cce6.html"
+webUrl: "https://dailyprogress.com/news/nation-world/science/humanoid-robots-ai-agility-robotics-amazon-tesla/article_15df894d-4027-5de1-97d0-89545156cce6.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: The Daily Progress
+  domain: dailyprogress.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/d8/9d8f93c0-9c17-5140-a004-70ed7282930b/6548f44d40334.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/1/5d/15df894d-4027-5de1-97d0-89545156cce6/6548f44c5b258.preview.jpg?crop=670%2C352%2C0%2C29&resize=670%2C352&order=crop%2Cresize"
     width: 670
     height: 352
     isCached: true
@@ -56,6 +56,6 @@ related:
         height: 691
         isCached: true
 
-secured: "l0k/UAzjG/zLE2TZRKkvMu9jy4OmfjkedPZBUMs89MF9Vu9ogNdVXSvwy0I1OFQLoGUj7KwEMDlK2h8XyC38K+NK41i6ppULVRQWpi1kombTh8YuFMnAJ4ObnRdTABqXiMUGRIMg+/SkxKANusu/ce9YLGX79ns/4R7apwN+GROVzQ9XREcujKUCabPS4SHZhhQkf/3t33SPG8oHNdB3K0KX2L9LOZ4QbzXdpat20IOB4U7rbO706eDuEsigvMAHGUcs8v38SmOcblpRSi//sX6dPwAB9hZgeaazGJb0qnt+GCXRAIn2kHx8nVwPf36kNERx3gYmqPspCmofGBYGOYjyV7SUI1eiNYN48F6X3F0=;zDLoETYGFApuJ6kN8VRmTQ=="
+secured: "f6Y3d2bPeEb+JuXcoZnuvX+ggq7Fw80HQ3JLcN7lYKiJh+XLFnpKZfUKlahokeBoVyPvq+3DrH+fzhVtCkv7foGJUew55IRtaZdiOEYkopJjffYLhcnEEw8i5gpkFGJN/XQgYKZflNBzaa+dvDNAIPhXeMN7GFBYEi/6x+Qq759IWP2B6HB0DLwU3W0IEI4rw3LS7XmFzRRAyhJlMqZXvd3cdYzBk0TPoskBQGWT4tSjx3fAw5uaYyOQBqEZ3x1wiryvHWCHtAXwJbJ3iQYyzHWEch9v0is+QQdnhKi+IsHdRHLJl+WefforZGZmvW5N1d9CPe/Atvb/tLXPwvJXaRUSXYnHHyF85kTLZWKLG+g=;31HwctXX0Li8ToWjbQUVyw=="
 ---
 

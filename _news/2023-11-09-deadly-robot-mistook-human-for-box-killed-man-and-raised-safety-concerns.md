@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/11/09/robot-crushes-man-to-death/"
 webUrl: "https://www.gizmochina.com/2023/11/09/robot-crushes-man-to-death/"
 type: article
 quality: 82
-heat: 102
+heat: 103
 published: true
 
 provider:

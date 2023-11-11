@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/11/10/this-incredibly-cheap-ar
 webUrl: "https://www.fool.com/investing/2023/11/10/this-incredibly-cheap-artificial-intelligence-ai-s/"
 type: article
 quality: 64
-heat: 94
+heat: 96
 published: true
 
 provider:

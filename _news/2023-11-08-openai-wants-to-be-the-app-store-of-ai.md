@@ -91,7 +91,7 @@ related:
   - title: "Google and Anthropic Are Gunning for AI Dominance with New Chips"
     excerpt: "Anthropic's Claude LLM gains a competitive edge with Google's TPU v5e chips as part of a collaboration that not only injects capital but also promises to push the boundaries of AI's computational frontiers."
     publishedDateTime: 2023-11-10T01:02:00Z
-    webUrl: "https://decrypt.co/205397/google-anthropic-claude-ai-tpu-chips-openai/"
+    webUrl: "https://decrypt.co/205397/google-and-anthropic-are-gunning-for-ai-dominance-with-new-chips"
     type: article
     provider:
       name: decrypt

@@ -38,7 +38,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 16
+    quality: 18
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/Supercloud-5-2023-hero-image.png"
         width: 1200

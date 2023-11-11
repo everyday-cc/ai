@@ -2,23 +2,23 @@
 category: news
 title: "ChatGPT-maker OpenAI hosts its first big tech showcase as the AI startup faces growing competition"
 excerpt: "Musk, who helped start OpenAI before parting ways with the company, launched a new venture this year called xAI to set his own mark on the pace of AI development. Grok is only available to a limited number of early users but promises to answer “spicy ..."
-publishedDateTime: 2023-11-08T20:45:00Z
-originalUrl: "https://omaha.com/article_1546c0bb-8339-57fe-8cf4-e9cf7929783e.html"
-webUrl: "https://omaha.com/article_1546c0bb-8339-57fe-8cf4-e9cf7929783e.html"
+publishedDateTime: 2023-11-09T04:37:00Z
+originalUrl: "https://tulsaworld.com/news/nation-world/government-politics/article_8fb7292d-70e6-55fe-8f44-0d5db2b2c175.html"
+webUrl: "https://tulsaworld.com/news/nation-world/government-politics/article_8fb7292d-70e6-55fe-8f44-0d5db2b2c175.html"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/2/76/2761111b-564d-59a8-adc2-819f6659bb47/654bd69be4743.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/20/020a9902-f940-5a8e-9452-0b9c17da7ed3/654bd69c05ba4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -279,6 +279,6 @@ related:
       domain: thestreet.com
     quality: 9
 
-secured: "TkTgXIQj94CPdF6wjJO8zAex/EFWd/5FCtAiVRnDKA2sS2MpcazgFWD/X/QKGDySnd4oZw2X72VarCRrnvas0y+4UBuFUGlyFaH+KmFSCD/YkRgz8NSsyfqdx4BZbBOU+wRIEcIugHAeFca0cGorqJ28CBSSg2lBcfG3FcgV//GQGlcDz4Q9n2xhZBAYVtd6Dny9tbBaIbYGMUM8zwEHMQ6KdPkGojsBUx5tg0r8D6RYCkvQ3BCCKFuJ61vjuNcAirQaX/vrLI6Db2itnn+AA3LMrMNsOSMfuafvF7GqD9INW/u6R0vWzSvv0cFGxBl3ey4peVNGiRML0TvrI3/Xr+RgK+OIQMcC4hi42O4jbJ7S8UVt/25wp+6DSte+hZZYssEXm7RMOwoaehtem7D5EDXOIZvK5Jwyt+WvtCPBzgDpJm1faXVGnxawKQw6lN+P5gtcJWNfUa9zrXmGndAID7Xg6JfGCydkQt72mZV+7HMWI05ZY1QYhwIRAT7TfMqqPjgIZnvN+Xnp7RUcmPmX5w==;LkYgHr1lGEMF9jNQGJbOdA=="
+secured: "RGY01PtbLH2qcE0wpKMyLanVzu4WhIZ+JH2/sEbkCg2wNfVB/X1KKK+wZLamiLkkJAvAm9EvDRSoCtdhjGxVmOl5bRTo+FydEHwfIuoY0EPwEBvKVdXcrA04Vy5PB/iw049Vu9XFHOkPkU3Fdx8InbmToykXp21mDg36U2t3j9XGqokICGK0oxmf8ErlEqReorQxrJhTMLn0ARgyd84lLsWKYxjDqmjAAa37eabqITSLchl5XuFyhiugqQ4SjyuQouohQ0lgjOjMjBXBoYwLnywsPu/Y6owJhPlknNVacMvfxlp2jNwKqUjYHTyTvt6sgUVaqzK/hb1b+DO3kGZPO4GthJ7KMnsJKfrZRPnb8H4=;kIMmUMwEd1JJdVklQmSODQ=="
 ---
 

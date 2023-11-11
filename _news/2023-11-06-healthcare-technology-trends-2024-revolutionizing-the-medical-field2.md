@@ -25,33 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Machine Learning: Key Drivers of Technology Trends in 2024"
-    excerpt: "In the rapidly evolving landscape of technology, 2024 promises to be a year that will bring about transformative changes and innovative breakthroughs. At the forefront of these advancements are Artificial Intelligence (AI) and Machine Learning (ML)."
-    publishedDateTime: 2023-11-06T09:02:00Z
-    webUrl: "https://techbullion.com/ai-and-machine-learning-key-drivers-of-technology-trends-in-2024/"
+  - title: "Revolutionizing medicine: Aimon Rahman on enhancing health care with deep learning"
+    excerpt: "Aimon Rahman, a third-year doctoral student in the Vision & Image Understanding (VIU) Lab in the Electrical and Computer Engineering Department, is making significant contributions to the field of medical artificial intelligence (AI)."
+    publishedDateTime: 2023-11-10T23:17:00Z
+    webUrl: "https://www.jhunewsletter.com/article/2023/11/revolutionizing-medicine-aimon-rahman-on-enhancing-health-care-with-deep-learning"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 56
+      name: Johns Hopkins Newsletter
+      domain: jhunewsletter.com
+    quality: 48
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Untitled-design-20.png"
+      - url: "https://snworksceo.imgix.net/jhn/1dfbb58f-73aa-4104-9991-90f9e3be0823.sized-1000x1000.jpg?w=800&h=600"
         width: 800
-        height: 400
+        height: 534
         isCached: true
-  - title: "HealthTech Revolution: Impact of 2024 Technology Trends on Healthcare"
-    excerpt: "Introduction The healthcare industry has undergone a remarkable transformation, thanks to the rapid advancements in technology. With each passing day, innovative technologies are revolutionizing the way healthcare services are delivered,"
-    publishedDateTime: 2023-11-06T22:55:00Z
-    webUrl: "https://techbullion.com/healthtech-revolution-impact-of-2024-technology-trends-on-healthcare/"
+  - title: "Machine learning paves the way for precision medicine in UTI treatments"
+    excerpt: "In a recent study published in npj Antimicrobials and Resistance, researchers developed and validated interpretable machine learning (ML) algorithms that predict antibiotic resistance in complicated urinary tract infections (UTIs), enhancing clinical decision-making and promoting personalized treatments."
+    publishedDateTime: 2023-11-06T11:25:00Z
+    webUrl: "https://www.news-medical.net/news/20231106/Machine-learning-paves-the-way-for-precision-medicine-in-UTI-treatments.aspx"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: News Medical
+      domain: news-medical.net
     quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/HealthTech-Revolution-Impact-of-2024-Technology-Trends-on-Healthcare.jpg"
-        width: 600
-        height: 400
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_763635_16992696751247715.jpg"
+        width: 2000
+        height: 1075
         isCached: true
 
 secured: "iatfgjLI3nPLI4PBgvGq/OnZJKM2uRwj1cmgzboYciuHMc0T9Xy6ndR2U08K4MVWv9DEHZT/nS1jrjPcVGUg3Sj1OGemAWFiClGAXY1B6UZdZNxqSPAscf/2XVwXRcbjFXLWNIrubUDG2+KF/7eYaP9Iy+TdX/C1wgLAk2vmjo/35B6YrqFOOIOKqgijCIuxJ86kW1vsxvFm4UViSJnFkPeqoskCXXj3GB5eYGYxWpuPy9dywAaE8cYLTIFQz+UJaY3GUT2avDpHn+Am1iYWGXMJj35jqGmptx7mql6gy5NgcqKA6NZuFGZNspMHPrFJsmJbgBp0Aj72N/2zj/w6w/w64N0WIqXAzXziu6YBTjs=;Enu/CR+KaUe9ZIN16EL8RQ=="

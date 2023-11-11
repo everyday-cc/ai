@@ -2,26 +2,26 @@
 category: news
 title: "Industrial robot crushed worker to death at a vegetable packing plant"
 excerpt: "The man died of head and chest injuries after he was grabbed and pressed against a conveyor belt by the machine’s robotic arms."
-publishedDateTime: 2023-11-10T22:11:00Z
-originalUrl: "https://www.kolotv.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/"
-webUrl: "https://www.kolotv.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/"
-ampWebUrl: "https://www.kolotv.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/?outputType=amp"
-cdnAmpWebUrl: "https://www-kolotv-com.cdn.ampproject.org/c/s/www.kolotv.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/?outputType=amp"
+publishedDateTime: 2023-11-10T23:11:00Z
+originalUrl: "https://www.hawaiinewsnow.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/"
+webUrl: "https://www.hawaiinewsnow.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/"
+ampWebUrl: "https://www.hawaiinewsnow.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/?outputType=amp"
+cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/11/10/industrial-robot-crushed-worker-death-vegetable-packing-plant/?outputType=amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KOLO TV
-  domain: kolotv.com
+  name: Hawaii News Now
+  domain: hawaiinewsnow.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://gray-kolo-prod.cdn.arcpublishing.com/resizer/QQKk9QRpXhJ3sMdOIhuoJJJm598=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/HPQRALOX4VDHXMXJ5IU2L4MQSQ.jpg"
+  - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/9OM67j3HWsHYJAOpreq3WD4--nY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/4IN4KYGYTZF2ZK3POZ6MUYD3OU.jpg"
     width: 800
     height: 450
     isCached: true
@@ -143,6 +143,6 @@ related:
       domain: manufacturing.net
     quality: 13
 
-secured: "6RkldxzpTafDKGDFAxQ79T+HCR6+iJHhRHk2AZsc0mhHlTDwOenaqyokvKlZrcYpQXmZDa2oyecO4ZTW86QJhDzX7Jet+gTHDPVybJQri+5MWgGwloYozUZ7Y4cV+EN+BsUNsmNfHEF0780aX8fKNhmekSGWVs9STLfWbyIQcTO3cZJWWm2lJpce8loauV3CvdPmbkTgOUZWNVrZE146TgahlenRZLBZl4AO4ZW5rCo3Qo53lzfWXP+VYU86N0v/C2Fs/vY6q8kBku3DUHBxCLofRQ/JfZHfyH4Dy/TQwYB22PQGM0thjeWqqEBLOIlgjD+Fmw+lk+RfgSQiKQ5J80vLLLvbRRtv5n3+1q7V7TU=;1HA7Kg9DyGv6PPiHK6EqTQ=="
+secured: "xoLjL4Axr6gVWQz6AJTmWp77PYGpMykttovIuFtC7HcrTnPxrSM2LJVRfDSKFY5ckZ6gC1O8/XJXDSqDes572e4vmkMAy2nUGOFDlYqG0wifOSEJ9xaXyKreIjJ6xShp8zkyCrb0frAegXj5autPR+ow9vCWFT1J6Qoo+l6aDkz2Gy9SRkBvwey+S/FpZnJVyTvzUbm17oBz79BswPvfMLZY7ov3/wmXCD8z8egPd93F+hmiQUorvM3H1SCMarnfYe9cI/WcgCpY7SXw1ycRn3oowV6zDPGJJ2RMaf8IbzWh8q4nxBuVlbeuw3NtvKP90shqjFoO+Ve69f1VZTFSYRIEauzvirNIS0X9j8ejCOI=;vqy6muW/VQrAKUCJjTF6/w=="
 ---
 

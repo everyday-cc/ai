@@ -3,8 +3,8 @@ category: news
 title: "Google and Anthropic Are Gunning for AI Dominance with New Chips"
 excerpt: "Anthropic's Claude LLM gains a competitive edge with Google's TPU v5e chips as part of a collaboration that not only injects capital but also promises to push the boundaries of AI's computational frontiers."
 publishedDateTime: 2023-11-10T01:02:00Z
-originalUrl: "https://decrypt.co/205397/google-anthropic-claude-ai-tpu-chips-openai/"
-webUrl: "https://decrypt.co/205397/google-anthropic-claude-ai-tpu-chips-openai/"
+originalUrl: "https://decrypt.co/205397/google-and-anthropic-are-gunning-for-ai-dominance-with-new-chips"
+webUrl: "https://decrypt.co/205397/google-and-anthropic-are-gunning-for-ai-dominance-with-new-chips"
 type: article
 quality: 54
 heat: -1
@@ -118,6 +118,6 @@ related:
       domain: dailynews.lk
     quality: 21
 
-secured: "vIfbjA8bNm2if+7NeByT3V0c4M+vXBI5vYSZwkFdXaL991TrNHb81ffx/VelrIlpjtVutIZ3yMFhykY022y8P8iNVk582FAq7J5nIokA9MdDp84MLwZEnzNJj9DNc8mgygPNjFe75qMXIk+sjmyu7TTHEEsWG5tFApKC0ZJRo7CecOjQ39T21YEegQNcs+1mkI7Yy8MXtrAQpez72JxKYOuMJAAVhpA+vs5pGGszm2HS/sWGgGqtYt8vCwG3Z/EBx2y0YDSAuz/xRQuD0y2/XPG6n27iKvXNvaHk+wdtVLS/jC8yra16z+dGpMwEstVazCja2g4zHnqv8yDyW8C7cUrx6kUIy7cS7dx8ffuVY8D+rEZhHzgWW8io/14/pG6fVvhSzP1b8ekfTVvjG6TB1L7h/JjLeyP4f4MG4M5UyxJZwOn5TzRZha7OAvIxVnTl1i3b8/D/w+WY4rZFrjsIsR6N1jjyki/obsAZx2OV1I+5x9Rk23f0Hq11/g7u2lEajlWYQjUxUwwgkxHnLbQmyw==;AnAWqxv70WCEqqNmXB3+hA=="
+secured: "V0lWsLNOq6yvRCt/NCk8nO3oZIOBO/N5qP5CmGsPSBaMmX4ZicRUamXF2zef3y0sR7g0Vlc9MmH/Wjv1eiCo0JTdvolok3v52gCMKZEQfzi0bUFqWtkfWyrgjXEkgR/ok3LpyKElrAuRmAvEx1YBY43FPQgIJqYijs84HZ52uj5SoPBxeCASrpUoNhm5/MHdD7/KbjYfYbYD+egCHBMKOLho7odcBSq0RvzN3nthy1ZF3Yd9awR30fuGZmf49mrQsjuLe2cNJ6w2UFGvRInsgryzOypVFl2k10Bp+ycEc09HRgMZyMj/xXXc8LMH6u9mt3ZWqh/W2Xg5fQM/QNHGk3cGxZf1bz4x+J6yh9nMRHM=;CMohNsUBE34GSgh/+TPIng=="
 ---
 
