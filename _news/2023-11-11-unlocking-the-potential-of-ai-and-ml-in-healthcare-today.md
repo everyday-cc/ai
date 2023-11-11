@@ -78,20 +78,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 72
-  - title: "Ethical Considerations in AI-Driven Healthcare"
-    excerpt: "There are a number of ethical concerns relating to the collection and handling of patient data in AI-driven healthcare. For example, the confidentiality and security of patient information must be ensured to protect patients from the negative impacts of data breaches and unauthorized access."
-    publishedDateTime: 2023-11-06T14:06:00Z
-    webUrl: "https://www.news-medical.net/health/Ethical-Considerations-in-AI-Driven-Healthcare.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 71
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23905_16992787609573557.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Intel invests in generative AI startup Stability AI"
     excerpt: "Generative AI startup Stability AI has received funding from Intel Corp after struggling for the past few months. The startup became a unicorn last year."
     publishedDateTime: 2023-11-10T11:36:00Z

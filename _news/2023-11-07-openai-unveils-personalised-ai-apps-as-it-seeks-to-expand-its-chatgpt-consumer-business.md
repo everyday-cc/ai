@@ -131,6 +131,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "TipTopChatbots.com Announces AI Conversational Chatbots For Customer Engagement"
+    excerpt: "TipTopChatbot.com’s CEO Kevin Johnston has announced the launch of the company’s latest conversational bots, which can be adopted into any"
+    publishedDateTime: 2023-11-11T06:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tiptopchatbots-com-announces-ai-conversational-chatbots-for-customer-engagement-1032808577"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/10666/89109568-1699672656-0.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Warning: Hackers Using Bing's AI Chatbot To Trick Users – Yahoo Finance"
     excerpt: "It looks like the robots are turning to the dark side — or are being coerced into it by a group of clever hackers.According to some tech-savvy security"
     publishedDateTime: 2023-11-09T03:44:00Z

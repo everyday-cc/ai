@@ -129,6 +129,20 @@ related:
         width: 1160
         height: 522
         isCached: true
+  - title: "Google is launching generative AI search 100 additional countries, as AI wars continue"
+    excerpt: "As part of Wednesday’s announcement, Google’s senior director of product management and search, Hema Budaraju, said SGE is expanding to 126 new regions including Brazil, Indonesia, Mexico, Nigeria, South Africa, and South Korea."
+    publishedDateTime: 2023-11-08T18:01:00Z
+    webUrl: "https://www.aol.com/google-launching-generative-ai-search-180136523.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 31
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/qqIsR09v28_7PziunFk_HA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/0768cc47fe3754199a5ba6f475016c9d"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Air India bets on generative AI; to introduce more AI features to address customer queries"
     excerpt: "Air India plans to introduce sophisticated features to its generative artificial intelligence virtual agent that handles more than 6,000 customer queries daily. The Tata Group-owned airline is using ChatGPT to analyse even some complex questions it may not be able to immediately answer to improve customer experience in later interactions and is helping it to become more attuned to natural language."
     publishedDateTime: 2023-11-10T22:53:00Z

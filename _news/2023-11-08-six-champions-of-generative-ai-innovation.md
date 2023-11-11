@@ -26,114 +26,100 @@ images:
     isCached: true
 
 related:
-  - title: "The Value Of Generative AI Is Clear, But The Pricing Model Is Murky"
-    excerpt: "While there is no doubt that generative AI is a game-changing technology, I find that the pricing model for these products is less than stellar."
-    publishedDateTime: 2023-11-06T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/amp/"
+  - title: "Five Questions To Consider When Evaluating An AI Solution"
+    excerpt: "Data is key to any AI strategy and a critical enterprise asset. Any tool you deploy within your organization needs to secure and protect your data. So, you should start by evaluating the public, private and open-source LLM models available and identifying ..."
+    publishedDateTime: 2023-11-08T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/654538a63980f3c3e4306a69/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/654a751b6cca537b3db324ba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1334
         height: 900
         isCached: true
-  - title: "Samsung unveils its generative AI model Samsung Gauss"
-    excerpt: "Samsung Gauss consists of language, code, and image models and will be applied to the company's various products in the future."
-    publishedDateTime: 2023-11-07T17:00:00Z
-    webUrl: "https://www.zdnet.com/article/samsung-unveils-its-generative-ai-model-samsung-gauss/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-unveils-its-generative-ai-model-samsung-gauss/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-unveils-its-generative-ai-model-samsung-gauss/"
+  - title: "New Artificial Intelligence Executive Order Contains Numerous Healthcare Implications"
+    excerpt: "President Joe Biden on Oct. 30, 2023, signed an executive order (EO) to establish the first set of standards for using artificial intelligence (AI) in healthcare and other industries. The EO seeks to find balance between managing potential risks of AI ..."
+    publishedDateTime: 2023-11-07T22:47:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-artificial-intelligence-executive-3104620/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 62
     images:
-      - url: "https://www.zdnet.com/a/img/resize/d70bd4274124ff45a4f27471612fad1ef652dd9f/2023/11/08/18caee3b-231f-4d7a-96d9-88a4d1f63ce4/2-ai-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14849_2738.jpg"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
-  - title: "What Successful Early Adopters Of Generative AI Have Learned"
-    excerpt: "Generative AI is still in the hype phase, and the real challenge lies in how businesses can adapt, scale, and ethically deploy these tools to realize tangible outcomes"
-    publishedDateTime: 2023-11-10T17:18:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/amp/"
+  - title: "iMerit Introduces Defect Detection Solution for Advanced Manufacturing and Warehouse Robotics AI Applications"
+    excerpt: "Nov. 8, 2023 /PRNewswire/ -- iMerit, a leading artificial intelligence (AI) data solutions company, today introduced a new defect detection solution to accelerate AI development for advanced manufacturing and warehouse robotics applications. This new ..."
+    publishedDateTime: 2023-11-08T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/imerit-introduces-defect-detection-solution-for-advanced-manufacturing-and-warehouse-robotics-ai-applications-1032794037"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+  - title: "Tech startup Sixty AI offers solution for notification fatigue"
+    excerpt: "Some say it can be very triggering. Tech startup Sixty AI has created a free AI-powered assistant to lessen the alerts, pings and interruptions that we face daily. CEO Mat Ellis says it will highlight what needs your attention and manage the rest of the ..."
+    publishedDateTime: 2023-11-08T20:50:00Z
+    webUrl: "https://www.fox17online.com/news/national/tech-startup-sixty-ai-offers-solution-for-notification-fatigue"
+    type: article
+    provider:
+      name: fox17online
+      domain: fox17online.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/654e7241ce90a1eac32d936f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 843
-        isCached: true
-  - title: "Overcoming the trust, talent and price tag challenges in scaling generative AI"
-    excerpt: "The biggest challenge that companies have when they’re ready to launch a gen AI initiative is the difficulty of managing scale."
-    publishedDateTime: 2023-11-09T14:40:00Z
-    webUrl: "https://venturebeat.com/ai/overcoming-the-trust-talent-and-price-tag-challenges-in-scaling-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_584789593_Preview.jpeg?w=1200&strip=all"
-        width: 995
-        height: 534
-        isCached: true
-  - title: "6 ways business leaders are exploring generative AI at work"
-    excerpt: "But he expects to see rapid progress in the level of automation -- and he advises all professionals to start exploring generative AI. \"I think the speed at which it's come to market and is developing means that everybody should be keeping an eye on it,\" he ..."
-    publishedDateTime: 2023-11-08T20:27:00Z
-    webUrl: "https://www.zdnet.com/article/6-ways-business-leaders-are-exploring-generative-ai-at-work/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
-  - title: "Five Signs Your Company Is Ready For Generative AI"
-    excerpt: "Recognizing the signs that your company is ready for generative AI is a pivotal step toward safely embracing the transformative power of this emerging technology. The potential rewards, from streamlining operations to fostering innovation, are immense and well-documented."
-    publishedDateTime: 2023-11-07T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/five-signs-your-company-is-ready-for-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "There’s more to AI than generative AI"
-    excerpt: "It is typically used for deciphering complex data, such as image, text, audio, and/or video recognition, or for other complex ... as to what is the next most probable term or object to follow in building a sentence, constructing an image or extracting ..."
-    publishedDateTime: 2023-11-09T16:30:00Z
-    webUrl: "https://siliconangle.com/2023/11/09/theres-ai-generative-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/twoaibrains.jpeg"
-        width: 1023
-        height: 823
-        isCached: true
-  - title: "Google is launching generative AI search 100 additional countries, as AI wars continue"
-    excerpt: "As part of Wednesday’s announcement, Google’s senior director of product management and search, Hema Budaraju, said SGE is expanding to 126 new regions including Brazil, Indonesia, Mexico, Nigeria, South Africa, and South Korea."
-    publishedDateTime: 2023-11-08T18:01:00Z
-    webUrl: "https://www.aol.com/google-launching-generative-ai-search-180136523.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 31
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/qqIsR09v28_7PziunFk_HA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/0768cc47fe3754199a5ba6f475016c9d"
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fe84c30/2147483647/strip/true/crop/2536x1331+0+42/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fa1%2F4d%2F1a18971e412596fddab27ed0cede%2Fscreen-shot-2023-11-03-at-4-34-58-pm.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
+  - title: "Competition considerations featured in President Biden’s Executive Order on Artificial Intelligence"
+    excerpt: "On October 30, 2023, President Biden issued an Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. The Order, which recognizes AI’s extraordinary potential but also the substantial risks requiring ..."
+    publishedDateTime: 2023-11-08T14:59:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/competition-considerations-featured-in-1678317/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 23
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15723_926.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Samsung unveils Galaxy AI, a comprehensive mobile AI solution"
+    excerpt: "Samsung says its Galaxy AI will give users an on-device artificial intelligence experience that they haven't seen anywhere before."
+    publishedDateTime: 2023-11-09T19:39:00Z
+    webUrl: "https://www.androidheadlines.com/2023/11/samsung-galaxy-ai-mobile-solution.html"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 19
+  - title: "Retail tech startup offers an AI solution for pricing products"
+    excerpt: "Retail tech startup Particl launched AI Copilot, a new product that helps customers identify both new and mispriced products, CEO Josh Wilson tells Axios. Why it matters: Retailers need sophisticated software to help them manage supply chains efficiently."
+    publishedDateTime: 2023-11-07T15:45:00Z
+    webUrl: "https://www.axios.com/pro/retail-deals/2023/11/07/particl-inventory-management-tech"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
+  - title: "Google SGE expands to 120 countries while adding new follow-up questions, AI translation help and more definitions"
+    excerpt: "The generative AI version of Google Search, Google Search Generative Experience, is now rolling out to over 120 countries and territories. Google also added new ways to follow up with AI-generated search answers, new AI translation help, and additional AI-powered definitions."
+    publishedDateTime: 2023-11-08T18:16:00Z
+    webUrl: "https://searchengineland.com/google-sge-expands-to-120-countries-while-adding-new-follow-up-questions-ai-translation-help-and-more-definitions-434351"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 0
 
 secured: "foJ2lxVDWgiLbxmrBa5Zk5W3HarU6SRx4fwpLXdSL0aDfqljB3yjNSnb4tChJggxOqsnH7fxL3kpX7bvoI/2X6f8Vk2pXSmid2TyoZbq/Nb0U1orFf59xzBpT0gu8xPv7Vj6MHPLCXapjcnXVgV58v5JdnBETbDuepE0G3+ebx57znAd7UDIF/cRnQJ89izEXrOsQ2WlkGnaky4ibqGyvcAPUVi5NBi63af5nJens1ofywYgWoWRIAL4a7t4sNaojPWWChaHZKR0gmpyxw0naEE7ogaOZS5AE1M+IwZjI8M66lJIHsVUdegPhlGoBcSr5aPd3F/NB4SdH7Z3/J5/7ir0qbrqEhZOQEnXRX/krTgnihFzOGttluSuYc7AH/Vybeh7pkOSdqFpqxP9Fffn2lVi1+GiwkFsUsilMXhilVoMQyp9OXtAeuCown5bNuxbMpcwXwKx1QwgDAa0SIRTNqddlv+n8KiZQwzOP//TBOWqSUCyvUoKOfpUvKeyH0VKkEAm0O4A1kGJ/UrgaoLcAA==;6NuCgEfC/E1sqdclv2oR5A=="
 ---

@@ -53,20 +53,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "Chinese Smartphone Makers Aim To Beat Apple And Samsung In Generative AI"
-    excerpt: "Chinese phone makers, on the other hand, are adopting a different mindset. The likes of Xiaomi, Oppo, Vivo, and Huawei want to “squeeze” generative AI into their newest devices faster than Apple and Samsung because they see it as a chance to turn the tables on their rivals in the highly competitive smartphone market."
-    publishedDateTime: 2023-11-07T03:35:00Z
-    webUrl: "https://www.forbes.com/sites/ninaxiang/2023/11/06/chinese-smartphone-makers-aim-to-beat-apple-and-samsung-in-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65445a963c54432cb0323b93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
-        isCached: true
   - title: "NVIDIA to launch 3 new AI chips for Chinese market"
     excerpt: "NVIDIA is said to be preparing the launch of three new chips specifically for the Chinese market, as reported by local media"
     publishedDateTime: 2023-11-09T09:56:00Z

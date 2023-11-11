@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/politics/2023/nov/07/from-goat-exports-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cruise’s driverless car accident underlines the risks of AI"
+    excerpt: "Disastrous incident could weaken trust in the technology of autonomous vehicles and provoke regulatory intervention"
+    publishedDateTime: 2023-11-09T16:59:00Z
+    webUrl: "https://www.ft.com/content/345c1dfd-b08c-44b6-81b4-c0bf8a46a43f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "One and Half Remote Cruise Employees Were Supporting Each Driverless Car"
     excerpt: "Tesla FSD Can Go Next Level Without Going Driverless Robotaxi Tesla’s FSD (fullself ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology."
     publishedDateTime: 2023-11-09T21:48:00Z

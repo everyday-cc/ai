@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "TipTopChatbots.com Announces AI Conversational Chatbots For Customer Engagement"
+    excerpt: "TipTopChatbot.com’s CEO Kevin Johnston has announced the launch of the company’s latest conversational bots, which can be adopted into any"
+    publishedDateTime: 2023-11-11T06:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tiptopchatbots-com-announces-ai-conversational-chatbots-for-customer-engagement-1032808577"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/10666/89109568-1699672656-0.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "OpenAI unveils personalised AI apps as it seeks to expand its ChatGPT consumer business"
     excerpt: "OpenAI unveiled a marketplace on Monday that enables users to access personalised AI ‘apps’ for tasks like teaching maths or designing stickers, signalling an ambition to expand its ChatGPT consumer business."
     publishedDateTime: 2023-11-07T12:30:00Z

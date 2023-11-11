@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-chip cousins? CEO Nvidia, AMD lead US tech war against China"
-    excerpt: "The chief executives of Nvidia and AMD aren’t just two of the most powerful people in the global AI chip industry, they’re also cousins."
-    publishedDateTime: 2023-11-06T13:55:00Z
-    webUrl: "https://interestingengineering.com/culture/cousins-ceo-nvidia-amd"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/11/06/image/png/HFrVnBurPNDETh1zSinvHl4MKlqlLtt8AhY5s7wa.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Nvidia plans to release three new AI chips for China: Analysts"
     excerpt: "The plans come less than a month after United States officials tightened the rules on selling high-end AI chips to China. Read more at straitstimes.com."
     publishedDateTime: 2023-11-10T02:30:00Z
@@ -105,6 +91,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "Nvidia explores ‘workarounds’ amid US curbs on AI chips"
+    excerpt: "Nvidia is reportedly set to release three new AI chips with the latest features on Nov 16, although some computing power has been reduced. (Reuters pic) SHANGHAI: US curbs on China have created a game of “catch me if you can” with US chip giant Nvidia ..."
+    publishedDateTime: 2023-11-11T04:43:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/11/11/nvidia-explores-workarounds-amid-us-curbs-on-ai-chips/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 34
   - title: "Nvidia to release three new AI chips for China after US restrictions – report"
     excerpt: "Reports come weeks after US blocked Nvidia from selling two high-end AI chips and a top gaming chip to Chinese firms"

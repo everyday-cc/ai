@@ -77,20 +77,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Great News for Nvidia? Amazon, Google, Microsoft Spending Big On AI and Cloud"
-    excerpt: "Amazon.Com Inc (NASDAQ: AMZN), Microsoft Corp (NASDAQ: MSFT), and Google parent Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL) are in no mood to compromise in terms of their capital spending to build up capacity as the generative artificial intelligence war heats up."
-    publishedDateTime: 2023-11-06T14:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/great-news-for-nvidia-amazon-google-microsoft-spending-big-on-ai-and-cloud-1032782340"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/11/06/google_cloud.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Microsoft and Inworld AI join forces to create AI tools for game developers"
     excerpt: "Microsoft has announced a partnership with Inworld AI to develop AI game dialogue and narrative tools at scale, including an AI design copilot and an AI character runtime engine."
     publishedDateTime: 2023-11-07T08:48:00Z

@@ -41,6 +41,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Cruise’s driverless car accident underlines the risks of AI"
+    excerpt: "Disastrous incident could weaken trust in the technology of autonomous vehicles and provoke regulatory intervention"
+    publishedDateTime: 2023-11-09T16:59:00Z
+    webUrl: "https://www.ft.com/content/345c1dfd-b08c-44b6-81b4-c0bf8a46a43f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "03 | The bumpy history of driverless cars and their AI brains"
     excerpt: "When you think about a driverless car future, perhaps your mind goes to being driven around, watching movies from the backseat and drinking martinis. For over a decade, perfect driverless cars have seemed only a few years away."
     publishedDateTime: 2023-11-07T14:00:00Z

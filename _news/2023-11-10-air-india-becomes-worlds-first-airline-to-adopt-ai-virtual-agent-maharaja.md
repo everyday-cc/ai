@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/air-india-becomes-w
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/amp_articleshow/105124807.cms"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202311/untitled_design_-_2023-11-10t124529-sixteen_nine.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Air India deploys AI-powered agent ‘Maharaja’ to answer customer queries"
+    excerpt: "Air India has become the world’s first airline to have successfully deployed a Generative AI virtual agent, called ‘Maharaja’, powered by Azure OpenAI service. It has successfully answered over half a million customer queries since its pilot launch in March 2023,"
+    publishedDateTime: 2023-11-11T06:30:00Z
+    webUrl: "https://travelbizmonitor.com/air-india-deploys-ai-powered-agent-maharaja-to-answer-customer-queries/"
+    type: article
+    provider:
+      name: Travel Biz Monitor
+      domain: travelbizmonitor.com
+    quality: 38
+    images:
+      - url: "https://travelbizmonitor.com/wp-content/uploads/2023/11/Air-India-B777-200LRd-scaled.jpg"
+        width: 1920
+        height: 1536
         isCached: true
 
 secured: "oDKhpzuPvSM1SYXvBzp1fjQsxMe4P9o3m1s+iEzBEpAASemKkIb6JSMLTzVxQf1LYzaHzioht2v3iQQTVq+vbw4cJZH9qY05JOdLpI2VHwZGYtw92QECgQMXH6eddbcE0ouJp3FiRIWQF7u3A7L7Jc3+AjsNq2vX337xPvhOtM8dW3uVpng/YRkH1FdsDttcIuWHx68DQzK6wtkCJE8qVKFuTMREMTJD3rjcoL/hXKCgdv5+jkZNjaPUfwjvTpwj9EXtIKnH0Ubd88E21bWC/P9JpsBtrCi8YrZwaAS1AfXrSqPQgnMaw4PnmScEfg5j35OLWfvjI+9owUwDw38IK0RjeE0LZ+mcW1x/teFSfBk=;pcl2Sb0S1pxy1+s2ZvfqPQ=="

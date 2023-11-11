@@ -41,20 +41,6 @@ related:
         width: 1440
         height: 740
         isCached: true
-  - title: "MediaTek Dimensity 9300's big GPU upgrades focus on AI, gaming"
-    excerpt: "MediaTek has revealed its flagship Dimensity 9300 chipset, designed to rival Qualcomm's Snapdragon 8 Gen 3 mobile platform"
-    publishedDateTime: 2023-11-06T14:26:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/mediatek-9300-chipset-goes-official-performance-enhancements-upgrades/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 54
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l5220231106184629.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "GQdwFW5GVKs/yT6wMA4M7dLCk8hN+wX6665ZGAHbRNrFEQPiMx6ap6of22grXzYlujeeFd2q9d5+yXN6shmFr+cV7OXYM0I0UIsJIUrM/HpX4M1Xv2P6v7HXcAYgVK7s/2T0Dnh2oU3sp948rIjZDx+k5ou/ExtoTEhiiaK3otUMpCLy99ZY129Y89WOXloKU0D6CoNFlLk6pQFnaYCWGBpXmZTGQhZz1+g3fNgEI8h0HEmQ3sGaJ9c7chj4Bbjsh98ejCVFrmVGPuKgod+uM3TiO8K6zVDvxfs1jwFYuELHyBGzfm5utS79sXdFF2zwfQ+oEjUXA01Fy6oXKFxFQ/O9+t2SAdwURPKklxmpjqGwuQyJ7NM48n16rakwyjvdbP4+g0xy0lP2z+Sr5nzNTmlApJVmA5m+G4D0d99sEuv2a4qAU8Igiio6mobFJmcLlRw9X2O9xm5/De5bcEB/2AX4IARv1BrylbFv+XhVoB1p8P6jAzBVbBNkMX0I3AIbJ9uIZl/clR0aLfYOtJfgYg==;8rJVeXxCf6Izve1SLu66mQ=="
 ---

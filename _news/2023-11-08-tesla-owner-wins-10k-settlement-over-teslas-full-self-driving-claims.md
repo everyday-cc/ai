@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/11/07/tesla-owner-wins-10k-settlement-ove
 webUrl: "https://electrek.co/2023/11/07/tesla-owner-wins-10k-settlement-over-teslas-full-self-driving-claims/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "What You Didn’t Know You Didn’t Know About Tesla’s Full Self Driving Beta – CleanTechnica"
-    excerpt: "Hi, what are you looking for?Plus: my new strategy for maximum battery life on cross-country road trips.ByPublishedLater this month, it will be 4 years since"
-    publishedDateTime: 2023-11-06T14:08:00Z
-    webUrl: "https://www.inferse.com/785796/what-you-didnt-know-you-didnt-know-about-teslas-full-self-driving-beta-cleantechnica/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 45
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-4200.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Self-Driving Tesla? Boring—Check Out This Self-Drifting Toyota Supra"
     excerpt: "A fierce straight-six growl filled the roll-caged cabin as the Toyota Supra accelerated sideways, its 600 horsepower easily reconstituting the rear tires into smoke and rubber particles. Drifting precision like this requires an innate connection between machine and driver—except, this machine had no driver at all."
     publishedDateTime: 2023-11-10T15:30:00Z

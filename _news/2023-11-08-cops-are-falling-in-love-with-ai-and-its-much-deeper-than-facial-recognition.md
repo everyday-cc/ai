@@ -3,10 +3,10 @@ category: news
 title: "Cops are falling in love with AI, and it’s much deeper than facial recognition"
 excerpt: "While facial recognition has well-known bias and privacy problems when it comes to law enforcement, tech companies are pitching a variety of new ways to use AI for policing."
 publishedDateTime: 2023-11-07T22:22:00Z
-originalUrl: "https://www.aol.com/cops-falling-love-ai-much-202236582.html?ref=biztoc.com"
-webUrl: "https://www.aol.com/cops-falling-love-ai-much-202236582.html?ref=biztoc.com"
+originalUrl: "https://www.aol.com/cops-falling-love-ai-much-202236582.html"
+webUrl: "https://www.aol.com/cops-falling-love-ai-much-202236582.html"
 type: article
-quality: 52
+quality: 50
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: aol.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/z5O7HXv3L4rOlk9usGH65Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/fd4f9afbf7a108eb72c189acbbde337d"
@@ -55,6 +54,6 @@ related:
         height: 630
         isCached: true
 
-secured: "89jx451tAQnPqwZVJx8no1SCSIgylmeTU3wJrUDHn3OHz7p0xkV5CApztfOercQ7iMQBiou+EOpsXDrpigvo2mSjAt6RjxSgqcvyirlv3YTMl9qmt4ngMqhPxPfmbOhkRbIOP5iHJZijC1IrwYOhOl7Sf7YLJ2m2e7xjRmUymDQWTu/ipxyXmTZfNz5RaouwA6Vv9PQKZNN8sbHOoipshUqWC38DCeUSVzmfN5EZ9QIrTqCEDWGJt1J/i76fd97xKMNnRbOf1xPsLcIXf8uqahR87sFcAQWdt3Hkkl3t58vYUNy3a2sw7fIHWcdOG93P8+8+cTg3Q7i8kNE7kdj1RIRJ2q2fPDAeRZH04kXBiKwns2qeeXPNADKpEVbwy6b61lHM7ZLFaTMSdsEx5DvUyIEk49oS/vG9tYvBO4CuMEEDcuA7v19Uim+XFAP3xLNcSD9zApBUtJqN/9Vq6NKztA6ONwXMpl3DL2jGoXgIy/57awGYFyw+Ki4AdD434JnTzM2LwgdEHAwUQ7wR2w5ttA==;T+i2VoTFLFRGyw+kPyw5TQ=="
+secured: "lyq/r+zZVcQsw6S7viYuEI3EgxxHAOSHDzHSTTOlsezF/W+GDV2NZlaFHQlsRLsHvaeM5/2agi/ntqC8XsnPkxnHLG0yXES9vVPhUP4fvM+IKCGXjy5Q1klPfdecPEl9zarwagI4y4W9/HeEUJsjakg7wKFRw8tiNoc+zVepOtZaOeS0mGoNwms59J6FtDssf42BRULGnEkVBC6qaBYbJn3pcT9dsMXd1sS6y7m/QhgAka84MD9mSRTlmSy17wXSilElEOri++v+LIQcxwJFbNtjfb3OTJEe52HpWofr5x6Wd0widl1Fj1/Fo48t6WTuPT2BTlsanOgtFISOjT/6mu7VrEd0fHmpEhqPV/Rfe8U=;/jcu/IWeql3bm4WPrUVOxw=="
 ---
 

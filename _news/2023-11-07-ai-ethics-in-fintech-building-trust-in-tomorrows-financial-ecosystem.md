@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Unlocking the potential of artificial intelligence (AI) and machine learning (ML) in India’s fintech revolution"
+    excerpt: "FinTech has expanded and refined the financial landscape for millions of people, from the ease of use of wealth management apps to AI-powered lending platforms and frictionless payment solutions. The most notable aspect of this change is how well it has aided in financial inclusion,"
+    publishedDateTime: 2023-11-11T05:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-unlocking-the-potential-of-artificial-intelligence-ai-and-machine-learning-ml-in-indias-fintech-revolution-3304288/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-unlocking-the-potential-of-artificial-intelligence-ai-and-machine-learning-ml-in-indias-fintech-revolution-3304288/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-unlocking-the-potential-of-artificial-intelligence-ai-and-machine-learning-ml-in-indias-fintech-revolution-3304288/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 86
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/Untitled-design-2023-11-10T162613.644.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Smart banking leads the road to our fintech future"
     excerpt: "The future of banking lies in touch-based and voice-enabled transactions, and the demand for that change is rising with each day. To integrate the future of cashless technology, banks in Bangladesh have to ensure banking services that are accessible anytime and anywhere"
     publishedDateTime: 2023-11-08T05:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.consultancy.uk/news/amp/35790/generative-ai-to-boost-pro
 cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watchful bridges generative AI transparency gap"
-    excerpt: "Generative AI services like ChatGPT have demonstrated an impressive ability to generate text with human-level realism. But they also have a propensity to hallucinate and gloss over uncertainty in their responses."
-    publishedDateTime: 2023-11-09T16:00:00Z
-    webUrl: "https://diginomica.com/watchful-bridges-generative-ai-transparency-gap"
-    ampWebUrl: "https://diginomica.com/watchful-bridges-generative-ai-transparency-gap?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/watchful-bridges-generative-ai-transparency-gap?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2016-12/man-facing-gap.jpg"
-        width: 1277
-        height: 843
-        isCached: true
   - title: "Most European finance leaders believe Generative AI will greatly boost productivity and alter..."
     excerpt: "Finance - Leaders across Europe’s financial services sector expect Generative Artificial Intelligence (GenAI) technologies to deliver a windfall to productivity,"
     publishedDateTime: 2023-11-07T11:49:00Z

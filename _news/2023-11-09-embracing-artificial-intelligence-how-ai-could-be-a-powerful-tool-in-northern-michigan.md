@@ -9,7 +9,7 @@ ampWebUrl: "https://wwmt.com/amp/news/state/embracing-artificial-intelligence-ho
 cdnAmpWebUrl: "https://wwmt-com.cdn.ampproject.org/c/s/wwmt.com/amp/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Google in talks to invest in AI startup Character.AI: sources"
+    excerpt: "ALPHABET’S Google is in talks to invest hundreds of millions of US dollars in Character.AI, as the fast growing artificial intelligence (AI) chatbot startup seeks capital to train models and keep up with user demand,"
+    publishedDateTime: 2023-11-11T05:31:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/google-talks-invest-ai-startup-characterai-sources"
+    ampWebUrl: "https://www.businesstimes.com.sg/startups-tech/startups/google-talks-invest-ai-startup-characterai-sources?amp"
+    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/startups-tech/startups/google-talks-invest-ai-startup-characterai-sources?amp"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 37
 
 secured: "XQRvRNHj1FnFm8aj/V7Tcm5lmqxfsr079fCzEY5m0iXLd7nYtUCVDqYBnVCdYtdWqdY6zOWNB4BbFbGT30Q7kG0utOheUYkwKdrWMRdZGpFOmPoSU+3E3/1pHFL1jZnuXSaNyGmXs03p+cxoDmiKWdqLLzyYoERyc5z4Vlw5A6FeIvdbn319Iw0KrWCUOqm21L97vvxKoH32rWAda02oAPrwlzzlKZPnQCCrBsKYFo45PiuxnLxbBEEz/61mRe0UTT9GweWUea2wIRFwm++ozKAW5CxW5dZ9zxUBym17AaaPfyn3fqx8LcDqiDyJ9hfWsmQSsPOy9qL+Z0MuPnVtPx4SOn9JCsLle+H6R0mmUsd4dXz9X9OgiurKZY/eAT34W7A6CzQYr3263sC1GZu3oCHTinqFQBwU1eCPuApxBDaj6rcovbLuCHxkGgtW8ZLWlZ3rf5OUV/9Wcil8MZ4/S2Fqbl3nzdmUkpDu9gCTTXYvWSstTGBS3jkKCi4sZF1SN8Tfl7KN65yKQZW2Wd8CCg==;IH3cAedW46mr2aVofqsshQ=="
 ---

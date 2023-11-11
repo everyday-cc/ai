@@ -69,6 +69,20 @@ related:
         width: 1920
         height: 1024
         isCached: true
+  - title: "AI Could Learn a Thing or Two From Rat Brains"
+    excerpt: "Modern artificial neural networks suffer from what is known as the “problem of catastrophic forgetting”: when you teach them new things, they tend to forget old things."
+    publishedDateTime: 2023-11-11T06:48:00Z
+    webUrl: "https://www.thedailybeast.com/ai-could-learn-a-thing-or-two-from-rat-brains"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1699655557/231110-ai-rat-brain-learning-hero_fb2drc"
+        width: 1480
+        height: 833
+        isCached: true
   - title: "Detecting and preventing water leak damage using artificial intelligence"
     excerpt: "Groundbreaking technology that uses AI to monitor water leaks and usage in commercial and residential buildings and on construction sites is significantly impacting dynamics in the builders’ risk and P&C markets."
     publishedDateTime: 2023-11-10T15:19:00Z

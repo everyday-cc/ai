@@ -49,6 +49,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Overcoming the trust, talent and price tag challenges in scaling generative AI"
+    excerpt: "The biggest challenge that companies have when they’re ready to launch a gen AI initiative is the difficulty of managing scale."
+    publishedDateTime: 2023-11-09T14:40:00Z
+    webUrl: "https://venturebeat.com/ai/overcoming-the-trust-talent-and-price-tag-challenges-in-scaling-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_584789593_Preview.jpeg?w=1200&strip=all"
+        width: 995
+        height: 534
+        isCached: true
 
 secured: "LaPIytmfxD5CGlRrYggpzohz0C0U8rLz2KL9RNXxaOlnmbEEAMOI6cQT+mHp+xV5EAROkL1F+UT+GtOYWI/0bqB0jsGYIhFrvMROL5cM1uKSp3JV2lYrQx6NtIN6CH6YyeeX2X6N5qqWdVMeP/S/PY16LzZOpEDd8n9YrjEohalI6kuUKti4TsSyqS3Mv0H3gsfBc5TvGKU37Af4Eli/NZIAE+ur+MEGsVN25rdrBKU6VSv9KcpiXNE1eqc9boKN58zPbfqqKbvFdjAmHHfQxUau3oSG3+DVLp0k6/NUqW0ItdIEtkyl2OdD17/73xzJ0LZmNJdq+svFq5NpVSokp3t/nTIMhHSDbVoNkku7x9w=;qINRa6IWcGQ3Hdajzh7J3A=="
 ---

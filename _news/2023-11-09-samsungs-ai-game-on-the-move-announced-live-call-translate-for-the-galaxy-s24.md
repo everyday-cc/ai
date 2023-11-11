@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Galaxy AI likely to debut on Galaxy S24 series, AI Live Translate Call feature revealed"
-    excerpt: "Samsung has announced the Galaxy AI, an AI-powered initiative designed to enhance the user experience on its upcoming devices. According to the company, this comprehensive AI solution leverages both on-device AI developed by Samsung and cloud-based AI enabled through collaborations with industry partners,"
-    publishedDateTime: 2023-11-09T04:51:00Z
-    webUrl: "https://www.gizmochina.com/2023/11/09/galaxy-ai-likely-to-debut-on-galaxy-s24-series-ai-live-translate-call-feature-revealed/"
+  - title: "Samsung unveils its generative AI model Samsung Gauss"
+    excerpt: "Samsung Gauss consists of language, code, and image models and will be applied to the company's various products in the future."
+    publishedDateTime: 2023-11-07T17:00:00Z
+    webUrl: "https://www.zdnet.com/article/samsung-unveils-its-generative-ai-model-samsung-gauss/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-unveils-its-generative-ai-model-samsung-gauss/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-unveils-its-generative-ai-model-samsung-gauss/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 76
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/11/AI-Live-Translate-Call-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.zdnet.com/a/img/resize/d70bd4274124ff45a4f27471612fad1ef652dd9f/2023/11/08/18caee3b-231f-4d7a-96d9-88a4d1f63ce4/2-ai-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Samsung Galaxy AI to offer Live Translate Call feature and much more - Details"
     excerpt: "Samsung said that the AI Live Translate Call will soon give users a personal translator whenever they need it."
@@ -56,6 +58,20 @@ related:
       - url: "https://cdn.zeebiz.com/sites/default/files/2023/11/09/268496-samsungai.jpg?im=FitAndFill=(1200,900)"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Samsung Research Reveals Generative AI Samsung Gauss"
+    excerpt: "The Samsung Gauss large language model can assist with code writing and document analysis. Samsung Research has revealed a generative AI assistant called Samsung Gauss that the research group uses internally but may eventually appear in Samsung’s ..."
+    publishedDateTime: 2023-11-07T00:01:00Z
+    webUrl: "https://www.techrepublic.com/article/samsung-gauss-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/Samsung-AI-Forum-Nov82023.jpg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "Forget Bixby, Samsung announces Galaxy AI for Galaxy S24 series"
     excerpt: "Samsung has introduced Galaxy AI, a comprehensive and universal intelligence for phones coming early next year."
@@ -117,15 +133,20 @@ related:
         width: 752
         height: 423
         isCached: true
-  - title: "Samsung Teases 'AI Live Translate Call' Feature Coming to Galaxy Phones"
-    excerpt: "\"Galaxy AI is a comprehensive mobile AI experience, powered by both on-device AI developed at Samsung and cloud-based AI enabled by our open collaborations with like-minded industry leaders,\" Samsung says. \"It will transform your everyday mobile experience with the peace of mind you count on from Galaxy security and privacy.\""
-    publishedDateTime: 2023-11-09T19:34:00Z
-    webUrl: "https://uk.pcmag.com/ai/149568/samsung-teases-ai-live-translate-call-feature-coming-to-galaxy-phones"
+  - title: "Chinese Smartphone Makers Aim To Beat Apple And Samsung In Generative AI"
+    excerpt: "Chinese phone makers, on the other hand, are adopting a different mindset. The likes of Xiaomi, Oppo, Vivo, and Huawei want to “squeeze” generative AI into their newest devices faster than Apple and Samsung because they see it as a chance to turn the tables on their rivals in the highly competitive smartphone market."
+    publishedDateTime: 2023-11-07T03:35:00Z
+    webUrl: "https://www.forbes.com/sites/ninaxiang/2023/11/06/chinese-smartphone-makers-aim-to-beat-apple-and-samsung-in-generative-ai/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 64
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65445a963c54432cb0323b93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
+        isCached: true
   - title: "Samsung unveils Galaxy AI, a new mobile AI experience that includes ‘AI Live Translate Call’ feature"
     excerpt: "Galaxy AI is Samsung’s latest innovation that will leverage both on-device and cloud-based AI to \"empower everyone, everywhere.\""
     publishedDateTime: 2023-11-09T11:09:00Z
@@ -158,35 +179,19 @@ related:
         width: 1220
         height: 526
         isCached: true
-  - title: "Samsung to bring 'Live Call Translate' feature for THESE phones. Here's how it will work"
-    excerpt: "and it aims to provide users with a personal translator whenever they need it. This new feature is expected to make its debut early next year and is set to bring people closer in a world where language barriers exist. \"Galaxy AI is our most comprehensive ..."
-    publishedDateTime: 2023-11-09T08:57:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/samsung-upcoming-live-call-translate-feature-for-galaxy-ai-phones-2023-11-09-902009"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/samsung-upcoming-live-call-translate-feature-for-galaxy-ai-phones-2023-11-09-902009"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-upcoming-live-call-translate-feature-for-galaxy-ai-phones-2023-11-09-902009"
+  - title: "Upcoming Samsung Galaxy AI Can Translate Calls In Real Time"
+    excerpt: "Samsung has already unveiled Gauss, its in-house generative AI that comes with Language, Code and Image sub-models. While it's not"
+    publishedDateTime: 2023-11-09T10:00:00Z
+    webUrl: "https://www.lowyat.net/2023/310698/samsung-galaxy-ai-translate-calls/"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 50
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 54
     images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/11/samsung-galaxy-ai-feature-1699519092.jpg"
-        width: 360
-        height: 202
-        isCached: true
-  - title: "Samsung to introduce 'Live Call Translate' feature with latest Galaxy AI phones"
-    excerpt: "Samsung announced that it is working on an artificial intelligence (AI) \"Live Call Translate\" feature ... making calling someone who speaks another language about as simple as turning on closed captions when they stream a show, the company mentioned."
-    publishedDateTime: 2023-11-09T08:51:00Z
-    webUrl: "https://www.siliconindia.com/news/general/samsung-to-introduce-live-call-translate-feature-with-latest-galaxy-ai-phones-nid-226385-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 50
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/vXyLYg38.jpg"
-        width: 570
-        height: 367
+      - url: "https://www.lowyat.net/wp-content/uploads/2023/11/Samsung-Galaxy-AI-Live-Translate-Call.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Samsung Galaxy phones will be able to translate calls in real-time with on-device AI"
     excerpt: "Samsung has announced a new feature for Galaxy phones that will be able to translate calls using on-device AI."
@@ -202,19 +207,19 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Galaxy S24 buyers might have to pay extra for AI features"
-    excerpt: "A report claims Samsung is considering charging Galaxy S24 buyers a subscription for on-device generative AI features like ChatGPT."
-    publishedDateTime: 2023-11-07T16:12:00Z
-    webUrl: "https://bgr.com/tech/galaxy-s24-buyers-might-have-to-pay-extra-for-ai-features/"
+  - title: "Samsung AI Forum 2023 starts today"
+    excerpt: "Samsung has announced that the new Samsung AI Forum 2023 has started today, the event is taking place at the Suwon Convention Center in Gyeonggi-do, Korea"
+    publishedDateTime: 2023-11-07T10:30:00Z
+    webUrl: "https://www.geeky-gadgets.com/samsung-ai-forum-2023-starts-today/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 39
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/03/samsung-galaxy-s23-ultra-3-1.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1125
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/Samsung-AI-Forum-2023.png"
+        width: 700
+        height: 466
         isCached: true
   - title: "Samsung Galaxy S24 could get AI-driven real-time call translation"
     excerpt: "Samsung says that “AI Live Translate Call” will be part of the new Galaxy AI package, providing real-time translation in both audio and text via a chat log during calls. The South Korean firm claims the system will be “as simple as turning on closed captions when you stream a show”."
@@ -244,6 +249,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Samsung's One UI 6 Update Gives Galaxy Phones More AI Camera Smarts"
+    excerpt: "Samsung's Galaxy phones will soon get a a bevy of new camera features, some of which are powered by AI, as part of"
+    publishedDateTime: 2023-11-09T04:25:00Z
+    webUrl: "https://www.businessghana.com/site/news/technology/296752/Samsung&"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 39
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-11-08-12291301.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Galaxy S24 AI will reportedly be called Samsung Gauss — here’s what it will do"
     excerpt: "Google, Apple, Microsoft, and Amazon have shown us this year how generative AI will be complementing their different devices, but now it appears as though Samsung will bring its own generative AI into the Galaxy S24 when the new flagship phones arrive next year."
     publishedDateTime: 2023-11-08T17:49:00Z
@@ -257,20 +276,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/ApyEfszYrMhFa45AiGNQoN-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "New Developments in AI from Only Two People in a Company Called Hugging Face"
-    excerpt: "Hugging Face, a startup business in artificial intelligence (AI), has expanded its repertoire of services with an array of development tools tailored for data science applications, offering a shared platform similar"
-    publishedDateTime: 2023-11-09T05:38:00Z
-    webUrl: "https://www.econotimes.com/New-Developments-in-AI-from-Only-Two-People-in-a-Company-Called-Hugging-Face-1665786"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 34
-    images:
-      - url: "https://f1.econotimes.com/2023/11/v8t5dnk44o_th_1024x0.jpeg"
-        width: 1024
-        height: 614
         isCached: true
   - title: "Samsung teases on-phone AI that will live translate phone calls"
     excerpt: "Samsung concentrates on one function in particular in the release by way of showing off its capabilities – AI Live Translate Call. Those with compatible Galaxy phones will be able to enable audio and text language translations in real-time during phone calls. Essentially, it sounds like the Universal Translator from Star Trek."
@@ -304,6 +309,47 @@ related:
       name: indulgexpress
       domain: indulgexpress.com
     quality: 29
+  - title: "Samsung To Add Real-Time Translation To New Smartphone Model"
+    excerpt: "Samsung Electronics will roll out a real-time call translation service using AI technology next year, the firm told AFP Friday, claiming it would ma"
+    publishedDateTime: 2023-11-10T09:51:00Z
+    webUrl: "https://menafn.com/1107405741/Samsung-To-Add-Real-Time-Translation-To-New-Smartphone-Model"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/10/KT_5340eimage_story.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Samsung Gauss AI Unveiled: A Revolution Set to Power Galaxy S24"
+    excerpt: "Samsung's recent announcement of its proprietary AI technology, Samsung Gauss, signals a new horizon in consumer-focused artificial intelligence. This"
+    publishedDateTime: 2023-11-08T16:00:00Z
+    webUrl: "https://www.mensjournal.com/gear/the-guide/samsung-gauss-ai-unveiled-a-revolution-set-to-power-galaxy-s24"
+    type: article
+    provider:
+      name: Men's Journal
+      domain: mensjournal.com
+    quality: 19
+  - title: "Is Samsung Gauss AI the Death of Apple’s Tech Dominance?"
+    excerpt: "At the Samsung AI Forum 2023, the company announced the launch of a new generative AI model – Samsung Gauss. Here's all you need to know."
+    publishedDateTime: 2023-11-10T09:21:00Z
+    webUrl: "https://www.techopedia.com/samsung-gauss-everything-you-need-to-know"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 19
+  - title: "Samsung to add real-time translation to smartphone model"
+    excerpt: "The South Korean firm is rapidly advancing its generative AI model called Samsung Gauss, covering fields of language, code, and image. (Samsung pic) SEOUL: South Korean smartphone"
+    publishedDateTime: 2023-11-10T05:50:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/11/10/samsung-to-add-real-time-translation-to-smartphone-model/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
 
 secured: "U+2B8VfI4GX9RRo6SPVeGjFH6AMFIUkFsjcZCPE6A3pxobBC/MehPclWHGZD1zwBE5ewqD6A8eRZf018RR2jR9uhOOu1p7W6iVtir/Vksfhsa2VsiKmSPzn6FwVkY3vkKugCNqrVJVdpTEWpJjkBuNo+SONIKnbKm+XWXZih3mJxBNuqmS20gxXsb/zLvaIIpU3Qs01V0/bFIxo1zFkx8G/x9Y4eNqJAwmFJjeSlq0ADgeBqYbuYvmYlqIw5Ogzou0bdQ/oDEOsPyrEQ+mIz5rhrW24O/DJr2GsSR5MLR2ZIQOARErzOt57u0cDE/QLkf52D71q+0oC6hyt0WIjUBckyI3Pnvcdh23+IHX2Dr6+1LZWsfkuGgXCSBoCDYomwBIKjXfZUR5vdYPSXgblbVIrrfIXS7bs50BGI1LdMXZKe1SIoXmePJb5Q52NbJ+HGmmlb4C5PzGcxeWJP+eOlI3jVSSNPtH7jFfGY4dypCjiRDldy0GM57LKs5Aul6Lfqdxb9P7dXLvoDioz3LbBFQw==;ydINBch39Ox8S54+CvatHQ=="
 ---

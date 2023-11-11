@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-
 cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467/amp"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek Dimensity 9300's big GPU upgrades focus on AI, gaming"
-    excerpt: "MediaTek has revealed its flagship Dimensity 9300 chipset, designed to rival Qualcomm's Snapdragon 8 Gen 3 mobile platform"
-    publishedDateTime: 2023-11-06T14:26:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/mediatek-9300-chipset-goes-official-performance-enhancements-upgrades/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 54
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l5220231106184629.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "MediaTek's Dimensity 9300 Mobile Chip Comes with One-of-a-Kind All Big Core Design"
     excerpt: "MediaTek announced the Dimensity 9300, its newest flagship mobile chip with a one-of-a-kind All Big Core design. The unique configuration combines extreme performance with MediaTek’s industry-leading power efficiency to deliver unmatched user experiences in gaming, video capture, and on-device generative AI processing."
     publishedDateTime: 2023-11-07T06:54:00Z

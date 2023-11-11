@@ -43,6 +43,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Unlocking the potential of artificial intelligence (AI) and machine learning (ML) in India’s fintech revolution"
+    excerpt: "FinTech has expanded and refined the financial landscape for millions of people, from the ease of use of wealth management apps to AI-powered lending platforms and frictionless payment solutions. The most notable aspect of this change is how well it has aided in financial inclusion,"
+    publishedDateTime: 2023-11-11T05:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-unlocking-the-potential-of-artificial-intelligence-ai-and-machine-learning-ml-in-indias-fintech-revolution-3304288/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-unlocking-the-potential-of-artificial-intelligence-ai-and-machine-learning-ml-in-indias-fintech-revolution-3304288/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-unlocking-the-potential-of-artificial-intelligence-ai-and-machine-learning-ml-in-indias-fintech-revolution-3304288/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 86
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/Untitled-design-2023-11-10T162613.644.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fintech Startup Black Ore Raises $60M to Bring AI to Financial Services"
     excerpt: "Black Ore, an AI platform for financial services, launched today and announced $60 million in financing led by a16z and Oak HC/FT."
     publishedDateTime: 2023-11-08T21:17:00Z

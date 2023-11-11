@@ -53,20 +53,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "Chinese Smartphone Makers Aim To Beat Apple And Samsung In Generative AI"
-    excerpt: "Chinese phone makers, on the other hand, are adopting a different mindset. The likes of Xiaomi, Oppo, Vivo, and Huawei want to “squeeze” generative AI into their newest devices faster than Apple and Samsung because they see it as a chance to turn the tables on their rivals in the highly competitive smartphone market."
-    publishedDateTime: 2023-11-07T03:35:00Z
-    webUrl: "https://www.forbes.com/sites/ninaxiang/2023/11/06/chinese-smartphone-makers-aim-to-beat-apple-and-samsung-in-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65445a963c54432cb0323b93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
-        isCached: true
   - title: "Alibaba's Ant Group Gets Chinese Govt Approval To Release AI Products"
     excerpt: "Ant Group, the fintech affiliate of Chinese conglomerate Alibaba Group, has received approval from the Chinese government to offer"
     publishedDateTime: 2023-11-06T15:02:00Z

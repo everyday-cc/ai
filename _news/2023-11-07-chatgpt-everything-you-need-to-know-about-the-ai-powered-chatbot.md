@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 91
-heat: 281
+heat: 291
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
       - url: "https://www.reuters.com/resizer/bSu4rK9OmQDlrcRJsuY3ED6pxz8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PMGE5Z7KDZP2VPURSKNDORCVIA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "TipTopChatbots.com Announces AI Conversational Chatbots For Customer Engagement"
+    excerpt: "TipTopChatbot.com’s CEO Kevin Johnston has announced the launch of the company’s latest conversational bots, which can be adopted into any"
+    publishedDateTime: 2023-11-11T06:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tiptopchatbots-com-announces-ai-conversational-chatbots-for-customer-engagement-1032808577"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/10666/89109568-1699672656-0.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "OpenAI unveils personalised AI apps as it seeks to expand its ChatGPT consumer business"
     excerpt: "OpenAI unveiled a marketplace on Monday that enables users to access personalised AI ‘apps’ for tasks like teaching maths or designing stickers, signalling an ambition to expand its ChatGPT consumer business."

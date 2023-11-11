@@ -24,22 +24,6 @@ images:
     height: 534
     isCached: true
 
-related:
-  - title: "Healthcare Technology Trends 2024: Revolutionizing the Medical Field2"
-    excerpt: "In the ever-evolving landscape of healthcare, technology plays a pivotal role in shaping the future. The year 2024 promises to be a transformative one for the medical field, with groundbreaking innovations and emerging trends poised to revolutionize patient care,"
-    publishedDateTime: 2023-11-06T13:54:00Z
-    webUrl: "https://techbullion.com/healthcare-technology-trends-2024-revolutionizing-the-medical-field2/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Untitled-design-26.png"
-        width: 800
-        height: 400
-        isCached: true
-
 secured: "Tfk/v0LaONWeQ5G66TdrPpay9vAttvyYQ/YGuBKQoDS9bdGskNai/JZh124arXTtmK/wQx8UTXAZDwAaemJZyZgzVCFAfn1rZhFV/r/LUuJguszC1iOgNF9vryHfI1qgEONMOMo95CPHWxmxODsGRwrshApMdOySlY8wE564xZfY9Gd+1mqEaVOm1kiM+KM8lFFl+b4tfAje0EL7ifvsr3teX+NiitngSmO1uQ3CQYzf8qOF8AJJruO1yYREQNygeHVM5GC9vIHhlreHiEdiC5x/TzsEjzmVkwsPRPZocMdr1sixG3KakdqsNBEGg3rvWQRSj3+unZuMACaVpvu6EU54oublwAB369XvWva83yMbeLa2ht9ON4jnU6KtXsh3jLeI1fAIRofx0LQ/l4dhV2Tre3AogDfLeVaEat4R2YrluYFl68chyQ5cdSwFqlgxCtMt/h7SR6us0gyJTnhaugYOwdx94SSXosNe6wHW/g85dp9FHDV6LHOrCaDbS7B7U8Zlv/S3sbWTGyoEcj/u1Q==;mmaY2pYEWGs26LooAg5wLA=="
 ---
 

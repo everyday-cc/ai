@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Air India deploys AI-powered agent ‘Maharaja’ to answer customer queries"
+    excerpt: "Air India has become the world’s first airline to have successfully deployed a Generative AI virtual agent, called ‘Maharaja’, powered by Azure OpenAI service. It has successfully answered over half a million customer queries since its pilot launch in March 2023,"
+    publishedDateTime: 2023-11-11T06:30:00Z
+    webUrl: "https://travelbizmonitor.com/air-india-deploys-ai-powered-agent-maharaja-to-answer-customer-queries/"
+    type: article
+    provider:
+      name: Travel Biz Monitor
+      domain: travelbizmonitor.com
+    quality: 38
+    images:
+      - url: "https://travelbizmonitor.com/wp-content/uploads/2023/11/Air-India-B777-200LRd-scaled.jpg"
+        width: 1920
+        height: 1536
+        isCached: true
 
 secured: "LQPIfAkpT8en9AivQTMtWzbwOXRpRk9FKf6BD+ws5b7nLyJO/zqYD2ZmSCV+eeMOOvKQ1zj6Wec7iHsnG6+8NIEIHLBqXBviEkOwEKsXyNP24P6AeiYM3mALjUQ46F7cDMHb5ZhEC7gXCd2BD1oLVUAIGwO7Fi8J1hZz5llb+rCd/9VWXwPPW5oU9ctTCuml9SNCH5NJ7L80bl0z8RsArw9UuSbUFrMwxC9xpT5wRDSsi0sCZhqr4lK07SQn1sUSVoqHsT8PMnnlct4ak0wrX2zmPQm3CafqJMbzpPQmZpgMUNFM9+5XJEQ0ZCy5KsAPkkHq1s22EYxA8sYywqCh8LA+aZXzGwTk7jVbWpF3Q93GlF2bsPVnFlhvkexiGODPjAElo3fFqdrvEgIc+Xeefs4KZb2prr0yzP97fGEaYab/pgTptR7qDdcA/mxKdSfGODOQYTFK80LstyF2+o49Dk4M9AWDyAWrw0mEsvb67lGYz6RYlkMMmYJLu6XPuLlLfatlGOg8+1O0HAlsFfr8vQ==;YxlOXvUBRFKqEUD9Sk/A/w=="
 ---

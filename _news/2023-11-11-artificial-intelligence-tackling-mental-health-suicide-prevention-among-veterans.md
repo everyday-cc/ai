@@ -8,8 +8,8 @@ webUrl: "https://www.fox13news.com/news/artificial-intelligence-tackling-mental-
 ampWebUrl: "https://www.fox13news.com/news/artificial-intelligence-tackling-mental-health-suicide-prevention-among-veterans.amp"
 cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/artificial-intelligence-tackling-mental-health-suicide-prevention-among-veterans.amp"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2023/11/932/470/VETERANS.jpg?ve=1&tl=1"
@@ -25,6 +26,6 @@ images:
     height: 470
     isCached: true
 
-secured: "33oIN3rV5OO2IyFYEwCb+Fbcx1ODkJYzwDc/oCfVUdjJhW70BNDoIcyAMiGyb/HeIeKhQQBB3Cnbe8q/58yeHG3Hk+5OZPW0Cymz18R2e+UM05uF6uZZtCsXG/Nv5aHlteFkrIkhFYmy1PIWgn4iR8Qijkdd/FmBce3Jj0m/V0fOxkg0DXCZClxA7acvdDPFqcKCdtxAusrOq+PR/69LAyoNlCDJ0r+b4WmGSirGEDYGydIgaKV/sNeURF1wRu0ZZMj3v7q0bE52f+YM9f4Kou+6fsDS6SxBR92ZZrvW7YvKxYGiCKc7DaWvtCz9iOJizirSkJr06DP3oujy9D33SsQPJxjllproujsIihlf+ro=;htrA/wSWrY390frLflLA8Q=="
+secured: "AJAA6PZslB+Y6xRopxC3h5NJDTTKpCsyIW5Y950wDx6Nsgnafxfab/ZFD13BH1HJXjyUQTkZ7qGTi7lw2g3W3DA3n2siOTeN8A53rf/gv9vnfnQNz/J2qjh6M1poKW6k9OfbRfpr4xozHhf5kT1J9ZldD0gQdJfrxz/hnOkcgg3RPJ5iEowxLz7VXa9teB8BiObB8mlMMUm/wM3PxKbuit/G4ucFprxFSoiLRN35w9RVd8pgAh/bVAS2fLR1ETkaF0rxNUh+WOd8AaRT8KuZPlzY4rf1sBywaBugz18LZNOmyCnGfHByFV4NJ/OZ70PBKcJopuxALEzQt0I8ucdRfA/MgB5rSDH7XqGYt8S+CFzfeiCVmmZ8ZLD8cnB6lAMn8tuN4QNqYXtD8O6r1qNzMfRNHq1SzS/lB12Bt3iMzSNLgx+KdTfqgE8G09nsLhbM6gu7YYS7wLURKN9S+rrpQrJ4KLv4i4cg3vjC9wiSwdt3OIIb9iCpi38OaifnOWM5CdGVysACY7Cy0OIOBkXIEA==;w8hXbCpFQWS3wPKPcE+D6w=="
 ---
 

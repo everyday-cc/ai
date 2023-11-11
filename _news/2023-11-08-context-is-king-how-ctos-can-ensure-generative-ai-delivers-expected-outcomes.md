@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/context-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/08/context-is-king-how-ctos-can-ensure-generative-ai-delivers-expected-outcomes/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://media.wired.com/photos/654d640f71250da0bf23bfca/191:100/w_1280,c_limit/security_extremists_ai.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "Overcoming the trust, talent and price tag challenges in scaling generative AI"
+    excerpt: "The biggest challenge that companies have when they’re ready to launch a gen AI initiative is the difficulty of managing scale."
+    publishedDateTime: 2023-11-09T14:40:00Z
+    webUrl: "https://venturebeat.com/ai/overcoming-the-trust-talent-and-price-tag-challenges-in-scaling-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_584789593_Preview.jpeg?w=1200&strip=all"
+        width: 995
+        height: 534
         isCached: true
   - title: "Numerade Launches Ace Images to Deepen Students' Learning and Understanding Through AI-Generated Visual Aids"
     excerpt: "Generative AI has made a significant impact ineducation, providing opportunities to drive positive learning outcomes. In fact, student retention on Numerade has increased by 33% since the introduction of Ace showing that students are spending time receiving step-by-step guidance and support from the AI tutor."

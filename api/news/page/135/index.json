@@ -2,6 +2,49 @@
   "page": 135,
   "value": [
     {
+      "path": "_news/2023-08-07-ai-transformation-of-medicine-why-doctors-are-not-prepared.md",
+      "title": "AI transformation of medicine: Why doctors are not prepared",
+      "excerpt": "As artificial intelligence systems like ChatGPT find their way into ... most likely to go into life-threatening sepsis from an uncontrolled infection or which therapy has the highest probability of preventing sudden death in an individual heart disease ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-08-ai-medicine-doctors.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-08-ai-medicine-doctors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-doctor.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-08-ai-medicine-doctors.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-ai-medicine-doctors.amp",
+      "publishedDateTime": "2023-08-07T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-07-responsible-ai-a-risk-based-approach.md",
       "title": "Responsible AI: A Risk-Based Approach",
       "excerpt": "• Operational risks. Using AI can create new dependencies, and businesses that rely heavily on AI systems may lack the ability to operate effectively without it. This can create significant business continuity risks if an AI system fails or becomes compromised—or if regulatory changes deem it unusable.",
@@ -1077,41 +1120,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-06-artificial-intelligence-and-machine-learning-unveiling-the-future-of-technology.md",
-      "title": "Artificial Intelligence and Machine Learning: Unveiling the Future of Technology",
-      "excerpt": "Welcome to the realm of Artificial Intelligence and Machine Learning, where algorithms breathe life into machines, transforming them into in..|News Track",
-      "sourceUrl": null,
-      "webUrl": "https://english.newstracklive.com/news/artificial-intelligence-and-machine-learning-unveiling-the-future-of-technology-emc-sc71-nu384-ta384-1290421-1.html",
-      "originalUrl": "https://english.newstracklive.com/news/artificial-intelligence-and-machine-learning-unveiling-the-future-of-technology-emc-sc71-nu384-ta384-1290421-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/artificial-intelligence-and-machine-learning-unveiling-the-future-of-technology-emc-sc71-nu384-ta384-1290421-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/artificial-intelligence-and-machine-learning-unveiling-the-future-of-technology-emc-sc71-nu384-ta384-1290421-1.html",
-      "publishedDateTime": "2023-08-06T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/11/10/268703?itok=XLyycVPp"
+  - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/11/11/268709-railways-reuters.jpg?itok=Tdzu9Ua_"
     width: 700
     height: 394
     isCached: true
 
-secured: "qZv2lsthofQh8iZmzz5StKImXiILa99PjEghzF9njnuoUHiSLyQOuOOoADRI6nE+o1E5x1UIapdau6ZXbMncPqYX8YrYlNxUaqCaPNsEQb9ykg46g575dRGmhWtAd6mg5AlMk78pkqDoOqAQqC1OO4W+8/H9U362D7fTSNuKbU53xYTBN9cVOxKVcFdeLsUOWrbPtL7VpOjOBadxneb29TfxJnf86Al4+cS4krHBKXDA+6cffhTjZXrZpWHodhNiIPotPTKalknxo5viMn/oHK+9QASHTClR9+d/jd+QnILcsr3F1BLQzKgT7KdB1VlritFdeuBRVmphuSe2QMYBFtKAEeXSs1I64/7F3tCTN/Y=;sowWWPJvcslca+aiieHR/Q=="
+secured: "5wkW4hll3cmPHMwLVcJEP5uQL16Tdq9J4wfX/TTXWzRAZdqySw8u6mASQt9LexOqb3A1e9IeyF9i7is4xHCIuoflPGiXowH7eFuNIum3H29u1OtQ/+RSiyUeGuqKC4orAaFtLBU+IwnrYSYCtdzQC+tdyEFZ3tG2hkWC14OILC5fiZDHzI8t95Sz+ZAb21JHJlNW+CjolQZCRT0yQ6BLlyV8qsTA5vdCLET8idYPiTUm6WQ147kT1di/+Cznw6URnsSP9Ro+FsYE16/ly564dq9x88Ft7mOIMiLPZLi+0UmHuWMdjo9Krl5T95M2hiPKS22EYSPykDFK68nc6M6d6TNQAtDq3rIgpZW7IpMhb5M=;FNal01jqThkiUx5cDlwexw=="
 ---
 

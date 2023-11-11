@@ -1,0 +1,188 @@
+---
+category: news
+title: "Unlocking the potential of artificial intelligence (AI) and machine learning (ML) in India’s fintech revolution"
+excerpt: "FinTech has expanded and refined the financial landscape for millions of people, from the ease of use of wealth management apps to AI-powered lending platforms and frictionless payment solutions. The most notable aspect of this change is how well it has aided in financial inclusion,"
+publishedDateTime: 2023-11-11T05:45:00Z
+originalUrl: "https://www.financialexpress.com/business/digital-transformation-unlocking-the-potential-of-artificial-intelligence-ai-and-machine-learning-ml-in-indias-fintech-revolution-3304288/"
+webUrl: "https://www.financialexpress.com/business/digital-transformation-unlocking-the-potential-of-artificial-intelligence-ai-and-machine-learning-ml-in-indias-fintech-revolution-3304288/"
+ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-unlocking-the-potential-of-artificial-intelligence-ai-and-machine-learning-ml-in-indias-fintech-revolution-3304288/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-unlocking-the-potential-of-artificial-intelligence-ai-and-machine-learning-ml-in-indias-fintech-revolution-3304288/lite/"
+type: article
+quality: 86
+heat: -1
+published: false
+
+provider:
+  name: The Financial Express
+  domain: financialexpress.com
+
+topics:
+  - AI in Finance
+  - AI
+  - Machine Learning
+
+images:
+  - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/Untitled-design-2023-11-10T162613.644.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "AI Ethics In Fintech: Building Trust In Tomorrow's Financial Ecosystem"
+    excerpt: "The nexus between AI and finance paints a horizon replete with opportunities. From crafting unparalleled user experiences to broadening financial access—the prospects are limitless. But, as we navigate this uncharted terrain, let our compass be ethics ..."
+    publishedDateTime: 2023-11-07T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "Smart banking leads the road to our fintech future"
+    excerpt: "The future of banking lies in touch-based and voice-enabled transactions, and the demand for that change is rising with each day. To integrate the future of cashless technology, banks in Bangladesh have to ensure banking services that are accessible anytime and anywhere"
+    publishedDateTime: 2023-11-08T05:39:00Z
+    webUrl: "https://www.dhakatribune.com/business/banks/330402/smart-banking-leads-the-road-to-our-fintech-future"
+    ampWebUrl: "https://www.dhakatribune.com/amp/business/banks/330402/smart-banking-leads-the-road-to-our-fintech-future"
+    cdnAmpWebUrl: "https://www-dhakatribune-com.cdn.ampproject.org/c/s/www.dhakatribune.com/amp/business/banks/330402/smart-banking-leads-the-road-to-our-fintech-future"
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 59
+    images:
+      - url: "https://ecdn.dhakatribune.net/contents/cache/images/600x315x1/uploads/media/2023/11/08/Smart-Banking-18d54092c4929545e64c7d74c1de947b.jpg?jadewits_media_id=8618"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Fintech Startup Black Ore Raises $60M to Bring AI to Financial Services"
+    excerpt: "Black Ore, an AI platform for financial services, launched today and announced $60 million in financing led by a16z and Oak HC/FT."
+    publishedDateTime: 2023-11-08T21:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/11/215465-fintech-startup-black-ore-raises-60m-to-bring-ai-to-financial-services/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/215465-fintech-startup-black-ore-raises-60m-to-bring-ai-to-financial-services/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/215465-fintech-startup-black-ore-raises-60m-to-bring-ai-to-financial-services/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Cyber-Dollar-AI-Artificial-Intelligence.jpg"
+        width: 1200
+        height: 1568
+        isCached: true
+  - title: "Fintechs weigh in on the White House's executive order on AI"
+    excerpt: "The order \"immediately posed the question of how do you identify these models without some sort of self regulation,\" said Amitay Kalmar, co-founder and chief executive of the AI-powered auto lending fintech Lendbuzz in Boston. \"From the outside ..."
+    publishedDateTime: 2023-11-08T21:28:00Z
+    webUrl: "https://www.americanbanker.com/news/fintechs-weigh-in-on-the-white-houses-executive-order-on-ai"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/059a66d/2147483647/strip/true/crop/5000x2625+0+442/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F20%2F42%2F44bb221f4f189976d1913ca7f581%2F393263320.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Salary hikes for IT staff take a cut; financial report card for Nykaa, Dunzo, PB Fintech"
+    excerpt: "Employees at Indian IT firms are not getting the salary hikes they were used to on switching jobs anymore, data from staffing companies suggests. This and more in todays ETtech Morning Dispatch."
+    publishedDateTime: 2023-11-07T01:49:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/articleshow/105024512.cms?from=mdr"
+    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 35
+    images:
+      - url: "https://img.etimg.com/photo/msid-105024651/OpenAI.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Big slump in pay hikes for techies switching jobs; financial report card for Nykaa, Dunzo, PB Fintech"
+    excerpt: "Employees at Indian IT firms are not getting the salary hikes they were used to on switching jobs anymore, data from staffing companies suggests. This and more in todays ETtech Morning Dispatch."
+    publishedDateTime: 2023-11-07T02:29:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/articleshow/105024512.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/salary-hikes-for-it-staff-take-a-cut-financial-report-card-for-nykaa-dunzo-pb-fintech/amp_articleshow/105024512.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 29
+    images:
+      - url: "https://img.etimg.com/photo/msid-105024651/OpenAI.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "The King’s Speech: What does it mean for the future of fintech?"
+    excerpt: "What did King Charles say? King Charles started by highlighting the economic pressures on the nation and promised that his “Government will continue to take action to bring down inflation, to ease the cost of living for families and help businesses fund new jobs and investment."
+    publishedDateTime: 2023-11-08T09:46:00Z
+    webUrl: "https://www.finextra.com/the-long-read/850/the-kings-speech-what-does-it-mean-for-the-future-of-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/850.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Exploring the future of fintech"
+    excerpt: "The Singapore FinTech Festival has emerged as an important platform for discourse among policymakers, technologists and financial sector experts. Photos: Singapore FinTech Festival, Elevandi With advancements in artificial intelligence (AI),"
+    publishedDateTime: 2023-11-09T09:16:00Z
+    webUrl: "https://www.channelnewsasia.com/advertorial/exploring-future-fintech-3899741"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 24
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--jlxy0wBs--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/06/bstudio_sff_elevandi_lead.jpg?itok=vXKSHFgp"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Top fintech events to attend in 2024"
+    excerpt: "Imagine jetting off to the dynamic and rapidly growing fintech hub of Dubai in January 2024 for the World Finance Council's Fintech Conference. This global gathering brings together financial leaders, tech experts, and policymakers, all with a shared goal:  exploring the fusion of finance and technology in the Middle East."
+    publishedDateTime: 2023-11-09T09:45:00Z
+    webUrl: "https://www.finextra.com/blogposting/25172/top-fintech-events-to-attend-in-2024"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://lh7-us.googleusercontent.com/aBnCOszzZC1zUyfDG6-8Ugve8DqZydcR7NQKhWIIe_6a5J9OHA6NTdBRtKrzIV5OiegM3Ypn_iWNhZrB3EqrObWlpseEyb8uVMLOaiytaTiBOK0tMdSpPJ_MudXwkiYzgCX9rk5J6RY-8VBB3vGVESw"
+        width: 1600
+        height: 636
+        isCached: true
+  - title: "AI fintech Black Ore emerges from stealth with $60m"
+    excerpt: "Black Ore, a startup developing AI tools for financial services firms, has emerged from stealth with $60 million in financing led by a16z and Oak HC/FT, with participation from a host of big-name angel investors."
+    publishedDateTime: 2023-11-08T00:29:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43250/ai-fintech-black-ore-emerges-from-stealth-with-60m"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "BIT2023: Banking, Fintech Co-Create Larger Ecosystem, Build Strong Foundation"
+    excerpt: "Get ready to be acquainted with the Who's who of banking and fintech fraternity of the UAE over two consecutive days next week on November15 and Nov"
+    publishedDateTime: 2023-11-07T20:15:00Z
+    webUrl: "https://menafn.com/1107389124/BIT2023-Banking-Fintech-Co-Create-Larger-Ecosystem-Build-Strong-Foundation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 16
+
+secured: "BwxVO+awcMnHt9CmGrFgZ3etW6uHodMDfzig5UITndXfPz7vhOoy9mwZr8LzK7evo0nfqtKs+9hYZYS9LKXUp8iKP1I+zv0TGcxruOR5K56caohuDntbcpbniArLs/X2LO/1e6eSmKsdiDiz5fEfxOBBDkvyKuv4RekTrLBIsWAJ6NyV5ZmJ3554R229dB5I5fUAWcV58Hop8WoBX/Zs0C8kLFvJN8ru4WGOG/Bd0GbVDPg2qio1lFuUurn+eF3S15GEJizhMj+9NSCKejY2mALuUg7vSI85hWrMRkRDm2qmNEn/KP7l3ODBZ6itjYYEVsWayU7tWX2wMyOH32NysTzuybNNfmhtyUXcVsIDx8M=;8UVup8VnMQ9KCsvafFz0yg=="
+---
+

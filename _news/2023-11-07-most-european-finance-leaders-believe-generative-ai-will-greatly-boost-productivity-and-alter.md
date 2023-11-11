@@ -42,22 +42,6 @@ related:
         width: 546
         height: 312
         isCached: true
-  - title: "Watchful bridges generative AI transparency gap"
-    excerpt: "Generative AI services like ChatGPT have demonstrated an impressive ability to generate text with human-level realism. But they also have a propensity to hallucinate and gloss over uncertainty in their responses."
-    publishedDateTime: 2023-11-09T16:00:00Z
-    webUrl: "https://diginomica.com/watchful-bridges-generative-ai-transparency-gap"
-    ampWebUrl: "https://diginomica.com/watchful-bridges-generative-ai-transparency-gap?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/watchful-bridges-generative-ai-transparency-gap?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2016-12/man-facing-gap.jpg"
-        width: 1277
-        height: 843
-        isCached: true
   - title: "How artificial intelligence could upend global financial stability"
     excerpt: "Central bankers on both sides of the Atlantic are paying attention to the ways generative artificial intelligence may create hidden new risks to the global financial system."
     publishedDateTime: 2023-11-07T17:19:00Z

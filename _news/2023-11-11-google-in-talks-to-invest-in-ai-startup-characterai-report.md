@@ -42,7 +42,18 @@ related:
         width: 648
         height: 365
         isCached: true
+  - title: "Google in talks to invest in AI startup Character.AI: sources"
+    excerpt: "ALPHABET’S Google is in talks to invest hundreds of millions of US dollars in Character.AI, as the fast growing artificial intelligence (AI) chatbot startup seeks capital to train models and keep up with user demand,"
+    publishedDateTime: 2023-11-11T05:31:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/google-talks-invest-ai-startup-characterai-sources"
+    ampWebUrl: "https://www.businesstimes.com.sg/startups-tech/startups/google-talks-invest-ai-startup-characterai-sources?amp"
+    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/startups-tech/startups/google-talks-invest-ai-startup-characterai-sources?amp"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 37
 
-secured: "CkJT49tBk5TgAeql5EKW/5O3sqXI9QaaAwb0NFpwaXDE9/KOHXJRUcw0MOlJqYd7VXP/a7TSTSialyfAdj+6+Of+wiVA51LZlQLCshoqDkabNKhi4W/hPQLU93syRStwIof3qU1/hisIUOCYUi61sSMM1M6UIMfmEkfMHiDTEgJdmzG5Zanct9xKr+zP4FpnXPNHh5wTskoQfX75cSt44s2eVWB9V3osp8gwrI9L+YcljmMSJD3YvSsjnFgP+DymtcteZNWIxfapwn5bBloVzrlSh/CLb6rdj+EI9p1ujC1myxSgAre9l7KFDDKsJPb4h/rcqskDKnA4WhzhjhmtXkpTMzdJax5ZgjohFAELlak=;VQdqXdwvwRt/cw/MUILiRg=="
+secured: "U5EW4etkKboGMfeKQ/uify751dG+06RPOr7iv8VZcBVZsW23gKKpzNqteNVzTfEVlJTkSZ4L14Vm6Hz6bS/vocXwdaG/C+n4x0PWpn/jXNDEImlXxnKrL6OrXRaXtO4IKTVhAVmdV+sxOMw/FbixkQL2awvfmdPElncfUDxE/h0jQPwcfnE1qhv+OFsf2nhnzQPHy8NNbTyQjRcc6plUvUrDBGuvWXWt6rh/BtSy/jwBMUm4VwqhHOEHXpt0r3I7lyijwEiO2qN94cPw4EqQAskI2MueezAkWCCYuBi8BTYLJuw2f1IYjPm/fBBpqg4OvqJNqqOn61dCvuXWKvYB9zHkHWdwU0W0ZoR3l20HM3B+7K8rl7ZGlGw8VmrB5pU5BsBmt1XcBQiy//Z+nt0ejStamu94OzwN7vkzzFwemXAQiOL/trZW9EMdZwSqol8lQ3A9bcGRu8PtYIxgx58NEPf7E7alqUMECJZKPAIKChY8VhyfRHW+ghWvLnVS2aZsukZS/j/Q9klWAkRvxQkkvw==;TWR99cHMd6ISwzD7vEMV9g=="
 ---
 
