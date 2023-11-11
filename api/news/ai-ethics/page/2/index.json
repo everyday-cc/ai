@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-24-uk-officials-are-using-ai-to-make-decisions-on-benefits.md",
+      "title": "UK officials are using AI to make decisions on benefits",
+      "excerpt": "‘There is a lack of consistency and transparency in the way that AI is being used in the public sector,’ said Marion Oswald, a professor in law at Northumbria University and a former member of the government’s advisory board on data ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4",
+      "originalUrl": "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/10/GettyImages-1199003735.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/",
+      "publishedDateTime": "2023-10-23T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-23-how-marc-andreessen-is-like-robert-moses-its-time-to-build-ai-the-ai-beat.md",
       "title": "How Marc Andreessen is like Robert Moses: ‘It’s time to build’ AI | The AI Beat",
       "excerpt": "Marc Andreessen and Robert Moses both said 'It's time to build.' But are the Techno-Optimists destined for a Moses-style reckoning?",
@@ -1370,58 +1413,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-openais-unreasonable-claims-exhaust-ai-ethics-researchers.md",
-      "title": "OpenAI's 'unreasonable claims' exhaust AI-ethics researchers",
-      "excerpt": "Ethics researchers are struggling to keep up with the generative-AI boom as critiquing existing tech hinders the creation of more-responsible AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10",
-      "originalUrl": "https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6525b95f55f52b01b35ba4e1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10?amp",
-      "publishedDateTime": "2023-10-11T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

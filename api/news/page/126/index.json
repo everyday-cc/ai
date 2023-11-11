@@ -2,6 +2,221 @@
   "page": 126,
   "value": [
     {
+      "path": "_news/2023-08-12-def-con-convention-organizer-talks-ai-and-ethics-with-soledad-obrien.md",
+      "title": "DEF CON Convention Organizer Talks AI and Ethics with Soledad O'Brien",
+      "excerpt": "Some of the most recognizable names in tech are inviting hackers to test their AI vulnerabilities at the DEF CON convention in Las Vegas. Rumman Chowdhury talks with Soledad O'Brien about the motivation behind this year’s focus on AI, biases in AI and the AI Bill of Rights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/def-con-convention-organizer-talks-ai-and-ethics-18293570.php",
+      "originalUrl": "https://www.chron.com/news/article/def-con-convention-organizer-talks-ai-and-ethics-18293570.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-12-no-zoom-is-not-stealing-your-data-heres-why.md",
+      "title": "No, Zoom Is Not Stealing Your Data. Here's Why.",
+      "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue gives a detailed assessment of a whirlwind week of developments for Zoom connected to its terms of service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/11/no-zoom-is-not-stealing-your-data-heres-why/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/11/no-zoom-is-not-stealing-your-data-heres-why/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d6d287f177898791b1ea3f/0x0.jpg?format=jpg&width=1200",
+          "width": 720,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/11/no-zoom-is-not-stealing-your-data-heres-why/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/11/no-zoom-is-not-stealing-your-data-heres-why/amp/",
+      "publishedDateTime": "2023-08-11T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-12-regulators-open-floodgates-for-driverless-taxis-in-san-francisco-whether-theyre-wanted-or-not.md",
+      "title": "Regulators open floodgates for driverless taxis in San Francisco, whether they’re wanted or not",
+      "excerpt": "On a pair of 3-1 votes, regulators approved allowing Waymo and Cruise to offer fared driverless rides across San Francisco, at all hours of the day, with an unlimited number of vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/regulators-open-floodgates-for-driverless-taxis-in-san-francisco-whether-theyre-wanted-or-not-f966c029",
+      "originalUrl": "https://www.marketwatch.com/story/regulators-open-floodgates-for-driverless-taxis-in-san-francisco-whether-theyre-wanted-or-not-f966c029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-833917/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/regulators-open-floodgates-for-driverless-taxis-in-san-francisco-whether-theyre-wanted-or-not-f966c029",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/regulators-open-floodgates-for-driverless-taxis-in-san-francisco-whether-theyre-wanted-or-not-f966c029",
+      "publishedDateTime": "2023-08-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-12-democrats-laud-federal-agencys-ai-move.md",
+      "title": "Democrats laud federal agency’s AI move",
+      "excerpt": "Welcome to The Hill’s Technology newsletter{beacon} Technology Technology   The Big Story FEC’s AI decision cheered by Democrats Three Democrats who urged federal action to",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/newsletters/technology/4149743-democrats-laud-federal-agencys-ai-move/",
+      "originalUrl": "https://thehill.com/newsletters/technology/4149743-democrats-laud-federal-agencys-ai-move/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/newsletters/technology/4149743-democrats-laud-federal-agencys-ai-move/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4149743-democrats-laud-federal-agencys-ai-move/amp/",
+      "publishedDateTime": "2023-08-11T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-12-ais-role-in-modern-healthcare-a-closer-look-at-clinical-practice.md",
+      "title": "AI's Role in Modern Healthcare: A Closer Look at Clinical Practice",
+      "excerpt": "The \"Artificial Intelligence (AI) in Clinical Practice\" report has been added to ResearchAndMarkets.com's offering. This report delves into the use of AI in clinical",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33765664/ais-role-in-modern-healthcare-a-closer-look-at-clinical-practice",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33765664/ais-role-in-modern-healthcare-a-closer-look-at-clinical-practice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33765664",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33765664",
+      "publishedDateTime": "2023-08-11T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-12-china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law.md",
       "title": "China closes record number of personal data breaches, moots facial recognition law",
       "excerpt": "China has closed a record number of personal data breaches and is seeking public feedback on draft laws to regulate the use of facial recognition data.",
@@ -958,266 +1173,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency.md",
-      "title": "Amazon Translate enhances its custom terminology to improve translation accuracy and fluency",
-      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. When you translate from one language to another, you want your machine translation to be accurate, fluent, and most importantly contextual. Domain-specific and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/11/amazon-translate-enhances-fluency.jpg",
-          "width": 908,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T07:59:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-zero-shot-text-classification-with-amazon-sagemaker-jumpstart.md",
-      "title": "Zero-shot text classification with Amazon SageMaker JumpStart",
-      "excerpt": "Natural language processing (NLP) is the field in machine learning (ML) concerned with giving computers the ability to understand text and spoken words in the same way as human beings can. Recently, state-of-the-art architectures like the transformer architecture are used to achieve near-human performance",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/zero-shot-text-classification-with-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/zero-shot-text-classification-with-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/31/ML-13226-Picture6-1219x630.png",
-          "width": 1219,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T07:56:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-chatgpt-the-latest-news-controversies-and-tips-you-need-to-know.md",
-      "title": "ChatGPT: the latest news, controversies, and tips you need to know",
-      "excerpt": "ChatGPT has continued to dazzle the internet with AI-generated content, morphing from a novel chatbot into a piece of technology that is driving the next era of innovation. No tech product in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/05/chatgpt-iphone-app-hands-on.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp",
-      "publishedDateTime": "2023-08-11T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-how-robot-use-in-manufacturing-can-impact-environmental-sustainability.md",
-      "title": "How Robot Use In Manufacturing Can Impact Environmental Sustainability",
-      "excerpt": "As robots play an increasingly vital role in manufacturing, it is essential to consider their environmental impact.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-robot-use-in-manufacturing-can-impact-environmental-sustainability/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-robot-use-in-manufacturing-can-impact-environmental-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d4ee5ae67956682c0eda01/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-robot-use-in-manufacturing-can-impact-environmental-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/11/how-robot-use-in-manufacturing-can-impact-environmental-sustainability/amp/",
-      "publishedDateTime": "2023-08-11T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-the-importance-of-it-cost-management-in-modern-organizations.md",
-      "title": "The importance of IT cost management in modern organizations",
-      "excerpt": "IT cost management has grown in importance because cost control is top of mind for every organization across all industries.\nThe post The importance of IT cost management in modern organizations appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/it-cost-management/",
-      "originalUrl": "https://www.ibm.com/blog/it-cost-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/052022_CaitOppermann_InsideIBM_London_3087_03.blog-lead-space-2x1-1.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T07:10:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

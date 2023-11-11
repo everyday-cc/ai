@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-startup-elevenlabs-raising-thir
 webUrl: "https://www.businessinsider.com/ai-startup-elevenlabs-raising-third-round-this-year-sources-say-2023-11"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Astel Ventures builds AI to improve startup fundraising and build $1 billion portfolio"
-    excerpt: "Astel's groundbreaking platform has been designed to streamline the fundraising process for CEOs, mitigating the age-old challenges of time-intensive pitches and pitching to local investors only. With Astel's AI-powered technology, a staggering 60% of the fundraising effort is automated, giving back invaluable time to CEOs."
-    publishedDateTime: 2023-11-06T11:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/astel-ventures-builds-ai-to-improve-startup-fundraising-and-build-1-billion-portfolio-1032781176"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/1121/1699257888975-0.png"
-        width: 800
-        height: 332
-        isCached: true
   - title: "Kai-fu Lee’s AI startup achieves $1 billion valuation in eight months"
     excerpt: "AI, a Chinese AI startup founded by AI pioneer Kai-fu Lee, has achieved a $1 billion valuation, earning unicorn status in less than eight months,"
     publishedDateTime: 2023-11-07T07:20:00Z

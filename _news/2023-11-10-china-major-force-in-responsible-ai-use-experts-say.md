@@ -42,20 +42,20 @@ related:
         height: 900
         isCached: true
   - title: "Google in talks to invest in AI startup Character.AI"
-    excerpt: "By Krystal Hu Alphabet's Google is in talks to invest hundreds of millions of dollars in Character.AI, as the fast growing artificial intelligence chatbot startup seeks capital to train models and keep up with user demand, two sources briefed on the matter ..."
-    publishedDateTime: 2023-11-11T02:32:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/google-in-talks-to-invest-in-ai-startup-character-ai/105137326"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/google-in-talks-to-invest-in-ai-startup-character-ai/105137326"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/google-in-talks-to-invest-in-ai-startup-character-ai/105137326"
+    excerpt: "The investment, which could be structured as convertible notes, according to a third source, will deepen the existing partnership Character.AI already has with Google, in which it uses Google's cloud services and Tensor Processing Units (TPUs) to train models."
+    publishedDateTime: 2023-11-11T04:44:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/articleshow/105139693.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/amp_articleshow/105139693.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/amp_articleshow/105139693.cms"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
+      name: Indiatimes
       domain: indiatimes.com
     quality: 57
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-105137326,imgsize-236374,width-1200,height=765,overlay-ettelecom/internet/google-in-talks-to-invest-in-ai-startup-character-ai.jpg"
-        width: 1200
-        height: 765
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211832,msid-105139706/what-googles-antitrust-trial-means-for-your-search-habits.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Google in talks to invest in AI startup Character.AI, boost existing partnership"
     excerpt: "Character.AI is also in talks to raise equity funding from venture capital investors, which could value the company at over $5 billion, sources said. In March, it raised $150 million in a funding round led by Andreessen Horowitz at $1 billion valuation."

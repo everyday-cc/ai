@@ -41,21 +41,19 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "xAI, Elon Musk's AI Startup, to Be Integrated With X; Will Be Available as Standalone App"
-    excerpt: "Elon Musk 's artificial intelligence startup xAI will be integrated into his social media platform X and also be available as a standalone app, he said on Sunday in a post. The billionaire also said xAI released its first AI model, a bot named Grok, after making it available to all X Premium+ subscribers on Friday."
-    publishedDateTime: 2023-11-06T12:05:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/xai-elon-musk-ai-startup-to-be-integrated-with-x-will-be-available-as-standalone-app-4550545"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/xai-elon-musk-ai-startup-to-be-integrated-with-x-will-be-available-as-standalone-app-4550545/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/xai-elon-musk-ai-startup-to-be-integrated-with-x-will-be-available-as-standalone-app-4550545/amp"
+  - title: "Elon Musk announces Grok, an AI with a 'rebellious streak' that will answer spicy questions"
+    excerpt: "Elon Musk's AI startup xAI has announced its first AI model called Grok, inspired by Hitchhiker's Guide to the Galaxy. Like other AI language models, Grok will attempt to answer any question you throw at it with the bonus of suggesting what questions to ask."
+    publishedDateTime: 2023-11-07T03:32:00Z
+    webUrl: "https://www.tweaktown.com/news/94237/elon-musk-announces-grok-an-ai-with-rebellious-streak-that-will-answer-spicy-questions/index.html"
     type: article
     provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 48
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 27
     images:
-      - url: "https://i.gadgets360cdn.com/large/xai_elon_musk_ai_startup_twitter_1689182796531.jpg"
-        width: 1200
-        height: 800
+      - url: "https://static.tweaktown.com/news/9/4/94237_01_elon-musk-announces-grok-an-ai-with-rebellious-streak-that-will-answer-spicy-questions_full.jpg"
+        width: 1500
+        height: 843
         isCached: true
 
 secured: "YZMvGzSxSdbZIlnRZyYwnhfrNC7ttlcN0Vr1eb7m9Es4soDzHm4FhrFYMxRMintNPnSPxU7qKH7EWsFchTDxk1rKZQFRqHjbIPv1cPNeN4sjLUGAGlnZle5EaDcFbXff6q5Vgcm3vH1BfVNeIQpM8ry3gRpj5Wh+PZwIvG8WLAfKHiV0GBpR2PH76G/iC8wdGRozGEi9vzaZ+DKUvC4vn5D5Tpoz6YWqd216D5LxEw0zsufnGIX91guPnn4hlR5YCgB5J94g8RMKt+WJAQW/gBAoZF/AXG9AD6QdmHVTH6suHkJidW7cbiXXeLOXu585UqULFjnRq43YzkS8QXOnwfUV79zrqjanItyRuHRTP7w=;HYxJBHZYbXQZUOW8G9utIA=="

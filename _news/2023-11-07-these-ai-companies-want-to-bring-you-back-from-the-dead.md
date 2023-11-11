@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/ai-live-forever-replicant-hanson-robotics-here
 webUrl: "https://gizmodo.com/ai-live-forever-replicant-hanson-robotics-hereafter-1850990617"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1430
         height: 804
         isCached: true
+  - title: "These Top Companies are Transforming Real Estate with the Help of AI"
+    excerpt: "Artificial intelligence (AI) is quickly transforming just about every industry, including real estate. In fact, “AI has enormous potential to reshape real estate, with near- and long-term impacts ranging from the emergence of new markets and asset"
+    publishedDateTime: 2023-11-08T14:15:00Z
+    webUrl: "https://www.baystreet.ca/articles/stockstowatch/92254/These-Top-Companies-are-Transforming-Real-Estate-with-the-Help-of-AI"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 19
 
 secured: "DYdIThikGbEMDUjqVYTv0QyvWgv0UJE7WIzRGrjIYSqnF+QXl6Nli8tvn9+xGDwXMW4HKn4K+mvmSO3hTUchkObQaJsyO9+qHOSWfVUoZ+boCpDA58Md1ZL9wRMkI7N4iGprrH63vSsvfcIumVRLu20to8WR+yFY37pY1Us0oP9kDzoKi7NQU3izfoVDt5ircZmPcnYuPavGH8loOO932HWZu5QS6ff1pZvg/14OydfRqJMuZHHdW0Xj4XBfJjVhT0Ya4e1ts/1D6Jl4iRCpgFznPuBUy2icdMDz39WmeVp3RAMZ14tuHgon63boes1hO2no5WvZZYLWQpp2J4crdlxg8aIj5KRD4sLNWPA2oFipWmxvUbHRHf3Qqga/7puPEODfWOyuZHIZL24RjRtkdHT/JVo00cEmOQqF0+T7BOnTxiKOfBJ0dHLkTnKcbz+gHaHO9Mch1ZSiRR28+aonR6MPn2SaB3tMmT2LEg5BF1eArZzF+p4omjXCxPeZv3EC74WUItGX6f2A/IAF5VmL9Q==;4JCuB9SAPaxYNL5y8SuRfA=="
 ---

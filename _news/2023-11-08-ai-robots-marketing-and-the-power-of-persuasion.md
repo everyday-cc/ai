@@ -7,7 +7,7 @@ originalUrl: "https://www.earth.com/news/ai-robots-marketing-and-the-power-of-pe
 webUrl: "https://www.earth.com/news/ai-robots-marketing-and-the-power-of-persuasion/"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "With the power of AI, you can be mediocre, too"
+    excerpt: "The heady, futuristic world of artificial intelligence brings us a new promise: The ability to be perfectly average."
+    publishedDateTime: 2023-11-09T15:00:00Z
+    webUrl: "https://techcrunch.com/2023/11/09/meh-ai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1474442258.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Xbox and Inworld AI to bring the power of artificial intelligence to game developers"
     excerpt: "Xbox and Inworld AI have partnered to develop artificial intelligence-powered tools for game creators. As part of the multi-year partnership, the firms will develop an AI design copilot to assist game designers with creative ideas,"
     publishedDateTime: 2023-11-07T12:18:00Z

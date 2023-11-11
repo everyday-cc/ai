@@ -9,8 +9,8 @@ ampWebUrl: "https://wwmt.com/amp/news/state/embracing-artificial-intelligence-ho
 cdnAmpWebUrl: "https://wwmt-com.cdn.ampproject.org/c/s/wwmt.com/amp/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: wwmt
@@ -25,6 +25,24 @@ images:
     width: 648
     height: 365
     isCached: true
+
+related:
+  - title: "Google in talks to invest in AI startup Character.AI: Report"
+    excerpt: "The investment, which could be structured as convertible notes, according to a third source, will deepen the existing partnership Character.AI already has with Google, in which it uses Google’s cloud services and Tensor Processing Units (TPUs) to train models."
+    publishedDateTime: 2023-11-11T04:26:00Z
+    webUrl: "https://www.cnbctv18.com/technology/google-in-talks-to-invest-in-ai-startup-characterai-says-report-18305821.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/google-in-talks-to-invest-in-ai-startup-characterai-says-report-18305821.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/google-in-talks-to-invest-in-ai-startup-characterai-says-report-18305821.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 57
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/09/google-25-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
 
 secured: "XQRvRNHj1FnFm8aj/V7Tcm5lmqxfsr079fCzEY5m0iXLd7nYtUCVDqYBnVCdYtdWqdY6zOWNB4BbFbGT30Q7kG0utOheUYkwKdrWMRdZGpFOmPoSU+3E3/1pHFL1jZnuXSaNyGmXs03p+cxoDmiKWdqLLzyYoERyc5z4Vlw5A6FeIvdbn319Iw0KrWCUOqm21L97vvxKoH32rWAda02oAPrwlzzlKZPnQCCrBsKYFo45PiuxnLxbBEEz/61mRe0UTT9GweWUea2wIRFwm++ozKAW5CxW5dZ9zxUBym17AaaPfyn3fqx8LcDqiDyJ9hfWsmQSsPOy9qL+Z0MuPnVtPx4SOn9JCsLle+H6R0mmUsd4dXz9X9OgiurKZY/eAT34W7A6CzQYr3263sC1GZu3oCHTinqFQBwU1eCPuApxBDaj6rcovbLuCHxkGgtW8ZLWlZ3rf5OUV/9Wcil8MZ4/S2Fqbl3nzdmUkpDu9gCTTXYvWSstTGBS3jkKCi4sZF1SN8Tfl7KN65yKQZW2Wd8CCg==;IH3cAedW46mr2aVofqsshQ=="
 ---

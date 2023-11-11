@@ -92,15 +92,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 11
-  - title: "Global Service Robotics Market Expected to Reach $187.33 Billion by 2030, Driven by Increasing Adoption Across Industries"
-    excerpt: "The global service robotics market is set for substantial growth, with an anticipated value of US$ 187.33 billion by 2030, according to this report."
-    publishedDateTime: 2023-11-06T11:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/06/9911561.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
   - title: "Global Agriculture Autonomous Robots Market Poised to Surge to $3.13 Billion by 2028, Addressing Labor Shortages and Enhancing Farming Efficiency - ResearchAndMarkets.com"
     excerpt: "The \"Agriculture Autonomous Robots Market - A Global and Regional Analysis: Focus on Product, Application, Supply Chain Analysis, and Country Analysis - Analysis and Forecast, 2023-2028\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2023-11-08T13:41:00Z

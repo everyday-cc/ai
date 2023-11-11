@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-08-from-goat-exports-to-driverless-vehicles-the-21-bills-in-the-kings-speech.md",
+      "title": "From goat exports to driverless vehicles: the 21 bills in the king’s speech",
+      "excerpt": "Proposed measures that made it into Rishi Sunak’s pre-election legislative programme – and those that didn’t",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak",
+      "originalUrl": "https://www.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/365b8ec8af0b0bb67c98245c07c91906fd7baf3f/706_180_2048_1229/master/2048.jpg?width=620&quality=85&auto=format&fit=max&s=0ed06d056c92fe4682fdb128f2c0051b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak",
+      "publishedDateTime": "2023-11-07T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-ai-safety-how-close-is-global-regulation-of-artificial-intelligence-really.md",
+      "title": "AI safety: How close is global regulation of artificial intelligence really?",
+      "excerpt": "The UK AI Safety Summit, combined with a G7 declaration and US executive order, shows action is happening on AI. Chris Stokel-Walker looks what happens next.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/future/article/20231107-why-global-regulation-of-artificial-intelligence-is-still-a-long-way-off",
+      "originalUrl": "https://www.bbc.com/future/article/20231107-why-global-regulation-of-artificial-intelligence-is-still-a-long-way-off",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0gr8j0h.jpg",
+          "width": 624,
+          "height": 351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-im-anxious-and-excited-about-this-bonkers-industry-changing-phone-chip.md",
       "title": "I’m anxious and excited about this bonkers, industry changing phone chip",
       "excerpt": "from everyday speed to games and the latest AI features. The thing is, it’s all rather untested out in the wild, and it could go either way. The Dimensity 9300 could be the first of a new generation of chips that transform mobile devices and a design ...",
@@ -876,7 +979,7 @@
       "originalUrl": "https://www.ibm.com/blog/ibm-and-microsoft-work-together-to-bring-maximo-application-suite-onto-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 271,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -928,7 +1031,7 @@
       "originalUrl": "https://www.indiatvnews.com/health/how-artificial-intelligence-can-predict-cardiac-arrest-2023-11-07-901637",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1090,21 +1193,21 @@
       ]
     },
     {
-      "path": "_news/2023-11-07-generative-ai-to-boost-productivity-in-financial-services.md",
-      "title": "Generative AI to boost productivity in financial services",
-      "excerpt": "Hype around generative AI and machine learning is continuing to buoy economic sentiment across Europe, with fewer than two-in-five financial services CEOs now expecting a severe downturn in the comin",
+      "path": "_news/2023-11-07-mediatek-dimensity-9300-flagship-mobile-chipset-debuts-with-four-cortex-x4-cpus-boosted-gpu-more.md",
+      "title": "MediaTek Dimensity 9300 Flagship Mobile Chipset Debuts With Four Cortex-X4 CPUs, Boosted GPU, More",
+      "excerpt": "Just weeks after Qualcomm launched the Snapdragon 8 Gen 3, MediaTek has announced Dimensity 9300 with some significant improvements over last year's Dimensity 9200. The new mobile platform packs a prime CPU core Cortex-X4 with a clock speed of 3.",
       "sourceUrl": null,
-      "webUrl": "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "originalUrl": "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services",
+      "webUrl": "https://www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467",
+      "originalUrl": "https://www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 80,
       "tags": null,
       "images": [
         {
-          "url": "https://www.consultancy.uk/illustrations/news/spotlight/2023-11-06-043615285-Generative_AI.jpg",
-          "width": 546,
-          "height": 312,
+          "url": "https://i.gadgets360cdn.com/large/dimensity_9300_mediatek_1699330250748.jpg",
+          "width": 1440,
+          "height": 740,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1112,13 +1215,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "cdnAmpWebUrl": "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "publishedDateTime": "2023-11-06T20:16:00-08:00",
+      "ampWebUrl": "https://www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467/amp",
+      "publishedDateTime": "2023-11-06T20:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Consultancy",
-        "domain": "consultancy.uk",
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1128,115 +1231,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace.md",
-      "title": "Finding the path toward success as organizations bring AI into the workplace",
-      "excerpt": "Bringing AI into the workplace involves a big change and companies that have an open feedback loop can better understand, and resolve, potential employee concerns. This loop helps to create transparency, which will lead to employee trust, Janzer said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
-      "originalUrl": "https://www.zdnet.com/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
-      "publishedDateTime": "2023-11-06T18:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
+        "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-endpoint-security-getting-a-boost-from-ai-and-machine-learning.md",
-      "title": "Endpoint security getting a boost from AI and machine learning",
-      "excerpt": "Endpoints overloaded with too many agents are just as unsecure as those that don’t have any. AI and machine learning (ML) are urgently needed in endpoint protection to identify the weakest endpoints, update their patches and harden detection and response beyond what’s available today.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/",
-      "originalUrl": "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_algorithms_and_coding_solving_IT_security_problems._real_ba97e63d-f73a-4233-aa8f-87408e12299f.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T16:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
       ]
     }
   ],

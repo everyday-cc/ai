@@ -150,6 +150,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-09-embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan.md",
+      "title": "Embracing artificial intelligence: How AI could be a powerful tool in northern Michigan",
+      "excerpt": "In today's world, artificial intelligence is no longer science fiction; it's a powerful tool and it's transforming everything.",
+      "sourceUrl": null,
+      "webUrl": "https://wwmt.com/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
+      "originalUrl": "https://wwmt.com/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wwmt.com/resources/media/09f9de02-c702-415a-bdd2-62d7441594cb-medium16x9_thumb_6280.png",
+          "width": 648,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wwmt.com/amp/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
+      "cdnAmpWebUrl": "https://wwmt-com.cdn.ampproject.org/c/s/wwmt.com/amp/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
+      "publishedDateTime": "2023-11-08T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wwmt",
+        "domain": "wwmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-new-ibm-study-explores-the-changing-role-of-leadership-as-businesses-in-europe-embrace-generative-ai.md",
       "title": "New IBM Study Explores the Changing Role of Leadership as Businesses in Europe Embrace Generative AI",
       "excerpt": "IBM launches new European study of 1600+ senior leaders and C-level executives to explore how leadership is changing in the age of AI82% of",
@@ -210,7 +253,7 @@
       "originalUrl": "https://www.earth.com/news/ai-robots-marketing-and-the-power-of-persuasion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1392,49 +1435,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-uk-officials-are-using-ai-to-make-decisions-on-benefits.md",
-      "title": "UK officials are using AI to make decisions on benefits",
-      "excerpt": "‘There is a lack of consistency and transparency in the way that AI is being used in the public sector,’ said Marion Oswald, a professor in law at Northumbria University and a former member of the government’s advisory board on data ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4",
-      "originalUrl": "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/10/GettyImages-1199003735.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/",
-      "publishedDateTime": "2023-10-23T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

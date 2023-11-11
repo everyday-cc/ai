@@ -24,49 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Behold ‘Grok,’ Elon Musk’s AI chatbot with a ‘rebellious’ streak"
-    excerpt: "Brace yourselves. Jokes incoming. Elon Musk has announced the introduction of “Grok,” an artificially intelligent chatbot, for some users of X, which the billionaire suggests has a sarcastic sense of humor similar to his own."
-    publishedDateTime: 2023-11-06T12:27:00Z
-    webUrl: "https://www.cnn.com/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-twitter/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-twitter/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-twitter/index.html"
+  - title: "Elon Musk’s new AI model doesn’t shy from questions about cocaine and orgies"
+    excerpt: "Elon Musk announced xAI's launch of an early beta version of \"Grok,\" an AI language model similar to ChatGPT that is designed to respond to user queries with a mix of information and humor. Grok reportedly integrates real-time data access from X (formerly Twitter)—and is apparently willing to tackle inquiries that might be declined by other AI systems due to content filters and conditioning."
+    publishedDateTime: 2023-11-06T15:05:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/11/elon-musks-new-ai-model-doesnt-shy-from-questions-about-cocaine-and-orgies/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/11/elon-musks-new-ai-model-doesnt-shy-from-questions-about-cocaine-and-orgies/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/elon-musks-new-ai-model-doesnt-shy-from-questions-about-cocaine-and-orgies/amp/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
     images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230126152953-nightcap-012623-clip-1-16x9-nb.jpg?c=16x9&q=w_800,c_fill"
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/11/grok_tin_robot_hero_1-800x450.jpg"
         width: 800
         height: 450
         isCached: true
-  - title: "Elon Musk Announces Grok, a ‘Rebellious’ AI With Few Guardrails"
-    excerpt: "AI, Elon Musk’s new company, claims to have built a powerful language model with cutting-edge performance in just two months."
-    publishedDateTime: 2023-11-06T16:24:00Z
-    webUrl: "https://www.wired.com/story/elon-musk-announces-grok-a-rebellious-ai-without-guardrails/"
+  - title: "Sunak clashes with Elon Musk as X boss says AI means we won’t need to work"
+    excerpt: "He said some AI robots will “know you better than you know yourself ... Mr Sunak said: “Before you start mandating for things and legislating for things … it is important that regulation is empirically based.” The agreement with AI companies ..."
+    publishedDateTime: 2023-11-07T08:48:00Z
+    webUrl: "https://www.independent.co.uk/news/uk/politics/rishi-sunak-elon-musk-ai-b2440764.html?page=1"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: The Independent
+      domain: independent.co.uk
+    quality: 37
     images:
-      - url: "https://media.wired.com/photos/6548fb02d5bc3d09424c3db3/191:100/w_1280,c_limit/musk-biz-grok-GettyImages-1768682028-(1).jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Elon Musk Announces Grok, a ‘Rebellious’ AI Without Guardrails"
-    excerpt: "AI, Elon Musk’s new company, claims to have built a powerful language model with cutting-edge performance in just two months."
-    publishedDateTime: 2023-11-06T16:24:00Z
-    webUrl: "https://www.wired.com/story/elon-musk-announces-grok-a-rebellious-ai-without-guardrails/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/6548fb02d5bc3d09424c3db3/191:100/w_1280,c_limit/musk-biz-grok-GettyImages-1768682028-(1).jpg"
-        width: 1280
-        height: 670
+      - url: "https://static.independent.co.uk/2023/11/02/21/newFile-1.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 899
         isCached: true
 
 secured: "x3Bcj6GFhMIwqHJhQPVM/gzkAaDcUnQCAEJF4Qq4zLHYXnGybS64zU/CnUy4YFgOXQRhoQ/Uev+IKgDXVHm4dZqYxowdzmSXE7lI6gwKdbZUfWVfzJkeLQTmFVWAqOejM0StUpCYI0GWr3UqtguG6wVDt2s4boWloz8qGMCDRYQ80jNgHYFN69VnN3elpG2rQHCnI2X/a54mzACUzKCTnHB0W/wZyoNlE/X9bAssgFjkRu6JrGqQUMaymy2+7o4SxuqwhBWtXc2FLdv9mCAHjfmVxnvtmyX1Xw5MFCeS1M73umJj4iireXGCNsUnR4gDhhUGU8uv4fBT9uDUuXZXycq8+iguPoycOb0vx0P/vrI=;poAtkBAXDFjh9tnPyQsKig=="

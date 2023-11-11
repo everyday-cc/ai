@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "3 AI Stocks Poised to Power the Next Industrial Revolution"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is transforming the world as we know it. From"
+    publishedDateTime: 2023-11-07T00:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-poised-to-power-the-next-industrial-revolution-1032784136"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Who Will Write The Rules For AI? How Nations Are Racing To Regulate Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) is a label that can cover a huge range of activities related to machines undertaking tasks with or without human interv"
     publishedDateTime: 2023-11-08T05:23:00Z
@@ -113,20 +122,6 @@ related:
       - url: "https://d1pe6f90ru47yo.cloudfront.net/wp-content/uploads/2023/11/10083544/pie-image-860x375.jpeg"
         width: 860
         height: 375
-        isCached: true
-  - title: "The Future of Augmented Reality (AR) in 2024: Applications and Innovations"
-    excerpt: "The world of technology is constantly evolving, and one of the most exciting developments on the horizon is the future of Augmented Reality (AR) in 2024. AR has come a long way since its inception, and it’s poised to revolutionize various industries with its innovative applications."
-    publishedDateTime: 2023-11-06T11:54:00Z
-    webUrl: "https://techbullion.com/the-future-of-augmented-reality-ar-in-2024-applications-and-innovations/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 22
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Untitled-design-23.png"
-        width: 800
-        height: 400
         isCached: true
 
 secured: "TydoBpHTu+tDyUA7nctFgU7rEgD+OZhkze1R346PAS5t9uhkXWrSrf9eHxeCBlY5XlL4rEkbPMKnLfsgVfmKetmCyYLNa/GsUE3B2kVxiPD5Rc7SCWe0hPhu2tT0r/DyFwrB2P+otkthLF4yj8NnhTeUrCZ+/uHv8N8A3SfGrku/HgJlb9uPuFeAlAHbZjn9JUw5UFlsZasM/ZjUS/nDyzTbVY2qHCQXg+DyhV8nRYswjq9PQCy9yEw6QDFngA9zzksLUfcMhojFcpuCNKbYttKhEXp/P5H9VFekUPSHGaDp4Zv0zOmcKJ5edI18UQSl5VWwPPPCPPuYqJJrAHDmFYmm24ECq6VIVZ4WlP8G4+c=;cOT/Ma1LuEGiwvS3TAUsKg=="

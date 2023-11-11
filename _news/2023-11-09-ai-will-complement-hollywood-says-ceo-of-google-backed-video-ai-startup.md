@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Hollywood actors union board approves strike-ending deal as leaders tout money gains and AI rights"
+    excerpt: "Screen Actors Guild-American Federation of Television and Radio Artists Executive Director Duncan Crabtree-Ireland announced at an afternoon news conference that it was approved with 86% of the vote."
+    publishedDateTime: 2023-11-11T03:40:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/ct-aud-ent-hollywood-union-approves-deal-20231111-d2qkiqibv5epfbeacciaypvqza-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 23
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Agbir3SclyFxw408sK5SyEEgkAU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/ENVCFUN2VDJXXUEFNEDF6ZUAV4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "q4ggqDyYe69NE0Hs+GjKSz3sc6Xxg2H4yrFibk2Odk5Pe8qVReO/GSGFH/scxGADN/Q7kmMQDGeuN74lirlil06AZV16wBkb11ZQp+uLydCBU8oIb/GS0qJHVua2WdaOzkJxSocqS8Bd/myIKUNFcawHnI1V3wNyluWCkOgytmzeqb0rP0003ok0pGxciAbYPoY8YJsp3JXUj7aNP6w48O1QQ+ZDrFGzcOgengpcW1GbmgsucUiuevBfpFZe2Abrw3/3w/O+KQyDCQzV3up3Lo8Aq/GxS+IU4p/NqqUsdEGlllDSdwbtdYAvvgZr4Wy8NrloKiaOMKjHAQQeGm6OvJn5t4MfssiPeQBriv9dCORJcSijYMND1u58g7TqKxyMLlaE6SOOY5ULHfExm9xyFoFJXTJSK5XNxjbYfNDI9wPgWRQ710sprYdJbzPI/0hLySj764cRkOLlPUXv8XbPIizCGek27oqpGYUgP0aoBtxYs3s0joB8kWKMVnDkm0bL+nIj/i961N7ojbUW1xBJpA==;fwrdgYvwyBf6CjDFgP73uQ=="
 ---

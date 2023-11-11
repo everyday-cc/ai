@@ -25,45 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "The Real Threat Of AI Is Untrammeled Corporate Power"
-    excerpt: "Here is the risk in a nutshell: new digital technologies allow a few corporations to gain huge amounts of power by exploiting changes in how we live our lives."
-    publishedDateTime: 2023-11-06T11:55:00Z
-    webUrl: "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/"
-    ampWebUrl: "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/"
+  - title: "Balancing the risks and rewards of AI will be key"
+    excerpt: "Letters: Readers on the artificial intelligence summit in London and Elon Musk’s comments about the impact of AI on all our lives"
+    publishedDateTime: 2023-11-06T16:45:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6548dcfb4388268e51cdb4a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 662
+      - url: "https://i.guim.co.uk/img/media/dc758b4f15353dff8f0e24f228d75e679ac61968/0_172_7940_4764/master/7940.jpg?width=620&quality=85&auto=format&fit=max&s=8dd9f99fdc4bed0aec9203bb86e97647"
+        width: 620
+        height: 372
         isCached: true
-  - title: "With the power of AI, you can be mediocre, too"
-    excerpt: "The heady, futuristic world of artificial intelligence brings us a new promise: The ability to be perfectly average."
-    publishedDateTime: 2023-11-09T15:00:00Z
-    webUrl: "https://techcrunch.com/2023/11/09/meh-ai/"
+  - title: "Sense of shared humanity and dialogue will be the essential in the age of Artificial Intelligence"
+    excerpt: "He was previously Dean, International and Corporate Affairs and Dean, School of Computer Science and Engineering, Bennett University and Director, NVIDIA-BU Research Center on Artificial Intelligence. He has also served as Head, Computer Science at Thapar ..."
+    publishedDateTime: 2023-11-08T15:40:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/sense-of-shared-humanity-and-dialogue-will-be-the-essential-in-the-age-of-artificial-intelligence/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 46
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1474442258.jpg?resize=1200,675"
-        width: 1200
-        height: 675
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
+        width: 414
+        height: 364
         isCached: true
-  - title: "These Top Companies are Transforming Real Estate with the Help of AI"
-    excerpt: "Artificial intelligence (AI) is quickly transforming just about every industry, including real estate. In fact, “AI has enormous potential to reshape real estate, with near- and long-term impacts ranging from the emergence of new markets and asset"
-    publishedDateTime: 2023-11-08T14:15:00Z
-    webUrl: "https://www.baystreet.ca/articles/stockstowatch/92254/These-Top-Companies-are-Transforming-Real-Estate-with-the-Help-of-AI"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 19
 
 secured: "MSj9JVP+6pCPvEHY5nToa1MqeCIKb5czmNDXUzGPsIS12Z09QkDE17NGAuWBBD4DcWS45wGKgE75jshIhpzJX2XWpYyoYuZh/RqhIG6rRRnKgjgL1G32BADOPLf+zMa3Zt6T12WFe2SqrFY7gUDTp1Mto1FbIJYdTQw3RJQ8xQxDVE4R5hb7jns/L/Q0LUttsSzMOKqM3bUhsD8pQoe0w2qknKCnmBBhlqjX8fawiVytx7jc0oE9Go4Mg8M7CHCPhin51dy14KP5YK1pzJAUupWHO7tWAHDfDe1uWfhazn5irf8wXS1VYTbq3bOAhK0dCNWzT+2OajuIuHEaJRdAwVSHYHmj8s0nHRVWhjjsxmI=;4hilyswqrdGktsbyscFDnQ=="
 ---

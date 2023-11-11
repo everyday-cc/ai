@@ -2,6 +2,156 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-11-07-generative-ai-to-boost-productivity-in-financial-services.md",
+      "title": "Generative AI to boost productivity in financial services",
+      "excerpt": "Hype around generative AI and machine learning is continuing to buoy economic sentiment across Europe, with fewer than two-in-five financial services CEOs now expecting a severe downturn in the comin",
+      "sourceUrl": null,
+      "webUrl": "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services",
+      "originalUrl": "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.consultancy.uk/illustrations/news/spotlight/2023-11-06-043615285-Generative_AI.jpg",
+          "width": 546,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
+      "cdnAmpWebUrl": "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
+      "publishedDateTime": "2023-11-06T20:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Consultancy",
+        "domain": "consultancy.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace.md",
+      "title": "Finding the path toward success as organizations bring AI into the workplace",
+      "excerpt": "Bringing AI into the workplace involves a big change and companies that have an open feedback loop can better understand, and resolve, potential employee concerns. This loop helps to create transparency, which will lead to employee trust, Janzer said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
+      "originalUrl": "https://www.zdnet.com/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
+      "publishedDateTime": "2023-11-06T18:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-endpoint-security-getting-a-boost-from-ai-and-machine-learning.md",
+      "title": "Endpoint security getting a boost from AI and machine learning",
+      "excerpt": "Endpoints overloaded with too many agents are just as unsecure as those that don’t have any. AI and machine learning (ML) are urgently needed in endpoint protection to identify the weakest endpoints, update their patches and harden detection and response beyond what’s available today.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/",
+      "originalUrl": "https://venturebeat.com/security/endpoint-security-getting-a-boost-from-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_algorithms_and_coding_solving_IT_security_problems._real_ba97e63d-f73a-4233-aa8f-87408e12299f.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T16:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
       "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
       "excerpt": "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs.",
@@ -166,7 +316,7 @@
       "originalUrl": "https://gizmodo.com/ai-live-forever-replicant-hanson-robotics-hereafter-1850990617",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -503,6 +653,57 @@
       ]
     },
     {
+      "path": "_news/2023-11-07-balancing-the-risks-and-rewards-of-ai-will-be-key.md",
+      "title": "Balancing the risks and rewards of AI will be key",
+      "excerpt": "Letters: Readers on the artificial intelligence summit in London and Elon Musk’s comments about the impact of AI on all our lives",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key",
+      "originalUrl": "https://www.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/dc758b4f15353dff8f0e24f228d75e679ac61968/0_172_7940_4764/master/7940.jpg?width=620&quality=85&auto=format&fit=max&s=8dd9f99fdc4bed0aec9203bb86e97647",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key",
+      "publishedDateTime": "2023-11-06T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-generative-ai-shouldnt-reduce-your-startups-marketing-headcount.md",
       "title": "Generative AI shouldn’t reduce your startup’s marketing headcount",
       "excerpt": "I spend most of my days talking to and working with chief marketing officers of startups and young companies, and several report rising tension in the C-suite over the potential of generative AI. Many CEOs think marketing headcount can be cut as automated ...",
@@ -605,6 +806,58 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-elon-musk-announces-grok-a-rebellious-ai-with-few-guardrails.md",
+      "title": "Elon Musk Announces Grok, a ‘Rebellious’ AI With Few Guardrails",
+      "excerpt": "AI, Elon Musk’s new company, claims to have built a powerful language model with cutting-edge performance in just two months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/elon-musk-announces-grok-a-rebellious-ai-without-guardrails/",
+      "originalUrl": "https://www.wired.com/story/elon-musk-announces-grok-a-rebellious-ai-without-guardrails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6548fb02d5bc3d09424c3db3/191:100/w_1280,c_limit/musk-biz-grok-GettyImages-1768682028-(1).jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -999,263 +1252,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-behold-grok-elon-musks-ai-chatbot-with-a-rebellious-streak.md",
-      "title": "Behold ‘Grok,’ Elon Musk’s AI chatbot with a ‘rebellious’ streak",
-      "excerpt": "Brace yourselves. Jokes incoming. Elon Musk has announced the introduction of “Grok,” an artificially intelligent chatbot, for some users of X, which the billionaire suggests has a sarcastic sense of humor similar to his own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-twitter/index.html",
-      "originalUrl": "https://www.cnn.com/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-twitter/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230126152953-nightcap-012623-clip-1-16x9-nb.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-twitter/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/11/06/tech/grok-elon-musk-ai-chatbot-x-twitter/index.html",
-      "publishedDateTime": "2023-11-06T04:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-the-only-thing-scarier-than-a-robot-driver-is-a-human-one-a-guide-to-av-success.md",
-      "title": "The Only Thing Scarier Than A Robot Driver Is A Human One: A Guide To AV Success",
-      "excerpt": "There are no Consumer Reports or user reviews to guide you yet, so you have to do your own homework or work with an expert. Talk to folks who have been down this road before, learn from their mistakes and soak up their knowledge like a sponge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/06/the-only-thing-scarier-than-a-robot-driver-is-a-human-one-a-guide-to-av-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/06/the-only-thing-scarier-than-a-robot-driver-is-a-human-one-a-guide-to-av-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65450506e012696dec4d97b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1413,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/06/the-only-thing-scarier-than-a-robot-driver-is-a-human-one-a-guide-to-av-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/06/the-only-thing-scarier-than-a-robot-driver-is-a-human-one-a-guide-to-av-success/amp/",
-      "publishedDateTime": "2023-11-06T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-this-ai-bot-fills-out-job-applications-for-you-while-you-sleep.md",
-      "title": "This AI Bot Fills Out Job Applications for You While You Sleep",
-      "excerpt": "AI-powered services like LazyApply zip through the grunt work of job applications, helping one programmer apply for 5,000 jobs. But they can make mistakes, and some recruiters scorn the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/this-ai-bot-fills-out-job-applications-for-you-while-you-sleep/",
-      "originalUrl": "https://www.wired.com/story/this-ai-bot-fills-out-job-applications-for-you-while-you-sleep/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6545939ac24c84815c6bbc35/191:100/w_1280,c_limit/AI-Bot-Job-Applications-Business-174410108.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-the-real-threat-of-ai-is-untrammeled-corporate-power.md",
-      "title": "The Real Threat Of AI Is Untrammeled Corporate Power",
-      "excerpt": "Here is the risk in a nutshell: new digital technologies allow a few corporations to gain huge amounts of power by exploiting changes in how we live our lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/",
-      "originalUrl": "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6548dcfb4388268e51cdb4a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/",
-      "publishedDateTime": "2023-11-06T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-astel-ventures-builds-ai-to-improve-startup-fundraising-and-build-1-billion-portfolio.md",
-      "title": "Astel Ventures builds AI to improve startup fundraising and build $1 billion portfolio",
-      "excerpt": "Astel's groundbreaking platform has been designed to streamline the fundraising process for CEOs, mitigating the age-old challenges of time-intensive pitches and pitching to local investors only. With Astel's AI-powered technology, a staggering 60% of the fundraising effort is automated, giving back invaluable time to CEOs.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/astel-ventures-builds-ai-to-improve-startup-fundraising-and-build-1-billion-portfolio-1032781176",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/astel-ventures-builds-ai-to-improve-startup-fundraising-and-build-1-billion-portfolio-1032781176",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/1121/1699257888975-0.png",
-          "width": 800,
-          "height": 332,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T03:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

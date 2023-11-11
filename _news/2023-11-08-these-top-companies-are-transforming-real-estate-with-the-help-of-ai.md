@@ -19,49 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "The Real Threat Of AI Is Untrammeled Corporate Power"
-    excerpt: "Here is the risk in a nutshell: new digital technologies allow a few corporations to gain huge amounts of power by exploiting changes in how we live our lives."
-    publishedDateTime: 2023-11-06T11:55:00Z
-    webUrl: "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/"
-    ampWebUrl: "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/"
+  - title: "These AI Companies Want to Bring You Back From the Dead"
+    excerpt: "There's a long list of companies that have sought to solve the problem of mortality, AI startups think they're well-positioned to succeed where others failed."
+    publishedDateTime: 2023-11-06T21:19:00Z
+    webUrl: "https://gizmodo.com/ai-live-forever-replicant-hanson-robotics-hereafter-1850990617"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6548dcfb4388268e51cdb4a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 662
-        isCached: true
-  - title: "With the power of AI, you can be mediocre, too"
-    excerpt: "The heady, futuristic world of artificial intelligence brings us a new promise: The ability to be perfectly average."
-    publishedDateTime: 2023-11-09T15:00:00Z
-    webUrl: "https://techcrunch.com/2023/11/09/meh-ai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1474442258.jpg?resize=1200,675"
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7ec4bb4ee7030b85f4ffad78d9bd1c7b.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "The ups and downs of leveraging AI in real estate"
-    excerpt: "\"AI technology is here to stay,” Hata said ... who is a member of the National Association of Realtors and who subscribes to its strict Code of Ethics. There's more ... Looking for more real estate stories? Read Embarcadero Media's latest Real Estate ..."
-    publishedDateTime: 2023-11-08T22:40:00Z
-    webUrl: "https://www.paloaltoonline.com/real_estate/2023/11/08/the-ups-and-downs-of-leveraging-ai-in-real-estate"
+  - title: "AI Could Supercharge These 2 Companies"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Hello, Reader. AI is an incredibly powerful – almost scary-powerful"
+    publishedDateTime: 2023-11-09T20:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-could-supercharge-these-2-companies-1032802435"
     type: article
     provider:
-      name: Palo Alto Weekly
-      domain: paloaltoonline.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://www.paloaltoonline.com/news/photos/2023/november/8/107059_col.jpg"
-        width: 2121
-        height: 1413
+      - url: "https://investorplace.com/wp-content/uploads/2023/06/picture1-1.png"
+        width: 1430
+        height: 804
         isCached: true
 
 secured: "E/E3mO9opEWAInSr7EvDWNbIvD0I3wECEHWcsZl3upEE+Xjrt99G+IMC547A4mZ11QSoFiNGGJ+rEypTGiqiclRkbPnRPwA7gqm47pcSiVs4+wgwm6o2Bnv3b5V1A6qBYjwmQ6MLT+8QcAL5egEV1lIiZQYUkoLe5l/VicN9mPvLJwR/DV8QIpUV7Xj/rHEwDaKRVYH9Wbyx6UCwZyr73NVEiHi+cs1j5QrsaR1WqrTjYO9XPgA1cTqrN/jzxBFjeItQMyVyV0xa5J+AM9CHooInnFjCoPvYC0c9RDf0KSt0wgjQGp62Eqd7zlIb4gnluiDdtpfgemiMzZHPtSuAnHkB/sv1rEy2pznXQIJQMcV0nWENXKMVPIghYhNcndodQefPOV6fvSGtToid4bPrAakYphd/HSHuksCGTl5JQaTYjiyTZZBPcElTvT1n6oiCAJ3dVt16bC+8o9ZoZpPg6FoTiII/ErteQXITVfBosq1+1zUJY1qsLZ0LB0kolihpIOJ96+fvSn+hE9IPlctDMw==;5fEr0g9uUPufwrdkyCHaLw=="

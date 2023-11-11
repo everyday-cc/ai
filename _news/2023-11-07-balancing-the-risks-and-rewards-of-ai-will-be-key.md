@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/nov/06/balancing-the-ris
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/06/balancing-the-risks-and-rewards-of-ai-will-be-key"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -45,6 +45,20 @@ related:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
         width: 414
         height: 364
+        isCached: true
+  - title: "The ups and downs of leveraging AI in real estate"
+    excerpt: "\"AI technology is here to stay,” Hata said ... who is a member of the National Association of Realtors and who subscribes to its strict Code of Ethics. There's more ... Looking for more real estate stories? Read Embarcadero Media's latest Real Estate ..."
+    publishedDateTime: 2023-11-08T22:40:00Z
+    webUrl: "https://www.paloaltoonline.com/real_estate/2023/11/08/the-ups-and-downs-of-leveraging-ai-in-real-estate"
+    type: article
+    provider:
+      name: Palo Alto Weekly
+      domain: paloaltoonline.com
+    quality: 39
+    images:
+      - url: "https://www.paloaltoonline.com/news/photos/2023/november/8/107059_col.jpg"
+        width: 2121
+        height: 1413
         isCached: true
 
 secured: "JX8B03oBn4EtzDP0rVQ1WZo2fF9iz+KKOP4j5JR7ySZLCWa7ne2IZqXXIAX0roh/39KVqDGnmqkBe/Li3+O1ig+u+rfYIYDyRQlw0DAKlUU+RMna+TonhI/htJ1NOm3QUOyI2pwTPWA9Qf7SBnKt/N15tdfUJWRF7hbTiB4TY66UvdYa0vrVm6FNHCJ3swn7ER7uEngNa7LPK1ISH1UQfwuxcNiCY7ul9xdfd+KyEOQSomz4JPrU5nrD+9aqSz1pVA7dvLVmKhyDuONwgaFRa8Z9Vdw98P7vQ3PeKmC1zsMF/rGUbER+sXUrlVGCa0YgEVaVOITg5qPkAWX0Z9/ea8ju8/hLU9x0rcY0uQhy9M3bf7A0OJvLTwc+ZSNb4CGDcrqHAvHm2IVq1PdNnhA6krPBWkuV3oErRh7QcF8NdXPIovJeYSvJFOh9UrUiPT9iUi8SnIEwJcEtvMaoilGC82YfpSfFbXrHqyH6pkHXrmBkJ8YgcpFYqok9Jd7udzv8wIcG3RnKFexnKEUanPAp3g==;/LRiKWbmpxQCvjNB7lm6Ig=="

@@ -43,15 +43,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 40
-  - title: "Artificial intelligence may help predict – possibly prevent – sudden cardiac death"
-    excerpt: "Predicting sudden cardiac death may be possible using artificial intelligence (AI) to analyze medical information in electronic health records, according to preliminary research conducted by researchers in France."
-    publishedDateTime: 2023-11-06T12:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1006508"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 13
 
 secured: "koOr90aQslAX8Mbh59ALkfqR69vkHyUcsFK/JKqN4hGbcBnnGZUQJXltoe/L3gvqTOT2AScqMzNBs2kke9+iU/wUlmRN4WtjJXcY34Lrqa97yn8VOqwG1GFsCmBoOU/GDc3ZN/kTBY7uM93PxpM1AJmdrxClZ2W5jpP/8SELh0ykEfxcWWce0Va4iv2UWetDTvHxiM8nraLeMklk9TDn/XpPG591jqGBDHIRahFaEPfewCJl0dONfdtd8578bMP8hIaxQ4B/WoFEikKnG21kKt1oFzL5RSYwocfcuOXKXcmZOq4oTJnLGYdPaBfv6lHuQM+ZGRfHuBHIVn5IVgciyKFDjIQrcOgKiZSPaJJQwN0NAvUY8ph/JIWF8Q46AKpmJgx2boRIouCazgPG4qz+lRmE3LRqEH60KbbbDkQngVeteuL0KlfnNf/4rMzlbCCbhlmEbR0vz7Uqku5tVijOdfDUyfGl+VM4a6brQlL7FoPURSKPyV3xzB3EhAkUKevyY9I8xiYtfhTbUlDH62QjSg==;MJ5MOWZLBe7W2RkBnuWfXA=="
 ---

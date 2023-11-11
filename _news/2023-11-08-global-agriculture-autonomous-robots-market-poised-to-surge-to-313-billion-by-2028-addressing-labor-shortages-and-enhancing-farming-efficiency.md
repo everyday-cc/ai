@@ -86,15 +86,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 11
-  - title: "Global Service Robotics Market Expected to Reach $187.33 Billion by 2030, Driven by Increasing Adoption Across Industries"
-    excerpt: "The global service robotics market is set for substantial growth, with an anticipated value of US$ 187.33 billion by 2030, according to this report."
-    publishedDateTime: 2023-11-06T11:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/06/9911561.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
   - title: "Voice Assistance Application Market: A Stratospheric Rise Anticipated with a Projected 18.5% Growth by 2032, Surpassing US$ 20.2 Billion"
     excerpt: "The voice assistance application market is expected to experience remarkable growth, with a projected 18.5% increase by the year 2032, reaching a substantial market value of US$ 20.2 billion. The United States is expected to have the highest market of US$ 7."
     publishedDateTime: 2023-11-09T06:44:00Z

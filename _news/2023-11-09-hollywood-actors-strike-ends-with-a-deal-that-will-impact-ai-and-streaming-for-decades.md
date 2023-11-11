@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/hollywood-actors-strike-ends-ai-stream
 webUrl: "https://www.wired.com/story/hollywood-actors-strike-ends-ai-streaming/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Wired
@@ -41,6 +41,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/kKCzcGsOK7IVNpHrxD7CZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDI-/https://media.zenfs.com/en/aol_yahoo_finance_433/4eb60416dec2cd59c0bf8365aea2b006"
         width: 1199
         height: 742
+        isCached: true
+  - title: "Hollywood actors union board approves strike-ending deal as leaders tout money gains and AI rights"
+    excerpt: "Screen Actors Guild-American Federation of Television and Radio Artists Executive Director Duncan Crabtree-Ireland announced at an afternoon news conference that it was approved with 86% of the vote."
+    publishedDateTime: 2023-11-11T03:40:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/ct-aud-ent-hollywood-union-approves-deal-20231111-d2qkiqibv5epfbeacciaypvqza-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 23
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Agbir3SclyFxw408sK5SyEEgkAU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/ENVCFUN2VDJXXUEFNEDF6ZUAV4.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "IN1rTLPJNv9SWovD16+Cixd027jW0VjeAPwkaeCTYPeuI3U7QjguJKbi62zPzmKCRxkELskbrO/G6kSjRXzwElGseeU4AzuojvTnvpxgCeXdr+8Y1OWOJ2DUml1CDhHqbfaNXsFslN4qB6cYU9CKM/y0jCj7j5gAevk9YdxerGorQYUR7U6wRmyJhXaMC+ZxlrwmvPe5zcrgaAVT5t8VgnirSSE8DIP9YQ1TNABeS5ydafBXEHAfmarMEnn9OA3RQ+L71puIj8vHDppzeLkxCOZusELdyMNxufhlRfsWT2jVMma01C+zLiLiyMTu3Tubyj/q6CGvj4PcFNXeCsMFVHbBa49km57GBFH3l1cCeSt82BgIr/jKWpuRaQlNGxNtVl4urZFxwhFOXpYAIX0meLGWiQ5t/Q7QDIfcl9HklYzqEaQNTx+KXBrlJjWzvEQ0GBlD2Uy+5O0m8CYaq0nKsSDVBdqOkRt18eJqQSmmWxvSI19e3whIDohlxLgvLZ0S9/VK1y0HBcrZnoY1TdChdQ==;6KAcFCBeneye1KOY2fJuQA=="

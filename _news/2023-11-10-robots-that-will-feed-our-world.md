@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/ie-originals/ie-explainer/seaso
 webUrl: "https://interestingengineering.com/ie-originals/ie-explainer/season-5/ep-18-robots-that-will-feed-our-world"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "The Humane Response to the Robots Taking Over Our World – TIME"
+    excerpt: "The coming upheaval from artificial intelligence is quite real. A study released this week finds that 80% of the US workforce will have at least 10% of their"
+    publishedDateTime: 2023-11-11T03:07:00Z
+    webUrl: "https://www.inferse.com/791768/the-humane-response-to-the-robots-taking-over-our-world-time/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-7074.png"
+        width: 1200
+        height: 1000
+        isCached: true
 
 secured: "1rL/EpJ5/eInM2t7hXtr41ql943qJtoZZgQwSsAE3b4vH/Q7dQtfZFuOqwOaINBbCNVHWlzyeIQpeLQoNxBrJug71XMn9lA2oUDp9wtsqjvzSSLThbYM+Ze1jTJqSUdtTN858P9O9CDG7iBuB4PCb+SGdWVz07up+LM5EY0u1F7T3FT99CLKEo0jH+mgODmtzEy4CGjkZ8sHJPscPzPOvto7u9W1EJXAzVTp3naakCg4hf1ftaUt/0EaWahLV1RK7vyvx9dI45c81O2wWPRBKXXwMCNvaIgpPoX/WyG8VA1QUVrl6xcmFupqWfj2N8WA99oHk2zJYHIbc19byTqaYNriAA40V0+3RDnMFuotaTQj9itOU1zmK6yB+C0CzkO2Viiws7wIWsbe6HAezxTvC8rSmOcOCmn3VtfZyFA92cOKj5VfyVqR5xNSnIeYPA/8y/op/4gx8/jp2pYCFr5OX9TdA84CgpHDFhLWMyzmWAw+cdmUb1nD+NEfZLqT635zwSIPuTGnTX9fnbzyxNBR0g==;NJAkgokIBMbjAxB3/1WOMg=="
 ---

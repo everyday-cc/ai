@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "xAI, Elon Musk's AI Startup, to Be Integrated With X; Will Be Available as Standalone App"
-    excerpt: "Elon Musk 's artificial intelligence startup xAI will be integrated into his social media platform X and also be available as a standalone app, he said on Sunday in a post. The billionaire also said xAI released its first AI model, a bot named Grok, after making it available to all X Premium+ subscribers on Friday."
-    publishedDateTime: 2023-11-06T12:05:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/xai-elon-musk-ai-startup-to-be-integrated-with-x-will-be-available-as-standalone-app-4550545"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/xai-elon-musk-ai-startup-to-be-integrated-with-x-will-be-available-as-standalone-app-4550545/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/xai-elon-musk-ai-startup-to-be-integrated-with-x-will-be-available-as-standalone-app-4550545/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 48
-    images:
-      - url: "https://i.gadgets360cdn.com/large/xai_elon_musk_ai_startup_twitter_1689182796531.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Sunak clashes with Elon Musk as X boss says AI means we won’t need to work"
     excerpt: "He said some AI robots will “know you better than you know yourself ... Mr Sunak said: “Before you start mandating for things and legislating for things … it is important that regulation is empirically based.” The agreement with AI companies ..."
     publishedDateTime: 2023-11-07T08:48:00Z
@@ -59,6 +43,20 @@ related:
       - url: "https://static.independent.co.uk/2023/11/02/21/newFile-1.jpg?quality=75&width=1200&auto=webp"
         width: 1200
         height: 899
+        isCached: true
+  - title: "Elon Musk announces Grok, an AI with a 'rebellious streak' that will answer spicy questions"
+    excerpt: "Elon Musk's AI startup xAI has announced its first AI model called Grok, inspired by Hitchhiker's Guide to the Galaxy. Like other AI language models, Grok will attempt to answer any question you throw at it with the bonus of suggesting what questions to ask."
+    publishedDateTime: 2023-11-07T03:32:00Z
+    webUrl: "https://www.tweaktown.com/news/94237/elon-musk-announces-grok-an-ai-with-rebellious-streak-that-will-answer-spicy-questions/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 27
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94237_01_elon-musk-announces-grok-an-ai-with-rebellious-streak-that-will-answer-spicy-questions_full.jpg"
+        width: 1500
+        height: 843
         isCached: true
 
 secured: "0iOPwdLC1L3AK4c3pu9FmZ6ezHLqfbotNaKHtuN6zYkLEcQJ1+U/NgF9JjUhM2/6plDvMdoNMz0Vctj4eML4/kFcRtlEVw/FBPPeJ/TUatgvi6yEaCeKN89xWpsLX4F+F12ml6cFpoK13ELDXrzPmbbl7yDcC79XKcneA1nWSY76PF00Sppez6K89DwvlhA1J6rSINiOOyYi3pF7TcxLAyCwh1uC1eU0PpmYjoU9eeiZ9mqgOB1HpTsBkfs0p5dZV61MoXcG5roSzn5HV9HixTHHlx/LBLJbEUhs0rJrDa7JfLnY3O6YAhAS7l64hKTbvLPC4ITu7YdznEjeOtzFjHYGFALPGJdQ4l8SRJ89fDM=;RJJI6nzBKlPKYmKjovikPQ=="

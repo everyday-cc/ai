@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Astel Ventures builds AI to improve startup fundraising and build $1 billion portfolio"
-    excerpt: "Astel's groundbreaking platform has been designed to streamline the fundraising process for CEOs, mitigating the age-old challenges of time-intensive pitches and pitching to local investors only. With Astel's AI-powered technology, a staggering 60% of the fundraising effort is automated, giving back invaluable time to CEOs."
-    publishedDateTime: 2023-11-06T11:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/astel-ventures-builds-ai-to-improve-startup-fundraising-and-build-1-billion-portfolio-1032781176"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/1121/1699257888975-0.png"
-        width: 800
-        height: 332
-        isCached: true
   - title: "Voice cloning AI startup ElevenLabs was worth $100 million five months ago. Now, sources say it's about to hit $1 billion."
     excerpt: "The New York and London-based startup, founded by Google and Palantir alumni, is in talks with both Andreessen Horowitz and Sequoia to raise its third round of 2023."
     publishedDateTime: 2023-11-08T17:34:00Z

@@ -43,20 +43,20 @@ related:
         height: 900
         isCached: true
   - title: "Google in talks to invest in AI startup Character.AI"
-    excerpt: "By Krystal Hu Alphabet's Google is in talks to invest hundreds of millions of dollars in Character.AI, as the fast growing artificial intelligence chatbot startup seeks capital to train models and keep up with user demand, two sources briefed on the matter ..."
-    publishedDateTime: 2023-11-11T02:32:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/google-in-talks-to-invest-in-ai-startup-character-ai/105137326"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/google-in-talks-to-invest-in-ai-startup-character-ai/105137326"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/google-in-talks-to-invest-in-ai-startup-character-ai/105137326"
+    excerpt: "The investment, which could be structured as convertible notes, according to a third source, will deepen the existing partnership Character.AI already has with Google, in which it uses Google's cloud services and Tensor Processing Units (TPUs) to train models."
+    publishedDateTime: 2023-11-11T04:44:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/articleshow/105139693.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/amp_articleshow/105139693.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/amp_articleshow/105139693.cms"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
+      name: Indiatimes
       domain: indiatimes.com
     quality: 57
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-105137326,imgsize-236374,width-1200,height=765,overlay-ettelecom/internet/google-in-talks-to-invest-in-ai-startup-character-ai.jpg"
-        width: 1200
-        height: 765
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211832,msid-105139706/what-googles-antitrust-trial-means-for-your-search-habits.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "China major force in responsible AI use, experts say"
     excerpt: "They made the remarks at the ongoing 2023 World Internet Conference Wuzhen Summit."
@@ -73,6 +73,6 @@ related:
         height: 682
         isCached: true
 
-secured: "7QfmqjTRtIo6iQl0nbFsgtpnkqBH/0sA9nVj3ZHF36QR4I3lTYyXZEoQXoBh4t1ic5XgrU0DiF8Zx/ujar9gyUBQrbUZSrorXD05rk4mhXKOtypW9l2BqIGQEqlqc5VofJnTzsbn2f1nP+YVmqBbfIcuYb/C6G+YyBXjSJEtXtpkOLe2lpTz9IFZEh6mvpMu5V9+kQI9Y3coeIGKcixJDlefO9NLSS1m5DcvBUpWgFyAb/2Crpl2A1FLqY1LQ1SWOjpMqzr7ONsYazMyhnaV50knFDSy6OvZFVtWxgbrvNbv1Mbuvmxiq/1jxDDCpGEw9H3ji5qmOUUOK3ZnjeJDvB4PfTiAZx+kVSzPozLakD8=;PG/hXFKdasX3Q4mwYexEgA=="
+secured: "0Lk+Ki7HLZa5iqqOH0DTm4x6fgW5uBnLwnb9OgYEtuGVrE4fxUbPB0YGRv41cN4jF3Vi6sGcQ/VP22wiUoTuU5BdEp20XPLmtEWzn8QtsQ4YMNgtMiwydQ/9cELLcE7CYu72wHRkeSpSBNxhib99nQrIDEaVR6ExI1De0g91ToskOmpd+QNBEnJQWhcRvgqZCkXAm4Ld7KTnz+16IOHrJXXkI9duGKQS8ampXXkbzfgS1ElECwAibXsl1PKQxgc53NK8nZH0kdLJcd91ythdjBNaRNBMHPNdjMVZ+0XLKwA1zC5fzmI5cYijI0GhX8Fe9kysDXQ4SfUsgIO9UtVU8CuovLxjzBFxM0sbPthyPanb+8Ex713aJXJhSECK7GUPtdnV9Qr7SXDvaD+pl9nl0JMuil2q9UgJxS2HXTFQvgnbMOwYtPLlsY7zEdJiD8C0TFZihYgn9aPJNjxQ8Ae9ECnC0QPuNG15tPzN6e2cX9nGzjVMGhGV56OCL4SxY139zeaVW1McOc8FPk+QoB9Vcg==;aCaVTf6EP+ItKV5h2FA2Kw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-for-sustain
 webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-for-sustainability-with-amazon-codewhisperer/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 936
     height: 582
     isCached: true
-
-related:
-  - title: "MongoDB and AWS Collaborate to Optimize Amazon CodeWhisperer Suggestions for Developers Building Applications on MongoDB"
-    excerpt: "Amazon CodeWhisperer now enables developers to accelerate application development and modernization on MongoDB using an AI-powered coding companion Cascadeo, gravity9, and Redapt among customers and partners excited to use Amazon CodeWhisperer with MongoDB"
-    publishedDateTime: 2023-11-06T12:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/06/9911540.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "c2tcWJO75iIrkmAsqdqExaT5ERfwpUo3bV5ySkaEq9qFAfqjjTtC2NVZ+jBhAzmC1qkhCHf0wKrdSk8MUBRRiLpKOaWVqsoFpGGoBCljDwncyEb6pLCkwrrd7Lb68QbvR7wpPwMHf+jY2Tjxlj0o4B4Nf1L5PRFuTWXxL3Sa1BOnkTxyIsOOiq81o4tbRJ5QntM7sh3tYdDSgK+DoPZIptPAU0EJOMnP0R+YdUctVZlkmyPqR3blHUNeo3itLixkQZMonUHTmyyb0WQjKmKXTbzBmgf/oiSgeC2vRXuSm6c/v6ftpJNq+s8l5USIVPFoyKQlY8sQ2o/J8mWJdiTU7FMykGCKQ9j1X6PgPBc4b1A=;zkLs5Md6ld4cyiyuSli/Lg=="
 ---

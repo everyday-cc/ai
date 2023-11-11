@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Google in talks to invest in AI startup Character.AI"
-excerpt: "By Krystal Hu Alphabet's Google is in talks to invest hundreds of millions of dollars in Character.AI, as the fast growing artificial intelligence chatbot startup seeks capital to train models and keep up with user demand, two sources briefed on the matter ..."
-publishedDateTime: 2023-11-11T02:32:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/internet/google-in-talks-to-invest-in-ai-startup-character-ai/105137326"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/google-in-talks-to-invest-in-ai-startup-character-ai/105137326"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/google-in-talks-to-invest-in-ai-startup-character-ai/105137326"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/google-in-talks-to-invest-in-ai-startup-character-ai/105137326"
+excerpt: "The investment, which could be structured as convertible notes, according to a third source, will deepen the existing partnership Character.AI already has with Google, in which it uses Google's cloud services and Tensor Processing Units (TPUs) to train models."
+publishedDateTime: 2023-11-11T04:44:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/articleshow/105139693.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/articleshow/105139693.cms"
+ampWebUrl: "https://m.economictimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/amp_articleshow/105139693.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-in-talks-to-invest-in-ai-startup-character-ai/amp_articleshow/105139693.cms"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: telecom.economictimes.indiatimes
+  name: Indiatimes
   domain: indiatimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-105137326,imgsize-236374,width-1200,height=765,overlay-ettelecom/internet/google-in-talks-to-invest-in-ai-startup-character-ai.jpg"
-    width: 1200
-    height: 765
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211832,msid-105139706/what-googles-antitrust-trial-means-for-your-search-habits.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -73,6 +73,6 @@ related:
         height: 682
         isCached: true
 
-secured: "N5A38y7PdsG779kH5PN24aCCj4y+LswZ13WU/MmzFlC73xtvrviSFJJAAv2vU3MZK64AUES+yD+mI56oV0otBTK3LWji/CHSIYyXS7Ae+7igcpjRLQeiYBr+0p0+Bn1mkY08JwIc597f7dfb5vEtMvobq1FOgE4ez9JyjC7UoMdJQVUJroflnOqFvbwmYF+uy6fIKGPFgbL1C4JRE1rFkCzMKUNUv6E/2MjA1WO/mRv4On/thUI6jDhhfD4IJwE3c4qWj9Ojqb8rI4KV3mHmhZ0L3CP/W9V+LEWiBhAixSOXf/lhe6TtiRUBzW+5Dhhu/Lxip2H0md4sf7YfMZr4wx5nFiSpO5t5/wuQDGkdyoU=;qQJ851ahue4Jbh7W/oxZEQ=="
+secured: "cAKrlsiHDeVVtbGfk21D2EuN339lXIIwwHBOrSyLHQ5MgWQuySuW6CkIewwadvDzKwH0agMqbps2vS+lqLidz1TlG7IgKHYXhK97q4JQtPQLRlPTOg/wP5N8RGTFAtjRBaGEUiO5BtzpL1PYVrzR0VBFaTgLIqC24/G+vRwxcGubHGfsjNRCojiVheQzOg659TUHxuWyAG6jjT+p/nnyMJwdStY1MHdipdD0GkXSHIxjrSuZqfm0oXbMlEIZ59UkG5pzi8ywphIpyIluFZEqKS1CCPVczKWc4DCbt6WM0nRW5FifLk33BdjArVlVxozuWE75/e8EQ4/+nwwOXBlF4Ocu8yAG14xy5fHxhFDfB4g=;or2E2B5aKmhFLuVMWBSfYA=="
 ---
 

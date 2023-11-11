@@ -39,6 +39,20 @@ related:
         width: 2500
         height: 1881
         isCached: true
+  - title: "With the power of AI, you can be mediocre, too"
+    excerpt: "The heady, futuristic world of artificial intelligence brings us a new promise: The ability to be perfectly average."
+    publishedDateTime: 2023-11-09T15:00:00Z
+    webUrl: "https://techcrunch.com/2023/11/09/meh-ai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1474442258.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "UllGUuGSmou1ZyNDHFXWbLIjA7+98bZtzRMDjJxyO+wm+lN5P5LmsjJktSdR0WOa4THTzKspZoRri7pbpEPvAi22TO1BK3tuMouANsWwrGt8X58VwsMlsLJmQbwHhqDTpz0se9+Se8c/9mfKUTVFYkXqN2DvVAQXgE95nyJFvJ2EtLdHGwikfl8pCbjTH70eqjCkndgDoN7/M9BmbGODAsgHVrWSU/uuiC6Cy3sLr0POYxPrcVVGWeW4zYImEPLG19WynqDoC++x+Y4xVcs1IjRGOL+4B9jEShaTVppk9o7RdN3L5NsWnC5kqwNkswQWX61T8bNueMru3fhTd0S2Z+aZ6NdFgresJkNlNEqyAIc=;4Hooj4yRg7t3ujj9xxcPVw=="
 ---

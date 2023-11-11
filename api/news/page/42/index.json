@@ -2,6 +2,248 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-10-11-openais-unreasonable-claims-exhaust-ai-ethics-researchers.md",
+      "title": "OpenAI's 'unreasonable claims' exhaust AI-ethics researchers",
+      "excerpt": "Ethics researchers are struggling to keep up with the generative-AI boom as critiquing existing tech hinders the creation of more-responsible AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10",
+      "originalUrl": "https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6525b95f55f52b01b35ba4e1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10?amp",
+      "publishedDateTime": "2023-10-11T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-flood-insurance-market-to-reach-500-billion-globally-by-2032-at-156-cagr-allied-market-research.md",
+      "title": "Flood Insurance Market to Reach $50.0 Billion, Globally, by 2032 at 15.6% CAGR: Allied Market Research",
+      "excerpt": "Allied Market Research published a report, titled, \"Flood Insurance Market by Coverage (Building Property Coverage and Personal",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/flood-insurance-market-to-reach-50-0-billion-globally-by-2032-at-15-6-cagr-allied-market-research-301953289.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/flood-insurance-market-to-reach-50-0-billion-globally-by-2032-at-15-6-cagr-allied-market-research-301953289.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential.md",
+      "title": "Bank Of America Identifies 6 Global AI Stocks As 'Hidden Gems' With Great Potential",
+      "excerpt": "Bank of America has highlighted five global stocks poised to profit as the application of artificial intelligence (AI) continues to burgeon. The bank projects significant growth potential for “end-device AI,” a deviation from the current server-based systems.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/ai_shutter_0.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-amd-acquires-ai-software-startup-nodai-to-enhance-its-open-source-ai-capabilities.md",
+      "title": "AMD acquires AI software startup Nod.AI to enhance its Open-Source AI Capabilities",
+      "excerpt": "Advanced Micro Devices (AMD) locked its second AI software acquisition deal to compete against Nvidia’s AI prowess. The company quired Nod.AI which develop AI solution to optimize compiler-based automation software for startups,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/10/11/amd-acquires-ai-software-startup-nod-ai-to-enhance-its-open-source-ai-capabilities/",
+      "originalUrl": "https://www.gizmochina.com/2023/10/11/amd-acquires-ai-software-startup-nod-ai-to-enhance-its-open-source-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/10/amd-logo-Large.jpeg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-most-people-the-support-need-for-trustworthy-and-regulated-ai.md",
+      "title": "Most people the support need for trustworthy and regulated AI",
+      "excerpt": "New research outlines the benefits and risks of AI - and shows how people in different coutries have varied perceptions on the impact of regulations and governance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/most-people-the-support-need-for-trustworthy-and-regulated-ai/",
+      "originalUrl": "https://www.zdnet.com/article/most-people-the-support-need-for-trustworthy-and-regulated-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0f6aba431df65b6a6eb161895e2195e0716909db/2023/10/10/159ce4b4-2b9d-4504-b3cf-eb36e51de45f/gettyimages-1167815724.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/most-people-the-support-need-for-trustworthy-and-regulated-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-people-the-support-need-for-trustworthy-and-regulated-ai/",
+      "publishedDateTime": "2023-10-11T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-china-may-have-access-to-powerful-ai-chips-because-of-partnership-with-saudi-arabia-claims-report.md",
       "title": "China may have access to powerful AI chips because of partnership with Saudi Arabia, claims report",
       "excerpt": "China may be skirting US-imposed tech sanctions through its partnership with Saudi Arabia. China has partnered up with Saudi Arabia to help them create a localised Artificial Intelligence and Machine",
@@ -936,219 +1178,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-gitex-global-dubai-ignites-start-up-innovation-in-ai.md",
-      "title": "GITEX Global: Dubai ignites start-up innovation in AI",
-      "excerpt": "Dubai is set to become the epicentre of the global artificial intelligence movement as it hosts the 43rd edition of GITEX Global, the",
-      "sourceUrl": null,
-      "webUrl": "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/",
-      "originalUrl": "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2023/10/Untitled-design51.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1",
-      "cdnAmpWebUrl": "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1",
-      "publishedDateTime": "2023-10-10T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ventureburn",
-        "domain": "ventureburn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-video-startup-captions-launches-new-ai-dubbing-app-lipdub-with-gen-z-slang.md",
-      "title": "Video startup Captions launches new AI dubbing app Lipdub with Gen Z slang",
-      "excerpt": "Lipdub seeks to present a competitive edge over an increasingly crowded field of AI dubbing and audio translation services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/video-startup-captions-launches-new-ai-dubbing-app-lipdub-with-gen-z-slang/",
-      "originalUrl": "https://venturebeat.com/ai/video-startup-captions-launches-new-ai-dubbing-app-lipdub-with-gen-z-slang/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_abstract_surreal_a_woman_opens_her_mouth_and_speaks_wit_9013efa9-a1cf-44a8-a700-46b487149a51-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-researchers-develop-age-prediction-model-for-human-brain-tissue-using-artificial-intelligence.md",
-      "title": "Researchers develop age prediction model for human brain tissue using artificial intelligence",
-      "excerpt": "The aging brain undergoes structural and cellular changes that can impact function and increase susceptibility to neurodegenerative disorders like Alzheimer's disease. Age acceleration—or the differences between biological and chronological age—in the brain can reveal insights about mechanisms and normal functions of one of the body's most important organs.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-first-to-d.jpg",
-          "width": 2030,
-          "height": 1259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.amp",
-      "publishedDateTime": "2023-10-10T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-the-best-walmart-anti-prime-day-deals-include-laptops-robot-vacuums-and-luggage.md",
-      "title": "The best Walmart anti-Prime Day deals include laptops, robot vacuums and luggage",
-      "excerpt": "The best anti-Prime-Day deals we're following at Walmart is the 15.6-inch HP laptop shown above. The Windows 11 device features an Intel Pentium N200 processor, 4GB of RAM and 128 GB of storage. Regularly $249,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-deals-at-the-walmart-holiday-kick-off-sale/?ftag=",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-deals-at-the-walmart-holiday-kick-off-sale/?ftag=",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/10/e1d48de4-9b42-4649-b3a6-506e2b91cc83/thumbnail/1200x630/3b6a272312cd4baf581cf3f30cb5fe19/walmart-holiday-kickoff-sale.jpg?v=4fae59acf57b6bb1efa9da07582ebc40",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-georgia-state-receives-10-million-artificial-intelligence-research-grant.md",
-      "title": "Georgia State receives $10 million artificial intelligence research grant",
-      "excerpt": "Jonathan Shihao Ji, a computer science professor at Georgia State University, has received a $10 million grant from the Department of Defense to address critical problems in artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.albanyherald.com/news/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_da39c0c6-67a8-11ee-a6be-031c478965b6.html",
-      "originalUrl": "https://www.albanyherald.com/news/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_da39c0c6-67a8-11ee-a6be-031c478965b6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Albany Herald",
-        "domain": "albanyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

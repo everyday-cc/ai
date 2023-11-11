@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-24-why-c3ai-rallied-today.md",
+      "title": "Why C3.ai Rallied Today",
+      "excerpt": "C3.ai was also named as an \"AI solution to watch\" by a leading tech research organization. There were likely two reasons for today's gains. The most material may be investors buying the recent dip ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/08/23/why-c3ai-rallied-today/",
+      "originalUrl": "https://www.fool.com/investing/2023/08/23/why-c3ai-rallied-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-meta-releases-ai-model-for-translating-speech-between-dozens-of-languages.md",
       "title": "Meta releases AI model for translating speech between dozens of languages",
       "excerpt": "Facebook parent company Meta Platforms on Tuesday released an AI model capable of translating and transcribing speech in dozens of languages, a potential building-block for tools enabling real-time communication across language divides.",
@@ -1369,58 +1412,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-how-ai-may-be-used-to-create-custom-disinformation-ahead-of-2024.md",
-      "title": "How AI May Be Used to Create Custom Disinformation Ahead of 2024",
-      "excerpt": "Generative AI won't just flood the internet with more lies—it may also create convincing disinformation that's targeted at groups or even individuals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/generative-ai-custom-disinformation/",
-      "originalUrl": "https://www.wired.com/story/generative-ai-custom-disinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64c83a397bdca8cda5f9f36b/191:100/w_1280,c_limit/head_reflection_ai_disinfo_sec_GettyImages-1250060818.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

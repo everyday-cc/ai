@@ -39,20 +39,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Machine learning paves the way for precision medicine in UTI treatments"
-    excerpt: "In a recent study published in npj Antimicrobials and Resistance, researchers developed and validated interpretable machine learning (ML) algorithms that predict antibiotic resistance in complicated urinary tract infections (UTIs), enhancing clinical decision-making and promoting personalized treatments."
-    publishedDateTime: 2023-11-06T11:25:00Z
-    webUrl: "https://www.news-medical.net/news/20231106/Machine-learning-paves-the-way-for-precision-medicine-in-UTI-treatments.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_763635_16992696751247715.jpg"
-        width: 2000
-        height: 1075
-        isCached: true
 
 secured: "iatfgjLI3nPLI4PBgvGq/OnZJKM2uRwj1cmgzboYciuHMc0T9Xy6ndR2U08K4MVWv9DEHZT/nS1jrjPcVGUg3Sj1OGemAWFiClGAXY1B6UZdZNxqSPAscf/2XVwXRcbjFXLWNIrubUDG2+KF/7eYaP9Iy+TdX/C1wgLAk2vmjo/35B6YrqFOOIOKqgijCIuxJ86kW1vsxvFm4UViSJnFkPeqoskCXXj3GB5eYGYxWpuPy9dywAaE8cYLTIFQz+UJaY3GUT2avDpHn+Am1iYWGXMJj35jqGmptx7mql6gy5NgcqKA6NZuFGZNspMHPrFJsmJbgBp0Aj72N/2zj/w6w/w64N0WIqXAzXziu6YBTjs=;Enu/CR+KaUe9ZIN16EL8RQ=="
 ---

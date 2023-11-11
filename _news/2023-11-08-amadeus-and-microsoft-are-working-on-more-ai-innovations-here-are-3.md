@@ -174,15 +174,6 @@ related:
       name: technologyrecord.com
       domain: technologyrecord.com
     quality: 36
-  - title: "Trimble Introduces AI-Powered Capability to Automatic Invoicing Functionality with Microsoft Azure"
-    excerpt: "Automatic Invoicing is available within Trimble's ERP solutions, Viewpoint Spectrum® and Viewpoint Vista™. To learn more about how Automatic Invoicing can save your organization both time and accuracy, visit https://www.viewpoint.com/ ."
-    publishedDateTime: 2023-11-06T11:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/06/9911562.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
   - title: "How AI is helping to shrink waiting times for NHS cancer patients – Microsoft"
     excerpt: "The National Health Service at Addenbrooke’s Hospital in Cambridge is now able to plan radiotherapy treatments faster than in the past, thanks to AI advances that are cutting wait times. As the NHS approaches its 75 th birthday,"
     publishedDateTime: 2023-11-08T16:02:00Z

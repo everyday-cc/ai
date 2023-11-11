@@ -28,45 +28,34 @@ images:
     isCached: true
 
 related:
-  - title: "The Real Threat Of AI Is Untrammeled Corporate Power"
-    excerpt: "Here is the risk in a nutshell: new digital technologies allow a few corporations to gain huge amounts of power by exploiting changes in how we live our lives."
-    publishedDateTime: 2023-11-06T11:55:00Z
-    webUrl: "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/"
-    ampWebUrl: "https://www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lbsbusinessstrategyreview/2023/11/06/the-real-threat-of-ai-is-untrammeled-corporate-power/amp/"
+  - title: "AI robots, marketing, and the power of persuasion"
+    excerpt: "Associate Professor Mark Yi-Cheon Yim engages with a companion unlike any other. On his desk sits a charming AI robot dog, a Sony aibo."
+    publishedDateTime: 2023-11-08T00:03:00Z
+    webUrl: "https://www.earth.com/news/ai-robots-marketing-and-the-power-of-persuasion/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: earth
+      domain: earth.com
+    quality: 73
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6548dcfb4388268e51cdb4a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 662
+      - url: "https://cff2.earth.com/uploads/2023/11/07165122/AI-robot_cashier_store_1medium.jpg"
+        width: 2500
+        height: 1881
         isCached: true
-  - title: "The ups and downs of leveraging AI in real estate"
-    excerpt: "\"AI technology is here to stay,” Hata said ... who is a member of the National Association of Realtors and who subscribes to its strict Code of Ethics. There's more ... Looking for more real estate stories? Read Embarcadero Media's latest Real Estate ..."
-    publishedDateTime: 2023-11-08T22:40:00Z
-    webUrl: "https://www.paloaltoonline.com/real_estate/2023/11/08/the-ups-and-downs-of-leveraging-ai-in-real-estate"
+  - title: "Xbox and Inworld AI to bring the power of artificial intelligence to game developers"
+    excerpt: "Xbox and Inworld AI have partnered to develop artificial intelligence-powered tools for game creators. As part of the multi-year partnership, the firms will develop an AI design copilot to assist game designers with creative ideas,"
+    publishedDateTime: 2023-11-07T12:18:00Z
+    webUrl: "https://www.technologyrecord.com/article/xbox-and-inworld-ai-to-bring-the-power-of-artificial-intelligence-to-game-developers"
     type: article
     provider:
-      name: Palo Alto Weekly
-      domain: paloaltoonline.com
-    quality: 39
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 47
     images:
-      - url: "https://www.paloaltoonline.com/news/photos/2023/november/8/107059_col.jpg"
-        width: 2121
-        height: 1413
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4705/gaming_975x548.jpg"
+        width: 975
+        height: 548
         isCached: true
-  - title: "These Top Companies are Transforming Real Estate with the Help of AI"
-    excerpt: "Artificial intelligence (AI) is quickly transforming just about every industry, including real estate. In fact, “AI has enormous potential to reshape real estate, with near- and long-term impacts ranging from the emergence of new markets and asset"
-    publishedDateTime: 2023-11-08T14:15:00Z
-    webUrl: "https://www.baystreet.ca/articles/stockstowatch/92254/These-Top-Companies-are-Transforming-Real-Estate-with-the-Help-of-AI"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 19
 
 secured: "pi5+IWWLuuCffrbPtxwAcc2AUH9Elj8z5YoxysymiPsWYaVEYOzfYxZer0chRLR1JBR9kYuG0LxLTiQEZBsZpdS67u+tPLcsI1xCL1Lw8/6f3cMlnGJnA9BytVo0IYA68CtLefRNxJ+eIfeG83WPmgWPzNGAYXALMG52th+UG8d8rYubzjFtyQNQoSYpOUi2hmL5W+oahuxpbLVix6GAPszMItIkRr8kGAHcM35360ZTcdNH+knOMtpIzsQ8fAVgHNOwV79ML+oDZHCWHkNm4AUAJFBEB960nA/zeH+4xcXDVGW5w38GEzGhkLUFDowFPDCKvtZ2T1A6Mra66Xu/in86MpZX/hUVIUzZG6FQ7uk=;guAgjo0ZwgA7DNSfF0OK7A=="
 ---

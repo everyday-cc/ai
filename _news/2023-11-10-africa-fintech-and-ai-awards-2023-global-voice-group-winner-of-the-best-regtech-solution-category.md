@@ -66,22 +66,6 @@ related:
         width: 1024
         height: 724
         isCached: true
-  - title: "Provenir Named Winner of 'Data Initiative of the Year' in the 2023 US Fintech Awards"
-    excerpt: "The company's AI-Powered Risk Decisioning platform continues to garner industry accolades for excellence in driving success for financial institutions in 50 countries worldwide Provenir, a global lead"
-    publishedDateTime: 2023-11-06T13:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35619754/provenir-named-winner-of-data-initiative-of-the-year-in-the-2023-us-fintech-awards"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35619754"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35619754"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "3 Southeast Asian Startups Make World’s Top 100 Fintech Firms List"
     excerpt: "Three fintech startups from Southeast Asia have been named among the world’s largest and most successful financial technology companies, recognized for their scale, growth and ingenuity."
     publishedDateTime: 2023-11-07T03:30:00Z
@@ -204,20 +188,6 @@ related:
       - url: "https://financialit.net/sites/default/files/provenir_41.png"
         width: 1366
         height: 768
-        isCached: true
-  - title: "Millennials led the consumer fintech revolution post-2008. Here’s why Gen Zers are about to do the same"
-    excerpt: "It was in the wake of the Global Financial Crisis that the first meaningful cohort of iconic consumer (and B2B2C) fintech companies were created: Block, Chime, Coinbase, Nubank, Robinhood, Stripe, and Venmo (which was acquired by PayPal). The convergence of three seismic events caused this explosion of companies:"
-    publishedDateTime: 2023-11-06T11:10:00Z
-    webUrl: "https://www.aol.com/millennials-led-consumer-fintech-revolution-121012819.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 8
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/dEA7OW.0B2vh3hHvc7MjoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://media.zenfs.com/en/aol_fortune_385/3056806b53653b26afaa3ba420769f0a"
-        width: 1200
-        height: 802
         isCached: true
   - title: "Adaptation and Growth: The Road Ahead for the FinTech Sector"
     excerpt: "The number of open banking users worldwide is expected to grow at an average annual rate of nearly 50 percent between 2020 and 2024, meaning it will rise from 12.2 million to 63.8 million over this period. The value of global open banking transactions reached  57 billion U.S. dollars in 2023."
