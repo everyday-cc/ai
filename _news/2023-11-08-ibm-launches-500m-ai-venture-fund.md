@@ -143,15 +143,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "IBM launches $500M fund to develop generative AI for enterprise"
-    excerpt: "IBM’s primarily focused on enterprise-level solutions for its generative AI products such as its Watson X platform and numerous cloud offerings. According to Rob Thomas, a senior vice president at IBM, generative AI technologies will be a driving force ..."
-    publishedDateTime: 2023-11-07T19:32:00Z
-    webUrl: "https://cointelegraph.com/news/ibm-launches-500-million-fund-develop-generative-ai-enterprise"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
 
 secured: "fi12GwKEDz3QMKqI6nmHa6Hx4vAsNK9wUD+HyC1CuI/K/KTFirBS7DnaIS42jpRqbW2WHalN8gvwRc6N8en8ODJQXh+e87tGuN6Qj1xWKwF0LBce2UFYBS/ItGMBniwuVmqQqOLilYDinC1iOzemjpg0yCRmFbC8PraBKCjKfp5+u5lA8p1nb0yrikKk5PhIByHKnWZDDBWceV25niXtH+q1sWRwYkhVap0nVfUSxjf6D0nIrDc4g2lQnkQ6SFMA54DblFBtxnL84fyOPDErgw53P9E/x63B9PCQtkYuO6/2pzUZwFG87BFFF0gxHx6YXYHaAcuSWru/7/IdPHAie0Rrj529YGGx4mY7lUvlqWE=;tngFV9LGH2NtJ0Ppj0A2gw=="
 ---

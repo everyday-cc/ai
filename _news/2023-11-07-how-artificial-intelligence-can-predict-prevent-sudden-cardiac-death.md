@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/health/how-artificial-intelligence-c
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/health/how-artificial-intelligence-can-predict-cardiac-arrest-2023-11-07-901637"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence may help predict—possibly prevent—sudden cardiac death"
-    excerpt: "Predicting sudden cardiac death, and perhaps even addressing a person's risk to prevent future death, may be possible through artificial intelligence (AI) and could offer a new move toward prevention and global health strategies,"
-    publishedDateTime: 2023-11-06T10:59:00Z
-    webUrl: "https://medicalxpress.com/news/2023-11-artificial-intelligence-predictpossibly-preventsudden-cardiac.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-11-artificial-intelligence-predictpossibly-preventsudden-cardiac.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-11-artificial-intelligence-predictpossibly-preventsudden-cardiac.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/cardiac-1.jpg"
-        width: 1920
-        height: 752
-        isCached: true
   - title: "Artificial intelligence may help predict -- possibly prevent -- sudden cardiac death"
     excerpt: "Predicting sudden cardiac death may be possible using artificial intelligence (AI) to analyze medical information in electronic health records, according to preliminary research. Researchers analyzed electronic health records from 25,"
     publishedDateTime: 2023-11-09T02:10:00Z

@@ -59,6 +59,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Industrial robot at vegetable packing plant in South Korea crushed worker to death"
+    excerpt: "Police say initial information indicated that human error may have been the root cause of the incident over the machine itself."
+    publishedDateTime: 2023-11-11T01:09:00Z
+    webUrl: "https://www.wsbtv.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/"
+    ampWebUrl: "https://www.wsbtv.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/?outputType=amp"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 53
+    images:
+      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/kCJmZW3kloT40uv2CB2CsqOCvGQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/LJZRCMADDFD2PBXAG76JXSK3BU.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Industrial robot crushes worker to death as he checks whether it was working properly"
     excerpt: "Authorities say he was he was grabbed and pressed against a conveyor belt by the machine's robotic arms in a vegetable packing plant."
     publishedDateTime: 2023-11-09T09:28:00Z
@@ -143,6 +159,6 @@ related:
       domain: manufacturing.net
     quality: 13
 
-secured: "IY7Q5vnTyuS+iINBXfpfZTT1pSavvAAKLv6MmMFTZn3NuY1Gi5y041RjPex8JNOHihe/U6+gHdAW3rwE5CA2AtlKCrE6ELPI6xDR58ts0FxyIvPFy1/NHx7Z47gEGgCkJ7I6PpxbCYSUopcJlMjjGlswqEnGb/MdUOfWqcEeLfpZbYB2/PC/mVMoBVdsC5CiBWUUSZ+FYdkHQ6c4xxKhYsfQsJGZlAQSnDRoz8kfH8IP65csG29GX0HIf8/23j41D5gL3Z9J2A9B1C1PubRHkaEv2wfZsO+5byB8WzcfUHVB/ETDez703E+BWpm50Hu0O59iFOViJ5jjWuLSamB/2dxJUjYUQKreyS79a+gdU50=;TZjJCHBKGk4PQJxaOg3YBQ=="
+secured: "8pCk6QeN36/ooFDbWtvQ6ZFOm13HfPyvnl8Qs7EyySjjocdFFH5u5nPopN1NrBsT6M7z7+IP3WWRXp2dpGIKAmDNVQ4pYwodtjrG6UjLXOD2ZjuqCyagj6G9EKFmd5m+DASIcXP7Qm15JF8Aj5wCJOaK8Y/Yj7U/8haVxpfDImNBFpUaeXS8FBZ0bfJPu7dttaMXYtqrc9JaLvACGEG8S5JdT5vP/jO8KLdnWREtsOkpOALTx0PzeoSJc/x/ZxtIsjHXXC5LtD4VatpP7byv9yaJz0cg2GnqS2Fyy1apEBipDYFo5dbrF6v7gHJ7dDrUnrFJ+28cwC/eN33bRB3HFGvRaV9jFdHH3/kG8crQkXNG21ktqKZDXstXnqknhmtd4WdmSmLqLStzi8SerXBioYYRUhVsSvvJ0w/I0ycVMrfrXe8R2ongXSf+pCyIQSiVNtGkWJfCUNfYwLW56zdy/W4rx2+XwvU0Wsy8h3vt7pPbEWcc1aHaYBiou1ipme5lCMW9WaT/9Fgn3lx6WMGaVg==;BvyOK/TbpFpGIa8X1CXFjw=="
 ---
 

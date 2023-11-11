@@ -81,6 +81,20 @@ related:
         width: 4160
         height: 2340
         isCached: true
+  - title: "Unveiling the Pulse of AI in Language Services: SAFE-AI Task Force Launches Pivotal Perception Survey"
+    excerpt: "Global discussions underscore the urgency of a collaborative approach towards navigating the frontier AI landscape. The Perception Survey by the SAFE-AI Task Force aligns with this international momentum, aiming to foster a comprehensive dialogue around AI ethics and safety in the domain of language interpretation."
+    publishedDateTime: 2023-11-08T18:24:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274026386/unveiling-the-pulse-of-ai-in-language-services-safe-ai-task-force-launches-pivotal-perception-survey"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 26
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1699242668411.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "Wd8+riSSrArQLwX4iy52qQhCkwkRZ87EvvwKsP188WaiNMFD91Zw9/rI2Kpkywsk6ScbeRTsmLFxOv/8+Ql9V5na7yF5urMjUmsVv3GjuDV7Whp2N57QHWRYxxEh7TTTnsoM6iHp/4QItP9V6PAJY0BV/H6ImVJvGT1lkB1FEfOPPeeAVeatKDwf0+1BCDMkZjvtu+Y3v1VPm2tPJ/D7VONgdjZ9QQY3+uL47lMwDqtSppbya9AvlYlGSwOFlEq2Q0kAaXMJU8hKjoGBp5w8GguOAndZKUqahU+rKYQsRZnAC6y0Itquo6lQHgUZZOEPBoG9Tht3oUbxwNRQ+OejlsKk3D6hRwTJ62W2N5eS3Qg13TAuR2NTnXTBlgI0YvQKhAn5JQPrRdSPYE/6DhQsYBJUgzLrlYFhyWHohMlXr/4gkk3mPDLiqIJrNk6vRhj/s0WAXp+cNMrNWqqWzPEBUIyjglE5+3NqpdmWTQ/ONaq+tojJu4TDHdz03RvtjFMM0uFbQJTROyf09CZKwCu6bg==;G/f1oPzssluYeM5xASHxbg=="
 ---

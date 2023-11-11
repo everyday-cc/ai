@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/industrial-robot-cru
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/9OM67j3HWsHYJAOpreq3WD4--nY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/4IN4KYGYTZF2ZK3POZ6MUYD3OU.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Industrial robot at vegetable packing plant in South Korea crushed worker to death"
+    excerpt: "Police say initial information indicated that human error may have been the root cause of the incident over the machine itself."
+    publishedDateTime: 2023-11-11T01:09:00Z
+    webUrl: "https://www.wsbtv.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/"
+    ampWebUrl: "https://www.wsbtv.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/industrial-robot-vegetable-packing-plant-south-korea-crushed-worker-death/KJ4I6YH7I5GVBLEJLH2SOIO6ZA/?outputType=amp"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 53
+    images:
+      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/kCJmZW3kloT40uv2CB2CsqOCvGQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/LJZRCMADDFD2PBXAG76JXSK3BU.jpg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Industrial robot crushes worker to death as he checks whether it was working properly"
     excerpt: "Authorities say he was he was grabbed and pressed against a conveyor belt by the machine's robotic arms in a vegetable packing plant."

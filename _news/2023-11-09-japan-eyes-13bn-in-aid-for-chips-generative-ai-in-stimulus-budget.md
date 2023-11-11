@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/cms/Business/Technology/Japan-eyes-13bn-in
 webUrl: "https://asia.nikkei.com/cms/Business/Technology/Japan-eyes-13bn-in-aid-for-chips-generative-AI-in-stimulus-budget"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Watchful bridges generative AI transparency gap"
-    excerpt: "Generative AI services like ChatGPT have demonstrated an impressive ability to generate text with human-level realism. But they also have a propensity to hallucinate and gloss over uncertainty in their responses."
-    publishedDateTime: 2023-11-09T16:00:00Z
-    webUrl: "https://diginomica.com/watchful-bridges-generative-ai-transparency-gap"
-    ampWebUrl: "https://diginomica.com/watchful-bridges-generative-ai-transparency-gap?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/watchful-bridges-generative-ai-transparency-gap?amp"
+  - title: "Japan To Spend $13 Bn To Boost Domestic Chip Production"
+    excerpt: "Japan's government said on Friday that it plans to spend 2 trillion yen ($13 billion) to boost domestic production of strategically important semiconductors and generative AI technology."
+    publishedDateTime: 2023-11-10T13:04:00Z
+    webUrl: "https://www.barrons.com/news/japan-to-spend-13-bn-to-boost-domestic-chip-production-2bebd392"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2016-12/man-facing-gap.jpg"
-        width: 1277
-        height: 843
-        isCached: true
+      name: Barron's
+      domain: barrons.com
+    quality: 19
 
 secured: "rbytYzPJR0Z7OGaair6EsrNz8HEk096FhdiC/ZPasEQ0j+Y19c6EFiaeS0xdHu9uHxey354o5jfNNbETn09v4Srz1b5uGPVZ8AnEQIcgECv+G5YEPw07cyowwDDzovd/v9cRHCDurPynkzcbrSJbRMsa1tsn9dMMgghjFkeR0sURrj5T9EV5SbTwzIWs8Ys38rm+yy0xIJf8an8PK/xymR499szU+sVY/VMTzBdI6AIZw3BdZr/4Qomitft7+B8TVVwOTlWKVPV5V0DUmnHi66HoJIpKKDDO9kTUcPJ1ANqRRtsbezes92iEKXvdojpVyt3WFMNfr3ecs/lI6y7CMJ1kYz0xMeJIgej2BSQrW6U=;bbo+TiBVu8aqYNKZGpZggQ=="
 ---

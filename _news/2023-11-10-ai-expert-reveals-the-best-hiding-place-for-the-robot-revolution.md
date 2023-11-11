@@ -79,24 +79,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "My North Star for the Future of AI"
-    excerpt: "I’d seen the consequences of that over and over: brilliant technologists who could build just about anything but who stared blankly when the question of the ethics of their work was broached. The time has come to reevaluate the way AI is taught at every ..."
-    publishedDateTime: 2023-11-07T13:24:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/11/ai-ethics-academia/675913/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 49
-  - title: "The Future of AI, Jobs, and Automation"
-    excerpt: "The Future of AI, Jobs, and Automation. We've entered a period of dramatic innovation in AI and automation and it's going to have a significant impact on the futur"
-    publishedDateTime: 2023-11-08T20:46:00Z
-    webUrl: "https://www.zdnet.com/collection/the-future-of-ai-jobs-and-automation/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
   - title: "Who Will Write The Rules For AI? How Nations Are Racing To Regulate Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) is a label that can cover a huge range of activities related to machines undertaking tasks with or without human interv"
     publishedDateTime: 2023-11-08T05:23:00Z

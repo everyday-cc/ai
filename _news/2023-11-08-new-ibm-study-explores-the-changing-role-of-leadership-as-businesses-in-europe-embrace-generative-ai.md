@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/new-ibm-study-expl
 webUrl: "https://markets.businessinsider.com/news/stocks/new-ibm-study-explores-the-changing-role-of-leadership-as-businesses-in-europe-embrace-generative-ai-1032792831"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Most European finance leaders believe Generative AI will greatly boost productivity and alter..."
-    excerpt: "Finance - Leaders across Europe’s financial services sector expect Generative Artificial Intelligence (GenAI) technologies to deliver a windfall to productivity,"
-    publishedDateTime: 2023-11-07T11:49:00Z
-    webUrl: "https://business-review.eu/money/finance/most-european-finance-leaders-believe-generative-ai-will-greatly-boost-productivity-and-alter-jobs-yet-many-companies-lack-workforce-upskilling-strategies-253644"
-    type: article
-    provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 43
-    images:
-      - url: "https://business-review.eu/wp-content/uploads/2023/11/Andrei-Ratiu-EY-Romania.jpg"
-        width: 1773
-        height: 1182
-        isCached: true
   - title: "Europe's top experts discuss future of AI in Brussels"
     excerpt: "International Artificial Intelligence Summit in the heart of the EU seeks to find answers to many of the questions around global AI regulatory cooperation, and what it will mean in practice."
     publishedDateTime: 2023-11-08T18:31:00Z

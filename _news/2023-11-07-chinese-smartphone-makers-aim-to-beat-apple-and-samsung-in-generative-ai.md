@@ -29,190 +29,85 @@ images:
     isCached: true
 
 related:
-  - title: "4 ways to empower small and medium businesses with generative AI"
-    excerpt: "By providing powerful, capable generative AI solutions, enterprises can meet the specific needs of their SMB clients to help them succeed.\nThe post 4 ways to empower small and medium businesses with generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-11-06T10:00:00Z
-    webUrl: "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-businesses-with-generative-ai/"
+  - title: "Ant Receives Chinese Government Nod to Roll Out AI Services"
+    excerpt: "Ant Group received approval from the Chinese government to roll out products powered by its large language model Bailing to the public."
+    publishedDateTime: 2023-11-06T20:31:00Z
+    webUrl: "https://time.com/6332071/ant-ai-services-bailing/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Building for the future: The enterprise generative AI application lifecycle with Azure AI"
-    excerpt: "The enterprise development process requires collaboration, diligent evaluation, risk management, and scaled deployment. By providing a robust suite of capabilities supporting these challenges, Azure AI affords a clear and efficient path to generating value in your products for your customers.\nThe post"
-    publishedDateTime: 2023-11-06T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/building-for-the-future-the-enterprise-generative-ai-application-lifecycle-with-azure-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 95
+      name: Time
+      domain: time.com
+    quality: 69
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/11/Enterprise-Lifecycle.png"
-        width: 800
-        height: 448
+      - url: "https://api.time.com/wp-content/uploads/2020/11/AP20301184742771.jpg?quality=85"
+        width: 6000
+        height: 4001
         isCached: true
-  - title: "Transforming small farming with open-source, AI-powered connected edge solutions"
-    excerpt: "Edge computing is helping to revolutionize agriculture, and the Linux Foundation is at the forefront of this transformation.\nThe post Transforming small farming with open-source, AI-powered connected edge solutions appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-11-09T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/transforming-small-farming-with-open-source-ai-powered-connected-edge-solutions/"
+  - title: "Chinese AI unicorn’s 34B LLM outperforms larger Llama 2 and Falcon models"
+    excerpt: "Kai-Fu Lee's 01.AI offers the Yi series of models, which is open for academic research and free commercial usage."
+    publishedDateTime: 2023-11-07T00:35:00Z
+    webUrl: "https://venturebeat.com/ai/chinese-ai-unicorns-34b-llm-outperforms-larger-llama-2-and-falcon-models/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 94
-  - title: "How Small Business Entrepreneurs Can Level Up With AI"
-    excerpt: "As technology advances, those outside of the tech industry, including small business owners (SMB’s), are often left behind and competitively disadvantaged."
-    publishedDateTime: 2023-11-10T00:04:00Z
-    webUrl: "https://www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 68
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/654d7074b221d68fc89a6075/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 834
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-06-12.29.53-Visualize-a-small-glowing-robot-standing-triumphantly-atop-a-dark-hill-under-the-night-sky.-This-robot-is-radiating-light-with-its-arms-raised-in-a-.png?w=1200&strip=all"
+        width: 1199
+        height: 685
         isCached: true
-  - title: "Google Expands Generative AI in Search to Over 120 New Countries"
-    excerpt: "Initially, this AI-powered translation capability will be available for English-to-Spanish translations in the United States, with plans to support more countries and languages. Lastly, on relevant searches related to coding and health, specific words will ..."
-    publishedDateTime: 2023-11-09T08:54:00Z
-    webUrl: "https://www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/"
-    ampWebUrl: "https://www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/amp/"
+  - title: "NVIDIA to launch 3 new AI chips for Chinese market"
+    excerpt: "NVIDIA is said to be preparing the launch of three new chips specifically for the Chinese market, as reported by local media"
+    publishedDateTime: 2023-11-09T09:56:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/nvidia-to-introduce-3-new-ai-chips-in-china/story"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 54
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/10/google-io-ai-search-645bf18b5f597-sej-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.cdn.newsbytesapp.com/images/l63220231109150702.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "How to Leverage Generative Artificial Intelligence in Customer Service"
-    excerpt: "One way for businesses to leverage generative AI to improve the customer experience is to upgrade their call center technology with AI-driven solutions. This includes implementing intelligent bots to directly handle certain aspects of the customer experience while enhancing others."
-    publishedDateTime: 2023-11-06T22:30:00Z
-    webUrl: "https://biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service"
-    ampWebUrl: "https://biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/11/how-leverage-generative-artificial-intelligence-customer-service?amp"
+  - title: "Alibaba's Ant Group Gets Chinese Govt Approval To Release AI Products"
+    excerpt: "Ant Group, the fintech affiliate of Chinese conglomerate Alibaba Group, has received approval from the Chinese government to offer"
+    publishedDateTime: 2023-11-06T15:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-s-ant-group-gets-chinese-govt-approval-to-release-ai-products-1032782312"
     type: article
     provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 57
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202311/GettyImages-1473086732.jpg?itok=owGHTh-q"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "6 ways business leaders are exploring generative AI at work"
-    excerpt: "But he expects to see rapid progress in the level of automation -- and he advises all professionals to start exploring generative AI. \"I think the speed at which it's come to market and is developing means that everybody should be keeping an eye on it,\" he ..."
-    publishedDateTime: 2023-11-08T20:27:00Z
-    webUrl: "https://www.zdnet.com/article/6-ways-business-leaders-are-exploring-generative-ai-at-work/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "President Xi Jinping tells Chinese internet conference he seeks keen eye on AI and regard for cyber sovereignty"
+    excerpt: "Chinese President Xi Jinping has called for the “proper handling” of challenges posed by technology innovation, including “conflicts of rules, social risks and ethics”, as well as the safe development of AI in a video speech delivered on Wednesday."
+    publishedDateTime: 2023-11-08T06:47:00Z
+    webUrl: "https://www.scmp.com/news/china/politics/article/3240748/president-xi-jinping-tells-chinese-internet-conference-he-seeks-keen-eye-ai-and-regard-cyber"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: scmp.com
+      domain: scmp.com
     quality: 49
-  - title: "Google’s AI-Powered Search Generative Experience Expands to Over 120 New Countries and Territories"
-    excerpt: "SGE is also getting support for four new languages and a few new upgrades and features that make the AI-powered search tool more interactive."
-    publishedDateTime: 2023-11-09T10:31:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/google-ai-search-generative-experience-sge-labs-120-countries-rollout-4560461"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/google-ai-search-generative-experience-sge-labs-120-countries-rollout-4560461/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-ai-search-generative-experience-sge-labs-120-countries-rollout-4560461/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 45
     images:
-      - url: "https://i.gadgets360cdn.com/large/Blog_hero_hVttB6nwidth-1600_1_1699523922212.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Six champions of generative AI innovation"
-    excerpt: "Damien Riehl has helped to develop innovative AI-driven technology aimed at three disparate professional groups, in quick succession: musicians; intellectual property litigants; and lawyers."
-    publishedDateTime: 2023-11-08T02:01:00Z
-    webUrl: "https://www.ft.com/content/0138bbd5-4266-48a2-a81f-c04549fa4f00"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 41
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F045a52eb-a8ce-436d-8d55-b51e7780855a.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "There’s more to AI than generative AI"
-    excerpt: "It is typically used for deciphering complex data, such as image, text, audio, and/or video recognition, or for other complex ... as to what is the next most probable term or object to follow in building a sentence, constructing an image or extracting ..."
-    publishedDateTime: 2023-11-09T16:30:00Z
-    webUrl: "https://siliconangle.com/2023/11/09/theres-ai-generative-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/twoaibrains.jpeg"
-        width: 1023
-        height: 823
-        isCached: true
-  - title: "FactoryTalk Design Studio accelerates with generative AI"
-    excerpt: "Rockwell Automation’s Adam Gregory discussed early successes in developing an AI copilot for FactoryTalk Design Studio"
-    publishedDateTime: 2023-11-10T01:35:00Z
-    webUrl: "https://www.controlglobal.com/sponsored-content/article/33014746/factorytalk-design-studio-accelerates-with-generative-ai"
-    type: article
-    provider:
-      name: Control Global
-      domain: controlglobal.com
-    quality: 39
-    images:
-      - url: "https://img.controlglobal.com/files/base/ebm/controlglobal/image/2023/11/adam_gregory_____rockwell.654d873fe9354.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/11/08/c238e178-6cf6-4dc6-987f-c1259475b804_b38bcb82.jpg?itok=98DUHj-X&v=1699426047"
         width: 1200
         height: 630
         isCached: true
-  - title: "Rockwell Combines Generative AI and Industrial Automation"
-    excerpt: "The reliance on text bases in modern software development means Rockwell Automation can capitalize on generative AI's ability to read, produce and generate text."
-    publishedDateTime: 2023-11-09T20:25:00Z
-    webUrl: "https://www.healthcareinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
+  - title: "Gen AI’s promise to improve engagement with government services"
+    excerpt: "The ability to provide a conversational approach to search and virtual agents, whether in English or other languages ... The generative AI tool would facilitate direct translation in each instance. “Looking at it from the perspective of the citizen ..."
+    publishedDateTime: 2023-11-08T20:30:00Z
+    webUrl: "https://fedscoop.com/video/generative-ai-promise-to-improve-engagement-with-government-services/"
     type: article
     provider:
-      name: healthcareinfosecurity.com
-      domain: healthcareinfosecurity.com
+      name: FedScoop
+      domain: fedscoop.com
     quality: 39
     images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/rockwell-combines-generative-ai-industrial-automation-showcase_image-3-a-23564.jpg"
-        width: 860
-        height: 520
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2023/11/Rana-Microsite.png"
+        width: 3841
+        height: 2161
         isCached: true
-  - title: "How Generative AI Will Transform Knowledge Work"
-    excerpt: "Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine."
-    publishedDateTime: 2023-11-07T13:05:00Z
-    webUrl: "https://hbr.org/2023/11/how-generative-ai-will-transform-knowledge-work"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_18_1456521984.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "MicroStrategy ONE™ Platform Now Available in AWS Marketplace, Empowering Businesses with AI-Driven Business Intelligence"
-    excerpt: "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS), customers can now access a ready solution for deploying ..."
-    publishedDateTime: 2023-11-07T19:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231107452958/en/MicroStrategy-ONE™-Platform-Now-Available-in-AWS-Marketplace-Empowering-Businesses-with-AI-Driven-Business-Intelligence"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
 
 secured: "TzT7xm6VinArnbjfIbmMk3Q8kT84bCVensxal7x725HjQQ14H7WYZSvIKSrWV46T3B5FeQj+4gGBl+YkUDgn39He9yABfkF+eA5pch+Glnsbh/czvJK3mXDm6xwdOcOXUNiLjKTZEhZ+xIJBbP4h5lm73Q8KZyed8gtdvlajPU4JSDLhTkBhoPqDpcvo49j2e6FyLvDY7ubRsNgcd4iT/2fkSLw5o7u4KXJIlCJjMQPvGzOjxyaYI6Fryg3TUD7G85Z73oCE7iyrM4LlGcYmOKg1R4YURDQj1kz3wgjIbMRtTaRvhyjORdsZW/ujpxsfEFb398akC5RjiROOJmlH292NYKn4FuMFAL0fHU6EATAKxxTRzHPvUV2BlKV8zyBzkpB7cgCqo39qRlicbge3j3DbZBQ7O3fDhuopwuW/6idwwA0FnL3AKIVgqnBh+146G/id6HVS0s31JtQEQ/uM0xhyBOCBlCgYTSUEKv/zAHkwzdgMwRzmPdwMRkuoxEWZyF2ut35toeqi5p3Ly+SAMw==;On0pO1FqphaMy6Ht6OyTRQ=="
 ---

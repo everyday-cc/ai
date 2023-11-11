@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/building-for-the-future-the
 webUrl: "https://azure.microsoft.com/en-us/blog/building-for-the-future-the-enterprise-generative-ai-application-lifecycle-with-azure-ai/"
 type: article
 quality: 95
-heat: -1
-published: false
+heat: 215
+published: true
 
 provider:
   name: Microsoft
@@ -29,69 +29,44 @@ images:
     isCached: true
 
 related:
-  - title: "4 ways to empower small and medium businesses with generative AI"
-    excerpt: "By providing powerful, capable generative AI solutions, enterprises can meet the specific needs of their SMB clients to help them succeed.\nThe post 4 ways to empower small and medium businesses with generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-11-06T10:00:00Z
-    webUrl: "https://www.ibm.com/blog/4-ways-to-empower-small-and-medium-businesses-with-generative-ai/"
+  - title: "Build trust and safety for generative AI applications with Amazon Comprehend and LangChain"
+    excerpt: "We are witnessing a rapid increase in the adoption of large language models (LLM) that power generative AI applications across industries. LLMs are capable of a variety of tasks, such as generating creative content, answering inquiries via chatbots, generating code, and more. Organizations looking to"
+    publishedDateTime: 2023-11-10T20:39:56Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Transforming small farming with open-source, AI-powered connected edge solutions"
-    excerpt: "Edge computing is helping to revolutionize agriculture, and the Linux Foundation is at the forefront of this transformation.\nThe post Transforming small farming with open-source, AI-powered connected edge solutions appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-11-09T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/transforming-small-farming-with-open-source-ai-powered-connected-edge-solutions/"
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+  - title: "How AI and automated scheduling will transform the meeting lifecycle"
+    excerpt: "With access to the right information at the right time, AI will optimize every meeting, delivering on its true value."
+    publishedDateTime: 2023-11-08T21:40:00Z
+    webUrl: "https://venturebeat.com/automation/how-ai-and-automated-scheduling-will-transform-the-meeting-lifecycle/?trk=public_post_comment-text"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 94
-  - title: "How Small Business Entrepreneurs Can Level Up With AI"
-    excerpt: "As technology advances, those outside of the tech industry, including small business owners (SMB’s), are often left behind and competitively disadvantaged."
-    publishedDateTime: 2023-11-10T00:04:00Z
-    webUrl: "https://www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/654d7074b221d68fc89a6075/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 834
-        isCached: true
-  - title: "Chinese Smartphone Makers Aim To Beat Apple And Samsung In Generative AI"
-    excerpt: "Chinese phone makers, on the other hand, are adopting a different mindset. The likes of Xiaomi, Oppo, Vivo, and Huawei want to “squeeze” generative AI into their newest devices faster than Apple and Samsung because they see it as a chance to turn the tables on their rivals in the highly competitive smartphone market."
-    publishedDateTime: 2023-11-07T03:35:00Z
-    webUrl: "https://www.forbes.com/sites/ninaxiang/2023/11/06/chinese-smartphone-makers-aim-to-beat-apple-and-samsung-in-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65445a963c54432cb0323b93/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
-        isCached: true
-  - title: "Google Expands Generative AI in Search to Over 120 New Countries"
-    excerpt: "Initially, this AI-powered translation capability will be available for English-to-Spanish translations in the United States, with plans to support more countries and languages. Lastly, on relevant searches related to coding and health, specific words will ..."
-    publishedDateTime: 2023-11-09T08:54:00Z
-    webUrl: "https://www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/"
-    ampWebUrl: "https://www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/11/09/google-generative-ai-search-expansion/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/10/google-io-ai-search-645bf18b5f597-sej-1200x630.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_205902735.jpeg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 693
+        isCached: true
+  - title: "Samsung jumps on the generative AI bandwagon with Gauss"
+    excerpt: "Named for a German mathematician, Gauss AI technology — including a large language model (LLM), coding capabilities, and art generation features — could debut on upcoming Samsung devices."
+    publishedDateTime: 2023-11-08T16:14:00Z
+    webUrl: "https://www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.html"
+    ampWebUrl: "https://www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3710248/samsung-jumps-on-the-generative-ai-bandwagon-with-gauss.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 61
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/04/04/14/enviar_imessage_android-100939355-large.jpg?auto=webp&quality=85,70"
+        width: 1199
+        height: 674
         isCached: true
   - title: "How to Leverage Generative Artificial Intelligence in Customer Service"
     excerpt: "One way for businesses to leverage generative AI to improve the customer experience is to upgrade their call center technology with AI-driven solutions. This includes implementing intelligent bots to directly handle certain aspects of the customer experience while enhancing others."
@@ -109,110 +84,88 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "6 ways business leaders are exploring generative AI at work"
-    excerpt: "But he expects to see rapid progress in the level of automation -- and he advises all professionals to start exploring generative AI. \"I think the speed at which it's come to market and is developing means that everybody should be keeping an eye on it,\" he ..."
-    publishedDateTime: 2023-11-08T20:27:00Z
-    webUrl: "https://www.zdnet.com/article/6-ways-business-leaders-are-exploring-generative-ai-at-work/"
+  - title: "My North Star for the Future of AI"
+    excerpt: "I’d seen the consequences of that over and over: brilliant technologists who could build just about anything but who stared blankly when the question of the ethics of their work was broached. The time has come to reevaluate the way AI is taught at every ..."
+    publishedDateTime: 2023-11-07T13:24:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/11/ai-ethics-academia/675913/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 49
+  - title: "The Future of AI, Jobs, and Automation"
+    excerpt: "The Future of AI, Jobs, and Automation. We've entered a period of dramatic innovation in AI and automation and it's going to have a significant impact on the futur"
+    publishedDateTime: 2023-11-08T20:46:00Z
+    webUrl: "https://www.zdnet.com/collection/the-future-of-ai-jobs-and-automation/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 49
-  - title: "Google’s AI-Powered Search Generative Experience Expands to Over 120 New Countries and Territories"
-    excerpt: "SGE is also getting support for four new languages and a few new upgrades and features that make the AI-powered search tool more interactive."
-    publishedDateTime: 2023-11-09T10:31:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/google-ai-search-generative-experience-sge-labs-120-countries-rollout-4560461"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/google-ai-search-generative-experience-sge-labs-120-countries-rollout-4560461/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-ai-search-generative-experience-sge-labs-120-countries-rollout-4560461/amp"
+    quality: 47
+  - title: "TechSmith Audiate Launches Generative AI Features For Instant Content Creation"
+    excerpt: "TechSmith Corporation, an industry leader in visual communication and video creation, announces the launch of generative AI scripting and voiceover features in Audiate, the company’s audio recorder and text-based editing solution."
+    publishedDateTime: 2023-11-07T15:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/techsmith-audiate-launches-generative-ai-features-for-instant-content-creation-1032788734"
     type: article
     provider:
-      name: gadgets360
-      domain: gadgets360.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 45
-    images:
-      - url: "https://i.gadgets360cdn.com/large/Blog_hero_hVttB6nwidth-1600_1_1699523922212.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Six champions of generative AI innovation"
-    excerpt: "Damien Riehl has helped to develop innovative AI-driven technology aimed at three disparate professional groups, in quick succession: musicians; intellectual property litigants; and lawyers."
-    publishedDateTime: 2023-11-08T02:01:00Z
-    webUrl: "https://www.ft.com/content/0138bbd5-4266-48a2-a81f-c04549fa4f00"
+  - title: "Exploring the Limitless Possibilities of Generative AI in 2024"
+    excerpt: "The growth and evolution of Generative AI have accelerated at an unprecedented pace, enabling possibilities that were once the stuff of science fiction. The year 2024 is a pivotal moment in the realm of artificial intelligence,"
+    publishedDateTime: 2023-11-06T14:26:00Z
+    webUrl: "https://techbullion.com/exploring-the-limitless-possibilities-of-generative-ai-in-2024/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 41
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F045a52eb-a8ce-436d-8d55-b51e7780855a.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "There’s more to AI than generative AI"
-    excerpt: "It is typically used for deciphering complex data, such as image, text, audio, and/or video recognition, or for other complex ... as to what is the next most probable term or object to follow in building a sentence, constructing an image or extracting ..."
-    publishedDateTime: 2023-11-09T16:30:00Z
-    webUrl: "https://siliconangle.com/2023/11/09/theres-ai-generative-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/twoaibrains.jpeg"
-        width: 1023
-        height: 823
-        isCached: true
-  - title: "FactoryTalk Design Studio accelerates with generative AI"
-    excerpt: "Rockwell Automation’s Adam Gregory discussed early successes in developing an AI copilot for FactoryTalk Design Studio"
-    publishedDateTime: 2023-11-10T01:35:00Z
-    webUrl: "https://www.controlglobal.com/sponsored-content/article/33014746/factorytalk-design-studio-accelerates-with-generative-ai"
-    type: article
-    provider:
-      name: Control Global
-      domain: controlglobal.com
+      name: Impacts
+      domain: techbullion.com
     quality: 39
     images:
-      - url: "https://img.controlglobal.com/files/base/ebm/controlglobal/image/2023/11/adam_gregory_____rockwell.654d873fe9354.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Generative-AI.jpg"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Rockwell Combines Generative AI and Industrial Automation"
-    excerpt: "The reliance on text bases in modern software development means Rockwell Automation can capitalize on generative AI's ability to read, produce and generate text."
-    publishedDateTime: 2023-11-09T20:25:00Z
-    webUrl: "https://www.healthcareinfosecurity.com/rockwell-combines-generative-ai-industrial-automation-a-23564"
+  - title: "The Future of Generative AI: A Closer Look at 2024"
+    excerpt: "Welcome to the fascinating world of Generative AI, where machines have been programmed to tap into their creativity and produce awe-inspiring works that rival those made by humans. As we delve deeper into this captivating topic,"
+    publishedDateTime: 2023-11-08T11:45:00Z
+    webUrl: "https://techbullion.com/the-future-of-generative-ai-a-closer-look-at-2024/"
     type: article
     provider:
-      name: healthcareinfosecurity.com
-      domain: healthcareinfosecurity.com
+      name: Impacts
+      domain: techbullion.com
     quality: 39
     images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/rockwell-combines-generative-ai-industrial-automation-showcase_image-3-a-23564.jpg"
-        width: 860
-        height: 520
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-2.jpg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "How Generative AI Will Transform Knowledge Work"
-    excerpt: "Generative AI can be a boon for knowledge work, but only if you use it in the right way. New generative AI-enabled tools are rapidly emerging to assist and transform knowledge work in industries ranging from education and finance to law and medicine."
-    publishedDateTime: 2023-11-07T13:05:00Z
-    webUrl: "https://hbr.org/2023/11/how-generative-ai-will-transform-knowledge-work"
+  - title: "IBM launches $500M fund to develop generative AI for enterprise"
+    excerpt: "IBM’s primarily focused on enterprise-level solutions for its generative AI products such as its Watson X platform and numerous cloud offerings. According to Rob Thomas, a senior vice president at IBM, generative AI technologies will be a driving force ..."
+    publishedDateTime: 2023-11-07T19:32:00Z
+    webUrl: "https://cointelegraph.com/news/ibm-launches-500-million-fund-develop-generative-ai-enterprise"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/10/Oct23_18_1456521984.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "MicroStrategy ONE™ Platform Now Available in AWS Marketplace, Empowering Businesses with AI-Driven Business Intelligence"
-    excerpt: "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS), customers can now access a ready solution for deploying ..."
-    publishedDateTime: 2023-11-07T19:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231107452958/en/MicroStrategy-ONE™-Platform-Now-Available-in-AWS-Marketplace-Empowering-Businesses-with-AI-Driven-Business-Intelligence"
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 19
+  - title: "DataRobot Announces New Enterprise-Grade Functionality to Close the Generative AI Confidence Gap and Accelerate Adoption"
+    excerpt: "The new multi-provider LLM playground includes a first-of-its-kind visual interface with built-in GCP Vertex AI, AWS Bedrock, and Azure OpenAI to compare and experiment with different recipes for a combination of vector databases, foundations models ..."
+    publishedDateTime: 2023-11-09T15:56:00Z
+    webUrl: "https://www.datanami.com/2023/11/09/datarobot-announces-new-enterprise-grade-functionality-to-close-the-generative-ai-confidence-gap-and-accelerate-adoption/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
+      name: datanami.com
+      domain: datanami.com
+    quality: 0
+  - title: "DataRobot Announces New Enterprise-Grade Functionality to Close the Generative AI Confidence Gap and Accelerate Adoption"
+    excerpt: "\"The demands around generative AI are broad, complex and evolving in real-time,\" said Venky Veeraraghavan, Chief Product Officer, DataRobot. \"With over 500 of our customers deploying and managing AI in production,"
+    publishedDateTime: 2023-11-09T18:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9915447.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "JlxswkGPOxvtKVth4QKK3v+Zpl+2ME8okOVQD4fsLM+2+xDLhDSiGRRVMp2JXiYtur6sLKVM+NUwIoBoMxRq8G4UmgoWNvMFkZGSrEXTpYmZchQRl60y9z7JG4NqebV8NA+1kaTCckwQ+8grfQ7dsZSmzyqesY8rwaavqWMR6dyzexjqrDb0cQ3+rzWE/jqlYgnJ+SDyC/8EW9vPSxpRGkAjamkxQ6203Uj+H4YNBc+iVazWwRkr3tCBjxb+0wddcBd3uwjB90U32oCn9mV0Xa9M3lMnde6TvPQAnl72/GDk3r8lkbp55mm2FPljuasksQC9GomY7Ij3x8GJFZWLReKtI7Q40lN3/8/I0ygHZak=;lpsKuo9yawjUkDfUytwa7Q=="
 ---

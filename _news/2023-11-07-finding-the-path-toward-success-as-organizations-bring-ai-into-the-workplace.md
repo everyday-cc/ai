@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/finding-the-path-toward-suc
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Adobe Positioned For Success With AI Integration And Expanding Partnerships, Says Analyst"
+    excerpt: "BMO Capital Markets analyst Keith Bachman reiterated the Outperform rating on Adobe Inc. (NASDAQ:ADBE), raising the price target to $670 from $645. The analyst writes that Adobe is a market leader in its three core product categories: Creative Cloud,"
+    publishedDateTime: 2023-11-10T20:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/adobe-positioned-for-success-with-ai-integration-and-expanding-partnerships-says-analyst-1032807911"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
 
 secured: "aJ+AxRaMJ+E0FRoulHOmmoxGKwWD9/hZ0yiYC+9hmU7MKJPWuKBTva2pcOYifcn+C0rnQPjM1pfw0vtSFdtAqcHRqUcv4pbUEPzTtZ0D5s0JzT9dCPJRJmgkEUt7Hxb9Ft5KmLaxUAPvsvlQ99LTXSwYfOG3CZ7vbrGcv08a1evdXuG1WuxW5V6MvrRTA8YinZSkPtfNub+boXSPp8O38pF1wJHVtz+WJFfusgVAGAxvmYlRtaeI2kxmvEMKonXhhMkNonUxfGjoF1KbcmnYxZzdyt8SBgdk/1AHAOGAAcP3pRihWENRDiSS/uEp0OjaA/z+owguixWNvAVZ6r/HR3Qe8Nxrgpcj/iq4R7h33ZcgQClMVoeRzcl+0SM43nTXiVnwXrc1jY4sn9Sbdlw2qfxp2wZMflXumYpfv/EGU2LCeNrHNrdxtuZWsOAaJWBH7N777+IIMAWospHYYX+G8EV0oBt8qI9MZ3Zuer3lWJYn5iEh2yMmh8BKukWVYlEV7QYlH2hF7nVi5Yqwz3CFWA==;5NGeZsoMOJJO1hv1LNnYhQ=="
 ---

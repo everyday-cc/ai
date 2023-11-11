@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-to
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-to-increase-agent-productivity-through-automated-call-summarization/"
 type: article
 quality: 82
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,31 +29,42 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI to boost productivity in financial services"
-    excerpt: "Hype around generative AI and machine learning is continuing to buoy economic sentiment across Europe, with fewer than two-in-five financial services CEOs now expecting a severe downturn in the comin"
-    publishedDateTime: 2023-11-07T04:16:00Z
-    webUrl: "https://www.consultancy.uk/news/35790/generative-ai-to-boost-productivity-in-financial-services"
-    ampWebUrl: "https://www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services"
-    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services"
+  - title: "AI assistants optimize automation with API-based agents"
+    excerpt: "Generative AI-powered assistants are transforming businesses through intelligent conversational interfaces.\nThe post AI assistants optimize automation with API-based agents appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-08T10:00:00Z
+    webUrl: "https://www.ibm.com/blog/ai-powered-assistants-optimize-automation-with-api-based-agents/"
     type: article
     provider:
-      name: Consultancy
-      domain: consultancy.uk
-    quality: 61
-    images:
-      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2023-11-06-043615285-Generative_AI.jpg"
-        width: 546
-        height: 312
-        isCached: true
-  - title: "DataRobot Announces New Enterprise-Grade Functionality to Close the Generative AI Confidence Gap and Accelerate Adoption"
-    excerpt: "\"The demands around generative AI are broad, complex and evolving in real-time,\" said Venky Veeraraghavan, Chief Product Officer, DataRobot. \"With over 500 of our customers deploying and managing AI in production,"
-    publishedDateTime: 2023-11-09T18:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/09/9915447.htm"
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Transforming small farming with open-source, AI-powered connected edge solutions"
+    excerpt: "Edge computing is helping to revolutionize agriculture, and the Linux Foundation is at the forefront of this transformation.\nThe post Transforming small farming with open-source, AI-powered connected edge solutions appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-09T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/transforming-small-farming-with-open-source-ai-powered-connected-edge-solutions/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: IBM
+      domain: ibm.com
+    quality: 94
+  - title: "Building on a year of focus to help IBM Power clients grow with hybrid cloud and AI"
+    excerpt: "As Ken King passes the baton, we take a look at the progress IBM has made across four critical areas to help drive transformation.\nThe post Building on a year of focus to help IBM Power clients grow with hybrid cloud and AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-08T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/building-on-a-year-of-focus-to-help-ibm-power-clients-grow-with-hybrid-cloud-and-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 93
+  - title: "OpenAI takes ‘baby step’ toward AI agents with Assistants API"
+    excerpt: "OpenAI unveils the Assistants API, a 'baby step' towards autonomous AI agents, potentially revolutionizing our interaction with technology."
+    publishedDateTime: 2023-11-08T14:00:00Z
+    webUrl: "https://venturebeat.com/ai/openai-takes-baby-step-toward-ai-agents-with-assistants-api/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "kCgmOp8chfkieUQHK+rgXEH0qmZxCIYmF3LbPP1NeOh3gVnL8kvy0NR3hpPZtGO3mcS7xXuom5qcMd631llPpx8WHun65tHG1G7w7bBWNvnEFgYnpfrH6X242wi3kJdyzWQzJUBUlx+BO3ITvGHooA4wj2yhjq0OxnMRTOXkCVfAKlpMOgt6zBqy+Wf/Ev0XUj9mcd4mx00Fo2UFYbS9mClhLtIAgc2uU6Ca9WoO88l8QIWVigG4FTL6LEickrACo9nkHpcwJNxlmkX6b+66Cx3a0odfzwIQIU0h48Is/2xo/ZeO66dC0SbyHsHQcxY2Yqb5WsGGWkGLTXvFK9Lrd1Dc8m+ly03greccvO48EBE=;S9XcfO5WD4LzTtTOtvSojA=="
 ---

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Says AI Will Take Jobs Away. Here’s Why That Won’t Happen"
-    excerpt: "What does the future of work look like a hundred years from now? Will AI really eliminate the need for jobs? Here's what you need to know as the market evolves."
-    publishedDateTime: 2023-11-06T09:59:00Z
-    webUrl: "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6548b81fd31405fdb2b23724/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1463
-        height: 900
-        isCached: true
   - title: "Elon Musk’s new AI model doesn’t shy from questions about cocaine and orgies"
     excerpt: "Elon Musk announced xAI's launch of an early beta version of \"Grok,\" an AI language model similar to ChatGPT that is designed to respond to user queries with a mix of information and humor. Grok reportedly integrates real-time data access from X (formerly Twitter)—and is apparently willing to tackle inquiries that might be declined by other AI systems due to content filters and conditioning."
     publishedDateTime: 2023-11-06T15:05:00Z

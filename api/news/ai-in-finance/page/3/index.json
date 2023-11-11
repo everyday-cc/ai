@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-27-uk-fintech-tangopay-selects-thetaray-ai-solution-to-monitor-global-remittances.md",
+      "title": "UK Fintech TangoPay Selects ThetaRay AI Solution to Monitor Global Remittances",
+      "excerpt": "TangoPay an Authorized Payment Institution based in the UK, and ThetaRay, the leader in next-generation AI-powered secure global payments, today annou",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230927445002/en/UK-Fintech-TangoPay-Selects-ThetaRay-AI-Solution-to-Monitor-Global-Remittances/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230927445002/en/UK-Fintech-TangoPay-Selects-ThetaRay-AI-Solution-to-Monitor-Global-Remittances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-data-ai-how-financial-institutions-are-powering-true-hyper-personalization-at-scale.md",
       "title": "Data & AI: How financial institutions are powering true hyper-personalization at scale",
       "excerpt": "AI and analytics are powering innovative use cases for financial services with the potential for real ROI – if they’re executed right.",
@@ -1315,58 +1349,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-can-empathy-boost-customer-service-levels-in-banking.md",
-      "title": "Can Empathy Boost Customer Service Levels In Banking?",
-      "excerpt": "While empathy in banking isn’t new and it has been benefitting financial ... engagement and better service levels in banking. In fact, new tech – cloud platforms and new data tools like Artificial Intelligence and Machine Learning are empowering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2023/09/07/can-empathy-boost-customer-service-levels-in-banking/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2023/09/07/can-empathy-boost-customer-service-levels-in-banking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fa0ece32f53f146873b636/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 783,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

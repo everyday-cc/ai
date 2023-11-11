@@ -54,6 +54,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Adobe Positioned For Success With AI Integration And Expanding Partnerships, Says Analyst"
+    excerpt: "BMO Capital Markets analyst Keith Bachman reiterated the Outperform rating on Adobe Inc. (NASDAQ:ADBE), raising the price target to $670 from $645. The analyst writes that Adobe is a market leader in its three core product categories: Creative Cloud,"
+    publishedDateTime: 2023-11-10T20:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/adobe-positioned-for-success-with-ai-integration-and-expanding-partnerships-says-analyst-1032807911"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
 
 secured: "/33cRGnT/JpO8nooq85Ax/3QbMo/r6SvWXwceg0+Vp3jekWjdFrmndylXaBSH+UVkUWLDjb8HSaClKYNA5ytAxZPYhN7IA5LypA2hLU9M/oz7H1NXyKGs/MVAZjR86q/HG4jRXygMzWBek9nnOe9vlY3p8wJXRMU/qGzSA+P25OmGq5EthzeNAdVJvrztE5DMTKe9wZ51gqbvpN8FSLhjZzHm3gQMI1NjWURR18kFcpfKPPwR5qWHXXT28+ip2Go/4cgJSvwUADxzaDo6DgxuiYDaUy6PAeaUs4IFbm7eBKgbOJJnDzpT0JFwygO7FvKCzSJlKczQbiLuMeLcJz9/ZqsnJ9I51wxW350WlJqaoo=;VjGtx8zVhij6UNKj1fmZFA=="
 ---

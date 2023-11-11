@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-11-german-ai-startup-europe-cites.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-german-ai-startup-europe-cites.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: techxplore
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "German AI startup, hope of Europe, cites 'existential danger'"
+    excerpt: "An alliance of investors, including the Lidl owner Schwarz group, Bosch, SAP and Hewlett Packard Enterprises, pumped 467 million euros into the German-based artificial intelligence company this week."
+    publishedDateTime: 2023-11-11T02:26:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/german-ai-startup-hope-of-europe-cites-existential-danger/105137289"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/german-ai-startup-hope-of-europe-cites-existential-danger/105137289"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/german-ai-startup-hope-of-europe-cites-existential-danger/105137289"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-105137289,imgsize-159508,width-1200,height=765,overlay-ettelecom/internet/german-ai-startup-hope-of-europe-cites-existential-danger.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Germany launches AI action plan to boost investments, European cooperation"
     excerpt: "Germany wants to boost the development of AI in Germany and the EU, according to a new AI action plan presented by the Ministry of Education and Research on Tuesday (7 November), which could push the EU to match the already dominant US and China."
     publishedDateTime: 2023-11-08T08:10:00Z

@@ -2,92 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-09-25-natwest-to-build-generative-ai-tools-and-expertise-with-aws.md",
-      "title": "NatWest to build generative AI tools and expertise with AWS",
-      "excerpt": "NatWest is extending its collaboration with Amazon Web Services to incorporate the uptake of new generative AI technology from the cloud provider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/newsarticle/43011/natwest-to-build-generative-ai-tools-and-expertise-with-aws",
-      "originalUrl": "https://www.finextra.com/newsarticle/43011/natwest-to-build-generative-ai-tools-and-expertise-with-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/top_pics/xl/original.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-amazon-anthropic-to-use-awss-trainium-chips-amazon-to-invest-in-anthropic.md",
-      "title": "Amazon: Anthropic To Use AWS's Trainium Chips; Amazon To Invest In Anthropic",
-      "excerpt": "Amazon (AMZN) and Anthropic announced a strategic collaboration in safer generative artificial intelligence. Anthropic is an AI",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-anthropic-to-use-aws-s-trainium-chips-amazon-to-invest-in-anthropic-1032651757",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-anthropic-to-use-aws-s-trainium-chips-amazon-to-invest-in-anthropic-1032651757",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-25-amazon-to-invest-up-to-4bn-in-ai-start-up-anthropic.md",
       "title": "Amazon to invest up to $4bn in AI start-up Anthropic",
       "excerpt": "Amazon plans to invest up to $4bn in artificial intelligence start-up Anthropic ... is already among a range of AI products available on AWS’s Bedrock service, which allows customers to build ...",
@@ -1401,6 +1315,92 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-isro-in-space-ties-up-with-aws-to-give-space-startups-a-cloud-boost.md",
+      "title": "ISRO, IN-SPACe ties up with AWS to give space startups a cloud boost",
+      "excerpt": "While eligible startups will get access to Amazon Web Service's cloud technologies, the trio will also work together to train students and educators in cloud computing, AI and ML",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/isro-in-space-ties-up-with-aws-to-give-space-startups-a-cloud-boost-11361371.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/isro-in-space-ties-up-with-aws-to-give-space-startups-a-cloud-boost-11361371.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2019/07/ISRO.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/isro-in-space-ties-up-with-aws-to-give-space-startups-a-cloud-boost-11361371.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/isro-in-space-ties-up-with-aws-to-give-space-startups-a-cloud-boost-11361371.html/amp",
+      "publishedDateTime": "2023-09-13T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-aws-think-big-space-at-simpson-middle-opens-doors-for-celebration.md",
+      "title": "AWS Think Big Space at Simpson Middle Opens Doors for Celebration",
+      "excerpt": "J. Lupton Simpson Middle School opened its doors Tuesday to showcase its Amazon Web Services Think Big Space that opened last December with a community celebration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.loudounnow.com/news/aws-think-big-space-at-simpson-middle-opens-doors-for-celebration/article_5afda34c-51ad-11ee-9d79-dfe096117d6f.html",
+      "originalUrl": "https://www.loudounnow.com/news/aws-think-big-space-at-simpson-middle-opens-doors-for-celebration/article_5afda34c-51ad-11ee-9d79-dfe096117d6f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/loudounnow.com/content/tncms/assets/v3/editorial/7/13/7133fe7a-51af-11ee-836d-03ef7fdfa210/6500d1a09b31f.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Loudoun Now",
+        "domain": "loudounnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

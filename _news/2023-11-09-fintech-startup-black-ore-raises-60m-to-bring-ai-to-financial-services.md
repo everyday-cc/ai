@@ -59,20 +59,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "5 firms leveraging AI to transform the future of FinTech in USA"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-11-06T10:46:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-firms-leveraging-ai-to-transform-the-future-of-fintech-in-usa/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/06/Generative-AI-in-Banking.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Fintechs weigh in on the White House's executive order on AI"
     excerpt: "The order \"immediately posed the question of how do you identify these models without some sort of self regulation,\" said Amitay Kalmar, co-founder and chief executive of the AI-powered auto lending fintech Lendbuzz in Boston. \"From the outside ..."
     publishedDateTime: 2023-11-08T21:28:00Z

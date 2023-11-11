@@ -7,7 +7,7 @@ originalUrl: "https://www.thetimes.co.uk/article/politicians-need-to-show-how-ar
 webUrl: "https://www.thetimes.co.uk/article/politicians-need-to-show-how-artificial-intelligence-can-transform-economies-7zgzzd5q9"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 674
     isCached: true
+
+related:
+  - title: "How artificial intelligence will transform fame"
+    excerpt: "Computers have spent decades disrupting humdrum jobs. Now artificial intelligence (AI) is coming for the most glamorous ones. Hollywood has been at a standstill for half the year, until studios agreed on November 8th to offer striking stars protection from ..."
+    publishedDateTime: 2023-11-09T10:11:00Z
+    webUrl: "https://www.economist.com/leaders/2023/11/09/how-artificial-intelligence-will-transform-fame"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 37
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20231111_LDD001.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Akk9gg3618v4VlP8Ld9lgdAxzwYsOP1BhtHY1Q8Zgi6RFYGdX9a8kDEwHwAANcHBfBvXRBwQ5g3NrxCZ7ID0x1W94mqvGYQPcJjSFELtgrpP21n7RIBXGeGpcr/5E8U30pECisPjPF3Lq7y7CB0rGv4Ft0QAwfON5Bv0GJQnnNgzGgo1JnvCUhEceU9emF9Fo8+jJYYzrhQblJjVMqJWjk/Zn88Tn7cAqCKYaQmH//45Owe/5ar95CxybNcEHTqOUQOa3ddbSDZR12UgjOwU4+h1snesgWIfPODRSDRm9I2fMoL8bYEjXtirEpLTBlCpII0OYX/oTm5INrkLx/emOLux1/6AlFJLya5KFXiZu8Y=;JgtC9TZMr2Vy3Nvb1ZzX7A=="
 ---

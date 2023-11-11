@@ -41,6 +41,22 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "German AI startup, hope of Europe, cites 'existential danger'"
+    excerpt: "An alliance of investors, including the Lidl owner Schwarz group, Bosch, SAP and Hewlett Packard Enterprises, pumped 467 million euros into the German-based artificial intelligence company this week."
+    publishedDateTime: 2023-11-11T02:26:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/german-ai-startup-hope-of-europe-cites-existential-danger/105137289"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/german-ai-startup-hope-of-europe-cites-existential-danger/105137289"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/german-ai-startup-hope-of-europe-cites-existential-danger/105137289"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-105137289,imgsize-159508,width-1200,height=765,overlay-ettelecom/internet/german-ai-startup-hope-of-europe-cites-existential-danger.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "7Qap9k1ZXKClaK8j9pDEak7sx4epbMDo1Up2aCTBV79quCahfgEC79mHxfacmDouH2MjSgHekNsHZbl3Jcx19mWcDqnmJ1r6eGal89BkTKnaXhs3a1EfdhMHlFkaWkNlgrvXmdwh+T787UOK8evlKEyxy/E8L3z9XDN08IaaN4364NpCBp59SZ7nw59WTH+0GSovcrf24pRG8+XC+807UPt3sb7ytC2+aT7zoKcOyLJqOuofh+YE/eJnyOKlE877hENF46Rj/3LFJPGLJRnAzlatlbLIfb4z4gy7F8f4DjPy5xcFfzhBmkrQfh+Zp0npi7U3xvXjbmD6ERCRftuWJt6+gb3IjQ/10onBhGg/Jvw=;FSg24thrxsAhs2kwFylQUQ=="
 ---

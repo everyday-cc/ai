@@ -62,33 +62,65 @@ related:
         width: 1600
         height: 843
         isCached: true
-  - title: "Exploring the Limitless Possibilities of Generative AI in 2024"
-    excerpt: "The growth and evolution of Generative AI have accelerated at an unprecedented pace, enabling possibilities that were once the stuff of science fiction. The year 2024 is a pivotal moment in the realm of artificial intelligence,"
-    publishedDateTime: 2023-11-06T14:26:00Z
-    webUrl: "https://techbullion.com/exploring-the-limitless-possibilities-of-generative-ai-in-2024/"
+  - title: "Overcoming the trust, talent and price tag challenges in scaling generative AI"
+    excerpt: "The biggest challenge that companies have when they’re ready to launch a gen AI initiative is the difficulty of managing scale."
+    publishedDateTime: 2023-11-09T14:40:00Z
+    webUrl: "https://venturebeat.com/ai/overcoming-the-trust-talent-and-price-tag-challenges-in-scaling-generative-ai/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Generative-AI.jpg"
-        width: 800
-        height: 400
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_584789593_Preview.jpeg?w=1200&strip=all"
+        width: 995
+        height: 534
         isCached: true
-  - title: "The Future of Generative AI: A Closer Look at 2024"
-    excerpt: "Welcome to the fascinating world of Generative AI, where machines have been programmed to tap into their creativity and produce awe-inspiring works that rival those made by humans. As we delve deeper into this captivating topic,"
-    publishedDateTime: 2023-11-08T11:45:00Z
-    webUrl: "https://techbullion.com/the-future-of-generative-ai-a-closer-look-at-2024/"
+  - title: "6 ways business leaders are exploring generative AI at work"
+    excerpt: "But he expects to see rapid progress in the level of automation -- and he advises all professionals to start exploring generative AI. \"I think the speed at which it's come to market and is developing means that everybody should be keeping an eye on it,\" he ..."
+    publishedDateTime: 2023-11-08T20:27:00Z
+    webUrl: "https://www.zdnet.com/article/6-ways-business-leaders-are-exploring-generative-ai-at-work/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
+  - title: "Five Signs Your Company Is Ready For Generative AI"
+    excerpt: "Recognizing the signs that your company is ready for generative AI is a pivotal step toward safely embracing the transformative power of this emerging technology. The potential rewards, from streamlining operations to fostering innovation, are immense and well-documented."
+    publishedDateTime: 2023-11-07T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/five-signs-your-company-is-ready-for-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Six champions of generative AI innovation"
+    excerpt: "Damien Riehl has helped to develop innovative AI-driven technology aimed at three disparate professional groups, in quick succession: musicians; intellectual property litigants; and lawyers."
+    publishedDateTime: 2023-11-08T02:01:00Z
+    webUrl: "https://www.ft.com/content/0138bbd5-4266-48a2-a81f-c04549fa4f00"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 41
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-2.jpg"
-        width: 1000
-        height: 500
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F045a52eb-a8ce-436d-8d55-b51e7780855a.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "There’s more to AI than generative AI"
+    excerpt: "It is typically used for deciphering complex data, such as image, text, audio, and/or video recognition, or for other complex ... as to what is the next most probable term or object to follow in building a sentence, constructing an image or extracting ..."
+    publishedDateTime: 2023-11-09T16:30:00Z
+    webUrl: "https://siliconangle.com/2023/11/09/theres-ai-generative-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/twoaibrains.jpeg"
+        width: 1023
+        height: 823
         isCached: true
   - title: "Google is launching generative AI search 100 additional countries, as AI wars continue"
     excerpt: "As part of Wednesday’s announcement, Google’s senior director of product management and search, Hema Budaraju, said SGE is expanding to 126 new regions including Brazil, Indonesia, Mexico, Nigeria, South Africa, and South Korea."

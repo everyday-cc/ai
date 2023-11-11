@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Humanoid robots are here, but they're a little awkward. Do we really need them?"
-excerpt: "(AP Photo/Matt Freed) Building a robot that’s both human-like and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze ..."
-publishedDateTime: 2023-11-06T03:26:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/article_2eb7c7f8-1938-5aa7-bf59-8c969534bc20.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/article_2eb7c7f8-1938-5aa7-bf59-8c969534bc20.html"
+excerpt: "Building a robot that’s both human-like and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze has sparked another wave ..."
+publishedDateTime: 2023-11-06T05:11:00Z
+originalUrl: "https://www.pressrepublican.com/ap/business/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/article_f3479f0c-9217-5a58-9576-1f7f95a111f0.html"
+webUrl: "https://www.pressrepublican.com/ap/business/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/article_f3479f0c-9217-5a58-9576-1f7f95a111f0.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Press-Republican
+  domain: pressrepublican.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/8b/d8b2ac33-1dfc-5b7b-9bf3-7f9abb8a9755/654858097b510.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/5/9e/59e1390d-de00-5206-990c-8593bc225942/6547e8af9def9.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "rIpky+GMqV2A/DtFhPK6EzpMtnOITSITF3hFoS3xGy1zccxjwRB5yP22g8+NWU50Ol2/as7fom6+n20kxVsnylBIFqQix1B3zAZLXbQ7LRk1ng/Q28S9hjIqy4l+Py+3GFPNOQd8Tc+D0W3pPaBQxhgUjcfqtYiqZFuj+19L05XuiuAFCWU1MyZAd3XzHmjT2bAp9DtWZxxzbE0MueCymvQ6tZd0QNekOlSpNvQo/7br3te3d1YtpG0fK+5fSAhfD8Q/dXrb1X29Kr0uhEQPkpGIpCfMBdmESo8ebIslkS8cs1g5EHHprvUKoJ5xHQDW7L4sXoPTo6M3Hz8rD2pvCdXZmby6YEJMqdp4W9UpKkY=;28VAdba7XmKXQSEsas5s1Q=="
+secured: "dkbZHKQjpl+y8S6dAEKE/GbDTa9ZP5JYhouFtqgN+vTEnLsEqQDvjNTVacawZOqfzU2WjcS5L7Q1IeYCgdB4/+qU8GQIbPsJPOAQlrIaMJvgUpiDqtAmQtSp6l/F278u6Q+9inXCrmmeBb7lrsCJEFQnoUKh/kwl2T/QldbfaSKLSrcuM2Yu28rl6oqr2kNSu9XsaooczF/iWyTPR80aE16eWPGBsuYvGoujxTmiUwMZb+GBJ0CMn/AhZ0u/KmopfCwtX2FlGnBVtag70QBmOwwe58JPc2NwM+bGfwOQBvKekYqPXq6WVzVrN6tYT7pdEbRTdsiXGBIHdneRC4IVH+DQyshEvSh5NP8+zA7FcYI=;PITkSu+Axk8EC1WtqF6wjA=="
 ---
 

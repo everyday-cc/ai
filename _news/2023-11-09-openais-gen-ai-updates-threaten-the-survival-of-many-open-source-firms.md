@@ -88,15 +88,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI takes ‘baby step’ toward AI agents with Assistants API"
-    excerpt: "OpenAI unveils the Assistants API, a 'baby step' towards autonomous AI agents, potentially revolutionizing our interaction with technology."
-    publishedDateTime: 2023-11-08T14:00:00Z
-    webUrl: "https://venturebeat.com/ai/openai-takes-baby-step-toward-ai-agents-with-assistants-api/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "OpenAI Announces GPT-4 Turbo, Ushering In A New Era Of AI"
     excerpt: "OpenAI, the leading artificial intelligence research lab, has launched GPT-4 Turbo, its latest and most powerful AI model to date."
     publishedDateTime: 2023-11-09T19:25:00Z
@@ -115,22 +106,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Today’s Cache | Elon Musk to integrate AI startup with X; Humanoid robots and their problems; OpenAI plans for developer conference debut"
-    excerpt: "While ChatGPT has achieved popularity as both a desktop tool and a smartphone app, OpenAI CEO Sam Altman hopes to push the boundaries by creating a platform which developers will use to launch their own AI-generated products, reported Reuters."
-    publishedDateTime: 2023-11-06T09:20:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-elon-musk-to-integrate-ai-startup-with-x-humanoid-robots-and-their-problems-openai-plans-for-developer-conference-debut/article67503553.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/todays-cache-elon-musk-to-integrate-ai-startup-with-x-humanoid-robots-and-their-problems-openai-plans-for-developer-conference-debut/article67503553.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/todays-cache-elon-musk-to-integrate-ai-startup-with-x-humanoid-robots-and-their-problems-openai-plans-for-developer-conference-debut/article67503553.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 41
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/a7efd6/article67503547.ece/alternates/FREE_1200/2023-11-05T222849Z_646117061_RC2854AB4XV6_RTRMADP_3_XAI-LAUNCH.JPG"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "OpenAI’s app store for ChatGPTs will be a pain for start ups"
     excerpt: "With it now becoming easier than ever to create a chatbot that serves a particular purpose, this could have severe effects on companies and start-ups that currently have AI-powered chatbots built for a specific purpose. For example, a service that might ..."
     publishedDateTime: 2023-11-07T16:07:00Z

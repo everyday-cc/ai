@@ -39,20 +39,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "Most European finance leaders believe Generative AI will greatly boost productivity and alter..."
-    excerpt: "Finance - Leaders across Europe’s financial services sector expect Generative Artificial Intelligence (GenAI) technologies to deliver a windfall to productivity,"
-    publishedDateTime: 2023-11-07T11:49:00Z
-    webUrl: "https://business-review.eu/money/finance/most-european-finance-leaders-believe-generative-ai-will-greatly-boost-productivity-and-alter-jobs-yet-many-companies-lack-workforce-upskilling-strategies-253644"
-    type: article
-    provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 43
-    images:
-      - url: "https://business-review.eu/wp-content/uploads/2023/11/Andrei-Ratiu-EY-Romania.jpg"
-        width: 1773
-        height: 1182
-        isCached: true
   - title: "Europe and the US won’t win the AI race by depriving themselves of talent"
     excerpt: "However, the US retains a unique advantage in its ability to attract talent that is all but impossible for other countries to replicate. Immigration has always been a powerful force in amplifying America’s talent base, especially in the tech sector."
     publishedDateTime: 2023-11-07T05:00:00Z
