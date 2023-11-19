@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-5.jpg"
@@ -24,6 +25,6 @@ images:
     height: 500
     isCached: true
 
-secured: "F0c777RZhia1oPHt2UYiX6Jw0lcnusrpUXvybA9zcqzZVH0o0/4y6XejpIoXvyMO1vKm2LQJGemC2U58HTDIa3iGstqDAwYXRdBNhMsvyzKhmO+nVfhlNKXA8d/eVAH6YDRYhPeCD+F+u+zZ7V5ukShGnItH9hlSSU2I+7ra3DYEtgeG3N8/daocwfEKjq6HPpwuK0bS91bKZy3AFPN12X/sxtODyVMzhmKXPoLSAtI80KY17CIYDii7l5ALB5U3ChiqcraDlcz7c2DY4j1th1klHYrVfbawqz1+R1T/xG+j8csaIAX3pttW/4bJYH5OJUJEvED7MdjiRjT8Llc205toBaQW2/TCHJXIHRKtt0g=;fWAgl/2q+p0/ECqprvopwQ=="
+secured: "BKZ9+HGTblxmyMALIBmx1U+uM7Ey0Oegki2acLi9gMMlAA+gq5r6sJ2hIPoF30UZPTxwMLOErrq9g3Ck7him8Vh2FYrNixOAWqby1nbLmB6ccYtIj0bHayLJNo9sz7X5cI9nTmSgOlYiUflLt8nIFLAEZnEyVA/fP6UhfhPm0b4q/z/yIwJRMjholttfUezdWh6xLsempX30NpYvJuWpsrSzh0+rGD3zfCgj/9FwTo+Nqu6v3JflBpHWYZ7YELzvEIITrnsL0GrOYqxQVK/MR8zY7mVW/Z57TzNRFFTUh+WAZ/pDYjhsAblO6xgqAgI9hwvqtHR6LSWfvT3wjswZ/qT56Np7hYAjluXJHa6hm39051w2WMC5etT4smUTo/CS/jU1XXvMODlCdAAE2QLRoCmlOR5HJvgUyqEL0teoIHaD6XoVf2yp25Gtlroip9N/v1097mCXBPK+KB3zTUWuSRaUzFz2KhJ+3/ioPynUfbP0U9II05U30pgn6rahr0QJVrlGf7rNfWMkZk4Nkw5GOA==;zvg9aDh0L545NvMmJR85QQ=="
 ---
 

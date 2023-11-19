@@ -1,0 +1,24 @@
+---
+category: news
+title: "Wiz adds AI security to its cloud protection line"
+excerpt: "Wiz Inc. today announced new artificial intelligence-related extensions to the modules in its cloud-native application protection platform line of products. CNAPP tools combine a variety of defensive mechanisms to protect access controls, secure source code pipelines, harden authentication and encryption tasks, and remediate threats."
+publishedDateTime: 2023-11-16T15:00:00Z
+originalUrl: "https://siliconangle.com/2023/11/16/wiz-adds-ai-security-cloud-protection-line/"
+webUrl: "https://siliconangle.com/2023/11/16/wiz-adds-ai-security-cloud-protection-line/"
+type: article
+quality: 36
+heat: 36
+published: false
+
+provider:
+  name: SiliconANGLE
+  domain: siliconangle.com
+
+topics:
+  - AWS AI
+  - AI
+  - AI in Security
+
+secured: "rhVXzWmBr7pShxhl+OLoB7kQkQvS991iDePfE16MqI7VGnTI0Vghffm8xM3FzX9anqa2ixKzHC6jXZvrubm89zc8hUJiAyncmq1PeXBKe3soRtJzAIiLM5XFas1lad/ASmcAg1fsJ9G2fWPYwso7Nwdp4uCdkH26kNzSU3Q+BEA+fgq8BacU37jRg7p4bSsAX59CWmSyDiYicLOIxLC8YW21jm5QseAJrcSnugD+bSAiEzzY83AYooj/8vK0u/I+1jF2PcxcLzarto0thmfZevFhKVhrxau9LsnIkl0letceceOztVhEkjpGm4wUPmUYlGZbUESyLlyYC5jpn46ekr2m6PWOTKPkyeFLXiDa/RF0XrhWRF3uXlw8Z3C9aLAUSafyQgCgydXI8Ns7TGDFF5EgmA/cJnUtq+tP5mlglzFYSsKJ1ZJX1lLZWqRBwR+/ohS1PQSPd4YqEDIP20bEpRO3KLJsuIpuUqBlHmW26CPmTBb5bF/WEiL4xWCMegrRHTqqLGLgiPYpgU5SquIpWA==;Q7DD8SIUgvsdJDGk6sX2rg=="
+---
+
