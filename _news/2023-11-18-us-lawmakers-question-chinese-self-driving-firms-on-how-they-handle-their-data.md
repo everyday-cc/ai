@@ -19,24 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "Cruise testing self-driving cars in Japan, Dubai, even as they're parked in U.S."
-    excerpt: "SAN FRANCISCO — Days after General Motors’ Cruise self-driving car unit pulled all of its vehicles off the roads in the U.S. for a safety review, it continues to test them on public roads in Dubai and Japan, Reuters has learned. Cruise this week said ..."
-    publishedDateTime: 2023-11-18T16:47:00Z
-    webUrl: "https://www.autoblog.com/2023/11/18/cruise-testing-self-driving-cars-in-japan-dubai-even-as-theyre-parked-in-u-s/"
+  - title: "House lawmakers question 10 AV companies over ties to China"
+    excerpt: "In separate letters sent Wednesday to 10 companies — including Baidu, AutoX, Didi Chuxing, Nio, Pony.ai and XPeng — the lawmakers asked for details on the type of information collected by AVs deployed in the U."
+    publishedDateTime: 2023-11-17T02:02:00Z
+    webUrl: "https://www.autonews.com/mobility-report/lawmakers-press-chinese-av-companies-answers-data-collection"
     type: article
     provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 14
-  - title: "Did You See The Car In Buffalo Driving By Itself?"
-    excerpt: "This week, you may have seen a white car that resembled a Google Maps vehicle; however, this car has several more cameras, on top of the hood, rearview mirrors, sides of the car, and other places – on top of the several sensors added to the car."
-    publishedDateTime: 2023-11-16T13:33:00Z
-    webUrl: "https://wyrk.com/self-driving-cars-buffalo/"
-    type: article
-    provider:
-      name: WYRK
-      domain: wyrk.com
+      name: Automotive News
+      domain: autonews.com
     quality: 4
+  - title: "US lawmakers raise concerns over Chinese self-driving testing data collection as ‘another excuse to suppress China’"
+    excerpt: "A self-driving bus is tested in the city center of Guangzhou, South China’s Guangdong Province on July 26, 2022. Photo: VCG. A group of US lawmakers is targeting Chinese self-dr"
+    publishedDateTime: 2023-11-17T07:58:00Z
+    webUrl: "https://www.globaltimes.cn/page/202311/1302041.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 0
 
 secured: "vrhQZcrC1yjYiYdjvAXITMPG0Qx3v4ml2TrowYVVJgPvtMDiXY7fmOeZgSLmjvA8eDlraf6uOquY/bmfzn2j4LyYBH1NsCurF8Olx5ALOaD/VUHHV/SPgTtvoaobUbWaJTLZTKAVe95KmwkLmnOrTtn1HxpIpMw8Hmt0UXiwatQw1u/5MLAeBJoL/FrmATgaO0VGTLhnQo4wB+b+kfvVKhOo6QOxfH3OMGowrtJYrAUd+bupfaCHKZeJI5zi5rxpXr0fvVO/vvxbgu1XcYTzmfzYTo0XxmI+I+vXBJYzz4j3LXVH+5cE41NVJz7RPicQsb2WG4rlpb7P4ZrGOmLVafG9IrU/UxXZ7MC+7dLEYwG/RI0m5/DIZ5lRZIu4SSWrS7qhKPXBXNVmXcd61vn8q0I3G+3/ypuN1tcIBNWvb3CioRJMXMmSw5JzCn0FrFW+WfQpKjKGbN57sBFVBtJCJIWW659NwonLftTiMuPJ9xwdLdJ6Rt97FEyxelbPnLML5rm4zMgwNEC7ZmgzpkK52g==;xYifqrlHNcKYrkfJFNGbMg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboratio
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
 type: article
 quality: 62
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: enterprisetalk
@@ -27,33 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI Star Quantiphi Inks AWS GenAI Collaboration Agreement"
-    excerpt: "Generative AI company Quantiphi sign a strategic collaboration agreement with AWS, Amazon Bedrock around GenAI customer wins as deals increase in 2023."
-    publishedDateTime: 2023-11-15T15:45:00Z
-    webUrl: "https://www.crn.com/news/cloud/ai-star-quantiphi-inks-aws-genai-collaboration-agreement"
+  - title: "5 Generative AI Predictions And A Wishlist From AWS re:Invent 2023"
+    excerpt: "AWS re:Invent just around the corner ... In his capacity as Amazon's lead scientist for artificial general intelligence (AGI), Prasad brought in scientists from the Amazon Science team and those working on Alexa AI to focus on model training, providing ..."
+    publishedDateTime: 2023-11-20T05:33:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
-  - title: "DataStax Enhances AI Capabilities with AWS in New Strategic Collaboration"
-    excerpt: "DataStax has announced it is deepening its relationship with Amazon Web Services (AWS) through a robust combination"
-    publishedDateTime: 2023-11-17T13:35:00Z
-    webUrl: "https://www.datanami.com/this-just-in/datastax-enhances-ai-capabilities-with-aws-in-new-strategic-collaboration/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 33
-  - title: "Weaviate Strengthens Partnership with AWS to Make it Easier for Developers to Build Generative AI Applications"
-    excerpt: "Weaviate today announced several achievements as a member of the Amazon Web Services (AWS) Partner Network (APN). Each"
-    publishedDateTime: 2023-11-16T23:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/weaviate-strengthens-partnership-with-aws-to-make-it-easier-for-developers-to-build-generative-ai-applications/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 14
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655aed36ae62b3b90c8db7ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1000
+        height: 688
+        isCached: true
 
 secured: "IM10b+bJuBV3a214aSY1JL4FNqAfdotJQ688AJK39LMw8oJlvR4Yvw7NuNPFD8if7Kpuhy2QazNQ9hTq7Mype3A+QQWUCpICXfKGrLLR6GXWdZqgeJVd3pFQHgLHsLO5KnnnaNOayoYWX66gNx86d1wiOyooHUXOaJaPkrvmEULSBI4MQ3n/lK67zxLU734QaJ2rI+EXKZrnoZ2f3pB/1Cj0Q5SMVjY02GCdDR5W6Te9hw2tv51Tvml983Z4GEPQhH4hPh4UFat5OFgQ8R4tpS8l3svTP/cqWSIeqNZbvlEK6fz5hsQbp7Rdp3pfXEPgnl9B8JPA0KbSBNGTEZiQHyYlt21vUqhCxVeGYS9RVyWj4doOQhXB3HADO8VH1OLjY5ZdY3i0l+nr3XvcE6bC0mdwa55JsoUztngk7+5pmaEUtz6YsqmITximy2HnrtQoXkM+MdpZcGFsQIKXUQqOe7ET78BAmTivefxnpbio/xsltEGk8bn9rQ8O345W53qVpjETRtUjm/2k34RAhA7azw==;sSG+O1qbxjhdmuGDa7mi6g=="
 ---

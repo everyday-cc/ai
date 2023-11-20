@@ -32,6 +32,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 79
+  - title: "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip."
+    excerpt: "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip."
+    publishedDateTime: 2023-11-20T06:18:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 78
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/microsoft-maia-chip-edited.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft is finally making custom chips — and they’re all about AI"
     excerpt: "The new Azure Maia AI chip and Azure Cobalt CPU are both built in-house at Microsoft, combined with a deep overhaul of its entire cloud server stack to optimize performance, power, and cost. “We are rethinking the cloud infrastructure for the era of AI, and literally optimizing every layer of that infrastructure,” says Borkar."
     publishedDateTime: 2023-11-15T20:00:00Z

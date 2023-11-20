@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-lever
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Robots and Artificial Intelligence"
+    excerpt: "hosts its first artificial intelligence (AI) Safety Summit to develop strategies that mitigate the risks of AI; Chinese Foreign Minister Wang Yi arrives in Washington, DC to speak with U.S ..."
+    publishedDateTime: 2023-11-17T00:00:00Z
+    webUrl: "https://www.cfr.org/robots-and-artificial-intelligence"
+    type: article
+    provider:
+      name: Cfr.org
+      domain: cfr.org
+    quality: 56
+    images:
+      - url: "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "EEvWTcmyavG+VF4M/MuUt7m/75bKjHqp9WM7rCFESqfeOwpSgIanqLBJItQRnXLIMar0srA4+Yj0U0ddHul29aX3OJakw1ju/7x/q5RBLZst3FtMr8hATl/EELytP3FwbCMJfI7HBwaRuEwq/y0lpyaOYoKbnOSpryUJHsJ267jhYQnJXzGEdzEWnwGRDh5pxROhN3Qe4ElgOTjiEjZKgrvbxjr84weEzTuOwsqT9/k5xpHBG6BWyyu98y7+cNft1lX4RLSKsesvr2i5x6WqINK6tCmLmJ+LoUfn5xxL9kzETxtxEyY/AQRhFoffDd6rVncA9uKpm2km8ajypvcTaY8PCJAzaZy3Sd3aPu/d5Tr28N4/aLSs4uFJjbr/2IBWqlc7nuvLVcb4cerV2sbqiJBd9IOeDPne1+mMKpGlCmhM1i66oW+J93T1sFXgyQu+mw6pzoXaYoqr2I83W/cTUapfumdK5rw5Fhi2FlyvtehczT1jx71IAFWaqnkMBjzcF42r4EcBdAA+16Kjl16Osg==;tavQmDq4XpSO2EwqjZ5ANw=="
 ---

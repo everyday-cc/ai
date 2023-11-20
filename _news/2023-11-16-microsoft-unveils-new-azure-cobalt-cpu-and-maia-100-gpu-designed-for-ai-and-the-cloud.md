@@ -29,6 +29,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 79
+  - title: "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip."
+    excerpt: "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip."
+    publishedDateTime: 2023-11-20T06:18:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 78
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/microsoft-maia-chip-edited.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia launches AI foundry service for Microsoft Azure with new Nemotron-3 8B models"
     excerpt: "With Nvidia’s AI foundry service on Azure, enterprises using the cloud platform will get all key elements required to build a custom, business-centered generative AI application at one place."
     publishedDateTime: 2023-11-15T23:00:00Z

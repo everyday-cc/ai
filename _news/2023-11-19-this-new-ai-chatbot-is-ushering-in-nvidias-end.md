@@ -31,6 +31,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
+  - title: "Yellow.ai Scales Generative AI–powered Chatbot and Voicebot Solutions Globally on AWS"
+    excerpt: "Amazon Web Services (AWS) announced that Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions. These dynamic AI agents enhance the customer experience with goal-driven conversations with customers while comprehending their needs and providing highly personalized responses."
+    publishedDateTime: 2023-11-20T06:11:00Z
+    webUrl: "https://technuter.com/channel-news/yellow-ai-scales-generative-ai-powered-chatbot-and-voicebot-solutions-globally-on-aws.html"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 47
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg"
+        width: 277
+        height: 239
+        isCached: true
 
 secured: "0NAxmzD6HEvBXuMjZhf8vD8/65Jw81BjAECVtAk9mno5xA+O/rhEpVjOrJ7EqtzBuFbWWowZDY24I8kzDjaHu7XGMiX8l+hVcJr1PLnGc7ODflIVBfA/wMDUDGQKmb/Bj0h92qdOWg3QDRfxisjx7E3maBa4ndEaAIkxZvowAD/o6YsO84b3RqEf9DmYmAkpZVbKNeLsG9nsbojfGHc/Wg9rPRIpIDtTO6wTyq44gruICcOKlVBq0dTRLIyewVQ1BML/lAP3HQiIisIohcjNAj7fp5DzPaAMFys8Uk1NfKOsqGqYzXZ5XTqQi62cUOlcFG+1CGpdmP+6iJlIW8M3XxVBdM67sDvz/tfbwVzI4U8R5vHWLWeJurw/mokvlK/QmrWA0lgyr7RIbq4gv8efgtd3G8tPpzvazi6UvRABvIHVjA2uH951ewUpTG1pP5OK46o2xp7877uFvr+qda3iQAwub/yWYJ8Sd8CBo86MfPnFCKH0etOkryW9/CuOd+Q2zpaMx0tmV/ibTSlke5ex5Q==;Bf9KtnGOP4L5+Q4d/28w1g=="
 ---

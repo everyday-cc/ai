@@ -2,6 +2,108 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-11-09-the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay.md",
+      "title": "The Permanence Of AI In Cybersecurity: Why This Trend Is Here To Stay",
+      "excerpt": "AI-powered technologies have emerged as a powerful force in enhancing various aspects of cybersecurity, offering innovative solutions to combat rising threats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f92ffb450c4342ded414515/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1575,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/amp/",
+      "publishedDateTime": "2023-11-09T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-can-ai-and-web3-coexist-its-something-agencies-should-consider.md",
+      "title": "Can AI And Web3 Coexist? It’s Something Agencies Should Consider",
+      "excerpt": "AI and Web3 remain exciting technologies, so it’s worth it for agencies to consider a world where both technologies coexist side by side.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/09/can-ai-and-web3-coexist-its-something-agencies-should-consider/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/09/can-ai-and-web3-coexist-its-something-agencies-should-consider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62b9d358b54b5849577a1f0b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/09/can-ai-and-web3-coexist-its-something-agencies-should-consider/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/11/09/can-ai-and-web3-coexist-its-something-agencies-should-consider/amp/",
+      "publishedDateTime": "2023-11-09T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-merseyside-police-ai-used-to-detect-driving-offences.md",
       "title": "Merseyside Police: AI used to detect driving offences",
       "excerpt": "Merseyside Police deployed an AI-equipped spy camera van on the region's roads for the first time this week. The van uses two cameras to capture footage of motorists which is then analysed by an AI system to detect whether any offence has been committed. Footage flagged by the system is then reviewed by a police officer.",
@@ -1014,100 +1116,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-who-offers-recommendations-for-ai-guidelines-in-healthcare.md",
-      "title": "WHO Offers Recommendations for AI Guidelines in Healthcare",
-      "excerpt": "Experts emphasize the importance of training AI systems on reliable data and of checking the systems’ safety and efficacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/998216",
-      "originalUrl": "https://www.medscape.com/viewarticle/998216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/gty_231108_ai_guidelines_medical_800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part.md",
-      "title": "Humane may be launching a $699 AI-powered projector to replace your phone. That's not the craziest part",
-      "excerpt": "The secretive startup, founded by former Apple employees and backed by OpenAI's CEO and Microsoft, is launching its AI Pin wearable tomorrow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "originalUrl": "https://www.zdnet.com/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/87cbc24ba40159165e2246bfb590a298b9f944f1/2023/07/03/1cc88643-728b-4a3e-8d11-206baab84df0/fz6bjtfaqaaivgz.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "publishedDateTime": "2023-11-08T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

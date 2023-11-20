@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-20-5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023.md",
+      "title": "5 Generative AI Predictions And A Wishlist From AWS re:Invent 2023",
+      "excerpt": "AWS re:Invent just around the corner ... In his capacity as Amazon's lead scientist for artificial general intelligence (AGI), Prasad brought in scientists from the Amazon Science team and those working on Alexa AI to focus on model training, providing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655aed36ae62b3b90c8db7ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1000,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/",
+      "publishedDateTime": "2023-11-19T21:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-openai-shakeup-has-rocked-silicon-valley-leaving-some-techies-concerned-about-future-of-ai.md",
       "title": "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI",
       "excerpt": "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models.",
@@ -103,7 +155,7 @@
       "originalUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -251,49 +303,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-17-elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions.md",
-      "title": "Elastic Signs Strategic Collaboration Agreement with AWS to Accelerate Generative AI Solutions",
-      "excerpt": "Elastic, announced a new two-year global Strategic Collaboration Agreement with Amazon Web Services to make it easier for shared customers.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/",
-      "originalUrl": "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/11/Elastic-Signs-Partnership-Agreement-with-AWS-to-Accelerate-Generative-AI-Solutions.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/",
-      "publishedDateTime": "2023-11-17T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-17-text-to-image-ai-models-can-be-tricked-into-generating-disturbing-images.md",
       "title": "Text-to-image AI models can be tricked into generating disturbing images",
       "excerpt": "Nonsense words can trick Stable Diffusion and DALL-E 2 into producing pictures that show violence and nudity. Popular text-to-image AI models can be prompted to ignore their safety filters and generate disturbing images.",
@@ -387,7 +396,7 @@
       "originalUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-7-gen-3-mid-range-android-phone-chip-news/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -474,7 +483,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/11/16/microsoft-announces-maia-ai-arm-cpu-amd-mi300--new-nvidia-for-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -560,7 +569,7 @@
       "originalUrl": "https://www.reuters.com/legal/transactional/ai-chatbot-can-pass-national-lawyer-ethics-exam-study-finds-2023-11-16/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": null,
       "content": "\r\n",

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-20-5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023.md",
+      "title": "5 Generative AI Predictions And A Wishlist From AWS re:Invent 2023",
+      "excerpt": "AWS re:Invent just around the corner ... In his capacity as Amazon's lead scientist for artificial general intelligence (AGI), Prasad brought in scientists from the Amazon Science team and those working on Alexa AI to focus on model training, providing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655aed36ae62b3b90c8db7ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1000,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/",
+      "publishedDateTime": "2023-11-19T21:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-17-moderate-your-amazon-ivs-live-stream-using-amazon-rekognition.md",
       "title": "Moderate your Amazon IVS live stream using Amazon Rekognition",
       "excerpt": "Amazon Interactive Video Service (Amazon IVS) is a managed live streaming solution that is designed to provide a quick and straightforward setup to let you build interactive video experiences and handles interactive video content from ingestion to delivery. With the increased usage of live streaming,",
@@ -104,49 +156,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-17-elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions.md",
-      "title": "Elastic Signs Strategic Collaboration Agreement with AWS to Accelerate Generative AI Solutions",
-      "excerpt": "Elastic, announced a new two-year global Strategic Collaboration Agreement with Amazon Web Services to make it easier for shared customers.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/",
-      "originalUrl": "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/11/Elastic-Signs-Partnership-Agreement-with-AWS-to-Accelerate-Generative-AI-Solutions.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/",
-      "publishedDateTime": "2023-11-17T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -316,6 +325,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-the-21-weirdest-most-hilarious-things-you-can-buy-on-amazon.md",
+      "title": "The 21 Weirdest, Most Hilarious Things You Can Buy on Amazon",
+      "excerpt": "Amazon is your go-to site for almost everything. Between the Amazon products you use every day and the perfect Amazon Prime gifts for everyone on your list, how could it not be? It’s smart ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rd.com/list/strange-things-amazon/",
+      "originalUrl": "https://www.rd.com/list/strange-things-amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rd.com/wp-content/uploads/2021/06/The-21-Weirdest-Most-Hilarious-Things-You-Can-Buy-on-Amazon_FT_via-amazon.com_.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reader's Digest",
+        "domain": "rd.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1221,49 +1273,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-5-best-internet-of-things-iot-stocks-to-buy.md",
-      "title": "5 Best Internet-of-Things (IoT) Stocks to Buy",
-      "excerpt": "and artificial intelligence. AWS IoT, short for Amazon Web Services Internet of Things, is a platform provided by Amazon Web Services for the purpose of gathering and analyzing data originating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-internet-of-things-iot-stocks-to-buy-1213058/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-internet-of-things-iot-stocks-to-buy-1213058/4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/10/14192633/RCI-insidermonkey-1697325990577.jpg",
-          "width": 1456,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

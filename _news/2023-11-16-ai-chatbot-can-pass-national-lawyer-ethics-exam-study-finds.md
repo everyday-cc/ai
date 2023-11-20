@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/transactional/ai-chatbot-can-pass-na
 webUrl: "https://www.reuters.com/legal/transactional/ai-chatbot-can-pass-national-lawyer-ethics-exam-study-finds-2023-11-16/"
 type: article
 quality: 64
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -32,6 +32,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Yellow.ai Scales Generative AI–powered Chatbot and Voicebot Solutions Globally on AWS"
+    excerpt: "Amazon Web Services (AWS) announced that Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions. These dynamic AI agents enhance the customer experience with goal-driven conversations with customers while comprehending their needs and providing highly personalized responses."
+    publishedDateTime: 2023-11-20T06:11:00Z
+    webUrl: "https://technuter.com/channel-news/yellow-ai-scales-generative-ai-powered-chatbot-and-voicebot-solutions-globally-on-aws.html"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 47
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg"
+        width: 277
+        height: 239
+        isCached: true
 
 secured: "l8MRYkYfgiOfufsB8s7sKNHAPiEkVEbRf5qHo7a07EaVc0rim7HgzT3e4M8ZT+aJMqe/KD/2HY+FUOWY/d+o7CFhO6hQnMRzzkIz+f0bJl9g/TDAZwxu0nAWLNw3MUWd7haYe/wA6S661Uwmi4odD8QK6MJ5uVVCizWbImbp/vPqWxp9+UzWucCdZNGNvDYWsrDGBAi+rgYYH4u+ZwbdT7CVl/mb0HZh/400Cz0xI/HJ7xFObLk4n6A+dYFpo8/snyWR8zM3xNPdGQOigAM2WWSfA5hl1ukezSLCXBwEKsLdtNjp16Pohe1+tbDGwDkVShpKeBRxolSVb1JpSJoVmFQ155yw+T4F0AY098TqHM92ZuOk8ve8DueHY0YYVx4F9mRkpVffX+923es2wMfawn1eOgBROcrNjlA+C1nzkCnTVp5z5VUDjj1cLtxcEwSY6p2TFiXrR5uQ0fdAC6BhtY/bXV4rwQP/J+4NfsEd7lRv+PlP0oPRiWJimmKglE4RRpm6xxQoFVySunfRAvBzYQ==;y0PhVZTxCVKdV400X5VYlg=="
 ---
