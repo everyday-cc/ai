@@ -2,6 +2,256 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-11-09-10-most-vital-ai-trends-we-need-to-be-ready-for-in-2024.md",
+      "title": "10 Most Vital AI Trends We Need to be Ready for in 2024",
+      "excerpt": "In 2024, healthcare powered by AI will become the norm. 5. AI Ethics and Bias Mitigation: A Moral Imperative Ensuring that AI systems are ethically sound is non-negotiable. Bias mitigation techniques and ethical AI frameworks are crucial. As leaders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/10-most-vital-ai-trends-we-need-to-be-ready-for-in-2024/465119",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/10-most-vital-ai-trends-we-need-to-be-ready-for-in-2024/465119",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1699511298-AIcanvanew.png?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T22:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry.md",
+      "title": "This Norwegian AI Powered Startup Has Big Plans For The Meat Industry",
+      "excerpt": "By combining deep technical and industry knowledge and avoiding using more animals than required, Volur technology plans to maximize utilization of animals for an",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danieladelorenzo/2023/11/09/this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry/",
+      "originalUrl": "https://www.forbes.com/sites/danieladelorenzo/2023/11/09/this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6548119d7062ae40eeaee9ad/0x0.jpg?format=jpg&crop=2092,1282,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1469,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danieladelorenzo/2023/11/09/this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danieladelorenzo/2023/11/09/this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry/amp/",
+      "publishedDateTime": "2023-11-08T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-galaxy-ai-likely-to-debut-on-galaxy-s24-series-ai-live-translate-call-feature-revealed.md",
+      "title": "Galaxy AI likely to debut on Galaxy S24 series, AI Live Translate Call feature revealed",
+      "excerpt": "Samsung has announced the Galaxy AI, an AI-powered initiative designed to enhance the user experience on its upcoming devices. According to the company, this comprehensive AI solution leverages both on-device AI developed by Samsung and cloud-based AI enabled through collaborations with industry partners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/11/09/galaxy-ai-likely-to-debut-on-galaxy-s24-series-ai-live-translate-call-feature-revealed/",
+      "originalUrl": "https://www.gizmochina.com/2023/11/09/galaxy-ai-likely-to-debut-on-galaxy-s24-series-ai-live-translate-call-feature-revealed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/11/AI-Live-Translate-Call-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T20:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-ai-benchmarks.md",
+      "title": "NVIDIA flexes H100 AI GPU muscle, setting new records in AI benchmarks",
+      "excerpt": "NVIDIA shows off new records and milestones with its H100 Tensor Core GPUs and various AI benchmarks, including MLPerf benchmarks that NVIDIA dominates in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/94274/nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/94274/nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/4/94274_710_nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks_full.png",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T20:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-hollywood-actors-strike-ends-with-a-deal-that-will-impact-ai-and-streaming-for-decades.md",
+      "title": "Hollywood Actors Strike Ends With a Deal That Will Impact AI and Streaming for Decades",
+      "excerpt": "The Screen Actors Guild-American Federation of Television and Radio Artists reached a tentative agreement with the studios on Wednesday, ending a 118-day strike.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/hollywood-actors-strike-ends-ai-streaming/",
+      "originalUrl": "https://www.wired.com/story/hollywood-actors-strike-ends-ai-streaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/654c3c7565b9cc956747053c/191:100/w_1280,c_limit/Sag-Strike-Contract-AI-Culture-1678984209.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T18:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-ai-could-supercharge-these-2-companies.md",
       "title": "AI Could Supercharge These 2 Companies",
       "excerpt": "IBM is riding the current of both of these powerful megatrends. “IBM Watson” is the company’s core AI offering. It integrates with the Red Hat hybrid cloud to enable companies to pool data ...",
@@ -928,255 +1178,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards.md",
-      "title": "Point Predictive Wins LendTech of the Year at the 2023 US Fintech Awards",
-      "excerpt": "Point Predictive's first- and third-party fraud solution API, which secured the coveted LendTech of the Year award, is exclusively designed for fintech and lenders. This groundbreaking API seamlessly combines the robust capabilities of Point Predictive's proprietary derived data repository,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards-1032795400",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards-1032795400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml.globenewswire.com/Resource/Download/12358bcd-643b-47ab-8591-aa7e971cfadc",
-          "width": 1748,
-          "height": 1240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-the-strong-case-for-board-oversight-of-artificial-intelligence.md",
-      "title": "The Strong Case For Board Oversight Of Artificial Intelligence",
-      "excerpt": "The massive scope of the Biden Administration’s new Executive Order on AI makes clear the vital role to be played by the board of directors in the application of this extraordinary new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654ba61fde642bcaaf7854bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-11-08T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-in-2024-ai-will-boost-big-cloud-players-but-threaten-them-too.md",
-      "title": "In 2024, AI Will Boost Big Cloud Players — But Threaten Them, Too",
-      "excerpt": "The impact of AI on the cloud market is obvious enough: The hyperscalers have the scope to host GPUs that otherwise strain data center capacity and pocketbooks. Customers want the GPU processors that are critical to AI, and the three biggest cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654ba354f21f417307edb692/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1050,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/amp/",
-      "publishedDateTime": "2023-11-08T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024.md",
-      "title": "EX Recession And AI Revolution Will Reshape The Future Of Work In 2024",
-      "excerpt": "Generative AI lit a fire of innovation under a previously fallow artificial intelligence market. In 2024, employees and employers both stand to benefit: Employees will be empowered with new generative AI-based tools,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654baec230d1aa1a1f10f5af/0x0.png?format=png&height=900&width=1600&fit=bounds",
-          "width": 1050,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/",
-      "publishedDateTime": "2023-11-08T06:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-worlds-first-ai-robot-ceo-becomes-an-honorary-professor.md",
-      "title": "World’s first AI robot CEO becomes an honorary professor",
-      "excerpt": "The world's first AI robot CEO has become an honorary professor. Mika, who heads up Polish rum firm Dictador, was presented the award during the recent 2023/24 Collegium Humanum University inauguration in Warsaw.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tiogapublishing.com/news/nation/world-s-first-ai-robot-ceo-becomes-an-honorary-professor/article_a2a8c5f2-fe04-540c-8618-b3a8f695126e.html",
-      "originalUrl": "https://www.tiogapublishing.com/news/nation/world-s-first-ai-robot-ceo-becomes-an-honorary-professor/article_a2a8c5f2-fe04-540c-8618-b3a8f695126e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/assets/v3/editorial/1/00/1000df76-be8a-5120-9dfc-46fdbc76f7cc/654bb4901de33.image.jpg?crop=1280%2C672%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TiogaPublishing.com",
-        "domain": "tiogapublishing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

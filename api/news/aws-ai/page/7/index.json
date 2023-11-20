@@ -2,6 +2,111 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-13-the-best-amazon-prime-original-series-right-now.md",
+      "title": "The best Amazon Prime original series right now",
+      "excerpt": "Amazon Prime Video is behind only Netflix when it comes to subscriber count, but it doesn’t seem to carry the same weight in the zeitgeist like Max, Hulu, or even Peacock. Partly to blame? Prime ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/best-amazon-original-series/",
+      "originalUrl": "https://www.digitaltrends.com/movies/best-amazon-original-series/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/07/Shelter.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/best-amazon-original-series/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-amazon-original-series/?amp",
+      "publishedDateTime": "2023-08-13T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency.md",
+      "title": "Amazon Translate enhances its custom terminology to improve translation accuracy and fluency",
+      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. When you translate from one language to another, you want your machine translation to be accurate, fluent, and most importantly contextual. Domain-specific and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/11/amazon-translate-enhances-fluency.jpg",
+          "width": 908,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T07:59:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-zero-shot-text-classification-with-amazon-sagemaker-jumpstart.md",
       "title": "Zero-shot text classification with Amazon SageMaker JumpStart",
       "excerpt": "Natural language processing (NLP) is the field in machine learning (ML) concerned with giving computers the ability to understand text and spoken words in the same way as human beings can. Recently, state-of-the-art architectures like the transformer architecture are used to achieve near-human performance",
@@ -1272,84 +1377,6 @@
       "provider": {
         "name": "The Financial Express",
         "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-sumitomo-corporation-selects-aws-to-drive-its-digital-transformation.md",
-      "title": "Sumitomo Corporation Selects AWS to Drive Its Digital Transformation",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Sumitomo Corporation, a leading trading and investme",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230731812816/en/Sumitomo-Corporation-Selects-AWS-to-Drive-Its-Digital-Transformation/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230731812816/en/Sumitomo-Corporation-Selects-AWS-to-Drive-Its-Digital-Transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-31T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country.md",
-      "title": "AWS and Accel announce ML Elevate 2023 to support generative AI startups in the country",
-      "excerpt": "Amazon Web Services and venture capital firm Accel are announcing ML Elevate 2023, a six-week accelerator program aimed at empowering startups.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/",
-      "originalUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/07/AWS-and-Accel-announce-ML-Elevate-2023-to-support-generative-AI-startups-in-the-country.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-and-accel-announce-ml-elevate-2023-to-support-generative-ai-startups-in-the-country/amp/",
-      "publishedDateTime": "2023-07-31T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
         "images": null,
         "publishers": null,
         "authors": null

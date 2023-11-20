@@ -1,91 +1,26 @@
 ---
 category: news
 title: "Police Use of Face Recognition Is Sweeping the UK"
-excerpt: "Face recognition technology has been controversial for years. Cops in the UK are drastically increasing the amount they use it."
+excerpt: "The rapid expansion of face recognition comes at a time when trust in policing levels are at record lows, following a series of high-profile scandals. Civil liberties groups, experts, and some ..."
 publishedDateTime: 2023-11-09T07:00:00Z
-originalUrl: "https://www.wired.com/story/uk-police-face-recognition-expansion/"
-webUrl: "https://www.wired.com/story/uk-police-face-recognition-expansion/"
+originalUrl: "https://www.wired.co.uk/article/uk-police-face-recognition-expansion"
+webUrl: "https://www.wired.co.uk/article/uk-police-face-recognition-expansion"
 type: article
-quality: 69
-heat: 109
-published: true
 
 provider:
-  name: Wired
-  domain: wired.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Wired UK
+  domain: wired.co.uk
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.wired.com/photos/654c2c7f0202a11bfdc62856/191:100/w_1280,c_limit/The-UK-Is-Turning-Into-a-Facial-Recognition-Police-State-Security-GettyImages-1224837570.jpg"
+  - url: "https://media.wired.co.uk/photos/654bc5e907457b7ceeb9ecd8/16:9/w_1280,c_limit/The-UK-Is-Turning-Into-a-Facial-Recognition-Police-State-Security-GettyImages-1224837570.jpg"
     width: 1280
-    height: 670
+    height: 720
     isCached: true
 
-related:
-  - title: "How to remove Face recognition on Windows 11"
-    excerpt: "In this post, we will show you how to disable Face recognition on Windows 11. Facial recognition is a feature in the Windows operating system that allows users to log in to their devices using facial recognition technology. It is part of the Windows Hello ..."
-    publishedDateTime: 2023-11-08T13:32:00Z
-    webUrl: "https://www.thewindowsclub.com/how-to-disable-face-login-in-windows"
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 39
-    images:
-      - url: "https://www.thewindowsclub.com/wp-content/uploads/2023/10/Windows-Sign-in-options.jpg"
-        width: 700
-        height: 336
-        isCached: true
-  - title: "Sharp rise in facial recognition use by Scottish police, UK protest footage scanned"
-    excerpt: "The police in Scotland have tripled the use of retrospective facial recognition over the last five years jumping to nearly 4,000 uses in 2022."
-    publishedDateTime: 2023-11-06T20:43:00Z
-    webUrl: "https://www.biometricupdate.com/202311/sharp-rise-in-facial-recognition-use-by-scottish-police-uk-protest-footage-scanned"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/26183203/facial-recognition-close-crowd-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "UK MPs Asleep at the Wheel as Facial Recognition Technology Spells The End of Privacy in Public"
-    excerpt: "IntroductionThe use of facial recognition technology (FRT) by law enforcement and private companies in public spaces throughout the UK is on the rise."
-    publishedDateTime: 2023-11-07T10:55:00Z
-    webUrl: "https://privacyinternational.org/long-read/5155/uk-mps-asleep-wheel-facial-recognition-technology-spells-end-privacy-public"
-    type: article
-    provider:
-      name: Privacy International
-      domain: privacyinternational.org
-    quality: 29
-    images:
-      - url: "https://privacyinternational.org/sites/default/files/styles/middle_column_cropped_small_1x/public/2023-11/still-qrcode-v1.jpg?itok=L8JfKKi1"
-        width: 555
-        height: 312
-        isCached: true
-  - title: "Revealed: Met Police Scans Almost Quarter of a Million Faces Using Facial Recognition Technology in 2023"
-    excerpt: "This newspaper has found officers in London have been zealous users of the system, which automatically scans the faces of passers-by and matches them against a watchlist"
-    publishedDateTime: 2023-11-10T11:35:00Z
-    webUrl: "https://bylinetimes.com/2023/11/10/revealed-met-police-scans-almost-quarter-of-a-million-faces-using-facial-recognition-technology-in-2023/"
-    type: article
-    provider:
-      name: bylinetimes
-      domain: bylinetimes.com
-    quality: 24
-    images:
-      - url: "https://bylinetimes.com/wp-content/uploads/2022/10/Sir-Mark-Rowley-600x314.jpg"
-        width: 600
-        height: 314
-        isCached: true
-
-secured: "YhPOb7Eah7nCWR9eW42YCV0HRFM858tBlQKFTD8+7+obYt0Ygr/U33xIt06E/ha2kWzwfTk0WxJXpO3TdQ4336viVn5KakKsOM5r0M77R0Th2pjmIKSlY32fN3oZWbA4kMD/jVveIQRdyzk8Z2VDXnq+4pB1JZI5PaNNEDJehohZAdb55xowDKy1TFOJ/1ZP+0xpQ8eBybSqnHNJPlIQRv4jObIg+fai6PArItBF3c1S5D+vPeCUMcU3xsBNzPQdbI08x1EezRvE1y2Z7GR/ZwC39ZY/wefGVqq90Xa401dEMf23xOQYQfPlsGc4pbby0q89pumafPBJRMHpinwBayumVGuLU5iFZNx+M5igRYb9Tp6VzJIYGKisijqhi6QFG6JnfPgMYfZ/b7faj/+6KGd3+V80J+YJ4yYsyeaH6dkUMw1ZEy54W9PGkRiJLCAaF7w8qKgTa0pIPUsTCHmo+TWS04mYpCuQdoAK21bkhEFDK0ZV01uasKS3GXNwj8v9GPhgYarqWTdqjMITo+mYqw==;Fm3A1vDUz5FFRUzagr0TbQ=="
+secured: "cEYPDFZAfgE84mY1DtOL3ohm+lUU83DcpBN5ICf2SjrLWpG4ARq6btTxnn4zE9dGyWTXg5K9xCJthMT2m1RzakJVu8cIoHavclDq89MQ4QM+M2TRXylNPWOg6h1Pq3uRzGJ39H7A4PcOWCcHeiv4yaLtr2/a/R93V9xs7LaZN+fDRXEgfJSr7rbVOT3z/0zW77Qee23ajGfQ+0c3bonP8iMjY9GtqGkNMEGN1raH/UZaKVuekLrM1DdsH0Q+lVfavh8XOfAbnoWJ1Zf9uy/WnDgNzYPYoBf0BpU8uv6g8NPlQwrVWhKnRkd1eCU6GKruXvyZPMncj36L+MUmJKaIjNN4MgIzEisMxFoaQZHGsP4=;TZUYVGa7cugxgMX/YsaNkg=="
 ---
 

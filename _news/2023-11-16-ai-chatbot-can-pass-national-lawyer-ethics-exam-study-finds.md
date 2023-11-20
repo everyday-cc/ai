@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/transactional/ai-chatbot-can-pass-na
 webUrl: "https://www.reuters.com/legal/transactional/ai-chatbot-can-pass-national-lawyer-ethics-exam-study-finds-2023-11-16/"
 type: article
 quality: 64
-heat: 84
+heat: 85
 published: true
 
 provider:

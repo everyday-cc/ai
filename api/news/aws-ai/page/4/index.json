@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-27-uaes-falcon-180b-breaks-boundaries.md",
+      "title": "UAE’s Falcon 180B breaks boundaries",
+      "excerpt": "Falcon 180B, the most advanced open Large Language Model (LLM) is available via Amazon SageMaker Jumpstart Dubai, UAE – In a monumental stride for the Middle East's technology landscape, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-k6erlmyy",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-k6erlmyy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-amazon-is-the-apex-predator-of-our-platform-era.md",
+      "title": "Amazon Is the Apex Predator of Our Platform Era",
+      "excerpt": "Mr. Doctorow is the author, most recently, of “The Internet Con: How to Seize the Means of Computation.” The Federal Trade Commission’s chair, Lina Khan, has brought her long-awaited ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/09/27/opinion/amazon-ftc-antitrust-monopoly.html",
+      "originalUrl": "https://www.nytimes.com/2023/09/27/opinion/amazon-ftc-antitrust-monopoly.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/09/27/opinion/27doctorow/27doctorow-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-passur-completes-migration-to-aws.md",
       "title": "PASSUR Completes Migration to AWS",
       "excerpt": "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy",
@@ -1233,113 +1319,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-50-generative-ai-startups-to-watch-in-2023.md",
-      "title": "50 Generative AI Startups to Watch in 2023",
-      "excerpt": "and other forms of artificial intelligence to generate new, original content for a variety of business use cases. Larger tech companies like Google, Microsoft, and AWS are working hard to build up ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-startups/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-ibm-expands-watsonx-platform-with-watsonxdata.md",
-      "title": "IBM Expands Watsonx Platform With Watsonx.data",
-      "excerpt": "Vice President & Principal Analyst, Enterprise Data Technologies, Robert Kramer analyzes the expansion of IBM's watsonx.data offering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6508c80a3d69b479bdfdab8c/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/amp/",
-      "publishedDateTime": "2023-09-18T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

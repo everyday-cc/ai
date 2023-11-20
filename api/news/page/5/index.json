@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-13-biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research.md",
+      "title": "BioStrand® Unveils a Revolutionary Approach to Biological Sequence Retrieval: A Fusion of Natural Language Processing and Database Research",
+      "excerpt": "“New Paradigm for Biological Sequence Retrieval Inspired by Natural Language Processing and Database Research” on bioRχiv. We apologize, but this video has failed to load. Try refreshing your browser, or tap here to see other videos from our tea",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research",
+      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-grafana-cloud-kubernetes-monitoring-with-machine-learning-predictions.md",
+      "title": "Grafana Cloud Kubernetes Monitoring with Machine Learning Predictions",
+      "excerpt": "Elspeth Minty discusses the background of FINOS, introduces some of its projects and initiatives, and the importance of FINOS to open source in the financial services ... and configure the machine learning model. Subsequently, the system autonomously ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/11/grafana-kubernetes-ml-monitoring/",
+      "originalUrl": "https://www.infoq.com/news/2023/11/grafana-kubernetes-ml-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-top-10-best-python-libraries-for-deep-learning-in-2023.md",
+      "title": "Top 10 Best Python Libraries for Deep Learning in 2023",
+      "excerpt": "Python is one of the most popular programming languages in the world, and it’s used extensively in the field of deep learning. Python’s versatility and ease of use make it an ideal language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straight.com/guides/software/best-python-libraries-for-deep-learning/",
+      "originalUrl": "https://www.straight.com/guides/software/best-python-libraries-for-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Georgia Straight",
+        "domain": "straight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-13-transforming-brain-research-with-ai-and-machine-learning.md",
       "title": "Transforming brain research with AI and machine learning",
       "excerpt": "Using machine learning, researchers are able to use data from the brain to glean deeper insights and apply this new knowledge in clinical settings. The findings will be presented on Monday ...",
@@ -32,6 +135,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-how-acting-small-can-deliver-big-thinking-for-service-transformation.md",
+      "title": "How acting small can deliver big thinking for service transformation",
+      "excerpt": "Today’s citizens live in a world of effortless digital experiences. They expect information to be easy to find, and for services to meet their specific needs.  And when they do need help – they want it to be available instantly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.themandarin.com.au/234513-how-acting-small-can-deliver-big-thinking-for-service-transformation/",
+      "originalUrl": "https://www.themandarin.com.au/234513-how-acting-small-can-deliver-big-thinking-for-service-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.themandarin.com.au/wp-content/uploads/2023/11/AdobeStock_610243322-e1699484318752.jpeg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mandarin",
+        "domain": "themandarin.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -853,206 +999,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-what-successful-early-adopters-of-generative-ai-have-learned.md",
-      "title": "What Successful Early Adopters Of Generative AI Have Learned",
-      "excerpt": "Generative AI is still in the hype phase, and the real challenge lies in how businesses can adapt, scale, and ethically deploy these tools to realize tangible outcomes",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654e7241ce90a1eac32d936f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/amp/",
-      "publishedDateTime": "2023-11-10T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-how-we-taught-google-translate-to-recognize-homonyms.md",
-      "title": "How we taught Google Translate to recognize homonyms",
-      "excerpt": "How Google Translate’s neural model taught it to understand bass from bass.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/translate/google-translate-homonyms/",
-      "originalUrl": "https://blog.google/products/translate/google-translate-homonyms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/homonyms_hero.gif",
-          "width": 2880,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/translate/google-translate-homonyms/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/google-translate-homonyms/amp/",
-      "publishedDateTime": "2023-11-10T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-use-machine-learning-without-writing-a-single-line-of-code-with-amazon-sagemaker-canvas.md",
-      "title": "Use machine learning without writing a single line of code with Amazon SageMaker Canvas",
-      "excerpt": "In the recent past, using machine learning (ML) to make predictions, especially for data in the form of text and images, required extensive ML knowledge for creating and tuning of deep learning models. Today, ML has become more accessible to any user who wants to use ML models to generate business value.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-machine-learning-without-writing-a-single-line-of-code-with-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-machine-learning-without-writing-a-single-line-of-code-with-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/03/mlblog_img1-1260x552.png",
-          "width": 1260,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T08:57:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-microsoft-celebrates-cognitive-services-milestones-with-new-ai-capabilities.md",
-      "title": "Microsoft celebrates Cognitive Services milestones with new AI capabilities",
-      "excerpt": "Value stream management involves people in the organization to examine workflows and other processes to ensure they are deriving the maximum value from their efforts while eliminating waste — of ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
-      "originalUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

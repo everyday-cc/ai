@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-11-17-microsoft-recommits-to-open-source-ai-models-despite-openai-investment.md",
-      "title": "Microsoft recommits to open source AI models, despite OpenAI investment",
-      "excerpt": "Ignite over the last two days, Microsoft also made more important moves to bolster its support for rival open source AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsoft-recommits-to-open-source-ai-models-despite-openai-investment/",
-      "originalUrl": "https://venturebeat.com/ai/microsoft-recommits-to-open-source-ai-models-despite-openai-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-14-the-download-the-origins-of-life-and-building-facebooks-ai-empire.md",
       "title": "The Download: the origins of life, and building Facebook’s AI empire",
       "excerpt": "Fei-Fei Li is one of the most prominent computer science researchers of our time. The co-director of Stanford’s Human-Centered AI Institute is best known for creating ImageNet, a popular image data set that was pivotal in allowing researchers to train modern AI systems.",
@@ -1313,6 +1269,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-apples-been-relatively-quiet-about-ai-but-its-been-pouring-billions-into-research-and-that-could-mean-a-smarter-siri.md",
+      "title": "Apple's been relatively quiet about AI — but it's been pouring billions into research, and that could mean a 'smarter' Siri",
+      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Apple is working toward releasing a new version of Siri that incorporates AI technology after a quieter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/smarter-siri-ai-messages-apple-iphone-ipad-mac-homepod-2023-10",
+      "originalUrl": "https://www.businessinsider.com/smarter-siri-ai-messages-apple-iphone-ipad-mac-homepod-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6535b2f796f7540cd062b3f5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/smarter-siri-ai-messages-apple-iphone-ipad-mac-homepod-2023-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/smarter-siri-ai-messages-apple-iphone-ipad-mac-homepod-2023-10?amp",
+      "publishedDateTime": "2023-10-23T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

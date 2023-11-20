@@ -7,8 +7,8 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3242094/ousted-openai-c
 webUrl: "https://www.scmp.com/tech/big-tech/article/3242094/ousted-openai-ceo-sam-altman-said-discuss-possible-return-start-behind-chatgpt-mulls-new-ai-venture"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: scmp.com
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI CEO Sam Altman discusses possible return, mulls new AI venture, source says"
+    excerpt: "A day after the board fired him in a surprise move that rocked the tech world, Altman was talking with OpenAI executives about improving the company's governance structure, the source said."
+    publishedDateTime: 2023-11-19T13:24:00Z
+    webUrl: "https://www.reuters.com/technology/openai-co-founder-altman-planning-new-venture-information-2023-11-18/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 41
   - title: "Sam Altman was the trusted face of AI. His firm, though, is much more complex"
     excerpt: "The conflicts of interest built into OpenAI’s corporate structure may be a bigger story than the loss of its leader"
     publishedDateTime: 2023-11-19T09:00:00Z

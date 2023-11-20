@@ -2,102 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-10-20-satya-nadella-says-microsoft-will-lead-the-way-in-the-new-era-of-ai.md",
-      "title": "Satya Nadella says Microsoft will lead the way in the 'new era of AI'",
-      "excerpt": "In his annual letter to shareholders, employees, and customers, Microsoft CEO Satya Nadella outlined the company's vision for the \"new era of Artificial Intelligence\", with emphasis on its democratisation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/technology/microsoft-ceo-satya-nadella-new-era-of-artificial-intelligence-18107571.htm",
-      "originalUrl": "https://www.cnbctv18.com/technology/microsoft-ceo-satya-nadella-new-era-of-artificial-intelligence-18107571.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2019/05/Satya-Nadella-Microsoft-e1697754351536-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/technology/microsoft-ceo-satya-nadella-new-era-of-artificial-intelligence-18107571.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/microsoft-ceo-satya-nadella-new-era-of-artificial-intelligence-18107571.htm/amp",
-      "publishedDateTime": "2023-10-19T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-ampere-makes-a-strong-case-for-on-chip-ai.md",
-      "title": "Ampere Makes A Strong Case For On-Chip AI",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into Ampere’s Altra and AmpereOne CPUs and their compelling value proposition for certain AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6531665c3f2160c1e04b2d4d/0x0.jpg?format=jpg&crop=1024,576,x0,y159,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/amp/",
-      "publishedDateTime": "2023-10-19T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-10-19-microsoft-launches-azure-ai-content-safety-service-as-a-game-changer-for-online-safety.md",
       "title": "Microsoft Launches Azure AI Content Safety Service as a Game-Changer for Online Safety",
       "excerpt": "Azure AI Content Safety leverages the power of AI to first detect and then filter dangerous content, ensuring a safer digital environment. Microsoft has made its Azure AI Content Safety service ...",
@@ -1370,6 +1274,92 @@
       "provider": {
         "name": "The Financial Express",
         "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-tech-analyst-dan-ives-microsoft-azure-is-seeing-a-clear-uptick-in-artificial-intelligence-ai-spending-heres-what-it-means-for-the-stock.md",
+      "title": "Tech Analyst Dan Ives: Microsoft Azure Is Seeing a \"Clear Uptick\" in Artificial Intelligence (AI) Spending. Here's What It Means for the Stock.",
+      "excerpt": "Ives said that based on recent checks, Microsoft's monetization of AI is \"happening quicker than expected.\" He goes on to note that \"our latest Azure checks also show a clear uptick in activity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/03/dan-ives-microsoft-azure-artificial-intelligence/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/03/dan-ives-microsoft-azure-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/749617/the-virtual-button-with-the-letters-ai-in-a-circle-hovering-above-a-keyboard-about-to-be-clicked-by-a-cursor.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-mphasis-forms-strategic-technology-partnership-with-corestack.md",
+      "title": "Mphasis Forms Strategic Technology Partnership with CoreStack",
+      "excerpt": "Mphasis, (BSE: 526299; NSE: MPHASIS), an Information Technology (IT) solutions provider specializing in cloud and cognitive services, today announces",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231003982144/en/Mphasis-Forms-Strategic-Technology-Partnership-with-CoreStack",
+      "originalUrl": "https://www.businesswire.com/news/home/20231003982144/en/Mphasis-Forms-Strategic-Technology-Partnership-with-CoreStack",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

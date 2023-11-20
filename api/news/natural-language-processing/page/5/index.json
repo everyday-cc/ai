@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-26-spotify-ai-powered-translation-tool-has-podcasters-speaking-in-global-tongues.md",
+      "title": "Spotify AI-Powered Translation Tool Has Podcasters Speaking in Global Tongues",
+      "excerpt": "The Spotify pilot program called Voice Translation for podcasts not only translates a podcast from one language to another but will retain the podcaster's voice as it does it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technewsworld.com/story/spotify-ai-powered-translation-tool-has-podcasters-speaking-in-global-tongues-178649.html",
+      "originalUrl": "https://www.technewsworld.com/story/spotify-ai-powered-translation-tool-has-podcasters-speaking-in-global-tongues-178649.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/09/on-air.jpg",
+          "width": 1000,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-spotify-is-launching-an-eerie-new-ai-led-feature-that-mimics-podcasters-voices-and-translates-them-into-different-languages.md",
       "title": "Spotify is launching an eerie new AI-led feature that mimics podcasters' voices and translates them into different languages",
       "excerpt": "Spotify is working with podcasters like Lex Fridman, Bill Simmons, and Steven Bartlett to release AI-generated translations of some podcast episodes.",
@@ -1317,58 +1360,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-data-driven-strategy-how-benchmarking-drives-stronger-cx-performance.md",
-      "title": "Data-Driven Strategy: How Benchmarking Drives Stronger CX Performance",
-      "excerpt": "Let’s explore how through chatbot benchmarking, businesses can ensure their bot is living up to its full potential and driving stronger CX performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/data-driven-strategy-how-benchmarking-drives-stronger-cx-performance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/data-driven-strategy-how-benchmarking-drives-stronger-cx-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650353a2f5d79fd4bd28ff09/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/data-driven-strategy-how-benchmarking-drives-stronger-cx-performance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/data-driven-strategy-how-benchmarking-drives-stronger-cx-performance/amp/",
-      "publishedDateTime": "2023-09-15T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

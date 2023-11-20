@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-18-pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge.md",
+      "title": "PyTorch ExecuTorch extends open source AI for new quests at the edge",
+      "excerpt": "ExecuTorch was validated and vetted by actual real-world engineering problems and Meta has already proven the technology with deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge/",
+      "originalUrl": "https://venturebeat.com/ai/pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_virtual_reality_headset_displaying_neon_fire_ab1a2c58-33f2-4f0d-ae81-e17de062897d.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-multiple-languages.md",
       "title": "Can New York’s mayor speak Mandarin? No, but with AI he’s making robocalls in multiple languages",
       "excerpt": "In September, the music streaming service Spotify introduced an AI feature to translate a podcast into multiple languages in the podcaster’s voice. Just this month, the startup ElevenLabs introduced a voice translation tool that it said “can convert ...",
@@ -1351,40 +1404,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-soc-boosts-speech-recognition-systems.md",
-      "title": "SoC boosts speech-recognition systems",
-      "excerpt": "With the development and maturity of speech compression/ decompression and recognition, speech processing is becoming an important form of man-machine interface. Currently, these systems in laboratories are mostly large and complex. These implementations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/15198/soc-boosts-speech-recognition-systems.html",
-      "originalUrl": "https://www.design-reuse.com/articles/15198/soc-boosts-speech-recognition-systems.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

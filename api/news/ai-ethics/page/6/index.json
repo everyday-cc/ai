@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-18-chinas-new-rules-on-ai-generated-content.md",
+      "title": "China's new rules on AI-generated content",
+      "excerpt": "Here's what you need to know about Beijing's regulations, which target services for the general public: - AI ethics - Generative AI must \"adhere to the core values of socialism\" and refrain from threatening national security and promoting terrorism ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb",
+      "originalUrl": "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/ZjUxZGU2ZTEtYTI4MS00/0/afp_33r87q8-jpg.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/china-and-asia-pacific/chinas-new-rules-on-ai-generated-content-k698bfyb?amp=1",
+      "publishedDateTime": "2023-08-18T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-when-hackers-descended-to-test-ai-they-found-flaws-aplenty.md",
       "title": "When hackers descended to test AI, they found flaws aplenty",
       "excerpt": "The hackers tried to break through the safeguards of various AI programs in an effort to identify their vulnerabilities - to find the problems before actual criminals and misinformation peddlers did - in a practice known as red-teaming.",
@@ -1361,58 +1404,6 @@
         "name": "techxplore",
         "domain": "techxplore.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-can-we-regulate-ai-without-stifling-innovation-heres-what-experts-think.md",
-      "title": "Can we regulate AI without stifling innovation? Here’s what experts think",
-      "excerpt": "FINITE organized a roundtable on AI regulation and innovation. Check out what experts said about keeping the right balance.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/can-we-regulate-ai-without-stifling-innovation-heres-what-experts-think",
-      "originalUrl": "https://thenextweb.com/news/can-we-regulate-ai-without-stifling-innovation-heres-what-experts-think",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FAdd-a-heading-2.jpg&signature=396ff275a31cab7c281c4aec3342d54f",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,317 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-09-04-venice-film-festival-2023-is-cinematic-ais-coming-out-party.md",
+      "title": "Venice Film Festival 2023 Is Cinematic AI’s Coming Out Party",
+      "excerpt": "While promoting his AI-powered movie Here by Robert Zemeckis, Hanks said he could see an AI version of himself acting after his death. Joe Russo, director of Avengers Endgame envisions a future where people can come home after a long day to ask their AI TV for a new movie starring themselves and Marilyn Monroe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f52968cad6167132b0157e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 791,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/amp/",
+      "publishedDateTime": "2023-09-03T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-04-3-appealing-ai-stocks-to-snatch-up-at-current-levels.md",
+      "title": "3 Appealing AI Stocks to Snatch Up at Current Levels",
+      "excerpt": "Microsoft is a stable AI stock with vast reach. Its early OpenAI investment provides a unique advantage. Azure is growing relatively quickly in the cloud computing sector. Key Azure Arc’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-appealing-ai-stocks-to-snatch-up-at-current-levels",
+      "originalUrl": "https://www.nasdaq.com/articles/3-appealing-ai-stocks-to-snatch-up-at-current-levels",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-04-remote-controlled-robot-has-tv-eyes-soft-touch.md",
+      "title": "Remote-Controlled Robot Has TV “Eyes,” Soft Touch",
+      "excerpt": "This article was supported by readers like you. Our mission is to provide accurate, engaging news of science to the public. That mission has never been more important than it is today. As a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencenews.org/archive/remote-controlled-robot-has-tv-eyes-soft-touch",
+      "originalUrl": "https://www.sciencenews.org/archive/remote-controlled-robot-has-tv-eyes-soft-touch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sciencenews.org/wp-content/uploads/2019/08/sn-fallback.png",
+          "width": 990,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-04-transformers-revolutionized-ai-what-will-replace-them.md",
+      "title": "Transformers Revolutionized AI. What Will Replace Them?",
+      "excerpt": "As another example, eighteen-month-old startup Inflection recently raised over $1 ... while a novel architecture soon displaces transformers as state-of-the-art in robotics. Or perhaps a new AI approach is developed that outperforms and rapidly replaces ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f3b2b43d727bdfbf85cc97/0x0.jpg?format=jpg&width=1200",
+          "width": 711,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/09/03/transformers-revolutionized-ai-what-will-replace-them/amp/",
+      "publishedDateTime": "2023-09-03T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-09-03-five-principles-for-generative-ai-in-financial-services.md",
+      "title": "Five principles for generative AI in financial services",
+      "excerpt": "THANKS to recent technological advances in generative artificial intelligence (AI) foundation models and record-breaking rates of consumer adoption, it’s no longer a question whether your company will use this technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bworldonline.com/special-reports/2023/09/04/542942/five-principles-for-generative-ai-in-financial-services/",
+      "originalUrl": "https://www.bworldonline.com/special-reports/2023/09/04/542942/five-principles-for-generative-ai-in-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bworldonline.com/special-reports/2023/09/04/542942/five-principles-for-generative-ai-in-financial-services/?amp",
+      "cdnAmpWebUrl": "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/special-reports/2023/09/04/542942/five-principles-for-generative-ai-in-financial-services/?amp",
+      "publishedDateTime": "2023-09-03T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BusinessWorld",
+        "domain": "bworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-03-tesla-drops-the-price-of-its-full-self-driving-beta-software.md",
+      "title": "Tesla Drops the Price of Its Full Self-Driving Beta Software",
+      "excerpt": "Tesla has dropped the price of its full self-driving beta software. Now instead of $15,000, Tesla owners who want the vehicle’s advanced driver assistance system (ADAS) will pay $12,000, TechCrunch reports. Tesla previously charged $12,000 for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its-full-self-driving-beta-software",
+      "originalUrl": "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its-full-self-driving-beta-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-drop/tesla-drops-the-price-of-its-full-self-driving-beta-software_8gh1.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-03T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-03-artificial-intelligence-may-influence-whether-you-can-get-pain-medication.md",
+      "title": "Artificial intelligence may influence whether you can get pain medication",
+      "excerpt": "Artificial intelligence is working its way into more parts of American life. As AI spreads within the health care landscape, it brings familiar concerns of bias and accuracy and whether government ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/?ref=upstract.com",
+      "originalUrl": "https://www.salon.com/2023/09/03/artificial-intelligence-may-influence-whether-you-can-get-pain-medication_partner/?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/01/oxycontin-pill-bottles-tablets-0130201.jpg",
+          "width": 1200,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-03T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-03-gaganyaan-2024-isros-humanoid-robot-vyommitra-is-prepping-for-lift-off.md",
       "title": "Gaganyaan 2024 | ISRO's humanoid robot Vyommitra is prepping for lift-off",
       "excerpt": "He said the project's second phase will involve the launch of a female humanoid robot called \"Vyommitra\" into space. Aditya-L1 Mission: The satellite is healthy and operating nominally.",
@@ -862,341 +1173,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it.md",
-      "title": "‘I hope I’m wrong’: the co-founder of DeepMind on how AI threatens to reshape life as we know it",
-      "excerpt": "From synthetic organisms to killer drones, Mustafa Suleyman talks about the mind-blowing potential of artificial intelligence, and how we can still avoid catastrophe",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it?ref=emergentmind",
-      "originalUrl": "https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it?ref=emergentmind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5bf98bcdb9cd152563a3ccbbe53336548380df1c/1_0_6331_3800/master/6331.jpg?width=620&quality=85&auto=format&fit=max&s=7ac26dbd3b6604c3e8927a0efd6779e6",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it",
-      "publishedDateTime": "2023-09-02T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-walmart-labor-day-sale-2023-the-19-best-deals-i-recommend.md",
-      "title": "Walmart Labor Day sale 2023 - the 19 best deals I recommend",
-      "excerpt": "COSORI Air Fryer Pro: was $99.99 now $89 at Walmart Get the top-rated Cosori Air Fryer Pro on sale for $89 at Walmart's Labor Day sale. With over 37,000 positive reviews on Amazon, the five-quart air fryer features nine different functions to whip up easy meals, and the basket is dishwasher safe for easy clean-ups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/seasonal-sales/walmart-labor-day-sale-2023-19-best-deals",
-      "originalUrl": "https://www.techradar.com/seasonal-sales/walmart-labor-day-sale-2023-19-best-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/GVjnAYtE5oyApprfoq2UwZ-1200-80.jpg",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T20:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-ai-can-curate-learning-but-ethics-is-catchword.md",
-      "title": "'AI can curate learning, but ethics is catchword'",
-      "excerpt": "Without the ethical mindset, we will go down a dystopian pathway with AI. In a short-term framework, ethics and guidelines are necessary, otherwise before we take over AI it will take over us.\" He also called for responsible harnessing of AI in education ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/articleshow/103298213.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/articleshow/103298213.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-103298237,width-1070,height-580,imgsize-914122,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/amp_articleshow/103298213.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/ai-can-curate-learning-but-ethics-is-catchword/amp_articleshow/103298213.cms",
-      "publishedDateTime": "2023-09-01T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications.md",
-      "title": "Dihuni Ships GPU Servers for Generative AI and LLM Applications",
-      "excerpt": "1, 2023 /PRNewswire/ -- Dihuni, a leading artificial intelligence (AI), data center and Internet of Things (IoT) solutions company today announced it has started shipping new OptiReady GPU servers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications/article_54b10cd7-3d6c-502f-b7e7-745674a52d54.html",
-      "originalUrl": "https://www.victoriaadvocate.com/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications/article_54b10cd7-3d6c-502f-b7e7-745674a52d54.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-enabot-ebo-x-review-a-smart-but-flawed-robot-companion.md",
-      "title": "Enabot EBO X review: A smart, but flawed robot companion",
-      "excerpt": "The Enabot EBO X robot companion is rough around the edges, but it offers tons of cool smart home features that make it a compelling addition to your family.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/enabot-ebo-x-review/",
-      "originalUrl": "https://www.digitaltrends.com/home/enabot-ebo-x-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/EBO-X-1.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/enabot-ebo-x-review/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/enabot-ebo-x-review/?amp",
-      "publishedDateTime": "2023-09-01T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple.md",
-      "title": "Google's new tool can detect AI-generated images, but it's not that simple",
-      "excerpt": "Currently, SynthID cannot detect all AI-generated images, as it is limited to those created with Google's text-to-image tool, Imagen. But this is a sign of a promising future for responsible AI, especially if other companies adopt SynthID into their generative AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/",
-      "originalUrl": "https://www.zdnet.com/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a37afb3870b4e3e01366db426b750d9ad1222c88/2023/09/01/87a971ed-e9c5-4885-a439-b28db8226d0d/deepmind.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/",
-      "publishedDateTime": "2023-09-01T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-elon-musks-x-will-use-public-data-to-train-ai-models.md",
-      "title": "Elon Musk's X will use public data to train AI models",
-      "excerpt": "The artist formerly known as Twitter has been in some hot water this week after Bloomberg found that the social media site would start collecting biometric details, along with job and education data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
-      "originalUrl": "https://www.engadget.com/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/00U4O1LtqDVNNIWes5FWNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/1cb3ee20-48f7-11ee-95cf-0cef93b6a4d6",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
-      "publishedDateTime": "2023-09-01T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

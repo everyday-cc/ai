@@ -22,69 +22,29 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft recommits to open source AI models, despite OpenAI investment"
-    excerpt: "Ignite over the last two days, Microsoft also made more important moves to bolster its support for rival open source AI models."
-    publishedDateTime: 2023-11-17T00:00:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-recommits-to-open-source-ai-models-despite-openai-investment/"
+  - title: "Ousted OpenAI CEO Sam Altman said to discuss possible return to start-up behind ChatGPT, mulls new artificial intelligence venture"
+    excerpt: "A day after the OpenAI board fired him, Sam Altman was talking with the company’s executives about improving its governance structure, while discussing with some core ChatGPT researchers about starting a new artificial intelligence company."
+    publishedDateTime: 2023-11-19T21:34:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3242094/ousted-openai-ceo-sam-altman-said-discuss-possible-return-start-behind-chatgpt-mulls-new-ai-venture"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-  - title: "Microsoft's AI Transformation: From Software Giant To AI Powerhouse"
-    excerpt: "Microsoft wants to be a major force in the AI ecosystem, and Microsoft CEO and Chairman Satya Nadella made this clear in his keynote address. From developing its own AI accelerator chips to launching a marketplace for copilots, Microsoft has a long-term strategy in place."
-    publishedDateTime: 2023-11-19T18:28:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-  - title: "Altman Sought Billions For AI Chip Venture Before OpenAI Ouster"
-    excerpt: "In the weeks leading up to his shocking ouster from OpenAI, Sam Altman was actively working to raise billions from some of the world’s largest investors for a new chip venture, according to people familiar with the matter."
-    publishedDateTime: 2023-11-19T17:37:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
-  - title: "Ousted OpenAI C.E.O. Makes Plans for New Artificial Intelligence Company"
-    excerpt: "Sam Altman, who was forced out of his company on Friday afternoon, was quickly moving to create another company with another OpenAI executive who quit on Friday."
-    publishedDateTime: 2023-11-18T23:00:00Z
-    webUrl: "https://www.nytimes.com/2023/11/18/technology/ousted-openai-ceo-makes-plans-for-new-artificial-intelligence-company.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 61
-  - title: "OpenAI’s leadership coup could slam brakes on growth in favor of AI safety"
-    excerpt: "All the signs point to a split between co-founder Ilya Sutskever and Sam Altman, after Sutskever become increasingly concerned that Altman was pushing OpenAI's business expansion too quickly, at the expense of safety."
-    publishedDateTime: 2023-11-18T23:02:00Z
-    webUrl: "https://venturebeat.com/ai/openais-leadership-coup-could-slam-brakes-on-growth-in-favor-of-ai-safety/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
-  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
-    excerpt: "Matt Schlicht, the CEO of the startup Octane AI, told CNBC that Altman and Brockman, who was formerly the chief technology office of Stripe, “made a technology available that we’d only ever dreamed about” and called it “the most exciting and powerful development of our lifetime.”"
-    publishedDateTime: 2023-11-19T14:10:00Z
-    webUrl: "https://www.cnbc.com/2023/11/19/openai-executive-shakeup-raises-concerns-about-future-of-ai.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 37
-  - title: "How OpenAI interim chief Mira Murati helped launch AI into the mainstream"
-    excerpt: "Born in Albania, former chief technology officer is charged with calming the waters after ouster of Sam Altman"
-    publishedDateTime: 2023-11-19T09:02:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/nov/19/how-openai-interim-chief-mira-murati-helped-launch-ai-into-the-mainstream"
+      name: scmp.com
+      domain: scmp.com
+    quality: 52
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/11/19/43679d2f-6cb3-4c31-9f43-6e781d665a86_80405063.jpg?itok=pE9feADO&v=1700400807"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Sam Altman was the trusted face of AI. His firm, though, is much more complex"
+    excerpt: "The conflicts of interest built into OpenAI’s corporate structure may be a bigger story than the loss of its leader"
+    publishedDateTime: 2023-11-19T09:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/nov/19/sam-altman-was-the-trusted-face-of-ai-his-firm-though-is-much-more-complex"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 16
+    quality: 14
 
 secured: "k1imysksAttLhybgw1KQyykxTUOOGnH48dfBmC8nJhzJhJ+uqVehu2VtI4PHfI+B0gJKyqiwGDgtvlR5Lxf2WOnPGxPjzzUMrE22yDtL+mp1eAzElL5nRclRx2ZK75lLaEeLSGjqp9ov5tkepkPOJFQnMvqtD6ANLXuBvbOOI0xlxR67QiNkMzNY+ujgRkplSgosDbJBYHoLOiiKC2gvpd9kAwdoE+qCf0w4p89pmYMXts6r5pkMQsCWqK8YjaZcMYeJcBV3As4i6trF1k3murF82rgbCutBh0Nr6HpJDmkzD898O3BBFWB+fP20RoyrCO4b++DcKfwwWmMIAsLgQXHfK4CK02O7dUtPORXhNTqQTUU9Y3PBf2SvlzNo12sDEo5zJceDIAikmzKVhlvorjXoC6cOxfENOjSf7p0thQY3K5gDoVX2cYXGB/tVZASnY90tSdjIrOmDgTm/98AzgiODPEs+2+/+xdpJWPeLCoMXxZvGGsPCPWMcnrDeVso7k3qwbfHpr9NuUeU72JGlbQ==;+Iw54g4VoTqqui25KvIi4A=="
 ---

@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-09-soc-boosts-speech-recognition-systems.md",
+      "title": "SoC boosts speech-recognition systems",
+      "excerpt": "With the development and maturity of speech compression/ decompression and recognition, speech processing is becoming an important form of man-machine interface. Currently, these systems in laboratories are mostly large and complex. These implementations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/articles/15198/soc-boosts-speech-recognition-systems.html",
+      "originalUrl": "https://www.design-reuse.com/articles/15198/soc-boosts-speech-recognition-systems.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-08-google-claims-their-ai-innovation-far-beyond-rivals.md",
       "title": "Google claims their AI innovation far beyond rivals",
       "excerpt": "A company executive, while introducing their latest flagship smartphones, emphasized that Google's artificial intelligence technology has surged",
@@ -1338,49 +1372,6 @@
       "provider": {
         "name": "Arab Times",
         "domain": "arabtimesonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-spotify-ai-powered-translation-tool-has-podcasters-speaking-in-global-tongues.md",
-      "title": "Spotify AI-Powered Translation Tool Has Podcasters Speaking in Global Tongues",
-      "excerpt": "The Spotify pilot program called Voice Translation for podcasts not only translates a podcast from one language to another but will retain the podcaster's voice as it does it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/spotify-ai-powered-translation-tool-has-podcasters-speaking-in-global-tongues-178649.html",
-      "originalUrl": "https://www.technewsworld.com/story/spotify-ai-powered-translation-tool-has-podcasters-speaking-in-global-tongues-178649.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/09/on-air.jpg",
-          "width": 1000,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
         "images": null,
         "publishers": null,
         "authors": null

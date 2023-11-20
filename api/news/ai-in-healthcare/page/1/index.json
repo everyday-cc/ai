@@ -526,6 +526,41 @@
       ]
     },
     {
+      "path": "_news/2023-11-09-medcerts-combines-conversational-ai-generative-ai-and-natural-language-processing-for-a-revolutionary-new-ai-addition-to-online-healthcare.md",
+      "title": "MedCerts Combines Conversational AI, Generative AI, and Natural Language Processing For a Revolutionary New AI Addition To Online Healthcare Training",
+      "excerpt": "By combining Conversational AI, Generative AI, and Natural Language Processing (NLP), MedCerts gives learners realistic patient scenarios that are customized in each and every interaction without duplication within an End-to-End (E2E) platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231109758687/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231109758687/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-who-offers-recommendations-for-ai-guidelines-in-healthcare.md",
       "title": "WHO Offers Recommendations for AI Guidelines in Healthcare",
       "excerpt": "Experts emphasize the importance of training AI systems on reliable data and of checking the systems’ safety and efficacy.",
@@ -1155,49 +1190,6 @@
       "provider": {
         "name": "Medindia",
         "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-29-ai-expert-its-the-age-of-ai-right-now-in-health-care.md",
-      "title": "AI expert: 'It’s the age of AI right now in health care'",
-      "excerpt": "During a routine visit with the medical oncologist, a cancer patient brings up a new symptom that could be a side effect of cancer treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_126e8a3e-6786-5234-aa2a-02203cee4c57.html",
-      "originalUrl": "https://www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_126e8a3e-6786-5234-aa2a-02203cee4c57.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/e/68/e684f212-2e70-5f21-bd22-41815d79f83d/653a8d9fc27ea.image.jpg?resize=1024%2C622",
-          "width": 1024,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_126e8a3e-6786-5234-aa2a-02203cee4c57.amp.html",
-      "cdnAmpWebUrl": "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_126e8a3e-6786-5234-aa2a-02203cee4c57.amp.html",
-      "publishedDateTime": "2023-10-29T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Item",
-        "domain": "dailyitem.com",
         "images": null,
         "publishers": null,
         "authors": null

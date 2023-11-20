@@ -36,6 +36,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "OpenAI CEO Sam Altman discusses possible return, mulls new AI venture, source says"
+    excerpt: "A day after the board fired him in a surprise move that rocked the tech world, Altman was talking with OpenAI executives about improving the company's governance structure, the source said."
+    publishedDateTime: 2023-11-19T13:24:00Z
+    webUrl: "https://www.reuters.com/technology/openai-co-founder-altman-planning-new-venture-information-2023-11-18/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 41
 
 secured: "GJxWNMdeyUJ+8cPBQ0EdREDm4AtwCDCHXS5KDiMjuJRe3gxOMbGJOxoROFgu9Uhi+Ya+o9CTnAPqzFl81UssPtooOLCIwzrKpV+yoBTG5bsRwl5lsUn8DJIY7IIstjYH2xC190mnCNMMvdVFI2X+PKuSMGbZvZD8qGQQs/FdNLu6RPG04N3/lj8hKeqzwf5Os5hN6TvDAvgpVWkJH/PvgDGeiljokC/oazyyDSKV9Y8YA2F5pNBND18eI0vQrUpFPakV1R703riI5YbT6VCqP72LUT186vfBzJRpqcBvXcJojWq/FnC83cYEVoD7LFUKx/nqy7ft9aP9S8GWX1b0WHERI+fQ+WV8JuBrCvjWsj61ANEh8hfQ+d2aBrx2DXJXmrrykicJMdCylIRaY7MAa13SEKVYcqEHeViwq9REis07xAheOaLvsvc6aktwngClXb3tUMLYI/vjizUL1C4lxT3lWJwh5+s73HYgObtavB+DDU6K68f5kKyuyRkg9lSFULhYOguWkJ7vyZdphvpBrQ==;Xbe6aadBQqTeowY+3e8r1A=="
 ---

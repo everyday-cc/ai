@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-26-how-to-write-ai-art-prompts-effectively-with-examples.md",
+      "title": "How to Write AI Art Prompts Effectively with Examples",
+      "excerpt": "PREMIUM: Consider creating an AI ethics policy before using AI art tools. It’s also a good idea to visit AI art platforms like NightCafe and Craiyon, which allow you to see the prompts used for any of the images posted. If you’d like to leave the work ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-to-write-ai-art-prompts/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-write-ai-art-prompts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/05/Aminu-2.jpg?x96515",
+          "width": 884,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit.md",
       "title": "The UK Lists Top Nightmare AI Scenarios Ahead of Its Big Tech Summit",
       "excerpt": "Ahead of a global summit on how to keep artificial intelligence from doing harm, a UK government report warns that the tech could be used to help create bioweapons, or escape human control altogether.",
@@ -1379,49 +1431,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-ai-ethics-usage-study-takes-place.md",
-      "title": "AI ethics & usage study takes place",
-      "excerpt": "Artificial Intelligence. It's a tool of the future, but it's here today. How do we reign in something so new that most people don't understand it yet?",
-      "sourceUrl": null,
-      "webUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/",
-      "originalUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kswo-prod.cdn.arcpublishing.com/resizer/9lF5iIay7NHAw9fB0ymqpJL9wZ4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/GSZDN2XRDNFB7IFGSIQJ2WZ3SQ.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kswo-com.cdn.ampproject.org/c/s/www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/?outputType=amp",
-      "publishedDateTime": "2023-10-11T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSWO ABC 7 News",
-        "domain": "kswo.com",
         "images": null,
         "publishers": null,
         "authors": null

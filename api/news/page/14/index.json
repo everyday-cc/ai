@@ -2,6 +2,297 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-11-03-dall-e-2-on-microsoft-azure-the-market-for-generative-models-matures-techtalks.md",
+      "title": "DALL-E 2 on Microsoft Azure: the market for generative models matures – TechTalks",
+      "excerpt": "This article is part of our series that explores the business of artificial intelligenceIn last week’s Ignite 2022 conference, Microsoft announced another",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/781160/dall-e-2-on-microsoft-azure-the-market-for-generative-models-matures-techtalks/",
+      "originalUrl": "https://www.inferse.com/781160/dall-e-2-on-microsoft-azure-the-market-for-generative-models-matures-techtalks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-1972.png",
+          "width": 1920,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-03T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-03-mastering-ingress-in-the-ui-elevating-your-app-visibility.md",
+      "title": "Mastering Ingress in the UI: Elevating your app visibility",
+      "excerpt": "This is a primer that showcases the benefits and functionality of using Ingress and these integrations in UI.\nThe post Mastering Ingress in the UI: Elevating your app visibility appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/mastering-ingress-in-the-ui-elevating-your-app-visibility/",
+      "originalUrl": "https://www.ibm.com/blog/mastering-ingress-in-the-ui-elevating-your-app-visibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-03T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-03-sony-interactive-entertainment-acquires-deep-learning-company-isize.md",
+      "title": "Sony Interactive Entertainment acquires deep learning company iSIZE",
+      "excerpt": "Sony Interactive Entertainment has acquired iSIZE, a tech company that specializes in deep learning technology. Sony announced its acquisition of iSIZE in a post on the corporation’s website.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize",
+      "originalUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/11/02/sony-interactive-isize_feature.png",
+          "width": 1919,
+          "height": 1054,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize?amphtml=1",
+      "publishedDateTime": "2023-11-02T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies.md",
+      "title": "GE HealthCare Announces New Data Validating Artificial Intelligence Models for Predicting Patient Response to Immunotherapies",
+      "excerpt": "GE HealthCare’s Artificial Intelligence (AI) models predict patient response to immunotherapies with 70 to 80 percent accuracy 1, based on a pan-cancer cohort, according to findings to be presented at the Society for Immunotherapy of Cancer (SITC) in San Diego,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies/article_38326a44-6f45-5214-8f08-a186f20e297b.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies/article_38326a44-6f45-5214-8f08-a186f20e297b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/c/fc/cfce3a77-83d3-54dd-b0a0-8b1a19a41dff/654390615e3c5.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-as-gaza-conflict-rages-online-maps-from-chinese-companies-are-missing-israels-name.md",
+      "title": "As Gaza conflict rages, online maps from Chinese companies are missing Israel’s name",
+      "excerpt": "Beijing has clarified that Israel remains marked on official maps issued by Chinese authorities after questions emerged over why the country’s name was not visible on online maps provided by two major Chinese companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/gaza-conflict-rages-online-maps-045613363.html?ref=biztoc.com",
+      "originalUrl": "https://www.aol.com/gaza-conflict-rages-online-maps-045613363.html?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_cnn_business_articles_764/7bc99f4354e15e90a476164c321ba960",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-elsa-introduces-nvidia-a800-40gb-active-gpu-with-hbm2-memory.md",
+      "title": "Elsa Introduces NVIDIA A800 40GB Active GPU with HBM2 Memory",
+      "excerpt": "Elsa has initiated the distribution of the \"NVIDIA A800 40GB Active\" AI GPU card, model EQRA800-40GER, boasting 40GB of HBM2 memory. The NVIDIA A800 40GB Active is powered by the NVIDIA Ampere ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.guru3d.com/story/elsa-introduces-nvidia-a800-40gb-active-gpu-with-hbm2-memory/",
+      "originalUrl": "https://www.guru3d.com/story/elsa-introduces-nvidia-a800-40gb-active-gpu-with-hbm2-memory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-studying-the-arts-and-deep-learning-academic-minute.md",
+      "title": "Studying the Arts and Deep Learning: Academic Minute",
+      "excerpt": "Today on the Academic Minute: Lisa Donovan, professor of arts management at the Massachusetts College of Liberal Arts, explores how studying the arts can lead to deep, rigorous learning. Learn more about the Academic Minute here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidehighered.com/news/quick-takes/2023/11/02/studying-arts-and-deep-learning-academic-minute",
+      "originalUrl": "https://www.insidehighered.com/news/quick-takes/2023/11/02/studying-arts-and-deep-learning-academic-minute",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inside Higher Ed",
+        "domain": "insidehighered.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-02-azure-communications-services-is-microsofts-new-managed-communication-platform.md",
       "title": "Azure Communications Services is Microsoft's new managed communication platform",
       "excerpt": "At its annual Ignite conference, Microsoft announced Azure Communications ... Developers can easily tap into other Azure services, such as Azure Cognitive Services for translation, sentiment ...",
@@ -760,284 +1051,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-artificial-brain-learns-on-the-fly-with-nanowire-networks.md",
-      "title": "Artificial brain learns on the fly with nanowire networks",
-      "excerpt": "The artificial brain is made of nanowire networks, tiny wires a billion times smaller than a meter. The cables form random patterns that look like the game ‘Pick Up Sticks,’ but they also act like the neural networks in our brains. These networks can process information in different ways.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/artificial-brain-learns-on-the-fly-with-nanowire-networks",
-      "originalUrl": "https://interestingengineering.com/innovation/artificial-brain-learns-on-the-fly-with-nanowire-networks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-ai-safety-use-cases-how-generative-ai-is-distorting-human-sentiment.md",
-      "title": "AI safety use cases - how generative AI is distorting human sentiment",
-      "excerpt": "It used to be said that the big problem with AI is its ‘hallucinations’ when supporting data is absent. But it turns out that there is a bigger one: generative AI is removing human sentiment and context without us even knowing.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-safety-use-cases-how-generative-ai-distorting-human-sentiment",
-      "originalUrl": "https://diginomica.com/ai-safety-use-cases-how-generative-ai-distorting-human-sentiment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-mark-zuckerberg-reveals-the-key-advantage-of-metas-artificial-intelligence-ai-strategy-that-many-investors-may-be-overlooking.md",
-      "title": "Mark Zuckerberg Reveals the Key Advantage of Meta's Artificial Intelligence (AI) Strategy That Many Investors May Be Overlooking",
-      "excerpt": "So far in 2023, the amount of time users spend on Facebook and Instagram ... we further invest in generative AI across our core products, internal tooling, and research efforts.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/11/01/mark-zuckerberg-reveals-advantage-meta-ai-strategy/",
-      "originalUrl": "https://www.fool.com/investing/2023/11/01/mark-zuckerberg-reveals-advantage-meta-ai-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-shutterstocks-growth-dilemma-declining-ecommerce-business-amid-flourishing-computer-vision-partnerships.md",
-      "title": "Shutterstock’s Growth Dilemma: Declining eCommerce Business Amid Flourishing Computer Vision Partnerships",
-      "excerpt": "In a report released today, Lauren Schenk from Morgan Stanley assigned a Hold rating on Shutterstock (SSTK – Research Report), with a",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-s-growth-dilemma-declining-ecommerce-business-amid-flourishing-computer-vision-partnerships-1032767604",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-s-growth-dilemma-declining-ecommerce-business-amid-flourishing-computer-vision-partnerships-1032767604",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus.md",
-      "title": "AMD slides as muted outlook clouds Q3 earnings beat with AI chip launch in focus",
-      "excerpt": "AMD said its new data center chips, expected to challenge Nvidia's AI market dominance, could net more than $2 billion in sales next year.",
-      "sourceUrl": null,
-      "webUrl": "https://tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.html",
-      "originalUrl": "https://tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/f/65/f65b182f-761c-5ba9-b6b1-0753f1aebe6e/6542315bc1c9a.image.jpg?resize=1024%2C576",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.amp.html",
-      "cdnAmpWebUrl": "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/arena/thestreet/amd-slides-as-muted-outlook-clouds-q3-earnings-beat-with-ai-chip-launch-in-focus/article_673c8021-8498-5e88-996d-b1bc14455829.amp.html",
-      "publishedDateTime": "2023-11-01T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tyler Morning Telegraph",
-        "domain": "tylerpaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-exploring-the-best-artificial-intelligence-books-a-comprehensive-guide.md",
-      "title": "Exploring the Best Artificial Intelligence Books: A Comprehensive Guide",
-      "excerpt": "Artificial intelligence, the buzzword of the 21st century, has permeated every aspect of our lives. From virtual assistants to self-driving cars, AI is revolutionizing industries and reshaping our future.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/exploring-the-best-artificial-intelligence-books-a-comprehensive-guide/",
-      "originalUrl": "https://techbullion.com/exploring-the-best-artificial-intelligence-books-a-comprehensive-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/11/AI-Book-Shelf.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-deepmind-claims-its-ai-predicts-proteins-with-atomic-accuracy.md",
-      "title": "DeepMind claims its AI predicts proteins with ‘atomic accuracy’",
-      "excerpt": "DeepMind claims its latest version of AlphaFold can predict various molecules with extreme accuracy, which could advance drug discoveries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/deepmind-alphafold-ai-protein-prediction-drug-discovery",
-      "originalUrl": "https://www.siliconrepublic.com/machines/deepmind-alphafold-ai-protein-prediction-drug-discovery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

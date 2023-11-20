@@ -2,6 +2,325 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-10-12-addressing-ethical-issues-in-integrating-ai-systems-expert-opinion-of-intetics-ceo-and-president.md",
+      "title": "Addressing Ethical Issues in Integrating AI Systems: Expert Opinion of Intetics CEO and President",
+      "excerpt": "In the new article, Intetics CEO and President examines the consequences of the integration of AI and ethics. By referring to Isaac Asimov's Three Laws of Robotics, the importance of ethical concerns in AI and the conflicts that may arise from them are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/g35224314/addressing-ethical-issues-in-integrating-ai-systems-expert-opinion-of-intetics-ceo-and-president",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/g35224314/addressing-ethical-issues-in-integrating-ai-systems-expert-opinion-of-intetics-ceo-and-president",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35224314",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35224314",
+      "publishedDateTime": "2023-10-12T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-new-ways-to-get-inspired-with-generative-ai-in-search.md",
+      "title": "New ways to get inspired with generative AI in Search",
+      "excerpt": "We’re testing new ways to get started on something you need to do — like creating an image that can bring an idea to life, or a written draft when you need a starting po…",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/search/google-search-generative-ai-october-update/",
+      "originalUrl": "https://blog.google/products/search/google-search-generative-ai-october-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Hero_Image_Nb4hNLE.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/search/google-search-generative-ai-october-update/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-october-update/amp/",
+      "publishedDateTime": "2023-10-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-hundreds-of-stores-from-walgreens-to-macys-are-silently-deploying-facial-recognition-technology-to-spy-on-shoppers-and-its-legal-in-most-states.md",
+      "title": "Hundreds of stores from Walgreens to Macy's are silently deploying facial recognition technology to spy on shoppers (and it's legal in most states)",
+      "excerpt": "Major retailers in the US are already using facial recognition cameras to spy on shoppers, a campaigning group has warned. The tech - usually associated with authoritative regimes like China - is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12592563/walgreens-macys-facial-recognition-technology-spy-shoppers.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12592563/walgreens-macys-facial-recognition-technology-spy-shoppers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-the-latest-trends-improving-the-automotive-industry.md",
+      "title": "The Latest Trends Improving the Automotive Industry",
+      "excerpt": "Here are the latest trends improving the automotive industry. 1. AI, 2. Electric Vehicle Adoption, 3. Vehicle Purchases Shift Online, 4. Autonomous Driving",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/featured/the-latest-trends-improving-the-automotive-industry/",
+      "originalUrl": "https://enterprisetalk.com/featured/the-latest-trends-improving-the-automotive-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/10/The-Latest-Trends-Improving-the-Automotive-Industry-2.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/featured/the-latest-trends-improving-the-automotive-industry/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/the-latest-trends-improving-the-automotive-industry/amp/",
+      "publishedDateTime": "2023-10-12T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-aws-ceo-generative-ai-will-pretty-much-change-every-application-consumers-interact-with.md",
+      "title": "AWS CEO: Generative AI will 'pretty much change' every application consumers interact with",
+      "excerpt": "Amazon Web Services CEO Adam Selipsky joins 'Squawk on the Street' to discuss how artificial intelligence has internally changed AWS' business, how the new technology may have changed the tech company's workforce deployment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2023/10/12/aws-ceo-generative-ai-will-pretty-much-change-every-application-consumers-interact-with.html",
+      "originalUrl": "https://www.cnbc.com/video/2023/10/12/aws-ceo-generative-ai-will-pretty-much-change-every-application-consumers-interact-with.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107316149-16971249651697124961-31569403119-1080pnbcnews.jpg?v=1697125428&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-the-illusion-of-reality-how-to-combat-ais-cunning-deceptions.md",
+      "title": "The Illusion Of Reality: How To Combat AI’s Cunning Deceptions",
+      "excerpt": "The current state of filtering out AI-generated content is complex, as AI tools continue to advance and adapt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/the-illusion-of-reality-how-to-combat-ais-cunning-deceptions/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/the-illusion-of-reality-how-to-combat-ais-cunning-deceptions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6426d9b7a6e4117a2deb47c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1416,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/the-illusion-of-reality-how-to-combat-ais-cunning-deceptions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/12/the-illusion-of-reality-how-to-combat-ais-cunning-deceptions/amp/",
+      "publishedDateTime": "2023-10-12T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-ai-designs-little-robots-in-30-seconds-and-they-keep-sprouting-legs.md",
+      "title": "AI Designs Little Robots in 30 Seconds and They Keep Sprouting Legs",
+      "excerpt": "“When only large companies, governments and large academic institutions have enough computational power [to design with artificial intelligence], it really limits the diversity of the questions being asked,” Kriegman says. “Increasing the accessibility of these tools is something that’s really exciting.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/ai-can-design-an-autonomous-robot-in-30-seconds/",
+      "originalUrl": "https://www.scientificamerican.com/article/ai-can-design-an-autonomous-robot-in-30-seconds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/FC675300-E120-4F74-991B2B0DFC5A9F8D.jpg",
+          "width": 790,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.scientificamerican.com/article/ai-can-design-an-autonomous-robot-in-30-seconds/?amp=true",
+      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-can-design-an-autonomous-robot-in-30-seconds/?amp=true",
+      "publishedDateTime": "2023-10-12T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-the-pinnacle-of-artificial-intelligence-navigating-the-technological-odyssey.md",
       "title": "The Pinnacle of Artificial Intelligence: Navigating the Technological Odyssey",
       "excerpt": "Artificial Intelligence (AI), an ever-evolving paradigm, has traversed a remarkable trajectory since its inception.",
@@ -853,349 +1172,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator.md",
-      "title": "OpenText Delivers Broad AI Orchestration Capabilities for the Enterprise with Aviator",
-      "excerpt": "OpenText unveiled a broad expansion of its enterprise-class Aviator platform with new AI capabilities spanning business and technology needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6527422f48ebd112c83fa429/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/amp/",
-      "publishedDateTime": "2023-10-11T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-amazons-bold-move-demolishing-towers-for-ai-dominance.md",
-      "title": "Amazon's Bold Move: Demolishing Towers For AI Dominance",
-      "excerpt": "Matt Shumer, the founder of Otherside AI, told the Financial Times last week that AI has profoundly changed the role of software engineers. His team now focuses on defining the problem, designing structure, and then directing AI to do all of the heavy lifting. Otherside is capable of doing much more with far fewer coders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/",
-      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65273dcbe0b481b15f1f6525/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/amp/",
-      "publishedDateTime": "2023-10-11T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-adobe-unveils-firefly-2-and-previews-more-ai-features-what-you-need-to-know.md",
-      "title": "Adobe unveils Firefly 2 and previews more AI features: what you need to know",
-      "excerpt": "Adobe is allowing companies to customize and fine-tune Firefly for their needs, and control how their employees use it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/adobe-unveils-firefly-2-and-previews-more-ai-features-what-you-need-to-know/",
-      "originalUrl": "https://venturebeat.com/ai/adobe-unveils-firefly-2-and-previews-more-ai-features-what-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/Firefly-A-field-full-of-fireflies-atop-a-city-building-67568.jpg?w=1200&strip=all",
-          "width": 1199,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T16:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-ai-ethics-usage-study-takes-place.md",
-      "title": "AI ethics & usage study takes place",
-      "excerpt": "Artificial Intelligence. It's a tool of the future, but it's here today. How do we reign in something so new that most people don't understand it yet?",
-      "sourceUrl": null,
-      "webUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/",
-      "originalUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kswo-prod.cdn.arcpublishing.com/resizer/9lF5iIay7NHAw9fB0ymqpJL9wZ4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/GSZDN2XRDNFB7IFGSIQJ2WZ3SQ.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kswo-com.cdn.ampproject.org/c/s/www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/?outputType=amp",
-      "publishedDateTime": "2023-10-11T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSWO ABC 7 News",
-        "domain": "kswo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments.md",
-      "title": "Indian Fintech Razorpay Launches AI-Powered Solution to Streamline Digital Payments",
-      "excerpt": "Indian Fintech firm Razorpay introduces what it claims is India’s \"first\" AI-powered payments Infinity Router – Razorpay Optimizer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg",
-          "width": 1600,
-          "height": 1291,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/",
-      "publishedDateTime": "2023-10-11T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit.md",
-      "title": "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit",
-      "excerpt": "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a U.K. government agency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html",
-      "originalUrl": "https://www.cnbc.com/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105099255-DeepMind_Hassabis_WechatIMG253.jpg?v=1697043587",
-          "width": 4189,
-          "height": 2792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html",
-      "publishedDateTime": "2023-10-11T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-exclusive-southeast-asia-eyes-hands-off-ai-rules-defying-eu-ambitions.md",
-      "title": "Exclusive: Southeast Asia eyes hands-off AI rules, defying EU ambitions",
-      "excerpt": "Reuters reviewed a confidential draft of the 10-member Association of Southeast Asian Nations' (ASEAN) \"guide to AI ethics and governance,\" whose content has not previously been reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/southeast-asia-eyes-hands-off-ai-rules-defying-eu-ambitions-2023-10-11/",
-      "originalUrl": "https://www.reuters.com/technology/southeast-asia-eyes-hands-off-ai-rules-defying-eu-ambitions-2023-10-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/SDQ2HUsDG5vlzMGFzk2ALGhylu4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K3CNAQYVM5MQJM2WG55A3MK5SA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

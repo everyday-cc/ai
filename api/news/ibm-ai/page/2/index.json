@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-30-7-public-health-data-modernization-lessons-from-canadas-superior-covid-19-response.md",
+      "title": "7 public health data modernization lessons from Canada’s superior COVID-19 response",
+      "excerpt": "Data modernization efforts helped Canada track and contain the sudden rise in infections and meet the demand for public health services.\nThe post 7 public health data modernization lessons from Canada’s superior COVID-19 response appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/7-public-health-data-modernization-lessons-from-canadas-superior-covid-19-response/",
+      "originalUrl": "https://www.ibm.com/blog/7-public-health-data-modernization-lessons-from-canadas-superior-covid-19-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-30-dont-get-another-surprise-bill-from-your-observability-vendor.md",
       "title": "Don’t get another surprise bill from your observability vendor",
       "excerpt": "it’s time to move to Instana, especially if you have a legacy APM tool that produces surprise bills based on usage.\nThe post Don’t get another surprise bill from your observability vendor appeared first on IBM Blog.\n",
@@ -1251,49 +1293,6 @@
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T09:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-10-examples-of-machine-learning-in-the-world-today.md",
-      "title": "10 examples of Machine Learning in the world today",
-      "excerpt": "At IBM, we are combining the power of ML and AI in IBM watsonx, our new studio for foundation models, generative AI and ML.\nThe post 10 examples of Machine Learning in the world today appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/10-examples-of-machine-learning-in-the-world-today/",
-      "originalUrl": "https://www.ibm.com/blog/10-examples-of-machine-learning-in-the-world-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
       "tags": null,
       "images": null,
       "content": "\r\n",

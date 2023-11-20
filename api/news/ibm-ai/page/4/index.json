@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-02-police-intelligence-tool-quickly-sends-information-on-risk-to-frontline-officers.md",
+      "title": "Police intelligence tool quickly sends information on risk to frontline officers",
+      "excerpt": "using IBM Watson AI and so-called i2 visual tech spun off from IBM. It provides “dramatically more useful” intelligence, especially about firearm threats, the papers said. This is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newstalkzb.co.nz/news/national/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/",
+      "originalUrl": "https://www.newstalkzb.co.nz/news/national/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newstalkzb.co.nz/media/kpknelnw/police-patrol-car-rnz.jpg?rmode=crop&rnd=133407107303770000&height=395&width=635&quality=95&scale=both",
+          "width": 635,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newstalk ZB",
+        "domain": "newstalkzb.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-building-cars-in-a-changing-world-audis-integrated-approach-with-ibm-planning-analytics.md",
       "title": "Building cars in a changing world: Audi’s Integrated Approach with IBM Planning Analytics",
       "excerpt": "Audi's journey serves as a beacon for organizations navigating the labyrinth of complex planning and decision-making.\nThe post Building cars in a changing world: Audi&#8217;s Integrated Approach with IBM Planning Analytics appeared first on IBM Blog.\n",
@@ -1281,49 +1324,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-ubotica-partners-with-ibm-for-one-click-deployment-of-space-ai-applications.md",
-      "title": "Ubotica partners with IBM for one-click deployment of space AI applications",
-      "excerpt": "Learn how space AI leader Ubotica Technologies is using cloud infrastructure and watsonx.ai to simplify the process of running apps onboard satellites.\nThe post Ubotica partners with IBM for one-click deployment of space AI applications appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ubotica-partners-with-ibm-for-one-click-deployment-of-space-ai-applications/",
-      "originalUrl": "https://www.ibm.com/blog/ubotica-partners-with-ibm-for-one-click-deployment-of-space-ai-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

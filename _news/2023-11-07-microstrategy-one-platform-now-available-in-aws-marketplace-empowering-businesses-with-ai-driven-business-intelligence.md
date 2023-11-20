@@ -1,28 +1,20 @@
 ---
 category: news
 title: "MicroStrategy ONE™ Platform Now Available in AWS Marketplace, Empowering Businesses with AI-Driven Business Intelligence"
-excerpt: "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS ..."
+excerpt: "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS), customers can now access a ready solution for deploying ..."
 publishedDateTime: 2023-11-07T12:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/11/b35651432/microstrategy-one-platform-now-available-in-aws-marketplace-empowering-businesses-with-ai-driven-b"
-webUrl: "https://www.benzinga.com/pressreleases/23/11/b35651432/microstrategy-one-platform-now-available-in-aws-marketplace-empowering-businesses-with-ai-driven-b"
-ampWebUrl: "https://www.benzinga.com/amp/content/35651432"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35651432"
+originalUrl: "https://www.businesswire.com/news/home/20231107452958/en/MicroStrategy-ONE™-Platform-Now-Available-in-AWS-Marketplace-Empowering-Businesses-with-AI-Driven-Business-Intelligence"
+webUrl: "https://www.businesswire.com/news/home/20231107452958/en/MicroStrategy-ONE™-Platform-Now-Available-in-AWS-Marketplace-Empowering-Businesses-with-AI-Driven-Business-Intelligence"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "IKBd/z9byvOPzwS/t8KkB3SRFuhnwypxCSn182xNBw4s/2HVBhFG9ykt7jukWt9OATKu4y5ijkrJjI6aWt4HGBUx5cebgwlXzSvPNqmm19Cd43hXzph7lGWA7BVCXvxwiVMruNCAT1XNUSMnMfuMYWI0LqWKo24FqASr/vMZchSbSssfaWyZ9LQoO/kA9Jbg4cWwEOt8X0EqyxBdJHxGEu5iusfynSkoI7YTzr76gFhaB6tET+HkC+nJznaPxK4h7OlGDoLNuObG8yEZ1Xkopy61xPBaleJlwvhrdCH2//NKKtzRjRgBqJrbDFg9PunYxtXJmP1CDd4hp5wxZRaR3t3SQrFXpERZjNT9+wdWioU=;vwSOxZ1C/vN9rm/pZsR1vg=="
+secured: "Gi3sJ0yPzWQeFjjHYMOJ09IIwzZKYVvF85qf6rN9z49/5S0y9QdllxQcYtwoN/SZaqDQkXe74xDc9ZHvH2dWYMVukBVSMB0eA0W5biId2zYhCkuGylmXCmovuqrH2cxqd4uwXawkU1deXlZiMBzHLPZALQpwvvqWybkCeeFOZm/JN1F4CfCIIKK8CKMm7pbVt3KiFgVWdMYNg2Ao4c9wOnB71vn4wtyc8OSMkVMXVCzCX9/3B6Cx32wyaUYvctkhlZhOZH5SUNm4qi/NR3gC41xCvLc3UCAfSFUKxWCG1UDA7lQTTRwidQuFV3KCKrMY5xJgM884DeyXgNll5oXI1Z31dD5yitulS84XNWH0qwg=;8tI3eUt2v7Q8hk4+p0oWAQ=="
 ---
 

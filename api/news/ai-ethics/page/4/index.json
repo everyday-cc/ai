@@ -2,6 +2,61 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-22-why-open-source-is-the-cradle-of-artificial-intelligence.md",
+      "title": "Why open source is the cradle of artificial intelligence",
+      "excerpt": "In the wildly competitive business of AI, is open source doomed to be always a bridesmaid, never a bride? Think again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3dd166699052b2cfc4b30930ced69da1bb2d36dc/2023/05/25/1ff6a155-2b9e-49c7-9dfb-8c4ea6c8ba04/keep-ai-open-source-smaller-may-2023.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
+      "publishedDateTime": "2023-09-21T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-cisco-to-buy-splunk-in-28b-bid-to-secure-enterprises-in-ai-era.md",
       "title": "Cisco to buy Splunk in $28B bid to secure enterprises in AI era",
       "excerpt": "Also: The ethics of generative AI: How we can harness this powerful technology To help companies do this, he pitched the need for Cisco Security Cloud, which offers visibility into various forms of security data, including network data, identifies ...",
@@ -1381,50 +1436,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-generation-ai-education-reluctantly-embraces-the-bots.md",
-      "title": "Generation AI: education reluctantly embraces the bots",
-      "excerpt": "At leading Swedish university Lund, teachers decide which students can use artificial intelligence to help them with assignments. At the University of Western Australia in Perth, staff have talked to students about the challenges and possible benefits of using generative AI in their work,",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/generation-ai-education-reluctantly-embraces-060455884.html",
-      "originalUrl": "https://www.aol.com/news/generation-ai-education-reluctantly-embraces-060455884.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_reuters_29/9bb2bcf4ea8cc7c6a73462394bf805a9",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T23:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

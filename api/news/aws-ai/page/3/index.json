@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-20-amazon-launches-drone-delivery-program-for-prescription-medications.md",
+      "title": "Amazon launches drone delivery program for prescription medications",
+      "excerpt": "Drones are now dropping prescription medications to Amazon customers in Texas within an hour of ordering, promising customers relief from standing in line, having public conversations about health ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/2023/10/19/amazon-drone-delivery-texas-prescriptions/71240689007/",
+      "originalUrl": "https://www.usatoday.com/story/money/2023/10/19/amazon-drone-delivery-texas-prescriptions/71240689007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models.md",
+      "title": "Defect detection in high-resolution imagery using two-stage Amazon Rekognition Custom Labels models",
+      "excerpt": "High-resolution imagery is very prevalent in today’s world, from satellite imagery to drones and DLSR cameras. From this imagery, we can capture damage due to natural disasters, anomalies in manufacturing equipment, or very small defects such as defects on printed circuit boards (PCBs) or semiconductors.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/19/high-resolution-two-stage-1260x630.jpg",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T11:00:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler.md",
       "title": "Automatically redact PII for machine learning using Amazon SageMaker Data Wrangler",
       "excerpt": "Customers increasingly want to use deep learning approaches such as large language models (LLMs) to automate the extraction of data and insights. For many industries, data that is useful for machine learning (ML) may contain personally identifiable information (PII). To ensure customer privacy and maintain",
@@ -1288,92 +1375,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-uaes-falcon-180b-breaks-boundaries.md",
-      "title": "UAE’s Falcon 180B breaks boundaries",
-      "excerpt": "Falcon 180B, the most advanced open Large Language Model (LLM) is available via Amazon SageMaker Jumpstart Dubai, UAE – In a monumental stride for the Middle East's technology landscape, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-k6erlmyy",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/uaes-falcon-180b-breaks-boundaries-k6erlmyy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-amazon-is-the-apex-predator-of-our-platform-era.md",
-      "title": "Amazon Is the Apex Predator of Our Platform Era",
-      "excerpt": "Mr. Doctorow is the author, most recently, of “The Internet Con: How to Seize the Means of Computation.” The Federal Trade Commission’s chair, Lina Khan, has brought her long-awaited ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/09/27/opinion/amazon-ftc-antitrust-monopoly.html",
-      "originalUrl": "https://www.nytimes.com/2023/09/27/opinion/amazon-ftc-antitrust-monopoly.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/09/27/opinion/27doctorow/27doctorow-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],
