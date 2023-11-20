@@ -2,22 +2,19 @@
 category: news
 title: "Understanding the Dawn of the Artificial General Intelligence Era"
 excerpt: "The abrupt departure—and possible return—of Sam Altman from OpenAI is sending tsunamis through Silicon Valley, igniting a flurry of speculation and bringing into sharp relief a fundamental debate at the crossroads of artificial intelligence (AI) development."
-publishedDateTime: 2023-11-20T14:36:00Z
-originalUrl: "https://www.aei.org/op-eds/understanding-the-dawn-of-the-artificial-general-intelligence-era/"
-webUrl: "https://www.aei.org/op-eds/understanding-the-dawn-of-the-artificial-general-intelligence-era/"
+publishedDateTime: 2023-11-20T09:44:00Z
+originalUrl: "https://www.aol.com/news/understanding-dawn-artificial-general-intelligence-074400693.html"
+webUrl: "https://www.aol.com/news/understanding-dawn-artificial-general-intelligence-074400693.html"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
-  name: American Enterprise Institute
-  domain: aei.org
+  name: AOL
+  domain: aol.com
 
 topics:
-  - Natural Language Processing
+  - AI in Autos
   - AI
 
-secured: "wVtjqRDvYVeLDPDSUwDk0XHOBT8em7LMGRoJA2n57wX8ehS7Olw4SKPGaGx+vyHGmJRKgOt5IoFiK8LI51LfG+uNsEzj/gBohVSe9ZhExSHuWLNoKDM6loPr5v0BxNWnt/wOERW2lYDk6XQ3cGr/LGjGz82Aur7BNumIU+uqidMEAz7eoIAduWVDgckK8PE3LwI6P1Ak+oYti0gIvF9fiTG1CIUeIJjLN2cYdotokTZPlJ7ii9xeRnVO4cIUykSNFb0QmxpOHzOpVvJ3pQtwh1lBxqThEK0uDPtT1tWBp8LrYedLHecemU4W0ekWGNaQyAsqpyHc6tQQqKO2Vq/HvY18BAWCktnD1AunHhxCEsM=;68OdbdHvXVEUgG+4MGDQSQ=="
+secured: "zYsfiWI06UxMNtYxSJ4LZhJTfnqReKBKvm0bG4h8M8VhffVu+OtegGHO+h9MUvHg+Csr1fHsk0KqazCjioMr0NpA+EmsmB7nGFj2GDJuFD/JjGqqr3mvdF5AEazwQgBwZ7e5C5wK/kP2yaIlsajgPUtX59zz4SP1w5ExasoqhwFG+gOBPoZuEvnhfwbRefQbwPWDboFbNqTB3yOfI6vo4ly4vNMYi3IumrO/Lv5JyCAFk6fGkFlCZyTm4lyGx4OGeT3oYgBkyqFNxKY5vPCAlfJbq5FnNtjC/Pz8MZumEVrpHYE4rB+aNkXrySq/c41xhZYC6+Pjchq1fOQhokwSi/wOEYmaPuWlGkl/nSmo0I/qoQqPQFkoKzqncBwZPIRpu0lgWIBthD+hxHMIw/30J6D0CccgVjNAWtFrCt+nAm7aswjDXgaCOrq8fjFVLXwpmUPFjq/FQpLCrGo53j/CvYpyV8gJoZqNI7bqqntpoye4QMUqOBpDrLVC8E3uluqLkDQs0M6G+1FY4YPHdP8sFQ==;w+unNvRAn8GFiA+gkPhTyQ=="
 ---
 

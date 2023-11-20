@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14909_3723.jpg"

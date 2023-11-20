@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "http://www.nextplatform.com/wp-content/uploads/2022/09/lenovo-hpc-ai-logo.jpg"
