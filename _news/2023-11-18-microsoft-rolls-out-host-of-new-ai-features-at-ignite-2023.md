@@ -19,94 +19,82 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Announces Maia AI, Arm CPU, AMD MI300, & New Nvidia for Azure"
-    excerpt: "In case you missed Satya Nadella’s keynote, here is the vast array of news and my perspectives on the impact to MSFT, AMD, and NVDIA."
-    publishedDateTime: 2023-11-16T18:56:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2023/11/16/microsoft-announces-maia-ai-arm-cpu-amd-mi300--new-nvidia-for-azure/"
+  - title: "Microsoft Says Sam Altman and Greg Brockman Will Lead New In-House AI Team"
+    excerpt: "Application error: a client-side exception has occurred (see the browser console for more information)."
+    publishedDateTime: 2023-11-20T08:45:00Z
+    webUrl: "https://time.com/6337503/sam-altman-joins-microsoft-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-  - title: "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip."
-    excerpt: "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip."
-    publishedDateTime: 2023-11-20T06:18:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 78
+      name: Time
+      domain: time.com
+    quality: 82
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/microsoft-maia-chip-edited.jpg"
-        width: 1200
-        height: 675
+      - url: "https://api.time.com/wp-content/uploads/2023/11/sam-altman-microsoft.jpg?quality=85"
+        width: 3000
+        height: 2125
         isCached: true
-  - title: "Nvidia launches AI foundry service for Microsoft Azure with new Nemotron-3 8B models"
-    excerpt: "With Nvidia’s AI foundry service on Azure, enterprises using the cloud platform will get all key elements required to build a custom, business-centered generative AI application at one place."
-    publishedDateTime: 2023-11-15T23:00:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-launches-ai-foundry-service-for-microsoft-azure-with-new-nemotron-3-8b-models/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-  - title: "Microsoft is finally making custom chips — and they’re all about AI"
-    excerpt: "The new Azure Maia AI chip and Azure Cobalt CPU are both built in-house at Microsoft, combined with a deep overhaul of its entire cloud server stack to optimize performance, power, and cost. “We are rethinking the cloud infrastructure for the era of AI, and literally optimizing every layer of that infrastructure,” says Borkar."
-    publishedDateTime: 2023-11-15T20:00:00Z
-    webUrl: "https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 64
-  - title: "NVIDIA Introduces Generative AI Foundry Service on Microsoft Azure for Enterprises and Startups Worldwide"
-    excerpt: "SAP, Amdocs, Getty Images Among First to Build Custom LLMs With NVIDIA AI Foundation Models, Train on NVIDIA DGX Cloud, Deploy With NVIDIA AI"
-    publishedDateTime: 2023-11-15T17:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-introduces-generative-ai-foundry-service-on-microsoft-azure-for-enterprises-and-startups-worldwide-1032823945"
+  - title: "Emmett Shear, OpenAI's new interim CEO, shares Sam Altman's worry that AI could destroy all life"
+    excerpt: "Shear has repeatedly said he believes AI can potentially wipe out the human race, the same fear Sam Altman expressed as ChatGPT rose to prominence."
+    publishedDateTime: 2023-11-20T08:10:00Z
+    webUrl: "https://www.businessinsider.com/emmett-shear-openai-ceo-artificial-intelligence-destroy-all-life-chatgpt-2023-11"
+    ampWebUrl: "https://www.businessinsider.com/emmett-shear-openai-ceo-artificial-intelligence-destroy-all-life-chatgpt-2023-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/emmett-shear-openai-ceo-artificial-intelligence-destroy-all-life-chatgpt-2023-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 62
-  - title: "Microsoft unveils new Azure Cobalt CPU and Maia 100 GPU designed for AI and the Cloud"
-    excerpt: "Microsoft is finally making its own chips for the AI and Cloud market with the new Azure Cobalt 100 CPU and Maia 100 AI Accelerator."
-    publishedDateTime: 2023-11-16T05:34:00Z
-    webUrl: "https://www.tweaktown.com/news/94387/microsoft-unveils-new-azure-cobalt-cpu-and-maia-100-gpu-designed-for-ai-the-cloud/index.html"
+    quality: 74
+    images:
+      - url: "https://i.insider.com/655b006422cf74a57399f09c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The OpenAI Drama: Sam Altman’s Shocking Ouster, Board Resignation And The Struggle For AI’s Future"
+    excerpt: "In the tumultuous world of artificial intelligence, OpenAI, a pioneering force in generative AI, finds itself at a crossroads."
+    publishedDateTime: 2023-11-20T02:20:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/11/19/the-openai-drama-sam-altmans-shocking-ouster-board-resignation-and-the-struggle-for-ais-future/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/11/19/the-openai-drama-sam-altmans-shocking-ouster-board-resignation-and-the-struggle-for-ais-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/11/19/the-openai-drama-sam-altmans-shocking-ouster-board-resignation-and-the-struggle-for-ais-future/amp/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
-  - title: "Azure VMs with AMD MI300 GPU Accelerators at Microsoft Conference"
-    excerpt: "Today at Microsoft Ignite, AMD (NASDAQ: AMD) and Microsoft featured AMD products, including the upcoming Instinct MI300X GPU accelerator, EPYC and Ryzen CPUs with AI engines. Microsoft’s new Azure ND MI300x v5 Virtual Machine (VM)"
-    publishedDateTime: 2023-11-16T02:50:00Z
-    webUrl: "https://insidehpc.com/2023/11/azure-vms-with-amd-mi300-gpu-accelerators-at-microsoft-conference/"
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655a27bc3780a2d384b19dac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1280
+        height: 900
+        isCached: true
+  - title: "Sam Altman Was in Talks to Raise Billions for AI Chip Venture Before OpenAI Ouster"
+    excerpt: "Altman was said to be travelling to the Middle East to fundraise for the project, which was code-named Tigris."
+    publishedDateTime: 2023-11-20T07:15:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/sam-altman-openai-ceo-firing-raise-billions-investors-ai-chip-venture-4588728"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/sam-altman-openai-ceo-firing-raise-billions-investors-ai-chip-venture-4588728/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/sam-altman-openai-ceo-firing-raise-billions-investors-ai-chip-venture-4588728/amp"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 51
-  - title: "Microsoft debuts its first custom AI chip, cloud CPU"
-    excerpt: "Microsoft is debuting its first AI chip. At its Ignite conference Wednesday, the company said the chip, called the Maia 100, is the first in its planned Azure Maia AI accelerator"
-    publishedDateTime: 2023-11-15T18:01:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-debuts-first-custom-ai-160158585.html"
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 68
+    images:
+      - url: "https://i.gadgets360cdn.com/large/sam_altman_worldcoin_main_bloomberg_1625030781405_1_1700464377534.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Ousted OpenAI CEO Sam Altman said to discuss possible return to start-up behind ChatGPT, mulls new artificial intelligence venture"
+    excerpt: "A day after the OpenAI board fired him, Sam Altman was talking with the company’s executives about improving its governance structure, while discussing with some core ChatGPT researchers about starting a new artificial intelligence company."
+    publishedDateTime: 2023-11-19T21:34:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3242094/ousted-openai-ceo-sam-altman-said-discuss-possible-return-start-behind-chatgpt-mulls-new-ai-venture"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 51
-  - title: "Microsoft Maia AI chip ‘last puzzle piece’ for infrastructure systems"
-    excerpt: "Microsoft said the Maia AI chip had been tested by OpenAI using its workloads and CEO Sam Altman commented saying the chips can help make AI models more “capable” and “cheaper.”"
-    publishedDateTime: 2023-11-16T08:59:00Z
-    webUrl: "https://cointelegraph.com/news/microsoft-maia-ai-chip-last-puzzle-piece-for-infrastructure-systems"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 51
+      name: scmp.com
+      domain: scmp.com
+    quality: 52
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/11/19/43679d2f-6cb3-4c31-9f43-6e781d665a86_80405063.jpg?itok=pE9feADO&v=1700400807"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft to Bring Cohere’s Enterprise AI Models on Azure AI Service"
     excerpt: "Cohere has announced that its flagship enterprise AI model, Command, will now be accessible through the Microsoft Azure AI Model Catalog and Marketplace as a managed service for the first time. The partnership brings Cohere’s English and multilingual capabilities to Microsoft Azure, enabling global use across various languages and regions."
     publishedDateTime: 2023-11-17T08:20:00Z
@@ -116,33 +104,24 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 49
-  - title: "Microsoft Azure Gets New Nvidia Service For Developing Custom GenAI Apps"
-    excerpt: "Microsoft Azure is getting a new service from Nvidia that is designed to let businesses develop, fine-tune and run custom generative AI applications using proprietary data."
-    publishedDateTime: 2023-11-15T17:36:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-azure-gets-new-nvidia-service-for-developing-custom-genai-apps"
+  - title: "Sam Altman’s ‘Departure’ And Board Oversight Of Artificial Intelligence"
+    excerpt: "OpenAI’s decision to terminate CEO Sam Altman may have a substantial ripple effect on how boards approach oversight of the organizational use of artificial intelligence."
+    publishedDateTime: 2023-11-18T17:12:00Z
+    webUrl: "https://www.forbes.com/sites/michaelperegrine/2023/11/18/sam-altmans-departure-and-board-oversight-of-artificial-intelligence/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 48
-  - title: "Microsoft’s Maia AI, Azure Cobalt chips to rev up efficiency, performance"
-    excerpt: "New chips from Microsoft along with other custom chips from the likes of AWS, Google and Oracle, though limited in their impact initially, are expected to provide stiff competition for chipmakers such as Nvidia,"
-    publishedDateTime: 2023-11-15T21:35:00Z
-    webUrl: "https://www.networkworld.com/article/1247268/microsofts-maia-ai-azure-cobalt-chips-to-rev-up-efficiency-performance.html"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "OpenAI CEO Sam Altman discusses possible return, mulls new AI venture, source says"
+    excerpt: "A day after the board fired him in a surprise move that rocked the tech world, Altman was talking with OpenAI executives about improving the company's governance structure, the source said."
+    publishedDateTime: 2023-11-19T13:24:00Z
+    webUrl: "https://www.reuters.com/technology/openai-co-founder-altman-planning-new-venture-information-2023-11-18/"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 48
-  - title: "Microsoft Holds Chip Makers’ Feet To The Fire With Homegrown CPU And AI Chips"
-    excerpt: "After many years of rumors, Microsoft has finally confirmed that it is following rivals Amazon Web Services and Google into the design of custom processors and accelerators for their clouds. That confirmation came today as Satya Nadella,"
-    publishedDateTime: 2023-11-16T17:01:00Z
-    webUrl: "https://www.nextplatform.com/2023/11/15/microsoft-holds-chip-makers-feet-to-the-fire-with-homegrown-cpu-and-ai-chips/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 48
+      name: Reuters
+      domain: reuters.com
+    quality: 41
   - title: "First dedicated AI accelerators and in-house Arm processors unveiled for Microsoft Azure"
     excerpt: "Microsoft Corp. is looking to fuel the artificial intelligence and cloud computing ambitions of its customers with the launch of new, dedicated silicon for AI and other workloads. The new chips announced today at Ignite 2023 include Microsoft’s first custom AI accelerator available on Azure,"
     publishedDateTime: 2023-11-15T17:22:00Z
@@ -152,15 +131,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 40
-  - title: "New Microsoft Azure virtual machines optimized for AI with AMD Instinct MI300X Accelerators"
-    excerpt: "During the recent Microsoft Ignite event, a significant collaboration between AMD and Microsoft was highlighted. AMD showcased its array of products that"
-    publishedDateTime: 2023-11-16T15:32:00Z
-    webUrl: "https://www.geeky-gadgets.com/microsoft-azure/"
+  - title: "Sam Altman was the trusted face of AI. His firm, though, is much more complex"
+    excerpt: "The conflicts of interest built into OpenAI’s corporate structure may be a bigger story than the loss of its leader"
+    publishedDateTime: 2023-11-19T09:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/nov/19/sam-altman-was-the-trusted-face-of-ai-his-firm-though-is-much-more-complex"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
+      name: The Guardian
+      domain: theguardian.com
+    quality: 14
 
 secured: "2AVtxHdt4Uucod+MNhc5X06Fc5sTCOXynJnq8WddmdA1LLOULonsHkLHFpFJun9SJfzcxuUct18AJZgK89gBV1RdqANg9EFZfjmDqiepJZPWt7DGu0CKIS0bgsTms8kJTmQGbGav2OT6J+niOOaAeNbb176Jdv3aL/bXcuiB9YhfMto1qOQAybwQGmjMOwaIHCaP1P927cs6haxL5JJaHE9NUOL8VspMz0kQJpmblAWSlElXDxkZ2FGSkskiF7tp/aAlRoNkj8xESmlbAEzOa1q6IqQvQwy7R2H6Eshnzrw94WpQmgn1xiM1AViOCm+WHGn/3n3mf0BidHXZbzvFQATmKUSQkyBWcWDBWetJYY7HSHjlSYBgqhGzfIYUtMfbSwzgqh1wEjOo8F3G7ArNZCFUzImLqOUtSTAgdN80CinwPAxDWXUYSALMD1hmWFVFMmTfU7GhoTo/gI9oR5aekb411AC8lqlnPt/NuJDRxzbLnDjfKdIdW60xt/CwHombbWv1FOKo2zS1b/5NScUIhA==;0vNz2nxnq+Ma12vjxx2srQ=="
 ---

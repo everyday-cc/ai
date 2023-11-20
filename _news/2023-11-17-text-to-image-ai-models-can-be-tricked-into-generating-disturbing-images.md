@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/11/17/1083593/text-to-image-ai
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/17/1083593/text-to-image-ai-models-can-be-tricked-into-generating-disturbing-images/amp/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: MIT Technology Review
@@ -35,15 +35,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 29
-  - title: "Meta announces new breakthroughs in AI image editing and video generation with Emu"
-    excerpt: "The Emu Video tool leverages the Emu model and provides a simple method for text-to-video generation that’s based on diffusion models. Meta said the tool can respond to various inputs, including text only, image only or both together."
-    publishedDateTime: 2023-11-16T22:45:00Z
-    webUrl: "https://siliconangle.com/2023/11/16/meta-announces-new-breakthroughs-ai-image-editing-video-generation-emu/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 13
 
 secured: "Xa1TMZExi6V7jDbL7dFaZqexoU3mdiAKrI/vEOP5NvhqQgZRd4igujh5PHFQM1hYwTKnyRjy3HQP2Ncibdq9H/X6KZllQYwkxfjLSldFHIPnz1Q+QmCHv0ZTbys+qFEUcvVjnQ3E8rzbTwibu8ucFDw86iVmg2gQcz1Zkf9NADGeSEpFpqMT/+okwHZLqdQPnZODK9SYsVodHLQlVstLrNi2x5nExiuBRAviVtxUcUFZkvqsK8MzLpNhNtLJiHP/ILHQ4mGmmY5vATl7TULdCYhSNR/4JmT9fNI0p9JqgRlaYPohxB8rkdHWTn+3Pbq4sqZTJKJ9Pq05f64zuER7CfBYRe0zDRJ3rxnINvDeiCE8qTOQCcbiVy8gU4cxRDBfm7Gcsmnluk2F/UkC2Q/yQaRPk/F8P3ZSl+njia9+3LXJmXrmxBjiMaNnsZmbLaf/eOgF24R010ptflZr+019ioHUhEWlLde9WA5cBnsfh4kYiHmy36mjC2ykWAC6KbM8OdXqoAI0cxwTQllx9JZMxw==;zxsy28z59oXyn96F9uCSvA=="
 ---

@@ -19,22 +19,95 @@ topics:
   - AI
 
 related:
-  - title: "FEATURE-Video games, AI fuel wartime disinformation"
-    excerpt: "Video game used to spread disinformation * Malicious actors lower video quality to deceive viewers * Challenges in detecting and combating fake content By Adam Smith LONDON, Nov 16 (Thomson Reuters Foundation) - Something was wrong with the video of the Iron Beam,"
-    publishedDateTime: 2023-11-16T07:32:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2714796-feature-video-games-ai-fuel-wartime-disinformation"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2714796-feature-video-games-ai-fuel-wartime-disinformation?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2714796-feature-video-games-ai-fuel-wartime-disinformation?amp"
+  - title: "Accelerating climate action with AI"
+    excerpt: "AI has the potential to mitigate 5-10% of global greenhouse gas emissions according to our new report with Boston Consulting Group."
+    publishedDateTime: 2023-11-20T08:00:00Z
+    webUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/"
+    ampWebUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sustainability-BlogHeader-Adaptation-2.width-1300.png"
+        width: 1300
+        height: 733
+        isCached: true
+  - title: "Synopsys.ai Copilot accelerates AI-driven chip design"
+    excerpt: "Chip design software firm Synopsys has unveiled Synopsys.ai Copilot as an AI-driven accelerator for designing semiconductor chips."
+    publishedDateTime: 2023-11-15T21:24:00Z
+    webUrl: "https://venturebeat.com/ai/synopsys-ai-copilot-accelerates-ai-driven-chip-design/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+  - title: "Elastic Signs Strategic Collaboration Agreement with AWS to Accelerate Generative AI Solutions"
+    excerpt: "Elastic, announced a new two-year global Strategic Collaboration Agreement with Amazon Web Services to make it easier for shared customers."
+    publishedDateTime: 2023-11-17T15:55:00Z
+    webUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/"
+    ampWebUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 62
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/11/Elastic-Signs-Partnership-Agreement-with-AWS-to-Accelerate-Generative-AI-Solutions.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "IBM expands relationship with AWS to bring generative AI solutions and dedicated expertise to clients"
+    excerpt: "Providing clients with dedicated AWS expertise and plans to train and skill 10,000 consultants United Arab Emirates -- IBM (NYSE: IBM ( announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from generative artificial intelligence (AI)."
+    publishedDateTime: 2023-11-20T08:08:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients-lzu5g5ky"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients-lzu5g5ky?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients-lzu5g5ky?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
     quality: 59
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/09_02_2023_17_30_51_7313876.jpg?width=1280"
-        width: 1280
-        height: 960
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTQ5ZWU3ZDktNTI1MC00/0/ibmgenaiaws-jpg.jpeg?f=3%3A2"
+        width: 505
+        height: 337
         isCached: true
+  - title: "Elevate Your Teaching Career with Educational AI Tools"
+    excerpt: "As with other technological advances in the past, AI isn't going anywhere. You can unlock new teaching tools that also prepare your students for tech jobs."
+    publishedDateTime: 2023-11-20T01:32:00Z
+    webUrl: "https://www.educatorstechnology.com/2023/11/educational-ai-tools.html"
+    type: article
+    provider:
+      name: Educational Technology and Mobile Learning
+      domain: educatorstechnology.com
+    quality: 39
+    images:
+      - url: "https://www.educatorstechnology.com/wp-content/uploads/2023/11/1-8.png"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "Pentagon teams with MIT on artificial intelligence, big-data education"
+    excerpt: "Building trust between man and machine is a complex process, often requiring repeated exposure, according to a Government Accountability Office report."
+    publishedDateTime: 2023-11-16T19:48:00Z
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2023/11/16/pentagon-teams-with-mit-on-artificial-intelligence-big-data-education/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 36
+  - title: "Meta announces new breakthroughs in AI image editing and video generation with Emu"
+    excerpt: "The Emu Video tool leverages the Emu model and provides a simple method for text-to-video generation that’s based on diffusion models. Meta said the tool can respond to various inputs, including text only, image only or both together."
+    publishedDateTime: 2023-11-16T22:45:00Z
+    webUrl: "https://siliconangle.com/2023/11/16/meta-announces-new-breakthroughs-ai-image-editing-video-generation-emu/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 13
 
 secured: "sUytcqG8rk6bXbDj30LuJUx/arekAbYzV3gT0aybIYqW+kuebX9TGjundptDz0/TjSZzXbqhZGpgkKwTU5xj66rT8NzPWI/hyL86e3PC1lP66Vc8mTaAqstEfu2XLeghFZfgjpf118k6/g16unZxRUyE8bPDhaYTpcI1bMJGMgPls10gp4KkkMmP2WvEEI3nLWChanVJgT8ulcwd/duGMpTYPprLBbL5QAJaxZ8BiZlp9UStrMqkHKyLyy3bwUeXeHlxlRnJLvkonUuPdUk9L6LjR2QWMtyt0lhxlR/ToGMxyBQqf7jjDcKMPNg5Vkf5f29WsYYgF2l78EO1BK95WkG+wW+aQ7EIHS7lR/pcJ2Ex9AxuZfJaodzN7Od1OmUyhWlfaK5pf8y+e9qLGtuy3CyningJQpc7ULilCdHw7cZEkOWpX71M2ZrszIMtQPV8NqyvQ7urM5ZxH/9EvEFIL10JOa7hALcFmBGvkusac8TVAXVfj8XHVPS50zFMH19ynR6j35yMOxXTGiiMlWIbbg==;Orp+HSjS0/smCgXkelW07w=="
 ---

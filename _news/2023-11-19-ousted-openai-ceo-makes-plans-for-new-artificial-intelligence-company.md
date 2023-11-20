@@ -38,22 +38,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "The OpenAI Drama: Sam Altman’s Shocking Ouster, Board Resignation And The Struggle For AI’s Future"
-    excerpt: "In the tumultuous world of artificial intelligence, OpenAI, a pioneering force in generative AI, finds itself at a crossroads."
-    publishedDateTime: 2023-11-20T02:20:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/11/19/the-openai-drama-sam-altmans-shocking-ouster-board-resignation-and-the-struggle-for-ais-future/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/11/19/the-openai-drama-sam-altmans-shocking-ouster-board-resignation-and-the-struggle-for-ais-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/11/19/the-openai-drama-sam-altmans-shocking-ouster-board-resignation-and-the-struggle-for-ais-future/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655a27bc3780a2d384b19dac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1280
-        height: 900
-        isCached: true
   - title: "The OpenAI fiasco shows why we must regulate artificial intelligence"
     excerpt: "If AI goes right, it could cure cancer and climate change and a host of similar problems, ushering in a futuristic utopia. If we get it wrong, many believe it could be an existential catastrophe"
     publishedDateTime: 2023-11-19T23:47:00Z

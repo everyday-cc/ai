@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/synopsys-ai-copilot-accelerates-ai-driv
 webUrl: "https://venturebeat.com/ai/synopsys-ai-copilot-accelerates-ai-driven-chip-design/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -23,15 +23,95 @@ topics:
   - AI
 
 related:
-  - title: "New purpose-designed chips poised to boost generative AI development"
-    excerpt: "Driven by the need for even more powerful hardware, NVIDIA just announced a brand new chip dedicated to AI, the H200. The new H200s are designed to cut AI processing times by as much as 50% or more, while also reducing power consumption."
-    publishedDateTime: 2023-11-17T19:31:00Z
-    webUrl: "https://www.nextgov.com/ideas/2023/11/new-purpose-designed-chips-poised-boost-generative-ai-development/392123/"
+  - title: "Accelerating climate action with AI"
+    excerpt: "AI has the potential to mitigate 5-10% of global greenhouse gas emissions according to our new report with Boston Consulting Group."
+    publishedDateTime: 2023-11-20T08:00:00Z
+    webUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/"
+    ampWebUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 34
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sustainability-BlogHeader-Adaptation-2.width-1300.png"
+        width: 1300
+        height: 733
+        isCached: true
+  - title: "Elastic Signs Strategic Collaboration Agreement with AWS to Accelerate Generative AI Solutions"
+    excerpt: "Elastic, announced a new two-year global Strategic Collaboration Agreement with Amazon Web Services to make it easier for shared customers."
+    publishedDateTime: 2023-11-17T15:55:00Z
+    webUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/"
+    ampWebUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 62
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/11/Elastic-Signs-Partnership-Agreement-with-AWS-to-Accelerate-Generative-AI-Solutions.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "IBM expands relationship with AWS to bring generative AI solutions and dedicated expertise to clients"
+    excerpt: "Providing clients with dedicated AWS expertise and plans to train and skill 10,000 consultants United Arab Emirates -- IBM (NYSE: IBM ( announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from generative artificial intelligence (AI)."
+    publishedDateTime: 2023-11-20T08:08:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients-lzu5g5ky"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients-lzu5g5ky?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients-lzu5g5ky?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTQ5ZWU3ZDktNTI1MC00/0/ibmgenaiaws-jpg.jpeg?f=3%3A2"
+        width: 505
+        height: 337
+        isCached: true
+  - title: "Elevate Your Teaching Career with Educational AI Tools"
+    excerpt: "As with other technological advances in the past, AI isn't going anywhere. You can unlock new teaching tools that also prepare your students for tech jobs."
+    publishedDateTime: 2023-11-20T01:32:00Z
+    webUrl: "https://www.educatorstechnology.com/2023/11/educational-ai-tools.html"
+    type: article
+    provider:
+      name: Educational Technology and Mobile Learning
+      domain: educatorstechnology.com
+    quality: 39
+    images:
+      - url: "https://www.educatorstechnology.com/wp-content/uploads/2023/11/1-8.png"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "Pentagon teams with MIT on artificial intelligence, big-data education"
+    excerpt: "Building trust between man and machine is a complex process, often requiring repeated exposure, according to a Government Accountability Office report."
+    publishedDateTime: 2023-11-16T19:48:00Z
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2023/11/16/pentagon-teams-with-mit-on-artificial-intelligence-big-data-education/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 36
+  - title: "Meta introduces AI models for video generation, image editing"
+    excerpt: "Meta is introducing two artificial intelligence-powered generative models for video generation and image manipulation."
+    publishedDateTime: 2023-11-16T19:59:00Z
+    webUrl: "https://cointelegraph.com/news/meta-introduces-ai-models-artificial-intelligence-video-generation-image-editing"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 19
+  - title: "Meta announces new breakthroughs in AI image editing and video generation with Emu"
+    excerpt: "The Emu Video tool leverages the Emu model and provides a simple method for text-to-video generation that’s based on diffusion models. Meta said the tool can respond to various inputs, including text only, image only or both together."
+    publishedDateTime: 2023-11-16T22:45:00Z
+    webUrl: "https://siliconangle.com/2023/11/16/meta-announces-new-breakthroughs-ai-image-editing-video-generation-emu/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 13
 
 secured: "fPMVV2MlFcZR2BePYkWC6+rPbkhwbckJKSXB3PxHRiyJm+/GgxcLNtaBi+gr4zngMfDt+EGj52i2flsi41CiKij8HEXaxxrb39jTZHbdVP7M2i0FC2b/pN52wLlqosDaewvEEzvWRmXfV4sqyAcEFawinW3gZ5lPTGAcgP8dmTaRHN6Ya25EKAqZKdJxRchokQ9cTVLk9xbQJjJBRcYWkf2f9cWYN73s/gJD4N9NK7GKfhl5hTinLaK4fQ27fVwCC+CvXaI00QhOIvc1MYt9nzipFZsuywvdvvwdmLQQDKUscQHGXpf0++g9JZs9aV9R0aBBdHPo58xFPfHC8Cu0Pmroww+ppqaL1XssBKqozWRV/VJdpiZ95Ez+k2SUEUeB/TYxIQvRzIivDtb5R1IabtYQcWAsJ3v1RqsNSz5RmDbjUEb4KOGSlzniF5ugSYko5KS7YFCpQrP7RYiiFmB1RlfyCOz3umwt4qGSDsDQwNybh2LD+FkCRYylvwMfNQlRmjAOdZBEGh4HY4QJWhD2Xw==;bKKcGCH3UA0vriLx/0kpSg=="
 ---

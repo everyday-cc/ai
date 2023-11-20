@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 105
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     height: 688
     isCached: true
 
-related:
-  - title: "Elastic Signs Strategic Collaboration Agreement with AWS to Accelerate Generative AI Solutions"
-    excerpt: "Elastic, announced a new two-year global Strategic Collaboration Agreement with Amazon Web Services to make it easier for shared customers."
-    publishedDateTime: 2023-11-17T15:55:00Z
-    webUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/"
-    ampWebUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 62
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/11/Elastic-Signs-Partnership-Agreement-with-AWS-to-Accelerate-Generative-AI-Solutions.jpg"
-        width: 1500
-        height: 844
-        isCached: true
-
-secured: "rMyQEbfIzaYWZ0Klb6lW6zokMwZKR96LEWIQJayrM6yJwIdJtLDLPkt3ejW5mUl6RrLZrOHFhGb6HvQ568NVARjTl+TquDc24Z0/BGD3HQ3/zTfVfqFs+Cx8rpRPqj17zRHLoORqWDV2JCcp59hxEmFCc8E17CBXVBl9D49VIak9UJDuFs1S0A73vzioNmeXbmNfyMsPeeWIXSMQLkuoRng/6wSo4ubuMzcTGN1aSeUi2o4obgRZc/X5PTujM0UD1ok0AtO+crl9XrAqh4wLEDZRLwag2sFkiL9gcqGdoC4UY3YR0E6oSr+Gg3G/ZoFSjp3kHMI4WaJrmLL42I4I7b4NPXQtj3+SYmpBnNlSWus=;JHnulk/H3iliRndjqSVIww=="
+secured: "v8rw859hXQ0nD+mui5JFYBmHpKs6dubplPWYorfph7zYQ0+f3hwwfQK5jiTFJwGG8R3kJIa3JrTuZXuotErssRXzQ9PHpNT05t3vE2mpllYBAqMVDhbTrX7w/eepkzkcnx+XD8IMLbqoBy76nFXs9WJdZBYu+275+5g4wR2IWmBMLDLWvP8bNYOpoWOOi4/pYSq2/YDMRWI4gC4dfVXWEsah4ZiQRc+YdviBltA38v4zTONNV4zMx+0uqe7+x59HBGTiYwnnuDSNkqxO8Jf8J6C1T9EkUJCaeNFfsM6fHrMoyFJ8XK70RRSqpt91dwFvrm1mtVgeFL+VkWH8xsVdg8jcfCqcfPzcZ9DNseCRd87oFiQQs0aIebapIXdEnpCCGOzhK+6w061JXwKyLzmYuvNRzTk6+yf+kFa00sNoKa74pGXrFeRXEQNNTsEoi4LtDKUaTfh5vETVO2aOklcxH4An5qgMHuCWncSECR0gYLMTYlJhSzk7sZJZ/089DSWj/WydGSZ6yKCdfsihEKlqaQ==;vaFqDMDEAqfVpPZUOXoaHw=="
 ---
 

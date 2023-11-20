@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-14-willamette-students-and-faculty-shine-at-regional-computer-science-conference.md",
+      "title": "Willamette students and faculty shine at regional computer science conference",
+      "excerpt": "With several faculty members leading the conference and a first-place student win, the School of Computing & Information Sciences dazzled peers.",
+      "sourceUrl": null,
+      "webUrl": "https://willamette.edu/news/library/2023/11/ccsc-nw.html",
+      "originalUrl": "https://willamette.edu/news/library/2023/11/ccsc-nw.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Willamette University",
+        "domain": "willamette.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-amazon-black-friday-2023-best-early-deals-and-upcoming-sale-dates.md",
       "title": "Amazon Black Friday 2023: Best Early Deals and Upcoming Sale Dates",
       "excerpt": "If you're looking to stock up on movies, you can save a heap of cash right now at Amazon. Amazon has officially announced its Black Friday sale will begin on Friday, November 17 and run through ...",
@@ -860,40 +894,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-exploring-the-power-of-ai-in-gaming-unveiling-the-tools-that-drive-the-experience.md",
-      "title": "Exploring the Power of AI in Gaming: Unveiling the Tools That Drive the Experience",
-      "excerpt": "Introduction In the dynamic realm of gaming, the integration of artificial intelligence (AI) has become a game-changer, revolutionizing the way players interact with virtual worlds. AI tools play a pivotal role in enhancing gameplay,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/exploring-the-power-of-ai-in-gaming-unveiling-the-tools-that-drive-the-experience/",
-      "originalUrl": "https://techbullion.com/exploring-the-power-of-ai-in-gaming-unveiling-the-tools-that-drive-the-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T01:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/karlfreund/2023/11/16/microsoft-annou
 webUrl: "https://www.forbes.com/sites/karlfreund/2023/11/16/microsoft-announces-maia-ai-arm-cpu-amd-mi300--new-nvidia-for-azure/"
 type: article
 quality: 79
-heat: 229
+heat: 189
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 64
-  - title: "NVIDIA Introduces Generative AI Foundry Service on Microsoft Azure for Enterprises and Startups Worldwide"
-    excerpt: "SAP, Amdocs, Getty Images Among First to Build Custom LLMs With NVIDIA AI Foundation Models, Train on NVIDIA DGX Cloud, Deploy With NVIDIA AI"
-    publishedDateTime: 2023-11-15T17:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-introduces-generative-ai-foundry-service-on-microsoft-azure-for-enterprises-and-startups-worldwide-1032823945"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
   - title: "Microsoft unveils new Azure Cobalt CPU and Maia 100 GPU designed for AI and the Cloud"
     excerpt: "Microsoft is finally making its own chips for the AI and Cloud market with the new Azure Cobalt 100 CPU and Maia 100 AI Accelerator."
     publishedDateTime: 2023-11-16T05:34:00Z
@@ -102,15 +93,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 51
-  - title: "Microsoft to Bring Cohere’s Enterprise AI Models on Azure AI Service"
-    excerpt: "Cohere has announced that its flagship enterprise AI model, Command, will now be accessible through the Microsoft Azure AI Model Catalog and Marketplace as a managed service for the first time. The partnership brings Cohere’s English and multilingual capabilities to Microsoft Azure, enabling global use across various languages and regions."
-    publishedDateTime: 2023-11-17T08:20:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-to-brings-coheres-enterprise-ai-models-azure-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 49
   - title: "Microsoft Azure Gets New Nvidia Service For Developing Custom GenAI Apps"
     excerpt: "Microsoft Azure is getting a new service from Nvidia that is designed to let businesses develop, fine-tune and run custom generative AI applications using proprietary data."
     publishedDateTime: 2023-11-15T17:36:00Z
@@ -138,15 +120,6 @@ related:
       name: The Next Platform
       domain: nextplatform.com
     quality: 48
-  - title: "First dedicated AI accelerators and in-house Arm processors unveiled for Microsoft Azure"
-    excerpt: "Microsoft Corp. is looking to fuel the artificial intelligence and cloud computing ambitions of its customers with the launch of new, dedicated silicon for AI and other workloads. The new chips announced today at Ignite 2023 include Microsoft’s first custom AI accelerator available on Azure,"
-    publishedDateTime: 2023-11-15T17:22:00Z
-    webUrl: "https://siliconangle.com/2023/11/15/microsoft-unveils-azures-first-dedicated-ai-accelerators-house-arm-cpus/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 40
   - title: "New Microsoft Azure virtual machines optimized for AI with AMD Instinct MI300X Accelerators"
     excerpt: "During the recent Microsoft Ignite event, a significant collaboration between AMD and Microsoft was highlighted. AMD showcased its array of products that"
     publishedDateTime: 2023-11-16T15:32:00Z
@@ -156,15 +129,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 39
-  - title: "Microsoft Rolls Out Host of New AI Features at Ignite 2023"
-    excerpt: "From new copilots and AI development tools, to vector search and AI chips, artificial intelligence featured prominently in Microsoft’s annual Ignite"
-    publishedDateTime: 2023-11-17T21:44:00Z
-    webUrl: "https://www.datanami.com/2023/11/17/microsoft-rolls-out-host-of-new-ai-features-at-ignite-2023/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
 
 secured: "lIZtL2j0ngk438zl6VoQ8uDD0WGTPWK3xspz2E0PrsXykir8OKBZuIPqL3OkC8wcm3FjwgD8a/ejtTHumYf1oryCfu0ZBt5Ln18/mtWidKcwlfhIQ2f8+0FUOFaHPgYsS1m64NbIbYI2wIq9I4RlEx5AaSGaE6QliWa6+hYruIVuxcEu4ZxkYtph+or17Afms+MOrm3vaW8AOn6DTGTq9O1fbrPmlYEFoYjht3v78YwaXOgo2ZG9c7B1fe/NSPAzww61XbbqcRMGSifDByXEYQuZ53k+LZ8X559I3bLYytlIAWrgNkDRDyioEE3NSvf9eOefq6y7alquErh7tQAeNlQD9WJggatvV0p2Z/PojrHEspIk0nOQCcbrUMGQzsS7qT102obZAtK/xWz5+L0hr0IKVzF7rkLuAfohgDVwNvtwGrI6xq0codBgvKMb/ehhZUJn7mc8T2aRoU0HFId0IfVnw1EaK+rLohnbHQQnBLCLuHTLJ9oF0ZSzoIOD2MpOAbV6IppSjtUskQ8ajbhjmg==;92GoJmpn4TfKtpAJMdAjfw=="
 ---

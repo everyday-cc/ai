@@ -63,15 +63,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 64
-  - title: "NVIDIA Introduces Generative AI Foundry Service on Microsoft Azure for Enterprises and Startups Worldwide"
-    excerpt: "SAP, Amdocs, Getty Images Among First to Build Custom LLMs With NVIDIA AI Foundation Models, Train on NVIDIA DGX Cloud, Deploy With NVIDIA AI"
-    publishedDateTime: 2023-11-15T17:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-introduces-generative-ai-foundry-service-on-microsoft-azure-for-enterprises-and-startups-worldwide-1032823945"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
   - title: "Microsoft unveils new Azure Cobalt CPU and Maia 100 GPU designed for AI and the Cloud"
     excerpt: "Microsoft is finally making its own chips for the AI and Cloud market with the new Azure Cobalt 100 CPU and Maia 100 AI Accelerator."
     publishedDateTime: 2023-11-16T05:34:00Z
@@ -108,15 +99,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 51
-  - title: "Microsoft to Bring Cohere’s Enterprise AI Models on Azure AI Service"
-    excerpt: "Cohere has announced that its flagship enterprise AI model, Command, will now be accessible through the Microsoft Azure AI Model Catalog and Marketplace as a managed service for the first time. The partnership brings Cohere’s English and multilingual capabilities to Microsoft Azure, enabling global use across various languages and regions."
-    publishedDateTime: 2023-11-17T08:20:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-to-brings-coheres-enterprise-ai-models-azure-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 49
   - title: "Microsoft Azure Gets New Nvidia Service For Developing Custom GenAI Apps"
     excerpt: "Microsoft Azure is getting a new service from Nvidia that is designed to let businesses develop, fine-tune and run custom generative AI applications using proprietary data."
     publishedDateTime: 2023-11-15T17:36:00Z
@@ -135,15 +117,6 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 48
-  - title: "First dedicated AI accelerators and in-house Arm processors unveiled for Microsoft Azure"
-    excerpt: "Microsoft Corp. is looking to fuel the artificial intelligence and cloud computing ambitions of its customers with the launch of new, dedicated silicon for AI and other workloads. The new chips announced today at Ignite 2023 include Microsoft’s first custom AI accelerator available on Azure,"
-    publishedDateTime: 2023-11-15T17:22:00Z
-    webUrl: "https://siliconangle.com/2023/11/15/microsoft-unveils-azures-first-dedicated-ai-accelerators-house-arm-cpus/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 40
   - title: "New Microsoft Azure virtual machines optimized for AI with AMD Instinct MI300X Accelerators"
     excerpt: "During the recent Microsoft Ignite event, a significant collaboration between AMD and Microsoft was highlighted. AMD showcased its array of products that"
     publishedDateTime: 2023-11-16T15:32:00Z
@@ -153,15 +126,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 39
-  - title: "Microsoft Rolls Out Host of New AI Features at Ignite 2023"
-    excerpt: "From new copilots and AI development tools, to vector search and AI chips, artificial intelligence featured prominently in Microsoft’s annual Ignite"
-    publishedDateTime: 2023-11-17T21:44:00Z
-    webUrl: "https://www.datanami.com/2023/11/17/microsoft-rolls-out-host-of-new-ai-features-at-ignite-2023/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
 
 secured: "VGj3LPoN/+0zhaVbvCQWc3fp8Oi1siCNVcouK3EhlTpRWSRDyFah5UnzPlTU+6/HOTJ8p6qV9b+H1nnMSuTHMhBAW5ft607NEzJOxcpxYRWBeTk1EpSqDXR2s8G9f8NlKMRQXQOJcD5vmNWH95vpakO48DWOLnWBb1PL5XJj5t4Ie45R4T7H1jmJmmRE56BqRLguRwI2T/G1cj5kLrVyGzEJ4Dim4yPyFvTn5W5heNHB2LVFCnBQZG4uAhp1NuPortzpvBhdhidAKGpdqa7e8f52BXWS4LNvyZeCaD381EjV5bzXwUhUc49t2Yd0NGN9Lr2VE9btfUOnAt7pq0o6JBINFLBQFxIBdF9AR8i+EuR88QJ8Bjl8jdk3K3hfBiwA2MLY9LHHkIz1rVV5mjiM2//ypURwXF2HXAHS1INkvLL1002qNWCQhbVoCuhm2Vag294kMUYWn/VR7Gf41MLxTbVs0E+TAeWkaZwGLguCzOqqChskJUl4b/JNTdEawQXmg0vxJuUcoT+cqW6mi7k7EQ==;5Hiv2IoF6ID15QahFxZy2Q=="
 ---

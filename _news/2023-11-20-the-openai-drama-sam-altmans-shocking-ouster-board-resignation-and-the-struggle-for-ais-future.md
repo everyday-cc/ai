@@ -30,83 +30,120 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
-    excerpt: "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models."
-    publishedDateTime: 2023-11-20T00:00:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922?icid=recommended"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
+  - title: "Microsoft Says Sam Altman and Greg Brockman Will Lead New In-House AI Team"
+    excerpt: "Application error: a client-side exception has occurred (see the browser console for more information)."
+    publishedDateTime: 2023-11-20T08:45:00Z
+    webUrl: "https://time.com/6337503/sam-altman-joins-microsoft-ai/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 77
+      name: Time
+      domain: time.com
+    quality: 82
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-11/231119-sam-altman-jm-1614-859c3a.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://api.time.com/wp-content/uploads/2023/11/sam-altman-microsoft.jpg?quality=85"
+        width: 3000
+        height: 2125
         isCached: true
-  - title: "The OpenAI fiasco shows why we must regulate artificial intelligence"
-    excerpt: "If AI goes right, it could cure cancer and climate change and a host of similar problems, ushering in a futuristic utopia. If we get it wrong, many believe it could be an existential catastrophe"
-    publishedDateTime: 2023-11-19T23:47:00Z
-    webUrl: "https://nypost.com/2023/11/19/opinion/the-openai-fiasco-shows-why-we-must-regulate-artificial-intelligence/"
-    ampWebUrl: "https://nypost.com/2023/11/19/opinion/the-openai-fiasco-shows-why-we-must-regulate-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/11/19/opinion/the-openai-fiasco-shows-why-we-must-regulate-artificial-intelligence/amp/"
+  - title: "Emmett Shear, OpenAI's new interim CEO, shares Sam Altman's worry that AI could destroy all life"
+    excerpt: "Shear has repeatedly said he believes AI can potentially wipe out the human race, the same fear Sam Altman expressed as ChatGPT rose to prominence."
+    publishedDateTime: 2023-11-20T08:10:00Z
+    webUrl: "https://www.businessinsider.com/emmett-shear-openai-ceo-artificial-intelligence-destroy-all-life-chatgpt-2023-11"
+    ampWebUrl: "https://www.businessinsider.com/emmett-shear-openai-ceo-artificial-intelligence-destroy-all-life-chatgpt-2023-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/emmett-shear-openai-ceo-artificial-intelligence-destroy-all-life-chatgpt-2023-11?amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 72
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/11/newspress-collage-z5hdnr8oi-1700440023427.jpg?quality=75&strip=all&1700422172&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://i.insider.com/655b006422cf74a57399f09c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Microsoft recommits to open source AI models, despite OpenAI investment"
-    excerpt: "Ignite over the last two days, Microsoft also made more important moves to bolster its support for rival open source AI models."
-    publishedDateTime: 2023-11-17T00:00:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-recommits-to-open-source-ai-models-despite-openai-investment/"
+  - title: "Sam Altman Was in Talks to Raise Billions for AI Chip Venture Before OpenAI Ouster"
+    excerpt: "Altman was said to be travelling to the Middle East to fundraise for the project, which was code-named Tigris."
+    publishedDateTime: 2023-11-20T07:15:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/sam-altman-openai-ceo-firing-raise-billions-investors-ai-chip-venture-4588728"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/sam-altman-openai-ceo-firing-raise-billions-investors-ai-chip-venture-4588728/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/sam-altman-openai-ceo-firing-raise-billions-investors-ai-chip-venture-4588728/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-  - title: "Altman Sought Billions For AI Chip Venture Before OpenAI Ouster"
-    excerpt: "In the weeks leading up to his shocking ouster from OpenAI, Sam Altman was actively working to raise billions from some of the world’s largest investors for a new chip venture, according to people familiar with the matter."
-    publishedDateTime: 2023-11-19T17:37:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster"
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 68
+    images:
+      - url: "https://i.gadgets360cdn.com/large/sam_altman_worldcoin_main_bloomberg_1625030781405_1_1700464377534.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Ousted OpenAI CEO Sam Altman said to discuss possible return to start-up behind ChatGPT, mulls new artificial intelligence venture"
+    excerpt: "A day after the OpenAI board fired him, Sam Altman was talking with the company’s executives about improving its governance structure, while discussing with some core ChatGPT researchers about starting a new artificial intelligence company."
+    publishedDateTime: 2023-11-19T21:34:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3242094/ousted-openai-ceo-sam-altman-said-discuss-possible-return-start-behind-chatgpt-mulls-new-ai-venture"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
-  - title: "Ousted OpenAI C.E.O. Makes Plans for New Artificial Intelligence Company"
-    excerpt: "Sam Altman, who was forced out of his company on Friday afternoon, was quickly moving to create another company with another OpenAI executive who quit on Friday."
-    publishedDateTime: 2023-11-18T23:00:00Z
-    webUrl: "https://www.nytimes.com/2023/11/18/technology/ousted-openai-ceo-makes-plans-for-new-artificial-intelligence-company.html"
+      name: scmp.com
+      domain: scmp.com
+    quality: 52
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/11/19/43679d2f-6cb3-4c31-9f43-6e781d665a86_80405063.jpg?itok=pE9feADO&v=1700400807"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft to Bring Cohere’s Enterprise AI Models on Azure AI Service"
+    excerpt: "Cohere has announced that its flagship enterprise AI model, Command, will now be accessible through the Microsoft Azure AI Model Catalog and Marketplace as a managed service for the first time. The partnership brings Cohere’s English and multilingual capabilities to Microsoft Azure, enabling global use across various languages and regions."
+    publishedDateTime: 2023-11-17T08:20:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-to-brings-coheres-enterprise-ai-models-azure-ai/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 61
-  - title: "OpenAI’s leadership coup could slam brakes on growth in favor of AI safety"
-    excerpt: "All the signs point to a split between co-founder Ilya Sutskever and Sam Altman, after Sutskever become increasingly concerned that Altman was pushing OpenAI's business expansion too quickly, at the expense of safety."
-    publishedDateTime: 2023-11-18T23:02:00Z
-    webUrl: "https://venturebeat.com/ai/openais-leadership-coup-could-slam-brakes-on-growth-in-favor-of-ai-safety/"
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 49
+  - title: "Sam Altman’s ‘Departure’ And Board Oversight Of Artificial Intelligence"
+    excerpt: "OpenAI’s decision to terminate CEO Sam Altman may have a substantial ripple effect on how boards approach oversight of the organizational use of artificial intelligence."
+    publishedDateTime: 2023-11-18T17:12:00Z
+    webUrl: "https://www.forbes.com/sites/michaelperegrine/2023/11/18/sam-altmans-departure-and-board-oversight-of-artificial-intelligence/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
-  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
-    excerpt: "Matt Schlicht, the CEO of the startup Octane AI, told CNBC that Altman and Brockman, who was formerly the chief technology office of Stripe, “made a technology available that we’d only ever dreamed about” and called it “the most exciting and powerful development of our lifetime.”"
-    publishedDateTime: 2023-11-19T14:10:00Z
-    webUrl: "https://www.cnbc.com/2023/11/19/openai-executive-shakeup-raises-concerns-about-future-of-ai.html"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "OpenAI CEO Sam Altman discusses possible return, mulls new AI venture, source says"
+    excerpt: "A day after the board fired him in a surprise move that rocked the tech world, Altman was talking with OpenAI executives about improving the company's governance structure, the source said."
+    publishedDateTime: 2023-11-19T13:24:00Z
+    webUrl: "https://www.reuters.com/technology/openai-co-founder-altman-planning-new-venture-information-2023-11-18/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 37
+      name: Reuters
+      domain: reuters.com
+    quality: 41
+  - title: "First dedicated AI accelerators and in-house Arm processors unveiled for Microsoft Azure"
+    excerpt: "Microsoft Corp. is looking to fuel the artificial intelligence and cloud computing ambitions of its customers with the launch of new, dedicated silicon for AI and other workloads. The new chips announced today at Ignite 2023 include Microsoft’s first custom AI accelerator available on Azure,"
+    publishedDateTime: 2023-11-15T17:22:00Z
+    webUrl: "https://siliconangle.com/2023/11/15/microsoft-unveils-azures-first-dedicated-ai-accelerators-house-arm-cpus/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 40
+  - title: "Microsoft Rolls Out Host of New AI Features at Ignite 2023"
+    excerpt: "From new copilots and AI development tools, to vector search and AI chips, artificial intelligence featured prominently in Microsoft’s annual Ignite"
+    publishedDateTime: 2023-11-17T21:44:00Z
+    webUrl: "https://www.datanami.com/2023/11/17/microsoft-rolls-out-host-of-new-ai-features-at-ignite-2023/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
+  - title: "Sam Altman was the trusted face of AI. His firm, though, is much more complex"
+    excerpt: "The conflicts of interest built into OpenAI’s corporate structure may be a bigger story than the loss of its leader"
+    publishedDateTime: 2023-11-19T09:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/nov/19/sam-altman-was-the-trusted-face-of-ai-his-firm-though-is-much-more-complex"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 14
 
 secured: "VqW2SmVLGU676KbE3XQyzcMEv+F4JfBRlKxkdA978g/GkWf4pQUMeS2lJL8r5OVO4TB+PDEf/aBwmrzYoQ3K4hB0sf95hABmp8IjvOqYPLkZAIs/lqqSrCOScSMC+JDW9rkYFHG9EaFxKVZv6pfd/QRcd9Mlyc4ElltIQP/GDimdmDgqiWyu0p6Z8hu9gra1iy1BNShheERdsAz0Xs5D1D58w9euoooWb8+2sdxybD/qRse78AOX/0XDR1q/Ikj2FsDgW9ZIEHyVIfOcNNNtSxRjnA110/knC+E+Sw50Io7drO6J9oC5UaUuhHrp/YvE1LpilcmZsK+a5EqI8jb6A0pOcam7tTfOsfqrs1rpWZlhtHP//k41eQWc4ewwGQU+yalozkFzFQH44rvJxdn1yd7aZUmN3ImSBM0FP3lVpm6S3K3cIaSs+3hSeJN2BgyIF9CnNO3Sjk8vNosWzMv8ntH8invAkeQsDgZfNbu1tIrusinsdjVHXUm7NUsog3jIt8DHLgTZVWAbaHuyIuwbJQ==;orzzw5QH5k4YZ5kNIoO4+A=="
 ---

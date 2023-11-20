@@ -37,15 +37,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "How fintech companies can adopt AI without losing their human touch"
-    excerpt: "It’s not entirely surprising to see the fintech industry embrace artificial intelligence with the fervor that it has for the last several years. Adopting the latest technology is part and parcel of what the most innovative fintech companies have been doing  since day one – in fact,"
-    publishedDateTime: 2023-11-15T16:13:00Z
-    webUrl: "https://www.finextra.com/blogposting/25202/how-fintech-companies-can-adopt-ai-without-losing-their-human-touch"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
   - title: "How scammers' use of AI is affecting fintech investment"
     excerpt: "Fraudsters are likely to increase their use of generative artificial intelligence to attack banks and other payment companies. Investors are using their own influence to fight back."
     publishedDateTime: 2023-11-16T19:16:00Z
