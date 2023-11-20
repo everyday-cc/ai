@@ -2,40 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-10-04-mphasis-forms-strategic-technology-partnership-with-corestack.md",
-      "title": "Mphasis Forms Strategic Technology Partnership with CoreStack",
-      "excerpt": "Mphasis, (BSE: 526299; NSE: MPHASIS), an Information Technology (IT) solutions provider specializing in cloud and cognitive services, today announces",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231003982144/en/Mphasis-Forms-Strategic-Technology-Partnership-with-CoreStack",
-      "originalUrl": "https://www.businesswire.com/news/home/20231003982144/en/Mphasis-Forms-Strategic-Technology-Partnership-with-CoreStack",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-03-oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023.md",
       "title": "Oracle Doubles Down On Generative AI Trend At CloudWorld 2023",
       "excerpt": "AI Vector Search functionalities include a new vector data type ... though its partnership with Microsoft–arguably the leader in GenAI thus far–currently focuses on Oracle Database@Azure, we can all speculate what that partnership may grow to be.",
@@ -1277,6 +1243,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai.md",
+      "title": "Infosys collaborates with Microsoft to accelerate and democratize industry-wide adoption of generative AI",
+      "excerpt": "Generative AI has opened new avenues of AI applications and key enterprise functions across industries, and Infosys is providing services, frameworks, solutions, and platforms in multiple application areas,",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/Articles/Business/20230926/4123112.html",
+      "originalUrl": "https://news.webindia123.com/news/Articles/Business/20230926/4123112.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T18:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

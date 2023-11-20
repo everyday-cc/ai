@@ -2,6 +2,135 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2023-08-24-you-can-dupe-voice-recognition-software-with-pvc-pipes-uw-madison-researchers-discover.md",
+      "title": "You can dupe voice recognition software with PVC pipes, UW-Madison researchers discover",
+      "excerpt": "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ...",
+      "sourceUrl": null,
+      "webUrl": "https://journaltimes.com/news/state-and-regional/uw-madison-research-voice-recognition-security/article_12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b.html",
+      "originalUrl": "https://journaltimes.com/news/state-and-regional/uw-madison-research-voice-recognition-security/article_12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/1/2d/12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b/64e7752ab0b97.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Journal Times",
+        "domain": "journaltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software.md",
+      "title": "UW-Madison researchers find a way to dupe voice recognition security software",
+      "excerpt": "UW-Madison researchers have found a way to confuse voice recognition software by adjusting their voice frequencies to mimic others using a mathematical model and a plastic or metal tubes.",
+      "sourceUrl": null,
+      "webUrl": "https://madison.com/video/featured/uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software/video_e19afa46-8aef-5681-beb9-9966715af6a0.html",
+      "originalUrl": "https://madison.com/video/featured/uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software/video_e19afa46-8aef-5681-beb9-9966715af6a0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-35.md",
+      "title": "OpenAI partners with Scale AI to allow companies to fine-tune GPT-3.5",
+      "excerpt": "OpenAI, the AI startup behind the viral AI-powered chatbot ChatGPT, plans to partner with third party vendors to make it easier for developers to fine-tune its AI models using custom data. Scale customers will be able to prep and “enhance” their data ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/",
+      "originalUrl": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/amp/",
+      "publishedDateTime": "2023-08-24T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-text-em-all-celebrates-2nd-year-of-great-place-to-work-certification-leading-with-transparency-connection-and-recognition.md",
       "title": "Text-Em-All Celebrates 2nd Year of Great Place to Work Certification, Leading With Transparency, Connection, and Recognition",
       "excerpt": "With a 95% approval rating from employees, Text-Em-All stands out for its people-first culture, innovative recognition programs ... unwavering commitment to creating a workplace where every voice matters. This year, an impressive 95% of employees declared ...",
@@ -1012,126 +1141,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people.md",
-      "title": "Dan O’Dowd Wants Tesla to Fix Its Self-Driving Program Before It Kills More People",
-      "excerpt": "He believes the self-driving software that Tesla uses will kill people. To get the word out, O’Dowd ran for the U.S. Senate on the single issue in 2022, bought a full-page ad in the New York Times last November, and placed a 30-second Super Bowl commerci ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/",
-      "originalUrl": "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.independent.com/wp-content/uploads/2023/06/Tesla-fails-bus-stop-test-e1687556803267.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1",
-      "cdnAmpWebUrl": "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1",
-      "publishedDateTime": "2023-08-23T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Santa Barbara Independent",
-        "domain": "independent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-dog-robot-keeps-moving-without-motors.md",
-      "title": "Dog robot keeps moving without motors",
-      "excerpt": "A robotics student from Switzerland’s École Polytechnique Fédérale de Lausanne (EPFL) research institute developed a new dog robot design. Mickaël Achkar enabled his canine robot frame body to",
-      "sourceUrl": null,
-      "webUrl": "https://technology.inquirer.net/127294/dog-robot-keeps-moving-without-motors",
-      "originalUrl": "https://technology.inquirer.net/127294/dog-robot-keeps-moving-without-motors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technology.inquirer.net/files/2023/08/dog-robot-motion.png-620x349.png",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philippine Daily Inquirer",
-        "domain": "inquirer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-this-ai-expert-left-meta-to-lead-cmus-language-technologies-institute.md",
-      "title": "This AI expert left Meta to lead CMU’s Language Technologies Institute",
-      "excerpt": "\"We are at an inflection point for this technology and the discipline as a whole,\" Mona Diab said. \"It is a critical time to take into account its impact and sustainability.\"",
-      "sourceUrl": null,
-      "webUrl": "https://technical.ly/professional-development/mona-diab-ai-meta-cmu-language-technologies-institute/",
-      "originalUrl": "https://technical.ly/professional-development/mona-diab-ai-meta-cmu-language-technologies-institute/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-23T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Technical",
-        "domain": "technical.ly",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

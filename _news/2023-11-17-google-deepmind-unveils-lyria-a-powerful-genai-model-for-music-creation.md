@@ -41,15 +41,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "Google’s DeepMind builds AI for more accurate weather forecasts"
-    excerpt: "Google’s DeepMind has developed an artificial intelligence model that uses decades of historical weather conditions to produce accurate 10-day forecasts in less than a minute."
-    publishedDateTime: 2023-11-15T11:30:00Z
-    webUrl: "https://www.courant.com/2023/11/15/google-deepmind-ai-weather-forecasts/"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 34
   - title: "Google DeepMind AI Nails Super Accurate 10-Day Weather Forecasts"
     excerpt: "Google DeepMind researchers say their new GraphCast AI is now the world's most accurate 10-day global weather forecasting system."
     publishedDateTime: 2023-11-16T20:41:00Z

@@ -2,6 +2,126 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2023-08-28-revolutionising-healthcare-how-ai-is-transforming-radiology.md",
+      "title": "Revolutionising Healthcare: How AI is transforming radiology",
+      "excerpt": "The rapid advancement of Artificial Intelligence (AI) in radiology is set to revolutionise the healthcare sector, with experts predicting a surge in its application over the next decade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/news/south-africa/revolutionising-healthcare-how-ai-is-transforming-radiology-ee0f56af-e898-427e-996d-218ed6e628e2",
+      "originalUrl": "https://www.iol.co.za/news/south-africa/revolutionising-healthcare-how-ai-is-transforming-radiology-ee0f56af-e898-427e-996d-218ed6e628e2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent Online",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-how-to-simplify-robotics-research-with-a-native-ros-based-system.md",
+      "title": "How to simplify robotics research with a native, ROS-based system",
+      "excerpt": "Tormach created a ROS-based industrial robotic manipulator and control system that avoids “black box” issues that plague modern robotics applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/how-to-simplify-robotics-research-with-a-native-ros-based-system/",
+      "originalUrl": "https://www.therobotreport.com/how-to-simplify-robotics-research-with-a-native-ros-based-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/08/tormach-1.jpg",
+          "width": 1000,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-ai-in-fintech-market-to-register-exponential-growth-on-account-of-increasing-emphasis-on-data-driven-insights-and-regulatory-compliance.md",
+      "title": "AI in Fintech Market to Register Exponential Growth on Account of Increasing Emphasis on Data-Driven Insights and Regulatory Compliance",
+      "excerpt": "The AI in Fintech Market, as indicated by the SNS Insider report, achieved a valuation of USD 13.23 billion in the year 2022. Forecasts anticipate a substantial CAGR of 42.3% spanning from 2023 to 2030, ultimately propelling the market value to ...",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2023/08/28/ai-in-fintech-market-to-register-exponential-growth-on-account-of-increasing-emphasis-on-data-driven-insights-and-regulatory-compliance/",
+      "originalUrl": "https://ipsnews.net/business/2023/08/28/ai-in-fintech-market-to-register-exponential-growth-on-account-of-increasing-emphasis-on-data-driven-insights-and-regulatory-compliance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icrowdnewswire.com/wp-content/uploads/2023/08/icn330723-icnSNS20Insider.png.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ipsnews.net/business/2023/08/28/ai-in-fintech-market-to-register-exponential-growth-on-account-of-increasing-emphasis-on-data-driven-insights-and-regulatory-compliance/?amp=1",
+      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2023/08/28/ai-in-fintech-market-to-register-exponential-growth-on-account-of-increasing-emphasis-on-data-driven-insights-and-regulatory-compliance/?amp=1",
+      "publishedDateTime": "2023-08-28T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-generative-ai-and-sales-a-business-perspective.md",
       "title": "Generative AI And Sales: A Business Perspective",
       "excerpt": "By better understanding how AI can increase your sales, you can develop customized methods and ensure you can profit from this new technological breakthrough.",
@@ -962,135 +1082,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look.md",
-      "title": "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look",
-      "excerpt": "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-can-ai-increase-diversity-on-tech-teams-the-jury-is-out.md",
-      "title": "Can AI Increase Diversity On Tech Teams? The Jury Is Out",
-      "excerpt": "Can AI reduce the diversity gap in technology teams? Experts weigh on the possibility of AI changing how corporations champion diversity in the hiring process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e92b60f6b1f18bf10f2e62/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/08/27/can-ai-increase-diversity-on-tech-teams-the-jury-is-out/amp/",
-      "publishedDateTime": "2023-08-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-how-to-use-ai-for-marketing-without-sounding-like-a-robot.md",
-      "title": "How to use AI for marketing without sounding like a robot",
-      "excerpt": "OPINION: Telling your own stories in your own voice sets your brand apart and helps customers connect with whatever it is you're selling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stuff.co.nz/business/prosper/300958137/how-to-use-ai-for-marketing-without-sounding-like-a-robot",
-      "originalUrl": "https://www.stuff.co.nz/business/prosper/300958137/how-to-use-ai-for-marketing-without-sounding-like-a-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resources.stuff.co.nz/content/dam/images/4/z/6/k/r/p/image.related.StuffLandscapeSixteenByNine.1420x800.4z6ks9.png/1692934998222.jpg",
-          "width": 1420,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stuff.co.nz",
-        "domain": "stuff.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

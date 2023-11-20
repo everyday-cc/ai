@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-26-the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased.md",
+      "title": "The Download: Europe vs Chinese EVs, and making AI vision less biased",
+      "excerpt": "Two new papers by researchers at Sony and Meta propose new ways to measure biases in computer vision systems so as to more fully capture the rich diversity of humanity. Developers could use these tools to check the diversity of their data sets, helping lead to better, more diverse training data for AI. Read the full story.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/",
+      "originalUrl": "https://www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh5.googleusercontent.com/VEDE0Q5PNefmgBvZ1rolKzsC2tATAsJRne3m8fJSGfCvztlFQPNYRPBaEypIv2Uz3iL12csg1QcthQTZL3tjPgwlUlZ3REOGuc3VOe9QDv5g_Xpk_-BSr1_Hfq1hBMlwd6Cm_I6e6tPkIODHwK1wiws",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/amp/",
+      "publishedDateTime": "2023-09-26T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-image-recognition-market-size-to-hit-usd-11756-bn-by-2029-at-a-cagr-175-percent-says-maximize-market-research.md",
       "title": "Image Recognition Market Size To Hit USD 117.56 Bn By 2029 At A CAGR 17.5 Percent Says Maximize Market Research",
       "excerpt": "It encompasses a wide range of applications, which includes facial recognition, object detection, autonomous vehicles, medical imaging analysis and others. The top companies in healthcare, automotive, e-commerce, retail and advertising are increasingly ...",
@@ -1220,49 +1263,6 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-17-the-tech-companies-scanning-your-face-while-you-shop.md",
-      "title": "The tech companies scanning your face while you shop",
-      "excerpt": "If you happen to miss the camera above the entrance, the sign will inform you. “FACIAL RECOGNITION & CCTV IN OPERATION ON THIS SITE” it declares in black letters as the automatic door slides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/business/2023/09/17/facial-recognition-scanning-shoppers-faces-project-pegasus/",
-      "originalUrl": "https://www.telegraph.co.uk/business/2023/09/17/facial-recognition-scanning-shoppers-faces-project-pegasus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/business/2023/09/15/TELEMMGLPICT000349448605_16947998159630_trans_NvBQzQNjv4BqMUJ8NPj0F-tOFtGYtRs10JptmW9La-bx0gvVRXUNc_E.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-17T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-11-11-a-vigorous-debate-5-edtech-ceos-react-to-the-white-house-executive-order-on-ai.md",
+      "title": "‘A vigorous debate’: 5 edtech CEOs react to the White House executive order on AI",
+      "excerpt": "Many students—and even some teachers—have become acquainted with the powers of generative AI tools like ChatGPT and Google Bard, yet questions about privacy, security, and ethics remain top of mind. Biden’s first step in addressing some of these ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/education/articles/a-vigorous-debate-5-edtech-ceos-react-to-the-white-houses-executive-order-on-ai-did-it-go-too-far-or-not-far-enough/",
+      "originalUrl": "https://fortune.com/education/articles/a-vigorous-debate-5-edtech-ceos-react-to-the-white-houses-executive-order-on-ai-did-it-go-too-far-or-not-far-enough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cdn.fortuneeducation.com/wp-content/uploads/2023/11/10165229/GettyImages-1384263287-e1699634685972.jpg",
+          "width": 1500,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T14:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-11-aws-explained-what-amazon-web-services-is-for-and-where-the-cloud-computing-industry-leader-is-headed.md",
+      "title": "AWS explained: What Amazon Web Services is for and where the cloud computing industry leader is headed",
+      "excerpt": "AWS is a division of Amazon that offers a wide range of cloud computing services. Amazon Web Services' pay-as-you-go model makes it a popular choice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/aws",
+      "originalUrl": "https://www.businessinsider.com/aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6543cd7f3cc84b4dfafb01a9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/aws?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/aws?amp",
+      "publishedDateTime": "2023-11-10T13:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-how-to-implement-enterprise-resource-planning-erp.md",
       "title": "How to implement enterprise resource planning (ERP)",
       "excerpt": "To benefit from ERP adoption, the system must be deployed properly and efficiently. Here are six steps to successfully implement ERP.\nThe post How to implement enterprise resource planning (ERP) appeared first on IBM Blog.\n",
@@ -1102,110 +1206,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok.md",
-      "title": "This Week In XR: Open AI Dev Day Bombshells, Aleph Alpha AI Raises $500 Million, xAI’s Grok",
-      "excerpt": "To grok is to deeply understand and empathize. In a post announcing Grok last Saturday, November 4th, the company explains Grok will grok the world in real time with a Large Language Model that includes a real time feed of X as it appears on the X,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654d70041a5ab56f12e6aa5c/0x0.jpg?format=jpg&crop=4325,2434,x0,y358,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/amp/",
-      "publishedDateTime": "2023-11-09T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-how-small-business-entrepreneurs-can-level-up-with-ai.md",
-      "title": "How Small Business Entrepreneurs Can Level Up With AI",
-      "excerpt": "As technology advances, those outside of the tech industry, including small business owners (SMB’s), are often left behind and competitively disadvantaged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654d7074b221d68fc89a6075/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/amp/",
-      "publishedDateTime": "2023-11-09T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -6,9 +6,9 @@ publishedDateTime: 2023-11-15T14:01:00Z
 originalUrl: "https://www.therobotreport.com/tangram-vision-packs-ai-skills-onto-hifi-3d-sensor/"
 webUrl: "https://www.therobotreport.com/tangram-vision-packs-ai-skills-onto-hifi-3d-sensor/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: The Robot Report
@@ -17,7 +17,14 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Robotics
 
-secured: "CupEkkSoNY3DJUtxxmKh2VZYuNOn1Oh1W9kr5OdzcIL4o48SPv+h1u2tkgN5OoQlImJ66RLUskVl4fr0SMrVDPMNicFizl+YqZwjw64ojrHP9edVwogx+muVgD5sFX6gKZXDXSrrPd6+Lrt/3m5QQLMxKK01T6UIdd5+07GXarULJjb+9O+hZBKQ33DAaw+WtlXL9ehVQEHOG27ZhwZgy11adpIfE3+2xr4Z7uFCi/kYhmFUaHICMOLKB8+LfSZlXjatu41zGGV0C+eWieA7VxP6wcEcok8ahgxNgZXl7mOIH/U33bz74+lgs3cD0SdUR7dCyQpP3Qnl1OqZfBlR7hXSxO/AeRV6xVcrVV07oXLJdmZ5yMLNfBh7PvZ/4zYSWCP4X39DeuLmps+LPwBj91FsWxXFEnFPUQRocRcIXzEWKRyv/07wz1xR9UwFAsNgDGThSFzsc5NBfuc20eNCLjE2rv9MXKtE7KI/T/3dSp/O8V6PF4WUvf/f9IiCurB1h/IH/kKGbeJDVbA+Uj6fmw==;KxOaVDagxIMBfJ/NN6hM4Q=="
+images:
+  - url: "https://www.therobotreport.com/wp-content/uploads/2023/11/tangram-vision-hifi-sensor.jpg"
+    width: 745
+    height: 598
+    isCached: true
+
+secured: "rSfECR3x98SoaHd0TT7gZU6SP/qP1qngWAzqRbgSES+izd3Qda6UPxbtIJI9VgzYdsN/De/6xyajXEo/ok1FZdJUWR/BKcXc1d+wO0dzmaQutut/2lQJDmYuFQ7R/6/sCHgwx9Jo0B5ZhSqnGVY4Apjb3Yi6OGnwgTk/2t9c3Qr/dvFcovMrWqlpxrszZCazedbqsV3uudmB4UR0WF8I6dJh/h62UPud79Pj6ARB4IP4jMo+Glx3PW4RQ8CpelItkVIo+SKWYfsW/EYIHrT9KQRB2+fYaShm1rCYsfV5G4tZL1REOMQXZbl+IntczR+eHma+QBPX6RVKzGC6hRbBYKTmEyFVrACURuwbd01w8og=;+VuZEt2b0e8RNJBXpxXYsw=="
 ---
 

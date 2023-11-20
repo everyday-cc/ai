@@ -2,6 +2,134 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-09-28-my-chilling-run-in-with-a-secretive-facial-recognition-app.md",
+      "title": "My chilling run-in with a secretive facial-recognition app",
+      "excerpt": "Clearview claimed to be different from other automated facial-recognition systems, touting a ‘98.6 per cent accuracy rate’ and an enormous collection of photos unlike anything the police had ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/books/non-fiction/clearview-ai-facial-recognition-app-chilling/?utmsource=email",
+      "originalUrl": "https://www.telegraph.co.uk/books/non-fiction/clearview-ai-facial-recognition-app-chilling/?utmsource=email",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/books/2023/09/25/TELEMMGLPICT000350779856_16956474718260_trans_NvBQzQNjv4BqeqwG1mMdY8c_ukC_8VAhqmo9fJk1VK1SIba-RpWNnOU.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-ai-startup-alphasense-valued-at-25-billion-after-latest-funding-round.md",
+      "title": "AI Startup AlphaSense Valued at $2.5 Billion After Latest Funding Round",
+      "excerpt": "AI Startup AlphaSense Valued at $2.5 Billion After Latest Funding Round By Jaiveer Shekhawat (Reuters) -Market intelligence platform AlphaSense has raised $150 million in a fresh round of funding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2023-09-28/ai-startup-alphasense-valued-at-2-5-billion-after-latest-funding-round",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-09-28/ai-startup-alphasense-valued-at-2-5-billion-after-latest-funding-round",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-duality-technologies-joins-aws-partner-network-and-launches-solution-for-secure-data-collaboration-in-aws-marketplace.md",
+      "title": "Duality Technologies Joins AWS Partner Network and Launches Solution for Secure Data Collaboration in AWS Marketplace",
+      "excerpt": "Duality Technologies, the leader in secure data collaboration for enterprises and government agencies, today announced it has joined the Amazon Web Services (AWS) Partner Network (APN) and launched its secure data collaboration platform in AWS Marketplace,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-duality-technologies-joins-aws-partner-network-launches-solution-/2023/09/28/9889217.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-duality-technologies-joins-aws-partner-network-launches-solution-/2023/09/28/9889217.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2223693/Secure_AI_and_ML_Model_Development_for_Modern_Data_Strategies.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models.md",
       "title": "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models",
       "excerpt": "28, 2023 /CNW/ -- Today, IBM IBM announced the general availability of the first models in the watsonx Granite model series — a collection of generative AI models to advance the infusion of ...",
@@ -974,145 +1102,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-microsoft-technology-chief-says-supply-of-nvidias-ai-chips-is-improving.md",
-      "title": "Microsoft technology chief says supply of Nvidia's AI chips is improving",
-      "excerpt": "Kevin Scott, Microsoft's chief technology officer, said supply of Nvidia's graphics processing units is improving now that generative AI hype has cooled a bit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107307592-1695838100881-gettyimages-1704491000-_jhb3989_pt5jwnsd.jpeg?v=1695847852",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
-      "publishedDateTime": "2023-09-27T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-spotify-will-now-translate-podcasts-into-your-native-language-with-ai.md",
-      "title": "Spotify will now translate podcasts into your native language with AI",
-      "excerpt": "As more translation tools are developed, AI is leading the charge in improving ... However, it could be welcomed by subscribers who have a language preference. Spotify noted in its announcement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/spotify-translation-language-ai-podcasts/",
-      "originalUrl": "https://www.androidpolice.com/spotify-translation-language-ai-podcasts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/09/spotify-1-2023-ap-hero.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-integration-propels-machine-vision-research-reviews-in-sensor-visual-perception-and-inference.md",
-      "title": "Integration propels machine vision: Research reviews in-sensor visual perception and inference",
-      "excerpt": "A joint research team in China wrote a review on in-sensor visual computing, a three-in-one hardware solution that is more efficient, economical and secure than conventional machine vision systems, which collect,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/integration-propels-ma.jpg",
-          "width": 1280,
-          "height": 1088,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.amp",
-      "publishedDateTime": "2023-09-27T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

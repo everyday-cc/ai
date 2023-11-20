@@ -39,15 +39,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Meta introduces AI models for video generation, image editing"
-    excerpt: "Meta is introducing two artificial intelligence-powered generative models for video generation and image manipulation."
-    publishedDateTime: 2023-11-16T19:59:00Z
-    webUrl: "https://cointelegraph.com/news/meta-introduces-ai-models-artificial-intelligence-video-generation-image-editing"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
   - title: "Meta announces new breakthroughs in AI image editing and video generation with Emu"
     excerpt: "The Emu Video tool leverages the Emu model and provides a simple method for text-to-video generation that’s based on diffusion models. Meta said the tool can respond to various inputs, including text only, image only or both together."
     publishedDateTime: 2023-11-16T22:45:00Z

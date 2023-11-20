@@ -42,15 +42,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Money20/20 USA: NVIDIA talks Gen AI & LLMs in fintech"
-    excerpt: "NVIDIA leads the financial revolution with Gen AI & LLMs. Explore Malcolm deMayo's insights on cutting-edge technologies for efficient financial services"
-    publishedDateTime: 2023-11-15T13:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/exclusive-video-nvidia-talks-gen-ai-llms-in-fintech"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 19
   - title: "How fintech companies can adopt AI without losing their human touch"
     excerpt: "It’s not entirely surprising to see the fintech industry embrace artificial intelligence with the fervor that it has for the last several years. Adopting the latest technology is part and parcel of what the most innovative fintech companies have been doing  since day one – in fact,"
     publishedDateTime: 2023-11-15T16:13:00Z

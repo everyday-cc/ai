@@ -42,15 +42,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Money20/20 USA: NVIDIA talks Gen AI & LLMs in fintech"
-    excerpt: "NVIDIA leads the financial revolution with Gen AI & LLMs. Explore Malcolm deMayo's insights on cutting-edge technologies for efficient financial services"
-    publishedDateTime: 2023-11-15T13:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/exclusive-video-nvidia-talks-gen-ai-llms-in-fintech"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 19
   - title: "How scammers' use of AI is affecting fintech investment"
     excerpt: "Fraudsters are likely to increase their use of generative artificial intelligence to attack banks and other payment companies. Investors are using their own influence to fight back."
     publishedDateTime: 2023-11-16T19:16:00Z

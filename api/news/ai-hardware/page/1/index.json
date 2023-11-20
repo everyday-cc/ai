@@ -10,7 +10,7 @@
       "originalUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-7-gen-3-mid-range-android-phone-chip-news/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -348,6 +348,40 @@
       "provider": {
         "name": "unite",
         "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-vultr-announces-addition-of-nvidia-gh200-grace-hopper-superchip-to-its-cloud-gpu-offerings-for-ai-training-and-inference.md",
+      "title": "Vultr Announces Addition of NVIDIA GH200 Grace Hopper Superchip to Its Cloud GPU Offerings for AI Training and Inference",
+      "excerpt": "Vultr, the world’s largest privately-held cloud computing platform, announced the addition of the NVIDIA® GH200 Grace Hopper™ Superchip to its",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231113850910/en/Vultr-Announces-Addition-of-NVIDIA-GH200-Grace-Hopper-Superchip-to-Its-",
+      "originalUrl": "https://www.businesswire.com/news/home/20231113850910/en/Vultr-Announces-Addition-of-NVIDIA-GH200-Grace-Hopper-Superchip-to-Its-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1279,41 +1313,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-aws-offers-more-flexible-access-to-nvidia-gpus-for-short-duration-ai-workloads.md",
-      "title": "AWS offers more flexible access to Nvidia GPUs for short-duration AI workloads",
-      "excerpt": "Amazon Elastic Compute Cloud (EC2) Capacity Blocks for ML is generally available now, and allows customers to reserve access to “hundreds” of Nvidia Corp.’s most advanced H100 Tensor Core GPUs colocated in Amazon EC2 UltraClusters that are geared towards high-performance machine learning workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/10/31/aws-offers-flexible-access-nvidia-gpus-short-duration-ai-workloads/",
-      "originalUrl": "https://siliconangle.com/2023/10/31/aws-offers-flexible-access-nvidia-gpus-short-duration-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

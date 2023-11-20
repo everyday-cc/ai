@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/11/17/1083593/text-to-image-ai
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/17/1083593/text-to-image-ai-models-can-be-tricked-into-generating-disturbing-images/amp/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -35,15 +35,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 29
-  - title: "Meta introduces AI models for video generation, image editing"
-    excerpt: "Meta is introducing two artificial intelligence-powered generative models for video generation and image manipulation."
-    publishedDateTime: 2023-11-16T19:59:00Z
-    webUrl: "https://cointelegraph.com/news/meta-introduces-ai-models-artificial-intelligence-video-generation-image-editing"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
   - title: "Meta announces new breakthroughs in AI image editing and video generation with Emu"
     excerpt: "The Emu Video tool leverages the Emu model and provides a simple method for text-to-video generation that’s based on diffusion models. Meta said the tool can respond to various inputs, including text only, image only or both together."
     publishedDateTime: 2023-11-16T22:45:00Z

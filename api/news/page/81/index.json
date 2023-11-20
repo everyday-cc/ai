@@ -2,6 +2,127 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-09-17-artificial-intelligence-is-being-used-in-university-classes-how-its-being-used-matters-say-profs.md",
+      "title": "Artificial intelligence is being used in university classes. How it's being used matters, say profs",
+      "excerpt": "A Dalhousie University professor says he won't allow his students to use artificial intelligence in his classes, so they can learn from their mistakes rather than seeking out the right answer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/news/canada/nova-scotia/artificial-intelligence-university-classes-research-1.6968138",
+      "originalUrl": "https://www.cbc.ca/news/canada/nova-scotia/artificial-intelligence-university-classes-research-1.6968138",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.6945190.1694824581!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/shutterstock-medium-file.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.6968138",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6968138",
+      "publishedDateTime": "2023-09-17T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-09-17-study-uncovers-technology-that-enables-integration-of-sensing-control-in-soft-robotics.md",
+      "title": "Study uncovers technology that enables integration of sensing, control in soft robotics",
+      "excerpt": "Washington [US], September 17 (ANI): Soft inflatable robots have emerged as a fascinating paradigm for applications that require inherent safety and adaptability. Integrating sensing and control ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aninews.in/news/science/study-uncovers-technology-that-enables-integration-of-sensing-control-in-soft-robotics20230917113621/",
+      "originalUrl": "https://www.aninews.in/news/science/study-uncovers-technology-that-enables-integration-of-sensing-control-in-soft-robotics20230917113621/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-17T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asian News International",
+        "domain": "aninews.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-17-the-tech-companies-scanning-your-face-while-you-shop.md",
+      "title": "The tech companies scanning your face while you shop",
+      "excerpt": "If you happen to miss the camera above the entrance, the sign will inform you. “FACIAL RECOGNITION & CCTV IN OPERATION ON THIS SITE” it declares in black letters as the automatic door slides ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/business/2023/09/17/facial-recognition-scanning-shoppers-faces-project-pegasus/",
+      "originalUrl": "https://www.telegraph.co.uk/business/2023/09/17/facial-recognition-scanning-shoppers-faces-project-pegasus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/business/2023/09/15/TELEMMGLPICT000349448605_16947998159630_trans_NvBQzQNjv4BqMUJ8NPj0F-tOFtGYtRs10JptmW9La-bx0gvVRXUNc_E.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-17T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-17-is-this-artificial-intelligence-ai-stock-worth-buying-following-a-41-dip.md",
       "title": "Is This Artificial Intelligence (AI) Stock Worth Buying Following a 41% Dip?",
       "excerpt": "C3.ai expects to report a bigger loss in its fiscal 2024. The AI software specialist is looking to invest more money into generative AI, but its deal activity has plateaued. The stock remains expensive given the growth it's delivering. It looks like the ...",
@@ -970,127 +1091,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings.md",
-      "title": "This Canadian robotics start-up is using AI to help artists make nearly-identical copies of original paintings",
-      "excerpt": "A Canadian art-tech start-up based in Montreal is using robotics and artificial intelligence for visual artists to reproduce their artwork at scale, using robotic paint brush attachments to precisely mimic the brush strokes of original pieces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479?cid=sm%3Atrueanthem%3Actvvancouverisland%3Apost",
-      "originalUrl": "https://www.ctvnews.ca/sci-tech/this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings-1.6563479?cid=sm%3Atrueanthem%3Actvvancouverisland%3Apost",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/national/sci-tech/2023/9/15/1_6563479/_jcr_content/root/responsivegrid/image.coreimg.png",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2023/9/15/1_6563479.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/9/15/1_6563479.amp.html",
-      "publishedDateTime": "2023-09-15T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-ai-quadruped-robot-market-size-and-regional-outlook-analysis-2023-2030.md",
-      "title": "AI Quadruped Robot Market Size and Regional Outlook Analysis 2023-2030",
-      "excerpt": "The AI Quadruped Robot Market Insights of 2023 is ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Precision Reports is the credible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34627804/ai-quadruped-robot-market-size-and-regional-outlook-analysis-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34627804/ai-quadruped-robot-market-size-and-regional-outlook-analysis-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-15T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-using-the-brain-as-a-model-inspires-a-more-robust-ai.md",
-      "title": "Using the brain as a model inspires a more robust AI",
-      "excerpt": "Most artificially intelligent systems are based on neural networks, algorithms inspired by biological neurons found in the brain. These networks can consist of multiple layers, with inputs coming in one side and outputs going out of the other.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-brain-robust-ai.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-brain-robust-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/brain-inspires-more-ro.jpg",
-          "width": 988,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-brain-robust-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-brain-robust-ai.amp",
-      "publishedDateTime": "2023-09-15T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

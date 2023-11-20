@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 related:
   - title: "Build a medical imaging AI inference pipeline with MONAI Deploy on AWS"

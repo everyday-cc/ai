@@ -19,40 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Text-to-image AI models can be tricked into generating disturbing images"
-    excerpt: "Nonsense words can trick Stable Diffusion and DALL-E 2 into producing pictures that show violence and nudity. Popular text-to-image AI models can be prompted to ignore their safety filters and generate disturbing images."
-    publishedDateTime: 2023-11-17T14:06:00Z
-    webUrl: "https://www.technologyreview.com/2023/11/17/1083593/text-to-image-ai-models-can-be-tricked-into-generating-disturbing-images/"
-    ampWebUrl: "https://www.technologyreview.com/2023/11/17/1083593/text-to-image-ai-models-can-be-tricked-into-generating-disturbing-images/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/17/1083593/text-to-image-ai-models-can-be-tricked-into-generating-disturbing-images/amp/"
+  - title: "FEATURE-Video games, AI fuel wartime disinformation"
+    excerpt: "Video game used to spread disinformation * Malicious actors lower video quality to deceive viewers * Challenges in detecting and combating fake content By Adam Smith LONDON, Nov 16 (Thomson Reuters Foundation) - Something was wrong with the video of the Iron Beam,"
+    publishedDateTime: 2023-11-16T07:32:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2714796-feature-video-games-ai-fuel-wartime-disinformation"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2714796-feature-video-games-ai-fuel-wartime-disinformation?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2714796-feature-video-games-ai-fuel-wartime-disinformation?amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 56
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 59
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/jailbreak2.jpg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/09_02_2023_17_30_51_7313876.jpg?width=1280"
+        width: 1280
+        height: 960
         isCached: true
-  - title: "Meta’s new AI milestone: Emu Video and Emu Edit set to revolutionize text-to-video generation and image editing"
-    excerpt: "Meta's new AI tools, Emu Edit and Emu Video, are set to redefine the landscape of digital creativity, offering unprecedented control in image editing and a novel approach to video generation."
-    publishedDateTime: 2023-11-17T04:33:00Z
-    webUrl: "https://venturebeat.com/ai/metas-new-ai-milestone-emu-video-and-emu-edit-set-to-revolutionize-text-to-video-generation-and-image-editing/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 29
-  - title: "Meta announces new breakthroughs in AI image editing and video generation with Emu"
-    excerpt: "The Emu Video tool leverages the Emu model and provides a simple method for text-to-video generation that’s based on diffusion models. Meta said the tool can respond to various inputs, including text only, image only or both together."
-    publishedDateTime: 2023-11-16T22:45:00Z
-    webUrl: "https://siliconangle.com/2023/11/16/meta-announces-new-breakthroughs-ai-image-editing-video-generation-emu/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 13
 
 secured: "sUytcqG8rk6bXbDj30LuJUx/arekAbYzV3gT0aybIYqW+kuebX9TGjundptDz0/TjSZzXbqhZGpgkKwTU5xj66rT8NzPWI/hyL86e3PC1lP66Vc8mTaAqstEfu2XLeghFZfgjpf118k6/g16unZxRUyE8bPDhaYTpcI1bMJGMgPls10gp4KkkMmP2WvEEI3nLWChanVJgT8ulcwd/duGMpTYPprLBbL5QAJaxZ8BiZlp9UStrMqkHKyLyy3bwUeXeHlxlRnJLvkonUuPdUk9L6LjR2QWMtyt0lhxlR/ToGMxyBQqf7jjDcKMPNg5Vkf5f29WsYYgF2l78EO1BK95WkG+wW+aQ7EIHS7lR/pcJ2Ex9AxuZfJaodzN7Od1OmUyhWlfaK5pf8y+e9qLGtuy3CyningJQpc7ULilCdHw7cZEkOWpX71M2ZrszIMtQPV8NqyvQ7urM5ZxH/9EvEFIL10JOa7hALcFmBGvkusac8TVAXVfj8XHVPS50zFMH19ynR6j35yMOxXTGiiMlWIbbg==;Orp+HSjS0/smCgXkelW07w=="
 ---

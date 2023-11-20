@@ -46,15 +46,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "Google’s DeepMind builds AI for more accurate weather forecasts"
-    excerpt: "Google’s DeepMind has developed an artificial intelligence model that uses decades of historical weather conditions to produce accurate 10-day forecasts in less than a minute."
-    publishedDateTime: 2023-11-15T11:30:00Z
-    webUrl: "https://www.courant.com/2023/11/15/google-deepmind-ai-weather-forecasts/"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 34
   - title: "Google DeepMind Launches Lyria, Transforming the Future of Music with AI"
     excerpt: "Google's collaborative efforts with industry experts in YouTube's Music AI Incubator aim to innovate music AI tools."
     publishedDateTime: 2023-11-17T12:53:00Z

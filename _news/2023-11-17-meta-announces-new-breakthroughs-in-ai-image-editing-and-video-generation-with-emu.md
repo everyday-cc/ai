@@ -44,15 +44,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 29
-  - title: "Meta introduces AI models for video generation, image editing"
-    excerpt: "Meta is introducing two artificial intelligence-powered generative models for video generation and image manipulation."
-    publishedDateTime: 2023-11-16T19:59:00Z
-    webUrl: "https://cointelegraph.com/news/meta-introduces-ai-models-artificial-intelligence-video-generation-image-editing"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
 
 secured: "httPQB2Uj3vhnOrofQ1YIjxlIuGKLF1SnGN36muu3axHbzh2/BUUvL7ja1j5VPyhU9A9hflIiJgsv20696v9IF9cN8TMlOrzdGyN5EEdvSbOpPQj8K5T6a5kfhvqkrgMAcaEQ0VE1M0ntBAmB6Pg/I2KVeiaVwyYST3eHpWY3bexyONuP3nuN5sSG7qr+pR47D7Im6al2PqHRGPAAkgRE7d9EOSCCOgW1vZtkCZ7fZeIA19xnKB8fGoYAzSxiHJe55ZsQmoPSFhbAuAQyYFa5ckj3de9Y/FYDvzjb/RCWBwdfh4dqxKD+n9CNxKKHqzLzo6xcw5UP9wljUUlkcg0SMQplrqeUgKCWV0LJVVxXq3FLA4e1b+o8whrAa9pABCuesbX6wK1NVsBhXBRRqGt8hpq0OKGdGMO1yQgbr6GztyjfVmF7ECT378VvR1jA2rV5FF4Y40aBdl88mB2kzELC7cILtkc+A8q+j81Zm146ewBVbPJBmwI1DeONlsDu7xjY+i7eWN/jg94g8ghLHZbwA==;h4vUya2guM+5PXb2ULe0Sg=="
 ---

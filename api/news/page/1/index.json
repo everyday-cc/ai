@@ -302,7 +302,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/11/17/1083593/text-to-image-ai-models-can-be-tricked-into-generating-disturbing-images/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -344,7 +344,7 @@
       "originalUrl": "https://www.wired.com/story/google-deepminds-ai-pop-star-clone-will-freak-you-out/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -387,7 +387,7 @@
       "originalUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-7-gen-3-mid-range-android-phone-chip-news/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -733,6 +733,50 @@
       ]
     },
     {
+      "path": "_news/2023-11-15-tangram-vision-packs-ai-skills-onto-hifi-3d-sensor.md",
+      "title": "Tangram Vision packs AI skills onto HiFi 3D sensor",
+      "excerpt": "Tangram Vision's new HiFi 3D sensor targets robotics applications with its wide field of view, resolution and onboard AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/tangram-vision-packs-ai-skills-onto-hifi-3d-sensor/",
+      "originalUrl": "https://www.therobotreport.com/tangram-vision-packs-ai-skills-onto-hifi-3d-sensor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/11/tangram-vision-hifi-sensor.jpg",
+          "width": 745,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-mit-ibm-watson-ai-lab-researchers-train-computers-to-understand-dynamic-events.md",
       "title": "MIT-IBM Watson AI Lab researchers train computers to understand dynamic events",
       "excerpt": "Researchers from the MIT-IBM Watson AI Lab want to make computers more “human.” The researchers are currently working on a project that will help computers understand and recognize dynamic events.",
@@ -1040,41 +1084,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-data-scientist-marketing-natural-language-processing-gauteng-pretoria-cbd.md",
-      "title": "Data Scientist (Marketing & Natural Language Processing) – Gauteng Pretoria CBD",
-      "excerpt": "and Natural Language Processing – as per company Digital Strategic Framework. Responsible for the end-to-end data Lifecycle – from strategic planning, data collection, through monitoring, evaluation, and incremental improvement.",
-      "sourceUrl": null,
-      "webUrl": "https://it-online.co.za/2023/11/15/data-scientist-marketing-natural-language-processing-gauteng-pretoria-cbd/",
-      "originalUrl": "https://it-online.co.za/2023/11/15/data-scientist-marketing-natural-language-processing-gauteng-pretoria-cbd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT-Online",
-        "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],
