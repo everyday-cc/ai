@@ -58,6 +58,20 @@ related:
       name: The Sunday Business Post
       domain: businesspost.ie
     quality: 19
+  - title: "Pakistan Pavilion at Singapore Fintech Festival showcases innovation, collaboration"
+    excerpt: "The annual Singapore Fintech Festival (SFF), a global congregation of fintech firms, witnessed a significant representation from"
+    publishedDateTime: 2023-11-20T17:51:00Z
+    webUrl: "https://www.app.com.pk/national/pakistan-pavilion-at-singapore-fintech-festival-showcases-innovation-collaboration/"
+    type: article
+    provider:
+      name: Associated Press of Pakistan
+      domain: app.com.pk
+    quality: 18
+    images:
+      - url: "https://www.app.com.pk/wp-content/uploads/2023/11/Singapore-Fintech-Festival.png"
+        width: 660
+        height: 330
+        isCached: true
 
 secured: "Sb+G21A3GEkaBZ2q5qmbu6MBIcz2gmgRi16EmDHKkjDdxLxHGp/t78pkCe8nORFye6yPEOiTAvb8RWY5X9jRZydQzW7ApR2ofUaYtQV0X6TDNGpUJSPk8KNjA3UL8cRpuGEGxYud35u9zycxRuvlOWFDX9jLchZAPz/yFpMYwsfVwMwTSRjKY9oOb9AetxfIMJ08ix5mtKz+jWrsEcLuzatSM6ffhYVM/RTHFn+VvYNNxFDGt2fLHcaulDWUqUWqvihnxEgfxBkfjsGUt1MMYy+uW8Wim/M3g143FmOu8MQWVI3QJVEk4vjJ2+Ymd/Ght963ow0NLdd+tAast347dO478UWYfsi6odgmac5pijecXpljrLFlQUEfLEiERZXlM3iDpwE9s8n38VHC6lWAdSvPE5QE6xuA/XV40gN9CBMbV8cku2WrPqPtH0/wt0hO5QpHXdKTtQ0oGZRQzNEHmTc/VHQaEhfBVbZYvyl22NzqM4mP2Aq9uoH/VflqjHYqCglbGIoAhMXQ/gC8IWofxg==;yOgXBu0FGZVVJ73jiifxYA=="
 ---

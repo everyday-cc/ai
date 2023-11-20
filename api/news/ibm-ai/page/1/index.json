@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-21-ibm-unveils-watsonxgovernance-to-build-trust-in-generative-ai.md",
+      "title": "IBM Unveils watsonx.governance to Build Trust in Generative AI",
+      "excerpt": "IBM announced November 14th that watsonx.governance will be generally available in early December to help businesses shine a light on AI models and eliminate the mystery around the data going in, and the answers coming out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hstoday.us/industry/ibm-unveils-watsonx-governance-to-build-trust-in-generative-ai/",
+      "originalUrl": "https://www.hstoday.us/industry/ibm-unveils-watsonx-governance-to-build-trust-in-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hstoday.us/wp-content/uploads/2023/11/gears-7147823_1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Homeland Security Today",
+        "domain": "hstoday.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai.md",
       "title": "Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI",
       "excerpt": "Explore the key drivers that impacted cloud transformation and what they mean for companies on their cloud modernization journey.\nThe post Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI appeared first on IBM Blog.\n",
@@ -1251,49 +1295,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-optimize-apis-with-api-security-best-practices.md",
-      "title": "Optimize APIs with API security best practices",
-      "excerpt": "APIs sit between an organization’s IT resources and third-party software developers, delivering data and information at process endpoints.\nThe post Optimize APIs with API security best practices appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/api-security-best-practices/",
-      "originalUrl": "https://www.ibm.com/blog/api-security-best-practices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
       ]
     }
   ],

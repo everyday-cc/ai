@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/karlfreund/2023/11/16/microsoft-annou
 webUrl: "https://www.forbes.com/sites/karlfreund/2023/11/16/microsoft-announces-maia-ai-arm-cpu-amd-mi300--new-nvidia-for-azure/"
 type: article
 quality: 79
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -23,22 +23,77 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip."
-    excerpt: "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip."
-    publishedDateTime: 2023-11-20T06:18:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/"
+  - title: "How Might Open.ai Outcomes Impact NVIDIA, AMD, Intel And Microsoft?"
+    excerpt: "NVIDIA has already increased the outlook for GPUs astronomically based on demand for Hopper and GraceHopper chips with associated CoSWoS capacity needed for HBM. NVIDIA wins if they can redirect a few tens of thousands to the new Microsoft AI Subsidiary (in Azure) without losing customers to AMD."
+    publishedDateTime: 2023-11-20T17:12:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/amp/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 78
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/microsoft-maia-chip-edited.jpg"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655b9293a3cff1f243d07850/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1258
+        height: 778
         isCached: true
+  - title: "Microsoft will struggle to clean up ugly AI mess"
+    excerpt: "Microsoft boss Satya Nadella’s stressful weekend is probably only the beginning. The board overseeing artificial intelligence venture OpenAI abruptly ousted Chief Executive Sam Altman on Friday. After an unsuccessful attempt to broker his return,"
+    publishedDateTime: 2023-11-20T17:22:00Z
+    webUrl: "https://www.reuters.com/breakingviews/microsoft-will-struggle-clean-up-ugly-ai-mess-2023-11-20/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/0HejM6R-sFjiMdFq3gjoV0eovFw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GF4Z2BISTZKSLOYSMZJECCIIKA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "The biggest AI announcements from Microsoft Ignite 2023"
+    excerpt: "Microsoft announced a slew of AI updates at the Microsoft Ignite event a few days ago. Here is a look at the most important announcements that will shape Microsoft's future for the years to come."
+    publishedDateTime: 2023-11-20T12:05:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/the-biggest-ai-announcements-from-microsoft-ignite-2023-11775021.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/the-biggest-ai-announcements-from-microsoft-ignite-2023-11775021.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/the-biggest-ai-announcements-from-microsoft-ignite-2023-11775021.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Microsoft-Copilot.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft Makes A New Move To Dominate Artificial Intelligence"
+    excerpt: "OpenAI has hired Emmett Shear as its new interim CEO. Shear was co-founder and ex-CEO of video game streaming service Twitch. Twitch is now owned by Amazon.com, Inc. AMZN . Shear has been in favor of slowing AI development."
+    publishedDateTime: 2023-11-20T16:43:00Z
+    webUrl: "https://www.benzinga.com/23/11/35878617/microsoft-makes-a-new-move-to-dominate-artificial-intelligence"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35878617"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35878617"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.benzinga.com/files/nicholas-cappello-wb63zqj5gne-unsplash_10_9.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft recommits to open source AI models, despite OpenAI investment"
+    excerpt: "Ignite over the last two days, Microsoft also made more important moves to bolster its support for rival open source AI models."
+    publishedDateTime: 2023-11-17T00:00:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-recommits-to-open-source-ai-models-despite-openai-investment/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
   - title: "Microsoft India exec talks about startup support, says AI will core to India's digital empowerment"
     excerpt: "India's startup landscape surged from 5,000 in 2016 to over 99,000 now. Sangeeta Bavi of Microsoft India, in a conversation with CNBCTV18, attributed this growth to technology's pivotal role in fostering innovation."
     publishedDateTime: 2023-11-20T12:15:00Z
@@ -55,42 +110,29 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft unveils new Azure Cobalt CPU and Maia 100 GPU designed for AI and the Cloud"
-    excerpt: "Microsoft is finally making its own chips for the AI and Cloud market with the new Azure Cobalt 100 CPU and Maia 100 AI Accelerator."
-    publishedDateTime: 2023-11-16T05:34:00Z
-    webUrl: "https://www.tweaktown.com/news/94387/microsoft-unveils-new-azure-cobalt-cpu-and-maia-100-gpu-designed-for-ai-the-cloud/index.html"
+  - title: "Sam Altman will lead new Microsoft AI team. OpenAI board names interim CEO."
+    excerpt: "Sam Altman, the face of the artificial intelligence revolution, will not return as OpenAI chief executive despite talks to negotiate his reinstatement Sunday, two people familiar with the matter said,"
+    publishedDateTime: 2023-11-20T10:38:00Z
+    webUrl: "https://www.bostonglobe.com/2023/11/20/business/sam-altman-will-lead-new-microsoft-ai-team-openai-board-names-interim-ceo/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
-  - title: "Azure VMs with AMD MI300 GPU Accelerators at Microsoft Conference"
-    excerpt: "Today at Microsoft Ignite, AMD (NASDAQ: AMD) and Microsoft featured AMD products, including the upcoming Instinct MI300X GPU accelerator, EPYC and Ryzen CPUs with AI engines. Microsoft’s new Azure ND MI300x v5 Virtual Machine (VM)"
-    publishedDateTime: 2023-11-16T02:50:00Z
-    webUrl: "https://insidehpc.com/2023/11/azure-vms-with-amd-mi300-gpu-accelerators-at-microsoft-conference/"
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 54
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/9xznEgGQiGRrNX632mIy8cb_bQw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XT7V74J5EGDPEWCQTPATS5HLYQ.jpg"
+        width: 506
+        height: 338
+        isCached: true
+  - title: "Microsoft to Bring Cohere’s Enterprise AI Models on Azure AI Service"
+    excerpt: "Cohere has announced that its flagship enterprise AI model, Command, will now be accessible through the Microsoft Azure AI Model Catalog and Marketplace as a managed service for the first time. The partnership brings Cohere’s English and multilingual capabilities to Microsoft Azure, enabling global use across various languages and regions."
+    publishedDateTime: 2023-11-17T08:20:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-to-brings-coheres-enterprise-ai-models-azure-ai/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 51
-  - title: "Microsoft Maia AI chip ‘last puzzle piece’ for infrastructure systems"
-    excerpt: "Microsoft said the Maia AI chip had been tested by OpenAI using its workloads and CEO Sam Altman commented saying the chips can help make AI models more “capable” and “cheaper.”"
-    publishedDateTime: 2023-11-16T08:59:00Z
-    webUrl: "https://cointelegraph.com/news/microsoft-maia-ai-chip-last-puzzle-piece-for-infrastructure-systems"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 51
-  - title: "Microsoft Holds Chip Makers’ Feet To The Fire With Homegrown CPU And AI Chips"
-    excerpt: "After many years of rumors, Microsoft has finally confirmed that it is following rivals Amazon Web Services and Google into the design of custom processors and accelerators for their clouds. That confirmation came today as Satya Nadella,"
-    publishedDateTime: 2023-11-16T17:01:00Z
-    webUrl: "https://www.nextplatform.com/2023/11/15/microsoft-holds-chip-makers-feet-to-the-fire-with-homegrown-cpu-and-ai-chips/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 48
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 49
   - title: "New Microsoft Azure virtual machines optimized for AI with AMD Instinct MI300X Accelerators"
     excerpt: "During the recent Microsoft Ignite event, a significant collaboration between AMD and Microsoft was highlighted. AMD showcased its array of products that"
     publishedDateTime: 2023-11-16T15:32:00Z
@@ -100,15 +142,42 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 39
-  - title: "Microsoft's CEO Just Made a Brilliant but Dangerous Announcement. It Could Change the Future of AI Forever"
-    excerpt: "CEO Sam Altman is coming to Microsoft. That could be a great advantage for Microsoft--but it could also set dangerous wheels into motion."
-    publishedDateTime: 2023-11-20T13:21:00Z
-    webUrl: "https://www.inc.com/justin-bariso/emotional-intelligence-microsoft-ceo-satya-nadella-openai-sam-altman.html"
+  - title: "Microsoft Rolls Out Host of New AI Features at Ignite 2023"
+    excerpt: "From new copilots and AI development tools, to vector search and AI chips, artificial intelligence featured prominently in Microsoft’s annual Ignite"
+    publishedDateTime: 2023-11-17T21:44:00Z
+    webUrl: "https://www.datanami.com/2023/11/17/microsoft-rolls-out-host-of-new-ai-features-at-ignite-2023/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 16
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
+  - title: "Former OpenAI boss to lead Microsoft Advanced AI division"
+    excerpt: "Shenanigans over the weekend have seen OpenAI’s former CEO join Microsoft and Twitch’s former CEO step in as OpenAI’s interim CEO."
+    publishedDateTime: 2023-11-20T07:54:00Z
+    webUrl: "https://www.computerweekly.com/news/366560294/Former-OpenAI-boss-to-lead-Microsoft-Advanced-AI-division"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 34
+  - title: "Schneider Electric drives Generative AI productivity and sustainability solutions by integrating Microsoft Azure OpenAI"
+    excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of working• Collaboration with Microsoft in artificial intelligence is f"
+    publishedDateTime: 2023-11-18T13:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35862268/schneider-electric-drives-generative-ai-productivity-and-sustainability-solutions-by-integrating-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
+  - title: "Schneider Electric drives Generative AI productivity and sustainability solutions by integrating Microsoft Azure OpenAI"
+    excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of working Collaboration with Microsoft in artificial intelligence is focused on creating innovative solutions"
+    publishedDateTime: 2023-11-20T09:01:00Z
+    webUrl: "https://www.sinchew.com.my/news/20231120/mysinchew/5140310"
+    type: article
+    provider:
+      name: sinchew
+      domain: sinchew.com.my
+    quality: 25
 
 secured: "lIZtL2j0ngk438zl6VoQ8uDD0WGTPWK3xspz2E0PrsXykir8OKBZuIPqL3OkC8wcm3FjwgD8a/ejtTHumYf1oryCfu0ZBt5Ln18/mtWidKcwlfhIQ2f8+0FUOFaHPgYsS1m64NbIbYI2wIq9I4RlEx5AaSGaE6QliWa6+hYruIVuxcEu4ZxkYtph+or17Afms+MOrm3vaW8AOn6DTGTq9O1fbrPmlYEFoYjht3v78YwaXOgo2ZG9c7B1fe/NSPAzww61XbbqcRMGSifDByXEYQuZ53k+LZ8X559I3bLYytlIAWrgNkDRDyioEE3NSvf9eOefq6y7alquErh7tQAeNlQD9WJggatvV0p2Z/PojrHEspIk0nOQCcbrUMGQzsS7qT102obZAtK/xWz5+L0hr0IKVzF7rkLuAfohgDVwNvtwGrI6xq0codBgvKMb/ehhZUJn7mc8T2aRoU0HFId0IfVnw1EaK+rLohnbHQQnBLCLuHTLJ9oF0ZSzoIOD2MpOAbV6IppSjtUskQ8ajbhjmg==;92GoJmpn4TfKtpAJMdAjfw=="
 ---

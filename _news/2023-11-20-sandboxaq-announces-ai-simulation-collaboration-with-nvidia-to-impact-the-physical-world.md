@@ -1,23 +1,31 @@
 ---
 category: news
 title: "SandboxAQ Announces AI Simulation Collaboration with NVIDIA to Impact the Physical World"
-excerpt: "SandboxAQ today announced a collaboration with NVIDIA to predict chemical reactions for drug discovery, battery design, green energy, and more. SandboxAQ will leverage NVIDIA quantum platforms to directly simulate the quantum mechanics underpinning modern chemistry,"
-publishedDateTime: 2023-11-20T15:57:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sandboxaq-announces-ai-simulation-collaboration-with-nvidia-impact-/2023/11/20/9921255.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sandboxaq-announces-ai-simulation-collaboration-with-nvidia-impact-/2023/11/20/9921255.htm"
+excerpt: "AI and Quantum Simulation (AQ) is Next Significant AI Advancement for Creating Novel Battery Chemistries, Pharmaceutical Drugs, Energy Generation, Construction Materials and More PALO ALTO, Calif., Nov."
+publishedDateTime: 2023-11-20T13:31:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world"
+webUrl: "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world"
+ampWebUrl: "https://www.benzinga.com/amp/content/35873661"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35873661"
 type: article
-quality: 10
-heat: 10
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "t4FFeohlodjh4fdtQMF46dT/iWqAYsYzx0t+ZmKKluO0kwPegKxRdIK2WAJ94SG/eNwxLsGwWPwSo+gKRPufCCY4qaLN2gIzykPT1pN8Ks73kMC6mpaid/DaiYoqBx8qB1OZta6Gw6yJ+Ux8wMsPuPD0/p+yPUK62eTmf8cv0lIK9BzYlPL5/OuxZfz8G9io/VLaTQi5Spu6XO2J/I/HWsUrVnCLcVt7ugX5e/Eda9Qr3ycLJo8tBHsPaTuZ00DHCoSP2EBi0fkuXyZhSDkAM4w0YPXaoXDZk08W79wZBmoRh3nUKNRYpDLyNYNqB6GtNlP6OzfOnVeXzOa/bdBaR1rH7WXr4Yid9G0eB1lkPH4=;UKWXOzJvShTlpWrwhug6tQ=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "w5draGQwv8jiSKJuhWkgrl8gjx/D3JgDvoWnpFpE2dBwK2WJwdVWHdb9xNGJMJcrnIZwLcr/+S83JiM82S7qvSdggy4I+56X6MAuRmF280J8oJ9GCs88osf6Ruyh/Ug8fF+Kg9/xZI/ITFe/uWlrTDNSnGiuDNjvqdexbcdqVfWnLo1l7YUFqEmuLOczoD8Q29TLk76CIZgOdAWilWQk6YxMKJpGyPs9Vbe9oZ2zZJrAV0r6YrGlejCuXWDsscKg7m1PiosAkqvJT07RYxy6M4+LqzbzaOWxqVIUxjpBrMnrXfwRlKguFlhYZyILYWuh8To46u+w+8jxpkayaUTC6OQg18w6gTF00Q/7dxgyO2c=;YwsCNMOk1wcQY4vii2KhvA=="
 ---
 

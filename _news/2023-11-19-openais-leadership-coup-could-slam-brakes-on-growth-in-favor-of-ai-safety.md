@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The biggest AI announcements from Microsoft Ignite 2023"
-    excerpt: "Microsoft announced a slew of AI updates at the Microsoft Ignite event a few days ago. Here is a look at the most important announcements that will shape Microsoft's future for the years to come."
-    publishedDateTime: 2023-11-20T12:05:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/the-biggest-ai-announcements-from-microsoft-ignite-2023-11775021.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/the-biggest-ai-announcements-from-microsoft-ignite-2023-11775021.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/the-biggest-ai-announcements-from-microsoft-ignite-2023-11775021.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Microsoft-Copilot.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The OpenAI Drama: Sam Altman’s Shocking Ouster, Board Resignation And The Struggle For AI’s Future"
     excerpt: "In the tumultuous world of artificial intelligence, OpenAI, a pioneering force in generative AI, finds itself at a crossroads."
     publishedDateTime: 2023-11-20T02:20:00Z
@@ -125,15 +109,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft recommits to open source AI models, despite OpenAI investment"
-    excerpt: "Ignite over the last two days, Microsoft also made more important moves to bolster its support for rival open source AI models."
-    publishedDateTime: 2023-11-17T00:00:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-recommits-to-open-source-ai-models-despite-openai-investment/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
   - title: "Altman Sought Billions For AI Chip Venture Before OpenAI Ouster"
     excerpt: "In the weeks leading up to his shocking ouster from OpenAI, Sam Altman was actively working to raise billions from some of the world’s largest investors for a new chip venture, according to people familiar with the matter."
     publishedDateTime: 2023-11-19T17:37:00Z
@@ -180,20 +155,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Sam Altman will lead new Microsoft AI team. OpenAI board names interim CEO."
-    excerpt: "Sam Altman, the face of the artificial intelligence revolution, will not return as OpenAI chief executive despite talks to negotiate his reinstatement Sunday, two people familiar with the matter said,"
-    publishedDateTime: 2023-11-20T10:38:00Z
-    webUrl: "https://www.bostonglobe.com/2023/11/20/business/sam-altman-will-lead-new-microsoft-ai-team-openai-board-names-interim-ceo/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 54
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/9xznEgGQiGRrNX632mIy8cb_bQw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XT7V74J5EGDPEWCQTPATS5HLYQ.jpg"
-        width: 506
-        height: 338
-        isCached: true
   - title: "Ousted OpenAI CEO Sam Altman said to discuss possible return to start-up behind ChatGPT, mulls new artificial intelligence venture"
     excerpt: "A day after the OpenAI board fired him, Sam Altman was talking with the company’s executives about improving its governance structure, while discussing with some core ChatGPT researchers about starting a new artificial intelligence company."
     publishedDateTime: 2023-11-19T21:34:00Z
@@ -222,15 +183,20 @@ related:
         width: 1200
         height: 841
         isCached: true
-  - title: "Microsoft to Bring Cohere’s Enterprise AI Models on Azure AI Service"
-    excerpt: "Cohere has announced that its flagship enterprise AI model, Command, will now be accessible through the Microsoft Azure AI Model Catalog and Marketplace as a managed service for the first time. The partnership brings Cohere’s English and multilingual capabilities to Microsoft Azure, enabling global use across various languages and regions."
-    publishedDateTime: 2023-11-17T08:20:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-to-brings-coheres-enterprise-ai-models-azure-ai/"
+  - title: "Amid Executive Turmoil at OpenAI, Microsoft Poaches Altman for 'AI Research Team'"
+    excerpt: "After Altman's ouster, in a show of solidarity, OpenAI board chairman Greg Brockman quit the company, along with three high-ranking AI scientists ... have allegedly involved Microsoft withholding Azure credits from OpenAI). For a time, it did look like ..."
+    publishedDateTime: 2023-11-20T18:46:00Z
+    webUrl: "https://redmondmag.com/articles/2023/11/20/microsoft-poaches-altman-for-ai-research-team.aspx"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: Redmond Magazine
+      domain: redmondmag.com
     quality: 49
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/execchaos.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Xbox Already Has Big AI Plans, Now It Has Sam Altman"
     excerpt: "Sam Altman beefing up Microsoft's AI division will likely end up having ramifications for Xbox itself down the line."
     publishedDateTime: 2023-11-20T14:39:00Z
@@ -267,24 +233,6 @@ related:
       name: cnbctv18
       domain: cnbctv18.com
     quality: 36
-  - title: "Microsoft Rolls Out Host of New AI Features at Ignite 2023"
-    excerpt: "From new copilots and AI development tools, to vector search and AI chips, artificial intelligence featured prominently in Microsoft’s annual Ignite"
-    publishedDateTime: 2023-11-17T21:44:00Z
-    webUrl: "https://www.datanami.com/2023/11/17/microsoft-rolls-out-host-of-new-ai-features-at-ignite-2023/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
-  - title: "Former OpenAI boss to lead Microsoft Advanced AI division"
-    excerpt: "Shenanigans over the weekend have seen OpenAI’s former CEO join Microsoft and Twitch’s former CEO step in as OpenAI’s interim CEO."
-    publishedDateTime: 2023-11-20T07:54:00Z
-    webUrl: "https://www.computerweekly.com/news/366560294/Former-OpenAI-boss-to-lead-Microsoft-Advanced-AI-division"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 34
   - title: "Microsoft hires OpenAI's Sam Altman, Greg Brockman, and other researchers to head new advanced AI research team"
     excerpt: "Microsoft has hired Sam Altman, Greg Brockman, and other OpenAI researchers that left the startup in a dramatic series of events over Friday and the weekend."
     publishedDateTime: 2023-11-20T09:55:00Z
@@ -317,24 +265,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 28
-  - title: "Schneider Electric drives Generative AI productivity and sustainability solutions by integrating Microsoft Azure OpenAI"
-    excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of working• Collaboration with Microsoft in artificial intelligence is f"
-    publishedDateTime: 2023-11-18T13:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35862268/schneider-electric-drives-generative-ai-productivity-and-sustainability-solutions-by-integrating-"
+  - title: "Sam Altman is out at OpenAi: Unpacking what that means for artificial intelligence in tech"
+    excerpt: "In a shock firing, the board at OpenAi ousted CEO Sam Altman last Friday. The move has left the start-up in turmoil as hundreds of employees threatened to resign in the wake of the board's decision."
+    publishedDateTime: 2023-11-20T17:19:00Z
+    webUrl: "https://www.wbur.org/hereandnow/2023/11/20/sam-altman-openai-microsoft"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-  - title: "Schneider Electric drives Generative AI productivity and sustainability solutions by integrating Microsoft Azure OpenAI"
-    excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of working Collaboration with Microsoft in artificial intelligence is focused on creating innovative solutions"
-    publishedDateTime: 2023-11-20T09:01:00Z
-    webUrl: "https://www.sinchew.com.my/news/20231120/mysinchew/5140310"
-    type: article
-    provider:
-      name: sinchew
-      domain: sinchew.com.my
-    quality: 25
+      name: WBUR
+      domain: wbur.org
+    quality: 22
 
 secured: "py8QaSrWhHKfHWGazuTYZ6hCbV1uC1SXFPlvwp5f/1+nIMz0f/Zo/2P8pT7jiJKM+JHFguWPeFqEsMiV7HBur8cLYHdFg72U5jnVavk1PkHHlWS77Pq8z1UW9bDQzcPcLMisjiN1aZSPGpfNmcfsK5+PtkAarmlTW4UcflgvOb6E52bQNoG2eExVxHe9Tpk1iI96ONXyM3hJ7jIcBCKuoeBz4QLboKWuLlMkww1sJ2sxNdp+9JgazX/s7dFKKiQTAns32tAapbHDX1Z4RgKK4c/9ijDjHVDNEI9x88WtCGx8QzzY/rqLkKI2G9MCfual8yhFK8MiihOykolO60RxpXtahReAMFhLg4a+PkDnWsRjrbNX0KkzgwOiNkciPZE/Q+R/3LCSeANhFFUS+JIQJ966Ma3vidQ8O0CX1JYdssKPhtFh1URCyRClddMQyQEam5BZ6tJ3a3lAnAHDzfZC7l/D4ttPu2sgmFFh4O0xRyixepHxLukNIM9/bnATg+X8oNTO+SrysMzh/imtntA1bA==;BbBn79lounRW8VG87shLrQ=="
 ---

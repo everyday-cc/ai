@@ -2,6 +2,254 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-11-09-implementing-fhir-and-hl7-with-ibm-app-connect-and-ibm-cloud-pak-for-integration.md",
+      "title": "Implementing FHIR and HL7 with IBM® App Connect and IBM Cloud Pak® for Integration",
+      "excerpt": "Through tight integration between IBM App Connect and IBM API Connect, health IT providers can extend the reach of FHIR for multiple use cases.\nThe post Implementing FHIR and HL7 with IBM® App Connect and IBM Cloud Pak® for Integration appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/implementing-fhir-and-hl7-with-ibm-app-connect-and-ibm-cloud-pak-for-integration/",
+      "originalUrl": "https://www.ibm.com/blog/implementing-fhir-and-hl7-with-ibm-app-connect-and-ibm-cloud-pak-for-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/11/dji_0737sym.blog-lead-space-2x1-1.jpg",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-nvidia-plans-to-release-three-new-chips-for-china.md",
+      "title": "Nvidia plans to release three new chips for China",
+      "excerpt": "SHANGHAI (Reuters) - Nvidia (NVDA.O) is planning to release three new chips for China, local media reported on Thursday, weeks after the U.S. blocked it from selling two high-end artificial intelligence (AI) chips and one of its top gaming chips to Chinese firms.",
+      "sourceUrl": null,
+      "webUrl": "https://dunyanews.tv/en/Technology/769258-Nvidia-plans-to-release-three-new-chips-for-China-",
+      "originalUrl": "https://dunyanews.tv/en/Technology/769258-Nvidia-plans-to-release-three-new-chips-for-China-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.dunyanews.tv/news/2023/November/11-09-23/news_big_images/769258_11250712.jpg",
+          "width": 752,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dunyanews.tv/amp/english/769258.php",
+      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/769258.php",
+      "publishedDateTime": "2023-11-09T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dunya News",
+        "domain": "dunyanews.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-10-tips-for-safeguarding-your-business-in-the-age-of-artificial-intelligence.md",
+      "title": "10 Tips For Safeguarding Your Business In The Age Of Artificial Intelligence",
+      "excerpt": "While AI holds immense promise, it also creates concerns about authenticity and the overall trustworthiness of the information it provides.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/10-tips-for-safeguarding-your-business-in-the-age-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/10-tips-for-safeguarding-your-business-in-the-age-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f0f2aa7ba9bb1000708a4c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/10-tips-for-safeguarding-your-business-in-the-age-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/09/10-tips-for-safeguarding-your-business-in-the-age-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-11-09T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-a-cautionary-tale-of-the-friendly-robot-co-worker.md",
+      "title": "A Cautionary Tale Of The Friendly Robot Co-Worker",
+      "excerpt": "I believe it is prudent to think about several of the possibilities that uninhibited AI could have broadly, but in this article, I am going to focus on the workplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e38c9a3173937eb80c8def/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/amp/",
+      "publishedDateTime": "2023-11-09T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay.md",
+      "title": "The Permanence Of AI In Cybersecurity: Why This Trend Is Here To Stay",
+      "excerpt": "AI-powered technologies have emerged as a powerful force in enhancing various aspects of cybersecurity, offering innovative solutions to combat rising threats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f92ffb450c4342ded414515/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1575,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/amp/",
+      "publishedDateTime": "2023-11-09T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-can-ai-and-web3-coexist-its-something-agencies-should-consider.md",
       "title": "Can AI And Web3 Coexist? It’s Something Agencies Should Consider",
       "excerpt": "AI and Web3 remain exciting technologies, so it’s worth it for agencies to consider a world where both technologies coexist side by side.",
@@ -305,15 +553,24 @@
     {
       "path": "_news/2023-11-09-police-use-of-face-recognition-is-sweeping-the-uk.md",
       "title": "Police Use of Face Recognition Is Sweeping the UK",
-      "excerpt": "Face recognition technology has been controversial for years. Cops in the UK are drastically increasing the amount they use it.",
+      "excerpt": "The rapid expansion of face recognition comes at a time when trust in policing levels are at record lows, following a series of high-profile scandals. Civil liberties groups, experts, and some ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/uk-police-face-recognition-expansion/",
-      "originalUrl": "https://www.wired.com/story/uk-police-face-recognition-expansion/",
+      "webUrl": "https://www.wired.co.uk/article/uk-police-face-recognition-expansion",
+      "originalUrl": "https://www.wired.co.uk/article/uk-police-face-recognition-expansion",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/654bc5e907457b7ceeb9ecd8/16:9/w_1280,c_limit/The-UK-Is-Turning-Into-a-Facial-Recognition-Police-State-Security-GettyImages-1224837570.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -321,18 +578,9 @@
       "publishedDateTime": "2023-11-08T23:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -858,248 +1106,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-cruise-recalls-all-of-its-self-driving-cars-to-fix-their-programming.md",
-      "title": "Cruise recalls all of its self driving cars to fix their programming",
-      "excerpt": "Cruise, General Motors’ self-driving vehicle subsidiary, has recalled all 950 of its autonomous vehicles for a software update. Late last month, Cruise paused all its public testing operations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/11/08/business/cruise-recalls-self-driving-cars/index.html",
-      "originalUrl": "https://www.cnn.com/2023/11/08/business/cruise-recalls-self-driving-cars/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230927104107-gm-cruise-robotaxi-2017-file.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/11/08/business/cruise-recalls-self-driving-cars/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/11/08/business/cruise-recalls-self-driving-cars/index.html",
-      "publishedDateTime": "2023-11-08T15:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-robotics-funding-saw-another-dip-in-2023.md",
-      "title": "Robotics funding saw another dip in 2023",
-      "excerpt": "The spike in interest around generative AI — and all things artificial intelligence — has been a piece of maintaining its place. The last few years have also afforded robotics firms a chance to prove their efficacy in the real world, demonstrating the ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/",
-      "originalUrl": "https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/robot-arm-money-1.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/amp/",
-      "publishedDateTime": "2023-11-08T14:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-natural-language-processing-nordics.md",
-      "title": "Natural Language Processing - Nordics",
-      "excerpt": "The market size in the Natural Language Processing market is projected to reach US$0.93bn in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 16.14%, resulting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/nordics",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/nordics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-how-ai-and-automated-scheduling-will-transform-the-meeting-lifecycle.md",
-      "title": "How AI and automated scheduling will transform the meeting lifecycle",
-      "excerpt": "With access to the right information at the right time, AI will optimize every meeting, delivering on its true value.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/automation/how-ai-and-automated-scheduling-will-transform-the-meeting-lifecycle/?trk=public_post_comment-text",
-      "originalUrl": "https://venturebeat.com/automation/how-ai-and-automated-scheduling-will-transform-the-meeting-lifecycle/?trk=public_post_comment-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_205902735.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-amazon-black-friday-deals-2023-the-35-best-sales-to-shop-right-now.md",
-      "title": "Amazon Black Friday deals 2023 - the 35+ best sales to shop right now",
-      "excerpt": "While the official Amazon Black Friday deals event is set for November 17, there are plenty of early offers to shop right now. You can find record-low prices on TVs, appliances, Apple gadgets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/black-friday/amazon-black-friday-deals",
-      "originalUrl": "https://www.techradar.com/black-friday/amazon-black-friday-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/NiTNVFTYd9WoQxMzQdCPnM-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T11:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

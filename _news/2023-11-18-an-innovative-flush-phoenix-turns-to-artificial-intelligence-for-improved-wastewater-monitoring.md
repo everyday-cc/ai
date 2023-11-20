@@ -27,7 +27,12 @@ related:
     provider:
       name: Sun City West Independent
       domain: yourvalley.net
-    quality: 15
+    quality: 37
+    images:
+      - url: "https://gc1.creativecirclecdn.com/yourvalley/medium/20231117-173000-RDH-Environmental-Installation.jpg"
+        width: 850
+        height: 531
+        isCached: true
   - title: "An innovative flush: Phoenix turns to artificial intelligence for improved wastewater monitoring – Cronkite News"
     excerpt: "Nazario Prieto, assistant water services director for Phoenix, referred to the system as “adding eyes through our sewer mains 24/7.” The sensors can almost immediately alert city officials when issues arise, allowing a quicker response time to find the culprits of illegal dumping."
     publishedDateTime: 2023-11-18T07:09:00Z

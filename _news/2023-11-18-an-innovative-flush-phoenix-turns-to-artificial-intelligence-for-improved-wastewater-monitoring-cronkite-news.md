@@ -27,7 +27,12 @@ related:
     provider:
       name: Sun City West Independent
       domain: yourvalley.net
-    quality: 15
+    quality: 37
+    images:
+      - url: "https://gc1.creativecirclecdn.com/yourvalley/medium/20231117-173000-RDH-Environmental-Installation.jpg"
+        width: 850
+        height: 531
+        isCached: true
   - title: "An innovative flush: Phoenix turns to artificial intelligence for improved wastewater monitoring"
     excerpt: "From self-driving cars to automated services, artificial intelligence has been influencing every aspect of day-to-day life – even in ways we can’t see. In Phoenix, artificial intelligence is helping the city from underground."
     publishedDateTime: 2023-11-17T22:58:00Z

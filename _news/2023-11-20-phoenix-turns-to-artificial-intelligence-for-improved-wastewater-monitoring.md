@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-19T17:00:00Z
 originalUrl: "https://www.yourvalley.net/stories/phoenix-turns-to-artificial-intelligence-for-improved-wastewater-monitoring,461730"
 webUrl: "https://www.yourvalley.net/stories/phoenix-turns-to-artificial-intelligence-for-improved-wastewater-monitoring,461730"
 type: article
-quality: 15
-heat: 15
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://gc1.creativecirclecdn.com/yourvalley/medium/20231117-173000-RDH-Environmental-Installation.jpg"
+    width: 850
+    height: 531
+    isCached: true
 
 related:
   - title: "An innovative flush: Phoenix turns to artificial intelligence for improved wastewater monitoring"
@@ -37,6 +44,6 @@ related:
       domain: prescottenews.com
     quality: 0
 
-secured: "R0oit2ae2DIDyZdTXqt1Zx2I7oBNLHTPqZndEr3wF6xpLYocqyWb82m3HPYM2o5w+e14cvBp9RtkgLBIwUtgPTycqGpykmR/I6nawvf7IfwJx8el3jlto3peFTK2DagkbdIBVunW4OiL/n7BdIsR93Hl+UepUzCzjhuYtgtSYhfhxKESaIxhcNn2GO8x0bsN15HXu4W1nKcj7iGjz5FrVV789KjlzCRr/x+BwUutgYGi+q2EYKcYwqFhS/4/XIn/xTe4NNVaLrKhR9rUHTSZ5Ftcpg4gpHzQ37SBlDz45jXJ3u1ZKDIkMWOohlMZLa9+dvzMjA8z3NQ0czmUWRDKZy86WZu8uzIOpmFx7SWROcgihX44ovTtla1q4p6QZhrqwZu1se0Mo8Eys7F4NV59plyHGgkhbKkgXoWFbpcQENdPxy70XiVwB8HzCJ5APVfekYzNvUmozE4bPKFSpnAVtVyr1IPR3woE0NYRVFqKnw2DiwWs0t859rbVyK4JsIcNdNKg5OJb0ZcTt0Sf3R6WmQ==;WocMjZGEqirjjVchuDVfcA=="
+secured: "unOtZpG5/3rH1RQF4N+dURuLGDQEG+GP9Ng+w/rTdZpxESKGryLkWp8WCg3ObCmXhGAbrTFoTxAZF8WfBUX3LdLr5p8zjyj0An7I9LPIBgU82FaSeiqM3nX2IDsQJemX628VS4GoxL/dEINlm1RR1ilhIfa/rhNsyBJOYm9QI/hF+gwp8GSMcyC5VrQIu4YdXerncsOuV2Mvyz53NGL7v3b/gFNhDHJlEb2SLD97GHBpi/Xtbfz2lpTSolf8wc7j1Dv3Sa3t7W6cycuY1hYA5fDO4QZ9ApMp6AMFlxVCkZqBOA8MEMM+MallnK0BponYMQZpR2BVc2/nNuUsqQar8DFfAUzgtxbfQHVIsuNY9iI=;H69S6+R0np2rRJh4DyaTaQ=="
 ---
 

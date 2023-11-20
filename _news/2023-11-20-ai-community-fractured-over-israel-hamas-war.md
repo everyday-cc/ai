@@ -6,9 +6,9 @@ publishedDateTime: 2023-11-20T11:00:00Z
 originalUrl: "https://venturebeat.com/ai/ai-community-fractured-over-israel-hamas-war/"
 webUrl: "https://venturebeat.com/ai/ai-community-fractured-over-israel-hamas-war/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-17-12.39.54-Create-an-abstract-image-representing-the-concept-of-a-fracture-during-war-incorporating-elements-of-technology.-The-image-should-feature-contrasting.png?w=1200&strip=all"

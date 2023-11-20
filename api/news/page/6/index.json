@@ -2,6 +2,143 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-11-13-top-10-best-machine-learning-software-in-2023.md",
+      "title": "Top 10 Best Machine Learning Software in 2023",
+      "excerpt": "It offers a wide range of tools and services to help users build and deploy machine learning models quickly and easily. Azure Machine Learning is a cloud-based machine learning software that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
+      "originalUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T22:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Georgia Straight",
+        "domain": "straight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-how-ai-startups-are-shaping-the-future-of-work-2023-24.md",
+      "title": "How AI Startups Are Shaping the Future of Work (2023-24)",
+      "excerpt": "AI startups use AI technologies to create innovative solutions to improve user experience, automate processes, and enable data-driven decision-making.",
+      "sourceUrl": null,
+      "webUrl": "https://thesiliconreview.com/2023/11/how-ai-startups-are-shaping-the-future-of-work",
+      "originalUrl": "https://thesiliconreview.com/2023/11/how-ai-startups-are-shaping-the-future-of-work",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T20:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thesiliconreview",
+        "domain": "thesiliconreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-generative-ai-updates-from-aws-summit-2023-nyc-about-amazon.md",
+      "title": "Generative AI updates from AWS Summit 2023 NYC – About Amazon",
+      "excerpt": "In his keynote speech, Swami Sivasubramanian, vice president of Database, Analytics, and Machine Learning at Amazon Web Services (AWS), said he expects that",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/794266/generative-ai-updates-from-aws-summit-2023-nyc-about-amazon/",
+      "originalUrl": "https://www.inferse.com/794266/generative-ai-updates-from-aws-summit-2023-nyc-about-amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T18:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-7-different-types-of-artificial-intelligence-explained.md",
+      "title": "7 Different types of artificial intelligence explained",
+      "excerpt": "When delving into the world of artificial intelligence ... a key feature in applications like self-driving cars. The most advanced theoretical categories, Theory of Mind and Self-Aware AI, represent systems that could understand and process human emotions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/7-types-of-ai/",
+      "originalUrl": "https://www.geeky-gadgets.com/7-types-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-13-artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course.md",
       "title": "Artificial Intelligence and Social-Emotional Learning Are on a Collision Course",
       "excerpt": "Artificial intelligence is poised to dramatically influence how kids develop their sense of self and interact with one another, their teachers, their families, and the broader world. And this ...",
@@ -795,176 +932,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-get-ready-for-the-wild-wild-west-of-artificial-intelligence.md",
-      "title": "Get Ready for The Wild, Wild West of Artificial Intelligence",
-      "excerpt": "Editor’s Note: There are many different ways to invest in the artificial intelligence space ... based interactions – from images we post on Facebook, to Zoom calls, to streaming videos ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/get-ready-for-the-wild-wild-west-of-artificial-intelligence-1032809029",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/get-ready-for-the-wild-wild-west-of-artificial-intelligence-1032809029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-google-in-talks-for-a-major-investment-in-ai-start-up-characterai.md",
-      "title": "Google in talks for a major investment in AI start-up Character.AI",
-      "excerpt": "the rapidly growing AI chatbot start-up, as per a Reuters report. The move comes as Character.AI seeks capital to train models and meet the increasing demand from users, according to sources familiar with the matter. The potential investment, which might ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/google-in-talks-for-a-major-investment-in-ai-start-up-characterai-11699665159400.html",
-      "originalUrl": "https://www.livemint.com/ai/google-in-talks-for-a-major-investment-in-ai-start-up-characterai-11699665159400.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/11/11/1600x900/GOOGLE-PIXEL-ASSISTANT-0_1696435041435_1699665353094.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/google-in-talks-for-a-major-investment-in-ai-start-up-characterai/amp-11699665159400.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/google-in-talks-for-a-major-investment-in-ai-start-up-characterai/amp-11699665159400.html",
-      "publishedDateTime": "2023-11-10T17:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-natural-language-processing-for-adjudication-of-heart-failure-in-a-multicenter-clinical-trial.md",
-      "title": "Natural language processing for adjudication of heart failure in a multicenter clinical trial",
-      "excerpt": "Editor’s Note: Please see the article for additional information, including other authors, author contributions and affiliations, conflicts of interest and financial disclosures, and funding and support. Media advisory: This study is being released to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1007598",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1007598",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-this-incredibly-cheap-artificial-intelligence-ai-stock-is-soaring-like-nvidia-and-it-is-a-screaming-buy.md",
-      "title": "This Incredibly Cheap Artificial Intelligence (AI) Stock Is Soaring Like Nvidia, and It Is a Screaming Buy",
-      "excerpt": "Investors looking to buy an AI stock that is in fine form and cheap at the same time may want to nab this company before it soars higher.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/11/10/this-incredibly-cheap-artificial-intelligence-ai-s/",
-      "originalUrl": "https://www.fool.com/investing/2023/11/10/this-incredibly-cheap-artificial-intelligence-ai-s/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/754053/artificial-intelligence-ai-on-circuit-board.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

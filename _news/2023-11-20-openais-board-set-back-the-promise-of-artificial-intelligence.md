@@ -56,6 +56,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "OpenAI’s crisis will sow the seeds of the next generation of AI startups"
+    excerpt: "OpenAI’s meltdown is likely to become the latest installment in what’s becoming a Silicon Valley tradition. It's hard to know how this will end."
+    publishedDateTime: 2023-11-20T18:42:00Z
+    webUrl: "https://techcrunch.com/2023/11/20/openai-expats/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openai-flower.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Shake-up at OpenAI Reshapes the Industry’s Global Order"
     excerpt: "Big Tech is reeling from the ouster of Sam Altman at a leading A.I. start-up and his subsequent jump to Microsoft, moves that reset the power dynamic underpinning the sector."
     publishedDateTime: 2023-11-20T13:27:00Z
@@ -66,6 +80,6 @@ related:
       domain: nytimes.com
     quality: 49
 
-secured: "xmtbccnpS37x8fsnb1qaQiohKi0aqBTIQWOOPU0qNIKSWn3RJWGluuyPXj7UITEf74yKYucXWgAcsxm1gGoBGin7mYVO7xTvdODhVG4aDSIFPPVgMqgfaWtPyIywAmSacSMEzdNu4lfsnNFdLEyockJA5G2+YLTm+GmX9fMxjCmMV5/ID/YekJ2sNGSToAcxD0H/6nKzkR3IK7um+3fqYxZCVLH5pbO6klXq9FWsuZeEtmHUJhc26a+PxwlzA1KAaxnWIkzkaIqqeCJsn53rYWAbtjHdkhomkyQjG4x1sVWuc+CQIRbrBo120sdT9n8c0jsHy9tXw6UIfpIyAUFbVKyddg1XGe86aW/7DE89o3s=;tqZW+EAJ7RirXWoLka0U1g=="
+secured: "mgYZmdiC6VV2eL/Q8/Pn8mVgsU+GOUmDnpSYEqDmBMBASnbjCc5gC6mqErZh4uL6AhJUuQYSS2YC9Uj4mJUOjUGw3OtesJEc9kdfZ+QtY0AdUEywe23vURIuDMPtCuSYyFA9wi8NIl9A+0s6H8utHnG04YDudynci2E/2pGwgAIbW3G1/1MmDkWusjccZvgcVejEYQG83DzA0b8shckTXU4aa/VVDEQ9w8lAAtRJZaIi9MgHa6IbvAo8y8JbCmil2QfDcov5HfW3S+5hidh+GHfxhvABRBDTn+BtY9UhySPohX+9uBVfHX30rPgC5rvtn8aUo8jLh5+bGaxpndVO3DxzDRTA4MLSDJtuokghjpsTvgqbJkV4Np0hgTqimMiEwYnu9SLtgEDJ1fJ+AGmKN10IsafIrNu1mnCohHD1HLfcCQmySTv86cLnMorkeEr/65V2RaXypUMsEU+VB90NBV5eR1IqL55k/11AufIwizSFLm2EhUjGe5YUMV3NeL8eq0lHgewgEkLNHM49gfuz5A==;W50lVIwpnekyFmYAkJqOqA=="
 ---
 

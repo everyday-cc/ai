@@ -50,6 +50,20 @@ related:
       name: The Sunday Business Post
       domain: businesspost.ie
     quality: 19
+  - title: "Pakistan Pavilion at Singapore Fintech Festival showcases innovation, collaboration"
+    excerpt: "The annual Singapore Fintech Festival (SFF), a global congregation of fintech firms, witnessed a significant representation from"
+    publishedDateTime: 2023-11-20T17:51:00Z
+    webUrl: "https://www.app.com.pk/national/pakistan-pavilion-at-singapore-fintech-festival-showcases-innovation-collaboration/"
+    type: article
+    provider:
+      name: Associated Press of Pakistan
+      domain: app.com.pk
+    quality: 18
+    images:
+      - url: "https://www.app.com.pk/wp-content/uploads/2023/11/Singapore-Fintech-Festival.png"
+        width: 660
+        height: 330
+        isCached: true
   - title: "2024 fintech trends and Finextra’s predictions for the new year"
     excerpt: "Launching today, Finextra’s PREDICT 2024 channel will gather insights and ideas from the industry's top thought leaders, capturing how the financial services industry will tap into technology trends  in 2024 and these predictions will be shared with our 800,000 monthly readers."
     publishedDateTime: 2023-11-18T20:17:00Z

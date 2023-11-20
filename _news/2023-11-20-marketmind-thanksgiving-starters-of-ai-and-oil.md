@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2023-11-20/market
 webUrl: "https://money.usnews.com/investing/news/articles/2023-11-20/marketmind-thanksgiving-starters-of-ai-and-oil"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,24 +22,10 @@ topics:
   - AI
 
 related:
-  - title: "Morning Bid: Thanksgiving starters of AI and oil"
-    excerpt: "A key catalyst for some of the outsize Big Tech share gains this year, the craze around generative AI will also top the agenda as chip giant Nvidia reports earnings on Tuesday tha"
-    publishedDateTime: 2023-11-20T10:10:00Z
-    webUrl: "https://www.reuters.com/markets/us/global-markets-view-usa-2023-11-20/?ref=biztoc.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/OTonxUC0js-331bMFXUWQuFq1OE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2K5MG2S3UFJOHNIKLKWA57OI2Q.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Riding The AI Wave And Investing In StarUps"
-    excerpt: "AI startups have attracted billions in institutional funding ... deal flow in the Artificial Intelligence space and interest in investing in some of the 2021 startup darlings that now trade at significantly discounted valuations.” For investors who ..."
-    publishedDateTime: 2023-11-19T19:27:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/11/19/riding-the-ai-wave-and-investing-in-starups/"
+  - title: "Supercharging Your Mid-Market Brand’s Voice In The Age Of AI"
+    excerpt: "AI can help you produce more content than ever before while maintaining your unique brand voice. But it requires some pre-work."
+    publishedDateTime: 2023-11-20T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/supercharging-your-mid-market-brands-voice-in-the-age-of-ai/"
     type: article
     provider:
       name: Forbes

@@ -57,6 +57,20 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "Cruise CEO resigns following troubles with self-driving cars"
+    excerpt: "The founder and CEO of autonomous vehicle company Cruise, which is owned by General Motors, announced on X that he is resigning. Kyle Vogt founded the company in 2013 and also served as its president and chief technology officer."
+    publishedDateTime: 2023-11-20T17:40:00Z
+    webUrl: "https://www.aol.com/cruise-ceo-resigns-following-troubles-174053325.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_newsy_441/9cd329f27749726f0e5dd13c0e2ae045"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Vogt resigns as CEO of Cruise over questions of safety of self-driving cars"
     excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars."
     publishedDateTime: 2023-11-20T06:06:00Z

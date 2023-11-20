@@ -18,24 +18,34 @@ topics:
   - AI
 
 related:
-  - title: "Top 5 Artificial Intelligence Start-ups to Watch in 2023"
-    excerpt: "so it shouldn't come as a surprise that artificial intelligence (AI) start-ups are also popping up on investors' radars. With the launch of ChatGPT in November 2022, the potential for AI has ..."
-    publishedDateTime: 2023-11-16T11:04:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-startups/"
+  - title: "IBM Unveils watsonx.governance to Build Trust in Generative AI"
+    excerpt: "IBM announced November 14th that watsonx.governance will be generally available in early December to help businesses shine a light on AI models and eliminate the mystery around the data going in, and the answers coming out."
+    publishedDateTime: 2023-11-20T17:30:00Z
+    webUrl: "https://www.hstoday.us/industry/ibm-unveils-watsonx-governance-to-build-trust-in-generative-ai/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 47
-  - title: "Top 10 Free AI Courses to Level Up Your Tech Skills in 2023"
-    excerpt: "Boost your career prospects in AI with these top 10 free online courses. Learn fundamental concepts, machine learning, ethics, and more."
-    publishedDateTime: 2023-11-17T09:52:00Z
-    webUrl: "https://www.techopedia.com/top-10-free-ai-courses"
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 56
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2023/11/gears-7147823_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Meta Wants to Build Generative AI But Not Responsibly"
+    excerpt: "Meta has done a little reshuffle, relocating their Responsible AI team to join the generative AI crew."
+    publishedDateTime: 2023-11-20T11:50:00Z
+    webUrl: "https://analyticsindiamag.com/meta-wants-to-build-generative-ai-but-not-responsibly/"
     type: article
     provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 19
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/11/Meta_AIM.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "pCzOzEGCJLSl3Md5qHXTWh+AZf4JxbfqETJR0bCDKP54hT/ltp5UR59td2brD6nSS2VF7txLIdKfi6PkrK59cf4NWy2BuDrFlbuQR9MOu6e4+Iw6EAMd9KpBxAxRZcCVR1OyxPraILXnLoBTG1PPJS3t2dQFvwB/s4kp9M48VmPzmSy/ftyFZgitGNcXYHtttOBzy9xweOzxKdpOp4+oms6V4CI+K/39FJOYa+UZDpsYfkcsBrYkoXtEtGbWON3HhQa/SMOYO5Im3DJFBwL6CfrtnDSKrMABHvnqYw50ktRci1zTAWuzktCOR4BohT/w7LjV970OVAe9FMCFPTrU4CQHukRn8y8hPGPwt28bPeMuGIdz82+Sf6o7KFIRc76NOUy2ZKEjqJLQaAd15J2LOuzMQui7iLSuxJcfjfs42jM0udHJD934Zkyd664QIgIFAI2nAjafH2iZe9aE6ExzMYFH7k2WftdPlwvi0t6h9VAXA1biuqAzmRqXA01nkUmtxamZR/QjP2L7qMqGlQR9sw==;txC1WZMduMuLwJp8/29Zkg=="
 ---

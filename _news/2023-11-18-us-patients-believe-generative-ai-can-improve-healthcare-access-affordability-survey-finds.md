@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/us-patien
 webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/us-patients-believe-generative-ai-can-improve-access-affordability"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -17,31 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "How Generative AI Is Redefining Creativity For Marketers"
-    excerpt: "AI platforms like Memorable are reshaping ad landscapes with innovative tools designed to enhance personalized ad strategies."
-    publishedDateTime: 2023-11-17T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/ilonalimonta-volkova/2023/11/17/how-generative-ai-is-redefining-creativity-for-marketers/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Meta Wants to Build Generative AI But Not Responsibly"
-    excerpt: "Meta has done a little reshuffle, relocating their Responsible AI team to join the generative AI crew."
-    publishedDateTime: 2023-11-20T11:50:00Z
-    webUrl: "https://analyticsindiamag.com/meta-wants-to-build-generative-ai-but-not-responsibly/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/11/Meta_AIM.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "aypBCpoxOfGe40QvpbwAq/qcZrretjbBT8jSUlI7tPKD5hRZKjxn2zaBwHJvHJswds9rkDaxUHYGrhQEoZimMus7jmgMth7TC0zZD0GaVXzTsVWPx+vZGOSs3dWNKmISaoa8LWB2rkcqjfkMcpKS5Kmwsb2ds7Z1Z9xnsoHmmGrfpSYEIpJEzgTMHHBOuBir1v0Iv0u3g6MbElNnDujrTNMvrIph3JNDAN8L5Cbe0HMsYCm0ndRIEjUaBhxIxy3VnOxJNT6uRY0KpbO9OIoTR6bXAmD9VCkPiu13Exii0w46wMXX0xtRsJk7e1XARygZwljQq0do2wUYgFF4noi+jg0M7UYIXvbgnvkTWXPbt8nZJ0Pg2GOCahSB9K2fZeoctR3MIxNgfqBWamm0HJODhKi0fNP8lxtiUdQ5NSHsHgxtzh6fTd6AYbWNkGgl2G1ARPCLMwcU4qWLcgsd3eDOA50FeXSyYtrI0cX3wYwv97BPM4fW8Co+j7uXg4tSEzdamrHRdEd96WfYm4rqNcEWHA==;pmUePqlRNO2LLzzshQ9YRQ=="
 ---

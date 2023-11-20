@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Elastic Signs Strategic Collaboration Agreement with AWS to Accelerate Generative AI Solutions"
-excerpt: "Elastic, announced a new two-year global Strategic Collaboration Agreement with Amazon Web Services to make it easier for shared customers."
-publishedDateTime: 2023-11-17T15:55:00Z
-originalUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/"
-webUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/"
-ampWebUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
-cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
+excerpt: "Elastic, the company behind Elasticsearch, today announced a new two-year global Strategic Collaboration Agreement (SCA)"
+publishedDateTime: 2023-11-16T18:46:00Z
+originalUrl: "https://www.datanami.com/this-just-in/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/"
+webUrl: "https://www.datanami.com/this-just-in/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/"
 type: article
-quality: 62
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: enterprisetalk
-  domain: enterprisetalk.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://enterprisetalk.com/wp-content/uploads/2023/11/Elastic-Signs-Partnership-Agreement-with-AWS-to-Accelerate-Generative-AI-Solutions.jpg"
-    width: 1500
-    height: 844
+  - url: "https://www.datanami.com/wp-content/uploads/2023/11/elastic-aws-288x300.png"
+    width: 288
+    height: 300
     isCached: true
 
 related:
@@ -121,6 +119,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 19
+  - title: "ConcertAI's TeraRecon, Integrates Clinical and Generative AI, Supporting Clinical Research and Advancing Clinical Care Solutions at #RSNA23"
+    excerpt: "New solutions empower clinicians and research teams with AI orchestration, model development, visualization, and multi-modal data management to"
+    publishedDateTime: 2023-11-20T17:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/concertai-s-terarecon-integrates-clinical-and-generative-ai-supporting-clinical-research-and-advancing-clinical-care-solutions-at-rsna23-1032836447"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 15
   - title: "Meta announces new breakthroughs in AI image editing and video generation with Emu"
     excerpt: "The Emu Video tool leverages the Emu model and provides a simple method for text-to-video generation that’s based on diffusion models. Meta said the tool can respond to various inputs, including text only, image only or both together."
     publishedDateTime: 2023-11-16T22:45:00Z
@@ -131,6 +138,6 @@ related:
       domain: siliconangle.com
     quality: 13
 
-secured: "IM10b+bJuBV3a214aSY1JL4FNqAfdotJQ688AJK39LMw8oJlvR4Yvw7NuNPFD8if7Kpuhy2QazNQ9hTq7Mype3A+QQWUCpICXfKGrLLR6GXWdZqgeJVd3pFQHgLHsLO5KnnnaNOayoYWX66gNx86d1wiOyooHUXOaJaPkrvmEULSBI4MQ3n/lK67zxLU734QaJ2rI+EXKZrnoZ2f3pB/1Cj0Q5SMVjY02GCdDR5W6Te9hw2tv51Tvml983Z4GEPQhH4hPh4UFat5OFgQ8R4tpS8l3svTP/cqWSIeqNZbvlEK6fz5hsQbp7Rdp3pfXEPgnl9B8JPA0KbSBNGTEZiQHyYlt21vUqhCxVeGYS9RVyWj4doOQhXB3HADO8VH1OLjY5ZdY3i0l+nr3XvcE6bC0mdwa55JsoUztngk7+5pmaEUtz6YsqmITximy2HnrtQoXkM+MdpZcGFsQIKXUQqOe7ET78BAmTivefxnpbio/xsltEGk8bn9rQ8O345W53qVpjETRtUjm/2k34RAhA7azw==;sSG+O1qbxjhdmuGDa7mi6g=="
+secured: "RT05622TSpFnbiMNWQZMdm7QHU/zXB6OZIf0ymqWSdmoLL/Odd3zJfDH2dNSgZYbCWF4Ny3nLKBp+9hNF29g2VOnZtPY7qKce5DckcMKh8QGZbdEXQIZG5s5C4tq0d9DMEdlXi0Po1l1OVba8TTslD6jbKywph6Wjn61j1lLmCMZmq3OL60Aks1QiY3YdtWq2mtXF5sI4sIQc3PeCqHmWFtAXeLKPdEPiD9ym5tD4RKXT5u2uV7WHda2I6NQLTFyIkUffQAxPx7yckvLpnGRhHz9u0Zaa6TZ0eo45uzkQTAizRubgtCDyALDOj/I+UTHlbZTqZ2vARgAKYfYNWRBRw3FI+sELjimnt/b6jddB6s=;DjgBTJIILrEWu8HzCf3vJA=="
 ---
 

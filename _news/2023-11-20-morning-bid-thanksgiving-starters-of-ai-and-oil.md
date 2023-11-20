@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/markets/us/global-markets-view-usa-2023-11
 webUrl: "https://www.reuters.com/markets/us/global-markets-view-usa-2023-11-20/?ref=biztoc.com"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -28,24 +28,40 @@ images:
     isCached: true
 
 related:
-  - title: "Marketmind: Thanksgiving Starters of AI and Oil"
-    excerpt: "In Europe, the debt markets started the week with relief after Moody's late on Friday confirmed Italy's investment grade sovereign credit rating and surprised markets by upping the outlook to stable. The risk premium between German and Italian 10-year yields tightened to 170 bps - the lowest since Sept. 21."
-    publishedDateTime: 2023-11-20T11:10:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-11-20/marketmind-thanksgiving-starters-of-ai-and-oil"
+  - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
+    excerpt: "Nvidia's earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
+    publishedDateTime: 2023-11-20T14:43:00Z
+    webUrl: "https://www.cnbc.com/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-  - title: "Riding The AI Wave And Investing In StarUps"
-    excerpt: "AI startups have attracted billions in institutional funding ... deal flow in the Artificial Intelligence space and interest in investing in some of the 2021 startup darlings that now trade at significantly discounted valuations.” For investors who ..."
-    publishedDateTime: 2023-11-19T19:27:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/11/19/riding-the-ai-wave-and-investing-in-starups/"
+      name: CNBC
+      domain: cnbc.com
+    quality: 86
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107327179-1698862366973-gettyimages-1258356102-TAIWAN-COMPUTEX2023-01062023-162JPG.jpeg?v=1700162267"
+        width: 5000
+        height: 3333
+        isCached: true
+  - title: "Cloudera and NVIDIA Partner To Expand AI Capabilities"
+    excerpt: "Hybrid and multi-cloud environments have revolutionized how businesses store, process, and manage data. With the rise of new technologies, such as"
+    publishedDateTime: 2023-11-17T17:38:00Z
+    webUrl: "https://www.datanami.com/2023/11/17/cloudera-and-nvidia-partner-to-expand-ai-capabilities/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+  - title: "New NVIDIA Ethernet AI networking platform soon available"
+    excerpt: "NVIDIA has announce the imminent availability of its new Spectrum-X Ethernet networking solution, a technology poised to significantly boost AI system"
+    publishedDateTime: 2023-11-20T14:45:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-networking/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "AMlpefPjuCrMAmy1ehJ1+G35+mrfQX6sGgO/c9RV0iAX6TW7C7AMiSZyvKkgfadkSV5DpbF8gQWow7dBawt2zwqK2MtEf80J+iLlhEcwGMvUHWR0i1I3+Vw2ANURyKL0QnqTnFhG0DCNZfuL5vfdfxbOeu5wx69mNqjxBWz8ysu7iuibrJ1OXEuHzn/BGLm0MQoRru7i/QhmKvFMyhh8kuGK0GlDPi3P/UeV0QRthLAi7sOUjMHekF6XOln8xl9SK+bTXiVX3A6otyJEB12LBhBiLH0CN1UzWngBDztql3EKU2OQWcC7yKw4D5073/TnLWifjs/vU9LJ0YlGMRikPQRz+612ppN0TBWTTOk7m9Y=;PKyOoViFPzPV/N8UxVjx7Q=="
 ---

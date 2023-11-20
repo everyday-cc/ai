@@ -27,20 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Dobin To Unveil Groundbreaking Financial Insights Feature At Singapore Fintech Festival"
-    excerpt: "Revolutionary Financial App to help Singaporean achieve Financial Wellbeing  <li /> Dobin announced the launch of a first-of-its-kind 'F"
-    publishedDateTime: 2023-11-17T09:21:00Z
-    webUrl: "https://menafn.com/1107445243/AI-Powered-Dobin-To-Unveil-Groundbreaking-Financial-Insights-Feature-At-Singapore-Fintech-Festival"
+  - title: "AI in financial services presents opportunities, challenges"
+    excerpt: "AI in the financial services industry can provide tools to help consumers as well as challenges for professionals."
+    publishedDateTime: 2023-11-20T17:12:00Z
+    webUrl: "https://insurancenewsnet.com/innarticle/ai-in-financial-services-presents-opportunities-challenges"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?819939"
-        width: 375
-        height: 250
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2023/11/AI-in-financial-services-presents-opportunities-challenges.jpg"
+        width: 2400
+        height: 1260
         isCached: true
+  - title: "The Challenges of AI Algorithm Bias in Financial Services"
+    excerpt: "How can financial service providers avoid perpetuating algorithm bias in decision making that could have a negative impact on consumers?"
+    publishedDateTime: 2023-11-20T09:35:00Z
+    webUrl: "https://www.techopedia.com/ai-algorithm-bias-in-financial-services"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 19
 
 secured: "cKJBCKp+Utfo1Sw5dY2nRG2LQP4CgOQDZy80rQ7m92xRUI2Ec22pJERVfzawFts7zz9U13ZtwLIa5iqo75x2tCfQmk9q1Uf77VOtpmUyVDpj0D8ylQtWOTfvPrsVR9ftdv2CWGgEPJFeLhEUa8Z0DCyoOeCA5S0p0dAIS60Xf34kr2tQIn92GSLFyh79lCqrkQbgARWCSydxrDoazaD++GmbNRQZ/P6A8ANZi+JTaQ2iBDzXzuLSnNL86t5pgvOthYH4jEZwElUJvBGBdY2oszFmGU38mPzok3AHtRYfJQ6u4AwtCDKINBfbx/zqV1YDh5pSVn8j9w4N9sHsnYhtDAZWARN+3/7m/mF0pM1MqD9qknxrwVeWacSgEZvDbKaFmmJZ+8bZXb/CntXn3bqSeJ8hrPvMZ0fsSfPR1/PsddbfUDAPDahVBAWd3uxGW0wOHpPIpi+MxDtc+J+nzojqk7ROf+48Z1+rs65nm4umtXbHEYX56VOXoMhYujgIT7IgW1ft8WXjaXm5i2XwK/ompg==;bgKSsssoh67lfNjRfv6ukw=="
 ---

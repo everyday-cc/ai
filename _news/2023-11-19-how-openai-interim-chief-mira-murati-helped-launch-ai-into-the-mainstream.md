@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/technology/2023/nov/19/how-openai-inte
 webUrl: "https://www.theguardian.com/technology/2023/nov/19/how-openai-interim-chief-mira-murati-helped-launch-ai-into-the-mainstream"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "OpenAI’s 34-year-old CTO Mira Murati was briefly at the center of the startup’s CEO chaos"
+    excerpt: "It's been, you could say, an eventful few days. Dominating the business news cycle is the ouster of CEO Sam Altman from OpenAI, the influential startup behind ChatGPT and the mainstreaming of generative AI. On Friday, the company's board fired Altman ..."
+    publishedDateTime: 2023-11-20T09:09:00Z
+    webUrl: "https://www.aol.com/finance/openai-34-old-cto-mira-140926169.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 28
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/rkOq2pfoGCWITF.MZTDYNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/87a7c740fcb9ed35d795008952f6b3f5"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "p/Vgqc6D+RunLpwBcLYEujbZwdsi610X8hIceziG/AEQUexKAfe56ApeRy2X77LJkXeuZ0iV9aeISmZScZIR92LadgOfOXIbpxCZBA6T/qI9vjUoVhw+Dt0XJY+tiNrw0Q/s6bUkF6g5XxfJFepGDRFY3MdDN3/kTR6IRc5JUB04UO5hf1AqoE9ZN/m4xUFl5sxyz53k1JhTOKzPyfE7HlWC4juUpyTrt1Hi2busyz7fpjQYLFzHVFIA0DJhAaUje9Rp6NSyqiZ1LRms1yPjKCby2VZKMkTFKyOBx8Q7GFd7VHagNOZ2/RjoPlRH5Jbl+39haWGR49J76NiTS/mI3x9rfq8HPsSEUTR/t50PeyFcqrS6DYocDF4pLUCndz5dcLKYQw2flTS7q1GsxHNmmlWVt9rx8FtURK3fz3Vi/iE4Njz8yhD4z3Mibp+DR0FV/FfVD0+7kzanPEL3dFe1MCeObrrsMxTMioRM5BftyV9gki0DTVe7xM3IDIrYMttYRYhVqQ0iUJ8kHudN/Tl6HQ==;M6mv42uNrMKZZUYCzI2kuQ=="
 ---

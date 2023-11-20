@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-20-ai-community-fractured-over-israel-hamas-war.md",
+      "title": "AI community fractured over Israel-Hamas war",
+      "excerpt": "As nearly 200 AI ethics leaders sign a petition criticizing Israel's use of AI, Israeli and Jewish AI leaders say they feel 'shocked' and 'alone.'",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-community-fractured-over-israel-hamas-war/",
+      "originalUrl": "https://venturebeat.com/ai/ai-community-fractured-over-israel-hamas-war/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-17-12.39.54-Create-an-abstract-image-representing-the-concept-of-a-fracture-during-war-incorporating-elements-of-technology.-The-image-should-feature-contrasting.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-the-download-the-origins-of-life-and-building-facebooks-ai-empire.md",
       "title": "The Download: the origins of life, and building Facebook’s AI empire",
       "excerpt": "Fei-Fei Li is one of the most prominent computer science researchers of our time. The co-director of Stanford’s Human-Centered AI Institute is best known for creating ImageNet, a popular image data set that was pivotal in allowing researchers to train modern AI systems.",
@@ -1260,58 +1313,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-most-effective-ways-to-enhance-your-business-with-ai.md",
-      "title": "Most Effective Ways to Enhance Your Business with AI",
-      "excerpt": "Exploring enhancement opportunities with the latest technology and AI makes sense. Not every business owner will know the most effective ways to use tech to their advantage, so it doesn't hurt to perform research. Many HR processes can be time-intensive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/most-effective-ways-to-enhance-your-business-with-ai/464153",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/most-effective-ways-to-enhance-your-business-with-ai/464153",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1698092347-AI-workforce-1438555256.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

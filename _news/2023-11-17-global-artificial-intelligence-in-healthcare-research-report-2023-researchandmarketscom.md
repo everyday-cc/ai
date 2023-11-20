@@ -18,6 +18,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "Global AI Chips Market Outlook Report 2024-2034, By Region, Vertical, Chip Type and 100+ Company Profiles"
+    excerpt: "DUBLIN, Nov. 20, 2023 /PRNewswire/ -- The \"Global Market for AI Chips 2024-2034\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2023-11-20T18:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/20/9921374.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+
 secured: "PPsPpWP5ZK1UBiCN4b+RnPpQh3e4ZXS/w+rgti7PaolPyzleQNb50H61Yn5bftoCpbeMn7oHSJ4QdNCefid2k4RDw0Deo18AC7NQh3cgXKDJKH0bDbO86mz6mNB8zXn2Dr2S8KJSN2bz2CLDD3QotsguMIEB6FOPNyaA2P+4m/8Sk/A+MCDdkr9XN5j8Tnf6zUJRdZu7ZleKcW8CBGWsunt6fMXy+fjPES6xSlp0lwfrbqlw6kEDXcu1dE9eNGVF1mT4YNtBn78WwWDXVQ60Et+Q1c8fgX1D8N0U8Lc+lXrXkWSbdWvUKZqNIXZekIamypf4ddMiVfsRxJSqJLvckmxxswNPNGiggo+SQtacfAc=;alsx1B4/E32QPZD03X6N3g=="
 ---
 
