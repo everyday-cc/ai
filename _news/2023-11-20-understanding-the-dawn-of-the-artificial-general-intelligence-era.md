@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-20T07:44:00Z
 originalUrl: "https://www.aol.com/news/understanding-dawn-artificial-general-intelligence-074400693.html"
 webUrl: "https://www.aol.com/news/understanding-dawn-artificial-general-intelligence-074400693.html"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.zenfs.com/en/aol_the_dispatch_253/d0c8759151495eba0a6d7fc1e42d5c1e"
@@ -24,6 +25,6 @@ images:
     height: 357
     isCached: true
 
-secured: "Ef/i0wtW6uuRsKmbUjgcyLTiPZbQBz7QR/jKwBRAStnjLFRB5sEHtl1IbOn0SFs+GVtAENsxhrLjr+tSdS+x5vINf95E9IkB+X4te8uaseKb4b/ujucfqghX5RBe9LK+/6iURxO86KucTGWigS0B2OtWuxFaXxogzult4jkTiRXON8kcemqYI04OEiloq+TNyUPZVIRFeKRqqV0yzWaEf0zrj5rEzpkhkosXmHrzkUf/XaPfR9ijb8g35MCrEszGGOhR+eLQ9JOgTx6hJkBNDhL2ntNbNZbDoWaqCrRaP3q5Ah9weJT5W3NmWzLXUHBW+FuetbWSSp/yjv08JoHZdCV+EtfWfKVReqmcDoty8Vg=;GhlkFrEuVFKPLxjX5qftAQ=="
+secured: "Vx8H0gqeGr0R1TDjdGegDsbCWvkAkUcXxVjploMgyTHIQ66nfBTCb/t7KYOA0+D+2M3sI04yqpS6WZ75vEpZBw3ceQHnbKTtRmmzA+ak65a/WB8ETAr3w8lrMA2yrKIE0PTUmnto3YGc6i7Savz4JJ3fdDDAR7W3ePWo/Nz9u7vjQVqahHT0hjkNK+AQM0a1w1HeGBPCh80N05swEMQH/B45tKlHHzAnKdxm09/d6QAzxSBvJdAIunAjLC4M+nSyp0NTjzYd3N7s3CKlvBzVlICUP2zP5EqFLz9pZq74vkbwTCt2rl8LjX01cYoRaPcMDOQXd1wCKW4smTqevvtd6mXPHBG7BoK7upVj6Db8GK03ZotuDSVHwcl6rokJFRadQrmv0s8VQoWL6kUsxq/JhHEurp2nTkrOgwigwCs5nUquumIKBULJJ+9JWoKc7ZSGSKYnOhsIBpTXafn/vzlZadS970hesFmHIqX7VLJ25l415LsNLsbs2gginkgMWpwh5zfGYmfUfPOce2hGXsbWMQ==;TmOPvORhFAqNLnqQuAULxw=="
 ---
 

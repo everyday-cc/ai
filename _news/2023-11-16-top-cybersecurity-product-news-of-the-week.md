@@ -19,6 +19,17 @@ topics:
   - AI
   - Microsoft AI
 
+related:
+  - title: "How Indian enterprises can incorporate AI into their cybersecurity solutions to build digital resilience"
+    excerpt: "CISOs in Indian organizations have the opportunity to harness the power of AI for proactive cybersecurity measures, fostering long-term organizational and digital resilience."
+    publishedDateTime: 2023-11-20T10:31:00Z
+    webUrl: "https://www.voicendata.com/how-indian-enterprises-can-incorporate-ai-into-their-cybersecurity-solutions-to-build-digital-resilience/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 2
+
 secured: "Z9L9tX/v7BUXXahVp6IlMiGSjn4axIrkV04tS28+qZbH82JufDvAbm04haen+GA7Ohof22y8DBpIIDDSmComlrjQvrI4Rk2NtIKJe/8iXKR5bjdivVaBmLwNsbtR4RbRAJVeZjsXvQpAgrBXnrkshP9Jf4I8yt07lEk+5uaHeWdfB83DaCxyzo5PenjiSbKhQGjWYknVqyZSL/0tPqYO5Mq1exkn61fJMYu8npJ9RonnesFwu6wsqWY5RZSOUcl83EabnugtFr0TgKujj7oO4ZVfg8OgOvKdf0ReId3Hfp27D8j1PD4Cj4hU893uLDzEAVx8TxxCUHjH+v+/bjd8sY89uOel9XFtUnXLafvvXiDZm+5wY3ybS5CnOLqaaDqyKHjyhSr+1sSpPqfAhUiT28fuhDuU1Rt11Mykk/1dKJ2JLDK3uOeLeL14o2YUMORDyDIdQVLFZqaaXmL88IMKWZjNobZSuJ9dyLunAcJt86bu1BQ3ElljLVfu1egEJQSw4GUcHH22Am9CVpXdG9+Iag==;HVWQl5n4qwQWEZpPTKx0Yg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/karlfreund/2023/11/16/microsoft-annou
 webUrl: "https://www.forbes.com/sites/karlfreund/2023/11/16/microsoft-announces-maia-ai-arm-cpu-amd-mi300--new-nvidia-for-azure/"
 type: article
 quality: 79
-heat: 189
+heat: 149
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 72
-  - title: "Microsoft is finally making custom chips — and they’re all about AI"
-    excerpt: "The new Azure Maia AI chip and Azure Cobalt CPU are both built in-house at Microsoft, combined with a deep overhaul of its entire cloud server stack to optimize performance, power, and cost. “We are rethinking the cloud infrastructure for the era of AI, and literally optimizing every layer of that infrastructure,” says Borkar."
-    publishedDateTime: 2023-11-15T20:00:00Z
-    webUrl: "https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 64
   - title: "Microsoft unveils new Azure Cobalt CPU and Maia 100 GPU designed for AI and the Cloud"
     excerpt: "Microsoft is finally making its own chips for the AI and Cloud market with the new Azure Cobalt 100 CPU and Maia 100 AI Accelerator."
     publishedDateTime: 2023-11-16T05:34:00Z
@@ -75,15 +66,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 51
-  - title: "Microsoft debuts its first custom AI chip, cloud CPU"
-    excerpt: "Microsoft is debuting its first AI chip. At its Ignite conference Wednesday, the company said the chip, called the Maia 100, is the first in its planned Azure Maia AI accelerator"
-    publishedDateTime: 2023-11-15T18:01:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-debuts-first-custom-ai-160158585.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 51
   - title: "Microsoft Maia AI chip ‘last puzzle piece’ for infrastructure systems"
     excerpt: "Microsoft said the Maia AI chip had been tested by OpenAI using its workloads and CEO Sam Altman commented saying the chips can help make AI models more “capable” and “cheaper.”"
     publishedDateTime: 2023-11-16T08:59:00Z
@@ -93,24 +75,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 51
-  - title: "Microsoft Azure Gets New Nvidia Service For Developing Custom GenAI Apps"
-    excerpt: "Microsoft Azure is getting a new service from Nvidia that is designed to let businesses develop, fine-tune and run custom generative AI applications using proprietary data."
-    publishedDateTime: 2023-11-15T17:36:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-azure-gets-new-nvidia-service-for-developing-custom-genai-apps"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 48
-  - title: "Microsoft’s Maia AI, Azure Cobalt chips to rev up efficiency, performance"
-    excerpt: "New chips from Microsoft along with other custom chips from the likes of AWS, Google and Oracle, though limited in their impact initially, are expected to provide stiff competition for chipmakers such as Nvidia,"
-    publishedDateTime: 2023-11-15T21:35:00Z
-    webUrl: "https://www.networkworld.com/article/1247268/microsofts-maia-ai-azure-cobalt-chips-to-rev-up-efficiency-performance.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 48
   - title: "Microsoft Holds Chip Makers’ Feet To The Fire With Homegrown CPU And AI Chips"
     excerpt: "After many years of rumors, Microsoft has finally confirmed that it is following rivals Amazon Web Services and Google into the design of custom processors and accelerators for their clouds. That confirmation came today as Satya Nadella,"
     publishedDateTime: 2023-11-16T17:01:00Z

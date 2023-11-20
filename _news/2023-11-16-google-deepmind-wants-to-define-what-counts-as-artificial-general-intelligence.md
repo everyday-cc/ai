@@ -64,15 +64,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 33
-  - title: "DeepMind tool makes 10-day weather forecast in 60 seconds"
-    excerpt: "Google DeepMind researchers this week unveiled a highly accurate AI-based weather prediction model they say marks \"a turning point in weather forecasting.\""
-    publishedDateTime: 2023-11-15T17:50:00Z
-    webUrl: "https://techxplore.com/news/2023-11-deepmind-tool-day-weather-seconds.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 19
 
 secured: "oxCpc930b/lxpXx1E0emG4kCEVgxf7oZgumQ3n5JD9dRz634wNqa0ZuxKDuGco87xPz6VVtcce1QIlWqL6pJ8TafC6OEVISLzJQYcTwleeaKgJbYdSJZ8cm2dGIPZNfzEFOeZKQAQXeO/ynn9xyvEV/azQ/DqWIWT1jmTcPtGv4qOJyv6DhdXj/32uJISuKo7zzlLp+KU+de6CwKgeobpsRTkgjOFHho0gqEsSEKC5w9Bd8n//IKqlrwTwp+SR+sILXsUCLfSavSr9o9KJfZzU9FBdp23ZT2ItzKf5XgJaVG3RExnLo/ey76uXjsG1qmhins+L9Rc7hq9Bo8M88NmDCxGYDFzuX3yTg0O56k038Ab1IsBkMcH/TqwogzQd0V4FjYslXCwsGlDgC4Az7pt4rJcmc35/6vtT3zlN/+wWBwqdw6w8Ftg429hfp3aGbR4GsYs4rHVqul3oKMYRYlFbKdbmodUcBv4cWfL4OmdcDB2+vk3H/faLwDJ/EzpbdzYo9bXZPqXHnLBGM9260GGw==;aIBr7n/mMFZ/xourY0ISlQ=="
 ---

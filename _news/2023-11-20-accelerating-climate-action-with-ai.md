@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-su
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
 type: article
 quality: 109
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -71,6 +71,22 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTQ5ZWU3ZDktNTI1MC00/0/ibmgenaiaws-jpg.jpeg?f=3%3A2"
         width: 505
         height: 337
+        isCached: true
+  - title: "How Earth AI is accelerating mineral discovery and helping enterprise Net Zero goals"
+    excerpt: "Earth AI pioneers a more efficient experimental process for discovering minerals required for Net Zero goals. Their promising results highlight the importance of combining data science, domain expertise, and systematic thinking to solve new problems relevant to all enterprises."
+    publishedDateTime: 2023-11-20T10:24:00Z
+    webUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals"
+    ampWebUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 52
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-11/amethyst-3328166_640.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Elevate Your Teaching Career with Educational AI Tools"
     excerpt: "As with other technological advances in the past, AI isn't going anywhere. You can unlock new teaching tools that also prepare your students for tech jobs."

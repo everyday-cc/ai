@@ -42,6 +42,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Irish association calls for national fintech centre"
+    excerpt: "A lobby group representing Ireland's financial services sector has called on the government to establish physical centre for fintech firms."
+    publishedDateTime: 2023-11-20T10:42:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43313/irish-association-calls-for-national-fintech-centre"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5446new.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "How scammers' use of AI is affecting fintech investment"
     excerpt: "Fraudsters are likely to increase their use of generative artificial intelligence to attack banks and other payment companies. Investors are using their own influence to fight back."
     publishedDateTime: 2023-11-16T19:16:00Z

@@ -68,6 +68,22 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "How Earth AI is accelerating mineral discovery and helping enterprise Net Zero goals"
+    excerpt: "Earth AI pioneers a more efficient experimental process for discovering minerals required for Net Zero goals. Their promising results highlight the importance of combining data science, domain expertise, and systematic thinking to solve new problems relevant to all enterprises."
+    publishedDateTime: 2023-11-20T10:24:00Z
+    webUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals"
+    ampWebUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 52
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-11/amethyst-3328166_640.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Elevate Your Teaching Career with Educational AI Tools"
     excerpt: "As with other technological advances in the past, AI isn't going anywhere. You can unlock new teaching tools that also prepare your students for tech jobs."
     publishedDateTime: 2023-11-20T01:32:00Z
@@ -110,6 +126,6 @@ related:
       domain: siliconangle.com
     quality: 13
 
-secured: "hc1CZNFEZwUsLa0MfBoAdn80AsYJDtEMOt1wQUIcMJXvZqrHRJNiTCS1NMQqV6iQQGHUoZfqOB5uSKGbvtTYhUoapTMmlnmMlBYQV9xV6WgmKLLz6lIE7BmghS/GrGZTtIEkeRi6nmJcssoQwZv62r+JuffzRMd6tlTkL1/0DhAoh9Rof1jHIFUPaBqZbGMJgS8hXmbvskdRzfKIl3Knm8ehZmgxoOCt1dTXNzMo68U/vSnG+TrxHosShdw2H2Oenki1cm6FvkZNQGqmqRs+aofE8xGEXSW5TtSRfA7EOV3Xntgx8ymDHwx1lWkuaU6tXUvbUOKw4o+icBDDA/2/ilpF3EKV0Piz15U1cDjHpfM=;3egYwQ3hNKem0+t4Sm+Yfw=="
+secured: "orkywmOQYwxKLAY1sKroYWfvqjy60qyePgLNLbXsXeb2P+X9mRfr8mE/USf4FR7VtElQPwcrbm1uoDj/OK+8n94GwWVqap7NyR+p7BRDEoa0ss6kNlWhzQBbuF3GTWmI0oDoQWIePVHPPGhnDtJRAvkXEKhKtslPtlFCPqVA65hcw2XWyWJjk+D1yaIdXKhX/bGm9+wtlkJzjVu/ZoeAciVqFZOUoZR/Ke/GIdjL8x1Xf/yI4uhm4ZPEpbl4RUbYTo5YnwqY796PQ2ABfMzH9hRcdGx26dOtX57oBnIVW0oEJpRKkalJSYc8+dRAHBpG+CPQ81pm6gWED+GXM10dylFVjrL+unGzP8H51Gnr2tyHrPTQL2SLO1v1m8cOVTIhEaqL64zfQUcPpxYs8qoMKcAJ3EDpmUP1iWyqv7hudMocz2AhmXq5/FuUz4N+jYAB+vPS0X83YkbBa1Q3hwPE/ciWWY4PLWsg4mMB077OAmV3nVOdyhc6WT7coFjoDn8CHg8A8sIXQAZSWLWLdoPnWw==;yrs8YA/LiQpfv6YX82098Q=="
 ---
 

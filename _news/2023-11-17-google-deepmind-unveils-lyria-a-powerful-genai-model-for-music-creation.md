@@ -59,15 +59,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 33
-  - title: "DeepMind tool makes 10-day weather forecast in 60 seconds"
-    excerpt: "Google DeepMind researchers this week unveiled a highly accurate AI-based weather prediction model they say marks \"a turning point in weather forecasting.\""
-    publishedDateTime: 2023-11-15T17:50:00Z
-    webUrl: "https://techxplore.com/news/2023-11-deepmind-tool-day-weather-seconds.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 19
   - title: "Google DeepMind wants to define what counts as artificial general intelligence"
     excerpt: "In broad terms, AGI typically means artificial intelligence that matches (or outmatches) humans on a range of tasks. But specifics about what counts as human-like, what tasks, and how many all tend to get waved away: AGI is AI, but better."
     publishedDateTime: 2023-11-16T09:02:00Z
