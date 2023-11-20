@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resig
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -60,14 +60,28 @@ related:
     quality: 22
   - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
     excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
-    publishedDateTime: 2023-11-20T09:44:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/vogt-resigns-as-ceo-of-cruise-following-safety-18503084.php"
+    publishedDateTime: 2023-11-20T05:04:00Z
+    webUrl: "https://www.bostonglobe.com/2023/11/20/business/vogt-resigns-ceo-cruise-following-safety-questions-recalls-self-driving-vehicles/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 0
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 14
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Kppzcmm788btNPz0ZGvSRGJGP0c=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XEOENH2MWXH7ZM5VLLKUF7YAFE.jpg"
+        width: 506
+        height: 338
+        isCached: true
+  - title: "Self-driving car venture Cruise chief resigns after uproar over accident"
+    excerpt: "The co-founder and chief executive of General Motors-owned Cruise has resigned, weeks after the self-driving car company paused driverless operations and California regulators barred its vehicles from the state’s streets. Cruise said on Sunday that its ..."
+    publishedDateTime: 2023-11-20T00:00:00Z
+    webUrl: "https://www.ft.com/content/0a68a82f-b5fb-4acb-a915-96cbc70bf8d7"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 3
 
-secured: "ZCYVPe8vuud+VO4902iHJJkTLydGzacf6T23gKkPdIcwO6HWtEvJZiQgKDoO5Pb22zcYt7XSUHNeYBsiYKmHEkFmGYD7qG11ZcR1iquMTiq/3tbTnY6yOliIuLLbV+eVrjgGYlopDn73lfH25oby+IRrabjbrGuetbN+D/KpRe2dWrC+bZyygxffJ9gDYu1bgAzFvPWIUxNl+AhDluoROZDqTKVZGnS+FL160rKqgK5RxQ+9kzZJ6nteXmsuLAiapVliA0/DzkY2++8BAFM4E/SZEhzzz6jggN9CkItJTOBZiiPWSh0fOFwHjCWlU9nosEIpbkgI/P5gx3KY0oWxVIR7e6mLRT660wzHPctODoY=;Ry4faGyHRa3UXKC0OinyHg=="
+secured: "yfyi58a2C9P+nqyb8gjNZMCuDJDKBGv5CEu2U8CTQ34cX9sdvJSQylLGY8E26Q6bqm03HdLklRkRo1whnl5zI8xZmKip+HoquVe/0IwZbqv7806hYeZH7jbrH8QT2lhOiMwxET0IUwuKWN1efVbd6BCiCEuJn6CeDTZdV+y6MpfmhEcYfKTq/Ik8KBQ7MwHxtdG5Cwe1ko2ZGJcptABYlmJ5uKIY9l6jb4IDigzSC3lIEuzGITENzM2MdZO2BoM1OV5DiJ4z/XBYEHQ9uA6xtoMdCH74uOzh3wyg71J2vQ+pUbqvmJKA1fmy7lNE54XxR5h2YB2LD1SacqBDxqUWHGnfeKltCRTTTHeIjN05zoyhP4FsfI/D+4c2il2/EaslTLJT//5SeDLlKUfI6SSWrEjOn+AfFnSUM9iVH08Ctqd/wUvucrsz5TZJlaOGDXtY6OUx9FcsS+redFHeTFngOJwDm50XiHCJ4AE07gHho8TAVJpwS1qcPZFn5Eyiu5J32UbBE2NcDgyeb3+byr01Dg==;B5a71u4ytTyXMI79xoJovw=="
 ---
 

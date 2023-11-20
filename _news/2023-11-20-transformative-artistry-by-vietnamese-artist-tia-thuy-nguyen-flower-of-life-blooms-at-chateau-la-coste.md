@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Transformative Artistry by Vietnamese Artist Tia-Thuy Nguyen: 'Flower of Life' Blooms at Chateau La Coste"
-excerpt: "\"Flower of Life\" is an interactive installation by Tia-Thuy Nguyen. Realizing interest in the Law of Conservation of Energy, artist Tia-Thuy Nguyen wanted to develop her work \"Flower of Life\" around the 'reuse' of an object (here is a dead tree),"
-publishedDateTime: 2023-11-20T03:52:00Z
-originalUrl: "https://www.newswit.com/en/ifhwqj8j190qknzo5jdqut2ifx3gh7vr"
-webUrl: "https://www.newswit.com/en/ifhwqj8j190qknzo5jdqut2ifx3gh7vr"
+title: "Transformative Artistry by Vietnamese Artist Tia-Thuy Nguyen: 'Flower of Life' Blooms at Château La Coste"
+excerpt: "Light, in an inadvertent moment, was 'trapped' into Tia-Thuy Nguyen's game. The game is like a continuous loop, day after day, but the viewer can never see two completely identical scenes. With mischievousness and ingenious creativity,"
+publishedDateTime: 2023-11-20T03:24:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/transformative-artistry-by-vietnamese-artist-tia-thuy-nguyen-flower-of-life-blooms-at-château-la-coste-1032833745"
+webUrl: "https://markets.businessinsider.com/news/stocks/transformative-artistry-by-vietnamese-artist-tia-thuy-nguyen-flower-of-life-blooms-at-château-la-coste-1032833745"
 type: article
-quality: 7
-heat: 7
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: academy
-  domain: newswit.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.newswit.com/storage/images/iqmj/0pr/c3i3azqi602pt784fsy4il03m/0-Transformative.jpg.webp"
-    width: 600
-    height: 800
+  - url: "https://mma.prnewswire.com/media/2280922/Photo_01.jpg"
+    width: 300
+    height: 400
     isCached: true
 
-secured: "JgNpRjcU4xtCiE/6cSpqdiC5lbZbuLjtvUmtfEDCBdD+dyFktNycqTdQgfHkDu6wziVlxESNwnMQgt4Ww3VfMcevPFCMfrEBI9IckLwq8vulBDOF73VNNPNmyrh1c63kR+/CEgZggNmOj1si+XZzphiaOaGMUpJtsp1mVqcHU09xnDU6D7jgPRP/mif/jcP6aCjJ24Fm4tzPNlrMNsqAUD9N39xPfxM9LSR8XufeMNYQ6L1K+7jDYgjEC4ofHRkJN/SPWRVPZE2HTQgNEY7qJf54kf/5i4bNicNOFOakHfEUCMJLtm4PA80jGDYXi0rLWPeByhwNXaplRchaQ8MYSF5Fk4d1kqDIYvN5KjnZqUW/yzASoe6r6IfOdOV6oD+cr1GjjWDi2UYwuwklcyu2wpv90ruFFH5w+sinslEKVS4L9NOtSvjr3HfzchB+1oYFgdps1NyyCMMUcrAB4iXZoWcl6TNewHts8IIE/xuVn9nOBJvEliGTyq+D1F/HfDHGfhBtjegbF7YfvUvlA3yn0Q==;J2iZ6Yoa5nQDHzxg634oKA=="
+secured: "xrPcoxkvMhWzDiMdOVXzQhX96bmiAiGmXWMkWXdklFegC6HcQHAC3KC2vjV/EEqs2w8hamTBbJGArMzOnE2RDMMVu0Fzxy6qBctYxyWlvtOSeo4krw4GjiOWB+gGUR8Su4nqAYe6uI/cGEe2jkl08dOSwZon/gQZMwhsKV42mpsY124c6AIuoxlq8CboZxr/Gk9nep6OYR3CM6j/0Ud6c4kQuV34R+Evpq4VO00Gz+SAO6U9Gbwy8Zn5UVNMi9uk7J3/vHs4bgpx4LeMOP2MXPyut3v+/HhiyLwJ7XyNKFUNQIOXokLD+CuQRCXOIqLnw2AKyLUIi5d4aQPfyjlNpKfgnIIzCAW4EkG7STJSCW4=;wCHsJAvmH1nJuFIr5XL6Hw=="
 ---
 

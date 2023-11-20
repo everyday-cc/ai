@@ -2,9 +2,9 @@
 category: news
 title: "AI and ethics: Business leaders know it’s important, but concerns linger"
 excerpt: "“You should never have as a goal automating away a bunch of workers,” says Steve Mills, BCG’s chief AI ethics officer. “It is about how you pair people with AI to make their job ..."
-publishedDateTime: 2023-11-08T11:00:00Z
-originalUrl: "https://www.aol.com/ai-ethics-business-leaders-know-190000277.html?ref=biztoc.com"
-webUrl: "https://www.aol.com/ai-ethics-business-leaders-know-190000277.html?ref=biztoc.com"
+publishedDateTime: 2023-11-08T14:00:00Z
+originalUrl: "https://www.aol.com/ai-ethics-business-leaders-know-190000277.html"
+webUrl: "https://www.aol.com/ai-ethics-business-leaders-know-190000277.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 800
     isCached: true
 
-secured: "DvQmjnE3wdKvcZ+E/lwieXaAHTXgFqkPrO2NH3jZsKjF/IWIe4yyXFOPSopHaRQvA90R4A77ChSiJ1dyB/17690W/mbRaSyXB/wEOfkMLgmwDwRjUDLD0unL78fexl77x5yZKYPIG4Yfs96wPtcEeX3c3An4V6etuSFALluD8eY2bsdkSvYRD94IHhGIxPbYAi+y2K/tJ7PKTCMHf8CCoLa2nKOjfnfaDVE8S/9U9xDT7ickhfTgMExNCo46KhCXM7zwnc0MQeK1mwyW+hTIiWxKZiEVWwi6Ni8/R1p1qVT5G1C1tMEBrTY1frPZ7AinpbExFYQ1ooIQyv2Uhp4QWMzHje09ANfqHggAkKIq4hg=;ZOmXQBk2wHMYvLjsh+Y5YQ=="
+secured: "V37GcouF9UVs5hAAlUMSjvNf5OIpdVLf8mU7Qq236LdQOKir4ujfvX46IM3NtDRToRt9HebQpk5BCkvF/995IBVsGAb1EFq6VZM1pTAY0NeKcsw20ZMcptAmkWESLo4+AYousVsJpPXdP8rCZgwIDl/d9/Irvrltn/2ZL6UPWqn4uOlb31lX8jJcuHq/C7SsMRrH3/Q0ttG0D3IaOafuuAu9jhoVQwOTRU6c9icjwxAnxpPdYsAfFkSYZm1EcAFoaYRQTIO8DHBX++ZaCkW8EHuHPtIqR8ktT7Nnu5kUG+ym9jLsD9pyhU/I68niL81xP7zNNNyQ3Zx95aqel1Qv6h2WWTTBY8N/UOtWK8zqwa0=;AGQjYDrRI9AYYGynpQCC9Q=="
 ---
 

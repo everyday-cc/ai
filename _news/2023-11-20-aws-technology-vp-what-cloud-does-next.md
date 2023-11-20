@@ -3,8 +3,8 @@ category: news
 title: "AWS Technology VP: What Cloud Does Next"
 excerpt: "Mai-Lan Tomsen Bukovec, vice president of technology at Amazon Web Services, Inc. (AWS) explains where cloud is now... and what comes next."
 publishedDateTime: 2023-11-20T10:13:00Z
-originalUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next"
-webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next"
+originalUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/"
+webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/"
 ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/amp/"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 426
     isCached: true
 
-secured: "+yFtO/ZLMdKbWaFAWyFs981WzLshYlyMns2lVvEPKBGjqpogvwLqt+LALwJjPmdgA6fuqdbBtE8g3XP77Nott4xFADwIxRxtk3wRfZQY2vfTz1BRFeUG8pFnyct71FJnQq4VS9yAN6wRyNLrCvGONvuO7gCrzyK4ew0Nht4v+db4D0mURWBpz25IHJ9ZroNVBidE4A8s+ODo3izxgN/jnvGP4DotkwINBgwFZeql9WHvcAF5dfyoUB9CJkg3ub9eVEpocbaiggzpP91BVK7QqNAvS7n9pV6Rzq/t5lxst2rEScao4zQZEyXTIT9bc5gA94inWKTVA5I2jJD7TQ13TvBrFy2G0DAh/qOW+JREq9s=;DuHkAEqeC0IvDLRPlI0lYg=="
+secured: "Z1JOJ7KA/akqmtp+GjlVFimu8w/1U+MU1Oq2G67b71gqrrfUi3RmVgdiNPPEyQ9JQbwxnpPeSz0sczVp4FPiGga4ivKdIUWvbs4EuxWY2OiP+H6AQ9tCBDaGMtgMFBYVJk1uh/YbfSG6NLR4ng83O80QYAPvTabHrdREEfWg8CEanVELBHvS4dfQw0ri93zppYHpJ7i0+nYRdKEtOuBPVSheA+I7WNEkGAIdK+qWSWRpzBjE5u2VSv/C7NtHgY0fVhqynQX8H2D7sBLSFP/gphAw4vBWqYjNJMNC6N820+QyCPbbN7NTOAVmZVPxvn62eLWfSWNMoDiUDbsWKz0xPgf1KbeZ/kL2RkCfEtrK34k=;31UFdhYbsj9RFksRF9++nA=="
 ---
 

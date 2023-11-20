@@ -34,19 +34,21 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "Irish association calls for national fintech centre"
-    excerpt: "A lobby group representing Ireland's financial services sector has called on the government to establish physical centre for fintech firms."
-    publishedDateTime: 2023-11-20T10:42:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43313/irish-association-calls-for-national-fintech-centre"
+  - title: "Iceland’s tech clustering – a volcanic focus on fintech"
+    excerpt: "Another area where fintech can play a part in improving the efficiency of financial trading and movement is in the identification and management of fraud, and in particular money laundering. Another member of Iceland’s fintech cluster, Lucinity, has set its sights on providing new tools for the task."
+    publishedDateTime: 2023-11-20T10:45:00Z
+    webUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech"
+    ampWebUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: Diginomica
+      domain: diginomica.com
+    quality: 44
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5446new.jpg"
-        width: 480
-        height: 270
+      - url: "https://diginomica.com/sites/default/files/images/2023-11/kirkjufell-2148191_640.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "How scammers' use of AI is affecting fintech investment"
     excerpt: "Fraudsters are likely to increase their use of generative artificial intelligence to attack banks and other payment companies. Investors are using their own influence to fight back."
@@ -56,15 +58,6 @@ related:
     provider:
       name: American Banker
       domain: americanbanker.com
-    quality: 19
-  - title: "Customised AI solutions for fintech sector prove a Keeper"
-    excerpt: "Keeper Solutions designs, develops and deploys AI-powered products for fast-scaling fintech companies across Europe and the United States"
-    publishedDateTime: 2023-11-17T19:26:00Z
-    webUrl: "https://www.businesspost.ie/commercial-reports/customised-ai-solutions-for-fintech-sector-prove-a-keeper/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
     quality: 19
   - title: "Pints AI, Toggle AI, Visa Crowned Winners at MAS’ Global Fintech Hackcelerator 2023"
     excerpt: "MAS, in partnership with SFA, announced the winners of the Global Fintech Hackcelerator at the Singapore Fintech Festival (SFF) 2023."

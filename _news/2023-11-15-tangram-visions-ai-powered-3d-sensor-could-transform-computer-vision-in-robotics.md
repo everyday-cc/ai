@@ -20,6 +20,12 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "Nz5jQBX4eBN/cmyj7Dc/26FP3aG5ZZaA8kwDWh+wQrgLtB9o4DlNku8R39fOWNeOy5guVDktYpDuCzt2liAbiiB5c7db0WbMTXrZMc4N1QWOx76KMNAU5sWMsYyl/CRGwdnegvg/fj1Xw5bBAipog9Qcna0y350ov7JiBMF5qjuEYV06RFrG6dnOlPUiJyA0RflosCOvWMcic09Sg7faOtkdX60Spus4x0tU6GCxYqYvSr+PT90VDFkB43fVMy6q5yjXBKhEFY4DBAtJ/Idfq15wBKcs5uvFNJ2YplS8UebmNWdxU9w4cjci7ioLzPkUNLu7IhnNO0Td7lA3vNwhuuHh1BOyVz4ocX5NkWShPHg=;gFIJQvQ9lToidLyLMwjGNQ=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/11/Sensor-Front-Left-Angle.jpg?w=1200&strip=all"
+    width: 1200
+    height: 960
+    isCached: true
+
+secured: "UKPwbVl1aJ2vz/VTIqrExaqOUf2wUzeFYusmynRKLKlN6pO2/7uAwPfT2yLKwpBzEn2n2WYuBxV5qOBCUXi7H99/+LKl4L6hJxqEtgWEA4NuG/GulbvRrojWmQg1nYLit5piNIt5D7bQ+Rt57Y656VqKhDxrBrv8t9wIMJD8sgwP2GpMPFQAytfasF2e6YzNMcz0ibliekB2EO99xToFVvUehHysQ3FJ33Z9BLeoXQviyTfW9G8NTnm6L6+cn4DUKnlZq2LA9kw6+lc5UUI41fUESDQcXKwqR5uiTvvfulWSqLHCJTDv5MKO04z0xU6YtXO8jh/TFpGqo6SfEKvs5wGvBY5IfAAuAV2KbHA6ojE=;y04tFxTVCNvDCz5qpRkKoQ=="
 ---
 

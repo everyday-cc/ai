@@ -2,21 +2,27 @@
 category: news
 title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
 excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
-publishedDateTime: 2023-11-20T09:44:00Z
-originalUrl: "https://www.houstonchronicle.com/business/article/vogt-resigns-as-ceo-of-cruise-following-safety-18503084.php"
-webUrl: "https://www.houstonchronicle.com/business/article/vogt-resigns-as-ceo-of-cruise-following-safety-18503084.php"
+publishedDateTime: 2023-11-20T05:04:00Z
+originalUrl: "https://www.bostonglobe.com/2023/11/20/business/vogt-resigns-ceo-cruise-following-safety-questions-recalls-self-driving-vehicles/"
+webUrl: "https://www.bostonglobe.com/2023/11/20/business/vogt-resigns-ceo-cruise-following-safety-questions-recalls-self-driving-vehicles/"
 type: article
-quality: 0
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Kppzcmm788btNPz0ZGvSRGJGP0c=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XEOENH2MWXH7ZM5VLLKUF7YAFE.jpg"
+    width: 506
+    height: 338
+    isCached: true
 
 related:
   - title: "GM’s Cruise CEO resigns amid concerns over driverless car safety"
@@ -62,7 +68,16 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 22
+  - title: "Self-driving car venture Cruise chief resigns after uproar over accident"
+    excerpt: "The co-founder and chief executive of General Motors-owned Cruise has resigned, weeks after the self-driving car company paused driverless operations and California regulators barred its vehicles from the state’s streets. Cruise said on Sunday that its ..."
+    publishedDateTime: 2023-11-20T00:00:00Z
+    webUrl: "https://www.ft.com/content/0a68a82f-b5fb-4acb-a915-96cbc70bf8d7"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 3
 
-secured: "G6nHxJOVrKbN8DQSgfY3sR4CSnZq/uJBoAB1h0wszJ0wkj7itMIy+qgQFyi3aahw3cRi5391DPu83eIUUa+AqQoTAA63L9nGfHy80EFaFuTXDHS3MIQ8HC4b1Ggi1gnnVpPwDAEvADr34XMSIa5s1b6FhF0CQAJGYt4BBrP70+p9Uv+2px0Qx4TFFxyciemIkXvKWIPg4L8Lqx0dkEa8JUBTl362Z4aBnyKJIW3ShWGoa00Hf0wzPz6HmdInub4ecE2JyRovNL/HO6PE1JzN0o/ViWp4aYmwxPdla5jghus1hqodXG10vxu0rrQLhRi7CttUfFChHpkBm7xOwqB/YnxnQZM47hlBh/PNC4xGopIcT9nh0gFNXYKsSdt9QHAvOv7YfD3vpQ3JUf+CFjLJJ2a+YxN3QmeX6HnB3M13+/0Aya7Kc0QGV/I0vryDzgKNyj+Xph+hoO+JkcvPHiUrvYB33bLXLSmzfvevb9Nl9eDxSZqYY7gaLBAfPJvkd8z6pMSxc1NypLj3lOS2FHJX7g==;gnX4yXsDkmmd3QQc7HRr5Q=="
+secured: "Ibg4WQe4g6KntSpCCcRIw8FlyJVAOXeoBOkpvlTajQ+SReDJyy6EAlcUurh5nZJxHX8ndnkbs8ptUXbDMcJr7fg9TOwbXhG9xpjnW0HnpSMQ8mTHT/nGk4GIQ5PErHoydoLUfJM1MGL8ojdwmQh+7aOSnFDM4MWMvT/QUU2r4AHUTiRdZJ5qArabViQFjt/HHhlnH35Y7HMJaXB+iH3ayjzFpf/3zw9TBlHNdDUT7v5c5wKdHv8qRJrqWhHhX+daiS20RpGQv3gzWejFzOQ8uPmV+eb2V84uxZb9P/DNXl1tPOIqREbT/0AvaKd6AnO+tmie/f4slIRC8RTXCkGyMOMsW2UGZnzQi5a3Sxi0c8Y=;rL8+dxF5NrCwagd6KlU4Ag=="
 ---
 

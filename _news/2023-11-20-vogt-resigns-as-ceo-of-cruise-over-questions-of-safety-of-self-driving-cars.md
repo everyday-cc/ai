@@ -55,13 +55,27 @@ related:
         isCached: true
   - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
     excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
-    publishedDateTime: 2023-11-20T09:44:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/vogt-resigns-as-ceo-of-cruise-following-safety-18503084.php"
+    publishedDateTime: 2023-11-20T05:04:00Z
+    webUrl: "https://www.bostonglobe.com/2023/11/20/business/vogt-resigns-ceo-cruise-following-safety-questions-recalls-self-driving-vehicles/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 0
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 14
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Kppzcmm788btNPz0ZGvSRGJGP0c=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XEOENH2MWXH7ZM5VLLKUF7YAFE.jpg"
+        width: 506
+        height: 338
+        isCached: true
+  - title: "Self-driving car venture Cruise chief resigns after uproar over accident"
+    excerpt: "The co-founder and chief executive of General Motors-owned Cruise has resigned, weeks after the self-driving car company paused driverless operations and California regulators barred its vehicles from the state’s streets. Cruise said on Sunday that its ..."
+    publishedDateTime: 2023-11-20T00:00:00Z
+    webUrl: "https://www.ft.com/content/0a68a82f-b5fb-4acb-a915-96cbc70bf8d7"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 3
 
 secured: "gjqP0AxGzNfqxeJIPCTvNFy/84zLs67S/iGRodL1hFMp4bgYvDhND4hSSm6UgejhB083nPW774mcgRC+MYL3lHqa8Zhlq7cLuoBDGlxUgqhEzYYKoOhQEd2UQLsQGVXjIzKvFH5gpo2xJlhkMt8/5O3Qh5Toykfv5Oqd21QEcOGgD1drMWylpgBPDlnDj+dxWYL93bokNOcybZCoC5EN2UV6JIEsl5VemrogaBMyM9WCFqOcZCdRPjgK9eyMeDf8CaGQZT3i/jzM9i8rlsHWo+1jgPfUfaWeJr+iKTNeY5GO5EJmBCHf8LUlO6Rsvz0ASQ9P3fIbt3GXj0xI21kkM/qiyURJ9mTX+tWjFSg8dfL7rOUcoGlJHo8x35KHW4tKHLZOexa7VsDELlwr/+rjveR3WIf9f/BVoSXb5uyXaUQjoiLvk2tcNy221LkKOGBP5epICUMYtWokDgGBY+z17Nq1GkzG27/yjTj/bvqZ4sjaNKI3x7jKDxHZuN9p+cEmK0Ha2ad4VHobwuemKL1foQ==;q4yrl7kLOBY+YrHVFMLnNw=="
 ---

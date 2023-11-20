@@ -54,6 +54,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 72
+  - title: "Microsoft India exec talks about startup support, says AI will core to India's digital empowerment"
+    excerpt: "India's startup landscape surged from 5,000 in 2016 to over 99,000 now. Sangeeta Bavi of Microsoft India, in a conversation with CNBCTV18, attributed this growth to technology's pivotal role in fostering innovation."
+    publishedDateTime: 2023-11-20T12:15:00Z
+    webUrl: "https://www.cnbctv18.com/technology/microsoft-india-exec-talks-about-startup-support-says-ai-will-core-to-indias-digital-empowerment-18367071.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/microsoft-india-exec-talks-about-startup-support-says-ai-will-core-to-indias-digital-empowerment-18367071.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/microsoft-india-exec-talks-about-startup-support-says-ai-will-core-to-indias-digital-empowerment-18367071.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 60
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/02/Microsoft-Source-Reuters.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Azure VMs with AMD MI300 GPU Accelerators at Microsoft Conference"
     excerpt: "Today at Microsoft Ignite, AMD (NASDAQ: AMD) and Microsoft featured AMD products, including the upcoming Instinct MI300X GPU accelerator, EPYC and Ryzen CPUs with AI engines. Microsoft’s new Azure ND MI300x v5 Virtual Machine (VM)"
     publishedDateTime: 2023-11-16T02:50:00Z

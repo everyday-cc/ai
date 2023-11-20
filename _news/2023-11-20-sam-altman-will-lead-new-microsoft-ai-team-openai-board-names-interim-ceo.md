@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The biggest AI announcements from Microsoft Ignite 2023"
+    excerpt: "Microsoft announced a slew of AI updates at the Microsoft Ignite event a few days ago. Here is a look at the most important announcements that will shape Microsoft's future for the years to come."
+    publishedDateTime: 2023-11-20T12:05:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/the-biggest-ai-announcements-from-microsoft-ignite-2023-11775021.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/the-biggest-ai-announcements-from-microsoft-ignite-2023-11775021.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/the-biggest-ai-announcements-from-microsoft-ignite-2023-11775021.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Microsoft-Copilot.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The OpenAI Drama: Sam Altman’s Shocking Ouster, Board Resignation And The Struggle For AI’s Future"
     excerpt: "In the tumultuous world of artificial intelligence, OpenAI, a pioneering force in generative AI, finds itself at a crossroads."
     publishedDateTime: 2023-11-20T02:20:00Z
@@ -122,15 +138,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 66
-  - title: "Microsoft is finally making custom chips — and they’re all about AI"
-    excerpt: "The new Azure Maia AI chip and Azure Cobalt CPU are both built in-house at Microsoft, combined with a deep overhaul of its entire cloud server stack to optimize performance, power, and cost. “We are rethinking the cloud infrastructure for the era of AI, and literally optimizing every layer of that infrastructure,” says Borkar."
-    publishedDateTime: 2023-11-15T20:00:00Z
-    webUrl: "https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 64
   - title: "Altman Sought Billions For AI Chip Venture Before OpenAI Ouster"
     excerpt: "In the weeks leading up to his shocking ouster from OpenAI, Sam Altman was actively working to raise billions from some of the world’s largest investors for a new chip venture, according to people familiar with the matter."
     publishedDateTime: 2023-11-19T17:37:00Z
@@ -149,6 +156,20 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 61
+  - title: "Wall Street Breakfast Podcast: Sam Altman To Lead Microsoft's New AI Team"
+    excerpt: "Ousted OpenAI CEO Sam Altman joins Microsoft. Cruise CEO Kyle Vogt resigns less than a month after pausing driverless operations. Nokia expands partnership with Globe Telecom."
+    publishedDateTime: 2023-11-20T10:46:00Z
+    webUrl: "https://seekingalpha.com/article/4653087-wall-street-breakfast-podcast-sam-altman-to-lead-microsofts-new-ai-team"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 55
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1778705436/image_1778705436.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1076
+        isCached: true
   - title: "Microsoft can survive without OpenAI: Nadella"
     excerpt: "The Microsoft boss says his company can easily carry on in AI if the multi-billion-dollar relationship with OpenAI ends as pushes to bring back the ousted Sam Altman."
     publishedDateTime: 2023-11-20T04:59:00Z
@@ -176,6 +197,20 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/canvas/2023/11/19/43679d2f-6cb3-4c31-9f43-6e781d665a86_80405063.jpg?itok=pE9feADO&v=1700400807"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Sam Altman lands new gig as CEO of Microsoft AI after shock axing from OpenAI"
+    excerpt: "Writing on LinkedIn, Microsoft CEO Satya Nadela revealed both Altman and Brockman would join the Windows maker. They will create a new division focused on advanced AI research and while he didn’t say this would directly compete with OpenAI, it is likely to work on similar ideas."
+    publishedDateTime: 2023-11-20T11:03:00Z
+    webUrl: "https://www.tomsguide.com/news/sam-altman-lands-new-gig-as-ceo-of-microsoft-ai-after-shock-axing-from-openai"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 51
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/jF8ztHCbSVeXyHbgFJDFB5-1200-80.jpg"
+        width: 1200
+        height: 841
         isCached: true
   - title: "Microsoft to Bring Cohere’s Enterprise AI Models on Azure AI Service"
     excerpt: "Cohere has announced that its flagship enterprise AI model, Command, will now be accessible through the Microsoft Azure AI Model Catalog and Marketplace as a managed service for the first time. The partnership brings Cohere’s English and multilingual capabilities to Microsoft Azure, enabling global use across various languages and regions."
@@ -255,6 +290,6 @@ related:
       domain: sinchew.com.my
     quality: 25
 
-secured: "Ojr3PTudm6xYsYRR7FZ5w6gCl8b+XRBVGQidvYLWO80nJdqSbsI0uJaPauWFZSxxB0YRF0HgHC38K1YcemKMCYAYAlIDGnrTbYhxanXVb1pS90A/693duMQ+FGDEEFJ+XOfaXflm3K2ltQd3BuK8mZRnsEQrSvt59FXlEfXaAA0JAwMhZXgnZx1yDkVuQ9mBleQRbqCGFSZvOKdaoM7GafMe9cTvXqAQr5GobCmAPBSm0/AYCTNrJrszypgviOSsFBnjU/erX7BhOrHQVE1cyYUHqs9j26pY799POO0EOCn2/CRp8f4DxDBCi98HLJ5fjFYw8/8N5N03dj3Yg5hsyi0DYspVoFajBXaF7u2jHPc=;943JFapZoa1PYhhcY16RRg=="
+secured: "8747IhM7+RMAFUthc2atjYqCSvzJWvnaeadHF+MPeQPcpE9fGf7XKunEw0EbdNvYtas/9yIP3xKrRC6WqWmNLAR7PuhTV+3u/ffkqRQZJ6jRmN+swh3ICsv8ODTdpy0NlWSt7X652IZOdvU6y9jKaQs6Rnye83ietQO002X1g4RtvgCpjwZLz4bLOsgvLB92zO7cHDJ6o9A+dGaXlQxd4+r74gF0ndeCaiknV9OTcAxNWg08Ep81CY/uXwDZvcigJR8iWvxp9g1yq50KjLTOtpISMPlnEz5O8Uf9rOpzSZAWeC/aNXdPrR8ffbOzTRkoTd5UaaolCGgM2o8sL6rus25bnpIvT16yqSw7Aaa8PZ5/qWlJT55xzh0lHgXyW8PTmjZrZVy0C9FjGMubQwcdU4UN8VdpkAnyjwfu6HszTZkbWn0VoWXgRI4sYtZ2IqRhGehTFf7usN5fSh+bfvgzqK6KegY6qobBYTaBcdH18yKSiP9BtzwYKf+1oZ9WgRuQfgLbWE2iepypPxXlaD9V5Q==;IQ+4j4O1Nhl6Yy2fzkIsXQ=="
 ---
 

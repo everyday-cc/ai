@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Riding The AI Wave And Investing In StarUps"
-    excerpt: "AI startups have attracted billions in institutional funding ... deal flow in the Artificial Intelligence space and interest in investing in some of the 2021 startup darlings that now trade at significantly discounted valuations.” For investors who ..."
-    publishedDateTime: 2023-11-19T19:27:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/11/19/riding-the-ai-wave-and-investing-in-starups/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Top 10 Free AI Courses to Level Up Your Tech Skills in 2023"
     excerpt: "Boost your career prospects in AI with these top 10 free online courses. Learn fundamental concepts, machine learning, ethics, and more."
     publishedDateTime: 2023-11-17T09:52:00Z

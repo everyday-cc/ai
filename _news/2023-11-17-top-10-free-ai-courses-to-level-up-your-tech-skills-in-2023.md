@@ -28,15 +28,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 47
-  - title: "Riding The AI Wave And Investing In StarUps"
-    excerpt: "AI startups have attracted billions in institutional funding ... deal flow in the Artificial Intelligence space and interest in investing in some of the 2021 startup darlings that now trade at significantly discounted valuations.” For investors who ..."
-    publishedDateTime: 2023-11-19T19:27:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/11/19/riding-the-ai-wave-and-investing-in-starups/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "IBM Will Dedicate $500 Million to Invest in Generative AI Focused Start-Ups"
     excerpt: "IBM announced this month that it is launching a $500 million fund, named Enterprise AI Venture Fund, to invest in generative AI start-ups, regardless of their size, whether they are in early-stage or hyper-growth. IBM is the latest tech giant to jump into the AI investing race."
     publishedDateTime: 2023-11-17T06:13:00Z

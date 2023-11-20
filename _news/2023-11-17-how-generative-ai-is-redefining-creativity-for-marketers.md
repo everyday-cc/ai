@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Meta Wants to Build Generative AI But Not Responsibly"
+    excerpt: "Meta has done a little reshuffle, relocating their Responsible AI team to join the generative AI crew."
+    publishedDateTime: 2023-11-20T11:50:00Z
+    webUrl: "https://analyticsindiamag.com/meta-wants-to-build-generative-ai-but-not-responsibly/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/11/Meta_AIM.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "US patients believe generative AI can improve healthcare access, affordability, survey finds"
     excerpt: "More than half (53%) of U.S. consumers believe generative AI could improve access issues and shorten wait times for medical care, according to a survey by Deloitte's Center for Health Solutions. A little less than half of consumers (46%) say it has the potential to make healthcare more affordable."
     publishedDateTime: 2023-11-17T20:05:00Z
