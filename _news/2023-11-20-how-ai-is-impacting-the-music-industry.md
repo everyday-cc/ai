@@ -24,34 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence makes its way into the music and film industries"
-    excerpt: "This year, artificial intelligence (AI) has taken the internet by storm and is now infiltrating the music and film industries. The sensational technology began with picture generators such as DALL-E mini."
-    publishedDateTime: 2023-11-19T21:07:00Z
-    webUrl: "https://sbstatesman.com/122531/arts/artificial-intelligence-makes-its-way-into-the-music-and-film-industries/"
+  - title: "The Artificial Intelligence Glossary"
+    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals ..."
+    publishedDateTime: 2023-11-16T23:29:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/11/15/the-artificial-intelligence-glossary/"
     type: article
     provider:
-      name: The Statesman
-      domain: sbstatesman.com
-    quality: 38
+      name: Law
+      domain: law.com
+    quality: 39
     images:
-      - url: "https://sbstatesman.com/wp-content/uploads/2023/11/AI-In-music-and-film.png"
-        width: 2001
-        height: 1001
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "How is AI impacting the music industry?"
-    excerpt: "AI covers have taken over our social media feeds. How will this trend, and the use of musicians' voices, impact the music industry?"
-    publishedDateTime: 2023-11-20T02:01:00Z
-    webUrl: "https://www.thepostathens.com/article/2023/11/how-is-ai-impacting-the-music-industry"
+  - title: "The ethics of AI photography"
+    excerpt: "Australian Geographic's photo editor Nicky Catley explores the whys and wherefores of the relatively new world of artificial intelligence–generated imagery."
+    publishedDateTime: 2023-11-20T01:18:00Z
+    webUrl: "https://www.australiangeographic.com.au/topics/opinion-and-analysis/2023/11/the-ethics-of-ai-photography/"
     type: article
     provider:
-      name: The Post
-      domain: thepostathens.com
-    quality: 37
-    images:
-      - url: "https://snworksceo.imgix.net/ohi/46d06f70-b794-4f33-92d0-a5f49f020eff.sized-1000x1000.png?w=800&h=600"
-        width: 776
-        height: 600
-        isCached: true
+      name: Australian Geographic
+      domain: australiangeographic.com.au
+    quality: 34
 
 secured: "5DRFVbnqtw8mFbSiHEVuWJRVwsS/h+IPsq+xVVq9SNzMH8wghTMrfQfMcHzpwc0AC9jcB1XzTZSOITdhTPPMzxQMpI6Ld2KBqBGjVCjUxIbVL1yN7aIt8GlkRT4O+bb6eht4VlFvPZ7ARz98rx2tEv+ikUeZY09TM9KqKXmXINmomiUe9rgEzkCNy6uI5CASxdFH8ONGD3QrYTlFe+2FYoBGCKAfe+274vBP0HN2/65Zyu70JAl7l31jUmAE3WsT7elqwY8bJKAujIaXJ0knitNgDeRqJBkqpLj35Ccl/Hmw38rA26EhyaiYiz3Ba5rNwYhB7hj/azUAqaEamIjtj/cLXzKz3ZbsbF1FN+bLHmA=;+Aa3uvxPk3lquDRDshoVlQ=="
 ---

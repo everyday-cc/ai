@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-20T19:03:00Z
 originalUrl: "https://www.dailypioneer.com/2023/columnists/is-artificial-intelligence-taking-over-the-control-.html"
 webUrl: "https://www.dailypioneer.com/2023/columnists/is-artificial-intelligence-taking-over-the-control-.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Pioneer

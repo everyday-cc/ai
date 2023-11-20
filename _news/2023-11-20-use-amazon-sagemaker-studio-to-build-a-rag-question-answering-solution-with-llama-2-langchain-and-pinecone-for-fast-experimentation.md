@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-20T20:58:17Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-studio-to-build-a-rag-question-answering-solution-with-llama-2-langchain-and-pinecone-for-fast-experimentation/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-studio-to-build-a-rag-question-answering-solution-with-llama-2-langchain-and-pinecone-for-fast-experimentation/"
 type: article
+quality: 53
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -18,6 +21,31 @@ provider:
 topics:
   - AI
   - AWS AI
+
+related:
+  - title: "Retrieval-Augmented Generation with LangChain, Amazon SageMaker JumpStart, and MongoDB Atlas semantic search"
+    excerpt: "Generative AI models have the potential to revolutionize enterprise operations, but businesses must carefully consider how to harness their power while overcoming challenges such as safeguarding data and ensuring the quality of AI-generated content. The Retrieval-Augmented Generation (RAG) framework"
+    publishedDateTime: 2023-11-17T16:25:16Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/retrieval-augmented-generation-with-langchain-amazon-sagemaker-jumpstart-and-mongodb-atlas-semantic-search/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/02/ML-15033_image002.jpg"
+        width: 469
+        height: 253
+        isCached: true
+  - title: "KT’s journey to reduce training time for a vision transformers model using Amazon SageMaker"
+    excerpt: "KT Corporation is one of the largest telecommunications providers in South Korea, offering a wide range of services including fixed-line telephone, mobile communication, and internet, and AI services. KT’s AI Food Tag is an AI-based dietary management solution that identifies the type and nutritional"
+    publishedDateTime: 2023-11-20T20:46:18Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/kts-journey-to-reduce-training-time-for-a-vision-transformers-model-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
 
 secured: "6M2QoeOqob3YzhuEp8ghgbhx5f3vVRiEtwVhAfyRz4ASxIQiDLbTOA8dtNcfwKn+s7h83Ujvpee38A6uHl6V9m0MZaGCcLB9/yBTs/Fg51eEtDCNWJqY5NUfg1rVGJ/kVCXplGUiTse2bZV1/usEivQHL/Hch2EKc/Sr3+yJoJpkaOE6HPgUJHXS42pj0WNaUwG901rXK+9xcUk9UQTgDYcGxQ10TElxjzW5g0lV5vvzkoWbMqVxHEIzFtKRTd7UUNOHpiPqzhf8YVmv3Iz7h4J03KIcAbG+VktFixDUCNCryg4p+zEkCxyJKXqRwrk62tshvKI3t5aAzMsYyE6oLdzaky/ITqhh5zZvn5P4aGc=;i+/f1wgSce2Fb1PI5SXTLA=="
 ---

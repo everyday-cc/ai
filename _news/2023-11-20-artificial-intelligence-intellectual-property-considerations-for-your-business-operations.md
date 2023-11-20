@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-20T00:00:00Z
 originalUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-intellectual-6821463/"
 webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-intellectual-6821463/"
 type: article
-quality: 27
-heat: 27
+quality: 29
+heat: 29
 published: false
 
 provider:

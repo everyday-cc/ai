@@ -40,6 +40,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
+    excerpt: "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models."
+    publishedDateTime: 2023-11-20T21:18:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 77
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-11/231119-sam-altman-jm-1614-859c3a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "The OpenAI fiasco shows why we must regulate artificial intelligence"
     excerpt: "If AI goes right, it could cure cancer and climate change and a host of similar problems, ushering in a futuristic utopia. If we get it wrong, many believe it could be an existential catastrophe"
     publishedDateTime: 2023-11-19T23:47:00Z
@@ -56,6 +72,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "The Shake-up at OpenAI Reshapes the Industry’s Global Order"
+    excerpt: "Big Tech is reeling from the ouster of Sam Altman at a leading A.I. start-up and his subsequent jump to Microsoft, moves that reset the power dynamic underpinning the sector."
+    publishedDateTime: 2023-11-20T13:27:00Z
+    webUrl: "https://www.nytimes.com/2023/11/20/business/dealbook/sam-altman-openai-microsoft-google-ai.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 69
+    images:
+      - url: "https://static01.nyt.com/images/2023/11/20/multimedia/20db-altman-zbgq/20db-altman-zbgq-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "OpenAI’s crisis will sow the seeds of the next generation of AI startups"
     excerpt: "OpenAI’s meltdown is likely to become the latest installment in what’s becoming a Silicon Valley tradition. It's hard to know how this will end."
     publishedDateTime: 2023-11-20T18:42:00Z
@@ -70,15 +100,24 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Shake-up at OpenAI Reshapes the Industry’s Global Order"
-    excerpt: "Big Tech is reeling from the ouster of Sam Altman at a leading A.I. start-up and his subsequent jump to Microsoft, moves that reset the power dynamic underpinning the sector."
-    publishedDateTime: 2023-11-20T13:27:00Z
-    webUrl: "https://www.nytimes.com/2023/11/20/business/dealbook/sam-altman-openai-microsoft-google-ai.html"
+  - title: "OpenAI’s New CEO Likes Tweeting About Sex And Using AI To Write Pickup Lines"
+    excerpt: "Incoming exec Emmett Shear has regularly tweeted about sexual dynamics between men and women and the controversial pick-up artistry manual The Game."
+    publishedDateTime: 2023-11-20T20:50:00Z
+    webUrl: "https://www.forbes.com/sites/sarahemerson/2023/11/20/openai-ceo-emmett-shear-tweets-sex-dating-pickup-lines/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
+      name: Forbes
+      domain: forbes.com
+    quality: 44
+  - title: "OpenAI chaos explained: What it could mean for the future of artificial intelligence"
+    excerpt: "The firing of CEO Sam Altman, the threat of employee exodus, and more. OpenAI chaos explained: What it could mean for the future of artificial intelligence."
+    publishedDateTime: 2023-11-20T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/sam-altman-fired-openai-microsoft/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 25
 
 secured: "mgYZmdiC6VV2eL/Q8/Pn8mVgsU+GOUmDnpSYEqDmBMBASnbjCc5gC6mqErZh4uL6AhJUuQYSS2YC9Uj4mJUOjUGw3OtesJEc9kdfZ+QtY0AdUEywe23vURIuDMPtCuSYyFA9wi8NIl9A+0s6H8utHnG04YDudynci2E/2pGwgAIbW3G1/1MmDkWusjccZvgcVejEYQG83DzA0b8shckTXU4aa/VVDEQ9w8lAAtRJZaIi9MgHa6IbvAo8y8JbCmil2QfDcov5HfW3S+5hidh+GHfxhvABRBDTn+BtY9UhySPohX+9uBVfHX30rPgC5rvtn8aUo8jLh5+bGaxpndVO3DxzDRTA4MLSDJtuokghjpsTvgqbJkV4Np0hgTqimMiEwYnu9SLtgEDJ1fJ+AGmKN10IsafIrNu1mnCohHD1HLfcCQmySTv86cLnMorkeEr/65V2RaXypUMsEU+VB90NBV5eR1IqL55k/11AufIwizSFLm2EhUjGe5YUMV3NeL8eq0lHgewgEkLNHM49gfuz5A==;W50lVIwpnekyFmYAkJqOqA=="
 ---

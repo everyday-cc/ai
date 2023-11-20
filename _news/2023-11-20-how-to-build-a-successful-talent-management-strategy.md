@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/talent-management-strategy/"
 webUrl: "https://www.ibm.com/blog/talent-management-strategy/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 2400
     height: 1260
     isCached: true
+
+related:
+  - title: "IBM Named a Leader in 2023 Gartner® Magic Quadrant™ for Access Management"
+    excerpt: "IBM Security Verify is an ideal partner for companies looking to simplify the foundation of their identity management strategy.\nThe post IBM Named a Leader in 2023 Gartner® Magic Quadrant™ for Access Management appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-20T16:00:00Z
+    webUrl: "https://www.ibm.com/blog/ibm-named-a-leader-in-2023-gartner-magic-quadrant-for-access-management/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 81
 
 secured: "okdSr7pmO61R/436DONMKsDdqQ832hIzsGJR2LXNtUEr0QVCN2HEV8rA/ZM/JupoCEvFWiPJ/k+XJFcd0PpkvZEastIxEHYi8l9lfD139b5pQsRQjHBhxEOLDnMb2CYlLK+zl+32KgozsvCyCfuSGFAEQO+bjxNCsnybFqR8TZfcRjOV7F2uANytpsrKCRsmNQCHKJVcTG02ozfMOd0+KC7L7BoQFo3Buarm2zNXMgoNzd3GK+3pjuBgsVuagrFhFFurdtaZp0kO65TDnKwCUWJ5liDFt/Il1ifrIhtGHly7N07n7oiMFkpHLAYwJ2HFVAdeKIE+rqKA33z2wFqCsnvrmasD+l0zQ1wtEYyd+qA=;wzp43V177we+IBM5Um178A=="
 ---

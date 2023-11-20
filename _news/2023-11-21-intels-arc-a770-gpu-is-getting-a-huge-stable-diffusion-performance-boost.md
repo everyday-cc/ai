@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-20T18:20:00Z
 originalUrl: "https://hothardware.com/news/intels-arc-a770-gpu-is-getting-a-huge-stable-diffusion"
 webUrl: "https://hothardware.com/news/intels-arc-a770-gpu-is-getting-a-huge-stable-diffusion"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: HotHardware

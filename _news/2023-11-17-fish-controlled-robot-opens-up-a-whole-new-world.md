@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-17T00:00:00Z
 originalUrl: "https://mashable.com/article/fish-controlled-robot"
 webUrl: "https://mashable.com/article/fish-controlled-robot"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Mashable

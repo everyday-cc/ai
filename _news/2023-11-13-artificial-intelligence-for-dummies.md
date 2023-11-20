@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial intelligence for dummies"
-excerpt: "Musk, never at a loss for words, opined that AI is an “existential threat” because human beings for the first time are faced with something “that is going to be far more intelligent than us.” It was a jamboree of the trite and the portentous."
-publishedDateTime: 2023-11-13T14:18:00Z
-originalUrl: "https://www.bangordailynews.com/2023/11/13/opinion/opinion-contributor/artificial-intelligence-dummies/"
-webUrl: "https://www.bangordailynews.com/2023/11/13/opinion/opinion-contributor/artificial-intelligence-dummies/"
+excerpt: "There has been great progress in narrow forms of artificial intelligence, like self-driving vehicles and automated legal systems, but the only threat they pose, if any, is to jobs. The “large ..."
+publishedDateTime: 2023-11-12T23:59:00Z
+originalUrl: "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/"
+webUrl: "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "8TDDeuctBDS2EgD1qizY4kTib6XPvdlsRQp+xCVXNcjacGgKX6jVatnHKOltzxGkJpq1VH6t+RGUUXvn78W4ASibrrbZNtQZmhBlHeZf5e2/rwkYKtimdhDocdUD3RFu6NXjE2HFwaOZpxtcumXvySTyZx+pgPPnHBWYXud+dX8WIIFiCLbcRhm7GPmSje6cJD0cWl3eEntSxA9lUxId8En2IIIQS3Qbw5yjay3SlNktQAUKXyXA+G2AFkjHIazgmF/x5imFRFZhAxFWpLRV9sDp1VtVGaMekm/CleYQsZvNS08qyGyukX7ZLXLQK79SwPYJHmigtQveqJK1/KWKwgpzTEqF7/Uq0pvFW5jRKrHYrQxLEIUFxbmCecia9lWS/Lg1+CU/hvROVj0X6Aqj6GLuZ8S92W4H8Kllq5bOFuSBzF8TRZU6wgaBFlOcatTNQh03pXxiK0yqVyLguXqAzGP93ZwPN/kmMkwFsSmIi/NRR/nLgCTxnWod5JnlaSJQzegFHQTP5VvWaCU1vA1RtA==;UqRoC5bUZ+nzht0Ydb4lKg=="
+images:
+  - url: "https://bdn-data.s3.amazonaws.com/uploads/2023/11/Britain-AI-Summit.jpeg"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "4A1WaANwyOa358PnaDlhAv01VP5AmbjzI3fjYe7B3f0zsPj9OiYBaGKUVAQM2CCPJeRDMbjSmDZG0Ty5gcLgFNYbVWJntdt5y8HMqptqb5WGO/1lpTljGEDAtTlrUDOJChQO4Dj0+Bqjn9s7FnfNqww9Y4KkkDsqG9nnnej8NjrQOcL1eG73melP8m3EfefIL9H/WBlwxb+WzrmQw6agBAy8COV2HBVi0zExjnREA9013UE0gkswddT/fCRleb++wsAC98amHu5d98FAv0W9XJupuDd+Q9E2YB9Mlka9YyCSw4oYXQav2jeEbLd9PPASFSpTwlcZNeCOKpoMDXHz9U8tr/nVwWbLKmNoZuzTlps=;iPN/+Xvp3BGlqLSdDF5EuA=="
 ---
 

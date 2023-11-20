@@ -1,20 +1,28 @@
 ---
 category: news
 title: "SolarWinds Showcases Latest Observability Enhancements At AWS re:Invent 2023"
-excerpt: "SolarWinds (NYSE:SWI), a leading provider of simple, powerful, secure observability and IT management software, will unveil the latest enhancements to its Software-as-a-Solution (SaaS)-delivered SolarWinds ® Observability solution at the upcoming AWS re:Invent 2023 event."
-publishedDateTime: 2023-11-13T11:32:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/solarwinds-showcases-latest-observability-enhancements-at-aws-re-invent-2023/article_5d3d8747-a302-5344-9d88-2323582f4035.html"
-webUrl: "https://www.galvnews.com/news_ap/business/solarwinds-showcases-latest-observability-enhancements-at-aws-re-invent-2023/article_5d3d8747-a302-5344-9d88-2323582f4035.html"
+excerpt: "SolarWinds Highlights How SaaS Observability Solution Helps Customers Accelerate Their Cloud Journeys SolarWinds (NYSE:SWI), a leading provider of simple, powerful, secure observability and IT management software,"
+publishedDateTime: 2023-11-13T11:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/11/b35745693/solarwinds-showcases-latest-observability-enhancements-at-aws-re-invent-2023"
+webUrl: "https://www.benzinga.com/pressreleases/23/11/b35745693/solarwinds-showcases-latest-observability-enhancements-at-aws-re-invent-2023"
+ampWebUrl: "https://www.benzinga.com/amp/content/35745693"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35745693"
 type: article
 
 provider:
-  name: The Daily News
-  domain: galvnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "Q4lEnfhqY50msUH5YZaOGj9ZXKqsZC1/0jQZ3JbF9RxNNIloyodLMv8XFXmaCi4wMVQcGfdg3ubqUQRMe4alAQ6BUTTzGOBQNJ9R1KhUKlgl/tS4f/QrMdx20BCUU5CfZiVLeeh2s74FrGluYLDNHbVyUEkYlkiEUgibZMO3KWvLlwK9LUR61XpTtaCDj5fxEW3q6LQLsQxU4qYsBPfxqu90nO7jkY4YVZy9I4VJBJ6zFrXFVSLLBgLntcQjyKm8LyXIxuVVlZuxVkUVVmBZCQp20p3j0wSRshAS4PjCuk2KzZfGgLzqdRGEz1IRHtF2ZHFjoce6tAAr/x4A/KSmnDGOWXzuXGZCF5DdXcVb/h8=;9/IoQJzcRdn51z0/RFmMyw=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "vdxyEwWtq31oqYRu1ZNWVMTF3oqncfWDS2f1mQfAUV/F5gWGTR0GGuKYBzKKb/6Al30y0lzZIfYJF43fZXBjwIBxhfEPv8JBH8TwPRZ7zUxtjcOmq1UTDyxKbW48yk22b8hOCdkYDml4GrO/GD045/OZlU/TDT9wyfrM35GI2xI0kvnUl72JHMwCizb2TzRCcMqpKz+Ki3y6eyIlV+Ob8ChlfhNfouaUPVA2OVftJmvgWGZM3qx4cAqfxjUxy8oGeOXXitqNQYqRJHW81QEHVEEsAFaISFcoExgQizuTFmZk7AbzMPDzs6D2s4Di+q0eIVeHLc2pmLFTHg4JKVfMWUdm146kWVHYxo0dqUGp1a8=;7wyBCebAYwbnIDpV4H158g=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/revealing-the-future-how-blockchain-techno
 webUrl: "https://techbullion.com/revealing-the-future-how-blockchain-technology-is-transforming-the-fintech-industry-2/"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,33 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Uncovering 4 Leading AI Blockchain Projects To Watch In 2024"
+    excerpt: "Among them, there are four AI blockchain projects that often find themselves ranked among the top 10 AI and big data tokens. These projects are redefining AI within the blockchain space, and have gone through major updates that make them the AI crypto projects to watch in 2024."
+    publishedDateTime: 2023-11-20T22:53:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/11/20/uncovering-4-leading-ai-blockchain-projects-to-watch-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/11/20/uncovering-4-leading-ai-blockchain-projects-to-watch-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/11/20/uncovering-4-leading-ai-blockchain-projects-to-watch-in-2024/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655b9ef10d3005d977df8404/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
+        isCached: true
+  - title: "Top 5 Artificial Intelligence Start-ups to Watch in 2023"
+    excerpt: "so it shouldn't come as a surprise that artificial intelligence (AI) start-ups are also popping up on investors' radars. With the launch of ChatGPT in November 2022, the potential for AI has ..."
+    publishedDateTime: 2023-11-16T11:04:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-startups/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 47
 
 secured: "yymoCxsLbz/Xpo9Rio7Kol363sUtYhbr2wk8BtabDivcEdBo6WehRgCbDi2qKQ/Ei4Tl/ExlhLei1yHgLXnsLFhxtfTrMcKdku/agTlSJM/TAH+elt7uN+7GHtc4PRk5oXS01JeMZvZV1gH2h6/4dBxYwFyrFiDBmw4mxv/r//Z0uOJz8K7ufHCWQBJDIUiQ8bXlgePCYo59JkgjpT6SS8xr7fldfFfV174aqcTcfOoSWeKxGR3qVwufVSP7K5f4ey/haXmMbuDzcbDUKPOfk4y3i0rF7ItzbMBbT8z8xeB4qg1qIuTCK4xb2BR0vWlgxhL7wJQSZlRz1yC8YAFnEcpEFeB8v8P9NPxOzZbSwjYiJ5wycB5CUk8sfegKCtlQF+vXJ8Q57abdtuAfWpMOPdlf4iyJHyr50Q5vfC+bmuT0em0jvm+rhl+0Y0DFDiWGWU+EVlJeUWvvJUvrElKBa4xd28vfaIrEieRHW8N4ndbRhh240kfqfz8adviiqABc+XHDIDALpC6JJxZu25Jblw==;+u724/KvLWrd0U/ksJAIhA=="
 ---

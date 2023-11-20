@@ -57,6 +57,22 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
+    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors ’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
+    publishedDateTime: 2023-11-20T04:47:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 34
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_6e53ea823e1ecc037ec9b282e8e16c2f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Cruise CEO resigns following troubles with self-driving cars"
     excerpt: "The founder and CEO of autonomous vehicle company Cruise, which is owned by General Motors, announced on X that he is resigning. Kyle Vogt founded the company in 2013 and also served as its president and chief technology officer."
     publishedDateTime: 2023-11-20T17:40:00Z
@@ -91,15 +107,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 3
-  - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
-    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
-    publishedDateTime: 2023-11-20T09:44:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/vogt-resigns-as-ceo-of-cruise-following-safety-18503084.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 0
 
 secured: "6pMnYdx4CUoaB6t+hrOaeIForG/JWaTY2f7khBw/MDZn4gRJXZByF2F4/o6+OUpWOR77jhPfQRpmCffV7ZDTxccbDsVupnl1+v7sGNOVQSGExVOJ9vZ6WpIFEJxwm3klkPO4oUBwqV6sxzGSKmeWoMCeHp27gz03UHTyBjiBPKlSU8NRU8iKpJT66yJPmGmwWQdPwnMDLo/RY5zV9BOAEICbuXeayOGSmvcpmqm08Ez32i6GSY3y4j+3NJGoF0tF2rEwr14o3JGKXWySJ4kWd78FlPMesrYHRM6GbRpqXyRW+Er7lOmQla7IzVMTANHrWnZdCNrStmJWKNRBiGT7eZsU6cudNfhrhI6tSiQus68=;AIjLyibJ6l9P5PmHHUgOrQ=="
 ---

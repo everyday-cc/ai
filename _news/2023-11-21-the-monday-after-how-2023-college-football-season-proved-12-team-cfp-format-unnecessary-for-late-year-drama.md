@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-20T17:29:00Z
 originalUrl: "https://www.cbssports.com/college-football/news/the-monday-after-how-2023-college-football-season-proved-12-team-cfp-format-unnecessary-for-late-year-drama/"
 webUrl: "https://www.cbssports.com/college-football/news/the-monday-after-how-2023-college-football-season-proved-12-team-cfp-format-unnecessary-for-late-year-drama/"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: CBSSports.com
@@ -14,6 +17,19 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "The Monday After: How 2023 college football season proved 12-team CFP format not necessary for drama"
+    excerpt: "The only conference that could shake things up is the Big 12. We don't even know who will play for their conference title yet, but if it somehow ends with Texas not being league champion, the Longhorns would still have an excellent case for an at-large at 10-2 with a 10-point road win over an Alabama team that's also in the playoff."
+    publishedDateTime: 2023-11-20T17:37:00Z
+    webUrl: "https://www.cbssports.com/college-football/news/the-monday-after-how-2023-college-football-season-proved-12-team-cfp-format-not-necessary-for-drama/"
+    ampWebUrl: "https://www.cbssports.com/college-football/news/the-monday-after-how-2023-college-football-season-proved-12-team-cfp-format-unnecessary-for-late-year-drama/amp/"
+    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/college-football/news/the-monday-after-how-2023-college-football-season-proved-12-team-cfp-format-unnecessary-for-late-year-drama/amp/"
+    type: article
+    provider:
+      name: CBSSports.com
+      domain: cbssports.com
+    quality: 9
 
 secured: "f9H6IlY7k79VVgufSx2GtHVmhvGpU3gxnRIbAwp23ebSRNff73biI03WXCKP56PgIYFWq1zVlSF+mGOk0gwdTXf5P+FNhKyGZ6hcOBfeVqQvTA+IBeGG+0U80Cr2yyEQrjtt76D5dMJzT+FSVFY8KxN6Jn+6+Qr3FW5NEx1ajr3h6c3DznZZXqGn9i1KJMRgbd3bl4unHl5DeCDzRqSLvCYi6JWGjwO4QIcNml4rATlycwXq3JXtTcWcrsJk0CQ4S7aNiOx+X6Y8zXoUpcEyTWHFpB7t8LBnz2cSB2POFaUExT8Pa3PSNlmpekCa2M/Zvf8naldXwul9WMyRMq2o0dYbCx52MWyl5bZKgzh3dvUTHX+ByARF93hoXRaha2+aLSmtHpxk3gxBbi/UW+CJ4Rvof2fK2+DqT/ScPHs4F04mlSoI7MjHqFL3Gq8koey1bAwmW96jLX+n7uLnco8wyVqJJrCqTMhHIycYtS+2Z9nWCvQjOjonlsjIle5P16Gy1GrkUrn1DmPxpj+oG2qZvg==;VfC4IeAK9xJnJffGtkHywg=="
 ---

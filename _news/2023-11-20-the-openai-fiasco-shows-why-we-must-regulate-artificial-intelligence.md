@@ -42,6 +42,36 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
+    excerpt: "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models."
+    publishedDateTime: 2023-11-20T21:18:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 77
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-11/231119-sam-altman-jm-1614-859c3a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "The Shake-up at OpenAI Reshapes the Industry’s Global Order"
+    excerpt: "Big Tech is reeling from the ouster of Sam Altman at a leading A.I. start-up and his subsequent jump to Microsoft, moves that reset the power dynamic underpinning the sector."
+    publishedDateTime: 2023-11-20T13:27:00Z
+    webUrl: "https://www.nytimes.com/2023/11/20/business/dealbook/sam-altman-openai-microsoft-google-ai.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 69
+    images:
+      - url: "https://static01.nyt.com/images/2023/11/20/multimedia/20db-altman-zbgq/20db-altman-zbgq-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "OpenAI’s crisis will sow the seeds of the next generation of AI startups"
     excerpt: "OpenAI’s meltdown is likely to become the latest installment in what’s becoming a Silicon Valley tradition. It's hard to know how this will end."
     publishedDateTime: 2023-11-20T18:42:00Z
@@ -70,15 +100,24 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Shake-up at OpenAI Reshapes the Industry’s Global Order"
-    excerpt: "Big Tech is reeling from the ouster of Sam Altman at a leading A.I. start-up and his subsequent jump to Microsoft, moves that reset the power dynamic underpinning the sector."
-    publishedDateTime: 2023-11-20T13:27:00Z
-    webUrl: "https://www.nytimes.com/2023/11/20/business/dealbook/sam-altman-openai-microsoft-google-ai.html"
+  - title: "OpenAI’s New CEO Likes Tweeting About Sex And Using AI To Write Pickup Lines"
+    excerpt: "Incoming exec Emmett Shear has regularly tweeted about sexual dynamics between men and women and the controversial pick-up artistry manual The Game."
+    publishedDateTime: 2023-11-20T20:50:00Z
+    webUrl: "https://www.forbes.com/sites/sarahemerson/2023/11/20/openai-ceo-emmett-shear-tweets-sex-dating-pickup-lines/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
+      name: Forbes
+      domain: forbes.com
+    quality: 44
+  - title: "OpenAI chaos explained: What it could mean for the future of artificial intelligence"
+    excerpt: "The firing of CEO Sam Altman, the threat of employee exodus, and more. OpenAI chaos explained: What it could mean for the future of artificial intelligence."
+    publishedDateTime: 2023-11-20T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/sam-altman-fired-openai-microsoft/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 25
 
 secured: "rO6vXi+9uRGWk2i6zQbKY/3pRLEfG1HVYYDCUNndahTnZp7LxSxs0a4qZLu6FoSDF1yknu8smU02XsMccEmRn+l4bpHoTEXz44Wx7BS7PILjWg+/kWeY73hvuX8LOopZ74U4tDv9JpDfya8jl5o4ZO7qtzAv01XXEBjpTVS2Ij+FFIK8dj5WlxPWkBRdCBYHAC7znVLPohLFjwtTo4aQUDqfOSnchj/wT35lkxdGoIXEfRczwhzFejXejFYS0Fgy/30B1oDnk9Pk+/+Il8BZIwoKxtotPR2mhWEo5D4ohnzCt6x3dpOZkQatKfZIKzi972m0ASdkMdnNH8V7dWNOkIT0rwAMWbtuVT3UXkxzweo=;q8foXjXvsojiA/p5B4j5bA=="
 ---

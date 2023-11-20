@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-20T19:10:00Z
 originalUrl: "https://www.businessinsider.com/sc/how-twilio-is-embracing-ai-to-personalize-engagement"
 webUrl: "https://www.businessinsider.com/sc/how-twilio-is-embracing-ai-to-personalize-engagement"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Business Insider

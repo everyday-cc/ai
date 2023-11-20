@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-startups/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,24 +22,31 @@ topics:
   - AI
 
 related:
-  - title: "Riding The AI Wave And Investing In StarUps"
-    excerpt: "AI startups have attracted billions in institutional funding ... deal flow in the Artificial Intelligence space and interest in investing in some of the 2021 startup darlings that now trade at significantly discounted valuations.” For investors who ..."
-    publishedDateTime: 2023-11-19T19:27:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/11/19/riding-the-ai-wave-and-investing-in-starups/"
+  - title: "Uncovering 4 Leading AI Blockchain Projects To Watch In 2024"
+    excerpt: "Among them, there are four AI blockchain projects that often find themselves ranked among the top 10 AI and big data tokens. These projects are redefining AI within the blockchain space, and have gone through major updates that make them the AI crypto projects to watch in 2024."
+    publishedDateTime: 2023-11-20T22:53:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/11/20/uncovering-4-leading-ai-blockchain-projects-to-watch-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/11/20/uncovering-4-leading-ai-blockchain-projects-to-watch-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/11/20/uncovering-4-leading-ai-blockchain-projects-to-watch-in-2024/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "Top 10 Free AI Courses to Level Up Your Tech Skills in 2023"
-    excerpt: "Boost your career prospects in AI with these top 10 free online courses. Learn fundamental concepts, machine learning, ethics, and more."
-    publishedDateTime: 2023-11-17T09:52:00Z
-    webUrl: "https://www.techopedia.com/top-10-free-ai-courses"
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655b9ef10d3005d977df8404/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
+        isCached: true
+  - title: "Revealing the Future: How Blockchain Technology is Transforming the Fintech Industry"
+    excerpt: "Introduction Blockchain technology has counted as a breakthrough in the fintech industry. Its decentralized and secure transactions can potentially revolutionize the world of financial operations. Industry experts anticipate that the impact of blockchain in fintech will continue to accelerate in the years to come."
+    publishedDateTime: 2023-11-17T06:53:00Z
+    webUrl: "https://techbullion.com/revealing-the-future-how-blockchain-technology-is-transforming-the-fintech-industry-2/"
     type: article
     provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 19
+      name: Impacts
+      domain: techbullion.com
+    quality: 12
 
 secured: "+UbOrqJ3aq+ewwzY4+HkRh/FDIUP0meNiaBRO6x1rixXTPKdfwrR8vcSlwh7Uw+OlNzvsGZMjYzdzK7I/mC2dhRnq++3bQEkITe9VV/Er2rHU1Wu7SapUfJaBHyJF+FYqf1YjMI9dI3BH7euA8/qToHo8FNX9icu5dkxLdXOJ45pSgpvuK1+hUtLWGINDxCRJTkMD7D57uO805YoPtj7gHfj7E7xR8DQ5OJin3HLjRUfHZ3qCfpG2QLFyGZa02/6T/BaRyLqLgkAmz6ieueMVdyYQpiy55hf/p+IE669b+cE6ELFhEbvZvbROkUj3XO5MzMwdxnNEKpXY+CKws6SyIWoLaTBReZ4nYKdYPEl/uU=;eij0fkbE38NRMW8XxsipCg=="
 ---

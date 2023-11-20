@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-20T20:07:00Z
 originalUrl: "https://www.thehindu.com/news/national/kerala/eloor-municipality-wins-recognition-for-disabled-friendly-initiatives/article67554102.ece"
 webUrl: "https://www.thehindu.com/news/national/kerala/eloor-municipality-wins-recognition-for-disabled-friendly-initiatives/article67554102.ece"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Hindu

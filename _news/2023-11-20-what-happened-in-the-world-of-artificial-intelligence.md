@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-19T19:00:00Z
 originalUrl: "https://www.nytimes.com/2023/11/19/business/media/openai-sam-altman-why.html"
 webUrl: "https://www.nytimes.com/2023/11/19/business/media/openai-sam-altman-why.html"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: The New York Times

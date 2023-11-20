@@ -57,6 +57,22 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
+    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors ’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
+    publishedDateTime: 2023-11-20T04:47:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 34
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_6e53ea823e1ecc037ec9b282e8e16c2f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Cruise CEO resigns after self-driving fleet pulled"
     excerpt: "Kyle Vogt, the CEO of Cruise, General Motors’s (GM) autonomous vehicle unit, resigned Sunday amid growing safety concerns about the company’s self-driving fleet. Vogt announced his resignation late Sunday night on X,"
     publishedDateTime: 2023-11-20T15:06:00Z
@@ -91,15 +107,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 3
-  - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
-    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
-    publishedDateTime: 2023-11-20T09:44:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/vogt-resigns-as-ceo-of-cruise-following-safety-18503084.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 0
 
 secured: "4K2s2DAJpGfGkRU1Bb796rmrAoAsnkDJVPrtDmJNyro8lRYrfCXMNju+lGljhSSHQrtfDCeYsMTBN3o4RS4tyXOiHyFR3kfWTCB0KlDyhiiDUA1xDWe/45U+wsZmCdiKsb4EPYiS6ussJlLqcRAIgDMnN1Cxci2Sja4bPQV6rw3Gpx+GwJmCwziQTZUNadZALkQcPNogWA7Z8ZTLdo2HRL9OFqCQTN2+Dvj832W08yRjPMiZxXAb9WL5avwKBFkSxxfaxVjxS8nL/VphmHkA1EonEmPF/CXEDcpeiYpE187slXPsdtkoZUbg5rkx6k9bTAyKikc225D8n+m+CIh5a2w3dbJkONc7JHKtFRK5NFljqJiVyms3GEDH+qCdPAavpQkyUqqV/kO37HSV07lNRIoo4x/BA1CUafTRy+4gMiJfwKKfthNY6CIPFmLj9OXrqc0dDT/zr8bxzBrW70vCkm3Kwb0tPWXtRi3kiitFufA5XdeKreg3ssCOp3hI4VhrzuEjJMks8/+Ccl6FzPpidQ==;qvHCsMXF+bFpDQeH1aX2Pw=="
 ---

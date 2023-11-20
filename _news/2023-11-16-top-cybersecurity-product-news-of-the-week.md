@@ -7,7 +7,7 @@ originalUrl: "https://www.csoonline.com/article/1247366/top-cybersecurity-produc
 webUrl: "https://www.csoonline.com/article/1247366/top-cybersecurity-product-news-of-the-week.html"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,15 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Samsung backs $6M round for LLM cybersecurity startup Lasso Security"
+    excerpt: "The capital was provided by Entrée Capital, the lead investor in the round, and Samsung Electronics Co. Ltd.’s Next venture capital arm. The raise brings Lasso Security’s total outside funding to just over $7.5 million."
+    publishedDateTime: 2023-11-20T19:03:00Z
+    webUrl: "https://siliconangle.com/2023/11/20/samsung-backs-6m-round-llm-cybersecurity-startup-lasso-security/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
   - title: "How Indian enterprises can incorporate AI into their cybersecurity solutions to build digital resilience"
     excerpt: "CISOs in Indian organizations have the opportunity to harness the power of AI for proactive cybersecurity measures, fostering long-term organizational and digital resilience."
     publishedDateTime: 2023-11-20T10:31:00Z

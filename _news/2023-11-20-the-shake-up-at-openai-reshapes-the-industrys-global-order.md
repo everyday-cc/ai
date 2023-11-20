@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-20T13:27:00Z
 originalUrl: "https://www.nytimes.com/2023/11/20/business/dealbook/sam-altman-openai-microsoft-google-ai.html"
 webUrl: "https://www.nytimes.com/2023/11/20/business/dealbook/sam-altman-openai-microsoft-google-ai.html"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
@@ -22,11 +22,33 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://static01.nyt.com/images/2023/11/20/multimedia/20db-altman-zbgq/20db-altman-zbgq-facebookJumbo.jpg"
+    width: 1050
+    height: 549
+    isCached: true
+
 related:
   - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
     excerpt: "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models."
     publishedDateTime: 2023-11-20T00:00:00Z
     webUrl: "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922?icid=recommended"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 77
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-11/231119-sam-altman-jm-1614-859c3a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
+    excerpt: "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models."
+    publishedDateTime: 2023-11-20T21:18:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922"
     ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
     cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
     type: article
@@ -83,7 +105,25 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI’s New CEO Likes Tweeting About Sex And Using AI To Write Pickup Lines"
+    excerpt: "Incoming exec Emmett Shear has regularly tweeted about sexual dynamics between men and women and the controversial pick-up artistry manual The Game."
+    publishedDateTime: 2023-11-20T20:50:00Z
+    webUrl: "https://www.forbes.com/sites/sarahemerson/2023/11/20/openai-ceo-emmett-shear-tweets-sex-dating-pickup-lines/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
+  - title: "OpenAI chaos explained: What it could mean for the future of artificial intelligence"
+    excerpt: "The firing of CEO Sam Altman, the threat of employee exodus, and more. OpenAI chaos explained: What it could mean for the future of artificial intelligence."
+    publishedDateTime: 2023-11-20T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/sam-altman-fired-openai-microsoft/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 25
 
-secured: "XbwxwfRXtZB2psQ9jiO94Je1W7PadmGXfFKJYpu+kiP8fY6ultYh5QsA+f6/x1C3fzbaPw1rvjJ5YmBF6LgTvMGxQLuNbKUKD+IGVfeD3A7kb5xRmmNzh7gC9aUyAlr4+0ajSsLZPpPJWreH3v41Y1g0HJ/8BTJZUV8GZ1BSHjnm5gWfrQsHezZOvbD8mA9chESy/xJAigKkXoe3RiRPfAHSZfEcZAwrDIySGkYmJR+aWIBtm7xnOaf0FZz/2ZKoOPWtsYMcXGnsO2ND4E/tjg0bh6gzlnAHVVD7rhzaMrlt/mgL89Vhyf5wEm9D94i7RDpNeO6ddAXY4RCkyrE9kQwrkPIccrClsbf9aDr2HjM=;IoPeQffN4Rcc08gPJf21rQ=="
+secured: "5JY8p1byApUF1X1w2aAx/r8y535fpnIECs95Stfjo00poiUE57ImLLs9cQqLHJc3vldqe5Za5szVh5pfwpngzv+gkNDYhwks8GDyukgv7zHGJM6CxVKxDE45FFtDForndHk0+pGEIl694EvkH9X6no6TaYyCP/2R3cf+nfU0tDyMOpKArOE1GzVgjx+qteU7jcQBqBvHBPVJ+eu5QHq2Vrjp+4GYAzOmbncffVMCUcjb09GVUhHBaNjqKesGKhCNYZESPYnsYjLkLsDYK46tKbFIllcGK9JPrzkUEBvhXbwinL5gNdKX/6DaDFSApTW4k98vvmxB9AI6bNIlZu/PflNDDCRisMd+eNcPXB4Pkuo=;sJfL7PwK88du+tKUBtH25Q=="
 ---
 

@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Dear Annie: Artificial intelligence only making social media worse"
+    excerpt: "Dear Annie: I just read a story in the newspaper about some high school boys using artificial intelligence to create nude images of girls in the same school and then posting them on social media. I also read a story earlier about something similar happening in Spain."
+    publishedDateTime: 2023-11-20T22:12:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/nov/20/dear-annie-artificial-intelligence-only-making-soc/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 37
+    images:
+      - url: "https://thumb.spokesman.com/CclR35BWZ1Zh7Jy5mO961MYD6_g=/1200x630/smart/media.spokesman.com/photos/2023/11/18/5eea9e38a2dc8.image.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Only Making Social Media Worse"
     excerpt: "I just read a story in the newspaper about some high school boys using artificial intelligence to create nude images of girls in the same school and then"
     publishedDateTime: 2023-11-19T12:00:00Z

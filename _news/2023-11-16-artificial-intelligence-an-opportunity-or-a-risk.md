@@ -18,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Artificial Intelligence: A Dooms Day Risk?"
+    excerpt: "Disaster Zone by Eric Holdeman is dedicated to sharing information about the world of emergency management and homeland security. Listen to the Disaster Zone Podcast here."
+    publishedDateTime: 2023-11-20T19:39:00Z
+    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/artificial-intelligence-a-dooms-day-risk"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 17
+
 secured: "IH4cAvJA02Q/0l5BDz9bvm8YOTT+IALJs8Jz+APlPVHvClb25GKTTNU4RULW9o1XkxLgKO+lz5kqe2ib/UnMu6boz5/F05RPAzbWM0gCi/H1p8SbSin99e1VsYtmz9lTCa/5mQQEof6MHjvishEVreZRzPw3G3Upr7Me3kX/yQFOR+4krirWEx0MHYdStYhG0hnLOu3NDmjOCMiHewdZm7QiqjCiJIAJS4APO4G82qvqAtxavQjLlqrrAyXdykjjsO31Mso2Bx8IKhZBh8f7yc0CZGN6r16x6uOJ6uskG6ePhV4LyGfsHuQ73ofZtsymjeNUChQu9ZpAGpTvDymxfccbO5S9XWHB1e7Uz9wqZyNtlz26cFIcKkeQp6GvJNR1GAVF5koHY8UgaswUs6pnVy36WGhUbGbdWrRmSmJLt0BpZd77jCTsc0rc+l0mOaTLK+FTsHpwiTmXNuY1M7cCpUsDNJnh6tC+0Qs0X2R85JgAgesmnbYFG2AOByIH7/AiCX+5h5Nwm1hKq1MR3AIzGQ==;iEUh5PKep/G7axuujAFiUw=="
 ---
 

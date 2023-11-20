@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-20T19:01:00Z
 originalUrl: "https://djtechtools.com/2023/11/20/move-over-ableton-you-might-write-your-next-song-in-google-lyria/"
 webUrl: "https://djtechtools.com/2023/11/20/move-over-ableton-you-might-write-your-next-song-in-google-lyria/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: DJ TechTools

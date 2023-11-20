@@ -115,6 +115,15 @@ related:
         width: 277
         height: 239
         isCached: true
+  - title: "AWS to power Yellow.ai’s AI-powered voicebot, chatbot solutions globally"
+    excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions globally."
+    publishedDateTime: 2023-11-20T20:26:00Z
+    webUrl: "https://www.canindia.com/aws-to-power-yellow-ais-ai-powered-voicebot-chatbot-solutions-globally/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 33
   - title: "What Elon Musk is really building inside his ChatGPT competitor xAI"
     excerpt: "Musk himself has given mixed signals regarding the AGI inflection point. At the xAI launch, he said he agreed with futurist Ray Kurzweil that AGI would likely emerge around 2029, “give or take a year.” But in an October Tesla earnings call, he described his cars’ AI system as “basically baby AGI—it has to understand reality in order to drive.”"
     publishedDateTime: 2023-11-20T12:00:00Z

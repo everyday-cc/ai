@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-20T17:22:00Z
 originalUrl: "https://news.bloomberglaw.com/privacy-and-data-security/senator-markey-queries-clearview-ai-on-facial-recognition"
 webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/senator-markey-queries-clearview-ai-on-facial-recognition"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: news.bloomberglaw

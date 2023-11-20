@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-20T20:20:00Z
 originalUrl: "https://www.timescolonist.com/indigenous-news/canadian-chamber-of-commerce-forms-ai-council-with-members-including-amazon-google-7857980"
 webUrl: "https://www.timescolonist.com/indigenous-news/canadian-chamber-of-commerce-forms-ai-council-with-members-including-amazon-google-7857980"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Times Colonist

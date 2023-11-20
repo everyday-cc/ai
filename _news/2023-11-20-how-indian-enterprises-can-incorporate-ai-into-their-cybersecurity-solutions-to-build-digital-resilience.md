@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Samsung backs $6M round for LLM cybersecurity startup Lasso Security"
+    excerpt: "The capital was provided by Entrée Capital, the lead investor in the round, and Samsung Electronics Co. Ltd.’s Next venture capital arm. The raise brings Lasso Security’s total outside funding to just over $7.5 million."
+    publishedDateTime: 2023-11-20T19:03:00Z
+    webUrl: "https://siliconangle.com/2023/11/20/samsung-backs-6m-round-llm-cybersecurity-startup-lasso-security/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
   - title: "Top cybersecurity product news of the week"
     excerpt: "New product and service announcements from Wiz, Palo Alto Networks, Sophos, SecureAuth, Kasada, Lacework, Noname Security, and more."
     publishedDateTime: 2023-11-16T15:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/life/technology-microsoft-takes-a-s
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/"
 type: article
 quality: 78
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft unveils new Azure Cobalt CPU and Maia 100 GPU designed for AI and the Cloud"
-    excerpt: "Microsoft is finally making its own chips for the AI and Cloud market with the new Azure Cobalt 100 CPU and Maia 100 AI Accelerator."
-    publishedDateTime: 2023-11-16T05:34:00Z
-    webUrl: "https://www.tweaktown.com/news/94387/microsoft-unveils-new-azure-cobalt-cpu-and-maia-100-gpu-designed-for-ai-the-cloud/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
   - title: "Microsoft Maia AI chip ‘last puzzle piece’ for infrastructure systems"
     excerpt: "Microsoft said the Maia AI chip had been tested by OpenAI using its workloads and CEO Sam Altman commented saying the chips can help make AI models more “capable” and “cheaper.”"
     publishedDateTime: 2023-11-16T08:59:00Z

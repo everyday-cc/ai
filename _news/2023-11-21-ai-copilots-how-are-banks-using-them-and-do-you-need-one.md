@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-20T19:32:00Z
 originalUrl: "https://www.americanbanker.com/news/ai-copilots-how-are-banks-using-them-and-do-you-need-one"
 webUrl: "https://www.americanbanker.com/news/ai-copilots-how-are-banks-using-them-and-do-you-need-one"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: American Banker

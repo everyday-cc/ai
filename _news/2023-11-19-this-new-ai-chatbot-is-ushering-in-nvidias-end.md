@@ -103,6 +103,15 @@ related:
         width: 277
         height: 239
         isCached: true
+  - title: "AWS to power Yellow.ai’s AI-powered voicebot, chatbot solutions globally"
+    excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions globally."
+    publishedDateTime: 2023-11-20T20:26:00Z
+    webUrl: "https://www.canindia.com/aws-to-power-yellow-ais-ai-powered-voicebot-chatbot-solutions-globally/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 33
   - title: "A|I: The AI Times – Everything you need to know about the sudden firing of Sam Altman"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
     publishedDateTime: 2023-11-20T14:43:00Z

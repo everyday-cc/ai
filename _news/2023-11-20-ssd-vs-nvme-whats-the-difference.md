@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-20T20:49:34Z
 originalUrl: "https://www.ibm.com/blog/ssd-vs-nvme/"
 webUrl: "https://www.ibm.com/blog/ssd-vs-nvme/"
 type: article
+quality: 82
+heat: 82
+published: true
 
 provider:
   name: IBM
