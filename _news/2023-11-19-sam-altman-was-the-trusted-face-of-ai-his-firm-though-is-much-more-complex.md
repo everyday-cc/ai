@@ -31,6 +31,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Sam Altman warns AI could kill us all. But he still wants the world to use it"
+    excerpt: "ET By Samantha Kelly, CNN New York (CNN) — Sam Altman thinks the technology underpinning his company’s most famous product could bring about the end of human civilization. In May, OpenAI CEO Sam Altman filed into a Senate subcommittee hearing room in Washington,"
+    publishedDateTime: 2023-11-20T16:14:00Z
+    webUrl: "https://kion546.com/news/2023/11/20/sam-altman-warns-ai-could-kill-us-all-but-he-still-wants-the-world-to-use-it-3/"
+    type: article
+    provider:
+      name: KION
+      domain: kion546.com
+    quality: 36
+    images:
+      - url: "https://kion546.b-cdn.net/2023/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG83cG44bzkwMDAyM2I2aWJibXUzczEw-L19wYWdlcy9jbG83b3o5Z3gwMDAwMjZwOGRydXRhazAw.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "GJxWNMdeyUJ+8cPBQ0EdREDm4AtwCDCHXS5KDiMjuJRe3gxOMbGJOxoROFgu9Uhi+Ya+o9CTnAPqzFl81UssPtooOLCIwzrKpV+yoBTG5bsRwl5lsUn8DJIY7IIstjYH2xC190mnCNMMvdVFI2X+PKuSMGbZvZD8qGQQs/FdNLu6RPG04N3/lj8hKeqzwf5Os5hN6TvDAvgpVWkJH/PvgDGeiljokC/oazyyDSKV9Y8YA2F5pNBND18eI0vQrUpFPakV1R703riI5YbT6VCqP72LUT186vfBzJRpqcBvXcJojWq/FnC83cYEVoD7LFUKx/nqy7ft9aP9S8GWX1b0WHERI+fQ+WV8JuBrCvjWsj61ANEh8hfQ+d2aBrx2DXJXmrrykicJMdCylIRaY7MAa13SEKVYcqEHeViwq9REis07xAheOaLvsvc6aktwngClXb3tUMLYI/vjizUL1C4lxT3lWJwh5+s73HYgObtavB+DDU6K68f5kKyuyRkg9lSFULhYOguWkJ7vyZdphvpBrQ==;Xbe6aadBQqTeowY+3e8r1A=="
 ---

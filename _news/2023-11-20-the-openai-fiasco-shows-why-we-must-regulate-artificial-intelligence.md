@@ -42,6 +42,29 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "OpenAI’s Board Set Back the Promise of Artificial Intelligence"
+    excerpt: "I was the first venture investor in OpenAI. The weekend drama illustrated my contention that the wrong boards can damage companies. Fancy titles like “Director of Strategy at Georgetown’s Center for Security and Emerging Technology” can lead to a false sense of understanding of the complex"
+    publishedDateTime: 2023-11-20T15:53:00Z
+    webUrl: "https://www.theinformation.com/articles/openais-board-set-back-the-promise-of-artificial-intelligence"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 52
+    images:
+      - url: "https://tii.imgix.net/production/articles/11747/7184b549-37ed-4712-b7c3-ba77373bcac5.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Shake-up at OpenAI Reshapes the Industry’s Global Order"
+    excerpt: "Big Tech is reeling from the ouster of Sam Altman at a leading A.I. start-up and his subsequent jump to Microsoft, moves that reset the power dynamic underpinning the sector."
+    publishedDateTime: 2023-11-20T13:27:00Z
+    webUrl: "https://www.nytimes.com/2023/11/20/business/dealbook/sam-altman-openai-microsoft-google-ai.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 49
 
 secured: "rO6vXi+9uRGWk2i6zQbKY/3pRLEfG1HVYYDCUNndahTnZp7LxSxs0a4qZLu6FoSDF1yknu8smU02XsMccEmRn+l4bpHoTEXz44Wx7BS7PILjWg+/kWeY73hvuX8LOopZ74U4tDv9JpDfya8jl5o4ZO7qtzAv01XXEBjpTVS2Ij+FFIK8dj5WlxPWkBRdCBYHAC7znVLPohLFjwtTo4aQUDqfOSnchj/wT35lkxdGoIXEfRczwhzFejXejFYS0Fgy/30B1oDnk9Pk+/+Il8BZIwoKxtotPR2mhWEo5D4ohnzCt6x3dpOZkQatKfZIKzi972m0ASdkMdnNH8V7dWNOkIT0rwAMWbtuVT3UXkxzweo=;q8foXjXvsojiA/p5B4j5bA=="
 ---

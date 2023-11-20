@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "The ethics of AI photography"
+    excerpt: "Australian Geographic's photo editor Nicky Catley explores the whys and wherefores of the relatively new world of artificial intelligence–generated imagery."
+    publishedDateTime: 2023-11-20T01:18:00Z
+    webUrl: "https://www.australiangeographic.com.au/topics/opinion-and-analysis/2023/11/the-ethics-of-ai-photography/"
+    type: article
+    provider:
+      name: Australian Geographic
+      domain: australiangeographic.com.au
+    quality: 34
   - title: "Generative AI Passes the Legal Ethics Exam in Study by LegalOn Technologies"
     excerpt: "In a groundbreaking development, researchers at LegalOn Technologies have demonstrated that both OpenAI’s GPT-4 and Anthropic’s Claude 2 can pass the"
     publishedDateTime: 2023-11-16T10:00:00Z

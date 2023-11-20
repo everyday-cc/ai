@@ -2,12 +2,12 @@
 category: news
 title: "Understanding the Dawn of the Artificial General Intelligence Era"
 excerpt: "The abrupt departure—and possible return—of Sam Altman from OpenAI is sending tsunamis through Silicon Valley, igniting a flurry of speculation and bringing into sharp relief a fundamental debate at the crossroads of artificial intelligence (AI) development."
-publishedDateTime: 2023-11-20T07:44:00Z
+publishedDateTime: 2023-11-20T09:44:00Z
 originalUrl: "https://www.aol.com/news/understanding-dawn-artificial-general-intelligence-074400693.html"
 webUrl: "https://www.aol.com/news/understanding-dawn-artificial-general-intelligence-074400693.html"
 type: article
-quality: 26
-heat: 26
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -15,9 +15,7 @@ provider:
   domain: aol.com
 
 topics:
-  - AI in Autos
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://media.zenfs.com/en/aol_the_dispatch_253/d0c8759151495eba0a6d7fc1e42d5c1e"
@@ -25,6 +23,6 @@ images:
     height: 357
     isCached: true
 
-secured: "Vx8H0gqeGr0R1TDjdGegDsbCWvkAkUcXxVjploMgyTHIQ66nfBTCb/t7KYOA0+D+2M3sI04yqpS6WZ75vEpZBw3ceQHnbKTtRmmzA+ak65a/WB8ETAr3w8lrMA2yrKIE0PTUmnto3YGc6i7Savz4JJ3fdDDAR7W3ePWo/Nz9u7vjQVqahHT0hjkNK+AQM0a1w1HeGBPCh80N05swEMQH/B45tKlHHzAnKdxm09/d6QAzxSBvJdAIunAjLC4M+nSyp0NTjzYd3N7s3CKlvBzVlICUP2zP5EqFLz9pZq74vkbwTCt2rl8LjX01cYoRaPcMDOQXd1wCKW4smTqevvtd6mXPHBG7BoK7upVj6Db8GK03ZotuDSVHwcl6rokJFRadQrmv0s8VQoWL6kUsxq/JhHEurp2nTkrOgwigwCs5nUquumIKBULJJ+9JWoKc7ZSGSKYnOhsIBpTXafn/vzlZadS970hesFmHIqX7VLJ25l415LsNLsbs2gginkgMWpwh5zfGYmfUfPOce2hGXsbWMQ==;TmOPvORhFAqNLnqQuAULxw=="
+secured: "w5RybY2tigoOdEqhbJ4XzoNGtMS6YPOBP2loGXPLtAZpxcL33iFvxgGntqVOLMn3iu/d7Leyv6Bp44YEqjlDDD5M8BY7n/cCNnRYLx6lh4b+SRkejv8EfaKQ5EAWJYJoVF2ovNhHPQDLkm4LZQKT9BaKncv8UH4hcw8LgI7qe7/T8d/LRXbOj/Dt1k7qeljrq+APzUf7ad8xfjg2QY3sO0zhxgJAy2CmPTw/dAcgspxrK3c2kINOoBz2ZiVm0yvbAxrITWC31LMVZEaZ1cNU5PdmPsIvWRQnGbsvOqbcbtBpMKRtZ+8YQVxfcd287PdiEy2YXLsSzOwaz4VrxapBY81+lS4rDyTwbK7shkDQxwg=;xY2M8a9u8qUowsexqKWaDA=="
 ---
 

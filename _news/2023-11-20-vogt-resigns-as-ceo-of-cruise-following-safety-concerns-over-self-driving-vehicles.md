@@ -43,6 +43,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Cruise CEO resigns after self-driving fleet pulled"
+    excerpt: "Kyle Vogt, the CEO of Cruise, General Motors’s (GM) autonomous vehicle unit, resigned Sunday amid growing safety concerns about the company’s self-driving fleet. Vogt announced his resignation late Sunday night on X,"
+    publishedDateTime: 2023-11-20T15:06:00Z
+    webUrl: "https://www.aol.com/news/cruise-ceo-resigns-self-driving-150632551.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_hill_articles_315/bf451bddd621fa2b5ebc529eff2f73da"
+        width: 900
+        height: 505
+        isCached: true
   - title: "Vogt resigns as CEO of Cruise over questions of safety of self-driving cars"
     excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars."
     publishedDateTime: 2023-11-20T06:06:00Z
@@ -54,20 +68,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 22
-  - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
-    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
-    publishedDateTime: 2023-11-20T05:04:00Z
-    webUrl: "https://www.bostonglobe.com/2023/11/20/business/vogt-resigns-ceo-cruise-following-safety-questions-recalls-self-driving-vehicles/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 14
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Kppzcmm788btNPz0ZGvSRGJGP0c=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XEOENH2MWXH7ZM5VLLKUF7YAFE.jpg"
-        width: 506
-        height: 338
-        isCached: true
   - title: "Self-driving car venture Cruise chief resigns after uproar over accident"
     excerpt: "The co-founder and chief executive of General Motors-owned Cruise has resigned, weeks after the self-driving car company paused driverless operations and California regulators barred its vehicles from the state’s streets. Cruise said on Sunday that its ..."
     publishedDateTime: 2023-11-20T00:00:00Z
@@ -77,6 +77,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 3
+  - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
+    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
+    publishedDateTime: 2023-11-20T09:44:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/vogt-resigns-as-ceo-of-cruise-following-safety-18503084.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 0
 
 secured: "Sbsw4GH2tbYXSrUC+MG/eSXl1ejqsy2wm+8rMM7sE0sO2jiNjGZ5zPpgAiqAL0Y8p2/rWVg5Zp72AaRXlUM7XafIb54Uw7zhz0bk12l5HInbDDG4qDlTdn4TuEfuqqRyHLRYPM0IyCuVsxDzHQgQ9WhUEbW7arzP2dGS5/6VXvXKcRpmynJ6ckeuvs/z1aZmiD7CZmeL7HnJ2MgktNpkr8GKKSoInRlIdskXLTQ64KKulMTAxu4J7CtCPl9EoHnLZYIfyCHcPkLtXpIQiGqC0vmA7sznUCIJ0J6afLCQr2BYbIAjw9UdsV61hMsaNMA9OViU/J+r274kZu9bKZHcqErU09HP27ppu5MqDDG4pLDt6DReo4nwK2pomU0B8uI4gCVRX/xiyIwpu2AJGWvdPPNksZvGvn+/ez8cZicnmXcpCbL/o5YPDMnZ6Y6SNlL+vmrVZ/VMN3a8OvH4PDixI78+9Jzp5zPcE2qY19Px7isKQlCGpx7c0oI4T+yj8+/7I8Wm3YarenhYmR7Uk27Xrw==;qfhCWiEowzHaOjHvLjFV/w=="
 ---

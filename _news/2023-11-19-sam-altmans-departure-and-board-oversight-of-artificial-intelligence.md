@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Sam Altman warns AI could kill us all. But he still wants the world to use it"
+    excerpt: "ET By Samantha Kelly, CNN New York (CNN) — Sam Altman thinks the technology underpinning his company’s most famous product could bring about the end of human civilization. In May, OpenAI CEO Sam Altman filed into a Senate subcommittee hearing room in Washington,"
+    publishedDateTime: 2023-11-20T16:14:00Z
+    webUrl: "https://kion546.com/news/2023/11/20/sam-altman-warns-ai-could-kill-us-all-but-he-still-wants-the-world-to-use-it-3/"
+    type: article
+    provider:
+      name: KION
+      domain: kion546.com
+    quality: 36
+    images:
+      - url: "https://kion546.b-cdn.net/2023/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG83cG44bzkwMDAyM2I2aWJibXUzczEw-L19wYWdlcy9jbG83b3o5Z3gwMDAwMjZwOGRydXRhazAw.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Sam Altman was the trusted face of AI. His firm, though, is much more complex"
     excerpt: "The conflicts of interest built into OpenAI’s corporate structure may be a bigger story than the loss of its leader"
     publishedDateTime: 2023-11-19T09:00:00Z

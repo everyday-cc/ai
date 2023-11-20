@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -54,7 +54,16 @@ related:
       name: The Sunday Business Post
       domain: businesspost.ie
     quality: 19
+  - title: "2024 fintech trends and Finextra’s predictions for the new year"
+    excerpt: "Launching today, Finextra’s PREDICT 2024 channel will gather insights and ideas from the industry's top thought leaders, capturing how the financial services industry will tap into technology trends  in 2024 and these predictions will be shared with our 800,000 monthly readers."
+    publishedDateTime: 2023-11-18T20:17:00Z
+    webUrl: "https://www.finextra.com/the-long-read/865/2024-fintech-trends-and-finextras-predictions-for-the-new-year"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
-secured: "IcOJEFCpi5+3ox+VtUe/lLYP+BUDbj87/Jo32jaFP2LnX+77E0RcQVBlA+1ZV2VnyJzWFiAhMFOiHL4cc/3Ua0Y8yoKBI39dpLcDZMgJzJIJVsVQYarxqcDqr+/Nl+sWn5b4QDwfR/SzJVtlhM1oFCMgz+BEoS8eOcDj7mLSTGUzu8YPaUWli/jrAZQdVknWcLJRaAF8NT6RmcMMH4gNI8xS0z3Sy3NVeh/1j9nPR6cPAKJXa5UNI292GNPWccLz2GNvAzvFlu2OJvDyubmKICMv2YIPIM0QgEhR4bKrjUCTWGJ/JAWwQWcCNEpihsBgRa6KqywGpnqk8puQinSzY/Zh+fDFbZjis1sYu5mgAXg=;tO8XrsEo8eJcV37vvlseaQ=="
+secured: "oO8ysx9Kqb8Y9eQlGBP0OjmcXMCsyzGkHsqF2+T+x+X2zg3aahCY24nGsrg/q2WjY1g0G+lc1CeEjXU4T4L+39XS1ZwCxlyX+eVMZQl0AZRvfspMdd844AsakbNbVedFtX7cT32VFGdbMT843NHaAFH70a4Fua+2p+JzH9keJ9+cNgp3Mickye3RYKNKPJRHuznQkZ2D2On+A+P9Ps8R9TBk5s7hXuEUMfOrn0ojl/uK1F4aMSpL7xul6klb6CnJkfp9I0N7uCndZclDcfebh9NOIOt1Z5qhwg2i0X6fO94i11MZ555DXEyeuLWSFXJSaYn5UdsBX8W548gAlcCGBjniSWMhB1WT2gGHAW96pGdIGxrAPvBkMdQeefsrgV3rJJiaxcul+jfIZVENVB1i4f4fnzvLMKRU05uj7vQ0J7HRHLKiTCgEi8gxdRxC0sn1nIrN6vym9r9ZWhBE8NdDcpq/aOOOR99UOQsYfikYW2sHblTXepaTDqPqCgB1GkM56E8zozX7AdqIodD3avGskw==;URslKmKOMo7TTvlR37HkrQ=="
 ---
 

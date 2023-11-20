@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-announced-aco
 webUrl: "https://markets.businessinsider.com/news/stocks/wimi-announced-acoustic-hologram-reconstruction-based-on-unsupervised-wavefield-deep-learning-1032827362"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "WiMi Announced Interactive Holographic Assistant Based on Artificial Intelligence"
+    excerpt: "WiMi's AI-based interactive holographic assistant technology: Speech recognition and processing: The system captures the user's voice commands through advanced speech recognition technology. These commands are transmitted to the speech processing module, which is responsible for converting speech into text and parsing the user's intent."
+    publishedDateTime: 2023-11-20T13:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-announced-interactive-holographic-assistant-based-on-artificial-intelligence-1032835283"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "PoQi28PnZi/kpVQAtNi9M8vlHo9CT8LyDfEUHDjfOqzvocvwMOgmDFolhnGtd2uU54SayuRYRNg/eKb0QGCKDMtgcacBwlBg+cCvYUnYOw9n731xcm0FNyXkchHiHi05PEUcMvRw5bXvmuus/TrHhQty2Q7G4D1NXgxZSlMbTPMIqatronNHQzE8PlISW2K5tlJS1TmB5TPKrEMMxGrXajJCb6ozsb6xkROHsZ9H/0EaIhbM7IU1H1NDOdyCpYw2qswFQVI1vTP4xhasQqoLwTmO7JivLZpql7ZUQVLMzaons1nPSFYpBwn4xdoi1/IeM60pxQL8CxqWg202WWYbWD19RO5Ch7R9e50/7usO08M=;nBGF6sJcZ6ipNAhm45XU9Q=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AWS to power Yellow.ai's AI-powered voicebot, chatbot solutions globally"
-excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions globally."
-publishedDateTime: 2023-11-20T10:26:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1141715"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1141715"
+excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its"
+publishedDateTime: 2023-11-20T15:12:00Z
+originalUrl: "https://www.thehansindia.com/tech/aws-to-power-yellowais-ai-powered-voicebot-chatbot-solutions-globally-839138"
+webUrl: "https://www.thehansindia.com/tech/aws-to-power-yellowais-ai-powered-voicebot-chatbot-solutions-globally-839138"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/whatsapp_channel_icon.png"
-    width: 512
-    height: 512
+  - url: "https://assets.thehansindia.com/h-upload/2023/11/20/1400849-aws.jpg"
+    width: 1200
+    height: 720
     isCached: true
 
 related:
@@ -40,6 +40,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
         height: 798
+        isCached: true
+  - title: "Startups must add AI value beyond ChatGPT integration"
+    excerpt: "Fine-tuning an AI model using collected or synthetic data can deliver a competitive advantage to your startup. How to deliver added value to your AI-based startup via fine-tuning When seeking how to involve AI in your product, there are a few ways to go."
+    publishedDateTime: 2023-11-20T14:58:00Z
+    webUrl: "https://techcrunch.com/2023/11/20/startups-must-add-ai-value-beyond-chatgpt-integration/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1084580876.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
   - title: "AI chatbot can pass national lawyer ethics exam, study finds"
     excerpt: "Popular AI chatbot GPT-4 outperforms most aspiring lawyers on the legal ethics exam required by nearly every state in order to practice law, a new study has found."
@@ -87,6 +101,29 @@ related:
         width: 277
         height: 239
         isCached: true
+  - title: "A|I: The AI Times – Everything you need to know about the sudden firing of Sam Altman"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2023-11-20T14:43:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-everything-you-need-to-know-about-the-sudden-firing-of-sam-altman/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 32
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2023/11/sam_altman_with_fire_around_him.jpg"
+        width: 1024
+        height: 640
+        isCached: true
+  - title: "What Elon Musk is really building inside his ChatGPT competitor xAI"
+    excerpt: "Musk himself has given mixed signals regarding the AGI inflection point. At the xAI launch, he said he agreed with futurist Ray Kurzweil that AGI would likely emerge around 2029, “give or take a year.” But in an October Tesla earnings call, he described his cars’ AI system as “basically baby AGI—it has to understand reality in order to drive.”"
+    publishedDateTime: 2023-11-20T12:00:00Z
+    webUrl: "https://www.aol.com/elon-musk-really-building-inside-100000200.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
   - title: "7 Biggest Questions About ChatGPT, Answered by Gartner Experts – Gartner"
     excerpt: "Contact or call jsbacContact April 5, 2023Contributor: Ava McCartneyGartner experts weigh in on how it’s valuable and whether it’s safe to"
     publishedDateTime: 2023-11-19T13:42:00Z
@@ -97,6 +134,6 @@ related:
       domain: inferse.com
     quality: 3
 
-secured: "B0ZauQ/vKCCDcLeAj/+afRn9PZ/JclPULEf5YArchWm66IGDQxlOhnhFm/rryQMpXmYVFDdeGTDjq7LWnBJ0RLspQQ9yGrgzZWZK5GpcKnDUW1Mmsz0Q8I5sIjeMzcwfLq63zKslEwenJL/LS3frFEoZCyvHhw59efa5m8XBbtioREaRM1oaeWJy9vtGlsZGDAY5RBquf0QTObmoLdQJlrrmfmrYMWTR5P2qY4EofiZ/b+dbI0ed6gudtEyFJHz+bFuu1YZW5bCxsT0KFBh14IzOxBcm7c2ZP4KjA6ujXxM6MqeZJ50IiEG0olDlsYC7MXszaw34+Nc4/PwnWk9sjKPB7/ABFyyroyhc8vV619A=;h/CYzAumXYPNxBANw1M+cg=="
+secured: "x1BTt012epja0jCWJUVUbgVAMrbp+hczHPiOHoYDfjvh6G55haup6CeqsEGzVGX0bYkOZDGlBoH8XS+FIfmgDvT/Z1Cr83MXeR0A4HoVYkA+WgybIrALQKVbl35d56N651SGEI/YQ7zmf8ootJZLyf8H0q/gtBLAmnNQdnM8TQAf8hJH6nLJ3LWq+WLz0XKWdm/zOSDBICKyHqVpMtjUZ5H/WkjS1fAGrDkLSpeXqdextjb0NC6uyP1Xe15jNNhh7FgaBiMRuUsU/vFSnxbJTEOxDV/tTezmWGrZPY0S7sRvyRwjsiNyHuvkW1nLgwdP5q2fWKkNBiFWTNocsecWVgpvR2QqFWCKdwmCv6j7fjU=;vbMV4aQO701tfC+zeHfYTA=="
 ---
 

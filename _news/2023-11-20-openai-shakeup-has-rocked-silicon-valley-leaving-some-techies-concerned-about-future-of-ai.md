@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
 type: article
 quality: 77
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -42,6 +42,29 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "OpenAI’s Board Set Back the Promise of Artificial Intelligence"
+    excerpt: "I was the first venture investor in OpenAI. The weekend drama illustrated my contention that the wrong boards can damage companies. Fancy titles like “Director of Strategy at Georgetown’s Center for Security and Emerging Technology” can lead to a false sense of understanding of the complex"
+    publishedDateTime: 2023-11-20T15:53:00Z
+    webUrl: "https://www.theinformation.com/articles/openais-board-set-back-the-promise-of-artificial-intelligence"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 52
+    images:
+      - url: "https://tii.imgix.net/production/articles/11747/7184b549-37ed-4712-b7c3-ba77373bcac5.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Shake-up at OpenAI Reshapes the Industry’s Global Order"
+    excerpt: "Big Tech is reeling from the ouster of Sam Altman at a leading A.I. start-up and his subsequent jump to Microsoft, moves that reset the power dynamic underpinning the sector."
+    publishedDateTime: 2023-11-20T13:27:00Z
+    webUrl: "https://www.nytimes.com/2023/11/20/business/dealbook/sam-altman-openai-microsoft-google-ai.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 49
 
 secured: "t9uuCYLTxWblSeKN5PeiDhPh6nh6fMrwKp8GorwHpPqKjgMzjarFjBnLpmXeUCQGxZXKbxy9fVctHlpl3ZGQ/5cVSrzYIXQefjE0T17gx/PjsIun3M+s4T8zdh2eOxP9RmDfZt31C/QIw8KOuAFVc9xUb0fapInVjMmdS3kkka4/Gg1OiA8l21l9KKWomSw/S0b2C1shnRtYuYcFYSgQBMbzQXCl2KcDIC7OjE/EHkuz5MHehSHOIqvcm1Dk/x/xb9fqe7gCEdOSU+12fpxSFfzl6wQmI/zdQxcsSPsZb0aU5v9IIOzlcvcdrNXSgA4z4ZsnasBJR1aW1MdsG1py0xdr2sYuy5FjI7f/jjINyCQ=;SO7KQmmSEE5vnJyzK/7jhQ=="
 ---

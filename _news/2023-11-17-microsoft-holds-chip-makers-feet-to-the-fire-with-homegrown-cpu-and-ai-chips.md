@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia launches AI foundry service for Microsoft Azure with new Nemotron-3 8B models"
-    excerpt: "With Nvidia’s AI foundry service on Azure, enterprises using the cloud platform will get all key elements required to build a custom, business-centered generative AI application at one place."
-    publishedDateTime: 2023-11-15T23:00:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-launches-ai-foundry-service-for-microsoft-azure-with-new-nemotron-3-8b-models/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
   - title: "Microsoft India exec talks about startup support, says AI will core to India's digital empowerment"
     excerpt: "India's startup landscape surged from 5,000 in 2016 to over 99,000 now. Sangeeta Bavi of Microsoft India, in a conversation with CNBCTV18, attributed this growth to technology's pivotal role in fostering innovation."
     publishedDateTime: 2023-11-20T12:15:00Z
@@ -106,6 +97,15 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 39
+  - title: "Microsoft's CEO Just Made a Brilliant but Dangerous Announcement. It Could Change the Future of AI Forever"
+    excerpt: "CEO Sam Altman is coming to Microsoft. That could be a great advantage for Microsoft--but it could also set dangerous wheels into motion."
+    publishedDateTime: 2023-11-20T13:21:00Z
+    webUrl: "https://www.inc.com/justin-bariso/emotional-intelligence-microsoft-ceo-satya-nadella-openai-sam-altman.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 16
 
 secured: "VGj3LPoN/+0zhaVbvCQWc3fp8Oi1siCNVcouK3EhlTpRWSRDyFah5UnzPlTU+6/HOTJ8p6qV9b+H1nnMSuTHMhBAW5ft607NEzJOxcpxYRWBeTk1EpSqDXR2s8G9f8NlKMRQXQOJcD5vmNWH95vpakO48DWOLnWBb1PL5XJj5t4Ie45R4T7H1jmJmmRE56BqRLguRwI2T/G1cj5kLrVyGzEJ4Dim4yPyFvTn5W5heNHB2LVFCnBQZG4uAhp1NuPortzpvBhdhidAKGpdqa7e8f52BXWS4LNvyZeCaD381EjV5bzXwUhUc49t2Yd0NGN9Lr2VE9btfUOnAt7pq0o6JBINFLBQFxIBdF9AR8i+EuR88QJ8Bjl8jdk3K3hfBiwA2MLY9LHHkIz1rVV5mjiM2//ypURwXF2HXAHS1INkvLL1002qNWCQhbVoCuhm2Vag294kMUYWn/VR7Gf41MLxTbVs0E+TAeWkaZwGLguCzOqqChskJUl4b/JNTdEawQXmg0vxJuUcoT+cqW6mi7k7EQ==;5Hiv2IoF6ID15QahFxZy2Q=="
 ---

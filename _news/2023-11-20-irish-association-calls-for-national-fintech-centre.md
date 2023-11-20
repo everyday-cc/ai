@@ -50,6 +50,15 @@ related:
       name: The Sunday Business Post
       domain: businesspost.ie
     quality: 19
+  - title: "2024 fintech trends and Finextra’s predictions for the new year"
+    excerpt: "Launching today, Finextra’s PREDICT 2024 channel will gather insights and ideas from the industry's top thought leaders, capturing how the financial services industry will tap into technology trends  in 2024 and these predictions will be shared with our 800,000 monthly readers."
+    publishedDateTime: 2023-11-18T20:17:00Z
+    webUrl: "https://www.finextra.com/the-long-read/865/2024-fintech-trends-and-finextras-predictions-for-the-new-year"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "J6CMn6/NUE5ZX799HPuz1yqoxh67bZoCtM68/UgOO8fiDPjerfASQdk5ueBCqGyTef0TMmBM/4Y70+yDu7fXWyDsOAZqdDxlf9uOGA1Hnxt3Sy3GhZzAzSG3Ex6QJHviZeBT/5pVbsYybPSmVvoNCS4d8IPYVWIOJSi8Yu4S51C3qp/PEmzo0UXNLJXuEpF6hS6qJh6Dn5g7ZtE8vMYXvP2KEfy+aBGDgQTT0xcj9GEV6sQUffzG9hUkDdZBtn6wT7CjOCZO3CL09OPADd88MLJKXRugNhTwkiYvR/TzqjaZU1tQKLRKSPbySu+B3grt69+xl9JRh09yP00us5osfX5R2d6jKvhsV1kjGyS4+Co=;rRUw4hVAra3A5rXVSdzlzg=="
 ---

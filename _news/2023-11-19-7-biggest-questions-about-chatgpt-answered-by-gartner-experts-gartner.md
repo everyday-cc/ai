@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Startups must add AI value beyond ChatGPT integration"
+    excerpt: "Fine-tuning an AI model using collected or synthetic data can deliver a competitive advantage to your startup. How to deliver added value to your AI-based startup via fine-tuning When seeking how to involve AI in your product, there are a few ways to go."
+    publishedDateTime: 2023-11-20T14:58:00Z
+    webUrl: "https://techcrunch.com/2023/11/20/startups-must-add-ai-value-beyond-chatgpt-integration/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1084580876.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI chatbot can pass national lawyer ethics exam, study finds"
     excerpt: "Popular AI chatbot GPT-4 outperforms most aspiring lawyers on the legal ethics exam required by nearly every state in order to practice law, a new study has found."
     publishedDateTime: 2023-11-16T10:03:00Z
@@ -45,18 +59,18 @@ related:
       domain: reuters.com
     quality: 64
   - title: "AWS to power Yellow.ai's AI-powered voicebot, chatbot solutions globally"
-    excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions globally."
-    publishedDateTime: 2023-11-20T10:26:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1141715"
+    excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its"
+    publishedDateTime: 2023-11-20T15:12:00Z
+    webUrl: "https://www.thehansindia.com/tech/aws-to-power-yellowais-ai-powered-voicebot-chatbot-solutions-globally-839138"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: The Hans India
+      domain: thehansindia.com
     quality: 53
     images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/whatsapp_channel_icon.png"
-        width: 512
-        height: 512
+      - url: "https://assets.thehansindia.com/h-upload/2023/11/20/1400849-aws.jpg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "Yellow.ai Chooses AWS Cloud To Power Its Generative AI Chatbot Solutions"
     excerpt: "Yellow.ai is using Amazon Bedrock, a fully managed foundation model (FM) service that gives businesses access to industry-leading FMs"
@@ -95,6 +109,29 @@ related:
         width: 277
         height: 239
         isCached: true
+  - title: "A|I: The AI Times – Everything you need to know about the sudden firing of Sam Altman"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2023-11-20T14:43:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-everything-you-need-to-know-about-the-sudden-firing-of-sam-altman/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 32
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2023/11/sam_altman_with_fire_around_him.jpg"
+        width: 1024
+        height: 640
+        isCached: true
+  - title: "What Elon Musk is really building inside his ChatGPT competitor xAI"
+    excerpt: "Musk himself has given mixed signals regarding the AGI inflection point. At the xAI launch, he said he agreed with futurist Ray Kurzweil that AGI would likely emerge around 2029, “give or take a year.” But in an October Tesla earnings call, he described his cars’ AI system as “basically baby AGI—it has to understand reality in order to drive.”"
+    publishedDateTime: 2023-11-20T12:00:00Z
+    webUrl: "https://www.aol.com/elon-musk-really-building-inside-100000200.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
 
 secured: "+L+VVPP6InTlX/jvVtVb4n/B1REWpWNM2+6JR9M3qOXo50nRcmPkJXzFDRIhn/VdSVcj03Z+h1CsYcehqKKFMG+Q2QFbiyOrmgxU4JpRrQsvTBCTWO7k1QBYRmMEBjpe4bd60u9U798z2/p5A0m9ScqIqzBtQzeWRSU7tcub3bB+SMMB/7jwR9y+qT9Y2dJbzHnP+5BBduSuqjj00jLNZOmRcyWSZt/rOHLOsr5SWLSKg9nHFNGH5uP/xsK6lUajeFe+PkIOaDqK4MynM0lkvwZ1/ncmQQfaksvWVWnlzcxXqsOx3/25xcT8cEnjcMLQ5cGypmG00Zc4reC7jjbqy21HbaemXM2NK49dELBZk0A=;Qy/e7tyrPVvLWrbEbxhICw=="
 ---

@@ -41,15 +41,20 @@ related:
         width: 1300
         height: 733
         isCached: true
-  - title: "Synopsys.ai Copilot accelerates AI-driven chip design"
-    excerpt: "Chip design software firm Synopsys has unveiled Synopsys.ai Copilot as an AI-driven accelerator for designing semiconductor chips."
-    publishedDateTime: 2023-11-15T21:24:00Z
-    webUrl: "https://venturebeat.com/ai/synopsys-ai-copilot-accelerates-ai-driven-chip-design/"
+  - title: "Effective accelerationism, doomers, decels, and how to flaunt your AI priors"
+    excerpt: "Several political perspectives are shaping quite a lot of the work on artificial intelligence, and so we need to understand them, especially now."
+    publishedDateTime: 2023-11-20T15:57:00Z
+    webUrl: "https://techcrunch.com/2023/11/20/e-acc-doomers-decels-openai-altman/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 64
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778704897.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Elastic Signs Strategic Collaboration Agreement with AWS to Accelerate Generative AI Solutions"
     excerpt: "Elastic, announced a new two-year global Strategic Collaboration Agreement with Amazon Web Services to make it easier for shared customers."
     publishedDateTime: 2023-11-17T15:55:00Z

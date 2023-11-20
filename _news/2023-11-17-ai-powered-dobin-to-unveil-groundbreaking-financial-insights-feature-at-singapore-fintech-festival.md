@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107445243/AI-Powered-Dobin-To-Unveil-Groundbre
 webUrl: "https://menafn.com/1107445243/AI-Powered-Dobin-To-Unveil-Groundbreaking-Financial-Insights-Feature-At-Singapore-Fintech-Festival"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -25,58 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Ramp taps AI as fintech hunts for growth"
-    excerpt: "Ramp and Brex have been vocal about how they believe AI will transform the way they operate and serve their customers."
-    publishedDateTime: 2023-11-15T23:06:00Z
-    webUrl: "https://techcrunch.com/2023/11/15/ramp-copilot-integration/"
+  - title: "Fintech Firms Could Capture Over 50% of Financial Services Revenue in Next 15 Years, Industry Professional Predicts"
+    excerpt: "Rex Salisbury says that in the next 15 years, Fintechs could potentially capture more than 50% of financial services revenue."
+    publishedDateTime: 2023-11-19T23:16:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/11/216348-fintech-firms-could-capture-over-50-of-financial-services-revenue-in-next-15-years-industry-professional-predicts/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216348-fintech-firms-could-capture-over-50-of-financial-services-revenue-in-next-15-years-industry-professional-predicts/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216348-fintech-firms-could-capture-over-50-of-financial-services-revenue-in-next-15-years-industry-professional-predicts/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
-  - title: "Iceland’s tech clustering – a volcanic focus on fintech"
-    excerpt: "Another area where fintech can play a part in improving the efficiency of financial trading and movement is in the identification and management of fraud, and in particular money laundering. Another member of Iceland’s fintech cluster, Lucinity, has set its sights on providing new tools for the task."
-    publishedDateTime: 2023-11-20T10:45:00Z
-    webUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech"
-    ampWebUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 44
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 22
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-11/kirkjufell-2148191_640.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/The-Future-of-Fintech.jpeg"
+        width: 1611
+        height: 1278
         isCached: true
-  - title: "How scammers' use of AI is affecting fintech investment"
-    excerpt: "Fraudsters are likely to increase their use of generative artificial intelligence to attack banks and other payment companies. Investors are using their own influence to fight back."
-    publishedDateTime: 2023-11-16T19:16:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/how-scammers-use-of-ai-is-affecting-fintech-investment"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 19
-  - title: "Pints AI, Toggle AI, Visa Crowned Winners at MAS’ Global Fintech Hackcelerator 2023"
-    excerpt: "MAS, in partnership with SFA, announced the winners of the Global Fintech Hackcelerator at the Singapore Fintech Festival (SFF) 2023."
-    publishedDateTime: 2023-11-17T01:28:00Z
-    webUrl: "https://fintechnews.sg/80546/singapore-fintech-festival-2023/pints-ai-toggle-ai-visa-crowned-winners-at-mas-global-fintech-hackcelerator-2023/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 13
-  - title: "The Soaring Growth of Fintech Startups in Hong Kong"
-    excerpt: "In recent years, Hong Kong has emerged as a dynamic hub for financial technology, witnessing a significant surge in the number of fintech startups. This phenomenon reflects a global trend where traditional financial systems are being reshaped by innovative technologies."
-    publishedDateTime: 2023-11-17T09:29:00Z
-    webUrl: "https://techbullion.com/the-soaring-growth-of-fintech-startups-in-hong-kong/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
 
 secured: "VhgeUrcWYL++/sz8lsoF5LriBHXfwJU8H0QdPhM0sxY6plWK+mnvdJon942Qx9DEDRxkhe+//D2Nupnh+TsKgj/7A6+rJENL6n33OENYCtiXz0+E7dL/fFl1aSIEv/XDIoFVM3/RAVlMkCqJOxFhtcfLYI0Gm/X4VWOJII3UpbxtwyWhddNPilQLDv1mKRZu0K15+av6WCIvTeh4IbQkTcRxjY+/xeJ0BiHH3RKJ6VQ66HIfyJgfWaxoSRUhPnT8JvkEFPSY13u3e4ilSxOqAyDp6uBXd8pcNscedc6S+kdFsA/W25B6+qj4HRb10Ffvdg2/FpL3VgDmzP2lPRAzajuzbBulwYyiaUOgUcvRDGM=;VwRPF/MkIiHjYe+6deQ/4Q=="
 ---

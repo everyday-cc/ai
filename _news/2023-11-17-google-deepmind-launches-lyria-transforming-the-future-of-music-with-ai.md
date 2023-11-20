@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "DeepMind Says New Multi-Game AI Is a Step Toward More General Intelligence"
+    excerpt: "A new Google DeepMind algorithm that can tackle a much wider variety of games could be a step towards more general AI, its creators say."
+    publishedDateTime: 2023-11-20T15:00:00Z
+    webUrl: "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/"
+    ampWebUrl: "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 72
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/11/chess-pieces-knights.jpeg"
+        width: 1408
+        height: 792
+        isCached: true
   - title: "Google DeepMind’s AI Pop Star Clone Will Freak You Out"
     excerpt: "Two new tools using DeepMind’s music generation algorithm Lyria let anyone make YouTube shorts using the AI-generated vocals of Demi Lovato, T-Pain, Troye Sivan and others. It’s haunting."
     publishedDateTime: 2023-11-17T14:00:00Z

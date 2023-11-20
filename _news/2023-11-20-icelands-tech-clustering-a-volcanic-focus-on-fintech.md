@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-finte
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,47 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Ramp taps AI as fintech hunts for growth"
-    excerpt: "Ramp and Brex have been vocal about how they believe AI will transform the way they operate and serve their customers."
-    publishedDateTime: 2023-11-15T23:06:00Z
-    webUrl: "https://techcrunch.com/2023/11/15/ramp-copilot-integration/"
+  - title: "Advent Fintech Platform to Buy myPOS, Betting on Small Businesses"
+    excerpt: "The private-equity firm set up payments company Al Circle Bidco to serve small merchants in Europe, a group historically underserved by banks."
+    publishedDateTime: 2023-11-16T22:36:00Z
+    webUrl: "https://www.wsj.com/articles/advent-fintech-platform-to-buy-mypos-betting-on-small-businesses-2ffcf662"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
-  - title: "AI-Powered Dobin To Unveil Groundbreaking Financial Insights Feature At Singapore Fintech Festival"
-    excerpt: "Revolutionary Financial App to help Singaporean achieve Financial Wellbeing  <li /> Dobin announced the launch of a first-of-its-kind 'F"
-    publishedDateTime: 2023-11-17T09:21:00Z
-    webUrl: "https://menafn.com/1107445243/AI-Powered-Dobin-To-Unveil-Groundbreaking-Financial-Insights-Feature-At-Singapore-Fintech-Festival"
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 34
+  - title: "Singapore’s fintech sector struggling to find talent"
+    excerpt: "In a 2021 Accenture survey, nearly two out of three firms blamed their talent gap on not being able to get work permits for foreigners. Nowadays, only 37 percent cite difficulty in securing employment passes as a hiring challenge. For this dramatic change, the employers and employees should thank Hong Kong."
+    publishedDateTime: 2023-11-20T15:59:00Z
+    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/11/21/2003809473"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?819939"
-        width: 375
-        height: 250
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
         isCached: true
-  - title: "How scammers' use of AI is affecting fintech investment"
-    excerpt: "Fraudsters are likely to increase their use of generative artificial intelligence to attack banks and other payment companies. Investors are using their own influence to fight back."
-    publishedDateTime: 2023-11-16T19:16:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/how-scammers-use-of-ai-is-affecting-fintech-investment"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 19
-  - title: "Pints AI, Toggle AI, Visa Crowned Winners at MAS’ Global Fintech Hackcelerator 2023"
-    excerpt: "MAS, in partnership with SFA, announced the winners of the Global Fintech Hackcelerator at the Singapore Fintech Festival (SFF) 2023."
-    publishedDateTime: 2023-11-17T01:28:00Z
-    webUrl: "https://fintechnews.sg/80546/singapore-fintech-festival-2023/pints-ai-toggle-ai-visa-crowned-winners-at-mas-global-fintech-hackcelerator-2023/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 13
   - title: "The Soaring Growth of Fintech Startups in Hong Kong"
     excerpt: "In recent years, Hong Kong has emerged as a dynamic hub for financial technology, witnessing a significant surge in the number of fintech startups. This phenomenon reflects a global trend where traditional financial systems are being reshaped by innovative technologies."
     publishedDateTime: 2023-11-17T09:29:00Z
@@ -77,7 +59,16 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 4
+  - title: "MAS launches latest range of fintech initiatives"
+    excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."
+    publishedDateTime: 2023-11-20T12:45:00Z
+    webUrl: "https://www.euromoney.com/article/2ch7qdhmxyq9fpfz71dz4/fintech/mas-launches-latest-range-of-fintech-initiatives"
+    type: article
+    provider:
+      name: Euromoney
+      domain: euromoney.com
+    quality: 4
 
-secured: "qRmSpNpMhOp1IR2xch3ntdrvjd0rsfDUgImUDd/apaZRNc8VQI8Mb6D++JdY/T4uJz6yWoV1JU1/R7UUx3cwJPxQtmOAsSGywz/8SRAuxDGPoeXgwB5+rOm4FhcaEvE/8UIeexpfIV/FiJ47imGhM55Jn44HH/O8uJSwhLnSYVZaXwJvYID7VXg0iTicgCp4PvkBCY9cpO0F5asmmLqRSgIJaBxDyn7LFEcUNDKpsJFqIm43Rza3Rrgd5W6imNEWuC+snmAGQeWBB1TLnNnSm+i46fVWBxZ289xW3sgzdmSNem6V2N/YlWvs9w4OCpyDcFYIVbYq2gs/tpAMF5lhQk3XvypzfjUXZj5KTET5Ml4=;hAiM/Wj8SEGLeAFn/7yHWg=="
+secured: "F1Ylo7AQF6buS4+jOku1Jh4W3fv2QtNWZFwavNCyemkvQEec19+qoEmde7uTmT0KTQygcWBnDsVwMDVGYwtgrBB+aFo1XCifmLKuQzvNRzP62/Tl3DfwovbmOC52jGhqvi2iCajji1UmmrQ06qEPoct7f3pUmVfTGbXYs8Pej12Pj173teMrbtrWPRwKyySUDNM+UxWGhP5+oMOKJxzf1hv6/XL6LaS5qC/6/YCoK+r3JjSsQ3vrQfXRObabUts8fbLApJD7qTosA5hMWnu3TOGk9surH84gLL1gjiUYxlthJTrhlIpACrxm+eJ+kLyYh0PGMLXUgyBYs5yZIIzzEzznWAeL6tT0xrJI2NtXQSsKZxFWZ31RT1CuxaCk6E/Mcy/7XPhc6bzbngO8dmbjPOsuiXRtz//W6agibAM+LYXWuDvjby5wBPVuIvCZSBFhlK1opEzToGmheaTxNVyxuKO9lpdQqwrfGoZBavAnq/X9ScMQ08AN1V7IRZXjIdlbf7geTWnXz/NGGbzEuO2eZw==;Ou/S0fhxi3s6n0ZuEzoO+A=="
 ---
 

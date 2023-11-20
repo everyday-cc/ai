@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-nasda
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-nasdaq-nvda-striving-for-ai-dominance-with-new-chip-launch-1032828581"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 781
     height: 440
     isCached: true
-
-related:
-  - title: "Microsoft Takes on Nvidia with the Launch of Azure Maia 100 AI Chip"
-    excerpt: "The Azure Maia AI Accelerator and the Azure Cobalt CPU’s introduction underscores Microsoft’s dedication to innovation and providing a diversified infrastructure stack. While the immediate impact on Nvidia’s dominance remains uncertain, the new releases set the stage for heightened competition and ongoing advancements in AI hardware technology."
-    publishedDateTime: 2023-11-15T22:48:00Z
-    webUrl: "https://techstory.in/microsoft-takes-on-nvidia-with-the-launch-of-azure-maia-ai-accelerator/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 66
 
 secured: "uK3IjEVb1U+qvfwOxUh10Ux1AYy/PTRcE1twz+mqyGPtsRs5RZ5iC2zNQLthp2RKypN0D0YmgKcgGk1rX4zuk6gUrNG1p1Et1V9FWn6c+W/hBGzW59zO86WKMd9EfR1tb2FBip/hdVFrygJBtv6cjZlm21j1A7EKTRzZHxWDHxOtawzVbrgH4ZtC9BgYXB3HygCyvG06+hmjBwZJ5JVRjR4CiNd5DOS4IL0mGiC187W5ojhddkJuLNEZx/LwpVw5EFgV2CU/KeOFuIqokfb6cGKiY0GM06TsfKKesiweXBrPTtAzq/QY16shylbo0V+AdrUhfP7M1qT8RJjLqwu1DYV9BHvdvMzzjz4e7mC3G1ZB4VuGpyI+fK7Iqi7LKcgjhq9c3TTJwev5MLAVljN4QhpHQXjWbcA0ITSuKvSkVsukQgN1bLXBwlvWHn8G7X31JuduZEa77c2+w6WYSevNLx3Bdm0J3lNpznk+viLgIeOLi4SFz7ghbGpcj2COonGu4VWFZZekYNhS2GR7Vy3hjA==;rAhtTPIeBSBb5lBHhwJnSg=="
 ---

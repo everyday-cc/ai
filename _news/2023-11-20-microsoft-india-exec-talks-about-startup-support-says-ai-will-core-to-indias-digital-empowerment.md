@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia launches AI foundry service for Microsoft Azure with new Nemotron-3 8B models"
-    excerpt: "With Nvidia’s AI foundry service on Azure, enterprises using the cloud platform will get all key elements required to build a custom, business-centered generative AI application at one place."
-    publishedDateTime: 2023-11-15T23:00:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-launches-ai-foundry-service-for-microsoft-azure-with-new-nemotron-3-8b-models/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
   - title: "Microsoft unveils new Azure Cobalt CPU and Maia 100 GPU designed for AI and the Cloud"
     excerpt: "Microsoft is finally making its own chips for the AI and Cloud market with the new Azure Cobalt 100 CPU and Maia 100 AI Accelerator."
     publishedDateTime: 2023-11-16T05:34:00Z
@@ -106,7 +97,16 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 39
+  - title: "Microsoft's CEO Just Made a Brilliant but Dangerous Announcement. It Could Change the Future of AI Forever"
+    excerpt: "CEO Sam Altman is coming to Microsoft. That could be a great advantage for Microsoft--but it could also set dangerous wheels into motion."
+    publishedDateTime: 2023-11-20T13:21:00Z
+    webUrl: "https://www.inc.com/justin-bariso/emotional-intelligence-microsoft-ceo-satya-nadella-openai-sam-altman.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 16
 
-secured: "5zRVuiWMWAau0quwF+erNAqA/OiiKH348t/xf+xh28MnX9bdaR4LqZoBNwSw+ikMdPobVdESTMztrhPAwssXJebN0EXFYVp+E3L2OQMNa/IK7R1h1X1c9jkgV0vYTEh96fNvQpDjndZYYfKqSSnBf9IToTW9/6naPDPXMOcIi4IJSccwZHrvcBZjRKOOfv/j/epWPl2Xc+aqk3SAQSM51ST2euvs0UnsXki1JAzEt0qzIRy1gWRTNpJr0g1ZqHyRxosAYcrsIasfzawORxdDS2Agwl1M2lxfh5PLo8fOYliSqumWntBfriz314wj3A5/qFerDdpwrMUTcfMOB2m+hve2hDSzuscDbHloHclFWvg=;je/ToHkARm7wDpQHVImWvQ=="
+secured: "YqXcb0xx1vLCbQJROe0KU1LqX0wrr6gVuZdVAWND6oqrekdz5eZnUoy6mQttmczEwTGjNW0FfgMKoAKMs0iPTRDNSJ75vjshLjqnj6zCyHpUSgO7sKPEAGka3C1JXhhAqTRIonVUEkMNEB3hPYfJPUKz0KkimJj/SH3t4xcQ9zQHGzM9Ja7Ft6ZYsealvKEGUAhcJo2zYvCLBqrpfsesfUDROUy3GOkxzhZ+9Hm/7dNUd9nVx3zL1kr+QHOHHBtkNLTaexsWJ7YpghLPmmzzw/vTH1V/+asNSlLKu0p+qojVMiliJBubSZDsvnNcohHnbOn26qYIy75tuDnVDsvaoQ2zcpSXzQ+tj7yhFzYWfJg0JotWdnSt05ELl7dWi2ZIC7kwmnYssgCNHV/6zFpTTeTbHZGOQl5hzoIOh0xSVwrBHMFMOMO8pydbjwrRxf+xbSuLtsTZUDUfT4TIy8z8DZJc8WYdgQsbRWgpsddLvGxokYxsPk0FbHwG7MNBOk3kLbPqxDmvJCGV12qIEnEuEA==;tUE5VXNmPUnVHyVNib1PzQ=="
 ---
 

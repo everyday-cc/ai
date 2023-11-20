@@ -231,15 +231,15 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 49
-  - title: "Microsoft’s Maia AI, Azure Cobalt chips to rev up efficiency, performance"
-    excerpt: "New chips from Microsoft along with other custom chips from the likes of AWS, Google and Oracle, though limited in their impact initially, are expected to provide stiff competition for chipmakers such as Nvidia,"
-    publishedDateTime: 2023-11-15T21:35:00Z
-    webUrl: "https://www.networkworld.com/article/1247268/microsofts-maia-ai-azure-cobalt-chips-to-rev-up-efficiency-performance.html"
+  - title: "Xbox Already Has Big AI Plans, Now It Has Sam Altman"
+    excerpt: "Sam Altman beefing up Microsoft's AI division will likely end up having ramifications for Xbox itself down the line."
+    publishedDateTime: 2023-11-20T14:39:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2023/11/20/xbox-already-has-big-ai-plans-now-it-has-sam-altman/"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 48
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "OpenAI’s leadership coup could slam brakes on growth in favor of AI safety"
     excerpt: "All the signs point to a split between co-founder Ilya Sutskever and Sam Altman, after Sutskever become increasingly concerned that Altman was pushing OpenAI's business expansion too quickly, at the expense of safety."
     publishedDateTime: 2023-11-18T23:02:00Z
@@ -258,6 +258,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 37
+  - title: "View | Microsoft's (Open)AI gambit pays off unexpectedly"
+    excerpt: "Sam Altman's departure from OpenAI to Microsoft marks a seismic shift in AI, potentially reshaping the competitive dynamics. Microsoft's strategic move may position it as a leader, intensifying tensions in Silicon Valley over innovation,"
+    publishedDateTime: 2023-11-20T14:23:00Z
+    webUrl: "https://www.cnbctv18.com/technology/microsoft-openai-gambit-pays-off-sam-altman-satya-nadella-microsoft-18369191.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 36
   - title: "Microsoft Rolls Out Host of New AI Features at Ignite 2023"
     excerpt: "From new copilots and AI development tools, to vector search and AI chips, artificial intelligence featured prominently in Microsoft’s annual Ignite"
     publishedDateTime: 2023-11-17T21:44:00Z
@@ -266,6 +275,15 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
+    quality: 34
+  - title: "Former OpenAI boss to lead Microsoft Advanced AI division"
+    excerpt: "Shenanigans over the weekend have seen OpenAI’s former CEO join Microsoft and Twitch’s former CEO step in as OpenAI’s interim CEO."
+    publishedDateTime: 2023-11-20T07:54:00Z
+    webUrl: "https://www.computerweekly.com/news/366560294/Former-OpenAI-boss-to-lead-Microsoft-Advanced-AI-division"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
     quality: 34
   - title: "Microsoft hires OpenAI's Sam Altman, Greg Brockman, and other researchers to head new advanced AI research team"
     excerpt: "Microsoft has hired Sam Altman, Greg Brockman, and other OpenAI researchers that left the startup in a dramatic series of events over Friday and the weekend."
@@ -281,6 +299,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Before he was fired, OpenAI's Altman sought billions for AI chip venture"
+    excerpt: "Only weeks before he was suddenly fired by OpenAI, CEO Sam Altman was seeking billions from investors to build an artificial intelligence chip company. The new venture, first reported by Bloomberg, would have been at least somewhat separate from OpenAI, but Altman pitched the business to investors who were not able to invest in the AI startup."
+    publishedDateTime: 2023-11-20T13:28:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/before-he-was-fired-openais-altman-sought-billions-for-ai-chip-venture/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 33
+  - title: "OpenAI Former CEO Joins Microsoft To Continue AI ‘Mission’; Satya Nadella Weighs-In"
+    excerpt: "Microsoft hires OpenAI CEO Sam Altman and others to lead a new advanced AI research team at Microsoft to drive GenAI and technology innovation."
+    publishedDateTime: 2023-11-20T14:07:00Z
+    webUrl: "https://www.crn.com/news/cloud/openai-former-ceo-joins-microsoft-to-continue-ai-mission-satya-nadella-weighs-in"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 28
+  - title: "Schneider Electric drives Generative AI productivity and sustainability solutions by integrating Microsoft Azure OpenAI"
+    excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of working• Collaboration with Microsoft in artificial intelligence is f"
+    publishedDateTime: 2023-11-18T13:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35862268/schneider-electric-drives-generative-ai-productivity-and-sustainability-solutions-by-integrating-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
   - title: "Schneider Electric drives Generative AI productivity and sustainability solutions by integrating Microsoft Azure OpenAI"
     excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of working Collaboration with Microsoft in artificial intelligence is focused on creating innovative solutions"
     publishedDateTime: 2023-11-20T09:01:00Z

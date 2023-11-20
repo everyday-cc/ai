@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "House lawmakers question 10 AV companies over ties to China"
-    excerpt: "In separate letters sent Wednesday to 10 companies — including Baidu, AutoX, Didi Chuxing, Nio, Pony.ai and XPeng — the lawmakers asked for details on the type of information collected by AVs deployed in the U."
-    publishedDateTime: 2023-11-17T02:02:00Z
-    webUrl: "https://www.autonews.com/mobility-report/lawmakers-press-chinese-av-companies-answers-data-collection"
+  - title: "Chinese robot combines wheels and legs to conquer any terrain"
+    excerpt: "It is part of a growing trend and demand for legged robots, especially in China, where the government and the industry are investing heavily in robotics and artificial intelligence ... Pre-orders will start later this year, along with performance, specs ..."
+    publishedDateTime: 2023-11-20T15:59:00Z
+    webUrl: "https://www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain"
+    ampWebUrl: "https://www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain.amp"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 4
+      name: Fox News
+      domain: foxnews.com
+    quality: 104
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99f695b8-7440-42e4-80d8-68e21dc124be/e3631157-0d31-40ee-901a-b7602a60acf4/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Uaw1V18NHQ+GOFgSoyA0XvqTYnYZ1kHKuXYMcLKrFL20zVF+d8LCKCNsPiJm5hzHoSDhq7+NUy5ywJTwgxL2qB8YtSeCmuWm1ekmYfnHCTailFMNsleRcAZxlaAbwPRO3GkHPnPUAST3yR5ex1cUyGlQmIEJ1pV1pkQCCCVSSg2zZusQ6v+XECxzyLjoD/DpDPSbtsInsQrBwypimIce17f2AlTg5sELcqxGMt7esAB6tu5gpWgqCILY/bI72TkFTPWTDlmeUi2C6dwVuwHZE2gVOvb5V+02uCl12U2HEVv5FR3l4ModTOlF9LdZ0nvr/mS06rVLg6yIVdxCxMcao4qKNet8579PXerzf7awzE3WKFzg0LNClHlMotCJJ8Pe2YVJF4UxloWC/Elrn7jKv35l+ET9HOecoKMJKfEo7Lyhl4/ZzX5/5/joDV8U6TmvFXZBrMnbMghXNrdlnO9vx8AHMWe0iSSpRRSO1R/4emmM+HzHtmbAeHtpe2Ety9cpwohiyPUsZWAi643pTS5AMA==;j3bFF5j50HkedryBpVx8SA=="
 ---

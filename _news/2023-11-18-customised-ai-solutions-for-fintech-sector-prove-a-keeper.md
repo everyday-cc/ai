@@ -49,6 +49,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "2024 fintech trends and Finextra’s predictions for the new year"
+    excerpt: "Launching today, Finextra’s PREDICT 2024 channel will gather insights and ideas from the industry's top thought leaders, capturing how the financial services industry will tap into technology trends  in 2024 and these predictions will be shared with our 800,000 monthly readers."
+    publishedDateTime: 2023-11-18T20:17:00Z
+    webUrl: "https://www.finextra.com/the-long-read/865/2024-fintech-trends-and-finextras-predictions-for-the-new-year"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "nMPNGNGa+hI/QTsNKnwfoNalnzv6CLBnyUdSKlqsJAFOI6uY73fFWLxZ3XByOx9RK//TpMrNmN4KmwF4SWZnXxPN5GHyeDEkVcCvFFzQZicc59CzwMJebUKNAqHac9kGzkeguaOd49bbATj//4enBls7da558n+G9+xVcTOe/DI1q22iexsY0HDUYNZnL0CuOy59bnV2Hv1IqOwTiKGPB3SRvEQxBZ0stmmoB0bupY2dNrgHzF3YRDQHz662oXNHUoVgVddrKOrIUmk51ZIG4aCyQvtOqjFZhxncgscPLd8GhHSBhGTwVPKOjfy1eMo9m82JR4tMzeIhp4kSQGrUfnwULrnSt+ua+r9IgrQewgc+hl/fjzQcVjJMoBp+TPe4V/+1oQc09lbxX5EBoTVdjYpvX81emt2PvpQ8scjW8MdZgmJ188agYroU3Mp7C0ZTR2Uyje4+SWzMC9I0hhZYY8P9+h0bZGTzvUp27aVMC1qNIgieh5JJbg1rR1hMg79us4qegZKUlRH2E5Zhd9aWew==;OX8x6amnF74wg4SAhw83OQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/google-deepminds-ai-pop-star-clone-wil
 webUrl: "https://www.wired.com/story/google-deepminds-ai-pop-star-clone-will-freak-you-out/"
 type: article
 quality: 64
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wired
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "DeepMind Says New Multi-Game AI Is a Step Toward More General Intelligence"
+    excerpt: "A new Google DeepMind algorithm that can tackle a much wider variety of games could be a step towards more general AI, its creators say."
+    publishedDateTime: 2023-11-20T15:00:00Z
+    webUrl: "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/"
+    ampWebUrl: "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 72
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/11/chess-pieces-knights.jpeg"
+        width: 1408
+        height: 792
+        isCached: true
   - title: "Google DeepMind unveils Lyria, a powerful GenAI model for music creation"
     excerpt: "Google's DeepMind division unveiled a sophisticated new AI called Lyria that can generate vocals, lyrics, and music mimicking popular artists."
     publishedDateTime: 2023-11-17T02:14:00Z

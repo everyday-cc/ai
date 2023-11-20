@@ -51,6 +51,20 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "Cruise CEO resigns after self-driving fleet pulled"
+    excerpt: "Kyle Vogt, the CEO of Cruise, General Motors’s (GM) autonomous vehicle unit, resigned Sunday amid growing safety concerns about the company’s self-driving fleet. Vogt announced his resignation late Sunday night on X,"
+    publishedDateTime: 2023-11-20T15:06:00Z
+    webUrl: "https://www.aol.com/news/cruise-ceo-resigns-self-driving-150632551.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_hill_articles_315/bf451bddd621fa2b5ebc529eff2f73da"
+        width: 900
+        height: 505
+        isCached: true
   - title: "Vogt resigns as CEO of Cruise over questions of safety of self-driving cars"
     excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars."
     publishedDateTime: 2023-11-20T06:06:00Z
@@ -64,18 +78,13 @@ related:
     quality: 22
   - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
     excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
-    publishedDateTime: 2023-11-20T05:04:00Z
-    webUrl: "https://www.bostonglobe.com/2023/11/20/business/vogt-resigns-ceo-cruise-following-safety-questions-recalls-self-driving-vehicles/"
+    publishedDateTime: 2023-11-20T09:44:00Z
+    webUrl: "https://www.houstonchronicle.com/business/article/vogt-resigns-as-ceo-of-cruise-following-safety-18503084.php"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 14
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Kppzcmm788btNPz0ZGvSRGJGP0c=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XEOENH2MWXH7ZM5VLLKUF7YAFE.jpg"
-        width: 506
-        height: 338
-        isCached: true
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 0
 
 secured: "+om5USJf+/aJLK16iB0As1BQ92ychdnuoFZLQJLnmOVLVWrPyIQEYUfD7jeo3avUFPXnYauSYidC698a/Ery7GID8Isk/QtHi5omoneIosGL922EyBbhbBmm+TmqBPjtMmhglGinbddFlgQpvl0vnUsIL8xnWUUe2o3ZdbHT0yppQSgoXr4eD6ygkATLOo073Ws5Yp5cSfN4k/o8NrGrTKzEi3MVZPbtIhWytFwqZ6ILqNmvr1wwG8bMmcRGWIWW09jQLoAyQEumOHvC5kLX1ZfKQ7GCm0fEq201PALaLVOC3YQn9wTcTvND+jV3HwlCDHKRB1E+HwVk/ICzzzyd7doLjYvU5YVdvuK0ADQsQKU=;ANCfAs8AdPOK065YGjmxew=="
 ---

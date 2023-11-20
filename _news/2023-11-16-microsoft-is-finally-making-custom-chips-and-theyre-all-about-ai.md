@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 related:
   - title: "Microsoft hires ex-OpenAI leaders Altman and Brockman to lead new AI group"

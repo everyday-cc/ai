@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.sg/80546/singapore-fintech-festival-2023/pints
 webUrl: "https://fintechnews.sg/80546/singapore-fintech-festival-2023/pints-ai-toggle-ai-visa-crowned-winners-at-mas-global-fintech-hackcelerator-2023/"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -17,65 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Ramp taps AI as fintech hunts for growth"
-    excerpt: "Ramp and Brex have been vocal about how they believe AI will transform the way they operate and serve their customers."
-    publishedDateTime: 2023-11-15T23:06:00Z
-    webUrl: "https://techcrunch.com/2023/11/15/ramp-copilot-integration/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
-  - title: "Iceland’s tech clustering – a volcanic focus on fintech"
-    excerpt: "Another area where fintech can play a part in improving the efficiency of financial trading and movement is in the identification and management of fraud, and in particular money laundering. Another member of Iceland’s fintech cluster, Lucinity, has set its sights on providing new tools for the task."
-    publishedDateTime: 2023-11-20T10:45:00Z
-    webUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech"
-    ampWebUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 44
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-11/kirkjufell-2148191_640.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "AI-Powered Dobin To Unveil Groundbreaking Financial Insights Feature At Singapore Fintech Festival"
-    excerpt: "Revolutionary Financial App to help Singaporean achieve Financial Wellbeing  <li /> Dobin announced the launch of a first-of-its-kind 'F"
-    publishedDateTime: 2023-11-17T09:21:00Z
-    webUrl: "https://menafn.com/1107445243/AI-Powered-Dobin-To-Unveil-Groundbreaking-Financial-Insights-Feature-At-Singapore-Fintech-Festival"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?819939"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "How scammers' use of AI is affecting fintech investment"
-    excerpt: "Fraudsters are likely to increase their use of generative artificial intelligence to attack banks and other payment companies. Investors are using their own influence to fight back."
-    publishedDateTime: 2023-11-16T19:16:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/how-scammers-use-of-ai-is-affecting-fintech-investment"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 19
-  - title: "The Soaring Growth of Fintech Startups in Hong Kong"
-    excerpt: "In recent years, Hong Kong has emerged as a dynamic hub for financial technology, witnessing a significant surge in the number of fintech startups. This phenomenon reflects a global trend where traditional financial systems are being reshaped by innovative technologies."
-    publishedDateTime: 2023-11-17T09:29:00Z
-    webUrl: "https://techbullion.com/the-soaring-growth-of-fintech-startups-in-hong-kong/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
 
 secured: "0gthnveD+LOT+MocWfhyINUemkm+MCuo2ql7w9qKYxrUVpRGmmVDG3dkn/Y+Vt8OLsydrpSBH4kkz3bEcBVs0JITtYXZiPIK3AiaYktQ931tJ7DesHrD8YRiyv9bkdQvS0lf4zaluTE8eL8iNLHa9gTWAz14yEwuQn9IsOPpmU+zLffAR3Bf1r9jwd6NujHg3MB7fmEVmrZzQvs0EldUpFfkBBMR+PPDsexL2HnjFF69JVjWDMCD7/x/+Ufg4wuI4ZEcWnW6AuikzaqoUbkqJKwSk8PES63qqBkzs2/44tiEeEY2KJaar7LM6xWPz4w7ETy9Byw0TXjbdVJsX/7/SpSV2VlmQ1erIxHCoJVyiw3DA1uQJlhXhyYP7Qm2WRAJQzf1lHCT3m5Tl40Z4OIibae0Q7u3qYMBoIVDbW2K3pWevM2RPUa+mcgZ/krP+RD/5+/VBvx00YKD2EaOxkBtmfC4B9ech01cqLLzw1auSq/Pt871GqYwTroiMQyid48eYSFkpSXFb7fmbq+IXL1VPw==;vav2u5lFxCZPVq9yHZoqlg=="
 ---

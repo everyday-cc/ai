@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Ramp taps AI as fintech hunts for growth"
-    excerpt: "Ramp and Brex have been vocal about how they believe AI will transform the way they operate and serve their customers."
-    publishedDateTime: 2023-11-15T23:06:00Z
-    webUrl: "https://techcrunch.com/2023/11/15/ramp-copilot-integration/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
   - title: "Iceland’s tech clustering – a volcanic focus on fintech"
     excerpt: "Another area where fintech can play a part in improving the efficiency of financial trading and movement is in the identification and management of fraud, and in particular money laundering. Another member of Iceland’s fintech cluster, Lucinity, has set its sights on providing new tools for the task."
     publishedDateTime: 2023-11-20T10:45:00Z
@@ -44,38 +35,38 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "AI-Powered Dobin To Unveil Groundbreaking Financial Insights Feature At Singapore Fintech Festival"
-    excerpt: "Revolutionary Financial App to help Singaporean achieve Financial Wellbeing  <li /> Dobin announced the launch of a first-of-its-kind 'F"
-    publishedDateTime: 2023-11-17T09:21:00Z
-    webUrl: "https://menafn.com/1107445243/AI-Powered-Dobin-To-Unveil-Groundbreaking-Financial-Insights-Feature-At-Singapore-Fintech-Festival"
+  - title: "Advent Fintech Platform to Buy myPOS, Betting on Small Businesses"
+    excerpt: "The private-equity firm set up payments company Al Circle Bidco to serve small merchants in Europe, a group historically underserved by banks."
+    publishedDateTime: 2023-11-16T22:36:00Z
+    webUrl: "https://www.wsj.com/articles/advent-fintech-platform-to-buy-mypos-betting-on-small-businesses-2ffcf662"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 34
+  - title: "Singapore’s fintech sector struggling to find talent"
+    excerpt: "In a 2021 Accenture survey, nearly two out of three firms blamed their talent gap on not being able to get work permits for foreigners. Nowadays, only 37 percent cite difficulty in securing employment passes as a hiring challenge. For this dramatic change, the employers and employees should thank Hong Kong."
+    publishedDateTime: 2023-11-20T15:59:00Z
+    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/11/21/2003809473"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?819939"
-        width: 375
-        height: 250
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
         isCached: true
-  - title: "How scammers' use of AI is affecting fintech investment"
-    excerpt: "Fraudsters are likely to increase their use of generative artificial intelligence to attack banks and other payment companies. Investors are using their own influence to fight back."
-    publishedDateTime: 2023-11-16T19:16:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/how-scammers-use-of-ai-is-affecting-fintech-investment"
+  - title: "MAS launches latest range of fintech initiatives"
+    excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."
+    publishedDateTime: 2023-11-20T12:45:00Z
+    webUrl: "https://www.euromoney.com/article/2ch7qdhmxyq9fpfz71dz4/fintech/mas-launches-latest-range-of-fintech-initiatives"
     type: article
     provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 19
-  - title: "Pints AI, Toggle AI, Visa Crowned Winners at MAS’ Global Fintech Hackcelerator 2023"
-    excerpt: "MAS, in partnership with SFA, announced the winners of the Global Fintech Hackcelerator at the Singapore Fintech Festival (SFF) 2023."
-    publishedDateTime: 2023-11-17T01:28:00Z
-    webUrl: "https://fintechnews.sg/80546/singapore-fintech-festival-2023/pints-ai-toggle-ai-visa-crowned-winners-at-mas-global-fintech-hackcelerator-2023/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 13
+      name: Euromoney
+      domain: euromoney.com
+    quality: 4
 
 secured: "xfu6ZcFJDQjWd85pyiok3w5I8ekZ0+49wbB4BbvHdXlgyVHwpKmQStF1Brp0QZRtU4qmWXjVfC/eiaZbbX8f3CBwyREBEaASWI9cJEtugT5uxcJ41PEh+XQkd4MOk47yM373kZYN3IV+YbYZ4ydqACZ54lzHpzpSBnPb6U2E6s8ehNpAFlEAeALgqCeAyL8f9ffOTNDG//PTgRVcRig5XZh+MuovOMC5Z+i0taY3tBaHViQglbaZpCL5UyFXl6VVZcdZ0SNT2GaOBXj6qhE9WPockbCHca4N1A+lEtyyA3CmtIj8awWNvUElSK0fAsiZZ42e8HQmdD88OEZnDJaPDEg3YA0bikswaM5aVYhmJMc=;+iCnw2VTnPW9R16hUvu+1Q=="
 ---
