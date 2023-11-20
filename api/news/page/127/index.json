@@ -2,6 +2,250 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2023-08-16-the-world-isnt-ready-for-the-next-decade-of-ai.md",
+      "title": "The World Isn’t Ready for the Next Decade of AI",
+      "excerpt": "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
+      "originalUrl": "https://www.wired.com/story/have-a-nice-future-podcast-18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64dbb4a1eb3f06fa8140d23f/191:100/w_1280,c_limit/081523-HANF-Mustafa-Suleyman.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI",
+        "Google AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-companies-put-ai-to-work-outside-the-cloud-trimming-costs.md",
+      "title": "Companies Put AI to Work Outside the Cloud, Trimming Costs",
+      "excerpt": "Advances in networking and algorithms are pushing computing-intensive apps beyond data centers and closer to the edge, CIOs say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/companies-put-ai-to-work-outside-the-cloud-trimming-costs-453b649e",
+      "originalUrl": "https://www.wsj.com/articles/companies-put-ai-to-work-outside-the-cloud-trimming-costs-453b649e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-836202/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt.md",
+      "title": "Saudi Arabia and UAE Compete for Nvidia Chips to Build More Powerful AI Tool Than ChatGPT",
+      "excerpt": "Saudi Arabia and the United Arab Emirates (UAE) are buying large quantities of high-performance Nvidia chips, which are essential for developing",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/",
+      "originalUrl": "https://propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2023/08/Nvidia.jpg",
+          "width": 1000,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/08/16/saudi-arabia-and-uae-compete-for-nvidia-chips-to-build-more-powerful-ai-tool-than-chatgpt/amp/",
+      "publishedDateTime": "2023-08-16T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-worlds-first-mass-produced-humanoid-robot-china-start-up-fourier-intelligence-eyes-two-legged-robots-with-ai-brains.md",
+      "title": "World’s first mass-produced humanoid robot? China start-up Fourier Intelligence eyes two-legged robots with AI brains",
+      "excerpt": "When Fourier Intelligence unveiled its lanky, jet-black humanoid robot GR-1 at the World Artificial Intelligence Conference (WAIC) in Shanghai in July, it instantly stole the show. While the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3230850/worlds-first-mass-produced-humanoid-robot-china-start-fourier-intelligence-eyes-two-legged-robots-ai",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3230850/worlds-first-mass-produced-humanoid-robot-china-start-fourier-intelligence-eyes-two-legged-robots-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/11/8945fe8e-9967-46d4-881b-bf54fdddf29d_b80c6778.jpg?itok=qSSd2jDl&v=1691761856",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3230850/worlds-first-mass-produced-humanoid-robot-china-start-fourier-intelligence-eyes-two-legged-robots-ai",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3230850/worlds-first-mass-produced-humanoid-robot-china-start-fourier-intelligence-eyes-two-legged-robots-ai",
+      "publishedDateTime": "2023-08-15T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-scientists-discover-external-protein-network-can-help-stabilize-neural-connections.md",
+      "title": "Scientists discover external protein network can help stabilize neural connections",
+      "excerpt": "used biochemical and genetic methods to explore the complex network of extracellular proteins maintaining the localization of AMPA-type glutamate receptors at neural synapses. The researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230816114059.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230816114059.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-superglue-benchmark-challenges-natural-language-processing-tasks.md",
       "title": "SuperGLUE benchmark challenges natural language processing tasks",
       "excerpt": "Artificial intelligence researchers want to advance natural language processing with the release of SuperGLUE. SuperGLUE builds off of the previous General Language Understanding Evaluation (GLUE ...",
@@ -926,238 +1170,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-h2oai-achieves-soc2-type-2-hipaahitech-report.md",
-      "title": "H2O.ai Achieves SOC2 Type 2 +HIPAA/HITECH Report",
-      "excerpt": "H2O.ai Achieves SOC2 Type 2 +HIPAA/HITECH Report - Reinforcing Commitment to Data Security and Customer Trust (Graphic: AICPA) H2O.ai's Chief Information Security Officer (CISO), David Epperson, expressed his pride in the team's accomplishment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/h2o-ai-achieves-soc2-type-2-hipaa-hitech-report/article_1ab7f8f6-1e43-589d-a37e-bb30a6ee7671.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/h2o-ai-achieves-soc2-type-2-hipaa-hitech-report/article_1ab7f8f6-1e43-589d-a37e-bb30a6ee7671.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/c/28/c280439b-13bb-5dfc-9f65-a08ba10ae4b1/64dba337f4165.image.jpg?crop=802%2C421%2C0%2C190&resize=802%2C421&order=crop%2Cresize",
-          "width": 802,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-learn-as-you-search-and-browse-using-generative-ai.md",
-      "title": "Learn as you search (and browse) using generative AI",
-      "excerpt": "New updates to Search Generative Experience (SGE) help people easily learn new things and understand key concepts while searching online.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/google-search-generative-ai-learning-features/",
-      "originalUrl": "https://blog.google/products/search/google-search-generative-ai-learning-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search-Back-to-School-2.width-1300.jpg",
-          "width": 1300,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/google-search-generative-ai-learning-features/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-learning-features/amp/",
-      "publishedDateTime": "2023-08-15T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-kneron-to-release-ai-chip-this-year.md",
-      "title": "Kneron to release AI chip this year",
-      "excerpt": "In the world of generative AI, it’s a battle of computing power and getting the fastest and most powerful chips. Now, AI edge company Kneron announced it will ship its new neural processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/8/15/23832152/kneron-release-ai-chip-npu",
-      "originalUrl": "https://www.theverge.com/2023/8/15/23832152/kneron-release-ai-chip-npu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-15T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-tomahawk-robotics-to-provide-radio-agile-integrated-devices-raid-systems-to-the-united-states-marine-corps-for-infantry-battalion-exercise.md",
-      "title": "Tomahawk Robotics to Provide Radio Agile Integrated Devices (RAID) Systems to the United States Marine Corps for Infantry Battalion Exercise (IBX)",
-      "excerpt": "Tomahawk Robotics is pleased to announce that ADS Inc. has been awarded a $3.5 million delivery order of RAID systems by DLA Troop Support, on behalf of Marine Corps",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33862229/tomahawk-robotics-to-provide-radio-agile-integrated-devices-raid-systems-to-the-united-states-mari",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33862229/tomahawk-robotics-to-provide-radio-agile-integrated-devices-raid-systems-to-the-united-states-mari",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33862229",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33862229",
-      "publishedDateTime": "2023-08-15T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-whatsapp-is-testing-ai-generated-stickers.md",
-      "title": "WhatsApp is testing AI-generated stickers",
-      "excerpt": "WhatsApp is testing the ability to create custom stickers using generative AI. According to WABetaInfo, the feature is available to a small number of testers through the Google Play Beta Program. Meta is said to be preparing to roll out the tool more broadly in the coming weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/whatsapp-is-testing-ai-generated-stickers-150614153.html",
-      "originalUrl": "https://www.engadget.com/whatsapp-is-testing-ai-generated-stickers-150614153.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/M4t6RCx511JKkPiOPQ21Vw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/8141dc10-3b7a-11ee-bcff-41515f8b20c0.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/whatsapp-is-testing-ai-generated-stickers-150614153.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/whatsapp-is-testing-ai-generated-stickers-150614153.html",
-      "publishedDateTime": "2023-08-15T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

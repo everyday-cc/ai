@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/transactional/ai-chatbot-can-pass-na
 webUrl: "https://www.reuters.com/legal/transactional/ai-chatbot-can-pass-national-lawyer-ethics-exam-study-finds-2023-11-16/"
 type: article
 quality: 64
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -32,15 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "How Artificial Intelligence Drives Virtual Assistants and Chatbots"
-    excerpt: "Introduction Welcome to a world where virtual assistants and chatbots seamlessly weave into our daily lives, transforming how we engage with technology. From the familiar voices of Siri and Alexa to the helpful bots on websites,"
-    publishedDateTime: 2023-11-15T09:58:00Z
-    webUrl: "https://techbullion.com/how-artificial-intelligence-drives-virtual-assistants-and-chatbots/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
 
 secured: "l8MRYkYfgiOfufsB8s7sKNHAPiEkVEbRf5qHo7a07EaVc0rim7HgzT3e4M8ZT+aJMqe/KD/2HY+FUOWY/d+o7CFhO6hQnMRzzkIz+f0bJl9g/TDAZwxu0nAWLNw3MUWd7haYe/wA6S661Uwmi4odD8QK6MJ5uVVCizWbImbp/vPqWxp9+UzWucCdZNGNvDYWsrDGBAi+rgYYH4u+ZwbdT7CVl/mb0HZh/400Cz0xI/HJ7xFObLk4n6A+dYFpo8/snyWR8zM3xNPdGQOigAM2WWSfA5hl1ukezSLCXBwEKsLdtNjp16Pohe1+tbDGwDkVShpKeBRxolSVb1JpSJoVmFQ155yw+T4F0AY098TqHM92ZuOk8ve8DueHY0YYVx4F9mRkpVffX+923es2wMfawn1eOgBROcrNjlA+C1nzkCnTVp5z5VUDjj1cLtxcEwSY6p2TFiXrR5uQ0fdAC6BhtY/bXV4rwQP/J+4NfsEd7lRv+PlP0oPRiWJimmKglE4RRpm6xxQoFVySunfRAvBzYQ==;y0PhVZTxCVKdV400X5VYlg=="
 ---

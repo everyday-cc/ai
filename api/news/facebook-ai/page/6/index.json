@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-03-facebook-launches-ai-powered-music-generator.md",
+      "title": "Facebook launches AI-powered music generator",
+      "excerpt": "Facebook-owner Meta Platforms has launched AudioCraft — an artificial intelligence (AI) powered music generator — offering realistic audio and music from text. The generator is based on three ...",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html",
+      "originalUrl": "https://mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html/amp",
+      "publishedDateTime": "2023-08-03T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-ai-supported-screenings-increase-breast-cancer-detection-by-20-study-says.md",
       "title": "AI-supported screenings increase breast cancer detection by 20%, study says",
       "excerpt": "The group whose scans were assisted by AI found 20% more cancers than the group without AI assistance. However, this doesn’t mean hospitals will let a computer determine whether a patient has cancer any time soon. The authors of the study say there is still a lot more research to do.",

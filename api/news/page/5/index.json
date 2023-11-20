@@ -2,6 +2,108 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-13-generative-ai-updates-from-aws-summit-2023-nyc-about-amazon.md",
+      "title": "Generative AI updates from AWS Summit 2023 NYC – About Amazon",
+      "excerpt": "In his keynote speech, Swami Sivasubramanian, vice president of Database, Analytics, and Machine Learning at Amazon Web Services (AWS), said he expects that",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/794266/generative-ai-updates-from-aws-summit-2023-nyc-about-amazon/",
+      "originalUrl": "https://www.inferse.com/794266/generative-ai-updates-from-aws-summit-2023-nyc-about-amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T18:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-7-different-types-of-artificial-intelligence-explained.md",
+      "title": "7 Different types of artificial intelligence explained",
+      "excerpt": "When delving into the world of artificial intelligence ... a key feature in applications like self-driving cars. The most advanced theoretical categories, Theory of Mind and Self-Aware AI, represent systems that could understand and process human emotions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/7-types-of-ai/",
+      "originalUrl": "https://www.geeky-gadgets.com/7-types-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course.md",
+      "title": "Artificial Intelligence and Social-Emotional Learning Are on a Collision Course",
+      "excerpt": "Artificial intelligence is poised to dramatically influence how kids develop their sense of self and interact with one another, their teachers, their families, and the broader world. And this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.edweek.org/artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course/2023/11",
+      "originalUrl": "https://www.edweek.org/artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course/2023/11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Education Week",
+        "domain": "edweek.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-13-biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research.md",
       "title": "BioStrand® Unveils a Revolutionary Approach to Biological Sequence Retrieval: A Fusion of Natural Language Processing and Database Research",
       "excerpt": "“New Paradigm for Biological Sequence Retrieval Inspired by Natural Language Processing and Database Research” on bioRχiv. We apologize, but this video has failed to load. Try refreshing your browser, or tap here to see other videos from our tea",
@@ -139,6 +241,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-13-ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.md",
+      "title": "‘AI is here.’ Ypsilanti schools weigh integrity, ethics of new technology",
+      "excerpt": "Ypsilanti Community Schools has been carefully rolling AI-powered tools into its lesson plans since last summer, officials said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/ann-arbor/2023/11/ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.html?outputType=amp",
+      "originalUrl": "https://www.mlive.com/news/ann-arbor/2023/11/ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.html?outputType=amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/L5CF7OQNPRH3XDLAFN2CVVGBME.JPG",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/ann-arbor/2023/11/ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2023/11/ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.html?outputType=amp",
+      "publishedDateTime": "2023-11-12T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-13-how-acting-small-can-deliver-big-thinking-for-service-transformation.md",
       "title": "How acting small can deliver big thinking for service transformation",
       "excerpt": "Today’s citizens live in a world of effortless digital experiences. They expect information to be easy to find, and for services to meet their specific needs.  And when they do need help – they want it to be available instantly.",
@@ -260,40 +405,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-13-ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.md",
-      "title": "‘AI is here.’ Ypsilanti schools weigh integrity, ethics of new technology",
-      "excerpt": "Ypsilanti Community Schools has been carefully rolling AI-powered tools into its lesson plans since last summer, officials said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/news/ann-arbor/2023/11/ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.html",
-      "originalUrl": "https://www.mlive.com/news/ann-arbor/2023/11/ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-12-artificial-intelligence-is-not-an-existential-threat-yet.md",
       "title": "Artificial Intelligence is not an existential threat – yet",
       "excerpt": "I’m sorry that I didn’t get my article on Artificial Intelligence last week during the ‘AI Safety Summit’ at Bletchley Park, the historic Second World War decoding centre in England. I got distracted by some other stuff that was happening in the Middle East.",
@@ -324,6 +435,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-12-is-artificial-intelligence-all-that-intelligent-ai-influencers-worry-about-wishful-thinking.md",
+      "title": "Is artificial intelligence all that intelligent? AI influencers worry about wishful thinking",
+      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/ai-chiang-bender-wishful-thinking/",
+      "originalUrl": "https://www.geekwire.com/2023/ai-chiang-bender-wishful-thinking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/11/231111-ai.jpg",
+          "width": 3427,
+          "height": 2770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T01:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -528,6 +691,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-11-get-ready-for-the-wild-wild-west-of-artificial-intelligence.md",
+      "title": "Get Ready for The Wild, Wild West of Artificial Intelligence",
+      "excerpt": "Editor’s Note: There are many different ways to invest in the artificial intelligence space ... based interactions – from images we post on Facebook, to Zoom calls, to streaming videos ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/get-ready-for-the-wild-wild-west-of-artificial-intelligence-1032809029",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/get-ready-for-the-wild-wild-west-of-artificial-intelligence-1032809029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-11T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -759,246 +965,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-how-to-implement-enterprise-resource-planning-erp.md",
-      "title": "How to implement enterprise resource planning (ERP)",
-      "excerpt": "To benefit from ERP adoption, the system must be deployed properly and efficiently. Here are six steps to successfully implement ERP.\nThe post How to implement enterprise resource planning (ERP) appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/enterprise-resource-planning-implementation/",
-      "originalUrl": "https://www.ibm.com/blog/enterprise-resource-planning-implementation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T12:57:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain.md",
-      "title": "Build trust and safety for generative AI applications with Amazon Comprehend and LangChain",
-      "excerpt": "We are witnessing a rapid increase in the adoption of large language models (LLM) that power generative AI applications across industries. LLMs are capable of a variety of tasks, such as generating creative content, answering inquiries via chatbots, generating code, and more. Organizations looking to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 251,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T12:39:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-ai-makes-you-worse-at-what-youre-good-at.md",
-      "title": "AI makes you worse at what you’re good at",
-      "excerpt": "I know, this happens every damn week: I start with the intention of writing this newsletter without going up to my eyelashes into the AI morass, and every week, y’all keep reading our AI news as if your livelihood depends on it. Because, well ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/",
-      "originalUrl": "https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-648822953.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/amp/",
-      "publishedDateTime": "2023-11-10T12:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-a-hyped-ai-based-restaurant-opened-to-fanfare-last-month-in-san-francisco-now-its-empty.md",
-      "title": "A hyped AI-based restaurant opened to fanfare last month in San Francisco; now its empty",
-      "excerpt": "A bespoke San Francisco nutrition shop promised to blend up AI-inspired smoothies. Two months after opening, the shop's owners shuttered the business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/hyped-ai-based-restaurant-opened-fanfare-last-month-san-francisco-now-empty",
-      "originalUrl": "https://www.foxnews.com/us/hyped-ai-based-restaurant-opened-fanfare-last-month-san-francisco-now-empty",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31bebe45-782f-4b1c-a841-736695a22921/0a8e08e5-6077-4c1b-a8f5-2f7645837724/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/hyped-ai-based-restaurant-opened-fanfare-last-month-san-francisco-now-empty.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/hyped-ai-based-restaurant-opened-fanfare-last-month-san-francisco-now-empty.amp",
-      "publishedDateTime": "2023-11-10T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-the-lack-of-clarity-on-the-ai-pins-accessibility-begs-the-question-humane-for-whom.md",
-      "title": "The Lack Of Clarity On The AI Pin’s Accessibility Begs The Question: Humane For Whom?",
-      "excerpt": "The device, which feels spiritually similar to a Star Trek communicator, is a wearable that a person wears on their clothing and can ask questions of its onboard",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevenaquino/2023/11/10/the-lack-of-clarity-on-the-ai-pins-accessibility-begs-the-question-humane-for-whom/",
-      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2023/11/10/the-lack-of-clarity-on-the-ai-pins-accessibility-begs-the-question-humane-for-whom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654e6cd4481494f9410e2382/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 705,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2023/11/10/the-lack-of-clarity-on-the-ai-pins-accessibility-begs-the-question-humane-for-whom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/11/10/the-lack-of-clarity-on-the-ai-pins-accessibility-begs-the-question-humane-for-whom/amp/",
-      "publishedDateTime": "2023-11-10T09:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

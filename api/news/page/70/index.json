@@ -2,6 +2,194 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-09-25-these-new-tools-could-make-ai-vision-systems-less-biased.md",
+      "title": "These new tools could make AI vision systems less biased",
+      "excerpt": "Thong and Xiang’s team developed a tool— shared exclusively with MIT Technology Review—that expands the skin-tone scale into two dimensions, measuring both skin color (from light to dark) and skin hue (from red to yellow). Sony is making the tool freely available online .",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/09/25/1080191/these-new-tools-could-make-ai-vision-systems-less-biased/",
+      "originalUrl": "https://www.technologyreview.com/2023/09/25/1080191/these-new-tools-could-make-ai-vision-systems-less-biased/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/09/color-eyes2.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/09/25/1080191/these-new-tools-could-make-ai-vision-systems-less-biased/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/25/1080191/these-new-tools-could-make-ai-vision-systems-less-biased/amp/",
+      "publishedDateTime": "2023-09-25T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-ai-in-computer-vision-market-overview-2023-and-forecast-till-2030-report-pages-108.md",
+      "title": "AI In Computer Vision Market Overview 2023 and Forecast till 2030 | Report Pages 108",
+      "excerpt": "Recently Updated comprehensive108-Page Reporton the AI In Computer Vision Market, this analysis deep dives into market size, share, and industry trends. According to our latest research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34872507/ai-in-computer-vision-market-overview-2023-and-forecast-till-2030-report-pages-108",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34872507/ai-in-computer-vision-market-overview-2023-and-forecast-till-2030-report-pages-108",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34872507",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34872507",
+      "publishedDateTime": "2023-09-25T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-machine-learning-unravels-mysteries-of-atomic-geometry.md",
+      "title": "Machine learning unravels mysteries of atomic geometry",
+      "excerpt": "New research has used machine learning to find the properties of atomic pieces of geometry, in pioneering work that could drive the development of new results in mathematics.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.html",
+      "originalUrl": "https://phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-unrav.jpg",
+          "width": 1350,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.amp",
+      "publishedDateTime": "2023-09-25T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-heygen-launches-ai-video-translation-tool.md",
+      "title": "HeyGen Launches AI Video Translation Tool",
+      "excerpt": "Los Angeles-based HeyGen, a startup which provides tools to help people creater \"explainer\" videos using animated avatars, showed off a new, artificial intelligence-based tool that it says can translate videos from one language into another--including matching a person's lip movements and their voice.",
+      "sourceUrl": null,
+      "webUrl": "https://socaltech.com/heygen_launches_ai_video_translation_tool/s-0083649.html",
+      "originalUrl": "https://socaltech.com/heygen_launches_ai_video_translation_tool/s-0083649.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Incubators",
+        "domain": "socaltech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-speech-recognition-software-market-forecast-2024key-features-2031.md",
+      "title": "Speech Recognition Software Market Forecast 2024|Key Features 2031",
+      "excerpt": "Global \"Speech Recognition Software Market\" report identifies crucial segments and dynamics, categorizing information to enhance investor comprehension with |115 pages Latest Report| Information ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34869779/speech-recognition-software-market-forecast-2024-key-features-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34869779/speech-recognition-software-market-forecast-2024-key-features-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34869779",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34869779",
+      "publishedDateTime": "2023-09-25T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-25-spotify-uses-ai-voice-cloning-to-translate-podcasts-into-other-languages.md",
       "title": "Spotify Uses AI Voice Cloning to Translate Podcasts Into Other Languages",
       "excerpt": "The tech retains an English-speaking host's voice and style and translates their podcasts into Spanish, French, and German. Look for it on shows from Dax Shepard, Bill Simmons, and more.",
@@ -894,214 +1082,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-amazon-anthropic-to-use-awss-trainium-chips-amazon-to-invest-in-anthropic.md",
-      "title": "Amazon: Anthropic To Use AWS's Trainium Chips; Amazon To Invest In Anthropic",
-      "excerpt": "Amazon (AMZN) and Anthropic announced a strategic collaboration in safer generative artificial intelligence. Anthropic is an AI",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-anthropic-to-use-aws-s-trainium-chips-amazon-to-invest-in-anthropic-1032651757",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-anthropic-to-use-aws-s-trainium-chips-amazon-to-invest-in-anthropic-1032651757",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-amazon-to-invest-up-to-4bn-in-ai-start-up-anthropic.md",
-      "title": "Amazon to invest up to $4bn in AI start-up Anthropic",
-      "excerpt": "Amazon plans to invest up to $4bn in artificial intelligence start-up Anthropic ... is already among a range of AI products available on AWS’s Bedrock service, which allows customers to build ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/1621f6ee-41da-48a7-98c9-fa161883dc6f",
-      "originalUrl": "https://www.ft.com/content/1621f6ee-41da-48a7-98c9-fa161883dc6f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-deepmind-ai-revolutionizes-genetic-disease-research-with-alphamissense.md",
-      "title": "DeepMind AI Revolutionizes Genetic Disease Research with AlphaMissense",
-      "excerpt": "Emerging gene-editing tools like CRISPR offer the possibility of correcting these genetic errors, offering hope for life-changing treatments. However, the challenge has been daunting. With over 70 million potential permutations of DNA letter swaps within the human genome,",
-      "sourceUrl": null,
-      "webUrl": "https://www.indrastra.com/2023/09/deepmind-ai-revolutionizes-genetic.html",
-      "originalUrl": "https://www.indrastra.com/2023/09/deepmind-ai-revolutionizes-genetic.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTT0c1wRp_5UVtle_fd8e6_6BycUjCqrrBtWl7N6taLWKVY7l9K1Tyk79tTeNg0JWppTnv1CboVj0cWHcWvuS_UhhvlcoPzZFnAnFitIwYgcQT7xlZmod4f63h9XVEMsUciDYFTwvVL0p-y2B8WhuZK9h1MljPcvZPg58SaKUagbq06TzcT0kVP-PaeM0/w640-h360/deepmind.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "indrastra",
-        "domain": "indrastra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-rebellions-ai-chip-to-undergo-ibm-quality-testing.md",
-      "title": "Rebellions' AI chip to undergo IBM quality testing",
-      "excerpt": "Korean AI semiconductor startup Rebellions said Monday that its chips were set to undergo quality testing at data centers of IBM Research's AI Hardware Center in New York. IBM Research's AI Hardware Center conducts exhaustive quality testing for enterprise-grade data center processors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20230925000638",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20230925000638",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F09%2F25%2F20230925000591_0.jpg",
-          "width": 630,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20230925000638",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230925000638",
-      "publishedDateTime": "2023-09-24T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste.md",
-      "title": "Elon Musk showcases Tesla humanoid robot performing Yoga, Namaste",
-      "excerpt": "Elon Musk showcased the Tesla humanoid robot named 'Optimus' in a video where it performed yoga postures and greeted followers with a 'Namaste'. Optimus has the ability to self-calibrate its arms and legs and can locate its limbs in space using vision and joint position encoders.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/articleshow/103921976.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/articleshow/103921976.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-46754,msid-103922095/musk-showcases-tesla-humanoid-robot-performing-yoga-namaste.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/amp_articleshow/103921976.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/amp_articleshow/103921976.cms",
-      "publishedDateTime": "2023-09-24T22:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

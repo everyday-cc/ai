@@ -46,15 +46,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "DeepMind claims it can boost weather prediction with AI"
-    excerpt: "DeepMind claims its GraphCast AI can make accurate 10-day weather forecasts in less than a minute thanks to the power of deep learning."
-    publishedDateTime: 2023-11-15T09:52:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/google-deepmind-weather-prediction-ai-graphcast"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 34
   - title: "Google DeepMind AI Nails Super Accurate 10-Day Weather Forecasts"
     excerpt: "Google DeepMind researchers say their new GraphCast AI is now the world's most accurate 10-day global weather forecasting system."
     publishedDateTime: 2023-11-16T20:41:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/google-deepminds-ai-pop-star-clone-wil
 webUrl: "https://www.wired.com/story/google-deepminds-ai-pop-star-clone-will-freak-you-out/"
 type: article
 quality: 64
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "DeepMind claims it can boost weather prediction with AI"
-    excerpt: "DeepMind claims its GraphCast AI can make accurate 10-day weather forecasts in less than a minute thanks to the power of deep learning."
-    publishedDateTime: 2023-11-15T09:52:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/google-deepmind-weather-prediction-ai-graphcast"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 34
   - title: "Google’s DeepMind builds AI for more accurate weather forecasts"
     excerpt: "Google’s DeepMind has developed an artificial intelligence model that uses decades of historical weather conditions to produce accurate 10-day forecasts in less than a minute."
     publishedDateTime: 2023-11-15T11:30:00Z

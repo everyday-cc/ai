@@ -216,6 +216,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-14-artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course.md",
+      "title": "Artificial Intelligence and Social-Emotional Learning Are on a Collision Course",
+      "excerpt": "Artificial intelligence is poised to dramatically change how kids develop their sense of self and interact with other people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.edweek.org/leadership/artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course/2023/11",
+      "originalUrl": "https://www.edweek.org/leadership/artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course/2023/11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://epe.brightspotcdn.com/dims4/default/32c09bb/2147483647/strip/true/crop/3000x2006+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2Fdd%2F2d%2Fe84d750c411b8d86b81e946c33df%2Fai-sel-1634086519.jpg",
+          "width": 942,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Education Week",
+        "domain": "edweek.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-israeli-startup-gets-new-fda-okay-for-ai-led-diabetes-therapy.md",
       "title": "Israeli Startup Gets New FDA Okay For AI-Led Diabetes Therapy",
       "excerpt": "An Israeli startup that uses AI to help manage diabetic treatments has received a fifth clearance from the FDA",
@@ -1148,49 +1191,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-29-ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns.md",
-      "title": "AI in Healthcare: WHO's Call for Regulation Underscores Risk Concerns",
-      "excerpt": "The WHO has introduced six domains for overseeing AI in the healthcare sector, emphasizing the need to address the risks linked to AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
-      "originalUrl": "https://www.medindia.net/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/infertile-men-faster-accurately-than-doctors.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
-      "publishedDateTime": "2023-10-29T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },
