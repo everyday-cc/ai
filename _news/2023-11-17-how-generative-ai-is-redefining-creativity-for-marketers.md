@@ -51,6 +51,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Meta’s Responsible AI Team Disbanded, Paves the Way for Generative AI Dominance"
+    excerpt: "Meta, the parent company of Facebook and Instagram, has dissolved its Responsible ... projects like the custom silicon unit in its Reality Labs and the Fundamental AI Research department with its AI protein-folding team. Zuckerberg said, “Our single ..."
+    publishedDateTime: 2023-11-21T01:12:00Z
+    webUrl: "https://techreport.com/news/metas-responsible-ai-team-disbanded-paves-the-way-for-generative-ai-dominance/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 35
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/11/shutterstock_2297040931.jpg?_t=1700557978"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Amazon to cut jobs at Alexa unit to sharpen focus on generative AI"
     excerpt: "Amazon’s Alexa division is set to suffer another round of job cuts as the company plans to discontinue some initiatives in favor of new generative AI projects."
     publishedDateTime: 2023-11-20T18:25:00Z

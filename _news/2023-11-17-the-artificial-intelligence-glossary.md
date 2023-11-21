@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/legaltechnews/2023/11/15/the-artificial-intell
 webUrl: "https://www.law.com/legaltechnews/2023/11/15/the-artificial-intelligence-glossary/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is impacting the music industry"
-    excerpt: "AI covers have taken over our social media feeds. How will this trend, and the use of musicians' voices, impact the music industry?"
-    publishedDateTime: 2023-11-20T02:01:00Z
-    webUrl: "https://www.thepostathens.com/article/2023/11/ai-music-industry-2023-artificial-intelligence"
+  - title: "Fortune 50 AI Innovators"
+    excerpt: "Big Blue, based in Armonk, N.Y., was early to the AI game with Watson, which was first introduced over two decades ago, mesmerizing the world with what the tech could do. In 2023, the company launched its generative AI offerings,"
+    publishedDateTime: 2023-11-20T22:45:00Z
+    webUrl: "https://fortune.com/ranking/ai-innovators/2023/ibm/"
     type: article
     provider:
-      name: The Post
-      domain: thepostathens.com
-    quality: 37
+      name: Fortune
+      domain: fortune.com
+    quality: 69
     images:
-      - url: "https://snworksceo.imgix.net/ohi/46d06f70-b794-4f33-92d0-a5f49f020eff.sized-1000x1000.png?w=800&h=600"
-        width: 776
-        height: 600
+      - url: "https://content.fortune.com/wp-content/uploads/2023/11/AI-Innovators-2023-IBM.jpg?w=1440&q=75"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "The ethics of AI photography"
-    excerpt: "Australian Geographic's photo editor Nicky Catley explores the whys and wherefores of the relatively new world of artificial intelligence–generated imagery."
-    publishedDateTime: 2023-11-20T01:18:00Z
-    webUrl: "https://www.australiangeographic.com.au/topics/opinion-and-analysis/2023/11/the-ethics-of-ai-photography/"
-    type: article
-    provider:
-      name: Australian Geographic
-      domain: australiangeographic.com.au
-    quality: 34
 
 secured: "bNpJjH3Wn+OjBMKflSAHEVkyNXYiFMcI5KFWFiLcWTljCtpEwWBVYraZ2gEcqhqSsSiWgnqqzJ1FXLawu/bieq7Xf+lMrMO4qmBvclBrah21yxkAvjMbGsTeS4c4DGw6ka9d+gLF3lqWjtrYkBY8aWJkTMTvK6ZEbQ7IpwHUCosJHXxTE5t5QAV7qfcPOR/Lu2M0tYMht20k1Mq4cuKzcLdIL22gIoDE6HYYyL09oPG2l3TwT8DQH0Ec3p/iRQYVNaVKzpGLZK/H0O1iID3cjF9pLGoBijrBEvhfu3yiKPn0hjQrwKpFsarvYJ///PEfjOfGWf6goHijIg0qxWflbIKbiwQ77Rd/mirKrPgVbyo=;LitiE2xldi46whdoAWhaUA=="
 ---

@@ -24,17 +24,6 @@ images:
     height: 1365
     isCached: true
 
-related:
-  - title: "UK police promise more fingerprint matching, facial recognition in efficiency revamp"
-    excerpt: "The chair of the National Police Chiefs’ Council laid out a new direction for the police force on Wednesday citing several key areas for improvement."
-    publishedDateTime: 2023-11-17T19:04:00Z
-    webUrl: "https://www.biometricupdate.com/202311/uk-police-promise-more-fingerprint-matching-facial-recognition-in-efficiency-revamp"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 12
-
 secured: "6mgICAhHs3oymiqeLnCpsveEU4CzVTn2NT+in6kc2ROrEEabjMhuN3TTBFz8/8GLeVgPisC0wOb6bZ0zVNbU+IQeDxY25XdQ8MU0PXY8X9UAsioMp8ntUws519d0HjV07ox2UzpIywXGtlHWULhzy2m+DWwcENExQefusGWswvhBBhHbrxCq6VIQiiJ1ofbdB2dWhUVN/XdgLMwBiGP0HU5LR2N1kir07VNmeSx4+Xi/EP3u802PQKrZ8Qwd+yta5oRpXkHRPtKAMUl8qBe0wLZZZEQ1Q7DOY/3JqcRGB+qDNENRbal6PUXn1wm+XEGOHhF4mrq2x3WJysOL4Ka+YiaBD6LUDQ/tmu5YPWVFtP5ytMBaD6OEsbxb+ttW9crLcaJmJnFYXE3DDSYGS0jlxCHXVUoHZIRljyb3bRzV8FSq5+uFrW38MMmWgZAClY5/iMnaqE0FkSVJGqU3xhigRDJaTxeuotmEY7A6W3wBUXabH1VYIpgycm5gbWsiwMRP/hpbEZQSOvzAo9PTmbjA6A==;JnJnWglKP/uUWN50rNvzhA=="
 ---
 

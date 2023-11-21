@@ -50,6 +50,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 34
+  - title: "Mastercard webinar: Shaping the Future of Fintech"
+    excerpt: "Explore the future of fintech with Mastercard experts and Zolve CEO Raghu G. Uncover trends, challenges, and success opportunities in Mastercard's on-demand webinar"
+    publishedDateTime: 2023-11-21T09:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/mastercard-webinar-shaping-the-future-of-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/066d9da8ca456c8714af5253145a76b6:5eec00f4245af84e67b08e0eb75f1f45/mastercard-webinar-2023-cms.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Soaring Growth of Fintech Startups in Hong Kong"
     excerpt: "In recent years, Hong Kong has emerged as a dynamic hub for financial technology, witnessing a significant surge in the number of fintech startups. This phenomenon reflects a global trend where traditional financial systems are being reshaped by innovative technologies."
     publishedDateTime: 2023-11-17T09:29:00Z

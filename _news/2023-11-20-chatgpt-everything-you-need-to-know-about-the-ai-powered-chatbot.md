@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/19/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/19/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 199
 published: true
 
 provider:
@@ -44,6 +44,38 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1084580876.jpg?resize=1200,800"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Meta AI chatbot comes to some WhatsApp users; All details"
+    excerpt: "Meta's AI chatbot comes on WhatsApp and offers various services, from customer support to appointment scheduling. In addition, WhatsApp introduced a new feature to simplify access to status updates."
+    publishedDateTime: 2023-11-21T10:10:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/meta-ai-chatbot-comes-to-some-whatsapp-users-all-details-839416"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/meta-ai-chatbot-comes-to-some-whatsapp-users-all-details-839416"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/meta-ai-chatbot-comes-to-some-whatsapp-users-all-details-839416"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/11/21/1401113-whatsapp.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "WhatsApp gets Meta’s new AI chatbot. Here’s how it works"
+    excerpt: "Meta is infusing its AI capabilities to WhatsApp. WhatsApp Beta users on Android can use the new feature, which can be accessed using a new shortcut button, strategically placed in the 'Chats' section"
+    publishedDateTime: 2023-11-21T10:23:00Z
+    webUrl: "https://www.firstpost.com/tech/whatsapp-gets-metas-new-ai-chatbot-heres-how-it-works-13412772.html"
+    ampWebUrl: "https://www.firstpost.com/tech/whatsapp-gets-metas-new-ai-chatbot-heres-how-it-works-13412772.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/whatsapp-gets-metas-new-ai-chatbot-heres-how-it-works-13412772.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 59
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/11/WhatsApp-gets-Metas-new-AI-chatbot.-Heres-how-it-works.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "AWS to power Yellow.ai's AI-powered voicebot, chatbot solutions globally"
     excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its"

@@ -35,15 +35,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Using machine learning to help refugees succeed"
-    excerpt: "Dominik Rothenhaeusler grew up in Oberzell, Germany, a quaint town of roughly 2,500 people along the Schussen River. Like many towns and cities across Germany, Oberzell has witnessed a surge of asylum seekers and refugees in recent years—at first,"
-    publishedDateTime: 2023-11-16T18:11:00Z
-    webUrl: "https://phys.org/news/2023-11-machine-refugees-succeed.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "/BgqGu3JIj35+VkYkTXL2B72dI+kGM18Z/yNC058FCdryjvAR23pDCs728qzNMxcVO4/ce57m6J5nZFereZJYaBkbDkyQwdJ48GERrSMX9Gp/EE340ePBWC6Pw+ej7Qf1wICG3w7WRqgg/ABZt+EjPM07qdfBb0bXgOSfXIV5lxaBacQ8lc3QQDb+e02LbnqSE2s6mlWF/sojxygZTx+6GBiANEOWHyGJ496MTpc2Xb+Fx2mG+TYv4+sH/O6urJFciyBqg83iBcLUXsFh/siu7vq6A0CkBn5zDh65AqFhCUTBe5e+KEFk2HeS3jP8BrND7ewjpDIPhAiwHmc0iB3S6a/fa8k/1JpQsqi0e4b3jV+0O20Y+fBumJv9viDnke35kOWGToAldOOIfr2Tp/koGzcNVy/pOpRmyp/D3qgqb9p6JBRUP0iybkfL3CXmGH+ncAw43vPQI5hGW+yjQ9oc8BPIEdY/5zlv2CSRBE5HbIEAj42ReImHM+fhIXJQSmQ8XUa/xPmDeLK71TjlZgT/A==;7E9R2g4oXe72Xbo1QymKwA=="
 ---

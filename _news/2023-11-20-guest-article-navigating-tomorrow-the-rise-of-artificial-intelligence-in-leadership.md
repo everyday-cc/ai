@@ -86,6 +86,20 @@ related:
         width: 952
         height: 525
         isCached: true
+  - title: "The evolution of ethics in an age of AI and big data"
+    excerpt: "Over the past decade, advancements in big data and artificial intelligence (AI) have drastically transformed our world, creating many new opportunities, but also giving rise to many challenges, particularly about ethics."
+    publishedDateTime: 2023-11-21T08:17:00Z
+    webUrl: "https://it-online.co.za/2023/11/21/the-evolution-of-ethics-in-an-age-of-ai-and-big-data/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 54
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2023/09/Professor-Yudhvir-Seetharam.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Riding The AI Wave And Investing In StarUps"
     excerpt: "AI startups have attracted billions in institutional funding ... deal flow in the Artificial Intelligence space and interest in investing in some of the 2021 startup darlings that now trade at significantly discounted valuations.” For investors who ..."
     publishedDateTime: 2023-11-19T19:27:00Z
@@ -145,6 +159,20 @@ related:
       - url: "https://www.indiantelevision.com/sites/default/files/images/tv-images/2023/11/21/53.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Startup Combating AI Threats Pulls In $6M Seed Funding"
+    excerpt: "Lasso Security can identify which genAI tools are being used by firms and monitor every employee that uses them & the data they send out."
+    publishedDateTime: 2023-11-21T08:37:00Z
+    webUrl: "https://nocamels.com/2023/11/startup-combating-ai-threats-pulls-in-6m-seed-funding/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://nocamels.com/wp-content/uploads/2023/11/lassosecurity-e1700555834640.jpeg"
+        width: 1024
+        height: 590
         isCached: true
   - title: "Opera gives voice to Alan Turing with help of artificial intelligence"
     excerpt: "The makers of “I AM ALAN TURING,” an experimental opera being produced out of Yale’s Center for Collaborative Arts and Media, used AI in creating the show."

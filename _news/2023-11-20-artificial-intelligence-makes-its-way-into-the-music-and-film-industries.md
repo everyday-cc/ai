@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is impacting the music industry"
+    excerpt: "AI covers have taken over our social media feeds. How will this trend, and the use of musicians' voices, impact the music industry?"
+    publishedDateTime: 2023-11-20T02:01:00Z
+    webUrl: "https://www.thepostathens.com/article/2023/11/ai-music-industry-2023-artificial-intelligence"
+    type: article
+    provider:
+      name: The Post
+      domain: thepostathens.com
+    quality: 37
+    images:
+      - url: "https://snworksceo.imgix.net/ohi/46d06f70-b794-4f33-92d0-a5f49f020eff.sized-1000x1000.png?w=800&h=600"
+        width: 776
+        height: 600
+        isCached: true
   - title: "How is AI impacting the music industry?"
     excerpt: "AI covers have taken over our social media feeds. How will this trend, and the use of musicians' voices, impact the music industry?"
     publishedDateTime: 2023-11-20T02:01:00Z

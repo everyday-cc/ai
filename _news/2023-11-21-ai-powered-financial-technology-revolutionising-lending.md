@@ -43,6 +43,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Introducing Lazy AI Software Engineer: Revolutionizing Software Development"
+    excerpt: "Intuitive Chat Interface: Lazy AI boasts an intuitive and user-friendly messenger-like interface, making AI app development accessible to all, regardless of technical expertise. The natural language processing simplifies the process, putting the power of AI in the hands of every user."
+    publishedDateTime: 2023-11-21T10:43:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274040624/introducing-lazy-ai-software-engineer-revolutionizing-software-development"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1700454297416.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "dkK+QaPXzrK4cJv8mvF8w01CxD7kA9MGr/RKHnh+WSvABxSCbzG2Erq+iKymMFUaTsy0TTt0cs6PGiqEEl4ur8SqoYWBZJMU5M1nvpUz60RmLID1NVPKhEdJzOnNT9EgWN2gsfUhGvJ+AyLXoY0ingxMi29JiuWIxb1kXcjfq4Sx782zqC2FyH2HI5ArBMYEIETnXpv40lmYCLs2f4FO2h6hdd/fY2nRRZIWyuYnqunZoo2k6L7vdHcoBjvNa+l9TGgQwJelVoX8vvL8FszJbwFCgiD5mYgrfPO4zdU9Bwaqcd2oqIngJwk7A0pkazAdNxHKwuWScCJQTCuKmh1wh6Ncr16I8YKwYs3nKDSKMX4=;XJbV8oufYtSN+ioqBnrpIg=="
 ---

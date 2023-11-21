@@ -148,6 +148,22 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 61
+  - title: "AI doomsayers blamed in OpenAI's undoing"
+    excerpt: "OpenAI has gone from ruling the world of artificial intelligence with ChatGPT to chaos, its chief executive ousted seemingly for advancing too fast and too far with the risky technology."
+    publishedDateTime: 2023-11-21T09:09:00Z
+    webUrl: "https://techxplore.com/news/2023-11-ai-doomsayers-blamed-openai.html"
+    ampWebUrl: "https://techxplore.com/news/2023-11-ai-doomsayers-blamed-openai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-doomsayers-blamed-openai.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/boardroom-blunders-dro.jpg"
+        width: 1280
+        height: 818
+        isCached: true
   - title: "Wall Street Breakfast Podcast: Sam Altman To Lead Microsoft's New AI Team"
     excerpt: "Ousted OpenAI CEO Sam Altman joins Microsoft. Cruise CEO Kyle Vogt resigns less than a month after pausing driverless operations. Nokia expands partnership with Globe Telecom."
     publishedDateTime: 2023-11-20T10:46:00Z
@@ -281,20 +297,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 37
-  - title: "AI Doomsayers Blamed In OpenAI's Undoing"
-    excerpt: "OpenAI has gone from ruling the world of artificial intelligence with ChatGPT to chaos, its chief executive ousted seemingly for advancing too fast and too far with the risky technology."
-    publishedDateTime: 2023-11-21T07:44:00Z
-    webUrl: "https://www.latintimes.com/ai-doomsayers-blamed-openais-undoing-549047"
-    type: article
-    provider:
-      name: Latin Times
-      domain: latintimes.com
-    quality: 37
-    images:
-      - url: "https://d.latintimes.com/en/full/547964/sam-altman.jpg"
-        width: 768
-        height: 491
-        isCached: true
   - title: "How AI Doomerism Caused OpenAI’s Sam Altman Firing Fiasco"
     excerpt: "It’s been a whirlwind few days for the startup at the heart of the artificial intelligence revolution—but they only have themselves to blame."
     publishedDateTime: 2023-11-20T22:02:00Z

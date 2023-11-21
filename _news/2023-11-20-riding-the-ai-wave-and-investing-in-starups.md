@@ -84,6 +84,20 @@ related:
         width: 952
         height: 525
         isCached: true
+  - title: "The evolution of ethics in an age of AI and big data"
+    excerpt: "Over the past decade, advancements in big data and artificial intelligence (AI) have drastically transformed our world, creating many new opportunities, but also giving rise to many challenges, particularly about ethics."
+    publishedDateTime: 2023-11-21T08:17:00Z
+    webUrl: "https://it-online.co.za/2023/11/21/the-evolution-of-ethics-in-an-age-of-ai-and-big-data/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 54
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2023/09/Professor-Yudhvir-Seetharam.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Supercharging Your Mid-Market Brand’s Voice In The Age Of AI"
     excerpt: "AI can help you produce more content than ever before while maintaining your unique brand voice. But it requires some pre-work."
     publishedDateTime: 2023-11-20T13:45:00Z
@@ -134,6 +148,20 @@ related:
       - url: "https://www.indiantelevision.com/sites/default/files/images/tv-images/2023/11/21/53.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Startup Combating AI Threats Pulls In $6M Seed Funding"
+    excerpt: "Lasso Security can identify which genAI tools are being used by firms and monitor every employee that uses them & the data they send out."
+    publishedDateTime: 2023-11-21T08:37:00Z
+    webUrl: "https://nocamels.com/2023/11/startup-combating-ai-threats-pulls-in-6m-seed-funding/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://nocamels.com/wp-content/uploads/2023/11/lassosecurity-e1700555834640.jpeg"
+        width: 1024
+        height: 590
         isCached: true
   - title: "Guest Article: Navigating tomorrow - The rise of artificial intelligence in leadership"
     excerpt: "Mumbai: In an era marked by rapid technological advancements, the integration of artificial intelligence (AI) into various facets of our lives is becoming increasingly prevalent. One of the most intriguing and transformative areas where AI is making a significant impact is in the realm of leadership."

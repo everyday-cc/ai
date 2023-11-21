@@ -1,26 +1,28 @@
 ---
 category: news
-title: "AI Doomsayers Blamed In OpenAI's Undoing"
+title: "AI doomsayers blamed in OpenAI's undoing"
 excerpt: "OpenAI has gone from ruling the world of artificial intelligence with ChatGPT to chaos, its chief executive ousted seemingly for advancing too fast and too far with the risky technology."
-publishedDateTime: 2023-11-21T07:44:00Z
-originalUrl: "https://www.latintimes.com/ai-doomsayers-blamed-openais-undoing-549047"
-webUrl: "https://www.latintimes.com/ai-doomsayers-blamed-openais-undoing-549047"
+publishedDateTime: 2023-11-21T09:09:00Z
+originalUrl: "https://techxplore.com/news/2023-11-ai-doomsayers-blamed-openai.html"
+webUrl: "https://techxplore.com/news/2023-11-ai-doomsayers-blamed-openai.html"
+ampWebUrl: "https://techxplore.com/news/2023-11-ai-doomsayers-blamed-openai.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-doomsayers-blamed-openai.amp"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Latin Times
-  domain: latintimes.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI
 
 images:
-  - url: "https://d.latintimes.com/en/full/547964/sam-altman.jpg"
-    width: 768
-    height: 491
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/boardroom-blunders-dro.jpg"
+    width: 1280
+    height: 818
     isCached: true
 
 related:
@@ -382,6 +384,6 @@ related:
       domain: wbur.org
     quality: 22
 
-secured: "1zaVk6eVK61tFy6slWCkf2K2ypaK2GqzSSFLNb1cTqmZd1jiQVojDuq725chUViHhqCjlnRo/2yQeK0z7UGqoP6Vye6grtDVey/LUYfQlAG16wUbvzHws/iKyLx/V2gR7p+Q4CInnI3sX+b4DHLcgLd8+OGFeuGhbrlLFz4dDdHRDVMJOSgkUfCZNIH35v7glgh4yrc/TMjkeEoCI2VFHXDUoB7U/WBb14IVGx7ZR42rDuRfbUC0BENZuOURcnlP5XSh9jBiXDMNmBpMGfO8Wh7WefUoIh9w4enewt/FOUT2EEybYfLSEeEW4DuVK3mj/uHRggL9t+9rIaVBgDAxKyYAEH4qYxwXsGTdNWjLSPo=;PkCDPMQpFuWxc/L4V6Q4KA=="
+secured: "qY+wUR9l9oS7gygAZbM4taN3hys5y5EeBzkWzL92r5yQD4TfU/G/hi1qvb3HfRhQTsBgqhMFnTwG0rIlij0XMht7UlWh9Iyyby0z4BvKxup7RzhYgIPj86i0EC1ZQ0/o1hu3ixGkoUVutT1LNS9o19ZelwYkIkn1ZnSX0OsBN8A4OCXpw0oT/QosKukcDhiDtRVEJveCPxiBjm/sSUpy8aJrOlIMVj6oaMSWA4XeLQwhTge6mFOeI6diSf5wGIjbKj/QnkiToftCn1qOmrgel2c1tqJI0ejoBszILaAtsmyMYcQw1TXnORm5M1LdjYyRUU/oNq0oIaH+IPThovNKMNSZ6i0GFW0C15rDdYabiOg=;a3RReFYP+rvIBDn7Ypf2xg=="
 ---
 

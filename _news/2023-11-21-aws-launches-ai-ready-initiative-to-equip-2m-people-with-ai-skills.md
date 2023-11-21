@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/11/20/aws-launches-ai-ready-initiati
 webUrl: "https://siliconangle.com/2023/11/20/aws-launches-ai-ready-initiative-equip-2m-people-ai-skills/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 933
     height: 519
     isCached: true
+
+related:
+  - title: "AWS wants to train 2 million people as AI specialists"
+    excerpt: "AWS wants to train 2 million people as AI specialists by 2025. To this end, Amazon has presented the free AI Ready training program. The program targets"
+    publishedDateTime: 2023-11-21T08:58:00Z
+    webUrl: "https://www.techzine.eu/news/analytics/113485/aws-wants-to-train-2-million-people-as-ai-specialists/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/11/shutterstock_2263545623.jpg"
+        width: 1000
+        height: 543
+        isCached: true
 
 secured: "W2YRoqgS+3vkVXvpn76wK0N6Y7oTcxsXss5+Q6tTgY5fckE+ZHBNDdxZqOqkD81eAhme9odi7w//NRvI+XgK4FmacH3GTmCQFEFEM5famIyGg/72K3eB45Vn7+fxc/H2RsfHpVPSjrvCwC5uM1mqG2e8LOrKjZ/l5ZIuzS6ESDAPFWx7sHbtU6xUdRrxdrW2HLylFUTnIdMAUIJm6Fx594kZeCVqlO8PAe2znwxV4HPGC7LVJOjjlCrjScUjO/Y7OLEOUH01w2iU7uZKwmaagX0wXfClFJaob74NljHFHxHmz5w6zgViuQMYmaCracfvCuorM31qPNzDu6FoLClxJIG/NeK/O8AWON2Y+mxizk0rJVNZTcDTtLblZjV9EN59j/mWDk0NEXOuQQoLzWXB4AUSaoBcAa/a2MVYhoi/X8w0Zwc10AVpwqLTKsMzcVCjgTz/VcNlBFpL4aCO0PvICOMhdA3QqjL2fniXYdRKEzL1ypP0uUToUptgWiCPVGOsoCBCOPcs2tq3vIDy+RVgHA==;6nuzDouTa75KAnGqnfsILw=="
 ---

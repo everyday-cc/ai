@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Mastercard webinar: Shaping the Future of Fintech"
+    excerpt: "Explore the future of fintech with Mastercard experts and Zolve CEO Raghu G. Uncover trends, challenges, and success opportunities in Mastercard's on-demand webinar"
+    publishedDateTime: 2023-11-21T09:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/mastercard-webinar-shaping-the-future-of-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/066d9da8ca456c8714af5253145a76b6:5eec00f4245af84e67b08e0eb75f1f45/mastercard-webinar-2023-cms.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xfu6ZcFJDQjWd85pyiok3w5I8ekZ0+49wbB4BbvHdXlgyVHwpKmQStF1Brp0QZRtU4qmWXjVfC/eiaZbbX8f3CBwyREBEaASWI9cJEtugT5uxcJ41PEh+XQkd4MOk47yM373kZYN3IV+YbYZ4ydqACZ54lzHpzpSBnPb6U2E6s8ehNpAFlEAeALgqCeAyL8f9ffOTNDG//PTgRVcRig5XZh+MuovOMC5Z+i0taY3tBaHViQglbaZpCL5UyFXl6VVZcdZ0SNT2GaOBXj6qhE9WPockbCHca4N1A+lEtyyA3CmtIj8awWNvUElSK0fAsiZZ42e8HQmdD88OEZnDJaPDEg3YA0bikswaM5aVYhmJMc=;+iCnw2VTnPW9R16hUvu+1Q=="
 ---

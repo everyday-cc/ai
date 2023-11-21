@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Introducing Lazy AI Software Engineer: Revolutionizing Software Development"
+    excerpt: "Intuitive Chat Interface: Lazy AI boasts an intuitive and user-friendly messenger-like interface, making AI app development accessible to all, regardless of technical expertise. The natural language processing simplifies the process, putting the power of AI in the hands of every user."
+    publishedDateTime: 2023-11-21T10:43:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274040624/introducing-lazy-ai-software-engineer-revolutionizing-software-development"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1700454297416.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "f40sZYjulZO9iVpHcyPDnaQ2KrigHlcof3SIvBVsE7QpssJWbg1bHSjiHEDutPAHMB3BXoXjRPPfd08BvkW1kVYFvwZk5fPE3POcs5iSqSn8CJaxJCBLXX2I5pe6Ph/t4V4TAlbHbtkrXSJCkOc9dPu5N2g5zeE62lFLoUgFI2VuFoSsGGC/J8uA9gdBwX6HZLK4LyufsL22/jNHelSkWnwrDliM4bDEQ1A3pgNQl9gx27ggi3ic61lGZQMWOYnBIfJsileennoHxpru+j8TAk27/URiMbIJy9MnwPi8auTGArBYlGCnLOeygIakYpbcFTPxWksxWE8g7ZZTzPYSoX3MC2fROwedoaIDhqVkzDLE3Bj0FXDEGbvz4bEM7at+W6YRBLyU/ZNUgIUSbJX6yDDBtX+anlVRK0J8D1YNt+9T/YBJLCze5JAceut7j/DSlBjERr2sEfG10uC7/JLb0qSgBW57mpLhBxhhhoMo7eqYa6v7qp9Z7bbNEFK8PeUe61BrfpnECRnhBtl31abUag==;Rr4hGVNq9EMlET6S2DZdsg=="
 ---

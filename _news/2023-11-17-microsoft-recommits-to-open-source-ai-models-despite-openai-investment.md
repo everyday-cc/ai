@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft Announces Maia AI, Arm CPU, AMD MI300, & New Nvidia for Azure"
-    excerpt: "In case you missed Satya Nadella’s keynote, here is the vast array of news and my perspectives on the impact to MSFT, AMD, and NVDIA."
-    publishedDateTime: 2023-11-16T18:56:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2023/11/16/microsoft-announces-maia-ai-arm-cpu-amd-mi300--new-nvidia-for-azure/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
   - title: "The biggest AI announcements from Microsoft Ignite 2023"
     excerpt: "Microsoft announced a slew of AI updates at the Microsoft Ignite event a few days ago. Here is a look at the most important announcements that will shape Microsoft's future for the years to come."
     publishedDateTime: 2023-11-20T12:05:00Z

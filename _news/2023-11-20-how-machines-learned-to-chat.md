@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using machine learning to help refugees succeed"
-    excerpt: "Dominik Rothenhaeusler grew up in Oberzell, Germany, a quaint town of roughly 2,500 people along the Schussen River. Like many towns and cities across Germany, Oberzell has witnessed a surge of asylum seekers and refugees in recent years—at first,"
-    publishedDateTime: 2023-11-16T18:11:00Z
-    webUrl: "https://phys.org/news/2023-11-machine-refugees-succeed.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
   - title: "How machine learning helps perfect welder skill"
     excerpt: "Here again, AI and machine learning could help accelerate competency buildup by enabling a systematic, objective, and quantitative way to measure manual welding competency. In broader terms, machine learning could accelerate learning for everyone and help make every process, manual or automated, more controllable."
     publishedDateTime: 2023-11-18T15:02:00Z
