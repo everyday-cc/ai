@@ -25,61 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Launches New Generative AI Training Courses for Free"
-    excerpt: "The 'AI Ready' initiative offers online classes for developers and other technical professionals as well as for students."
-    publishedDateTime: 2023-11-20T21:49:00Z
-    webUrl: "https://www.techrepublic.com/article/amazon-free-ai-skills-training-courses/"
+  - title: "Amazon AWS Starts Free Generative AI Courses That Can Make Your Tech Career Future-Proof"
+    excerpt: "TBH corporations need more AI-skilled workers than before and if you aren't one, you will have to upskill or settle for an off-the-grid job. With massive gaps in academia, there's only one way to get an existing workforce equipped with adequate skills in AI. An AI-skilled worker can get 47% more salary too."
+    publishedDateTime: 2023-11-21T13:22:00Z
+    webUrl: "https://in.mashable.com/tech/64289/amazon-aws-starts-free-generative-ai-courses-that-can-make-your-tech-career-future-proof"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/amazon-skills-builder-ai-courses-nov-23.jpeg"
-        width: 1400
-        height: 788
-        isCached: true
-  - title: "How Generative AI Is Redefining Creativity For Marketers"
-    excerpt: "AI platforms like Memorable are reshaping ad landscapes with innovative tools designed to enhance personalized ad strategies."
-    publishedDateTime: 2023-11-17T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/ilonalimonta-volkova/2023/11/17/how-generative-ai-is-redefining-creativity-for-marketers/"
+      name: in.mashable
+      domain: mashable.com
+    quality: 55
+  - title: "Top 10 Free AI Courses to Level Up Your Tech Skills in 2023"
+    excerpt: "Boost your career prospects in AI with these top 10 free online courses. Learn fundamental concepts, machine learning, ethics, and more."
+    publishedDateTime: 2023-11-17T09:52:00Z
+    webUrl: "https://www.techopedia.com/top-10-free-ai-courses"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Meta’s Responsible AI Team Disbanded, Paves the Way for Generative AI Dominance"
-    excerpt: "Meta, the parent company of Facebook and Instagram, has dissolved its Responsible ... projects like the custom silicon unit in its Reality Labs and the Fundamental AI Research department with its AI protein-folding team. Zuckerberg said, “Our single ..."
-    publishedDateTime: 2023-11-21T01:12:00Z
-    webUrl: "https://techreport.com/news/metas-responsible-ai-team-disbanded-paves-the-way-for-generative-ai-dominance/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 35
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/11/shutterstock_2297040931.jpg?_t=1700557978"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Amazon to cut jobs at Alexa unit to sharpen focus on generative AI"
-    excerpt: "Amazon’s Alexa division is set to suffer another round of job cuts as the company plans to discontinue some initiatives in favor of new generative AI projects."
-    publishedDateTime: 2023-11-20T18:25:00Z
-    webUrl: "https://www.computerworld.com/article/3711182/amazon-to-cut-jobs-at-alexa-unit-to-sharpen-focus-on-generative-ai.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
-  - title: "MAS launches latest range of fintech initiatives"
-    excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."
-    publishedDateTime: 2023-11-20T12:45:00Z
-    webUrl: "https://www.euromoney.com/article/2ch7qdhmxyq9fpfz71dz4/fintech/mas-launches-latest-range-of-fintech-initiatives"
-    type: article
-    provider:
-      name: Euromoney
-      domain: euromoney.com
-    quality: 4
+      name: Techopedia
+      domain: techopedia.com
+    quality: 19
 
 secured: "c5xqs4yVkysKJRWyqsfaJ8rJ4ccLAwANTvxy7y8e3Jhl8SYgLyqIaGYfa/Vc6NPC2xe//FXWHuG5GJg6kXzaJGQbgKjoGKgh5+yo67pp77fW49BdMZqtTiZhD7YdLujJbNk3ISXgULFIU5Sl1YnQggqyZLyF5z/hD2nH1AR74UDCiOKgxI6vDiT5HWivaPCzSobY6OV9lPaNtqC9Jv7SD+UKKUCauAH93TrXJRCai7j3mo+YTTFwCd34an249kTLO7nASyoBGM/CivRjPrttFPhyyJ1fLyGOYXfgYZ1xSjlxCPDvwu0ZoZdYhks+Oot7MRSRj+J2RLAXb2p3uR+GuxYf80nkOPZUHSGYKJOsy8Y=;DViddblme5eZknx1pGBERg=="
 ---

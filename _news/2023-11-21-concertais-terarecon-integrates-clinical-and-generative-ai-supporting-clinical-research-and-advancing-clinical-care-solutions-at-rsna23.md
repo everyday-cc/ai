@@ -143,15 +143,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Meta announces new breakthroughs in AI image editing and video generation with Emu"
-    excerpt: "The Emu Video tool leverages the Emu model and provides a simple method for text-to-video generation that’s based on diffusion models. Meta said the tool can respond to various inputs, including text only, image only or both together."
-    publishedDateTime: 2023-11-16T22:45:00Z
-    webUrl: "https://siliconangle.com/2023/11/16/meta-announces-new-breakthroughs-ai-image-editing-video-generation-emu/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 13
 
 secured: "Bm1aa0ohigVdu3XbtsmbPNtjxHSLnb7Pp/4CzugI+XMjItKMe+IUpxG05MoJl4NQmBSetHcOsqjzvdHWiaKQanFQ+pDYhGWLLzHY01TEhi00lr8ykfucDYPVjTDte3fSONHxc0AuoiXsNpw4jR3Vwj32yKUFdgSlOz3cv0b92gou0loNgKw9f4z2OE55VvRVwPNvhloSXHm9DRibsdm2CkhobCj8qBvHyH27PBD8cY+V8KFoFklITpx6XgVQYpAzeo5NScaNZMm+yF8fpQl7Tytfwjsf8OWzqn0E9nm2U3KTx9FGrqUX/cS4ZRfP8eabXsYnWdTLJca+efeOQeaTaNAeZwwdywHom+I27D2kL28=;ehXLS2P5bJQUhgyPiSVksA=="
 ---

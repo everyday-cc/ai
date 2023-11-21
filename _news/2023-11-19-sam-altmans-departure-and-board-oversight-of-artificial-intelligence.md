@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/michaelperegrine/2023/11/18/sam-altma
 webUrl: "https://www.forbes.com/sites/michaelperegrine/2023/11/18/sam-altmans-departure-and-board-oversight-of-artificial-intelligence/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "The Sam Altman Saga: Is AI the Place to 'Move Fast and Break Things'?"
+    excerpt: "The OpenAI board was reportedly not happy with the former CEO's plan to profit from its powerful AI. But this is Silicon Valley. Is it possible to develop ethical AI and still make billions?"
+    publishedDateTime: 2023-11-21T16:07:00Z
+    webUrl: "https://www.pcmag.com/opinions/the-sam-altman-saga-is-ai-the-place-to-move-fast-and-break-things"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05Irm0QKmV9nQHGPgyLAhNx-4.fit_lim.size_1200x630.v1700520536.jpg"
+        width: 1121
+        height: 630
+        isCached: true
   - title: "Sam Altman warns AI could kill us all. But he still wants the world to use it"
     excerpt: "ET By Samantha Kelly, CNN New York (CNN) — Sam Altman thinks the technology underpinning his company’s most famous product could bring about the end of human civilization. In May, OpenAI CEO Sam Altman filed into a Senate subcommittee hearing room in Washington,"
     publishedDateTime: 2023-11-20T16:14:00Z

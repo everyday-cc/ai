@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
 type: article
 quality: 77
-heat: 157
+heat: 187
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
         width: 1199
         height: 685
         isCached: true
+  - title: "OpenAI’s crisis will sow the seeds of the next generation of AI startups"
+    excerpt: "OpenAI’s meltdown is likely to become the latest installment in what’s becoming a Silicon Valley tradition. It's hard to know how this will end."
+    publishedDateTime: 2023-11-20T18:42:00Z
+    webUrl: "https://techcrunch.com/2023/11/20/openai-expats/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openai-flower.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI’s Board Set Back the Promise of Artificial Intelligence"
     excerpt: "I was the first venture investor in OpenAI. The weekend drama illustrated my contention that the wrong boards can damage companies. Fancy titles like “Director of Strategy at Georgetown’s Center for Security and Emerging Technology” can lead to a false sense of understanding of the complex"
     publishedDateTime: 2023-11-20T15:53:00Z
@@ -100,6 +114,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Generative AI startup AI21 Labs raises cash in the midst of OpenAI chaos"
+    excerpt: "One AI startup’s undoing is another’s opportunity. Case in point: today, AI21 Labs, a company developing generative AI products along the lines of OpenAI’s GPT-4 and ChatGPT, closed a $53 million extension to its previously-announced Series C funding ..."
+    publishedDateTime: 2023-11-21T14:00:00Z
+    webUrl: "https://techcrunch.com/2023/11/21/generative-ai-startup-ai21-labs-raises-cash-in-the-midst-of-openai-chaos/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
   - title: "OpenAI’s New CEO Likes Tweeting About Sex And Using AI To Write Pickup Lines"
     excerpt: "Incoming exec Emmett Shear has regularly tweeted about sexual dynamics between men and women and the controversial pick-up artistry manual The Game."
     publishedDateTime: 2023-11-20T20:50:00Z
@@ -132,6 +155,15 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 25
+  - title: "OpenAI's meltdown prompts further questions around the future of AI safety surveillance"
+    excerpt: "Abhishek Gupta, Founder and Principal Researcher at the Montreal AI Ethics Institute, said that enterprises need to consider AI safety metrics that go beyond traditional software performance indicators. He explains: Current metrics should encompass a ..."
+    publishedDateTime: 2023-11-21T13:00:00Z
+    webUrl: "https://diginomica.com/openais-meltdown-prompts-further-questions-around-future-ai-safety-surveillance"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 11
 
 secured: "t9uuCYLTxWblSeKN5PeiDhPh6nh6fMrwKp8GorwHpPqKjgMzjarFjBnLpmXeUCQGxZXKbxy9fVctHlpl3ZGQ/5cVSrzYIXQefjE0T17gx/PjsIun3M+s4T8zdh2eOxP9RmDfZt31C/QIw8KOuAFVc9xUb0fapInVjMmdS3kkka4/Gg1OiA8l21l9KKWomSw/S0b2C1shnRtYuYcFYSgQBMbzQXCl2KcDIC7OjE/EHkuz5MHehSHOIqvcm1Dk/x/xb9fqe7gCEdOSU+12fpxSFfzl6wQmI/zdQxcsSPsZb0aU5v9IIOzlcvcdrNXSgA4z4ZsnasBJR1aW1MdsG1py0xdr2sYuy5FjI7f/jjINyCQ=;SO7KQmmSEE5vnJyzK/7jhQ=="
 ---

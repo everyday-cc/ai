@@ -98,6 +98,20 @@ related:
         width: 1199
         height: 685
         isCached: true
+  - title: "OpenAI’s crisis will sow the seeds of the next generation of AI startups"
+    excerpt: "OpenAI’s meltdown is likely to become the latest installment in what’s becoming a Silicon Valley tradition. It's hard to know how this will end."
+    publishedDateTime: 2023-11-20T18:42:00Z
+    webUrl: "https://techcrunch.com/2023/11/20/openai-expats/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openai-flower.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI’s Board Set Back the Promise of Artificial Intelligence"
     excerpt: "I was the first venture investor in OpenAI. The weekend drama illustrated my contention that the wrong boards can damage companies. Fancy titles like “Director of Strategy at Georgetown’s Center for Security and Emerging Technology” can lead to a false sense of understanding of the complex"
     publishedDateTime: 2023-11-20T15:53:00Z
@@ -112,6 +126,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Generative AI startup AI21 Labs raises cash in the midst of OpenAI chaos"
+    excerpt: "One AI startup’s undoing is another’s opportunity. Case in point: today, AI21 Labs, a company developing generative AI products along the lines of OpenAI’s GPT-4 and ChatGPT, closed a $53 million extension to its previously-announced Series C funding ..."
+    publishedDateTime: 2023-11-21T14:00:00Z
+    webUrl: "https://techcrunch.com/2023/11/21/generative-ai-startup-ai21-labs-raises-cash-in-the-midst-of-openai-chaos/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
   - title: "With OpenAI's future in limbo, its startup customers are looking to jump ship to other AI models offered by rivals Anthropic and Meta"
     excerpt: "Many startups build on top of OpenAI's models, and are looking at alternatives from Anthropic and Meta in the wake of Sam Altman's ouster."
     publishedDateTime: 2023-11-21T03:13:00Z
@@ -135,6 +158,15 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 25
+  - title: "OpenAI's meltdown prompts further questions around the future of AI safety surveillance"
+    excerpt: "Abhishek Gupta, Founder and Principal Researcher at the Montreal AI Ethics Institute, said that enterprises need to consider AI safety metrics that go beyond traditional software performance indicators. He explains: Current metrics should encompass a ..."
+    publishedDateTime: 2023-11-21T13:00:00Z
+    webUrl: "https://diginomica.com/openais-meltdown-prompts-further-questions-around-future-ai-safety-surveillance"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 11
 
 secured: "7BSx05e83FRPO1eW/5RAW12JZrCsbzOngw5DQcMF9z/nkicIfVzKKDYMyQZ6HUeDRTDORldKpAP+M2OqRunvfGiVev4Razt+Ji9Io/0fzMcI8EQcs0qUrERcxhRLUVWHuowcKj0xoGRPAjUX1Z1Fatu4UAjpqDUqR8aQ2ZT8RIQCdGSJXx+50BeW01k4fQnvP55qplFFQQxMGX69U6/WAKHtq8VI0LKPS28jnMX2Sl9Jk437ggGoN/Hk6qJl4AKf09ZKwChkHo20n/A7Xpcw6XfZakblTtvPqF+CPff6NBsH1sl2UZPSuFJk4FzVqgWioGjgObymlSNCGgp3DyGkBLm5d6BDCtIFDUEIvxbyQa5rb/qqgvna33YQSL4YFzKW51/KZZ0Y2wuHFBv4wEgN2NiZFSXqThbCb/BnFzes4qJ0q1Yp5Pnp/mJp9/692jJOPix0Bx3380SI2VuinK2GT/Ra5kO4RssuYikPpmtrqMNJ8uT4KHvMWzEChJ+mJM3lgJ4+MuSn0T4Ro4kF+gZKRw==;IOVmc5warxoZtuqZeVg4NQ=="
 ---

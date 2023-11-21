@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-su
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
 type: article
 quality: 109
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -144,15 +144,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 15
-  - title: "Meta announces new breakthroughs in AI image editing and video generation with Emu"
-    excerpt: "The Emu Video tool leverages the Emu model and provides a simple method for text-to-video generation that’s based on diffusion models. Meta said the tool can respond to various inputs, including text only, image only or both together."
-    publishedDateTime: 2023-11-16T22:45:00Z
-    webUrl: "https://siliconangle.com/2023/11/16/meta-announces-new-breakthroughs-ai-image-editing-video-generation-emu/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 13
 
 secured: "3VTnGzz5Eyf6s5Q4XcXg55m+83YtEaxnJrRbVCq5OKMYBU+XjZIRo3CuLlGsfAraO0oT8/XgPCZTYRwxfaSRP52G1gswtmTe5Kgu1TVJN21K3MIzRkLc2tp1w2kpICj5aREFLVbPgbfHG1uja5FRGDezgXOJgx+tuJvgNfwfl7PT/39H03t+DT69nQOkuI+m5fp2Gz4DSq/vF3p3YdEMG3xZhkjvw6hrTK0qKctVCcrTC8azLA0TyAjNapzhrJlnz15FIUFrmTPKxsv5Z9O/mg1aRlzowUAlaqQSVA9cIvrXxb8hZxMJpXC6HoTQhTvhUE6hh/B8No4vTgSFTP+BzZFWM73lPN+xPLNB5e0okTw=;bAloZ+qMxh+4SjRJgbFCHA=="
 ---

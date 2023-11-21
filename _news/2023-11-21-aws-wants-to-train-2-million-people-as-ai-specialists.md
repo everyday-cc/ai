@@ -39,6 +39,15 @@ related:
         width: 933
         height: 519
         isCached: true
+  - title: "Appen Teams Up with AWS to Drive AI Innovation"
+    excerpt: "Appen Limited (ASX:APX), a leading provider of high-quality data for the AI lifecycle, has selected Amazon Web Services (AWS) as its primary cloud for its AI solutions and innovation. The companies are expanding their relationship with a multi-year agreement as Appen develops new enterprise solutions for AI data sourcing,"
+    publishedDateTime: 2023-11-21T14:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/21/9921922.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "s+An3ZRcft7rhgkg/AvCLdRXRpOkCuXZd7rzOY0fKFuRik+oXDtYoe07VDpdLuhNcYmd5Z9vyA5VmXt69jLcNQjUX6sc2dVVnXVnzM2MSMIrzgGSosJAT5kDSzrAvqd8y1gYpuMmacWE0taVCUKteTEl3VpIdSHUTCzfnL3eXobyD8opsLHqXNhJDir9wykcZlt9A/7cIOwidfF90tbiuRt7rJ0sTMGXwVyv26O+C6Own3mTEMFzWow7B85hnv2gm7XcOsdo50OuCnPowNXdIlaeCAof+N8phRXno4hit1r60aufmtjpx4XK+J07WPF9drOEL2i875Wao29YYXyMgo+TKl85bD70BgfQx6VOJ6CyEOU5Dd5gbkdiFa/s02dV6AmSlNqJmQZNxzXN6J1wLU2uh/RjYsjywyKto7qFmcPm2pNnin37nmILNndl/wQ4Nr9lEJATm92QXOJ4VodPWHSIgXrwKjrRuE1PNyqw8ggpjK1QKKf6cK5tGUAZb+fXEpHaeXwjXXVrASu5bq065A==;WwIFzk9j11AoyRpR5Vkx2A=="
 ---

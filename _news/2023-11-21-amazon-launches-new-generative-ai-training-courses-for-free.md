@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/amazon-free-ai-skills-trainin
 webUrl: "https://www.techrepublic.com/article/amazon-free-ai-skills-training-courses/"
 type: article
 quality: 67
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -28,6 +28,63 @@ images:
     isCached: true
 
 related:
+  - title: "Three Key Considerations For Executives To Embrace Generative AI"
+    excerpt: "As organizations tap into the potential benefits of generative AI, they may likely introduce a new host of significant risks."
+    publishedDateTime: 2023-11-21T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655b7028270e328a1af78250/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "The Next Evolution Of Generative AI Will Provide Specialized Intelligence"
+    excerpt: "Specialized technologies will deliver deeper, more reliable and more valuable insights compared to the general-purpose tools available today."
+    publishedDateTime: 2023-11-21T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/the-next-evolution-of-generative-ai-will-provide-specialized-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/the-next-evolution-of-generative-ai-will-provide-specialized-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/21/the-next-evolution-of-generative-ai-will-provide-specialized-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61549381e6d4424cc52c8592/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 811
+        isCached: true
+  - title: "Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI"
+    excerpt: "Explore the key drivers that impacted cloud transformation and what they mean for companies on their cloud modernization journey.\nThe post Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-20T14:00:00Z
+    webUrl: "https://www.ibm.com/blog/business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 84
+  - title: "Creativity in the age of generative AI: A new era of creative partnerships"
+    excerpt: "Recent advancements in generative artificial intelligence (AI) have showcased its potential in a wide range of creative activities such as producing works of art, composing symphonies, and even drafting legal texts,"
+    publishedDateTime: 2023-11-20T18:13:00Z
+    webUrl: "https://techxplore.com/news/2023-11-creativity-age-generative-ai-era.html"
+    ampWebUrl: "https://techxplore.com/news/2023-11-creativity-age-generative-ai-era.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-creativity-age-generative-ai-era.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/creativity.jpg"
+        width: 1920
+        height: 1462
+        isCached: true
   - title: "How Generative AI Is Redefining Creativity For Marketers"
     excerpt: "AI platforms like Memorable are reshaping ad landscapes with innovative tools designed to enhance personalized ad strategies."
     publishedDateTime: 2023-11-17T10:15:00Z
@@ -37,19 +94,33 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Amazon Is Offering AI Classes for Free"
-    excerpt: "Amazon is now offering eight free AI classes as part of its AI Ready initiative. The courses cover a wide variety of topics, from generative AI basics to advanced AI coding skills."
-    publishedDateTime: 2023-11-20T22:30:00Z
-    webUrl: "https://lifehacker.com/tech/amazon-offering-ai-classes-for-free"
+  - title: "Meta Wants to Build Generative AI But Not Responsibly"
+    excerpt: "Meta has done a little reshuffle, relocating their Responsible AI team to join the generative AI crew."
+    publishedDateTime: 2023-11-20T11:50:00Z
+    webUrl: "https://analyticsindiamag.com/meta-wants-to-build-generative-ai-but-not-responsibly/"
     type: article
     provider:
-      name: Lifehacker
-      domain: lifehacker.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://lifehacker.com/imagery/articles/01HFQBEVM9V6MWQDH9H73D3MCB/hero-image.fill.size_400x225.v1700517080.jpg"
-        width: 400
-        height: 225
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/11/Meta_AIM.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Enterprise Generative AI Enters Its Citizen Development Era"
+    excerpt: "More importantly, these GPTs can act on the user's behalf. OpenAI's tight integration with Zapier means thousands of connectors at your disposal, letting the AI query your CRM, update your ERP, or monitor your servers with a few clicks. How does the AI authenticate to all these services, you might ask? Great catch, but more on that later."
+    publishedDateTime: 2023-11-20T18:26:00Z
+    webUrl: "https://www.darkreading.com/edge/enterprise-generative-ai-enters-its-citizen-development-era"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9c4d9ed25c4d9a76/6557b6c5dd7f68040aaebbeb/robothand-dpa_picture_alliance-alamy.jpg"
+        width: 1800
+        height: 1013
         isCached: true
   - title: "Meta’s Responsible AI Team Disbanded, Paves the Way for Generative AI Dominance"
     excerpt: "Meta, the parent company of Facebook and Instagram, has dissolved its Responsible ... projects like the custom silicon unit in its Reality Labs and the Fundamental AI Research department with its AI protein-folding team. Zuckerberg said, “Our single ..."
@@ -65,24 +136,29 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Amazon to cut jobs at Alexa unit to sharpen focus on generative AI"
-    excerpt: "Amazon’s Alexa division is set to suffer another round of job cuts as the company plans to discontinue some initiatives in favor of new generative AI projects."
-    publishedDateTime: 2023-11-20T18:25:00Z
-    webUrl: "https://www.computerworld.com/article/3711182/amazon-to-cut-jobs-at-alexa-unit-to-sharpen-focus-on-generative-ai.html"
+  - title: "Artificial Intelligence: Intellectual Property Considerations for Your Business Operations"
+    excerpt: "Over the past couple of decades, artificial intelligence-enabled (AI) technologies have crept into the marketplace, providing businesses with internal- and external-facing services, such as customer support, search engine optimization, market research ..."
+    publishedDateTime: 2023-11-20T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-intellectual-6821463/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
-  - title: "MAS launches latest range of fintech initiatives"
-    excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."
-    publishedDateTime: 2023-11-20T12:45:00Z
-    webUrl: "https://www.euromoney.com/article/2ch7qdhmxyq9fpfz71dz4/fintech/mas-launches-latest-range-of-fintech-initiatives"
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 29
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14909_3723.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "US patients believe generative AI can improve healthcare access, affordability, survey finds"
+    excerpt: "More than half (53%) of U.S. consumers believe generative AI could improve access issues and shorten wait times for medical care, according to a survey by Deloitte's Center for Health Solutions. A little less than half of consumers (46%) say it has the potential to make healthcare more affordable."
+    publishedDateTime: 2023-11-17T20:05:00Z
+    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/us-patients-believe-generative-ai-can-improve-access-affordability"
     type: article
     provider:
-      name: Euromoney
-      domain: euromoney.com
-    quality: 4
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 23
 
 secured: "wAlLplyYGWjgQOS61Jzr0PHilyzXFkVH9/1qABDUSPM/VUIRKwqZceABYSWrEWpDGALfWAEP5ghweppwRJl0DOoFdrE6o9Ww5oyRc5p/fod5CLyDH6AlsB4C+vtnJYj+ApD+XnhcgFPa6FXCVfyprdo7EimKc8sCDt9K9iLyCJRTO3VvszBpdvi2u5IJcUEjm2mOD+UbSKEuSc2X9K+59aqlpaHtMcyTaw264Bsvp+drgzAAGzcmUjkfV3Ea95pMl9pKWg1TW1DgXhtCzDInsIrVxWlLnerVF86bk/k4q7avhcUgqkAxQgZovF7gatmLjJlOiZW3I34XC/DXWjOIOyv6i/t2WeXdqxCJAfDuRCe2Tj/DvG29sc/sgv1ZMIhi4W7KTCmxU3tbmA0ai1sqcqNBfYIaJT9rkBtRGJMIyS7Qr3tVbk6mX8V2uxIi2s9+N8CS74t8nx3bp/tzVVTGJv6DEzkOE57BlIGSzSyotsVaoettGW+R1XC9m1RUZQJ9iOi08qFfMZvZlTkk42A66Q==;rK5iL9hrhsg7GyuZ+lucog=="
 ---

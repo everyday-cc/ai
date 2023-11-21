@@ -48,6 +48,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 64
+  - title: "MediaTek unveils Dimensity 8300 with generative AI capabilities"
+    excerpt: "MediaTek unveils the Dimensity 8300, a powerful and efficient mid-range smartphone chipset with impressive performance and AI capabilities."
+    publishedDateTime: 2023-11-21T10:03:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/21/mediatek-unveils-dimensity-8300-with-generative-ai-capabilities/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 49
   - title: "Qualcomm’s Snapdragon 7 Gen 3 chipset brings faster AI and GPU performance"
     excerpt: "Qualcomm’s is not done with its lineup of chipsets for 2023. The US-based company revealed earlier today a brand-new chipset aimed at mid-range smartphones, the Snapdragon 7 Gen 3. The new chipset will be initially packed inside smartphones launched by Honor and vivo,"
     publishedDateTime: 2023-11-17T09:21:00Z

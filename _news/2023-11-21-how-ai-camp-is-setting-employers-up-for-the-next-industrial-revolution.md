@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Revolutionizing Creative Industries: PromeAI's Breakthrough in AI-Driven Image Generation"
+    excerpt: "AI Image Generation provides artists and designers with an additional source of inspiration and allows ordinary people who lack drawing skills to embrace creativity. Background Diffusion assists e-commerce businesses in producing visually striking product images,"
+    publishedDateTime: 2023-11-21T13:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/revolutionizing-creative-industries-promeai-s-breakthrough-in-ai-driven-image-generation-1032839110"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
   - title: "How AI is impacting the music industry"
     excerpt: "AI covers have taken over our social media feeds. How will this trend, and the use of musicians' voices, impact the music industry?"
     publishedDateTime: 2023-11-20T02:01:00Z
@@ -92,6 +101,6 @@ related:
         height: 600
         isCached: true
 
-secured: "onFttOURJQ0Nfl5uKpRKuHp2mXBpO6HsXEvO9CEUfjq2vI1MI0spGojqCaC7MnDn1gBhyBhAyR8AsT2z0f/P6gPee7G/1FCUUnzptlLwgB4gdrw5PDoGtlVHNwkDaXRtrz3KWcyptRSHOjULbW9jaLKaSIRXHedibbttNatGFeupbhsl9NP0pMuOhwrfligGKbnjVBjzQzNXy8rqMA29KVFJD/Oy3DlUCLET+qiSUf9K+ZtrWCCziHV/7kExp3GDzAwAjh9NpRP8uW+UH5scoBuZxz4gYux2Ijb6fXTGZp5gq4sK56lli9iJC6R4x484+ZvF2DX00rRd9/gQgsW1A+QdvuugUMP0aKtW0vRDTtc=;3uFg7fTeD4Ev72FoEjo0+g=="
+secured: "hN4Gv4JK6Yo8ZClCfIEfuIrt9W0r5qNcQ6EyjqA/m6t4chgTFGqZzputB6xL/3MV+yhMauRepTFPzAw13gniEvkNSMvOBAOuEZ3vKZKGwJe49MJOyAyn6UT6jcO7/0DLwXalULDiiq0HISWGHGK4mgwOJSjIKA4WEZ1+aHROHDX3vNdMHWQwW3WaGrqJhZgJ4Qj0BDSHHbFpnx9AFrFE2JMz1yTAK3U9xbSPiuKPDzXzzvgk7WKQmftUDSFkPQG0PBTetGBkDyhC9Te51SGVY3d1BnCTq4kFzkQcXNM5numKDl8X/Ob0d1/7s7w0voerQSmbIdHsAHVJqnre6DippF7AGxJTuhjAWe6s16uhz45UMvcz41FDO7yvM3oHRQ8E1humhB6RTNFlBRtLqpv29nEB4Wzp4NtOuo3ooZkPIVgKTecT8R88AKFHTbnP73EW3kgGp8jYH87kvMf2OZwRPDnHSiLocjKalpguL1tWvSHUT5qjAdMltx1vjaPGwpJIybatv1nkMmJZpqfZLV6E1w==;78R9j4vwfizfXDRaeITN1Q=="
 ---
 

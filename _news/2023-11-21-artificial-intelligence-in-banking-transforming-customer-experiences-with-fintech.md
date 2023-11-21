@@ -78,7 +78,16 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 4
+  - title: "MAS launches latest range of fintech initiatives"
+    excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."
+    publishedDateTime: 2023-11-20T12:45:00Z
+    webUrl: "https://www.euromoney.com/article/2ch7qdhmxyq9fpfz71dz4/fintech/mas-launches-latest-range-of-fintech-initiatives"
+    type: article
+    provider:
+      name: Euromoney
+      domain: euromoney.com
+    quality: 4
 
-secured: "/TClvVGil7Au3YXzeMZFmiPSt0llXHnzX+Ts6ugwguOtp+ZQtzNLzBSGDoL5PFVEcdOVe1SRLtV3p3xLryAPdTRZbJxwdsSmmzEVu4lYwyty31DpPw8iVr6PgpINwnGavT0iWi/qB9Rzmww6LfbhrHuTpZvP2Zdb+AzdHIJMUwK4X+rpr8QEbfPYYrp+Jo5sXTN04TKvjadiLEEurkQ6mIjshyF0n5VO9p7CMUd8IWKNrUTChCYPbnCJF4bSjkS1limpMHcHewWkjqPzthPFk+0tNt/SkJow+CVUc4JI8Y97eTKWYr18KAt/vl87kq/mt/xrwrKhV7pEibpZbWWbGt5lUb1aot3kGEdmkgyPcPU=;7xz/gnBWwUZAKwlxNxy0ZA=="
+secured: "ZtW2PZUhx5L5TCe+TpyNtp30OICG+7BxpsOTtb6d2O4csGLF0UyYZU2BMx5sWtY3mQY6F4FYd3qsQn/M1JF7ntCyeArXPKi1pMZcetLSdTU7bpVBWoNcVBC7A8JGC2duDd/+R0MRttyR7kBqI1xqLhKBrmPqTTsxCZB9W7uqeF2669rDlMBEVArKHiMl+hJmwyQrLnJb+HA+PgVvUMEMkwVDM+hnEYZG4POmFR9z99t13c+19E5Jczrp5W64uP7wyfGYMAhsv5lYlVmx1kTFfTlR2c35YP/d+zuTWGfL7a5AgF1tGO3uFyPp23DFD15PkGRyipNvotxRCC2kxkViAKiq9S97xhlzqNjzI5fojXujY9WJ1O99WlMqqcGL5128abesPi7eswao8Fp/Dpz6pPex9eR3jkPgTL8GKaNDRPSOEsloD7P3G2NdSU+ZtZJ40Y1QVssWw/idh1DryUbl9LxwtFTEhzuU13JTJfNaO83CKCQ0kTevYllBRfNTxD+bm4zXgY1BwELEkPeWCBOVpg==;wqWODLBJaZAM/yNq5dJarw=="
 ---
 

@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "The Sam Altman Saga: Is AI the Place to 'Move Fast and Break Things'?"
+    excerpt: "The OpenAI board was reportedly not happy with the former CEO's plan to profit from its powerful AI. But this is Silicon Valley. Is it possible to develop ethical AI and still make billions?"
+    publishedDateTime: 2023-11-21T16:07:00Z
+    webUrl: "https://www.pcmag.com/opinions/the-sam-altman-saga-is-ai-the-place-to-move-fast-and-break-things"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05Irm0QKmV9nQHGPgyLAhNx-4.fit_lim.size_1200x630.v1700520536.jpg"
+        width: 1121
+        height: 630
+        isCached: true
   - title: "Sam Altman’s ‘Departure’ And Board Oversight Of Artificial Intelligence"
     excerpt: "OpenAI’s decision to terminate CEO Sam Altman may have a substantial ripple effect on how boards approach oversight of the organizational use of artificial intelligence."
     publishedDateTime: 2023-11-18T17:12:00Z

@@ -182,6 +182,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AI is already impacting influencer marketing, according to the CMO of Billion Dollar Boy. Here's how she thinks brands should approach the new tech."
+    excerpt: "Becky Owen, the CMO of influencer-marketing firm Billion Dollar Boy, is at the helm of an innovation unit at the company that focuses on AI efforts."
+    publishedDateTime: 2023-11-21T13:29:00Z
+    webUrl: "https://www.businessinsider.com/influencer-marketing-firm-billion-dollar-boy-investing-in-ai-2023-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
 
 secured: "Og1ukjG6t4kLB/O+E0RCfA6qk3A8cgLFXf84Zu7WKRxRzlq+5r19A9Qkm3TtHKedxJv4L9hT6r6acap666mSWO+QoFPK1ISn5rjaTynI++GkIjD36tL7poX1FRuu43fesVNL0hklhDkbCjb0gp1Z1mzM3abPx7zOMCjGegiIrtUJGHg6HgVXP/aam04Oex+o734vAguPuU6D3/xibbiL/GZ0Fbbfo+mfSRGP14NGfNjdHtqA2gozpgARZ/NE2N0c+ocKCclbaXIwNBaszBZ1BffKw0N+kgSa520efFkhexmWFtIQczD9kedI+bWc+pmwkgAD+DlpAsm7gk3W8XNYK0t7U/2X95bM14yrpE8zq3glTFn7GZdeKYdH2eXuk1JYz1S4K3ZfYOdNXAthuDUEvljFSxCjSOpAUKm3115SMsYywrXAaCBMbDPP9bu/fFn+GIDi2sm/5b1K0UTRdKdmj4ibiLQDu7nxW3JvTr7czT4/A8kTSsm4kgZgs4XcWN8Tf46iXFzTYMeiQFDjCUJE5Q==;jOX5cK8iD/YzcSiME3aXrA=="
 ---

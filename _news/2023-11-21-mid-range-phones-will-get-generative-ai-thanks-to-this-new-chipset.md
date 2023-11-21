@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/mediatek-dimensity-8300-3386430/"
 webUrl: "https://www.androidauthority.com/mediatek-dimensity-8300-3386430/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 64
+  - title: "MediaTek unveils Dimensity 8300 with generative AI capabilities"
+    excerpt: "MediaTek unveils the Dimensity 8300, a powerful and efficient mid-range smartphone chipset with impressive performance and AI capabilities."
+    publishedDateTime: 2023-11-21T10:03:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/21/mediatek-unveils-dimensity-8300-with-generative-ai-capabilities/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 49
   - title: "MediaTek Dimensity 8300 chipset announced with on-device generative AI capabilities"
     excerpt: "MediaTek has introduced the Dimensity 8300, a new mid-range smartphone chipset that boasts on-device generative AI capabilities"
     publishedDateTime: 2023-11-21T08:42:00Z

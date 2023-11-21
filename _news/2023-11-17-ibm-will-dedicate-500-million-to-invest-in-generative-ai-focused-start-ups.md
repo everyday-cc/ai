@@ -7,7 +7,7 @@ originalUrl: "https://iblnews.org/ibm-will-dedicate-500-million-to-invest-in-gen
 webUrl: "https://iblnews.org/ibm-will-dedicate-500-million-to-invest-in-generative-ai-focused-start-ups/"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "IBM Unveils watsonx.governance to Build Trust in Generative AI"
+    excerpt: "IBM announced November 14th that watsonx.governance will be generally available in early December to help businesses shine a light on AI models and eliminate the mystery around the data going in, and the answers coming out."
+    publishedDateTime: 2023-11-20T17:30:00Z
+    webUrl: "https://www.hstoday.us/industry/ibm-unveils-watsonx-governance-to-build-trust-in-generative-ai/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 56
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2023/11/gears-7147823_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "pCzOzEGCJLSl3Md5qHXTWh+AZf4JxbfqETJR0bCDKP54hT/ltp5UR59td2brD6nSS2VF7txLIdKfi6PkrK59cf4NWy2BuDrFlbuQR9MOu6e4+Iw6EAMd9KpBxAxRZcCVR1OyxPraILXnLoBTG1PPJS3t2dQFvwB/s4kp9M48VmPzmSy/ftyFZgitGNcXYHtttOBzy9xweOzxKdpOp4+oms6V4CI+K/39FJOYa+UZDpsYfkcsBrYkoXtEtGbWON3HhQa/SMOYO5Im3DJFBwL6CfrtnDSKrMABHvnqYw50ktRci1zTAWuzktCOR4BohT/w7LjV970OVAe9FMCFPTrU4CQHukRn8y8hPGPwt28bPeMuGIdz82+Sf6o7KFIRc76NOUy2ZKEjqJLQaAd15J2LOuzMQui7iLSuxJcfjfs42jM0udHJD934Zkyd664QIgIFAI2nAjafH2iZe9aE6ExzMYFH7k2WftdPlwvi0t6h9VAXA1biuqAzmRqXA01nkUmtxamZR/QjP2L7qMqGlQR9sw==;txC1WZMduMuLwJp8/29Zkg=="
 ---

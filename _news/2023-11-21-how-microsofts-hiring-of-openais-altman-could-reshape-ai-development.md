@@ -1,22 +1,28 @@
 ---
 category: news
-title: "How Microsoft’s hiring of OpenAI’s Altman could reshape AI development"
-excerpt: "Snapping up Sam Altman and Greg Brockman gives the tech giant an advantage in its race to increase its AI dominance over competitors including Google."
-publishedDateTime: 2023-11-21T01:12:00Z
-originalUrl: "https://www.seattletimes.com/business/how-microsofts-hiring-of-openais-altman-could-reshape-ai-development/"
-webUrl: "https://www.seattletimes.com/business/how-microsofts-hiring-of-openais-altman-could-reshape-ai-development/"
+title: "How Microsoft's hiring of OpenAI's Altman could reshape AI development"
+excerpt: "Following a dramatic departure of two key leaders from ChatGPT-maker OpenAI, Microsoft, a major investor in the startup, ended up a winner."
+publishedDateTime: 2023-11-21T14:49:00Z
+originalUrl: "https://www.securityinfowatch.com/industry-news/news/53078830/how-microsofts-hiring-of-openais-altman-could-reshape-ai-development"
+webUrl: "https://www.securityinfowatch.com/industry-news/news/53078830/how-microsofts-hiring-of-openais-altman-could-reshape-ai-development"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Security
+  domain: securityinfowatch.com
 
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/11/655cbe74654e4c001d57cb5a-gettyimages1483272785.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "How Might Open.ai Outcomes Impact NVIDIA, AMD, Intel And Microsoft?"
@@ -34,6 +40,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/655b9293a3cff1f243d07850/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1258
         height: 778
+        isCached: true
+  - title: "Microsoft- An AI Powerhouse To Reckon With In The Future"
+    excerpt: "In doing so, Microsoft became an even greater force to reckon with Microsoft now could have less reason to lean on OpenAI for future AI breakthroughs and advanced"
+    publishedDateTime: 2023-11-21T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/"
+    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655be7de4854a016a0b983ac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
   - title: "Microsoft will struggle to clean up ugly AI mess"
     excerpt: "Microsoft boss Satya Nadella’s stressful weekend is probably only the beginning. The board overseeing artificial intelligence venture OpenAI abruptly ousted Chief Executive Sam Altman on Friday. After an unsuccessful attempt to broker his return,"
@@ -97,15 +119,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft recommits to open source AI models, despite OpenAI investment"
-    excerpt: "Ignite over the last two days, Microsoft also made more important moves to bolster its support for rival open source AI models."
-    publishedDateTime: 2023-11-17T00:00:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-recommits-to-open-source-ai-models-despite-openai-investment/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
   - title: "Microsoft India exec talks about startup support, says AI will core to India's digital empowerment"
     excerpt: "India's startup landscape surged from 5,000 in 2016 to over 99,000 now. Sangeeta Bavi of Microsoft India, in a conversation with CNBCTV18, attributed this growth to technology's pivotal role in fostering innovation."
     publishedDateTime: 2023-11-20T12:15:00Z
@@ -145,6 +158,15 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 49
+  - title: "The OpenAI Saga Continues, Microsoft’s New Chips, Microsoft’s AI Platform Hedge"
+    excerpt: "More updates on the OpenAI saga, including the problematic board. Then, Microsoft unveils new chips, and is creating an AI platform that looks a lot like Microsoft’s other platforms."
+    publishedDateTime: 2023-11-21T14:25:00Z
+    webUrl: "https://stratechery.com/2023/the-openai-saga-continues-microsofts-new-chips-microsofts-ai-platform-hedge/"
+    type: article
+    provider:
+      name: Stratechery
+      domain: stratechery.com
+    quality: 47
   - title: "Schneider Electric Drives Generative AI Productivity And Sustainability Solutions By Integrating Microsoft Azure Openai"
     excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of work"
     publishedDateTime: 2023-11-21T08:29:00Z
@@ -191,6 +213,15 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 34
+  - title: "8 AI Projects Microsoft Open-Sourced in 2023"
+    excerpt: "Microsoft did its bit by releasing several AI and machine learning models, projects and libraries all round the year."
+    publishedDateTime: 2023-11-21T13:00:00Z
+    webUrl: "https://analyticsindiamag.com/8-ai-projects-microsoft-open-sourced-in-2023/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
   - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
     excerpt: "KKCompany is announcing its participation in the Microsoft startup initiative, \"Highway to 100 Unicorns,\" a startup accelerator program aimed to support startup innovation and strengthen the startup ecosystem in the Asia region."
     publishedDateTime: 2023-11-21T06:20:00Z
@@ -224,6 +255,6 @@ related:
       domain: sinchew.com.my
     quality: 25
 
-secured: "Ael9M8e0161nuegZVd/ccZMiKiKBrMG6O/u+3xAa+v5AmE0iR7nwLY0BQq0LOxljv4YpzyL7OwlW7SOeKrSGCcAEVMBFd1z6KqTGtU+DZpOmHbZHdOzXZ+hVj2jtNuRblesS3Q+yTf2wcbAVVyqfAv7NddxXlBePooRDc9MmLRpAQuXBIdANwHPWP6wNcA4KUWpfyz9izB2sJ0T8pS1Fh1dxviKpJDNqJylru5nUDFQcGvd8/QPmI4+HByADnBTLV7mp+0ew4QA5t7sjGVK/ihP61i9heQ1bV98qpxN/AQO86mll86eR1VA+Tu8AGyG8SZQofig3GUVPj3LV9ZcdmtG5jly7NgZrknQkSl4eHA2gzzCSVrbK51TBb6G33+vPUqsR2S8o9FqAIombsZRv5QQWSSVbYlaHhfZ8vVR0iDiKtRxl2eJDGEaaKrhvZ745C5J5FUdnF/Ok8Qp4BfEfRXVLNwQstC8v94Tjz6a+Gm3RRqyZKVUml5WWv2JQS/sTb4knCoQWe6ObvZL4QaFT4Q==;LOTQNP9tJT6TeIiyL9djLA=="
+secured: "o75Os+qszN3bagyalGc5vmnZwSrvNX8T2g8Q3ULRwb83rAlhc3lnKDab/dfnW7gKPXShK1qk0tNHHV1O6f6CIEQSO5BRhWz7Ntlienr3bHvMT+4wpCScshXLG5SuswY6cEkJcUcY6RZN4dUmfUpE+jlTAX+UD0ySvDYI0N4SrreJmJQxfAP6R5umrk91YWgfRNCt3WKeA0X5+yim3LKL4JUzBRxxFD4jZ0oola6Veyg5VsJw1ylSoF4h5Bj+7xjnFMf2fXhyYGu/z6OCw3vUzLt5brMokE/ZuxNGpyB3t/vNium0xlKFFZEZEqZsRbOa1VfYtGsSY69uo3as9+BrCGgT3sZcYdrV8JQ9TjIsBEY=;eFH5i4/BijxsZjpTpJCC4g=="
 ---
 

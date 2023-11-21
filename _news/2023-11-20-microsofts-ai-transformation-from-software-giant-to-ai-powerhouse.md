@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai
 webUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -24,15 +24,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Investing in Generative AI? You Won’t Do Much Better Than Microsoft Stock."
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How did Microsoft (NASDAQ:MSFT) stock earn its membership among the"
-    publishedDateTime: 2023-11-21T11:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/investing-in-generative-ai-you-wont-do-much-better-than-microsoft-stock-1032838858"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Embarc Collective AI company hires ex-Paypal, Microsoft software developer as CTO"
     excerpt: "The Tampa-based company was founded in 2018, and it's CEO and co-founder, Chris Jones, has spent that time building and pivoting the platform."
     publishedDateTime: 2023-11-20T10:43:00Z

@@ -24,24 +24,20 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft's AI Transformation: From Software Giant To AI Powerhouse"
-    excerpt: "Microsoft wants to be a major force in the AI ecosystem, and Microsoft CEO and Chairman Satya Nadella made this clear in his keynote address. From developing its own AI accelerator chips to launching a marketplace for copilots, Microsoft has a long-term strategy in place."
-    publishedDateTime: 2023-11-19T18:28:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/"
+  - title: "Microsoft’s AI Fate Isn’t Entirely in Its Hands: WSJ’s Dan Gallagher"
+    excerpt: "OpenAI developed the key generative artificial-intelligence technology that helped give Microsoft a healthy lead in the biggest tech race in years. After OpenAI’s board ousted co-founder and CEO Sam Altman on Friday and his weekend efforts to return to the company fell apart,"
+    publishedDateTime: 2023-11-21T16:30:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-11-21-2023/card/microsoft-s-ai-fate-isn-t-entirely-in-its-hands-wsj-s-dan-gallagher-ZNSsTWIeKNo6MxWY6fb7"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-  - title: "Embarc Collective AI company hires ex-Paypal, Microsoft software developer as CTO"
-    excerpt: "The Tampa-based company was founded in 2018, and it's CEO and co-founder, Chris Jones, has spent that time building and pivoting the platform."
-    publishedDateTime: 2023-11-20T10:43:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/inno/stories/news/2023/11/20/amni-ai-company-hires-cto.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 29
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-785590/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "ISwm/kDKFL5FMA7AGDkKuIj8uw114NyQ6LJgDys51W/SV3v+4zEKg997fDuLR0erMKMt34mSlyYgZENSbUGd6I68b7hUcCa3Z0iYKz6XBTmLbQrwA4dsOb7Bo4oBAIy48FLEkpYDO+lEeOsVWMnOqjEXH9kiJXVuGrOPkuh6WUjg0afauMug4a5fm/QLKMrzthy51mLE52GFNwzIbeU9Nv/lAFfTfWMToPkW0FQIocalZRC98RW3e+MbF0JEUczfKfjJ0IuipNq8TNbtdWOVZPONcjoXXzA+hk+dioVYmRViNX/8R9TyWaDVZfqk+Yvh8+AtL7KKA1avy/pQLS8+T0a1azG87SDS+iLu6cj1+KI=;pq/5QtiO8uYlbuhIGcQEKg=="
 ---

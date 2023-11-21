@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/industry-generative-ai-cha
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/lite/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Financial Express
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Creativity in the age of generative AI: A new era of creative partnerships"
-    excerpt: "Recent advancements in generative artificial intelligence (AI) have showcased its potential in a wide range of creative activities such as producing works of art, composing symphonies, and even drafting legal texts,"
-    publishedDateTime: 2023-11-20T18:13:00Z
-    webUrl: "https://techxplore.com/news/2023-11-creativity-age-generative-ai-era.html"
-    ampWebUrl: "https://techxplore.com/news/2023-11-creativity-age-generative-ai-era.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-creativity-age-generative-ai-era.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/creativity.jpg"
-        width: 1920
-        height: 1462
-        isCached: true
   - title: "AI in financial services presents opportunities, challenges"
     excerpt: "AI in the financial services industry can provide tools to help consumers as well as challenges for professionals."
     publishedDateTime: 2023-11-20T17:12:00Z

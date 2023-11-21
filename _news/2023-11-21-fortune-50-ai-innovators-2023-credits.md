@@ -7,8 +7,8 @@ originalUrl: "https://fortune.com/franchise-list-page/fortune-50-ai-innovators-c
 webUrl: "https://fortune.com/franchise-list-page/fortune-50-ai-innovators-credits-2023/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fortune
@@ -29,18 +29,18 @@ images:
 
 related:
   - title: "Fortune 50 AI Innovators"
-    excerpt: "Will AI create a world where no job is needed? Will computers achieve human-level intelligence? Where will the dramatic OpenAI storyline end up? The drama unfolding in the world of AI have proven that readers and investors need to follow the space closely—and it's changing minute to minute."
-    publishedDateTime: 2023-11-21T10:30:00Z
-    webUrl: "https://www.fortune.com/ranking/ai-innovators/"
+    excerpt: "Big Blue, based in Armonk, N.Y., was early to the AI game with Watson, which was first introduced over two decades ago, mesmerizing the world with what the tech could do. In 2023, the company launched its generative AI offerings,"
+    publishedDateTime: 2023-11-20T22:45:00Z
+    webUrl: "https://fortune.com/ranking/ai-innovators/2023/ibm/"
     type: article
     provider:
       name: Fortune
       domain: fortune.com
-    quality: 67
+    quality: 69
     images:
-      - url: "https://content.fortune.com/wp-content/uploads/2023/11/50-AI-logo.jpg?resize=1200,600"
-        width: 1200
-        height: 600
+      - url: "https://content.fortune.com/wp-content/uploads/2023/11/AI-Innovators-2023-IBM.jpg?w=1440&q=75"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Fortune Debuts Power List of 50 AI Innovators"
     excerpt: "Fortune editors name the companies leading the way in the AI boomAn essential guide to the companies every executive needs to know in the sector"
@@ -52,6 +52,6 @@ related:
       domain: businessinsider.com
     quality: 49
 
-secured: "1P/dldmQc924kKPuen94jdT8IULQI3ERGFA86tkkl+R+uzH629SsdDZDHh2ExarNFtYgSSUClQ4URO5mVrzjJOhtDTThPirRBhuec8sx+LekaXHmyVC5krrzjR57M6Wfi7mNXgZ832fblHPyqBzG2uZjRGN/XfMA1V1Y4nc7XMLjIS+iZFs1CbPfyderjZoiPqH9dLVvSsvututDqWuDcUg/dJxxJWWcqYbpBA5XY5r8rljBrIfnl9Gk8rRSb3TX1+80GcybsVk9n7MqXBZOn7Im0V6uIAQeeeLGETi7CWVSUm/0Z3SBjmNXQPE94xZpdEo7neIj5cMq5F/kB2+N9ONxxDQhS6O6gcf1BQqIvW8=;76OsKycctzJYa2kTY2WZuQ=="
+secured: "xs/oz2V5BM7SFcgXj9WcNwXYpM/n3pvrHTT82+XMbXy1EkzJ5g9IHbSTI3mERxroZom5QOlq51M8r8MqN6jHwuSnEfd152HRkylwj+ZqSrgtb1BAsUYfoZkR6001amSTiivfBoD7xVQrITrB1Vtm5Rn1eS6w+CMqdGQLcKp9WyLq/RlnWEPRcTuIhLGZq043xiSu7tu0WWbNn/OTS0KkOQ9AjYbVKhp9hJTgLQeLoOnWayC3x0ygmftTrq87NDR0o9/4QAnJPJOLPbB45WhowLAQ9mcYyf7AmQXZ+kB5PuWWF0tnvRleQ8EKcI21puls4soIHbkV2q2gVjl7M749cLC7Bln5o6XUY2DP1+HIjUWRyP4dCNxPbm5C2hIGBhMCt6hLcH5ERbRv+yUO+xVqF2ciVASfa1MbkNdUEXjgNO66lIT7Cov2v9leyGfkAcwsSORtwkn/u0WYVcrxhQOmOZdXnKaa6tLQmlCv4R0GcTTAl7hyuh178h2UBRzQSUKizCJbnZVeBTxmyFGfqPeU/A==;33VtgLjTtzwnlC0Scu3u3A=="
 ---
 

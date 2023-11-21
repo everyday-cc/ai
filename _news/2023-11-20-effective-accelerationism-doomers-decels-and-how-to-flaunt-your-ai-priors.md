@@ -143,15 +143,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 15
-  - title: "Meta announces new breakthroughs in AI image editing and video generation with Emu"
-    excerpt: "The Emu Video tool leverages the Emu model and provides a simple method for text-to-video generation that’s based on diffusion models. Meta said the tool can respond to various inputs, including text only, image only or both together."
-    publishedDateTime: 2023-11-16T22:45:00Z
-    webUrl: "https://siliconangle.com/2023/11/16/meta-announces-new-breakthroughs-ai-image-editing-video-generation-emu/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 13
 
 secured: "fEIkVMytsQSbyjjRASGT3zwjDx66L8yvf4CLIWxBI6MGhlA4XMgew8A3BrloMNrp0Zke1PJts3l/ijm9+y1TnMRJ7zghi2oPniQGow+4sAvNXYVlk4HtwNUO0qjRyuRRolcILe+s25XYpsisCtnl5uHx5nlE2PDxTs+G7mC9noclPav2kaoc/74OLxdSxTwbdSntZDxGU6CiPzSKDV/PGZc6Vyepjef0ItDS2srKTA5YFNh1jrnAiyhIhg3YNV6ykqU21SylGNsMvTQ3g160pRDY6tg1j+M7DK86aYN4KAuw2IprOoWwAwRVJx9fP8TkwsaLF2JI6T8uHI63cdl7CguHlGBJnDkeGO/HAEWOxj4=;7QqMBIm4Xa7n9pee0YwznA=="
 ---

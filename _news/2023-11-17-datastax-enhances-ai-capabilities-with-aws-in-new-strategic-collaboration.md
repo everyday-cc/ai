@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Neo4j Signs Strategic Collaboration Agreement with AWS to Enhance Results While Addressing AI Hallucinations"
+    excerpt: "with Amazon Web Services (AWS) that enables enterprises to achieve better generative artificial intelligence (AI) outcomes through a unique combination of knowledge graphs and native vector search that reduces generative AI hallucinations while making ..."
+    publishedDateTime: 2023-11-21T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/neo4j-signs-strategic-collaboration-agreement-with-aws-to-enhance-results-while-addressing-ai-hallucinations/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 15
   - title: "Basler and Siemens Join Forces to Enhance Machine Vision and Factory Automation Capabilities"
     excerpt: "Basler AG, a leading provider of advanced computer vision products, is excited to announce its new partnership with the technology company Siemens, an innovation leader in automation and digitalization."
     publishedDateTime: 2023-11-17T20:33:00Z

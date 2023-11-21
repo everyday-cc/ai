@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/nov/17/microsoft-azure-a
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/17/microsoft-azure-ai-video-deepfakes"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Realistic talking faces created from only an audio clip and a person's photo"
-    excerpt: "A team of researchers has developed a computer program that creates realistic videos that reflect the facial expressions and head movements of the person speaking, only requiring an audio clip and a face photo."
-    publishedDateTime: 2023-11-17T00:05:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/11/231116140827.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 31
   - title: "GD Culture Group Unveils its Transformative and Photorealistic AI-driven Digital Human Technology on TikTok"
     excerpt: "AI Catalysis is also dedicated to developing, creating, and sharing generative virtual human content. Here is the 36-second video sample of a digital human developed by AI Catalysis. https://youtube.com/shorts/IWTIfsh-YfY?feature=share"
     publishedDateTime: 2023-11-20T13:23:00Z

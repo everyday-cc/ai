@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Revolutionizing Creative Industries: PromeAI's Breakthrough in AI-Driven Image Generation"
+    excerpt: "AI Image Generation provides artists and designers with an additional source of inspiration and allows ordinary people who lack drawing skills to embrace creativity. Background Diffusion assists e-commerce businesses in producing visually striking product images,"
+    publishedDateTime: 2023-11-21T13:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/revolutionizing-creative-industries-promeai-s-breakthrough-in-ai-driven-image-generation-1032839110"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
   - title: "How AI is impacting the music industry"
     excerpt: "AI covers have taken over our social media feeds. How will this trend, and the use of musicians' voices, impact the music industry?"
     publishedDateTime: 2023-11-20T02:01:00Z

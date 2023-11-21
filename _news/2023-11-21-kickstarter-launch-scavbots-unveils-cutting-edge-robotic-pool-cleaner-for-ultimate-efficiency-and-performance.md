@@ -1,33 +1,31 @@
 ---
 category: news
 title: "Kickstarter Launch: ScavBots Unveils Cutting-Edge Robotic Pool Cleaner for Ultimate Efficiency and Performance"
-excerpt: "ScavBots introduces the innovative ScavBots Robotic Pool Cleaner, combining lightweight design with powerful cleaning. The smart app allows"
-publishedDateTime: 2023-11-21T07:22:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/kickstarter-launch-scavbots-unveils-cutting-edge-robotic-pool-cleaner-for-ultimate-efficiency-and-performance-1032837795"
-webUrl: "https://markets.businessinsider.com/news/stocks/kickstarter-launch-scavbots-unveils-cutting-edge-robotic-pool-cleaner-for-ultimate-efficiency-and-performance-1032837795"
+excerpt: "ScavBots introduces the innovative ScavBots Robotic Pool Cleaner, combining lightweight design with powerful cleaning. The smart app allows remote control and real-time monitoring. It maintains pH bal"
+publishedDateTime: 2023-11-21T01:32:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/11/35886627/kickstarter-launch-scavbots-unveils-cutting-edge-robotic-pool-cleaner-for-ultimate-efficiency-and-p"
+webUrl: "https://www.benzinga.com/pressreleases/23/11/35886627/kickstarter-launch-scavbots-unveils-cutting-edge-robotic-pool-cleaner-for-ultimate-efficiency-and-p"
+ampWebUrl: "https://www.benzinga.com/amp/content/35886627"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35886627"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/mmstudio-images/gallery/AI1c6Zs6gRZKLvdKaBq3Ao0hNL73/89113677-1700487076-1.jpg"
-    width: 800
-    height: 393
+  - url: "https://images.newsfilecorp.com/files/8814/188032_ef02010284bdf949_001.jpg"
+    width: 550
+    height: 270
     isCached: true
 
-secured: "uneXt8UTN+VtQHFYUv5V8sb33wQ7XLeaiaS14gD4lvm+L9IS2IQX9VNotclz2oUZO76iYd9onEaxj45LX8NGw+/11Kuf8HOOgFyJY9JP0eCDQerGCfVcx4LVxA1gnLaKk26r/sBbE3tZA3r8g2/xWDuC9WspiOpErNTi7kDBK1LxZBN3idv67uqr3KX61Ug7scgH2tJoVBVF5UUdLbRGm4WorPPfu0Tzfl6B40TRbO+JB+4L7sWcHr8bVmnV57sueD1SoyNQH0Rg+bomDP0yaa8ar5F8AGCq+/hKbLOcpynu0tHxZ/is3aCglmvUBpZBPewBiH8U5Q9TrV7G9uAHk6NVsxEDu46UY/OkpLCvBNfWUPjJmlu7dpRP8QdY6aQY6pKaBHCZ7kX2ry17sz0XN2d+dYtnjUBwzVsB0hFOxLQzIinifF2duW8tzb1k7sjCgaZ0pJBJoC0YZ+V/iE7QrcyI1K29Lv84aXpoBEWJKVOJQo5W6swidGUsR9p6ICuz6piTIYawzhtkhcSMoAfryQ==;USCYaXMAY7UkKsysA0sAIw=="
+secured: "Y5Yp+ymQy/3HmUrz0mIqZAg77eZZ6FAH0yNwiLE34FnupuTamuUUj81txlOG2C8sx9hGiu2Q1vHh7aRWoPtHhF2e19+JNbc+O5CQuQtGqDoQD7G6Cq9ym4UG2hR/yLUi0omiZ6O3IxdOU5f5WcxgoxIrFNfCZQTQ9rYzXQyCxk6AtEm0WLxsukzBe0TsMyFsm0kQzvxQ1Oitocd0m7uwTP0CVTno9BNukeccQIWfigmAuFpWkw5H++U4E6tiANNWt/8Do6RevA/GXrzN2HRWyQBZNffXp5GSfhLAjzK1QAsn4K8zKbHvulElo+140/493NHa1W5+6kW4w8K0/OV/77SIHRSR8aNN1buY+5fNZFc=;nmcnHg0qW4azeENY4PMU+w=="
 ---
 

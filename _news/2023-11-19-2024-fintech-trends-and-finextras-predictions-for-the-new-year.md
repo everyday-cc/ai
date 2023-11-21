@@ -35,6 +35,20 @@ related:
         width: 1178
         height: 785
         isCached: true
+  - title: "Robotic Process Automation in Finance: Streamlining Operations with FinTech"
+    excerpt: "Introduction Technological advancements continue to redefine the way financial institutions operate. One such groundbreaking innovation is Robotic Process Automation (RPA), a game-changer that has seamlessly integrated with the financial sector,"
+    publishedDateTime: 2023-11-21T14:55:00Z
+    webUrl: "https://techbullion.com/robotic-process-automation-in-finance-streamlining-operations-with-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Robotic-Process-Automation-in-Finance-Streamlining-Operations-with-FinTech.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Irish association calls for national fintech centre"
     excerpt: "A lobby group representing Ireland's financial services sector has called on the government to establish physical centre for fintech firms."
     publishedDateTime: 2023-11-20T10:42:00Z

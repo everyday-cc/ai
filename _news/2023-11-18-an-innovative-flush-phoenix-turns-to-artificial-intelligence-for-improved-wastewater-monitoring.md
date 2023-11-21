@@ -33,6 +33,17 @@ related:
         width: 850
         height: 531
         isCached: true
+  - title: "An innovative flush: Phoenix turns to artificial intelligence for improved wastewater monitoring"
+    excerpt: "Kando Pulse is a wastewater intelligence platform built to “improve people’s lives and the environment,” according to Guy Cohen, chief product officer at Kando. The system uses sensors to obtain data from wastewater and translate it into insights that detect any irregularities within sewage."
+    publishedDateTime: 2023-11-20T18:16:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2023/11/20/artificial-intelligence-monitor-wastewater.html"
+    ampWebUrl: "https://www.bizjournals.com/phoenix/news/2023/11/20/artificial-intelligence-monitor-wastewater.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/phoenix/news/2023/11/20/artificial-intelligence-monitor-wastewater.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 26
   - title: "An innovative flush: Phoenix turns to artificial intelligence for improved wastewater monitoring – Cronkite News"
     excerpt: "Nazario Prieto, assistant water services director for Phoenix, referred to the system as “adding eyes through our sewer mains 24/7.” The sensors can almost immediately alert city officials when issues arise, allowing a quicker response time to find the culprits of illegal dumping."
     publishedDateTime: 2023-11-18T07:09:00Z

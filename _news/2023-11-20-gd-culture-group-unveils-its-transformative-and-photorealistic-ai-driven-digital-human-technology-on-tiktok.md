@@ -39,15 +39,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Realistic talking faces created from only an audio clip and a person's photo"
-    excerpt: "A team of researchers has developed a computer program that creates realistic videos that reflect the facial expressions and head movements of the person speaking, only requiring an audio clip and a face photo."
-    publishedDateTime: 2023-11-17T00:05:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/11/231116140827.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 31
 
 secured: "I5o5S46muB0P1nVwiNCrQY3N8NRzwCwR8jWhxXX0dD9+Sqb1lr89TmaINq8aDt3kIl/YFQHvmD6iYwjfpNB27OEQmDxA74uIvTL0VDJd+en+CLyJB/wTETvWrCuT5Wh1s0iCDtYp7p/THud06ZtSp2jiGbaQmdOW7gImShKlQsaa/KP/JlDnX9HYoNJrE//9egNHP7D/rLOfhbEpr6oSaCoc5T+ooANJP+Lv9z+b0XeDsDDskt4fCPal3smsWdHVTaUrQG9+q8vuoPgmxScH7M3tHaZFo1F+ov7EIQWhWBVcv3YENRa/vsGt7qLgwcBkX1peRt++X8w2rlSfEwAgshdP4Lgguv9MaWaOxpsM1D8=;bhUir32CcvCTdY2U/4rXsA=="
 ---
