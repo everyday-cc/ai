@@ -71,15 +71,6 @@ related:
       name: Singularity Hub
       domain: singularityhub.com
     quality: 34
-  - title: "Google DeepMind wants to define what counts as artificial general intelligence"
-    excerpt: "In broad terms, AGI typically means artificial intelligence that matches (or outmatches) humans on a range of tasks. But specifics about what counts as human-like, what tasks, and how many all tend to get waved away: AGI is AI, but better."
-    publishedDateTime: 2023-11-16T09:02:00Z
-    webUrl: "https://www.technologyreview.com/2023/11/16/1083498/google-deepmind-what-is-artificial-general-intelligence-agi/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 15
 
 secured: "NHff0rvuVZvENcuhArM6qzOmlS1Mbx5aRVDLiyBg1hmEqjNrkuLIJeTFUxF4fSN0sVSwsrqMGft+gTWRN+jXZxiAhY1SeZuEowT90RjQssFEGEugk25oTos7iZjFQXQVD0fQ2soYWb08fFZWwi8GJ/ApU5gYU6rnuLo79+UWAePAWRufIn1kBuM/px0X7ioaMLvCcBkkXujU6sBVaxabDwHhPYRqXNZH7CnzsenMqoDrlU6266mhF6oM865icqqBabe5HlpWGp630dNUIPNe8B1inJrsMUd+HYc7CUx2+PEAUiDBAij/uV+46WLutXBwjZg99J+oT/UwtQz7jrZ+/hEkyBX8nvqclxGfkTtrQt2w4BMymfuYyLq9O18DEuhmuDpgxOof6ztz6qHcZEtUcjPmq/1EbeO9MIUAg90ZLBWpEXPnYWTvcoR7iELbb8UIiSG/IYow9c3eoxzWRlW4zrSB/i6mLEqwvDhTVDnJzla5XssALG0sa4yDEVqwxWQUTr0Q6QssLZVVUszJw8mwrw==;lTUMxSR+7zVVottxYwSnZg=="
 ---

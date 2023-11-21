@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/amp/"
 type: article
 quality: 104
-heat: 244
+heat: 254
 published: true
 
 provider:
@@ -174,6 +174,15 @@ related:
     provider:
       name: Computer Weekly
       domain: computerweekly.com
+    quality: 34
+  - title: "How Microsoft’s hiring of OpenAI’s Altman could reshape AI development"
+    excerpt: "Snapping up Sam Altman and Greg Brockman gives the tech giant an advantage in its race to increase its AI dominance over competitors including Google."
+    publishedDateTime: 2023-11-21T01:12:00Z
+    webUrl: "https://www.seattletimes.com/business/how-microsofts-hiring-of-openais-altman-could-reshape-ai-development/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 34
   - title: "Schneider Electric drives Generative AI productivity and sustainability solutions by integrating Microsoft Azure OpenAI"
     excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of working• Collaboration with Microsoft in artificial intelligence is f"

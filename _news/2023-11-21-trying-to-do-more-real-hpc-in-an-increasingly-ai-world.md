@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2023/11/20/trying-to-do-more-real-hpc-i
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/20/trying-to-do-more-real-hpc-in-an-increasingly-ai-world/amp/"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: The Next Platform
@@ -26,6 +26,22 @@ images:
     width: 952
     height: 525
     isCached: true
+
+related:
+  - title: "Navigating tomorrow -The rise of artificial intelligence in leadership"
+    excerpt: "Mumbai: In an era marked by rapid technological advancements, the integration of artificial intelligence (AI) into various facets of our lives is becoming increasingly prevalent. One of the most intriguing and transformative areas where AI is making a significant impact is in the realm of leadership."
+    publishedDateTime: 2023-11-21T02:53:00Z
+    webUrl: "https://www.indiantelevision.com/mam/digital/navigating-tomorrow--the-rise-of-artificial-intelligence-in-leadership-231121"
+    type: article
+    provider:
+      name: Indian Television Dot Com
+      domain: indiantelevision.com
+    quality: 37
+    images:
+      - url: "https://www.indiantelevision.com/sites/default/files/images/tv-images/2023/11/21/53.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "9M1ndA/ugVaCTik1P2TP+OQaofqEj2xjHCFDxUw2ibAhUqdT2Hlr9fCyUrBmCPYybsE9g+pRkw8TwF15xKgOFkKEaf4lthjJOdTy1LzC+UsibXeDAYuljYECrdYfN4x9Oowxtkc/hroTp/Zr+wX7NhMgeyVTQy7x3AYFJvZ9vVpq5rre9pIjUwMcqcq0AjcwLcl7fRYjd/5IR5yGWW63RlSzhg/DgcsIyrykJroERjUPchFlcpUF2ibF+LqUPAUYYwD0KVMRudcDhrywLNTAXYZFpfsZUf+h9hzuCUwYF7+Do5S8dFQAg7iFDoU5G4qq4qGoE0QWOFtamoqTvDxKH6Ec+9JtYtNBbAOLXZT8oLQ=;NtvEq9kKVt7F0vXdPwOUyg=="
 ---

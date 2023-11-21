@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-a
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/?amp=1"
 type: article
 quality: 72
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 33
-  - title: "Google DeepMind wants to define what counts as artificial general intelligence"
-    excerpt: "In broad terms, AGI typically means artificial intelligence that matches (or outmatches) humans on a range of tasks. But specifics about what counts as human-like, what tasks, and how many all tend to get waved away: AGI is AI, but better."
-    publishedDateTime: 2023-11-16T09:02:00Z
-    webUrl: "https://www.technologyreview.com/2023/11/16/1083498/google-deepmind-what-is-artificial-general-intelligence-agi/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 15
 
 secured: "cBxSD5+i4O2mECF/DVmt6Zb73fW8T5YKsptp+GtJukwUR3AkMJdGegro8z0zbYPLBegsbBXCuVhBXepcs3Z5NFIUEh//N2ql+dw3GXF13Te/FUL6B1E26tJ0UWtWm+q0XV42nPPCDZWZQvsVJ+Hzq98hwvjdkrTcg/yKVcdukGhRXSAwUt+bqcIj5ZdjhGMu5R+d70J2RuEeahaIFUbwfSBeK3K4r5uX3kc5qbe5Sj+6ZQBv1wzRkaAxRn1mgb4QSbh5sjoNmrqs6o7Q+7lcU/9l+0tWjiZPkWS2k78gBwxLGT3D5s/41v3756TKUEkj6NHoG9RyIEIobeMPZnQrP41Tov6UnVPTBA6gw+iqDUJmzOV1tbedliSqP7wLL8IGybY9WCcjWXAFrAjoNG8JRKOg354XHYGks4/bz2wRBPD+ba1RhCRwJ+0IJ2BKj8x2gqu4sTBi6d341BNH9YF2g24uwS69P1xDDoXawv1pLPrpLf5vniqirkmg/BMpOcFBhSLD9pZ7+hbLc3gYm7/xug==;aKre9Bd5NaVvyFqt3kHprA=="
 ---

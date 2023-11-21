@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI chatbot can pass national lawyer ethics exam, study finds"
-    excerpt: "Popular AI chatbot GPT-4 outperforms most aspiring lawyers on the legal ethics exam required by nearly every state in order to practice law, a new study has found."
-    publishedDateTime: 2023-11-16T10:03:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/ai-chatbot-can-pass-national-lawyer-ethics-exam-study-finds-2023-11-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
   - title: "Yellow.ai Chooses AWS Cloud To Power Its Generative AI Chatbot Solutions"
     excerpt: "Yellow.ai is using Amazon Bedrock, a fully managed foundation model (FM) service that gives businesses access to industry-leading FMs"
     publishedDateTime: 2023-11-20T11:05:00Z

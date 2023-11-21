@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
-excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
-publishedDateTime: 2023-11-20T05:04:00Z
-originalUrl: "https://www.bostonglobe.com/2023/11/20/business/vogt-resigns-ceo-cruise-following-safety-questions-recalls-self-driving-vehicles/"
-webUrl: "https://www.bostonglobe.com/2023/11/20/business/vogt-resigns-ceo-cruise-following-safety-questions-recalls-self-driving-vehicles/"
+excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors ’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
+publishedDateTime: 2023-11-20T04:47:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
+webUrl: "https://abcnews.go.com/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
 type: article
-quality: 14
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Kppzcmm788btNPz0ZGvSRGJGP0c=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XEOENH2MWXH7ZM5VLLKUF7YAFE.jpg"
-    width: 506
-    height: 338
+  - url: "https://s.abcnews.com/images/US/wirestory_6e53ea823e1ecc037ec9b282e8e16c2f_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -134,6 +136,6 @@ related:
       domain: ft.com
     quality: 3
 
-secured: "Aplu/i4E9A2t9InD0PiGy+3v6fk89RqI649oE+LiAIEamJl0tqLFu5A9FpNpGpTNd+KQiKlk3yJtbBxctjBryjNIWJZGO8XMAT6bMJLZEbNu1eol7Th/iG8sYLvqF4KjvTZQPdfqbLwaf+o8SoUokauKUSLU500voGVAojY/B4FM/g9g/SaQOzZ822k2mdZbIe4jbO+A4iebf/jLp8u5YyS/wo8O/i3NL0LKvXwqkM8mOYLAEEmMK3ImB1qVKNDDAYpy3RwDoyWbzjKL8Cn+5YBsiZb0bRPAW5uvxjLwnaf+nZagV236zSleNSa716qv7p5cX4FZJL+aksyNckE2gsD2Ng5C7Fy+G4y9pwPy120=;9f+x/kHPPoOyhR9aNZxQaQ=="
+secured: "XuM6TinQaelRbjiwfTueVSthYfbUMcPOX4vk9zWOp1EuZqoSp8rZKpWzQ6j+Cq/8Wd2FzPvrozPyJRYtSVqEOkjKLL9YV3bmpaCgIERKtHTwHl6LtYDhj4UJgAkZZ4TLy25CtwBZ2bB6fPN2SNS8r7oa2Ek09/xCXeiwEKJnZyeI2jvIU4IiNzqTyOfoTRaiaI7CCgbHi5/6TBY8db0vqnu7J2jKUAa9Awso4AVP/BjwLtI2UvyLVyRzTFsDQ4Bt5zFdHwm0L8nmkVu6qwsqXbptCiYmEkFT2Luc6Frk9WxZr6BHC1WYHvy9ggSC8ZM562Wd6fJcNX3+qMs+Jrf2KGSrtvgZ+Aq8tqSKz3bMEdk=;TgLcH+37ody6XHfcPYQsCA=="
 ---
 

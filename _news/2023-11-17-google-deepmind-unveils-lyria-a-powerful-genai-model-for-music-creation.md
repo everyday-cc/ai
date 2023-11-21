@@ -75,15 +75,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 33
-  - title: "Google DeepMind wants to define what counts as artificial general intelligence"
-    excerpt: "In broad terms, AGI typically means artificial intelligence that matches (or outmatches) humans on a range of tasks. But specifics about what counts as human-like, what tasks, and how many all tend to get waved away: AGI is AI, but better."
-    publishedDateTime: 2023-11-16T09:02:00Z
-    webUrl: "https://www.technologyreview.com/2023/11/16/1083498/google-deepmind-what-is-artificial-general-intelligence-agi/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 15
 
 secured: "9Kjl7HnxsLn2fisFcdN3u7tMGiw3RknnVB7F8gwZt0+nulaQma6/8mvf27RkA3JJhwRIXSS3o3y11anKvINAfbkcnpdyR/rluGMtz/DCPeGaUStirIyJUG1j4Vg7+jXWUzegG+ZMJDBadQVKP1b39etpUpzFT6YSU+DFFCR+C5eFecED7KSiHOUcI6JhuPZuQs+b6KDnaKg4qo5v0KZVluYmX8C7tdnXbxOB3poqmblmmnrPC1wtLUN98doEfrjZQj5H6DJF/TxNM0xXusnqin5Kf9AryFQhKT1yi4+EsMUymY9jC42qw+7xd5qpoAAEV/NHvguEj41MtNBdt/XfxzMCKAjr9fLk4JIGUemoluEEJhw26v6ECQyoYAz9PZcsCwp6+4oni4w/nNMqTYf3NWnPF7xbjAiNPrwjxmwUIPoWIg9RBS8xL2Cmt+FjehY6gwA0WxoK9frT2V2BN+zIqYHclXCwpTytRle379jvfIy5RMkgYCRD6N67ZL8pD2TgERUhBNeUnXUmEc03ZqZqUg==;MrvQ6lDt+1YTUALeP5egvw=="
 ---
