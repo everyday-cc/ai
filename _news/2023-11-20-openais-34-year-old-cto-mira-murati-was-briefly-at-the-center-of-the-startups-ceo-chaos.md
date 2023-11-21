@@ -23,17 +23,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "How OpenAI interim chief Mira Murati helped launch AI into the mainstream"
-    excerpt: "Born in Albania, former chief technology officer is charged with calming the waters after ouster of Sam Altman"
-    publishedDateTime: 2023-11-19T09:02:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/nov/19/how-openai-interim-chief-mira-murati-helped-launch-ai-into-the-mainstream"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 16
-
 secured: "8F/t5LYqSJZaUmtUeQwSZOQOvrQhj1ENw7dIeYqhudmnt1x8aZowBejAf1aHb+6LxSLpUpXaV4ElerKWd1lsEaF1D/sGUoYWbTppnzCVt7//h1PpgwuveNwaY+m3juQIm6Rm3yst8zc9hNzoiBl4wZdL2mSO4lyvTIAwVtjNU1M/NI9fUTMeXeD1+Z+GlZMY0pHxc6sTQjSUwLfm1Hil84rGbqwQ5kwHkSRgFv1fcU3OOLd9EaQUVQG2mZBDjNvM/pb/M+/k2GfxKbnnck8CycrbIVjoQA6Eo4HeS4wKDci0b84NyaRvbF1Uv3gbH9rCAHDZE4g9cllgcxpSYf6QnoChH/RQ13FUzZD+dFWPdwE=;iEB5J7sLurnGk9I36ovHbQ=="
 ---
 

@@ -119,20 +119,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Unleashing the Power of Artificial Intelligence and Machine Learning in Financial Decision-Making"
-    excerpt: "Introduction Traditional decision-making processes are being revolutionized by the integration of cutting-edge technologies. Artificial Intelligence (AI) and Machine Learning (ML) have emerged as formidable tools,"
-    publishedDateTime: 2023-11-21T05:13:00Z
-    webUrl: "https://techbullion.com/unleashing-the-power-of-artificial-intelligence-and-machine-learning-in-financial-decision-making/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 43
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Unleashing-the-Power-of-Artificial-Intelligence-and-Machine-Learning-in-Financial-Decision-Making-1.png"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Navigating tomorrow -The rise of artificial intelligence in leadership"
     excerpt: "Mumbai: In an era marked by rapid technological advancements, the integration of artificial intelligence (AI) into various facets of our lives is becoming increasingly prevalent. One of the most intriguing and transformative areas where AI is making a significant impact is in the realm of leadership."
     publishedDateTime: 2023-11-21T02:53:00Z

@@ -19,15 +19,34 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft's AI Transformation: From Software Giant To AI Powerhouse"
-    excerpt: "Microsoft wants to be a major force in the AI ecosystem, and Microsoft CEO and Chairman Satya Nadella made this clear in his keynote address. From developing its own AI accelerator chips to launching a marketplace for copilots, Microsoft has a long-term strategy in place."
-    publishedDateTime: 2023-11-19T18:28:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/"
+  - title: "Microsoft Azure Confidential VMs Will Roll Out This December"
+    excerpt: "The partnership with Intel allows for hardware-enforced security and confidentiality on 4th Gen Xeon processors."
+    publishedDateTime: 2023-11-21T18:24:00Z
+    webUrl: "https://www.techrepublic.com/article/azure-confidential-vms-public-preview/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/tr_20231121-azure-confidential-vms-public-preview.jpg"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "Microsoft puts Azure Kubernetes Service into high gear"
+    excerpt: "Microsoft has announced another expansion of Azure Kubernetes Service (AKS). The new features focus on centrally managing large volumes of clusters,"
+    publishedDateTime: 2023-11-21T09:32:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/113493/microsoft-puts-azure-kubernetes-service-into-high-gear/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_1196949082.png"
+        width: 1500
+        height: 800
+        isCached: true
 
 secured: "7Q2eJT7Tdm0P7HTxax4xJJ0isBPxSGXtWuwnDy3bRVBvhqbbC6TOTnlwTRsaLrrsXBqPZ6fec1EYv3JL8vxmTCPmNjK20mMHOUef9Gz3ZcXN+4s4oY49s5QTCblvDp+Jc6BxHVk+ShRNJzLMPhppkFmuAKq2sDaQ2a0SBbJIKjk//4WWsfqkLMlK3i7QBNkrj5C9kG33VUsIbEi8ddD64k4dj3G6aSl+V8mHwKajQlaQoaVTZ4R8rgT1T2lod6XqjgE9DgSuUPdNqAIAhZL+Y2t/DAzwlfsHqyAQ7LCwU/yDQ85KjsKvmuGzFIJ/CWHguHRU9W5JYkJcwoykMSoziEqdRrNKuJ2QW+qO9y017eDMPvyx+1mWIYfSbwTShZu31SGpZHZdebU1z8Ndf41QAm2JW0hDNZkeJAm0fZxDKkEK1hMBTme3VugmHeUyu++aA4z5MljFDT354wFmsQX6JrykiV8NjnIiOrymZYxFSCjfHkcuG5ju4grm9MwNZ3aRk0Vo408q/ooVeoJThTV4cg==;6+AP7iVY/dcdLHF6V9/e+Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resig
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt"
 type: article
 quality: 59
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://s.abcnews.com/images/US/wirestory_6e53ea823e1ecc037ec9b282e8e16c2f_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "World's biggest driverless car race: 'a new type of motor sport with different heroes'"
+    excerpt: "The Abu Dhabi-backed A2RL Autonomous Racing League plans to pit ten driverless cars in wheel-to-wheel battle from next year; the most ambitious AI motor sport plan yet. Its backer reveals more about t"
+    publishedDateTime: 2023-11-21T18:02:00Z
+    webUrl: "https://www.motorsportmagazine.com/articles/single-seaters/the-worlds-biggest-driverless-car-race-a-new-type-of-motor-sport-with-different-heroes/"
+    type: article
+    provider:
+      name: Motor Sport
+      domain: motorsportmagazine.com
+    quality: 31
+    images:
+      - url: "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2023/11/A2RL-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Cruise CEO resigns after self-driving fleet pulled"
     excerpt: "Kyle Vogt, the CEO of Cruise, General Motors’s (GM) autonomous vehicle unit, resigned Sunday amid growing safety concerns about the company’s self-driving fleet. Vogt announced his resignation late Sunday night on X,"

@@ -79,6 +79,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "World's biggest driverless car race: 'a new type of motor sport with different heroes'"
+    excerpt: "The Abu Dhabi-backed A2RL Autonomous Racing League plans to pit ten driverless cars in wheel-to-wheel battle from next year; the most ambitious AI motor sport plan yet. Its backer reveals more about t"
+    publishedDateTime: 2023-11-21T18:02:00Z
+    webUrl: "https://www.motorsportmagazine.com/articles/single-seaters/the-worlds-biggest-driverless-car-race-a-new-type-of-motor-sport-with-different-heroes/"
+    type: article
+    provider:
+      name: Motor Sport
+      domain: motorsportmagazine.com
+    quality: 31
+    images:
+      - url: "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2023/11/A2RL-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Cruise CEO resigns after self-driving fleet pulled"
     excerpt: "Kyle Vogt, the CEO of Cruise, General Motors’s (GM) autonomous vehicle unit, resigned Sunday amid growing safety concerns about the company’s self-driving fleet. Vogt announced his resignation late Sunday night on X,"
     publishedDateTime: 2023-11-20T15:06:00Z

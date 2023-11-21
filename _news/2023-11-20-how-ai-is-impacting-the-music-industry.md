@@ -40,15 +40,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "The AI revolution: Shaping the future of investing"
-    excerpt: "Artificial intelligence has brought about a quiet revolution, fundamentally altering how investing is now approached."
-    publishedDateTime: 2023-11-17T01:05:00Z
-    webUrl: "https://venturebeat.com/business/the-ai-revolution-shaping-the-future-of-investing/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "Harnessing AI's Potential To Revolutionize Financial Forecasting"
     excerpt: "Recent advances in artificial intelligence present potentially transformative opportunities to overcome these forecasting limitations. When applied thoughtfully, AI financial forecasting methods can ingest disparate data sources, identify non-obvious correlations, adapt models dynamically and generate forecasts exponentially faster."
     publishedDateTime: 2023-11-20T13:15:00Z

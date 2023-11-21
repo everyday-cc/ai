@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai
 webUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Forbes
@@ -22,17 +22,6 @@ topics:
   - AI
   - Microsoft AI
   - AI Hardware
-
-related:
-  - title: "Embarc Collective AI company hires ex-Paypal, Microsoft software developer as CTO"
-    excerpt: "The Tampa-based company was founded in 2018, and it's CEO and co-founder, Chris Jones, has spent that time building and pivoting the platform."
-    publishedDateTime: 2023-11-20T10:43:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/inno/stories/news/2023/11/20/amni-ai-company-hires-cto.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 29
 
 secured: "/Z/X8hvsLbaSGCHJgC7FrIg2C+VdkQKMd/mIQjbkSqjQyPI5H3iaFvAx/oD7ipqeJUa1jotEyx9yjK83sR7/cTbZq6LM2J6x+HFV3Ynic6BvmihfA+gtTdkz2bTXJ/tXcUAzTy4RxaPenev0T2y/CkOuffUJIDtG1c9+BdYz34H8xs6aqV1NE2vr9MRU8toxuyL0vjxPIq+n+9eQDni3CmccE3APod23WH/DdIlQiqVN6RJLunjEvXsD4oYjPIsFjO09LiiRAtpkzll7hESAiXRALg5F/tQzX1R/EDZi3d0em52W5yWVtnuBzgB0WzL/Jk5ocXruoNhxawbn8Z+p4aI3+F4VK0IhpgADE2sh2zpIE4OkpbZa8Lgdy3o+pOA/AxYvFfEkee0mk2EggXAj6NtPDSe1F/RgQWP88IzqT8r+3CT1vKLIpGwaTGsem1ICvQjGtjg6n+IOL3IeQFkbfe5tSDngByhcYn+58reMv3sH5aaf5FRmEu9Ij3MT6lioHQmjcXHTw6qZ/Imxnosrlw==;q613Z1+khQpjdqxrpQ5X4g=="
 ---

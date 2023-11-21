@@ -38,15 +38,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "The AI revolution: Shaping the future of investing"
-    excerpt: "Artificial intelligence has brought about a quiet revolution, fundamentally altering how investing is now approached."
-    publishedDateTime: 2023-11-17T01:05:00Z
-    webUrl: "https://venturebeat.com/business/the-ai-revolution-shaping-the-future-of-investing/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "AI-powered financial technology revolutionising lending"
     excerpt: "Leading and emerging banks, fintech companies and some of Australia’s most iconic consumer brands are implementing AI-powered technology to revolutionise their customer engagement and lending offerings. Upon pairing this technology with human nous ..."
     publishedDateTime: 2023-11-21T04:57:00Z

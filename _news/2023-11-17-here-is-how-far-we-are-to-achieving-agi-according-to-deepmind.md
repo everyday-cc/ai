@@ -48,15 +48,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 64
-  - title: "Google DeepMind unveils Lyria, a powerful GenAI model for music creation"
-    excerpt: "Google's DeepMind division unveiled a sophisticated new AI called Lyria that can generate vocals, lyrics, and music mimicking popular artists."
-    publishedDateTime: 2023-11-17T02:14:00Z
-    webUrl: "https://venturebeat.com/ai/google-deepmind-unveils-lyria-a-powerful-genai-model-for-music-creation/"
+  - title: "Google's DeepMind AI can make better weather forecasts than supercomputers"
+    excerpt: "DeepMind's new machine learning algorithm takes less than a minute to make its forecasts and can run on a desktop. But it won't replace traditional forecasts anytime soon."
+    publishedDateTime: 2023-11-21T18:34:00Z
+    webUrl: "https://www.livescience.com/technology/artificial-intelligence/googles-deepmind-ai-can-make-better-weather-forecasts-than-supercomputers"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
+      name: Live Science
+      domain: livescience.com
+    quality: 52
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/C7gt33y7vHfDs7i7WAncAh-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google DeepMind Launches Lyria, Transforming the Future of Music with AI"
     excerpt: "Google's collaborative efforts with industry experts in YouTube's Music AI Incubator aim to innovate music AI tools."
     publishedDateTime: 2023-11-17T12:53:00Z

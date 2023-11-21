@@ -75,6 +75,20 @@ related:
       name: Nextgov
       domain: nextgov.com
     quality: 34
+  - title: "MediaTek Dimensity 8300 Flexes Generative AI Muscle To Arm Wrestle Snapdragon 7 Gen 3"
+    excerpt: "Mediatek is aiming for the premium-oriented midrange smartphone market with the release of the Dimensity 8300 chipset. This new chip uses TSMC’s 2nd generation 4nm process and Arm’s latest v9 CPU architecture."
+    publishedDateTime: 2023-11-21T15:59:00Z
+    webUrl: "https://hothardware.com/news/mediatek-dimensity-8300-to-wrestle-snapdragon-7-gen-3"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 32
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/63142/content/mediatek-dimensity8300-hero.jpg"
+        width: 708
+        height: 398
+        isCached: true
 
 secured: "94PpWNBDaiec33CtntR74UBsaIIxdfiq80CWJOIdY+UE+iZR5CiOh2fRok2w+xKJisd4qugFUQwBEnbqfjJt49mlJwKTNeG/uUR2OgoHTcVEK/eOn90KM138YR/5yLZZ+HegMIadjjYc1V88QaUdSqXxeb47rEDS9r4MSe/H5HxdI/dnvIppTdUse9fjXmDriK/o7B5u/seCw6ftok/5HaGfvFd2EdMTXZhzXKuVKnpIW1Q8g7Ua6D9k/3jgu+z867Psi2W9B6otRk4fwHMJodK+zazhU6+A1d7ydpkI9olDqsZRukJE1q5EHFOJlJVKDKhAtcUUOwhn94wSPws5Db27SfToz1TvIysv0aJo2AY=;zLTnieOOYW5fMkGHoPb9jA=="
 ---

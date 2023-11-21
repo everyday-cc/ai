@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/amp/"
 type: article
 quality: 87
-heat: 217
+heat: 207
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Unleashing the Power of Artificial Intelligence and Machine Learning in Financial Decision-Making"
-    excerpt: "Introduction Traditional decision-making processes are being revolutionized by the integration of cutting-edge technologies. Artificial Intelligence (AI) and Machine Learning (ML) have emerged as formidable tools,"
-    publishedDateTime: 2023-11-21T05:13:00Z
-    webUrl: "https://techbullion.com/unleashing-the-power-of-artificial-intelligence-and-machine-learning-in-financial-decision-making/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 43
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Unleashing-the-Power-of-Artificial-Intelligence-and-Machine-Learning-in-Financial-Decision-Making-1.png"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Surviving and Thriving in the Age of AI: How Healthcare Leaders Can Learn What They Need to Know"
     excerpt: "AI may transform health care across the board, but not by itself. It's a tool, and like any tool, it will work more effectively and more safely in trained hands. As the AI revolution continues to grow,"
     publishedDateTime: 2023-11-20T14:00:00Z

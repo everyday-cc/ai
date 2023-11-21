@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/xai-org-chart-top-power-100000349.html
 webUrl: "https://www.aol.com/finance/xai-org-chart-top-power-100000349.html"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Google AI
   - AI
+
+related:
+  - title: "Artificial Intelligence's rival factions, from Elon Musk to OpenAI – The Washington Post"
+    excerpt: "Inside Silicon Valley’s AI sector, fierce divisions are growing over the impact of a new wave of artificial intelligence: While some argue it’s imperative to"
+    publishedDateTime: 2023-11-21T17:24:00Z
+    webUrl: "https://www.inferse.com/802145/artificial-intelligences-rival-factions-from-elon-musk-to-openai-the-washington-post/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 25
 
 secured: "K0Aj4R29r315+Ks16F9bHcKnodJLg8jLEy0xhTG6xENlGR/bSu6jIBLGmCKOxve9g//Xf7zUa8+U1uzWIEgAD1OrF1Ynr9Tq76JyQOcQa6xll1yqM7bWuDfQpvOM6BXVV26DAmkLg2ZCrbbygZkm5Yno9ndZHO5t/77581mbSwdM5qXzjLfiuksP2pakmvJst7SNMswL4/REzHLzQkUP2Axf6H7COKhKXMGxThQotrMnT/99Dhue45ELWWQmvoWo7wQsdIv9MlmNEUb5CnHwEn04SFYXVleSghgmauglgCqU4ushWppbT/3Qz2gvgE8X4GY0+37x4kZMzyuR+Sgu8aNK+kKVonJVkfgq7lEIX5QEwpPXbiIxvfpzTGN3LzpPICNKsOwyb8yattBj+yAnLKSu1Wf07W4mgwCkXBp4EJ/XIXH9v4E6zL1vVG6ZCw8PqNVPnuyWKmaexSuj1Dv0DeyfszPTy8ueIvn63NkCgGJ9h6OGCub7Qv4YmcpjYUSshsse2KuG0ZpPEVbFJT2K7A==;aB4cuHYVp2h4bmkmaOr+Sg=="
 ---

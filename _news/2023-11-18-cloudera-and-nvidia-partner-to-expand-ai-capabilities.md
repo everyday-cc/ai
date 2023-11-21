@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Wipro joins hands with NVIDIA to integrate generative AI in healthcare"
+    excerpt: "Bengaluru: Leading IT firm Wipro on Tuesday announced a partnership with chip-maker NVIDIA aimed at expediting the integration of generative artificial intelligence (AI) in healthcare enterprises."
+    publishedDateTime: 2023-11-21T18:29:00Z
+    webUrl: "https://www.indiablooms.com/finance-details/19466/wipro-joins-hands-with-nvidia-to-integrate-generative-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 56
+    images:
+      - url: "https://www.indiablooms.com/finance_pic/2023/e61cc3574501054308e28883f55e17c8.jpg"
+        width: 800
+        height: 541
+        isCached: true
   - title: "Genentech, NVIDIA Enter Into Strategic AI Research Collaboration"
     excerpt: "Tuesday announced a multi-year strategic research collaboration with NVIDIA that couples Genentech's artificial intelligence (AI) capabilities, extensive biological and molecular datasets, and research expertise with NVIDIA's world-leading accelerated computing capabilities and AI to speed up drug discovery and development."
     publishedDateTime: 2023-11-21T16:15:00Z
@@ -77,14 +91,19 @@ related:
       domain: businessinsider.com
     quality: 49
   - title: "Wipro Teams with NVIDIA to Bring the Power of Generative AI to Healthcare Insurance Companies"
-    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading technology services and consulting company, today announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI-driven strategies, products, and services."
-    publishedDateTime: 2023-11-21T14:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/21/9921998.htm"
+    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading technology services and consulting company, today announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI-driven strategies,"
+    publishedDateTime: 2023-11-21T13:04:00Z
+    webUrl: "https://www.itemonline.com/wipro-teams-with-nvidia-to-bring-the-power-of-generative-ai-to-healthcare-insurance-companies/article_1d55ebef-5e40-5a6d-b788-72e470c8cc78.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 23
+      name: The Huntsville Item
+      domain: itemonline.com
+    quality: 43
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/5879-RTJ-Summer-Packages-300x250.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "New NVIDIA Ethernet AI networking platform soon available"
     excerpt: "NVIDIA has announce the imminent availability of its new Spectrum-X Ethernet networking solution, a technology poised to significantly boost AI system"
     publishedDateTime: 2023-11-20T14:45:00Z
@@ -93,6 +112,15 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
+    quality: 19
+  - title: "Chips Stocks Fall Ahead of Nvidia Earnings"
+    excerpt: "Semiconductor stocks were falling on Tuesday ahead of the latest earnings report from graphics card titan Nvidia. Nvidia shares were down 1.4% to $497.26. The iShares Semiconductor ETF was down 2%. Nvidia stock is up 240% in 2023."
+    publishedDateTime: 2023-11-21T18:01:00Z
+    webUrl: "https://www.barrons.com/livecoverage/stock-market-today-112123/card/chips-stocks-fall-ahead-of-nvidia-earnings-AqB5quRHJ1W1rTiUkjBm"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
     quality: 19
 
 secured: "CCqh9rmEd7m+FLEukwjLGOM8OWANHo31YXRPqP6BUbGTzrw1vdbQtMbUT6xX02NI1zoLycyb3aw05K6wJhPKt3sNCzw1k5HkDUbs+RIL1J1qXIRFYq23pjM+REBuJVYkDyf3NXZxGaIsIK0WWHD0bfVj/hKz0R5uRKKnjNM1chmwUJsm2oPu0oAt0Nkjz87iJ2uWu0SC3PpNu+2BpAIbrBnm3dXm68yCOdR2bHciYlPlErgaai/xkUfjQ59+jI5TNBp1BwiTy/5dZht2uXO/fDdnBSxvmFBFXWgL9TzkGtj+LC2YYFqCuvjIG87LlHLqMI10KwSWYAHDWT0wJB6X1W6H5zK/eb5zSIwL/jhMfcvBhkCI0RZOZ+Hp/3BRzXeodKzx15CCDoU7yDGC9Z3wa0PtYhImNbOvN4FnOSfirPg354G8jAd490cRLT1CXSZin5scPSsGAEHIZtnuL9gJQGKb307GTXcV68e9/EkH5awyW0y3KakUYFQbIm28jGsclwxjoBPIXAjlSsnwo6qp/Q==;3HYSEvcXFmEsReDczs5XBQ=="

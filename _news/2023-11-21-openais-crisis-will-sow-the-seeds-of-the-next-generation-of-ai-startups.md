@@ -28,37 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
-    excerpt: "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models."
-    publishedDateTime: 2023-11-20T00:00:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922?icid=recommended"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
+  - title: "How the OpenAI fiasco could bolster Meta and the ‘open AI’ movement"
+    excerpt: "And on a company level, Meta is doing all it can to encourage collaboration and “openness,” recently partnering with Hugging Face to launch a new startup accelerator designed to spur adoption of open source AI models. But OpenAI was — up until last ..."
+    publishedDateTime: 2023-11-21T16:13:00Z
+    webUrl: "https://techcrunch.com/2023/11/21/how-the-openai-fiasco-could-bolster-meta-and-the-open-ai-movement/"
+    ampWebUrl: "https://techcrunch.com/2023/11/21/how-the-openai-fiasco-could-bolster-meta-and-the-open-ai-movement/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/how-the-openai-fiasco-could-bolster-meta-and-the-open-ai-movement/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 77
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-11/231119-sam-altman-jm-1614-859c3a.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
-    excerpt: "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models."
-    publishedDateTime: 2023-11-20T21:18:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 77
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-11/231119-sam-altman-jm-1614-859c3a.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1247646075-e1700575788127.jpg?resize=1200,676"
+        width: 1200
+        height: 676
         isCached: true
   - title: "The OpenAI fiasco shows why we must regulate artificial intelligence"
     excerpt: "If AI goes right, it could cure cancer and climate change and a host of similar problems, ushering in a futuristic utopia. If we get it wrong, many believe it could be an existential catastrophe"
@@ -127,15 +111,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 46
-  - title: "OpenAI’s New CEO Likes Tweeting About Sex And Using AI To Write Pickup Lines"
-    excerpt: "Incoming exec Emmett Shear has regularly tweeted about sexual dynamics between men and women and the controversial pick-up artistry manual The Game."
-    publishedDateTime: 2023-11-20T20:50:00Z
-    webUrl: "https://www.forbes.com/sites/sarahemerson/2023/11/20/openai-ceo-emmett-shear-tweets-sex-dating-pickup-lines/"
+  - title: "OpenAI’s Turmoil Unveiled: The Tech World’s Battle for AI’s Future"
+    excerpt: "The recent upheaval at OpenAI unfolds as a gripping tech-world drama, blending secret board maneuvers, fears of killer A.I."
+    publishedDateTime: 2023-11-21T18:25:00Z
+    webUrl: "https://techstory.in/openais-turmoil-unveiled-the-tech-worlds-battle-for-ais-future/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/04/chatgpt_03.30_main.jpg"
+        width: 845
+        height: 535
+        isCached: true
   - title: "With OpenAI's future in limbo, its startup customers are looking to jump ship to other AI models offered by rivals Anthropic and Meta"
     excerpt: "Many startups build on top of OpenAI's models, and are looking at alternatives from Anthropic and Meta in the wake of Sam Altman's ouster."
     publishedDateTime: 2023-11-21T03:13:00Z
@@ -159,6 +148,15 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 25
+  - title: "How OpenAI interim chief Mira Murati helped launch AI into the mainstream"
+    excerpt: "Born in Albania, former chief technology officer is charged with calming the waters after ouster of Sam Altman"
+    publishedDateTime: 2023-11-19T09:02:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/nov/19/how-openai-interim-chief-mira-murati-helped-launch-ai-into-the-mainstream"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 16
   - title: "OpenAI's meltdown prompts further questions around the future of AI safety surveillance"
     excerpt: "Abhishek Gupta, Founder and Principal Researcher at the Montreal AI Ethics Institute, said that enterprises need to consider AI safety metrics that go beyond traditional software performance indicators. He explains: Current metrics should encompass a ..."
     publishedDateTime: 2023-11-21T13:00:00Z

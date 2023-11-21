@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -55,36 +55,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 84
-  - title: "Amazon Launches New Generative AI Training Courses for Free"
-    excerpt: "The 'AI Ready' initiative offers online classes for developers and other technical professionals as well as for students."
-    publishedDateTime: 2023-11-20T21:49:00Z
-    webUrl: "https://www.techrepublic.com/article/amazon-free-ai-skills-training-courses/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/amazon-skills-builder-ai-courses-nov-23.jpeg"
-        width: 1400
-        height: 788
-        isCached: true
-  - title: "Creativity in the age of generative AI: A new era of creative partnerships"
-    excerpt: "Recent advancements in generative artificial intelligence (AI) have showcased its potential in a wide range of creative activities such as producing works of art, composing symphonies, and even drafting legal texts,"
-    publishedDateTime: 2023-11-20T18:13:00Z
-    webUrl: "https://techxplore.com/news/2023-11-creativity-age-generative-ai-era.html"
-    ampWebUrl: "https://techxplore.com/news/2023-11-creativity-age-generative-ai-era.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-creativity-age-generative-ai-era.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/creativity.jpg"
-        width: 1920
-        height: 1462
-        isCached: true
   - title: "How Generative AI Is Redefining Creativity For Marketers"
     excerpt: "AI platforms like Memorable are reshaping ad landscapes with innovative tools designed to enhance personalized ad strategies."
     publishedDateTime: 2023-11-17T10:15:00Z

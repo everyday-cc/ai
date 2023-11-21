@@ -136,6 +136,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fired OpenAI CEO Sam Altman joins Microsoft as AI research lead"
+    excerpt: "Sam Altman has been hired by Microsoft to lead its AI research after being fired by OpenAI. The former CEO and board members of the ChatGPT firm was let go last week following a review by the board of directors."
+    publishedDateTime: 2023-11-21T17:45:00Z
+    webUrl: "https://rollingout.com/2023/11/21/ai-ceo-sam-altman-joins-microsoft/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 56
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2023/11/1679322765cropped3080x2002.jpg"
+        width: 1000
+        height: 650
+        isCached: true
   - title: "How Microsoft's hiring of OpenAI's Altman could reshape AI development"
     excerpt: "Following a dramatic departure of two key leaders from ChatGPT-maker OpenAI, Microsoft, a major investor in the startup, ended up a winner."
     publishedDateTime: 2023-11-21T14:49:00Z
