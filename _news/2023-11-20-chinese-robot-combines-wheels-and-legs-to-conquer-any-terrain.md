@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain.amp"
 type: article
 quality: 104
-heat: 115
+heat: 114
 published: true
 
 provider:

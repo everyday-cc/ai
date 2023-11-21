@@ -2,6 +2,179 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-10-18-data-sciences-student-showcases-machine-learning-to-us-legislators.md",
+      "title": "Data sciences student showcases machine learning to U.S. legislators",
+      "excerpt": "“By the end of the month, I found out I finished the race in the top 10% of people in the country.” Every month, AWS conducts a DeepRacer on different courses. Racers develop their machine learning models to finish the courses and deploy them on a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/ai-data-science/news-events/news/articles.host.html/content/shared/engineering/home/articles/news-articles/2023/data-science-student-showcases-machine-learning-to-us-legislators.detail.html?rightcol_list_copy_copy_start=32",
+      "originalUrl": "https://www.buffalo.edu/ai-data-science/news-events/news/articles.host.html/content/shared/engineering/home/articles/news-articles/2023/data-science-student-showcases-machine-learning-to-us-legislators.detail.html?rightcol_list_copy_copy_start=32",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-microsoft-officially-releases-ai-content-review-tool-azure-ai-content-safety.md",
+      "title": "Microsoft officially releases AI content review tool Azure AI Content Safety",
+      "excerpt": "Microsoft has recently released a new AI content review tool called Azure AI Content Safety. The company claims that this tool will create a healthy and harmonious community environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2023/10/18/azure-ai-content-safety/",
+      "originalUrl": "https://www.gizchina.com/2023/10/18/azure-ai-content-safety/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2023/10/microsoft-ai-1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2023/10/18/azure-ai-content-safety/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/10/18/azure-ai-content-safety/amp/",
+      "publishedDateTime": "2023-10-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-retransmission-hive-digital-is-now-a-nvidia-csp-partner-and-announces-gpu-grants-for-open-source-ai-developers.md",
+      "title": "RETRANSMISSION: HIVE Digital is Now a NVIDIA CSP Partner and Announces GPU Grants for Open-Source AI Developers",
+      "excerpt": "Vancouver, British Columbia--(Newsfile Corp. - October 18, 2023) - HIVE Digital Technologies Ltd. (TSXV: HIVE) (NASDAQ: HIVE) (FSE: YO0) (the \"Company\" or \"HIVE\") is pleased to announce a new GPU grant program for AI developers. HIVE is giving away 10,000 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/HIVE-X/pressreleases/21206975/retransmission-hive-digital-is-now-a-nvidia-csp-partner-and-announces-gpu-grants-for-open-source-ai-developers/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/HIVE-X/pressreleases/21206975/retransmission-hive-digital-is-now-a-nvidia-csp-partner-and-announces-gpu-grants-for-open-source-ai-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newsfilecorp.com/files/5335/184372_hivedigital_410.jpg",
+          "width": 410,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-updated-chip-restrictions-help-unify-ai-hype-and-china-hawkishness.md",
+      "title": "Updated Chip Restrictions Help Unify AI Hype And China Hawkishness",
+      "excerpt": "Earlier today, the Commerce Department’s Bureau of Industry and Security (BIS) released rules updating last year’s chip controls targeting China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/",
+      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652f1401acdb374749a42d38/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/amp/",
+      "publishedDateTime": "2023-10-17T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge.md",
       "title": "PyTorch ExecuTorch extends open source AI for new quests at the edge",
       "excerpt": "ExecuTorch was validated and vetted by actual real-world engineering problems and Meta has already proven the technology with deployment.",
@@ -1014,204 +1187,6 @@
         "Facebook AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-applying-artificial-intelligence-lessons-for-leaders-at-all-levels.md",
-      "title": "Applying Artificial Intelligence: Lessons For Leaders At All Levels",
-      "excerpt": "Broadridge Digital Transformation study, more than 70% of C-suite executives said AI is significantly changing the way they work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/",
-      "originalUrl": "https://www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6528415a926b4b1c462ac5d0/0x0.jpg?format=jpg&crop=1126,633,x35,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/amp/",
-      "publishedDateTime": "2023-10-17T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news.md",
-      "title": "AI will change the role of developers forever, but leaders say that's good news",
-      "excerpt": "Senior execs at two blue-chip organizations explain how they're embracing automation and why everyone in these businesses -- including IT pros -- are reaping the rewards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
-      "originalUrl": "https://www.zdnet.com/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/806ca95bad0de39cad63b2ec7a70724e961266ae/2023/05/05/91cfbf27-c652-4474-908c-4a2483fa4f87/gettyimages-1437209125.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
-      "publishedDateTime": "2023-10-17T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird.md",
-      "title": "I tested Meta's Tom Brady and Kendall Jenner AI chatbots and it was weird",
-      "excerpt": "Since Meta described his role as a \"Wisecracking sports debater who pulls no punches,\" I began the chat by chatting about the Jets' win last night. The first thing I noticed on the screen was the rectangle with Tom Brady's face in the upper right-hand corner, which resembled what you would see if you were on a FaceTime call with someone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
-      "originalUrl": "https://www.zdnet.com/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/edaff8ebce2fd9ac8f07c965727a5c2811b22422/2023/10/16/8dd8ef3c-53c2-4da8-a5ac-fa83066e3850/2022-25.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
-      "publishedDateTime": "2023-10-17T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day.md",
-      "title": "New Era of Artificial Intelligence (AI) Grips World's Imagination as GITEX Global 2023 Enters 2nd Day",
-      "excerpt": "Pony.ai, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al Olama, UAE Minister of State for AI, Digital Economy and Remote Work Applications, addresses the inaugural CTO World Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub",
-      "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.africa-newsroom.com/files/thumb/e270b6b8e4e5e55/600/418",
-          "width": 600,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub?amp=1",
-      "publishedDateTime": "2023-10-17T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -49,6 +49,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Top 10 Fintech and Payments Trends in 2024"
+    excerpt: "Juniper Research unveiled today the 10 trends that are set to radically impact the fintech and payments landscape in 2024, included within its latest whitepaper."
+    publishedDateTime: 2023-11-21T06:12:00Z
+    webUrl: "https://fintechnews.ch/fintech/top-10-fintech-and-payments-trends-in-2024/64766/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2023/11/Juniper-Research-Releases-its-Top-10-Fintech-Payments-Trends-for-2024-Amidst-Unprecedented-Technological-Shifts.jpg"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Pakistan Pavilion at Singapore Fintech Festival showcases innovation, collaboration"
     excerpt: "The annual Singapore Fintech Festival (SFF), a global congregation of fintech firms, witnessed a significant representation from"
     publishedDateTime: 2023-11-20T17:51:00Z

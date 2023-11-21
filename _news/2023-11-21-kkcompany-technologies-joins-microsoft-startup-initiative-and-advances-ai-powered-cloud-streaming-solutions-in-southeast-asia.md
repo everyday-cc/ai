@@ -1,27 +1,27 @@
 ---
 category: news
 title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
-excerpt: "We offer our self-developed products and services to both individual users and enterprise customers across Asia, under the brands KKBOX, BlendVision, and Going Cloud. The Company has also earned third-party international certifications including OpenChain ISO/IEC 5230 and ISO 27001."
-publishedDateTime: 2023-11-21T03:40:00Z
-originalUrl: "https://www.macaubusiness.com/kkcompany-technologies-joins-microsoft-startup-initiative-and-advances-ai-powered-cloud-streaming-solutions-in-southeast-asia/"
-webUrl: "https://www.macaubusiness.com/kkcompany-technologies-joins-microsoft-startup-initiative-and-advances-ai-powered-cloud-streaming-solutions-in-southeast-asia/"
+excerpt: "KKCompany is announcing its participation in the Microsoft startup initiative, \"Highway to 100 Unicorns,\" a startup accelerator program aimed to support startup innovation and strengthen the startup ecosystem in the Asia region."
+publishedDateTime: 2023-11-21T06:20:00Z
+originalUrl: "https://www.koreaherald.com/view.php?ud=20231121000581"
+webUrl: "https://www.koreaherald.com/view.php?ud=20231121000581"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Macau Business
-  domain: macaubusiness.com
+  name: The Korea Herald
+  domain: koreaherald.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/11/IMG_0999-1028x617.jpeg"
-    width: 1028
-    height: 617
+  - url: "https://images.koreaherald.com/koreaherald/version03/www/images/share.jpg"
+    width: 1600
+    height: 800
     isCached: true
 
 related:
@@ -213,6 +213,6 @@ related:
       domain: sinchew.com.my
     quality: 25
 
-secured: "ahncLDt0kBOfzqNbYz93xGqYVtfX4fDP5abpqB2C/vamDL9p0wM6pGrcHwjAUhb62ljAhKBW7Kr4wjjBxDVKlunH4rMaR/hC8zupBDA4fdRStigAcXnw5HDq/eD7OVP1renPrWZgwi9wswTrsuNa8jiBk0mmiDX+0HnDRtA7+NgjUTBlAI6Q7JbOLd4J1P0J4W1yjQbEsSU5I5e71cjm5+WM0RhR8heCfW2pdmSM+zR86S4/CApEWUp3OMYVgIy/+yLBQcshyP4G6a+vwa+kB1zkUIzgQAv9GQA7SMk98j2Ejwt4APk749F6+jvZFEd8e2/I1dNgLZwE6zhribARqHRQY8W3Uw80y1RUztH7ZlA=;pB1/9eEwCCB+76YSGorDQw=="
+secured: "zVdIGMipJCSKOd1h9WcW8RvUCpZlbRCS+Szffv3vMYHf9BoaptzStowB6YJp/4G3RnFqFMUGyMtdK3BVSXDbCwYxfwMrwGEXpkdG0F/0QhWo/qbFPHD9jrt5bzMf9dQ4i9lxxDTYFuDRXTyuqppKgrm66liLN7X8KkR4MEZ+2JRjSv9C/Wqn7NNg6A47IGRvrt//1JrChyni4/CHWAyUwX2BfxL7CqIahkkX7xC/ldU7bJ5S7SyB2SURSNalImGWPJI51hBe6DlP1nBXMHfSEP95124oTWv+YuSjW8jp0Z0YlM4qgLNS2cM+RwppBlZCb8KLEgSspAdriJrOWrtT6Vcdh7lqdwT72iHXEA64o6U=;XkFf8OGWCyBnkrmMsiWAGw=="
 ---
 

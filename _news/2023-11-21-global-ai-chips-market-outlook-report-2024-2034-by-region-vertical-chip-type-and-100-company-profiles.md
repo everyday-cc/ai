@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/23/11/n35879320/global-ai-c
 webUrl: "https://www.benzinga.com/pressreleases/23/11/n35879320/global-ai-chips-market-outlook-report-2024-2034-by-region-vertical-chip-type-and-100-company-profi"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Global Artificial Intelligence in Healthcare Research Report 2023 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Market for Artificial Intelligence in Healthcare 2023\" report has been added to ResearchAndMarkets.com's offering. As of 2021, the market is estimated to be valued at approximately USD 6.1 billion, with a projected ..."
-    publishedDateTime: 2023-11-17T09:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231117222966/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
 
 secured: "yaQ5sz2yHDmP0i1JtXi88F4pc6r3A9RbZLZBP8JQOea/xkRrzQ9qvS7lL6+I7NYbBI4WTB6GLcd5rm4ko6W0R/fbmNMoD/nbW8xVm/RdozrkjVe+wTB/v0ZALfo/EmoTJBKlDji5Vx7R1OqFdFp+teCvMCRP+7U1w5gNz5sbcwxeC/+sGkPsCyAmPC6pIe+yDjcBANr//40W0pU4uwV5+iLXDCUW69jvOH5o+bDooDFxEV4/x3f8WaKZ/IN5cRgAmJQmBmXeCNR8oFiCqeQoJ3uU5XVYCdjkx+ajhERJELI2PpnNVME4PIQXcRuLRhK1vh4WJny+PoD1huXDumUsJV+l9kVS8IPFPqJ5WZopX1c=;sXp3f6sDuqXPpXAAe6fWLQ=="
 ---

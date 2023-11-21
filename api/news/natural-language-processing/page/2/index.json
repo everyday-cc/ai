@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-11-06-the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky.md",
-      "title": "The Value Of Generative AI Is Clear, But The Pricing Model Is Murky",
-      "excerpt": "While there is no doubt that generative AI is a game-changing technology, I find that the pricing model for these products is less than stellar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654538a63980f3c3e4306a69/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/amp/",
-      "publishedDateTime": "2023-11-06T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-06-how-can-ai-revolutionize-vietnams-music-industry.md",
       "title": "How Can AI Revolutionize Vietnam’s Music Industry?",
       "excerpt": "Vietnamese artists can potentially utilize AI as a powerful tool for building and maintaining connections with their global fanbase. AI-powered chatbots and virtual assistants can serve as round-the-clock ambassadors, engaging with fans across different time zones, answering inquiries, and fostering a sense of continuous interaction.",
@@ -1367,6 +1315,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-responsible-ai-the-art-of-balancing-power-with-responsibility.md",
+      "title": "Responsible AI: The Art Of Balancing Power With Responsibility",
+      "excerpt": "AI’s unprecedented reach and speed have also sparked debates about potential misuse. What's the way forward?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/amp/",
+      "publishedDateTime": "2023-10-19T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

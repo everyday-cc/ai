@@ -34,15 +34,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "Opera gives voice to Alan Turing with help of artificial intelligence"
-    excerpt: "The makers of “I AM ALAN TURING,” an experimental opera being produced out of Yale’s Center for Collaborative Arts and Media, used AI in creating the show."
-    publishedDateTime: 2023-11-17T22:19:00Z
-    webUrl: "https://news.yale.edu/2023/11/17/opera-gives-voice-alan-turing-help-artificial-intelligence"
-    type: article
-    provider:
-      name: Yale Environment 360
-      domain: yale.edu
-    quality: 17
 
 secured: "NI9urWwofSi0Ob2GPSyapfv3SAEIZjkC4qXXU28ZhIRaMjrLugJCWI4UhzJRDqQO3Bpj3PhvUEhoCHkg7yxelqjN9gCtuJxIfU1poZICH4LeLZnss6tjdI8v5+dMEQCdr3zp5xAC/2zcIKLJSWwq2ZS/73QPNDEvMxSdyOkGwjbcPChGgzr1KMrLUX+dCVOpHczgKXmJt8NY30cPVV9GEsbZsN5FSLGjONnKC3ysfwJbZru1Mr9NRf7xU0trGrW1C/CnmeJddQP7m9ahnYPuAfJhf/rzT3b3bvBbLFL/eZ/DhrhVkvsDYsoWuIDDFnjrr5Q2U5aRssPN4aTnbBKCwddV9EofaTrNg2QjX5qEQXI=;yZ127W+hU9gW50WzXzFdbg=="
 ---

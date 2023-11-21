@@ -2,6 +2,196 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-10-26-smart-glasses-developed-that-can-help-blind-people-recognize-objects.md",
+      "title": "'Smart Glasses' Developed That Can Help Blind People Recognize Objects",
+      "excerpt": "For example, such a system may describe the name of a given object and its direction in the environment. They may also come with features such as voice recognition control for internet searches or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/smart-glasses-help-blind-people-recognize-objects-1837042",
+      "originalUrl": "https://www.newsweek.com/smart-glasses-help-blind-people-recognize-objects-1837042",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-experts-from-accenture-and-aws-on-optimizing-cloud-and-ai.md",
+      "title": "Experts from Accenture and AWS on Optimizing Cloud and AI",
+      "excerpt": "Providing insight are Chris Niederman, Managing Director, Global Systems Integrators at Amazon Web Services; and Chris Wegmann, Global Technology Lead of AWS Business Group at Accenture. eWEEK content and product recommendations are editorially independent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/accenture-and-aws-on-optimizing-cloud-ai/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/accenture-and-aws-on-optimizing-cloud-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/10/eSPEAKS-thumbnail-aws-accenture.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-ai-is-finally-resulting-in-real-growth-for-big-tech.md",
+      "title": "AI is finally resulting in real growth for big tech",
+      "excerpt": "including going up 29% at Azure, three percentage points better than analysts expected. Investors liked that a lot. The market’s reaction to the two sets of data provides their grading, but we care about the AI-related components that went into the top ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-analysis/",
+      "originalUrl": "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/microsoft-getty-hacks-government.jpg?resize=1200,816",
+          "width": 1200,
+          "height": 816,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-in-a-1st-ai-neural-network-captures-critical-aspect-of-human-intelligence.md",
+      "title": "In a 1st, AI neural network captures 'critical aspect of human intelligence'",
+      "excerpt": "Neural networks, a type of artificial intelligence, can now combine concepts in a way that's closer to human learning than past models have achieved. (Image credit: imaginima via Getty Images)",
+      "sourceUrl": null,
+      "webUrl": "https://www.livescience.com/technology/artificial-intelligence/in-a-1st-ai-neural-network-captures-critical-aspect-of-human-intelligence",
+      "originalUrl": "https://www.livescience.com/technology/artificial-intelligence/in-a-1st-ai-neural-network-captures-critical-aspect-of-human-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/PGYgAG7KErmu8F6b7stJUn-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Live Science",
+        "domain": "livescience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-us-government-orders-immediate-stop-to-chinese-ai-chip-exports.md",
       "title": "US Government Orders Immediate Stop to Chinese AI Chip Exports",
       "excerpt": "Tech giant Nvidia has announced that President Biden’s administration has ordered it to stop shipping advanced AI chips to China immediately. These restrictions were always in the works and due to start next month. However, for an as-of-yet unknown reason, this date has been brought forward to today.",
@@ -970,185 +1160,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-adaptive-optical-neural-network-connects-thousands-of-artificial-neurons.md",
-      "title": "Adaptive optical neural network connects thousands of artificial neurons",
-      "excerpt": "What is needed for a neural network in machine learning are artificial neurons which are activated by external excitatory signals, and which have connections to other neurons. The connections ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231023124404.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231023124404.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-amazon-web-services-to-launch-aws-european-sovereign-cloud.md",
-      "title": "Amazon Web Services to Launch AWS European Sovereign Cloud",
-      "excerpt": "Telia uses AWS DeepRacer as part of its program to educate 2,000 staff on artificial intelligence and machine learning with AWS. “Telia Company welcomes the development of the AWS European ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231024960766/en/Amazon-Web-Services-to-Launch-AWS-European-Sovereign-Cloud/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231024960766/en/Amazon-Web-Services-to-Launch-AWS-European-Sovereign-Cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-pixel-8-pros-gen-ai-models-are-coming-to-more-android-phones-with-snapdragon.md",
-      "title": "Pixel 8 Pro's Gen-AI models are coming to more Android phones with Snapdragon",
-      "excerpt": "Google’s VP of engineering for Android, Dave Burke, also joined the conversation on stage during the Snapdragon 8 Gen 3 launch to confirm that the company’s partnership with Qualcomm will enable complex AI models to run on-device on Android phones, removing the need for internet connectivity and round trips to cloud servers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-pixel-8-pro-foundation-ai-models-qualcomm-snapdragon-3379161/",
-      "originalUrl": "https://www.androidauthority.com/google-pixel-8-pro-foundation-ai-models-qualcomm-snapdragon-3379161/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/10/Google-Qualcomm-on-device-AI.jpg",
-          "width": 1920,
-          "height": 1079,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-ai-created-child-sexual-abuse-images-threaten-to-overwhelm-internet.md",
-      "title": "AI-created child sexual abuse images ‘threaten to overwhelm internet’",
-      "excerpt": "Internet Watch Foundation finds 3,000 AI-made abuse images breaking UK law",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet?ref=upstract.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3c328a09668acd9bdcb834c0f299dbddb5d2bc75/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=7c5c370b440ef54ca12319d2baeaa923",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet",
-      "publishedDateTime": "2023-10-24T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -871,6 +871,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-31-where-are-the-women-in-tech-and-ai.md",
+      "title": "Where are the women in tech and AI?",
+      "excerpt": "during which she would become an editor of journals on machine learning and artificial intelligence, and serve on the Defense Advanced Research Projects Agency’s Information Science and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2023/10/31/magazine/more-women-are-needed-in-the-ai-and-tech-industries/",
+      "originalUrl": "https://www.bostonglobe.com/2023/10/31/magazine/more-women-are-needed-in-the-ai-and-tech-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/O13WxAlX20zXaF_XRs7AeEjLan8=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/EXBSX4XIXNBZDDTTOUKNUL555Y.jpg",
+          "width": 506,
+          "height": 285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-biden-wants-to-move-fast-on-ai-safeguards-and-signs-an-executive-order-to-address-his-concerns.md",
       "title": "Biden wants to move fast on AI safeguards and signs an executive order to address his concerns",
       "excerpt": "President Biden on Monday signed an ambitious executive order on artificial intelligence that seeks to balance the needs of cutting-edge technology companies with national security and consumer rights,",
@@ -1278,58 +1321,6 @@
         "AI",
         "Google AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-insurance-companies-are-betting-on-ai-and-mass-data-analytics-in-a-battle-against-fraud-that-costs-billions.md",
-      "title": "Insurance companies are betting on AI and mass data analytics in a battle against fraud that costs billions",
-      "excerpt": "Insurance companies are using AI to flag suspicious claims. One company said their machine-learning system finds three times more fraud than manual or rules-based tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10",
-      "originalUrl": "https://www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65382e180487ff031cad4b90?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10?amp",
-      "publishedDateTime": "2023-10-24T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

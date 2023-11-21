@@ -2,6 +2,74 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-15-in-moments-of-crisis-like-the-israel-hamas-war-we-need-more-speech-not-less-richard-m-perloff-and-anup-kumar.md",
+      "title": "In moments of crisis like the Israel-Hamas war, we need more speech - not less: Richard M. Perloff and Anup Kumar",
+      "excerpt": "CLEVELAND -- How should society balance the right to free speech with recognition that the embers of speech ignite psychic wounds? When should offensive speech be tolerated because it opens society’s political pores, and when should it be limited because ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cleveland.com/opinion/2023/11/in-moments-of-crisis-like-the-israel-hamas-war-we-need-more-speech-not-less-richard-m-perloff-and-anup-kumar.html",
+      "originalUrl": "https://www.cleveland.com/opinion/2023/11/in-moments-of-crisis-like-the-israel-hamas-war-we-need-more-speech-not-less-richard-m-perloff-and-anup-kumar.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T21:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cleveland.com",
+        "domain": "cleveland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-cognitive-computing-market-surges-expected-to-hit-us-1882-billion-with-a-263-cagr-by-2033.md",
+      "title": "Cognitive Computing Market Surges, Expected to Hit US$ 188.2 Billion with a 26.3% CAGR by 2033",
+      "excerpt": "The cognitive computing market is poised for remarkable growth, projected to establish a robust foothold with a compelling Compound Annual Growth Rate (CAGR) of 26.3% throughout the forecast period. As technology continues to advance and organizations seek smarter solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2023/11/15/cognitive-computing-market-surges-expected-to-hit-us-188-2-billion-with-a-26-3-cagr-by-2033/",
+      "originalUrl": "https://www.fmiblog.com/2023/11/15/cognitive-computing-market-surges-expected-to-hit-us-188-2-billion-with-a-26-3-cagr-by-2033/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T21:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-new-deep-learning-ai-tool-helps-ecologists-monitor-rare-birds-through-their-songs.md",
       "title": "New deep learning AI tool helps ecologists monitor rare birds through their songs",
       "excerpt": "Researchers have developed a new deep learning AI tool that generates lifelike bird songs to train bird identification tools, helping ecologists to monitor rare species in the wild. The findings are presented in Methods in Ecology and Evolution.",
@@ -66,6 +134,49 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-artificial-intelligence-in-retail-market-soars-anticipated-surge-beyond-us-12709-billion-by-2033-fueled-by-a-remarkable-28-cagr-growth.md",
+      "title": "Artificial Intelligence in Retail Market Soars: Anticipated Surge Beyond US$ 127.09 Billion by 2033, Fueled by a Remarkable 28% CAGR Growth",
+      "excerpt": "The global artificial intelligence in retail market is expected to reach US$ 10.76 billion by 2023, with demand for AI in retail predicted to grow at a CAGR of 28% and surpass US$ 127.09 billion by 2033.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2023/11/15/artificial-intelligence-in-retail-market-soars-anticipated-surge-beyond-us-127-09-billion-by-2033-fueled-by-a-remarkable-28-cagr-growth/",
+      "originalUrl": "https://www.fmiblog.com/2023/11/15/artificial-intelligence-in-retail-market-soars-anticipated-surge-beyond-us-127-09-billion-by-2033-fueled-by-a-remarkable-28-cagr-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2023/11/Artificial-Intelligence-in-Retail-Market.jpg",
+          "width": 999,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T18:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -847,107 +958,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-mufg-signs-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation.md",
-      "title": "MUFG Signs Multiyear Global Agreement With AWS to Accelerate Digital Transformation",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), today announced that Mitsubishi UFJ Financial Group (MUFG), Japan’s largest financial",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231114720773/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231114720773/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-google-graphcast-uses-ai-and-machine-learning-to-predict-weather.md",
-      "title": "Google GraphCast uses AI and machine learning to predict weather",
-      "excerpt": "Google DeepMind has created a new model called GraphCast that could help improve how we predict weather forecasts.",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/google-graphcast-uses-ai-and-machine-learning-to-predict-weather/",
-      "originalUrl": "https://bgr.com/tech/google-graphcast-uses-ai-and-machine-learning-to-predict-weather/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-airbnb-acquires-stealth-ai-startup-founded-by-a-creator-of-siri.md",
-      "title": "Airbnb acquires stealth AI startup founded by a creator of Siri",
-      "excerpt": "Airbnb (Nasdaq: ABNB) has acquired a 12-person AI startup, GamePlanner.AI, in order to use its team to flesh out and expand its AI-related services, the company announced Tuesday. According to CNBC, the deal was worth $200 million.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/11/14/airbnb-acquires-stealth-ai-startup-gameplanner-ai.html",
-      "originalUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/11/14/airbnb-acquires-stealth-ai-startup-gameplanner-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T09:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

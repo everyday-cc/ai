@@ -2,6 +2,108 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-11-14-child-psychiatrist-sexually-exploited-patients-used-artificial-intelligence-to-create-pornography.md",
+      "title": "Child Psychiatrist Sexually Exploited Patients, Used Artificial Intelligence to Create Pornography",
+      "excerpt": "David Tatum of Charlotte, North Carolina recorded under a minor's skirt during a therapy session with him, made secret videos of patients in the shower and \"used AI to digitally alter clothed images of minors making them sexually explicit.",
+      "sourceUrl": null,
+      "webUrl": "https://toofab.com/2023/11/13/child-psychiatrist-sexually-exploited-patients-used-artificial-intelligence-create-pornography/",
+      "originalUrl": "https://toofab.com/2023/11/13/child-psychiatrist-sexually-exploited-patients-used-artificial-intelligence-create-pornography/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TooFab",
+        "domain": "toofab.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-vultr-announces-addition-of-nvidia-gh200-grace-hopper-superchip-to-its-cloud-gpu-offerings-for-ai-training-and-inference.md",
+      "title": "Vultr Announces Addition of NVIDIA GH200 Grace Hopper Superchip to Its Cloud GPU Offerings for AI Training and Inference",
+      "excerpt": "Vultr, the world’s largest privately-held cloud computing platform, announced the addition of the NVIDIA® GH200 Grace Hopper™ Superchip to its",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231113850910/en/Vultr-Announces-Addition-of-NVIDIA-GH200-Grace-Hopper-Superchip-to-Its-",
+      "originalUrl": "https://www.businesswire.com/news/home/20231113850910/en/Vultr-Announces-Addition-of-NVIDIA-GH200-Grace-Hopper-Superchip-to-Its-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-sji-utilities-hosted-mark-cuban-foundations-artificial-intelligence-bootcamp-for-local-high-school-students.md",
+      "title": "SJI Utilities Hosted Mark Cuban Foundation’s Artificial Intelligence Bootcamp for Local High School Students",
+      "excerpt": "As part of its commitment to invest in our communities, SJI Utilities was proud to welcome over 40 local high school students to the Mark Cuban Foundation’s Artificial Intelligence (AI) Bootcamp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.trentonian.com/2023/11/13/sji-utilities-hosted-mark-cuban-foundations-artificial-intelligence-bootcamp-for-local-high-school-students/",
+      "originalUrl": "https://www.trentonian.com/2023/11/13/sji-utilities-hosted-mark-cuban-foundations-artificial-intelligence-bootcamp-for-local-high-school-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Trentonian",
+        "domain": "trentonian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-artificial-intelligence-unexpected-results.md",
       "title": "Artificial intelligence: Unexpected results",
       "excerpt": "Artificial intelligence (AI) is on the rise. Until now, AI applications generally have “black box” character: How AI arrives at its results remains",
@@ -143,6 +245,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-artificial-intelligence-for-dummies.md",
+      "title": "Artificial intelligence for dummies",
+      "excerpt": "There has been great progress in narrow forms of artificial intelligence, like self-driving vehicles and automated legal systems, but the only threat they pose, if any, is to jobs. The “large ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/",
+      "originalUrl": "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdn-data.s3.amazonaws.com/uploads/2023/11/Britain-AI-Summit.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangor Daily News",
+        "domain": "bangordailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -749,170 +894,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-artificial-intelligence-continues-to-transform-healthcare.md",
-      "title": "Artificial Intelligence Continues to Transform Healthcare",
-      "excerpt": "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-artificial-intelligence-for-dummies.md",
-      "title": "Artificial intelligence for dummies",
-      "excerpt": "There has been great progress in narrow forms of artificial intelligence, like self-driving vehicles and automated legal systems, but the only threat they pose, if any, is to jobs. The “large ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/",
-      "originalUrl": "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdn-data.s3.amazonaws.com/uploads/2023/11/Britain-AI-Summit.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangor Daily News",
-        "domain": "bangordailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research.md",
-      "title": "BioStrand® Unveils a Revolutionary Approach to Biological Sequence Retrieval: A Fusion of Natural Language Processing and Database Research",
-      "excerpt": "“New Paradigm for Biological Sequence Retrieval Inspired by Natural Language Processing and Database Research” on bioRχiv. We apologize, but this video has failed to load. Try refreshing your browser, or tap here to see other videos from our tea",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research",
-      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
-      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
-      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
-      "originalUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

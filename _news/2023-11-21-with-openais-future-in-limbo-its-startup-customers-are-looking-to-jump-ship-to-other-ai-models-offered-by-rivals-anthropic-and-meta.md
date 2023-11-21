@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-21T03:13:00Z
 originalUrl: "https://www.businessinsider.com/openai-startup-customers-considering-anthropic-meta-aimodels-2023-11"
 webUrl: "https://www.businessinsider.com/openai-startup-customers-considering-anthropic-meta-aimodels-2023-11"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://i.insider.com/6552aa3e385143459e8c5757?width=1200&format=jpeg"
@@ -151,6 +152,6 @@ related:
       domain: popsci.com
     quality: 25
 
-secured: "nSQ3njHqtzqBc7e57ynUrc9a9KIJ17Cf7yQZWm7osljj6JaMYw8l8Jw7dXdoM7M4Jjj/DX43CBjZvRImumw+IgL9TWURjKlAdFNB4XN07AcfsjqnuUmsJgON28AWhhxKE9589aZfp5HOEpozdtkXf6SX/dLN3FLr1KTbVg0RFxom2Jokbu6oq1ikM58PzG/K8D6QYBAytsNTZU2IvGsz1QUj92izYxHmjnO7Nd9wzCxkP2FUkIsLlA3XvG4u6JFLSRUjpWJts7vXUOWHB8iUcbWnHc5aK82g2BD9aZZ5o8BlFylWZRTr2/IEwqUmH5QObINxl2FB8G3QMiDHJn8lVhieF2YJ7RfO8PHn/KVvIuY=;XRyOQORbGvF/CdEDv+B4LQ=="
+secured: "dRkCVStper9YbfprpvGTI3grpMX8wNBzkyApnzSZu5VJtVhLqHTtZag0ef2qNmKzIqLuuCOIVxPL5KjBWbFEiwArsgSiOJpIQd73hAzCXVmdhDlV4Siqq4gzUksh3n6li4pMbJ6wMZsQQI5Blo1E9gteYMwVfYgWWHF8JZd0F8WtVF1rNaZab6XYVk1fwYH1AwqLg+f/YPIu/VIifHA+xKxJlhSC//DTIl/FkaqypSI+77xNDo430HYk6eONtSbOjQKP9eWUmK+ytJ8aJ4/Kx1eym6LM9y/7uXb0aM8j9lBHAej69KCQouwiCJaaw/z0bzxFIyO0Q5UDbG8EeCpruUxzUpFALMEyisu7zSO7I5HIRM20LDT1ulAySffwtw/0EEbgYGR/69pylmErLy15wbVKtLj16BZnEYbYdm1mh2BF9a/vJIjOEMz7ywsrtvMVxnnMntPrvs0OMrnnqtpj49S45qTbVSTr7Y+NffcXDfB0iESLOQ0Jh+hiv+jMqiv9XLLSfBe5k1lYrmkv2H4bhw==;8QvU/thQLQq1yV5hq9T8KA=="
 ---
 

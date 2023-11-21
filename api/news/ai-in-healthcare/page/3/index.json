@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-15-ai-will-be-critical-for-the-future-of-rural-health-care-in-canada-experts-say.md",
+      "title": "AI will be critical for the future of rural health care in Canada, experts say",
+      "excerpt": "There won't be androids rushing through hospitals or drones hovering to triage patients just yet, but artificial intelligence is starting to make the rounds when it comes in health care in Canada.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/news/canada/prince-edward-island/pei-artificial-intelligence-1.6994961",
+      "originalUrl": "https://www.cbc.ca/news/canada/prince-edward-island/pei-artificial-intelligence-1.6994961",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine.md",
       "title": "AI Renaissance In Healthcare: Top Five Opportunities In Precision Medicine",
       "excerpt": "As data democratization and technological convergence continue, we're set to experience a healthcare renaissance where patient-centricity and proactive intervention will be the norm. Here are some of the most promising use cases where generative AI could help deliver the promise of precision medicine.",

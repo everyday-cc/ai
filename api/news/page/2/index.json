@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-20-how-ai-can-be-leveraged-for-diversity-and-inclusion.md",
+      "title": "How AI Can Be Leveraged For Diversity And Inclusion",
+      "excerpt": "In the modern workplace, diversity and inclusion have become more than just buzzwords—they are crucial to fostering innovation, creativity, and a welcoming environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/",
+      "originalUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655a7b77d4a3a31792aee594/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/amp/",
+      "publishedDateTime": "2023-11-19T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-microsofts-ai-transformation-from-software-giant-to-ai-powerhouse.md",
       "title": "Microsoft's AI Transformation: From Software Giant To AI Powerhouse",
       "excerpt": "Microsoft wants to be a major force in the AI ecosystem, and Microsoft CEO and Chairman Satya Nadella made this clear in his keynote address. From developing its own AI accelerator chips to launching a marketplace for copilots, Microsoft has a long-term strategy in place.",
@@ -834,6 +885,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-15-weka-partners-with-applied-digital-to-supercharge-its-gpu-cloud-for-generative-ai-customers.md",
+      "title": "WEKA Partners with Applied Digital to Supercharge Its GPU Cloud for Generative AI Customers",
+      "excerpt": "Applied Digital is developing a turnkey offering that allows enterprise customers to purchase and use GPU resources on-demand, at scale, across its data centers for AI model training and inference ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20231115sf65626/weka-partners-with-applied-digital-to-supercharge-its-gpu-cloud-for-generative-ai-customers",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20231115sf65626/weka-partners-with-applied-digital-to-supercharge-its-gpu-cloud-for-generative-ai-customers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2273775/WEKA_Applied_Digital_announcement.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-tencent-to-seek-domestic-ai-training-chip-supplies-after-latest-us-curbs.md",
       "title": "Tencent to seek domestic AI training chip supplies after latest US curbs",
       "excerpt": "By Josh Ye HONG KONG (Reuters) -Chinese tech group Tencent Holdings said on Wednesday it will look for domestic sources for AI training chips",
@@ -1005,74 +1099,6 @@
         "AI",
         "Machine Learning",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-in-moments-of-crisis-like-the-israel-hamas-war-we-need-more-speech-not-less-richard-m-perloff-and-anup-kumar.md",
-      "title": "In moments of crisis like the Israel-Hamas war, we need more speech - not less: Richard M. Perloff and Anup Kumar",
-      "excerpt": "CLEVELAND -- How should society balance the right to free speech with recognition that the embers of speech ignite psychic wounds? When should offensive speech be tolerated because it opens society’s political pores, and when should it be limited because ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cleveland.com/opinion/2023/11/in-moments-of-crisis-like-the-israel-hamas-war-we-need-more-speech-not-less-richard-m-perloff-and-anup-kumar.html",
-      "originalUrl": "https://www.cleveland.com/opinion/2023/11/in-moments-of-crisis-like-the-israel-hamas-war-we-need-more-speech-not-less-richard-m-perloff-and-anup-kumar.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T21:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cleveland.com",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-cognitive-computing-market-surges-expected-to-hit-us-1882-billion-with-a-263-cagr-by-2033.md",
-      "title": "Cognitive Computing Market Surges, Expected to Hit US$ 188.2 Billion with a 26.3% CAGR by 2033",
-      "excerpt": "The cognitive computing market is poised for remarkable growth, projected to establish a robust foothold with a compelling Compound Annual Growth Rate (CAGR) of 26.3% throughout the forecast period. As technology continues to advance and organizations seek smarter solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2023/11/15/cognitive-computing-market-surges-expected-to-hit-us-188-2-billion-with-a-26-3-cagr-by-2033/",
-      "originalUrl": "https://www.fmiblog.com/2023/11/15/cognitive-computing-market-surges-expected-to-hit-us-188-2-billion-with-a-26-3-cagr-by-2033/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,197 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-10-11-the-aboriginal-australians-campaigning-against-constitutional-recognition.md",
+      "title": "The Aboriginal Australians Campaigning Against Constitutional Recognition",
+      "excerpt": "Two female Aboriginal lawmakers with drastically different political philosophies have emerged as prominent opponents of the proposed Indigenous Voice to Parliament.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/10/11/world/australia/australia-price-thorpe-voice-aboriginal.html",
+      "originalUrl": "https://www.nytimes.com/2023/10/11/world/australia/australia-price-thorpe-voice-aboriginal.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/10/10/multimedia/00OZ-INDIGENOUS-vwfp/00OZ-INDIGENOUS-vwfp-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-openais-unreasonable-claims-exhaust-ai-ethics-researchers.md",
+      "title": "OpenAI's 'unreasonable claims' exhaust AI-ethics researchers",
+      "excerpt": "Ethics researchers are struggling to keep up with the generative-AI boom as critiquing existing tech hinders the creation of more-responsible AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10",
+      "originalUrl": "https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6525b95f55f52b01b35ba4e1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10?amp",
+      "publishedDateTime": "2023-10-11T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-flood-insurance-market-to-reach-500-billion-globally-by-2032-at-156-cagr-allied-market-research.md",
+      "title": "Flood Insurance Market to Reach $50.0 Billion, Globally, by 2032 at 15.6% CAGR: Allied Market Research",
+      "excerpt": "Allied Market Research published a report, titled, \"Flood Insurance Market by Coverage (Building Property Coverage and Personal",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/flood-insurance-market-to-reach-50-0-billion-globally-by-2032-at-15-6-cagr-allied-market-research-301953289.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/flood-insurance-market-to-reach-50-0-billion-globally-by-2032-at-15-6-cagr-allied-market-research-301953289.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential.md",
+      "title": "Bank Of America Identifies 6 Global AI Stocks As 'Hidden Gems' With Great Potential",
+      "excerpt": "Bank of America has highlighted five global stocks poised to profit as the application of artificial intelligence (AI) continues to burgeon. The bank projects significant growth potential for “end-device AI,” a deviation from the current server-based systems.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/ai_shutter_0.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-amd-acquires-ai-software-startup-nodai-to-enhance-its-open-source-ai-capabilities.md",
       "title": "AMD acquires AI software startup Nod.AI to enhance its Open-Source AI Capabilities",
       "excerpt": "Advanced Micro Devices (AMD) locked its second AI software acquisition deal to compete against Nvidia’s AI prowess. The company quired Nod.AI which develop AI solution to optimize compiler-based automation software for startups,",
@@ -988,185 +1179,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-automated-chronic-pain-cohort-mined-from-twitter-using-machine-learning.md",
-      "title": "Automated chronic pain cohort mined from Twitter using machine learning",
-      "excerpt": "Social media platforms like Twitter (now X) offer valuable insights into self-reported chronic pain, according to a recent study by multiple institutions. The researchers have automated the process of establishing a chronic pain cohort,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-10-automated-chronic-pain-cohort-twitter.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-10-automated-chronic-pain-cohort-twitter.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/automated-chronic-pain.jpg",
-          "width": 1280,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-10-automated-chronic-pain-cohort-twitter.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-automated-chronic-pain-cohort-twitter.amp",
-      "publishedDateTime": "2023-10-10T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-gitex-global-dubai-ignites-start-up-innovation-in-ai.md",
-      "title": "GITEX Global: Dubai ignites start-up innovation in AI",
-      "excerpt": "Dubai is set to become the epicentre of the global artificial intelligence movement as it hosts the 43rd edition of GITEX Global, the",
-      "sourceUrl": null,
-      "webUrl": "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/",
-      "originalUrl": "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2023/10/Untitled-design51.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1",
-      "cdnAmpWebUrl": "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1",
-      "publishedDateTime": "2023-10-10T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ventureburn",
-        "domain": "ventureburn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-video-startup-captions-launches-new-ai-dubbing-app-lipdub-with-gen-z-slang.md",
-      "title": "Video startup Captions launches new AI dubbing app Lipdub with Gen Z slang",
-      "excerpt": "Lipdub seeks to present a competitive edge over an increasingly crowded field of AI dubbing and audio translation services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/video-startup-captions-launches-new-ai-dubbing-app-lipdub-with-gen-z-slang/",
-      "originalUrl": "https://venturebeat.com/ai/video-startup-captions-launches-new-ai-dubbing-app-lipdub-with-gen-z-slang/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_abstract_surreal_a_woman_opens_her_mouth_and_speaks_wit_9013efa9-a1cf-44a8-a700-46b487149a51-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-researchers-develop-age-prediction-model-for-human-brain-tissue-using-artificial-intelligence.md",
-      "title": "Researchers develop age prediction model for human brain tissue using artificial intelligence",
-      "excerpt": "The aging brain undergoes structural and cellular changes that can impact function and increase susceptibility to neurodegenerative disorders like Alzheimer's disease. Age acceleration—or the differences between biological and chronological age—in the brain can reveal insights about mechanisms and normal functions of one of the body's most important organs.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-first-to-d.jpg",
-          "width": 2030,
-          "height": 1259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.amp",
-      "publishedDateTime": "2023-10-10T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

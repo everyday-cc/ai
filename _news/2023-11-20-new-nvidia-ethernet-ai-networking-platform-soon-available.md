@@ -35,20 +35,6 @@ related:
         width: 5000
         height: 3333
         isCached: true
-  - title: "Morning Bid: Thanksgiving starters of AI and oil"
-    excerpt: "A key catalyst for some of the outsize Big Tech share gains this year, the craze around generative AI will also top the agenda as chip giant Nvidia reports earnings on Tuesday tha"
-    publishedDateTime: 2023-11-20T10:10:00Z
-    webUrl: "https://www.reuters.com/markets/us/global-markets-view-usa-2023-11-20/?ref=biztoc.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/OTonxUC0js-331bMFXUWQuFq1OE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2K5MG2S3UFJOHNIKLKWA57OI2Q.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
     excerpt: "Nvidia’s earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
     publishedDateTime: 2023-11-20T16:43:00Z

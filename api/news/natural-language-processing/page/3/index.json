@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-10-19-responsible-ai-the-art-of-balancing-power-with-responsibility.md",
-      "title": "Responsible AI: The Art Of Balancing Power With Responsibility",
-      "excerpt": "AI’s unprecedented reach and speed have also sparked debates about potential misuse. What's the way forward?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/amp/",
-      "publishedDateTime": "2023-10-19T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-19-language-weaver-scales-development-of-generative-ai-technologies.md",
       "title": "Language Weaver scales development of generative AI technologies",
       "excerpt": "AI-powered machine translation platform. Language Weaver is using Amazon Web Services' (AWS) machine learning and AI services, including Amazon SageMaker, to build new features and scale its Large ...",

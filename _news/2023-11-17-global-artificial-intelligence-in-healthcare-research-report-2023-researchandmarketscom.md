@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20231117222966/en/"
 webUrl: "https://www.businesswire.com/news/home/20231117222966/en/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Global AI Chips Market Outlook Report 2024-2034, By Region, Vertical, Chip Type and 100+ Company Profiles"
-    excerpt: "The \"Global Market for AI Chips 2024-2034\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence (AI) chips are specialized microchips"
-    publishedDateTime: 2023-11-20T17:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/n35879320/global-ai-chips-market-outlook-report-2024-2034-by-region-vertical-chip-type-and-100-company-profi"
+  - title: "Robotics Market Revenue to Reach USD 82.76 Billion by 2028 – Market Size, Share, Forecasts, & Trends Analysis Report by Mordor Intelligence"
+    excerpt: "According to the latest research report titled, \"Robotics Market Report (2023 - 2028)\" by Mordor Intelligence, the market is estimated at USD 39.56 billion in 2023, and growing at a CAGR of 15.91% dur"
+    publishedDateTime: 2023-11-17T23:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35860460/robotics-market-revenue-to-reach-usd-82-76-billion-by-2028-market-size-share-forecasts-trends-ana"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35860460"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35860460"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 17
+    quality: 40
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "PPsPpWP5ZK1UBiCN4b+RnPpQh3e4ZXS/w+rgti7PaolPyzleQNb50H61Yn5bftoCpbeMn7oHSJ4QdNCefid2k4RDw0Deo18AC7NQh3cgXKDJKH0bDbO86mz6mNB8zXn2Dr2S8KJSN2bz2CLDD3QotsguMIEB6FOPNyaA2P+4m/8Sk/A+MCDdkr9XN5j8Tnf6zUJRdZu7ZleKcW8CBGWsunt6fMXy+fjPES6xSlp0lwfrbqlw6kEDXcu1dE9eNGVF1mT4YNtBn78WwWDXVQ60Et+Q1c8fgX1D8N0U8Lc+lXrXkWSbdWvUKZqNIXZekIamypf4ddMiVfsRxJSqJLvckmxxswNPNGiggo+SQtacfAc=;alsx1B4/E32QPZD03X6N3g=="
 ---

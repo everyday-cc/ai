@@ -19,15 +19,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "Top cybersecurity product news of the week"
-    excerpt: "New product and service announcements from Wiz, Palo Alto Networks, Sophos, SecureAuth, Kasada, Lacework, Noname Security, and more."
-    publishedDateTime: 2023-11-16T15:00:00Z
-    webUrl: "https://www.csoonline.com/article/1247366/top-cybersecurity-product-news-of-the-week.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 6
   - title: "How Indian enterprises can incorporate AI into their cybersecurity solutions to build digital resilience"
     excerpt: "CISOs in Indian organizations have the opportunity to harness the power of AI for proactive cybersecurity measures, fostering long-term organizational and digital resilience."
     publishedDateTime: 2023-11-20T10:31:00Z

@@ -2,6 +2,159 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-21-west-berkshire-council-uses-ai-to-predict-where-potholes-will-appear.md",
+      "title": "West Berkshire Council uses AI to predict where potholes will appear",
+      "excerpt": "Artificial Intelligence (AI) is being used to predict where potholes will appear on a county's roads. The pilot, run by West Berkshire Council, will use the technology to digitally capture images of road conditions to help anticipate where holes or cracks could form in tarmac.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-berkshire-67457365",
+      "originalUrl": "https://www.bbc.com/news/uk-england-berkshire-67457365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/165B7/production/_131757519_9faf0b8c-02ef-4634-81b8-0d2d847439d0.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-berkshire-67457365.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-berkshire-67457365.amp",
+      "publishedDateTime": "2023-11-20T21:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-the-art-of-selling-persuading-and-influencing-in-an-ai-world.md",
+      "title": "The Art Of Selling, Persuading, And Influencing In An AI World",
+      "excerpt": "As we witness a transformative era in trade and collaboration, it is essential for leaders to adapt and thrive in the evolving landscape of sales.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/",
+      "originalUrl": "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655c40d36f6c19838150e0e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1213,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/amp/",
+      "publishedDateTime": "2023-11-20T21:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-ai-needs-a-startup-mentality-with-plenty-of-hand-holding.md",
+      "title": "AI Needs A Startup Mentality — With Plenty Of Hand-Holding",
+      "excerpt": "That’s why a startup mentality may be needed to promote any super-innovative concepts the technology could bring and move them to market quickly. But, contrary to popular belief, AI has its limits. To date, innovation with AI has been tepid at best ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655bec0464e4057ef130f9cf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1165,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/amp/",
+      "publishedDateTime": "2023-11-20T21:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-21-uncovering-4-leading-ai-blockchain-projects-to-watch-in-2024.md",
       "title": "Uncovering 4 Leading AI Blockchain Projects To Watch In 2024",
       "excerpt": "Among them, there are four AI blockchain projects that often find themselves ranked among the top 10 AI and big data tokens. These projects are redefining AI within the blockchain space, and have gone through major updates that make them the AI crypto projects to watch in 2024.",
@@ -146,101 +299,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-21-powder-an-ai-clipping-tool-for-gaming-can-detect-when-a-creator-yells-during-a-stream.md",
-      "title": "Powder, an AI clipping tool for gaming, can detect when a creator yells during a stream",
-      "excerpt": "Powder, AI-powered clipping software that takes highlights from gaming ... Powder claims to save streamers upwards of around 10 hours per week or 520 hours a year. The France-based startup was founded in 2018 by Kiss, Yannis Mangematin and Christian ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/20/powder-an-ai-clipping-tool-for-gaming-can-detect-when-a-creator-yells-during-a-stream/",
-      "originalUrl": "https://techcrunch.com/2023/11/20/powder-an-ai-clipping-tool-for-gaming-can-detect-when-a-creator-yells-during-a-stream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/Powder-clipping-tool-gaming.png?w=1118",
-          "width": 1118,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/20/powder-an-ai-clipping-tool-for-gaming-can-detect-when-a-creator-yells-during-a-stream/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/20/powder-an-ai-clipping-tool-for-gaming-can-detect-when-a-creator-yells-during-a-stream/amp/",
-      "publishedDateTime": "2023-11-20T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-trying-to-do-more-real-hpc-in-an-increasingly-ai-world.md",
-      "title": "Trying To Do More Real HPC In An Increasingly AI World",
-      "excerpt": "If you are in the traditional HPC community, it is not hard to be of two minds about the rise of AI and the mainstreaming of generative AI. At the very least, the GenAI tsunami makes it easier to argu",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/11/20/trying-to-do-more-real-hpc-in-an-increasingly-ai-world/",
-      "originalUrl": "https://www.nextplatform.com/2023/11/20/trying-to-do-more-real-hpc-in-an-increasingly-ai-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2022/09/lenovo-hpc-ai-logo.jpg",
-          "width": 952,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/11/20/trying-to-do-more-real-hpc-in-an-increasingly-ai-world/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/20/trying-to-do-more-real-hpc-in-an-increasingly-ai-world/amp/",
-      "publishedDateTime": "2023-11-20T09:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-11-21-how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft.md",
       "title": "How Might Open.ai Outcomes Impact NVIDIA, AMD, Intel And Microsoft?",
       "excerpt": "NVIDIA has already increased the outlook for GPUs astronomically based on demand for Hopper and GraceHopper chips with associated CoSWoS capacity needed for HBM. NVIDIA wins if they can redirect a few tens of thousands to the new Microsoft AI Subsidiary (in Azure) without losing customers to AMD.",
@@ -301,7 +359,7 @@
       "originalUrl": "https://www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -353,7 +411,7 @@
       "originalUrl": "https://www.forbes.com/sites/jonathanreichental/2023/11/20/quantum-artificial-intelligence-is-closer-than-you-think/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -447,7 +505,7 @@
       "originalUrl": "https://www.cnbc.com/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -697,7 +755,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -844,7 +902,7 @@
       "originalUrl": "https://www.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -896,7 +954,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 392,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -1170,57 +1228,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-how-ai-can-be-leveraged-for-diversity-and-inclusion.md",
-      "title": "How AI Can Be Leveraged For Diversity And Inclusion",
-      "excerpt": "In the modern workplace, diversity and inclusion have become more than just buzzwords—they are crucial to fostering innovation, creativity, and a welcoming environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/",
-      "originalUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655a7b77d4a3a31792aee594/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/amp/",
-      "publishedDateTime": "2023-11-19T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

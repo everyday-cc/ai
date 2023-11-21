@@ -7,7 +7,7 @@ originalUrl: "https://iblnews.org/ibm-will-dedicate-500-million-to-invest-in-gen
 webUrl: "https://iblnews.org/ibm-will-dedicate-500-million-to-invest-in-generative-ai-focused-start-ups/"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Riding The AI Wave And Investing In StarUps"
-    excerpt: "AI startups have attracted billions in institutional funding ... deal flow in the Artificial Intelligence space and interest in investing in some of the 2021 startup darlings that now trade at significantly discounted valuations.” For investors who ..."
-    publishedDateTime: 2023-11-19T19:27:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/11/19/riding-the-ai-wave-and-investing-in-starups/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "pCzOzEGCJLSl3Md5qHXTWh+AZf4JxbfqETJR0bCDKP54hT/ltp5UR59td2brD6nSS2VF7txLIdKfi6PkrK59cf4NWy2BuDrFlbuQR9MOu6e4+Iw6EAMd9KpBxAxRZcCVR1OyxPraILXnLoBTG1PPJS3t2dQFvwB/s4kp9M48VmPzmSy/ftyFZgitGNcXYHtttOBzy9xweOzxKdpOp4+oms6V4CI+K/39FJOYa+UZDpsYfkcsBrYkoXtEtGbWON3HhQa/SMOYO5Im3DJFBwL6CfrtnDSKrMABHvnqYw50ktRci1zTAWuzktCOR4BohT/w7LjV970OVAe9FMCFPTrU4CQHukRn8y8hPGPwt28bPeMuGIdz82+Sf6o7KFIRc76NOUy2ZKEjqJLQaAd15J2LOuzMQui7iLSuxJcfjfs42jM0udHJD934Zkyd664QIgIFAI2nAjafH2iZe9aE6ExzMYFH7k2WftdPlwvi0t6h9VAXA1biuqAzmRqXA01nkUmtxamZR/QjP2L7qMqGlQR9sw==;txC1WZMduMuLwJp8/29Zkg=="
 ---

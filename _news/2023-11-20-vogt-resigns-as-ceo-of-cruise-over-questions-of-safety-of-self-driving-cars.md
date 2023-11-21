@@ -37,6 +37,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "GM’s Cruise CEO resigns amid concerns over driverless car safety"
+    excerpt: "Kyle Vogt exits as Twitch co-founder Emmett Shear appointed as interim boss of OpenAI"
+    publishedDateTime: 2023-11-20T18:09:00Z
+    webUrl: "https://www.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/c949d909bc46ec40b7b1c7b78be4413b14e1aecd/0_16_4490_2696/master/4490.jpg?width=620&quality=85&auto=format&fit=max&s=0bef85820729cebdfb6d397af57b3802"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Vogt resigns as CEO of Cruise following safety concerns over self-driving vehicles"
     excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars. Vogt's decision to step down, announced late Sunday, follows a recent recall of all 950 Cruise vehicles to update ..."
     publishedDateTime: 2023-11-19T16:04:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2023/11/17/artificial-intelligence-ai-in-a
 webUrl: "https://www.fmiblog.com/2023/11/17/artificial-intelligence-ai-in-automotive-market-poised-for-remarkable-55-cagr-growth-surpassing-us-744-39-billion-valuation-by-2033/"
 type: article
 quality: 1
-heat: -1
+heat: 1
 published: false
 
 provider:
@@ -17,40 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Automotive LiDAR Market Size to Hit USD 7.43 Billion by 2032"
-    excerpt: "The global automotive LiDAR market size accounted for USD 0.99 billion in 2023 and is estimated to surpass around USD 3.54 billion by 2029, According to Precedence Research."
-    publishedDateTime: 2023-11-16T14:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35829438/automotive-lidar-market-size-to-hit-usd-7-43-billion-by-2032"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35829438"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35829438"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Robotics Market Revenue to Reach USD 82.76 Billion by 2028 – Market Size, Share, Forecasts, & Trends Analysis Report by Mordor Intelligence"
-    excerpt: "According to the latest research report titled, \"Robotics Market Report (2023 - 2028)\" by Mordor Intelligence, the market is estimated at USD 39.56 billion in 2023, and growing at a CAGR of 15.91% dur"
-    publishedDateTime: 2023-11-17T23:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35860460/robotics-market-revenue-to-reach-usd-82-76-billion-by-2028-market-size-share-forecasts-trends-ana"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35860460"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35860460"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "K21opDBGDQvwfl6DY/tSjISx2ILAvNnSL7sVfiALBvYTRN1VyB9bsvbPc3/KnOqm/7JmwjWYl0oN/dpcNUSi+Y71w2jH2lBaUNa23AYq1pV9/EEXAh/MBVXUcyDYri01nlm69YenOy1dr3mw8SknpKotuYibzRsCsScpnLeiGDXRvqbBq/JMYQXHZJPzp4rgP+PFp7sbJZR6l5bQzN08Brw6V8d4AEsiQcKXfkgD2J9prKz5w3/Qq1W1WWJ8PBILZXebc9OAIs1qbJthfR9L5+QDptyLjsOOqEl+zNF/rd8dKdF8yykm/ebpINLwHywIu0v+I6XHYC2NK3PlUu+oFbZ/1QGLeHNY2UqLPQPzBrg=;IonEmvpeLS63BU3C4OukgQ=="
 ---

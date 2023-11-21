@@ -62,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 392,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -945,10 +945,10 @@
     {
       "path": "_news/2023-11-08-kx-announces-kdbai-and-kx-copilot-in-microsoft-azure.md",
       "title": "KX ANNOUNCES KDB.AI AND KX COPILOT IN MICROSOFT AZURE",
-      "excerpt": "Jumpstart development of AI-powered applications with a 'ready-to-go' technology stack comprising KDB.AI, Azure Machine Learning and Azure OpenAI",
+      "excerpt": "Jumpstart development of AI-powered applications with a 'ready-to-go' technology stack comprising KDB.AI, Azure Machine Learning and Azure OpenAI Service Use natural language prompts to run ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-1032792757",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-1032792757",
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-11/60595042-kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-11/60595042-kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-008.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -967,21 +967,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T23:13:00-08:00",
+      "publishedDateTime": "2023-11-08T00:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
         "publishers": null,
         "authors": null
       },

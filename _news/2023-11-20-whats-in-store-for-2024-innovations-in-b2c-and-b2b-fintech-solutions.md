@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/5446new.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Top 10 Fintech and Payments Trends in 2024"
+    excerpt: "Juniper Research unveiled today the 10 trends that are set to radically impact the fintech and payments landscape in 2024, included within its latest whitepaper."
+    publishedDateTime: 2023-11-21T06:12:00Z
+    webUrl: "https://fintechnews.ch/fintech/top-10-fintech-and-payments-trends-in-2024/64766/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2023/11/Juniper-Research-Releases-its-Top-10-Fintech-Payments-Trends-for-2024-Amidst-Unprecedented-Technological-Shifts.jpg"
+        width: 1024
+        height: 567
         isCached: true
   - title: "Customised AI solutions for fintech sector prove a Keeper"
     excerpt: "Keeper Solutions designs, develops and deploys AI-powered products for fast-scaling fintech companies across Europe and the United States"

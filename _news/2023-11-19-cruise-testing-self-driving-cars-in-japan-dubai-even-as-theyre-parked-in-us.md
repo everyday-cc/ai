@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Did You See The Car In Buffalo Driving By Itself?"
-    excerpt: "This week, you may have seen a white car that resembled a Google Maps vehicle; however, this car has several more cameras, on top of the hood, rearview mirrors, sides of the car, and other places – on top of the several sensors added to the car."
-    publishedDateTime: 2023-11-16T13:33:00Z
-    webUrl: "https://wyrk.com/self-driving-cars-buffalo/"
-    type: article
-    provider:
-      name: WYRK
-      domain: wyrk.com
-    quality: 4
   - title: "U.S. Lawmakers Question Chinese Self-Driving Firms On How They Handle Their Data"
     excerpt: "A group of 14 House lawmakers in the U.S. have sent letters to 10 self-driving technology companies operating autonomous fleets locally to see how they handle data collected during tests. The letters from the bipartisan group of lawmakers were sent to firms including Baidu,"
     publishedDateTime: 2023-11-18T00:00:00Z

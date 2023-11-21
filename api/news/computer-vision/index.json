@@ -595,19 +595,19 @@
     {
       "path": "_news/2023-11-09-police-use-of-face-recognition-is-sweeping-the-uk.md",
       "title": "Police Use of Face Recognition Is Sweeping the UK",
-      "excerpt": "Face recognition technology has been controversial for years. Cops in the UK are drastically increasing the amount they use it.",
+      "excerpt": "The rapid expansion of face recognition comes at a time when trust in policing levels are at record lows, following a series of high-profile scandals. Civil liberties groups, experts, and some ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/uk-police-face-recognition-expansion/",
-      "originalUrl": "https://www.wired.com/story/uk-police-face-recognition-expansion/",
+      "webUrl": "https://www.wired.co.uk/article/uk-police-face-recognition-expansion",
+      "originalUrl": "https://www.wired.co.uk/article/uk-police-face-recognition-expansion",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/654c2c7f0202a11bfdc62856/191:100/w_1280,c_limit/The-UK-Is-Turning-Into-a-Facial-Recognition-Police-State-Security-GettyImages-1224837570.jpg",
+          "url": "https://media.wired.co.uk/photos/654bc5e907457b7ceeb9ecd8/16:9/w_1280,c_limit/The-UK-Is-Turning-Into-a-Facial-Recognition-Police-State-Security-GettyImages-1224837570.jpg",
           "width": 1280,
-          "height": 670,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -620,18 +620,9 @@
       "publishedDateTime": "2023-11-08T23:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },

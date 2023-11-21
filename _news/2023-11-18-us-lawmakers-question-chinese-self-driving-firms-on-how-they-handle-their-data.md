@@ -28,15 +28,6 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 14
-  - title: "Did You See The Car In Buffalo Driving By Itself?"
-    excerpt: "This week, you may have seen a white car that resembled a Google Maps vehicle; however, this car has several more cameras, on top of the hood, rearview mirrors, sides of the car, and other places – on top of the several sensors added to the car."
-    publishedDateTime: 2023-11-16T13:33:00Z
-    webUrl: "https://wyrk.com/self-driving-cars-buffalo/"
-    type: article
-    provider:
-      name: WYRK
-      domain: wyrk.com
-    quality: 4
 
 secured: "vrhQZcrC1yjYiYdjvAXITMPG0Qx3v4ml2TrowYVVJgPvtMDiXY7fmOeZgSLmjvA8eDlraf6uOquY/bmfzn2j4LyYBH1NsCurF8Olx5ALOaD/VUHHV/SPgTtvoaobUbWaJTLZTKAVe95KmwkLmnOrTtn1HxpIpMw8Hmt0UXiwatQw1u/5MLAeBJoL/FrmATgaO0VGTLhnQo4wB+b+kfvVKhOo6QOxfH3OMGowrtJYrAUd+bupfaCHKZeJI5zi5rxpXr0fvVO/vvxbgu1XcYTzmfzYTo0XxmI+I+vXBJYzz4j3LXVH+5cE41NVJz7RPicQsb2WG4rlpb7P4ZrGOmLVafG9IrU/UxXZ7MC+7dLEYwG/RI0m5/DIZ5lRZIu4SSWrS7qhKPXBXNVmXcd61vn8q0I3G+3/ypuN1tcIBNWvb3CioRJMXMmSw5JzCn0FrFW+WfQpKjKGbN57sBFVBtJCJIWW659NwonLftTiMuPJ9xwdLdJ6Rt97FEyxelbPnLML5rm4zMgwNEC7ZmgzpkK52g==;xYifqrlHNcKYrkfJFNGbMg=="
 ---

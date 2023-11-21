@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-30-white-house-aims-to-monitor-regulate-artificial-intelligence-with-new-executive-order.md",
+      "title": "White House aims to monitor, regulate artificial intelligence with new executive order",
+      "excerpt": "The White House rolled out a sweeping executive order Monday that aims to monitor and regulate the risks of artificial intelligence while also harnessing its potential.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7news.com/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
+      "originalUrl": "https://abc7news.com/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7news.com/amp/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
+      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
+      "publishedDateTime": "2023-10-30T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-29-3-ways-artificial-intelligence-can-predict-disease-and-improve-treatment.md",
       "title": "3 Ways Artificial Intelligence Can Predict Disease And Improve Treatment",
       "excerpt": "Would you like to know if you are going to develop diabetes or die early from heart disease? Artificial intelligence may soon give you the answer.",
@@ -1343,40 +1377,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-15-ai-will-be-critical-for-the-future-of-rural-health-care-in-canada-experts-say.md",
-      "title": "AI will be critical for the future of rural health care in Canada, experts say",
-      "excerpt": "There won't be androids rushing through hospitals or drones hovering to triage patients just yet, but artificial intelligence is starting to make the rounds when it comes in health care in Canada.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/news/canada/prince-edward-island/pei-artificial-intelligence-1.6994961",
-      "originalUrl": "https://www.cbc.ca/news/canada/prince-edward-island/pei-artificial-intelligence-1.6994961",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

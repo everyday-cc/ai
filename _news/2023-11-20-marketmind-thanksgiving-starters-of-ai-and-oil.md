@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Supercharging Your Mid-Market Brand’s Voice In The Age Of AI"
-    excerpt: "AI can help you produce more content than ever before while maintaining your unique brand voice. But it requires some pre-work."
-    publishedDateTime: 2023-11-20T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/supercharging-your-mid-market-brands-voice-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-
 secured: "DrSRY6C8Uczv6u+D+4O+fQul6DjPZAFzfIsC/ehiWORx+sWEvxLztH09KE0bTiwwVw6+D3j2zjPpHuX909F/cJgb9ymxy6YEA2ctCqJFiPQusJoOy31XzFdwsE/iBi2XhpG/C4L2XHcmaqG2qHeS8FMYMIY4Z4yK8jOjfJXVcSbsGuHHkaLl2SXkFfiTuO+E5TOV1udI1KqI3WaUtoWU4U4sJYgy5xUXTO8tz5n0J/wQe5q///0jnDnegeYyDGF43C4HhmHCiPzzXCHAKLmq3bDTTt190VEwlNVO0vK7kN5grxJ3SRPdsKT82BLN2jjHyJk8CQ5BW7NefZpaVXnWvTfy5TrUmQrW6CKSIpLi5AeqbCbNvx1xpor9YJ/e/J+KieR1zaK6g/7WQi1JO5H59NnbQyez/8PjAb53OcG0hmH14benqx4T1E74ebtLMX2hG1CYCvkwG5Bcpf4r1vJuTielll/0KKlvmi1KVxloqLbqaqBn4VltbnMtGZHj35KnROLmZuPYdDvxWHyxF+Hnag==;loC9SU139fNThWR2iL87/A=="
 ---
 
