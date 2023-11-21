@@ -19,20 +19,52 @@ topics:
   - AI
 
 related:
-  - title: "Va. universities need AI that's designed to fail"
-    excerpt: "If one were to solicit a list of the developments most often on the minds of educators today, it's almost certain that artificial intelligence would be near the top. After"
-    publishedDateTime: 2023-11-18T06:49:00Z
-    webUrl: "https://richmond.com/va-universities-need-ai-thats-designed-to-fail/article_63b3856d-efee-5acb-9c78-8b9864594b77.html"
+  - title: "Mid-range phones will get generative AI thanks to this new chipset"
+    excerpt: "MediaTek has announced the Dimensity 8300 smartphone chipset. This is the first mid-range smartphone chip touting on-device generative AI support. Qualcomm and MediaTek have both announced flagship smartphone processors with support for generative AI features."
+    publishedDateTime: 2023-11-21T07:36:00Z
+    webUrl: "https://www.androidauthority.com/mediatek-dimensity-8300-3386430/"
     type: article
     provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 39
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/03/MediaTek-Dimensity-logo.jpg"
+        width: 1694
+        height: 953
         isCached: true
+  - title: "Qualcomm’s newest chip will bring AI to cheaper Android phones"
+    excerpt: "Qualcomm's new midrange processor, the Snapdragon 7 Gen 3, will make its way to Android phones that will be announced toward the end of this year."
+    publishedDateTime: 2023-11-17T05:30:00Z
+    webUrl: "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-7-gen-3-mid-range-android-phone-chip-news/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 64
+  - title: "MediaTek Dimensity 8300 chipset announced with on-device generative AI capabilities"
+    excerpt: "MediaTek has introduced the Dimensity 8300, a new mid-range smartphone chipset that boasts on-device generative AI capabilities"
+    publishedDateTime: 2023-11-21T08:42:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/smartphones-with-mediatek-dimensity-8300-chipset-launching-by-year-end/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 48
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l5220231121141155.jpeg"
+        width: 1920
+        height: 1079
+        isCached: true
+  - title: "Qualcomm’s Snapdragon 7 Gen 3 chipset brings faster AI and GPU performance"
+    excerpt: "Qualcomm’s is not done with its lineup of chipsets for 2023. The US-based company revealed earlier today a brand-new chipset aimed at mid-range smartphones, the Snapdragon 7 Gen 3. The new chipset will be initially packed inside smartphones launched by Honor and vivo,"
+    publishedDateTime: 2023-11-17T09:21:00Z
+    webUrl: "https://www.phonearena.com/news/qualcomm-snapdragon-7-gen-3-official-specs_id152681"
+    type: article
+    provider:
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 47
 
 secured: "ROG52pfoT9kLgYgWvSdb0ew6lWq7kACl8hHc3YAWhJVUqMHvap8ik/PC+mqpr53LX4LNcdCL8OgA4snqhgDLk7FZhAMEBrdLol3UdFmkNPcLMrHK6iu7FU5l033jHD80T6UfJpD1t0Mzf8YC7t/zYYKB8NiXfX0M7OOTydSzuhz+TQSGEIK870H+U845N5RnluLUJS8IvXXvERAMHbszwuxOWVT0/cTvc9ggTC/Mmg6SMlyfVysX+zLRMy5FEJ5hqaNEqqPoiRlYkqor4CInZC3xhNj4TxOtCfCfbTIvaNJyM9FHB5MmELyLkERtOG5Wah21iTrR5LMXAdCTHXJGnMnj0TQxaHZkkubzVtD91I5FI8Gg2RbY2OS7EbdKbCEYFlziYTT2qMAaiWakTln/XUw9JFpNXftnHvTTSk2DPRdUWKDXPWp3681kI2S9+tV4a0xX1Cr4z5wz2Et/cQH+jO8Pl2YVm6KdzRdx5zMOAqnONjWop4AqRBzj3hge5l5ZHl1GQrOFyVvUCLTLzUnnJA==;IgOB61ypBIFLhm6hnQYfpA=="
 ---

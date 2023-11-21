@@ -43,13 +43,18 @@ related:
         isCached: true
   - title: "Understanding the Dawn of the Artificial General Intelligence Era"
     excerpt: "The abrupt departure—and possible return—of Sam Altman from OpenAI is sending tsunamis through Silicon Valley, igniting a flurry of speculation and bringing into sharp relief a fundamental debate at the crossroads of artificial intelligence (AI) development."
-    publishedDateTime: 2023-11-20T14:36:00Z
-    webUrl: "https://www.aei.org/op-eds/understanding-the-dawn-of-the-artificial-general-intelligence-era/"
+    publishedDateTime: 2023-11-20T14:44:00Z
+    webUrl: "https://www.aol.com/news/understanding-dawn-artificial-general-intelligence-074400693.html"
     type: article
     provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 2
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_dispatch_253/d0c8759151495eba0a6d7fc1e42d5c1e"
+        width: 560
+        height: 357
+        isCached: true
 
 secured: "wrulwnnphuS/lz3d+hpPqwShXGaibRQc05TixpJa/6AfHl7+s4Zr80t8Mo5hUTsWtX7lV0U5jVW8LLVaOL4h63jsPCKPt158cLKMrDKDAieBRkZMLMCsDkiPA/1M6eMBYRidbhFQqrVBq1gPAnnuJGORnRbxm+gLrhCXFv9pKpcMOclYp1ASJlL+yxcByWrYXqus/orbsCwEk2iobNZgDuVBgBQYjlnnyTRgK4xhsYFKA9bCXQkJCxhP33nI3Z6kOI1oFhuZ29ir3IDtAGiVXn4qGy0csiz1qV69J33Fbo8neeuHIUG4QenKFCT7l2e2u/PhLLd4hZTxJuwHdylgiu0BBUCwmmpxJuIBCu/5KuM=;jv6S6vS838JST2ALHgPDbw=="
 ---

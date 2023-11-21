@@ -94,6 +94,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Unleashing the Power of Artificial Intelligence and Machine Learning in Financial Decision-Making"
+    excerpt: "Introduction Traditional decision-making processes are being revolutionized by the integration of cutting-edge technologies. Artificial Intelligence (AI) and Machine Learning (ML) have emerged as formidable tools,"
+    publishedDateTime: 2023-11-21T05:13:00Z
+    webUrl: "https://techbullion.com/unleashing-the-power-of-artificial-intelligence-and-machine-learning-in-financial-decision-making/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 43
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Unleashing-the-Power-of-Artificial-Intelligence-and-Machine-Learning-in-Financial-Decision-Making-1.png"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Surviving and Thriving in the Age of AI: How Healthcare Leaders Can Learn What They Need to Know"
     excerpt: "AI may transform health care across the board, but not by itself. It's a tool, and like any tool, it will work more effectively and more safely in trained hands. As the AI revolution continues to grow,"
     publishedDateTime: 2023-11-20T14:00:00Z
@@ -107,20 +121,6 @@ related:
       - url: "https://medcitynews.com/uploads/2022/08/GettyImages-1415976995.jpg"
         width: 724
         height: 482
-        isCached: true
-  - title: "Unleashing the Power of Artificial Intelligence and Machine Learning in Financial Decision-Making"
-    excerpt: "Introduction Traditional decision-making processes are being revolutionized by the integration of cutting-edge technologies. Artificial Intelligence (AI) and Machine Learning (ML) have emerged as formidable tools,"
-    publishedDateTime: 2023-11-21T05:13:00Z
-    webUrl: "https://techbullion.com/unleashing-the-power-of-artificial-intelligence-and-machine-learning-in-financial-decision-making/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 41
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Unleashing-the-Power-of-Artificial-Intelligence-and-Machine-Learning-in-Financial-Decision-Making-1.png"
-        width: 600
-        height: 450
         isCached: true
   - title: "Navigating tomorrow -The rise of artificial intelligence in leadership"
     excerpt: "Mumbai: In an era marked by rapid technological advancements, the integration of artificial intelligence (AI) into various facets of our lives is becoming increasingly prevalent. One of the most intriguing and transformative areas where AI is making a significant impact is in the realm of leadership."
@@ -160,6 +160,6 @@ related:
       domain: yale.edu
     quality: 17
 
-secured: "eYQ/yUXxVEshujnpnK2yXxFu+Xc7m+SBtAfSGQZALPu0hDOZuJs0P0wqdoau2bNO1M5wX9LRl5GTz0Z6kVPYSFdkG/KEFb02R12aCX3t4mUrQkqtnOheR55VJ/nCRVYllpiOzK9cOjMfn0m4IWWX1iJA8AfSRELHF/8jRoBnBYc2azPbazPdmwmSGRQXQe45mRvS0fJSfN4/NakMh3+FmNe9p712lbpP779AlONxF09q1d0trjQSGqi2tZYzb7PTTS/bn6yBaiRjxMKJNxWDwFREtW9w6E7e5X/cmIgTK4t9ntC2Pz4Buu3iiAOffgYPV+Y3Anf+s4GryDFgXgJwI7MOzwB6to84loe3UmrsUxo=;pHq7vCfFFWr7xtBRlSPMrQ=="
+secured: "OC8xp792SQ7Sdi+Fb6GdDFSjZua65qFNASinWIAiXIi434sfcZtJWfBee8NgSNX0tef3Kv6MNHXwSQYk2ajNvrYvq9q2bJvBg37vmFan/ncxfxpgyLUzmqXnwcd1YSl3bBxQmeFiOxA/nHZsHxkt/AU8SHCV4yakCrnV/grAE4M5ccGaYJHzyJKjHVZktcU6DFOvR1Cd9QdexstSH0frxb5utZWV9x0DTpm8sAy0k9NAX0763Xb7G05BdTh0baEoQIIA3dqTu2Pmc2vL1CVsW/btaigy3Nm6z8w+xoXwwRCGILXqlDvMAXcoqY2ypXp14ID10xaUYpbdbiJG0AXgy1JVXsjcXR+IUmp98bKjBUdc1saZRlV/lXyhs2OIGZiRJyhHs9BKAH1F7Wa/aktks1PMxT7i9ypWA+qxEo6rEahxq4MrxEJLcZPggobE099aeMYJhnPxLReNVZEsN59Iq/TWQ79/GP3VvbPMe8oNuI1dbIwqeWQisEEoRdAQFNEP+iWm1v3dg5vekhZDJp9cHA==;nSS5aVADwaB3U5cEpmauBw=="
 ---
 

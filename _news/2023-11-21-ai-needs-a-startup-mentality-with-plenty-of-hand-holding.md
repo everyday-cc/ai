@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startu
 ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/655bec0464e4057ef130f9cf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -29,6 +30,6 @@ images:
     height: 776
     isCached: true
 
-secured: "liOnx1VMQFR0+wF/wyTQKb1UzK4u8OkPr9OYgDRhj5tqAHxr5uoshHiqPBfBIqxTQXidvsf4v4Tc62naKcpekNY/hXTQ0UNFFScNEzP2KQDcylEeK36Zc4QDHjy0a5nxu8B8mk65RPrcNO7/eIHFX1mwLykRpj0dz/e9JpIjbjiXY8yCfWq3AoD659BLNZFr8gxsAtFekKW6ue6MHE0JJ0mKEAwL8qK7qyuagoQ18/zu2Vb6J+jkHt0cqpf25Kp7QlkdWF7PwX8+5PJluuvrxhdpaZr19b1w6sm/9DMl5QaOxBhfqMG77Ku0N9EKmxVQsh1KQqBJxk0mv5V+y3WlDToAikXfUB5o1bNpcHCQKFA=;pYg8pqMdr0XzXcXQBuW0xQ=="
+secured: "U4/LlTlixAhqSPKJuezfPoFnnUM5FbcbxCwn47VTlWC4HcTJuaWnsstMCE7JE7KU5xgmSNhswsFDny6Bdicw0wdujB9Q7y+j1H6WrMum8E2pJ1QYHB5uzo/9H6upEH/YBsY3yXS9HAJrQ2ghCj0anBlsZnCUy1f10/hZjhLqi+UiZ5OK31H8pReD44SV5CbR3UQ2bACcvMGIFkvKqJKWrzX8h+lqkkm02J1zi5XUhSgZM2uzZJ4ded/5g+8ik1bnWCcOFG5LFjxciqf4V11y2Edp5RbRnyhicF7TuVF28brZouPiDKRz/8f++DpZPlhfCPQ55KxEgk0TdXuLVQtzGudg51Wmk+7XOwh9/BiLOEPb0FrsGj9tRuMP0VvLhs2VWVAD3ZW0S2Q4GCiPYh3b5fmAsTH1ccC4Y74sTNZeundzOGj2Z2PLOGUEGfeNy1hLbeb0DTJHqLK5qhoyRRV4flnyJB7wVJsJ9d/I0uQLLOGP4BppKypIwUtjnpBxrhjMKQyCWxSJHRdieYl/uJjt9g==;xtx/+PtFqc7Bqni6Q7rDbQ=="
 ---
 

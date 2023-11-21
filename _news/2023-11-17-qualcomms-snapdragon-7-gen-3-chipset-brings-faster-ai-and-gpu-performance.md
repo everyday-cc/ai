@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Mid-range phones will get generative AI thanks to this new chipset"
+    excerpt: "MediaTek has announced the Dimensity 8300 smartphone chipset. This is the first mid-range smartphone chip touting on-device generative AI support. Qualcomm and MediaTek have both announced flagship smartphone processors with support for generative AI features."
+    publishedDateTime: 2023-11-21T07:36:00Z
+    webUrl: "https://www.androidauthority.com/mediatek-dimensity-8300-3386430/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/03/MediaTek-Dimensity-logo.jpg"
+        width: 1694
+        height: 953
+        isCached: true
   - title: "Qualcomm’s newest chip will bring AI to cheaper Android phones"
     excerpt: "Qualcomm's new midrange processor, the Snapdragon 7 Gen 3, will make its way to Android phones that will be announced toward the end of this year."
     publishedDateTime: 2023-11-17T05:30:00Z
@@ -28,34 +42,29 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 64
-  - title: "Qualcomm's Snapdragon 7 Gen 3 Doubles Down on AI for Android's Mid-Range Devices"
-    excerpt: "AI is the name of the game for this year’s chips, particularly for Qualcomm’s mobile processors. The chipmaker has announced the Snapdragon 7 Gen 3 processor for mid-range Android devices with promises of improved AI performance."
-    publishedDateTime: 2023-11-17T10:30:00Z
-    webUrl: "https://gizmodo.com/qualcomm-snapdragon-7-gen-3-ai-android-1851029683"
+  - title: "MediaTek Dimensity 8300 chipset announced with on-device generative AI capabilities"
+    excerpt: "MediaTek has introduced the Dimensity 8300, a new mid-range smartphone chipset that boasts on-device generative AI capabilities"
+    publishedDateTime: 2023-11-21T08:42:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/smartphones-with-mediatek-dimensity-8300-chipset-launching-by-year-end/story"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 48
     images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b6988deebc81b6be0a3378b42e6dab8d.png"
-        width: 1200
-        height: 675
+      - url: "https://i.cdn.newsbytesapp.com/images/l5220231121141155.jpeg"
+        width: 1920
+        height: 1079
         isCached: true
-  - title: "Qualcomm’s Snapdragon 7 Gen 3 Doubles Down on AI for Android’s Mid-Range Devices"
-    excerpt: "AI is the name of the game for this year’s chips, particularly for Qualcomm’s mobile processors. The chipmaker has announced the Snapdragon 7 Gen 3 processor for mid-range Android devices with promises of improved AI performance."
-    publishedDateTime: 2023-11-20T04:00:00Z
-    webUrl: "https://gizmodo.com.au/2023/11/qualcomms-snapdragon-7-gen-3-doubles-down-on-ai-for-androids-mid-range-devices/"
+  - title: "New purpose-designed chips poised to boost generative AI development"
+    excerpt: "Driven by the need for even more powerful hardware, NVIDIA just announced a brand new chip dedicated to AI, the H200. The new H200s are designed to cut AI processing times by as much as 50% or more, while also reducing power consumption."
+    publishedDateTime: 2023-11-17T19:31:00Z
+    webUrl: "https://www.nextgov.com/ideas/2023/11/new-purpose-designed-chips-poised-boost-generative-ai-development/392123/"
     type: article
     provider:
-      name: gizmodo
-      domain: gizmodo.com.au
+      name: Nextgov
+      domain: nextgov.com
     quality: 34
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2023/11/7702e4a3a80fc93b3c69e0b36919a880.jpg?quality=75&w=800"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "EXL3Vucy4KrFr30Q7h/yp0t8N4A8SU+AeCIK00B5o87x6Up8uJhI3AAv+OD2dEL12rqqOkS0FYx018JVi0YE0T4v1bP8qcRCzR+AZDwQoF99tAPVjgTOoYokYH6Ej9nIbSlySxwQnUwA4askNxVtP3CiN/xm1sVU+40ZXwVz1fju08P5MqUFB12lNJTUDV3xkKiWSbuMFHF7Wtaijue9zSsZTAHaZXAwsW1fjtkhYbn89H6bOZK2lM8lsjaDlJYGEGn41vwkiNUlrp0jIhLV3Z0m7akeqsP5Is7rNUiaHF1Sw+l4LUnrYTaYiE2VYTX+2Z6zYu3K8ckl9vb4hHxe+bD3eqPWrslbKJElwpRnwB9AYFKBspXf+uhq7hWJPo5qg6t6YMtivkfVCMQcPr3ESvHZRXMp8ErCat137/ErO8j275AmULVqGriqUzGvI+wESYNEHfhfD5UTnD0s5gFdFcnPrQzasvtDKaP6swSelEtAwx6Di/RwpfalmE3eJ6HhxD1fs/tC3YZX2fXe03pZng==;Fk2+6xH3t3x3FVGUjBj38Q=="
 ---

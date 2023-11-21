@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resig
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt"
 type: article
 quality: 59
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://sjvsun.com/wp-content/uploads/2023/11/SUN-OG-_-Feat-162.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Cruise CEO resigns amid questions over self-driving vehicles"
+    excerpt: "Kyle Vogt has resigned as chief executive officer of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars."
+    publishedDateTime: 2023-11-21T07:52:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/nov/21/cruise-ceo-resigns-amid-questions-over-self/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205863245_205859005-d582d0d89bae49de8bece9d4d4536caf_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
         isCached: true
   - title: "Cruise CEO resigns following troubles with self-driving cars"
     excerpt: "The founder and CEO of autonomous vehicle company Cruise, which is owned by General Motors, announced on X that he is resigning. Kyle Vogt founded the company in 2013 and also served as its president and chief technology officer."

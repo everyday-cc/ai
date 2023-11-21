@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-21T05:13:00Z
 originalUrl: "https://techbullion.com/unleashing-the-power-of-artificial-intelligence-and-machine-learning-in-financial-decision-making/"
 webUrl: "https://techbullion.com/unleashing-the-power-of-artificial-intelligence-and-machine-learning-in-financial-decision-making/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/11/Unleashing-the-Power-of-Artificial-Intelligence-and-Machine-Learning-in-Financial-Decision-Making-1.png"
@@ -157,6 +158,6 @@ related:
       domain: yale.edu
     quality: 17
 
-secured: "hyq4eLN2vQvpJrwfuWcc4Adtd10BJBW56tQMAVjmvWaENy91Sfv8hc+eZHBYj7tPlVhsC8PMKsyqOZY3fA5G1zmU35o5cEsqsNIkiRZtkKE08VEO62Wd8wTrWUKomfZcWE7rhITbE38ohMdovzCZbNFYqDnJj8GLWkfu7DuH1+JDbpm/gs0CwIXeTR+tijeAPzxKVCrc7JOLJPWuuE92cc/AFuKhx8+qifDiYVdYR+1toIwPpCU1yWvMeG4hrOluuZv8Hbq7Ctg3g3Qq/09vT/5d7NdaFxg8oL0on4jlmUopSuoa98RY/WA7B1IY/Xjwtj0feHxb/UjtaWptpqomy4PwjqDdF/7lgTismfV4ITE=;CBwtq35/DrQ4iAv/ZyOO/g=="
+secured: "K+4FJqfrluvuuzRfCVY0ZAXJjourqnz6dpXgUyEeMeZWfN2JhKz9X/027Pwm6HWk2AjKBvIeqtQtTICZZLyaBinaF2MDvVGO710fc/2CUYFGNj5NJdAdWHbtq+77o3tR97/HvsHS0ctZZjBzASdEiBzVQhdHH3AT66kT4XO//XLo+p/e4+nMXn4e3FHhGkB2aZPkDE968Ue14+OdcTWO5XN5AUxEyXNVsEA4wI/N1i1FI2AvFRsKI+IN7jp8p3PNkpKS3TT99RJI9F3DIqW7TY4+e7AG9MLB+RiTHAx8hjTg4PTv/1kuBHGvYatjMMvDsjAbhWG4+1VidW7LQGzmBoUpQSizzf3dS8PoYBfF17259SPNPWqQp15pZ0OqcrT1m3GWdQQaI8KoKNyATtQWRTDS4fKjlGfWeGhSIa9+8fvTG9WZBWUJWGmaOp8rGvmTTAP2ZE6VX8iWqMFWl5Q/iGkkg/0mnLHU5m0Sr4AcBSM8i8uGWs4D6q7AT4oeYV3j6eZE0LbSGQ1BD7F2CDOEzg==;8nFsleaDSkj1lySH91GkoA=="
 ---
 

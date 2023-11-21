@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Holds Chip Makers’ Feet To The Fire With Homegrown CPU And AI Chips"
-    excerpt: "After many years of rumors, Microsoft has finally confirmed that it is following rivals Amazon Web Services and Google into the design of custom processors and accelerators for their clouds. That confirmation came today as Satya Nadella,"
-    publishedDateTime: 2023-11-16T17:01:00Z
-    webUrl: "https://www.nextplatform.com/2023/11/15/microsoft-holds-chip-makers-feet-to-the-fire-with-homegrown-cpu-and-ai-chips/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 48
 
 secured: "Ty2aJg9hgtfYOuKgWgE+RKRkAU27qGxPumNAUbszvtlwLqwY+49M1N6civiuea5s4bjIPOGApTLDykswuaz3HhC25aIryBD1s0jAHQ6RqYfIzpf+bNah9tR84sP6Uo9bKFtZ6OLUI8t8KpyoxGUOsA7ZJUSa0+/mZLY4szesQDDU+wTLdKOWNpD1D38xaPH4IEA1uOaDpPLXT6gJPmZ3HC6hFdj7RjuvMPmSAcB1Vo+oWsNkQkgla6xuYJfhLM0MtAYea1lr35vfc4A7kQoLrVux+02Ae5+Je/qTudeGt6cV/Z3QZ5s89GEn5HfbG/Lm8yNvwM5dGs2M53Ch8JT/ZITfPY9ir6jYmVwBwPEkWB/OSzif+JmqYXH5OBESV283jRTvostYdjyDILT4Woq972Hr59/K6YXPqm7oNz+btzyy9FMuCsVHTbrU6iz1Q15WFUIx2C1K73igGTIs9569Yi3eIzdeMYl2BeoNU9VjQoOEQcx5fY4dDrGkizOFGFRqO2qA/lI8nQkAi6b2rXtMFA==;BLcGJ6gXyar23BoIl5PLdQ=="
 ---

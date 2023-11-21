@@ -113,7 +113,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/11/Unleashing-the-Power-of-Artificial-Intelligence-and-Machine-Learning-in-Financial-Decision-Making-1.png"
         width: 600

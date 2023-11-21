@@ -279,6 +279,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 37
+  - title: "AI Doomsayers Blamed In OpenAI's Undoing"
+    excerpt: "OpenAI has gone from ruling the world of artificial intelligence with ChatGPT to chaos, its chief executive ousted seemingly for advancing too fast and too far with the risky technology."
+    publishedDateTime: 2023-11-21T07:44:00Z
+    webUrl: "https://www.latintimes.com/ai-doomsayers-blamed-openais-undoing-549047"
+    type: article
+    provider:
+      name: Latin Times
+      domain: latintimes.com
+    quality: 37
+    images:
+      - url: "https://d.latintimes.com/en/full/547964/sam-altman.jpg"
+        width: 768
+        height: 491
+        isCached: true
   - title: "How AI Doomerism Caused OpenAI’s Sam Altman Firing Fiasco"
     excerpt: "It’s been a whirlwind few days for the startup at the heart of the artificial intelligence revolution—but they only have themselves to blame."
     publishedDateTime: 2023-11-20T22:02:00Z
@@ -352,6 +366,20 @@ related:
       name: Courthouse News Service
       domain: courthousenews.com
     quality: 28
+  - title: "OpenAI in “intense discussions” to contain staff mutiny following Altman’s exit from AI startup"
+    excerpt: "The start-up tech firm behind ChatGPT is in turmoil after its founder Sam Altman was forced to depart the board and as chief executive"
+    publishedDateTime: 2023-11-21T08:47:00Z
+    webUrl: "https://www.businesspost.ie/news/openai-in-intense-discussions-to-contain-staff-mutiny-following-altmans-exit-from-ai-startup/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 25
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=e635a2b7-959a-51fe-bfe1-d6856baa4ea5&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=4499&height=2531&x=1.0E-5&y=0.01311"
+        width: 3000
+        height: 1687
+        isCached: true
 
 secured: "OVPNGXlPiEUlixoZD/UN4aAABeszT9UYP4P7Y+Bgk19LzDRBUC8l2u6lhRJgbPKMSlNFWmJM6mrq4EWFvRo1P2niQnjn1Fod6mI4K7EjW9DHHgaMdymy6Z1sZqdrykHM91LwFx42lMqy5RnAnsM9rOcVSSmR5hXr1bRE4J/Xd38CHidwvlujL50RXuh9RM8sOAzPcfNk8Oxv49RjJLPGXbzqw11bT70c7bLv2CTyDfhfuOkbfbMk8GFbps5Agtl0tPuzb4y2b322NwMv5ZXOrqm/wfJQBKAMb9hcApOlPSn/QNwhNL8Hp/q/Mx23l6j+387NYN5EGPUgE2Ot87YVTBeTPMS81iLjUFurD8if39w=;ZoG+gQpVjudWvthd2rGomA=="
 ---

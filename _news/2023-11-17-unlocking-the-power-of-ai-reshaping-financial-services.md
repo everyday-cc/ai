@@ -20,6 +20,22 @@ topics:
 
 related:
   - title: "Redefining the quest for artificial intelligence: What should replace the Turing test?"
+    excerpt: "In a paper published in Intelligent Computing, Philip Nicholas Johnson-Laird of Princeton University and Marco Ragni of Chemnitz University of Technology propose a novel alternative to the Turing test,"
+    publishedDateTime: 2023-11-20T21:07:00Z
+    webUrl: "https://techxplore.com/news/2023-11-redefining-quest-artificial-intelligence-turing.html"
+    ampWebUrl: "https://techxplore.com/news/2023-11-redefining-quest-artificial-intelligence-turing.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-redefining-quest-artificial-intelligence-turing.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 49
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/8-ai.jpg"
+        width: 1920
+        height: 1285
+        isCached: true
+  - title: "Redefining the quest for artificial intelligence: What should replace the Turing test?"
     excerpt: "While it has been a valuable benchmark in the history of artificial intelligence, it has certain limitations: Mimicry vs. Understanding: Passing the Turing test often involves mimicking human responses, making it more a test of mimicry and language ..."
     publishedDateTime: 2023-11-20T00:00:00Z
     webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64081.php"

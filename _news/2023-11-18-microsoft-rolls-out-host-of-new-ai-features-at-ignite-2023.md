@@ -74,6 +74,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft goes all-in on AI at Ignite"
+    excerpt: "Ignite conference took place last week, and AI was the star of this year's event. AI is the one technology Microsoft seems most excited"
+    publishedDateTime: 2023-11-21T08:36:00Z
+    webUrl: "https://stuff.co.za/2023/11/21/microsoft-goes-all-in-on-ai-at-ignite/"
+    ampWebUrl: "https://stuff.co.za/2023/11/21/microsoft-goes-all-in-on-ai-at-ignite/?amp=1"
+    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/11/21/microsoft-goes-all-in-on-ai-at-ignite/?amp=1"
+    type: article
+    provider:
+      name: stuff.co.za
+      domain: stuff.co.za
+    quality: 74
+    images:
+      - url: "https://stuff.co.za/wp-content/uploads/2023/11/AI-Ignite-23-Header.jpg"
+        width: 1023
+        height: 695
+        isCached: true
   - title: "Microsoft Makes A New Move To Dominate Artificial Intelligence"
     excerpt: "OpenAI has hired Emmett Shear as its new interim CEO. Shear was co-founder and ex-CEO of video game streaming service Twitch. Twitch is now owned by Amazon.com, Inc. AMZN . Shear has been in favor of slowing AI development."
     publishedDateTime: 2023-11-20T16:43:00Z
@@ -138,6 +154,20 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 49
+  - title: "Schneider Electric Drives Generative AI Productivity And Sustainability Solutions By Integrating Microsoft Azure Openai"
+    excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of work"
+    publishedDateTime: 2023-11-21T08:29:00Z
+    webUrl: "https://menafn.com/1107462801/Schneider-Electric-Drives-Generative-AI-Productivity-And-Sustainability-Solutions-By-Integrating-Microsoft-Azure-Openai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 45
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?373546"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Sam Altman, ex OpenAI founder and CEO now at Microsoft to run new advanced AI intelligence team"
     excerpt: "Microsoft has hired Sam Altman, where he will lead a new advanced artificial intelligence team, after OpenAI terminated him, then tried to rehire him."
     publishedDateTime: 2023-11-20T23:56:00Z
@@ -152,15 +182,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "New Microsoft Azure virtual machines optimized for AI with AMD Instinct MI300X Accelerators"
-    excerpt: "During the recent Microsoft Ignite event, a significant collaboration between AMD and Microsoft was highlighted. AMD showcased its array of products that"
-    publishedDateTime: 2023-11-16T15:32:00Z
-    webUrl: "https://www.geeky-gadgets.com/microsoft-azure/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
   - title: "Former OpenAI boss to lead Microsoft Advanced AI division"
     excerpt: "Shenanigans over the weekend have seen OpenAI’s former CEO join Microsoft and Twitch’s former CEO step in as OpenAI’s interim CEO."
     publishedDateTime: 2023-11-20T07:54:00Z

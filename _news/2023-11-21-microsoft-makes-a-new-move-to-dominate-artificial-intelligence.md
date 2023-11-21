@@ -82,6 +82,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft goes all-in on AI at Ignite"
+    excerpt: "Ignite conference took place last week, and AI was the star of this year's event. AI is the one technology Microsoft seems most excited"
+    publishedDateTime: 2023-11-21T08:36:00Z
+    webUrl: "https://stuff.co.za/2023/11/21/microsoft-goes-all-in-on-ai-at-ignite/"
+    ampWebUrl: "https://stuff.co.za/2023/11/21/microsoft-goes-all-in-on-ai-at-ignite/?amp=1"
+    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/11/21/microsoft-goes-all-in-on-ai-at-ignite/?amp=1"
+    type: article
+    provider:
+      name: stuff.co.za
+      domain: stuff.co.za
+    quality: 74
+    images:
+      - url: "https://stuff.co.za/wp-content/uploads/2023/11/AI-Ignite-23-Header.jpg"
+        width: 1023
+        height: 695
+        isCached: true
   - title: "Microsoft recommits to open source AI models, despite OpenAI investment"
     excerpt: "Ignite over the last two days, Microsoft also made more important moves to bolster its support for rival open source AI models."
     publishedDateTime: 2023-11-17T00:00:00Z
@@ -130,6 +146,20 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 49
+  - title: "Schneider Electric Drives Generative AI Productivity And Sustainability Solutions By Integrating Microsoft Azure Openai"
+    excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of work"
+    publishedDateTime: 2023-11-21T08:29:00Z
+    webUrl: "https://menafn.com/1107462801/Schneider-Electric-Drives-Generative-AI-Productivity-And-Sustainability-Solutions-By-Integrating-Microsoft-Azure-Openai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 45
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?373546"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Sam Altman, ex OpenAI founder and CEO now at Microsoft to run new advanced AI intelligence team"
     excerpt: "Microsoft has hired Sam Altman, where he will lead a new advanced artificial intelligence team, after OpenAI terminated him, then tried to rehire him."
     publishedDateTime: 2023-11-20T23:56:00Z
@@ -144,15 +174,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "New Microsoft Azure virtual machines optimized for AI with AMD Instinct MI300X Accelerators"
-    excerpt: "During the recent Microsoft Ignite event, a significant collaboration between AMD and Microsoft was highlighted. AMD showcased its array of products that"
-    publishedDateTime: 2023-11-16T15:32:00Z
-    webUrl: "https://www.geeky-gadgets.com/microsoft-azure/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
   - title: "Microsoft Rolls Out Host of New AI Features at Ignite 2023"
     excerpt: "From new copilots and AI development tools, to vector search and AI chips, artificial intelligence featured prominently in Microsoft’s annual Ignite"
     publishedDateTime: 2023-11-17T21:44:00Z

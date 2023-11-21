@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/life/technology-microsoft-takes-a-s
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Holds Chip Makers’ Feet To The Fire With Homegrown CPU And AI Chips"
-    excerpt: "After many years of rumors, Microsoft has finally confirmed that it is following rivals Amazon Web Services and Google into the design of custom processors and accelerators for their clouds. That confirmation came today as Satya Nadella,"
-    publishedDateTime: 2023-11-16T17:01:00Z
-    webUrl: "https://www.nextplatform.com/2023/11/15/microsoft-holds-chip-makers-feet-to-the-fire-with-homegrown-cpu-and-ai-chips/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 48
   - title: "Microsoft's CEO Just Made a Brilliant but Dangerous Announcement. It Could Change the Future of AI Forever"
     excerpt: "CEO Sam Altman is coming to Microsoft. That could be a great advantage for Microsoft--but it could also set dangerous wheels into motion."
     publishedDateTime: 2023-11-20T13:21:00Z

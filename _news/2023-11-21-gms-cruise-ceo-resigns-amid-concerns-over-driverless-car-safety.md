@@ -121,6 +121,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Cruise CEO resigns amid questions over self-driving vehicles"
+    excerpt: "Kyle Vogt has resigned as chief executive officer of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars."
+    publishedDateTime: 2023-11-21T07:52:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/nov/21/cruise-ceo-resigns-amid-questions-over-self/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205863245_205859005-d582d0d89bae49de8bece9d4d4536caf_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
   - title: "Cruise CEO resigns following troubles with self-driving cars"
     excerpt: "The founder and CEO of autonomous vehicle company Cruise, which is owned by General Motors, announced on X that he is resigning. Kyle Vogt founded the company in 2013 and also served as its president and chief technology officer."
     publishedDateTime: 2023-11-20T17:40:00Z
@@ -156,6 +170,6 @@ related:
       domain: ft.com
     quality: 3
 
-secured: "QTJSwtX6YlNnGOra6O3uPem2uBbVx5Vq44t8row0Lut2e86fYWNqEKEOF+v+LCyfA3X3GhaoMRVvtY9InCGEOo2Z0w/eHU9hQzL1rDOrJQT0QTPLjGoLQc6vgg6dkqCSocCoJ1DbAo4C3Il8slcbMw40DT2GusebYzeVA4OnH7YNcOR/1ez0o14ccAQuA7aSohoWjZdCVPoE+IcD8OcfIgo2W3vM545o/7hfvpUuoUuV2zEf24sArFEu6qO6tlUdWWvuV3XhEa9M14TaGxtU+BrOrm/F/IqlXmPlpWhcOKlNCZ3PpnmCtMU16gYP6ny2j+8ArxNFcbHHWndfSg/k0iMdCPLFKtPLDbsFljrFigE=;+tz+V3QBfYSTer+Wv9iz8g=="
+secured: "Rt4/wP1lvf1RvCv2KZiYyWzVfvxeuv57/+rSZoqAGEjL2sfQ7HxcE1Y2M8YuD+k9i0cR4vY7RsGR2REYC8ktbVfd5WGBFDmWfQh6r94x0y+pOWnPQOZVuBsmzRFJEI4VJxzdetwBV7lSqwYgRfeSOnX0dCUA2IRCqEzaUf2WEEbmiqbSW7p0tzU+8+V7sMbK7sfyjUf+N+EstqpeBT37n0vLrJugQI4rVGD2kr5LGL7o4M0kPuraeO0HUf1bSTIy/jeRYMiWHOhh7UxspiVIJPr2nGyJ5pnlUOAxoBwFR9HaSnwwg9UiIy7W3BObhhJeh8MwDUZRwAIWQKcLVC0A4BJOYCH43ZUAnwoTvs+KZc7rCYxbO1FdTL/2E1LgcvJV8IEBU5Irl6BaI36qa/ltbSRmDiytfexF4gXdrPQRauG4OymueKvAfcBsCL/bKSGNC/AeuMzccZlkqHWueakcb7CwPt6CIBW6eWV1uoPZ8hfRt8ncCHZQr/k9Cp3HGIM4/pLLOQl2zAmh5FpCiwMgoA==;0//co3cWd+50ASU18gt3+A=="
 ---
 

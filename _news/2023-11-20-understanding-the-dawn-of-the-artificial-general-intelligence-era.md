@@ -2,20 +2,27 @@
 category: news
 title: "Understanding the Dawn of the Artificial General Intelligence Era"
 excerpt: "The abrupt departure—and possible return—of Sam Altman from OpenAI is sending tsunamis through Silicon Valley, igniting a flurry of speculation and bringing into sharp relief a fundamental debate at the crossroads of artificial intelligence (AI) development."
-publishedDateTime: 2023-11-20T14:36:00Z
-originalUrl: "https://www.aei.org/op-eds/understanding-the-dawn-of-the-artificial-general-intelligence-era/"
-webUrl: "https://www.aei.org/op-eds/understanding-the-dawn-of-the-artificial-general-intelligence-era/"
+publishedDateTime: 2023-11-20T14:44:00Z
+originalUrl: "https://www.aol.com/news/understanding-dawn-artificial-general-intelligence-074400693.html"
+webUrl: "https://www.aol.com/news/understanding-dawn-artificial-general-intelligence-074400693.html"
 type: article
-quality: 2
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: American Enterprise Institute
-  domain: aei.org
+  name: AOL
+  domain: aol.com
 
 topics:
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://media.zenfs.com/en/aol_the_dispatch_253/d0c8759151495eba0a6d7fc1e42d5c1e"
+    width: 560
+    height: 357
+    isCached: true
 
 related:
   - title: "Researchers seek consensus on what constitutes Artificial General Intelligence"
@@ -49,6 +56,6 @@ related:
         height: 1276
         isCached: true
 
-secured: "uCb4+Df/gQ9s3KaEw6wj9cKdd6O92TbjziIsJueL+NO29elKeOCDB2aVXO4DTtiXfmsMR/JrzAD2cYvdGSZuIuBA5qkXGCp3qSgxCT1jVGQE9nlS0IKy4mZJqKQK87UxKp/HB+xED2dz+Ct/YUM7vwu6CPcchj8rt1lucRcMFJIVLft8NVHRJPOnHYh9JysqXjXX5nqbFj7GWQvIriKNNt0PixLmqWODmicad5Pm7011dkxpiCHXlhbf636IVSkiBI75PEYF4ji1aPabQYS1FoEoF42rIJxqk0qxU3WQW/kt00B0I6yjL22hdZzKfC+gtkt1kKUYQ/Q11vnYJB07WdeWFF0yZbz2GkhlClsoKh0=;47tlsywtar9n6+gg4UfXBg=="
+secured: "eLsIbdw4XSPsTg7YdoKaoyy/EZynjKR5ce4XuraSUSxmmCj6pOgr/ZgsZsWpvBRUvc7fiVPWBIKnf8j8izWkX0mVHy+yVySooyCDJ10KrylxRmebaqM3bkvQdBV6Lly73yx+tLStAqJzGIwsLWGDKHs68Nj2b9Fojsv9nShRKUPn2bXRbUZAs2UpIpojYDTiv+wS/wyy1UtQcNT6kzPxAH7bbdYAxuJj7z72hg6j6Vnh4khmiiUdhj7PC2bkuvyc5spL9QIhQvRM0wrcEKcE+YcAQ1xtZGu21eiFqOuSIdj65b7QjKqHfMtEewbxzPbYfdDi+3Xl0kb9+wSk/OgmjbwmyNNAkRGIdI+leHtQjKE=;woBEMtLXnCxU1GmrrlTEbA=="
 ---
 

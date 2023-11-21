@@ -1,31 +1,33 @@
 ---
 category: news
 title: "Kickstarter Launch: ScavBots Unveils Cutting-Edge Robotic Pool Cleaner for Ultimate Efficiency and Performance"
-excerpt: "ScavBots introduces the innovative ScavBots Robotic Pool Cleaner, combining lightweight design with powerful cleaning. The smart app allows remote control and real-time monitoring. It maintains pH bal"
-publishedDateTime: 2023-11-21T01:32:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/11/35886627/kickstarter-launch-scavbots-unveils-cutting-edge-robotic-pool-cleaner-for-ultimate-efficiency-and-p"
-webUrl: "https://www.benzinga.com/pressreleases/23/11/35886627/kickstarter-launch-scavbots-unveils-cutting-edge-robotic-pool-cleaner-for-ultimate-efficiency-and-p"
-ampWebUrl: "https://www.benzinga.com/amp/content/35886627"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35886627"
+excerpt: "ScavBots introduces the innovative ScavBots Robotic Pool Cleaner, combining lightweight design with powerful cleaning. The smart app allows"
+publishedDateTime: 2023-11-21T07:22:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/kickstarter-launch-scavbots-unveils-cutting-edge-robotic-pool-cleaner-for-ultimate-efficiency-and-performance-1032837795"
+webUrl: "https://markets.businessinsider.com/news/stocks/kickstarter-launch-scavbots-unveils-cutting-edge-robotic-pool-cleaner-for-ultimate-efficiency-and-performance-1032837795"
 type: article
-quality: 39
-heat: 39
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.newsfilecorp.com/files/8814/188032_ef02010284bdf949_001.jpg"
-    width: 550
-    height: 270
+  - url: "https://storage.googleapis.com/mmstudio-images/gallery/AI1c6Zs6gRZKLvdKaBq3Ao0hNL73/89113677-1700487076-1.jpg"
+    width: 800
+    height: 393
     isCached: true
 
-secured: "EIruDozwDtfKjJVSuMAt0UOFAv++M4+HQs79bJMP3cSlOZJtjocFLDwFxKJ5u7ASga5kzOQCtc0ExSU1IcrrcX+ZLbNVg037gF8av+FqPEGdgzy2XEcoe4RwDMT0puHnuWZpVaHQn0iV3n/sa0u6ZJf4RE0nHpgRx1pY9jo4oo0N3Y2ZciNupG2MYbIEBFkeqklHbat0v3GoDYt3jI5+HfJWKAPa53aTV/QMtzYc6GV2NCD7cq/C+3yWAb1XRYoUV4ftSxReghTVxz5d1iS5q7YcMa5auQu9Ry67MfhCuqTLoudEjQWtdiXFk7//duGJi+MhIEIEQg85WWSObKCOn89EIhquVYm9IhH3vnnP3PeAHuvgyZ4YVOloNyaVWqn5OltGiKXXEnX2XaMaKTTfHaAZ+LEzYhDvTCPXD6DIaa1zPAPdmJTIUkRAXzoKT7w4sVLWqMbOrPNFNERA7To89xvJuFgTqOKw+lut+5YlqMYwmv4Qjh/qWaiUlBAt19IQ7fMZfajiKERTSWiIUdv6QQ==;4z7YGdl0nEIBOG6ZeXnPog=="
+secured: "4FKL/P6SW44x24rIk/cvOcvwKa6uY4Au+3rqjNzE/0LGE1XbiA4dQL9aBwfyN/npihJ//vZ7ERLBxHmZIEdr6PJW5FDSOVmG7kf1/kAKo1c4DajmlCsA1gEaJ1x9lxeEjNDdui0VBtDWKruGLPr0P2OzAU+sBaMRL2n1sWIUJukRzaGoxSrKIreG1f8BS4zHkzn0Yj4sPQIpznzyjtDyToeXFdGFftJnMSfw6+TR5RE6LBQtEiicjB5Y6dcty/epvN9R5Na2OoVKyfU99suudxTRt2k9VfAd+BrYrcEUl5Xps5K38kych9He222L3KuX0BBBLRLPva0HZw63BpbnAWWjvWGCM7BRqPXTkU7ZFlA=;DmWXZpHocsdHQDtEJn+CvQ=="
 ---
 
