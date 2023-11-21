@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-7-gen-3-m
 webUrl: "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-7-gen-3-mid-range-android-phone-chip-news/"
 type: article
 quality: 64
-heat: 94
+heat: 96
 published: true
 
 provider:

@@ -129,6 +129,20 @@ related:
         width: 506
         height: 338
         isCached: true
+  - title: "Sam Altman, ex OpenAI founder and CEO now at Microsoft to run new advanced AI intelligence team"
+    excerpt: "Microsoft has hired Sam Altman, where he will lead a new advanced artificial intelligence team, after OpenAI terminated him, then tried to rehire him."
+    publishedDateTime: 2023-11-20T23:56:00Z
+    webUrl: "https://www.tweaktown.com/news/94458/sam-altman-ex-openai-founder-and-ceo-now-at-microsoft-to-run-new-advanced-ai-intelligence-team/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 44
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94458_904_sam-altman-ex-openai-founder-and-ceo-now-at-microsoft_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "New Microsoft Azure virtual machines optimized for AI with AMD Instinct MI300X Accelerators"
     excerpt: "During the recent Microsoft Ignite event, a significant collaboration between AMD and Microsoft was highlighted. AMD showcased its array of products that"
     publishedDateTime: 2023-11-16T15:32:00Z

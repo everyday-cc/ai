@@ -77,6 +77,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "OpenAI’s board: From AI safety to mutiny | The AI Beat"
+    excerpt: "In one head-spinning weekend, OpenAI's nonprofit board went from serious about AI safety to watching employees get ready to mount a mutiny."
+    publishedDateTime: 2023-11-20T23:18:00Z
+    webUrl: "https://venturebeat.com/ai/openais-board-from-ai-safety-to-mutiny-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-20-10.22.17-A-dramatic-scene-on-an-18th-century-sailing-ship-capturing-the-essence-of-a-mutiny-like-in-the-story-of-Mutiny-on-the-Bounty.-The-ship-is-set-again.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
   - title: "OpenAI’s crisis will sow the seeds of the next generation of AI startups"
     excerpt: "OpenAI’s meltdown is likely to become the latest installment in what’s becoming a Silicon Valley tradition. It's hard to know how this will end."
     publishedDateTime: 2023-11-20T18:42:00Z
@@ -124,6 +138,6 @@ related:
       domain: popsci.com
     quality: 25
 
-secured: "5JY8p1byApUF1X1w2aAx/r8y535fpnIECs95Stfjo00poiUE57ImLLs9cQqLHJc3vldqe5Za5szVh5pfwpngzv+gkNDYhwks8GDyukgv7zHGJM6CxVKxDE45FFtDForndHk0+pGEIl694EvkH9X6no6TaYyCP/2R3cf+nfU0tDyMOpKArOE1GzVgjx+qteU7jcQBqBvHBPVJ+eu5QHq2Vrjp+4GYAzOmbncffVMCUcjb09GVUhHBaNjqKesGKhCNYZESPYnsYjLkLsDYK46tKbFIllcGK9JPrzkUEBvhXbwinL5gNdKX/6DaDFSApTW4k98vvmxB9AI6bNIlZu/PflNDDCRisMd+eNcPXB4Pkuo=;sJfL7PwK88du+tKUBtH25Q=="
+secured: "UvNksXYH9HFZtCPbyV+k962hcUTpc8lfWmVAze/Iij/Z5lFG34SYkKiExM1UL2TKoKFhTBJJSqJ8+1nMjuJ0aJQbYRjgPp6b0S7JP4iABwJQu7ZYeYI03e8wyGoY2roMuB05Z3wo9vz9wtNloypk7isQHdlgxZuZqATj/suCJ2UO0GAc9vqMbdwA1/CkMs8XNE3R6I6jQqyF2P/yUxT3XC5CxnauieLbVJOik3RtEyV/teOUwpx2boGB/o0BQQhqvtMsZ4cdMSzJI+Y2lZjx4PsSuBMxXmv+TV6xErGdj/uQImcx3Vw8DDCxX+YVEyYqPR0cftYBgzS6sruHNC85IxgDj+ZSaAQlR3MCXuwNVyOt6a9aDeXY+00EoM5ah93Z4Oh2kPz5Lr5HBWnFLyaRZ3j1rRhZehms8H9AWo8MiEkPcxFdYuoSNHT5sIqcBo1ULJr/Fj/A7thalkuP8Dh60/LBfkExB+C7kcF6erIwcys+Y7AluE2VFybMRSLC20nE3wCdZXt1WKIDswZw90Xzvg==;GI4vAuTTzuaGNl6prbD11A=="
 ---
 

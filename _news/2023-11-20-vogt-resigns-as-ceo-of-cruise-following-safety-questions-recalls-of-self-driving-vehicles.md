@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
-excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors ’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
-publishedDateTime: 2023-11-20T04:47:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
-webUrl: "https://abcnews.go.com/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
+excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
+publishedDateTime: 2023-11-20T05:04:00Z
+originalUrl: "https://www.bostonglobe.com/2023/11/20/business/vogt-resigns-ceo-cruise-following-safety-questions-recalls-self-driving-vehicles/"
+webUrl: "https://www.bostonglobe.com/2023/11/20/business/vogt-resigns-ceo-cruise-following-safety-questions-recalls-self-driving-vehicles/"
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_6e53ea823e1ecc037ec9b282e8e16c2f_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Kppzcmm788btNPz0ZGvSRGJGP0c=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XEOENH2MWXH7ZM5VLLKUF7YAFE.jpg"
+    width: 506
+    height: 338
     isCached: true
 
 related:
@@ -73,6 +71,34 @@ related:
         width: 900
         height: 505
         isCached: true
+  - title: "CEO of Cruise self-driving cars steps down"
+    excerpt: "HOUSTON — KHOU 11 news has confirmed the head of Cruise self-driving cars has resigned. Kyle Vogt resigned as CEO as the nationwide pause of operations continues. The pause stems from problems that led to action from state and federal regulators."
+    publishedDateTime: 2023-11-21T00:16:00Z
+    webUrl: "https://www.khou.com/article/news/national/cruise-ceo-kyle-vogt-resigns/285-708a4920-f821-4114-b451-f68ce7172087"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 24
+    images:
+      - url: "https://media.khou.com/assets/KHOU/images/977409f4-e8ca-4979-b3f4-ca981906dbe7/977409f4-e8ca-4979-b3f4-ca981906dbe7_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "CEO of self-driving Cruise out at GM"
+    excerpt: "General Motors' self-driving-car unit, Cruise, is going through leadership changes following the loss of permits and the pause of operations in California."
+    publishedDateTime: 2023-11-20T23:03:00Z
+    webUrl: "https://sjvsun.com/business/ceo-of-self-driving-cruise-out-at-gm/"
+    type: article
+    provider:
+      name: The San Joaquin Valley Sun
+      domain: sjvsun.com
+    quality: 24
+    images:
+      - url: "https://sjvsun.com/wp-content/uploads/2023/11/SUN-OG-_-Feat-162.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Cruise CEO resigns following troubles with self-driving cars"
     excerpt: "The founder and CEO of autonomous vehicle company Cruise, which is owned by General Motors, announced on X that he is resigning. Kyle Vogt founded the company in 2013 and also served as its president and chief technology officer."
     publishedDateTime: 2023-11-20T17:40:00Z
@@ -108,6 +134,6 @@ related:
       domain: ft.com
     quality: 3
 
-secured: "q0yrHhEDOSFuP62DOKRY9vYyBR/4j9gflxxIQp+Df+RbqYltqEPsF0CD0U8RK6rrEF92BUnChOedq+Gn4HYetjMDK4oedg3U4eQcih9UzE1karoD3IOV81f0oIr6FMjfgEEmt13kxhry1A2tGaFzyyq+DEMejQqDO1SiALJ+RRD04DsPkfWA3+tKk25iylvP3B41UHxGrPW5h/H61G9NNgK3W86cZhmvCM2laWHb5blUYhiumkq5A4FP3Wa82gKfiYNHVk3WJKfY8MLJqVz/QqQxriRYcemVUQ+wEWZLW2IlYy+PckwLsLH4qB2br/h1RUa50EvpMORkjnyYgbqQOgzM6rMPLu4HbkLFauW8Tms=;fWG9bHDnEZeAc1RQnd9wYQ=="
+secured: "Aplu/i4E9A2t9InD0PiGy+3v6fk89RqI649oE+LiAIEamJl0tqLFu5A9FpNpGpTNd+KQiKlk3yJtbBxctjBryjNIWJZGO8XMAT6bMJLZEbNu1eol7Th/iG8sYLvqF4KjvTZQPdfqbLwaf+o8SoUokauKUSLU500voGVAojY/B4FM/g9g/SaQOzZ822k2mdZbIe4jbO+A4iebf/jLp8u5YyS/wo8O/i3NL0LKvXwqkM8mOYLAEEmMK3ImB1qVKNDDAYpy3RwDoyWbzjKL8Cn+5YBsiZb0bRPAW5uvxjLwnaf+nZagV236zSleNSa716qv7p5cX4FZJL+aksyNckE2gsD2Ng5C7Fy+G4y9pwPy120=;9f+x/kHPPoOyhR9aNZxQaQ=="
 ---
 

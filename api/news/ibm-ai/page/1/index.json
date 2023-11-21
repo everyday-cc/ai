@@ -959,6 +959,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-09-vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.md",
+      "title": "VMware enlists Intel, IBM watsonx for private AI initiative",
+      "excerpt": "Credit: VMware VMware has two new corporate partners, in the form of Intel and IBM, for its private AI initiative. The partnerships will provide new architectures for users looking to keep their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/1246095/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.html",
+      "originalUrl": "https://www.networkworld.com/article/1246095/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.networkworld.com/wp-content/uploads/2023/11/1-1-100940136-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/1246095/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.html/amp/",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1246095/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.html/amp/",
+      "publishedDateTime": "2023-11-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-ai-assistants-optimize-automation-with-api-based-agents.md",
       "title": "AI assistants optimize automation with API-based agents",
       "excerpt": "Generative AI-powered assistants are transforming businesses through intelligent conversational interfaces.\nThe post AI assistants optimize automation with API-based agents appeared first on IBM Blog.\n",
@@ -1252,48 +1295,6 @@
       "topics": [
         "IBM AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-why-serverless-technology-is-the-next-big-movement.md",
-      "title": "Why serverless technology is the next big movement",
-      "excerpt": "IBM has built a single, unified serverless platform that allows developers to concentrate on coding and frees up their time.\nThe post Why serverless technology is the next big movement appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/why-serverless-technology-is-the-next-big-movement/",
-      "originalUrl": "https://www.ibm.com/blog/why-serverless-technology-is-the-next-big-movement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -80,6 +80,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "OpenAI’s board: From AI safety to mutiny | The AI Beat"
+    excerpt: "In one head-spinning weekend, OpenAI's nonprofit board went from serious about AI safety to watching employees get ready to mount a mutiny."
+    publishedDateTime: 2023-11-20T23:18:00Z
+    webUrl: "https://venturebeat.com/ai/openais-board-from-ai-safety-to-mutiny-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-20-10.22.17-A-dramatic-scene-on-an-18th-century-sailing-ship-capturing-the-essence-of-a-mutiny-like-in-the-story-of-Mutiny-on-the-Bounty.-The-ship-is-set-again.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
   - title: "OpenAI’s crisis will sow the seeds of the next generation of AI startups"
     excerpt: "OpenAI’s meltdown is likely to become the latest installment in what’s becoming a Silicon Valley tradition. It's hard to know how this will end."
     publishedDateTime: 2023-11-20T18:42:00Z

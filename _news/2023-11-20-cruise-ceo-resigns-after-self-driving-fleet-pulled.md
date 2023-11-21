@@ -57,21 +57,33 @@ related:
         width: 880
         height: 542
         isCached: true
-  - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
-    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors ’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
-    publishedDateTime: 2023-11-20T04:47:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
+  - title: "CEO of Cruise self-driving cars steps down"
+    excerpt: "HOUSTON — KHOU 11 news has confirmed the head of Cruise self-driving cars has resigned. Kyle Vogt resigned as CEO as the nationwide pause of operations continues. The pause stems from problems that led to action from state and federal regulators."
+    publishedDateTime: 2023-11-21T00:16:00Z
+    webUrl: "https://www.khou.com/article/news/national/cruise-ceo-kyle-vogt-resigns/285-708a4920-f821-4114-b451-f68ce7172087"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 34
+      name: KHOU 11
+      domain: khou.com
+    quality: 24
     images:
-      - url: "https://s.abcnews.com/images/US/wirestory_6e53ea823e1ecc037ec9b282e8e16c2f_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://media.khou.com/assets/KHOU/images/977409f4-e8ca-4979-b3f4-ca981906dbe7/977409f4-e8ca-4979-b3f4-ca981906dbe7_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "CEO of self-driving Cruise out at GM"
+    excerpt: "General Motors' self-driving-car unit, Cruise, is going through leadership changes following the loss of permits and the pause of operations in California."
+    publishedDateTime: 2023-11-20T23:03:00Z
+    webUrl: "https://sjvsun.com/business/ceo-of-self-driving-cruise-out-at-gm/"
+    type: article
+    provider:
+      name: The San Joaquin Valley Sun
+      domain: sjvsun.com
+    quality: 24
+    images:
+      - url: "https://sjvsun.com/wp-content/uploads/2023/11/SUN-OG-_-Feat-162.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Cruise CEO resigns following troubles with self-driving cars"
     excerpt: "The founder and CEO of autonomous vehicle company Cruise, which is owned by General Motors, announced on X that he is resigning. Kyle Vogt founded the company in 2013 and also served as its president and chief technology officer."
@@ -98,6 +110,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 22
+  - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
+    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
+    publishedDateTime: 2023-11-20T05:04:00Z
+    webUrl: "https://www.bostonglobe.com/2023/11/20/business/vogt-resigns-ceo-cruise-following-safety-questions-recalls-self-driving-vehicles/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 14
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Kppzcmm788btNPz0ZGvSRGJGP0c=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XEOENH2MWXH7ZM5VLLKUF7YAFE.jpg"
+        width: 506
+        height: 338
+        isCached: true
   - title: "Self-driving car venture Cruise chief resigns after uproar over accident"
     excerpt: "The co-founder and chief executive of General Motors-owned Cruise has resigned, weeks after the self-driving car company paused driverless operations and California regulators barred its vehicles from the state’s streets. Cruise said on Sunday that its ..."
     publishedDateTime: 2023-11-20T00:00:00Z

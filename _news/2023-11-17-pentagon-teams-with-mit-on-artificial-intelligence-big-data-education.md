@@ -110,6 +110,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Research Can Help to Tackle AI-generated Disinformation"
+    excerpt: "Continue reading Research Can Help to Tackle AI-generated Disinformation."
+    publishedDateTime: 2023-11-20T12:00:00Z
+    webUrl: "https://www.cc.gatech.edu/news/research-can-help-tackle-ai-generated-disinformation"
+    type: article
+    provider:
+      name: cc.gatech.edu
+      domain: gatech.edu
+    quality: 39
+    images:
+      - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2021/srijan%20kumar850x478.jpeg"
+        width: 850
+        height: 478
+        isCached: true
   - title: "Meta introduces AI models for video generation, image editing"
     excerpt: "Meta is introducing two artificial intelligence-powered generative models for video generation and image manipulation."
     publishedDateTime: 2023-11-16T19:59:00Z

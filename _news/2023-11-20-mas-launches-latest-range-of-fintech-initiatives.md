@@ -19,54 +19,52 @@ topics:
   - AI
 
 related:
-  - title: "Iceland’s tech clustering – a volcanic focus on fintech"
-    excerpt: "Another area where fintech can play a part in improving the efficiency of financial trading and movement is in the identification and management of fraud, and in particular money laundering. Another member of Iceland’s fintech cluster, Lucinity, has set its sights on providing new tools for the task."
-    publishedDateTime: 2023-11-20T10:45:00Z
-    webUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech"
-    ampWebUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
+  - title: "Amazon Launches New Generative AI Training Courses for Free"
+    excerpt: "The 'AI Ready' initiative offers online classes for developers and other technical professionals as well as for students."
+    publishedDateTime: 2023-11-20T21:49:00Z
+    webUrl: "https://www.techrepublic.com/article/amazon-free-ai-skills-training-courses/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 44
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-11/kirkjufell-2148191_640.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/amazon-skills-builder-ai-courses-nov-23.jpeg"
+        width: 1400
+        height: 788
         isCached: true
-  - title: "Advent Fintech Platform to Buy myPOS, Betting on Small Businesses"
-    excerpt: "The private-equity firm set up payments company Al Circle Bidco to serve small merchants in Europe, a group historically underserved by banks."
-    publishedDateTime: 2023-11-16T22:36:00Z
-    webUrl: "https://www.wsj.com/articles/advent-fintech-platform-to-buy-mypos-betting-on-small-businesses-2ffcf662"
+  - title: "How Generative AI Is Redefining Creativity For Marketers"
+    excerpt: "AI platforms like Memorable are reshaping ad landscapes with innovative tools designed to enhance personalized ad strategies."
+    publishedDateTime: 2023-11-17T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/ilonalimonta-volkova/2023/11/17/how-generative-ai-is-redefining-creativity-for-marketers/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 34
-  - title: "Singapore’s fintech sector struggling to find talent"
-    excerpt: "In a 2021 Accenture survey, nearly two out of three firms blamed their talent gap on not being able to get work permits for foreigners. Nowadays, only 37 percent cite difficulty in securing employment passes as a hiring challenge. For this dramatic change, the employers and employees should thank Hong Kong."
-    publishedDateTime: 2023-11-20T15:59:00Z
-    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/11/21/2003809473"
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Amazon Is Offering AI Classes for Free"
+    excerpt: "Amazon is now offering eight free AI classes as part of its AI Ready initiative. The courses cover a wide variety of topics, from generative AI basics to advanced AI coding skills."
+    publishedDateTime: 2023-11-20T22:30:00Z
+    webUrl: "https://lifehacker.com/tech/amazon-offering-ai-classes-for-free"
     type: article
     provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 24
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 39
     images:
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
-        width: 1200
-        height: 1200
+      - url: "https://lifehacker.com/imagery/articles/01HFQBEVM9V6MWQDH9H73D3MCB/hero-image.fill.size_400x225.v1700517080.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "The Soaring Growth of Fintech Startups in Hong Kong"
-    excerpt: "In recent years, Hong Kong has emerged as a dynamic hub for financial technology, witnessing a significant surge in the number of fintech startups. This phenomenon reflects a global trend where traditional financial systems are being reshaped by innovative technologies."
-    publishedDateTime: 2023-11-17T09:29:00Z
-    webUrl: "https://techbullion.com/the-soaring-growth-of-fintech-startups-in-hong-kong/"
+  - title: "Amazon to cut jobs at Alexa unit to sharpen focus on generative AI"
+    excerpt: "Amazon’s Alexa division is set to suffer another round of job cuts as the company plans to discontinue some initiatives in favor of new generative AI projects."
+    publishedDateTime: 2023-11-20T18:25:00Z
+    webUrl: "https://www.computerworld.com/article/3711182/amazon-to-cut-jobs-at-alexa-unit-to-sharpen-focus-on-generative-ai.html"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
 
 secured: "/eBIFT2j0pi6mDh27ScDy0CB0Gniw6xD1UaxurvNpTSYKflS3CJamp4jbcy9KjloaAKyJ9XwerJcsn9PRxeyabNirvuwG4lckH2CIKk1XAzgxMj7G0PWfCUpQDzHGenn1TZ1p8aYKWzmks55hWOhDOf/tjdmtU/ydGNKJSpufmZd9iAjm/FW2aaihuysf6CDDeVgj9KxKfHkHdHqxov1L62y7MzITGi85Z4fYUxoVo6/muhEBG2Nx54RyWzMv50CDgznby4z2ymFEHNuu3HD4zSMWjH9qzFdXUYWOnBdYUvJuoizPfCxBiEzTSfLNpFU5gcYe2QHXAqiZG4MEKa2/SRCgNx7GSIVORVNhVR5A4E7HWU+dzZ/VzldGfe40HRdSWhH6rGDHJhXeNhQmqK259S6zejcnpfFHIya1lZAzlmPTjygfy0Dyu4ERvizC3tmf+UM2YYK+YDuLz66DdCnPeoPA4Nhm/1+6H7eKLYtZBvpMHj7X9yh7EWjX2G4YYCTrc9H3KN72DVENACY5lFx0Q==;iSmIROoWflVQS0owDgJm5w=="
 ---

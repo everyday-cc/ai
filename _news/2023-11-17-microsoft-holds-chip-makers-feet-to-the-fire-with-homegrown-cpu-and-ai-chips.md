@@ -36,15 +36,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Maia AI chip ‘last puzzle piece’ for infrastructure systems"
-    excerpt: "Microsoft said the Maia AI chip had been tested by OpenAI using its workloads and CEO Sam Altman commented saying the chips can help make AI models more “capable” and “cheaper.”"
-    publishedDateTime: 2023-11-16T08:59:00Z
-    webUrl: "https://cointelegraph.com/news/microsoft-maia-ai-chip-last-puzzle-piece-for-infrastructure-systems"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 51
   - title: "Microsoft's CEO Just Made a Brilliant but Dangerous Announcement. It Could Change the Future of AI Forever"
     excerpt: "CEO Sam Altman is coming to Microsoft. That could be a great advantage for Microsoft--but it could also set dangerous wheels into motion."
     publishedDateTime: 2023-11-20T13:21:00Z

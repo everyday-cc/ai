@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-11-creativity-age-generative-ai-era
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-creativity-age-generative-ai-era.amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1920
     height: 1462
     isCached: true
-
-related:
-  - title: "How Generative AI Is Redefining Creativity For Marketers"
-    excerpt: "AI platforms like Memorable are reshaping ad landscapes with innovative tools designed to enhance personalized ad strategies."
-    publishedDateTime: 2023-11-17T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/ilonalimonta-volkova/2023/11/17/how-generative-ai-is-redefining-creativity-for-marketers/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "X8jrbGrfONHaZjJ2i49pUOOadUG9co3n1Sua6+we+vjvblBg2qKj5DsItA3Y21BKEGu7T7WFNqwySvdk94LqoQVqUOxwypBlZ7WNc6qPJF3wI8oSzr42F5rmUSmszicvkl9j8GersYtRKPX+TKRiGsOVspr25QO4LQOn/SUIL31smQNNbdTDcesH/Lyyloz40hHRC8J33zUQhrNQ41kji6UClEViFX460obf2XRTMuzpVrAIEhqEMOQZjys6at9liZuIZvAgsgtcj+X6RFZexwS0ncZy3pVkyomJCLii93Sqb8BSbNuB/JrzdViJPotQO6Jno52C0LzwbcLPXhOfKpQOF7X1HTywM1Heg5u1qAcXqSBah6Lh0f5FPCuwJvaomcXA+SyUFFtKBUDy8bgthtySA4F78YIc7a9eaOoyKXhfpDQKh3f1fLOGTrD+1ixjnzeiTOS9sWf3zvMBC2V+CFLWZfVl/DhgX7NiPNfi5CMMYcKGo+GGvS2ibKOXJvpZ+tkbImic/Yvlwu++fKP6UQ==;xGjnsi7PpW7CiyKPY9L2BA=="
 ---

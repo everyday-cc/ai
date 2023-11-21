@@ -2,7 +2,7 @@
 category: news
 title: "Artificial intelligence for dummies"
 excerpt: "There has been great progress in narrow forms of artificial intelligence, like self-driving vehicles and automated legal systems, but the only threat they pose, if any, is to jobs. The “large ..."
-publishedDateTime: 2023-11-12T23:59:00Z
+publishedDateTime: 2023-11-13T15:16:00Z
 originalUrl: "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/"
 webUrl: "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/"
 type: article
@@ -21,6 +21,6 @@ images:
     height: 800
     isCached: true
 
-secured: "4A1WaANwyOa358PnaDlhAv01VP5AmbjzI3fjYe7B3f0zsPj9OiYBaGKUVAQM2CCPJeRDMbjSmDZG0Ty5gcLgFNYbVWJntdt5y8HMqptqb5WGO/1lpTljGEDAtTlrUDOJChQO4Dj0+Bqjn9s7FnfNqww9Y4KkkDsqG9nnnej8NjrQOcL1eG73melP8m3EfefIL9H/WBlwxb+WzrmQw6agBAy8COV2HBVi0zExjnREA9013UE0gkswddT/fCRleb++wsAC98amHu5d98FAv0W9XJupuDd+Q9E2YB9Mlka9YyCSw4oYXQav2jeEbLd9PPASFSpTwlcZNeCOKpoMDXHz9U8tr/nVwWbLKmNoZuzTlps=;iPN/+Xvp3BGlqLSdDF5EuA=="
+secured: "b5fxiFlOjS8eU4mZEsz72KnhnSLIZvbkTuFetMcD9U3I23LJ5JZBrxkRxHMMwsIORKLRVVDXyVlMqQJY+Jta9w9QvMa14Td3JDctb7F7vsI5YqtwL8S/STCPF0hSpKeOYrHlOnip3CohfQb9WP6bNEoHGB9f2Adjfz7KFQ+H6tDpylD8Ctt05USX1PKTepHQUCYippxydyveV1Wv+Q9Oke0d0qozuL+iijlVpJomdRURuHzd5AM8iMBUpTP5IfNQoDeEdAtEiGdbd0TTzROBJzgX7pKUrNsL1A4R7BGbTeA+Upg9ttrvuWKhBxSa0v9ARGkN2F301YGVGdxUKGWLMDpeFjgi5qMeEnPatzbA/sA=;7OE3Yh1FwCf8byGgLwbR7A=="
 ---
 

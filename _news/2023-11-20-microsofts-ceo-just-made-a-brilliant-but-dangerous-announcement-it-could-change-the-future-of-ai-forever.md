@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Maia AI chip ‘last puzzle piece’ for infrastructure systems"
-    excerpt: "Microsoft said the Maia AI chip had been tested by OpenAI using its workloads and CEO Sam Altman commented saying the chips can help make AI models more “capable” and “cheaper.”"
-    publishedDateTime: 2023-11-16T08:59:00Z
-    webUrl: "https://cointelegraph.com/news/microsoft-maia-ai-chip-last-puzzle-piece-for-infrastructure-systems"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 51
   - title: "Microsoft Holds Chip Makers’ Feet To The Fire With Homegrown CPU And AI Chips"
     excerpt: "After many years of rumors, Microsoft has finally confirmed that it is following rivals Amazon Web Services and Google into the design of custom processors and accelerators for their clouds. That confirmation came today as Satya Nadella,"
     publishedDateTime: 2023-11-16T17:01:00Z

@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Police Use of Face Recognition Is Sweeping the UK"
-excerpt: "The rapid expansion of face recognition comes at a time when trust in policing levels are at record lows, following a series of high-profile scandals. Civil liberties groups, experts, and some ..."
+excerpt: "Face recognition technology has been controversial for years. Cops in the UK are drastically increasing the amount they use it."
 publishedDateTime: 2023-11-09T07:00:00Z
-originalUrl: "https://www.wired.co.uk/article/uk-police-face-recognition-expansion"
-webUrl: "https://www.wired.co.uk/article/uk-police-face-recognition-expansion"
+originalUrl: "https://www.wired.com/story/uk-police-face-recognition-expansion/"
+webUrl: "https://www.wired.com/story/uk-police-face-recognition-expansion/"
 type: article
 
 provider:
-  name: Wired UK
-  domain: wired.co.uk
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.wired.co.uk/photos/654bc5e907457b7ceeb9ecd8/16:9/w_1280,c_limit/The-UK-Is-Turning-Into-a-Facial-Recognition-Police-State-Security-GettyImages-1224837570.jpg"
+  - url: "https://media.wired.com/photos/654c2c7f0202a11bfdc62856/191:100/w_1280,c_limit/The-UK-Is-Turning-Into-a-Facial-Recognition-Police-State-Security-GettyImages-1224837570.jpg"
     width: 1280
-    height: 720
+    height: 670
     isCached: true
 
-secured: "3s+l82Gcv6zsceGWhluCBDuNyyxPIjYo+Se/RjhQy9a9ujFVbAbum/UuMONfXSBNZC68mtexRX2d0oZX7C2DqzIUlBnEz/DzScKIKsCfhhA0hIA/5b7M58Ddcnm3FcdYo/UIAaPF9913vHLm/M5UHrCTNnWnz5yQMnvOl5DuE3L3xIEL2McuhFFAV/eoybyCEqyLd3BuLskf/s+fQ4JxTow4B2G51xpZL7P7bQs9Qa3rwqO81nwT+dXhX1L8pYUjFfjxTucBN612ANXagNIul+fHs3XPYgrJWIwTyysTcK5IuesFuk1+bj3NlkUAdAHsmQJzj1oHe0s+GnDArCvWlUlY6nSTJD3cvP2+v4kKiyE=;KErQ4hqMIt2HziUNpsN2dQ=="
+secured: "5qObTiK/I9g7VwRUNj82WSXzaQ8+Mkuil4J4kFlG+ApoE7nQuptiSsCN8XByxXLM7TcnxzL31JEqP+xqsDWBq4rCiJH2GBnAFE/jHytqbMZ/4dE5s2pAwzYZyf/imjwp08USfn8aBXQvW4MPoX5hnJQA5dCgsKc4AbAuGWEUTVB8AYxF4Crxa0TcH8AhR4ApPbVRKoSLGTAvsudWsFDbQXiOz49kmOM4++c5gAyWClN2ME+2siVR0TwFuiQ4HWaTI9SuMo/eo8lkvaFhhep3taXH5mBZYCB7XSwL/r0Fnvl6AHVDfuzDkFtvG1n3c1fNnl3u9Bmt1ENQbRDO4NjiG01ulBUZ3CFAugBi1mT2MI0=;/lLKuasg/UQ+ydY2KbR4Vw=="
 ---
 

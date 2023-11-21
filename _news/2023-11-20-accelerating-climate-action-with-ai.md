@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-su
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
 type: article
 quality: 109
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://www.educatorstechnology.com/wp-content/uploads/2023/11/1-8.png"
         width: 1024
         height: 1024
+        isCached: true
+  - title: "Research Can Help to Tackle AI-generated Disinformation"
+    excerpt: "Continue reading Research Can Help to Tackle AI-generated Disinformation."
+    publishedDateTime: 2023-11-20T12:00:00Z
+    webUrl: "https://www.cc.gatech.edu/news/research-can-help-tackle-ai-generated-disinformation"
+    type: article
+    provider:
+      name: cc.gatech.edu
+      domain: gatech.edu
+    quality: 39
+    images:
+      - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2021/srijan%20kumar850x478.jpeg"
+        width: 850
+        height: 478
         isCached: true
   - title: "Pentagon teams with MIT on artificial intelligence, big-data education"
     excerpt: "Building trust between man and machine is a complex process, often requiring repeated exposure, according to a Government Accountability Office report."

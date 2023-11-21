@@ -138,6 +138,20 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 49
+  - title: "Sam Altman, ex OpenAI founder and CEO now at Microsoft to run new advanced AI intelligence team"
+    excerpt: "Microsoft has hired Sam Altman, where he will lead a new advanced artificial intelligence team, after OpenAI terminated him, then tried to rehire him."
+    publishedDateTime: 2023-11-20T23:56:00Z
+    webUrl: "https://www.tweaktown.com/news/94458/sam-altman-ex-openai-founder-and-ceo-now-at-microsoft-to-run-new-advanced-ai-intelligence-team/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 44
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94458_904_sam-altman-ex-openai-founder-and-ceo-now-at-microsoft_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Microsoft Rolls Out Host of New AI Features at Ignite 2023"
     excerpt: "From new copilots and AI development tools, to vector search and AI chips, artificial intelligence featured prominently in Microsoft’s annual Ignite"
     publishedDateTime: 2023-11-17T21:44:00Z

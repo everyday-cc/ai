@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-20T22:20:00Z
 originalUrl: "https://bgr.com/business/openais-new-ceo-emmett-shear-ai-is-so-dangerous-it-should-cause-you-to-s-t-your-pants/"
 webUrl: "https://bgr.com/business/openais-new-ceo-emmett-shear-ai-is-so-dangerous-it-should-cause-you-to-s-t-your-pants/"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://bgr.com/wp-content/uploads/2023/11/rsz_gettyimages-1058682490.jpg?quality=82&strip=all"
@@ -24,6 +25,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "C87Guwc1932O6GXJLo3coCzLMNsNAVv3bGnQhg6E+zJ4WjINo8P2dC99B2QsoNgjTZbfp9GsShAgcEbnrQas4eED3uW3CUZC8PhtEogTGm3OmQ7j/MXJpt/yT3K+D1Xp3i+NYkuf505usGBk2bpSy3n1AA4cR8hRYpgnehX4WJnmLPD0VdttnJYsjC/qY9GKVCI2MQU3M2ZImmPYMaHhSs4KlQlllp/V2FsND07AGpjR7aVk9PICxuqanDf6LXPuJq6AjJpb6A9+k07ZekDAtwhHwxoZUnZIDWcWy72yFyNoN7N8PKi1LGgYV53VHQvjvsoT2X8y47sRIN7T4bcp+iNixEs7caP1tD8mMcrRGy0=;SSzLVmUEAQPqoq6wwT4o2A=="
+secured: "chFhtaxRB+rLCgfrOaTOO9YsdVYlujJO/yWJkGTAmu9FhCcj20ROw9Kf6DQNW6xOobwrj6T07GljnHKQ/C5w+a66gIVym4lNG8cjcTWFhByEjjT8ckC3YBzh7Y/076YzHMVDC1dkjJLnQn9NOcHwnIEP4AM996cGi9czrwLaucYOQdMSBXj11U5ntPrwfVyPUHg5fhKLIcrBa8bPfTkwHT3mh+XZF/S64le22zVM8dBFQZXObTcrYmGYU2s/fzmsSOlPw9k9gaBb6iX5RaH03Ekcq3XfXojmdb98ATyDlPGFUNzyUgbClMTMcxV9/98VEGd9Y4G12DUG8XmLGhC8rG8ysD7Om3b1yAe4VakTAx8QZh/tgEr0PEp3aj9V5jGJamRWmYoC6HoWcsgnIemzhNWE7WXVSpMRaweJs7HxHIUhugD1euGYBAqF1pMZX6Al0R5ykVR8ExVMYql1y5hEobkdszzs9btj/yIFAbTSFlodnieLX2VAMJmS4W7alg1HA8YudcUqcOwgKcRkvd16cg==;e6DEjdqnCDm84y3bfFc1PQ=="
 ---
 

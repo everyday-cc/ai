@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-20T22:24:00Z
 originalUrl: "https://www.fieldtechnologiesonline.com/doc/components-of-mlops-for-government-agencies-0001"
 webUrl: "https://www.fieldtechnologiesonline.com/doc/components-of-mlops-for-government-agencies-0001"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://vertassets.blob.core.windows.net/image/b346faa2/b346faa2-2263-4bb9-b2fa-24a1075a77d1/data_governance_gettyimages_1065824400.jpg"
@@ -24,6 +25,6 @@ images:
     height: 300
     isCached: true
 
-secured: "kjC5gYQfcbJWvAUeTaPcDA6hwlzxi9MZEUjLbj1bspaHCPCnSKuOHzwg5bJId0iHd5fKsGaEX217j+EdMmn8Kvzalhp2KG/kUUepdsBzkJeX9aM44RDdVmrVCXDQeIIvWJm2GYPKeMtY467JkeCtP8MpSHy57LtvNrlwTX/hMtYsozVbqedDOiO4uRwHDEG3hqks67ys8MtSE/BqkMviPKsLFU3P9Ov51ZcRq1G9CDfBnyrHxqnvu7wNGuFLm87EHthsCL6KjitS4drwiIbl1W2r4r2lOjF5h/CyeglzMAJtUjxJNUUDw+6/2s0WF1wsN/4N7dx+K9q0YrINGfyRIpATMmmT2iGGvPEKMmsehd8=;m/DjaIw7o7V9JOR6h8MouQ=="
+secured: "auc9jBMuSOpS1um2hC2VosrGdB5dTqT5YvG4jjUmeaon61Ds93SWTa4UOGbjJJ1r+1OnTXpd+jhHz9EIIKqifillq8aBi9CF3dRlyAty4LPd0wDpLW1eHiIDHSyxGkesT5jvhhLAm0Z8FvyhDFOpbXtyKa2pJw7kPCerwM6MDYRqt76dpis3fyOftbvGzFQNN7PoqSg/PlX37cF6hAZO0S1j9K35D00zmZM1WABqBtLI8HQBapDHJODVbrCqfeG7tkg+z11eDfPUgqlRoHGKvNgl1xlzHeh+a8//gGb1leI4+YdKMDR8Qn9IWliwR5NjkqirHorbPbJeHu8kedbNzOFuVdgR4PuGu3DO39cmjgOhfaxt+EltCr1ZFYv34etkx9aX3kpBbi6/dhedPatFitzz8BaDgm/WossPozF6MpNQgeK9ev+tWEMH3aAtw3a3Lk4Ltp4d2G3Oqy+2K1+a/Tw7KcYIzOuxxYfaLW0mIDAw5PmdEweq1xq1lMFIUC2c/xfYDAiEeLa7zgi7/MRXug==;ASMoXQ/uYXtvB/7/vFNqbQ=="
 ---
 
