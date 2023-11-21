@@ -81,6 +81,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "NVIDIA wants to use AI chatbots to help build better chips"
+    excerpt: "US software firm NVIDIA is adapting AIs to help its human engineers build better computer chips."
+    publishedDateTime: 2023-11-21T10:00:00Z
+    webUrl: "https://www.newscientist.com/article/2403629-nvidia-wants-to-use-ai-chatbots-to-help-build-better-chips/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/11/20211118/SEI_180495034.jpg"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "AWS to power Yellow.ai's AI-powered voicebot, chatbot solutions globally"
     excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its"
     publishedDateTime: 2023-11-20T15:12:00Z

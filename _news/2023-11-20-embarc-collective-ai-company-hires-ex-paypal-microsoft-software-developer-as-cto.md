@@ -28,6 +28,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "Investing in Generative AI? You Won’t Do Much Better Than Microsoft Stock."
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How did Microsoft (NASDAQ:MSFT) stock earn its membership among the"
+    publishedDateTime: 2023-11-21T11:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/investing-in-generative-ai-you-wont-do-much-better-than-microsoft-stock-1032838858"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "7Q2eJT7Tdm0P7HTxax4xJJ0isBPxSGXtWuwnDy3bRVBvhqbbC6TOTnlwTRsaLrrsXBqPZ6fec1EYv3JL8vxmTCPmNjK20mMHOUef9Gz3ZcXN+4s4oY49s5QTCblvDp+Jc6BxHVk+ShRNJzLMPhppkFmuAKq2sDaQ2a0SBbJIKjk//4WWsfqkLMlK3i7QBNkrj5C9kG33VUsIbEi8ddD64k4dj3G6aSl+V8mHwKajQlaQoaVTZ4R8rgT1T2lod6XqjgE9DgSuUPdNqAIAhZL+Y2t/DAzwlfsHqyAQ7LCwU/yDQ85KjsKvmuGzFIJ/CWHguHRU9W5JYkJcwoykMSoziEqdRrNKuJ2QW+qO9y017eDMPvyx+1mWIYfSbwTShZu31SGpZHZdebU1z8Ndf41QAm2JW0hDNZkeJAm0fZxDKkEK1hMBTme3VugmHeUyu++aA4z5MljFDT354wFmsQX6JrykiV8NjnIiOrymZYxFSCjfHkcuG5ju4grm9MwNZ3aRk0Vo408q/ooVeoJThTV4cg==;6+AP7iVY/dcdLHF6V9/e+Q=="
 ---

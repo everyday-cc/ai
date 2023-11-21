@@ -18,6 +18,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "AI Clearing, the AI-Powered Construction Progress Tracking and Quality Control Platform, Announced Its AI Management System Has Been Certified by SGS According to FDIS ISO ..."
+    excerpt: "AI Clearing is the first technology company in the world to obtain the FDIS ISO 42001 certificate. Artificial Intelligence (AI) is at the core of AI Clearing’s technology, enabling construction general contractors,"
+    publishedDateTime: 2023-11-17T06:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231116174217/en/AI-Clearing-the-AI-Powered-Construction-Progress-Tracking-and-Quality-Control-Platform-Announced-Its-AI-Management-System-Has-Been-Certified-by-SGS-According-to-FDIS-ISO-42001-Standard"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "BV+c3TPDhhZJDS/hpPjSiJslFph0jVV8CYwhHKQah7mw3kES1xFzQiD4adoa8s31gEJv30WsJtk3BS3++s7sextoWUw9uSwEbEY9hW39VQo9ZalCud2DgouEMFdteNXJiQ0rt0KolTLyjYHdA3EG5eEPzUbfrzPcJcn0tmooBrTY6SH2nj7rGj8ZN2ORdbv2MJcw3KbPGPoRbgluFmWCn8HIzaV04JgJmHd2YOlWKj5SEmZs9mtcCTxevTBdkj+XOuQG7dMoxFY9g0JHMP8q4jUqnTLkX+ns5fFTpnzqlHcoo3eYLidteMvc+Z6HQ2Xp3t0xQVfm7bElhLv7zd8rk1TziuTpsOAGCl0nAjo2npzf6GKqECwRl/E0U6rx3ENDp7oE2X+WUdlbjY+3B1PIzRLInYkhwZniWtf0BjzUIk2mllK0z0qZi1fThb4u5WSpqwVlMLMbtGHJ2+sTlkPHXtxe1Uv6sQ97+ft0Kzw1xxNT+85Yn2qSajm0ZC4zZQOTQ1V8jkuT3WKOryBPSpLYxQ==;ERd2LPh8PprpNLiMuXl8jg=="
 ---
 

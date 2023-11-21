@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-a
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/?amp=1"
 type: article
 quality: 72
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "Google DeepMind AI Nails Super Accurate 10-Day Weather Forecasts"
-    excerpt: "Google DeepMind researchers say their new GraphCast AI is now the world's most accurate 10-day global weather forecasting system."
-    publishedDateTime: 2023-11-16T20:41:00Z
-    webUrl: "https://singularityhub.com/2023/11/16/google-deepmind-ai-nails-super-accurate-10-day-weather-forecasts/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 34
   - title: "Google DeepMind Launches Lyria, Transforming the Future of Music with AI"
     excerpt: "Google's collaborative efforts with industry experts in YouTube's Music AI Incubator aim to innovate music AI tools."
     publishedDateTime: 2023-11-17T12:53:00Z

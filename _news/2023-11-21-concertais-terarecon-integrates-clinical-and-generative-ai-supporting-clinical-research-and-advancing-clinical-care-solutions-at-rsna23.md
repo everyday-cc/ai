@@ -129,24 +129,20 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "Pentagon teams with MIT on artificial intelligence, big-data education"
-    excerpt: "Building trust between man and machine is a complex process, often requiring repeated exposure, according to a Government Accountability Office report."
-    publishedDateTime: 2023-11-16T19:48:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2023/11/16/pentagon-teams-with-mit-on-artificial-intelligence-big-data-education/"
+  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
+    excerpt: "IBM( announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from generative artificial intelligence (AI). As part of this, IBM Consulting aims to deepen and expand its ..."
+    publishedDateTime: 2023-11-21T11:07:00Z
+    webUrl: "https://menafn.com/1107463843/IBM-Expands-Relationship-with-AWS-to-Bring-Generative-AI-Solutions-and-Dedicated-Expertise-to-Clients"
     type: article
     provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 36
-  - title: "Meta introduces AI models for video generation, image editing"
-    excerpt: "Meta is introducing two artificial intelligence-powered generative models for video generation and image manipulation."
-    publishedDateTime: 2023-11-16T19:59:00Z
-    webUrl: "https://cointelegraph.com/news/meta-introduces-ai-models-artificial-intelligence-video-generation-image-editing"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?498821"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Meta announces new breakthroughs in AI image editing and video generation with Emu"
     excerpt: "The Emu Video tool leverages the Emu model and provides a simple method for text-to-video generation that’s based on diffusion models. Meta said the tool can respond to various inputs, including text only, image only or both together."
     publishedDateTime: 2023-11-16T22:45:00Z

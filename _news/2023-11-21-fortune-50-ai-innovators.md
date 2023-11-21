@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Fortune 50 AI Innovators"
-excerpt: "Big Blue, based in Armonk, N.Y., was early to the AI game with Watson, which was first introduced over two decades ago, mesmerizing the world with what the tech could do. In 2023, the company launched its generative AI offerings,"
-publishedDateTime: 2023-11-20T22:45:00Z
-originalUrl: "https://fortune.com/ranking/ai-innovators/2023/ibm/"
-webUrl: "https://fortune.com/ranking/ai-innovators/2023/ibm/"
+excerpt: "Will AI create a world where no job is needed? Will computers achieve human-level intelligence? Where will the dramatic OpenAI storyline end up? The drama unfolding in the world of AI have proven that readers and investors need to follow the space closely—and it's changing minute to minute."
+publishedDateTime: 2023-11-21T10:30:00Z
+originalUrl: "https://www.fortune.com/ranking/ai-innovators/"
+webUrl: "https://www.fortune.com/ranking/ai-innovators/"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
   name: Fortune
@@ -19,31 +19,39 @@ provider:
       height: 50
 
 topics:
-  - IBM AI
   - AI
 
 images:
-  - url: "https://content.fortune.com/wp-content/uploads/2023/11/AI-Innovators-2023-IBM.jpg?w=1440&q=75"
-    width: 1440
-    height: 960
+  - url: "https://content.fortune.com/wp-content/uploads/2023/11/50-AI-logo.jpg?resize=1200,600"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
-  - title: "The Artificial Intelligence Glossary"
-    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals ..."
-    publishedDateTime: 2023-11-16T23:29:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/11/15/the-artificial-intelligence-glossary/"
+  - title: "Fortune 50 AI Innovators (2023): Credits"
+    excerpt: "Reporting by: Joseph Abrams, Lucy Brewster, Paolo Confino, Kinsey Crowley, Sheryl Estrada, Paige Hagy, Jeremy Kahn, Stephen Pastis, Prarthana Prakash, Anne Sraders, and Ben Weiss."
+    publishedDateTime: 2023-11-21T10:30:00Z
+    webUrl: "https://fortune.com/franchise-list-page/fortune-50-ai-innovators-credits-2023/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: Fortune
+      domain: fortune.com
+    quality: 67
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://content.fortune.com/wp-content/uploads/2023/11/50-AI-logo.jpg?resize=1200,600"
+        width: 1200
+        height: 600
         isCached: true
+  - title: "Fortune Debuts Power List of 50 AI Innovators"
+    excerpt: "Fortune editors name the companies leading the way in the AI boomAn essential guide to the companies every executive needs to know in the sector"
+    publishedDateTime: 2023-11-21T12:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fortune-debuts-power-list-of-50-ai-innovators-1032838773"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
-secured: "JJoN6o9jPiwWSwykAuBOra2cFr52KSFte4nxOAy5t+dBYo1oQ8D/tMSQY6NMpFaLM8hXL7Y0yzDJDdwr/+K/haNYdPtB8QKQL5DNuXT0vgWRW7qYR36yBhAFpKxASWMfcRt8igo0dUhFOG+36c3C37rhjYnhygaxF8CdbN3OqR/Xfqrt+hak0TZ85uDrHhR4jPhuIqAH3wSOcaXuZgzeROO+TNTJBbcCU7mok2XkXzwI5YLziiB/dukQMMIquV7X+mnjYUPGdzK6ZILUxCZwUJUzPYbdSqAOqQxQhq8o6Xp6Fk5HNfTj/WpYlh6YmA0foDFQVNl2IAF0f87lw8fknS1HEKYX98j3PS4eg+sdwD8=;sVA4Eezbt9JYYxoLzvy91A=="
+secured: "v+2JGiNg1KIf0pMXohg3nPxfPahAFZ9pjHU+tYD+MGJfrg0fj/5WwE3i9Tt1iRM8oLxjKetBWwLV6H6AjTskSTxADKac1KHhPU2us1DTiwhorlpmp0mydPHED22qN2bqEnuJKROG6MKoPVQJr2Cru8y+5HhcuTMjPo2OvrAwlEBVxZFZeWIrXc70LVPr4aGm9FZaQhsurkW282UZlKEJAnIAIRf28zE2HFGYAFxBEJ9mYjtpMbWKxVZF7S2iRhEyIVdiLwsgQnCVJeuJf3a3p/o9giNvL/NUZQJAGLYPhbSCWRQlrB28vLyvTyL9TKqyHk2qKjwdnBP8MkPKgHx76d6gHh3qMBVK0E4FbQPY/ow=;N3rlNSvmcewvdbfl60ZcTA=="
 ---
 

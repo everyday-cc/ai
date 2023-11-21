@@ -24,19 +24,53 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence makes its way into the music and film industries"
-    excerpt: "This year, artificial intelligence (AI) has taken the internet by storm and is now infiltrating the music and film industries. The sensational technology began with picture generators such as DALL-E mini."
-    publishedDateTime: 2023-11-19T21:07:00Z
-    webUrl: "https://sbstatesman.com/122531/arts/artificial-intelligence-makes-its-way-into-the-music-and-film-industries/"
+  - title: "How AI Camp Is Setting Employers Up For The Next Industrial Revolution"
+    excerpt: "The AI revolution will change what you look for in your future employees, but the education system isn’t giving young people the STEM skills they need."
+    publishedDateTime: 2023-11-21T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
     type: article
     provider:
-      name: The Statesman
-      domain: sbstatesman.com
-    quality: 38
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://sbstatesman.com/wp-content/uploads/2023/11/AI-In-music-and-film.png"
-        width: 2001
-        height: 1001
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65578b6497210c6748431c8a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "The AI revolution: Shaping the future of investing"
+    excerpt: "Artificial intelligence has brought about a quiet revolution, fundamentally altering how investing is now approached."
+    publishedDateTime: 2023-11-17T01:05:00Z
+    webUrl: "https://venturebeat.com/business/the-ai-revolution-shaping-the-future-of-investing/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Harnessing AI's Potential To Revolutionize Financial Forecasting"
+    excerpt: "Recent advances in artificial intelligence present potentially transformative opportunities to overcome these forecasting limitations. When applied thoughtfully, AI financial forecasting methods can ingest disparate data sources, identify non-obvious correlations, adapt models dynamically and generate forecasts exponentially faster."
+    publishedDateTime: 2023-11-20T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/harnessing-ais-potential-to-revolutionize-financial-forecasting/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "AI-powered financial technology revolutionising lending"
+    excerpt: "Leading and emerging banks, fintech companies and some of Australia’s most iconic consumer brands are implementing AI-powered technology to revolutionise their customer engagement and lending offerings. Upon pairing this technology with human nous ..."
+    publishedDateTime: 2023-11-21T04:57:00Z
+    webUrl: "https://www.afr.com/companies/professional-services/ai-powered-financial-technology-revolutionising-lending-20231116-p5ekm7"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.4588%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/2cca9ba21a230b745bb4d444cbd064d439f3aeb6"
+        width: 1200
+        height: 628
         isCached: true
   - title: "How is AI impacting the music industry?"
     excerpt: "AI covers have taken over our social media feeds. How will this trend, and the use of musicians' voices, impact the music industry?"

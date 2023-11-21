@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "How AI Camp Is Setting Employers Up For The Next Industrial Revolution"
+    excerpt: "The AI revolution will change what you look for in your future employees, but the education system isn’t giving young people the STEM skills they need."
+    publishedDateTime: 2023-11-21T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65578b6497210c6748431c8a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "The AI revolution: Shaping the future of investing"
     excerpt: "Artificial intelligence has brought about a quiet revolution, fundamentally altering how investing is now approached."
     publishedDateTime: 2023-11-17T01:05:00Z
@@ -45,19 +61,33 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Introducing Lazy AI Software Engineer: Revolutionizing Software Development"
-    excerpt: "Intuitive Chat Interface: Lazy AI boasts an intuitive and user-friendly messenger-like interface, making AI app development accessible to all, regardless of technical expertise. The natural language processing simplifies the process, putting the power of AI in the hands of every user."
-    publishedDateTime: 2023-11-21T10:43:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/274040624/introducing-lazy-ai-software-engineer-revolutionizing-software-development"
+  - title: "How AI is impacting the music industry"
+    excerpt: "AI covers have taken over our social media feeds. How will this trend, and the use of musicians' voices, impact the music industry?"
+    publishedDateTime: 2023-11-20T02:01:00Z
+    webUrl: "https://www.thepostathens.com/article/2023/11/ai-music-industry-2023-artificial-intelligence"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: The Post
+      domain: thepostathens.com
     quality: 37
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1700454297416.jpg"
-        width: 630
-        height: 420
+      - url: "https://snworksceo.imgix.net/ohi/46d06f70-b794-4f33-92d0-a5f49f020eff.sized-1000x1000.png?w=800&h=600"
+        width: 776
+        height: 600
+        isCached: true
+  - title: "How is AI impacting the music industry?"
+    excerpt: "AI covers have taken over our social media feeds. How will this trend, and the use of musicians' voices, impact the music industry?"
+    publishedDateTime: 2023-11-20T02:01:00Z
+    webUrl: "https://www.thepostathens.com/article/2023/11/how-is-ai-impacting-the-music-industry"
+    type: article
+    provider:
+      name: The Post
+      domain: thepostathens.com
+    quality: 37
+    images:
+      - url: "https://snworksceo.imgix.net/ohi/46d06f70-b794-4f33-92d0-a5f49f020eff.sized-1000x1000.png?w=800&h=600"
+        width: 776
+        height: 600
         isCached: true
 
 secured: "f40sZYjulZO9iVpHcyPDnaQ2KrigHlcof3SIvBVsE7QpssJWbg1bHSjiHEDutPAHMB3BXoXjRPPfd08BvkW1kVYFvwZk5fPE3POcs5iSqSn8CJaxJCBLXX2I5pe6Ph/t4V4TAlbHbtkrXSJCkOc9dPu5N2g5zeE62lFLoUgFI2VuFoSsGGC/J8uA9gdBwX6HZLK4LyufsL22/jNHelSkWnwrDliM4bDEQ1A3pgNQl9gx27ggi3ic61lGZQMWOYnBIfJsileennoHxpru+j8TAk27/URiMbIJy9MnwPi8auTGArBYlGCnLOeygIakYpbcFTPxWksxWE8g7ZZTzPYSoX3MC2fROwedoaIDhqVkzDLE3Bj0FXDEGbvz4bEM7at+W6YRBLyU/ZNUgIUSbJX6yDDBtX+anlVRK0J8D1YNt+9T/YBJLCze5JAceut7j/DSlBjERr2sEfG10uC7/JLb0qSgBW57mpLhBxhhhoMo7eqYa6v7qp9Z7bbNEFK8PeUe61BrfpnECRnhBtl31abUag==;Rr4hGVNq9EMlET6S2DZdsg=="

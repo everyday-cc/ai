@@ -35,6 +35,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "AI in Drug Discovery Market to Surge at a Revenue of US$ 8.10 Billion By 2030 | Astute Analytica"
+    excerpt: "The AI in Drug Discovery Market is expected to reach a valuation of US$ 8.10 billion by 2030, growing at a CAGR of 25% during the forecast period from"
+    publishedDateTime: 2023-11-21T12:51:00Z
+    webUrl: "https://www.medgadget.com/2023/11/ai-in-drug-discovery-market-to-surge-at-a-revenue-of-us-8-10-billion-by-2030-astute-analytica.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 4
 
 secured: "PPsPpWP5ZK1UBiCN4b+RnPpQh3e4ZXS/w+rgti7PaolPyzleQNb50H61Yn5bftoCpbeMn7oHSJ4QdNCefid2k4RDw0Deo18AC7NQh3cgXKDJKH0bDbO86mz6mNB8zXn2Dr2S8KJSN2bz2CLDD3QotsguMIEB6FOPNyaA2P+4m/8Sk/A+MCDdkr9XN5j8Tnf6zUJRdZu7ZleKcW8CBGWsunt6fMXy+fjPES6xSlp0lwfrbqlw6kEDXcu1dE9eNGVF1mT4YNtBn78WwWDXVQ60Et+Q1c8fgX1D8N0U8Lc+lXrXkWSbdWvUKZqNIXZekIamypf4ddMiVfsRxJSqJLvckmxxswNPNGiggo+SQtacfAc=;alsx1B4/E32QPZD03X6N3g=="
 ---

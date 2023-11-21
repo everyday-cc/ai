@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers seek consensus on what constitutes Artificial General Intelligence"
-    excerpt: "A team of researchers at DeepMind focusing on the next frontier of artificial intelligence—Artificial General Intelligence (AGI)—realized they needed to resolve one key issue first. What exactly, they asked,"
-    publishedDateTime: 2023-11-20T21:25:00Z
-    webUrl: "https://techxplore.com/news/2023-11-consensus-constitutes-artificial-general-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2023-11-consensus-constitutes-artificial-general-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-consensus-constitutes-artificial-general-intelligence.amp"
+  - title: "The Next Evolution Of Generative AI Will Provide Specialized Intelligence"
+    excerpt: "Specialized technologies will deliver deeper, more reliable and more valuable insights compared to the general-purpose tools available today."
+    publishedDateTime: 2023-11-21T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/the-next-evolution-of-generative-ai-will-provide-specialized-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/the-next-evolution-of-generative-ai-will-provide-specialized-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/21/the-next-evolution-of-generative-ai-will-provide-specialized-intelligence/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 40
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-8.jpg"
-        width: 2880
-        height: 1923
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61549381e6d4424cc52c8592/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 811
         isCached: true
-  - title: "Experts Predict Artificial General Intelligence July 2025 to 2031"
-    excerpt: "There were some approaches on getting to AGI that fully bypass embodiment or robotics. Artificial general intelligence (AGI) is a machine capable of understanding the world as well as—or better than—any human, in practically every field, including the ..."
-    publishedDateTime: 2023-11-17T10:09:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/11/experts-predict-artificial-general-intelligence-july-2025-to-2031.html"
+  - title: "OpenAI’s crisis will sow the seeds of the next generation of AI startups"
+    excerpt: "OpenAI’s meltdown is likely to become the latest installment in what’s becoming a Silicon Valley tradition. It's hard to know how this will end."
+    publishedDateTime: 2023-11-20T18:42:00Z
+    webUrl: "https://techcrunch.com/2023/11/20/openai-expats/"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 24
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
     images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/11/Screen-Shot-2023-11-16-at-6.26.16-PM.jpg"
-        width: 1476
-        height: 1276
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openai-flower.jpg?resize=1200,675"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "pgW13XnppeHc3tCViVdMvFCdRcjlAYqGlpwThMNvjazpOyPK+rTKgE5fzhD0y60K/rRaP5oFc0Y2ZpE8IR5Hkb6AhcmyTA6CpcYOH5PMHiQLRzAMwpcfqbJDeT1C2ZULNKLx0FFHtXO9W1xT4GhmGghKNC0CRxR7Q0Do5Nd55D+IjsPa6MVmoCx55jUyBr2gCt0Bdd+5Y34eHqA+sNHUi9vwba/esig6aSYgsW7ilnlTaqzmXy1J+rhc41+je0hUO4Fj3+jHVnJB5TaNGU9fVStBB7UNX4t9yr4RZ66o6z//+RVZ73lVhC66EszGkxQ4NVxgzonHO7U660OfjUGLOOS3VOUGnGt11RnM7M04duEcRwNu7A/1/FMLuCXHVeg9hxPdhCITkyTK1gRF5AJ+WgbpU5ljZSVNs6txtWmJhOa7aIqXPORfox2L0e1ORLhIObBRj+rg8ytBkQ8YqYiY2ld0Jj+UzS8fRlNyBXK2n6tA48R/axgXCbAn/NgQMy0M4DkTGCbLiPWme83RTvygWg==;WAVD0kx4TBgyPx1KGnCWqQ=="

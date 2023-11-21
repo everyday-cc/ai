@@ -7,7 +7,7 @@ originalUrl: "https://insurancenewsnet.com/innarticle/ai-in-financial-services-p
 webUrl: "https://insurancenewsnet.com/innarticle/ai-in-financial-services-presents-opportunities-challenges"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,31 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Firms Could Capture Over 50% of Financial Services Revenue in Next 15 Years, Industry Professional Predicts"
-    excerpt: "Rex Salisbury says that in the next 15 years, Fintechs could potentially capture more than 50% of financial services revenue."
-    publishedDateTime: 2023-11-19T23:16:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/11/216348-fintech-firms-could-capture-over-50-of-financial-services-revenue-in-next-15-years-industry-professional-predicts/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216348-fintech-firms-could-capture-over-50-of-financial-services-revenue-in-next-15-years-industry-professional-predicts/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216348-fintech-firms-could-capture-over-50-of-financial-services-revenue-in-next-15-years-industry-professional-predicts/amp/"
+  - title: "Generative AI: Challenges and opportunities"
+    excerpt: "Generative AI is revolutionizing the ways of working of financial institutions and Fintech companies. While rapid advancements in GenAI have opened up new possibilities across various industries, it is the fintech and banking sector that is poised to ..."
+    publishedDateTime: 2023-11-21T09:31:00Z
+    webUrl: "https://www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/"
+    ampWebUrl: "https://www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/lite/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 22
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/The-Future-of-Fintech.jpeg"
-        width: 1611
-        height: 1278
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/ai.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Challenges of AI Algorithm Bias in Financial Services"
-    excerpt: "How can financial service providers avoid perpetuating algorithm bias in decision making that could have a negative impact on consumers?"
-    publishedDateTime: 2023-11-20T09:35:00Z
-    webUrl: "https://www.techopedia.com/ai-algorithm-bias-in-financial-services"
+  - title: "Creativity in the age of generative AI: A new era of creative partnerships"
+    excerpt: "Recent advancements in generative artificial intelligence (AI) have showcased its potential in a wide range of creative activities such as producing works of art, composing symphonies, and even drafting legal texts,"
+    publishedDateTime: 2023-11-20T18:13:00Z
+    webUrl: "https://techxplore.com/news/2023-11-creativity-age-generative-ai-era.html"
+    ampWebUrl: "https://techxplore.com/news/2023-11-creativity-age-generative-ai-era.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-creativity-age-generative-ai-era.amp"
     type: article
     provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 19
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/creativity.jpg"
+        width: 1920
+        height: 1462
+        isCached: true
 
 secured: "r3hgKWs9EPyC+tZsL8ierTTCOcPSQntk14hCon5LaTUWoQnmI5TflVub1ceVuxDq6as3wlAFPmMJBkXCgRxfrCFug/nYIOPjRtrzgqB3zLCGxNBPSl6ZTVxZHVzkw3mCdNoZfHiOUUqd159bzxk0ZmRa7b0ce2DH23lHqxL87ipySK4dca4IlzkvDs3GmtIUxaPpQSK/CyjwcXOWY3zwqTtOJjHGovEemkA7QMzu3+GZtZZ9H5khkofOSks3kELmWX/rNOnos75JaHIpCw+eh/vk+veO+INHSkXJkmabmB4BI5b94EEnCZwVkSfLX1GZZWFPmgVsVbR9QrJBUeYLB6cXdjxmZxitfh3fEt1oikYWSs00CIperv80oDPP3uNOM4eJSirhGi9T+i/d2sbuvmpbnI5IlKQLyRWLD8sbpboHLz1fLSC24pro4TXrUMiO0ESmNTZakeKTko8vhSR6wYTpeOZGlDLnzRXE4jSrQPYjnmN1xb92kqgLRuA9Y+U+FelyEzidF20Pfnt0OKwfAQ==;0DsVNLdoEKsc/tzyeNXkaQ=="
 ---

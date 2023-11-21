@@ -87,6 +87,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "NVIDIA wants to use AI chatbots to help build better chips"
+    excerpt: "US software firm NVIDIA is adapting AIs to help its human engineers build better computer chips."
+    publishedDateTime: 2023-11-21T10:00:00Z
+    webUrl: "https://www.newscientist.com/article/2403629-nvidia-wants-to-use-ai-chatbots-to-help-build-better-chips/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/11/20211118/SEI_180495034.jpg"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Yellow.ai Chooses AWS Cloud To Power Its Generative AI Chatbot Solutions"
     excerpt: "Yellow.ai is using Amazon Bedrock, a fully managed foundation model (FM) service that gives businesses access to industry-leading FMs"
     publishedDateTime: 2023-11-20T11:05:00Z

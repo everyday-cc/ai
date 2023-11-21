@@ -105,20 +105,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "OpenAI’s crisis will sow the seeds of the next generation of AI startups"
-    excerpt: "OpenAI’s meltdown is likely to become the latest installment in what’s becoming a Silicon Valley tradition. It's hard to know how this will end."
-    publishedDateTime: 2023-11-20T18:42:00Z
-    webUrl: "https://techcrunch.com/2023/11/20/openai-expats/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 66
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openai-flower.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "OpenAI’s Board Set Back the Promise of Artificial Intelligence"
     excerpt: "I was the first venture investor in OpenAI. The weekend drama illustrated my contention that the wrong boards can damage companies. Fancy titles like “Director of Strategy at Georgetown’s Center for Security and Emerging Technology” can lead to a false sense of understanding of the complex"
     publishedDateTime: 2023-11-20T15:53:00Z

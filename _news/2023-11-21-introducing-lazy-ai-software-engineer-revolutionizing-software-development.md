@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/274040624/introducing-lazy-ai-
 webUrl: "https://www.bignewsnetwork.com/news/274040624/introducing-lazy-ai-software-engineer-revolutionizing-software-development"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,37 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The AI revolution: Shaping the future of investing"
-    excerpt: "Artificial intelligence has brought about a quiet revolution, fundamentally altering how investing is now approached."
-    publishedDateTime: 2023-11-17T01:05:00Z
-    webUrl: "https://venturebeat.com/business/the-ai-revolution-shaping-the-future-of-investing/"
+  - title: "The future of hardware and software development for artificial intelligence"
+    excerpt: "Reflecting on the history of the computer industry, it all began with a small transistor, evolving into integrated circuits and eventually transforming into powerful CPUs capable of processing billions of instructions per second."
+    publishedDateTime: 2023-11-21T06:40:00Z
+    webUrl: "https://www.digitimes.com/news/a20231121PR200/ai-software-hardware-development-nvidia.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Harnessing AI's Potential To Revolutionize Financial Forecasting"
-    excerpt: "Recent advances in artificial intelligence present potentially transformative opportunities to overcome these forecasting limitations. When applied thoughtfully, AI financial forecasting methods can ingest disparate data sources, identify non-obvious correlations, adapt models dynamically and generate forecasts exponentially faster."
-    publishedDateTime: 2023-11-20T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/harnessing-ais-potential-to-revolutionize-financial-forecasting/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "AI-powered financial technology revolutionising lending"
-    excerpt: "Leading and emerging banks, fintech companies and some of Australia’s most iconic consumer brands are implementing AI-powered technology to revolutionise their customer engagement and lending offerings. Upon pairing this technology with human nous ..."
-    publishedDateTime: 2023-11-21T04:57:00Z
-    webUrl: "https://www.afr.com/companies/professional-services/ai-powered-financial-technology-revolutionising-lending-20231116-p5ekm7"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
+      name: Digi Times
+      domain: digitimes.com
+    quality: 35
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.4588%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/2cca9ba21a230b745bb4d444cbd064d439f3aeb6"
-        width: 1200
-        height: 628
+      - url: "https://img.digitimes.com/newsshow/20231121pr200_files/3_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "UOwt99AcN2vjFw3uthpNr6ZKwuYtw35cOhA6G64zvahIrei8r9sgy19L+gTkLYmeuWMGgiehVVYrONjPCbP/Pv0PfgiOOCpDyYp2uoGQBDGvZkvNntyug7OLmrcoWhz/t7uwVMX8EU0ctZIn6jdFAK+aFceItPL4KdFZQEz9PXGvBAEw68spux0L81mZYpORGB7dh4RS8Qo8wSAZcFq4uQh+Zvi5PdKtWERQe16j/cYcxllGojWH7wMB1ajcDWBqzaxyuNCwHE78rwe77Pk6Li3c8IjwTuEnkAEZoJigMDkhtOxBWDP7SOojPjx0s7raq56ubBGO9BoJWvu3qHqQQwVZnRKYEG8Yobc0OrEKPaM=;ug2Ga52Vht9WdVnk2ghMJg=="

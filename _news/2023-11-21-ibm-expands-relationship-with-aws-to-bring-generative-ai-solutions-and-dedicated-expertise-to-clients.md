@@ -1,0 +1,155 @@
+---
+category: news
+title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
+excerpt: "IBM( announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from generative artificial intelligence (AI). As part of this, IBM Consulting aims to deepen and expand its ..."
+publishedDateTime: 2023-11-21T11:07:00Z
+originalUrl: "https://menafn.com/1107463843/IBM-Expands-Relationship-with-AWS-to-Bring-Generative-AI-Solutions-and-Dedicated-Expertise-to-Clients"
+webUrl: "https://menafn.com/1107463843/IBM-Expands-Relationship-with-AWS-to-Bring-Generative-AI-Solutions-and-Dedicated-Expertise-to-Clients"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Mena FN
+  domain: menafn.com
+
+topics:
+  - AWS AI
+  - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?498821"
+    width: 375
+    height: 250
+    isCached: true
+
+related:
+  - title: "Accelerating climate action with AI"
+    excerpt: "AI has the potential to mitigate 5-10% of global greenhouse gas emissions according to our new report with Boston Consulting Group."
+    publishedDateTime: 2023-11-20T08:00:00Z
+    webUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/"
+    ampWebUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sustainability-BlogHeader-Adaptation-2.width-1300.png"
+        width: 1300
+        height: 733
+        isCached: true
+  - title: "Effective accelerationism, doomers, decels, and how to flaunt your AI priors"
+    excerpt: "Several political perspectives are shaping quite a lot of the work on artificial intelligence, and so we need to understand them, especially now."
+    publishedDateTime: 2023-11-20T15:57:00Z
+    webUrl: "https://techcrunch.com/2023/11/20/e-acc-doomers-decels-openai-altman/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778704897.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Elastic Signs Strategic Collaboration Agreement with AWS to Accelerate Generative AI Solutions"
+    excerpt: "Elastic, announced a new two-year global Strategic Collaboration Agreement with Amazon Web Services to make it easier for shared customers."
+    publishedDateTime: 2023-11-17T15:55:00Z
+    webUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/"
+    ampWebUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 62
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/11/Elastic-Signs-Partnership-Agreement-with-AWS-to-Accelerate-Generative-AI-Solutions.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "IBM expands relationship with AWS to bring generative AI solutions and dedicated expertise to clients"
+    excerpt: "Providing clients with dedicated AWS expertise and plans to train and skill 10,000 consultants United Arab Emirates -- IBM (NYSE: IBM ( announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from generative artificial intelligence (AI)."
+    publishedDateTime: 2023-11-20T08:08:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients-lzu5g5ky"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients-lzu5g5ky?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients-lzu5g5ky?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTQ5ZWU3ZDktNTI1MC00/0/ibmgenaiaws-jpg.jpeg?f=3%3A2"
+        width: 505
+        height: 337
+        isCached: true
+  - title: "How Earth AI is accelerating mineral discovery and helping enterprise Net Zero goals"
+    excerpt: "Earth AI pioneers a more efficient experimental process for discovering minerals required for Net Zero goals. Their promising results highlight the importance of combining data science, domain expertise, and systematic thinking to solve new problems relevant to all enterprises."
+    publishedDateTime: 2023-11-20T10:24:00Z
+    webUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals"
+    ampWebUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 52
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-11/amethyst-3328166_640.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Elevate Your Teaching Career with Educational AI Tools"
+    excerpt: "As with other technological advances in the past, AI isn't going anywhere. You can unlock new teaching tools that also prepare your students for tech jobs."
+    publishedDateTime: 2023-11-20T01:32:00Z
+    webUrl: "https://www.educatorstechnology.com/2023/11/educational-ai-tools.html"
+    type: article
+    provider:
+      name: Educational Technology and Mobile Learning
+      domain: educatorstechnology.com
+    quality: 39
+    images:
+      - url: "https://www.educatorstechnology.com/wp-content/uploads/2023/11/1-8.png"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "Research Can Help to Tackle AI-generated Disinformation"
+    excerpt: "Continue reading Research Can Help to Tackle AI-generated Disinformation."
+    publishedDateTime: 2023-11-20T12:00:00Z
+    webUrl: "https://www.cc.gatech.edu/news/research-can-help-tackle-ai-generated-disinformation"
+    type: article
+    provider:
+      name: cc.gatech.edu
+      domain: gatech.edu
+    quality: 39
+    images:
+      - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2021/srijan%20kumar850x478.jpeg"
+        width: 850
+        height: 478
+        isCached: true
+  - title: "ConcertAI's TeraRecon, Integrates Clinical and Generative AI, Supporting Clinical Research and Advancing Clinical Care Solutions at #RSNA23"
+    excerpt: "New solutions empower clinicians and research teams with AI orchestration, model development, visualization, and multi-modal data management to"
+    publishedDateTime: 2023-11-20T17:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/concertai-s-terarecon-integrates-clinical-and-generative-ai-supporting-clinical-research-and-advancing-clinical-care-solutions-at-rsna23-1032836447"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 15
+  - title: "Meta announces new breakthroughs in AI image editing and video generation with Emu"
+    excerpt: "The Emu Video tool leverages the Emu model and provides a simple method for text-to-video generation that’s based on diffusion models. Meta said the tool can respond to various inputs, including text only, image only or both together."
+    publishedDateTime: 2023-11-16T22:45:00Z
+    webUrl: "https://siliconangle.com/2023/11/16/meta-announces-new-breakthroughs-ai-image-editing-video-generation-emu/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 13
+
+secured: "ZgjBtiw0IF6+MjTN1cUY1B/H9euZo3g9T1Et0/7IhKU8a8f8Ep4yeIn1Mqbvxe4qP00/z5oWt74HWuZRz+T5zhsY7iBwFh2WeeCXkarxGiBlNxhSkbk9a5vrh1abYpuUq24oWwAsngQqKKXMz1/t25+5uHCMC0X4k8De0idY9mbJe9Ok9EGggIje0MpTIUSb/Xy8c+ck4lR8sqh7V6Xs5uqQMapv81g7g4G8aWQMGyDnaEycxzztdrfaB3ZLcyEEiTrZ+IqoS0l42wf/5cAq6YubwfnUzCp7AkZdwSCaPt2utzrBOxZavHbzGkiYhJh54QoKfrUD+xeVFrk38R3fbiRCxpa6dsQD3ga3tKHlEZI=;KjXOirqTwrIrv7Cbgwa0wQ=="
+---
+

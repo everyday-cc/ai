@@ -28,128 +28,36 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
-    excerpt: "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models."
-    publishedDateTime: 2023-11-20T00:00:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922?icid=recommended"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 77
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-11/231119-sam-altman-jm-1614-859c3a.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
-    excerpt: "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models."
-    publishedDateTime: 2023-11-20T21:18:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 77
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-11/231119-sam-altman-jm-1614-859c3a.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "The OpenAI fiasco shows why we must regulate artificial intelligence"
-    excerpt: "If AI goes right, it could cure cancer and climate change and a host of similar problems, ushering in a futuristic utopia. If we get it wrong, many believe it could be an existential catastrophe"
-    publishedDateTime: 2023-11-19T23:47:00Z
-    webUrl: "https://nypost.com/2023/11/19/opinion/the-openai-fiasco-shows-why-we-must-regulate-artificial-intelligence/"
-    ampWebUrl: "https://nypost.com/2023/11/19/opinion/the-openai-fiasco-shows-why-we-must-regulate-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/11/19/opinion/the-openai-fiasco-shows-why-we-must-regulate-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 72
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/11/newspress-collage-z5hdnr8oi-1700440023427.jpg?quality=75&strip=all&1700422172&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "The Shake-up at OpenAI Reshapes the Industry’s Global Order"
-    excerpt: "Big Tech is reeling from the ouster of Sam Altman at a leading A.I. start-up and his subsequent jump to Microsoft, moves that reset the power dynamic underpinning the sector."
-    publishedDateTime: 2023-11-20T13:27:00Z
-    webUrl: "https://www.nytimes.com/2023/11/20/business/dealbook/sam-altman-openai-microsoft-google-ai.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: "https://static01.nyt.com/images/2023/11/20/multimedia/20db-altman-zbgq/20db-altman-zbgq-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "OpenAI’s board: From AI safety to mutiny | The AI Beat"
-    excerpt: "In one head-spinning weekend, OpenAI's nonprofit board went from serious about AI safety to watching employees get ready to mount a mutiny."
-    publishedDateTime: 2023-11-20T23:18:00Z
-    webUrl: "https://venturebeat.com/ai/openais-board-from-ai-safety-to-mutiny-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-20-10.22.17-A-dramatic-scene-on-an-18th-century-sailing-ship-capturing-the-essence-of-a-mutiny-like-in-the-story-of-Mutiny-on-the-Bounty.-The-ship-is-set-again.png?w=1200&strip=all"
-        width: 1199
-        height: 685
-        isCached: true
-  - title: "OpenAI’s Board Set Back the Promise of Artificial Intelligence"
-    excerpt: "I was the first venture investor in OpenAI. The weekend drama illustrated my contention that the wrong boards can damage companies. Fancy titles like “Director of Strategy at Georgetown’s Center for Security and Emerging Technology” can lead to a false sense of understanding of the complex"
-    publishedDateTime: 2023-11-20T15:53:00Z
-    webUrl: "https://www.theinformation.com/articles/openais-board-set-back-the-promise-of-artificial-intelligence"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 52
-    images:
-      - url: "https://tii.imgix.net/production/articles/11747/7184b549-37ed-4712-b7c3-ba77373bcac5.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "OpenAI’s New CEO Likes Tweeting About Sex And Using AI To Write Pickup Lines"
-    excerpt: "Incoming exec Emmett Shear has regularly tweeted about sexual dynamics between men and women and the controversial pick-up artistry manual The Game."
-    publishedDateTime: 2023-11-20T20:50:00Z
-    webUrl: "https://www.forbes.com/sites/sarahemerson/2023/11/20/openai-ceo-emmett-shear-tweets-sex-dating-pickup-lines/"
+  - title: "The Next Evolution Of Generative AI Will Provide Specialized Intelligence"
+    excerpt: "Specialized technologies will deliver deeper, more reliable and more valuable insights compared to the general-purpose tools available today."
+    publishedDateTime: 2023-11-21T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/the-next-evolution-of-generative-ai-will-provide-specialized-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/the-next-evolution-of-generative-ai-will-provide-specialized-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/21/the-next-evolution-of-generative-ai-will-provide-specialized-intelligence/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 44
-  - title: "With OpenAI's future in limbo, its startup customers are looking to jump ship to other AI models offered by rivals Anthropic and Meta"
-    excerpt: "Many startups build on top of OpenAI's models, and are looking at alternatives from Anthropic and Meta in the wake of Sam Altman's ouster."
-    publishedDateTime: 2023-11-21T03:13:00Z
-    webUrl: "https://www.businessinsider.com/openai-startup-customers-considering-anthropic-meta-aimodels-2023-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
+    quality: 86
     images:
-      - url: "https://i.insider.com/6552aa3e385143459e8c5757?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61549381e6d4424cc52c8592/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 811
         isCached: true
-  - title: "OpenAI chaos explained: What it could mean for the future of artificial intelligence"
-    excerpt: "The firing of CEO Sam Altman, the threat of employee exodus, and more. OpenAI chaos explained: What it could mean for the future of artificial intelligence."
-    publishedDateTime: 2023-11-20T19:00:00Z
-    webUrl: "https://www.popsci.com/technology/sam-altman-fired-openai-microsoft/"
+  - title: "Understanding the Dawn of the Artificial General Intelligence Era"
+    excerpt: "The abrupt departure—and possible return—of Sam Altman from OpenAI is sending tsunamis through Silicon Valley, igniting a flurry of speculation and bringing into sharp relief a fundamental debate at the crossroads of artificial intelligence (AI) development."
+    publishedDateTime: 2023-11-20T14:44:00Z
+    webUrl: "https://www.aol.com/news/understanding-dawn-artificial-general-intelligence-074400693.html"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 25
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_dispatch_253/d0c8759151495eba0a6d7fc1e42d5c1e"
+        width: 560
+        height: 357
+        isCached: true
 
 secured: "kVbF8m9o8EcsC40+ZNF9YAtaQgbmBf5p5FubBtdkN5DwagSrTTD2Ct6kZw3YzdmL2JKl0bMrZ6wCMcQp5m2S752O24A68O6KaNIKAbE4VMsKrtI2bF3MROgQhlFfHi3Htp3DASVSomFUJzrpe/3KlkndXlfSH8HMt/qee3fVSZYonuujVvmOp+6fY++of/tHA1SRclDV489/EkYyepuzRfb+1fd0MTP240E39a7Ev6P0wWtSAFBXsA/s1HAAfUW5aVVcjdDa7Bbm5c7vwf9gX5P3A3pKFh/05LH2kC6VLp/7GU2Zk3ur+9arx8wxOwe+KaXsjNzvL2HPdk6khvv9onKg9eRHPZFNmdI8fPeX3VktqieUIyHXcai5RHi+zzAJodVshKSbiuKkTK4yXMMPzGRgChLZPHpo3uDNRUDj2+HAPBDNskO9ppXKfUSfvVWAxmSxGTpXUN3Q/KH5e7dicx8+2WR/oT55P3BFCAxXukvgF+nkkjEymMwrnc+6oDq3+zYDqq92fZdiIYxYOvorkw==;KvlUG/S0TDz3eykSIWUGCw=="
 ---

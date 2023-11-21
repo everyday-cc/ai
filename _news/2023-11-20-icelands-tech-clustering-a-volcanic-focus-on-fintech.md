@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-finte
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Advent Fintech Platform to Buy myPOS, Betting on Small Businesses"
-    excerpt: "The private-equity firm set up payments company Al Circle Bidco to serve small merchants in Europe, a group historically underserved by banks."
-    publishedDateTime: 2023-11-16T22:36:00Z
-    webUrl: "https://www.wsj.com/articles/advent-fintech-platform-to-buy-mypos-betting-on-small-businesses-2ffcf662"
+  - title: "Artificial Intelligence in Banking: Transforming Customer Experiences with FinTech"
+    excerpt: "Introduction Artificial Intelligence (AI) has become a revolutionary force in the banking sector, reshaping the way financial institutions operate and interact with their customers. In tandem with Financial Technology (FinTech),"
+    publishedDateTime: 2023-11-21T12:21:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-in-banking-transforming-customer-experiences-with-fintech/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 34
+      name: Impacts
+      domain: techbullion.com
+    quality: 48
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Artificial-Intelligence-in-Banking-Transforming-Customer-Experiences-with-FinTech.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "AI-Powered Dobin To Unveil Groundbreaking Financial Insights Feature At Singapore Fintech Festival"
+    excerpt: "Revolutionary Financial App to help Singaporean achieve Financial Wellbeing  <li /> Dobin announced the launch of a first-of-its-kind 'F"
+    publishedDateTime: 2023-11-17T09:21:00Z
+    webUrl: "https://menafn.com/1107445243/AI-Powered-Dobin-To-Unveil-Groundbreaking-Financial-Insights-Feature-At-Singapore-Fintech-Festival"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?819939"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Singapore’s fintech sector struggling to find talent"
     excerpt: "In a 2021 Accenture survey, nearly two out of three firms blamed their talent gap on not being able to get work permits for foreigners. Nowadays, only 37 percent cite difficulty in securing employment passes as a hiring challenge. For this dramatic change, the employers and employees should thank Hong Kong."
     publishedDateTime: 2023-11-20T15:59:00Z
@@ -49,20 +68,6 @@ related:
       - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "Mastercard webinar: Shaping the Future of Fintech"
-    excerpt: "Explore the future of fintech with Mastercard experts and Zolve CEO Raghu G. Uncover trends, challenges, and success opportunities in Mastercard's on-demand webinar"
-    publishedDateTime: 2023-11-21T09:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/mastercard-webinar-shaping-the-future-of-fintech"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/066d9da8ca456c8714af5253145a76b6:5eec00f4245af84e67b08e0eb75f1f45/mastercard-webinar-2023-cms.jpg.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "The Soaring Growth of Fintech Startups in Hong Kong"
     excerpt: "In recent years, Hong Kong has emerged as a dynamic hub for financial technology, witnessing a significant surge in the number of fintech startups. This phenomenon reflects a global trend where traditional financial systems are being reshaped by innovative technologies."
