@@ -127,6 +127,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
+  - title: "With OpenAI's future in limbo, its startup customers are looking to jump ship to other AI models offered by rivals Anthropic and Meta"
+    excerpt: "Many startups build on top of OpenAI's models, and are looking at alternatives from Anthropic and Meta in the wake of Sam Altman's ouster."
+    publishedDateTime: 2023-11-21T03:13:00Z
+    webUrl: "https://www.businessinsider.com/openai-startup-customers-considering-anthropic-meta-aimodels-2023-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+    images:
+      - url: "https://i.insider.com/6552aa3e385143459e8c5757?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "OpenAI chaos explained: What it could mean for the future of artificial intelligence"
     excerpt: "The firing of CEO Sam Altman, the threat of employee exodus, and more. OpenAI chaos explained: What it could mean for the future of artificial intelligence."
     publishedDateTime: 2023-11-20T19:00:00Z

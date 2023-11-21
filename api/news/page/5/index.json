@@ -2,12 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-14-nvidia-announces-new-h200-gpu-for-high-speed-data-processing-and-ai-model-training.md",
+      "title": "Nvidia Announces New H200 GPU for High-Speed Data Processing and AI Model Training",
+      "excerpt": "Nvidia has unveiled the H200 chips, which is a significant improvement from H100, and is expected to be available from Q2 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/nvidia-h200-gpu-data-ai/",
+      "originalUrl": "https://www.coinspeaker.com/nvidia-h200-gpu-data-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T23:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-whats-the-smart-way-of-moving-forward-with-artificial-intelligence.md",
+      "title": "What’s the smart way of moving forward with artificial intelligence?",
+      "excerpt": "AI and in particular generative AI has the potential to be transformative. Following on from the mass cloud adoption of the last fifteen years it’s the next evolution of how we use technology. How can organisations operationalise it to deliver business benefits?",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/opinion/Whats-the-smart-way-of-moving-forward-with-artificial-intelligence",
+      "originalUrl": "https://www.computerweekly.com/opinion/Whats-the-smart-way-of-moving-forward-with-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T21:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-messagepoint-adds-generative-ai-for-translation-and-plain-language-rewrites.md",
+      "title": "Messagepoint Adds Generative AI for Translation and Plain Language Rewrites",
+      "excerpt": "Messagepoint's Intelligent Content Hub offers a modular approach to content management that enables business users to manage content across all channels, whether it is used in composed communications or delivered to a digital endpoint via headless APIs. The solution enables the reuse of common content components and templates across communications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Messagepoint-Adds-Generative-AI-for-Translation-and-Plain-Language-Rewrites-161442.aspx",
+      "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Messagepoint-Adds-Generative-AI-for-Translation-and-Plain-Language-Rewrites-161442.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023.md",
       "title": "3 Machine Learning Stocks You’ll Regret Not Buying Soon: November 2023",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning is revolutionizing industries from healthcare to",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035?op=1",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035?op=1",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -40,9 +142,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -811,108 +912,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-artificial-intelligence-unexpected-results.md",
-      "title": "Artificial intelligence: Unexpected results",
-      "excerpt": "Artificial intelligence (AI) is on the rise. Until now, AI applications generally have “black box” character: How AI arrives at its results remains",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/239356",
-      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/239356",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AlphaGalileo",
-        "domain": "alphagalileo.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-ovarian-cancer-artificial-intelligence-predicts-therapy-responses.md",
-      "title": "Ovarian cancer: Artificial intelligence predicts therapy responses",
-      "excerpt": "A model based on artificial intelligence is able to predict the therapy outcome (measured by volumetric reduction of tumor lesions) in 80% of ovarian cancer patients. The AI-based model has an accuracy of 80%,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-11-ovarian-cancer-artificial-intelligence-therapy.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-11-ovarian-cancer-artificial-intelligence-therapy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-on-thecube-pod-sizing-up-the-ai-pin-and-has-ibm-finally-gotten-it-right-with-watson.md",
-      "title": "On theCUBE Pod: Sizing up the AI Pin and has IBM finally gotten it right with Watson?",
-      "excerpt": "Generative artificial intelligence continues to be the subject captivating the technology world, and more seminal moments concerning the technology may have taken place this past week. On Thursday, Human Inc. unveiled its long-awaited AI-powered wearable, the $699 AI Pin.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/11/13/on-thecube-pod-sizing-up-the-ai-pin-and-has-ibm-finally-gotten-it-right-with-watson-thecubepod/",
-      "originalUrl": "https://siliconangle.com/2023/11/13/on-thecube-pod-sizing-up-the-ai-pin-and-has-ibm-finally-gotten-it-right-with-watson-thecubepod/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

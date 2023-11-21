@@ -2,6 +2,136 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-10-20-3-robotics-stocks-ready-to-rock-and-roll-in-2024.md",
+      "title": "3 Robotics Stocks Ready to Rock and Roll in 2024",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotic devices enable automation that help people perform tasks more",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-ready-to-rock-and-roll-in-2024-1032722476",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-ready-to-rock-and-roll-in-2024-1032722476",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T16:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-announcing-rekogniton-custom-moderation-enhance-accuracy-of-pre-trained-rekognition-moderation-models-with-your-data.md",
+      "title": "Announcing Rekogniton Custom Moderation: Enhance accuracy of pre-trained Rekognition moderation models with your data",
+      "excerpt": "Companies increasingly rely on user-generated images and videos for engagement. From ecommerce platforms encouraging customers to share product images to social media companies promoting user-generated videos and images, using user content for engagement is a powerful strategy. However, it can be challenging",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-rekogniton-custom-moderation-enhance-accuracy-of-pre-trained-rekognition-moderation-models-with-your-data/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-rekogniton-custom-moderation-enhance-accuracy-of-pre-trained-rekognition-moderation-models-with-your-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/18/ml-15641-6-1.png",
+          "width": 977,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T15:47:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-10-20-why-baidu-stock-tanked-by-6-on-thursday.md",
+      "title": "Why Baidu Stock Tanked by 6% on Thursday",
+      "excerpt": "Baidu (NASDAQ: BIDU) stock was battered on Thursday, due in no small part to a pair of price-target cuts from analysts. That left the Chinese tech giant's shares nearly 6% weaker on the day, a far ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/why-baidu-stock-tanked-by-6-on-thursday",
+      "originalUrl": "https://www.nasdaq.com/articles/why-baidu-stock-tanked-by-6-on-thursday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-20-satya-nadella-says-microsoft-will-lead-the-way-in-the-new-era-of-ai.md",
       "title": "Satya Nadella says Microsoft will lead the way in the 'new era of AI'",
       "excerpt": "In his annual letter to shareholders, employees, and customers, Microsoft CEO Satya Nadella outlined the company's vision for the \"new era of Artificial Intelligence\", with emphasis on its democratisation,",
@@ -1070,135 +1200,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-met-police-to-keep-using-facial-recognition-on-prolific-shoplifters.md",
-      "title": "Met Police to keep using facial recognition on prolific shoplifters",
-      "excerpt": "The Metropolitan Police plans to use facial recognition technology going forward to try to identify and arrest London's most prolific shoplifters. The technology maps facial features from CCTV stills against custody images in about 60 seconds. So far, 149 suspects have been identified from 302 CCTV stills with some wanted for multiple offences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-london-67149222",
-      "originalUrl": "https://www.bbc.com/news/uk-england-london-67149222",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/D33C/production/_131467045_facialrecognitionstock001.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-london-67149222.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-67149222.amp",
-      "publishedDateTime": "2023-10-19T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-galileo-payment-risk-platform-now-available-to-the-entire-financial-services-ecosystem.md",
-      "title": "Galileo Payment Risk Platform Now Available to the Entire Financial Services Ecosystem",
-      "excerpt": "Galileo Financial Technologies, LLC ... based on client risk appetite Utilize advanced data elements embedded into enhanced rules and machine learning-based models, taking into account entities such as merchants, channels, geo-locations, etc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-galileo-payment-risk-platform-now-available-the-entire-/2023/10/19/9901855.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-galileo-payment-risk-platform-now-available-the-entire-/2023/10/19/9901855.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-fda-grants-fast-track-designation-to-anpd001-autologous-investigational-cell-therapy-for-the-treatment-of-parkinsons-disease.md",
-      "title": "FDA Grants Fast Track Designation to ANPD001, Autologous Investigational Cell Therapy for the Treatment of Parkinson's Disease",
-      "excerpt": "These cells are then evaluated for potential activity using robust quality control assays, including Aspen's proprietary artificial intelligence-based genomics tests, before being implanted. About ANPD001 ANPD001 is an investigational cell therapy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-21111418.html",
-      "originalUrl": "https://www.lelezard.com/en/news-21111418.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

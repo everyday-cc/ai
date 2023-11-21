@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Elastic Signs Strategic Collaboration Agreement with AWS to Accelerate Generative AI Solutions"
-excerpt: "Elastic, the company behind Elasticsearch, today announced a new two-year global Strategic Collaboration Agreement (SCA)"
-publishedDateTime: 2023-11-16T18:46:00Z
-originalUrl: "https://www.datanami.com/this-just-in/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/"
-webUrl: "https://www.datanami.com/this-just-in/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/"
+excerpt: "Elastic, announced a new two-year global Strategic Collaboration Agreement with Amazon Web Services to make it easier for shared customers."
+publishedDateTime: 2023-11-17T15:55:00Z
+originalUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/"
+webUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/"
+ampWebUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
+cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: enterprisetalk
+  domain: enterprisetalk.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.datanami.com/wp-content/uploads/2023/11/elastic-aws-288x300.png"
-    width: 288
-    height: 300
+  - url: "https://enterprisetalk.com/wp-content/uploads/2023/11/Elastic-Signs-Partnership-Agreement-with-AWS-to-Accelerate-Generative-AI-Solutions.jpg"
+    width: 1500
+    height: 844
     isCached: true
 
 related:
@@ -152,6 +154,6 @@ related:
       domain: siliconangle.com
     quality: 13
 
-secured: "66vAw4OIwnL+PIYmUlwdcql2EhCGDdLOwB0K5/XgRvcqz7PAVfo8SGTjuUWto5fpfGIjhtZlgWI4qyo/KHjHMgcl64Yqps2ZqEP9zPo3b9PTBPTPhmQOhYKCocC7RvMSU7pphQQEzWbSugjvNu7qdohJeQ+WSjE55T8us7d1rUg77nW+WXTSRfFD0KgYtpqqA1Hr4JGaN2wCAleWWAeKZdbBL+VEn5ssAamYLjZvjMYn7XobUC17MF+MSBdQTzRjgt0SUdOxSUF44SzAAN64waQC++Ubw+hC0/5dukGgzM04VooGDMowgAZD6BZkobARNwzgarTFk0SPiQWBdNR5+f0C48hiQh4Hco4iszG6ZA4Wk0m9qsfOj5QBUq4yJ3wLL0exwB1CTnNT+uPZBAEPihNnc4X626gLRp6c8xptboqDI0Adq371V/nr6VwsibK8kIfK0+pa933XxUgFfelB8VYdkQYMmO+t4tQ+l2B3T1vWRZoMtV3OdFeb01DOIBkA/DNIvsq8+MlbMh66Sf0ULw==;cqUCL1X2sp6wVOxtgbnqvA=="
+secured: "Sz7npRbKE5+OORxAoWZ6/EegVwsRIMpX3sOGx5OG106sCCrmNwaftTraWi6Y+1wjWJ7FWKfCdEAv1jsdUGxzY5+z4k8Kx5c7xOFkroPK1//EOHw0AfwoiaO7hFQVG3Em5xLUp7aGXInN3HHH6IdnkKN9q7rk3VXwCMpUsqDeC5gDI7tv3B2kWYbRjS5x2YrQfslfYBcE5AkktTJ1/Xvl5AhaZ1Vzu8inqe7Lb4ILhQiqb04F8nAqGieEA76lMOg+ekeukFceUwk4CnolCevhw6KV8duw/SramGejA6v2p8SmmuwtCx6vFlZFLifcwdxZSk8PvsDsRcyUloq/HfxfCIInWQgQGJfIoC7iS2q1oRI=;XOObVztEh5JBZCObKKFExQ=="
 ---
 

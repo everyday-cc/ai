@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elastic Signs Strategic Collaboration Agreement with AWS to Accelerate Generative AI Solutions"
+    excerpt: "Elastic, announced a new two-year global Strategic Collaboration Agreement with Amazon Web Services to make it easier for shared customers."
+    publishedDateTime: 2023-11-17T15:55:00Z
+    webUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/"
+    ampWebUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 62
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/11/Elastic-Signs-Partnership-Agreement-with-AWS-to-Accelerate-Generative-AI-Solutions.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "How Earth AI is accelerating mineral discovery and helping enterprise Net Zero goals"
     excerpt: "Earth AI pioneers a more efficient experimental process for discovering minerals required for Net Zero goals. Their promising results highlight the importance of combining data science, domain expertise, and systematic thinking to solve new problems relevant to all enterprises."
     publishedDateTime: 2023-11-20T10:24:00Z
@@ -72,20 +88,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-11/amethyst-3328166_640.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "Elastic Signs Strategic Collaboration Agreement with AWS to Accelerate Generative AI Solutions"
-    excerpt: "Elastic, the company behind Elasticsearch, today announced a new two-year global Strategic Collaboration Agreement (SCA)"
-    publishedDateTime: 2023-11-16T18:46:00Z
-    webUrl: "https://www.datanami.com/this-just-in/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 42
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/11/elastic-aws-288x300.png"
-        width: 288
-        height: 300
         isCached: true
   - title: "Elevate Your Teaching Career with Educational AI Tools"
     excerpt: "As with other technological advances in the past, AI isn't going anywhere. You can unlock new teaching tools that also prepare your students for tech jobs."

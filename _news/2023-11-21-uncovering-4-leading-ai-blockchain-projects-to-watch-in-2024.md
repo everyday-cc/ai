@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/11/20/uncovering-4-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/11/20/uncovering-4-leading-ai-blockchain-projects-to-watch-in-2024/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 5 Artificial Intelligence Start-ups to Watch in 2023"
-    excerpt: "so it shouldn't come as a surprise that artificial intelligence (AI) start-ups are also popping up on investors' radars. With the launch of ChatGPT in November 2022, the potential for AI has ..."
-    publishedDateTime: 2023-11-16T11:04:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-startups/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 47
   - title: "Revealing the Future: How Blockchain Technology is Transforming the Fintech Industry"
     excerpt: "Introduction Blockchain technology has counted as a breakthrough in the fintech industry. Its decentralized and secure transactions can potentially revolutionize the world of financial operations. Industry experts anticipate that the impact of blockchain in fintech will continue to accelerate in the years to come."
     publishedDateTime: 2023-11-17T06:53:00Z

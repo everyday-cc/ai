@@ -45,10 +45,10 @@ related:
         isCached: true
   - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
     excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors ’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
-    publishedDateTime: 2023-11-20T04:47:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
+    publishedDateTime: 2023-11-20T05:02:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022880"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022880"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022880"
     type: article
     provider:
       name: ABC

@@ -2,6 +2,126 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-11-03-sony-interactive-entertainment-acquires-deep-learning-company-isize.md",
+      "title": "Sony Interactive Entertainment acquires deep learning company iSIZE",
+      "excerpt": "Sony Interactive Entertainment has acquired iSIZE, a tech company that specializes in deep learning technology. Sony announced its acquisition of iSIZE in a post on the corporation’s website.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize",
+      "originalUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/11/02/sony-interactive-isize_feature.png",
+          "width": 1919,
+          "height": 1054,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize?amphtml=1",
+      "publishedDateTime": "2023-11-02T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies.md",
+      "title": "GE HealthCare Announces New Data Validating Artificial Intelligence Models for Predicting Patient Response to Immunotherapies",
+      "excerpt": "GE HealthCare’s Artificial Intelligence (AI) models predict patient response to immunotherapies with 70 to 80 percent accuracy 1, based on a pan-cancer cohort, according to findings to be presented at the Society for Immunotherapy of Cancer (SITC) in San Diego,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies/article_38326a44-6f45-5214-8f08-a186f20e297b.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/ge-healthcare-announces-new-data-validating-artificial-intelligence-models-for-predicting-patient-response-to-immunotherapies/article_38326a44-6f45-5214-8f08-a186f20e297b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/c/fc/cfce3a77-83d3-54dd-b0a0-8b1a19a41dff/654390615e3c5.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-02-study-reveals-alarming-cognitive-decline-in-over-50s-during-pandemic.md",
+      "title": "Study reveals alarming cognitive decline in over-50s during pandemic",
+      "excerpt": "The brain health of over 50s deteriorated more rapidly during the pandemic - even if they didn’t catch Covid, according to a new study. Increases in loneliness and depression, less exercise and higher alcohol consumption were all contributing factors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fbherald.com/lifestyles/health/study-reveals-alarming-cognitive-decline-in-over-50s-during-pandemic/article_2ee01e01-2e21-5e4f-a76b-27ef0d85799b.html",
+      "originalUrl": "https://www.fbherald.com/lifestyles/health/study-reveals-alarming-cognitive-decline-in-over-50s-during-pandemic/article_2ee01e01-2e21-5e4f-a76b-27ef0d85799b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-02T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fort Bend Herald",
+        "domain": "fbherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-02-as-gaza-conflict-rages-online-maps-from-chinese-companies-are-missing-israels-name.md",
       "title": "As Gaza conflict rages, online maps from Chinese companies are missing Israel’s name",
       "excerpt": "Beijing has clarified that Israel remains marked on official maps issued by Chinese authorities after questions emerged over why the country’s name was not visible on online maps provided by two major Chinese companies.",
@@ -913,126 +1033,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-ai-safety-use-cases-how-generative-ai-is-distorting-human-sentiment.md",
-      "title": "AI safety use cases - how generative AI is distorting human sentiment",
-      "excerpt": "It used to be said that the big problem with AI is its ‘hallucinations’ when supporting data is absent. But it turns out that there is a bigger one: generative AI is removing human sentiment and context without us even knowing.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-safety-use-cases-how-generative-ai-distorting-human-sentiment",
-      "originalUrl": "https://diginomica.com/ai-safety-use-cases-how-generative-ai-distorting-human-sentiment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-mark-zuckerberg-reveals-the-key-advantage-of-metas-artificial-intelligence-ai-strategy-that-many-investors-may-be-overlooking.md",
-      "title": "Mark Zuckerberg Reveals the Key Advantage of Meta's Artificial Intelligence (AI) Strategy That Many Investors May Be Overlooking",
-      "excerpt": "So far in 2023, the amount of time users spend on Facebook and Instagram ... we further invest in generative AI across our core products, internal tooling, and research efforts.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/11/01/mark-zuckerberg-reveals-advantage-meta-ai-strategy/",
-      "originalUrl": "https://www.fool.com/investing/2023/11/01/mark-zuckerberg-reveals-advantage-meta-ai-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-shutterstocks-growth-dilemma-declining-ecommerce-business-amid-flourishing-computer-vision-partnerships.md",
-      "title": "Shutterstock’s Growth Dilemma: Declining eCommerce Business Amid Flourishing Computer Vision Partnerships",
-      "excerpt": "In a report released today, Lauren Schenk from Morgan Stanley assigned a Hold rating on Shutterstock (SSTK – Research Report), with a",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-s-growth-dilemma-declining-ecommerce-business-amid-flourishing-computer-vision-partnerships-1032767604",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-s-growth-dilemma-declining-ecommerce-business-amid-flourishing-computer-vision-partnerships-1032767604",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

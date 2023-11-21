@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-11-13-grafana-cloud-kubernetes-monitoring-with-machine-learning-predictions.md",
+      "title": "Grafana Cloud Kubernetes Monitoring with Machine Learning Predictions",
+      "excerpt": "Elspeth Minty discusses the background of FINOS, introduces some of its projects and initiatives, and the importance of FINOS to open source in the financial services ... and configure the machine learning model. Subsequently, the system autonomously ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/11/grafana-kubernetes-ml-monitoring/",
+      "originalUrl": "https://www.infoq.com/news/2023/11/grafana-kubernetes-ml-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-the-future-of-artificial-intelligence.md",
+      "title": "The future of Artificial Intelligence",
+      "excerpt": "Artificial Intelligence (AI ... Burgeoning uses of AI Mention AI and the average consumer immediately thinks of self-driving cars or robots executing complex tasks flawlessly and autonomously.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/25169/the-future-of-artificial-intelligence",
+      "originalUrl": "https://www.finextra.com/blogposting/25169/the-future-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-top-10-best-python-libraries-for-deep-learning-in-2023.md",
+      "title": "Top 10 Best Python Libraries for Deep Learning in 2023",
+      "excerpt": "Python is one of the most popular programming languages in the world, and it’s used extensively in the field of deep learning. Python’s versatility and ease of use make it an ideal language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straight.com/guides/software/best-python-libraries-for-deep-learning/",
+      "originalUrl": "https://www.straight.com/guides/software/best-python-libraries-for-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Georgia Straight",
+        "domain": "straight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-13-transforming-brain-research-with-ai-and-machine-learning.md",
       "title": "Transforming brain research with AI and machine learning",
       "excerpt": "Using machine learning, researchers are able to use data from the brain to glean deeper insights and apply this new knowledge in clinical settings. The findings will be presented on Monday ...",
@@ -881,144 +984,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-how-to-implement-enterprise-resource-planning-erp.md",
-      "title": "How to implement enterprise resource planning (ERP)",
-      "excerpt": "To benefit from ERP adoption, the system must be deployed properly and efficiently. Here are six steps to successfully implement ERP.\nThe post How to implement enterprise resource planning (ERP) appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/enterprise-resource-planning-implementation/",
-      "originalUrl": "https://www.ibm.com/blog/enterprise-resource-planning-implementation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T12:57:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain.md",
-      "title": "Build trust and safety for generative AI applications with Amazon Comprehend and LangChain",
-      "excerpt": "We are witnessing a rapid increase in the adoption of large language models (LLM) that power generative AI applications across industries. LLMs are capable of a variety of tasks, such as generating creative content, answering inquiries via chatbots, generating code, and more. Organizations looking to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 251,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T12:39:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-ai-makes-you-worse-at-what-youre-good-at.md",
-      "title": "AI makes you worse at what you’re good at",
-      "excerpt": "I know, this happens every damn week: I start with the intention of writing this newsletter without going up to my eyelashes into the AI morass, and every week, y’all keep reading our AI news as if your livelihood depends on it. Because, well ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/",
-      "originalUrl": "https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-648822953.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/amp/",
-      "publishedDateTime": "2023-11-10T12:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

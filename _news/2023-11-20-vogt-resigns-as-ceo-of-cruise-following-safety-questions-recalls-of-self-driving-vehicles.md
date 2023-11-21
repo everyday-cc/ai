@@ -2,11 +2,11 @@
 category: news
 title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
 excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors ’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
-publishedDateTime: 2023-11-20T04:47:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
-webUrl: "https://abcnews.go.com/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022882"
+publishedDateTime: 2023-11-20T05:02:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022880"
+webUrl: "https://abcnews.go.com/US/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022880"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022880"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022880"
 type: article
 quality: 34
 heat: -1
@@ -136,6 +136,6 @@ related:
       domain: ft.com
     quality: 3
 
-secured: "XuM6TinQaelRbjiwfTueVSthYfbUMcPOX4vk9zWOp1EuZqoSp8rZKpWzQ6j+Cq/8Wd2FzPvrozPyJRYtSVqEOkjKLL9YV3bmpaCgIERKtHTwHl6LtYDhj4UJgAkZZ4TLy25CtwBZ2bB6fPN2SNS8r7oa2Ek09/xCXeiwEKJnZyeI2jvIU4IiNzqTyOfoTRaiaI7CCgbHi5/6TBY8db0vqnu7J2jKUAa9Awso4AVP/BjwLtI2UvyLVyRzTFsDQ4Bt5zFdHwm0L8nmkVu6qwsqXbptCiYmEkFT2Luc6Frk9WxZr6BHC1WYHvy9ggSC8ZM562Wd6fJcNX3+qMs+Jrf2KGSrtvgZ+Aq8tqSKz3bMEdk=;TgLcH+37ody6XHfcPYQsCA=="
+secured: "AsTJeJxQfeGV8TzIew8orF+XtwWiP8a65AU2gi4WCEW5XlUMzi/dijAZoKIbLUMAqXT/AMK4Z/L2QPe2MHQeiGCvjA7Tygv9Hkb2C9tXwFKvKTDt44aYqvzutCT3iYJsjxvzgyHeZtFn65alIbp4dpSD2+Dxc1HEfQpzB8PTrcGcRX7kDJte5//ZWIXlbde9yUUC7O6/UQ22v8gq1qUMiz9VMUAAam5wPk0QM3sxMRDNMjlFMmnYgP8xciF5T5GMmv31JeqYdw4DBq5qrL9BvQRvfz+bNG+bXS3wQuO/YZJtN0hYNTMKOxWGeLQEcyGtDhVxNRcoFLMgpJvk7qFlCEkEMjyj77jj+k+0ZTgXmF8=;+RVscj3cY9Pwm43ajM/QPQ=="
 ---
 

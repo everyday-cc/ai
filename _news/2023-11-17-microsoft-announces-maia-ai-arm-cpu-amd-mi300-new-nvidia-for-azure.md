@@ -183,6 +183,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 34
+  - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
+    excerpt: "We offer our self-developed products and services to both individual users and enterprise customers across Asia, under the brands KKBOX, BlendVision, and Going Cloud. The Company has also earned third-party international certifications including OpenChain ISO/IEC 5230 and ISO 27001."
+    publishedDateTime: 2023-11-21T03:40:00Z
+    webUrl: "https://www.macaubusiness.com/kkcompany-technologies-joins-microsoft-startup-initiative-and-advances-ai-powered-cloud-streaming-solutions-in-southeast-asia/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 27
+    images:
+      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/11/IMG_0999-1028x617.jpeg"
+        width: 1028
+        height: 617
+        isCached: true
   - title: "Schneider Electric drives Generative AI productivity and sustainability solutions by integrating Microsoft Azure OpenAI"
     excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of working• Collaboration with Microsoft in artificial intelligence is f"
     publishedDateTime: 2023-11-18T13:05:00Z

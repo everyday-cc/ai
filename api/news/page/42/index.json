@@ -2,6 +2,126 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-10-17-liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability.md",
+      "title": "LiveRamp Announces Identity Integration with AWS Entity Resolution to Increase Marketing Interoperability",
+      "excerpt": "It supports and enhances cross-channel media measurement workflows in AWS data lakes, media collaboration in AWS Clean Room collaborations, and artificial intelligence (AI) model development with Amazon SageMaker. RampID also helps brand marketers enrich ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/17/9899936.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/17/9899936.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-purplecubeai-introduces-cognitive-data-insights-a-game-changer-in-unstructured-data-processing-and-data-governance.md",
+      "title": "PurpleCubeAI Introduces Cognitive Data Insights: A Game-Changer in Unstructured Data Processing and Data Governance",
+      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--PurpleCubeAI, the industry’s only cloud-native scalable, enterprise-class unified data orchestration platform, today announces its latest offering, Cognitive Data ... available on both Microsoft Azure and AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231016713946/en/PurpleCubeAI-Introduces-Cognitive-Data-Insights-A-Game-Changer-in-Unstructured-Data-Processing-and-Data-Governance",
+      "originalUrl": "https://www.businesswire.com/news/home/20231016713946/en/PurpleCubeAI-Introduces-Cognitive-Data-Insights-A-Game-Changer-in-Unstructured-Data-Processing-and-Data-Governance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-1-artificial-intelligence-ai-stock-to-buy-and-hold-forever.md",
+      "title": "1 Artificial Intelligence (AI) Stock to Buy and Hold Forever",
+      "excerpt": "Chipmaker Nvidia ( NVDA 1.40%) has become a Wall Street darling. It's soared by a whopping 215% year to date as it takes advantage of the opportunity in artificial intelligence (AI), which boosts demand for its cutting-edge hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/17/1-artificial-intelligence-ai-stock-to-buy-and-hold/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/17/1-artificial-intelligence-ai-stock-to-buy-and-hold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/751095/gettyimages-1433587895.jpg",
+          "width": 1878,
+          "height": 1596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-17-new-york-city-unveils-an-artificial-intelligence-action-plan.md",
       "title": "New York City unveils an ‘artificial intelligence action plan’",
       "excerpt": "The same New York City administration to launch a “Rat Action Plan” is back with an “Artificial Intelligence Action Plan.” Mayor Eric Adams on Monday unveiled a citywide AI “action plan ...",
@@ -968,153 +1088,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-new-york-city-unveiled-a-new-plan-to-use-ai-to-make-its-government-work-better.md",
-      "title": "New York City unveiled a new plan to use AI to make its government work better",
-      "excerpt": "New York City released its Artificial Intelligence Action Plan on Monday setting policies to avoid bias and improve government services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10",
-      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/652d84ea6561dd877e7baace?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10?amp",
-      "publishedDateTime": "2023-10-16T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-how-to-use-foundation-models-and-trusted-governance-to-manage-ai-workflow-risk.md",
-      "title": "How to use foundation models and trusted governance to manage AI workflow risk",
-      "excerpt": "An AI governance framework ensures the ethical, responsible and transparent use of AI and machine learning\nThe post How to use foundation models and trusted governance to manage AI workflow risk appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-use-foundation-models-and-trusted-governance-to-manage-ai-workflow-risk/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-use-foundation-models-and-trusted-governance-to-manage-ai-workflow-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T13:00:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-how-ai-is-transforming-contingent-workforce-management.md",
-      "title": "How AI Is Transforming Contingent Workforce Management",
-      "excerpt": "To help, workforce management platforms like Magnit are building AI-powered conversational user interfaces that guide workers through the information needed on day one. The goal, Srinivasan says, is “to minimize the friction in the workflows so that clients, suppliers and candidates don't have 10 clicks” just to start working.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/",
-      "originalUrl": "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65295159bcdf1a9bd6648caf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/",
-      "publishedDateTime": "2023-10-16T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

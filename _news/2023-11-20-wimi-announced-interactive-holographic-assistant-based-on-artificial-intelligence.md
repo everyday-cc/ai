@@ -2,21 +2,17 @@
 category: news
 title: "WiMi Announced Interactive Holographic Assistant Based on Artificial Intelligence"
 excerpt: "WiMi's AI-based interactive holographic assistant technology: Speech recognition and processing: The system captures the user's voice commands through advanced speech recognition technology. These commands are transmitted to the speech processing module, which is responsible for converting speech into text and parsing the user's intent."
-publishedDateTime: 2023-11-20T13:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-announced-interactive-holographic-assistant-based-on-artificial-intelligence-1032835283"
-webUrl: "https://markets.businessinsider.com/news/stocks/wimi-announced-interactive-holographic-assistant-based-on-artificial-intelligence-1032835283"
+publishedDateTime: 2023-11-20T15:18:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-wimi-announced-interactive-holographic-assistant-based-artificial-intelligence-/2023/11/20/9921062.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-wimi-announced-interactive-holographic-assistant-based-artificial-intelligence-/2023/11/20/9921062.htm"
 type: article
-quality: 44
-heat: 44
+quality: 14
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -33,6 +29,6 @@ related:
       domain: businessinsider.com
     quality: 38
 
-secured: "ZM0gm+IlquN/3/pnsFNjWCrR/NFPy8IHe+yxfdC/4S3XjrR1UcmczsxDmDSwwYaGc0gAliV3lxwyfSyS7Yxoka2U5AIKGef9Jk2Hjzpi4EgglWYDAIQJG6HgPRv9m0gJ3xb2z0ckuj1B7X3taiuq7JjeBaxoP5boiUWNE9aU6c6kBieGwwtg0n2KwI7lKuAAz/HvnIfHRStCMxvDRHf91geer7gDvIaMyMobn6YSQU8b6hj3mEstgG/jSAF5a+CkBz1DIbDZg1tdqpp9n/yrN1LCqvcP9mGh/HTK+qYNsAstgKYJVffhXktUQ3ARah9CU1bIY+iM3tn0CwGa+8yYE/nrjq1cfPFFuqMmDx6mYbg=;6QLMM0l8HrF2ZdwN8XReiQ=="
+secured: "Fd/50blPQJpRL014602TVDdOS9ZXuRH4AhiTg5qkf6GUrd+nOmAjC+U3V+eGUu2jYyI05RDesAmwf5Pt+vYaUpzIIGKB7PWofj6+YmbFrNRNXLLTdz76o0JVZQkWI/6BKPxYE1bALwTQmej0N/6TOkONi4Nw9YIO+OX6m6ovcb5Xv8nLqf8JIDd79ChuhklVK6CvNajqGJqML9s2CLm1qyV5fuZfeKOuq4UWDFCLE9ARw2Gz1t+puKRDgEPzh9/326hp+OqV3rsOKxStpSRWVxLipHOMdz9ynZA0dZombO89nP947hUG+gm0oLeC7uRjE05SdzUBoAREorO2wh2VLVUg94uTO356WZ6aeOMfRRY=;J/eqmT0VUwBPj+S80meNfw=="
 ---
 
