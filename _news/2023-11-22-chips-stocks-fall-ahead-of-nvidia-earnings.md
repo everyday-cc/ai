@@ -122,6 +122,15 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
+  - title: "Nvidia earnings in focus as AI hype translates to profit surge, record stock price"
+    excerpt: "Nvidia is expected to report Q3 sales nearly tripled amid as demand for AI-related chips surged. But new limits on exports to China could blunt its forecasts."
+    publishedDateTime: 2023-11-21T15:29:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-earnings-in-focus-as-ai-hype-translates-to-record-highs-profit-surge"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 11
 
 secured: "B14veb9Wdvk+DsCBpHGxCI/VbyhoAiwzI7Ze2bh6uyGGTO+wV/6juwM1yYXegAjJl3+hSoR96j7nbOjRjPy6dlSzHUPkvgkgLNCMYHBmNQP0t120vaWThhZ5HCvjVRrrUVqi2GIXIYawsSijwi9/ytq5tLmpvMh8nkeYY9Lwh6uLC31Z5L7t04fbW5FeT6SFS7dOtT7j8zpO4seEcUCU7JTuTfn816eJ+GUDNvAvQLvX8NPtfsSqxclR/L8BuJSsBHLKcvr8yEcZkf8TSIB7STSvsTBJN5oTHN4/H2KSwDjCdgxYFHL3tEIuu436tUOHScXEY0B1q2//7/j+F0XsgxycNHD/c5QnGBzwpTX/9qQ=;OD+N/NywcrhhQeKQMKNSUw=="
 ---

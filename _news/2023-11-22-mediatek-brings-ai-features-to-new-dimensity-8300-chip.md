@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/mediatek-brings-ai-features-to-new-dime
 webUrl: "https://www.pcmag.com/news/mediatek-brings-ai-features-to-new-dimensity-8300-chip"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     height: 630
     isCached: true
 
-secured: "RzwKm7+cD1JdayiWSWjObF9hGHm4EljNjpPbwfBYSXQyKFaFzNl0CTzhj1Zng/c85bJxICmEXfs1ScNe5vlN746G3aq2GdpeYg58Ggq1w4FQTNnt8vcAEwBw3HhMRLSQAiFovmBzKYdB/6N93gAZR8oCfZCcyxdgWHUDcstTuCmlCLPo1v4ZWgWyHcrPOq/hAszmxEeOPBS8drjlnryL5+CsF41Ygsn4L7SVhF5+zbSPqJgXuvvs5b77raQEoIQfZUekLcOecFGnLtJrCUteY5NjczPjLliWf94ajaUOtDmTNwS9ZV0/7Rs6OJXUf1t+WU7wVErBAeetEPfUe3epdLlqMy7OFTB/K9zCtKHhKP0=;8yg3iNT/ahwtgOIe3/UN3Q=="
+related:
+  - title: "MediaTek Dimensity 8300 promises 20% faster CPU, 60% faster GPU, and 3.3X faster AI for sub-flagship smartphones"
+    excerpt: "MediaTek Dimensity 8300 promises 20% faster CPU, 60% faster GPU, and 3.3X faster AI for sub-flagship smartphones"
+    publishedDateTime: 2023-11-21T18:00:00Z
+    webUrl: "https://liliputing.com/mediatek-dimensity-8300-promises-20-faster-cpu-60-faster-gpu-and-3-3x-faster-ai-for-sub-flagship-smartphones/"
+    type: article
+    provider:
+      name: Liliputing
+      domain: liliputing.com
+    quality: 13
+
+secured: "/UFinbR/Iu9M5xV0+I+jAG1Us8QxDhyx4Q56/lcAEuRuZkwxukyn11+p1NkBcEqmNccdwDgiW+Tp6xolkNYoxKL7dVTAkwamtI4u/aHkpmSUZoLBDHNYGJ2rx7mtRcqwqWJ9+OPA0ON/o97ul3LHSHhASnq2PqHCmnrKCvdq8aVof2NOU7tSsI/Hfj6r/YsSV7gPj4SzR9Ds8YIOudaOu3C0EelEpAopzXdptw4ItIVUPSmDMLC+aMO92HJEE32XsTIdlVon8CetLhvvZL5akBeLEvS7+HjAmM2jhfTJYrqZb4t20wlQakpvXnZ4EIOFiJYeRyFrATUSrVCJ+m5PAb2stUFo0xvC3liLrMae2szbrPvybij9UqW5W5KwiJyD3DA8ayjkxTamPKlkNFj9Q937Cu8ewwHDJlWp/A756XEHBib82fgJ7r4tZYWLUZnw2zqkiW1rN3047VRoYVlopZjCYCEEMvrbGfmjEOVXF58m71f/qj9FVWDeqtV6Gai7J2MS4wIr2Y5G+ZavWzjt9Q==;hhNb3APOXip08ZPrnUqhcA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-su
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
 type: article
 quality: 109
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Nvidia collaborates with Genentech to accelerate AI-driven drug discovery"
+    excerpt: "Nvidia said its offerings will accelerate the training and inference of generative models used in Genentech’s “lab in the loop” framework, where extensive experimental data is fed into models for iterative drug discovery."
+    publishedDateTime: 2023-11-21T19:27:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-collaborates-with-genentech-to-accelerate-ai-driven-drug-discovery/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 48
   - title: "Elevate Your Teaching Career with Educational AI Tools"
     excerpt: "As with other technological advances in the past, AI isn't going anywhere. You can unlock new teaching tools that also prepare your students for tech jobs."
     publishedDateTime: 2023-11-20T01:32:00Z
@@ -144,6 +153,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 15
+  - title: "Neo4j Signs Strategic Collaboration Agreement with AWS to Enhance Generative AI Results While Addressing AI Hallucinations"
+    excerpt: "Reduced Hallucinations: Neo4j with Langchain and Amazon Bedrock can now work together using Retrieval Augmented Generation (RAG) to create virtual assistants grounded in enterprise knowledge. This helps customers by reducing hallucinations and providing more accurate, transparent, and explainable results."
+    publishedDateTime: 2023-11-21T16:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-neo4j-signs-strategic-collaboration-agreement-with-aws-enhance-/2023/11/21/9921925.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "3VTnGzz5Eyf6s5Q4XcXg55m+83YtEaxnJrRbVCq5OKMYBU+XjZIRo3CuLlGsfAraO0oT8/XgPCZTYRwxfaSRP52G1gswtmTe5Kgu1TVJN21K3MIzRkLc2tp1w2kpICj5aREFLVbPgbfHG1uja5FRGDezgXOJgx+tuJvgNfwfl7PT/39H03t+DT69nQOkuI+m5fp2Gz4DSq/vF3p3YdEMG3xZhkjvw6hrTK0qKctVCcrTC8azLA0TyAjNapzhrJlnz15FIUFrmTPKxsv5Z9O/mg1aRlzowUAlaqQSVA9cIvrXxb8hZxMJpXC6HoTQhTvhUE6hh/B8No4vTgSFTP+BzZFWM73lPN+xPLNB5e0okTw=;bAloZ+qMxh+4SjRJgbFCHA=="
 ---

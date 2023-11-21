@@ -1,34 +1,20 @@
 ---
 category: news
-title: "Artificial Intelligence: An Opportunity Or A Risk?"
-excerpt: "The original read: \"Berset still has to fix it.\" What artificial intelligence produces can be funny, sometimes even bizarre. However, it gets serious when a so-called chatbot suddenly advises a man to commit suicide or a self-driving car causes an accident."
-publishedDateTime: 2023-11-16T09:25:00Z
-originalUrl: "https://menafn.com/1107436957/Artificial-Intelligence-An-Opportunity-Or-A-Risk"
-webUrl: "https://menafn.com/1107436957/Artificial-Intelligence-An-Opportunity-Or-A-Risk"
+title: "Artificial intelligence: an opportunity or a risk?"
+excerpt: "\"Dialogue\" is an offer by the SBC. Artificial intelligence is more and more present in different areas of our lives. Is AI an opportunity or a threat? Join the multilingual discussion on the \"dialogue\" platform."
+publishedDateTime: 2023-11-16T06:30:00Z
+originalUrl: "https://www.swissinfo.ch/eng/sci-tech/artificial-intelligence--an-opportunity-or-a-risk-/48981440"
+webUrl: "https://www.swissinfo.ch/eng/sci-tech/artificial-intelligence--an-opportunity-or-a-risk-/48981440"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Swissinfo
+  domain: swissinfo.ch
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Artificial Intelligence: A Dooms Day Risk?"
-    excerpt: "Disaster Zone by Eric Holdeman is dedicated to sharing information about the world of emergency management and homeland security. Listen to the Disaster Zone Podcast here."
-    publishedDateTime: 2023-11-20T19:39:00Z
-    webUrl: "https://www.govtech.com/em/emergency-blogs/disaster-zone/artificial-intelligence-a-dooms-day-risk"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 17
-
-secured: "IH4cAvJA02Q/0l5BDz9bvm8YOTT+IALJs8Jz+APlPVHvClb25GKTTNU4RULW9o1XkxLgKO+lz5kqe2ib/UnMu6boz5/F05RPAzbWM0gCi/H1p8SbSin99e1VsYtmz9lTCa/5mQQEof6MHjvishEVreZRzPw3G3Upr7Me3kX/yQFOR+4krirWEx0MHYdStYhG0hnLOu3NDmjOCMiHewdZm7QiqjCiJIAJS4APO4G82qvqAtxavQjLlqrrAyXdykjjsO31Mso2Bx8IKhZBh8f7yc0CZGN6r16x6uOJ6uskG6ePhV4LyGfsHuQ73ofZtsymjeNUChQu9ZpAGpTvDymxfccbO5S9XWHB1e7Uz9wqZyNtlz26cFIcKkeQp6GvJNR1GAVF5koHY8UgaswUs6pnVy36WGhUbGbdWrRmSmJLt0BpZd77jCTsc0rc+l0mOaTLK+FTsHpwiTmXNuY1M7cCpUsDNJnh6tC+0Qs0X2R85JgAgesmnbYFG2AOByIH7/AiCX+5h5Nwm1hKq1MR3AIzGQ==;iEUh5PKep/G7axuujAFiUw=="
+secured: "h182ljxnv3eDwBGnwmKizZrNuCB0cpNdHNaImK4V36UfwmDIpnyEyempQa7g0KN1aKzwLsUoqb4D9WDta+LPOvJ9+/EFjQ9q73zNZok235cNc9NbK+iR6UxrDiYSDabMNm+R961ukKEDD5CcwW2/+n7DAm6caEKK6OWPoshWEd1s4U6JIfOT4+CoFQ/TiWfskxM9qf0GaUJZac0EVAD/ola3gnNbfSQWj9sMOe0eKDLVy9nQ/krfU8rLU5Bo5WObV2mvuUYB2UXh0UkQ4dW1NjwOY8n6M7uAkXE+mZKlwzV5NR3nbR/FOjGdqIznUPsnM5K28SvF+gDCYBEgXYeaRzgAzRn7J87QbtjU1VQltz4nhtDjdt+n4rdVtU9gBhPMEs3DIhHXdt/Gmz4m0qGcVyjtaqziSb86ZATYG/DACRVuCVVJOWFslEBdiqfmg4tA2uq2g9dFFEKaPpiR5Wa/F7BoUSqowrREtxyVFBvlcjbq4YqUc2DNtW4SK3QKBtLHtqCoNm3h6PjZB31PYkDMog==;9c/44ehq59G1ZRPeJCVLXg=="
 ---
 

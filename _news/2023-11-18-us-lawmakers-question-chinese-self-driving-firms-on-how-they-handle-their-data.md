@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Cruise testing self-driving cars in Japan, Dubai, even as they're parked in U.S."
-    excerpt: "SAN FRANCISCO — Days after General Motors’ Cruise self-driving car unit pulled all of its vehicles off the roads in the U.S. for a safety review, it continues to test them on public roads in Dubai and Japan, Reuters has learned. Cruise this week said ..."
-    publishedDateTime: 2023-11-18T16:47:00Z
-    webUrl: "https://www.autoblog.com/2023/11/18/cruise-testing-self-driving-cars-in-japan-dubai-even-as-theyre-parked-in-u-s/"
+  - title: "China-owned autonomous vehicle firms are collecting data during US tests — and lawmakers are concerned"
+    excerpt: "Members of two House panels raised concerns about Chinese firms testing self-driving cars in the U.S., citing the nation’s lack of a federal data privacy law and the companies’ ties with Beijing."
+    publishedDateTime: 2023-11-17T20:58:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2023/11/china-owned-autonomous-vehicle-firms-are-collecting-data-during-us-tests-and-lawmakers-are-concerned/392127/"
     type: article
     provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 14
+      name: Nextgov
+      domain: nextgov.com
+    quality: 0
 
 secured: "vrhQZcrC1yjYiYdjvAXITMPG0Qx3v4ml2TrowYVVJgPvtMDiXY7fmOeZgSLmjvA8eDlraf6uOquY/bmfzn2j4LyYBH1NsCurF8Olx5ALOaD/VUHHV/SPgTtvoaobUbWaJTLZTKAVe95KmwkLmnOrTtn1HxpIpMw8Hmt0UXiwatQw1u/5MLAeBJoL/FrmATgaO0VGTLhnQo4wB+b+kfvVKhOo6QOxfH3OMGowrtJYrAUd+bupfaCHKZeJI5zi5rxpXr0fvVO/vvxbgu1XcYTzmfzYTo0XxmI+I+vXBJYzz4j3LXVH+5cE41NVJz7RPicQsb2WG4rlpb7P4ZrGOmLVafG9IrU/UxXZ7MC+7dLEYwG/RI0m5/DIZ5lRZIu4SSWrS7qhKPXBXNVmXcd61vn8q0I3G+3/ypuN1tcIBNWvb3CioRJMXMmSw5JzCn0FrFW+WfQpKjKGbN57sBFVBtJCJIWW659NwonLftTiMuPJ9xwdLdJ6Rt97FEyxelbPnLML5rm4zMgwNEC7ZmgzpkK52g==;xYifqrlHNcKYrkfJFNGbMg=="
 ---

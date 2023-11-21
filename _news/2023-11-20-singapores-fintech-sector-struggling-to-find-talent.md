@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Sector Is Undergoing Transformation with Rise of Open Finance, Generative AI, A2A Payments – Report"
+    excerpt: "The whitepaper found that “the fintech market is undergoing a rapid shift, with the rise of new technologies, such as Open Finance, generative AI and A2A (account-to-account) payments having a major impact on business models.” This is combined with unp ..."
+    publishedDateTime: 2023-11-21T21:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 56
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/NYSE-New-York-Fintech-1024x848.jpg"
+        width: 1024
+        height: 848
+        isCached: true
   - title: "Artificial Intelligence in Banking: Transforming Customer Experiences with FinTech"
     excerpt: "Introduction Artificial Intelligence (AI) has become a revolutionary force in the banking sector, reshaping the way financial institutions operate and interact with their customers. In tandem with Financial Technology (FinTech),"
     publishedDateTime: 2023-11-21T12:21:00Z
@@ -55,29 +71,20 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "AI-Powered Dobin To Unveil Groundbreaking Financial Insights Feature At Singapore Fintech Festival"
-    excerpt: "Revolutionary Financial App to help Singaporean achieve Financial Wellbeing  <li /> Dobin announced the launch of a first-of-its-kind 'F"
-    publishedDateTime: 2023-11-17T09:21:00Z
-    webUrl: "https://menafn.com/1107445243/AI-Powered-Dobin-To-Unveil-Groundbreaking-Financial-Insights-Feature-At-Singapore-Fintech-Festival"
+  - title: "O’Reilly “Generative AI in the Enterprise” 2023 Report"
+    excerpt: "In an era marked by rapid technological evolution, the landscape of artificial intelligence is undergoing a monumental shift, spearheaded by the advent and integration of generative AI. O'Reilly, a leading beacon in technology and business learning,"
+    publishedDateTime: 2023-11-21T16:32:00Z
+    webUrl: "https://www.unite.ai/oreilly-generative-ai-in-the-enterprise-2023-report/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
+      name: unite
+      domain: unite.ai
+    quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?819939"
-        width: 375
-        height: 250
+      - url: "https://www.unite.ai/wp-content/uploads/2023/11/9d68dfbf-055b-4873-845c-ab4b4963221b-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "The Soaring Growth of Fintech Startups in Hong Kong"
-    excerpt: "In recent years, Hong Kong has emerged as a dynamic hub for financial technology, witnessing a significant surge in the number of fintech startups. This phenomenon reflects a global trend where traditional financial systems are being reshaped by innovative technologies."
-    publishedDateTime: 2023-11-17T09:29:00Z
-    webUrl: "https://techbullion.com/the-soaring-growth-of-fintech-startups-in-hong-kong/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
   - title: "MAS launches latest range of fintech initiatives"
     excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."
     publishedDateTime: 2023-11-20T12:45:00Z

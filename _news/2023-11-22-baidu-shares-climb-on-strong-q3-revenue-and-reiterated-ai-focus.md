@@ -7,7 +7,7 @@ originalUrl: "https://tokenist.com/baidu-shares-climb-on-strong-q3-revenue-and-r
 webUrl: "https://tokenist.com/baidu-shares-climb-on-strong-q3-revenue-and-reiterated-ai-focus/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu beats Q3 revenue estimates, reiterates AI investment plans to spur growth"
-    excerpt: "(Reuters) -Chinese tech giant Baidu on Tuesday beat third-quarter revenue estimates and reaffirmed its commitment to invest in artificial intelligence to power future growth. Revenue for the quarter ended Sept."
-    publishedDateTime: 2023-11-21T12:58:00Z
+  - title: "Baidu says sees limited impact from U.S. chip curbs after Q3 revenue beat"
+    excerpt: "Baidu has enough artificial intelligence chips stockpiled to soften the impact of U.S. technology export curbs on its business for now, the Chinese tech giant said on Tuesday after reporting forecast-beating quarterly revenue."
+    publishedDateTime: 2023-11-21T18:19:00Z
     webUrl: "https://www.aol.com/baidu-beats-q3-revenue-estimates-090740285.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 37
+    quality: 55
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/3aa8ddde2648dbe16efbfd4f98c6b0d3"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Baidu beats Q3 revenue estimates, reiterates AI investment plans to spur growth"
+    excerpt: "U.S.-listed shares of Baidu were marginally higher in pre-market trade. Baidu has in recent years focused increasingly on AI, creating a self-driving vehicle and investing heavily in generative AI, which is capable of creating text, images and other media."
+    publishedDateTime: 2023-11-21T02:57:00Z
+    webUrl: "https://www.aol.com/news/baidu-beats-q3-revenue-estimates-090740285.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 35
     images:
       - url: "https://media.zenfs.com/en/aol_reuters_29/3aa8ddde2648dbe16efbfd4f98c6b0d3"
         width: 800
         height: 534
         isCached: true
 
-secured: "BhfsFhh6/yPYxeW/k5mW4JX49xM5dczLsnGLeDNUjNILLbbEqkbPSJBNButL02OpJI8HgztXTfyLHHWVTTvMc9kKf5qghXHsGTSdQl1mgekRb23a0SRYp+4MAdFptz7MS4gH68c7Qnv6bC/2PTvKTd8FPexCRgLZLEl31IoSyw1NRpZhkAtG/R+PEt6OySVseEdiYXYx2Ni2o899VG+vRPmwUeFBJeu+p3ON9QRsmzKbz5j1QgHIOp/ipb/SenWTwFEwp1qAf/pnCJJNUbnN17ThTUAIYz45mLtnDEDpo1GWNqeR8GkFXyzcRQam+WbzSuqEaM+L20a+1O8B6KRaY8Ylk530byKNcyopoIayOwI=;c4UWSgsHWMH82/hyg/1MCg=="
+secured: "GW8StaXAtdnTdKfYKqTUDCzw5zFHotUSdwch1EbXDXfJQC+Ro7zg2fJRdui2sbFmzxMzpfv+cZMXhBcnaImGZHBPOg/XYR9K5ZMnAAWKVepFRuNRU/Yv0YvEm/9tw8u4dDo/nV49V3fEEOu8OYU5xQiX6r91/7eUwMsOYOteMVhNg7y3xQD7WimxrkT9CGJZT8kcKkjx6O0YXua08K6d/QmHpbOC3YT3j3LXz9mSHCPt5eZYAiBaufr/9NX4TjDYuTTaIpQvDN1gx4aOXVR5V9gNwnw2rxgN8kD4tgIEeKRfVvLxbGLBrpW3AZvJDYNTVwmESCGGbuAk4TmcbdqWaokXOwm90kEdpdKOrv0vtVAf2LEZrcNr8bXsAE0RmHDRUo5E+rctzpiKX71N1n3OilVRTYBSeoPJwGWqe+jfC17oJHzlC4uoQsrAqSu5fIjI4uvrbPg87ChvMxm9HgeEFLsYtyHENhY+OUx7yEtLl+qeQeRaho/isLtXVzeZja3QJZQdBhWTsbJJP/NMLmfl1w==;bL6rx1xVVlV/PmsD4z0ygw=="
 ---
 

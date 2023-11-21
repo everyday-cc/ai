@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/black-friday/amazon-black-friday-deals"
 webUrl: "https://www.techradar.com/black-friday/amazon-black-friday-deals"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,31 @@ topics:
   - AWS AI
   - AI
   - AI in Sales
+
+related:
+  - title: "Your Black Friday observability checklist"
+    excerpt: "A checklist to help you find and implement the best possible observability platform to keep all your applications running bright.\nThe post Your Black Friday observability checklist appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-21T22:47:36Z
+    webUrl: "https://www.ibm.com/blog/your-black-friday-observability-checklist/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
+  - title: "5 Best Black Friday Sales for AI Tools"
+    excerpt: "Welcome to the most awaited Black Friday event of the year, where cutting-edge AI tools meet unbeatable deals! As the tech world buzzes with excitement, we bring you a curated selection of the finest AI tools and applications,"
+    publishedDateTime: 2023-11-20T16:31:00Z
+    webUrl: "https://www.unite.ai/black-friday-sales/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 56
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/11/black-friday-AI-tools-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "lvtleYX/nUdDTNOAL99VdVFD3XFX7MbZXotOTJx/dLx5NVM7vrQDzOTBXgY8OTksWx/DShLMHl2wnSoaoFUTVtBxVOdW6rBM4y9WllfW/mMPWZn65TtTb9XA39oLquiNJw6HMj10DDnKed3Z6MZLiywTQaQsnxWG33Vd0FHBbJOjedCmAOIuiqstUovNX+z6V6HEwn1eMZjgPouDK/Rg7qdMAeKNr8LgcN1WTdN1GPOO6OlNfxdZhuwiu4m4dvSQ4rMbUVmtypURczZ47vUZFeMebyMwkTnl6rl53l89l7xv2GeJzUG5IqyjlT5DsO/M94U/4K3ukZctpufS3qBsN/WSmwlA4e130d0rcEhqo4o=;x0VU8eUC9o8CMgdrGX01Ww=="
 ---

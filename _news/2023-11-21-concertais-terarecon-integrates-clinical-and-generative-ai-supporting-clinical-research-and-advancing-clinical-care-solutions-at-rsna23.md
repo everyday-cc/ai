@@ -101,6 +101,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Nvidia collaborates with Genentech to accelerate AI-driven drug discovery"
+    excerpt: "Nvidia said its offerings will accelerate the training and inference of generative models used in Genentech’s “lab in the loop” framework, where extensive experimental data is fed into models for iterative drug discovery."
+    publishedDateTime: 2023-11-21T19:27:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-collaborates-with-genentech-to-accelerate-ai-driven-drug-discovery/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 48
   - title: "Elevate Your Teaching Career with Educational AI Tools"
     excerpt: "As with other technological advances in the past, AI isn't going anywhere. You can unlock new teaching tools that also prepare your students for tech jobs."
     publishedDateTime: 2023-11-20T01:32:00Z
@@ -143,6 +152,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Neo4j Signs Strategic Collaboration Agreement with AWS to Enhance Generative AI Results While Addressing AI Hallucinations"
+    excerpt: "Reduced Hallucinations: Neo4j with Langchain and Amazon Bedrock can now work together using Retrieval Augmented Generation (RAG) to create virtual assistants grounded in enterprise knowledge. This helps customers by reducing hallucinations and providing more accurate, transparent, and explainable results."
+    publishedDateTime: 2023-11-21T16:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-neo4j-signs-strategic-collaboration-agreement-with-aws-enhance-/2023/11/21/9921925.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "Bm1aa0ohigVdu3XbtsmbPNtjxHSLnb7Pp/4CzugI+XMjItKMe+IUpxG05MoJl4NQmBSetHcOsqjzvdHWiaKQanFQ+pDYhGWLLzHY01TEhi00lr8ykfucDYPVjTDte3fSONHxc0AuoiXsNpw4jR3Vwj32yKUFdgSlOz3cv0b92gou0loNgKw9f4z2OE55VvRVwPNvhloSXHm9DRibsdm2CkhobCj8qBvHyH27PBD8cY+V8KFoFklITpx6XgVQYpAzeo5NScaNZMm+yF8fpQl7Tytfwjsf8OWzqn0E9nm2U3KTx9FGrqUX/cS4ZRfP8eabXsYnWdTLJca+efeOQeaTaNAeZwwdywHom+I27D2kL28=;ehXLS2P5bJQUhgyPiSVksA=="
 ---

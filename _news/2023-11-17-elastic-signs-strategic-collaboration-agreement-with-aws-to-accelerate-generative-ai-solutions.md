@@ -89,6 +89,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Nvidia collaborates with Genentech to accelerate AI-driven drug discovery"
+    excerpt: "Nvidia said its offerings will accelerate the training and inference of generative models used in Genentech’s “lab in the loop” framework, where extensive experimental data is fed into models for iterative drug discovery."
+    publishedDateTime: 2023-11-21T19:27:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-collaborates-with-genentech-to-accelerate-ai-driven-drug-discovery/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 48
   - title: "Elevate Your Teaching Career with Educational AI Tools"
     excerpt: "As with other technological advances in the past, AI isn't going anywhere. You can unlock new teaching tools that also prepare your students for tech jobs."
     publishedDateTime: 2023-11-20T01:32:00Z
@@ -140,6 +149,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 15
+  - title: "Neo4j Signs Strategic Collaboration Agreement with AWS to Enhance Generative AI Results While Addressing AI Hallucinations"
+    excerpt: "Reduced Hallucinations: Neo4j with Langchain and Amazon Bedrock can now work together using Retrieval Augmented Generation (RAG) to create virtual assistants grounded in enterprise knowledge. This helps customers by reducing hallucinations and providing more accurate, transparent, and explainable results."
+    publishedDateTime: 2023-11-21T16:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-neo4j-signs-strategic-collaboration-agreement-with-aws-enhance-/2023/11/21/9921925.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "W4pc3DGahVkbBZCebqfKU/7+xSwWsrRKbtTAY52jy7IhbdVYiRFxmMsNUyOTl7635biCPQrMdsefktKrhumrW9I9UGeG2XmaT1VMKKum75r5onMPnkqnFMyrEeDxqE9rAulf7c0+fiD9kvN7NHSBEAfEzO2dNpruVNzrbnJn0IulR2RmKl2OtyZZ/+GEqsaOMXhePt1fLrkhRne5vrb9SptzVCPzzoQCZ3OoTPUhXbEzM8JG8eb8I3y+l7eSY1JWBHGOmHpHDdsfa3CnUPeAMBYoJbZ4tmvtRV787meE/BCfR5eIBTX1lUdrvXgCDfsaJGRHbwaNkoS0jfW94zBySPxpgkzy4ppKwsZrIl1GSCf2/96e+T0qrS/kFS9sIlK0w21tQhCUHX0BdPW9p3l7dbJXBSJ+e3iOI98kP5tCKhJzC1afYH2fiACh74CwfkT/QNsv2pB/AJnnewi17V7Eq6mkOnKe6SQQ60MWuLdEdTcOr6Qegddva48iH1T7u2q31Jgv4KhgeSYxYxXngPauDQ==;WQfhIgaZnlhtyVU1IUryqw=="
 ---

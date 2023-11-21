@@ -250,6 +250,15 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 34
+  - title: "OpenAI, Microsoft hit with new author copyright lawsuit over AI training"
+    excerpt: "OpenAI and Microsoft were sued on Tuesday over claims that they misused the work of nonfiction authors to train the artificial intelligence models that underlie services like OpenAI's chatbot ChatGPT."
+    publishedDateTime: 2023-11-21T22:53:00Z
+    webUrl: "https://www.aol.com/openai-microsoft-hit-author-copyright-205330946.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 33
   - title: "Schneider Electric drives Generative AI productivity and sustainability solutions by integrating Microsoft Azure OpenAI"
     excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of working• Collaboration with Microsoft in artificial intelligence is f"
     publishedDateTime: 2023-11-18T13:05:00Z

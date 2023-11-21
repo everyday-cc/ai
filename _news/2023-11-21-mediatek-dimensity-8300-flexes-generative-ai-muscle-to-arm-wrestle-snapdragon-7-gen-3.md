@@ -39,15 +39,6 @@ related:
         width: 1694
         height: 953
         isCached: true
-  - title: "Qualcomm’s newest chip will bring AI to cheaper Android phones"
-    excerpt: "Qualcomm's new midrange processor, the Snapdragon 7 Gen 3, will make its way to Android phones that will be announced toward the end of this year."
-    publishedDateTime: 2023-11-17T05:30:00Z
-    webUrl: "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-7-gen-3-mid-range-android-phone-chip-news/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 64
   - title: "MediaTek unveils Dimensity 8300 with generative AI capabilities"
     excerpt: "MediaTek unveils the Dimensity 8300, a powerful and efficient mid-range smartphone chipset with impressive performance and AI capabilities."
     publishedDateTime: 2023-11-21T10:03:00Z
@@ -90,6 +81,6 @@ related:
       domain: nextgov.com
     quality: 34
 
-secured: "cFtiRBFjxgomFQwEGswh+fc4r7u0sj84kcpvDszBSlFB5C996HiJSW0mRKyThVya+Gjau+n30sz1Pd8tjkJZpQ3n0dtW/L23CCtk+jhjR/9unEW1W8TrKozW7RJkzUhqSAxKgjprdRK8xqs8iVbGaowH2cyqrKgnX2Zqzdr1CkBpc8wINZHOxh7C57MH1rLXmIWk3AbW1E4WZKYr0Fr+Yea/0wGQMZ2xYhGqhaaj9AddnuedY4VgyUWMBcCaqb+BQMRVmII5sye4nwHSjIujszkkI4rQJCDEXa2PvJrrdHP9FeZj9afVyp+KqKi+qkVgffv6LZsiUXU+CWrQAyIX3VzeHTsHwY6eNFE7JZoz+TA=;U4aELX8biJejBardIGzt/A=="
+secured: "66Gx133clIutbca0oCRQn5pTtMsto5rc8bxjAq2Bs592av8S7gqN1bHI7yONZt8HG9OZxcH+VYgYBUC+OmA6nY4kqE/oQfWR6vugG9AR1S9Fo3bqUHfL+P7CSk9GNPntmgqSWDVKrb+GYaLiLy8rGsdaBrtMxqsmxU8Zol55vQYZq4txS1RhjxqA5aOy5kEFj8INbRwrgJE1aSNo3EEfAgwaCf+beA4QJCYIRTlAocmj85kjelBTBLGyV5s6QPqULr2j0/XpM5yWLPUiFvhFTlMDOMlGkaYHj1zKdOoWppCyWrKAia/QNoIkOyfYh8Wgw/23h/am4GZrs8Nhbl9n2wld5w5hWDopw6Aog2j6fqm3iGmz8tct4JyPNCeJRxoCurq9Ic5oGoKdN/sbFOQNh4JqAqrowdHkuRpOqd4bTAa6RsesUQfNPW/K9HuntQ5LRRxCa0iGbdBbh6lbmrUNnyOPwxN4Ifpbh0j02h+4k0crKs/cIqTvyGyENGwEuYL2Qxk4L33OCyjrTtgQug/PDQ==;2HGrOCjy8apSTIMpYaa9zQ=="
 ---
 

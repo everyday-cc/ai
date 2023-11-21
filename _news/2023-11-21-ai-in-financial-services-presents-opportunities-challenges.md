@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Generative AI: UK Business Leaders Face Investment Challenges as Everyone Claims to Be an Expert"
+    excerpt: "Separate surveys by EY and KPMG highlight the pressures CEOs face in cutting through the noise and investing wisely in generative AI."
+    publishedDateTime: 2023-11-21T20:26:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-uk-business-investment-challenges/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 58
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/tr_20231121-generative-ai-uk-business-investment-challenges.jpg"
+        width: 1400
+        height: 900
+        isCached: true
 
 secured: "r3hgKWs9EPyC+tZsL8ierTTCOcPSQntk14hCon5LaTUWoQnmI5TflVub1ceVuxDq6as3wlAFPmMJBkXCgRxfrCFug/nYIOPjRtrzgqB3zLCGxNBPSl6ZTVxZHVzkw3mCdNoZfHiOUUqd159bzxk0ZmRa7b0ce2DH23lHqxL87ipySK4dca4IlzkvDs3GmtIUxaPpQSK/CyjwcXOWY3zwqTtOJjHGovEemkA7QMzu3+GZtZZ9H5khkofOSks3kELmWX/rNOnos75JaHIpCw+eh/vk+veO+INHSkXJkmabmB4BI5b94EEnCZwVkSfLX1GZZWFPmgVsVbR9QrJBUeYLB6cXdjxmZxitfh3fEt1oikYWSs00CIperv80oDPP3uNOM4eJSirhGi9T+i/d2sbuvmpbnI5IlKQLyRWLD8sbpboHLz1fLSC24pro4TXrUMiO0ESmNTZakeKTko8vhSR6wYTpeOZGlDLnzRXE4jSrQPYjnmN1xb92kqgLRuA9Y+U+FelyEzidF20Pfnt0OKwfAQ==;0DsVNLdoEKsc/tzyeNXkaQ=="
 ---

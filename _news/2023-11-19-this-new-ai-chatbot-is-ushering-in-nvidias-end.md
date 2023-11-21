@@ -156,6 +156,20 @@ related:
         width: 277
         height: 239
         isCached: true
+  - title: "ChatGPT turns 1: A generative AI status report"
+    excerpt: "Nov. 30 will mark one year since ChatGPT’s public debut, and some experts are surprised we're not using AI tools even more."
+    publishedDateTime: 2023-11-21T22:39:00Z
+    webUrl: "https://www.marketplace.org/2023/11/21/chatgpt-turns-1-a-generative-ai-status-report/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 39
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/11/GettyImages-1753524489-e1700602163153.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AWS to power Yellow.ai’s AI-powered voicebot, chatbot solutions globally"
     excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions globally."
     publishedDateTime: 2023-11-20T20:26:00Z
@@ -188,6 +202,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
+  - title: "Anthropic updates Claude 2.1 AI chatbot to process bigger files and improved safety"
+    excerpt: "Anthropic, an artificial intelligence startup geared toward building trustworthy AI models to rival OpenAI LP’s ChatGPT, today announced an upgrade to its Claude chatbot that advances its core features with significantly improved safety, a much larger context window and a new third-party tool use feature."
+    publishedDateTime: 2023-11-21T19:23:00Z
+    webUrl: "https://siliconangle.com/2023/11/21/anthropic-updates-claude-2-1-ai-chatbot-process-bigger-files-improved-safety/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 11
   - title: "7 Biggest Questions About ChatGPT, Answered by Gartner Experts – Gartner"
     excerpt: "Contact or call jsbacContact April 5, 2023Contributor: Ava McCartneyGartner experts weigh in on how it’s valuable and whether it’s safe to"
     publishedDateTime: 2023-11-19T13:42:00Z

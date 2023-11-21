@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/industry-generative-ai-cha
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/lite/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Financial Express
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI: UK Business Leaders Face Investment Challenges as Everyone Claims to Be an Expert"
+    excerpt: "Separate surveys by EY and KPMG highlight the pressures CEOs face in cutting through the noise and investing wisely in generative AI."
+    publishedDateTime: 2023-11-21T20:26:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-uk-business-investment-challenges/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 58
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/tr_20231121-generative-ai-uk-business-investment-challenges.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "AI in financial services presents opportunities, challenges"
     excerpt: "AI in the financial services industry can provide tools to help consumers as well as challenges for professionals."
     publishedDateTime: 2023-11-20T17:12:00Z

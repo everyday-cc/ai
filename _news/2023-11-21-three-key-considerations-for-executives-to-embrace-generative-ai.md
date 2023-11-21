@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -55,6 +55,34 @@ related:
       name: IBM
       domain: ibm.com
     quality: 84
+  - title: "There’s a generative AI rocket under Nvidia."
+    excerpt: "The company’s Q3 2024 earnings reveal $18.12 billion in revenue for the quarter, with $14.51 billion from its data center business as the world’s AI companies jockey for Nvidia’s chips. That overall revenue number is a 206 percent jump from last year and marks a continuing growth trend for the company."
+    publishedDateTime: 2023-11-21T22:24:00Z
+    webUrl: "https://www.theverge.com/2023/11/21/23971573/theres-a-generative-ai-rocket-under-nvidia"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 69
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/izC6fxOO-rWRM98s9kO2VURBg84=/0x0:1923x1080/1923x1080/filters:focal(962x540:963x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25103224/image__6_.png"
+        width: 1923
+        height: 1080
+        isCached: true
+  - title: "C3 AI brings its C3 Generative AI platform to AWS Marketplace"
+    excerpt: "C3 Generative AI is built to process both structured and unstructured records. C3 Generative AI: AWS Marketplace Edition, the new version of the platform that debuted today, has a narrower focus. It’s designed to help users more easily analyze text stored in files such as Word documents, PowerPoint presentations and webpages."
+    publishedDateTime: 2023-11-21T22:26:00Z
+    webUrl: "https://siliconangle.com/2023/11/21/c3-ai-brings-c3-generative-ai-platform-aws-marketplace/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/unsplash-2.png"
+        width: 1032
+        height: 580
+        isCached: true
   - title: "How Generative AI Is Redefining Creativity For Marketers"
     excerpt: "AI platforms like Memorable are reshaping ad landscapes with innovative tools designed to enhance personalized ad strategies."
     publishedDateTime: 2023-11-17T10:15:00Z

@@ -25,6 +25,17 @@ images:
     height: 1333
     isCached: true
 
+related:
+  - title: "Emmett Shear, the new head of OpenAI: A ‘doomer’ who wants to curb artificial intelligence"
+    excerpt: "Shear believes there is a high risk that AI will become self-aware, initiate a process of continuous self-improvement and end up destroying humanity. And now he leads the company behind ChatGPT"
+    publishedDateTime: 2023-11-21T20:13:00Z
+    webUrl: "https://english.elpais.com/technology/2023-11-21/emmett-shear-the-new-head-of-openai-a-doomer-who-wants-to-curb-artificial-intelligence.html"
+    type: article
+    provider:
+      name: El País in English
+      domain: elpais.com
+    quality: 24
+
 secured: "chFhtaxRB+rLCgfrOaTOO9YsdVYlujJO/yWJkGTAmu9FhCcj20ROw9Kf6DQNW6xOobwrj6T07GljnHKQ/C5w+a66gIVym4lNG8cjcTWFhByEjjT8ckC3YBzh7Y/076YzHMVDC1dkjJLnQn9NOcHwnIEP4AM996cGi9czrwLaucYOQdMSBXj11U5ntPrwfVyPUHg5fhKLIcrBa8bPfTkwHT3mh+XZF/S64le22zVM8dBFQZXObTcrYmGYU2s/fzmsSOlPw9k9gaBb6iX5RaH03Ekcq3XfXojmdb98ATyDlPGFUNzyUgbClMTMcxV9/98VEGd9Y4G12DUG8XmLGhC8rG8ysD7Om3b1yAe4VakTAx8QZh/tgEr0PEp3aj9V5jGJamRWmYoC6HoWcsgnIemzhNWE7WXVSpMRaweJs7HxHIUhugD1euGYBAqF1pMZX6Al0R5ykVR8ExVMYql1y5hEobkdszzs9btj/yIFAbTSFlodnieLX2VAMJmS4W7alg1HA8YudcUqcOwgKcRkvd16cg==;e6DEjdqnCDm84y3bfFc1PQ=="
 ---
 

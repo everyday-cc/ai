@@ -103,6 +103,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Nvidia collaborates with Genentech to accelerate AI-driven drug discovery"
+    excerpt: "Nvidia said its offerings will accelerate the training and inference of generative models used in Genentech’s “lab in the loop” framework, where extensive experimental data is fed into models for iterative drug discovery."
+    publishedDateTime: 2023-11-21T19:27:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-collaborates-with-genentech-to-accelerate-ai-driven-drug-discovery/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 48
   - title: "Elevate Your Teaching Career with Educational AI Tools"
     excerpt: "As with other technological advances in the past, AI isn't going anywhere. You can unlock new teaching tools that also prepare your students for tech jobs."
     publishedDateTime: 2023-11-20T01:32:00Z
@@ -140,6 +149,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 15
+  - title: "Neo4j Signs Strategic Collaboration Agreement with AWS to Enhance Generative AI Results While Addressing AI Hallucinations"
+    excerpt: "Reduced Hallucinations: Neo4j with Langchain and Amazon Bedrock can now work together using Retrieval Augmented Generation (RAG) to create virtual assistants grounded in enterprise knowledge. This helps customers by reducing hallucinations and providing more accurate, transparent, and explainable results."
+    publishedDateTime: 2023-11-21T16:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-neo4j-signs-strategic-collaboration-agreement-with-aws-enhance-/2023/11/21/9921925.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "ZgjBtiw0IF6+MjTN1cUY1B/H9euZo3g9T1Et0/7IhKU8a8f8Ep4yeIn1Mqbvxe4qP00/z5oWt74HWuZRz+T5zhsY7iBwFh2WeeCXkarxGiBlNxhSkbk9a5vrh1abYpuUq24oWwAsngQqKKXMz1/t25+5uHCMC0X4k8De0idY9mbJe9Ok9EGggIje0MpTIUSb/Xy8c+ck4lR8sqh7V6Xs5uqQMapv81g7g4G8aWQMGyDnaEycxzztdrfaB3ZLcyEEiTrZ+IqoS0l42wf/5cAq6YubwfnUzCp7AkZdwSCaPt2utzrBOxZavHbzGkiYhJh54QoKfrUD+xeVFrk38R3fbiRCxpa6dsQD3ga3tKHlEZI=;KjXOirqTwrIrv7Cbgwa0wQ=="
 ---

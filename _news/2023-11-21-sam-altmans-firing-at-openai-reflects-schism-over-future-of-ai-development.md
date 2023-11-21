@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Hires Sam Altman Hours After OpenAI Rejects His Return"
+    excerpt: "The announcement capped a tumultuous weekend for OpenAI, after Mr. Altman made a push to reclaim his job as C.E.O. of the artificial intelligence company."
+    publishedDateTime: 2023-11-20T16:19:00Z
+    webUrl: "https://www.nytimes.com/2023/11/20/technology/openai-altman-ceo-not-returning.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 86
+    images:
+      - url: "https://static01.nyt.com/images/2023/11/20/multimedia/20openai-tkjv/20openai-tkjv-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Microsoft Says Sam Altman and Greg Brockman Will Lead New In-House AI Team"
     excerpt: "Application error: a client-side exception has occurred (see the browser console for more information)."
     publishedDateTime: 2023-11-20T08:45:00Z
@@ -121,6 +135,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 69
+  - title: "Sam Altman Is Said to Be Discussing Return to OpenAI With Company’s Board"
+    excerpt: "Mr. Altman was forced out of the artificial intelligence start-up on Friday, leading to an outcry from his supporters and the company’s investors."
+    publishedDateTime: 2023-11-19T17:27:00Z
+    webUrl: "https://www.nytimes.com/2023/11/18/technology/sam-altman-openai-board.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 68
+    images:
+      - url: "https://static01.nyt.com/images/2023/11/18/multimedia/18openai-altman-1-whzc/18openai-altman-1-whzc-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Sam Altman Was in Talks to Raise Billions for AI Chip Venture Before OpenAI Ouster"
     excerpt: "Altman was said to be travelling to the Middle East to fundraise for the project, which was code-named Tigris."
     publishedDateTime: 2023-11-20T07:15:00Z
@@ -268,6 +296,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Sam Altman Will Probably Remain AI’s Chief Diplomat"
+    excerpt: "Whether he works at Microsoft, returns to OpenAI, or pursues a third, unknown path, Altman’s power has only been concentrated by the events of the last week."
+    publishedDateTime: 2023-11-21T19:18:00Z
+    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/11/21/sam-altman-likely-to-remain-ais-chief-diplomat/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "OpenAI’s leadership coup could slam brakes on growth in favor of AI safety"
     excerpt: "All the signs point to a split between co-founder Ilya Sutskever and Sam Altman, after Sutskever become increasingly concerned that Altman was pushing OpenAI's business expansion too quickly, at the expense of safety."
     publishedDateTime: 2023-11-18T23:02:00Z
@@ -276,6 +313,15 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
+    quality: 45
+  - title: "Schneider Electric Integrates Microsoft Azure OpenAI for Sustainable Solutions"
+    excerpt: "Schneider Electric tapped into its collaboration with Microsoft to integrate Microsoft Azure OpenAI into its operations, utilizing algorithms to generate text, code and diverse content."
+    publishedDateTime: 2023-11-21T20:17:00Z
+    webUrl: "https://www.iotevolutionworld.com/iot/articles/457794-schneider-electric-integrates-microsoft-azure-openai-sustainable-solutions.htm"
+    type: article
+    provider:
+      name: iotevolutionworld.com
+      domain: iotevolutionworld.com
     quality: 45
   - title: "Microsoft says Altman will lead new in-house AI team, as OpenAI board hires former Twitch CEO to lead start-up"
     excerpt: "The twin moves mark a turning point in the frenetic aftermath of Altman’s firing, which stunned Silicon Valley and set off a campaign led by Nadella and other OpenAI executives to get Altman reinstated."

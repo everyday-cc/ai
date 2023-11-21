@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/oreilly-generative-ai-in-the-enterprise-2023-
 webUrl: "https://www.unite.ai/oreilly-generative-ai-in-the-enterprise-2023-report/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,77 @@ images:
     height: 600
     isCached: true
 
-secured: "yeHiprM2mmqgkL6mx1jatcoXx8bJ6BgQnWBG5vdEp8Ywuvs2A6Xc7bbkM/2RPHbD2ojQy4YOs04XBb1la7ILFtgJSs1Trxdq2WoAOBLItuMBLqblzA75vYALsWutJUMYgMO5wNIbLh/3L2uSnrI0Zw8crr46FDoIUHGslPC+y8FkPlQamtMXPPRH8OmrH4s5qTai/3kdvPG1Za8zgBfybxm7VJkifQvZakl01IE3WoBXB2LL4haUf2AmhYHkMlsq4i3COyvlCwnabBAyMnjFQBPQJv6E6SfA4xPdQEzRbTlS/Q36C6HOnd6RE0pOYAeg8r55dULb/2riwiDxHH0b+u7RZAbwCnyFxxm9bdfVKgI=;ve789hnCgAT+asedYZD9EQ=="
+related:
+  - title: "Fintech Sector Is Undergoing Transformation with Rise of Open Finance, Generative AI, A2A Payments – Report"
+    excerpt: "The whitepaper found that “the fintech market is undergoing a rapid shift, with the rise of new technologies, such as Open Finance, generative AI and A2A (account-to-account) payments having a major impact on business models.” This is combined with unp ..."
+    publishedDateTime: 2023-11-21T21:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 56
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/NYSE-New-York-Fintech-1024x848.jpg"
+        width: 1024
+        height: 848
+        isCached: true
+  - title: "Artificial Intelligence in Banking: Transforming Customer Experiences with FinTech"
+    excerpt: "Introduction Artificial Intelligence (AI) has become a revolutionary force in the banking sector, reshaping the way financial institutions operate and interact with their customers. In tandem with Financial Technology (FinTech),"
+    publishedDateTime: 2023-11-21T12:21:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-in-banking-transforming-customer-experiences-with-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 48
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Artificial-Intelligence-in-Banking-Transforming-Customer-Experiences-with-FinTech.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Iceland’s tech clustering – a volcanic focus on fintech"
+    excerpt: "Another area where fintech can play a part in improving the efficiency of financial trading and movement is in the identification and management of fraud, and in particular money laundering. Another member of Iceland’s fintech cluster, Lucinity, has set its sights on providing new tools for the task."
+    publishedDateTime: 2023-11-20T10:45:00Z
+    webUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech"
+    ampWebUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 44
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-11/kirkjufell-2148191_640.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Singapore’s fintech sector struggling to find talent"
+    excerpt: "In a 2021 Accenture survey, nearly two out of three firms blamed their talent gap on not being able to get work permits for foreigners. Nowadays, only 37 percent cite difficulty in securing employment passes as a hiring challenge. For this dramatic change, the employers and employees should thank Hong Kong."
+    publishedDateTime: 2023-11-20T15:59:00Z
+    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/11/21/2003809473"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 24
+    images:
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "MAS launches latest range of fintech initiatives"
+    excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."
+    publishedDateTime: 2023-11-20T12:45:00Z
+    webUrl: "https://www.euromoney.com/article/2ch7qdhmxyq9fpfz71dz4/fintech/mas-launches-latest-range-of-fintech-initiatives"
+    type: article
+    provider:
+      name: Euromoney
+      domain: euromoney.com
+    quality: 4
+
+secured: "ET4/9dQ+UWvLdocpL9c9sNlA70e0Q5l7t44KdroF8kPu8Q2gESkrGHn6ki3MzgIMBunXc8se6AzuHimnSGbW2yZJ7+/SNSjIjrvqCELe7phyw3qtNLLoS7ozTYZdeE77Sx7SznwDIdzLb4ylCWAq7FyoODi2iBqI4ytz/X9k9PwQrUZ21CsDAkPxJw1TmAAbgCMbF9BevkNZ1YqN4suHjYjle+ykhNcsAa3HhfdsskXYnqLCz90+kBuv9Qe4TIg2EcNODHeEWKoa7xB021RZZM2WWwEd42wbdDg1Hx8GGDkP66rXPZv+LimfGkwQwVQQI7g70cboQaN73smJ1OTZMusiqCjZBAxu2mCNEcnPJpMUxarfSFX+BagQh8zSZULD5aiYsHMrKGMA8Mu8cjsyaitoBpzCapfXN8eLvt6HNvkVJUubghucrL7pr2ka+Lo1OcmScV75CMxL3YkqGywHlrWUHz/eIXQ9UX9BOWPZ1IqDAugpa7LbI6DkJdc9KIKWUbgAc+Y4J8nDNJeb8AQKtA==;0wSxOqIBv6XQNLJov/e7Cw=="
 ---
 

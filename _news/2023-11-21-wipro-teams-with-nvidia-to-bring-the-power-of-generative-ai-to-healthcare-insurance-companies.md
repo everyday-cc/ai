@@ -123,6 +123,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 19
+  - title: "Nvidia earnings in focus as AI hype translates to profit surge, record stock price"
+    excerpt: "Nvidia is expected to report Q3 sales nearly tripled amid as demand for AI-related chips surged. But new limits on exports to China could blunt its forecasts."
+    publishedDateTime: 2023-11-21T15:29:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-earnings-in-focus-as-ai-hype-translates-to-record-highs-profit-surge"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 11
 
 secured: "fgBonXfXWld85WSjvQPQM/5gZfWjnytqWeyPN3BHJ84abGBKlzt3WQT+M2LtzgWwYc1Q/t13UYgPsuzbyOpZdJJKh29ge8aEsXNyckRkZUwWiAHh8QjpkTQjqmNZOZi3ovoLuUgrK2y39iLI4bfHBM8g86clXwUNOHrprAhYGtxyt4+WPUrWZXQWF2NSPaivGYSrBh7eYqq5AiGQlGG87D1wBBTtH5gfn5q3iKNEJZjp++G3EeTajIBidyK56voh0ThhpBrhXxZH92eY9/41Hb1MfY6CQWA086Oz+zZzwCrHZ6ZdI4n1LFcpyV54tXtav8D7AV1RidwxEIOaYp/3KdjReQN6qbBBIJVFOkuuf9I=;eo5de+1OxI9cP1YTmJmOmg=="
 ---

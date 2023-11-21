@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Here is how far we are to achieving AGI, according to DeepMind"
-    excerpt: "Google DeepMind's latest insight on the journey to artificial general intelligence (AGI), outlining a framework for classifying AGI."
-    publishedDateTime: 2023-11-17T06:31:00Z
-    webUrl: "https://venturebeat.com/ai/here-is-how-far-we-are-to-achieving-agi-according-to-deepmind/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "Google DeepMind Launches Lyria, Transforming the Future of Music with AI"
     excerpt: "Google's collaborative efforts with industry experts in YouTube's Music AI Incubator aim to innovate music AI tools."
     publishedDateTime: 2023-11-17T12:53:00Z

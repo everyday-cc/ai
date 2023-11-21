@@ -23,6 +23,15 @@ topics:
   - AWS AI
 
 related:
+  - title: "Machine Learning with MATLAB and Amazon SageMaker"
+    excerpt: "This post is written in collaboration with Brad Duncan, Rachel Johnson and Richard Alcock from MathWorks. MATLAB  is a popular programming tool for a wide range of applications, such as data processing, parallel computing, automation, simulation, machine learning, and artificial intelligence. It’s heavily"
+    publishedDateTime: 2023-11-21T19:40:27Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-with-matlab-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
   - title: "Retrieval-Augmented Generation with LangChain, Amazon SageMaker JumpStart, and MongoDB Atlas semantic search"
     excerpt: "Generative AI models have the potential to revolutionize enterprise operations, but businesses must carefully consider how to harness their power while overcoming challenges such as safeguarding data and ensuring the quality of AI-generated content. The Retrieval-Augmented Generation (RAG) framework"
     publishedDateTime: 2023-11-17T16:25:16Z
@@ -37,6 +46,15 @@ related:
         width: 469
         height: 253
         isCached: true
+  - title: "How Amazon Music uses SageMaker with NVIDIA to optimize ML training and inference performance and cost"
+    excerpt: "In the dynamic world of streaming on Amazon Music, every search for a song, podcast, or playlist holds a story, a mood, or a flood of emotions waiting to be unveiled. These searches serve as a gateway to new discoveries, cherished experiences, and lasting memories. The search bar is not just about finding"
+    publishedDateTime: 2023-11-21T19:43:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-music-uses-sagemaker-with-nvidia-to-optimize-ml-training-and-inference-performance-and-cost/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
   - title: "KT’s journey to reduce training time for a vision transformers model using Amazon SageMaker"
     excerpt: "KT Corporation is one of the largest telecommunications providers in South Korea, offering a wide range of services including fixed-line telephone, mobile communication, and internet, and AI services. KT’s AI Food Tag is an AI-based dietary management solution that identifies the type and nutritional"
     publishedDateTime: 2023-11-20T20:46:18Z
@@ -46,6 +64,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 74
+  - title: "Text embedding and sentence similarity retrieval at scale with Amazon SageMaker JumpStart"
+    excerpt: "In this post, we demonstrate how to use the SageMaker Python SDK for text embedding and sentence similarity. Sentence similarity involves assessing the likeness between two pieces of text after they are converted into embeddings by the LLM, which is a foundation step for applications like Retrieval Augmented"
+    publishedDateTime: 2023-11-21T19:37:50Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/text-embedding-and-sentence-similarity-retrieval-at-scale-with-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 60
 
 secured: "6M2QoeOqob3YzhuEp8ghgbhx5f3vVRiEtwVhAfyRz4ASxIQiDLbTOA8dtNcfwKn+s7h83Ujvpee38A6uHl6V9m0MZaGCcLB9/yBTs/Fg51eEtDCNWJqY5NUfg1rVGJ/kVCXplGUiTse2bZV1/usEivQHL/Hch2EKc/Sr3+yJoJpkaOE6HPgUJHXS42pj0WNaUwG901rXK+9xcUk9UQTgDYcGxQ10TElxjzW5g0lV5vvzkoWbMqVxHEIzFtKRTd7UUNOHpiPqzhf8YVmv3Iz7h4J03KIcAbG+VktFixDUCNCryg4p+zEkCxyJKXqRwrk62tshvKI3t5aAzMsYyE6oLdzaky/ITqhh5zZvn5P4aGc=;i+/f1wgSce2Fb1PI5SXTLA=="
 ---

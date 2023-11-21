@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Japan’s Favorite AI Stocks: 3 Companies the Country Loves"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Japan is hot on artificial intelligence (AI), and some AI stocks stand to gain"
+    publishedDateTime: 2023-11-21T21:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/japans-favorite-ai-stocks-3-companies-the-country-loves-1032840828"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Google’s Bard AI Says These 3 Stocks Will Rise 1,000%"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The hype around artificial intelligence has settled down a bit lately as"
     publishedDateTime: 2023-11-20T13:43:00Z

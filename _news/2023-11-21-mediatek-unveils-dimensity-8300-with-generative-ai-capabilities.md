@@ -37,15 +37,6 @@ related:
         width: 1694
         height: 953
         isCached: true
-  - title: "Qualcomm’s newest chip will bring AI to cheaper Android phones"
-    excerpt: "Qualcomm's new midrange processor, the Snapdragon 7 Gen 3, will make its way to Android phones that will be announced toward the end of this year."
-    publishedDateTime: 2023-11-17T05:30:00Z
-    webUrl: "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-7-gen-3-mid-range-android-phone-chip-news/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 64
   - title: "MediaTek Dimensity 8300 chipset announced with on-device generative AI capabilities"
     excerpt: "MediaTek has introduced the Dimensity 8300, a new mid-range smartphone chipset that boasts on-device generative AI capabilities"
     publishedDateTime: 2023-11-21T08:42:00Z

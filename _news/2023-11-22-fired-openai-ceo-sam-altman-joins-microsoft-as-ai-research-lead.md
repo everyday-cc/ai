@@ -237,6 +237,15 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 34
+  - title: "OpenAI, Microsoft hit with new author copyright lawsuit over AI training"
+    excerpt: "OpenAI and Microsoft were sued on Tuesday over claims that they misused the work of nonfiction authors to train the artificial intelligence models that underlie services like OpenAI's chatbot ChatGPT."
+    publishedDateTime: 2023-11-21T22:53:00Z
+    webUrl: "https://www.aol.com/openai-microsoft-hit-author-copyright-205330946.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 33
   - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
     excerpt: "KKCompany is announcing its participation in the Microsoft startup initiative, \"Highway to 100 Unicorns,\" a startup accelerator program aimed to support startup innovation and strengthen the startup ecosystem in the Asia region."
     publishedDateTime: 2023-11-21T06:20:00Z
@@ -270,6 +279,6 @@ related:
       domain: sinchew.com.my
     quality: 25
 
-secured: "dgft+A1jlbxQD1vsHIU7lTBvJffak9sOL6rwdPFAVFROpI3xBAlN/NlwTVxbltl1ZdIyxdcChPJ3IWVAxucDo1hidkgutJDW+LVDQmOtNQFajnToQuHSpezXb1eCpjE74e1F8ZKV/jSnY1wVGbh7VkeYC4L1ML4JVvr3BkKw5OOOiDiBsofmmtZ81iSTlZ/Fhwn0S1k1nDGtP+2kv3Nlu3/FegM9JHMGlmaliY1lMEfgqwz3mFKl+wtoAaHTinJBePsAb9wV7WEA7rCI3lTz7FGtG4qhboosTzn1fmyLmYX2kGsrKLwZlV0UqQ6dYdZ53CFVX4s6BA/6QNNUIPS4EObn9VegX8t2yQKn5sc0bzc=;lgeKKM0otrrUsgA6x4zNjg=="
+secured: "qH3FuXL3oHo+SI8+ydDvhlc3iWtwThxceydwkSxsuit7Jrq+z35F0MCsWG+Nt+iocLgNIlpLZF6iNhcsRYcvl20oaoRt20MXPc12QImCbmhLdWhsPvr63t4zoEtDZBMEx/srk8SCKa9MFFgFZDdGvhF7jOsmxleT7iw0p7tipU/0xv9kRKFZ2KqQZwBzE+8Ot9GOp+UB/Lny0a3W6tPgEA9/alPRkp52C015PUIxYATqF9frc9X13oNy2kkF7e+Kr0rMS9bI4ciZRX14XwWXiAF37OWpx71fFt3JxZZD8qk2A9D3AhOd7xmU+ByOjQLULkSTAS1Qao68pS1VoYVyBH8TN+AUSWnv53AG9yA5Fng20CsF2nSLqcYMf3hiQHcSxu4NLwIJuoogATCvEdaJ29DSbs5/XppJpkCQ2cH7rhbK4rk7au/169zYh4WmJ+HPCDzaGGlhzHx0MkrSjMY/SwyBWrPZJbYgWCOm3ExY9KPFMgKPBdvXoFWC1PmEAxNHIFU9BkNDZvIgyHuO8Ia/nw==;ZcNBnCsUFxjUhSXWMo+/2w=="
 ---
 
