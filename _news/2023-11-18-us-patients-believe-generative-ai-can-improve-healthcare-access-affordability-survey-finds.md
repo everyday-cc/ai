@@ -144,6 +144,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "BP Says It's Expanding Use of Generative AI"
+    excerpt: "“The service uses artificial intelligence and natural language processing to automate a variety of daily tasks such as writing emails and managing inboxes,” BP noted in the release. “By using the capabilities of copilot for Microsoft 365, BP can help ..."
+    publishedDateTime: 2023-11-22T10:01:00Z
+    webUrl: "https://www.rigzone.com/news/bp_says_its_expanding_use_of_generative_ai-22-nov-2023-174793-article/"
+    type: article
+    provider:
+      name: Rigzone
+      domain: rigzone.com
+    quality: 19
 
 secured: "aypBCpoxOfGe40QvpbwAq/qcZrretjbBT8jSUlI7tPKD5hRZKjxn2zaBwHJvHJswds9rkDaxUHYGrhQEoZimMus7jmgMth7TC0zZD0GaVXzTsVWPx+vZGOSs3dWNKmISaoa8LWB2rkcqjfkMcpKS5Kmwsb2ds7Z1Z9xnsoHmmGrfpSYEIpJEzgTMHHBOuBir1v0Iv0u3g6MbElNnDujrTNMvrIph3JNDAN8L5Cbe0HMsYCm0ndRIEjUaBhxIxy3VnOxJNT6uRY0KpbO9OIoTR6bXAmD9VCkPiu13Exii0w46wMXX0xtRsJk7e1XARygZwljQq0do2wUYgFF4noi+jg0M7UYIXvbgnvkTWXPbt8nZJ0Pg2GOCahSB9K2fZeoctR3MIxNgfqBWamm0HJODhKi0fNP8lxtiUdQ5NSHsHgxtzh6fTd6AYbWNkGgl2G1ARPCLMwcU4qWLcgsd3eDOA50FeXSyYtrI0cX3wYwv97BPM4fW8Co+j7uXg4tSEzdamrHRdEd96WfYm4rqNcEWHA==;pmUePqlRNO2LLzzshQ9YRQ=="
 ---

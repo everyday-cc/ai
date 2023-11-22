@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/your-black-friday-observability-checklist
 webUrl: "https://www.ibm.com/blog/your-black-friday-observability-checklist/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Best Amazon Black Friday deals 2023 - the best sales to shop right now"
-    excerpt: "Amazon Black Friday deals are available to shop right now, and I'm rounding up all the best offers, with record-low prices on TVs, AirPods, robot vacuums, air fryers, smart home devices, and best ..."
-    publishedDateTime: 2023-11-17T17:55:00Z
-    webUrl: "https://www.techradar.com/black-friday/amazon-black-friday-deals"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 51
 
 secured: "vjuOa6bH7snmvqwsVPnkkvSLoa7Vx0MGPpmI2mPQ1/BZsDK358yt7HtQKbpwNiouIzjw3wp/ptIvR/A+4T8yN4QUXcKEVIFg520a7GLV7qBzcTslKY+09bVFTmzvwUQutC8w0HNnabt/AYlxSFE9U/fT4ZXmRP1U27ALKeQI75jcFtvcp6mnbtnoJJeR6ydYOSS2sSQRZu7XFzXWdJssQdvTtUoOePD1sJFd+HwCo85UzDjiXcJ89FBEygpxwLH97ODoPQDhDuORu/s52XN57TIsxICo87P/IYA6pt+p798SxRwMI2+WITeuLLi/Vyd+3LGcCgzPyb5r7SPBrye7wMH17wG2wP6a+LAGil9UPrs=;2ybyp0KFsLZ5lUHYpfCi/g=="
 ---

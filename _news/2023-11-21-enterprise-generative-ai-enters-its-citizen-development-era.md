@@ -145,6 +145,15 @@ related:
       name: Fierce Healthcare
       domain: fiercehealthcare.com
     quality: 23
+  - title: "BP Says It's Expanding Use of Generative AI"
+    excerpt: "“The service uses artificial intelligence and natural language processing to automate a variety of daily tasks such as writing emails and managing inboxes,” BP noted in the release. “By using the capabilities of copilot for Microsoft 365, BP can help ..."
+    publishedDateTime: 2023-11-22T10:01:00Z
+    webUrl: "https://www.rigzone.com/news/bp_says_its_expanding_use_of_generative_ai-22-nov-2023-174793-article/"
+    type: article
+    provider:
+      name: Rigzone
+      domain: rigzone.com
+    quality: 19
 
 secured: "CORpW1gSrJq1U002dg1k+2WhqihaKzhXsUVUAmgiQRut+0v/7LGgq6yfBCJpghb8msrPE8CJu+SSC7Cfx3ZJre7nElbHcho9ZY/8XE+85/s1pujxCjIF1ACMkhoaXObldY/wjb0bEKQNRas9tvbihlVZdG42JwEZFNqNoOsIoU+KTO/xYpH+7i3OtcMHULYYM8BElkpVz3fe8eedpOto1evNP/WaiR5eXBgQgGP8m+8SRO0Tk3+sC6sokB+7CwYVXRMdWuV9PZGa8g+TN48PzxEVGJQhAeRbMHlBxHbekOgmGUgknl5zUAVvvHBoBXEZFQLSYyWjFzw29CU5inXgR78DihdwqU4dVxX2yfTdWNw=;T9mLtjO+2ONip8unxXM8Jw=="
 ---

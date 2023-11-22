@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Fortune 50 AI Innovators"
-excerpt: "The essential guide to a sector that’s now attracting one out of every four startup investment dollars."
+excerpt: "Will AI create a world where no job is needed? Will computers achieve human-level intelligence? Where will the dramatic OpenAI storyline end up? The drama unfolding in the world of AI has proven that readers and investors need to follow the space closely—and it's changing minute to minute."
 publishedDateTime: 2023-11-21T15:04:00Z
-originalUrl: "https://fortune.com/ranking/ ai-innovators/"
-webUrl: "https://fortune.com/ranking/ ai-innovators/"
+originalUrl: "https://www.fortune.com/ranking/ai-innovators/"
+webUrl: "https://www.fortune.com/ranking/ai-innovators/"
 type: article
 quality: 67
 heat: -1
@@ -52,6 +52,6 @@ related:
       domain: businessinsider.com
     quality: 49
 
-secured: "ELcIpZGv5t8mchblL6OXnJL/+EvSf4H9V6v87SwtS0lllK+vaZ+trQSDnh6c+UC3mKzGAE+5BeHqksBW11vQxlGrYcQ/MxkX/Lrp88dhGk0dY13Dw8NGwRzsElbNpeGBTswmerW/HZajgTXwiwB6zfQGKDnUI7qPi9vFJK718g/HdT/5vsMedBMOquwT6RHnIY9aOJw9g0S3umgBZrJ0SzwDiSfy9zhcSa+/Hz+MCIIFIpgm81hqcr6X18IzPrzpYsRe2cR+SqUjc5As0KmsowOIhzo51CuFj0j1vIyJ9+xbc1zYf21W8AfeEmmKybolB0qsGAk6NxKfSNda4akIvZVsZpg3OQnieYRNltzKMKw=;o0IoqrEeWTuwWmVtomLxYg=="
+secured: "xji5Cp+8dwdJvzzxuDZ0M7UNfcYP8uLkDvCe5fkKWP54YmqqH+3EAMyAOtasOU7Xw9zGmCHGKfK06GgCtFFObRTRRRZX3Bl1tWdAl3dhGdkxx3bsX9idHxnqfYf5S3wARbwEdhYoelJYIVeNq6qtMYtc6+ozAHQeMMfMNXJbNlZXNlJB4vwtvZYhNCtinG0SVpjDPxAxLCtGcmaPnuxWqAFV8BR56rlovn25ttyApx0XUXd3JRncqhA26Gje1ayfbUnHSYgFaYlpg2htfonwfsnunWvJ2anI9uKPGnDwNNiCVMvieI//hZLVVZvqPQXPbWYWzhSr69r6SL/RIep6HKjNOtDA25qTw82Fua6Mws0=;z1LjLAzXyYYtIZY0pOvD+w=="
 ---
 

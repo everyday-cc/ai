@@ -1,15 +1,19 @@
 ---
 category: news
 title: "KX ANNOUNCES KDB.AI AND KX COPILOT IN MICROSOFT AZURE"
-excerpt: "Jumpstart development of AI-powered applications with a 'ready-to-go' technology stack comprising KDB.AI, Azure Machine Learning and Azure OpenAI Service Use natural language prompts to run ..."
-publishedDateTime: 2023-11-08T08:06:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-11/60595042-kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-11/60595042-kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-008.htm"
+excerpt: "Jumpstart development of AI-powered applications with a 'ready-to-go' technology stack comprising KDB.AI, Azure Machine Learning and Azure OpenAI"
+publishedDateTime: 2023-11-08T07:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-1032792757"
+webUrl: "https://markets.businessinsider.com/news/stocks/kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-1032792757"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
@@ -21,6 +25,6 @@ images:
     height: 209
     isCached: true
 
-secured: "q/aAISehQYmFmzkJf6OmqyXfo6oAo6FZ35EOEtP0HybMPm/i/aGzkzhlThVsOJ4AX2cbKZd0gspAYfqTk7xaanH34PT/94fwCeK4nb3LzbOQ9HmCCxG4wCeWtjmRYlY7XJ7wV7Ec/Ei60LIgECsBqP3PTsg5NTevjwNr51Nd5ChktajPsmsahkqNAQXqiNhWOndRbHxKDH1iCjiRwdIlADmf3AyvUaGBiFjraKTfZZL4kwZlBUqB/UYnBLz6xcVIrXMNMI2fwSQej8fhXkhNBzq8RZR45b4AiP90sk3xl4jhATdyMNGzNGl/nAivv5yMCS1ZKwq2tLMSCW6inzXmaBB5CJr/6Ta5b4I8/ETQN48=;28hqksWMMd4BUavn9zlafA=="
+secured: "M7GQ3Run0hkl57OKZWibXGEH9gOG6aAV1Jk4JFHKnjau2FxbzN+XR0wLbCmI7x78VTQUrb+iMxOqAEtpcCnsdGLOKI9DBHTv8E3s+IWZegT0q3d9LtNmGwPJg1JfV4VtWBmWJk7R4cZ/+fMKcvHdeDtWjdUi3ZOhdah3iAjyMXExGf2GyENRAs2hno4Ra/b+Q0bs89mJF9Wi2SgUGlGMRyeALirSXCb6ujW6681kmoJL7ylbaz0Fo9sXedoa4oA/Gbysn+kDtqHtKDvL+hfLns7REEcBqPm3zjlVuSYwdQCztleoo8/auCa5w4038tQOWue2yrYvZE21XCvAZoZzD6sLrZKj251H7iJKPwChElY=;zkXMphQUypllh/35HC2FhQ=="
 ---
 

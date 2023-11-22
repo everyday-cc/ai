@@ -424,49 +424,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-08-kx-announces-kdbai-and-kx-copilot-in-microsoft-azure.md",
-      "title": "KX ANNOUNCES KDB.AI AND KX COPILOT IN MICROSOFT AZURE",
-      "excerpt": "Jumpstart development of AI-powered applications with a 'ready-to-go' technology stack comprising KDB.AI, Azure Machine Learning and Azure OpenAI Service Use natural language prompts to run ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-11/60595042-kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-11/60595042-kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2269732/KX.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T00:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-08-new-ibm-study-explores-the-changing-role-of-leadership-as-businesses-in-europe-embrace-generative-ai.md",
       "title": "New IBM Study Explores the Changing Role of Leadership as Businesses in Europe Embrace Generative AI",
       "excerpt": "IBM launches new European study of 1600+ senior leaders and C-level executives to explore how leadership is changing in the age of AI82% of",
@@ -561,6 +518,58 @@
         "AI",
         "AI in Finance",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-kx-announces-kdbai-and-kx-copilot-in-microsoft-azure.md",
+      "title": "KX ANNOUNCES KDB.AI AND KX COPILOT IN MICROSOFT AZURE",
+      "excerpt": "Jumpstart development of AI-powered applications with a 'ready-to-go' technology stack comprising KDB.AI, Azure Machine Learning and Azure OpenAI",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-1032792757",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-1032792757",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2269732/KX.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T23:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {

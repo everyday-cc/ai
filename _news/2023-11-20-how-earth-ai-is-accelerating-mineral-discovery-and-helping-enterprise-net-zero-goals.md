@@ -43,6 +43,22 @@ related:
         width: 1300
         height: 733
         isCached: true
+  - title: "The OpenAI meltdown will only accelerate the artificial intelligence race"
+    excerpt: "Optimists and ‘doomers’ are fighting over the direction of AI research – and those who want speed may have won this round"
+    publishedDateTime: 2023-11-22T09:11:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 71
+    images:
+      - url: "https://i.guim.co.uk/img/media/d12a7c1f184baf181c112396b8fb18251adfef30/0_527_4772_2865/master/4772.jpg?width=620&quality=85&auto=format&fit=max&s=2b17ea177f30c94ed0803376811924be"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Effective accelerationism, doomers, decels, and how to flaunt your AI priors"
     excerpt: "Several political perspectives are shaping quite a lot of the work on artificial intelligence, and so we need to understand them, especially now."
     publishedDateTime: 2023-11-20T15:57:00Z

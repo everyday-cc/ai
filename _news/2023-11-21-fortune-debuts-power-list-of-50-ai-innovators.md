@@ -38,9 +38,9 @@ related:
         height: 600
         isCached: true
   - title: "Fortune 50 AI Innovators"
-    excerpt: "The essential guide to a sector that’s now attracting one out of every four startup investment dollars."
+    excerpt: "Will AI create a world where no job is needed? Will computers achieve human-level intelligence? Where will the dramatic OpenAI storyline end up? The drama unfolding in the world of AI has proven that readers and investors need to follow the space closely—and it's changing minute to minute."
     publishedDateTime: 2023-11-21T15:04:00Z
-    webUrl: "https://fortune.com/ranking/ ai-innovators/"
+    webUrl: "https://www.fortune.com/ranking/ai-innovators/"
     type: article
     provider:
       name: Fortune
