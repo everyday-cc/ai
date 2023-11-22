@@ -96,6 +96,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "‘Sound on’: ChatGPT Voice feature now available to all users. Here's how to use"
+    excerpt: "while also using the company's proprietary Whisper speech recognition system to transcribe spoken words into text. ChatGPT's new voice capabilities are powered by a new text-to-speech model that OpenAI claims is capable of generating human-like audio from ..."
+    publishedDateTime: 2023-11-22T04:12:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/sound-on-chatgpt-voice-feature-now-available-to-all-users-heres-how-to-use-openai-sam-altman-11700623193758.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/sound-on-chatgpt-voice-feature-now-available-to-all-users-heres-how-to-use-openai-sam-altman/amp-11700623193758.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/sound-on-chatgpt-voice-feature-now-available-to-all-users-heres-how-to-use-openai-sam-altman/amp-11700623193758.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 55
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/11/22/1600x900/FILES-US-TECHNOLOGY-AI-ALTMAN-1_1700623250597_1700623286912.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "NVIDIA wants to use AI chatbots to help build better chips"
     excerpt: "US software firm NVIDIA is adapting AIs to help its human engineers build better computer chips."
     publishedDateTime: 2023-11-21T10:00:00Z

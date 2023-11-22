@@ -183,15 +183,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 22
-  - title: "Cruise testing self-driving cars in Japan, Dubai, even as they're parked in U.S."
-    excerpt: "SAN FRANCISCO — Days after General Motors’ Cruise self-driving car unit pulled all of its vehicles off the roads in the U.S. for a safety review, it continues to test them on public roads in Dubai and Japan, Reuters has learned. Cruise this week said ..."
-    publishedDateTime: 2023-11-18T16:47:00Z
-    webUrl: "https://www.autoblog.com/2023/11/18/cruise-testing-self-driving-cars-in-japan-dubai-even-as-theyre-parked-in-u-s/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 14
   - title: "Kyle Vogt resigns from GM self-driving unit Cruise"
     excerpt: "Kyle Vogt's departure is the latest fallout from a safety crisis at the beleaguered self-driving subsidiary of General Motors."
     publishedDateTime: 2023-11-20T03:45:00Z

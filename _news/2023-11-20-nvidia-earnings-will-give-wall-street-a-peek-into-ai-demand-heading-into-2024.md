@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-i
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
 type: article
 quality: 86
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -158,6 +158,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Wipro and NVIDIA Collaborate to Advance Gen AI in Healthcare"
+    excerpt: "Wipro Limited, a technology services and consulting company, has announced a collaboration with NVIDIA to accelerate the adoption of generative"
+    publishedDateTime: 2023-11-22T04:50:00Z
+    webUrl: "https://www.dqindia.com/wipro-and-nvidia-collaborate-to-advance-gen-ai-in-healthcare/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 36
   - title: "Cloudera and NVIDIA Partner To Expand AI Capabilities"
     excerpt: "Hybrid and multi-cloud environments have revolutionized how businesses store, process, and manage data. With the rise of new technologies, such as"
     publishedDateTime: 2023-11-17T17:38:00Z

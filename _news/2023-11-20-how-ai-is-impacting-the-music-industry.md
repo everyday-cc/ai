@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "How is Generative AI Transforming the Financial Industry?"
+    excerpt: "Explore the transformative power of Generative AI in finance with real-world case studies and expert insights from SFF 2023."
+    publishedDateTime: 2023-11-22T03:43:00Z
+    webUrl: "https://fintechnews.sg/80447/ai/how-is-generative-ai-transforming-the-financial-industry/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 39
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Sumsub-Banner-3.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Revolutionizing Creative Industries: PromeAI's Breakthrough in AI-Driven Image Generation"
     excerpt: "AI Image Generation provides artists and designers with an additional source of inspiration and allows ordinary people who lack drawing skills to embrace creativity. Background Diffusion assists e-commerce businesses in producing visually striking product images,"
     publishedDateTime: 2023-11-21T13:49:00Z

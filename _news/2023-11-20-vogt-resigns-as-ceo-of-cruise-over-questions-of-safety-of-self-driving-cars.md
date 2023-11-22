@@ -174,15 +174,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Cruise testing self-driving cars in Japan, Dubai, even as they're parked in U.S."
-    excerpt: "SAN FRANCISCO — Days after General Motors’ Cruise self-driving car unit pulled all of its vehicles off the roads in the U.S. for a safety review, it continues to test them on public roads in Dubai and Japan, Reuters has learned. Cruise this week said ..."
-    publishedDateTime: 2023-11-18T16:47:00Z
-    webUrl: "https://www.autoblog.com/2023/11/18/cruise-testing-self-driving-cars-in-japan-dubai-even-as-theyre-parked-in-u-s/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 14
   - title: "Cruise woes claim CEO, drive shakeup, but GM still believes in self-driving technology"
     excerpt: "Dan Ives, managing director and senior equity analyst at Wedbush Securities, said in a statement Vogt's resignation is \"another major black eye for the Cruise franchise and GM. He was the turnaround CEO and instead it’s another debacle.\""
     publishedDateTime: 2023-11-21T03:01:00Z

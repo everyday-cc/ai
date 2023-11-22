@@ -103,6 +103,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "‘Sound on’: ChatGPT Voice feature now available to all users. Here's how to use"
+    excerpt: "while also using the company's proprietary Whisper speech recognition system to transcribe spoken words into text. ChatGPT's new voice capabilities are powered by a new text-to-speech model that OpenAI claims is capable of generating human-like audio from ..."
+    publishedDateTime: 2023-11-22T04:12:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/sound-on-chatgpt-voice-feature-now-available-to-all-users-heres-how-to-use-openai-sam-altman-11700623193758.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/sound-on-chatgpt-voice-feature-now-available-to-all-users-heres-how-to-use-openai-sam-altman/amp-11700623193758.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/sound-on-chatgpt-voice-feature-now-available-to-all-users-heres-how-to-use-openai-sam-altman/amp-11700623193758.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 55
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/11/22/1600x900/FILES-US-TECHNOLOGY-AI-ALTMAN-1_1700623250597_1700623286912.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "NVIDIA wants to use AI chatbots to help build better chips"
     excerpt: "US software firm NVIDIA is adapting AIs to help its human engineers build better computer chips."
     publishedDateTime: 2023-11-21T10:00:00Z
@@ -233,6 +249,6 @@ related:
       domain: inferse.com
     quality: 3
 
-secured: "Pa0kAEnDr+4UzdA6yESXVp64cwzikQ/MRI7FvIiyZScgpzWRGqp+U7FV6rrzk+DnElWPg/iO+7aPE052W0H+WPHfO8Onij+db4weHT/66EdZrSSo707HEWgU8hfTbUTH30VaQRSAeLXGdsJk6LA0MmFRCCdEXZ+2pRJdMz/a7EZ/VN+SGJcSV85/xouzPY53RVT7PpAZdrjpRe0Hu3bkXplFei9dtgSH2RbTGc8G1P6FtJ3xwArAy6p1zsnlNUokZKjz11zsYK3v24Tj+nBn2RqV7sBuzpZXHnObGj/e3WtJAFpNXlvLv43jzKPry5ZHQygt+DoiqKXG5UEOlw7fjg1PFzLFMn6HGmC5Rf7EvL0=;wvoDBteZwaMI1dsvlKnNdg=="
+secured: "wNz9r0x2SihyIJnoongRWxoa8vRGcRRKvcnQcgUyVeOH5FcLWuaMfCiewpYzZpyosIaCUA+PIvooGZ4RIqVzPmisBmYUMSeHCJvIQSiDl2hSiIJJuAK3hysT04XibNf0WFieMr1rVN8pMl1gHf0R6+gs6XzuVhMZWhtSBUJqPAhvJq/dnzM+amrCAjNR6qK9hgDaoWf0osfjJX496xXUFAer7EAcbLSIH/5Dxki82i07msBcTrzw7+P2CUHU3uU28ufpYXRCrIawREvvdyNALdEnLkWmFyIE56YEDPWy3JUeimbYyoka1UguGUYX1UcPOrVjNsyg0RCwfcWl2tnuin9JHofCCgVRJ/S0lTdd1hhp9A0BzvWB3Hyv411aYgZC3qhrWdogGaRygimkWdwOyXZp93A1TjoqkhE8ayLLL3RDePW2JMfXobiBTAnIs5QpAAz4Fivqey6g25IXnVkhhZ8dWFpajhexMo9dfKyeXRc82PyvdJtuncXAHCB42h+4V5ABYuOl5g+V+1yaT1Bg+A==;ebC+0ARuD8IfNC7CSlYFpw=="
 ---
 

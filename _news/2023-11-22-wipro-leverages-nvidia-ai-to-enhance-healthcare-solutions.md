@@ -155,6 +155,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Wipro and NVIDIA Collaborate to Advance Gen AI in Healthcare"
+    excerpt: "Wipro Limited, a technology services and consulting company, has announced a collaboration with NVIDIA to accelerate the adoption of generative"
+    publishedDateTime: 2023-11-22T04:50:00Z
+    webUrl: "https://www.dqindia.com/wipro-and-nvidia-collaborate-to-advance-gen-ai-in-healthcare/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 36
   - title: "Cloudera and NVIDIA Partner To Expand AI Capabilities"
     excerpt: "Hybrid and multi-cloud environments have revolutionized how businesses store, process, and manage data. With the rise of new technologies, such as"
     publishedDateTime: 2023-11-17T17:38:00Z
@@ -192,6 +201,6 @@ related:
       domain: thestreet.com
     quality: 11
 
-secured: "RIjxx4ZpsCYPN28IKzGbLEr68QwSwfaxHW/Yvp7z4tLVaRx0/ZgDBQYPf9xfMKo5nprmLn9l4kVZy96giQDO2766t4Fz/dfdVL1XQsV3H+nh1lSPeKu0ncthsvJ2VLOfGZr2m9cZrGY9TAjEdR42LguR5A+ynTY+mkK8ExevY7yQ6t2UO0YIwiA2xT19aKPAmDMlkfm5tiugSUDDb1SRQYYHj9BhNntB0Sla5VPNk9QfDFgoS3GLIHV2+VH6O4sHUy0mIFzLQzlnC/gv6E6kTjQdFI3IQgTpPwujmdH1T749xEoylAZ37k6scElwKGvjGrQJuZazt+wZz+TdhoLgJhcV3x9/bneydFCTwKR0h3M=;9wHWb0WVd137yEMGSnEU9Q=="
+secured: "htRq9/+bpG2h/NcTUQJWm5yUZOXJyC1MaszVJf+tsLbtlKD6Pp6MwklCUfKa9ZFBuc1qTV8kRIZyim6RscHnWY3oBH+xpqGdFAqmLp4S3gNaduQe7x8em1y+COvaibIVGyz/NvGvjPcohDjg7DmA1KVs5p5zpvFt0KsoVZ8hD8m/5Cv9tTOZo8t3PVQvEcbGlUdzN/WhhSNofuWesc71gYM8SPaV7tF4ElKb24vw4m7A8lS+VyUHiblKkBvZHeH22KiUJvsdV8qGZsANHpqyubzPP/jACL2w95UVYclOs1Cj5e5YsjC8vOVnO96xL53k7+4jgTACdOyGuhHvnxD/BShjNr/WK2z08cN9M2EAJRjb4oW/QVdCytX//Bi8dxsvEy5+FZ/NHWZlBymv1+L8VmpaZzD59mBbfd6EaDUsgIkW0dqaW1eeTSVClPZVnXgJkpFUjlDjIBmhu2OQXzLD5tXgi4Y6XBXCxX7L2hU1kFe7DuDCUZViNa4P41VV/wZABhzseMdRHVCzRTF3PqwWUA==;dXXxIwstiUYgVT6a5WYhEQ=="
 ---
 
