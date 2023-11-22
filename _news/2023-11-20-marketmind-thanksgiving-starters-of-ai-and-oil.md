@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Eden Prairie's Starkey hopes to expand markets with AI hearing aids"
+    excerpt: "The only one of the \"Big Five\" hearing aid makers based in the U.S. has seen a good year with the introduction of the new Genesis devices after a sluggish 2022."
+    publishedDateTime: 2023-11-22T14:30:00Z
+    webUrl: "https://www.startribune.com/eden-prairie-starkey-hearing-technologies-hopes-to-expand-markets-with-ai-hearing-aids/600321731/"
+    type: article
+    provider:
+      name: Star Tribune
+      domain: startribune.com
+    quality: 39
+    images:
+      - url: "https://chorus.stimg.co/25102762/merlin_72473769.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "DrSRY6C8Uczv6u+D+4O+fQul6DjPZAFzfIsC/ehiWORx+sWEvxLztH09KE0bTiwwVw6+D3j2zjPpHuX909F/cJgb9ymxy6YEA2ctCqJFiPQusJoOy31XzFdwsE/iBi2XhpG/C4L2XHcmaqG2qHeS8FMYMIY4Z4yK8jOjfJXVcSbsGuHHkaLl2SXkFfiTuO+E5TOV1udI1KqI3WaUtoWU4U4sJYgy5xUXTO8tz5n0J/wQe5q///0jnDnegeYyDGF43C4HhmHCiPzzXCHAKLmq3bDTTt190VEwlNVO0vK7kN5grxJ3SRPdsKT82BLN2jjHyJk8CQ5BW7NefZpaVXnWvTfy5TrUmQrW6CKSIpLi5AeqbCbNvx1xpor9YJ/e/J+KieR1zaK6g/7WQi1JO5H59NnbQyez/8PjAb53OcG0hmH14benqx4T1E74ebtLMX2hG1CYCvkwG5Bcpf4r1vJuTielll/0KKlvmi1KVxloqLbqaqBn4VltbnMtGZHj35KnROLmZuPYdDvxWHyxF+Hnag==;loC9SU139fNThWR2iL87/A=="
 ---
 

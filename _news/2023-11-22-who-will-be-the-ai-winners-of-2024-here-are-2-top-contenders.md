@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Who Will Be the AI Winners of 2024? Here Are 2 Top Contenders"
-excerpt: "Artificial intelligence (AI) is taking the stock market by storm at the moment. After watching Nvidia stock surge almost 250% this year to catapult the company to a $1.25 trillion valuation, investors are, understandably, hunting for the next big opportunity in this emerging industry."
-publishedDateTime: 2023-11-22T12:40:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/22209655/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/22209655/"
+excerpt: "now is a great time to look at which stocks could be part of the next generation of AI winners. Here are two top contenders. AMD is gearing up to ship high volumes of its new MI300 lineup of data center chips. The MI300X is a graphics processing unit (GPU ..."
+publishedDateTime: 2023-11-22T11:02:00Z
+originalUrl: "https://www.fool.com/investing/2023/11/22/who-will-be-ai-winners-2024-here-are-2-contenders/"
+webUrl: "https://www.fool.com/investing/2023/11/22/who-will-be-ai-winners-2024-here-are-2-contenders/"
 type: article
-quality: 39
-heat: 39
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: The Globe and Mail
-  domain: theglobeandmail.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://barchart-news-media-prod.aws.barchart.com/FC/24befff4220e05587542642b063bfd4b/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f755630%252fa-digital-render-of-a-circuit-board-with-a-chip-in-the-center-inscribed-with-the-letters-ai.jpg%26amp%3Bw%3D700"
-    width: 5000
-    height: 2814
-    isCached: true
-
-secured: "n6Ceqv6g3Mtgs9gwvuLpw55ytgUALkcQiQmyUIPFCSqMCmlBbVxfqvmIaW0tzMmPCFDM/wsZ29kawF2Y6XVZ5z7ZnqrTfDApN6yFkhey5TD4xknWw6nvkB+O8lzCYkltIvYiF/aQSrLreupVV5xdFLPMIjxiABc5JPtatg8ExkO46GvnsfzBtP8ut7PDxZ61DRLiZu6/+NkhxAH6j5S51BaYsju4r9x9O9TmSWhrC9biGCfcDmctENxInJUW3xudHtALRqPK+2OHISCah5D56ZajiDVh6swyTd3LW5BIAv8VQlVPSgX3bncTIaZbNMwoFE0Dgx3Su1rjyIMawj2M5FtpAr5fsfO8j6ZktsjPzN0=;I6ku0sRsfwGGMP7c9ifXqw=="
+secured: "eq0fP6MyU1RUzdouVyNdA7M6GSEBfeGOPxP557xArv4N83GAjxmhN8883FDno2JfmG6l5uTqak1VhcuZ3qFTnjAk/vhDPVx+U9NEbo/eKNLjX+eMAU6zF83eL0uQXK6/Q7chO4fkHO3z4y8MzZfH+NCckcZWH0M01IFxW5hQR5piMyEDcmqgaoIkDfgEY0LAr+gc/x+gjo4YcdF6cb6YkHbbU6Vm7HCgUF9xAJHoI5X1XRKYBJdHyeVOTwkTe9ZNUHuMdqiKLkJZOYca/DZ4onGbemRHz4Dc9kxEFjhTBDkQbyqKDzFzQrxKsuOMyG/iwEOak6im1/bJ/OVL514bMH4HRTpbP7ksuRrsJbjIPvQ=;0PxluAoUZvOTJnmggBmlpQ=="
 ---
 

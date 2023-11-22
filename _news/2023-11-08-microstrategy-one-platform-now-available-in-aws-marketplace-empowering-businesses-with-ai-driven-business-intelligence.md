@@ -2,19 +2,19 @@
 category: news
 title: "MicroStrategy ONE™ Platform Now Available in AWS Marketplace, Empowering Businesses with AI-Driven Business Intelligence"
 excerpt: "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS ..."
-publishedDateTime: 2023-11-07T19:18:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231107452958/en/MicroStrategy-ONE™-Platform-Now-Available-in-AWS-Marketplace-Empowering-Businesses-with-AI-Driven-Business-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20231107452958/en/MicroStrategy-ONE™-Platform-Now-Available-in-AWS-Marketplace-Empowering-Businesses-with-AI-Driven-Business-Intelligence"
+publishedDateTime: 2023-11-07T17:54:00Z
+originalUrl: "https://www.nasdaq.com/press-release/microstrategy-onetm-platform-now-available-in-aws-marketplace-empowering-businesses"
+webUrl: "https://www.nasdaq.com/press-release/microstrategy-onetm-platform-now-available-in-aws-marketplace-empowering-businesses"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "H9f4SoCgSWMF4QvmSSiTyA05ht2EVj4ZIOxBQtKPVM7/WSC/W1dfp0fqC1z33jC617TSRtLh6TVhHWfibetnAg7PMRPKcOnip9898i4fHMkWxHdV3FTYuyrcs2PaEgRh4FdcOAFnqZGGllrEX2ywUU5txIw2N0ap30vNUphAaesq9PLdgazSbbDtZ8x/Ije7hdkAUq8Srty1BeAuUNwTrmT1X7bI7INhUgLPUZiMRmI49Pp+cp6nf9PRmjjAKabGg6h/aspG59ATT68jA6TWX98aMJhctWBPn0+N84cQU7QFTiZZFCOAI6RrVmFOoG5KMdWJzr9hwAKq/om8VtQbT2vpfka2c20aD5QyUr9AaJk=;1dxQ5Y5tMnM01NI4QxfSpw=="
+secured: "/wqZAwJic72nbxqsHLeAvuCNIyZXW41xkCd2mE3IA3O/9Wq+tdvw1LKRxHM8jZ3TNgYVTjEdsEA5g0bNIpM4BXN6TDncxjD/B0UaI3w9b9L2Lsvx+14/RB+H6csojkr75Ee7YFzzm3TbNllk/1JuFmDikZYNB9lEr+/c8tITgwlOInIgBCgigxxlqzQH75iyZetWYBDgbK4Y+xeNgivUPaqS56cbcrgQPPssmMZ0Z2+vBQ15TNSRtv/426fUT13P9Rya0DlKObsImsQeAlIm/9uaf//4+yCFos9evK4R31li5HrqJjobmvoLCn5tabdwL2twRHLWfLeZNyygErQO8sDlNaSNLjzNyncSfBbmYB0=;l9q/MIKhuXhUT3t5emR6GQ=="
 ---
 

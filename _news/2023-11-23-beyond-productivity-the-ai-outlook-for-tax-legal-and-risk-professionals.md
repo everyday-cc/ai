@@ -1,0 +1,45 @@
+---
+category: news
+title: "Beyond Productivity: The AI Outlook For Tax, Legal And Risk Professionals"
+excerpt: "It’s been just one year since GenAI mania hijacked the news cycle and set in motion a tidal wave of rampant speculation about our work lives changing forever."
+publishedDateTime: 2023-11-22T16:02:00Z
+originalUrl: "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/"
+webUrl: "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/"
+ampWebUrl: "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/amp/"
+type: article
+quality: 86
+heat: 96
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/655e255ba2159086d774f253/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1353
+    height: 900
+    isCached: true
+
+related:
+  - title: "Can AI improve UK public sector productivity?"
+    excerpt: "The hope is that applying AI will help to deliver on chancellor Jeremy Hunt’s ambition, announced in June, to increase public sector productivity by 0.5 per cent a year in order to “stop the state growing ever bigger as a proportion of our output”."
+    publishedDateTime: 2023-11-20T05:00:00Z
+    webUrl: "https://www.ft.com/content/86a5c3d8-e980-42b0-a1a0-48c3a1306367"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
+
+secured: "OzbQA7bjLA7hnVFZgWQ1C+mMxJFXh7QRw3EGlx0/NKTs6nFcHe+xipz6InnevN01EFah/58IzNkKcn6H4oeMu06XugQqtY3jBO+jkSyvG9dh35AjGYJ+TDiJn9A/aZRNdDUVKXlpbxeGH9D9NkMScHuEM21pAsMYcqFp+q0wCTZI80hJW+G/foeKHlJwUTGjXmjgQHU9r1btCgjJucbEYwrNoFd8ePVuADEPkxgUS1IORTsxuR5i3C3PWEqfM7yiM47M3pLEhX+zN9zGx1IIascIZetJK3l4m5ZR6mVxJqSc93XmC9zVg5JnqgHvZcNk6r6+QVuJ+mqByjk80Nczt6mZq8kPIAc/NMJVL+rMlw4=;uBfIayH1oH0uzAUmkblIKQ=="
+---
+

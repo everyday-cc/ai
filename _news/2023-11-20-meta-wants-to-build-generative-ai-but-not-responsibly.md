@@ -122,19 +122,19 @@ related:
         width: 1800
         height: 1013
         isCached: true
-  - title: "Artificial Intelligence: Intellectual Property Considerations for Your Business Operations"
-    excerpt: "Over the past couple of decades, artificial intelligence-enabled (AI) technologies have crept into the marketplace, providing businesses with internal- and external-facing services, such as customer support, search engine optimization, market research ..."
-    publishedDateTime: 2023-11-20T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-intellectual-6821463/"
+  - title: "AI Startup Stability Has a New Tool For Creating Generative Video"
+    excerpt: "Startup Stability is taking generative AI up a notch. While the technology has been used largely for photos and voice replications, Stability is making waves with a new tool for advanced AI-generated videos. The feature is called Stable Video Diffusion and ..."
+    publishedDateTime: 2023-11-22T16:46:00Z
+    webUrl: "https://hypebeast.com/2023/11/ai-startup-stability-generative-video-tool"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 29
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 37
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14909_3723.jpg"
-        width: 1200
-        height: 900
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F11%2Fsupreme-fall-winter-2023-week-14-release-list-drop-00.jpg?w=720&cbr=1&q=90&fit=max"
+        width: 720
+        height: 480
         isCached: true
   - title: "BP Says It's Expanding Use of Generative AI"
     excerpt: "“The service uses artificial intelligence and natural language processing to automate a variety of daily tasks such as writing emails and managing inboxes,” BP noted in the release. “By using the capabilities of copilot for Microsoft 365, BP can help ..."
@@ -153,6 +153,15 @@ related:
     provider:
       name: Embedded
       domain: embedded.com
+    quality: 19
+  - title: "U Receives $100 Million for Responsible AI Initiative"
+    excerpt: "The University of Utah recently received a $100 million investment for a new initiative on responsible artificial intelligence."
+    publishedDateTime: 2023-11-22T13:00:00Z
+    webUrl: "https://dailyutahchronicle.com/2023/11/22/responsible-ai-initiative/"
+    type: article
+    provider:
+      name: Daily Utah Chronicle
+      domain: dailyutahchronicle.com
     quality: 19
 
 secured: "PRaczb3xo82VUdg2AKdzPjBimpkZGUIJFYObdZ/9fU1+AvO2Kx8oRvLoUG/2RmBUXn/VHECUe7MXhq2PLg9dm/tG2E5w0N3sAVYp+yA/PPunVINuq5oF6tkX8asQuMENxwGCOSitNziDGeBqmllpbJXL90HifU6eTzZwxfAHbxfwzXWqnOqHb09Wf3Pb/7N5UvToQhoviIiW7cGhx+82RVkbMLE6rDEGg99c3yCfBHmvjBTK7kGF3k2QkWuHvtChc/N5sxFxRsjdhsQAAWMHfxT7cNP/TzL637/9mYJVjNMZ8TVWKV2iksqh1CL5poJCTeJmYfwkoibY8kmvZu9WC1dutVuHw97RerrcGDWHwIg=;zjKYCrvxF3Ct7WqHwLTFJw=="

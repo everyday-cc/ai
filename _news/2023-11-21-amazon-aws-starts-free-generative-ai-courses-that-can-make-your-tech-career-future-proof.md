@@ -7,8 +7,8 @@ originalUrl: "https://in.mashable.com/tech/64289/amazon-aws-starts-free-generati
 webUrl: "https://in.mashable.com/tech/64289/amazon-aws-starts-free-generative-ai-courses-that-can-make-your-tech-career-future-proof"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: in.mashable
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "AWS to offer free AI training courses to two million people by 2025"
+    excerpt: "Amazon Web Services (AWS) has outlined its commitment to providing two million people around the world with access to free artificial intelligence (AI) skills training by 2025, as part of its ongoing work to make it easier for businesses to access the tech expertise they need."
+    publishedDateTime: 2023-11-22T09:30:00Z
+    webUrl: "https://www.computerweekly.com/news/366560676/AWS-to-offer-free-AI-training-to-two-million-people-by-2025"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-211123-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
   - title: "Amazon Is Offering AI Classes for Free"
     excerpt: "Amazon is now offering eight free AI classes as part of its AI Ready initiative. The courses cover a wide variety of topics, from generative AI basics to advanced AI coding skills."
     publishedDateTime: 2023-11-20T22:30:00Z

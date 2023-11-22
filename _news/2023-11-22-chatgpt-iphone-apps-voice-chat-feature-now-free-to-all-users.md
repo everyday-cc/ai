@@ -212,6 +212,15 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "ChatGPT’s Voice Feature Rolled Out For Free For All Users; Here’s How To Use It"
+    excerpt: "Besides Voice ChatGPT Has Also Introduced Image Feature For The App. What Does That Mean? It means you can insert an image in the app and converse about it. Eg: You can post a picture of an instrument that's not working and ask ChatGPT to troubleshoot."
+    publishedDateTime: 2023-11-22T13:27:00Z
+    webUrl: "https://in.mashable.com/tech/64369/chatgpts-voice-feature-rolled-out-for-free-for-all-users-heres-how-to-use-it"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 30
   - title: "ChatGPT rolls out voice chat feature to all users for free"
     excerpt: "OpenAI has announced that ChatGPT's voice chat feature will now be available to all mobile users for free. The feature, which first debuted back in September alongside image recognition, has only been available to users on the paid subscription plans for the artificial intelligence (AI)-powered chatbot prior."
     publishedDateTime: 2023-11-22T05:39:00Z
@@ -268,6 +277,6 @@ related:
       domain: inferse.com
     quality: 3
 
-secured: "1qhIS8VphrhXhF8gt1a+PqxOftSyMD9fSor9sBUOMKQTBFpLR5jHBmKJxXCj44xm8lK3lzDhWg9l/BnACAJAbt3Dz5fKXRZjjS1dByqxpMyaUfXKjwcSy6ECvupwiLha63k4qbJl9BjKhRXXiL9ophsNszrcOafmbBYSKwpp86sxpYk8gFwCqLkluVsiV1dhkDWhp+p94Z7yQVuY4rKS+aNp3Oy5S5aZGa4H2vE+4poWNyUKHOh7MkimVw5lqIE0tLmZ3Mj4vlENIyS6GmJ8+2tDmQlwEBxpIooApnVqMLZ3GTMFVTB0WkGW+OTFm8DGzMuSC2Iv7Sfe4VhEDJ18PEzBCmzvVrqEv6ZgaFkYEgE=;WsadjIRO76c8x9GjXvKOXg=="
+secured: "R1xWUJ5rBAhmpCvTCVVsZe1+BRHJDIWdzUJlusZUJaCuwQRnZxIKpN8HO/l2RGxc58jli7psy0dEptZujLvCmckelr62Uqbfw8iGPzXU/mLAvP8iK3r3g2EHiNFpbpQYr2pjd6W4QifRmwyK9dMZ92hos+d/rL8orUueXup4Cy24gXkbJxZADa6uGk/joturd2a/9T/p94oYr4hz+PKUuQ1S46S0HCkGw8k8CQRwrq/LskUODTiDCKqmUT4L/G0s1/eiguXPJCGZARg25goW6yU0ntXclx4d/YdFg2FaWk0ONuof8aYQE3tNg9X4nlDsfXBPcNZZ6zYmnQv5Dbqyb4POdnXSBj3hevlXXhpA+mG4xkh0vjmtkh/WOMIYGJ3gXmM2vpzgq1qSvOdahvxF47y5Tv53r5a59PHKI6M2buU+GlywC/J3uJAU/grMkTe7SRuh4XIumP9YQbf7A05g9/0+PhEqpnczYs6cGhrJmjYzG2iPHkaBi7pk1El/C2NYbrvEWqXfNht59t7olVViJA==;udn1DdKM+vYF7IVzNx1E1w=="
 ---
 

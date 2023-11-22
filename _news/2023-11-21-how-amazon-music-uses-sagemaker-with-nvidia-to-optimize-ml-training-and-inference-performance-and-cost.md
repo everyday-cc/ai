@@ -60,6 +60,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 53
+  - title: "Build a contextual chatbot for financial services using Amazon SageMaker JumpStart, Llama 2 and Amazon OpenSearch Serverless with Vector Engine"
+    excerpt: "The financial service (FinServ) industry has unique generative AI requirements related to domain-specific data, data security, regulatory controls, and industry compliance standards. In addition, customers are looking for choices to select the most performant and cost-effective machine learning (ML)"
+    publishedDateTime: 2023-11-22T14:45:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-chatbot-for-financial-services-using-amazon-sagemaker-jumpstart-llama-2-and-amazon-opensearch-serverless-with-vector-engine/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 33
 
 secured: "dmVDrtt4zYenFQi0tijEJB8VUCFzH7ZuAcictCaln8/YlqRcd6y3MgzdHIYlPWV+r3PPBh+rfiIXVNjMxQbzP436hUxPWkVIJ/miyU0d+lo7fr6z3mjmfRWsLvGKikp27sWfjbnPzOE2vAL5iZqFn1etf2y/QvPMA6c+EGWkJ60owJXnfurcgImaRs34ur9by/rlyiy/4UT+14w7wI8Nh4CNgdql7A2QX3LoU+vzn9zspk4fM6+cDND9mdglL3+ATHAoOOlB6xVO06piJO4OLRxR+GnJzVQu/zgNqmn9LsTqDs8SEybUO73PX4gdNN+uykA6RxlGeRNJ3t46dXsOQ2+wWEl+2aD4fsJpaXWFqhU=;6BpNZy7/XCIG/nhaQJ8xEw=="
 ---

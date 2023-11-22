@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-22-baidus-strategic-approach-to-navigate-ai-development-amidst-us-export-restrictions.md",
+      "title": "Baidu’s Strategic Approach to Navigate AI Development amidst US Export Restrictions",
+      "excerpt": "This suggests a potential shift towards self-reliance in AI technology, a move that could modify the global AI landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/11/22/baidu-us-ai-development-restriction/",
+      "originalUrl": "https://www.gizmochina.com/2023/11/22/baidu-us-ai-development-restriction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/baidu.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-amd-extends-pytorch-support-to-radeon-rx-7900-xt-gpus-for-ai-developers.md",
       "title": "AMD extends PyTorch Support to Radeon RX 7900 XT GPUs for AI developers",
       "excerpt": "Chip-maker AMD on Wednesday extended PyTorch (a machine learning framework) and ROCm (open software platform) support to Radeon RX 7900 XT GPUs to bring even more options for artificial intelligence (AI) developers and researchers.",
@@ -54,7 +106,7 @@
       "originalUrl": "https://www.cnbc.com/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -95,50 +147,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-baidu-says-sees-limited-impact-from-us-chip-curbs-after-q3-revenue-beat.md",
-      "title": "Baidu says sees limited impact from U.S. chip curbs after Q3 revenue beat",
-      "excerpt": "Baidu has enough artificial intelligence chips stockpiled to soften the impact of U.S. technology export curbs on its business for now, the Chinese tech giant said on Tuesday after reporting forecast-beating quarterly revenue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/baidu-beats-q3-revenue-estimates-090740285.html",
-      "originalUrl": "https://www.aol.com/baidu-beats-q3-revenue-estimates-090740285.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_reuters_29/3aa8ddde2648dbe16efbfd4f98c6b0d3",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -202,7 +210,7 @@
       "originalUrl": "https://www.androidauthority.com/mediatek-dimensity-8300-3386430/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 115,
       "tags": null,
       "images": [
         {

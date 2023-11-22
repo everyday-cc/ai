@@ -7,7 +7,7 @@ originalUrl: "https://www.mddionline.com/artificial-intelligence/developing-arti
 webUrl: "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,52 @@ images:
     isCached: true
 
 related:
+  - title: "Playing The Long Game: Making AI Development More Transparent"
+    excerpt: "The competitive nature of AI developments has incentivized companies to move quickly and shroud their efforts in secrecy as AI continues to get more advanced. While playing things close to the vest is understandable (after all, each company wants to build AI solutions that are unique to them), it also creates major information gaps in the industry."
+    publishedDateTime: 2023-11-22T15:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dbb92acf0ab1302db1ea3f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "Four ways AI is making the power grid faster and more resilient"
+    excerpt: "From predicting EV charge times to pinpointing areas of high wildfire risk, AI is transforming our energy network."
+    publishedDateTime: 2023-11-22T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/"
+    ampWebUrl: "https://www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/smart-grid.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "The future of hardware and software development for artificial intelligence"
+    excerpt: "Reflecting on the history of the computer industry, it all began with a small transistor, evolving into integrated circuits and eventually transforming into powerful CPUs capable of processing billions of instructions per second."
+    publishedDateTime: 2023-11-21T06:40:00Z
+    webUrl: "https://www.digitimes.com/news/a20231121PR200/ai-software-hardware-development-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 35
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231121pr200_files/3_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Considering the societal and ethical implications in the development of AI"
     excerpt: "The research of Betty Li Hou, who presented a seminar as part of The New York Academy of Sciences’ Artificial Intelligence (AI) & Society Lecture series, explores the educational, philosophical, sociological,"
     publishedDateTime: 2023-11-21T20:44:00Z

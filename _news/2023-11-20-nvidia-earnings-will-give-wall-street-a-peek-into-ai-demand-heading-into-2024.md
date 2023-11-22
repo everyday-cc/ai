@@ -47,6 +47,15 @@ related:
         width: 5676
         height: 3784
         isCached: true
+  - title: "As Sales Triple, Why AI-Chip Maker Nvidia’s Stock May Have Peaked"
+    excerpt: "Demand for Nvidia’s graphics processing units has been exceeding supply, thanks to the rise of generative artificial intelligence."
+    publishedDateTime: 2023-11-22T13:28:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
   - title: "Nvidia reports record Q3 results driven by surging demand for AI"
     excerpt: "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more. Nvidia reported record revenue today for its third fiscal quarter of fiscal 2024 (ending October 31,"
     publishedDateTime: 2023-11-21T22:53:00Z
@@ -170,6 +179,15 @@ related:
         width: 768
         height: 530
         isCached: true
+  - title: "Stock Market Today: Futures Edge Higher; Investors Eye Nvidia Shares, AI Saga Continues"
+    excerpt: "Live coverage of stocks and financial news, including the S&P 500, Dow and Nasdaq Composite."
+    publishedDateTime: 2023-11-22T14:14:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-11-22-2023?mod=hp_lead_pos1"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 39
   - title: "Wipro and NVIDIA Collaborate to Advance Gen AI in Healthcare"
     excerpt: "Wipro Limited, a technology services and consulting company, has announced a collaboration with NVIDIA to accelerate the adoption of generative"
     publishedDateTime: 2023-11-22T04:50:00Z
@@ -179,6 +197,15 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 36
+  - title: "NVIDIA Crushes Earnings On Monster AI Chip Demand And Big Gains In Gaming"
+    excerpt: "NVIDIA has found its golden goose in AI chip design, which contributed heavily to another massive spike in revenue during the company's third quarter of fiscal 2024—it tripled year-over-year to $18.12 billion."
+    publishedDateTime: 2023-11-22T13:30:00Z
+    webUrl: "https://hothardware.com/news/nvidia-crushes-earnings-ai-chip-demand-gains-gaming"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 33
   - title: "Chips Stocks Fall Ahead of Nvidia Earnings"
     excerpt: "Semiconductor stocks were falling on Tuesday ahead of the latest earnings report from graphics card titan Nvidia. Nvidia shares were down 1.4% to $497.26. The iShares Semiconductor ETF was down 2%. Nvidia stock is up 240% in 2023."
     publishedDateTime: 2023-11-21T18:01:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/breakingviews/gms-driverless-ride-heads-in
 webUrl: "https://www.reuters.com/breakingviews/gms-driverless-ride-heads-into-ditch-2023-11-21/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Isn't it about time we had driverless cars?"
+    excerpt: "Driverless cars feel like they've been \"two or three years away\"… for the last 10 years. So why don't we have them yet? What technical and ethical hurdles do we still need to overcome to finally make robots our designated drivers?"
+    publishedDateTime: 2023-11-22T14:00:00Z
+    webUrl: "https://www.abc.net.au/listen/programs/quick-smart/isn-t-it-about-time-we-had-driverless-cars-/103134864"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 19
 
 secured: "aVjeBcpE6FlqoPVuNRBSiPxgDR4p6vJG5O666SVVxS/shyOUYn/TFwZjH0VDbV7ypjUDgRVWV3be8kbCVLdy+BUnqyY/p2cBCSAHpbNQhZPK+16mM/ahNZ0i9kmWhkraR2I4SdArksQ1QbJ1Iqlm0iepihWlqe2b30llmRxWlgJ1PYeIJhJ4httBfZVV+lC9hfYwICU0rthkYcZaOjgzQVB5md54OrQDXMs1T3luOaV0FFnaiIv3ztjLk+GO7+CQq89cPHCrzyTdsMmYbkY255sasgTaQScumeKxSs7Q1GCwGeeHGmjFDbIyUs3DI9zJwMxySJ/adeGgKiecGpM3eRXip0VxREsVtfLiIjIpkhtuEOsgRslmMD0PzYre15CWJPk8VGKUfeUZ6snVZgaAE9aL3GRkPHXgIXyPhTnehXW2ko4VzI5xIWVNb77FepHi3eMqkhU4XfaTD+2DBvAA0wjse20SFXbOty+w5lJ1rBiSqlythGoBzcjy9mpe5fCoBli3tosqnbcIgJmd6j+gww==;Om6bhSZ8QvytGjjFWAGH3Q=="
 ---

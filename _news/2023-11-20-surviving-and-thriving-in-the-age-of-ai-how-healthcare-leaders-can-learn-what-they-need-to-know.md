@@ -119,6 +119,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Unlocking The Potential Of AI For Accounting Firms And Clients"
+    excerpt: "In the ever-evolving landscape of finance and law, AI has emerged as a dynamic force reshaping how accounting firms and their clients operate."
+    publishedDateTime: 2023-11-22T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/22/unlocking-the-potential-of-ai-for-accounting-firms-and-clients/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Navigating tomorrow -The rise of artificial intelligence in leadership"
     excerpt: "Mumbai: In an era marked by rapid technological advancements, the integration of artificial intelligence (AI) into various facets of our lives is becoming increasingly prevalent. One of the most intriguing and transformative areas where AI is making a significant impact is in the realm of leadership."
     publishedDateTime: 2023-11-21T02:53:00Z
@@ -170,15 +179,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 25
-  - title: "Opera gives voice to Alan Turing with help of artificial intelligence"
-    excerpt: "The makers of “I AM ALAN TURING,” an experimental opera being produced out of Yale’s Center for Collaborative Arts and Media, used AI in creating the show."
-    publishedDateTime: 2023-11-17T22:19:00Z
-    webUrl: "https://news.yale.edu/2023/11/17/opera-gives-voice-alan-turing-help-artificial-intelligence"
-    type: article
-    provider:
-      name: Yale Environment 360
-      domain: yale.edu
-    quality: 17
 
 secured: "r9AiOJxKqYd8UbWpfmTGSF35UK/fosIeDvAi0/skePusgnv6nMqXWWkREg+wfcL9wRn0d+tXOGnx1GKbic7cs3l0OnuIz6FUvC0n4Uce+OQfCBwH5HRm4SlsgC5dYnL1M8dgsXAhwbRculYw/iOY7g8Z6e3wCF4mriWOs0WgIXIvQr8lJwXIrw/SxLwnIb9IAYMJC4cnHuM/RvZ2vtcABz9qrpvgy4W8EKAd5XLcmT+kUjYkrVokaYhMZs4KLLSm2w5ZNZVhCnu1X0e+40xgY0NYOp2PQkc9rDFSJqbrzsaDeKvfi05g+qW3xi+V+WMYHXYvzIXvr/eXzPhDH4JsoryKIAxIge8fWCwqCqi0EgQJENd7rTlKNTHnIaqGwEnmoVwnYg3/zWLCTsEbqpVeiLZuBqZszr07DZ57/XA0ldIbkjQ4oH2LatBmZLe8CKSbQ99M4pmep2Op/Z4jLv8kyJREv9fR4WhLlp7lLVPVDR56ZQ3XxlTpOelLPnWGUuXM2+hG8T/xYtq31GSEqSozzA==;V8XWrP3gf/HpA1RiYDjxIg=="
 ---

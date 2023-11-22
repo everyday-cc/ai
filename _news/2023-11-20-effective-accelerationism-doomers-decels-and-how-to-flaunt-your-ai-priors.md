@@ -60,6 +60,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Geospatial generative AI with Amazon Bedrock and Amazon Location Service"
+    excerpt: "Today, geospatial workflows typically consist of loading data, transforming it, and then producing visual insights like maps, text, or charts. Generative AI can automate these tasks through autonomous agents. In this post, we discuss how to use foundation models from Amazon Bedrock to power agents to"
+    publishedDateTime: 2023-11-22T14:18:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/geospatial-generative-ai-with-amazon-bedrock-and-amazon-location-service/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
   - title: "IBM expands relationship with AWS to bring generative AI solutions and dedicated expertise to clients"
     excerpt: "Providing clients with dedicated AWS expertise and plans to train and skill 10,000 consultants United Arab Emirates -- IBM (NYSE: IBM ( announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from generative artificial intelligence (AI)."
     publishedDateTime: 2023-11-20T08:08:00Z

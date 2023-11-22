@@ -206,6 +206,15 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "ChatGPT’s Voice Feature Rolled Out For Free For All Users; Here’s How To Use It"
+    excerpt: "Besides Voice ChatGPT Has Also Introduced Image Feature For The App. What Does That Mean? It means you can insert an image in the app and converse about it. Eg: You can post a picture of an instrument that's not working and ask ChatGPT to troubleshoot."
+    publishedDateTime: 2023-11-22T13:27:00Z
+    webUrl: "https://in.mashable.com/tech/64369/chatgpts-voice-feature-rolled-out-for-free-for-all-users-heres-how-to-use-it"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 30
   - title: "ChatGPT iPhone App's Voice Chat Feature Now Free to All Users"
     excerpt: "OpenAI has announced that the voice chats feature in its official ChatGPT app for iPhone and iPad is now available for everyone to use,"
     publishedDateTime: 2023-11-22T10:38:00Z

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Fortune 50 AI Innovators"
-excerpt: "Will AI create a world where no job is needed? Will computers achieve human-level intelligence? Where will the dramatic OpenAI storyline end up? The drama unfolding in the world of AI has proven that readers and investors need to follow the space closely—and it's changing minute to minute."
-publishedDateTime: 2023-11-21T15:04:00Z
-originalUrl: "https://www.fortune.com/ranking/ai-innovators/"
-webUrl: "https://www.fortune.com/ranking/ai-innovators/"
+excerpt: "Big Blue, based in Armonk, N.Y., was early to the AI game with Watson, which was first introduced over two decades ago, mesmerizing the world with what the tech could do. In 2023, the company launched its generative AI offerings,"
+publishedDateTime: 2023-11-20T22:45:00Z
+originalUrl: "https://fortune.com/ranking/ai-innovators/2023/ibm/"
+webUrl: "https://fortune.com/ranking/ai-innovators/2023/ibm/"
 type: article
-quality: 67
+quality: 49
 heat: -1
 published: false
 
@@ -19,13 +19,8 @@ provider:
       height: 50
 
 topics:
+  - IBM AI
   - AI
-
-images:
-  - url: "https://content.fortune.com/wp-content/uploads/2023/11/50-AI-logo.jpg?resize=1200,600"
-    width: 1200
-    height: 600
-    isCached: true
 
 related:
   - title: "Fortune 50 AI Innovators (2023): Credits"
@@ -51,7 +46,16 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Educators innovate ways to use Artificial Intelligence"
+    excerpt: "When students are programming in Krista Sweckard’s class and their code is coming up with errors, they follow what she calls the rubber duck theory."
+    publishedDateTime: 2023-11-22T11:00:00Z
+    webUrl: "https://www.wyomingnews.com/laramieboomerang/news/educators-innovate-ways-to-use-artificial-intelligence/article_f4aab6a8-88ab-11ee-b982-cb55df069dba.html"
+    type: article
+    provider:
+      name: Wyoming News
+      domain: wyomingnews.com
+    quality: 17
 
-secured: "cOIffQrp309J4IVgev8aL8im953TK3fpPD+MEfG27PMW9HvyGjAQdLllH+5hWS7EmUb6PiVSSRk8C1elvgADjt1IOFa0VY7lg4XJ7RyQ+6W7wjeoujSXm6WY3kaKFPLoTAMI6y+1TIvtU00d7y2r8qkrOoXrN9QH9nYD2I7asrF8r8KiCdh6Stnh08rWsofplWhqZV3/NOvwUsfPMZ55xR3Lv5p/pKruXnbAVU9zrj+7F8PyrvGIv0oxGPvwu0CsCz5bpqBm+KSY0n9D4Bl42ywzeyt2E7FQOO36iRORCycdkNJPHfnY3RVrMRLIqqFswV+Bcs7hcmn2uI7DAn622kXuj6OAkC0clIMIoaAwWH8=;lNXPvnWwbIMsEpoXTklLrA=="
+secured: "Ct4ZkTtvhHS4fSO0gw8zFPzRZgg0Qd5SAJXkRHhjyG+Jh11fdpTehW3U+IJMqZ2vNCTLssS42v1dZJLbbfiDo2oHFKYV71ApJ5aePSa3uC0+j9JQTTK7GsM13bV/x7d5shjkkKnSfznlnfkM9EJ7JCNBHpMBH47UHx0nkyu4/f5ANKWjC1N08lxVkU0ufiCGSHxWakxR17gZ5cVW76K21Wt3dUfPZzuOJ7MKh3vJ10irdbS3mSqTZnbVWqXi1u05ngt9uBUttltTWHaj4/IqWxsz8nrYEsKbJJU9iCiD4OVE2FwlQE/c0AXzYRO/sD/18xpYiPw9J7ZHU//NQjI/pYvL1hcUOhJBWjgnKosPOKUx1RauL9g9fopAfRHGrk65OFTcrm13JslxkqpIiRvieYOKhrwY4inEmzo92/KfLa16or+ZfzNITmvD5vaxnv3HASSAaVSA7ZsNRETR6xB7GtrjgaiWx65woU1AfKmnM+rlJxuAhYS7wxMnb9pEBk7xozPJjysuJtzF5sHLuFPYcQ==;LJ0YQWCu6VxjkQcRSqmcXA=="
 ---
 

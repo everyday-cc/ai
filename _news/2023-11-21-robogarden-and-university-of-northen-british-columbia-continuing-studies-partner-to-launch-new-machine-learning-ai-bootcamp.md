@@ -7,7 +7,7 @@ originalUrl: "https://www.newswire.ca/news-releases/robogarden-and-university-of
 webUrl: "https://www.newswire.ca/news-releases/robogarden-and-university-of-northen-british-columbia-continuing-studies-partner-to-launch-new-machine-learning-amp-ai-bootcamp-839887495.html"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1044
     height: 547
     isCached: true
+
+related:
+  - title: "UNBC Continuing Studies, RoboGarden launch machine learning, AI bootcamp"
+    excerpt: "University of Northern British Columbia Continuing Studies and RoboGarden Inc have partnered to launch a new Machine Learning and Artificial Intelligence (AI) Bootcamp. This program was designed with career progression in mind,"
+    publishedDateTime: 2023-11-22T14:12:00Z
+    webUrl: "https://www.academica.ca/top-ten/unbc-continuing-studies-robogarden-launch-machine-learning-ai-bootcamp/"
+    type: article
+    provider:
+      name: Academica
+      domain: academica.ca
+    quality: 33
 
 secured: "BxBKZrJBeaWGRhr/ejRdi2B+jV5qusG1Mxdx6lPXmXOAFWEQvxcixuDfNnIZUHZGd/MyW3R/IEtgengdKIivii8I6xUFTWtz9yqGEEhtcvwIQxRZyQGo8d4l7aksZH2vMryXCksoOWCeJHg10MzO0+vrOoupJVtwMT60pA0BYd9Y05UQWeHZZO86NwYjAlAwsqE8DFaRSTkCF9uJCgzOPu4pMpLqohn8iS81vM0PoWnF1HSR0p5B1gxVDsOaq1TS1oionYLeyzq0y0xiRmPhG1I1auc315swfyyMwBXVxrYhMBLidGi+bptC8v/LmHJZUeEOa7XQaZfula4HPziRdtF4JMpG8ywPpQWapAA3fL9aQNz8Tlcp+8FJ7ZO6mBmnPJ7G9qrV3vq5mu2de6F2l/IpqhoJxQO8//89ydtjbVuExbLGIEaaFzMAJREtPNJSna2AhyjYnAaIzLLRyrNYJlOpuZNY7KlBZXv7nFgb98lYlaERo7NaQMOx/P8V0lqmNEsz/qt7xR9M5xfjnoUP4w==;H26k19HjI0p23ZuXfiYOww=="
 ---

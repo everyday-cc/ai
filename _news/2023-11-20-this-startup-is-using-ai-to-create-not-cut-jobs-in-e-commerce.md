@@ -23,6 +23,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "AI Startup Investments Surge in 2023"
+    excerpt: "Explore 2023's AI investment surge, with key startups like OpenAI, Hugging Face, and Anthropic thriving amidst major tech firms' backing."
+    publishedDateTime: 2023-11-22T16:14:00Z
+    webUrl: "https://www.techopedia.com/ai-startup-investments-surge-in-2023"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 19
+
 secured: "BjABzIofOuGSwkIJk0hPkJMXGh6spXdiXstMqvrwAq2JCUpVWTEQh2gpWFKZwegcXJepdu/vBe6RwNnU3R6Hx3Hfi+QwC7VHHFeB9bI/vQ0vVVuFNAFIJWDdr4ud7bDLfPPCc1hJcRzgrc7eoem39sEYQrP0SFrNvLc1ZtKe6b1It/5u2SSiW4HS+ulhEc6sVpoyr8vN2RkVhJLQR7ku6gQIcQRjWYKw5MemfKaJCeq21KGFwjvjBddRJXLwKmUSkwJlyt5tIrCfPRYx0qcgn7kKS4165pvhuYp7l/PkAfqr6xXXUmC0dDsRuHPxFoi3J5I13gc9TPKfcL/2tS62vd+G+ZwjXfW8KXqlgDykVlc=;uXQv17wckUk2gjqCRbxkuQ=="
 ---
 

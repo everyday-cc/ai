@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/mediatek-dimensity-8300-3386430/"
 webUrl: "https://www.androidauthority.com/mediatek-dimensity-8300-3386430/"
 type: article
 quality: 84
-heat: 114
+heat: 115
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-su
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
 type: article
 quality: 109
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Geospatial generative AI with Amazon Bedrock and Amazon Location Service"
+    excerpt: "Today, geospatial workflows typically consist of loading data, transforming it, and then producing visual insights like maps, text, or charts. Generative AI can automate these tasks through autonomous agents. In this post, we discuss how to use foundation models from Amazon Bedrock to power agents to"
+    publishedDateTime: 2023-11-22T14:18:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/geospatial-generative-ai-with-amazon-bedrock-and-amazon-location-service/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
   - title: "Effective accelerationism, doomers, decels, and how to flaunt your AI priors"
     excerpt: "Several political perspectives are shaping quite a lot of the work on artificial intelligence, and so we need to understand them, especially now."
     publishedDateTime: 2023-11-20T15:57:00Z

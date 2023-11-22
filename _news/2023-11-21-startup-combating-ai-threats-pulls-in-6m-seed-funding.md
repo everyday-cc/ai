@@ -118,6 +118,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Unlocking The Potential Of AI For Accounting Firms And Clients"
+    excerpt: "In the ever-evolving landscape of finance and law, AI has emerged as a dynamic force reshaping how accounting firms and their clients operate."
+    publishedDateTime: 2023-11-22T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/22/unlocking-the-potential-of-ai-for-accounting-firms-and-clients/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Surviving and Thriving in the Age of AI: How Healthcare Leaders Can Learn What They Need to Know"
     excerpt: "AI may transform health care across the board, but not by itself. It's a tool, and like any tool, it will work more effectively and more safely in trained hands. As the AI revolution continues to grow,"
     publishedDateTime: 2023-11-20T14:00:00Z
@@ -169,15 +178,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 25
-  - title: "Opera gives voice to Alan Turing with help of artificial intelligence"
-    excerpt: "The makers of “I AM ALAN TURING,” an experimental opera being produced out of Yale’s Center for Collaborative Arts and Media, used AI in creating the show."
-    publishedDateTime: 2023-11-17T22:19:00Z
-    webUrl: "https://news.yale.edu/2023/11/17/opera-gives-voice-alan-turing-help-artificial-intelligence"
-    type: article
-    provider:
-      name: Yale Environment 360
-      domain: yale.edu
-    quality: 17
 
 secured: "g4e3eOlW8uiuRMG60HOtIZO2qk9au3a3ui7U+4IraALw2YsrkIc4fg3snrSMqM24LlRF806tk9AHQyjHTWESZb+IjFM/BC1b8LqWw+nHa1yHs1yAZQzPNRgQTdeM5jRDlkQZ+jzqj+mPo6dPU2+mH982SAiFRUyR4XR/ua2uCDN4ekNOwDH5oIalGxp5NviN1PvJytGNKoUScdpZvEuxsf663p63HSmJApc/yzgh0AopplZRn5l+pSe6grOvnFWJsN9d8EEPCht5wjJCHTaxDrihiKb7I0h6dZgzOyI8CGZZogTwlP8NqdYRae6iwNwRetl4IyUrcRG8sAGgMAY0y99s+rsi67AdUxkypQuHHvRhVOSFuu6UWrVvMOCjVS3MTKYuNRlc6LyVRhX5/qulJjDKpVYwJsi+mzGoOUMJnOm6uUz/wA+O4QSOZgf2poEV5xtKNDVrKKTp2Az/lRuT/FDCulEIt8f5ro5M+hDJ7S4j6mrb155Ala0E5GCNyHAF3wh16IAHAXw/kMtd4E2gEQ==;XvkjcvTX68tjZLDfcoECog=="
 ---

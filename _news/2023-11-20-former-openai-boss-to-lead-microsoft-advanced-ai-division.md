@@ -240,15 +240,15 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Microsoft Rolls Out Host of New AI Features at Ignite 2023"
-    excerpt: "From new copilots and AI development tools, to vector search and AI chips, artificial intelligence featured prominently in Microsoft’s annual Ignite"
-    publishedDateTime: 2023-11-17T21:44:00Z
-    webUrl: "https://www.datanami.com/2023/11/17/microsoft-rolls-out-host-of-new-ai-features-at-ignite-2023/"
+  - title: "Microsoft Girds to Dominate Cloud-Based AI Services"
+    excerpt: "Launching its own server CPUs and AI chips to fortify the Azure cloud, Microsoft takes shots at all their potential competitors while offering more options to their"
+    publishedDateTime: 2023-11-22T14:18:00Z
+    webUrl: "https://www.datacenterfrontier.com/cloud/article/33015357/microsoft-girds-to-dominate-cloud-based-ai-services"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 36
   - title: "8 AI Projects Microsoft Open-Sourced in 2023"
     excerpt: "Microsoft did its bit by releasing several AI and machine learning models, projects and libraries all round the year."
     publishedDateTime: 2023-11-21T13:00:00Z
@@ -267,6 +267,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 33
+  - title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
+    excerpt: "Flywheel provides a sophisticated infrastructure for the curation of high-quality, standardized datasets within a secure, scalable, and user-friendly SaaS solution. The platform facilitates an accelerated process to prepare and train data for AI model development and supports research among pharmaceutical and life sciences companies,"
+    publishedDateTime: 2023-11-22T14:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-flywheel-collaborates-with-microsoft-nvidia-propel-end-to-/2023/11/22/9922491.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 29
   - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
     excerpt: "KKCompany is announcing its participation in the Microsoft startup initiative, \"Highway to 100 Unicorns,\" a startup accelerator program aimed to support startup innovation and strengthen the startup ecosystem in the Asia region."
     publishedDateTime: 2023-11-21T06:20:00Z

@@ -107,6 +107,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Unlocking The Potential Of AI For Accounting Firms And Clients"
+    excerpt: "In the ever-evolving landscape of finance and law, AI has emerged as a dynamic force reshaping how accounting firms and their clients operate."
+    publishedDateTime: 2023-11-22T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/22/unlocking-the-potential-of-ai-for-accounting-firms-and-clients/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Surviving and Thriving in the Age of AI: How Healthcare Leaders Can Learn What They Need to Know"
     excerpt: "AI may transform health care across the board, but not by itself. It's a tool, and like any tool, it will work more effectively and more safely in trained hands. As the AI revolution continues to grow,"
     publishedDateTime: 2023-11-20T14:00:00Z
@@ -172,15 +181,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 25
-  - title: "Opera gives voice to Alan Turing with help of artificial intelligence"
-    excerpt: "The makers of “I AM ALAN TURING,” an experimental opera being produced out of Yale’s Center for Collaborative Arts and Media, used AI in creating the show."
-    publishedDateTime: 2023-11-17T22:19:00Z
-    webUrl: "https://news.yale.edu/2023/11/17/opera-gives-voice-alan-turing-help-artificial-intelligence"
-    type: article
-    provider:
-      name: Yale Environment 360
-      domain: yale.edu
-    quality: 17
 
 secured: "5BTaCpNve8bNjBYRrk1BJjHhKgZB7eiEkT+uvau4ihBNvlYemEOePsYK2E8UfwNOupBkKuFiz9cI1E2JOhDSL0saZ3NvwMGl7UumcApByiHY9d8w5PGTPjP2W25LhfKEnkbC+lfveCp/gg3o/Zl+Q5q9VrOvVp/qogIWYObOjjVFMuqLuucH2a5JPM4IsRXU/GAnSZ2KWoLZtGAiSPveDPc3jp3GoKQKVDxvTCWzFopIp0ZpJrGwk/zAHw4CVYAvv8ZP1kolZXZimi1Zf0IUWl36fU2NHIZTJW+QDSsTsheBzBDIU92oiT0GVR/GNVLhX2v9u+fw8Tu9b+JHAg7wKPJQk5elilaLhwMxLOY0SFx5qB6nbEUJCDzwm+JrBAACGyoZ9t6Dl0A+soDY5k10VYRIXGy8KiVqJL78KM7tcxNzeWv0QhLVrYUTpiX373ODDwNE3EN2ZUGrc7NzEu6ocuLBjfvGBo0Y8jVFO68E22qEe54obMY423kq/1KxjG1Llr9Cp+aHL4e4AVpebjBb+A==;zS34pKY63ncINUGzeds7yg=="
 ---

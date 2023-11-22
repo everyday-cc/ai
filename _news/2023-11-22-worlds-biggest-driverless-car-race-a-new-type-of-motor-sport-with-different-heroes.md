@@ -71,6 +71,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Isn't it about time we had driverless cars?"
+    excerpt: "Driverless cars feel like they've been \"two or three years away\"… for the last 10 years. So why don't we have them yet? What technical and ethical hurdles do we still need to overcome to finally make robots our designated drivers?"
+    publishedDateTime: 2023-11-22T14:00:00Z
+    webUrl: "https://www.abc.net.au/listen/programs/quick-smart/isn-t-it-about-time-we-had-driverless-cars-/103134864"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 19
 
 secured: "DOeQF9nxALEAoUeen0SIkyxddCUDI5HVKy85rhbwh6rftVkvRZzfMazFDTndlNM/vvBt5m4z0Ogtw1t43Ta0xOqrjJCGWxQ0iTj9qlBVII+qnnhNNWtTmPBAMV+n/+IrIOow42D9y5YJ1VsMa5RDwgNoRTF5em2mgl9Zb1Ee6wD78eqzSWpzxFgszyToOWx1ucEODG3582vgEG6NTECmhhfbqoRvxhcetqLvliA5z2ICw0yTBBD30pc29pAM6FvtwAg/Poc7qRI/sUWyC5FxbI37/wPKa1DpKHScYDSBash6Q5iyneeagecoORYxf9/7L2IrR3OiHRzZsnSkT8N/Z8H0Rwgx50CXzHuLH842RYr8f+Ht3vQM92lgjCmMOrEvORN0Rj6Cc2G92bQcdvDq1gaW/CpNKwnRneqF1I1BoysNEszfubbVW+0DTJgBALLQLvh1lW4f3fkDpDhxPF+qxvuIzcllS32MNduTHPsa2Rgz5oLgrp7DqACYCDTYu/7ReP89P0vtHzqVOcfObZrh5g==;adnVPtV1iVhrNxMFj+fsGw=="
 ---
