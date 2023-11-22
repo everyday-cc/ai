@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/technology/can-ai-outperform-human-cr
 webUrl: "https://www.entrepreneur.com/technology/can-ai-outperform-human-creativity-research-suggests/464485"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "Will Artificial Intelligence Replace Human Creators?"
-    excerpt: "Artificial intelligence is revolutionizing how we search, create and communicate. As AI makes remarkable strides, I anticipate a profound impact on influencer marketing. I also believe that while AI has been engineered to complement the creative process,"
-    publishedDateTime: 2023-11-17T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/17/will-artificial-intelligence-replace-human-creators/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "x0HQHXQhiZolfZKfeXYqFMwlTBXEyBhBfC9wlBLJoI9KGOypw35XeUpuNO5ihXIjJLsEtPqG60oKinWu7QTSLEBFSMCeELERpRSjb8stY6UDUCGCbgI7cXow6RMqV9mnT4Pelnq+IE3Dq63qcwX8SXHsBXYH8asHX4nhpQLs29aFRW23H+e9oQvodJk8OP8cNmsVBnqqCYJdGtgOP5o5TVv5vV4Kjm0vSfIJL3ZumtwKahxKGBMEhW5Vn/LzqF/0psvXThQngz0I+nYd2R9PKrS+/Whu8kSFHPAp/1bAaaEPWV3Td9tCsURLqOCO3K3bHKTQ9a7EetYoFgI58ctwMaESUPNBtDS00YJDsMSWOrU=;Q6/B2g9NqD3FSY8HHMvscg=="
 ---

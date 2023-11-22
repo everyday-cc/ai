@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain.amp"
 type: article
 quality: 104
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Baidu Is Looking for AI Chip Alternatives, Chinese Tech Giant’s Robin Li Says"
+    excerpt: "Baidu, which launched its chatbot Ernie Bot 4.0 last month, does not need chips with too much computing power, Li said at an analyst conference after the Beijing-based firm’s earnings call yesterday. Baidu’s four-layer architecture and algorithmic strengths will also help improve efficiency and mitigate the impact of these challenges."
+    publishedDateTime: 2023-11-22T06:18:00Z
+    webUrl: "https://www.yicaiglobal.com/news/baidu-is-looking-for-ai-chip-alternatives-chinese-tech-giants-robin-li-says"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 51
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/11/39554594711237.jpg"
+        width: 770
+        height: 510
+        isCached: true
 
 secured: "J9iMd27mktRI1AtL0h4+i6ITAf9IzuerKjlRbZ/HKhzZsyEB6YXWGswfxdVWlOTtTsJ2cogmMqBgjGWOUbZxRRdSvJH90AYOTU4sLQnxs1mPBPVIYjsqHXsvSVHOh3fvyV8NHjGE2hqXoqBFCgyHtXmc83JJevBfeaFk2YQwXVqC0oOIsh5179A6oVOJDZ1MbUaCi9bwLUgPlG1FYcfRu0c8E4GUx0PJUkodqTqPebWdWW0QKPy+W/oyKsc4EXSo7EN8DaQvFlbVeaKKxTqgrlI1RO4n+mT/RQ+91LEan9fNvZQ/leq5kzcqDYRqMotwlwxjag22nDIDyf8uKtJMknS41yYWV9zp2t+eIoyZ97rOSa8cXZHEv/YruaFniqqJ0utyRt/Y9EcjiI8y3tv/SfAYgVuN4rLX4wmASOKu9NfqzZRCAjXA2mq/uzBx3TdGpR2EY7DG09RUU7hebx+/LIboHahl2FPYoS04v0/x67rC1xlkxFHjis4mjYOvzyWLlxPMJGgPR00rhGyF19ACwQ==;/yQECEwyly1XvfzijbeOZA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-agents-three-day-workweek"
 webUrl: "https://thenextweb.com/news/ai-agents-three-day-workweek"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:

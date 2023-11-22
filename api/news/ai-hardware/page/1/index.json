@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-22-nvidias-revenue-triples-as-ai-chip-boom-continues.md",
+      "title": "Nvidia's revenue triples as AI chip boom continues",
+      "excerpt": "Nvidia called for accelerating revenue growth in the next quarter, even as executives warn that government limits on sales to some countries will hurt results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html",
+      "originalUrl": "https://www.cnbc.com/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107337398-1700591512473-gettyimages-1662776626-SENATE_AI.jpeg?v=1700591613",
+          "width": 5676,
+          "height": 3784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html",
+      "publishedDateTime": "2023-11-21T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-baidu-says-sees-limited-impact-from-us-chip-curbs-after-q3-revenue-beat.md",
       "title": "Baidu says sees limited impact from U.S. chip curbs after Q3 revenue beat",
       "excerpt": "Baidu has enough artificial intelligence chips stockpiled to soften the impact of U.S. technology export curbs on its business for now, the Chinese tech giant said on Tuesday after reporting forecast-beating quarterly revenue.",
@@ -130,58 +182,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024.md",
-      "title": "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024",
-      "excerpt": "Nvidia's earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html",
-      "originalUrl": "https://www.cnbc.com/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107327179-1698862366973-gettyimages-1258356102-TAIWAN-COMPUTEX2023-01062023-162JPG.jpeg?v=1700162267",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html",
-      "publishedDateTime": "2023-11-20T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

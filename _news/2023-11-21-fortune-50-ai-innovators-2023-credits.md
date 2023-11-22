@@ -7,7 +7,7 @@ originalUrl: "https://fortune.com/franchise-list-page/fortune-50-ai-innovators-c
 webUrl: "https://fortune.com/franchise-list-page/fortune-50-ai-innovators-credits-2023/"
 type: article
 quality: 67
-heat: 87
+heat: 89
 published: true
 
 provider:

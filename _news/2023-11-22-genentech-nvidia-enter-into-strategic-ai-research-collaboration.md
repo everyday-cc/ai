@@ -23,185 +23,89 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
-    excerpt: "Nvidia's earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
-    publishedDateTime: 2023-11-20T14:43:00Z
-    webUrl: "https://www.cnbc.com/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
+  - title: "Fintech Sector Is Undergoing Transformation with Rise of Open Finance, Generative AI, A2A Payments – Report"
+    excerpt: "The whitepaper found that “the fintech market is undergoing a rapid shift, with the rise of new technologies, such as Open Finance, generative AI and A2A (account-to-account) payments having a major impact on business models.” This is combined with unp ..."
+    publishedDateTime: 2023-11-21T21:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107327179-1698862366973-gettyimages-1258356102-TAIWAN-COMPUTEX2023-01062023-162JPG.jpeg?v=1700162267"
-        width: 5000
-        height: 3333
-        isCached: true
-  - title: "Nvidia’s revenue triples as AI chip boom continues"
-    excerpt: "Nvidia’s revenue grew 206 per cent year over year during the quarter ending October 29, according to a statement. Net income, at $US9.24b, or $US3.71 per share, was up from $US680 million, or US27¢ per share, in the same quarter a year ago."
-    publishedDateTime: 2023-11-21T23:10:00Z
-    webUrl: "https://thewest.com.au/business/cnbc/nvidias-revenue-triples-as-ai-chip-boom-continues-c-12637843"
-    ampWebUrl: "https://thewest.com.au/business/cnbc/nvidias-revenue-triples-as-ai-chip-boom-continues-c-12637843.amp"
-    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/cnbc/nvidias-revenue-triples-as-ai-chip-boom-continues-c-12637843.amp"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 74
-    images:
-      - url: "https://images.thewest.com.au/publication/C-12637843/fb7b5acc99e9fd1abd181ba90bf433a52909f97f-16x9-x0y227w3998h2249.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia reports record Q3 results driven by surging demand for AI"
-    excerpt: "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more. Nvidia reported record revenue today for its third fiscal quarter of fiscal 2024 (ending October 31,"
-    publishedDateTime: 2023-11-21T22:53:00Z
-    webUrl: "https://venturebeat.com/gaming-business/nvidia-reports-record-q3-results-driven-by-surging-demand-for-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Nvidia-Grace-Hopper-Superchip.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Can AI Stalwart Nvidia Deliver Back-To-Back Hit Show? Q3 Earnings Preview"
-    excerpt: "thanks to robust sales of high-performance chips to cloud service providers and large consumer internet companies. The strong demand came on the back of the development of large language models and generative AI. Oppenheimer analyst Rick Schafer models 22% ..."
-    publishedDateTime: 2023-11-21T05:04:00Z
-    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35888525/can-ai-stalwart-nvidia-deliver-back-to-back-hit-show-q3-earnings-preview"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35888525"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35888525"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Nvidia_28.jpeg?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
-        isCached: true
-  - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
-    excerpt: "Nvidia’s earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
-    publishedDateTime: 2023-11-20T16:43:00Z
-    webUrl: "https://www.nbcmiami.com/news/national-international/nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024/3164667/"
-    ampWebUrl: "https://www.nbcmiami.com/news/business/money-report/nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024/3164667/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024/3164667/?amp=1"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 56
     images:
-      - url: "https://media.nbcmiami.com/2023/11/107300190-1694621998133-gettyimages-1662849007-AI_CEOs_518_091323.jpeg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/NYSE-New-York-Fintech-1024x848.jpg"
+        width: 1024
+        height: 848
+        isCached: true
+  - title: "Artificial Intelligence in Banking: Transforming Customer Experiences with FinTech"
+    excerpt: "Introduction Artificial Intelligence (AI) has become a revolutionary force in the banking sector, reshaping the way financial institutions operate and interact with their customers. In tandem with Financial Technology (FinTech),"
+    publishedDateTime: 2023-11-21T12:21:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-in-banking-transforming-customer-experiences-with-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 48
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Artificial-Intelligence-in-Banking-Transforming-Customer-Experiences-with-FinTech.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Iceland’s tech clustering – a volcanic focus on fintech"
+    excerpt: "Another area where fintech can play a part in improving the efficiency of financial trading and movement is in the identification and management of fraud, and in particular money laundering. Another member of Iceland’s fintech cluster, Lucinity, has set its sights on providing new tools for the task."
+    publishedDateTime: 2023-11-20T10:45:00Z
+    webUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech"
+    ampWebUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 44
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-11/kirkjufell-2148191_640.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "O’Reilly “Generative AI in the Enterprise” 2023 Report"
+    excerpt: "In an era marked by rapid technological evolution, the landscape of artificial intelligence is undergoing a monumental shift, spearheaded by the advent and integration of generative AI. O'Reilly, a leading beacon in technology and business learning,"
+    publishedDateTime: 2023-11-21T16:32:00Z
+    webUrl: "https://www.unite.ai/oreilly-generative-ai-in-the-enterprise-2023-report/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/11/9d68dfbf-055b-4873-845c-ab4b4963221b-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Singapore’s fintech sector struggling to find talent"
+    excerpt: "In a 2021 Accenture survey, nearly two out of three firms blamed their talent gap on not being able to get work permits for foreigners. Nowadays, only 37 percent cite difficulty in securing employment passes as a hiring challenge. For this dramatic change, the employers and employees should thank Hong Kong."
+    publishedDateTime: 2023-11-20T15:59:00Z
+    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/11/21/2003809473"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 24
+    images:
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
         width: 1200
-        height: 675
+        height: 1200
         isCached: true
-  - title: "Wipro joins hands with NVIDIA to integrate generative AI in healthcare"
-    excerpt: "Bengaluru: Leading IT firm Wipro on Tuesday announced a partnership with chip-maker NVIDIA aimed at expediting the integration of generative artificial intelligence (AI) in healthcare enterprises."
-    publishedDateTime: 2023-11-21T18:29:00Z
-    webUrl: "https://www.indiablooms.com/finance-details/19466/wipro-joins-hands-with-nvidia-to-integrate-generative-ai-in-healthcare.html"
+  - title: "MAS launches latest range of fintech initiatives"
+    excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."
+    publishedDateTime: 2023-11-20T12:45:00Z
+    webUrl: "https://www.euromoney.com/article/2ch7qdhmxyq9fpfz71dz4/fintech/mas-launches-latest-range-of-fintech-initiatives"
     type: article
     provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 56
-    images:
-      - url: "https://www.indiablooms.com/finance_pic/2023/e61cc3574501054308e28883f55e17c8.jpg"
-        width: 800
-        height: 541
-        isCached: true
-  - title: "Wipro Leverages NVIDIA AI to Enhance Healthcare Solutions"
-    excerpt: "Wipro and NVIDIA join forces to speed up generative AI adoption for healthcare via AI-driven strategies, products and services."
-    publishedDateTime: 2023-11-22T02:57:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/33966-wipro-leverages-nvidia-ai-to-enhance-healthcare-solutions"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 56
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/02dd3a6401840cd05dc8ec7ecf9feb85.jpg?t=20231122_025418"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "Nvidia Triples Revenue As AI Chip Demand Stays Strong"
-    excerpt: "Nvidia tripled revenue in its third quarter from a year ago, a sign that demand for its AI chips and systems is still strong."
-    publishedDateTime: 2023-11-22T01:48:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-triples-revenue-as-ai-chip-demand-stays-strong"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0284-18d84313338b-88a6346e8803-1000/nvidia-2.jpeg"
-        width: 1500
-        height: 1128
-        isCached: true
-  - title: "Wipro Teams with NVIDIA to Bring the Power of Generative AI to Healthcare Insurance Companies"
-    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading technology services and consulting company, today announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI-driven strategies,"
-    publishedDateTime: 2023-11-21T13:04:00Z
-    webUrl: "https://www.itemonline.com/wipro-teams-with-nvidia-to-bring-the-power-of-generative-ai-to-healthcare-insurance-companies/article_1d55ebef-5e40-5a6d-b788-72e470c8cc78.html"
-    type: article
-    provider:
-      name: The Huntsville Item
-      domain: itemonline.com
-    quality: 43
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/5879-RTJ-Summer-Packages-300x250.gif"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Wipro and NVIDIA Collaborate to Advance Gen AI in Healthcare"
-    excerpt: "Wipro Limited, a technology services and consulting company, has announced a collaboration with NVIDIA to accelerate the adoption of generative"
-    publishedDateTime: 2023-11-22T04:50:00Z
-    webUrl: "https://www.dqindia.com/wipro-and-nvidia-collaborate-to-advance-gen-ai-in-healthcare/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 36
-  - title: "Cloudera and NVIDIA Partner To Expand AI Capabilities"
-    excerpt: "Hybrid and multi-cloud environments have revolutionized how businesses store, process, and manage data. With the rise of new technologies, such as"
-    publishedDateTime: 2023-11-17T17:38:00Z
-    webUrl: "https://www.datanami.com/2023/11/17/cloudera-and-nvidia-partner-to-expand-ai-capabilities/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
-  - title: "New NVIDIA Ethernet AI networking platform soon available"
-    excerpt: "NVIDIA has announce the imminent availability of its new Spectrum-X Ethernet networking solution, a technology poised to significantly boost AI system"
-    publishedDateTime: 2023-11-20T14:45:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-networking/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
-  - title: "Chips Stocks Fall Ahead of Nvidia Earnings"
-    excerpt: "Semiconductor stocks were falling on Tuesday ahead of the latest earnings report from graphics card titan Nvidia. Nvidia shares were down 1.4% to $497.26. The iShares Semiconductor ETF was down 2%. Nvidia stock is up 240% in 2023."
-    publishedDateTime: 2023-11-21T18:01:00Z
-    webUrl: "https://www.barrons.com/livecoverage/stock-market-today-112123/card/chips-stocks-fall-ahead-of-nvidia-earnings-AqB5quRHJ1W1rTiUkjBm"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
-  - title: "Nvidia earnings in focus as AI hype translates to profit surge, record stock price"
-    excerpt: "Nvidia is expected to report Q3 sales nearly tripled amid as demand for AI-related chips surged. But new limits on exports to China could blunt its forecasts."
-    publishedDateTime: 2023-11-21T15:29:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-earnings-in-focus-as-ai-hype-translates-to-record-highs-profit-surge"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 11
+      name: Euromoney
+      domain: euromoney.com
+    quality: 4
 
 secured: "1L4bdcMyI9XPZqpuQ6l8lfkPCfYKPWfatb8XWqRTX6lRR8xFle0sNCJ+pL0JkIpH02OHldUKKDKTrCBxnWnT1DUlQWoT0aAbqSqQz/C3BWXfqweCWFnHHiCAFV1OJZXasPV3ME4GOq9eOBGHxTdeeKs2cW3ugGNmSkgHbMNKb4YJ/5i+5Y2dYjXUToVIQPdm1X9l3MvlqIU9kUfvRINTNknMfrRi/aF+VSX6AZ8tk8rexKCmseLyGDr693/fji0rnV8X9Zc/QLr7wmgHBDxG7OdBnK010ifnR13glQgyGi/dg1+kGNgu8lT6qjM84SV3ZgTFQkb0ZMs8UkIUNBzACQ/K6M8GN5zGp9++bDZRpww=;jtHgMZ313NejU8XOHBLO0A=="
 ---

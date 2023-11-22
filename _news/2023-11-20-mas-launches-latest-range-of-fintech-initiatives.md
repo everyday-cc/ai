@@ -35,6 +35,15 @@ related:
         width: 1024
         height: 848
         isCached: true
+  - title: "Genentech, NVIDIA Enter Into Strategic AI Research Collaboration"
+    excerpt: "Tuesday announced a multi-year strategic research collaboration with NVIDIA that couples Genentech's artificial intelligence (AI) capabilities, extensive biological and molecular datasets, and research expertise with NVIDIA's world-leading accelerated computing capabilities and AI to speed up drug discovery and development."
+    publishedDateTime: 2023-11-21T16:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/genentech-nvidia-enter-into-strategic-ai-research-collaboration-1032840044"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Artificial Intelligence in Banking: Transforming Customer Experiences with FinTech"
     excerpt: "Introduction Artificial Intelligence (AI) has become a revolutionary force in the banking sector, reshaping the way financial institutions operate and interact with their customers. In tandem with Financial Technology (FinTech),"
     publishedDateTime: 2023-11-21T12:21:00Z

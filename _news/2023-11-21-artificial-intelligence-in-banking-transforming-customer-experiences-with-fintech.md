@@ -41,6 +41,15 @@ related:
         width: 1024
         height: 848
         isCached: true
+  - title: "Genentech, NVIDIA Enter Into Strategic AI Research Collaboration"
+    excerpt: "Tuesday announced a multi-year strategic research collaboration with NVIDIA that couples Genentech's artificial intelligence (AI) capabilities, extensive biological and molecular datasets, and research expertise with NVIDIA's world-leading accelerated computing capabilities and AI to speed up drug discovery and development."
+    publishedDateTime: 2023-11-21T16:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/genentech-nvidia-enter-into-strategic-ai-research-collaboration-1032840044"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Iceland’s tech clustering – a volcanic focus on fintech"
     excerpt: "Another area where fintech can play a part in improving the efficiency of financial trading and movement is in the identification and management of fraud, and in particular money laundering. Another member of Iceland’s fintech cluster, Lucinity, has set its sights on providing new tools for the task."
     publishedDateTime: 2023-11-20T10:45:00Z

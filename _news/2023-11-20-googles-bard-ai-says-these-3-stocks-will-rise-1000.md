@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "3 AI Stocks Practically Guaranteed to Generate Big Gains"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips First, let’s acknowledge the elephant in the room. Reasons remain"
-    publishedDateTime: 2023-11-20T16:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-practically-guaranteed-to-generate-big-gains-1032836381"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Japan’s Favorite AI Stocks: 3 Companies the Country Loves"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Japan is hot on artificial intelligence (AI), and some AI stocks stand to gain"
     publishedDateTime: 2023-11-21T21:49:00Z

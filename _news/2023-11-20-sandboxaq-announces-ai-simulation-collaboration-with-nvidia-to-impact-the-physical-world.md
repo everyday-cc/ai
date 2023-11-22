@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35873661"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35873661"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia fails to satisfy lofty investor expectations for AI boom"
-    excerpt: "Nvidia Corp investors gave a cool reaction to its latest quarterly report, which blew past average analysts’ estimates but failed to satisfy the loftier expectations of shareholders who have bet heavily on an artificial intelligence boom."
-    publishedDateTime: 2023-11-22T04:51:00Z
-    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/nvidia-fails-satisfy-lofty-investor-expectations-ai-boom"
+  - title: "Wipro joins hands with NVIDIA to integrate generative AI in healthcare"
+    excerpt: "Bengaluru: Leading IT firm Wipro on Tuesday announced a partnership with chip-maker NVIDIA aimed at expediting the integration of generative artificial intelligence (AI) in healthcare enterprises."
+    publishedDateTime: 2023-11-21T18:29:00Z
+    webUrl: "https://www.indiablooms.com/finance-details/19466/wipro-joins-hands-with-nvidia-to-integrate-generative-ai-in-healthcare.html"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 56
+    images:
+      - url: "https://www.indiablooms.com/finance_pic/2023/e61cc3574501054308e28883f55e17c8.jpg"
+        width: 800
+        height: 541
+        isCached: true
+  - title: "NVIDIA Unveils Spectrum-X Ethernet Networking for AI with Dell, HPE, and Lenovo Integration"
+    excerpt: "NVIDIA today announced that Dell Technologies, Hewlett Packard Enterprise and Lenovo will be the first to integrate"
+    publishedDateTime: 2023-11-20T16:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/nvidia-unveils-spectrum-x-ethernet-networking-for-ai-with-dell-hpe-and-lenovo-integration/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 9
 
 secured: "w5draGQwv8jiSKJuhWkgrl8gjx/D3JgDvoWnpFpE2dBwK2WJwdVWHdb9xNGJMJcrnIZwLcr/+S83JiM82S7qvSdggy4I+56X6MAuRmF280J8oJ9GCs88osf6Ruyh/Ug8fF+Kg9/xZI/ITFe/uWlrTDNSnGiuDNjvqdexbcdqVfWnLo1l7YUFqEmuLOczoD8Q29TLk76CIZgOdAWilWQk6YxMKJpGyPs9Vbe9oZ2zZJrAV0r6YrGlejCuXWDsscKg7m1PiosAkqvJT07RYxy6M4+LqzbzaOWxqVIUxjpBrMnrXfwRlKguFlhYZyILYWuh8To46u+w+8jxpkayaUTC6OQg18w6gTF00Q/7dxgyO2c=;YwsCNMOk1wcQY4vii2KhvA=="
 ---

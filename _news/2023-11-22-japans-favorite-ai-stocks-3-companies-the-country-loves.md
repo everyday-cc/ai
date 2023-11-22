@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/japans-favorite-ai
 webUrl: "https://markets.businessinsider.com/news/stocks/japans-favorite-ai-stocks-3-companies-the-country-loves-1032840828"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "3 AI Stocks Practically Guaranteed to Generate Big Gains"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips First, let’s acknowledge the elephant in the room. Reasons remain"
-    publishedDateTime: 2023-11-20T16:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-practically-guaranteed-to-generate-big-gains-1032836381"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Google’s Bard AI Says These 3 Stocks Will Rise 1,000%"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The hype around artificial intelligence has settled down a bit lately as"
     publishedDateTime: 2023-11-20T13:43:00Z

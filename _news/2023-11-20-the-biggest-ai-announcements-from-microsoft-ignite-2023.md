@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI silent war, is Nadella the Microsoft pied piper as OpenAI shakes"
+    excerpt: "Referred to as one of the most remarkable acqui-hires this year, Microsoft CEO Satya Nadella appears to have roped in some reputational credit for Microsoft."
+    publishedDateTime: 2023-11-22T06:25:00Z
+    webUrl: "https://memeburn.com/2023/11/ai-silent-war-is-nadella-the-microsoft-pied-piper-as-openai-shakes/"
+    ampWebUrl: "https://memeburn.com/2023/11/ai-silent-war-is-nadella-the-microsoft-pied-piper-as-openai-shakes/?amp=1"
+    cdnAmpWebUrl: "https://memeburn-com.cdn.ampproject.org/c/s/memeburn.com/2023/11/ai-silent-war-is-nadella-the-microsoft-pied-piper-as-openai-shakes/?amp=1"
+    type: article
+    provider:
+      name: Memeburn
+      domain: memeburn.com
+    quality: 76
+    images:
+      - url: "https://s5.cdn.memeburn.com/wp-content/uploads/2020/01/microsoft-edge-chromium-stock-1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Microsoft goes all-in on AI at Ignite"
     excerpt: "Ignite conference took place last week, and AI was the star of this year's event. AI is the one technology Microsoft seems most excited"
     publishedDateTime: 2023-11-21T08:36:00Z

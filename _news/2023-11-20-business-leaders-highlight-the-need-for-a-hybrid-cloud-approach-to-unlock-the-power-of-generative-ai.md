@@ -55,20 +55,6 @@ related:
         width: 1600
         height: 811
         isCached: true
-  - title: "There’s a generative AI rocket under Nvidia."
-    excerpt: "The company’s Q3 2024 earnings reveal $18.12 billion in revenue for the quarter, with $14.51 billion from its data center business as the world’s AI companies jockey for Nvidia’s chips. That overall revenue number is a 206 percent jump from last year and marks a continuing growth trend for the company."
-    publishedDateTime: 2023-11-21T22:24:00Z
-    webUrl: "https://www.theverge.com/2023/11/21/23971573/theres-a-generative-ai-rocket-under-nvidia"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/izC6fxOO-rWRM98s9kO2VURBg84=/0x0:1923x1080/1923x1080/filters:focal(962x540:963x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25103224/image__6_.png"
-        width: 1923
-        height: 1080
-        isCached: true
   - title: "Bank, fintech leaders weigh in on the pros and cons of generative AI"
     excerpt: "New iterations of tools powered by advanced artificial intelligence will aid banks in generating new value for customers, but the lack of regulatory guidance in this area hinders deeper adoption of the technology,"
     publishedDateTime: 2023-11-21T23:05:00Z

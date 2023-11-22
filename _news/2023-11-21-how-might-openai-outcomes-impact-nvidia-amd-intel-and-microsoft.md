@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/amp/"
 type: article
 quality: 104
-heat: 304
+heat: 314
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://www.reuters.com/resizer/0HejM6R-sFjiMdFq3gjoV0eovFw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GF4Z2BISTZKSLOYSMZJECCIIKA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "AI silent war, is Nadella the Microsoft pied piper as OpenAI shakes"
+    excerpt: "Referred to as one of the most remarkable acqui-hires this year, Microsoft CEO Satya Nadella appears to have roped in some reputational credit for Microsoft."
+    publishedDateTime: 2023-11-22T06:25:00Z
+    webUrl: "https://memeburn.com/2023/11/ai-silent-war-is-nadella-the-microsoft-pied-piper-as-openai-shakes/"
+    ampWebUrl: "https://memeburn.com/2023/11/ai-silent-war-is-nadella-the-microsoft-pied-piper-as-openai-shakes/?amp=1"
+    cdnAmpWebUrl: "https://memeburn-com.cdn.ampproject.org/c/s/memeburn.com/2023/11/ai-silent-war-is-nadella-the-microsoft-pied-piper-as-openai-shakes/?amp=1"
+    type: article
+    provider:
+      name: Memeburn
+      domain: memeburn.com
+    quality: 76
+    images:
+      - url: "https://s5.cdn.memeburn.com/wp-content/uploads/2020/01/microsoft-edge-chromium-stock-1.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "The biggest AI announcements from Microsoft Ignite 2023"
     excerpt: "Microsoft announced a slew of AI updates at the Microsoft Ignite event a few days ago. Here is a look at the most important announcements that will shape Microsoft's future for the years to come."

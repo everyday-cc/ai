@@ -1,22 +1,38 @@
 ---
 category: news
 title: "AI-Powered Automation Startup for Social Media, Munch, Raises $7.2M in Seed Funding Led By A* Capital"
-excerpt: "The funding will be used for R&D, customer growth and team expansion to further accelerate the company's global presence after reaching $2M annual recurring revenue within 8 months TEL AVIV, Israel, Nov."
-publishedDateTime: 2023-11-21T14:37:00Z
-originalUrl: "https://www.cmswire.com/the-wire/ai-powered-automation-startup-for-social-media-munch-raises-72m-in-seed-funding-led-by-a-capital/"
-webUrl: "https://www.cmswire.com/the-wire/ai-powered-automation-startup-for-social-media-munch-raises-72m-in-seed-funding-led-by-a-capital/"
+excerpt: "Munch , a leading AI-powered automation platform for social media, today announced their $7.2 million seed funding round. The round was led by A* Capital, supported by Liquid2 and Pre-Seed investors Cardumen Capital and Remagine Ventures."
+publishedDateTime: 2023-11-21T12:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/11/21/9921757.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/11/21/9921757.htm"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
-  name: CMS Wire
-  domain: cmswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "15CZqxOv8ih5WL59goQ0EXNOTaBc8JP4sN+T1hgCogrgdEQumW3259UchA6EfRnhoh9/kNUb1US2Tzg+eTEkrDEmlzuCebpEBIQnIB4k5GRI7ggA6n+KtHev8F2C9Cj8UhWi8fZIPq4dIP7RjfojK2fzgxLv4anMw70Mq9R5dkff8lx9/zl5oE3sXX1kfHqLkSH8hUFxEa7hsdHgr+f5EDwp9Jt2k0Is2ePyiHeB3O+X4tKrJwEg1cPQBUYzcC0jG4kfyczd+r+/mgIjugyHACzmqzFAYqgzfvUtWrz10CzNJitmrcGQsFEg5Uqtvw3ZjZLEHF16kZE1wO7SsjXDYVGOzJvahMvenB3Xdh0W7QU=;t+NAJHzqduQyMEqEvE3gOg=="
+related:
+  - title: "AI-powered restaurant platform startup Malou raises $10M"
+    excerpt: "Artificial intelligence-powered restaurant platform startup Malou today announced that it has raised $10 million in new funding to accelerate growth in France, enhance product functionality and expand internationally, particularly in the U.S. and the Middle East."
+    publishedDateTime: 2023-11-20T08:00:00Z
+    webUrl: "https://siliconangle.com/2023/11/20/ai-powered-restaurant-platform-startup-malou-raises-10m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/malou.png"
+        width: 720
+        height: 720
+        isCached: true
+
+secured: "pufDfIFHHdgEPJCYdgmqOBeMfCssBsfowqQ3WrmWN/ucEgqBcnUCNal7rNEVo7dVwDqhGWbyxZ2gkWCbjUzBYvufa+LDtuuTJ5qoolRtZ2VszymmCBaqksRfb55s5POnK9JMIQ18iXrAzLPEVE1fmpqucAA+mtvf5mRrsUiCjsGjsmjkBt3MkThf5vSxoNbT+GTBS7ULCXitwsXAjEUPEnNsVOyqwXuGtcYx2x6egDSq/EzomMjEFn/KxYocOz6hx3fnF3lDrnZefdyUu1K3IAi4BiJzKdRrGokATl3RWSUcUy2ouRiBJnNtZnpgPlJivV77piBIF4zMJLRAFxjkrMYDwKM8Oq4QIO+0XcXE7Gk=;RaZdcnVugMjMYqeHwfrASQ=="
 ---
 

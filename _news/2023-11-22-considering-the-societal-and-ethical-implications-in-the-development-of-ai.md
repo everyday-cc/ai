@@ -7,7 +7,7 @@ originalUrl: "https://www.nyas.org/news-articles/academy-news/considering-the-so
 webUrl: "https://www.nyas.org/news-articles/academy-news/considering-the-societal-and-ethical-implications-in-the-development-of-ai/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Developing Artificial Intelligence for Medical Devices"
+    excerpt: "However, a Canadian company specializing in artificial intelligence (AI)-based monitoring of the spread of infectious diseases had already warned its customers of the risk of an epidemic in China as early as December 2019. 1 The warning had been derived ..."
+    publishedDateTime: 2023-11-20T00:00:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-5291510_640_web.jpg"
+        width: 770
+        height: 440
+        isCached: true
 
 secured: "3nHy5TVXqu3N4eaJwXv7pH6flL61eV1D16UxZiObNOznoL/XmkC2eyKVd1oyUdi01ECULp+SDAEWrKSvkVZmRozxZVuM+tM3Mc99ZsPEnOEayas86POArGrIw/AofZylXmNF1ShxNnYLF7rSe0k0RRe9tePPSY9y8MQjAFLZuhBee02kuxAzrqjZKw/31kzVHJw21f18R7vaNWplU7F4IGaeArJBxDmaL2xkB04UpEGT7YJ9AUb+miQjOzpf8mGgv2yPVWf37zk9uzUHfy5SJbJGwSAQGva5X/RdP+T61oEoths41bTHIOu7dLIPQuk+73wbF5g5I8ttldcV93bwgGfDjcQLvaill612RY4QaIqy8+Rf+Jlh+q3crzFt6HXnGQRgcOE2QUjdFi3VsXnp1PX0sRP4Ogg0pfMCLAiKOzQIpCPE4jG1Kqq3+IHjoGhvvmS9uGkMMSRmkXkiHuPL8dCoi3jky8ID5IF2FQ/6XsrCuvBa8/tljX0HJKqk4YPQkmOKi+p4a2dqtIlF6wxAPQ==;c9rv1BMh1Ji7DwuG8L68/Q=="
 ---

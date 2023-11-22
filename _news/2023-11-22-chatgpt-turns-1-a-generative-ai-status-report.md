@@ -119,20 +119,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "NVIDIA wants to use AI chatbots to help build better chips"
-    excerpt: "US software firm NVIDIA is adapting AIs to help its human engineers build better computer chips."
-    publishedDateTime: 2023-11-21T10:00:00Z
-    webUrl: "https://www.newscientist.com/article/2403629-nvidia-wants-to-use-ai-chatbots-to-help-build-better-chips/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/11/20211118/SEI_180495034.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "AWS to power Yellow.ai's AI-powered voicebot, chatbot solutions globally"
     excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its"
     publishedDateTime: 2023-11-20T15:12:00Z
@@ -161,15 +147,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This New AI Chatbot Is Ushering In Nvidia’s End"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Editor’s note: “This New AI Chatbot Is Ushering In Nvidia’s"
-    publishedDateTime: 2023-11-19T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/a-new-ai-chatbot-is-ushering-in-nvidias-end-2-1032833487"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Yellow.ai Scales Generative AI–powered Chatbot and Voicebot Solutions Globally on AWS"
     excerpt: "Amazon Web Services (AWS) announced that Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions. These dynamic AI agents enhance the customer experience with goal-driven conversations with customers while comprehending their needs and providing highly personalized responses."
     publishedDateTime: 2023-11-20T06:11:00Z
@@ -220,6 +197,20 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2023/11/sam_altman_with_fire_around_him.jpg"
         width: 1024
         height: 640
+        isCached: true
+  - title: "ChatGPT rolls out voice chat feature to all users for free"
+    excerpt: "OpenAI has announced that ChatGPT's voice chat feature will now be available to all mobile users for free. The feature, which first debuted back in September alongside image recognition, has only been available to users on the paid subscription plans for the artificial intelligence (AI)-powered chatbot prior."
+    publishedDateTime: 2023-11-22T05:39:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/11/22/chatgpt-rolls-out-voice-chat-feature-to-all-users-for-free"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/11/22/2401236.jpg"
+        width: 1240
+        height: 826
         isCached: true
   - title: "What Elon Musk is really building inside his ChatGPT competitor xAI"
     excerpt: "Musk himself has given mixed signals regarding the AGI inflection point. At the xAI launch, he said he agreed with futurist Ray Kurzweil that AGI would likely emerge around 2029, “give or take a year.” But in an October Tesla earnings call, he described his cars’ AI system as “basically baby AGI—it has to understand reality in order to drive.”"

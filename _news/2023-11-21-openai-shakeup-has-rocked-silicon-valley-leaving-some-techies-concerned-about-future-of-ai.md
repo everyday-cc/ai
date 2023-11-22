@@ -42,6 +42,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Leaked email outlines Amazon's big plans for 'AGI,' the AI tech all of Silicon Valley is chasing"
+    excerpt: "Amazon has restructured its 4-month-old artificial general intelligence group to build six new AI products."
+    publishedDateTime: 2023-11-21T20:49:00Z
+    webUrl: "https://www.businessinsider.com/amazon-agi-ai-restructuring-new-products-2023-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://i.insider.com/655cf6254ca513d8242d0176?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "OpenAI’s New CEO Likes Tweeting About Sex And Using AI To Write Pickup Lines"
     excerpt: "Incoming exec Emmett Shear has regularly tweeted about sexual dynamics between men and women and the controversial pick-up artistry manual The Game."
     publishedDateTime: 2023-11-20T20:50:00Z

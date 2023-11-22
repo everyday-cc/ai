@@ -41,15 +41,6 @@ related:
         width: 1408
         height: 792
         isCached: true
-  - title: "Google DeepMind’s AI Pop Star Clone Will Freak You Out"
-    excerpt: "Two new tools using DeepMind’s music generation algorithm Lyria let anyone make YouTube shorts using the AI-generated vocals of Demi Lovato, T-Pain, Troye Sivan and others. It’s haunting."
-    publishedDateTime: 2023-11-17T14:00:00Z
-    webUrl: "https://www.wired.com/story/google-deepminds-ai-pop-star-clone-will-freak-you-out/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 64
 
 secured: "/il3GCXPWa0KeEvPalh0sy+oP/Z0uI4tgsmjI3xE0OsJ0bKEyzf0lAFU3c7EMrD4XYnK4XPlGyL6jHP1oNkkq1OSKHW4BnsDwfuU2v+un+CNiEP12OIgOO7y7ZeokHSyD20QmdCtadaOcgTYfiP/D27MN9FliX/0fQF0Ns5lTf1RVDcmXnv+89E1psPsX03N+4iV/ykV4Jmk1hDgFJHb1TI1IUKU0WyVAXI74BjO69+rThBILOG/l3ebvkPSFa+KBZ8xQ2g70IySz8Yjb9d6Kq2lIy65oIi1OsxQH1OAzbHfVLhH75BFqQSEpyWjgVXf4QzL8OAh5iKm4ymqMStJmai0LKYRYVgBTnP8fKp6BcU=;AiMMlbFkBIGHB6W4x2bWSQ=="
 ---

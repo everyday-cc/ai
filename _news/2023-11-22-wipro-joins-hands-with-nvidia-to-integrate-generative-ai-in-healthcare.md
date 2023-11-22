@@ -7,8 +7,8 @@ originalUrl: "https://www.indiablooms.com/finance-details/19466/wipro-joins-hand
 webUrl: "https://www.indiablooms.com/finance-details/19466/wipro-joins-hands-with-nvidia-to-integrate-generative-ai-in-healthcare.html"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: India Blooms
@@ -26,180 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
-    excerpt: "Nvidia's earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
-    publishedDateTime: 2023-11-20T14:43:00Z
-    webUrl: "https://www.cnbc.com/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107327179-1698862366973-gettyimages-1258356102-TAIWAN-COMPUTEX2023-01062023-162JPG.jpeg?v=1700162267"
-        width: 5000
-        height: 3333
-        isCached: true
-  - title: "Nvidia’s revenue triples as AI chip boom continues"
-    excerpt: "Nvidia’s revenue grew 206 per cent year over year during the quarter ending October 29, according to a statement. Net income, at $US9.24b, or $US3.71 per share, was up from $US680 million, or US27¢ per share, in the same quarter a year ago."
-    publishedDateTime: 2023-11-21T23:10:00Z
-    webUrl: "https://thewest.com.au/business/cnbc/nvidias-revenue-triples-as-ai-chip-boom-continues-c-12637843"
-    ampWebUrl: "https://thewest.com.au/business/cnbc/nvidias-revenue-triples-as-ai-chip-boom-continues-c-12637843.amp"
-    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/cnbc/nvidias-revenue-triples-as-ai-chip-boom-continues-c-12637843.amp"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 74
-    images:
-      - url: "https://images.thewest.com.au/publication/C-12637843/fb7b5acc99e9fd1abd181ba90bf433a52909f97f-16x9-x0y227w3998h2249.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia reports record Q3 results driven by surging demand for AI"
-    excerpt: "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more. Nvidia reported record revenue today for its third fiscal quarter of fiscal 2024 (ending October 31,"
-    publishedDateTime: 2023-11-21T22:53:00Z
-    webUrl: "https://venturebeat.com/gaming-business/nvidia-reports-record-q3-results-driven-by-surging-demand-for-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Nvidia-Grace-Hopper-Superchip.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Can AI Stalwart Nvidia Deliver Back-To-Back Hit Show? Q3 Earnings Preview"
-    excerpt: "thanks to robust sales of high-performance chips to cloud service providers and large consumer internet companies. The strong demand came on the back of the development of large language models and generative AI. Oppenheimer analyst Rick Schafer models 22% ..."
-    publishedDateTime: 2023-11-21T05:04:00Z
-    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35888525/can-ai-stalwart-nvidia-deliver-back-to-back-hit-show-q3-earnings-preview"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35888525"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35888525"
+  - title: "SandboxAQ Announces AI Simulation Collaboration with NVIDIA to Impact the Physical World"
+    excerpt: "AI and Quantum Simulation (AQ) is Next Significant AI Advancement for Creating Novel Battery Chemistries, Pharmaceutical Drugs, Energy Generation, Construction Materials and More PALO ALTO, Calif., Nov."
+    publishedDateTime: 2023-11-20T13:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35873661"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35873661"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 58
+    quality: 50
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Nvidia_28.jpeg?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
-    excerpt: "Nvidia’s earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
-    publishedDateTime: 2023-11-20T16:43:00Z
-    webUrl: "https://www.nbcmiami.com/news/national-international/nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024/3164667/"
-    ampWebUrl: "https://www.nbcmiami.com/news/business/money-report/nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024/3164667/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024/3164667/?amp=1"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 56
-    images:
-      - url: "https://media.nbcmiami.com/2023/11/107300190-1694621998133-gettyimages-1662849007-AI_CEOs_518_091323.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Wipro Leverages NVIDIA AI to Enhance Healthcare Solutions"
-    excerpt: "Wipro and NVIDIA join forces to speed up generative AI adoption for healthcare via AI-driven strategies, products and services."
-    publishedDateTime: 2023-11-22T02:57:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/33966-wipro-leverages-nvidia-ai-to-enhance-healthcare-solutions"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 56
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/02dd3a6401840cd05dc8ec7ecf9feb85.jpg?t=20231122_025418"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "Nvidia Triples Revenue As AI Chip Demand Stays Strong"
-    excerpt: "Nvidia tripled revenue in its third quarter from a year ago, a sign that demand for its AI chips and systems is still strong."
-    publishedDateTime: 2023-11-22T01:48:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-triples-revenue-as-ai-chip-demand-stays-strong"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0284-18d84313338b-88a6346e8803-1000/nvidia-2.jpeg"
-        width: 1500
-        height: 1128
-        isCached: true
-  - title: "Genentech, NVIDIA Enter Into Strategic AI Research Collaboration"
-    excerpt: "Tuesday announced a multi-year strategic research collaboration with NVIDIA that couples Genentech's artificial intelligence (AI) capabilities, extensive biological and molecular datasets, and research expertise with NVIDIA's world-leading accelerated computing capabilities and AI to speed up drug discovery and development."
-    publishedDateTime: 2023-11-21T16:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/genentech-nvidia-enter-into-strategic-ai-research-collaboration-1032840044"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Wipro Teams with NVIDIA to Bring the Power of Generative AI to Healthcare Insurance Companies"
-    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading technology services and consulting company, today announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI-driven strategies,"
-    publishedDateTime: 2023-11-21T13:04:00Z
-    webUrl: "https://www.itemonline.com/wipro-teams-with-nvidia-to-bring-the-power-of-generative-ai-to-healthcare-insurance-companies/article_1d55ebef-5e40-5a6d-b788-72e470c8cc78.html"
-    type: article
-    provider:
-      name: The Huntsville Item
-      domain: itemonline.com
-    quality: 43
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/5879-RTJ-Summer-Packages-300x250.gif"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Wipro and NVIDIA Collaborate to Advance Gen AI in Healthcare"
-    excerpt: "Wipro Limited, a technology services and consulting company, has announced a collaboration with NVIDIA to accelerate the adoption of generative"
-    publishedDateTime: 2023-11-22T04:50:00Z
-    webUrl: "https://www.dqindia.com/wipro-and-nvidia-collaborate-to-advance-gen-ai-in-healthcare/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 36
-  - title: "Cloudera and NVIDIA Partner To Expand AI Capabilities"
-    excerpt: "Hybrid and multi-cloud environments have revolutionized how businesses store, process, and manage data. With the rise of new technologies, such as"
-    publishedDateTime: 2023-11-17T17:38:00Z
-    webUrl: "https://www.datanami.com/2023/11/17/cloudera-and-nvidia-partner-to-expand-ai-capabilities/"
+  - title: "NVIDIA Unveils Spectrum-X Ethernet Networking for AI with Dell, HPE, and Lenovo Integration"
+    excerpt: "NVIDIA today announced that Dell Technologies, Hewlett Packard Enterprise and Lenovo will be the first to integrate"
+    publishedDateTime: 2023-11-20T16:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/nvidia-unveils-spectrum-x-ethernet-networking-for-ai-with-dell-hpe-and-lenovo-integration/"
     type: article
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 19
-  - title: "New NVIDIA Ethernet AI networking platform soon available"
-    excerpt: "NVIDIA has announce the imminent availability of its new Spectrum-X Ethernet networking solution, a technology poised to significantly boost AI system"
-    publishedDateTime: 2023-11-20T14:45:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-networking/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
-  - title: "Chips Stocks Fall Ahead of Nvidia Earnings"
-    excerpt: "Semiconductor stocks were falling on Tuesday ahead of the latest earnings report from graphics card titan Nvidia. Nvidia shares were down 1.4% to $497.26. The iShares Semiconductor ETF was down 2%. Nvidia stock is up 240% in 2023."
-    publishedDateTime: 2023-11-21T18:01:00Z
-    webUrl: "https://www.barrons.com/livecoverage/stock-market-today-112123/card/chips-stocks-fall-ahead-of-nvidia-earnings-AqB5quRHJ1W1rTiUkjBm"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
-  - title: "Nvidia earnings in focus as AI hype translates to profit surge, record stock price"
-    excerpt: "Nvidia is expected to report Q3 sales nearly tripled amid as demand for AI-related chips surged. But new limits on exports to China could blunt its forecasts."
-    publishedDateTime: 2023-11-21T15:29:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-earnings-in-focus-as-ai-hype-translates-to-record-highs-profit-surge"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 11
+    quality: 9
 
 secured: "PZGRV04Wt54yx00BKf8RvtKMZXVbb2TcwCpfasin4v3XDIvTmGKhcYUJ2Jk7rVSAvW4K6tJFBw/LvFq/KjflP/MU5bP/WctbV9L3NtFpoYrq5DVpnuoxjxTFY2IKyyvfFqnHg1JRzZ2TnFnlPbEkwaZLdhi+xBAGXbx4c51LcFv+NgPDOZbtMaEOWQGwduP6uve4FVZnqTbtwngOLyC/rDIF6RTi2XNt78CAgcfo8sphmsHlG6Cr92VANKcoJJoGkF4JUPTEK+pkOwREhjmJxDdK/FS8zux3E1M7m1VcNfeZf3fn0wZ+Hwt8bEWCrFz9U9dDuJSA7wJ+YNYe/KjOHBc6X8teG9GkX8HLH9ToZ4I=;fvzdTi3Hg5kvlMrKPpcHcg=="
 ---

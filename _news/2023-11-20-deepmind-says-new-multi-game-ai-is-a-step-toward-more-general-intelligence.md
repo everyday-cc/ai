@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-a
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/?amp=1"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind’s AI Pop Star Clone Will Freak You Out"
-    excerpt: "Two new tools using DeepMind’s music generation algorithm Lyria let anyone make YouTube shorts using the AI-generated vocals of Demi Lovato, T-Pain, Troye Sivan and others. It’s haunting."
-    publishedDateTime: 2023-11-17T14:00:00Z
-    webUrl: "https://www.wired.com/story/google-deepminds-ai-pop-star-clone-will-freak-you-out/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 64
   - title: "Google's DeepMind AI can make better weather forecasts than supercomputers"
     excerpt: "DeepMind's new machine learning algorithm takes less than a minute to make its forecasts and can run on a desktop. But it won't replace traditional forecasts anytime soon."
     publishedDateTime: 2023-11-21T18:34:00Z
