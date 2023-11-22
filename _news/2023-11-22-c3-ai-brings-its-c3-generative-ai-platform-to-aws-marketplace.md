@@ -25,144 +25,121 @@ images:
     isCached: true
 
 related:
-  - title: "Three Key Considerations For Executives To Embrace Generative AI"
-    excerpt: "As organizations tap into the potential benefits of generative AI, they may likely introduce a new host of significant risks."
-    publishedDateTime: 2023-11-21T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/amp/"
+  - title: "Your guide to generative AI and ML at AWS re:Invent 2023"
+    excerpt: "Yes, the AWS re:Invent season is upon us and as always, the place to be is Las Vegas! You marked your calendars, you booked your hotel, and you even purchased the airfare. Now all you need is some guidance on generative AI and machine learning (ML) sessions to attend at this twelfth edition of re:Invent."
+    publishedDateTime: 2023-11-22T22:47:25Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: AWS
+      domain: aws.amazon.com
+    quality: 121
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655b7028270e328a1af78250/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "The Next Evolution Of Generative AI Will Provide Specialized Intelligence"
-    excerpt: "Specialized technologies will deliver deeper, more reliable and more valuable insights compared to the general-purpose tools available today."
-    publishedDateTime: 2023-11-21T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/the-next-evolution-of-generative-ai-will-provide-specialized-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/the-next-evolution-of-generative-ai-will-provide-specialized-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/21/the-next-evolution-of-generative-ai-will-provide-specialized-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61549381e6d4424cc52c8592/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 811
-        isCached: true
-  - title: "Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI"
-    excerpt: "Explore the key drivers that impacted cloud transformation and what they mean for companies on their cloud modernization journey.\nThe post Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-11-20T14:00:00Z
-    webUrl: "https://www.ibm.com/blog/business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 84
-  - title: "AWS's generative AI functions support Taiwan startups innovation"
-    excerpt: "The rapid development of artificial intelligence (AI) has changed many aspects of our lives. In particular, the launch of generative AI at the end of 2022 has created a large wave of technological innovation,"
-    publishedDateTime: 2023-11-22T07:58:00Z
-    webUrl: "https://www.digitimes.com/news/a20231122PR204/ai-aws-generative-ai-news-highlights.html&chid=9"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231122pr204_files/1_2b.jpg"
-        width: 1280
-        height: 852
-        isCached: true
-  - title: "Bank, fintech leaders weigh in on the pros and cons of generative AI"
-    excerpt: "New iterations of tools powered by advanced artificial intelligence will aid banks in generating new value for customers, but the lack of regulatory guidance in this area hinders deeper adoption of the technology,"
-    publishedDateTime: 2023-11-21T23:05:00Z
-    webUrl: "https://www.americanbanker.com/news/bank-fintech-leaders-weigh-in-on-the-pros-and-cons-of-generative-ai"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 54
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/bd64195/2147483647/strip/true/crop/4032x2117+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F0a%2Fc5%2Fae14d712453398b237a3ea9be6ae%2Fimg-5968.jpg"
-        width: 1200
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/featured-images-ML-16024-1120x630.jpg"
+        width: 1120
         height: 630
         isCached: true
-  - title: "Meta Wants to Build Generative AI But Not Responsibly"
-    excerpt: "Meta has done a little reshuffle, relocating their Responsible AI team to join the generative AI crew."
-    publishedDateTime: 2023-11-20T11:50:00Z
-    webUrl: "https://analyticsindiamag.com/meta-wants-to-build-generative-ai-but-not-responsibly/"
+  - title: "5 Generative AI Predictions And A Wishlist From AWS re:Invent 2023"
+    excerpt: "AWS re:Invent just around the corner ... In his capacity as Amazon's lead scientist for artificial general intelligence (AGI), Prasad brought in scientists from the Amazon Science team and those working on Alexa AI to focus on model training, providing ..."
+    publishedDateTime: 2023-11-20T05:33:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655aed36ae62b3b90c8db7ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1000
+        height: 688
+        isCached: true
+  - title: "IBM expands relationship with AWS to bring generative AI solutions and dedicated expertise to clients"
+    excerpt: "Providing clients with dedicated AWS expertise and plans to train and skill 10,000 consultants United Arab Emirates -- IBM (NYSE: IBM ( announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from generative artificial intelligence (AI)."
+    publishedDateTime: 2023-11-20T08:08:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients-lzu5g5ky"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients-lzu5g5ky?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients-lzu5g5ky?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTQ5ZWU3ZDktNTI1MC00/0/ibmgenaiaws-jpg.jpeg?f=3%3A2"
+        width: 505
+        height: 337
+        isCached: true
+  - title: "Amazon AWS Starts Free Generative AI Courses That Can Make Your Tech Career Future-Proof"
+    excerpt: "TBH corporations need more AI-skilled workers than before and if you aren't one, you will have to upskill or settle for an off-the-grid job. With massive gaps in academia, there's only one way to get an existing workforce equipped with adequate skills in AI. An AI-skilled worker can get 47% more salary too."
+    publishedDateTime: 2023-11-21T13:22:00Z
+    webUrl: "https://in.mashable.com/tech/64289/amazon-aws-starts-free-generative-ai-courses-that-can-make-your-tech-career-future-proof"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 55
+  - title: "Neo4j and AWS team up to enhance generative AI applications with graph database technology"
+    excerpt: "Graph database company Neo4j Inc. said today it’s embarking on a multiyear strategic collaboration with the cloud computing giant Amazon Web Services Inc. to enable enterprises to enhance the capabilities of their generative artificial intelligence models."
+    publishedDateTime: 2023-11-21T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/11/21/neo4j-aws-team-enhance-generative-ai-applications-graph-database-technology/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/image001.png"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
+    excerpt: "IBM( announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from generative artificial intelligence (AI). As part of this, IBM Consulting aims to deepen and expand its ..."
+    publishedDateTime: 2023-11-21T11:07:00Z
+    webUrl: "https://menafn.com/1107463843/IBM-Expands-Relationship-with-AWS-to-Bring-Generative-AI-Solutions-and-Dedicated-Expertise-to-Clients"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 39
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/11/Meta_AIM.jpeg"
-        width: 1920
-        height: 1080
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?498821"
+        width: 375
+        height: 250
         isCached: true
-  - title: "Enterprise Generative AI Enters Its Citizen Development Era"
-    excerpt: "More importantly, these GPTs can act on the user's behalf. OpenAI's tight integration with Zapier means thousands of connectors at your disposal, letting the AI query your CRM, update your ERP, or monitor your servers with a few clicks. How does the AI authenticate to all these services, you might ask? Great catch, but more on that later."
-    publishedDateTime: 2023-11-20T18:26:00Z
-    webUrl: "https://www.darkreading.com/edge/enterprise-generative-ai-enters-its-citizen-development-era"
+  - title: "The threats of generative AI"
+    excerpt: "In case you might have missed it, digital space cowboy Elon Musk made a noteworthy declaration earlier this month in a visit to the United Kingdom. During a meeting with UK Prime Minister Rishi Sunak,"
+    publishedDateTime: 2023-11-21T16:11:00Z
+    webUrl: "https://www.timesgazette.com/2023/11/21/the-threats-of-generative-ai/"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
+      name: The Times-Gazette
+      domain: timesgazette.com
     quality: 39
     images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9c4d9ed25c4d9a76/6557b6c5dd7f68040aaebbeb/robothand-dpa_picture_alliance-alamy.jpg"
-        width: 1800
-        height: 1013
+      - url: "https://www.timesgazette.com/wp-content/uploads/2023/11/132301601_web1_Sims-Bill-mug.jpg"
+        width: 723
+        height: 1068
         isCached: true
-  - title: "AI Startup Stability Has a New Tool For Creating Generative Video"
-    excerpt: "Startup Stability is taking generative AI up a notch. While the technology has been used largely for photos and voice replications, Stability is making waves with a new tool for advanced AI-generated videos. The feature is called Stable Video Diffusion and ..."
-    publishedDateTime: 2023-11-22T16:46:00Z
-    webUrl: "https://hypebeast.com/2023/11/ai-startup-stability-generative-video-tool"
+  - title: "AWS re:Invent 2023: Our guide to the top sessions and speakers"
+    excerpt: "AWS Machine Learning Hero Kesha Williams breaks down the top keynotes and cloud content to look for at AWS re:Invent 2023, including generative AI and data updates."
+    publishedDateTime: 2023-11-22T22:38:00Z
+    webUrl: "https://www.pluralsight.com/resources/blog/cloud/aws-reinvent-2023-guide"
     type: article
     provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 37
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F11%2Fsupreme-fall-winter-2023-week-14-release-list-drop-00.jpg?w=720&cbr=1&q=90&fit=max"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "BP Says It's Expanding Use of Generative AI"
-    excerpt: "“The service uses artificial intelligence and natural language processing to automate a variety of daily tasks such as writing emails and managing inboxes,” BP noted in the release. “By using the capabilities of copilot for Microsoft 365, BP can help ..."
-    publishedDateTime: 2023-11-22T10:01:00Z
-    webUrl: "https://www.rigzone.com/news/bp_says_its_expanding_use_of_generative_ai-22-nov-2023-174793-article/"
-    type: article
-    provider:
-      name: Rigzone
-      domain: rigzone.com
+      name: Pluralsight
+      domain: pluralsight.com
     quality: 19
-  - title: "How will cloud democratize generative AI?"
-    excerpt: "This article explores the role of the cloud in democratizing generative AI to everyone from startups to large enterprises."
-    publishedDateTime: 2023-11-22T11:54:00Z
-    webUrl: "https://www.embedded.com/how-will-cloud-democratize-generative-ai/"
+  - title: "Neo4j Signs Strategic Collaboration Agreement with AWS to Enhance Generative AI Results While Addressing AI Hallucinations"
+    excerpt: "Reduced Hallucinations: Neo4j with Langchain and Amazon Bedrock can now work together using Retrieval Augmented Generation (RAG) to create virtual assistants grounded in enterprise knowledge. This helps customers by reducing hallucinations and providing more accurate, transparent, and explainable results."
+    publishedDateTime: 2023-11-21T16:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-neo4j-signs-strategic-collaboration-agreement-with-aws-enhance-/2023/11/21/9921925.htm"
     type: article
     provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 19
-  - title: "U Receives $100 Million for Responsible AI Initiative"
-    excerpt: "The University of Utah recently received a $100 million investment for a new initiative on responsible artificial intelligence."
-    publishedDateTime: 2023-11-22T13:00:00Z
-    webUrl: "https://dailyutahchronicle.com/2023/11/22/responsible-ai-initiative/"
-    type: article
-    provider:
-      name: Daily Utah Chronicle
-      domain: dailyutahchronicle.com
-    quality: 19
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "P0e6b3/fgPyusDdMoWYF5fVCxhkbNeu6A3EWG56w2yk4w4nEWWHhIDPD3ERNmlvXAHxj9nKK3EOpKRtLGAuh/X65r4nt7x1jJalnW8mGOKviO9qnr2sbOrnGqO0SSJoAHTMj/hHQFiodG1zF1TGeKpPfNLfzaoFqNugR5WEXB9EK3KAAOFrb5xWx1e3xkrapyptiV4Vsk6hTIx/v/jVjcabRGLhpqzTnh5aZa7eK251h3Nus+BDwXDLVb6lGZboEJvcepzmClryhSoS6eup+ffrzmZLX9/UT5rMa2Pf5iBLRVL0SKDu/8RaBdsNAxuEmf/PT8yzMGTdBKw0VTlVIjxZfUoaP3SKrXMIJCM70c7v1HGl7E6FgjrirC0zMeuMueuJDfWgMY3LxYCjZzDInbPnUmaxjlxvA0V0hmlh2udy4uDcjkLAbjZjNvNiBqfZcJR/kgqNpLTB6FYMlf0tu+QLk4x1caUz6k7z77EcO9eeGis1GoOqI8mAJp8vIKXTWzyA1GaGFTFcAY1XqozWkkQ==;CIHYxmyMfva0wisR1tVngw=="
 ---

@@ -25,61 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Sector Is Undergoing Transformation with Rise of Open Finance, Generative AI, A2A Payments – Report"
-    excerpt: "The whitepaper found that “the fintech market is undergoing a rapid shift, with the rise of new technologies, such as Open Finance, generative AI and A2A (account-to-account) payments having a major impact on business models.” This is combined with unp ..."
-    publishedDateTime: 2023-11-21T21:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
+  - title: "Generative AI adoption speed unprecedented, O’Reilly survey says"
+    excerpt: "Survey of enterprise users of generative AI finds rapid adoption but also hurdles, with difficulty finding business use cases, legal uncertainties, and high infrastructure costs top concerns."
+    publishedDateTime: 2023-11-22T12:00:00Z
+    webUrl: "https://www.infoworld.com/article/3711380/generative-ai-adoption-speed-unprecedented-oreilly-survey-says.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711380/generative-ai-adoption-speed-unprecedented-oreilly-survey-says.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711380/generative-ai-adoption-speed-unprecedented-oreilly-survey-says.amp.html"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 56
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/NYSE-New-York-Fintech-1024x848.jpg"
-        width: 1024
-        height: 848
+      - url: "https://images.idgesg.net/images/article/2018/01/arrows-showing-upward-trend_growth_chart_graph-100747015-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Artificial Intelligence in Banking: Transforming Customer Experiences with FinTech"
-    excerpt: "Introduction Artificial Intelligence (AI) has become a revolutionary force in the banking sector, reshaping the way financial institutions operate and interact with their customers. In tandem with Financial Technology (FinTech),"
-    publishedDateTime: 2023-11-21T12:21:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-in-banking-transforming-customer-experiences-with-fintech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 48
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Artificial-Intelligence-in-Banking-Transforming-Customer-Experiences-with-FinTech.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Iceland’s tech clustering – a volcanic focus on fintech"
-    excerpt: "Another area where fintech can play a part in improving the efficiency of financial trading and movement is in the identification and management of fraud, and in particular money laundering. Another member of Iceland’s fintech cluster, Lucinity, has set its sights on providing new tools for the task."
-    publishedDateTime: 2023-11-20T10:45:00Z
-    webUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech"
-    ampWebUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 44
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-11/kirkjufell-2148191_640.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "MAS launches latest range of fintech initiatives"
-    excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."
-    publishedDateTime: 2023-11-20T12:45:00Z
-    webUrl: "https://www.euromoney.com/article/2ch7qdhmxyq9fpfz71dz4/fintech/mas-launches-latest-range-of-fintech-initiatives"
-    type: article
-    provider:
-      name: Euromoney
-      domain: euromoney.com
-    quality: 4
 
 secured: "ET4/9dQ+UWvLdocpL9c9sNlA70e0Q5l7t44KdroF8kPu8Q2gESkrGHn6ki3MzgIMBunXc8se6AzuHimnSGbW2yZJ7+/SNSjIjrvqCELe7phyw3qtNLLoS7ozTYZdeE77Sx7SznwDIdzLb4ylCWAq7FyoODi2iBqI4ytz/X9k9PwQrUZ21CsDAkPxJw1TmAAbgCMbF9BevkNZ1YqN4suHjYjle+ykhNcsAa3HhfdsskXYnqLCz90+kBuv9Qe4TIg2EcNODHeEWKoa7xB021RZZM2WWwEd42wbdDg1Hx8GGDkP66rXPZv+LimfGkwQwVQQI7g70cboQaN73smJ1OTZMusiqCjZBAxu2mCNEcnPJpMUxarfSFX+BagQh8zSZULD5aiYsHMrKGMA8Mu8cjsyaitoBpzCapfXN8eLvt6HNvkVJUubghucrL7pr2ka+Lo1OcmScV75CMxL3YkqGywHlrWUHz/eIXQ9UX9BOWPZ1IqDAugpa7LbI6DkJdc9KIKWUbgAc+Y4J8nDNJeb8AQKtA==;0wSxOqIBv6XQNLJov/e7Cw=="
 ---

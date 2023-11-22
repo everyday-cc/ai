@@ -58,20 +58,6 @@ related:
         width: 1920
         height: 1462
         isCached: true
-  - title: "The threats of generative AI"
-    excerpt: "In case you might have missed it, digital space cowboy Elon Musk made a noteworthy declaration earlier this month in a visit to the United Kingdom. During a meeting with UK Prime Minister Rishi Sunak,"
-    publishedDateTime: 2023-11-21T16:11:00Z
-    webUrl: "https://www.timesgazette.com/2023/11/21/the-threats-of-generative-ai/"
-    type: article
-    provider:
-      name: The Times-Gazette
-      domain: timesgazette.com
-    quality: 39
-    images:
-      - url: "https://www.timesgazette.com/wp-content/uploads/2023/11/132301601_web1_Sims-Bill-mug.jpg"
-        width: 723
-        height: 1068
-        isCached: true
 
 secured: "wAlLplyYGWjgQOS61Jzr0PHilyzXFkVH9/1qABDUSPM/VUIRKwqZceABYSWrEWpDGALfWAEP5ghweppwRJl0DOoFdrE6o9Ww5oyRc5p/fod5CLyDH6AlsB4C+vtnJYj+ApD+XnhcgFPa6FXCVfyprdo7EimKc8sCDt9K9iLyCJRTO3VvszBpdvi2u5IJcUEjm2mOD+UbSKEuSc2X9K+59aqlpaHtMcyTaw264Bsvp+drgzAAGzcmUjkfV3Ea95pMl9pKWg1TW1DgXhtCzDInsIrVxWlLnerVF86bk/k4q7avhcUgqkAxQgZovF7gatmLjJlOiZW3I34XC/DXWjOIOyv6i/t2WeXdqxCJAfDuRCe2Tj/DvG29sc/sgv1ZMIhi4W7KTCmxU3tbmA0ai1sqcqNBfYIaJT9rkBtRGJMIyS7Qr3tVbk6mX8V2uxIi2s9+N8CS74t8nx3bp/tzVVTGJv6DEzkOE57BlIGSzSyotsVaoettGW+R1XC9m1RUZQJ9iOi08qFfMZvZlTkk42A66Q==;rK5iL9hrhsg7GyuZ+lucog=="
 ---

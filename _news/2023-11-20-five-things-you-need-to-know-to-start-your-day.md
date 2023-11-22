@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Jumpstarting Your Career in FinTech with a Diploma: What You Need to Know"
+    excerpt: "Are you eager to dive into the world of FinTech but not sure where to start? Brace yourself for an exhilarating journey as we unveil the secrets behind jumpstarting your career in this booming industry."
+    publishedDateTime: 2023-11-22T18:09:00Z
+    webUrl: "https://techbullion.com/jumpstarting-your-career-in-fintech-with-a-diploma-what-you-need-to-know/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 23
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Tech.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "5 Things You Didn’t Know About IoT"
     excerpt: "IoT is the underrated influencer of our days, with plenty of hidden facets tucked away under the umbrella term. Here's 5 underrated features."
     publishedDateTime: 2023-11-22T12:39:00Z

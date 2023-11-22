@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/11/20/aws-launches-ai-ready-initiati
 webUrl: "https://siliconangle.com/2023/11/20/aws-launches-ai-ready-initiative-equip-2m-people-ai-skills/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2023/11/shutterstock_2263545623.jpg"
         width: 1000
         height: 543
+        isCached: true
+  - title: "AWS to offer free AI training courses to two million people by 2025"
+    excerpt: "Amazon Web Services (AWS) has outlined its commitment to providing two million people around the world with access to free artificial intelligence (AI) skills training by 2025, as part of its ongoing work to make it easier for businesses to access the tech expertise they need."
+    publishedDateTime: 2023-11-22T09:30:00Z
+    webUrl: "https://www.computerweekly.com/news/366560676/AWS-to-offer-free-AI-training-to-two-million-people-by-2025"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-211123-cover-500px.jpg"
+        width: 500
+        height: 354
         isCached: true
   - title: "Appen Teams Up with AWS to Drive AI Innovation"
     excerpt: "Appen Limited (ASX:APX), a leading provider of high-quality data for the AI lifecycle, has selected Amazon Web Services (AWS) as its primary cloud for its AI solutions and innovation. The companies are expanding their relationship with a multi-year agreement as Appen develops new enterprise solutions for AI data sourcing,"

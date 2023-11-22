@@ -7,7 +7,7 @@ originalUrl: "https://lifehacker.com/tech/amazon-offering-ai-classes-for-free"
 webUrl: "https://lifehacker.com/tech/amazon-offering-ai-classes-for-free"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,31 +23,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "Amazon AWS Starts Free Generative AI Courses That Can Make Your Tech Career Future-Proof"
-    excerpt: "TBH corporations need more AI-skilled workers than before and if you aren't one, you will have to upskill or settle for an off-the-grid job. With massive gaps in academia, there's only one way to get an existing workforce equipped with adequate skills in AI. An AI-skilled worker can get 47% more salary too."
-    publishedDateTime: 2023-11-21T13:22:00Z
-    webUrl: "https://in.mashable.com/tech/64289/amazon-aws-starts-free-generative-ai-courses-that-can-make-your-tech-career-future-proof"
-    type: article
-    provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 55
-  - title: "AWS to offer free AI training courses to two million people by 2025"
-    excerpt: "Amazon Web Services (AWS) has outlined its commitment to providing two million people around the world with access to free artificial intelligence (AI) skills training by 2025, as part of its ongoing work to make it easier for businesses to access the tech expertise they need."
-    publishedDateTime: 2023-11-22T09:30:00Z
-    webUrl: "https://www.computerweekly.com/news/366560676/AWS-to-offer-free-AI-training-to-two-million-people-by-2025"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-211123-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
 
 secured: "c5xqs4yVkysKJRWyqsfaJ8rJ4ccLAwANTvxy7y8e3Jhl8SYgLyqIaGYfa/Vc6NPC2xe//FXWHuG5GJg6kXzaJGQbgKjoGKgh5+yo67pp77fW49BdMZqtTiZhD7YdLujJbNk3ISXgULFIU5Sl1YnQggqyZLyF5z/hD2nH1AR74UDCiOKgxI6vDiT5HWivaPCzSobY6OV9lPaNtqC9Jv7SD+UKKUCauAH93TrXJRCai7j3mo+YTTFwCd34an249kTLO7nASyoBGM/CivRjPrttFPhyyJ1fLyGOYXfgYZ1xSjlxCPDvwu0ZoZdYhks+Oot7MRSRj+J2RLAXb2p3uR+GuxYf80nkOPZUHSGYKJOsy8Y=;DViddblme5eZknx1pGBERg=="
 ---

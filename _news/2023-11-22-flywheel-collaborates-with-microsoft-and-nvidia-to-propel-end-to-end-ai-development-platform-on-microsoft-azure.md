@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-excerpt: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-publishedDateTime: 2023-11-22T13:00:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/flywheel-collaborates-with-microsoft-and-nvidia-to-propel-end-to-end-ai-development-platform-on/article_f55b0323-e3b0-5c74-ad30-a42ffa6c085d.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/flywheel-collaborates-with-microsoft-and-nvidia-to-propel-end-to-end-ai-development-platform-on/article_f55b0323-e3b0-5c74-ad30-a42ffa6c085d.html"
+excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
+publishedDateTime: 2023-11-22T14:42:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
+webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/82/88207655-8f12-515a-8c15-0b5a2b86f6e2/655e0bf9be8a5.image.jpg?crop=1771%2C930%2C0%2C39&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "How Might Open.ai Outcomes Impact NVIDIA, AMD, Intel And Microsoft?"
@@ -255,6 +249,20 @@ related:
       name: datacenterfrontier.com
       domain: datacenterfrontier.com
     quality: 36
+  - title: "Eviden and Microsoft Collaborate to Help Customers Take Advantage of the Microsoft Cloud and Generative AI"
+    excerpt: "Eviden, the Atos Group business leading in digital, cloud, big data, and security, is collaborating with Microsoft to help"
+    publishedDateTime: 2023-11-22T19:30:00Z
+    webUrl: "https://www.datanami.com/this-just-in/eviden-and-microsoft-collaborate-to-help-customers-take-advantage-of-the-microsoft-cloud-and-generative-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 36
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/11/eviden-microsoft-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Former OpenAI boss to lead Microsoft Advanced AI division"
     excerpt: "Shenanigans over the weekend have seen OpenAI’s former CEO join Microsoft and Twitch’s former CEO step in as OpenAI’s interim CEO."
     publishedDateTime: 2023-11-20T07:54:00Z
@@ -329,6 +337,6 @@ related:
       domain: sinchew.com.my
     quality: 25
 
-secured: "MbTA9QaBlqZJlVs9oGe48IZngN2oodfu/cuoHg7Xism7PK1AbEDipKjZ3jCBtGsVNWqEVppj7fE16AvF5LVGNBKr3UyIGRRe2P0GOvBkt//fgElLwIGPXOBYf2rpJ73giKvezl29/FKh2y+34qSewRZTeyAeFPIZKEOhiNuYDST36v3D5bRnlvDdo9fvxjHvECwGbpB1Un0Q+W+xEZAN2tcdhhVYrWHavgmEqgWuLsXHyYU+tkdC8DYgXvPvJfGAZoNDc/oRZAQY9U9grSwX3Vnlx3/zpOmfWvcj9tPtiTL0PNOL0W95Gh93aTNtXkcO0poRcsibYEWiVaNpqOID4v5CMqP2OZcFfQy9yFIz8dE=;t5Rvr+QrxvlYI+15kyAt/Q=="
+secured: "QYL6nK8wqYD75Mo3F6cQu7/NfOlF4T6F38vQFlHt1zh1H7OpV9XxDv0kivXAQUuPQ4om/H3wQHBsrS+cUqpAkZSgTXhjXj/Addo1WOxR/vsn3yd+KzOAcluJMv2K9bRH4FHFOyH78i6J93yOoB+DiUaKX12+WBtZKZt73h8gvpMSwrWrSScdvzdfNBZ5SthMgNdKi0FeK6lmkxdnNhxX87zIuQ2H+HQDcN6lbzeHgF5XDsj+HnfMOc29ddHef2ZRuakPTOAzwCOysPutG0YL2msKlTJS65u6zx//1VWoX1B8Eoypw+kw4hB2KdydI7G/39UVchJo+y5NdwR/sZx+IbirJsqKVsY9Gt2iRpt9O08=;xCOxHuBP+8my7lYMXoC3uA=="
 ---
 

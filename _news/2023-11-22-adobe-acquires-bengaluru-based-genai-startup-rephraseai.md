@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Adobe reportedly acquires text-to-video AI platform Rephrase"
+    excerpt: "With the acquisition, the product capabilities and a majority of the Rephrase team will go to Adobe, building the company’s efforts for generative AI videos."
+    publishedDateTime: 2023-11-22T17:03:00Z
+    webUrl: "https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video-ai-platform-rephrase/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.37.16-Photo-of-a-person-of-Hispanic-descent-engrossed-in-a-video-chat-with-a-futuristic-robot-on-the-laptop.-The-laptop-creates-a-mild-illusion-of-echoing--e1700668881535.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Adobe Acquires Bengaluru-Based AI Video Creation Platform Rephrase.ai"
     excerpt: "This is Adobe’s first acquisition in the Indian startup ecosystem and also its first acquisition of a generative AI startup Following the acquisition, a majority of Rephrase.ai's team members will join Adobe and the former’s investors will likely get a ..."
     publishedDateTime: 2023-11-22T10:58:00Z

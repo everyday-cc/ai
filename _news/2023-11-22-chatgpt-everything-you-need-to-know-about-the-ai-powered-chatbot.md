@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 91
-heat: 291
+heat: 331
 published: true
 
 provider:
@@ -47,6 +47,38 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
         height: 798
+        isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ..."
+    publishedDateTime: 2023-11-22T19:02:00Z
+    webUrl: "https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Google’s Bard AI chatbot can now answer questions about YouTube videos"
+    excerpt: "Google has announced that its Bard AI chatbot can now answer questions about YouTube videos. Although Bard already had the ability to analyze YouTube videos with the launch of the YouTube Extension back in September, the chatbot can now give you specific answers about queries related to the content of a video."
+    publishedDateTime: 2023-11-22T19:22:00Z
+    webUrl: "https://techcrunch.com/2023/11/22/googles-bard-ai-chatbot-can-now-answer-questions-about-youtube-videos/"
+    ampWebUrl: "https://techcrunch.com/2023/11/22/googles-bard-ai-chatbot-can-now-answer-questions-about-youtube-videos/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/22/googles-bard-ai-chatbot-can-now-answer-questions-about-youtube-videos/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1246897887.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Startups must add AI value beyond ChatGPT integration"
     excerpt: "Fine-tuning an AI model using collected or synthetic data can deliver a competitive advantage to your startup. How to deliver added value to your AI-based startup via fine-tuning When seeking how to involve AI in your product, there are a few ways to go."
@@ -124,6 +156,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "NVIDIA wants to use AI chatbots to help build better chips"
+    excerpt: "US software firm NVIDIA is adapting AIs to help its human engineers build better computer chips."
+    publishedDateTime: 2023-11-21T10:00:00Z
+    webUrl: "https://www.newscientist.com/article/2403629-nvidia-wants-to-use-ai-chatbots-to-help-build-better-chips/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/11/20211118/SEI_180495034.jpg"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "AWS to power Yellow.ai's AI-powered voicebot, chatbot solutions globally"
     excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its"
     publishedDateTime: 2023-11-20T15:12:00Z
@@ -152,6 +198,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "This New AI Chatbot Is Ushering In Nvidia’s End"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Editor’s note: “This New AI Chatbot Is Ushering In Nvidia’s"
+    publishedDateTime: 2023-11-19T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/a-new-ai-chatbot-is-ushering-in-nvidias-end-2-1032833487"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Yellow.ai Scales Generative AI–powered Chatbot and Voicebot Solutions Globally on AWS"
     excerpt: "Amazon Web Services (AWS) announced that Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions. These dynamic AI agents enhance the customer experience with goal-driven conversations with customers while comprehending their needs and providing highly personalized responses."
     publishedDateTime: 2023-11-20T06:11:00Z

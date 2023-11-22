@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-su
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
 type: article
 quality: 109
-heat: 219
+heat: 189
 published: true
 
 provider:
@@ -70,22 +70,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM expands relationship with AWS to bring generative AI solutions and dedicated expertise to clients"
-    excerpt: "Providing clients with dedicated AWS expertise and plans to train and skill 10,000 consultants United Arab Emirates -- IBM (NYSE: IBM ( announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from generative artificial intelligence (AI)."
-    publishedDateTime: 2023-11-20T08:08:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients-lzu5g5ky"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients-lzu5g5ky?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients-lzu5g5ky?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NTQ5ZWU3ZDktNTI1MC00/0/ibmgenaiaws-jpg.jpeg?f=3%3A2"
-        width: 505
-        height: 337
-        isCached: true
   - title: "How Earth AI is accelerating mineral discovery and helping enterprise Net Zero goals"
     excerpt: "Earth AI pioneers a more efficient experimental process for discovering minerals required for Net Zero goals. Their promising results highlight the importance of combining data science, domain expertise, and systematic thinking to solve new problems relevant to all enterprises."
     publishedDateTime: 2023-11-20T10:24:00Z
@@ -139,20 +123,6 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
-    excerpt: "IBM( announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from generative artificial intelligence (AI). As part of this, IBM Consulting aims to deepen and expand its ..."
-    publishedDateTime: 2023-11-21T11:07:00Z
-    webUrl: "https://menafn.com/1107463843/IBM-Expands-Relationship-with-AWS-to-Bring-Generative-AI-Solutions-and-Dedicated-Expertise-to-Clients"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?498821"
-        width: 375
-        height: 250
-        isCached: true
   - title: "ConcertAI's TeraRecon, Integrates Clinical and Generative AI, Supporting Clinical Research and Advancing Clinical Care Solutions at #RSNA23"
     excerpt: "New solutions empower clinicians and research teams with AI orchestration, model development, visualization, and multi-modal data management to"
     publishedDateTime: 2023-11-20T17:09:00Z
@@ -162,15 +132,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 15
-  - title: "Neo4j Signs Strategic Collaboration Agreement with AWS to Enhance Generative AI Results While Addressing AI Hallucinations"
-    excerpt: "Reduced Hallucinations: Neo4j with Langchain and Amazon Bedrock can now work together using Retrieval Augmented Generation (RAG) to create virtual assistants grounded in enterprise knowledge. This helps customers by reducing hallucinations and providing more accurate, transparent, and explainable results."
-    publishedDateTime: 2023-11-21T16:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-neo4j-signs-strategic-collaboration-agreement-with-aws-enhance-/2023/11/21/9921925.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
 
 secured: "3VTnGzz5Eyf6s5Q4XcXg55m+83YtEaxnJrRbVCq5OKMYBU+XjZIRo3CuLlGsfAraO0oT8/XgPCZTYRwxfaSRP52G1gswtmTe5Kgu1TVJN21K3MIzRkLc2tp1w2kpICj5aREFLVbPgbfHG1uja5FRGDezgXOJgx+tuJvgNfwfl7PT/39H03t+DT69nQOkuI+m5fp2Gz4DSq/vF3p3YdEMG3xZhkjvw6hrTK0qKctVCcrTC8azLA0TyAjNapzhrJlnz15FIUFrmTPKxsv5Z9O/mg1aRlzowUAlaqQSVA9cIvrXxb8hZxMJpXC6HoTQhTvhUE6hh/B8No4vTgSFTP+BzZFWM73lPN+xPLNB5e0okTw=;bAloZ+qMxh+4SjRJgbFCHA=="
 ---

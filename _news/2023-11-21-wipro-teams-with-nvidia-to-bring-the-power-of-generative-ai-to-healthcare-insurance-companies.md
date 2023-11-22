@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Q&A: How Artificial Intelligence Powers Collaboration and Efficiency for Healthcare"
-    excerpt: "Artificial Intelligence plays a pivotal role in fostering collaborative efforts and boosting operational efficiency within the healthcare ecosystem, helping streamline complex processes and aiding in clinical decision-making."
-    publishedDateTime: 2023-11-21T21:30:00Z
-    webUrl: "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp"
+  - title: "SandboxAQ Announces AI Simulation Collaboration with NVIDIA to Impact the Physical World"
+    excerpt: "AI and Quantum Simulation (AQ) is Next Significant AI Advancement for Creating Novel Battery Chemistries, Pharmaceutical Drugs, Energy Generation, Construction Materials and More PALO ALTO, Calif., Nov."
+    publishedDateTime: 2023-11-20T13:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35873661"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35873661"
     type: article
     provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 68
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
     images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202311/GettyImages-1336245275.jpg?itok=WESoihWH"
-        width: 1440
-        height: 500
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "fgBonXfXWld85WSjvQPQM/5gZfWjnytqWeyPN3BHJ84abGBKlzt3WQT+M2LtzgWwYc1Q/t13UYgPsuzbyOpZdJJKh29ge8aEsXNyckRkZUwWiAHh8QjpkTQjqmNZOZi3ovoLuUgrK2y39iLI4bfHBM8g86clXwUNOHrprAhYGtxyt4+WPUrWZXQWF2NSPaivGYSrBh7eYqq5AiGQlGG87D1wBBTtH5gfn5q3iKNEJZjp++G3EeTajIBidyK56voh0ThhpBrhXxZH92eY9/41Hb1MfY6CQWA086Oz+zZzwCrHZ6ZdI4n1LFcpyV54tXtav8D7AV1RidwxEIOaYp/3KdjReQN6qbBBIJVFOkuuf9I=;eo5de+1OxI9cP1YTmJmOmg=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/industry-generative-ai-cha
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/lite/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Financial Express
@@ -27,33 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: UK Business Leaders Face Investment Challenges as Everyone Claims to Be an Expert"
-    excerpt: "Separate surveys by EY and KPMG highlight the pressures CEOs face in cutting through the noise and investing wisely in generative AI."
-    publishedDateTime: 2023-11-21T20:26:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-uk-business-investment-challenges/"
+  - title: "5 Innovative Startup Opportunities In Travel"
+    excerpt: "In this article we dive into five areas where startups are identifying gaps in the travel market, leveraging technology to enhance travel experiences, and catering to the increasing demand for authenticity and personalization in travel."
+    publishedDateTime: 2023-11-22T21:48:00Z
+    webUrl: "https://www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/"
+    ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 58
+      name: Forbes
+      domain: forbes.com
+    quality: 72
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/tr_20231121-generative-ai-uk-business-investment-challenges.jpg"
-        width: 1400
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e77162a7db00c98c43d80/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1518
         height: 900
         isCached: true
-  - title: "AI in financial services presents opportunities, challenges"
-    excerpt: "AI in the financial services industry can provide tools to help consumers as well as challenges for professionals."
-    publishedDateTime: 2023-11-20T17:12:00Z
-    webUrl: "https://insurancenewsnet.com/innarticle/ai-in-financial-services-presents-opportunities-challenges"
+  - title: "Tech Giant Acquires AI Startup: Industry Game Changer"
+    excerpt: "Startup’s Focus: Artificial Intelligence and Machine Learning Technologies The startup is focused on artificial intelligence (AI) and machine learning technologies and has already gained recognition in the industry for its inventive and groundbreaking ..."
+    publishedDateTime: 2023-11-22T00:00:00Z
+    webUrl: "https://www.dmnews.com/tech-giant-acquires-ai-startup-industry-game-changer/"
     type: article
     provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 39
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 37
     images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2023/11/AI-in-financial-services-presents-opportunities-challenges.jpg"
-        width: 2400
-        height: 1260
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/11/marketing-strategy-2.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "PEWbJ3bbe19wTkvP3LNbR7At303wZA2RpqfHmcmCDlqdAWzXM9y4MzZRU9N5GmTS/CUFu4DlrqQzVm09EObyW0Vn9U1WSz1MPukp+QDJ39b4duU+6Vf1vx8blO7QP9q1lZQFwpRQuuZ1klg33rA6meIxXQt4vcfs5lCYuz6IMPcbv0q4m0vPtJIfRMDxfuhq575jTmysrzeWftyudZewbfsjUcVYE/coFqYWVFJjLQVu2OinIlXqHrj+xfHzwACYHbBTz7tTv6z7kwI8gFAIQ1ghoPtnAaQYQa9efI/DQnXylGAfFxuqG/h/FuEGsqQsQ6SYWYMFkNiRm1j2aJXctN5v4+OM0nIiAYItxxR5KQE=;UKeI2kKQX48t0NRq1gwQ5Q=="

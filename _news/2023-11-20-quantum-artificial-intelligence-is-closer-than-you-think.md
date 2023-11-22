@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jonathanreichental/2023/11/20/quantum-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanreichental/2023/11/20/quantum-artificial-intelligence-is-closer-than-you-think/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 93
 published: true
 
 provider:

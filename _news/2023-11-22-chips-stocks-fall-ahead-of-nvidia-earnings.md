@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia's revenue triples as AI chip boom continues"
-    excerpt: "Nvidia called for accelerating revenue growth in the next quarter, even as executives warn that government limits on sales to some countries will hurt results."
-    publishedDateTime: 2023-11-21T21:06:00Z
-    webUrl: "https://www.cnbc.com/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html"
+  - title: "Nvidia’s Q3 Earnings Explode On Surging Data Center AI And Gaming Demand"
+    excerpt: "There’s no stopping Nvidia from this level of growth for the foreseeable future. The company continues to execute like a finely tuned machine."
+    publishedDateTime: 2023-11-22T16:57:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 90
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107337398-1700591512473-gettyimages-1662776626-SENATE_AI.jpeg?v=1700591613"
-        width: 5676
-        height: 3784
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
     excerpt: "Nvidia's earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
@@ -51,15 +51,6 @@ related:
         width: 5000
         height: 3333
         isCached: true
-  - title: "As Sales Triple, Why AI-Chip Maker Nvidia’s Stock May Have Peaked"
-    excerpt: "Demand for Nvidia’s graphics processing units has been exceeding supply, thanks to the rise of generative artificial intelligence."
-    publishedDateTime: 2023-11-22T13:28:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
   - title: "Nvidia reports record Q3 results driven by surging demand for AI"
     excerpt: "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more. Nvidia reported record revenue today for its third fiscal quarter of fiscal 2024 (ending October 31,"
     publishedDateTime: 2023-11-21T22:53:00Z
@@ -73,20 +64,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/08/Nvidia-Grace-Hopper-Superchip.png?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "There’s a generative AI rocket under Nvidia."
-    excerpt: "The company’s Q3 2024 earnings reveal $18.12 billion in revenue for the quarter, with $14.51 billion from its data center business as the world’s AI companies jockey for Nvidia’s chips. That overall revenue number is a 206 percent jump from last year and marks a continuing growth trend for the company."
-    publishedDateTime: 2023-11-21T22:24:00Z
-    webUrl: "https://www.theverge.com/2023/11/21/23971573/theres-a-generative-ai-rocket-under-nvidia"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/izC6fxOO-rWRM98s9kO2VURBg84=/0x0:1923x1080/1923x1080/filters:focal(962x540:963x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25103224/image__6_.png"
-        width: 1923
-        height: 1080
         isCached: true
   - title: "Morning Bid: AI buzzes but market shrugs at Nvidia beat"
     excerpt: "While many investors have been thrall to the AI boom all year, the 240% year-to-date surge in Nvidia (NVDA.O) has stolen the show as AI excitement sent demand for its high-end chips soaring. Remarkably, Nvidia managed to vault the sky-high bar for quarterly earnings, revenue and projections yet again in its latest update overnight."
@@ -102,21 +79,21 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "Nvidia Proves The Enormous Potential For Generative AI"
-    excerpt: "The exorbitant cost of GPU-accelerated systems for training and inference and latest to rush to find gold in mountains of corporate data are combining to exert tectonic forces on the datacenter landscape and push up a new Himalaya range – with Nvidia as its steepest and highest peak."
-    publishedDateTime: 2023-11-22T17:05:00Z
-    webUrl: "https://www.nextplatform.com/2023/11/22/nvidia-proves-the-enormous-potential-for-generative-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2023/11/22/nvidia-proves-the-enormous-potential-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/22/nvidia-proves-the-enormous-potential-for-generative-ai/amp/"
+  - title: "Can AI Stalwart Nvidia Deliver Back-To-Back Hit Show? Q3 Earnings Preview"
+    excerpt: "thanks to robust sales of high-performance chips to cloud service providers and large consumer internet companies. The strong demand came on the back of the development of large language models and generative AI. Oppenheimer analyst Rick Schafer models 22% ..."
+    publishedDateTime: 2023-11-21T05:04:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35888525/can-ai-stalwart-nvidia-deliver-back-to-back-hit-show-q3-earnings-preview"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35888525"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35888525"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
     images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/11/nvidia-q3-f2024-divisions.jpg"
-        width: 748
-        height: 511
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Nvidia_28.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
         isCached: true
   - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
     excerpt: "Nvidia’s earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
@@ -134,34 +111,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Wipro Leverages NVIDIA AI to Enhance Healthcare Solutions"
-    excerpt: "Wipro and NVIDIA join forces to speed up generative AI adoption for healthcare via AI-driven strategies, products and services."
-    publishedDateTime: 2023-11-22T02:57:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/33966-wipro-leverages-nvidia-ai-to-enhance-healthcare-solutions"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 56
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/02dd3a6401840cd05dc8ec7ecf9feb85.jpg?t=20231122_025418"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "NVIDIA wants to use AI chatbots to help build better chips"
-    excerpt: "US software firm NVIDIA is adapting AIs to help its human engineers build better computer chips."
-    publishedDateTime: 2023-11-21T10:00:00Z
-    webUrl: "https://www.newscientist.com/article/2403629-nvidia-wants-to-use-ai-chatbots-to-help-build-better-chips/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/11/20211118/SEI_180495034.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Nvidia Triples Revenue As AI Chip Demand Stays Strong"
     excerpt: "Nvidia tripled revenue in its third quarter from a year ago, a sign that demand for its AI chips and systems is still strong."
     publishedDateTime: 2023-11-22T01:48:00Z
@@ -176,15 +125,29 @@ related:
         width: 1500
         height: 1128
         isCached: true
-  - title: "This New AI Chatbot Is Ushering In Nvidia’s End"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Editor’s note: “This New AI Chatbot Is Ushering In Nvidia’s"
-    publishedDateTime: 2023-11-19T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/a-new-ai-chatbot-is-ushering-in-nvidias-end-2-1032833487"
+  - title: "Genentech, NVIDIA Enter Into Strategic AI Research Collaboration"
+    excerpt: "Tuesday announced a multi-year strategic research collaboration with NVIDIA that couples Genentech's artificial intelligence (AI) capabilities, extensive biological and molecular datasets, and research expertise with NVIDIA's world-leading accelerated computing capabilities and AI to speed up drug discovery and development."
+    publishedDateTime: 2023-11-21T16:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/genentech-nvidia-enter-into-strategic-ai-research-collaboration-1032840044"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
+    quality: 49
+  - title: "Unleashing the Power of Artificial Intelligence and Machine Learning in Financial Decision-Making"
+    excerpt: "Introduction Traditional decision-making processes are being revolutionized by the integration of cutting-edge technologies. Artificial Intelligence (AI) and Machine Learning (ML) have emerged as formidable tools,"
+    publishedDateTime: 2023-11-21T05:13:00Z
+    webUrl: "https://techbullion.com/unleashing-the-power-of-artificial-intelligence-and-machine-learning-in-financial-decision-making/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 43
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Unleashing-the-Power-of-Artificial-Intelligence-and-Machine-Learning-in-Financial-Decision-Making-1.png"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Nvidia Revenue Rockets On Demand For Powerful Chips"
     excerpt: "Nvidia on Tuesday reported that its revenue more than tripled in the recently ended quarter as companies snapped up chips to power artificial intelligence (AI)."
     publishedDateTime: 2023-11-22T07:00:00Z
@@ -199,15 +162,20 @@ related:
         width: 768
         height: 530
         isCached: true
-  - title: "Stock Market Today: Futures Edge Higher; Investors Eye Nvidia Shares, AI Saga Continues"
-    excerpt: "Live coverage of stocks and financial news, including the S&P 500, Dow and Nasdaq Composite."
-    publishedDateTime: 2023-11-22T14:14:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-11-22-2023?mod=hp_lead_pos1"
+  - title: "AI Leader Dipping From Record Highs Before Earnings"
+    excerpt: "This is shaping up to be a big report for the company given its lead in the artificial intelligence (AI) space. During yesterday's trading ... There's no set up required either. If you start buying the dividend stocks I show you today..."
+    publishedDateTime: 2023-11-21T18:42:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/analysis/2023/11/21/ai-leader-dipping-from-record-highs-before-earnings"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 39
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 37
+    images:
+      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/logos/bigstock-san-francisco-ca-june-----250312549.jpg?sfvrsn=dcebda06_6"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "Wipro and NVIDIA Collaborate to Advance Gen AI in Healthcare"
     excerpt: "Wipro Limited, a technology services and consulting company, has announced a collaboration with NVIDIA to accelerate the adoption of generative"
     publishedDateTime: 2023-11-22T04:50:00Z
@@ -226,15 +194,6 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 33
-  - title: "Nvidia fails to satisfy lofty investor expectations for AI boom"
-    excerpt: "Nvidia Corp investors gave a cool reaction to its latest quarterly report, which blew past average analysts’ estimates but failed to satisfy the loftier expectations of shareholders who have bet heavily on an artificial intelligence boom."
-    publishedDateTime: 2023-11-22T04:51:00Z
-    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/nvidia-fails-satisfy-lofty-investor-expectations-ai-boom"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
   - title: "Nvidia earnings in focus as AI hype translates to profit surge, record stock price"
     excerpt: "Nvidia is expected to report Q3 sales nearly tripled amid as demand for AI-related chips surged. But new limits on exports to China could blunt its forecasts."
     publishedDateTime: 2023-11-21T15:29:00Z

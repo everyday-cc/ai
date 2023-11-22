@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Artificial intelligence: an opportunity or a risk?"
-excerpt: "\"Dialogue\" is an offer by the SBC. Artificial intelligence is more and more present in different areas of our lives. Is AI an opportunity or a threat? Join the multilingual discussion on the \"dialogue\" platform."
-publishedDateTime: 2023-11-16T06:30:00Z
-originalUrl: "https://www.swissinfo.ch/eng/sci-tech/artificial-intelligence--an-opportunity-or-a-risk-/48981440"
-webUrl: "https://www.swissinfo.ch/eng/sci-tech/artificial-intelligence--an-opportunity-or-a-risk-/48981440"
+title: "Artificial Intelligence: An Opportunity Or A Risk?"
+excerpt: "The original read: \"Berset still has to fix it.\" What artificial intelligence produces can be funny, sometimes even bizarre. However, it gets serious when a so-called chatbot suddenly advises a man to commit suicide or a self-driving car causes an accident."
+publishedDateTime: 2023-11-16T09:25:00Z
+originalUrl: "https://menafn.com/1107436957/Artificial-Intelligence-An-Opportunity-Or-A-Risk"
+webUrl: "https://menafn.com/1107436957/Artificial-Intelligence-An-Opportunity-Or-A-Risk"
 type: article
 
 provider:
-  name: Swissinfo
-  domain: swissinfo.ch
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "h182ljxnv3eDwBGnwmKizZrNuCB0cpNdHNaImK4V36UfwmDIpnyEyempQa7g0KN1aKzwLsUoqb4D9WDta+LPOvJ9+/EFjQ9q73zNZok235cNc9NbK+iR6UxrDiYSDabMNm+R961ukKEDD5CcwW2/+n7DAm6caEKK6OWPoshWEd1s4U6JIfOT4+CoFQ/TiWfskxM9qf0GaUJZac0EVAD/ola3gnNbfSQWj9sMOe0eKDLVy9nQ/krfU8rLU5Bo5WObV2mvuUYB2UXh0UkQ4dW1NjwOY8n6M7uAkXE+mZKlwzV5NR3nbR/FOjGdqIznUPsnM5K28SvF+gDCYBEgXYeaRzgAzRn7J87QbtjU1VQltz4nhtDjdt+n4rdVtU9gBhPMEs3DIhHXdt/Gmz4m0qGcVyjtaqziSb86ZATYG/DACRVuCVVJOWFslEBdiqfmg4tA2uq2g9dFFEKaPpiR5Wa/F7BoUSqowrREtxyVFBvlcjbq4YqUc2DNtW4SK3QKBtLHtqCoNm3h6PjZB31PYkDMog==;9c/44ehq59G1ZRPeJCVLXg=="
+images:
+  - url: "https://menafn.com/updates/pr/2023-11/16/S_d738fimage_story.png"
+    width: 960
+    height: 540
+    isCached: true
+
+secured: "dlpt/9U+zD7hWAHRJKyg1pARzUsP3Vpwu8NJjVOw9vLWng/T4nAWEpTi9+2sf6bi4/l3GiGd9Mmd7NzferpTT2daOGD8Iy6KibF5IKP66A2vPq8J91fkFRnADs40M6ewTttZtrF+dpXzvMvjv3fKaRsDpioqCj+D6DUvPjilIfhGGUD5vaRpfoxlOPUUqVd51pM+tXdBmsuN1bvoaAp8mbpf7/rMZpNDHAw47AashCVdGUbjASTfoBaENr6sfgDYxEZfn0cm9XFIFSdTHcWbjfD53kugtiC9N96uKSVFRBBFKxpuRGdvXaH2O7zfR7M7nsOs9sT5G169+kb96TFsJv2p/5FfqrwC5snbYZ/Prus=;2GOg52FU/B5UYl8R5ebKIA=="
 ---
 

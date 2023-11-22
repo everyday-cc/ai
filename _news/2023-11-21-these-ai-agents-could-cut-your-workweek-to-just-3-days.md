@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-agents-three-day-workweek"
 webUrl: "https://thenextweb.com/news/ai-agents-three-day-workweek"
 type: article
 quality: 67
-heat: 89
+heat: 80
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/7fbb04e12709bcc00617a5fd5a3b1a3a8a420405/0_158_4064_2439/master/4064.jpg?width=620&quality=85&auto=format&fit=max&s=f19892425d2e4b5859544ce8659da1ba"
         width: 620
         height: 372
-        isCached: true
-  - title: "AI Bias in the Workplace: Top 4 Takeaways From EEOC Commissioner’s Conversation at FP Conference"
-    excerpt: "AI Will Change the Workplace – And Employers Need to Adapt ... That’s why employers should consider working with their vendors from the start to ensure they are using the products correctly and reducing the potential for bias decision-making."
-    publishedDateTime: 2023-11-22T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/ai-bias-in-the-workplace-top-4-2660617/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 24
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.7295_415.jpg"
-        width: 1200
-        height: 900
         isCached: true
 
 secured: "97+BGrZIfaTTNicBbqsxjI7LchJIsTDBBVdpGkA2Z+4XQW5o0S29GKxtx17Varh1MmeqfGlPqcfMRs4N8swQKF0V4kcmd6ffv5yiIwd9PZgASC6NgWaDPxWKB5WbWJg4AaySszlOSw8GsL3e9tBiaNyGsGVYqg7hAD7EBlvBJPLq3aJ8TG3Yq2vIeR4MvsEUKCti4HneM8uvUjxjQAa80acvjiNr47PQf8YqVfv0/KyeSUtifuCnD33APs/dHSnkT9TaHJDb2fzYeR1eTITrjtALPsrtR9VSS5irPf1fGmtMZzXz2wyIPN8hAdKE9RBXK0nd/++JFoEbcMIT1/SvwrB08F4MyB5cEcy0eWtMcV3sJJ16IRedEEQwYADIApgvEFBArKznNvcy2m6QE/Uvb+ARzHSrMAkvCCj3ewXUnfSZ3KEo7pGs+sksaDC6bxoxma96DrNaq40Ul4fKM/Q9NVdplGNdx+BZVv96WKPXONvnY4X10FZqv6uWe4NkXHCdY6SzmjfrubpFp7Qfhd7z8Q==;bakF7Z04uitsr3lRxBnNPg=="

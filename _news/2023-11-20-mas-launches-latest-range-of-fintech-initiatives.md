@@ -65,20 +65,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "O’Reilly “Generative AI in the Enterprise” 2023 Report"
-    excerpt: "In an era marked by rapid technological evolution, the landscape of artificial intelligence is undergoing a monumental shift, spearheaded by the advent and integration of generative AI. O'Reilly, a leading beacon in technology and business learning,"
-    publishedDateTime: 2023-11-21T16:32:00Z
-    webUrl: "https://www.unite.ai/oreilly-generative-ai-in-the-enterprise-2023-report/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/11/9d68dfbf-055b-4873-845c-ab4b4963221b-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "/eBIFT2j0pi6mDh27ScDy0CB0Gniw6xD1UaxurvNpTSYKflS3CJamp4jbcy9KjloaAKyJ9XwerJcsn9PRxeyabNirvuwG4lckH2CIKk1XAzgxMj7G0PWfCUpQDzHGenn1TZ1p8aYKWzmks55hWOhDOf/tjdmtU/ydGNKJSpufmZd9iAjm/FW2aaihuysf6CDDeVgj9KxKfHkHdHqxov1L62y7MzITGi85Z4fYUxoVo6/muhEBG2Nx54RyWzMv50CDgznby4z2ymFEHNuu3HD4zSMWjH9qzFdXUYWOnBdYUvJuoizPfCxBiEzTSfLNpFU5gcYe2QHXAqiZG4MEKa2/SRCgNx7GSIVORVNhVR5A4E7HWU+dzZ/VzldGfe40HRdSWhH6rGDHJhXeNhQmqK259S6zejcnpfFHIya1lZAzlmPTjygfy0Dyu4ERvizC3tmf+UM2YYK+YDuLz66DdCnPeoPA4Nhm/1+6H7eKLYtZBvpMHj7X9yh7EWjX2G4YYCTrc9H3KN72DVENACY5lFx0Q==;iSmIROoWflVQS0owDgJm5w=="
 ---

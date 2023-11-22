@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks/"
 type: article
 quality: 95
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/creativity.jpg"
         width: 1920
         height: 1462
-        isCached: true
-  - title: "The threats of generative AI"
-    excerpt: "In case you might have missed it, digital space cowboy Elon Musk made a noteworthy declaration earlier this month in a visit to the United Kingdom. During a meeting with UK Prime Minister Rishi Sunak,"
-    publishedDateTime: 2023-11-21T16:11:00Z
-    webUrl: "https://www.timesgazette.com/2023/11/21/the-threats-of-generative-ai/"
-    type: article
-    provider:
-      name: The Times-Gazette
-      domain: timesgazette.com
-    quality: 39
-    images:
-      - url: "https://www.timesgazette.com/wp-content/uploads/2023/11/132301601_web1_Sims-Bill-mug.jpg"
-        width: 723
-        height: 1068
         isCached: true
 
 secured: "ljnsDtUo3YQI21+cpY0T1K1Tm+spg1/tfaiR4h0ap94kxw1p2z7jolMKBSwk/Uf0KvhcwLtlEe7Ugwr30FtFs2haGKHgPiWwK2SAKH6pwBnUOIgNS5CY6TINKtgoeJbImR4K44t9pbb9jVt1pu0L04FK7gXWW9pUQ7iCu/m7e6b6rMRdCMwWG+AU0jqD4pUFrfannznXLy9J83EESFjiNvQHXm3lnJ3+JKBxwZKzXkYRsTWD4zX5pBFAcLsb3NJ2MF0dE3mWMgYOcfnBOZ7k26YPP4ohNWN6nGRiM3NXfJIS4bqHAeSoIUuiZtL+s0ycQbB45sOJucy3Pn7qrJTM5GThABUCuKao5aCZL03+qWg=;+Ks00HyWRoFWTEatbMk16A=="

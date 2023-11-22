@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/vector-flow-commits-equalai-
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/vector-flow-commits-equalai-pledge-combat-bias-artificial-intelligence-co-1619093045-ga-co-1700642646-ga.1700642735.html"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -19,6 +19,24 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Barika and Kraft Embrace AI in Fintech To Spearhead Innovation and Gain Competitive Edge"
+    excerpt: "As the financial landscape continues to evolve at an unprecedented pace Barika and Kraft reaffirms its commitment to harnessing the power of artificial intelligence (AI) in the fintech sector. With a"
+    publishedDateTime: 2023-11-22T20:22:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35925471/barika-and-kraft-embrace-ai-in-fintech-to-spearhead-innovation-and-gain-competitive-edge"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35925471"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35925471"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "NkqN2zJCDcHu5Y8NdchBHq+BPdozHHmbRqw3Mb4BV+OBX+8A5U+oBkIn/nzW7SLfugKOYBKn2dg7dN1e9eIxMMe9iTUn04Hp0jt77gS4ParZBX+qpkGvc+OFetu9UugXo+yf51dfpxf0vzB+JXPWHn8sggf9gnwBZLaNQLq0K56Zl+bjFnZF/0QmEAp8dIPWf2v48nHajOfHIOHCNuTftFDdH6ksoMpCS3TinJ6IbgSmLWOEJJyWj0bid7oqcUmiKOvXjrWwRzGYwvsrjDDxaMh9H/6g6H2pSOWNxCoX59ASnQzX9SK3vadu031wfg7YMylGyldqVuRN3KkrkeWhNohAhHy1C9ktamsLBJ9MCt2d6Rx9N9TC7AfZ08WSxs2dgOj/JgirsKTilBWk9yI4afRkR9YFefcsv3ZKadGbeAC2lNbrQDzOTIKxZfrhnnPf2sOxhbudeh/tc1LinVUK9dQsCCowp/8ovQuD9Fi8OKU4l7ixTGUbWPJpBon2aE5guWFU4FIunjXS70oqSPUBzg==;EEv7V2Bfdl3X+BeTgTs0sA=="
 ---

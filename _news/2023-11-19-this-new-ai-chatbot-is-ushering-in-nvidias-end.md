@@ -22,134 +22,145 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia's revenue triples as AI chip boom continues"
-    excerpt: "Nvidia called for accelerating revenue growth in the next quarter, even as executives warn that government limits on sales to some countries will hurt results."
-    publishedDateTime: 2023-11-21T21:06:00Z
-    webUrl: "https://www.cnbc.com/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html"
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ..."
+    publishedDateTime: 2023-11-21T17:50:00Z
+    webUrl: "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 91
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107337398-1700591512473-gettyimages-1662776626-SENATE_AI.jpeg?v=1700591613"
-        width: 5676
-        height: 3784
-        isCached: true
-  - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
-    excerpt: "Nvidia's earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
-    publishedDateTime: 2023-11-20T14:43:00Z
-    webUrl: "https://www.cnbc.com/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107327179-1698862366973-gettyimages-1258356102-TAIWAN-COMPUTEX2023-01062023-162JPG.jpeg?v=1700162267"
-        width: 5000
-        height: 3333
-        isCached: true
-  - title: "As Sales Triple, Why AI-Chip Maker Nvidia’s Stock May Have Peaked"
-    excerpt: "Demand for Nvidia’s graphics processing units has been exceeding supply, thanks to the rise of generative artificial intelligence."
-    publishedDateTime: 2023-11-22T13:28:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-  - title: "Nvidia reports record Q3 results driven by surging demand for AI"
-    excerpt: "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more. Nvidia reported record revenue today for its third fiscal quarter of fiscal 2024 (ending October 31,"
-    publishedDateTime: 2023-11-21T22:53:00Z
-    webUrl: "https://venturebeat.com/gaming-business/nvidia-reports-record-q3-results-driven-by-surging-demand-for-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Nvidia-Grace-Hopper-Superchip.png?w=1200&strip=all"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
-        height: 675
+        height: 798
         isCached: true
-  - title: "There’s a generative AI rocket under Nvidia."
-    excerpt: "The company’s Q3 2024 earnings reveal $18.12 billion in revenue for the quarter, with $14.51 billion from its data center business as the world’s AI companies jockey for Nvidia’s chips. That overall revenue number is a 206 percent jump from last year and marks a continuing growth trend for the company."
-    publishedDateTime: 2023-11-21T22:24:00Z
-    webUrl: "https://www.theverge.com/2023/11/21/23971573/theres-a-generative-ai-rocket-under-nvidia"
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ..."
+    publishedDateTime: 2023-11-20T00:00:00Z
+    webUrl: "https://techcrunch.com/2023/11/19/chatgpt-everything-to-know-about-the-ai-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/11/19/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/19/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/izC6fxOO-rWRM98s9kO2VURBg84=/0x0:1923x1080/1923x1080/filters:focal(962x540:963x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25103224/image__6_.png"
-        width: 1923
-        height: 1080
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
         isCached: true
-  - title: "Morning Bid: AI buzzes but market shrugs at Nvidia beat"
-    excerpt: "While many investors have been thrall to the AI boom all year, the 240% year-to-date surge in Nvidia (NVDA.O) has stolen the show as AI excitement sent demand for its high-end chips soaring. Remarkably, Nvidia managed to vault the sky-high bar for quarterly earnings, revenue and projections yet again in its latest update overnight."
-    publishedDateTime: 2023-11-22T10:01:00Z
-    webUrl: "https://www.reuters.com/markets/us/global-markets-view-usa-2023-11-22/"
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ..."
+    publishedDateTime: 2023-11-22T19:02:00Z
+    webUrl: "https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Google’s Bard AI chatbot can now answer questions about YouTube videos"
+    excerpt: "Google has announced that its Bard AI chatbot can now answer questions about YouTube videos. Although Bard already had the ability to analyze YouTube videos with the launch of the YouTube Extension back in September, the chatbot can now give you specific answers about queries related to the content of a video."
+    publishedDateTime: 2023-11-22T19:22:00Z
+    webUrl: "https://techcrunch.com/2023/11/22/googles-bard-ai-chatbot-can-now-answer-questions-about-youtube-videos/"
+    ampWebUrl: "https://techcrunch.com/2023/11/22/googles-bard-ai-chatbot-can-now-answer-questions-about-youtube-videos/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/22/googles-bard-ai-chatbot-can-now-answer-questions-about-youtube-videos/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1246897887.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Startups must add AI value beyond ChatGPT integration"
+    excerpt: "Fine-tuning an AI model using collected or synthetic data can deliver a competitive advantage to your startup. How to deliver added value to your AI-based startup via fine-tuning When seeking how to involve AI in your product, there are a few ways to go."
+    publishedDateTime: 2023-11-20T14:58:00Z
+    webUrl: "https://techcrunch.com/2023/11/20/startups-must-add-ai-value-beyond-chatgpt-integration/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 67
     images:
-      - url: "https://www.reuters.com/resizer/olsenkQFIkM8i-kVq7lc2NN5NT4=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L42CT5JZ7VLKZDL3XOVLCAD3IE.jpg"
-        width: 800
-        height: 419
+      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1084580876.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Nvidia Proves The Enormous Potential For Generative AI"
-    excerpt: "The exorbitant cost of GPU-accelerated systems for training and inference and latest to rush to find gold in mountains of corporate data are combining to exert tectonic forces on the datacenter landscape and push up a new Himalaya range – with Nvidia as its steepest and highest peak."
-    publishedDateTime: 2023-11-22T17:05:00Z
-    webUrl: "https://www.nextplatform.com/2023/11/22/nvidia-proves-the-enormous-potential-for-generative-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2023/11/22/nvidia-proves-the-enormous-potential-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/22/nvidia-proves-the-enormous-potential-for-generative-ai/amp/"
+  - title: "Baidu's AI Chatbot Earnie 4 Is Off To A Good Start, Says Bullish Analyst"
+    excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
+    publishedDateTime: 2023-11-22T18:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-s-ai-chatbot-earnie-4-is-off-to-a-good-start-says-bullish-analyst-1032843810"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/11/22/shutterstock_2284768673.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Meta AI chatbot comes to some WhatsApp users; All details"
+    excerpt: "Meta's AI chatbot comes on WhatsApp and offers various services, from customer support to appointment scheduling. In addition, WhatsApp introduced a new feature to simplify access to status updates."
+    publishedDateTime: 2023-11-21T10:10:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/meta-ai-chatbot-comes-to-some-whatsapp-users-all-details-839416"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/meta-ai-chatbot-comes-to-some-whatsapp-users-all-details-839416"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/meta-ai-chatbot-comes-to-some-whatsapp-users-all-details-839416"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
     quality: 59
     images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/11/nvidia-q3-f2024-divisions.jpg"
-        width: 748
-        height: 511
-        isCached: true
-  - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
-    excerpt: "Nvidia’s earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
-    publishedDateTime: 2023-11-20T16:43:00Z
-    webUrl: "https://www.nbcmiami.com/news/national-international/nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024/3164667/"
-    ampWebUrl: "https://www.nbcmiami.com/news/business/money-report/nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024/3164667/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024/3164667/?amp=1"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 56
-    images:
-      - url: "https://media.nbcmiami.com/2023/11/107300190-1694621998133-gettyimages-1662849007-AI_CEOs_518_091323.jpeg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://assets.thehansindia.com/h-upload/2023/11/21/1401113-whatsapp.jpg"
         width: 1200
-        height: 675
+        height: 720
         isCached: true
-  - title: "Wipro Leverages NVIDIA AI to Enhance Healthcare Solutions"
-    excerpt: "Wipro and NVIDIA join forces to speed up generative AI adoption for healthcare via AI-driven strategies, products and services."
-    publishedDateTime: 2023-11-22T02:57:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/33966-wipro-leverages-nvidia-ai-to-enhance-healthcare-solutions"
+  - title: "WhatsApp gets Meta’s new AI chatbot. Here’s how it works"
+    excerpt: "Meta is infusing its AI capabilities to WhatsApp. WhatsApp Beta users on Android can use the new feature, which can be accessed using a new shortcut button, strategically placed in the 'Chats' section"
+    publishedDateTime: 2023-11-21T10:23:00Z
+    webUrl: "https://www.firstpost.com/tech/whatsapp-gets-metas-new-ai-chatbot-heres-how-it-works-13412772.html"
+    ampWebUrl: "https://www.firstpost.com/tech/whatsapp-gets-metas-new-ai-chatbot-heres-how-it-works-13412772.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/whatsapp-gets-metas-new-ai-chatbot-heres-how-it-works-13412772.html/amp"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 56
+      name: Firstpost
+      domain: firstpost.com
+    quality: 59
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/02dd3a6401840cd05dc8ec7ecf9feb85.jpg?t=20231122_025418"
-        width: 752
-        height: 408
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/11/WhatsApp-gets-Metas-new-AI-chatbot.-Heres-how-it-works.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "‘Sound on’: ChatGPT Voice feature now available to all users. Here's how to use"
+    excerpt: "while also using the company's proprietary Whisper speech recognition system to transcribe spoken words into text. ChatGPT's new voice capabilities are powered by a new text-to-speech model that OpenAI claims is capable of generating human-like audio from ..."
+    publishedDateTime: 2023-11-22T04:12:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/sound-on-chatgpt-voice-feature-now-available-to-all-users-heres-how-to-use-openai-sam-altman-11700623193758.html"
+    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/sound-on-chatgpt-voice-feature-now-available-to-all-users-heres-how-to-use-openai-sam-altman/amp-11700623193758.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/sound-on-chatgpt-voice-feature-now-available-to-all-users-heres-how-to-use-openai-sam-altman/amp-11700623193758.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 55
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/11/22/1600x900/FILES-US-TECHNOLOGY-AI-ALTMAN-1_1700623250597_1700623286912.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "NVIDIA wants to use AI chatbots to help build better chips"
     excerpt: "US software firm NVIDIA is adapting AIs to help its human engineers build better computer chips."
@@ -165,88 +176,177 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Nvidia Triples Revenue As AI Chip Demand Stays Strong"
-    excerpt: "Nvidia tripled revenue in its third quarter from a year ago, a sign that demand for its AI chips and systems is still strong."
-    publishedDateTime: 2023-11-22T01:48:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-triples-revenue-as-ai-chip-demand-stays-strong"
+  - title: "AWS to power Yellow.ai's AI-powered voicebot, chatbot solutions globally"
+    excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its"
+    publishedDateTime: 2023-11-20T15:12:00Z
+    webUrl: "https://www.thehansindia.com/tech/aws-to-power-yellowais-ai-powered-voicebot-chatbot-solutions-globally-839138"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 53
     images:
-      - url: "https://www.crn.com/resources/0284-18d84313338b-88a6346e8803-1000/nvidia-2.jpeg"
-        width: 1500
-        height: 1128
+      - url: "https://assets.thehansindia.com/h-upload/2023/11/20/1400849-aws.jpg"
+        width: 1200
+        height: 720
         isCached: true
-  - title: "Nvidia Revenue Rockets On Demand For Powerful Chips"
-    excerpt: "Nvidia on Tuesday reported that its revenue more than tripled in the recently ended quarter as companies snapped up chips to power artificial intelligence (AI)."
-    publishedDateTime: 2023-11-22T07:00:00Z
-    webUrl: "https://www.latintimes.com/nvidia-revenue-rockets-demand-powerful-chips-549085"
+  - title: "Yellow.ai Chooses AWS Cloud To Power Its Generative AI Chatbot Solutions"
+    excerpt: "Yellow.ai is using Amazon Bedrock, a fully managed foundation model (FM) service that gives businesses access to industry-leading FMs"
+    publishedDateTime: 2023-11-20T11:05:00Z
+    webUrl: "https://startup.outlookindia.com/sector/saas/yellow-ai-chooses-aws-cloud-to-power-its-generative-ai-chatbot-solutions-news-9887"
     type: article
     provider:
-      name: Latin Times
-      domain: latintimes.com
+      name: startup.outlookindia
+      domain: outlookindia.com
+    quality: 53
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1678183910.jpg?utm_source=fb"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Yellow.ai Scales Generative AI–powered Chatbot and Voicebot Solutions Globally on AWS"
+    excerpt: "Amazon Web Services (AWS) announced that Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions. These dynamic AI agents enhance the customer experience with goal-driven conversations with customers while comprehending their needs and providing highly personalized responses."
+    publishedDateTime: 2023-11-20T06:11:00Z
+    webUrl: "https://technuter.com/channel-news/yellow-ai-scales-generative-ai-powered-chatbot-and-voicebot-solutions-globally-on-aws.html"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 47
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg"
+        width: 277
+        height: 239
+        isCached: true
+  - title: "ChatGPT turns 1: A generative AI status report"
+    excerpt: "Nov. 30 will mark one year since ChatGPT’s public debut, and some experts are surprised we're not using AI tools even more."
+    publishedDateTime: 2023-11-21T22:39:00Z
+    webUrl: "https://www.marketplace.org/2023/11/21/chatgpt-turns-1-a-generative-ai-status-report/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
     quality: 39
     images:
-      - url: "https://d.latintimes.com/en/full/547992/nvidia.jpg"
-        width: 768
-        height: 530
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/11/GettyImages-1753524489-e1700602163153.jpg?w=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Stock Market Today: Futures Edge Higher; Investors Eye Nvidia Shares, AI Saga Continues"
-    excerpt: "Live coverage of stocks and financial news, including the S&P 500, Dow and Nasdaq Composite."
-    publishedDateTime: 2023-11-22T14:14:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-11-22-2023?mod=hp_lead_pos1"
+  - title: "AWS to power Yellow.ai’s AI-powered voicebot, chatbot solutions globally"
+    excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions globally."
+    publishedDateTime: 2023-11-20T20:26:00Z
+    webUrl: "https://www.canindia.com/aws-to-power-yellow-ais-ai-powered-voicebot-chatbot-solutions-globally/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 39
-  - title: "Wipro and NVIDIA Collaborate to Advance Gen AI in Healthcare"
-    excerpt: "Wipro Limited, a technology services and consulting company, has announced a collaboration with NVIDIA to accelerate the adoption of generative"
-    publishedDateTime: 2023-11-22T04:50:00Z
-    webUrl: "https://www.dqindia.com/wipro-and-nvidia-collaborate-to-advance-gen-ai-in-healthcare/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 36
-  - title: "NVIDIA Crushes Earnings On Monster AI Chip Demand And Big Gains In Gaming"
-    excerpt: "NVIDIA has found its golden goose in AI chip design, which contributed heavily to another massive spike in revenue during the company's third quarter of fiscal 2024—it tripled year-over-year to $18.12 billion."
-    publishedDateTime: 2023-11-22T13:30:00Z
-    webUrl: "https://hothardware.com/news/nvidia-crushes-earnings-ai-chip-demand-gains-gaming"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
+      name: Canindia.com
+      domain: canindia.com
     quality: 33
-  - title: "Chips Stocks Fall Ahead of Nvidia Earnings"
-    excerpt: "Semiconductor stocks were falling on Tuesday ahead of the latest earnings report from graphics card titan Nvidia. Nvidia shares were down 1.4% to $497.26. The iShares Semiconductor ETF was down 2%. Nvidia stock is up 240% in 2023."
-    publishedDateTime: 2023-11-21T18:01:00Z
-    webUrl: "https://www.barrons.com/livecoverage/stock-market-today-112123/card/chips-stocks-fall-ahead-of-nvidia-earnings-AqB5quRHJ1W1rTiUkjBm"
+  - title: "OpenAI staff make jokes about CEO drama as they announce new ChatGPT voice feature"
+    excerpt: "In a demo of the new feature, OpenAI’s staff even made jokes about the drama surrounding the artificial intelligence firm, with someone asking ChatGPT: “It’s been a long night for the team, and we’re hungry. How many 16-inch pizzas should I order for 778 people?”"
+    publishedDateTime: 2023-11-22T02:01:00Z
+    webUrl: "https://siliconangle.com/2023/11/21/openai-staff-make-jokes-ceo-drama-announce-new-chatgpt-voice-feature/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ai-generated-8177861_1920.jpg"
+        width: 1920
+        height: 1329
+        isCached: true
+  - title: "A|I: The AI Times – Everything you need to know about the sudden firing of Sam Altman"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2023-11-20T14:43:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-everything-you-need-to-know-about-the-sudden-firing-of-sam-altman/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 32
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2023/11/sam_altman_with_fire_around_him.jpg"
+        width: 1024
+        height: 640
+        isCached: true
+  - title: "ChatGPT’s Voice Feature Rolled Out For Free For All Users; Here’s How To Use It"
+    excerpt: "Besides Voice ChatGPT Has Also Introduced Image Feature For The App. What Does That Mean? It means you can insert an image in the app and converse about it. Eg: You can post a picture of an instrument that's not working and ask ChatGPT to troubleshoot."
+    publishedDateTime: 2023-11-22T13:27:00Z
+    webUrl: "https://in.mashable.com/tech/64369/chatgpts-voice-feature-rolled-out-for-free-for-all-users-heres-how-to-use-it"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 30
+  - title: "ChatGPT iPhone App's Voice Chat Feature Now Free to All Users"
+    excerpt: "OpenAI has announced that the voice chats feature in its official ChatGPT app for iPhone and iPad is now available for everyone to use,"
+    publishedDateTime: 2023-11-22T10:38:00Z
+    webUrl: "https://www.macrumors.com/2023/11/22/chatgpt-app-voice-chat-free-to-all/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 24
+    images:
+      - url: "https://images.macrumors.com/t/iBp9BqJv2WpLVJf_ebOZGLh1orw=/2500x/article-new/2023/05/chatgpt-for-iphone-feature.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
+  - title: "ChatGPT rolls out voice chat feature to all users for free"
+    excerpt: "OpenAI has announced that ChatGPT's voice chat feature will now be available to all mobile users for free. The feature, which first debuted back in September alongside image recognition, has only been available to users on the paid subscription plans for the artificial intelligence (AI)-powered chatbot prior."
+    publishedDateTime: 2023-11-22T05:39:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/11/22/chatgpt-rolls-out-voice-chat-feature-to-all-users-for-free"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/11/22/2401236.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "What Elon Musk is really building inside his ChatGPT competitor xAI"
+    excerpt: "Musk himself has given mixed signals regarding the AGI inflection point. At the xAI launch, he said he agreed with futurist Ray Kurzweil that AGI would likely emerge around 2029, “give or take a year.” But in an October Tesla earnings call, he described his cars’ AI system as “basically baby AGI—it has to understand reality in order to drive.”"
+    publishedDateTime: 2023-11-20T12:00:00Z
+    webUrl: "https://www.aol.com/elon-musk-really-building-inside-100000200.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 19
-  - title: "Nvidia fails to satisfy lofty investor expectations for AI boom"
-    excerpt: "Nvidia Corp investors gave a cool reaction to its latest quarterly report, which blew past average analysts’ estimates but failed to satisfy the loftier expectations of shareholders who have bet heavily on an artificial intelligence boom."
-    publishedDateTime: 2023-11-22T04:51:00Z
-    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/nvidia-fails-satisfy-lofty-investor-expectations-ai-boom"
+  - title: "Anthropic updates Claude 2.1 AI chatbot to process bigger files and improved safety"
+    excerpt: "Anthropic, an artificial intelligence startup geared toward building trustworthy AI models to rival OpenAI LP’s ChatGPT, today announced an upgrade to its Claude chatbot that advances its core features with significantly improved safety, a much larger context window and a new third-party tool use feature."
+    publishedDateTime: 2023-11-21T19:23:00Z
+    webUrl: "https://siliconangle.com/2023/11/21/anthropic-updates-claude-2-1-ai-chatbot-process-bigger-files-improved-safety/"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
-  - title: "Nvidia earnings in focus as AI hype translates to profit surge, record stock price"
-    excerpt: "Nvidia is expected to report Q3 sales nearly tripled amid as demand for AI-related chips surged. But new limits on exports to China could blunt its forecasts."
-    publishedDateTime: 2023-11-21T15:29:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-earnings-in-focus-as-ai-hype-translates-to-record-highs-profit-surge"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 11
+  - title: "Baidu reveals expectations-beating earnings and touts its new ChatGPT-like AI models, amid leadership chaos at U.S. competitor OpenAI"
+    excerpt: "Developers in China face another threat: U.S. rules limiting the sale of advanced AI chips from firms like Nvidia to Chinese companies. Last week, Alibaba shelved its plan to spin-off its cloud computing division as an independent company, blaming ..."
+    publishedDateTime: 2023-11-22T04:53:00Z
+    webUrl: "https://www.aol.com/finance/baidu-reveals-expectations-beating-earnings-095341977.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 8
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/iok5HE6EscWTJw7yKITu_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/02430db88c27d537951e901e4b4c1d8e"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "7 Biggest Questions About ChatGPT, Answered by Gartner Experts – Gartner"
+    excerpt: "Contact or call jsbacContact April 5, 2023Contributor: Ava McCartneyGartner experts weigh in on how it’s valuable and whether it’s safe to"
+    publishedDateTime: 2023-11-19T13:42:00Z
+    webUrl: "https://www.inferse.com/800202/7-biggest-questions-about-chatgpt-answered-by-gartner-experts-gartner/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 3
 
 secured: "0NAxmzD6HEvBXuMjZhf8vD8/65Jw81BjAECVtAk9mno5xA+O/rhEpVjOrJ7EqtzBuFbWWowZDY24I8kzDjaHu7XGMiX8l+hVcJr1PLnGc7ODflIVBfA/wMDUDGQKmb/Bj0h92qdOWg3QDRfxisjx7E3maBa4ndEaAIkxZvowAD/o6YsO84b3RqEf9DmYmAkpZVbKNeLsG9nsbojfGHc/Wg9rPRIpIDtTO6wTyq44gruICcOKlVBq0dTRLIyewVQ1BML/lAP3HQiIisIohcjNAj7fp5DzPaAMFys8Uk1NfKOsqGqYzXZ5XTqQi62cUOlcFG+1CGpdmP+6iJlIW8M3XxVBdM67sDvz/tfbwVzI4U8R5vHWLWeJurw/mokvlK/QmrWA0lgyr7RIbq4gv8efgtd3G8tPpzvazi6UvRABvIHVjA2uH951ewUpTG1pP5OK46o2xp7877uFvr+qda3iQAwub/yWYJ8Sd8CBo86MfPnFCKH0etOkryW9/CuOd+Q2zpaMx0tmV/ibTSlke5ex5Q==;Bf9KtnGOP4L5+Q4d/28w1g=="
 ---

@@ -30,6 +30,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 53
+  - title: "Aya Healthcare in Sorrento Valley Adds Winnow AI to Boost Recruitment, Retention"
+    excerpt: "Aya Healthcare in Sorrento Valley has announced the acquisition ... Amidst a historic provider shortage, one that is expected to increase over the next decade, Winnow AI combines artificial intelligence with business intelligence to help organizations ..."
+    publishedDateTime: 2023-11-22T21:59:00Z
+    webUrl: "https://timesofsandiego.com/tech/2023/11/22/aya-healthcare-in-sorrento-valley-adds-winnow-ai-to-boost-recruitment-retention/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 49
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2023/10/0.aya_.jpg"
+        width: 1364
+        height: 675
+        isCached: true
 
 secured: "bfAoo+qKc/vzl/paC8gJxvN34lxK5iyQz4W/2KauC1gE3hyHtNv7HY4T3qxs4mgvc6dYm7fXXTMQrv7uNeHxcD+MCwRJq6jfFLmzZlumDqvYcCP8GSnSavcBC3Z93e0I7rgpLbTj0HrRtWTwQsyhU/Qop/wbBWDSzhhUqkfVseelPHgs2gLlzY4FKVZ3jQCrBUwrXRXk7oik3DMVo2mMTEK1hxUy24DxRxakN9qRKil/NNjG/D0txfmy9eYiuQIQgX3neGWdZcV6UMGl56X21Qq7RrCmGraDu8bEXGWsfxnJbt9iSm+yi2WGcwTfKl7di54wUdylzpLOM1YRvgiUy4MO2cJCt0vhkafQ/tNVL6NQXPaQRudLZFP8vV6cHu+6cuABcXGm2loArTAXOkNtOH1nXYtEKZ95m5uPrv0YM5CgSE6d9ltBVQCKPjiFsSpLVYhhU9sI2lt9ZZu3/q3RM6H9WNC4OibTL+HJsiAZJUTGP3Orqk0gnLrCB+iqhEFjju7Z1jFJBUOebhVIVPBO1g==;T++ws6b+q5Z7Oub1BqhwTg=="
 ---

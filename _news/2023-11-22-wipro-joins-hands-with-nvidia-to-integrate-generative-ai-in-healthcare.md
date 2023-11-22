@@ -7,8 +7,8 @@ originalUrl: "https://www.indiablooms.com/finance-details/19466/wipro-joins-hand
 webUrl: "https://www.indiablooms.com/finance-details/19466/wipro-joins-hands-with-nvidia-to-integrate-generative-ai-in-healthcare.html"
 type: article
 quality: 56
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Blooms
@@ -26,45 +26,56 @@ images:
     isCached: true
 
 related:
-  - title: "SandboxAQ Announces AI Simulation Collaboration with NVIDIA to Impact the Physical World"
-    excerpt: "AI and Quantum Simulation (AQ) is Next Significant AI Advancement for Creating Novel Battery Chemistries, Pharmaceutical Drugs, Energy Generation, Construction Materials and More PALO ALTO, Calif., Nov."
-    publishedDateTime: 2023-11-20T13:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35873661"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35873661"
+  - title: "As Sales Triple, Why AI-Chip Maker Nvidia’s Stock May Have Peaked"
+    excerpt: "Demand for Nvidia’s graphics processing units has been exceeding supply, thanks to the rise of generative artificial intelligence."
+    publishedDateTime: 2023-11-22T13:28:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+  - title: "Wipro Leverages NVIDIA AI to Enhance Healthcare Solutions"
+    excerpt: "Wipro and NVIDIA join forces to speed up generative AI adoption for healthcare via AI-driven strategies, products and services."
+    publishedDateTime: 2023-11-22T02:57:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/33966-wipro-leverages-nvidia-ai-to-enhance-healthcare-solutions"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 56
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.thefastmode.com/media/k2/items/src/02dd3a6401840cd05dc8ec7ecf9feb85.jpg?t=20231122_025418"
+        width: 752
+        height: 408
         isCached: true
-  - title: "NVIDIA’s new Spectrum-X Ethernet networking tech speeds up inter-system communication in generative AI workloads"
-    excerpt: "NVIDIA has revealed the latest business collaboration in the form of the new Spectrum-X Ethernet networking technologies designed to speed up generative AI workloads even more."
-    publishedDateTime: 2023-11-22T06:38:00Z
-    webUrl: "https://www.tech-critter.com/nvidia-spectrum-x-ethernet-networking-technology-announce/"
+  - title: "Stock Market Today: Futures Edge Higher; Investors Eye Nvidia Shares, AI Saga Continues"
+    excerpt: "Live coverage of stocks and financial news, including the S&P 500, Dow and Nasdaq Composite."
+    publishedDateTime: 2023-11-22T14:14:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-11-22-2023?mod=hp_lead_pos1"
     type: article
     provider:
-      name: tech-critter.com
-      domain: tech-critter.com
-    quality: 18
-    images:
-      - url: "https://secure.gravatar.com/avatar/a0ed3175f99016ebcbdaabb913231517?s=300&d=mm&r=g"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "NVIDIA Unveils Spectrum-X Ethernet Networking for AI with Dell, HPE, and Lenovo Integration"
-    excerpt: "NVIDIA today announced that Dell Technologies, Hewlett Packard Enterprise and Lenovo will be the first to integrate"
-    publishedDateTime: 2023-11-20T16:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/nvidia-unveils-spectrum-x-ethernet-networking-for-ai-with-dell-hpe-and-lenovo-integration/"
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 39
+  - title: "NVDA Stock Forecast: Do These Recent Updates Make Nvidia a Buy?"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While Nvidia (NASDAQ:NVDA) may not fit the traditional mold of a retirement"
+    publishedDateTime: 2023-11-21T12:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvda-stock-forecast-do-these-recent-updates-make-nvidia-a-buy-1032838893"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 9
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Nvidia fails to satisfy lofty investor expectations for AI boom"
+    excerpt: "Nvidia Corp investors gave a cool reaction to its latest quarterly report, which blew past average analysts’ estimates but failed to satisfy the loftier expectations of shareholders who have bet heavily on an artificial intelligence boom."
+    publishedDateTime: 2023-11-22T04:51:00Z
+    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/nvidia-fails-satisfy-lofty-investor-expectations-ai-boom"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
 
 secured: "PZGRV04Wt54yx00BKf8RvtKMZXVbb2TcwCpfasin4v3XDIvTmGKhcYUJ2Jk7rVSAvW4K6tJFBw/LvFq/KjflP/MU5bP/WctbV9L3NtFpoYrq5DVpnuoxjxTFY2IKyyvfFqnHg1JRzZ2TnFnlPbEkwaZLdhi+xBAGXbx4c51LcFv+NgPDOZbtMaEOWQGwduP6uve4FVZnqTbtwngOLyC/rDIF6RTi2XNt78CAgcfo8sphmsHlG6Cr92VANKcoJJoGkF4JUPTEK+pkOwREhjmJxDdK/FS8zux3E1M7m1VcNfeZf3fn0wZ+Hwt8bEWCrFz9U9dDuJSA7wJ+YNYe/KjOHBc6X8teG9GkX8HLH9ToZ4I=;fvzdTi3Hg5kvlMrKPpcHcg=="
 ---

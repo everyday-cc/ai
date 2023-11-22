@@ -104,6 +104,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "OpenAI CEO Sam Altman was seeking funds for a new AI chip company before being fired"
+    excerpt: "OpenAI's management drama is becoming increasingly intriguing and tumultuous. The company recently terminated Sam Altman, who served as a board member before his appointment as CEO."
+    publishedDateTime: 2023-11-22T19:21:00Z
+    webUrl: "https://www.techspot.com/news/100931-openai-ceo-sam-altman-seeking-funds-new-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 77
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-22-image-12.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Emmett Shear, OpenAI's new interim CEO, shares Sam Altman's worry that AI could destroy all life"
     excerpt: "Shear has repeatedly said he believes AI can potentially wipe out the human race, the same fear Sam Altman expressed as ChatGPT rose to prominence."
     publishedDateTime: 2023-11-20T08:10:00Z
@@ -133,6 +147,22 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/ETkTgA8M6VAaCCzShBtM.Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-11/7675f9d0-87a9-11ee-abff-49d44ef3039f.cf.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Sam Altman's ouster at OpenAI precipitated by letter to board about AI breakthrough, sources tell Reuters"
+    excerpt: "The previously unreported letter and AI algorithm was a catalyst that caused the board to ... progress on Q*, which some internally believe could be a breakthrough in the startup's search for superintelligence, also known as artificial general intelligence ..."
+    publishedDateTime: 2023-11-22T23:09:00Z
+    webUrl: "https://www.cnbc.com/2023/11/22/sam-altmans-ouster-at-openai-precipitated-by-letter-to-board-about-ai-breakthrough-sources-tell-reuters.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/11/22/sam-altmans-ouster-at-openai-precipitated-by-letter-to-board-about-ai-breakthrough-sources-tell-reuters.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/22/sam-altmans-ouster-at-openai-precipitated-by-letter-to-board-about-ai-breakthrough-sources-tell-reuters.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107337809-1700657784105-gettyimages-1258550475-SKOREA_OPENAI.jpeg?v=1700657941"
+        width: 4500
+        height: 3001
         isCached: true
   - title: "Sam Altman joins Microsoft to lead new artificial intelligence team following OpenAI firing"
     excerpt: "Altman, one of the initial board members of OpenAI, was fired as CEO of the ChatGPT company on Friday. The decision came after a review by"
@@ -436,6 +466,20 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 33
+  - title: "Analysis-AI poster child Altman back at OpenAI, may have fewer checks on power"
+    excerpt: "Sam Altman's return as OpenAI's chief executive will strengthen his grip on the startup and may leave the ChatGPT creator with fewer checks on his power as the company introduces technology that could upend industries,"
+    publishedDateTime: 2023-11-22T23:08:00Z
+    webUrl: "https://www.aol.com/analysis-ai-poster-child-altman-185442950.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 33
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/ea3b4ac9c70e1d12060029a7354d2d6f"
+        width: 800
+        height: 526
+        isCached: true
   - title: "OpenAI's Ctrl+Z on Sam Altman: Firing, rehiring and all the drama around AI startup"
     excerpt: "November 21: Satya Nadella reveals Altman and Brockman will lead a new AI research team at Microsoft. Board member Ilya Sutskever 'regrets' firing Altman. November 22: Sam Altman returns as OpenAI CEO; an initial board set up to appoint a formal board that might comprise Altman, Brockman and a Microsoft representative."
     publishedDateTime: 2023-11-22T08:05:00Z
@@ -491,6 +535,20 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 22
+  - title: "Exclusive-Sam Altman's ouster at OpenAI was precipitated by letter to board about AI breakthrough -sources"
+    excerpt: "Ahead of OpenAI CEO Sam Altman’s four days in exile, several staff researchers sent the board of directors a letter warning of a powerful artificial intelligence discovery that they said could threaten humanity,"
+    publishedDateTime: 2023-11-22T22:44:00Z
+    webUrl: "https://www.aol.com/exclusive-sam-altmans-ouster-openai-224405531.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/aa80f66a4ef0373baf1603f910b5e11e"
+        width: 800
+        height: 537
+        isCached: true
 
 secured: "VqW2SmVLGU676KbE3XQyzcMEv+F4JfBRlKxkdA978g/GkWf4pQUMeS2lJL8r5OVO4TB+PDEf/aBwmrzYoQ3K4hB0sf95hABmp8IjvOqYPLkZAIs/lqqSrCOScSMC+JDW9rkYFHG9EaFxKVZv6pfd/QRcd9Mlyc4ElltIQP/GDimdmDgqiWyu0p6Z8hu9gra1iy1BNShheERdsAz0Xs5D1D58w9euoooWb8+2sdxybD/qRse78AOX/0XDR1q/Ikj2FsDgW9ZIEHyVIfOcNNNtSxRjnA110/knC+E+Sw50Io7drO6J9oC5UaUuhHrp/YvE1LpilcmZsK+a5EqI8jb6A0pOcam7tTfOsfqrs1rpWZlhtHP//k41eQWc4ewwGQU+yalozkFzFQH44rvJxdn1yd7aZUmN3ImSBM0FP3lVpm6S3K3cIaSs+3hSeJN2BgyIF9CnNO3Sjk8vNosWzMv8ntH8invAkeQsDgZfNbu1tIrusinsdjVHXUm7NUsog3jIt8DHLgTZVWAbaHuyIuwbJQ==;orzzw5QH5k4YZ5kNIoO4+A=="
 ---

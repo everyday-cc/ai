@@ -44,20 +44,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AI Bias in the Workplace: Top 4 Takeaways From EEOC Commissioner’s Conversation at FP Conference"
-    excerpt: "AI Will Change the Workplace – And Employers Need to Adapt ... That’s why employers should consider working with their vendors from the start to ensure they are using the products correctly and reducing the potential for bias decision-making."
-    publishedDateTime: 2023-11-22T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/ai-bias-in-the-workplace-top-4-2660617/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 24
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.7295_415.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "bSERfD0QKsSoe4fHkM7wsNRSsYmpMNP0KkQ4edeXz07Kr2jzuSHkzStEfXRXZPKCn5glUTyUzR6ztPEvbuTTmV6rrEYj5oeYwIxmuCv6P5DyRmlfTYEQyowxi4xwAsSF8d00ABfAu0uXwHGkOr/M8/iXddlWuZFNNRyem7c7Ikbv3s5AhT1l9orEZTN8lcTM1dPtNYBkGNGIFcfLDRGuEFNI8elGuzdco9ma+hzHnecfMaX8YDHwZJYk01OBPAVuKMXoxd2SQRDJPSmwVjDFFgY1pPS3dvJ1AK1PcrGaK/XfOGjHuM+SHjvffMZFNAX2o7510u0kO00B+io3EG4ctqA31fBDrR5uTMgeZ3/UtIpaxO9B6WZPdyL88CDlD6q6jCc+ex93VIA1u2ltodHVxPCxmQ+BDyBBhDoi5S9rM+4S6y41WGC7zic6QsPQyT+iiys+zwvRGiBC8AzczA7B4FUjrBWMj7SjPhFIZ2eKBENonaD4PBNk0a+rl+YbvSklr4RT+NIUJ8hae/eobBZJVA==;jzb3Uagrsv7fXhw2OIwaZw=="
 ---

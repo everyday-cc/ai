@@ -54,6 +54,22 @@ related:
         width: 1118
         height: 618
         isCached: true
+  - title: "Q&A: How Artificial Intelligence Powers Collaboration and Efficiency for Healthcare"
+    excerpt: "Artificial Intelligence plays a pivotal role in fostering collaborative efforts and boosting operational efficiency within the healthcare ecosystem, helping streamline complex processes and aiding in clinical decision-making."
+    publishedDateTime: 2023-11-21T21:30:00Z
+    webUrl: "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare"
+    ampWebUrl: "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 68
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202311/GettyImages-1336245275.jpg?itok=WESoihWH"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "Morning Bid: Thanksgiving starters of AI and oil"
     excerpt: "A key catalyst for some of the outsize Big Tech share gains this year, the craze around generative AI will also top the agenda as chip giant Nvidia reports earnings on Tuesday tha"
     publishedDateTime: 2023-11-20T10:10:00Z
@@ -181,6 +197,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 25
+  - title: "Rocketlane Unveils 'AI at Work' Report Showcasing the Impact of Artificial Intelligence on Modern Workplaces Across the Globe"
+    excerpt: "Rocketlane remains at the forefront of empowering businesses to streamline operations and enhance customer experiences through cutting-edge technologies. The 'AI at Work' report is a valuable resource for industry leaders, providing insights into the evolving landscape of AI adoption and its impact on business success."
+    publishedDateTime: 2023-11-21T14:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/21/9921894.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "cC3rTvsPrBGfUGjglh6/rjmVyoasMlK/28B0yktnrtD2SCDAP5V90oO8iItzUjO98VVNHefsdoF2LDSUi23HgPxQCUB7ORzK92eKG7HXMmei2fYlmDB7mTd4hvb5eNudrqJ7xkLoBJVYc+zRRfJXvn5+3JNq86QxTUoCGqdMtfpHD8furHNb4zg4YMxeLUN2dHJdBktO0DYBBc9ZP4E0jd8PyPN5DY8ZVXM4wlCvB6cBVDUCmiF0I/V+xypKT+q28J617oE3RVW48+MSPPwNh1JY0peGryKKVF0BMnQvUX+XTpy0wsrxF5Nio6dIwBo0GdQcCQhn4GsKvVCG2uggrdaMNBP5EW8moN3cOy8DL6lofuCZCHHBqI/biOhPRPKSkddqB9MI9RLnZMHhOagfCeq1cK94pLSFXuanOnw2EaLEhOWi0vhvXEx0Q0ZXk+mfpzSP8daeoz4zy2zJLpST7YJG6Wc/ugKE3DqNb0IXLvKXU6Me0Pm6bZDQ9+TJkHvgsUZYeFcqFDw2boCjUgzZHg==;la3bCHBd9T4NlfviUecbEQ=="
 ---

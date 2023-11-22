@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvda-stock-forecas
 webUrl: "https://markets.businessinsider.com/news/stocks/nvda-stock-forecast-do-these-recent-updates-make-nvidia-a-buy-1032838893"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,63 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "As Sales Triple, Why AI-Chip Maker Nvidia’s Stock May Have Peaked"
+    excerpt: "Demand for Nvidia’s graphics processing units has been exceeding supply, thanks to the rise of generative artificial intelligence."
+    publishedDateTime: 2023-11-22T13:28:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+  - title: "Wipro joins hands with NVIDIA to integrate generative AI in healthcare"
+    excerpt: "Bengaluru: Leading IT firm Wipro on Tuesday announced a partnership with chip-maker NVIDIA aimed at expediting the integration of generative artificial intelligence (AI) in healthcare enterprises."
+    publishedDateTime: 2023-11-21T18:29:00Z
+    webUrl: "https://www.indiablooms.com/finance-details/19466/wipro-joins-hands-with-nvidia-to-integrate-generative-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 56
+    images:
+      - url: "https://www.indiablooms.com/finance_pic/2023/e61cc3574501054308e28883f55e17c8.jpg"
+        width: 800
+        height: 541
+        isCached: true
+  - title: "Wipro Leverages NVIDIA AI to Enhance Healthcare Solutions"
+    excerpt: "Wipro and NVIDIA join forces to speed up generative AI adoption for healthcare via AI-driven strategies, products and services."
+    publishedDateTime: 2023-11-22T02:57:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/33966-wipro-leverages-nvidia-ai-to-enhance-healthcare-solutions"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 56
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/02dd3a6401840cd05dc8ec7ecf9feb85.jpg?t=20231122_025418"
+        width: 752
+        height: 408
+        isCached: true
+  - title: "Stock Market Today: Futures Edge Higher; Investors Eye Nvidia Shares, AI Saga Continues"
+    excerpt: "Live coverage of stocks and financial news, including the S&P 500, Dow and Nasdaq Composite."
+    publishedDateTime: 2023-11-22T14:14:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-11-22-2023?mod=hp_lead_pos1"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 39
+  - title: "Nvidia fails to satisfy lofty investor expectations for AI boom"
+    excerpt: "Nvidia Corp investors gave a cool reaction to its latest quarterly report, which blew past average analysts’ estimates but failed to satisfy the loftier expectations of shareholders who have bet heavily on an artificial intelligence boom."
+    publishedDateTime: 2023-11-22T04:51:00Z
+    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/nvidia-fails-satisfy-lofty-investor-expectations-ai-boom"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
 
 secured: "rQjjnNjRCRBa8kLoPntD8yXm+76whG3G8accNMPoYOyQqwB/PXpB9a8BBUQBwurdn2xikAssG4NpjZNt1/BF5rBcuzE/5ip9VNV4UoHY3H/tM+DzJlS7oFd5kNkwUgDwpj515f+OwYm2TseWUXljScF6CK2rWNYVw871HdcpAh6G2DY3eAnPbA02sYm8RcSrTNG6i3JvGM87Q0wGj/iPC4Y95LCl0c6ERrBYVjVCRDKWwafKrKY2lAMl0f2mo5obD73f1nbdYaYQLrEl7yCcTduNK4PXn1z7RbD79Gxb72dIH0Y94jvZAjXEC2V75Lma+ke31T0LhCUq3tLmEi+IRPcagtuHRoUddWBsRUqQO1k=;HadRgO6pNqUpK5l/7vZ9HA=="
 ---

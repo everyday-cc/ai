@@ -22,11 +22,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T00:46:00-08:00",
+      "publishedDateTime": "2023-11-06T08:46:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Geeky Gadgets",
@@ -68,11 +68,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T11:23:00-07:00",
+      "publishedDateTime": "2023-10-27T18:23:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TensorFlow",
@@ -121,11 +121,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T16:59:00-07:00",
+      "publishedDateTime": "2023-10-26T23:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TensorFlow",
@@ -174,11 +174,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T01:42:00-07:00",
+      "publishedDateTime": "2023-10-26T08:42:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TensorFlow",

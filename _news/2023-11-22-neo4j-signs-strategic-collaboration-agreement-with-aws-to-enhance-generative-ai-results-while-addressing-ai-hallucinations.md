@@ -19,60 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Accelerating climate action with AI"
-    excerpt: "AI has the potential to mitigate 5-10% of global greenhouse gas emissions according to our new report with Boston Consulting Group."
-    publishedDateTime: 2023-11-20T08:00:00Z
-    webUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/"
-    ampWebUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sustainability-BlogHeader-Adaptation-2.width-1300.png"
-        width: 1300
-        height: 733
-        isCached: true
-  - title: "The OpenAI meltdown will only accelerate the artificial intelligence race"
-    excerpt: "Optimists and ‘doomers’ are fighting over the direction of AI research – and those who want speed may have won this round"
-    publishedDateTime: 2023-11-22T09:11:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 71
-    images:
-      - url: "https://i.guim.co.uk/img/media/d12a7c1f184baf181c112396b8fb18251adfef30/0_527_4772_2865/master/4772.jpg?width=620&quality=85&auto=format&fit=max&s=2b17ea177f30c94ed0803376811924be"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Geospatial generative AI with Amazon Bedrock and Amazon Location Service"
-    excerpt: "Today, geospatial workflows typically consist of loading data, transforming it, and then producing visual insights like maps, text, or charts. Generative AI can automate these tasks through autonomous agents. In this post, we discuss how to use foundation models from Amazon Bedrock to power agents to"
-    publishedDateTime: 2023-11-22T14:18:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/geospatial-generative-ai-with-amazon-bedrock-and-amazon-location-service/"
+  - title: "Your guide to generative AI and ML at AWS re:Invent 2023"
+    excerpt: "Yes, the AWS re:Invent season is upon us and as always, the place to be is Las Vegas! You marked your calendars, you booked your hotel, and you even purchased the airfare. Now all you need is some guidance on generative AI and machine learning (ML) sessions to attend at this twelfth edition of re:Invent."
+    publishedDateTime: 2023-11-22T22:47:25Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 68
-  - title: "Effective accelerationism, doomers, decels, and how to flaunt your AI priors"
-    excerpt: "Several political perspectives are shaping quite a lot of the work on artificial intelligence, and so we need to understand them, especially now."
-    publishedDateTime: 2023-11-20T15:57:00Z
-    webUrl: "https://techcrunch.com/2023/11/20/e-acc-doomers-decels-openai-altman/"
+    quality: 121
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/featured-images-ML-16024-1120x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "5 Generative AI Predictions And A Wishlist From AWS re:Invent 2023"
+    excerpt: "AWS re:Invent just around the corner ... In his capacity as Amazon's lead scientist for artificial general intelligence (AGI), Prasad brought in scientists from the Amazon Science team and those working on Alexa AI to focus on model training, providing ..."
+    publishedDateTime: 2023-11-20T05:33:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778704897.jpg?resize=1200,675"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655aed36ae62b3b90c8db7ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1000
+        height: 688
         isCached: true
   - title: "IBM expands relationship with AWS to bring generative AI solutions and dedicated expertise to clients"
     excerpt: "Providing clients with dedicated AWS expertise and plans to train and skill 10,000 consultants United Arab Emirates -- IBM (NYSE: IBM ( announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from generative artificial intelligence (AI)."
@@ -90,58 +65,42 @@ related:
         width: 505
         height: 337
         isCached: true
-  - title: "How Earth AI is accelerating mineral discovery and helping enterprise Net Zero goals"
-    excerpt: "Earth AI pioneers a more efficient experimental process for discovering minerals required for Net Zero goals. Their promising results highlight the importance of combining data science, domain expertise, and systematic thinking to solve new problems relevant to all enterprises."
-    publishedDateTime: 2023-11-20T10:24:00Z
-    webUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals"
-    ampWebUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
+  - title: "Amazon AWS Starts Free Generative AI Courses That Can Make Your Tech Career Future-Proof"
+    excerpt: "TBH corporations need more AI-skilled workers than before and if you aren't one, you will have to upskill or settle for an off-the-grid job. With massive gaps in academia, there's only one way to get an existing workforce equipped with adequate skills in AI. An AI-skilled worker can get 47% more salary too."
+    publishedDateTime: 2023-11-21T13:22:00Z
+    webUrl: "https://in.mashable.com/tech/64289/amazon-aws-starts-free-generative-ai-courses-that-can-make-your-tech-career-future-proof"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
+      name: in.mashable
+      domain: mashable.com
+    quality: 55
+  - title: "C3 AI brings its C3 Generative AI platform to AWS Marketplace"
+    excerpt: "C3 Generative AI is built to process both structured and unstructured records. C3 Generative AI: AWS Marketplace Edition, the new version of the platform that debuted today, has a narrower focus. It’s designed to help users more easily analyze text stored in files such as Word documents, PowerPoint presentations and webpages."
+    publishedDateTime: 2023-11-21T22:26:00Z
+    webUrl: "https://siliconangle.com/2023/11/21/c3-ai-brings-c3-generative-ai-platform-aws-marketplace/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-11/amethyst-3328166_640.jpg"
-        width: 640
-        height: 427
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/unsplash-2.png"
+        width: 1032
+        height: 580
         isCached: true
-  - title: "Nvidia collaborates with Genentech to accelerate AI-driven drug discovery"
-    excerpt: "Nvidia said its offerings will accelerate the training and inference of generative models used in Genentech’s “lab in the loop” framework, where extensive experimental data is fed into models for iterative drug discovery."
-    publishedDateTime: 2023-11-21T19:27:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-collaborates-with-genentech-to-accelerate-ai-driven-drug-discovery/"
+  - title: "Neo4j and AWS team up to enhance generative AI applications with graph database technology"
+    excerpt: "Graph database company Neo4j Inc. said today it’s embarking on a multiyear strategic collaboration with the cloud computing giant Amazon Web Services Inc. to enable enterprises to enhance the capabilities of their generative artificial intelligence models."
+    publishedDateTime: 2023-11-21T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/11/21/neo4j-aws-team-enhance-generative-ai-applications-graph-database-technology/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 48
-  - title: "Elevate Your Teaching Career with Educational AI Tools"
-    excerpt: "As with other technological advances in the past, AI isn't going anywhere. You can unlock new teaching tools that also prepare your students for tech jobs."
-    publishedDateTime: 2023-11-20T01:32:00Z
-    webUrl: "https://www.educatorstechnology.com/2023/11/educational-ai-tools.html"
-    type: article
-    provider:
-      name: Educational Technology and Mobile Learning
-      domain: educatorstechnology.com
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
     images:
-      - url: "https://www.educatorstechnology.com/wp-content/uploads/2023/11/1-8.png"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Research Can Help to Tackle AI-generated Disinformation"
-    excerpt: "Continue reading Research Can Help to Tackle AI-generated Disinformation."
-    publishedDateTime: 2023-11-20T12:00:00Z
-    webUrl: "https://www.cc.gatech.edu/news/research-can-help-tackle-ai-generated-disinformation"
-    type: article
-    provider:
-      name: cc.gatech.edu
-      domain: gatech.edu
-    quality: 39
-    images:
-      - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2021/srijan%20kumar850x478.jpeg"
-        width: 850
-        height: 478
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/image001.png"
+        width: 960
+        height: 540
         isCached: true
   - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
     excerpt: "IBM( announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from generative artificial intelligence (AI). As part of this, IBM Consulting aims to deepen and expand its ..."
@@ -157,15 +116,29 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "ConcertAI's TeraRecon, Integrates Clinical and Generative AI, Supporting Clinical Research and Advancing Clinical Care Solutions at #RSNA23"
-    excerpt: "New solutions empower clinicians and research teams with AI orchestration, model development, visualization, and multi-modal data management to"
-    publishedDateTime: 2023-11-20T17:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/concertai-s-terarecon-integrates-clinical-and-generative-ai-supporting-clinical-research-and-advancing-clinical-care-solutions-at-rsna23-1032836447"
+  - title: "The threats of generative AI"
+    excerpt: "In case you might have missed it, digital space cowboy Elon Musk made a noteworthy declaration earlier this month in a visit to the United Kingdom. During a meeting with UK Prime Minister Rishi Sunak,"
+    publishedDateTime: 2023-11-21T16:11:00Z
+    webUrl: "https://www.timesgazette.com/2023/11/21/the-threats-of-generative-ai/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 15
+      name: The Times-Gazette
+      domain: timesgazette.com
+    quality: 39
+    images:
+      - url: "https://www.timesgazette.com/wp-content/uploads/2023/11/132301601_web1_Sims-Bill-mug.jpg"
+        width: 723
+        height: 1068
+        isCached: true
+  - title: "AWS re:Invent 2023: Our guide to the top sessions and speakers"
+    excerpt: "AWS Machine Learning Hero Kesha Williams breaks down the top keynotes and cloud content to look for at AWS re:Invent 2023, including generative AI and data updates."
+    publishedDateTime: 2023-11-22T22:38:00Z
+    webUrl: "https://www.pluralsight.com/resources/blog/cloud/aws-reinvent-2023-guide"
+    type: article
+    provider:
+      name: Pluralsight
+      domain: pluralsight.com
+    quality: 19
 
 secured: "0K9a+PTWcxKa1VdqzjL+npulxKLgc2gz+faSn+n/sM9cK1ivPJVX9nSTFFq96eGNDVXMfjo/JqscEGVo+u2XjqZlREJnMXZv9/3RNEEdLVnfK6BaeCQCKtJV/4r3Sgij4Bu5VV/ZAvv/CejRhw4dk47jcykYJ+2ZEldI+dmRNcDrEATPtG7rGW/epCKbg0NbzsQ6VmP13f3aMWp2OxN7dzPrUjLaQS1mRXV4iVLxxdwF2R2ZfSJA/eQOw9eyjcoQDj3uFH5T2fm0P68zB2y48UkzcNCm6bA1NKYrJwdK3C5GzzcTzD/nTaz6TExBahHgmEZVzj5HpNy+PSGGDLnn+lTSCS3yElrBbksO3hgSFTA=;vhXcUIc0jxex/xr2HHuiPw=="
 ---

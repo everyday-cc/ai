@@ -10,7 +10,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -22,58 +22,15 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/",
       "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/",
-      "publishedDateTime": "2023-11-21T13:47:00-08:00",
+      "publishedDateTime": "2023-11-21T21:47:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Crowdfund Insider",
         "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-generative-ai-challenges-and-opportunities.md",
-      "title": "Generative AI: Challenges and opportunities",
-      "excerpt": "Generative AI is revolutionizing the ways of working of financial institutions and Fintech companies. While rapid advancements in GenAI have opened up new possibilities across various industries, it is the fintech and banking sector that is poised to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/",
-      "originalUrl": "https://www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/ai.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/lite/",
-      "publishedDateTime": "2023-11-21T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -108,11 +65,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/",
-      "publishedDateTime": "2023-11-20T02:15:00-08:00",
+      "publishedDateTime": "2023-11-20T10:15:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -151,11 +108,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T22:57:00-08:00",
+      "publishedDateTime": "2023-11-15T06:57:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -205,11 +162,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/14/neobanks-democratizing-financial-services-for-the-underbanked/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/14/neobanks-democratizing-financial-services-for-the-underbanked/amp/",
-      "publishedDateTime": "2023-11-14T05:00:00-08:00",
+      "publishedDateTime": "2023-11-14T13:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -248,11 +205,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T18:54:00-08:00",
+      "publishedDateTime": "2023-11-14T02:54:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Financial Planning",
@@ -282,11 +239,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "publishedDateTime": "2023-11-12T23:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -326,11 +283,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T03:03:00-08:00",
+      "publishedDateTime": "2023-11-10T11:03:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -379,11 +336,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T07:26:00-08:00",
+      "publishedDateTime": "2023-11-08T15:26:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -431,11 +388,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/the-bibfconcludes-a-tech-masterclass-on-machine-learning-in-banking-and-finance-bl65vhzi?amp=1",
       "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/the-bibfconcludes-a-tech-masterclass-on-machine-learning-in-banking-and-finance-bl65vhzi?amp=1",
-      "publishedDateTime": "2023-11-08T04:13:00-08:00",
+      "publishedDateTime": "2023-11-08T12:13:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Zawya",
@@ -475,11 +432,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T23:34:00-08:00",
+      "publishedDateTime": "2023-11-08T07:34:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Thaiger",
@@ -520,11 +477,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/",
-      "publishedDateTime": "2023-11-07T05:15:00-08:00",
+      "publishedDateTime": "2023-11-07T13:15:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -573,11 +530,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
       "cdnAmpWebUrl": "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "publishedDateTime": "2023-11-06T20:16:00-08:00",
+      "publishedDateTime": "2023-11-07T04:16:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Consultancy",
@@ -617,11 +574,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T16:55:00-08:00",
+      "publishedDateTime": "2023-11-07T00:55:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -671,11 +628,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T12:31:00-08:00",
+      "publishedDateTime": "2023-11-06T20:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Time",
@@ -723,11 +680,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T10:07:00-07:00",
+      "publishedDateTime": "2023-11-01T17:07:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Financial Post",
@@ -758,11 +715,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T09:10:00-07:00",
+      "publishedDateTime": "2023-11-01T16:10:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -794,11 +751,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T22:43:00-07:00",
+      "publishedDateTime": "2023-11-01T05:43:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -837,11 +794,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T08:14:00-07:00",
+      "publishedDateTime": "2023-10-31T15:14:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Diginomica",
@@ -871,11 +828,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T07:40:00-07:00",
+      "publishedDateTime": "2023-10-31T14:40:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Matters",
@@ -905,11 +862,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T05:25:00-07:00",
+      "publishedDateTime": "2023-10-31T12:25:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Zawya",
@@ -941,11 +898,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T21:20:00-07:00",
+      "publishedDateTime": "2023-10-31T04:20:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Dataquest",
@@ -975,11 +932,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T17:00:00-07:00",
+      "publishedDateTime": "2023-10-31T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "JD Supra",
@@ -1010,11 +967,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T17:00:00-07:00",
+      "publishedDateTime": "2023-10-31T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "sinchew",
@@ -1045,11 +1002,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35501962",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35501962",
-      "publishedDateTime": "2023-10-30T14:46:00-07:00",
+      "publishedDateTime": "2023-10-30T21:46:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -1088,11 +1045,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/alexlazarow/2023/10/30/waiting-for-fintech--the-moment-at-money2020/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2023/10/30/waiting-for-fintech--the-moment-at-money2020/amp/",
-      "publishedDateTime": "2023-10-30T10:09:00-07:00",
+      "publishedDateTime": "2023-10-30T17:09:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1131,11 +1088,11 @@
       "heat": 89,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T07:23:00-07:00",
+      "publishedDateTime": "2023-10-30T14:23:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1185,11 +1142,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/from-gut-feel-to-data-driven-decisions-how-machine-learning-can-inform-investment-priorities-for-ctos/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/30/from-gut-feel-to-data-driven-decisions-how-machine-learning-can-inform-investment-priorities-for-ctos/amp/",
-      "publishedDateTime": "2023-10-30T06:45:00-07:00",
+      "publishedDateTime": "2023-10-30T13:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1239,11 +1196,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.moneycontrol.com/news/business/exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley-11599711.html/amp",
       "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley-11599711.html/amp",
-      "publishedDateTime": "2023-10-25T19:48:00-07:00",
+      "publishedDateTime": "2023-10-26T02:48:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "moneycontrol.com",
@@ -1282,11 +1239,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/25/youtrip-lightspeed/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/youtrip-lightspeed/amp/",
-      "publishedDateTime": "2023-10-25T14:22:00-07:00",
+      "publishedDateTime": "2023-10-25T21:22:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -1311,6 +1268,41 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-veracode-reveals-automation-and-training-are-key-drivers-of-software-security-for-financial-services.md",
+      "title": "Veracode Reveals Automation and Training Are Key Drivers of Software Security for Financial Services",
+      "excerpt": "The Power of AI and Machine Learning The State of Software Security report also analyzed language preference by vertical and found, at 51 percent, Java is almost a de facto standard within the Financial Services sector. Veracode Fix, an AI-powered ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T13:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
       ]
     }
   ],

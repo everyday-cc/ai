@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bizjournals.com/nashville/news/2023/11/22/artificial-int
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/11/22/artificial-intelligence-ai-healthcare-winnow-aya.amp.html"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: The Business Journals
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Aya Healthcare in Sorrento Valley Adds Winnow AI to Boost Recruitment, Retention"
+    excerpt: "Aya Healthcare in Sorrento Valley has announced the acquisition ... Amidst a historic provider shortage, one that is expected to increase over the next decade, Winnow AI combines artificial intelligence with business intelligence to help organizations ..."
+    publishedDateTime: 2023-11-22T21:59:00Z
+    webUrl: "https://timesofsandiego.com/tech/2023/11/22/aya-healthcare-in-sorrento-valley-adds-winnow-ai-to-boost-recruitment-retention/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 49
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2023/10/0.aya_.jpg"
+        width: 1364
+        height: 675
+        isCached: true
   - title: "Digital staffing company Aya Healthcare picks up Winnow AI to bolster its physician recruitment tech"
     excerpt: "Digital staffing company Aya Healthcare acquired Winnow AI to bolster its physician recruitment capabilities as the industry grapples with a historic provider shortage. | It marks Aya Healthcare's third M&A deal in five months as the company works to build up its artificial intelligence capabilities for staffing,"
     publishedDateTime: 2023-11-20T11:42:00Z

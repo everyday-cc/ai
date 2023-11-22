@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-un
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-11/kirkjufell-2148191_640.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "O’Reilly “Generative AI in the Enterprise” 2023 Report"
-    excerpt: "In an era marked by rapid technological evolution, the landscape of artificial intelligence is undergoing a monumental shift, spearheaded by the advent and integration of generative AI. O'Reilly, a leading beacon in technology and business learning,"
-    publishedDateTime: 2023-11-21T16:32:00Z
-    webUrl: "https://www.unite.ai/oreilly-generative-ai-in-the-enterprise-2023-report/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/11/9d68dfbf-055b-4873-845c-ab4b4963221b-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "MAS launches latest range of fintech initiatives"
     excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."

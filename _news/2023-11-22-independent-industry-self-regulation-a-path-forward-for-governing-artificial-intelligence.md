@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/indep
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence/amp/"
 type: article
 quality: 77
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "2023 Artificial Intelligence Regulation: An Update from a Senior FTC Official"
+    excerpt: "Michael Atleson, a senior attorney for the Federal Trade Commission (FTC), joined Holland & Knight for a recent question-and-answer webinar presentation on artificial intelligence (AI) regulation. This Holland & Knight alert provides a number of key ..."
+    publishedDateTime: 2023-11-22T18:59:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/2023-artificial-intelligence-regulation-1329571/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 36
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14849_2738.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "4X6qjBtUFDin14oaHBgEtyjCJpv4lp7BevxeMINEejPB6SPNnDL9+69m6ZWdlwciJ9aQ56Daym81W/xioJPmim11ncQV1dCfFf5eYt28NvnYnvfQWNXw3+Cl7pBkDa8pRApreRKKAFQmg7RrtQnFSTPwdO5IopSwq2fX+O0HPIW7eY3MkYjLGsF4NGmVmQQfG/eYUHeM8JNQhlx3Ms3UVb3EQGSD8Mb+CQ1zmhSjWKips0qMG2IWaOVlq/AG//RRUltM7Ym5LXre2jXeyXOPBHZUgH2DQ6Tc72h4GKJLJrgapFiuq30BSjdrJZVnixplQUQTWwJJnU6wX2iC9Ln13yjlr4ga0jfuaYnyAkO+yezbhNV4t7ikIydE0lG2or1xxM5qtvZc0PJtNvmC1SKuknsZIVP6DNTagMTqC12RB2T5TY0Mf9BdW0292iZ3teWbndBUXTMoi4J96Ay3KUDCCqXmUPJHn7EDbgUHlnqbf30QuFeCyddBvC6dgKqcbVNDNVIA7Of/G7/IaRNrYLDfQw==;nJF3bvtCEi8c6bnn4AwMvA=="
 ---
