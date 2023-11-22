@@ -1,29 +1,29 @@
 ---
 category: news
-title: "'Your United States Was Normal': Has Translation Tech Really Made Language Learning Redundant?"
-excerpt: "Every day, millions of people start the day by posting a greeting on social media. None of them expect to be arrested for their friendly morning rit"
-publishedDateTime: 2023-11-21T21:19:00Z
-originalUrl: "https://menafn.com/1107467206/Your-United-States-Was-Normal-Has-Translation-Tech-Really-Made-Language-Learning-Redundant"
-webUrl: "https://menafn.com/1107467206/Your-United-States-Was-Normal-Has-Translation-Tech-Really-Made-Language-Learning-Redundant"
+title: "‘Your United States was normal’: has translation tech really made language learning redundant?"
+excerpt: "This causes big problems when, for instance, a patient’s discharge instructions state the equivalent of “Your United States was normal” – an error resulting from the abbreviation “US” being used for “ultrasound” in medical contexts."
+publishedDateTime: 2023-11-21T19:05:00Z
+originalUrl: "https://theconversation.com/your-united-states-was-normal-has-translation-tech-really-made-language-learning-redundant-217665"
+webUrl: "https://theconversation.com/your-united-states-was-normal-has-translation-tech-really-made-language-learning-redundant-217665"
 type: article
 quality: 12
 heat: 12
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
-  - Natural Language Processing
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-11/21/TC_789e6image_story.jpg"
-    width: 960
-    height: 584
+  - url: "https://images.theconversation.com/files/560319/original/file-20231120-15-9tk151.jpg?ixlib=rb-1.1.0&rect=0%2C270%2C3601%2C1800&q=45&auto=format&w=1356&h=668&fit=crop"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "wVo7ryTZeq2s5Xx6PZ5pzosfDLtCfklT92USBmu4ZbrKfrVDlQIehNJwkW9Xkwx7t7ZRiuJ5L7CrvTlBOGVJ2RkA9YMFx2dg2Wquz41rOXPz+60P1PsAQAIRDG8IkHc4w2gDbw0xcH1L7C5yi+V/CLbcv42umjc2wYLGmN7fbuF6TACw35fMqwvC+8+axI3BYDf5QvUPk33Gp3X9CCee+CF/e5XHn60XahL3KirUUl55IoWY8ktd/XAXmo8AlpOmmX2urtujzkyeVBzd7HS321gsewjW6kS3nkyp7vvH2cArZDsE5TxSWtHgJGGnayZeX1X0BLGOjdVMD/OtkT5I6eKbKykMylipgOLY3hoa64o=;FqYBrPGaoIqNvPgPRiPUQg=="
+secured: "OerW/nCHS7y2g8FUT9c+jLuPND2A9DRrgDD17U7qldFXNXlcTwkuofuSri9fa1xiWqKnygZirmuZyMhs0rC8/fOelVH0kcUEqsQxPeAajX6WQZDJeTvzD/QhiS68fAGfgOrZMzhG+T8tjH9HpPHcufEdYXRGyRvyyLoS+Qx1fdPeODKNfhoPVhmyms4xJsjJWV4YOS0gEgIDibAUUh+oCEah2uR46ouTWxGeU3GogIp79i5n+HtPNc5cjQ3SC8fqc5G+pSSi4wY1VTjxytfjW1FTRAe2byWvm28NhqsIanKM9WB9bUsGYZFPfAfMooJEo/oqjEnuPu0IenWS+zR2EzuFWxr+zdHcWoC3wJqNQfQ=;EruinaSr3b1qWnbx/56KoQ=="
 ---
 

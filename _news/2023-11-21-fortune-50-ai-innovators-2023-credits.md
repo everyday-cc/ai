@@ -7,8 +7,8 @@ originalUrl: "https://fortune.com/franchise-list-page/fortune-50-ai-innovators-c
 webUrl: "https://fortune.com/franchise-list-page/fortune-50-ai-innovators-credits-2023/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Fortune
@@ -29,18 +29,18 @@ images:
 
 related:
   - title: "Fortune 50 AI Innovators"
-    excerpt: "Big Blue, based in Armonk, N.Y., was early to the AI game with Watson, which was first introduced over two decades ago, mesmerizing the world with what the tech could do. In 2023, the company launched its generative AI offerings,"
-    publishedDateTime: 2023-11-20T22:45:00Z
-    webUrl: "https://fortune.com/ranking/ai-innovators/2023/ibm/"
+    excerpt: "Will AI create a world where no job is needed? Will computers achieve human-level intelligence? Where will the dramatic OpenAI storyline end up? The drama unfolding in the world of AI has proven that readers and investors need to follow the space closely—and it's changing minute to minute."
+    publishedDateTime: 2023-11-21T15:04:00Z
+    webUrl: "https://www.fortune.com/ranking/ai-innovators/"
     type: article
     provider:
       name: Fortune
       domain: fortune.com
-    quality: 69
+    quality: 67
     images:
-      - url: "https://content.fortune.com/wp-content/uploads/2023/11/AI-Innovators-2023-IBM.jpg?w=1440&q=75"
-        width: 1440
-        height: 960
+      - url: "https://content.fortune.com/wp-content/uploads/2023/11/50-AI-logo.jpg?resize=1200,600"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Fortune Debuts Power List of 50 AI Innovators"
     excerpt: "Fortune editors name the companies leading the way in the AI boomAn essential guide to the companies every executive needs to know in the sector"

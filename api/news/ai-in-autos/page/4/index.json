@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-24-artificial-intelligence-a-new-frontier-in-war-harder-to-prove-what-is-real.md",
+      "title": "Artificial intelligence a new frontier in war: 'harder to prove what is real'",
+      "excerpt": "JERUSALEM – Over the past two weeks, since Palestinian terrorist group Hamas carried out its deadly attack in southern Israel killing some 1,400 Israelis, there is a fear that a new front in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/artificial-intelligence-new-frontier-war-harder-prove-what-real",
+      "originalUrl": "https://www.foxnews.com/world/artificial-intelligence-new-frontier-war-harder-prove-what-real",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c35c4ff-9db4-48e1-852e-7f4f9767c914/15fead3d-3d46-4a6b-b35a-c954e114976c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/artificial-intelligence-new-frontier-war-harder-prove-what-real.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/artificial-intelligence-new-frontier-war-harder-prove-what-real.amp",
+      "publishedDateTime": "2023-10-24T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-baidu-dont-sleep-on-chinas-ai-leader.md",
+      "title": "Baidu: Don't Sleep On China's AI Leader",
+      "excerpt": "What Baidu World lacked this year in broader strategic details, it made up for with its impressive new GPT 4.0 challenger, Ernie 4.0. The event was marred by tighter chip export restrictions ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4642749-baidu-dont-sleep-china-ai-leader",
+      "originalUrl": "https://seekingalpha.com/article/4642749-baidu-dont-sleep-china-ai-leader",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-23T21:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-24-doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates.md",
       "title": "DOJ subpoenas Tesla in probes of AutoPilot and driving range estimates",
       "excerpt": "According to Reuters, demand for Tesla vehicles could drop if interest rates keep rising, and Tesla could incur further losses if pressure remains to decrease prices to remain competitive. That's partly why Tesla shareholders have pushed Musk to consider investing more in advertising efforts that could spike demand.",
@@ -1226,92 +1312,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-gitex-global-2023-self-driving-police-patrol-unveiled-in-dubai.md",
-      "title": "Gitex Global 2023: Self-driving police patrol unveiled in Dubai",
-      "excerpt": "Vehicle can detect criminal behaviour, recognise faces, and read car number plates Dubai: At the Gitex Global 2023 tech show in Dubai, the Dubai Police today unveiled its self-driving security ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/technology/consumer-electronics/gitex-global-2023-self-driving-police-patrol-unveiled-in-dubai-1.98781602",
-      "originalUrl": "https://gulfnews.com/technology/consumer-electronics/gitex-global-2023-self-driving-police-patrol-unveiled-in-dubai-1.98781602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2023/10/16/Dubai_Police_Boost_Residential_Security_with_Self-Driving_Patrols1-1697454310268_18b3829439a_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/technology/consumer-electronics/gitex-global-2023-self-driving-police-patrol-unveiled-in-dubai-1.98781602",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/consumer-electronics/gitex-global-2023-self-driving-police-patrol-unveiled-in-dubai-1.98781602",
-      "publishedDateTime": "2023-10-16T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-sunak-paves-the-way-for-driverless-cars-in-four-years.md",
-      "title": "Sunak paves the way for driverless cars in four years",
-      "excerpt": "Driverless cars have proved controversial ... Morris/Bloomberg Mr Sunak is under pressure to appear welcoming to artificial intelligence companies amid surging investment in the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/business/2023/10/15/driverless-cars-britain-four-years-nissan-ford/?utmsource=email",
-      "originalUrl": "https://www.telegraph.co.uk/business/2023/10/15/driverless-cars-britain-four-years-nissan-ford/?utmsource=email",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/business/2023/10/15/TELEMMGLPICT000146855933_16973913790240_trans_NvBQzQNjv4BqEzw5OF8VsBey80ir11mphkgR7PVUJ79uLnSHs-A1YSI.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

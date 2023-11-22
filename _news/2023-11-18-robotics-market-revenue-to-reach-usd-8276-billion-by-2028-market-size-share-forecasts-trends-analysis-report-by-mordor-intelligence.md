@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence in Healthcare Research Report 2023 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Market for Artificial Intelligence in Healthcare 2023\" report has been added to ResearchAndMarkets.com's offering. As of 2021, the market is estimated to be valued at approximately USD 6.1 billion, with a projected ..."
-    publishedDateTime: 2023-11-17T09:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231117222966/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
   - title: "AI in Drug Discovery Market to Surge at a Revenue of US$ 8.10 Billion By 2030 | Astute Analytica"
     excerpt: "The AI in Drug Discovery Market is expected to reach a valuation of US$ 8.10 billion by 2030, growing at a CAGR of 25% during the forecast period from"
     publishedDateTime: 2023-11-21T12:51:00Z

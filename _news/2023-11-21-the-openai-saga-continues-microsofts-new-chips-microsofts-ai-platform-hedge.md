@@ -172,15 +172,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft to Bring Cohere’s Enterprise AI Models on Azure AI Service"
-    excerpt: "Cohere has announced that its flagship enterprise AI model, Command, will now be accessible through the Microsoft Azure AI Model Catalog and Marketplace as a managed service for the first time. The partnership brings Cohere’s English and multilingual capabilities to Microsoft Azure, enabling global use across various languages and regions."
-    publishedDateTime: 2023-11-17T08:20:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-to-brings-coheres-enterprise-ai-models-azure-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 49
   - title: "Schneider Electric Drives Generative AI Productivity And Sustainability Solutions By Integrating Microsoft Azure Openai"
     excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of work"
     publishedDateTime: 2023-11-21T08:29:00Z

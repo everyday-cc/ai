@@ -34,15 +34,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Global Artificial Intelligence in Healthcare Research Report 2023 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Market for Artificial Intelligence in Healthcare 2023\" report has been added to ResearchAndMarkets.com's offering. As of 2021, the market is estimated to be valued at approximately USD 6.1 billion, with a projected ..."
-    publishedDateTime: 2023-11-17T09:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231117222966/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
 
 secured: "q6aSPdw7qoHptEKnj8QhtgKD/WofFjNPZhDNJ1u2G5IibZq/Q33gH23TLrQR2/nAsv3nUo0vJaXAQqmjCn981C847AXHPKdKf1LRCyrAhJr4VbRGDK0Bg8JV19l7912ZtqPj1WPTPgrZaxsbxexB5bO0uu7eR93K5T2+L3dRZ+FUDRruXiVODotDE7Pd0m05lbQiUtkBDUoGz83QhYh7q74AjeaaEvLA3hWkoa+6b8z+6fBd1S5UX01712sKA8L59oLyicGu5vsZ48RTKeGBRdo053GCQOP70l4JjbZadsoN4BXK3w2cVrH0KmG5gRqyJx9AZBecCfprnTOyOq00fYmPDhR2+gCB5asmfNeiTBKJenQcCUEYIwwnQN9C/1FA6Zd3SlVxQOrb/Wfl4MTIyT/V32MDQaMspgLZe90/Tsdg9PtLuTLcWstMq/EdQtfYcj3PSyeMgh7v0XtlT4Nii9cB1oKMxLzclpO4P6+FvpWEc0gdgu65kdRbxsiAbNl6+294kQr4pLB/FJLkNhrZLQ==;uQmR/Q69Hr5PCySx1C0DIw=="
 ---

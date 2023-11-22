@@ -80,6 +80,20 @@ related:
         width: 1923
         height: 1080
         isCached: true
+  - title: "Bank, fintech leaders weigh in on the pros and cons of generative AI"
+    excerpt: "New iterations of tools powered by advanced artificial intelligence will aid banks in generating new value for customers, but the lack of regulatory guidance in this area hinders deeper adoption of the technology,"
+    publishedDateTime: 2023-11-21T23:05:00Z
+    webUrl: "https://www.americanbanker.com/news/bank-fintech-leaders-weigh-in-on-the-pros-and-cons-of-generative-ai"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 54
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/bd64195/2147483647/strip/true/crop/4032x2117+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F0a%2Fc5%2Fae14d712453398b237a3ea9be6ae%2Fimg-5968.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "C3 AI brings its C3 Generative AI platform to AWS Marketplace"
     excerpt: "C3 Generative AI is built to process both structured and unstructured records. C3 Generative AI: AWS Marketplace Edition, the new version of the platform that debuted today, has a narrower focus. It’s designed to help users more easily analyze text stored in files such as Word documents, PowerPoint presentations and webpages."
     publishedDateTime: 2023-11-21T22:26:00Z
@@ -116,20 +130,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/11/Meta_AIM.jpeg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Meta’s Responsible AI Team Disbanded, Paves the Way for Generative AI Dominance"
-    excerpt: "Meta, the parent company of Facebook and Instagram, has dissolved its Responsible ... projects like the custom silicon unit in its Reality Labs and the Fundamental AI Research department with its AI protein-folding team. Zuckerberg said, “Our single ..."
-    publishedDateTime: 2023-11-21T01:12:00Z
-    webUrl: "https://techreport.com/news/metas-responsible-ai-team-disbanded-paves-the-way-for-generative-ai-dominance/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 35
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/11/shutterstock_2297040931.jpg?_t=1700557978"
-        width: 1000
-        height: 667
         isCached: true
   - title: "Artificial Intelligence: Intellectual Property Considerations for Your Business Operations"
     excerpt: "Over the past couple of decades, artificial intelligence-enabled (AI) technologies have crept into the marketplace, providing businesses with internal- and external-facing services, such as customer support, search engine optimization, market research ..."

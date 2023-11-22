@@ -80,6 +80,20 @@ related:
         width: 1923
         height: 1080
         isCached: true
+  - title: "Bank, fintech leaders weigh in on the pros and cons of generative AI"
+    excerpt: "New iterations of tools powered by advanced artificial intelligence will aid banks in generating new value for customers, but the lack of regulatory guidance in this area hinders deeper adoption of the technology,"
+    publishedDateTime: 2023-11-21T23:05:00Z
+    webUrl: "https://www.americanbanker.com/news/bank-fintech-leaders-weigh-in-on-the-pros-and-cons-of-generative-ai"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 54
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/bd64195/2147483647/strip/true/crop/4032x2117+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F0a%2Fc5%2Fae14d712453398b237a3ea9be6ae%2Fimg-5968.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Generative AI Is Redefining Creativity For Marketers"
     excerpt: "AI platforms like Memorable are reshaping ad landscapes with innovative tools designed to enhance personalized ad strategies."
     publishedDateTime: 2023-11-17T10:15:00Z
@@ -117,20 +131,6 @@ related:
         width: 1800
         height: 1013
         isCached: true
-  - title: "Meta’s Responsible AI Team Disbanded, Paves the Way for Generative AI Dominance"
-    excerpt: "Meta, the parent company of Facebook and Instagram, has dissolved its Responsible ... projects like the custom silicon unit in its Reality Labs and the Fundamental AI Research department with its AI protein-folding team. Zuckerberg said, “Our single ..."
-    publishedDateTime: 2023-11-21T01:12:00Z
-    webUrl: "https://techreport.com/news/metas-responsible-ai-team-disbanded-paves-the-way-for-generative-ai-dominance/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 35
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/11/shutterstock_2297040931.jpg?_t=1700557978"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Artificial Intelligence: Intellectual Property Considerations for Your Business Operations"
     excerpt: "Over the past couple of decades, artificial intelligence-enabled (AI) technologies have crept into the marketplace, providing businesses with internal- and external-facing services, such as customer support, search engine optimization, market research ..."
     publishedDateTime: 2023-11-20T00:00:00Z
@@ -155,6 +155,6 @@ related:
       domain: fiercehealthcare.com
     quality: 23
 
-secured: "dm6v/a4xIvvdkOG9FZz+pCwA9ZLpev4A511S328IFoi3eSz8sUPy+MhMpREijgM7FaYnLCUiv9h1BsIlvdsbiA0AZMIK4yGi1l74fVxQOEd3gk/vIurKx+xcm7XJ6dev6wRGuSpJkGC21WQFJrJkeZXsPTkBTeVIjeaKoEWo6JFBNyqL3hhxlpXE+7lU2V2CQT1gZIylp3R6K2O4ccEwpXYQa2iHwgDhAPt7Wm2VBos4HkVYLthhg/zE7FY+p6wSt3qE2BDvmkrKXlcC/vSA6mVGXjVKi3m+wKVpNmjqxrPTn5mnL1iZice2BD0KdT4lzvH9IIlj4O4xNyiDIUJFwSV2JruhXg9gBfsnW5qLEao=;XetpH/O7Rcl/tc1NW4O36Q=="
+secured: "P0e6b3/fgPyusDdMoWYF5fVCxhkbNeu6A3EWG56w2yk4w4nEWWHhIDPD3ERNmlvXAHxj9nKK3EOpKRtLGAuh/X65r4nt7x1jJalnW8mGOKviO9qnr2sbOrnGqO0SSJoAHTMj/hHQFiodG1zF1TGeKpPfNLfzaoFqNugR5WEXB9EK3KAAOFrb5xWx1e3xkrapyptiV4Vsk6hTIx/v/jVjcabRGLhpqzTnh5aZa7eK251h3Nus+BDwXDLVb6lGZboEJvcepzmClryhSoS6eup+ffrzmZLX9/UT5rMa2Pf5iBLRVL0SKDu/8RaBdsNAxuEmf/PT8yzMGTdBKw0VTlVIjxZfUoaP3SKrXMIJCM70c7v1HGl7E6FgjrirC0zMeuMueuJDfWgMY3LxYCjZzDInbPnUmaxjlxvA0V0hmlh2udy4uDcjkLAbjZjNvNiBqfZcJR/kgqNpLTB6FYMlf0tu+QLk4x1caUz6k7z77EcO9eeGis1GoOqI8mAJp8vIKXTWzyA1GaGFTFcAY1XqozWkkQ==;CIHYxmyMfva0wisR1tVngw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-su
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
 type: article
 quality: 109
-heat: 209
+heat: 210
 published: true
 
 provider:

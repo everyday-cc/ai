@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain.amp"
 type: article
 quality: 104
-heat: 114
+heat: 105
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "US lawmakers raise concerns over Chinese self-driving testing data collection as ‘another excuse to suppress China’"
-    excerpt: "A self-driving bus is tested in the city center of Guangzhou, South China’s Guangdong Province on July 26, 2022. Photo: VCG. A group of US lawmakers is targeting Chinese self-dr"
-    publishedDateTime: 2023-11-17T07:58:00Z
-    webUrl: "https://www.globaltimes.cn/page/202311/1302041.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 0
 
 secured: "J9iMd27mktRI1AtL0h4+i6ITAf9IzuerKjlRbZ/HKhzZsyEB6YXWGswfxdVWlOTtTsJ2cogmMqBgjGWOUbZxRRdSvJH90AYOTU4sLQnxs1mPBPVIYjsqHXsvSVHOh3fvyV8NHjGE2hqXoqBFCgyHtXmc83JJevBfeaFk2YQwXVqC0oOIsh5179A6oVOJDZ1MbUaCi9bwLUgPlG1FYcfRu0c8E4GUx0PJUkodqTqPebWdWW0QKPy+W/oyKsc4EXSo7EN8DaQvFlbVeaKKxTqgrlI1RO4n+mT/RQ+91LEan9fNvZQ/leq5kzcqDYRqMotwlwxjag22nDIDyf8uKtJMknS41yYWV9zp2t+eIoyZ97rOSa8cXZHEv/YruaFniqqJ0utyRt/Y9EcjiI8y3tv/SfAYgVuN4rLX4wmASOKu9NfqzZRCAjXA2mq/uzBx3TdGpR2EY7DG09RUU7hebx+/LIboHahl2FPYoS04v0/x67rC1xlkxFHjis4mjYOvzyWLlxPMJGgPR00rhGyF19ACwQ==;/yQECEwyly1XvfzijbeOZA=="
 ---

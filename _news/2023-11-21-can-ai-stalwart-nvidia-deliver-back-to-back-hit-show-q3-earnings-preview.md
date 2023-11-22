@@ -43,6 +43,36 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "Nvidia’s revenue triples as AI chip boom continues"
+    excerpt: "Nvidia’s revenue grew 206 per cent year over year during the quarter ending October 29, according to a statement. Net income, at $US9.24b, or $US3.71 per share, was up from $US680 million, or US27¢ per share, in the same quarter a year ago."
+    publishedDateTime: 2023-11-21T23:10:00Z
+    webUrl: "https://thewest.com.au/business/cnbc/nvidias-revenue-triples-as-ai-chip-boom-continues-c-12637843"
+    ampWebUrl: "https://thewest.com.au/business/cnbc/nvidias-revenue-triples-as-ai-chip-boom-continues-c-12637843.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/cnbc/nvidias-revenue-triples-as-ai-chip-boom-continues-c-12637843.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 74
+    images:
+      - url: "https://images.thewest.com.au/publication/C-12637843/fb7b5acc99e9fd1abd181ba90bf433a52909f97f-16x9-x0y227w3998h2249.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Nvidia reports record Q3 results driven by surging demand for AI"
+    excerpt: "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more. Nvidia reported record revenue today for its third fiscal quarter of fiscal 2024 (ending October 31,"
+    publishedDateTime: 2023-11-21T22:53:00Z
+    webUrl: "https://venturebeat.com/gaming-business/nvidia-reports-record-q3-results-driven-by-surging-demand-for-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Nvidia-Grace-Hopper-Superchip.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
     excerpt: "Nvidia’s earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
     publishedDateTime: 2023-11-20T16:43:00Z

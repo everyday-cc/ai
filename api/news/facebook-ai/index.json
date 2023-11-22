@@ -55,6 +55,58 @@
       ]
     },
     {
+      "path": "_news/2023-11-19-facebook-parent-meta-breaks-up-its-responsible-ai-team.md",
+      "title": "Facebook-parent Meta breaks up its Responsible AI team",
+      "excerpt": "Facebook-parent Meta has split up its Responsible AI division, the team dedicated to regulating the safety of its artificial intelligence ventures. Most Responsible AI staffers have been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
+      "originalUrl": "https://www.cnbc.com/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107300081-1694615776137-gettyimages-1662740663-AFP_33V44JW.jpeg?v=1698249601",
+          "width": 4019,
+          "height": 2679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
+      "publishedDateTime": "2023-11-18T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-the-download-the-origins-of-life-and-building-facebooks-ai-empire.md",
       "title": "The Download: the origins of life, and building Facebook’s AI empire",
       "excerpt": "Fei-Fei Li is one of the most prominent computer science researchers of our time. The co-director of Stanford’s Human-Centered AI Institute is best known for creating ImageNet, a popular image data set that was pivotal in allowing researchers to train modern AI systems.",
@@ -1267,60 +1319,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit.md",
-      "title": "The UK Lists Top Nightmare AI Scenarios Ahead of Its Big Tech Summit",
-      "excerpt": "Ahead of a global summit on how to keep artificial intelligence from doing harm, a UK government report warns that the tech could be used to help create bioweapons, or escape human control altogether.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/",
-      "originalUrl": "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6539900d34195a696cda346b/191:100/w_1280,c_limit/AI-biz-GettyImages-582780248.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI",
-        "Facebook AI"
       ]
     }
   ],
