@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elastic Signs Strategic Collaboration Agreement with AWS to Accelerate Generative AI Solutions"
-    excerpt: "Elastic, announced a new two-year global Strategic Collaboration Agreement with Amazon Web Services to make it easier for shared customers."
-    publishedDateTime: 2023-11-17T15:55:00Z
-    webUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/"
-    ampWebUrl: "https://enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/elastic-signs-strategic-collaboration-agreement-with-aws-to-accelerate-generative-ai-solutions/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 62
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/11/Elastic-Signs-Partnership-Agreement-with-AWS-to-Accelerate-Generative-AI-Solutions.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "How Earth AI is accelerating mineral discovery and helping enterprise Net Zero goals"
     excerpt: "Earth AI pioneers a more efficient experimental process for discovering minerals required for Net Zero goals. Their promising results highlight the importance of combining data science, domain expertise, and systematic thinking to solve new problems relevant to all enterprises."
     publishedDateTime: 2023-11-20T10:24:00Z

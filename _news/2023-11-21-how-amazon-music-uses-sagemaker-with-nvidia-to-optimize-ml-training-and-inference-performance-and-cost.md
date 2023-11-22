@@ -33,20 +33,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 86
-  - title: "Retrieval-Augmented Generation with LangChain, Amazon SageMaker JumpStart, and MongoDB Atlas semantic search"
-    excerpt: "Generative AI models have the potential to revolutionize enterprise operations, but businesses must carefully consider how to harness their power while overcoming challenges such as safeguarding data and ensuring the quality of AI-generated content. The Retrieval-Augmented Generation (RAG) framework"
-    publishedDateTime: 2023-11-17T16:25:16Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/retrieval-augmented-generation-with-langchain-amazon-sagemaker-jumpstart-and-mongodb-atlas-semantic-search/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/02/ML-15033_image002.jpg"
-        width: 469
-        height: 253
-        isCached: true
   - title: "KT’s journey to reduce training time for a vision transformers model using Amazon SageMaker"
     excerpt: "KT Corporation is one of the largest telecommunications providers in South Korea, offering a wide range of services including fixed-line telephone, mobile communication, and internet, and AI services. KT’s AI Food Tag is an AI-based dietary management solution that identifies the type and nutritional"
     publishedDateTime: 2023-11-20T20:46:18Z

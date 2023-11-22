@@ -66,6 +66,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 84
+  - title: "AWS's generative AI functions support Taiwan startups innovation"
+    excerpt: "The rapid development of artificial intelligence (AI) has changed many aspects of our lives. In particular, the launch of generative AI at the end of 2022 has created a large wave of technological innovation,"
+    publishedDateTime: 2023-11-22T07:58:00Z
+    webUrl: "https://www.digitimes.com/news/a20231122PR204/ai-aws-generative-ai-news-highlights.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231122pr204_files/1_2b.jpg"
+        width: 1280
+        height: 852
+        isCached: true
   - title: "C3 AI brings its C3 Generative AI platform to AWS Marketplace"
     excerpt: "C3 Generative AI is built to process both structured and unstructured records. C3 Generative AI: AWS Marketplace Edition, the new version of the platform that debuted today, has a narrower focus. It’s designed to help users more easily analyze text stored in files such as Word documents, PowerPoint presentations and webpages."
     publishedDateTime: 2023-11-21T22:26:00Z

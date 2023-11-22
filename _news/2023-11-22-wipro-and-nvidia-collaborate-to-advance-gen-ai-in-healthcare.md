@@ -147,6 +147,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Nvidia Revenue Rockets On Demand For Powerful Chips"
+    excerpt: "Nvidia on Tuesday reported that its revenue more than tripled in the recently ended quarter as companies snapped up chips to power artificial intelligence (AI)."
+    publishedDateTime: 2023-11-22T07:00:00Z
+    webUrl: "https://www.latintimes.com/nvidia-revenue-rockets-demand-powerful-chips-549085"
+    type: article
+    provider:
+      name: Latin Times
+      domain: latintimes.com
+    quality: 39
+    images:
+      - url: "https://d.latintimes.com/en/full/547992/nvidia.jpg"
+        width: 768
+        height: 530
+        isCached: true
   - title: "Cloudera and NVIDIA Partner To Expand AI Capabilities"
     excerpt: "Hybrid and multi-cloud environments have revolutionized how businesses store, process, and manage data. With the rise of new technologies, such as"
     publishedDateTime: 2023-11-17T17:38:00Z

@@ -105,7 +105,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 475,
       "tags": null,
       "images": [
         {
@@ -157,7 +157,7 @@
       "originalUrl": "https://blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1117,21 +1117,21 @@
       ]
     },
     {
-      "path": "_news/2023-11-16-amazon-from-aws-to-retail-stores-and-more-the-company-that-jeff-bezos-built.md",
-      "title": "Amazon: From AWS to retail stores and more, the company that Jeff Bezos built",
-      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Amazon is a massive tech company that provides e-commerce, cloud, streaming, and digital advertising services.",
+      "path": "_news/2023-11-16-azure-gets-new-nvidia-service-for-developing-custom-genai-apps.md",
+      "title": "Azure gets new Nvidia service for developing custom GenAI apps",
+      "excerpt": "Announced at Microsoft Ignite 2023 this week, the new service is called Nvidia AI Foundry, and it gives businesses a collection of “commercially viable” GenAI foundation models, developed by Nvidia and third parties, they can customise using Nvidia’s NeMo framework and tools.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon",
-      "originalUrl": "https://www.businessinsider.com/amazon",
+      "webUrl": "https://www.crn.com.au/news/azure-gets-new-nvidia-service-for-developing-custom-genai-apps-602431",
+      "originalUrl": "https://www.crn.com.au/news/azure-gets-new-nvidia-service-for-developing-custom-genai-apps-602431",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/6555d7b54ca513d8242a5c43?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
+          "url": "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_chatbot.jpg",
+          "width": 690,
+          "height": 428,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1139,23 +1139,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/amazon?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon?amp",
-      "publishedDateTime": "2023-11-15T16:00:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T19:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1164,7 +1155,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Microsoft AI",
         "AI"
       ]
     }

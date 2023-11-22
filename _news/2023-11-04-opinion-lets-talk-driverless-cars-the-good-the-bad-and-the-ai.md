@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "7PsSpsmMx/RhlUjcNHu5FH5WXuWT7O2gky9lUzPt9tjRmDEcXRoanbbfKUTOVTQ7FQ7xdX5VS9LBS6p6BG04tsIRNkRr4jbru+PDW61td+JzrZhpDP2iE7Xa91R0SzaT131Pm8wRQMBHZ1YT6cDCp2hQbZsU1fpA4Gq8lQLFVoEFhRXGng2wgfs+NsY953FXC3PenIDwJjd9d0Wts6fXX22mJ9V0ty6Qn5tEo04m1Y+vh7oq2Q/zN9jVftj1VE3nTgtMjjTNIR9gHGSCpCw9TuW1WxJzoHW1pL3/mC1BKsRmg5+fCLIewkTAOAWuyA1JCv7W6OS02GtgkyHXU4KqxmiMrRpAjf+4OdCQUDmgI/w=;SPyd4yr4pvnGQbbYwXIqpw=="
+images:
+  - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205695740_HelaineLogoWEB_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+    width: 600
+    height: 300
+    isCached: true
+
+secured: "HjHB4nGvzoKwWBMmzsaaKX87UhsqGmUUNi3WAE5AEb0LAKj77hh9onPpWCJjVfDGZzIzxM5qjV7pXdCXZTTvgnVXNzh7stcO2p9crytX69Oqiz8V/f5A1k+C3HcF0lPwhFtzAHHbSdW3T7KVchlQ+LFfsxy1UVpPcqdX+Fs0Zbqj1biJEcPZtQE0bvnrlIOLPL2WW8mZF0tC9qKcwDABBxpHL9e/san8h4K3qUxyBtjJGg4FS3f2s0DWJS/QRpztK564Hx5NsOq4sqXcbHnmHVbTB4tOBzxA6dWydgaeb1Vcz9FfULCH7rLUmd76oSe0/4ulhZ2T9cbP+8BS+jpXUpquN/GXMdCbDie52BSfoTk=;4TcvZ5J+PWyRcvDgNRfeig=="
 ---
 

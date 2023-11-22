@@ -41,15 +41,6 @@ related:
         width: 1920
         height: 1285
         isCached: true
-  - title: "Unlocking the Power of AI: Reshaping Financial Services"
-    excerpt: "Liquidity Risk Management Engine for optimizing cash flows. This is a service that can be offered to customers, but which is also required internally for the bank. The bank needs to ensure sufficient liquidity on its balance sheet to cover  all withdrawals, but also to predict the physical cash needs to supply ATM machines and branches."
-    publishedDateTime: 2023-11-17T15:46:00Z
-    webUrl: "https://www.finextra.com/blogposting/25219/unlocking-the-power-of-ai-reshaping-financial-services"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "NI9urWwofSi0Ob2GPSyapfv3SAEIZjkC4qXXU28ZhIRaMjrLugJCWI4UhzJRDqQO3Bpj3PhvUEhoCHkg7yxelqjN9gCtuJxIfU1poZICH4LeLZnss6tjdI8v5+dMEQCdr3zp5xAC/2zcIKLJSWwq2ZS/73QPNDEvMxSdyOkGwjbcPChGgzr1KMrLUX+dCVOpHczgKXmJt8NY30cPVV9GEsbZsN5FSLGjONnKC3ysfwJbZru1Mr9NRf7xU0trGrW1C/CnmeJddQP7m9ahnYPuAfJhf/rzT3b3bvBbLFL/eZ/DhrhVkvsDYsoWuIDDFnjrr5Q2U5aRssPN4aTnbBKCwddV9EofaTrNg2QjX5qEQXI=;yZ127W+hU9gW50WzXzFdbg=="
 ---

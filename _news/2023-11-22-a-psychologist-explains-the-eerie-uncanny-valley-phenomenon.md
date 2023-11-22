@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/traversmark/2023/11/21/a-psychologist-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/11/21/a-psychologist-explains-the-eerie-uncanny-valley-phenomenon/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

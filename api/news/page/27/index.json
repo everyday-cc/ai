@@ -2,6 +2,58 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-10-28-automated-ai-multichannel-multilingual-marketing-brain-for-smb-growth-announced.md",
+      "title": "Automated AI Multichannel, Multilingual Marketing Brain For SMB Growth Announced",
+      "excerpt": "New AI-powered dynamics geared toward lead conversion for small and midsize businesses have been announced - with mBrain bringing forward new",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/automated-ai-multichannel-multilingual-marketing-brain-for-smb-growth-announced-1032750305",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/automated-ai-multichannel-multilingual-marketing-brain-for-smb-growth-announced-1032750305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-automated-ai-multich-1698405976.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-10-28-lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service.md",
       "title": "Lilt Supports AI-Powered Translated Forecasts Offered By NOAA's National Weather Service",
       "excerpt": "the leading AI solution for enterprise translation, is proud to provide the AI-powered technology behind a new experimental language translation website by NOAA and the National Weather Service.",
@@ -1081,58 +1133,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust.md",
-      "title": "Cruise Halts All Self-Driving Taxi Operations to 'Rebuild Public Trust'",
-      "excerpt": "We think it’s the right thing to do during a period when we need to be extra vigilant when it comes to risk,' Cruise says after California's DMV suspended the company's self-driving permit.",
-      "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust",
-      "originalUrl": "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/c/cruise-hal/cruise-halts-all-self-driving-taxi-operations-to-rebuild-pub_fkz4.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

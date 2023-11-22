@@ -7,7 +7,7 @@ originalUrl: "https://www.indiablooms.com/finance-details/19466/wipro-joins-hand
 webUrl: "https://www.indiablooms.com/finance-details/19466/wipro-joins-hands-with-nvidia-to-integrate-generative-ai-in-healthcare.html"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "NVIDIA’s new Spectrum-X Ethernet networking tech speeds up inter-system communication in generative AI workloads"
+    excerpt: "NVIDIA has revealed the latest business collaboration in the form of the new Spectrum-X Ethernet networking technologies designed to speed up generative AI workloads even more."
+    publishedDateTime: 2023-11-22T06:38:00Z
+    webUrl: "https://www.tech-critter.com/nvidia-spectrum-x-ethernet-networking-technology-announce/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 18
+    images:
+      - url: "https://secure.gravatar.com/avatar/a0ed3175f99016ebcbdaabb913231517?s=300&d=mm&r=g"
+        width: 300
+        height: 300
         isCached: true
   - title: "NVIDIA Unveils Spectrum-X Ethernet Networking for AI with Dell, HPE, and Lenovo Integration"
     excerpt: "NVIDIA today announced that Dell Technologies, Hewlett Packard Enterprise and Lenovo will be the first to integrate"

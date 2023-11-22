@@ -32,20 +32,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 86
-  - title: "Retrieval-Augmented Generation with LangChain, Amazon SageMaker JumpStart, and MongoDB Atlas semantic search"
-    excerpt: "Generative AI models have the potential to revolutionize enterprise operations, but businesses must carefully consider how to harness their power while overcoming challenges such as safeguarding data and ensuring the quality of AI-generated content. The Retrieval-Augmented Generation (RAG) framework"
-    publishedDateTime: 2023-11-17T16:25:16Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/retrieval-augmented-generation-with-langchain-amazon-sagemaker-jumpstart-and-mongodb-atlas-semantic-search/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/02/ML-15033_image002.jpg"
-        width: 469
-        height: 253
-        isCached: true
   - title: "How Amazon Music uses SageMaker with NVIDIA to optimize ML training and inference performance and cost"
     excerpt: "In the dynamic world of streaming on Amazon Music, every search for a song, podcast, or playlist holds a story, a mood, or a flood of emotions waiting to be unveiled. These searches serve as a gateway to new discoveries, cherished experiences, and lasting memories. The search bar is not just about finding"
     publishedDateTime: 2023-11-21T19:43:22Z

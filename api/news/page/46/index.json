@@ -2,6 +2,40 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-10-16-coresite-accelerates-aws-direct-connect-hosted-connections-on-the-open-cloud-exchange.md",
+      "title": "CoreSite Accelerates AWS Direct Connect Hosted Connections on the Open Cloud Exchange",
+      "excerpt": "CoreSite, a leading hybrid IT solutions provider and subsidiary of American Tower Corporation (NYSE: AMT) (“American Tower”), announced it will launch",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231016742177/en/CoreSite-Accelerates-AWS-Direct-Connect-Hosted-Connections-on-the-Open-Cloud-Exchange®",
+      "originalUrl": "https://www.businesswire.com/news/home/20231016742177/en/CoreSite-Accelerates-AWS-Direct-Connect-Hosted-Connections-on-the-Open-Cloud-Exchange®",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-leidos-reinforcement-learning-exercise-illuminates-how-ai-can-automate-military-ops.md",
       "title": "Leidos Reinforcement Learning Exercise Illuminates How AI Can Automate Military Ops",
       "excerpt": "The approach is called Reinforcement Learning, or RL, and the basic idea is to generate software that can enable a machine to learn from its environment through trial and error—in much the same way that young children do.",
@@ -1148,57 +1182,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-logitech-unveils-zone-wireless-2-ai-powered-headset.md",
-      "title": "Logitech Unveils Zone Wireless 2 AI-Powered Headset",
-      "excerpt": "Swiss computer accessory giant Logitech has announced its next-generation Zone Wireless 2 headset in a move that underscores the company’s commitment to the burgeoning business-to-business market. Whether staff are working from home, office or a combination of the two, those workers need the right tools for Zoom meetings and phone calls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/",
-      "originalUrl": "https://www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65295de0a0b6a0930e9b9f0f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/amp/",
-      "publishedDateTime": "2023-10-16T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

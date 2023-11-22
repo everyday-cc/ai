@@ -2,6 +2,41 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-11-14-cook-welcoming-remarks-at-the-5th-annual-conference-on-nontraditional-data-machine-learning-and-natural-language-processing-in.md",
+      "title": "Cook: Welcoming Remarks at the 5th Annual Conference on \"Nontraditional Data, Machine Learning, and Natural Language Processing in",
+      "excerpt": "Good morning, and welcome to the 5th annual conference on \"Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics.\"1 In a world with evolving data sources and significant advances in computing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forexfactory.com/news/1252007-cook-welcoming-remarks-at-the-5th-annual-conference",
+      "originalUrl": "https://www.forexfactory.com/news/1252007-cook-welcoming-remarks-at-the-5th-annual-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T11:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forex Factory",
+        "domain": "forexfactory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-child-psychiatrist-sexually-exploited-patients-used-artificial-intelligence-to-create-pornography.md",
       "title": "Child Psychiatrist Sexually Exploited Patients, Used Artificial Intelligence to Create Pornography",
       "excerpt": "David Tatum of Charlotte, North Carolina recorded under a minor's skirt during a therapy session with him, made secret videos of patients in the shower and \"used AI to digitally alter clothed images of minors making them sexually explicit.",
@@ -356,49 +391,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research.md",
-      "title": "BioStrand® Unveils a Revolutionary Approach to Biological Sequence Retrieval: A Fusion of Natural Language Processing and Database Research",
-      "excerpt": "\"New Paradigm for Biological Sequence Retrieval Inspired by Natural Language Processing and Database Research\" on bioRχiv. The publication delves into the intricacies of one of BioStrand's applications based on its patented HYFT-based methodology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b35748405/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-la",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b35748405/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-la",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35748405",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35748405",
-      "publishedDateTime": "2023-11-13T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },

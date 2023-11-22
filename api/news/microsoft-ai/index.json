@@ -265,7 +265,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 475,
       "tags": null,
       "images": [
         {
@@ -392,6 +392,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-16-azure-gets-new-nvidia-service-for-developing-custom-genai-apps.md",
+      "title": "Azure gets new Nvidia service for developing custom GenAI apps",
+      "excerpt": "Announced at Microsoft Ignite 2023 this week, the new service is called Nvidia AI Foundry, and it gives businesses a collection of “commercially viable” GenAI foundation models, developed by Nvidia and third parties, they can customise using Nvidia’s NeMo framework and tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/azure-gets-new-nvidia-service-for-developing-custom-genai-apps-602431",
+      "originalUrl": "https://www.crn.com.au/news/azure-gets-new-nvidia-service-for-developing-custom-genai-apps-602431",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_chatbot.jpg",
+          "width": 690,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T19:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -785,6 +828,50 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023.md",
+      "title": "3 Machine Learning Stocks You’ll Regret Not Buying Soon: November 2023",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning is revolutionizing industries from healthcare to",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035?op=1",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035?op=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T19:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1272,112 +1359,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup.md",
-      "title": "Tech Moves: Seattle marketing vet lands at IonQ; Microsoft principal researcher joins startup",
-      "excerpt": "Margaret Arakawa, a longtime Seattle-area marketing leader, joined IonQ as chief marketing officer. Arakawa was",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup/",
-      "originalUrl": "https://www.geekwire.com/2023/tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/11/IONQ-SQUARE-HEADSHOTS_0000s_0012_Margaret-Arakawa-DSC_8061.jpeg",
-          "width": 288,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-commvault-cloud-unifies-data-protection-security-ai-and-recovery.md",
-      "title": "Commvault Cloud Unifies Data Protection, Security, AI And Recovery",
-      "excerpt": "Patrick Moorhead and Robert Kramer evaluate Commvault Cloud, a new hybrid data security platform that aims to maintain cyber resilience for enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/08/commvault-cloud-unifies-data-protection-security-and-recovery/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/08/commvault-cloud-unifies-data-protection-security-and-recovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654b927f98a38e6f2718e847/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 936,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/08/commvault-cloud-unifies-data-protection-security-and-recovery/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/11/08/commvault-cloud-unifies-data-protection-security-and-recovery/amp/",
-      "publishedDateTime": "2023-11-08T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

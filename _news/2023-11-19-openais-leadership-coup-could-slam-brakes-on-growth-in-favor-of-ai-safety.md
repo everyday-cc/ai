@@ -405,6 +405,20 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 33
+  - title: "OpenAI's Ctrl+Z on Sam Altman: Firing, rehiring and all the drama around AI startup"
+    excerpt: "November 21: Satya Nadella reveals Altman and Brockman will lead a new AI research team at Microsoft. Board member Ilya Sutskever 'regrets' firing Altman. November 22: Sam Altman returns as OpenAI CEO; an initial board set up to appoint a formal board that might comprise Altman, Brockman and a Microsoft representative."
+    publishedDateTime: 2023-11-22T08:05:00Z
+    webUrl: "https://www.theweek.in/web-stories/current-affairs/2023/11/22/openai-saga-explained-all-the-drama-around-firing-and-rehiring-of-sam-altman.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 31
+    images:
+      - url: "https://www.theweek.in/content/dam/week/web-stories/current-affairs/images/2023/11/22/Sam.jpg"
+        width: 760
+        height: 443
+        isCached: true
   - title: "OpenAI Former CEO Joins Microsoft To Continue AI ‘Mission’; Satya Nadella Weighs-In"
     excerpt: "Microsoft hires OpenAI CEO Sam Altman and others to lead a new advanced AI research team at Microsoft to drive GenAI and technology innovation."
     publishedDateTime: 2023-11-20T14:07:00Z

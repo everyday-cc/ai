@@ -2,6 +2,39 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-10-31-biden-signs-executive-order-aimed-at-creating-ai-safeguards.md",
+      "title": "Biden signs executive order aimed at creating AI safeguards",
+      "excerpt": "President Joe Biden signed a sweeping executive order Monday designed to create safeguards and security standards around artificial intelligence. (Oct. 30)",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/video/artificial-intelligence-executive-orders-united-states-government-national-national-27d10a7446ee4af991db09f71d7adb41",
+      "originalUrl": "https://apnews.com/video/artificial-intelligence-executive-orders-united-states-government-national-national-27d10a7446ee4af991db09f71d7adb41",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-ct-artificial-intelligence-jobs-still-scarce-amid-big-push-and-looming-oversight.md",
       "title": "CT artificial intelligence jobs still scarce amid big push — and looming oversight",
       "excerpt": "As federal and Connecticut lawmakers scramble to control artificial intelligence, AI jobs are still scarce in this state.",
@@ -991,57 +1024,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-can-ai-resolve-your-issues-with-a-colleague.md",
-      "title": "Can AI Resolve Your Issues With A Colleague?",
-      "excerpt": "Can AI help employees resolve their differences, easing the personal and business challenges that often come with workplace conflicts?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/annashields/2023/10/30/can-ai-resolve-your-issues-with-a-colleague/",
-      "originalUrl": "https://www.forbes.com/sites/annashields/2023/10/30/can-ai-resolve-your-issues-with-a-colleague/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/653b106628221b4c3a281f1a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/annashields/2023/10/30/can-ai-resolve-your-issues-with-a-colleague/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annashields/2023/10/30/can-ai-resolve-your-issues-with-a-colleague/amp/",
-      "publishedDateTime": "2023-10-30T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

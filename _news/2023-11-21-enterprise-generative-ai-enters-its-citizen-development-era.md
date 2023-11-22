@@ -66,6 +66,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 84
+  - title: "AWS's generative AI functions support Taiwan startups innovation"
+    excerpt: "The rapid development of artificial intelligence (AI) has changed many aspects of our lives. In particular, the launch of generative AI at the end of 2022 has created a large wave of technological innovation,"
+    publishedDateTime: 2023-11-22T07:58:00Z
+    webUrl: "https://www.digitimes.com/news/a20231122PR204/ai-aws-generative-ai-news-highlights.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231122pr204_files/1_2b.jpg"
+        width: 1280
+        height: 852
+        isCached: true
   - title: "Bank, fintech leaders weigh in on the pros and cons of generative AI"
     excerpt: "New iterations of tools powered by advanced artificial intelligence will aid banks in generating new value for customers, but the lack of regulatory guidance in this area hinders deeper adoption of the technology,"
     publishedDateTime: 2023-11-21T23:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/11/21/nvidia-nvda-q3-earnings-report-2
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html"
 type: article
 quality: 104
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Nvidia Revenue Rockets On Demand For Powerful Chips"
+    excerpt: "Nvidia on Tuesday reported that its revenue more than tripled in the recently ended quarter as companies snapped up chips to power artificial intelligence (AI)."
+    publishedDateTime: 2023-11-22T07:00:00Z
+    webUrl: "https://www.latintimes.com/nvidia-revenue-rockets-demand-powerful-chips-549085"
+    type: article
+    provider:
+      name: Latin Times
+      domain: latintimes.com
+    quality: 39
+    images:
+      - url: "https://d.latintimes.com/en/full/547992/nvidia.jpg"
+        width: 768
+        height: 530
+        isCached: true
   - title: "Wipro and NVIDIA Collaborate to Advance Gen AI in Healthcare"
     excerpt: "Wipro Limited, a technology services and consulting company, has announced a collaboration with NVIDIA to accelerate the adoption of generative"
     publishedDateTime: 2023-11-22T04:50:00Z
@@ -188,6 +202,6 @@ related:
       domain: thestreet.com
     quality: 11
 
-secured: "Ck5OH33nzXKIPJOPaFAt+4hAlT9MAj0Q5Ycpp9rs7vpbEqsHilkbPjJcwcEhYHKoBzRzWpEDv+5ascl4OZiu6Q+Xri/yuqnebTh85h4kUe7uMaI9dIn33vG6xH3eAQoVT+L4+WNlib3DDjibPXptM6v6b46k6sQ5ecWKFeJzIHASm9jegkwXxQz7kzRi5BRanVVl34Qr39TzhMJjJ2fzwUbuMGOUvTv9Wpk4wXoieAPEr1KWkIo4y0pVvJdckKKCGAnn7dGm8HDHDKO9CsaNR/iP1xphOlQ+vtf8COLGvr/sLJZ4ki4IZFj9wQseRmAuJsqTF3C3SUGOiNzQ9LfMwKbX8Qntcx2HHeRvehkvPxg=;snw8r39hXzxh32/t+5e4IQ=="
+secured: "68IrUJBQLXYSORSV7i9oBqSXODXtlU4QwS4b4D2hPCFmubrf9cWZ5sEUjcq5aVHL0C86wEh8dW9iJcbCLqt3GZVb11OByUGanLBdi4n+ZUfNr/7PfByjaaxFd5hgjzVyxFCALTz3hgJOUsJsoreEf6/qbmIo2g7SBNwgiF5WJSmphRT3/F+uSboZkcOpVLcq2spN4Iwl6Conf4JVeBx1ZMkUSvMSMUZiqcKVMDruFOZRbMSeRT64PK0Dzh6qHjTs6bX3QlaCkDsIGrkkF8BsQOWIvkg8tD7uxnNGwUjFJ0tr+B6pelJz9wFVfeAAX9SDMW7r5xKgO7RdcMa5CGlAHM3G0xC7qN7o/niaCygw8QiXgCyCb6gJbXVvhfWLm+isnZ1+wAHt0LNeCPgBeD84GCqYmnhLWI2uwxO7adyknkmbUscGk/Zb2yyGfyiDljVJrufEBqyeP5OLL2p/3L4CG5nSbC6XGn9XV8BUWwCvRQXNI9HBNQh8MZYjs99OLLOfKqUgluOFp8E7bxdKItghwA==;kINLj3pQeOdvQKmog7mDKQ=="
 ---
 
