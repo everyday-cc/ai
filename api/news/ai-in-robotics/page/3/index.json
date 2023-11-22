@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-31-the-future-of-artificial-intelligence.md",
+      "title": "The Future of Artificial Intelligence",
+      "excerpt": "In this AI-driven age, staying informed is crucial as the future unfolds as a rich mosaic, interwoven with both challenges and opportunities Artificial Intelligence (AI) is no longer a buzzword confined to the realms of science fiction;",
+      "sourceUrl": null,
+      "webUrl": "https://kashmirreader.com/2023/10/31/the-future-of-artificial-intelligence/",
+      "originalUrl": "https://kashmirreader.com/2023/10/31/the-future-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T22:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kashmir Reader",
+        "domain": "kashmirreader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-pittsburgh-robotics-network-appoints-jennifer-apicella-as-executive-director.md",
       "title": "Pittsburgh Robotics Network appoints Jennifer Apicella as Executive Director",
       "excerpt": "Apicella has been serving as the Interim Executive Director of the Pittsburgh Robotics Network since May 2023.",
@@ -22,11 +57,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T14:01:00-07:00",
+      "publishedDateTime": "2023-10-30T21:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Robot Report",
@@ -65,11 +100,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T08:09:00-07:00",
+      "publishedDateTime": "2023-10-30T15:09:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Robot Report",
@@ -108,11 +143,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T02:00:00-07:00",
+      "publishedDateTime": "2023-10-30T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Journal-News",
@@ -142,11 +177,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-29T20:59:00-07:00",
+      "publishedDateTime": "2023-10-30T03:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Journal",
@@ -176,11 +211,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-29T17:00:00-07:00",
+      "publishedDateTime": "2023-10-30T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "BGR",
@@ -219,11 +254,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://dunyanews.tv/amp/english/766358.php",
       "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/766358.php",
-      "publishedDateTime": "2023-10-28T14:46:00-07:00",
+      "publishedDateTime": "2023-10-28T21:46:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Dunya News",
@@ -262,11 +297,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-12675883/amp/Israels-terrifying-arsenal-ROBOT-weaponry-AI-powered-turrets-remote-control-boats-unmanned-attack-bots-used-IDF-prepares-scale-ground-invasion-Gaza.html",
       "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-12675883/amp/Israels-terrifying-arsenal-ROBOT-weaponry-AI-powered-turrets-remote-control-boats-unmanned-attack-bots-used-IDF-prepares-scale-ground-invasion-Gaza.html",
-      "publishedDateTime": "2023-10-28T01:57:00-07:00",
+      "publishedDateTime": "2023-10-28T08:57:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Daily Mail",
@@ -305,11 +340,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/28/2620382/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/28/2620382/amp/",
-      "publishedDateTime": "2023-10-27T17:00:00-07:00",
+      "publishedDateTime": "2023-10-28T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -357,11 +392,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.dailymail.co.uk/tvshowbiz/article-12681561/amp/I-thought-vacuous-pop-bimbo-writes-SARAH-VINE-Britneys-angry-new-memoir-self-knowledge-wisdom-lets-mind-think-heart.html",
       "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/tvshowbiz/article-12681561/amp/I-thought-vacuous-pop-bimbo-writes-SARAH-VINE-Britneys-angry-new-memoir-self-knowledge-wisdom-lets-mind-think-heart.html",
-      "publishedDateTime": "2023-10-27T15:09:00-07:00",
+      "publishedDateTime": "2023-10-27T22:09:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Daily Mail",
@@ -391,11 +426,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T07:23:00-07:00",
+      "publishedDateTime": "2023-10-27T14:23:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Inter Press Service",
@@ -434,11 +469,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T06:00:00-07:00",
+      "publishedDateTime": "2023-10-27T13:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Anime News Network",
@@ -477,11 +512,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.zawya.com/en/wealth/wealth-management/fii7-in-riyadh-sees-detailed-debate-on-ai-and-179bln-worth-of-investments-ujsy5de9?amp=1",
       "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/wealth/wealth-management/fii7-in-riyadh-sees-detailed-debate-on-ai-and-179bln-worth-of-investments-ujsy5de9?amp=1",
-      "publishedDateTime": "2023-10-26T22:49:00-07:00",
+      "publishedDateTime": "2023-10-27T05:49:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Zawya",
@@ -520,11 +555,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp",
-      "publishedDateTime": "2023-10-26T19:20:00-07:00",
+      "publishedDateTime": "2023-10-27T02:20:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Trends",
@@ -572,11 +607,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T16:33:00-07:00",
+      "publishedDateTime": "2023-10-26T23:33:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Robot Report",
@@ -616,11 +651,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10?amp",
-      "publishedDateTime": "2023-10-26T13:27:00-07:00",
+      "publishedDateTime": "2023-10-26T20:27:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -669,11 +704,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T12:16:00-07:00",
+      "publishedDateTime": "2023-10-26T19:16:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "New Atlas",
@@ -721,11 +756,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T11:49:00-07:00",
+      "publishedDateTime": "2023-10-26T18:49:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Robot Report",
@@ -764,11 +799,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T11:27:00-07:00",
+      "publishedDateTime": "2023-10-26T18:27:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "eWeek",
@@ -818,11 +853,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://createdigital.org.au/ai-timber-turtle-robot-three-tech-developments/amp/",
       "cdnAmpWebUrl": "https://createdigital-org-au.cdn.ampproject.org/c/s/createdigital.org.au/ai-timber-turtle-robot-three-tech-developments/amp/",
-      "publishedDateTime": "2023-10-25T21:04:00-07:00",
+      "publishedDateTime": "2023-10-26T04:04:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "createdigital",
@@ -861,11 +896,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.govtech.com/education/higher-ed/northwestern-universitys-ai-designs-a-new-robot-in-seconds?_amp=true",
       "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/northwestern-universitys-ai-designs-a-new-robot-in-seconds?_amp=true",
-      "publishedDateTime": "2023-10-25T15:57:00-07:00",
+      "publishedDateTime": "2023-10-25T22:57:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Government Technology",
@@ -895,11 +930,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T14:30:00-07:00",
+      "publishedDateTime": "2023-10-25T21:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Daily Telegraph",
@@ -938,11 +973,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T06:28:00-07:00",
+      "publishedDateTime": "2023-10-25T13:28:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -982,11 +1017,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T03:39:00-07:00",
+      "publishedDateTime": "2023-10-25T10:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Journal",
@@ -1025,11 +1060,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/",
-      "publishedDateTime": "2023-10-24T13:01:00-07:00",
+      "publishedDateTime": "2023-10-24T20:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1068,11 +1103,11 @@
       "heat": 79,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T11:30:00-07:00",
+      "publishedDateTime": "2023-10-24T18:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Robot Report",
@@ -1111,11 +1146,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T11:00:00-07:00",
+      "publishedDateTime": "2023-10-24T18:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1164,11 +1199,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T08:23:00-07:00",
+      "publishedDateTime": "2023-10-24T15:23:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Electrek",
@@ -1216,11 +1251,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T07:30:00-07:00",
+      "publishedDateTime": "2023-10-24T14:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Vancouver Is Awesome",
@@ -1259,49 +1294,15 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T06:52:00-07:00",
+      "publishedDateTime": "2023-10-24T13:52:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Post-Bulletin",
         "domain": "postbulletin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-britney-spears-the-woman-in-me-10-revelations-from-stars-tell-all-book-from-relationship-with-justin-timberlake-to-the-conservatorship.md",
-      "title": "Britney Spears - The Woman In Me: 10 revelations from star's tell-all book - from relationship with Justin Timberlake to the conservatorship",
-      "excerpt": "Friendship with Hilton and shaving her head: 'I was out of my mind with grief' Spears ... Pic: AP Conservatorship: 'I was like a child robot' A lot of the book tackles the subject of Spears's conservatorship, which controlled her life for 13 years.",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/britney-spears-the-woman-in-me-10-revelations-from-stars-tell-all-book-from-relationship-with-justin-timberlake-to-the-conservatorship-12991137",
-      "originalUrl": "https://news.sky.com/story/britney-spears-the-woman-in-me-10-revelations-from-stars-tell-all-book-from-relationship-with-justin-timberlake-to-the-conservatorship-12991137",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
         "images": null,
         "publishers": null,
         "authors": null

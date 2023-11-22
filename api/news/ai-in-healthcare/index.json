@@ -22,11 +22,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T03:31:00-08:00",
+      "publishedDateTime": "2023-11-22T11:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-22-qa-how-artificial-intelligence-powers-collaboration-and-efficiency-for-healthcare.md",
-      "title": "Q&A: How Artificial Intelligence Powers Collaboration and Efficiency for Healthcare",
-      "excerpt": "Artificial Intelligence plays a pivotal role in fostering collaborative efforts and boosting operational efficiency within the healthcare ecosystem, helping streamline complex processes and aiding in clinical decision-making.",
-      "sourceUrl": null,
-      "webUrl": "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare",
-      "originalUrl": "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202311/GettyImages-1336245275.jpg?itok=WESoihWH",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp",
-      "publishedDateTime": "2023-11-21T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-11-22-wipro-joins-hands-with-nvidia-to-integrate-generative-ai-in-healthcare.md",
       "title": "Wipro joins hands with NVIDIA to integrate generative AI in healthcare",
       "excerpt": "Bengaluru: Leading IT firm Wipro on Tuesday announced a partnership with chip-maker NVIDIA aimed at expediting the integration of generative artificial intelligence (AI) in healthcare enterprises.",
@@ -105,7 +62,7 @@
       "originalUrl": "https://www.indiablooms.com/finance-details/19466/wipro-joins-hands-with-nvidia-to-integrate-generative-ai-in-healthcare.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -117,11 +74,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T10:29:00-08:00",
+      "publishedDateTime": "2023-11-21T18:29:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "India Blooms",
@@ -161,11 +118,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35908820",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35908820",
-      "publishedDateTime": "2023-11-21T10:20:00-08:00",
+      "publishedDateTime": "2023-11-21T18:20:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -198,11 +155,11 @@
       "heat": 99,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T02:00:00-08:00",
+      "publishedDateTime": "2023-11-20T10:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -241,11 +198,11 @@
       "heat": 81,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T12:06:00-08:00",
+      "publishedDateTime": "2023-11-16T20:06:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -285,11 +242,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T02:16:00-08:00",
+      "publishedDateTime": "2023-11-15T10:16:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -328,11 +285,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T18:44:00-08:00",
+      "publishedDateTime": "2023-11-15T02:44:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Future Market Insights",
@@ -362,11 +319,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T16:00:00-08:00",
+      "publishedDateTime": "2023-11-15T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The American Journal of Managed Care",
@@ -396,11 +353,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T09:06:00-08:00",
+      "publishedDateTime": "2023-11-14T17:06:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "News Medical",
@@ -430,11 +387,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T08:54:00-08:00",
+      "publishedDateTime": "2023-11-14T16:54:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Future Market Insights",
@@ -464,11 +421,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T06:53:00-08:00",
+      "publishedDateTime": "2023-11-14T14:53:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "STAT",
@@ -498,11 +455,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T05:59:00-08:00",
+      "publishedDateTime": "2023-11-14T13:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Psychology Today",
@@ -541,11 +498,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T04:07:00-08:00",
+      "publishedDateTime": "2023-11-14T12:07:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Education Week",
@@ -575,11 +532,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T00:03:00-08:00",
+      "publishedDateTime": "2023-11-14T08:03:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "NoCamels - Israeli Innovation News",
@@ -609,11 +566,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T10:32:00-08:00",
+      "publishedDateTime": "2023-11-13T18:32:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TooFab",
@@ -643,11 +600,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T08:47:00-08:00",
+      "publishedDateTime": "2023-11-13T16:47:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Medical Xpress",
@@ -677,11 +634,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T06:32:00-08:00",
+      "publishedDateTime": "2023-11-13T14:32:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "EurekAlert!",
@@ -720,11 +677,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "publishedDateTime": "2023-11-12T23:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "MD&M East",
@@ -755,11 +712,11 @@
       "heat": 298,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T05:00:00-08:00",
+      "publishedDateTime": "2023-11-10T13:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -808,11 +765,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T03:16:00-08:00",
+      "publishedDateTime": "2023-11-10T11:16:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -860,11 +817,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.al.com/opinion/2023/11/guest-opinion-artificial-intelligence-will-save-lives-if-skeptics-dont-derail-progress.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/opinion/2023/11/guest-opinion-artificial-intelligence-will-save-lives-if-skeptics-dont-derail-progress.html?outputType=amp",
-      "publishedDateTime": "2023-11-09T06:34:00-08:00",
+      "publishedDateTime": "2023-11-09T14:34:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "al.com",
@@ -895,11 +852,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T01:30:00-08:00",
+      "publishedDateTime": "2023-11-09T09:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "news.bloomberglaw",
@@ -929,11 +886,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T01:00:00-08:00",
+      "publishedDateTime": "2023-11-09T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -973,11 +930,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T10:24:00-08:00",
+      "publishedDateTime": "2023-11-08T18:24:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Medscape",
@@ -1007,11 +964,11 @@
       "heat": 70,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T04:41:00-08:00",
+      "publishedDateTime": "2023-11-08T12:41:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1059,11 +1016,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-05T22:08:00-08:00",
+      "publishedDateTime": "2023-11-06T06:08:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Inferse",
@@ -1103,11 +1060,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-02T05:00:00-07:00",
+      "publishedDateTime": "2023-11-02T12:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Bakersfield Californian",
@@ -1146,11 +1103,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T04:59:00-07:00",
+      "publishedDateTime": "2023-11-01T11:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -1199,11 +1156,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T03:17:00-07:00",
+      "publishedDateTime": "2023-11-01T10:17:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Impacts",
@@ -1223,6 +1180,49 @@
         "AI in Autos",
         "Machine Learning",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-01-meeting-looks-at-music-intelligence.md",
+      "title": "Meeting looks at music intelligence",
+      "excerpt": "Li Xiaobing, executive director of the concert and head of the music AI and information technology department of the Central Conservatory of Music. [Photo provided to China Daily] The Second Summit on Music Intelligence was launched in Beijing on Saturday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202311/01/WS6541c793a31090682a5ebdca_1.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202311/01/WS6541c793a31090682a5ebdca_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202311/01/6541c793a3109068caff34a4.jpeg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T03:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

@@ -41,15 +41,6 @@ related:
         width: 1024
         height: 848
         isCached: true
-  - title: "Genentech, NVIDIA Enter Into Strategic AI Research Collaboration"
-    excerpt: "Tuesday announced a multi-year strategic research collaboration with NVIDIA that couples Genentech's artificial intelligence (AI) capabilities, extensive biological and molecular datasets, and research expertise with NVIDIA's world-leading accelerated computing capabilities and AI to speed up drug discovery and development."
-    publishedDateTime: 2023-11-21T16:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/genentech-nvidia-enter-into-strategic-ai-research-collaboration-1032840044"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Iceland’s tech clustering – a volcanic focus on fintech"
     excerpt: "Another area where fintech can play a part in improving the efficiency of financial trading and movement is in the identification and management of fraud, and in particular money laundering. Another member of Iceland’s fintech cluster, Lucinity, has set its sights on providing new tools for the task."
     publishedDateTime: 2023-11-20T10:45:00Z
@@ -79,20 +70,6 @@ related:
       - url: "https://www.unite.ai/wp-content/uploads/2023/11/9d68dfbf-055b-4873-845c-ab4b4963221b-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Singapore’s fintech sector struggling to find talent"
-    excerpt: "In a 2021 Accenture survey, nearly two out of three firms blamed their talent gap on not being able to get work permits for foreigners. Nowadays, only 37 percent cite difficulty in securing employment passes as a hiring challenge. For this dramatic change, the employers and employees should thank Hong Kong."
-    publishedDateTime: 2023-11-20T15:59:00Z
-    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/11/21/2003809473"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 24
-    images:
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
-        width: 1200
-        height: 1200
         isCached: true
   - title: "MAS launches latest range of fintech initiatives"
     excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."

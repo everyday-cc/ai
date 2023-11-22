@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Mankato Health Update: Poor Cognitive Function Tied to Poor Sleep. Doctor Explains"
+    excerpt: "Dr. Puja Uppal says, \"Sharp brains need good rest!\"Doctor's Expert Insights About Poor Cognitive Function & Your Sleep Health in MinnesotaKnow this: \"Here's the thing, we know"
+    publishedDateTime: 2023-11-17T22:19:00Z
+    webUrl: "https://www.grandrapidsmn.com/around_the_web/news/mankato-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_9e53fe1e-bcf5-5b77-8c48-98dd2557d1de.html"
+    type: article
+    provider:
+      name: Grand Rapids Herald-Review
+      domain: grandrapidsmn.com
+    quality: 33
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/grandrapidsmn.com/content/tncms/assets/v3/editorial/0/e2/0e26e9ad-e854-5077-b962-ec749bcab4f3/6557feba2f8dd.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fort Worth Health Update: Poor Cognitive Function Tied to Poor Sleep. Doctor Explains"
     excerpt: "Dr. Puja Uppal says, \"Sharp brains need good rest!\"Doctor's Expert Insights About Poor Cognitive Function & Your Sleep Health in TexasKnow this: \"Here's the thing, we know"
     publishedDateTime: 2023-11-17T22:19:00Z
@@ -33,6 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Lubbock Health Update: Poor Cognitive Function Tied to Poor Sleep. Doctor Explains"
+    excerpt: "Dr. Puja Uppal says, \"Sharp brains need good rest!\"Doctor's Expert Insights About Poor Cognitive Function & Your Sleep Health in TexasKnow this: \"Here's the thing, we know"
+    publishedDateTime: 2023-11-17T21:19:00Z
+    webUrl: "https://www.fbherald.com/news/state/lubbock-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_e8cf1fe0-57ac-56ec-81bc-cf176add56ab.html"
+    type: article
+    provider:
+      name: Fort Bend Herald
+      domain: fbherald.com
+    quality: 13
 
 secured: "nDLGwKCn2G3y2bVoFgBS2oemNxfIQZjf45KQR3W8OWWciIyCw0J5aY9gXYWtf2AwREgAXRS+HWcFrfapITHRn3xsZWET2N/4lth8ywwPr91D2PPvzxgmlFg+tpXsrwzaMelsRh92yRg4iHR5FRWJjC665g07L05sxwfJS6XracGHHyIurKc3+Nm15DcjEY0Y0nsvZpFMURsq4F7bXc51LC/jD+mQjCno26XkOYq47B/Dgqi0MLw65Jn249uTcbYJHPz/72Z6Oeaf5HgquTMmfLyCbPq6Yr83+vht5kGuro3p+40GjPS+jKsRcJsWPPT6Kq+MyIOaE065xmYbkyLTieTyoJ14s/TBhYsGcP35Xoe0MSTgKwg0Nkk4SSoOEkLiyijfNauQAPSGssVOmZB+DWNttjeyB3pMPyZkjapx7jngVARYuUEDp3goi2MVZTBMeh521jkceATmHz+l5kPb+S04yKMe6Ob55HIpDKnPLtqxKex2NAf+a2nUP6XyqXzOcAwY62eqUT/lKhI2Mlw1BQ==;rXNsKjJK/NC+ejEQaCo4tQ=="
 ---

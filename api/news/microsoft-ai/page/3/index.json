@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-10-27-opinion-amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch.md",
-      "title": "Opinion: Amazon’s AI talk is making Wall Street drool, but there seems to be a catch",
-      "excerpt": "Its Azure cloud business reported a better-than-expected quarter earlier this week, and the company has an investment in and partnership with OpenAI, the creator of ChatGPT. Microsoft also has promising early AI offerings, including Copilot for its GitHub ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
-      "originalUrl": "https://www.marketwatch.com/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-867942/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
-      "publishedDateTime": "2023-10-26T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-27-microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development.md",
       "title": "Microsoft, Rockwell Automation to bring Gen AI to robotics development",
       "excerpt": "The companies will add Microsoft's Azure OpenAI Service into FactoryTalk Design Studio to accelerate time-to-market for their customers.",
@@ -74,11 +22,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T16:33:00-07:00",
+      "publishedDateTime": "2023-10-26T23:33:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Robot Report",
@@ -118,11 +66,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T13:26:00-07:00",
+      "publishedDateTime": "2023-10-26T20:26:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -172,11 +120,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.bleepingcomputer.com/news/security/microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups/amp/",
       "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups/amp/",
-      "publishedDateTime": "2023-10-26T11:56:00-07:00",
+      "publishedDateTime": "2023-10-26T18:56:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Bleeping Computer",
@@ -206,11 +154,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T00:08:00-07:00",
+      "publishedDateTime": "2023-10-26T07:08:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Victoria Advocate",
@@ -249,11 +197,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T10:19:00-07:00",
+      "publishedDateTime": "2023-10-25T17:19:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -301,11 +249,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/",
-      "publishedDateTime": "2023-10-25T08:43:00-07:00",
+      "publishedDateTime": "2023-10-25T15:43:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -354,11 +302,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/",
-      "publishedDateTime": "2023-10-25T07:20:00-07:00",
+      "publishedDateTime": "2023-10-25T14:20:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -398,11 +346,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T03:33:00-07:00",
+      "publishedDateTime": "2023-10-25T10:33:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "SD Times",
@@ -450,11 +398,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T00:58:00-07:00",
+      "publishedDateTime": "2023-10-25T07:58:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Longview News-Journal",
@@ -493,11 +441,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T17:00:00-07:00",
+      "publishedDateTime": "2023-10-25T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Medical News Today",
@@ -527,11 +475,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T15:00:00-07:00",
+      "publishedDateTime": "2023-10-24T22:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Time",
@@ -579,11 +527,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://m.au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816?ampMode=1",
       "cdnAmpWebUrl": "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/microsoft-earnings-preview-azure-cloud-segment-in-focus-3009816?ampMode=1",
-      "publishedDateTime": "2023-10-23T22:56:00-07:00",
+      "publishedDateTime": "2023-10-24T05:56:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Investing",
@@ -622,11 +570,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T09:31:00-07:00",
+      "publishedDateTime": "2023-10-23T16:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Times",
@@ -656,11 +604,11 @@
       "heat": 72,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T06:41:00-07:00",
+      "publishedDateTime": "2023-10-23T13:41:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "CUInsight",
@@ -692,11 +640,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-22T05:45:00-07:00",
+      "publishedDateTime": "2023-10-22T12:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -745,11 +693,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/amazon-earnings?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-earnings?amp",
-      "publishedDateTime": "2023-10-21T01:49:00-07:00",
+      "publishedDateTime": "2023-10-21T08:49:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -797,11 +745,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/amp/",
-      "publishedDateTime": "2023-10-20T11:52:00-07:00",
+      "publishedDateTime": "2023-10-20T18:52:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -849,11 +797,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T02:07:00-07:00",
+      "publishedDateTime": "2023-10-20T09:07:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Washington Post",
@@ -892,11 +840,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.cnbctv18.com/technology/microsoft-ceo-satya-nadella-new-era-of-artificial-intelligence-18107571.htm/amp",
       "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/microsoft-ceo-satya-nadella-new-era-of-artificial-intelligence-18107571.htm/amp",
-      "publishedDateTime": "2023-10-19T15:26:00-07:00",
+      "publishedDateTime": "2023-10-19T22:26:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "cnbctv18",
@@ -935,11 +883,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/amp/",
-      "publishedDateTime": "2023-10-19T10:21:00-07:00",
+      "publishedDateTime": "2023-10-19T17:21:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -988,11 +936,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T08:24:00-07:00",
+      "publishedDateTime": "2023-10-19T15:24:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Tech Report",
@@ -1031,11 +979,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T05:02:00-07:00",
+      "publishedDateTime": "2023-10-19T12:02:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Daily News",
@@ -1065,11 +1013,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T09:02:00-07:00",
+      "publishedDateTime": "2023-10-18T16:02:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Finanznachrichten",
@@ -1108,11 +1056,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T09:00:00-07:00",
+      "publishedDateTime": "2023-10-18T16:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1160,11 +1108,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.gizchina.com/2023/10/18/azure-ai-content-safety/amp/",
       "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/10/18/azure-ai-content-safety/amp/",
-      "publishedDateTime": "2023-10-17T17:00:00-07:00",
+      "publishedDateTime": "2023-10-18T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "GizChina",
@@ -1203,11 +1151,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
-      "publishedDateTime": "2023-10-17T06:46:00-07:00",
+      "publishedDateTime": "2023-10-17T13:46:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -1246,11 +1194,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T04:26:00-07:00",
+      "publishedDateTime": "2023-10-17T11:26:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -1280,11 +1228,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T17:00:00-07:00",
+      "publishedDateTime": "2023-10-17T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Medical News Today",
@@ -1324,11 +1272,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T14:34:00-07:00",
+      "publishedDateTime": "2023-10-16T21:34:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Becker's Hospital Review",
@@ -1345,6 +1293,59 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai.md",
+      "title": "Microsoft unveils extensions to Fabric, Azure for healthcare AI",
+      "excerpt": "These new offerings seek to bring together multiple modalities of medical data for greater analysis, and also bring large language models to clinicians' side as medical copilots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 486,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7b1085eb32224a532e4765a7998aee76e2402275/2023/10/16/e136bcb6-5b44-493b-bcf2-05ee2ec78ae0/gettyimages-1456133907.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T14:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

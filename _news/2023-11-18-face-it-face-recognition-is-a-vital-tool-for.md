@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-18T00:00:00Z
 originalUrl: "https://www.nydailynews.com/2021/01/19/face-it-face-recognition-is-a-vital-tool-for-those-who-want-to-catch-and-punish-the-capitols-insurrectionists/"
 webUrl: "https://www.nydailynews.com/2021/01/19/face-it-face-recognition-is-a-vital-tool-for-those-who-want-to-catch-and-punish-the-capitols-insurrectionists/"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: New York Daily News

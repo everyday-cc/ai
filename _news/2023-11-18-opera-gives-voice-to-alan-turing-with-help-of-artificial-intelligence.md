@@ -50,6 +50,22 @@ related:
         width: 1118
         height: 618
         isCached: true
+  - title: "Q&A: How Artificial Intelligence Powers Collaboration and Efficiency for Healthcare"
+    excerpt: "Artificial Intelligence plays a pivotal role in fostering collaborative efforts and boosting operational efficiency within the healthcare ecosystem, helping streamline complex processes and aiding in clinical decision-making."
+    publishedDateTime: 2023-11-21T21:30:00Z
+    webUrl: "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare"
+    ampWebUrl: "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 68
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202311/GettyImages-1336245275.jpg?itok=WESoihWH"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "Morning Bid: Thanksgiving starters of AI and oil"
     excerpt: "A key catalyst for some of the outsize Big Tech share gains this year, the craze around generative AI will also top the agenda as chip giant Nvidia reports earnings on Tuesday tha"
     publishedDateTime: 2023-11-20T10:10:00Z
@@ -107,6 +123,15 @@ related:
     excerpt: "AI can help you produce more content than ever before while maintaining your unique brand voice. But it requires some pre-work."
     publishedDateTime: 2023-11-20T13:45:00Z
     webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/supercharging-your-mid-market-brands-voice-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Unlocking The Potential Of AI For Accounting Firms And Clients"
+    excerpt: "In the ever-evolving landscape of finance and law, AI has emerged as a dynamic force reshaping how accounting firms and their clients operate."
+    publishedDateTime: 2023-11-22T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/22/unlocking-the-potential-of-ai-for-accounting-firms-and-clients/"
     type: article
     provider:
       name: Forbes
@@ -177,6 +202,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 25
+  - title: "Rocketlane Unveils 'AI at Work' Report Showcasing the Impact of Artificial Intelligence on Modern Workplaces Across the Globe"
+    excerpt: "Rocketlane remains at the forefront of empowering businesses to streamline operations and enhance customer experiences through cutting-edge technologies. The 'AI at Work' report is a valuable resource for industry leaders, providing insights into the evolving landscape of AI adoption and its impact on business success."
+    publishedDateTime: 2023-11-21T14:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/21/9921894.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "Og1ukjG6t4kLB/O+E0RCfA6qk3A8cgLFXf84Zu7WKRxRzlq+5r19A9Qkm3TtHKedxJv4L9hT6r6acap666mSWO+QoFPK1ISn5rjaTynI++GkIjD36tL7poX1FRuu43fesVNL0hklhDkbCjb0gp1Z1mzM3abPx7zOMCjGegiIrtUJGHg6HgVXP/aam04Oex+o734vAguPuU6D3/xibbiL/GZ0Fbbfo+mfSRGP14NGfNjdHtqA2gozpgARZ/NE2N0c+ocKCclbaXIwNBaszBZ1BffKw0N+kgSa520efFkhexmWFtIQczD9kedI+bWc+pmwkgAD+DlpAsm7gk3W8XNYK0t7U/2X95bM14yrpE8zq3glTFn7GZdeKYdH2eXuk1JYz1S4K3ZfYOdNXAthuDUEvljFSxCjSOpAUKm3115SMsYywrXAaCBMbDPP9bu/fFn+GIDi2sm/5b1K0UTRdKdmj4ibiLQDu7nxW3JvTr7czT4/A8kTSsm4kgZgs4XcWN8Tf46iXFzTYMeiQFDjCUJE5Q==;jOX5cK8iD/YzcSiME3aXrA=="
 ---

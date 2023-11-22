@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-11-06-ai-ethics-gets-short-shrift-among-employers-oecd.md",
+      "title": "AI Ethics Gets Short Shrift Among Employers: OECD",
+      "excerpt": "The Organisation for Economic Co-operation and Development searched online job offers for AI posts in 14 countries. It found that while the percentage including keywords relating to ethics had ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/ai-ethics-gets-short-shrift-among-employers-oecd-e0e1026e",
+      "originalUrl": "https://www.barrons.com/news/ai-ethics-gets-short-shrift-among-employers-oecd-e0e1026e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
+          "width": 1320,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/ai-ethics-gets-short-shrift-among-employers-oecd-e0e1026e",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-ethics-gets-short-shrift-among-employers-oecd-e0e1026e",
+      "publishedDateTime": "2023-11-06T10:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-06-artificial-intelligence-war-machines-take-flight.md",
       "title": "Artificial Intelligence War Machines Take Flight",
       "excerpt": "Far out in the prairies of North Dakota, we saw firsthand how artificial intelligence tools are being merged with military surveillance and weapons.",
@@ -22,11 +65,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T02:03:00-08:00",
+      "publishedDateTime": "2023-11-06T10:03:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The New York Times",
@@ -66,11 +109,11 @@
       "heat": 239,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T02:00:00-08:00",
+      "publishedDateTime": "2023-11-06T10:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -109,11 +152,11 @@
       "heat": 109,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T02:00:00-08:00",
+      "publishedDateTime": "2023-11-06T10:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -161,11 +204,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/",
-      "publishedDateTime": "2023-11-06T01:59:00-08:00",
+      "publishedDateTime": "2023-11-06T09:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -213,11 +256,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T01:02:00-08:00",
+      "publishedDateTime": "2023-11-06T09:02:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Impacts",
@@ -257,11 +300,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T00:46:00-08:00",
+      "publishedDateTime": "2023-11-06T08:46:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Geeky Gadgets",
@@ -303,11 +346,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-05T22:08:00-08:00",
+      "publishedDateTime": "2023-11-06T06:08:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Inferse",
@@ -347,11 +390,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-05T21:59:00-08:00",
+      "publishedDateTime": "2023-11-06T05:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -398,11 +441,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-05T21:11:00-08:00",
+      "publishedDateTime": "2023-11-06T05:11:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Press-Republican",
@@ -441,11 +484,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
       "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
-      "publishedDateTime": "2023-11-05T20:05:00-08:00",
+      "publishedDateTime": "2023-11-06T04:05:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "India Today",
@@ -484,11 +527,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-05T19:22:00-08:00",
+      "publishedDateTime": "2023-11-06T03:22:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "scmp.com",
@@ -535,11 +578,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-05T19:06:00-08:00",
+      "publishedDateTime": "2023-11-06T03:06:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmochina",
@@ -577,11 +620,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-05T16:00:00-08:00",
+      "publishedDateTime": "2023-11-06T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Pantagraph",
@@ -620,11 +663,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-04T23:43:00-07:00",
+      "publishedDateTime": "2023-11-05T06:43:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -672,11 +715,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-04T18:40:00-07:00",
+      "publishedDateTime": "2023-11-05T01:40:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -716,11 +759,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-04T17:00:00-07:00",
+      "publishedDateTime": "2023-11-05T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -760,11 +803,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/amp/",
-      "publishedDateTime": "2023-11-04T16:51:00-07:00",
+      "publishedDateTime": "2023-11-04T23:51:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -804,11 +847,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-04T14:30:00-07:00",
+      "publishedDateTime": "2023-11-04T21:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Arkansas Democrat-Gazette",
@@ -847,11 +890,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-04T09:30:00-07:00",
+      "publishedDateTime": "2023-11-04T16:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Arkansas Democrat-Gazette",
@@ -890,11 +933,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://michiganchronicle.com/2023/11/03/unmasking-artificial-intelligence-the-battle-for-ethical-innovation-and-accountability/?amp=1",
       "cdnAmpWebUrl": "https://michiganchronicle-com.cdn.ampproject.org/c/s/michiganchronicle.com/2023/11/03/unmasking-artificial-intelligence-the-battle-for-ethical-innovation-and-accountability/?amp=1",
-      "publishedDateTime": "2023-11-03T12:29:00-07:00",
+      "publishedDateTime": "2023-11-03T19:29:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Michigan Chronicle",
@@ -925,11 +968,11 @@
       "heat": 82,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-03T09:40:40-07:00",
+      "publishedDateTime": "2023-11-03T16:40:40Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -976,11 +1019,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.witn.com/video/2023/11/03/wallace-rose-hill-coaching-staff-field-maintenance-crew-use-artificial-intelligence-robot/?outputType=amp",
       "cdnAmpWebUrl": "https://www-witn-com.cdn.ampproject.org/c/s/www.witn.com/video/2023/11/03/wallace-rose-hill-coaching-staff-field-maintenance-crew-use-artificial-intelligence-robot/?outputType=amp",
-      "publishedDateTime": "2023-11-03T09:17:00-07:00",
+      "publishedDateTime": "2023-11-03T16:17:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "WITN",
@@ -1010,11 +1053,11 @@
       "heat": 82,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-03T08:32:53-07:00",
+      "publishedDateTime": "2023-11-03T15:32:53Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -1061,11 +1104,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-03T07:51:00-07:00",
+      "publishedDateTime": "2023-11-03T14:51:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "SD Times",
@@ -1089,58 +1132,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-03-aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes.md",
-      "title": "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes",
-      "excerpt": "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/",
-      "originalUrl": "https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png",
-          "width": 648,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-03T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

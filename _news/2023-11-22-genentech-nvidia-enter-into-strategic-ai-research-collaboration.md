@@ -23,89 +23,52 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Sector Is Undergoing Transformation with Rise of Open Finance, Generative AI, A2A Payments – Report"
-    excerpt: "The whitepaper found that “the fintech market is undergoing a rapid shift, with the rise of new technologies, such as Open Finance, generative AI and A2A (account-to-account) payments having a major impact on business models.” This is combined with unp ..."
-    publishedDateTime: 2023-11-21T21:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
+  - title: "Nvidia’s Q3 Earnings Explode On Surging Data Center AI And Gaming Demand"
+    excerpt: "There’s no stopping Nvidia from this level of growth for the foreseeable future. The company continues to execute like a finely tuned machine."
+    publishedDateTime: 2023-11-22T16:57:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/NYSE-New-York-Fintech-1024x848.jpg"
-        width: 1024
-        height: 848
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Artificial Intelligence in Banking: Transforming Customer Experiences with FinTech"
-    excerpt: "Introduction Artificial Intelligence (AI) has become a revolutionary force in the banking sector, reshaping the way financial institutions operate and interact with their customers. In tandem with Financial Technology (FinTech),"
-    publishedDateTime: 2023-11-21T12:21:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-in-banking-transforming-customer-experiences-with-fintech/"
+  - title: "Can AI Stalwart Nvidia Deliver Back-To-Back Hit Show? Q3 Earnings Preview"
+    excerpt: "thanks to robust sales of high-performance chips to cloud service providers and large consumer internet companies. The strong demand came on the back of the development of large language models and generative AI. Oppenheimer analyst Rick Schafer models 22% ..."
+    publishedDateTime: 2023-11-21T05:04:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35888525/can-ai-stalwart-nvidia-deliver-back-to-back-hit-show-q3-earnings-preview"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35888525"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35888525"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 48
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Artificial-Intelligence-in-Banking-Transforming-Customer-Experiences-with-FinTech.jpg"
-        width: 600
-        height: 450
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Nvidia_28.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
         isCached: true
-  - title: "Iceland’s tech clustering – a volcanic focus on fintech"
-    excerpt: "Another area where fintech can play a part in improving the efficiency of financial trading and movement is in the identification and management of fraud, and in particular money laundering. Another member of Iceland’s fintech cluster, Lucinity, has set its sights on providing new tools for the task."
-    publishedDateTime: 2023-11-20T10:45:00Z
-    webUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech"
-    ampWebUrl: "https://diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/icelands-tech-clustering-volcanic-focus-fintech?amp"
+  - title: "AI Leader Dipping From Record Highs Before Earnings"
+    excerpt: "This is shaping up to be a big report for the company given its lead in the artificial intelligence (AI) space. During yesterday's trading ... There's no set up required either. If you start buying the dividend stocks I show you today..."
+    publishedDateTime: 2023-11-21T18:42:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/analysis/2023/11/21/ai-leader-dipping-from-record-highs-before-earnings"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 44
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 37
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-11/kirkjufell-2148191_640.jpg"
-        width: 640
-        height: 480
+      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/logos/bigstock-san-francisco-ca-june-----250312549.jpg?sfvrsn=dcebda06_6"
+        width: 1400
+        height: 1050
         isCached: true
-  - title: "O’Reilly “Generative AI in the Enterprise” 2023 Report"
-    excerpt: "In an era marked by rapid technological evolution, the landscape of artificial intelligence is undergoing a monumental shift, spearheaded by the advent and integration of generative AI. O'Reilly, a leading beacon in technology and business learning,"
-    publishedDateTime: 2023-11-21T16:32:00Z
-    webUrl: "https://www.unite.ai/oreilly-generative-ai-in-the-enterprise-2023-report/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/11/9d68dfbf-055b-4873-845c-ab4b4963221b-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Singapore’s fintech sector struggling to find talent"
-    excerpt: "In a 2021 Accenture survey, nearly two out of three firms blamed their talent gap on not being able to get work permits for foreigners. Nowadays, only 37 percent cite difficulty in securing employment passes as a hiring challenge. For this dramatic change, the employers and employees should thank Hong Kong."
-    publishedDateTime: 2023-11-20T15:59:00Z
-    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/11/21/2003809473"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 24
-    images:
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "MAS launches latest range of fintech initiatives"
-    excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."
-    publishedDateTime: 2023-11-20T12:45:00Z
-    webUrl: "https://www.euromoney.com/article/2ch7qdhmxyq9fpfz71dz4/fintech/mas-launches-latest-range-of-fintech-initiatives"
-    type: article
-    provider:
-      name: Euromoney
-      domain: euromoney.com
-    quality: 4
 
 secured: "1L4bdcMyI9XPZqpuQ6l8lfkPCfYKPWfatb8XWqRTX6lRR8xFle0sNCJ+pL0JkIpH02OHldUKKDKTrCBxnWnT1DUlQWoT0aAbqSqQz/C3BWXfqweCWFnHHiCAFV1OJZXasPV3ME4GOq9eOBGHxTdeeKs2cW3ugGNmSkgHbMNKb4YJ/5i+5Y2dYjXUToVIQPdm1X9l3MvlqIU9kUfvRINTNknMfrRi/aF+VSX6AZ8tk8rexKCmseLyGDr693/fji0rnV8X9Zc/QLr7wmgHBDxG7OdBnK010ifnR13glQgyGi/dg1+kGNgu8lT6qjM84SV3ZgTFQkb0ZMs8UkIUNBzACQ/K6M8GN5zGp9++bDZRpww=;jtHgMZ313NejU8XOHBLO0A=="
 ---

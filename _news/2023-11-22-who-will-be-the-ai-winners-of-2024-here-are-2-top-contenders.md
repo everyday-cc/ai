@@ -22,6 +22,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "AI reporters are here, and they’re awful"
+    excerpt: "MSN recently experimented with journalistic content produced by AI. It didn’t go well. The site published inaccurate and cringy content. What should"
+    publishedDateTime: 2023-11-17T19:00:00Z
+    webUrl: "https://www.dallasnews.com/opinion/commentary/2023/11/18/ai-reporters-are-awful/"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 19
+
 secured: "eq0fP6MyU1RUzdouVyNdA7M6GSEBfeGOPxP557xArv4N83GAjxmhN8883FDno2JfmG6l5uTqak1VhcuZ3qFTnjAk/vhDPVx+U9NEbo/eKNLjX+eMAU6zF83eL0uQXK6/Q7chO4fkHO3z4y8MzZfH+NCckcZWH0M01IFxW5hQR5piMyEDcmqgaoIkDfgEY0LAr+gc/x+gjo4YcdF6cb6YkHbbU6Vm7HCgUF9xAJHoI5X1XRKYBJdHyeVOTwkTe9ZNUHuMdqiKLkJZOYca/DZ4onGbemRHz4Dc9kxEFjhTBDkQbyqKDzFzQrxKsuOMyG/iwEOak6im1/bJ/OVL514bMH4HRTpbP7ksuRrsJbjIPvQ=;0PxluAoUZvOTJnmggBmlpQ=="
 ---
 

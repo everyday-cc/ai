@@ -2,6 +2,49 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-10-25-adaptive-optical-neural-network-connects-thousands-of-artificial-neurons.md",
+      "title": "Adaptive optical neural network connects thousands of artificial neurons",
+      "excerpt": "What is needed for a neural network in machine learning are artificial neurons which are activated by external excitatory signals, and which have connections to other neurons. The connections ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231023124404.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231023124404.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T05:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-25-amazon-web-services-to-launch-aws-european-sovereign-cloud.md",
       "title": "Amazon Web Services to Launch AWS European Sovereign Cloud",
       "excerpt": "Telia uses AWS DeepRacer as part of its program to educate 2,000 staff on artificial intelligence and machine learning with AWS. “Telia Company welcomes the development of the AWS European ...",
@@ -13,11 +56,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T22:32:00-07:00",
+      "publishedDateTime": "2023-10-25T05:32:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -56,11 +99,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T21:59:00-07:00",
+      "publishedDateTime": "2023-10-25T04:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Android Authority",
@@ -107,11 +150,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/25/ai-created-child-sexual-abuse-images-threaten-overwhelm-internet",
-      "publishedDateTime": "2023-10-24T20:51:00-07:00",
+      "publishedDateTime": "2023-10-25T03:51:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -158,11 +201,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.bbc.com/news/business-67213134.amp",
       "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-67213134.amp",
-      "publishedDateTime": "2023-10-24T20:41:00-07:00",
+      "publishedDateTime": "2023-10-25T03:41:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -210,11 +253,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T17:28:00-07:00",
+      "publishedDateTime": "2023-10-25T00:28:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TweakTown",
@@ -254,11 +297,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T17:00:00-07:00",
+      "publishedDateTime": "2023-10-25T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "eWeek",
@@ -306,11 +349,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T17:00:00-07:00",
+      "publishedDateTime": "2023-10-25T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Medical News Today",
@@ -349,11 +392,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.digitaltrends.com/computing/lenovos-personal-ai-twin-gives-users-control-of-their-data/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/lenovos-personal-ai-twin-gives-users-control-of-their-data/?amp",
-      "publishedDateTime": "2023-10-24T15:04:00-07:00",
+      "publishedDateTime": "2023-10-24T22:04:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Trends",
@@ -391,11 +434,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T15:00:00-07:00",
+      "publishedDateTime": "2023-10-24T22:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Time",
@@ -443,11 +486,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true",
       "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/the-same-tech-used-in-driverless-cars-is-helping-public-works?_amp=true",
-      "publishedDateTime": "2023-10-24T15:00:00-07:00",
+      "publishedDateTime": "2023-10-24T22:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Government Technology",
@@ -486,11 +529,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
       "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
-      "publishedDateTime": "2023-10-24T14:31:00-07:00",
+      "publishedDateTime": "2023-10-24T21:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -538,11 +581,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/",
       "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ai-chip-wars-us-curbs-nvidia-gpu-chip-exports-sooner-than-expected/amp/",
-      "publishedDateTime": "2023-10-24T14:06:00-07:00",
+      "publishedDateTime": "2023-10-24T21:06:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -590,11 +633,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai",
-      "publishedDateTime": "2023-10-24T14:06:00-07:00",
+      "publishedDateTime": "2023-10-24T21:06:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -641,11 +684,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/insurance-fraud-artificial-intelligence-detection-2023-10?amp",
-      "publishedDateTime": "2023-10-24T13:56:00-07:00",
+      "publishedDateTime": "2023-10-24T20:56:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -693,11 +736,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T13:52:03-07:00",
+      "publishedDateTime": "2023-10-24T20:52:03Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -746,11 +789,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T13:25:00-07:00",
+      "publishedDateTime": "2023-10-24T20:25:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -797,11 +840,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vickisalemi/2023/10/24/heres-one-important-skill-hr-should-focus-on-with-generative-ai/amp/",
-      "publishedDateTime": "2023-10-24T13:01:00-07:00",
+      "publishedDateTime": "2023-10-24T20:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -849,11 +892,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T12:25:00-07:00",
+      "publishedDateTime": "2023-10-24T19:25:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -901,11 +944,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T12:12:00-07:00",
+      "publishedDateTime": "2023-10-24T19:12:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -943,11 +986,11 @@
       "heat": 79,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T11:30:00-07:00",
+      "publishedDateTime": "2023-10-24T18:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Robot Report",
@@ -986,11 +1029,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T11:00:00-07:00",
+      "publishedDateTime": "2023-10-24T18:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1039,11 +1082,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/24/ibm-extends-watsonx-governance--compliance-with-manta-acquisition/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/24/ibm-extends-watsonx-governance--compliance-with-manta-acquisition/amp/",
-      "publishedDateTime": "2023-10-24T10:08:00-07:00",
+      "publishedDateTime": "2023-10-24T17:08:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1091,11 +1134,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation",
-      "publishedDateTime": "2023-10-24T10:07:00-07:00",
+      "publishedDateTime": "2023-10-24T17:07:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -1134,11 +1177,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T10:02:00-07:00",
+      "publishedDateTime": "2023-10-24T17:02:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Bakersfield Californian",
@@ -1154,48 +1197,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-enterprise-managed-iam-an-sre-team-case-study.md",
-      "title": "Enterprise-managed IAM: An SRE team case study",
-      "excerpt": "How to easily and securely implement and manage an SRE team's access across an enterprise.\nThe post Enterprise-managed IAM: An SRE team case study appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/enterprise-managed-iam-an-sre-team-case-study/",
-      "originalUrl": "https://www.ibm.com/blog/enterprise-managed-iam-an-sre-team-case-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T09:25:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

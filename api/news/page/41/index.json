@@ -2,6 +2,58 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-10-19-levrai-powers-over-1000-small-businesses-with-its-finance-ecosystem.md",
+      "title": "Levr.ai powers over 1,000 small businesses with its finance ecosystem",
+      "excerpt": "Levr.ai, a trailblazing financial technology (fintech) company, is proud to continue its mission-driven commitment to revolutionize small",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/levr-ai-powers-over-1-000-small-businesses-with-its-finance-ecosystem-1032718795",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/levr-ai-powers-over-1-000-small-businesses-with-its-finance-ecosystem-1032718795",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/hRDRdnMaMyatndx4VvIkA5ajDjK2/1697642104195-0.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T07:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-north-korea-experiments-with-ai-in-cyber-warfare-us-official.md",
       "title": "North Korea experiments with AI in cyber warfare: US official",
       "excerpt": "North Korea is escalating its cyber capabilities by harnessing the power of artificial intelligence (AI), according to Deputy National Security Advisor Anne Neuberger.",
@@ -22,11 +74,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T23:50:00-07:00",
+      "publishedDateTime": "2023-10-19T06:50:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -73,11 +125,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1",
       "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1",
-      "publishedDateTime": "2023-10-18T22:44:00-07:00",
+      "publishedDateTime": "2023-10-19T05:44:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Zawya",
@@ -117,11 +169,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://dunyanews.tv/amp/english/763900.php",
       "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/763900.php",
-      "publishedDateTime": "2023-10-18T21:48:00-07:00",
+      "publishedDateTime": "2023-10-19T04:48:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Dunya News",
@@ -151,11 +203,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T19:04:00-07:00",
+      "publishedDateTime": "2023-10-19T02:04:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Search Engine Land",
@@ -194,11 +246,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.dailymail.co.uk/news/article-12647129/amp/Police-use-facial-recognition-technology-catch-prolific-shoplifters-state-art-identify-potential-suspects-just-60-seconds.html",
       "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12647129/amp/Police-use-facial-recognition-technology-catch-prolific-shoplifters-state-art-identify-potential-suspects-just-60-seconds.html",
-      "publishedDateTime": "2023-10-18T17:28:00-07:00",
+      "publishedDateTime": "2023-10-19T00:28:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Daily Mail",
@@ -237,11 +289,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T17:00:00-07:00",
+      "publishedDateTime": "2023-10-19T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "UNESCO",
@@ -272,11 +324,11 @@
       "heat": 136,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T17:00:00-07:00",
+      "publishedDateTime": "2023-10-19T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "DeepMind",
@@ -325,11 +377,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries/amp-11697632017638.html",
       "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries/amp-11697632017638.html",
-      "publishedDateTime": "2023-10-18T16:58:00-07:00",
+      "publishedDateTime": "2023-10-18T23:58:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Mint",
@@ -368,11 +420,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/18/nvidia-brings-generative-ai-compatibility-to-robotics-platforms/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/nvidia-brings-generative-ai-compatibility-to-robotics-platforms/amp/",
-      "publishedDateTime": "2023-10-18T16:58:00-07:00",
+      "publishedDateTime": "2023-10-18T23:58:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -420,11 +472,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T15:37:00-07:00",
+      "publishedDateTime": "2023-10-18T22:37:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -471,11 +523,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/18/after-50000-hours-this-ai-can-play-pokemon-red/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/after-50000-hours-this-ai-can-play-pokemon-red/amp/",
-      "publishedDateTime": "2023-10-18T15:17:00-07:00",
+      "publishedDateTime": "2023-10-18T22:17:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -523,11 +575,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T14:55:00-07:00",
+      "publishedDateTime": "2023-10-18T21:55:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -575,11 +627,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T14:16:00-07:00",
+      "publishedDateTime": "2023-10-18T21:16:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRepublic",
@@ -626,11 +678,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T13:57:00-07:00",
+      "publishedDateTime": "2023-10-18T20:57:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Biometric Companies",
@@ -669,11 +721,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T13:50:00-07:00",
+      "publishedDateTime": "2023-10-18T20:50:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -721,11 +773,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-is-finally-offering-free-drone-delivery-for-prescriptions/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-is-finally-offering-free-drone-delivery-for-prescriptions/",
-      "publishedDateTime": "2023-10-18T13:31:00-07:00",
+      "publishedDateTime": "2023-10-18T20:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -773,11 +825,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/amp/",
       "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/amp/",
-      "publishedDateTime": "2023-10-18T13:13:00-07:00",
+      "publishedDateTime": "2023-10-18T20:13:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -824,11 +876,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T12:47:00-07:00",
+      "publishedDateTime": "2023-10-18T19:47:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechSpot",
@@ -877,11 +929,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T11:03:00-07:00",
+      "publishedDateTime": "2023-10-18T18:03:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Morningstar",
@@ -911,11 +963,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T10:28:00-07:00",
+      "publishedDateTime": "2023-10-18T17:28:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "fx-markets",
@@ -954,11 +1006,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T10:25:00-07:00",
+      "publishedDateTime": "2023-10-18T17:25:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -1007,11 +1059,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/michaelgale/2023/10/18/what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelgale/2023/10/18/what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai/amp/",
-      "publishedDateTime": "2023-10-18T10:23:00-07:00",
+      "publishedDateTime": "2023-10-18T17:23:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1058,11 +1110,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T10:16:00-07:00",
+      "publishedDateTime": "2023-10-18T17:16:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -1110,11 +1162,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.infoworld.com/article/3708754/ai-impact-on-data-centers-will-be-massive-ocp-says.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708754/ai-impact-on-data-centers-will-be-massive-ocp-says.amp.html",
-      "publishedDateTime": "2023-10-18T10:00:00-07:00",
+      "publishedDateTime": "2023-10-18T17:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoWorld",
@@ -1137,58 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries.md",
-      "title": "Amazon Introducing Warehouse Overhaul With Robotics to Speed Deliveries",
-      "excerpt": "Amazon.com is introducing an array of new artificial intelligence and robotics capabilities into its warehouse operations that will reduce delivery times and help identify inventory more quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/tech/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries-40e3e65",
-      "originalUrl": "https://www.wsj.com/tech/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries-40e3e65",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-870484/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

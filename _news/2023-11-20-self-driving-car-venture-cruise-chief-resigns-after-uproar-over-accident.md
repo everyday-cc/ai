@@ -102,20 +102,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "CEO of self-driving Cruise out at GM"
-    excerpt: "General Motors' self-driving-car unit, Cruise, is going through leadership changes following the loss of permits and the pause of operations in California."
-    publishedDateTime: 2023-11-20T23:03:00Z
-    webUrl: "https://sjvsun.com/business/ceo-of-self-driving-cruise-out-at-gm/"
-    type: article
-    provider:
-      name: The San Joaquin Valley Sun
-      domain: sjvsun.com
-    quality: 24
-    images:
-      - url: "https://sjvsun.com/wp-content/uploads/2023/11/SUN-OG-_-Feat-162.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Cruise CEO resigns amid questions over self-driving vehicles"
     excerpt: "Kyle Vogt has resigned as chief executive officer of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars."
     publishedDateTime: 2023-11-21T07:52:00Z
@@ -147,14 +133,14 @@ related:
   - title: "Co-founder of GM's Self-Driving Unit Resigns Amid Safety Review"
     excerpt: "Dan Kan, a co-founder and senior executive of GM's self-driving unit Cruise, has resigned from the company. Kan's resignation comes just one day after Cruise CEO Kyle Vogt resigned from"
     publishedDateTime: 2023-11-21T20:15:00Z
-    webUrl: "https://www.romesentinel.com/ce/news/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_603f1da8-5d97-5fb1-a897-f3afc5d4b390.html"
+    webUrl: "https://www.djournal.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397.html"
     type: article
     provider:
-      name: Rome Sentinel
-      domain: romesentinel.com
+      name: Daily Journal
+      domain: djournal.com
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/romesentinel.com/content/tncms/assets/v3/editorial/6/03/603f1da8-5d97-5fb1-a897-f3afc5d4b390/655d299a217ed.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/2/cf/2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397/655d2c0e83f8b.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
         width: 720
         height: 378
         isCached: true

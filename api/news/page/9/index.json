@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-11-14-ovarian-cancer-artificial-intelligence-predicts-therapy-responses.md",
+      "title": "Ovarian cancer: Artificial intelligence predicts therapy responses",
+      "excerpt": "A model based on artificial intelligence is able to predict the therapy outcome (measured by volumetric reduction of tumor lesions) in 80% of ovarian cancer patients. The AI-based model has an accuracy of 80%,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-11-ovarian-cancer-artificial-intelligence-therapy.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-11-ovarian-cancer-artificial-intelligence-therapy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T16:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-on-thecube-pod-sizing-up-the-ai-pin-and-has-ibm-finally-gotten-it-right-with-watson.md",
       "title": "On theCUBE Pod: Sizing up the AI Pin and has IBM finally gotten it right with Watson?",
       "excerpt": "Generative artificial intelligence continues to be the subject captivating the technology world, and more seminal moments concerning the technology may have taken place this past week. On Thursday, Human Inc. unveiled its long-awaited AI-powered wearable, the $699 AI Pin.",
@@ -13,11 +47,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T08:26:00-08:00",
+      "publishedDateTime": "2023-11-13T16:26:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "SiliconANGLE",
@@ -47,11 +81,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T08:04:00-08:00",
+      "publishedDateTime": "2023-11-13T16:04:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Verge",
@@ -79,49 +113,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-13-artificial-intelligence-for-dummies.md",
-      "title": "Artificial intelligence for dummies",
-      "excerpt": "There has been great progress in narrow forms of artificial intelligence, like self-driving vehicles and automated legal systems, but the only threat they pose, if any, is to jobs. The “large ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/",
-      "originalUrl": "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdn-data.s3.amazonaws.com/uploads/2023/11/Britain-AI-Summit.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangor Daily News",
-        "domain": "bangordailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-13-sharechat-cofounders-raise-3-mn-for-their-robotics-startup-general-autonomy.md",
       "title": "Sharechat Cofounders Raise $3 Mn For Their Robotics Startup General Autonomy",
       "excerpt": "Sharechat cofounders Farid Ahsan and Bhanu Pratap Singh have raised $3 Mn in seed funding for their robotics startup General Autonomy.",
@@ -133,11 +124,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://inc42.com/buzz/sharechat-cofounders-raise-3-mn-for-their-robotics-startup-general-autonomy/amp/",
       "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/sharechat-cofounders-raise-3-mn-for-their-robotics-startup-general-autonomy/amp/",
-      "publishedDateTime": "2023-11-13T06:38:00-08:00",
+      "publishedDateTime": "2023-11-13T14:38:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "inc42",
@@ -167,11 +158,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T06:32:00-08:00",
+      "publishedDateTime": "2023-11-13T14:32:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "EurekAlert!",
@@ -201,11 +192,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T06:27:00-08:00",
+      "publishedDateTime": "2023-11-13T14:27:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -244,11 +235,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T05:28:00-08:00",
+      "publishedDateTime": "2023-11-13T13:28:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Economist",
@@ -278,11 +269,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T04:39:00-08:00",
+      "publishedDateTime": "2023-11-13T12:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -321,11 +312,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35745693",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35745693",
-      "publishedDateTime": "2023-11-13T03:30:00-08:00",
+      "publishedDateTime": "2023-11-13T11:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -355,11 +346,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T02:16:00-08:00",
+      "publishedDateTime": "2023-11-13T10:16:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "New Scientist",
@@ -389,11 +380,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T01:50:00-08:00",
+      "publishedDateTime": "2023-11-13T09:50:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "WFMZ-TV",
@@ -423,11 +414,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T01:45:00-08:00",
+      "publishedDateTime": "2023-11-13T09:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Impacts",
@@ -466,11 +457,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35748405",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35748405",
-      "publishedDateTime": "2023-11-13T00:32:00-08:00",
+      "publishedDateTime": "2023-11-13T08:32:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -500,11 +491,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T23:53:00-08:00",
+      "publishedDateTime": "2023-11-13T07:53:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "6abc News",
@@ -534,11 +525,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T23:37:00-08:00",
+      "publishedDateTime": "2023-11-13T07:37:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Victoria Advocate",
@@ -568,11 +559,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T23:20:00-08:00",
+      "publishedDateTime": "2023-11-13T07:20:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmochina",
@@ -611,11 +602,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T22:44:00-08:00",
+      "publishedDateTime": "2023-11-13T06:44:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Georgia Straight",
@@ -646,11 +637,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T20:56:00-08:00",
+      "publishedDateTime": "2023-11-13T04:56:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "thesiliconreview",
@@ -680,11 +671,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T18:06:00-08:00",
+      "publishedDateTime": "2023-11-13T02:06:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Inferse",
@@ -714,11 +705,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "publishedDateTime": "2023-11-12T23:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Geeky Gadgets",
@@ -748,11 +739,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "publishedDateTime": "2023-11-12T23:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Education Week",
@@ -791,11 +782,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "publishedDateTime": "2023-11-12T23:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "MD&M East",
@@ -812,6 +803,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-11-13-artificial-intelligence-for-dummies.md",
+      "title": "Artificial intelligence for dummies",
+      "excerpt": "There has been great progress in narrow forms of artificial intelligence, like self-driving vehicles and automated legal systems, but the only threat they pose, if any, is to jobs. The “large ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/",
+      "originalUrl": "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdn-data.s3.amazonaws.com/uploads/2023/11/Britain-AI-Summit.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangor Daily News",
+        "domain": "bangordailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -835,11 +869,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "publishedDateTime": "2023-11-12T23:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Hackaday",
@@ -869,11 +903,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "publishedDateTime": "2023-11-12T23:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -890,40 +924,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-the-future-of-artificial-intelligence.md",
-      "title": "The future of Artificial Intelligence",
-      "excerpt": "Artificial Intelligence (AI ... Burgeoning uses of AI Mention AI and the average consumer immediately thinks of self-driving cars or robots executing complex tasks flawlessly and autonomously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/25169/the-future-of-artificial-intelligence",
-      "originalUrl": "https://www.finextra.com/blogposting/25169/the-future-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

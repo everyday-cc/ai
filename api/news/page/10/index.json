@@ -2,6 +2,40 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-11-13-the-future-of-artificial-intelligence.md",
+      "title": "The future of Artificial Intelligence",
+      "excerpt": "Artificial Intelligence (AI ... Burgeoning uses of AI Mention AI and the average consumer immediately thinks of self-driving cars or robots executing complex tasks flawlessly and autonomously.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/25169/the-future-of-artificial-intelligence",
+      "originalUrl": "https://www.finextra.com/blogposting/25169/the-future-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-13-top-10-best-python-libraries-for-deep-learning-in-2023.md",
       "title": "Top 10 Best Python Libraries for Deep Learning in 2023",
       "excerpt": "Python is one of the most popular programming languages in the world, and it’s used extensively in the field of deep learning. Python’s versatility and ease of use make it an ideal language ...",
@@ -13,11 +47,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "publishedDateTime": "2023-11-12T23:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Georgia Straight",
@@ -47,11 +81,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "publishedDateTime": "2023-11-12T23:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "News Medical",
@@ -90,11 +124,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T13:00:00-08:00",
+      "publishedDateTime": "2023-11-12T21:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Mandarin",
@@ -124,11 +158,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T12:01:00-08:00",
+      "publishedDateTime": "2023-11-12T20:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Asia One",
@@ -159,11 +193,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T09:04:00-08:00",
+      "publishedDateTime": "2023-11-12T17:04:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "GeekWire",
@@ -211,11 +245,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.mlive.com/news/ann-arbor/2023/11/ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2023/11/ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.html?outputType=amp",
-      "publishedDateTime": "2023-11-12T09:00:00-08:00",
+      "publishedDateTime": "2023-11-12T17:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "MLive",
@@ -254,11 +288,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T08:12:00-08:00",
+      "publishedDateTime": "2023-11-12T16:12:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Inferse",
@@ -288,11 +322,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T05:59:00-08:00",
+      "publishedDateTime": "2023-11-12T13:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Cyprus Mail",
@@ -331,11 +365,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T03:59:00-08:00",
+      "publishedDateTime": "2023-11-12T11:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Impacts",
@@ -374,11 +408,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T01:05:00-08:00",
+      "publishedDateTime": "2023-11-12T09:05:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "GeekWire",
@@ -417,11 +451,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T22:25:00-08:00",
+      "publishedDateTime": "2023-11-12T06:25:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "NextBigFuture",
@@ -451,11 +485,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T17:42:00-08:00",
+      "publishedDateTime": "2023-11-12T01:42:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "imveurope.com",
@@ -485,11 +519,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T16:00:00-08:00",
+      "publishedDateTime": "2023-11-12T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Georgia Straight",
@@ -519,11 +553,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T08:35:00-08:00",
+      "publishedDateTime": "2023-11-11T16:35:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "SiliconANGLE",
@@ -553,11 +587,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T07:45:00-08:00",
+      "publishedDateTime": "2023-11-11T15:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "inforum",
@@ -587,11 +621,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T05:10:00-08:00",
+      "publishedDateTime": "2023-11-11T13:10:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "techxplore",
@@ -621,11 +655,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T02:31:00-08:00",
+      "publishedDateTime": "2023-11-11T10:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -664,11 +698,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T00:00:00-08:00",
+      "publishedDateTime": "2023-11-11T08:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -716,11 +750,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.livemint.com/ai/google-in-talks-for-a-major-investment-in-ai-start-up-characterai/amp-11699665159400.html",
       "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/google-in-talks-for-a-major-investment-in-ai-start-up-characterai/amp-11699665159400.html",
-      "publishedDateTime": "2023-11-10T17:47:00-08:00",
+      "publishedDateTime": "2023-11-11T01:47:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Mint",
@@ -749,11 +783,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T16:00:00-08:00",
+      "publishedDateTime": "2023-11-11T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Hackaday",
@@ -783,11 +817,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T16:00:00-08:00",
+      "publishedDateTime": "2023-11-11T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "EurekAlert!",
@@ -826,11 +860,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T14:45:00-08:00",
+      "publishedDateTime": "2023-11-10T22:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -877,11 +911,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T14:29:00-08:00",
+      "publishedDateTime": "2023-11-10T22:29:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Fortune",
@@ -929,11 +963,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/aws?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/aws?amp",
-      "publishedDateTime": "2023-11-10T13:19:00-08:00",
+      "publishedDateTime": "2023-11-10T21:19:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -958,48 +992,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-how-to-implement-enterprise-resource-planning-erp.md",
-      "title": "How to implement enterprise resource planning (ERP)",
-      "excerpt": "To benefit from ERP adoption, the system must be deployed properly and efficiently. Here are six steps to successfully implement ERP.\nThe post How to implement enterprise resource planning (ERP) appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/enterprise-resource-planning-implementation/",
-      "originalUrl": "https://www.ibm.com/blog/enterprise-resource-planning-implementation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T12:57:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -8,8 +8,8 @@ webUrl: "https://breakingdefense.com/2023/11/ai-for-five-eyes-new-bill-pushes-ai
 ampWebUrl: "https://breakingdefense.com/2023/11/ai-for-five-eyes-new-bill-pushes-ai-collaboration-with-uk-australia-canada-new-zealand/?amp=1"
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2023/11/ai-for-five-eyes-new-bill-pushes-ai-collaboration-with-uk-australia-canada-new-zealand/?amp=1"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://sites.breakingmedia.com/uploads/sites/3/2023/11/231121_five_eyes_cyber_GFX.png"
@@ -25,6 +26,6 @@ images:
     height: 450
     isCached: true
 
-secured: "TQTkkVfZD7vR+sDaDt8u+W000/o0DfOXYAY8E2UkB6gPXb4dYtQWpmLvN6kZQO9CgHsaYxUt5QfC57LWxkKXSvSpobAyC+SXa0zp+V+sqETZJ9FHLqfi0x3y9dg7KWy6ymW22Uo5fndZTAzbmnCRv8TAk67OexWBVe6TmGPaOoRuTBZ7lSXQjcb0RtAxL907Krv/nJxWHwX+9QTo6jRfFbkNGIMsjSuzQygdm7/uotwSS0IPeGZP/wNt32S83+ugvr3KhvgQY3UWXZuLfN/aztXDjYNk/s3cgAcH73m8FX83iV83rAH/p0H+PFB6A1+OWQ2q8ACdLswwEhhSdqwDWYJEs2CxkF6rcjbiQ1YVV7s=;0Hp9ChK605eVuumLhRC7Tg=="
+secured: "8Em2PtVmCziDN6iETWynXEGtkSKoKhgXzfKWsPvjpGjUNPwuIlYRsv6hX6OWFMa5mXHZsZHNzLBskiPM92Qwte7cgLBfd+CS0NxbOVt/1KudaosZOe6+Up1040GA7IcIeLYOdxnn2a2FzJ/Cjf/vFE3ZemtYkQ5VqsmVOt4BSlv67vM/I/sKbUngS1zp71VOjwC5gIx0nIx0BDqN/VOTKqbeFSsRKgpcymjEqy5AhjkpUs/mMxd7DTha3BdqoLY1oJEI9OnY5QRxhUuU79+WsS41NrLCxGw2QMyFpdeUJGgA24kMADOpNs7dpdXpFum502yy+AxAtwgR2tQfTO1nW5TQ3MnSFsuHFoHX0HlJItI/1pNHrHJkjj5crp5UgoWF3HOfKguaFVAtA1SJ/FYjPsWmq3yeWEjdrwitjCn2cARoArN7+mQR82BftqHAGgXd8CT3Zofa/qtJ8MwRkrDVGgbPLMgS6IYU3K0ONdgnR6wDZwSs8uVRto3L83UbDWWqOGJTaeIpTY9RfGVhKecqFA==;XdTeo2qKSAi8tJiD9lu/0Q=="
 ---
 

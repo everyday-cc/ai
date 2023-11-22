@@ -24,6 +24,22 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "An Arduino With Better Speech Recognition Than Siri"
+    excerpt: "The lowly Arduino, an 8-bit AVR microcontroller with a pitiful amount of RAM, terribly small Flash storage space, and effectively no peripherals to speak of, has better speech recognition ..."
+    publishedDateTime: 2023-11-22T00:00:00Z
+    webUrl: "https://hackaday.com/2013/12/31/an-arduino-with-better-speech-recognition-than-siri/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "http://img.youtube.com/vi/xpJXD2z8eWs/0.jpg"
+        width: 480
+        height: 360
+        isCached: true
+
 secured: "V7zFulWPj1gCepFjCjdUUp0U3nfgIoMvKo43gWbGUAJi/Cn6haJ7SNaNFb04YEoT8vFzGVyhFoZlj5buhHllXcJZbPxRcPBOfoNl45V4Jdk1Oyq6SoROepyE615P+ECkvKjYaIbp1a5xtlKHLricRaJLM2XB+eaUEXvxO94NxNrSZwGXtRiwjL4I5IbvcMwKbM2EUuzUBS/ZpqDnalH6OZn1Yh0qvVQQ01dIGQfK0NLtP/DJy2FDeQGprgt3f7maNevFgcB9cH6lHESBxzMECp7oTMJgEzYIDIJSm8iEpD5ZHkh5ourO8QQm2a+vPg4CJbLiSL+9TRS7UKX9NajJpg30SL4zKykO7fbXZtVecJk=;TA3yXs0ZQKeLZM3LmM3dhQ=="
 ---
 

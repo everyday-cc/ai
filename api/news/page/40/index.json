@@ -2,6 +2,58 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-10-19-harnessing-ai-to-take-competitor-analysis-to-the-next-level.md",
+      "title": "Harnessing AI To Take Competitor Analysis To The Next Level",
+      "excerpt": "Recent advances in AI present transformative new capabilities for streamlining and enhancing competitor analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652ff4358de9dfa9761ca6a8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/",
+      "publishedDateTime": "2023-10-19T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-new-global-ai-council-pioneers-insights-to-shape-the-future-of-artificial-intelligence.md",
       "title": "New Global AI Council Pioneers Insights To Shape The Future Of Artificial Intelligence",
       "excerpt": "AI is all the buzz lately — and for good reason. With AI technology changing the way we think, work, and play, it is no wonder everyone is talking about it.",
@@ -22,11 +74,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/10/19/new-global-ai-council-pioneers-insights-to-shape-the-future-of-artificial-intelligence/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/19/new-global-ai-council-pioneers-insights-to-shape-the-future-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-10-19T07:00:00-07:00",
+      "publishedDateTime": "2023-10-19T14:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -74,11 +126,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T06:40:00-07:00",
+      "publishedDateTime": "2023-10-19T13:40:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Houston Herald",
@@ -117,11 +169,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T06:30:00-07:00",
+      "publishedDateTime": "2023-10-19T13:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmochina",
@@ -169,11 +221,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.bbc.com/news/uk-england-london-67149222.amp",
       "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-67149222.amp",
-      "publishedDateTime": "2023-10-19T06:27:00-07:00",
+      "publishedDateTime": "2023-10-19T13:27:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -212,11 +264,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T06:22:00-07:00",
+      "publishedDateTime": "2023-10-19T13:22:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -255,11 +307,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T06:12:00-07:00",
+      "publishedDateTime": "2023-10-19T13:12:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Le Lézard",
@@ -289,11 +341,11 @@
       "heat": 114,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T06:00:00-07:00",
+      "publishedDateTime": "2023-10-19T13:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -341,11 +393,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T05:30:00-07:00",
+      "publishedDateTime": "2023-10-19T12:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "cancerhealth",
@@ -384,11 +436,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T05:02:00-07:00",
+      "publishedDateTime": "2023-10-19T12:02:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Daily News",
@@ -427,11 +479,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.barrons.com/amp/news/ai-models-lack-transparency-research-13234812",
       "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-models-lack-transparency-research-13234812",
-      "publishedDateTime": "2023-10-19T04:46:00-07:00",
+      "publishedDateTime": "2023-10-19T11:46:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Barron's",
@@ -470,11 +522,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/amp/",
-      "publishedDateTime": "2023-10-19T04:45:00-07:00",
+      "publishedDateTime": "2023-10-19T11:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -522,11 +574,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a-new-era-of-problems-for-ai-and-ml-models/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a-new-era-of-problems-for-ai-and-ml-models/amp/",
-      "publishedDateTime": "2023-10-19T04:15:00-07:00",
+      "publishedDateTime": "2023-10-19T11:15:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -565,11 +617,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T03:50:00-07:00",
+      "publishedDateTime": "2023-10-19T10:50:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Boston Globe",
@@ -599,11 +651,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T03:42:00-07:00",
+      "publishedDateTime": "2023-10-19T10:42:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Evansville Courier & Press",
@@ -642,11 +694,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.huffpost.com/entry/fugees-rapper-case-ai_n_653105c6e4b00565b623000d/amp",
       "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/fugees-rapper-case-ai_n_653105c6e4b00565b623000d/amp",
-      "publishedDateTime": "2023-10-19T03:37:00-07:00",
+      "publishedDateTime": "2023-10-19T10:37:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "HuffPost",
@@ -684,11 +736,11 @@
       "heat": 82,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T03:30:00-07:00",
+      "publishedDateTime": "2023-10-19T10:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -726,11 +778,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T03:12:00-07:00",
+      "publishedDateTime": "2023-10-19T10:12:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "itsecuritywire",
@@ -769,11 +821,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2023/10/19/uk-privacy-watchdog-cant-sanction-clearview-ai-tribunal-rules/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/10/19/uk-privacy-watchdog-cant-sanction-clearview-ai-tribunal-rules/amp/",
-      "publishedDateTime": "2023-10-19T03:12:00-07:00",
+      "publishedDateTime": "2023-10-19T10:12:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -820,11 +872,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-image-detector/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-image-detector/?amp",
-      "publishedDateTime": "2023-10-19T03:04:00-07:00",
+      "publishedDateTime": "2023-10-19T10:04:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Trends",
@@ -862,11 +914,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T02:42:00-07:00",
+      "publishedDateTime": "2023-10-19T09:42:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Independent",
@@ -905,11 +957,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T02:00:00-07:00",
+      "publishedDateTime": "2023-10-19T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -956,11 +1008,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.technologyreview.com/2023/10/19/1081974/meta-realeyes-artificial-intelligence-hollywood-actors-strike/amp/",
       "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/19/1081974/meta-realeyes-artificial-intelligence-hollywood-actors-strike/amp/",
-      "publishedDateTime": "2023-10-19T02:00:00-07:00",
+      "publishedDateTime": "2023-10-19T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "MIT Technology Review",
@@ -998,11 +1050,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.networkworld.com/article/3709049/startup-airgap-networks-brings-telco-technologies-to-the-lan.amp.html",
       "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3709049/startup-airgap-networks-brings-telco-technologies-to-the-lan.amp.html",
-      "publishedDateTime": "2023-10-19T02:00:00-07:00",
+      "publishedDateTime": "2023-10-19T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Network World",
@@ -1032,11 +1084,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T01:08:00-07:00",
+      "publishedDateTime": "2023-10-19T08:08:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Finanznachrichten",
@@ -1051,58 +1103,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-levrai-powers-over-1000-small-businesses-with-its-finance-ecosystem.md",
-      "title": "Levr.ai powers over 1,000 small businesses with its finance ecosystem",
-      "excerpt": "Levr.ai, a trailblazing financial technology (fintech) company, is proud to continue its mission-driven commitment to revolutionize small",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/levr-ai-powers-over-1-000-small-businesses-with-its-finance-ecosystem-1032718795",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/levr-ai-powers-over-1-000-small-businesses-with-its-finance-ecosystem-1032718795",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/hRDRdnMaMyatndx4VvIkA5ajDjK2/1697642104195-0.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

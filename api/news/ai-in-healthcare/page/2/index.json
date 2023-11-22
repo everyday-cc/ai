@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-11-01-meeting-looks-at-music-intelligence.md",
-      "title": "Meeting looks at music intelligence",
-      "excerpt": "Li Xiaobing, executive director of the concert and head of the music AI and information technology department of the Central Conservatory of Music. [Photo provided to China Daily] The Second Summit on Music Intelligence was launched in Beijing on Saturday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202311/01/WS6541c793a31090682a5ebdca_1.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202311/01/WS6541c793a31090682a5ebdca_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202311/01/6541c793a3109068caff34a4.jpeg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-01-va-to-launch-artificial-intelligence-contest-to-help-health-care-staff.md",
       "title": "VA to launch artificial intelligence contest to help health care staff",
       "excerpt": "(Evan Vucci/AP) Veterans Affairs leaders will launch a $1 million competition focused on artificial intelligence solutions to preventing burnout among department health care workers as part of the ...",
@@ -65,11 +22,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T11:12:00-07:00",
+      "publishedDateTime": "2023-10-31T18:12:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Military Times",
@@ -99,11 +56,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T08:23:00-07:00",
+      "publishedDateTime": "2023-10-31T15:23:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Nairametrics",
@@ -133,11 +90,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T19:48:00-07:00",
+      "publishedDateTime": "2023-10-31T02:48:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Mena FN",
@@ -167,11 +124,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T15:38:00-07:00",
+      "publishedDateTime": "2023-10-30T22:38:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Kashmir Reader",
@@ -202,11 +159,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://abc7news.com/amp/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
       "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
-      "publishedDateTime": "2023-10-30T03:58:00-07:00",
+      "publishedDateTime": "2023-10-30T10:58:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC7 San Francisco",
@@ -245,11 +202,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/paulhsieh/2023/10/29/3-ways-artificial-intelligence-can-predict-disease-and-improve-treatment/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/10/29/3-ways-artificial-intelligence-can-predict-disease-and-improve-treatment/amp/",
-      "publishedDateTime": "2023-10-29T09:33:00-07:00",
+      "publishedDateTime": "2023-10-29T16:33:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -297,11 +254,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/10/29/using-artificial-intelligence-to-predict-individual-health-outcomes/amp/",
-      "publishedDateTime": "2023-10-29T09:33:00-07:00",
+      "publishedDateTime": "2023-10-29T16:33:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -349,11 +306,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
       "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
-      "publishedDateTime": "2023-10-29T02:38:00-07:00",
+      "publishedDateTime": "2023-10-29T09:38:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Medindia",
@@ -392,11 +349,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_126e8a3e-6786-5234-aa2a-02203cee4c57.amp.html",
       "cdnAmpWebUrl": "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/pennsylvania/news/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_126e8a3e-6786-5234-aa2a-02203cee4c57.amp.html",
-      "publishedDateTime": "2023-10-29T02:30:00-07:00",
+      "publishedDateTime": "2023-10-29T09:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Daily Item",
@@ -435,11 +392,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-about-artificial-intelligence/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-10-27T12:26:00-07:00",
+      "publishedDateTime": "2023-10-27T19:26:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -487,11 +444,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp",
       "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp",
-      "publishedDateTime": "2023-10-26T13:54:00-07:00",
+      "publishedDateTime": "2023-10-26T20:54:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Medical Xpress",
@@ -530,11 +487,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T22:12:00-07:00",
+      "publishedDateTime": "2023-10-26T05:12:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Mena FN",
@@ -573,11 +530,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
       "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-up-amid-uneven-earnings-health-care-roundup-501ca19e",
-      "publishedDateTime": "2023-10-24T14:31:00-07:00",
+      "publishedDateTime": "2023-10-24T21:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -625,11 +582,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/amp/",
-      "publishedDateTime": "2023-10-24T07:00:00-07:00",
+      "publishedDateTime": "2023-10-24T14:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -677,11 +634,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T06:51:00-07:00",
+      "publishedDateTime": "2023-10-24T13:51:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Next Web",
@@ -720,11 +677,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T00:51:00-07:00",
+      "publishedDateTime": "2023-10-24T07:51:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Insider Monkey",
@@ -763,11 +720,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T16:59:00-07:00",
+      "publishedDateTime": "2023-10-23T23:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Beth Israel Deaconess Medical Center",
@@ -807,11 +764,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2023/10/22/1_6612292.amp.html",
       "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2023/10/22/1_6612292.amp.html",
-      "publishedDateTime": "2023-10-22T15:52:00-07:00",
+      "publishedDateTime": "2023-10-22T22:52:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "CTV News",
@@ -841,11 +798,11 @@
       "heat": 72,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-22T14:28:00-07:00",
+      "publishedDateTime": "2023-10-22T21:28:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Science Daily",
@@ -894,11 +851,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/",
       "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/",
-      "publishedDateTime": "2023-10-22T02:31:00-07:00",
+      "publishedDateTime": "2023-10-22T09:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Financial Express",
@@ -938,11 +895,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-21T17:00:00-07:00",
+      "publishedDateTime": "2023-10-22T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Border Mail",
@@ -981,11 +938,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.bbc.com/news/uk-wales-67171042.amp",
       "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp",
-      "publishedDateTime": "2023-10-20T15:01:00-07:00",
+      "publishedDateTime": "2023-10-20T22:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -1033,11 +990,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.ktvu.com/news/ai-used-in-healthcare-could-amplify-racial-bias-in-medicine-new-study-says.amp",
       "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/ai-used-in-healthcare-could-amplify-racial-bias-in-medicine-new-study-says.amp",
-      "publishedDateTime": "2023-10-20T13:06:00-07:00",
+      "publishedDateTime": "2023-10-20T20:06:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "KTVU",
@@ -1076,11 +1033,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/10/19/new-global-ai-council-pioneers-insights-to-shape-the-future-of-artificial-intelligence/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/19/new-global-ai-council-pioneers-insights-to-shape-the-future-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-10-19T07:00:00-07:00",
+      "publishedDateTime": "2023-10-19T14:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1128,11 +1085,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T06:12:00-07:00",
+      "publishedDateTime": "2023-10-19T13:12:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Le Lézard",
@@ -1171,11 +1128,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/",
-      "publishedDateTime": "2023-10-18T07:43:00-07:00",
+      "publishedDateTime": "2023-10-18T14:43:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1223,11 +1180,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T17:42:00-07:00",
+      "publishedDateTime": "2023-10-18T00:42:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Sun Sentinel",
@@ -1266,11 +1223,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/amp/",
-      "publishedDateTime": "2023-10-17T08:20:00-07:00",
+      "publishedDateTime": "2023-10-17T15:20:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1309,11 +1266,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T17:00:00-07:00",
+      "publishedDateTime": "2023-10-17T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Medical News Today",
@@ -1330,6 +1287,50 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-sharp-healthcare-creates-ai-assistant.md",
+      "title": "Sharp Healthcare creates AI assistant",
+      "excerpt": "Sharp Healthcare, based in San Diego, has created its own AI assistant, SharpAI, to support operational staff.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/digital-health/sharp-healthcare-creates-ai-assistant.html",
+      "originalUrl": "https://www.beckershospitalreview.com/digital-health/sharp-healthcare-creates-ai-assistant.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T21:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

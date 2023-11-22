@@ -2,6 +2,59 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2023-10-26-how-to-match-images-using-delf-and-tensorflow-hub.md",
+      "title": "How to match images using DELF and TensorFlow Hub",
+      "excerpt": "TensorFlow Hub (TF-Hub) is a platform to share machine learning expertise packaged in reusable resources, notably pre-trained modules. In this colab, we will use a module that packages the DELF neural network and logic for processing images to identify ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/hub/tutorials/tf_hub_delf_module",
+      "originalUrl": "https://www.tensorflow.org/hub/tutorials/tf_hub_delf_module",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-hub-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T08:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-revolutionizing-accounts-payable-automation-gravity-software-unveils-cutting-edge-ai-technology-powered-by-microsofts-cognitive-services-ai.md",
       "title": "Revolutionizing Accounts Payable Automation: Gravity Software Unveils Cutting-Edge AI Technology Powered by Microsoft's Cognitive Services AI Engine",
       "excerpt": "This transformative solution uses the Microsoft Cognitive Services AI engine to convert PDFs of vendor bills into Gravity Vouchers, significantly reducing the need for manual data entry or ...",
@@ -13,11 +66,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T00:08:00-07:00",
+      "publishedDateTime": "2023-10-26T07:08:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Victoria Advocate",
@@ -56,11 +109,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361933",
       "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361933",
-      "publishedDateTime": "2023-10-25T23:59:00-07:00",
+      "publishedDateTime": "2023-10-26T06:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Korea Times",
@@ -100,11 +153,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T23:04:00-07:00",
+      "publishedDateTime": "2023-10-26T06:04:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "New Atlas",
@@ -152,11 +205,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T22:31:00-07:00",
+      "publishedDateTime": "2023-10-26T05:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Longview News-Journal",
@@ -195,11 +248,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T22:12:00-07:00",
+      "publishedDateTime": "2023-10-26T05:12:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Mena FN",
@@ -238,11 +291,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/amp/",
-      "publishedDateTime": "2023-10-25T22:01:00-07:00",
+      "publishedDateTime": "2023-10-26T05:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -289,11 +342,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T21:41:00-07:00",
+      "publishedDateTime": "2023-10-26T04:41:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -340,11 +393,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar?amp",
       "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar?amp",
-      "publishedDateTime": "2023-10-25T21:40:00-07:00",
+      "publishedDateTime": "2023-10-26T04:40:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "devdiscourse",
@@ -382,11 +435,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://createdigital.org.au/ai-timber-turtle-robot-three-tech-developments/amp/",
       "cdnAmpWebUrl": "https://createdigital-org-au.cdn.ampproject.org/c/s/createdigital.org.au/ai-timber-turtle-robot-three-tech-developments/amp/",
-      "publishedDateTime": "2023-10-25T21:04:00-07:00",
+      "publishedDateTime": "2023-10-26T04:04:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "createdigital",
@@ -425,11 +478,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.moneycontrol.com/news/business/exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley-11599711.html/amp",
       "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley-11599711.html/amp",
-      "publishedDateTime": "2023-10-25T19:48:00-07:00",
+      "publishedDateTime": "2023-10-26T02:48:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "moneycontrol.com",
@@ -468,11 +521,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T16:41:00-07:00",
+      "publishedDateTime": "2023-10-25T23:41:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -519,11 +572,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/25/amd-korean-telco-kt-among-backers-in-ai-software-developer-moreh-in-22m-series-b/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/amd-korean-telco-kt-among-backers-in-ai-software-developer-moreh-in-22m-series-b/amp/",
-      "publishedDateTime": "2023-10-25T16:30:00-07:00",
+      "publishedDateTime": "2023-10-25T23:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -571,11 +624,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.govtech.com/education/higher-ed/northwestern-universitys-ai-designs-a-new-robot-in-seconds?_amp=true",
       "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/northwestern-universitys-ai-designs-a-new-robot-in-seconds?_amp=true",
-      "publishedDateTime": "2023-10-25T15:57:00-07:00",
+      "publishedDateTime": "2023-10-25T22:57:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Government Technology",
@@ -614,11 +667,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T15:38:00-07:00",
+      "publishedDateTime": "2023-10-25T22:38:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",
@@ -668,11 +721,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/10/25/how-ai-and-blockchain-are-fighting-counterfeiting-in-the-luxury-market/amp/",
-      "publishedDateTime": "2023-10-25T14:46:00-07:00",
+      "publishedDateTime": "2023-10-25T21:46:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -720,11 +773,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecenizalevine/2023/10/25/ai-is-in-the-workplace-more-than-employees-know/amp/",
-      "publishedDateTime": "2023-10-25T14:31:00-07:00",
+      "publishedDateTime": "2023-10-25T21:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -762,11 +815,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T14:30:00-07:00",
+      "publishedDateTime": "2023-10-25T21:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Daily Telegraph",
@@ -805,11 +858,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/25/youtrip-lightspeed/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/youtrip-lightspeed/amp/",
-      "publishedDateTime": "2023-10-25T14:22:00-07:00",
+      "publishedDateTime": "2023-10-25T21:22:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -857,11 +910,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/amp/",
       "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/amp/",
-      "publishedDateTime": "2023-10-25T14:22:00-07:00",
+      "publishedDateTime": "2023-10-25T21:22:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -908,11 +961,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/amp/",
-      "publishedDateTime": "2023-10-25T14:15:00-07:00",
+      "publishedDateTime": "2023-10-25T21:15:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -959,11 +1012,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/25/ai-dangers-must-be-faced-head-on-rishi-sunak-to-tell-tech-summit",
-      "publishedDateTime": "2023-10-25T13:30:00-07:00",
+      "publishedDateTime": "2023-10-25T20:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -1001,11 +1054,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T12:15:00-07:00",
+      "publishedDateTime": "2023-10-25T19:15:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -1044,11 +1097,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T12:13:00-07:00",
+      "publishedDateTime": "2023-10-25T19:13:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -1086,11 +1139,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T12:02:00-07:00",
+      "publishedDateTime": "2023-10-25T19:02:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "MediaPost",
@@ -1105,49 +1158,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-smart-glasses-developed-that-can-help-blind-people-recognize-objects.md",
-      "title": "'Smart Glasses' Developed That Can Help Blind People Recognize Objects",
-      "excerpt": "For example, such a system may describe the name of a given object and its direction in the environment. They may also come with features such as voice recognition control for internet searches or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/smart-glasses-help-blind-people-recognize-objects-1837042",
-      "originalUrl": "https://www.newsweek.com/smart-glasses-help-blind-people-recognize-objects-1837042",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

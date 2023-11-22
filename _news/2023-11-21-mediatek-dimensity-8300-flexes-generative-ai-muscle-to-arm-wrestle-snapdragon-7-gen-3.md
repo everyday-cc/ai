@@ -62,6 +62,15 @@ related:
         width: 1920
         height: 1079
         isCached: true
+  - title: "New purpose-designed chips poised to boost generative AI development"
+    excerpt: "Driven by the need for even more powerful hardware, NVIDIA just announced a brand new chip dedicated to AI, the H200. The new H200s are designed to cut AI processing times by as much as 50% or more, while also reducing power consumption."
+    publishedDateTime: 2023-11-17T19:31:00Z
+    webUrl: "https://www.nextgov.com/ideas/2023/11/new-purpose-designed-chips-poised-boost-generative-ai-development/392123/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 34
 
 secured: "66Gx133clIutbca0oCRQn5pTtMsto5rc8bxjAq2Bs592av8S7gqN1bHI7yONZt8HG9OZxcH+VYgYBUC+OmA6nY4kqE/oQfWR6vugG9AR1S9Fo3bqUHfL+P7CSk9GNPntmgqSWDVKrb+GYaLiLy8rGsdaBrtMxqsmxU8Zol55vQYZq4txS1RhjxqA5aOy5kEFj8INbRwrgJE1aSNo3EEfAgwaCf+beA4QJCYIRTlAocmj85kjelBTBLGyV5s6QPqULr2j0/XpM5yWLPUiFvhFTlMDOMlGkaYHj1zKdOoWppCyWrKAia/QNoIkOyfYh8Wgw/23h/am4GZrs8Nhbl9n2wld5w5hWDopw6Aog2j6fqm3iGmz8tct4JyPNCeJRxoCurq9Ic5oGoKdN/sbFOQNh4JqAqrowdHkuRpOqd4bTAa6RsesUQfNPW/K9HuntQ5LRRxCa0iGbdBbh6lbmrUNnyOPwxN4Ifpbh0j02h+4k0crKs/cIqTvyGyENGwEuYL2Qxk4L33OCyjrTtgQug/PDQ==;2HGrOCjy8apSTIMpYaa9zQ=="
 ---

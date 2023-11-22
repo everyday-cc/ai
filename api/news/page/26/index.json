@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-10-30-crypto-billionaires-nonprofit-buys-500-million-of-ai-data-center-chips.md",
+      "title": "Crypto billionaire's nonprofit buys $500 million of AI data center chips",
+      "excerpt": "A nonprofit organization funded by cryptocurrency billionaire Jed McCaleb bought roughly $500 million of Nvidia advanced chips and plans to lease computing capacity to companies for artificial intelligence projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/crypto-billionaires-nonprofit-buys-500-million-ai-data-center-chips-3883676",
+      "originalUrl": "https://www.channelnewsasia.com/business/crypto-billionaires-nonprofit-buys-500-million-ai-data-center-chips-3883676",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--Q8hbpKM3--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-30t140531z_1_lynxmpej9t0gx_rtroptp_3_nvidia-microsoft-ai-cloud.jpg?itok=zq3XEe3q",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T14:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-30-why-artificial-intelligence-ai-stocks-meta-platforms-amazon-and-alphabet-rallied-monday-morning.md",
       "title": "Why Artificial Intelligence (AI) Stocks Meta Platforms, Amazon, and Alphabet Rallied Monday Morning",
       "excerpt": "AI stocks have been at the forefront of the 2023 ... according to semiconductor research company SemiAnalysis. Pichai said Google plans to deploy Gemini \"immediately across all our products ...",
@@ -22,11 +65,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T07:02:00-07:00",
+      "publishedDateTime": "2023-10-30T14:02:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -74,11 +117,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/10/30/tech-leaders-will-boost-ops-to-grow-with-ai-in-2024/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/30/tech-leaders-will-boost-ops-to-grow-with-ai-in-2024/amp/",
-      "publishedDateTime": "2023-10-30T07:01:00-07:00",
+      "publishedDateTime": "2023-10-30T14:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -125,11 +168,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T06:58:00-07:00",
+      "publishedDateTime": "2023-10-30T13:58:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmochina",
@@ -177,11 +220,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/from-gut-feel-to-data-driven-decisions-how-machine-learning-can-inform-investment-priorities-for-ctos/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/30/from-gut-feel-to-data-driven-decisions-how-machine-learning-can-inform-investment-priorities-for-ctos/amp/",
-      "publishedDateTime": "2023-10-30T06:45:00-07:00",
+      "publishedDateTime": "2023-10-30T13:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -231,11 +274,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/navigating-the-shadows-a-strategic-approach-to-managing-dark-data/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/30/navigating-the-shadows-a-strategic-approach-to-managing-dark-data/amp/",
-      "publishedDateTime": "2023-10-30T06:00:00-07:00",
+      "publishedDateTime": "2023-10-30T13:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -284,11 +327,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/30/succeeding-in-a-crowded-ai-market-takes-a-thoughtful-approach/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/10/30/succeeding-in-a-crowded-ai-market-takes-a-thoughtful-approach/amp/",
-      "publishedDateTime": "2023-10-30T04:30:00-07:00",
+      "publishedDateTime": "2023-10-30T11:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -326,11 +369,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://abc7news.com/amp/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
       "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
-      "publishedDateTime": "2023-10-30T03:58:00-07:00",
+      "publishedDateTime": "2023-10-30T10:58:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC7 San Francisco",
@@ -369,11 +412,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://diginomica.com/uk-ai-safety-summit-diginomica-preview?amp",
       "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/uk-ai-safety-summit-diginomica-preview?amp",
-      "publishedDateTime": "2023-10-30T03:32:00-07:00",
+      "publishedDateTime": "2023-10-30T10:32:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Diginomica",
@@ -413,11 +456,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp",
       "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp",
-      "publishedDateTime": "2023-10-30T02:52:00-07:00",
+      "publishedDateTime": "2023-10-30T09:52:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Zee Business",
@@ -456,11 +499,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.moneycontrol.com/news/business/lenskart-acquires-ai-led-computer-vision-startup-tango-eye-11625031.html/amp",
       "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/lenskart-acquires-ai-led-computer-vision-startup-tango-eye-11625031.html/amp",
-      "publishedDateTime": "2023-10-30T02:02:00-07:00",
+      "publishedDateTime": "2023-10-30T09:02:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "moneycontrol.com",
@@ -490,11 +533,11 @@
       "heat": 76,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T02:00:00-07:00",
+      "publishedDateTime": "2023-10-30T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -532,11 +575,11 @@
       "heat": 82,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T02:00:00-07:00",
+      "publishedDateTime": "2023-10-30T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -574,11 +617,11 @@
       "heat": 145,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T02:00:00-07:00",
+      "publishedDateTime": "2023-10-30T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -627,11 +670,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T02:00:00-07:00",
+      "publishedDateTime": "2023-10-30T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Journal-News",
@@ -670,11 +713,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.amp.html",
-      "publishedDateTime": "2023-10-30T02:00:00-07:00",
+      "publishedDateTime": "2023-10-30T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoWorld",
@@ -722,11 +765,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T01:35:00-07:00",
+      "publishedDateTime": "2023-10-30T08:35:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -773,11 +816,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/10/30/what-are-good-ai-governance-practices-and-ai-ethics-sources-3/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/30/what-are-good-ai-governance-practices-and-ai-ethics-sources-3/amp/",
-      "publishedDateTime": "2023-10-30T01:14:00-07:00",
+      "publishedDateTime": "2023-10-30T08:14:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -816,11 +859,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T00:59:00-07:00",
+      "publishedDateTime": "2023-10-30T07:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "cnbctv18",
@@ -859,11 +902,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T00:37:00-07:00",
+      "publishedDateTime": "2023-10-30T07:37:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Mena FN",
@@ -902,11 +945,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.cnbc.com/amp/2023/10/30/biden-unveils-us-governments-first-ever-ai-executive-order.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/30/biden-unveils-us-governments-first-ever-ai-executive-order.html",
-      "publishedDateTime": "2023-10-30T00:17:00-07:00",
+      "publishedDateTime": "2023-10-30T07:17:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "CNBC",
@@ -953,11 +996,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/kalinabryant/2023/10/30/how-new-ai-model-counters-bias-providing-an-equitable-future-for-all/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/10/30/how-new-ai-model-counters-bias-providing-an-equitable-future-for-all/amp/",
-      "publishedDateTime": "2023-10-29T23:35:00-07:00",
+      "publishedDateTime": "2023-10-30T06:35:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1005,11 +1048,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.digitaltrends.com/computing/new-corruption-tool-nightshade-ai/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/new-corruption-tool-nightshade-ai/?amp",
-      "publishedDateTime": "2023-10-29T22:05:00-07:00",
+      "publishedDateTime": "2023-10-30T05:05:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Trends",
@@ -1047,11 +1090,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-29T21:46:00-07:00",
+      "publishedDateTime": "2023-10-30T04:46:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "U.S. News & World Report",
@@ -1090,11 +1133,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-29T20:59:00-07:00",
+      "publishedDateTime": "2023-10-30T03:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Journal",
@@ -1109,57 +1152,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-3-ways-leaders-can-harness-ai-for-breakthrough-innovation.md",
-      "title": "3 Ways Leaders Can Harness AI For Breakthrough Innovation",
-      "excerpt": "As we teeter on the brink of an AI-dominated era, leaders are under pressure to tap into this inspiring technology to innovate. How can they rise to the challenge?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders-can-harness-ai-for-breakthrough-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders-can-harness-ai-for-breakthrough-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/653c6b651bcf4ac38d17d493/0x0.jpg?format=jpg&crop=5120,2880,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders-can-harness-ai-for-breakthrough-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders-can-harness-ai-for-breakthrough-innovation/amp/",
-      "publishedDateTime": "2023-10-29T18:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

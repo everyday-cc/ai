@@ -2,6 +2,58 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-10-11-the-aboriginal-australians-campaigning-against-constitutional-recognition.md",
+      "title": "The Aboriginal Australians Campaigning Against Constitutional Recognition",
+      "excerpt": "Two female Aboriginal lawmakers with drastically different political philosophies have emerged as prominent opponents of the proposed Indigenous Voice to Parliament.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/10/11/world/australia/australia-price-thorpe-voice-aboriginal.html",
+      "originalUrl": "https://www.nytimes.com/2023/10/11/world/australia/australia-price-thorpe-voice-aboriginal.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/10/10/multimedia/00OZ-INDIGENOUS-vwfp/00OZ-INDIGENOUS-vwfp-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T09:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-openais-unreasonable-claims-exhaust-ai-ethics-researchers.md",
       "title": "OpenAI's 'unreasonable claims' exhaust AI-ethics researchers",
       "excerpt": "Ethics researchers are struggling to keep up with the generative-AI boom as critiquing existing tech hinders the creation of more-responsible AI.",
@@ -22,11 +74,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10?amp",
-      "publishedDateTime": "2023-10-11T01:59:00-07:00",
+      "publishedDateTime": "2023-10-11T08:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -65,11 +117,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T00:58:00-07:00",
+      "publishedDateTime": "2023-10-11T07:58:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
@@ -108,11 +160,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T00:50:00-07:00",
+      "publishedDateTime": "2023-10-11T07:50:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -161,11 +213,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T00:29:00-07:00",
+      "publishedDateTime": "2023-10-11T07:29:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmochina",
@@ -212,11 +264,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/most-people-the-support-need-for-trustworthy-and-regulated-ai/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-people-the-support-need-for-trustworthy-and-regulated-ai/",
-      "publishedDateTime": "2023-10-11T00:13:00-07:00",
+      "publishedDateTime": "2023-10-11T07:13:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -264,11 +316,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.firstpost.com/tech/news-analysis/china-may-have-access-to-powerful-ai-chips-because-of-partnership-with-saudi-arabia-claims-report-13232602.html/amp",
       "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/china-may-have-access-to-powerful-ai-chips-because-of-partnership-with-saudi-arabia-claims-report-13232602.html/amp",
-      "publishedDateTime": "2023-10-10T23:55:00-07:00",
+      "publishedDateTime": "2023-10-11T06:55:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Firstpost",
@@ -307,11 +359,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T23:24:00-07:00",
+      "publishedDateTime": "2023-10-11T06:24:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -358,11 +410,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T22:39:00-07:00",
+      "publishedDateTime": "2023-10-11T05:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -400,11 +452,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T21:20:00-07:00",
+      "publishedDateTime": "2023-10-11T04:20:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "U.S. News & World Report",
@@ -452,11 +504,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
       "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
-      "publishedDateTime": "2023-10-10T21:13:00-07:00",
+      "publishedDateTime": "2023-10-11T04:13:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "glamsham.com",
@@ -495,11 +547,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T20:37:00-07:00",
+      "publishedDateTime": "2023-10-11T03:37:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "EconoTimes",
@@ -538,11 +590,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T20:23:00-07:00",
+      "publishedDateTime": "2023-10-11T03:23:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -590,11 +642,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T20:14:00-07:00",
+      "publishedDateTime": "2023-10-11T03:14:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -641,11 +693,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/amp/",
       "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/amp/",
-      "publishedDateTime": "2023-10-10T20:03:00-07:00",
+      "publishedDateTime": "2023-10-11T03:03:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Fortune",
@@ -684,11 +736,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T19:20:00-07:00",
+      "publishedDateTime": "2023-10-11T02:20:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Science Daily",
@@ -736,11 +788,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.nbcmiami.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/?amp=1",
       "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/?amp=1",
-      "publishedDateTime": "2023-10-10T17:00:00-07:00",
+      "publishedDateTime": "2023-10-11T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC 6 South Florida",
@@ -779,11 +831,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T17:00:00-07:00",
+      "publishedDateTime": "2023-10-11T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -822,11 +874,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T17:00:00-07:00",
+      "publishedDateTime": "2023-10-11T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Science Daily",
@@ -874,11 +926,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
-      "publishedDateTime": "2023-10-10T16:29:00-07:00",
+      "publishedDateTime": "2023-10-10T23:29:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -926,11 +978,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://nypost.com/article/amazon-best-sellers-products-finds/amp/",
       "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/article/amazon-best-sellers-products-finds/amp/",
-      "publishedDateTime": "2023-10-10T16:14:00-07:00",
+      "publishedDateTime": "2023-10-10T23:14:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Post",
@@ -969,11 +1021,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T16:00:00-07:00",
+      "publishedDateTime": "2023-10-10T23:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -1020,11 +1072,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://indiaeducationdiary.in/monash-ai-expert-honoured-with-prestigious-fellowship/",
       "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/monash-ai-expert-honoured-with-prestigious-fellowship/",
-      "publishedDateTime": "2023-10-10T15:21:00-07:00",
+      "publishedDateTime": "2023-10-10T22:21:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "India Education Diary",
@@ -1063,11 +1115,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force?_amp=true",
       "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force?_amp=true",
-      "publishedDateTime": "2023-10-10T15:10:00-07:00",
+      "publishedDateTime": "2023-10-10T22:10:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Government Technology",
@@ -1108,11 +1160,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/",
       "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/",
-      "publishedDateTime": "2023-10-10T14:36:00-07:00",
+      "publishedDateTime": "2023-10-10T21:36:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -1135,49 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-automated-chronic-pain-cohort-mined-from-twitter-using-machine-learning.md",
-      "title": "Automated chronic pain cohort mined from Twitter using machine learning",
-      "excerpt": "Social media platforms like Twitter (now X) offer valuable insights into self-reported chronic pain, according to a recent study by multiple institutions. The researchers have automated the process of establishing a chronic pain cohort,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-10-automated-chronic-pain-cohort-twitter.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-10-automated-chronic-pain-cohort-twitter.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/automated-chronic-pain.jpg",
-          "width": 1280,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-10-automated-chronic-pain-cohort-twitter.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-automated-chronic-pain-cohort-twitter.amp",
-      "publishedDateTime": "2023-10-10T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

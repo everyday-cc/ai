@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 91
-heat: 281
+heat: 291
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1084580876.jpg?resize=1200,800"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Baidu's AI Chatbot Earnie 4 Is Off To A Good Start, Says Bullish Analyst"
+    excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
+    publishedDateTime: 2023-11-22T18:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-s-ai-chatbot-earnie-4-is-off-to-a-good-start-says-bullish-analyst-1032843810"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/11/22/shutterstock_2284768673.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Meta AI chatbot comes to some WhatsApp users; All details"
     excerpt: "Meta's AI chatbot comes on WhatsApp and offers various services, from customer support to appointment scheduling. In addition, WhatsApp introduced a new feature to simplify access to status updates."

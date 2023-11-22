@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-11-03-aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes.md",
+      "title": "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes",
+      "excerpt": "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/",
+      "originalUrl": "https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png",
+          "width": 648,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-03T14:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-03-dall-e-2-on-microsoft-azure-the-market-for-generative-models-matures-techtalks.md",
       "title": "DALL-E 2 on Microsoft Azure: the market for generative models matures – TechTalks",
       "excerpt": "This article is part of our series that explores the business of artificial intelligenceIn last week’s Ignite 2022 conference, Microsoft announced another",
@@ -22,11 +74,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-03T07:21:00-07:00",
+      "publishedDateTime": "2023-11-03T14:21:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Inferse",
@@ -56,11 +108,11 @@
       "heat": 82,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-03T02:00:00-07:00",
+      "publishedDateTime": "2023-11-03T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -107,11 +159,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize?amphtml=1",
       "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize?amphtml=1",
-      "publishedDateTime": "2023-11-02T12:51:00-07:00",
+      "publishedDateTime": "2023-11-02T19:51:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Shacknews",
@@ -150,11 +202,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-02T05:00:00-07:00",
+      "publishedDateTime": "2023-11-02T12:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Bakersfield Californian",
@@ -184,11 +236,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-02T04:56:00-07:00",
+      "publishedDateTime": "2023-11-02T11:56:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Fort Bend Herald",
@@ -227,11 +279,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-02T00:56:00-07:00",
+      "publishedDateTime": "2023-11-02T07:56:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AOL",
@@ -261,11 +313,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-02T00:46:00-07:00",
+      "publishedDateTime": "2023-11-02T07:46:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Guru3D.com",
@@ -304,11 +356,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-02T00:11:00-07:00",
+      "publishedDateTime": "2023-11-02T07:11:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Inside Higher Ed",
@@ -338,11 +390,11 @@
       "heat": 70,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T23:20:00-07:00",
+      "publishedDateTime": "2023-11-02T06:20:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Neowin",
@@ -390,11 +442,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T23:00:00-07:00",
+      "publishedDateTime": "2023-11-02T06:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",
@@ -442,11 +494,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T17:00:00-07:00",
+      "publishedDateTime": "2023-11-02T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Design News",
@@ -476,11 +528,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T16:07:00-07:00",
+      "publishedDateTime": "2023-11-01T23:07:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Seattle Times",
@@ -519,11 +571,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T14:40:00-07:00",
+      "publishedDateTime": "2023-11-01T21:40:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Chiangrai Times",
@@ -562,11 +614,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://phys.org/news/2023-11-processor-ai-genome.amp",
       "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-processor-ai-genome.amp",
-      "publishedDateTime": "2023-11-01T13:53:00-07:00",
+      "publishedDateTime": "2023-11-01T20:53:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Phys.org",
@@ -605,11 +657,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/singapore-river-cleaning-robots-5g-2023-11?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/singapore-river-cleaning-robots-5g-2023-11?amp",
-      "publishedDateTime": "2023-11-01T10:41:00-07:00",
+      "publishedDateTime": "2023-11-01T17:41:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -657,11 +709,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T10:39:00-07:00",
+      "publishedDateTime": "2023-11-01T17:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "factcheck.afp",
@@ -700,11 +752,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T10:07:00-07:00",
+      "publishedDateTime": "2023-11-01T17:07:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Financial Post",
@@ -735,11 +787,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T09:23:00-07:00",
+      "publishedDateTime": "2023-11-01T16:23:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -769,11 +821,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T09:10:00-07:00",
+      "publishedDateTime": "2023-11-01T16:10:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -805,11 +857,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T08:17:00-07:00",
+      "publishedDateTime": "2023-11-01T15:17:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -839,11 +891,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T07:52:00-07:00",
+      "publishedDateTime": "2023-11-01T14:52:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "U.S. News & World Report",
@@ -883,11 +935,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T07:23:00-07:00",
+      "publishedDateTime": "2023-11-01T14:23:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "EurekAlert!",
@@ -917,11 +969,11 @@
       "heat": 84,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T06:46:00-07:00",
+      "publishedDateTime": "2023-11-01T13:46:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -969,11 +1021,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T06:16:00-07:00",
+      "publishedDateTime": "2023-11-01T13:16:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -988,40 +1040,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-self-driving-car-service-suspends-rides-nationwide-but-will-resume-mapping-in-nc.md",
-      "title": "Self-driving car service suspends rides nationwide but will resume mapping in NC",
-      "excerpt": "The pause by General Motors’ Cruise division comes after several safety incidents. But mapping will resume in Charlotte, and Raleigh awaits next steps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsobserver.com/news/business/article281194698.html",
-      "originalUrl": "https://www.newsobserver.com/news/business/article281194698.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Raleigh News & Observer",
-        "domain": "newsobserver.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

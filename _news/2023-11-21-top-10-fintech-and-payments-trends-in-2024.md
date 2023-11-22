@@ -69,6 +69,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Customised AI solutions for fintech sector prove a Keeper"
+    excerpt: "Keeper Solutions designs, develops and deploys AI-powered products for fast-scaling fintech companies across Europe and the United States"
+    publishedDateTime: 2023-11-17T19:26:00Z
+    webUrl: "https://www.businesspost.ie/commercial-reports/customised-ai-solutions-for-fintech-sector-prove-a-keeper/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 19
   - title: "Pakistan Pavilion at Singapore Fintech Festival showcases innovation, collaboration"
     excerpt: "The annual Singapore Fintech Festival (SFF), a global congregation of fintech firms, witnessed a significant representation from"
     publishedDateTime: 2023-11-20T17:51:00Z

@@ -2,6 +2,40 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-11-01-ali-sermet-tasdogen-unveils-innovative-ai-powered-hedge-fund-startup-arbitai.md",
+      "title": "Ali Sermet Tasdogen unveils innovative AI-Powered hedge fund startup, ArbitAI",
+      "excerpt": "Ali Sermet Tasdogen, a distinguished authority in the realm of AI and financial technology, is gearing up to revolutionize the financial markets with ArbitAI, a London-based global AI startup.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/ab35527212/ali-sermet-tasdogen-unveils-innovative-ai-powered-hedge-fund-startup-arbitai",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/ab35527212/ali-sermet-tasdogen-unveils-innovative-ai-powered-hedge-fund-startup-arbitai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T21:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-01-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
       "title": "AI Needs a Strong Code of Ethics to Keep its Dark Side From Overtaking us",
       "excerpt": "We have done our best to build on the work already being done in industry and add to it what we know about ethics. We believe we can build a more just and caring world. A more ethically responsible tech industry and AI products and services are possible.",
@@ -22,11 +56,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T14:29:00-07:00",
+      "publishedDateTime": "2023-10-31T21:29:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Santa Clara University",
@@ -56,11 +90,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T14:29:00-07:00",
+      "publishedDateTime": "2023-10-31T21:29:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Northern Light",
@@ -99,11 +133,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/?amp=true",
       "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/bidens-executive-order-on-ai-is-a-good-start-experts-say-but-not-enough/?amp=true",
-      "publishedDateTime": "2023-10-31T14:22:00-07:00",
+      "publishedDateTime": "2023-10-31T21:22:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Scientific American",
@@ -133,11 +167,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T13:26:00-07:00",
+      "publishedDateTime": "2023-10-31T20:26:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "SiliconANGLE",
@@ -176,11 +210,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T13:19:00-07:00",
+      "publishedDateTime": "2023-10-31T20:19:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "New Atlas",
@@ -228,11 +262,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T13:04:00-07:00",
+      "publishedDateTime": "2023-10-31T20:04:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "WUWM",
@@ -262,11 +296,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T13:00:00-07:00",
+      "publishedDateTime": "2023-10-31T20:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -305,11 +339,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T12:29:00-07:00",
+      "publishedDateTime": "2023-10-31T19:29:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Verge",
@@ -357,11 +391,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T12:22:00-07:00",
+      "publishedDateTime": "2023-10-31T19:22:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Politico Europe",
@@ -400,11 +434,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T11:12:00-07:00",
+      "publishedDateTime": "2023-10-31T18:12:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Military Times",
@@ -434,11 +468,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T10:51:00-07:00",
+      "publishedDateTime": "2023-10-31T17:51:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ColoradoBoulevard",
@@ -468,11 +502,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T10:51:00-07:00",
+      "publishedDateTime": "2023-10-31T17:51:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ExtremeTech",
@@ -511,11 +545,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T10:31:00-07:00",
+      "publishedDateTime": "2023-10-31T17:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "news.crunchbase",
@@ -544,11 +578,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T10:31:00-07:00",
+      "publishedDateTime": "2023-10-31T17:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Texas Monthly",
@@ -578,11 +612,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T09:59:00-07:00",
+      "publishedDateTime": "2023-10-31T16:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Analytics India Magazine",
@@ -612,11 +646,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T09:15:00-07:00",
+      "publishedDateTime": "2023-10-31T16:15:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Biometric Companies",
@@ -646,11 +680,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T08:23:00-07:00",
+      "publishedDateTime": "2023-10-31T15:23:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Nairametrics",
@@ -680,11 +714,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T08:14:00-07:00",
+      "publishedDateTime": "2023-10-31T15:14:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Diginomica",
@@ -714,11 +748,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T08:08:00-07:00",
+      "publishedDateTime": "2023-10-31T15:08:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -748,11 +782,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T08:06:00-07:00",
+      "publishedDateTime": "2023-10-31T15:06:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Source Magazine",
@@ -782,11 +816,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T07:43:00-07:00",
+      "publishedDateTime": "2023-10-31T14:43:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "NextBigFuture",
@@ -816,11 +850,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T07:40:00-07:00",
+      "publishedDateTime": "2023-10-31T14:40:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Matters",
@@ -850,11 +884,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T07:39:00-07:00",
+      "publishedDateTime": "2023-10-31T14:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Impacts",
@@ -884,11 +918,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T07:10:00-07:00",
+      "publishedDateTime": "2023-10-31T14:10:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "MedPage Today",
@@ -903,40 +937,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-from-pixels-to-perception-exploring-uncharted-territory-in-artificial-intelligence-the-unfolding-advancements-in-computer-vision.md",
-      "title": "From Pixels to Perception: Exploring Uncharted Territory in Artificial Intelligence – The Unfolding Advancements in Computer Vision",
-      "excerpt": "In the ever-evolving landscape of technology, artificial intelligence (AI) stands at the forefront, reshaping the way we perceive the world. Among the various realms of AI, computer vision, the ability of machines to interpret and understand the visual world,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/from-pixels-to-perception-exploring-uncharted-territory-in-artificial-intelligence-the-unfolding-advancements-in-computer-vision/",
-      "originalUrl": "https://techbullion.com/from-pixels-to-perception-exploring-uncharted-territory-in-artificial-intelligence-the-unfolding-advancements-in-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

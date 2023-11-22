@@ -25,22 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "Q&A: How Artificial Intelligence Powers Collaboration and Efficiency for Healthcare"
-    excerpt: "Artificial Intelligence plays a pivotal role in fostering collaborative efforts and boosting operational efficiency within the healthcare ecosystem, helping streamline complex processes and aiding in clinical decision-making."
-    publishedDateTime: 2023-11-21T21:30:00Z
-    webUrl: "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp"
+  - title: "Wipro joins hands with NVIDIA to integrate generative AI in healthcare"
+    excerpt: "Bengaluru: Leading IT firm Wipro on Tuesday announced a partnership with chip-maker NVIDIA aimed at expediting the integration of generative artificial intelligence (AI) in healthcare enterprises."
+    publishedDateTime: 2023-11-21T18:29:00Z
+    webUrl: "https://www.indiablooms.com/finance-details/19466/wipro-joins-hands-with-nvidia-to-integrate-generative-ai-in-healthcare.html"
     type: article
     provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 68
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 56
     images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202311/GettyImages-1336245275.jpg?itok=WESoihWH"
-        width: 1440
-        height: 500
+      - url: "https://www.indiablooms.com/finance_pic/2023/e61cc3574501054308e28883f55e17c8.jpg"
+        width: 800
+        height: 541
         isCached: true
+  - title: "SandboxAQ Announces AI Simulation Collaboration with NVIDIA to Impact the Physical World"
+    excerpt: "AI and Quantum Simulation (AQ) is Next Significant AI Advancement for Creating Novel Battery Chemistries, Pharmaceutical Drugs, Energy Generation, Construction Materials and More PALO ALTO, Calif., Nov."
+    publishedDateTime: 2023-11-20T13:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35873661"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35873661"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "NVIDIA’s new Spectrum-X Ethernet networking tech speeds up inter-system communication in generative AI workloads"
+    excerpt: "NVIDIA has revealed the latest business collaboration in the form of the new Spectrum-X Ethernet networking technologies designed to speed up generative AI workloads even more."
+    publishedDateTime: 2023-11-22T06:38:00Z
+    webUrl: "https://www.tech-critter.com/nvidia-spectrum-x-ethernet-networking-technology-announce/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 18
+    images:
+      - url: "https://secure.gravatar.com/avatar/a0ed3175f99016ebcbdaabb913231517?s=300&d=mm&r=g"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "NVIDIA Unveils Spectrum-X Ethernet Networking for AI with Dell, HPE, and Lenovo Integration"
+    excerpt: "NVIDIA today announced that Dell Technologies, Hewlett Packard Enterprise and Lenovo will be the first to integrate"
+    publishedDateTime: 2023-11-20T16:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/nvidia-unveils-spectrum-x-ethernet-networking-for-ai-with-dell-hpe-and-lenovo-integration/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 9
 
 secured: "fgBonXfXWld85WSjvQPQM/5gZfWjnytqWeyPN3BHJ84abGBKlzt3WQT+M2LtzgWwYc1Q/t13UYgPsuzbyOpZdJJKh29ge8aEsXNyckRkZUwWiAHh8QjpkTQjqmNZOZi3ovoLuUgrK2y39iLI4bfHBM8g86clXwUNOHrprAhYGtxyt4+WPUrWZXQWF2NSPaivGYSrBh7eYqq5AiGQlGG87D1wBBTtH5gfn5q3iKNEJZjp++G3EeTajIBidyK56voh0ThhpBrhXxZH92eY9/41Hb1MfY6CQWA086Oz+zZzwCrHZ6ZdI4n1LFcpyV54tXtav8D7AV1RidwxEIOaYp/3KdjReQN6qbBBIJVFOkuuf9I=;eo5de+1OxI9cP1YTmJmOmg=="
 ---

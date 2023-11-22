@@ -135,6 +135,15 @@ related:
         width: 1800
         height: 1013
         isCached: true
+  - title: "US patients believe generative AI can improve healthcare access, affordability, survey finds"
+    excerpt: "More than half (53%) of U.S. consumers believe generative AI could improve access issues and shorten wait times for medical care, according to a survey by Deloitte's Center for Health Solutions. A little less than half of consumers (46%) say it has the potential to make healthcare more affordable."
+    publishedDateTime: 2023-11-17T20:05:00Z
+    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/us-patients-believe-generative-ai-can-improve-access-affordability"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 23
   - title: "BP Says It's Expanding Use of Generative AI"
     excerpt: "“The service uses artificial intelligence and natural language processing to automate a variety of daily tasks such as writing emails and managing inboxes,” BP noted in the release. “By using the capabilities of copilot for Microsoft 365, BP can help ..."
     publishedDateTime: 2023-11-22T10:01:00Z
@@ -163,6 +172,6 @@ related:
       domain: dailyutahchronicle.com
     quality: 19
 
-secured: "kL3Ho4CZQXt4L8Md8zbTrJNISt08RVUaMgdWm8lDsd2v3GZkMHnsKL7Uvh/+fhJ6fn0/sHOzMTOim5VocIhDvfZock9/bgXtqdS/gFTpImNoN5+w6vxM9pWguDw24RCOBvi+pISXgRWhdUE49ZkYZ7Y4/OWwl+F3wmuw2p+PYpCNBgCZP3tDSLMr3O8CeuIS91ud7/wi+tpbUX3SI0hHEAuOrbha1X4MFiPjVY+fMDPxRLYdI/reJ60I+EDlFdnkaCIUNOiISMuPPu3rGwoGI7BY2DEgqWNNCIYfiYeZqeWTZmuu55bX2lRrbOZHcBpsS6Z1Yp7b205YZbQuE0rFJEROsg7z3c44huSST1EfNFI=;CnDs1YtMLbV7eDYnAP2S8A=="
+secured: "+nfBv8hYaMKWNdA8H2HxckW6aU9uPxfId4exOjW7BIg5lRRBBoxnSTygtcYCqT8JSg2/K4DUcXZw79YHHAGl1ToXS9dwGQ7iEsXgiGqOVb5HdYALXLOBIkMdd53NNLS5RAnNeyGzwW6iaEUNYHjgRgQX0XefdPMIPOyjdL34LZlS8BMNY9FCAFyIS6IWcZHdmywxWILHYItirRLT/R7Z5IJmE+4qaqNgOxbgeOI4vtQK7xOmmH1mJwKtk7EguHiZq2rRFOS2m/yNILTIBK4Ru5cAjCJ8/a69USIhSsxu4VOZ7M/zOeNMuabG3xW7bYrpdgzw0M0GMO1cvTkPeG0rcZLrPumwJJtaCwW6rTg4ro8etQsP4gFbFs5lHufBM4eNBMUDmHqFxiFzp22TvKqTsOw+veF2B8Q2nkdmZ+7TN2ziDzY5ndI5LvqLzNUeV4DzFHgYF1/gDbNB/UCFlNIxFuzw8XctmjB0kuN13Y6SINOFEd8Grr0yzUcgTTdar2iGUNRHoFD8b0jPwaY02pLKiw==;//jZFM5AUnHMH4yW4S3vAw=="
 ---
 

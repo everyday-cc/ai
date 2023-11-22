@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-11-07-ai-poised-to-seriously-ramp-up-devops-and-other-forms-of-collaboration.md",
+      "title": "AI poised to seriously ramp up DevOps and other forms of collaboration",
+      "excerpt": "A significant share of IT professionals are already employing AI to handle the more mundane tasks that eat the time they could be worrying about business matters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-poised-to-seriously-ramp-up-devops-and-other-forms-of-collaboration/",
+      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-poised-to-seriously-ramp-up-devops-and-other-forms-of-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/003e88283706f20be2d9cd873fcb44dc8f030370/2023/11/07/50815407-01ed-4516-9c65-dce7c3f0b261/devs-teamgettyimages-940143958.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-poised-to-seriously-ramp-up-devops-and-other-forms-of-collaboration/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-poised-to-seriously-ramp-up-devops-and-other-forms-of-collaboration/",
+      "publishedDateTime": "2023-11-07T10:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-andreessen-horowitz-is-not-at-all-techno-optimistic-about-this-particular-ai-scenario.md",
       "title": "Andreessen Horowitz is not at all 'techno-optimistic' about this particular AI scenario",
       "excerpt": "The famed venture capital firm a16z is fighting alongside major tech companies against potential copyright rules that would address generative AI.",
@@ -22,11 +73,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/marc-andreessen-horowitz-ai-copyright-2023-11?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marc-andreessen-horowitz-ai-copyright-2023-11?amp",
-      "publishedDateTime": "2023-11-07T02:00:00-08:00",
+      "publishedDateTime": "2023-11-07T10:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -73,11 +124,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T02:00:00-08:00",
+      "publishedDateTime": "2023-11-07T10:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -124,11 +175,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T01:00:00-08:00",
+      "publishedDateTime": "2023-11-07T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -176,11 +227,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.indiatvnews.com/amp/health/how-artificial-intelligence-can-predict-cardiac-arrest-2023-11-07-901637",
       "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/health/how-artificial-intelligence-can-predict-cardiac-arrest-2023-11-07-901637",
-      "publishedDateTime": "2023-11-07T00:52:00-08:00",
+      "publishedDateTime": "2023-11-07T08:52:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "India TV",
@@ -218,11 +269,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=362725",
       "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=362725",
-      "publishedDateTime": "2023-11-06T23:05:00-08:00",
+      "publishedDateTime": "2023-11-07T07:05:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Korea Times",
@@ -252,11 +303,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T23:00:00-08:00",
+      "publishedDateTime": "2023-11-07T07:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -295,11 +346,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T22:54:00-08:00",
+      "publishedDateTime": "2023-11-07T06:54:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "U.S. News & World Report",
@@ -347,11 +398,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T22:14:00-08:00",
+      "publishedDateTime": "2023-11-07T06:14:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Nikkei Asia",
@@ -390,11 +441,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://inshorts.com/m/en/amp_news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745",
       "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745",
-      "publishedDateTime": "2023-11-06T21:42:00-08:00",
+      "publishedDateTime": "2023-11-07T05:42:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Inshorts",
@@ -432,11 +483,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467/amp",
       "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467/amp",
-      "publishedDateTime": "2023-11-06T20:49:00-08:00",
+      "publishedDateTime": "2023-11-07T04:49:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "gadgets360",
@@ -475,11 +526,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
       "cdnAmpWebUrl": "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "publishedDateTime": "2023-11-06T20:16:00-08:00",
+      "publishedDateTime": "2023-11-07T04:16:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Consultancy",
@@ -519,11 +570,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
-      "publishedDateTime": "2023-11-06T18:39:00-08:00",
+      "publishedDateTime": "2023-11-07T02:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -571,11 +622,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T17:41:00-08:00",
+      "publishedDateTime": "2023-11-07T01:41:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "St. Louis Post-Dispatch",
@@ -614,11 +665,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T16:55:00-08:00",
+      "publishedDateTime": "2023-11-07T00:55:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -668,11 +719,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
-      "publishedDateTime": "2023-11-06T16:51:00-08:00",
+      "publishedDateTime": "2023-11-07T00:51:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -721,11 +772,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T16:27:00-08:00",
+      "publishedDateTime": "2023-11-07T00:27:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -763,11 +814,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T16:01:00-08:00",
+      "publishedDateTime": "2023-11-07T00:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -806,11 +857,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T16:01:00-08:00",
+      "publishedDateTime": "2023-11-07T00:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Electronics Weekly",
@@ -849,11 +900,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T16:01:00-08:00",
+      "publishedDateTime": "2023-11-07T00:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TensorFlow",
@@ -901,11 +952,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T16:01:00-08:00",
+      "publishedDateTime": "2023-11-07T00:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "CAR Magazine",
@@ -944,11 +995,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T13:19:00-08:00",
+      "publishedDateTime": "2023-11-06T21:19:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmodo",
@@ -996,11 +1047,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T12:31:00-08:00",
+      "publishedDateTime": "2023-11-06T20:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Time",
@@ -1048,11 +1099,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.wmur.com/amp/article/2024-president-candidates-ai/45756595",
       "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/2024-president-candidates-ai/45756595",
-      "publishedDateTime": "2023-11-06T12:31:00-08:00",
+      "publishedDateTime": "2023-11-06T20:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "WMUR",
@@ -1090,11 +1141,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.nextplatform.com/2023/11/06/big-blue-can-still-catch-the-ai-wave-if-it-hurries/amp/",
       "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/06/big-blue-can-still-catch-the-ai-wave-if-it-hurries/amp/",
-      "publishedDateTime": "2023-11-06T11:54:00-08:00",
+      "publishedDateTime": "2023-11-06T19:54:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Next Platform",
@@ -1111,57 +1162,6 @@
         "AI Hardware",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles.md",
-      "title": "OpenAI introduces custom AI assistants called “GPTs” that play different roles",
-      "excerpt": "On Monday, OpenAI announced \"GPTs,\" a new feature that allows ChatGPT users to create custom versions of its AI assistant that serve different roles or purposes. OpenAI will let users share GPT roles with others, and it plans to introduce a \"GPT Store\" later this month that will eventually share revenue with creators.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/chatgpt-roles_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/openai-introduces-custom-ai-assistants-called-gpts-that-play-different-roles/amp/",
-      "publishedDateTime": "2023-11-06T10:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

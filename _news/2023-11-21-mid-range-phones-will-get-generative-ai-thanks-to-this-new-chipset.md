@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/mediatek-dimensity-8300-3386430/"
 webUrl: "https://www.androidauthority.com/mediatek-dimensity-8300-3386430/"
 type: article
 quality: 84
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
         width: 1920
         height: 1079
         isCached: true
+  - title: "New purpose-designed chips poised to boost generative AI development"
+    excerpt: "Driven by the need for even more powerful hardware, NVIDIA just announced a brand new chip dedicated to AI, the H200. The new H200s are designed to cut AI processing times by as much as 50% or more, while also reducing power consumption."
+    publishedDateTime: 2023-11-17T19:31:00Z
+    webUrl: "https://www.nextgov.com/ideas/2023/11/new-purpose-designed-chips-poised-boost-generative-ai-development/392123/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 34
   - title: "MediaTek Dimensity 8300 Flexes Generative AI Muscle To Arm Wrestle Snapdragon 7 Gen 3"
     excerpt: "Mediatek is aiming for the premium-oriented midrange smartphone market with the release of the Dimensity 8300 chipset. This new chip uses TSMC’s 2nd generation 4nm process and Arm’s latest v9 CPU architecture."
     publishedDateTime: 2023-11-21T15:59:00Z

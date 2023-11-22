@@ -13,11 +13,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T01:00:00-08:00",
+      "publishedDateTime": "2023-11-09T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -57,11 +57,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T20:51:00-08:00",
+      "publishedDateTime": "2023-11-09T04:51:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmochina",
@@ -100,11 +100,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T16:00:00-08:00",
+      "publishedDateTime": "2023-11-09T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Journal",
@@ -134,11 +134,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T16:00:00-08:00",
+      "publishedDateTime": "2023-11-09T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Journal",
@@ -168,11 +168,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T14:27:00-08:00",
+      "publishedDateTime": "2023-11-08T22:27:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Statista",
@@ -211,11 +211,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T21:31:00-08:00",
+      "publishedDateTime": "2023-11-08T05:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Finanznachrichten",
@@ -254,11 +254,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T05:16:00-08:00",
+      "publishedDateTime": "2023-11-07T13:16:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -309,11 +309,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T04:43:00-08:00",
+      "publishedDateTime": "2023-11-07T12:43:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -362,11 +362,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/11/07/ai-lip-dubbing-puts-words-in-your-mouth/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/11/07/ai-lip-dubbing-puts-words-in-your-mouth/amp/",
-      "publishedDateTime": "2023-11-07T03:00:00-08:00",
+      "publishedDateTime": "2023-11-07T11:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -405,11 +405,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T16:01:00-08:00",
+      "publishedDateTime": "2023-11-07T00:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -439,11 +439,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T10:18:00-08:00",
+      "publishedDateTime": "2023-11-06T18:18:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -491,11 +491,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T08:29:12-08:00",
+      "publishedDateTime": "2023-11-06T16:29:12Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -544,11 +544,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/06/the-value-of-generative-ai-is-clear-but-the-pricing-model-is-murky/amp/",
-      "publishedDateTime": "2023-11-06T05:45:00-08:00",
+      "publishedDateTime": "2023-11-06T13:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -596,11 +596,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/06/how-can-ai-revolutionize-vietnams-music-industry/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/06/how-can-ai-revolutionize-vietnams-music-industry/amp/",
-      "publishedDateTime": "2023-11-06T03:15:00-08:00",
+      "publishedDateTime": "2023-11-06T11:15:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -648,11 +648,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
       "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/whatsapps-ai-sticker-generator-called-out-for-racism-against-palestine-meta-responds-2458599-2023-11-06",
-      "publishedDateTime": "2023-11-05T20:05:00-08:00",
+      "publishedDateTime": "2023-11-06T04:05:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "India Today",
@@ -682,11 +682,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T08:06:00-07:00",
+      "publishedDateTime": "2023-10-31T15:06:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Source Magazine",
@@ -716,11 +716,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T06:11:00-07:00",
+      "publishedDateTime": "2023-10-31T13:11:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Finanznachrichten",
@@ -759,11 +759,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T05:31:00-07:00",
+      "publishedDateTime": "2023-10-31T12:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "scmp.com",
@@ -802,11 +802,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T04:46:00-07:00",
+      "publishedDateTime": "2023-10-31T11:46:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Slator",
@@ -836,11 +836,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T02:18:00-07:00",
+      "publishedDateTime": "2023-10-31T09:18:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -879,11 +879,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T16:44:00-07:00",
+      "publishedDateTime": "2023-10-30T23:44:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "decrypt",
@@ -913,11 +913,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T16:37:00-07:00",
+      "publishedDateTime": "2023-10-30T23:37:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Crikey",
@@ -947,11 +947,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://calgaryherald.com/news/politics/alberta-throne-speech-focuses-on-fight-against-ottawa-new-tax-bill-but-no-mention-of-provincial-pension-plan/wcm/24de3c34-8311-4f3b-a4db-323ff35b4485/amp/",
       "cdnAmpWebUrl": "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/news/politics/alberta-throne-speech-focuses-on-fight-against-ottawa-new-tax-bill-but-no-mention-of-provincial-pension-plan/wcm/24de3c34-8311-4f3b-a4db-323ff35b4485/amp/",
-      "publishedDateTime": "2023-10-30T14:19:00-07:00",
+      "publishedDateTime": "2023-10-30T21:19:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Calgary Herald",
@@ -981,11 +981,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T12:47:00-07:00",
+      "publishedDateTime": "2023-10-30T19:47:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Security Boulevard",
@@ -1016,11 +1016,11 @@
       "heat": 89,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T07:23:00-07:00",
+      "publishedDateTime": "2023-10-30T14:23:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1070,11 +1070,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/from-gut-feel-to-data-driven-decisions-how-machine-learning-can-inform-investment-priorities-for-ctos/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/30/from-gut-feel-to-data-driven-decisions-how-machine-learning-can-inform-investment-priorities-for-ctos/amp/",
-      "publishedDateTime": "2023-10-30T06:45:00-07:00",
+      "publishedDateTime": "2023-10-30T13:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1124,11 +1124,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/kalinabryant/2023/10/30/how-new-ai-model-counters-bias-providing-an-equitable-future-for-all/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/10/30/how-new-ai-model-counters-bias-providing-an-equitable-future-for-all/amp/",
-      "publishedDateTime": "2023-10-29T23:35:00-07:00",
+      "publishedDateTime": "2023-10-30T06:35:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1176,11 +1176,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T20:19:00-07:00",
+      "publishedDateTime": "2023-10-28T03:19:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "FOX40 News",
@@ -1210,11 +1210,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T02:00:00-07:00",
+      "publishedDateTime": "2023-10-27T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Victoria Advocate",
@@ -1253,11 +1253,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T11:27:00-07:00",
+      "publishedDateTime": "2023-10-26T18:27:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "eWeek",

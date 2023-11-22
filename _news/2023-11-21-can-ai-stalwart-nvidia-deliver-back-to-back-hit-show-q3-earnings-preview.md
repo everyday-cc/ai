@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35888525"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35888525"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,47 @@ images:
     width: 830
     height: 553
     isCached: true
+
+related:
+  - title: "Nvidia’s Q3 Earnings Explode On Surging Data Center AI And Gaming Demand"
+    excerpt: "There’s no stopping Nvidia from this level of growth for the foreseeable future. The company continues to execute like a finely tuned machine."
+    publishedDateTime: 2023-11-22T16:57:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Genentech, NVIDIA Enter Into Strategic AI Research Collaboration"
+    excerpt: "Tuesday announced a multi-year strategic research collaboration with NVIDIA that couples Genentech's artificial intelligence (AI) capabilities, extensive biological and molecular datasets, and research expertise with NVIDIA's world-leading accelerated computing capabilities and AI to speed up drug discovery and development."
+    publishedDateTime: 2023-11-21T16:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/genentech-nvidia-enter-into-strategic-ai-research-collaboration-1032840044"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "AI Leader Dipping From Record Highs Before Earnings"
+    excerpt: "This is shaping up to be a big report for the company given its lead in the artificial intelligence (AI) space. During yesterday's trading ... There's no set up required either. If you start buying the dividend stocks I show you today..."
+    publishedDateTime: 2023-11-21T18:42:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/analysis/2023/11/21/ai-leader-dipping-from-record-highs-before-earnings"
+    type: article
+    provider:
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 37
+    images:
+      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/logos/bigstock-san-francisco-ca-june-----250312549.jpg?sfvrsn=dcebda06_6"
+        width: 1400
+        height: 1050
+        isCached: true
 
 secured: "tp2LhR6XNC9jmBpJ3Ch8sxFsoK7/lO8S97mUMyNLKhCd5LNUy7y0SFYCZzu4SoaQv9tO1KyrkNw2X2Nf0on8Sy1jWn9oc7zHKfYqS5pdTdApPYM/x4s5IEONE6LTDio9hKjF5Xe90Gd22ovJeaTMiYNibyCVp2JdAdA23djeMnN3FhsMIGnnp8+mF27ALM/bStWg3vTl8YaOy0R3C6QLhgv3Vt4koRBnW0UEyVGlrQ7Z+bGMrEBi0gaGeroWxYih91g555NuTnT2xxu/qQKFzYD4x3ph2+EkwMUw1C5dQj7r0Tp/wp2b/6APHwtHzMPKuqt4QcqZ3oolF6RwwICOSXRygZ7oPRh16P2w87wzcmE=;AO31hqkfGXoXzhjA7Z59rw=="
 ---

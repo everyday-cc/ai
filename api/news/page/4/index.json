@@ -2,35 +2,35 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-11-18-face-it-face-recognition-is-a-vital-tool-for.md",
-      "title": "Face it: Face recognition is a vital tool for…",
-      "excerpt": "Ban face recognition outright, goes the progressive cry — one that Oakland, San Francisco and Boston have all heeded, on the theory that government becomes Big Brother when it uses technology to ...",
+      "path": "_news/2023-11-20-openai-shakeup-has-rocked-silicon-valley-leaving-some-techies-concerned-about-future-of-ai.md",
+      "title": "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI",
+      "excerpt": "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models.",
       "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/2021/01/19/face-it-face-recognition-is-a-vital-tool-for-those-who-want-to-catch-and-punish-the-capitols-insurrectionists/",
-      "originalUrl": "https://www.nydailynews.com/2021/01/19/face-it-face-recognition-is-a-vital-tool-for-those-who-want-to-catch-and-punish-the-capitols-insurrectionists/",
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922?icid=recommended",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922?icid=recommended",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://www.nydailynews.com/wp-content/uploads/migration/2021/01/19/DGNAZDU7Q5BX3EBPCOVTTPZYEQ.jpg?w=1024&#038;h=670",
-          "width": 1024,
-          "height": 682,
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-11/231119-sam-altman-jm-1614-859c3a.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T16:00:00-08:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna125922",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922",
+      "publishedDateTime": "2023-11-20T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,41 +40,49 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-11-18-mankato-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains.md",
-      "title": "Mankato Health Update: Poor Cognitive Function Tied to Poor Sleep. Doctor Explains",
-      "excerpt": "Dr. Puja Uppal says, \"Sharp brains need good rest!\"Doctor's Expert Insights About Poor Cognitive Function & Your Sleep Health in MinnesotaKnow this: \"Here's the thing, we know",
+      "path": "_news/2023-11-20-how-ai-can-be-leveraged-for-diversity-and-inclusion.md",
+      "title": "How AI Can Be Leveraged For Diversity And Inclusion",
+      "excerpt": "In the modern workplace, diversity and inclusion have become more than just buzzwords—they are crucial to fostering innovation, creativity, and a welcoming environment.",
       "sourceUrl": null,
-      "webUrl": "https://www.grandrapidsmn.com/around_the_web/news/mankato-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_9e53fe1e-bcf5-5b77-8c48-98dd2557d1de.html",
-      "originalUrl": "https://www.grandrapidsmn.com/around_the_web/news/mankato-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_9e53fe1e-bcf5-5b77-8c48-98dd2557d1de.html",
+      "webUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/",
+      "originalUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/grandrapidsmn.com/content/tncms/assets/v3/editorial/0/e2/0e26e9ad-e854-5077-b962-ec749bcab4f3/6557feba2f8dd.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655a7b77d4a3a31792aee594/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T14:19:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/amp/",
+      "publishedDateTime": "2023-11-19T20:29:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Grand Rapids Herald-Review",
-        "domain": "grandrapidsmn.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -83,32 +91,49 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-11-18-lubbock-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains.md",
-      "title": "Lubbock Health Update: Poor Cognitive Function Tied to Poor Sleep. Doctor Explains",
-      "excerpt": "Dr. Puja Uppal says, \"Sharp brains need good rest!\"Doctor's Expert Insights About Poor Cognitive Function & Your Sleep Health in TexasKnow this: \"Here's the thing, we know",
+      "path": "_news/2023-11-19-facebook-parent-meta-breaks-up-its-responsible-ai-team.md",
+      "title": "Facebook-parent Meta breaks up its Responsible AI team",
+      "excerpt": "Facebook-parent Meta has split up its Responsible AI division, the team dedicated to regulating the safety of its artificial intelligence ventures. Most Responsible AI staffers have been ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fbherald.com/news/state/lubbock-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_e8cf1fe0-57ac-56ec-81bc-cf176add56ab.html",
-      "originalUrl": "https://www.fbherald.com/news/state/lubbock-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_e8cf1fe0-57ac-56ec-81bc-cf176add56ab.html",
+      "webUrl": "https://www.cnbc.com/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
+      "originalUrl": "https://www.cnbc.com/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 109,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107300081-1694615776137-gettyimages-1662740663-AFP_33V44JW.jpeg?v=1698249601",
+          "width": 4019,
+          "height": 2679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T13:19:00-08:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
+      "publishedDateTime": "2023-11-19T01:07:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fort Bend Herald",
-        "domain": "fbherald.com",
-        "images": null,
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -117,7 +142,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Facebook AI",
         "AI"
       ]
     },
@@ -142,11 +167,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T08:27:58-08:00",
+      "publishedDateTime": "2023-11-17T16:27:58Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -195,11 +220,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/technology/2023/nov/17/microsoft-azure-ai-video-deepfakes",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/17/microsoft-azure-ai-video-deepfakes",
-      "publishedDateTime": "2023-11-17T08:09:00-08:00",
+      "publishedDateTime": "2023-11-17T16:09:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -247,11 +272,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://katv.com/amp/news/local/experts-warn-against-using-artificial-intelligence-for-mental-health-support",
       "cdnAmpWebUrl": "https://katv-com.cdn.ampproject.org/c/s/katv.com/amp/news/local/experts-warn-against-using-artificial-intelligence-for-mental-health-support",
-      "publishedDateTime": "2023-11-17T06:02:00-08:00",
+      "publishedDateTime": "2023-11-17T14:02:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "katv",
@@ -291,11 +316,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.newindianexpress.com/cities/thiruvananthapuram/2023/nov/17/robotics-startupsteals-the-spotlight-at-huddle-global-2633621.amp",
       "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/thiruvananthapuram/2023/nov/17/robotics-startupsteals-the-spotlight-at-huddle-global-2633621.amp",
-      "publishedDateTime": "2023-11-17T03:09:00-08:00",
+      "publishedDateTime": "2023-11-17T11:09:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The New Indian Express",
@@ -334,11 +359,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T02:30:00-08:00",
+      "publishedDateTime": "2023-11-17T10:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmodo",
@@ -386,11 +411,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/ibm-enables-responsible-enterprise-ai-with-watsonxgovernance-pmvmosp6?amp=1",
       "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ibm-enables-responsible-enterprise-ai-with-watsonxgovernance-pmvmosp6?amp=1",
-      "publishedDateTime": "2023-11-16T16:00:00-08:00",
+      "publishedDateTime": "2023-11-17T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Zawya",
@@ -429,11 +454,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T16:00:00-08:00",
+      "publishedDateTime": "2023-11-17T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "philstar.com",
@@ -472,11 +497,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T13:01:00-08:00",
+      "publishedDateTime": "2023-11-16T21:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Baltimore Sun",
@@ -506,11 +531,11 @@
       "heat": 81,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T12:06:00-08:00",
+      "publishedDateTime": "2023-11-16T20:06:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -559,11 +584,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2023/11/16/venture-capital-in-ai--where-and-how-much/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/11/16/venture-capital-in-ai--where-and-how-much/amp/",
-      "publishedDateTime": "2023-11-16T10:23:00-08:00",
+      "publishedDateTime": "2023-11-16T18:23:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -611,11 +636,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://techxplore.com/news/2023-11-ai-melded-roboticsone-outcome-powerful.amp",
       "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-melded-roboticsone-outcome-powerful.amp",
-      "publishedDateTime": "2023-11-16T09:12:00-08:00",
+      "publishedDateTime": "2023-11-16T17:12:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "techxplore",
@@ -654,11 +679,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T07:55:00-08:00",
+      "publishedDateTime": "2023-11-16T15:55:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AOL",
@@ -688,11 +713,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T22:30:00-08:00",
+      "publishedDateTime": "2023-11-16T06:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Swissinfo",
@@ -722,11 +747,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T22:29:00-08:00",
+      "publishedDateTime": "2023-11-16T06:29:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "tvbeurope.com",
@@ -765,11 +790,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T20:16:00-08:00",
+      "publishedDateTime": "2023-11-16T04:16:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -817,11 +842,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T19:01:00-08:00",
+      "publishedDateTime": "2023-11-16T03:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "CRN Australia",
@@ -860,11 +885,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/amazon?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon?amp",
-      "publishedDateTime": "2023-11-15T16:00:00-08:00",
+      "publishedDateTime": "2023-11-16T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -912,11 +937,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T16:00:00-08:00",
+      "publishedDateTime": "2023-11-16T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -947,11 +972,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T16:00:00-08:00",
+      "publishedDateTime": "2023-11-16T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "c-span",
@@ -990,11 +1015,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://phys.org/news/2023-11-reactor-physics-advanced-neural-networks.amp",
       "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-reactor-physics-advanced-neural-networks.amp",
-      "publishedDateTime": "2023-11-15T16:00:00-08:00",
+      "publishedDateTime": "2023-11-16T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Phys.org",
@@ -1024,11 +1049,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T16:00:00-08:00",
+      "publishedDateTime": "2023-11-16T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -1058,11 +1083,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T16:00:00-08:00",
+      "publishedDateTime": "2023-11-16T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Science Daily",

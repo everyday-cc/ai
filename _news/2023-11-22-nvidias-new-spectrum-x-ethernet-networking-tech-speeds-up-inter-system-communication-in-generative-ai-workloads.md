@@ -55,6 +55,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Wipro Teams with NVIDIA to Bring the Power of Generative AI to Healthcare Insurance Companies"
+    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading technology services and consulting company, today announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI-driven strategies,"
+    publishedDateTime: 2023-11-21T13:04:00Z
+    webUrl: "https://www.itemonline.com/wipro-teams-with-nvidia-to-bring-the-power-of-generative-ai-to-healthcare-insurance-companies/article_1d55ebef-5e40-5a6d-b788-72e470c8cc78.html"
+    type: article
+    provider:
+      name: The Huntsville Item
+      domain: itemonline.com
+    quality: 43
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/5879-RTJ-Summer-Packages-300x250.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "NVIDIA Unveils Spectrum-X Ethernet Networking for AI with Dell, HPE, and Lenovo Integration"
     excerpt: "NVIDIA today announced that Dell Technologies, Hewlett Packard Enterprise and Lenovo will be the first to integrate"
     publishedDateTime: 2023-11-20T16:01:00Z

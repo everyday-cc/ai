@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-11-09-a-cautionary-tale-of-the-friendly-robot-co-worker.md",
+      "title": "A Cautionary Tale Of The Friendly Robot Co-Worker",
+      "excerpt": "I believe it is prudent to think about several of the possibilities that uninhibited AI could have broadly, but in this article, I am going to focus on the workplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e38c9a3173937eb80c8def/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/amp/",
+      "publishedDateTime": "2023-11-09T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay.md",
       "title": "The Permanence Of AI In Cybersecurity: Why This Trend Is Here To Stay",
       "excerpt": "AI-powered technologies have emerged as a powerful force in enhancing various aspects of cybersecurity, offering innovative solutions to combat rising threats.",
@@ -22,11 +74,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/09/the-permanence-of-ai-in-cybersecurity-why-this-trend-is-here-to-stay/amp/",
-      "publishedDateTime": "2023-11-09T03:30:00-08:00",
+      "publishedDateTime": "2023-11-09T11:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -73,11 +125,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/09/can-ai-and-web3-coexist-its-something-agencies-should-consider/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/11/09/can-ai-and-web3-coexist-its-something-agencies-should-consider/amp/",
-      "publishedDateTime": "2023-11-09T03:01:00-08:00",
+      "publishedDateTime": "2023-11-09T11:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -124,11 +176,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.bbc.com/news/uk-england-merseyside-67365823.amp",
       "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-merseyside-67365823.amp",
-      "publishedDateTime": "2023-11-09T01:33:00-08:00",
+      "publishedDateTime": "2023-11-09T09:33:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -166,11 +218,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T01:30:00-08:00",
+      "publishedDateTime": "2023-11-09T09:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "news.bloomberglaw",
@@ -200,11 +252,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T01:00:00-08:00",
+      "publishedDateTime": "2023-11-09T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -244,11 +296,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html/amp",
       "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html/amp",
-      "publishedDateTime": "2023-11-09T00:23:00-08:00",
+      "publishedDateTime": "2023-11-09T08:23:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Firstpost",
@@ -287,11 +339,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
       "cdnAmpWebUrl": "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
-      "publishedDateTime": "2023-11-08T23:48:00-08:00",
+      "publishedDateTime": "2023-11-09T07:48:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "orissapost",
@@ -330,11 +382,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
       "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
-      "publishedDateTime": "2023-11-08T23:01:00-08:00",
+      "publishedDateTime": "2023-11-09T07:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "telecom.economictimes.indiatimes",
@@ -374,11 +426,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T23:00:00-08:00",
+      "publishedDateTime": "2023-11-09T07:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",
@@ -426,11 +478,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T22:33:00-08:00",
+      "publishedDateTime": "2023-11-09T06:33:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Entrepreneur",
@@ -478,11 +530,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/danieladelorenzo/2023/11/09/this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danieladelorenzo/2023/11/09/this-norwegian-ai-powered-startup-has-big-plans-for-the-meat-industry/amp/",
-      "publishedDateTime": "2023-11-08T22:00:00-08:00",
+      "publishedDateTime": "2023-11-09T06:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -529,11 +581,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T20:51:00-08:00",
+      "publishedDateTime": "2023-11-09T04:51:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmochina",
@@ -581,11 +633,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T20:08:00-08:00",
+      "publishedDateTime": "2023-11-09T04:08:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TweakTown",
@@ -625,11 +677,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T18:01:00-08:00",
+      "publishedDateTime": "2023-11-09T02:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",
@@ -667,11 +719,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T16:00:00-08:00",
+      "publishedDateTime": "2023-11-09T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -701,11 +753,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T16:00:00-08:00",
+      "publishedDateTime": "2023-11-09T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Trinidad Express Newspapers",
@@ -744,11 +796,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T16:00:00-08:00",
+      "publishedDateTime": "2023-11-09T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "朝日新聞社",
@@ -787,11 +839,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T16:00:00-08:00",
+      "publishedDateTime": "2023-11-09T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Semiconductor Engineering",
@@ -821,11 +873,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T16:00:00-08:00",
+      "publishedDateTime": "2023-11-09T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Journal",
@@ -855,11 +907,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T16:00:00-08:00",
+      "publishedDateTime": "2023-11-09T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Daily Mail",
@@ -898,11 +950,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.networkworld.com/article/1246095/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.html/amp/",
       "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1246095/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.html/amp/",
-      "publishedDateTime": "2023-11-08T16:00:00-08:00",
+      "publishedDateTime": "2023-11-09T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Network World",
@@ -932,11 +984,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T16:00:00-08:00",
+      "publishedDateTime": "2023-11-09T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Journal",
@@ -975,11 +1027,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://wwmt.com/amp/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
       "cdnAmpWebUrl": "https://wwmt-com.cdn.ampproject.org/c/s/wwmt.com/amp/news/state/embracing-artificial-intelligence-how-ai-could-be-a-powerful-tool-in-northern-michigan",
-      "publishedDateTime": "2023-11-08T15:35:00-08:00",
+      "publishedDateTime": "2023-11-08T23:35:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "wwmt",
@@ -1018,11 +1070,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://amp.cnn.com/cnn/2023/11/08/business/cruise-recalls-self-driving-cars/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/11/08/business/cruise-recalls-self-driving-cars/index.html",
-      "publishedDateTime": "2023-11-08T15:25:00-08:00",
+      "publishedDateTime": "2023-11-08T23:25:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1046,58 +1098,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-robotics-funding-saw-another-dip-in-2023.md",
-      "title": "Robotics funding saw another dip in 2023",
-      "excerpt": "The spike in interest around generative AI — and all things artificial intelligence — has been a piece of maintaining its place. The last few years have also afforded robotics firms a chance to prove their efficacy in the real world, demonstrating the ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/",
-      "originalUrl": "https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/robot-arm-money-1.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/amp/",
-      "publishedDateTime": "2023-11-08T14:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

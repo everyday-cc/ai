@@ -83,6 +83,15 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Customised AI solutions for fintech sector prove a Keeper"
+    excerpt: "Keeper Solutions designs, develops and deploys AI-powered products for fast-scaling fintech companies across Europe and the United States"
+    publishedDateTime: 2023-11-17T19:26:00Z
+    webUrl: "https://www.businesspost.ie/commercial-reports/customised-ai-solutions-for-fintech-sector-prove-a-keeper/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 19
   - title: "2024 fintech trends and Finextra’s predictions for the new year"
     excerpt: "Launching today, Finextra’s PREDICT 2024 channel will gather insights and ideas from the industry's top thought leaders, capturing how the financial services industry will tap into technology trends  in 2024 and these predictions will be shared with our 800,000 monthly readers."
     publishedDateTime: 2023-11-18T20:17:00Z

@@ -13,11 +13,11 @@
       "heat": 119,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T06:41:07-08:00",
+      "publishedDateTime": "2023-11-22T14:41:07Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -57,11 +57,11 @@
       "heat": 82,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T06:23:46-08:00",
+      "publishedDateTime": "2023-11-22T14:23:46Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -100,11 +100,11 @@
       "heat": 136,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T11:40:27-08:00",
+      "publishedDateTime": "2023-11-21T19:40:27Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -153,11 +153,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35908820",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35908820",
-      "publishedDateTime": "2023-11-21T10:20:00-08:00",
+      "publishedDateTime": "2023-11-21T18:20:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -199,11 +199,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T09:24:48-08:00",
+      "publishedDateTime": "2023-11-21T17:24:48Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -243,11 +243,11 @@
       "heat": 75,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T05:22:00-08:00",
+      "publishedDateTime": "2023-11-21T13:22:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "in.mashable",
@@ -286,11 +286,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T14:41:00-08:00",
+      "publishedDateTime": "2023-11-20T22:41:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "SiliconANGLE",
@@ -329,11 +329,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/amp/",
-      "publishedDateTime": "2023-11-20T02:13:00-08:00",
+      "publishedDateTime": "2023-11-20T10:13:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -381,11 +381,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/",
-      "publishedDateTime": "2023-11-19T21:33:00-08:00",
+      "publishedDateTime": "2023-11-20T05:33:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -433,11 +433,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T08:27:58-08:00",
+      "publishedDateTime": "2023-11-17T16:27:58Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -486,11 +486,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/amazon?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon?amp",
-      "publishedDateTime": "2023-11-15T16:00:00-08:00",
+      "publishedDateTime": "2023-11-16T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -538,11 +538,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T16:00:00-08:00",
+      "publishedDateTime": "2023-11-16T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -573,11 +573,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T12:46:00-08:00",
+      "publishedDateTime": "2023-11-14T20:46:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Finextra",
@@ -607,11 +607,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T12:22:00-08:00",
+      "publishedDateTime": "2023-11-14T20:22:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Streaming Media Magazine",
@@ -641,11 +641,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T11:00:00-08:00",
+      "publishedDateTime": "2023-11-14T19:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -675,11 +675,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T10:00:00-08:00",
+      "publishedDateTime": "2023-11-14T18:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -709,11 +709,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T07:36:00-08:00",
+      "publishedDateTime": "2023-11-14T15:36:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -743,11 +743,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T06:33:00-08:00",
+      "publishedDateTime": "2023-11-14T14:33:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -795,11 +795,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T16:00:00-08:00",
+      "publishedDateTime": "2023-11-14T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Reader's Digest",
@@ -829,11 +829,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T15:03:00-08:00",
+      "publishedDateTime": "2023-11-13T23:03:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IGN",
@@ -872,11 +872,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35745693",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35745693",
-      "publishedDateTime": "2023-11-13T03:30:00-08:00",
+      "publishedDateTime": "2023-11-13T11:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -906,11 +906,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T18:06:00-08:00",
+      "publishedDateTime": "2023-11-13T02:06:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Inferse",
@@ -949,11 +949,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T15:59:00-08:00",
+      "publishedDateTime": "2023-11-12T23:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Hackaday",
@@ -992,11 +992,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T13:00:00-08:00",
+      "publishedDateTime": "2023-11-12T21:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Mandarin",
@@ -1026,11 +1026,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T07:45:00-08:00",
+      "publishedDateTime": "2023-11-11T15:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "inforum",
@@ -1069,11 +1069,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/aws?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/aws?amp",
-      "publishedDateTime": "2023-11-10T13:19:00-08:00",
+      "publishedDateTime": "2023-11-10T21:19:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1112,11 +1112,11 @@
       "heat": 251,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T12:39:56-08:00",
+      "publishedDateTime": "2023-11-10T20:39:56Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -1165,11 +1165,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T08:57:42-08:00",
+      "publishedDateTime": "2023-11-10T16:57:42Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -1218,11 +1218,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T11:54:00-08:00",
+      "publishedDateTime": "2023-11-08T19:54:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -1271,11 +1271,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T10:47:42-08:00",
+      "publishedDateTime": "2023-11-08T18:47:42Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

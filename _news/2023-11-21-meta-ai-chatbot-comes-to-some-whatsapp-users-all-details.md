@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Baidu's AI Chatbot Earnie 4 Is Off To A Good Start, Says Bullish Analyst"
+    excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
+    publishedDateTime: 2023-11-22T18:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-s-ai-chatbot-earnie-4-is-off-to-a-good-start-says-bullish-analyst-1032843810"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/11/22/shutterstock_2284768673.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "WhatsApp gets Meta’s new AI chatbot. Here’s how it works"
     excerpt: "Meta is infusing its AI capabilities to WhatsApp. WhatsApp Beta users on Android can use the new feature, which can be accessed using a new shortcut button, strategically placed in the 'Chats' section"
     publishedDateTime: 2023-11-21T10:23:00Z

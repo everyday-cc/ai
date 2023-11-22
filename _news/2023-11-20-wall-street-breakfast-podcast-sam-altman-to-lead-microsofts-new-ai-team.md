@@ -347,6 +347,20 @@ related:
       name: scmp.com
       domain: scmp.com
     quality: 44
+  - title: "Microsoft, OpenAI sued over alleged unauthorized use of nonfiction authors’ work in AI training"
+    excerpt: "Artificial intelligence startup OpenAI and Microsoft Corp. have been hit with a new lawsuit alleging that the companies violated copyright by using the works of nonfiction authors to train AI models, including OpenAI’s ChatGPT. Julian Sancton ..."
+    publishedDateTime: 2023-11-22T16:10:00Z
+    webUrl: "https://siliconangle.com/2023/11/22/microsoft-openai-sued-alleged-unauthorized-use-nonfiction-authors-work-ai-training/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 42
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/hammer-620011_1280.jpg"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "OpenAI CEO Sam Altman discusses possible return, mulls new AI venture, source says"
     excerpt: "A day after the board fired him in a surprise move that rocked the tech world, Altman was talking with OpenAI executives about improving the company's governance structure, the source said."
     publishedDateTime: 2023-11-19T13:24:00Z

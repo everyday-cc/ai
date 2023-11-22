@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/now-that-gene
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/now-that-generative-ai-is-here-where-will-all-the-data-come-from/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/now-that-generative-ai-is-here-where-will-all-the-data-come-from/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/62879c4bc9d8e1a64ac60506/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -29,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "7Mw3P8kwHD8n+5GcZkHj7KoK8plp7V3e4nV/K8vYHCZO3MtWSJiakCV6eFntO8IDy3ktvCyopdXkPax25ysJAPDiolMeIhuZM5R3GB1MFQrivdV3EZJVHJ2tvKKI5mvCOZQOqrWt9tgErVkhG9DGVQaUijqksOzz6o+9Cc5+bCmLyLXY1mSYfYibI2TUGX2NWmdJbMVX9/rpR4J87guFjwbYIpT1OrLcYyGX9neKQW6FKObQLYYzVUonE1KnpfMLC9V7wWnDODqNgvIEc+Ci82Gm3EDcwtTijPwvyRsuhc257iVOz4VF7oj/L93HwuWeZY7eFgydKNE2ZVr5qoQJG6mVU34djRjuHezS/0A3yHU=;KFjkInZoeoucx0XCi56c9w=="
+secured: "fIQ9kReSKkVj2rCQpE4h0nbEduk3Bh7Ndg9PXZ6aFlgkzaUxXB9blWG3YOnvpfdNJ1ZNoTIvEJQ44TmzA8b5S+k6augJzB1lto5s3lHYjlARc2u0RUQbzS/b0EiWCqsJkMsuNsCGtkMqj6Ig0x7eIhpZoqMvqqanHy/CqLLkCPTRX0MmAckdgPcNxyFrnM+UiV7jtt0hkR/AEHi40ABnvTA53UcNg/xjsj/BrtUpViZaJohWSHFkGQnhPpv8twAT0wu9w61qe/Q5a3EHrG+hXU8lI9uNYjWuURTDyJPU0s1Zwf49q911phb6izGqsq96FwWfeiCRmi1AK+8skmn44wC8JHXaslmmnEZVqzTS+bpfNAOxW9YnulYPyYboRreVf7oR8gL9NXDlDL1dwWCn/pSJYuA4q3gJ9JkvNZQDC59Y0+8J7z4zcT8PEVaguLl9fJPNhgbn9WlvZS0QaWTJVyIfPVxdbAzBLDkxeezO73q9ejMOd70o0vHnoiFsKIw0Ru02vka8bCtovJMriQCZuQ==;FrB/TGT78cserE7woIa1Ag=="
 ---
 

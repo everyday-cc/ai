@@ -2,6 +2,57 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-10-13-1-hot-artificial-intelligence-ai-stock-im-buying-more-of-in-october.md",
+      "title": "1 Hot Artificial Intelligence (AI) Stock I'm Buying More of in October",
+      "excerpt": "It does this by utilizing a segment of AI known as machine learning. By analyzing trillions of signals weekly, CrowdStrike's platform knows what is normal activity and what is a threat. This was a key innovation when CrowdStrike first came on the scene, but now multiple competitors offer the same product.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/13/1-hot-artificial-intelligence-ai-stock-im-buying-i/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/13/1-hot-artificial-intelligence-ai-stock-im-buying-i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/749900/it-team-solving-a-problem.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-13T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-three-questions-to-ask-yourself-before-launching-a-generative-ai-project.md",
       "title": "Three Questions To Ask Yourself Before Launching A Generative AI Project",
       "excerpt": "Before ideating and investing in your own generative AI project, I suggest approaching the project just as you would with any other visionary tech.",
@@ -22,11 +73,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/amp/",
-      "publishedDateTime": "2023-10-13T04:45:00-07:00",
+      "publishedDateTime": "2023-10-13T11:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -73,11 +124,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T04:37:00-07:00",
+      "publishedDateTime": "2023-10-13T11:37:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -125,11 +176,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.infoworld.com/article/3708631/google-indemnifies-generative-ai-customers-over-ip-rights-claims.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708631/google-indemnifies-generative-ai-customers-over-ip-rights-claims.amp.html",
-      "publishedDateTime": "2023-10-13T04:37:00-07:00",
+      "publishedDateTime": "2023-10-13T11:37:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoWorld",
@@ -176,11 +227,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/sap/2023/10/13/aided-by-artificial-intelligence-business-networks-set-to-transform-core-operational-processes/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/10/13/aided-by-artificial-intelligence-business-networks-set-to-transform-core-operational-processes/amp/",
-      "publishedDateTime": "2023-10-13T04:30:00-07:00",
+      "publishedDateTime": "2023-10-13T11:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -227,11 +278,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.amp.html",
       "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.amp.html",
-      "publishedDateTime": "2023-10-13T04:13:00-07:00",
+      "publishedDateTime": "2023-10-13T11:13:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Week",
@@ -271,11 +322,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/",
-      "publishedDateTime": "2023-10-13T04:00:00-07:00",
+      "publishedDateTime": "2023-10-13T11:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -323,11 +374,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T03:48:00-07:00",
+      "publishedDateTime": "2023-10-13T10:48:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -374,11 +425,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T03:16:00-07:00",
+      "publishedDateTime": "2023-10-13T10:16:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -426,11 +477,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html",
       "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html",
-      "publishedDateTime": "2023-10-13T03:01:00-07:00",
+      "publishedDateTime": "2023-10-13T10:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Deccan Chronicle",
@@ -460,11 +511,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T02:48:00-07:00",
+      "publishedDateTime": "2023-10-13T09:48:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Advanced Television",
@@ -503,11 +554,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2023/10/13/ai-could-be-apples-next-chapter/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/10/13/ai-could-be-apples-next-chapter/amp/",
-      "publishedDateTime": "2023-10-13T02:15:00-07:00",
+      "publishedDateTime": "2023-10-13T09:15:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -554,11 +605,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/meta-llama2-open-source-mark-zuckerberg-balls-replit-amjad-masad-2023-10?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-llama2-open-source-mark-zuckerberg-balls-replit-amjad-masad-2023-10?amp",
-      "publishedDateTime": "2023-10-13T02:00:00-07:00",
+      "publishedDateTime": "2023-10-13T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -605,11 +656,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T02:00:00-07:00",
+      "publishedDateTime": "2023-10-13T09:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -657,11 +708,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
-      "publishedDateTime": "2023-10-13T00:54:00-07:00",
+      "publishedDateTime": "2023-10-13T07:54:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -710,11 +761,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-meity-discloses-the-draft-national-strategy-on-robotics-3271674/lite/",
       "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-meity-discloses-the-draft-national-strategy-on-robotics-3271674/lite/",
-      "publishedDateTime": "2023-10-13T00:39:00-07:00",
+      "publishedDateTime": "2023-10-13T07:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Financial Express",
@@ -753,11 +804,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.stattimes.com/amp/logistics/ceva-to-use-robots-from-boston-dynamics-in-los-angeles-facility-1350070",
       "cdnAmpWebUrl": "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/amp/logistics/ceva-to-use-robots-from-boston-dynamics-in-los-angeles-facility-1350070",
-      "publishedDateTime": "2023-10-13T00:35:00-07:00",
+      "publishedDateTime": "2023-10-13T07:35:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "air cargo",
@@ -796,11 +847,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m",
       "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m",
-      "publishedDateTime": "2023-10-13T00:29:00-07:00",
+      "publishedDateTime": "2023-10-13T07:29:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ITWeb",
@@ -840,11 +891,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T23:39:00-07:00",
+      "publishedDateTime": "2023-10-13T06:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "New Atlas",
@@ -892,11 +943,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html/amp",
       "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html/amp",
-      "publishedDateTime": "2023-10-12T23:27:00-07:00",
+      "publishedDateTime": "2023-10-13T06:27:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "moneycontrol.com",
@@ -936,11 +987,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.ndtv.com/science/instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds-4477014/amp/1",
       "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds-4477014/amp/1",
-      "publishedDateTime": "2023-10-12T22:39:00-07:00",
+      "publishedDateTime": "2023-10-13T05:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "NDTV",
@@ -979,11 +1030,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/12/elon-musk-unveils-xai-a-game-changer-for-investors/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/12/elon-musk-unveils-xai-a-game-changer-for-investors/amp/",
-      "publishedDateTime": "2023-10-12T17:50:00-07:00",
+      "publishedDateTime": "2023-10-13T00:50:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1031,11 +1082,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/philipmaymin/2023/10/13/artificial-general-intelligence-agi-is-one-prompt-away/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/philipmaymin/2023/10/13/artificial-general-intelligence-agi-is-one-prompt-away/amp/",
-      "publishedDateTime": "2023-10-12T17:00:00-07:00",
+      "publishedDateTime": "2023-10-13T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1084,11 +1135,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.govtech.com/fs/waymos-santa-monica-launch-spurs-excitement-apprehension?_amp=true",
       "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/waymos-santa-monica-launch-spurs-excitement-apprehension?_amp=true",
-      "publishedDateTime": "2023-10-12T15:49:00-07:00",
+      "publishedDateTime": "2023-10-12T22:49:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Government Technology",
@@ -1127,11 +1178,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/80-of-enterprises-will-have-incorporated-ai-by-2026-according-to-a-gartner-report/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/80-of-enterprises-will-have-incorporated-ai-by-2026-according-to-a-gartner-report/",
-      "publishedDateTime": "2023-10-12T14:05:00-07:00",
+      "publishedDateTime": "2023-10-12T21:05:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -1154,49 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-ambulatory-infusion-therapy-services-market-insights-2023-innovations-and-technological-advancements-till-2031.md",
-      "title": "Ambulatory Infusion Therapy Services Market Insights 2023: Innovations And Technological Advancements Till 2031",
-      "excerpt": "Recent trends underscore the importance of digital transformation, with an emphasis on artificial intelligence and data analytics to decipher complex consumer patterns. Ambulatory Infusion Therapy Services Market Driving Factors: The driving factors behind ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107234564/Ambulatory-Infusion-Therapy-Services-Market-Insights-2023-Innovations-And-Technological-Advancements-Till-2031",
-      "originalUrl": "https://menafn.com/1107234564/Ambulatory-Infusion-Therapy-Services-Market-Insights-2023-Innovations-And-Technological-Advancements-Till-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?288618",
-          "width": 375,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

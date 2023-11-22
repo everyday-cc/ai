@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-excerpt: "Flywheel provides a sophisticated infrastructure for the curation of high-quality, standardized datasets within a secure, scalable, and user-friendly SaaS solution. The platform facilitates an accelerated process to prepare and train data for AI model development and supports research among pharmaceutical and life sciences companies,"
-publishedDateTime: 2023-11-22T14:21:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-flywheel-collaborates-with-microsoft-nvidia-propel-end-to-/2023/11/22/9922491.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-flywheel-collaborates-with-microsoft-nvidia-propel-end-to-/2023/11/22/9922491.htm"
+excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
+publishedDateTime: 2023-11-22T14:42:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
+webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
@@ -249,6 +249,15 @@ related:
       name: datacenterfrontier.com
       domain: datacenterfrontier.com
     quality: 36
+  - title: "Microsoft Rolls Out Host of New AI Features at Ignite 2023"
+    excerpt: "From new copilots and AI development tools, to vector search and AI chips, artificial intelligence featured prominently in Microsoft’s annual Ignite"
+    publishedDateTime: 2023-11-17T21:44:00Z
+    webUrl: "https://www.datanami.com/2023/11/17/microsoft-rolls-out-host-of-new-ai-features-at-ignite-2023/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
   - title: "Former OpenAI boss to lead Microsoft Advanced AI division"
     excerpt: "Shenanigans over the weekend have seen OpenAI’s former CEO join Microsoft and Twitch’s former CEO step in as OpenAI’s interim CEO."
     publishedDateTime: 2023-11-20T07:54:00Z
@@ -323,6 +332,6 @@ related:
       domain: sinchew.com.my
     quality: 25
 
-secured: "D41Jd7pf1FDyhDL4XUFBptJyM0E4Zqd9smFLIUSEqMyzpOeD5/HHaMHMsvZYYe8IqGVNMdO/v411N6G1rF9RxYUQuvQIBMIFu3EAq4L8Ink7qWVvnZD+/rDJfvWxIBYdix+28hS1EM7xFV7QWtrFLO5piXEP15fhVgYyK4WLGHJuAiyz/90GeKZLvK5gZjGAfYcckAGj5ADVygqrpNEHBaB7VzNy2KMJzEuIXBmLa95yIeFPNJ24a4oIvv+ai7SfBKQw0OPdloPh30/aGAza9lxWaErBuuuaCsNwv9YCplOzQ+eKSCa9O4tZ2TW1Y8CPK26gmGkAabgWdiKxZlelhlxOsXrQPsIuzL3p9pMpRjBwdTQ1n91kNg0i9zm3Ye2apGVj189nfPMphLVR83CmMtUF8G1AUsU2ERXGv+vg+VQ3U6o/XCeR0/l2zb3FPhMHo2+5jmReIwaRingSq7m44Z7iNN+CqOd+D/VbIoP40WKLNjBiLs7vOjXkVH1PmNur/7PfX1tUPXTPUaqHQkHIGw==;QGHVmOj/5Y+HFrR7v7l8dQ=="
+secured: "Ir/E66v+38jZ744Ne6xIDUb5Te2FJxeIgyr+I2OB21i4vUD0fXjxd46DKZGWaXm2DvgEPqd6pv1X80TwGmmVyjSI2TfUBUfgDevo7BuyfwFm2mhvF7v8X/9lHJUO3KH1NIqyB8kv8cOduYCGtr70MS6L2dRLu8L2W7IdlEJONFkrDNRD4SD/fFFQFIvHjFQjYgHztdcYiWMLyhg602R5/W+WcXplSb6yUGBQsEPYdelKPTgFUNBSHZFP2LSo86R3lopdf69uZFi67GvTYnJTGtwdXRiM3UdWe9BaIZw6ZVSKjCdY8rNnSWVFkDkqRzAeAL17fNvauFzTWzy8UMiCT6ARDqV6yFjKtQnkMcR1P18=;0Yqwq5yKM+cUYDzvBzD/lw=="
 ---
 

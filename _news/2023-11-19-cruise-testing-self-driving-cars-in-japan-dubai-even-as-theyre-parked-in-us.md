@@ -33,6 +33,20 @@ related:
         width: 800
         height: 375
         isCached: true
+  - title: "CEO of self-driving Cruise out at GM"
+    excerpt: "General Motors' self-driving-car unit, Cruise, is going through leadership changes following the loss of permits and the pause of operations in California."
+    publishedDateTime: 2023-11-20T23:03:00Z
+    webUrl: "https://sjvsun.com/business/ceo-of-self-driving-cruise-out-at-gm/"
+    type: article
+    provider:
+      name: The San Joaquin Valley Sun
+      domain: sjvsun.com
+    quality: 24
+    images:
+      - url: "https://sjvsun.com/wp-content/uploads/2023/11/SUN-OG-_-Feat-162.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "aAUobP+L0WqDwvgvtU/vbGIDsGBUfHNnjeKr+lMggkOSUVAtWeu22NVU7+n1S2Yn4tj9LsFNJ4N0FeFs7sFMBmadkzjugobqAn/Q+lRB9AZlLVXTsOo4SG8AM4rtynhjIx5jErNcSmjtYguyVbHEdwNFhAymJPnMHHx5JGu3SJVcZKLG0eNjuq/mmAT79VImePNnpcORObYFPu+GYyiVDYiTI3fAcO5uFovF74fmre2LeC3LAjWC38eZ7ZI32Q3DUMT9r7jbkq9ESglrbkIqLcjr1G/wd4W+WZWcCrpM19cWVaBDOK/AtYzPQagAnkMTKUju3qtsfQIJgXAY2MUgeezhBe1tjSrh2Rq2FcB3juSyeErApTx1433TmATOF875dmUdg0r0QTKsogt4zJpum45lyJ3liQd6EbATyDpdMKYGs1pbStbW4dCG4vP0OHVnSZ3JOqO9K0ZscqYsBKGfsZ3XGnvvwSMzgHzAI9la2L/JfX2uDEltrWQz+7VcVir70ZpXhnhkSJi9brVvGD2COA==;BNI1M049+TN8mluHlWo7SA=="
 ---

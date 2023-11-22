@@ -35,15 +35,6 @@ related:
         width: 1024
         height: 848
         isCached: true
-  - title: "Genentech, NVIDIA Enter Into Strategic AI Research Collaboration"
-    excerpt: "Tuesday announced a multi-year strategic research collaboration with NVIDIA that couples Genentech's artificial intelligence (AI) capabilities, extensive biological and molecular datasets, and research expertise with NVIDIA's world-leading accelerated computing capabilities and AI to speed up drug discovery and development."
-    publishedDateTime: 2023-11-21T16:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/genentech-nvidia-enter-into-strategic-ai-research-collaboration-1032840044"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Artificial Intelligence in Banking: Transforming Customer Experiences with FinTech"
     excerpt: "Introduction Artificial Intelligence (AI) has become a revolutionary force in the banking sector, reshaping the way financial institutions operate and interact with their customers. In tandem with Financial Technology (FinTech),"
     publishedDateTime: 2023-11-21T12:21:00Z
@@ -87,20 +78,6 @@ related:
       - url: "https://www.unite.ai/wp-content/uploads/2023/11/9d68dfbf-055b-4873-845c-ab4b4963221b-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Singapore’s fintech sector struggling to find talent"
-    excerpt: "In a 2021 Accenture survey, nearly two out of three firms blamed their talent gap on not being able to get work permits for foreigners. Nowadays, only 37 percent cite difficulty in securing employment passes as a hiring challenge. For this dramatic change, the employers and employees should thank Hong Kong."
-    publishedDateTime: 2023-11-20T15:59:00Z
-    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/11/21/2003809473"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 24
-    images:
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
-        width: 1200
-        height: 1200
         isCached: true
 
 secured: "/eBIFT2j0pi6mDh27ScDy0CB0Gniw6xD1UaxurvNpTSYKflS3CJamp4jbcy9KjloaAKyJ9XwerJcsn9PRxeyabNirvuwG4lckH2CIKk1XAzgxMj7G0PWfCUpQDzHGenn1TZ1p8aYKWzmks55hWOhDOf/tjdmtU/ydGNKJSpufmZd9iAjm/FW2aaihuysf6CDDeVgj9KxKfHkHdHqxov1L62y7MzITGi85Z4fYUxoVo6/muhEBG2Nx54RyWzMv50CDgznby4z2ymFEHNuu3HD4zSMWjH9qzFdXUYWOnBdYUvJuoizPfCxBiEzTSfLNpFU5gcYe2QHXAqiZG4MEKa2/SRCgNx7GSIVORVNhVR5A4E7HWU+dzZ/VzldGfe40HRdSWhH6rGDHJhXeNhQmqK259S6zejcnpfFHIya1lZAzlmPTjygfy0Dyu4ERvizC3tmf+UM2YYK+YDuLz66DdCnPeoPA4Nhm/1+6H7eKLYtZBvpMHj7X9yh7EWjX2G4YYCTrc9H3KN72DVENACY5lFx0Q==;iSmIROoWflVQS0owDgJm5w=="

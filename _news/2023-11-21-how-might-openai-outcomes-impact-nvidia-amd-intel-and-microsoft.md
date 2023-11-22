@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/amp/"
 type: article
 quality: 104
-heat: 334
+heat: 344
 published: true
 
 provider:
@@ -245,6 +245,15 @@ related:
       name: datacenterfrontier.com
       domain: datacenterfrontier.com
     quality: 36
+  - title: "Microsoft Rolls Out Host of New AI Features at Ignite 2023"
+    excerpt: "From new copilots and AI development tools, to vector search and AI chips, artificial intelligence featured prominently in Microsoft’s annual Ignite"
+    publishedDateTime: 2023-11-17T21:44:00Z
+    webUrl: "https://www.datanami.com/2023/11/17/microsoft-rolls-out-host-of-new-ai-features-at-ignite-2023/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
   - title: "Former OpenAI boss to lead Microsoft Advanced AI division"
     excerpt: "Shenanigans over the weekend have seen OpenAI’s former CEO join Microsoft and Twitch’s former CEO step in as OpenAI’s interim CEO."
     publishedDateTime: 2023-11-20T07:54:00Z
@@ -273,13 +282,13 @@ related:
       domain: aol.com
     quality: 33
   - title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-    excerpt: "Flywheel provides a sophisticated infrastructure for the curation of high-quality, standardized datasets within a secure, scalable, and user-friendly SaaS solution. The platform facilitates an accelerated process to prepare and train data for AI model development and supports research among pharmaceutical and life sciences companies,"
-    publishedDateTime: 2023-11-22T14:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-flywheel-collaborates-with-microsoft-nvidia-propel-end-to-/2023/11/22/9922491.htm"
+    excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
+    publishedDateTime: 2023-11-22T14:42:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 29
   - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
     excerpt: "KKCompany is announcing its participation in the Microsoft startup initiative, \"Highway to 100 Unicorns,\" a startup accelerator program aimed to support startup innovation and strengthen the startup ecosystem in the Asia region."

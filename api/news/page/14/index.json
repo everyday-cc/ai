@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-11-09-robotics-funding-saw-another-dip-in-2023.md",
+      "title": "Robotics funding saw another dip in 2023",
+      "excerpt": "The spike in interest around generative AI — and all things artificial intelligence — has been a piece of maintaining its place. The last few years have also afforded robotics firms a chance to prove their efficacy in the real world, demonstrating the ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/",
+      "originalUrl": "https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/robot-arm-money-1.jpg?resize=1200,645",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/amp/",
+      "publishedDateTime": "2023-11-08T22:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-natural-language-processing-nordics.md",
       "title": "Natural Language Processing - Nordics",
       "excerpt": "The market size in the Natural Language Processing market is projected to reach US$0.93bn in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 16.14%, resulting ...",
@@ -13,11 +65,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T14:27:00-08:00",
+      "publishedDateTime": "2023-11-08T22:27:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Statista",
@@ -56,11 +108,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T13:40:00-08:00",
+      "publishedDateTime": "2023-11-08T21:40:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -107,11 +159,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T11:54:00-08:00",
+      "publishedDateTime": "2023-11-08T19:54:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -160,11 +212,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T10:47:42-08:00",
+      "publishedDateTime": "2023-11-08T18:47:42Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -212,11 +264,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T10:37:00-08:00",
+      "publishedDateTime": "2023-11-08T18:37:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",
@@ -264,11 +316,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T10:24:00-08:00",
+      "publishedDateTime": "2023-11-08T18:24:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Medscape",
@@ -307,11 +359,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "publishedDateTime": "2023-11-08T10:07:00-08:00",
+      "publishedDateTime": "2023-11-08T18:07:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -358,11 +410,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T10:00:00-08:00",
+      "publishedDateTime": "2023-11-08T18:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",
@@ -410,11 +462,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T09:41:32-08:00",
+      "publishedDateTime": "2023-11-08T17:41:32Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -462,11 +514,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/amp/",
-      "publishedDateTime": "2023-11-08T09:38:00-08:00",
+      "publishedDateTime": "2023-11-08T17:38:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -513,11 +565,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T09:00:00-08:00",
+      "publishedDateTime": "2023-11-08T17:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -565,11 +617,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T08:57:00-08:00",
+      "publishedDateTime": "2023-11-08T16:57:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "GeekWire",
@@ -618,11 +670,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/amp/",
-      "publishedDateTime": "2023-11-08T08:03:00-08:00",
+      "publishedDateTime": "2023-11-08T16:03:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -669,11 +721,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11?amp",
-      "publishedDateTime": "2023-11-08T07:52:00-08:00",
+      "publishedDateTime": "2023-11-08T15:52:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -721,11 +773,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T07:26:00-08:00",
+      "publishedDateTime": "2023-11-08T15:26:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -773,11 +825,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-11-08T07:19:00-08:00",
+      "publishedDateTime": "2023-11-08T15:19:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -824,11 +876,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T07:06:00-08:00",
+      "publishedDateTime": "2023-11-08T15:06:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -876,11 +928,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/amp/",
-      "publishedDateTime": "2023-11-08T07:06:00-08:00",
+      "publishedDateTime": "2023-11-08T15:06:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -928,11 +980,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/",
-      "publishedDateTime": "2023-11-08T06:59:00-08:00",
+      "publishedDateTime": "2023-11-08T14:59:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -979,11 +1031,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T06:45:00-08:00",
+      "publishedDateTime": "2023-11-08T14:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TiogaPublishing.com",
@@ -1022,11 +1074,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/08/commvault-cloud-unifies-data-protection-security-and-recovery/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/11/08/commvault-cloud-unifies-data-protection-security-and-recovery/amp/",
-      "publishedDateTime": "2023-11-08T06:08:00-08:00",
+      "publishedDateTime": "2023-11-08T14:08:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1075,11 +1127,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T06:00:00-08:00",
+      "publishedDateTime": "2023-11-08T14:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AOL",
@@ -1109,11 +1161,11 @@
       "heat": 70,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T04:41:00-08:00",
+      "publishedDateTime": "2023-11-08T12:41:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1161,11 +1213,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/amp/",
-      "publishedDateTime": "2023-11-08T04:15:00-08:00",
+      "publishedDateTime": "2023-11-08T12:15:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1189,50 +1241,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-the-bibfconcludes-a-tech-masterclass-on-machine-learning-in-banking-finance.md",
-      "title": "The BIBFconcludes a tech masterclass on \"Machine learning in banking & finance\"",
-      "excerpt": "Embracing machine learning technologies in the financial sector allows institutions to gain a competitive edge, enhance decision-making processes, and improve financial endeavors.\" Ms. Maryam also mentioned that the 'Tech Masterclass' concept was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/the-bibfconcludes-a-tech-masterclass-on-machine-learning-in-banking-and-finance-bl65vhzi",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/the-bibfconcludes-a-tech-masterclass-on-machine-learning-in-banking-and-finance-bl65vhzi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MTQ2Yjg3ODAtY2MwNy00/0/1-jpg.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/the-bibfconcludes-a-tech-masterclass-on-machine-learning-in-banking-and-finance-bl65vhzi?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/the-bibfconcludes-a-tech-masterclass-on-machine-learning-in-banking-and-finance-bl65vhzi?amp=1",
-      "publishedDateTime": "2023-11-08T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

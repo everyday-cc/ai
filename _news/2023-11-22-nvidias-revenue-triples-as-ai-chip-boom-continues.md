@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/11/21/nvidia-nvda-q3-earnings-report-2
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html"
 type: article
 quality: 104
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -97,6 +97,22 @@ related:
       - url: "https://www.reuters.com/resizer/olsenkQFIkM8i-kVq7lc2NN5NT4=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L42CT5JZ7VLKZDL3XOVLCAD3IE.jpg"
         width: 800
         height: 419
+        isCached: true
+  - title: "Nvidia Proves The Enormous Potential For Generative AI"
+    excerpt: "The exorbitant cost of GPU-accelerated systems for training and inference and latest to rush to find gold in mountains of corporate data are combining to exert tectonic forces on the datacenter landscape and push up a new Himalaya range – with Nvidia as its steepest and highest peak."
+    publishedDateTime: 2023-11-22T17:05:00Z
+    webUrl: "https://www.nextplatform.com/2023/11/22/nvidia-proves-the-enormous-potential-for-generative-ai/"
+    ampWebUrl: "https://www.nextplatform.com/2023/11/22/nvidia-proves-the-enormous-potential-for-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/22/nvidia-proves-the-enormous-potential-for-generative-ai/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "http://www.nextplatform.com/wp-content/uploads/2023/11/nvidia-q3-f2024-divisions.jpg"
+        width: 748
+        height: 511
         isCached: true
   - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
     excerpt: "Nvidia’s earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"

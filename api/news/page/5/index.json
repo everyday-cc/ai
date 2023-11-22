@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-16-new-deep-learning-ai-tool-helps-ecologists-monitor-rare-birds-through-their-songs.md",
+      "title": "New deep learning AI tool helps ecologists monitor rare birds through their songs",
+      "excerpt": "Researchers have developed a new deep learning AI tool that generates life-like birdsongs to train bird identification tools, helping ecologists to monitor rare species in the wild.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/11/231115113302.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/11/231115113302.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T22:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-16-holy-chips-microsofts-new-ai-silicon-will-power-its-chatty-assistants.md",
       "title": "Holy chips! Microsoft’s new AI silicon will power its chatty assistants",
       "excerpt": "Amid chip shortages that have driven up the prices of highly sought-after Nvidia AI GPUs, several companies have been designing or considering designing their own AI accelerator chips, including Amazon, OpenAI, IBM, and AMD. Microsoft also felt the need to make a custom silicon to push its own services to the fore.",
@@ -22,11 +65,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/amp/",
       "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/amp/",
-      "publishedDateTime": "2023-11-15T13:53:00-08:00",
+      "publishedDateTime": "2023-11-15T21:53:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -66,11 +109,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T12:54:00-08:00",
+      "publishedDateTime": "2023-11-15T20:54:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Ag Funder News",
@@ -109,11 +152,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T10:45:00-08:00",
+      "publishedDateTime": "2023-11-15T18:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Verge",
@@ -161,11 +204,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T08:56:00-08:00",
+      "publishedDateTime": "2023-11-15T16:56:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Financial Times",
@@ -195,11 +238,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T08:07:00-08:00",
+      "publishedDateTime": "2023-11-15T16:07:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -238,11 +281,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/15/microsoft-looks-to-free-itself-from-gpu-shackles-by-designing-custom-ai-chips/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/15/microsoft-looks-to-free-itself-from-gpu-shackles-by-designing-custom-ai-chips/amp/",
-      "publishedDateTime": "2023-11-15T08:00:00-08:00",
+      "publishedDateTime": "2023-11-15T16:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -291,11 +334,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T08:00:00-08:00",
+      "publishedDateTime": "2023-11-15T16:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "SiliconANGLE",
@@ -334,11 +377,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-nvidia-tensorrt-llm-update-ignite-2023/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-nvidia-tensorrt-llm-update-ignite-2023/?amp",
-      "publishedDateTime": "2023-11-15T07:00:00-08:00",
+      "publishedDateTime": "2023-11-15T15:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Trends",
@@ -386,11 +429,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T06:29:00-08:00",
+      "publishedDateTime": "2023-11-15T14:29:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Seeking Alpha",
@@ -429,11 +472,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T06:28:00-08:00",
+      "publishedDateTime": "2023-11-15T14:28:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechSpot",
@@ -481,11 +524,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T06:01:00-08:00",
+      "publishedDateTime": "2023-11-15T14:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Robot Report",
@@ -525,11 +568,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T06:00:00-08:00",
+      "publishedDateTime": "2023-11-15T14:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Morningstar",
@@ -568,11 +611,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T05:24:00-08:00",
+      "publishedDateTime": "2023-11-15T13:24:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "WSAY",
@@ -611,11 +654,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T04:31:00-08:00",
+      "publishedDateTime": "2023-11-15T12:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "SD Times",
@@ -663,11 +706,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T02:39:00-08:00",
+      "publishedDateTime": "2023-11-15T10:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Tech.co",
@@ -697,11 +740,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T02:16:00-08:00",
+      "publishedDateTime": "2023-11-15T10:16:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -731,11 +774,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T23:49:00-08:00",
+      "publishedDateTime": "2023-11-15T07:49:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Scientific Research Publishing",
@@ -765,11 +808,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T22:57:00-08:00",
+      "publishedDateTime": "2023-11-15T06:57:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -810,11 +853,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T21:38:00-08:00",
+      "publishedDateTime": "2023-11-15T05:38:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Cleveland.com",
@@ -844,11 +887,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T21:05:00-08:00",
+      "publishedDateTime": "2023-11-15T05:05:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Future Market Insights",
@@ -878,11 +921,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T21:01:00-08:00",
+      "publishedDateTime": "2023-11-15T05:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Phys.org",
@@ -912,11 +955,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T20:22:00-08:00",
+      "publishedDateTime": "2023-11-15T04:22:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Seeking Alpha",
@@ -955,11 +998,11 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T18:44:00-08:00",
+      "publishedDateTime": "2023-11-15T02:44:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Future Market Insights",
@@ -989,11 +1032,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T17:10:00-08:00",
+      "publishedDateTime": "2023-11-15T01:10:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1017,40 +1060,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-ai-accurately-predicts-therapy-outcomes-in-most-patients-with-ovarian-cancer.md",
-      "title": "AI Accurately Predicts Therapy Outcomes in Most Patients With Ovarian Cancer",
-      "excerpt": "An artificial intelligence (AI)–based prediction model was able to correctly predict therapy outcomes in 78% of patients with high-grade serous ovarian carcinoma (HGSOC) in a study published in Nature Communications. The model was found to be 80% ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ajmc.com/view/ai-accurately-predicts-therapy-outcomes-in-most-patients-with-ovarian-cancer",
-      "originalUrl": "https://www.ajmc.com/view/ai-accurately-predicts-therapy-outcomes-in-most-patients-with-ovarian-cancer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The American Journal of Managed Care",
-        "domain": "ajmc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

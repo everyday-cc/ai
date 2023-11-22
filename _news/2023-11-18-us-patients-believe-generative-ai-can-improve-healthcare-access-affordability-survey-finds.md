@@ -130,19 +130,19 @@ related:
         width: 1800
         height: 1013
         isCached: true
-  - title: "Artificial Intelligence: Intellectual Property Considerations for Your Business Operations"
-    excerpt: "Over the past couple of decades, artificial intelligence-enabled (AI) technologies have crept into the marketplace, providing businesses with internal- and external-facing services, such as customer support, search engine optimization, market research ..."
-    publishedDateTime: 2023-11-20T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-intellectual-6821463/"
+  - title: "AI Startup Stability Has a New Tool For Creating Generative Video"
+    excerpt: "Startup Stability is taking generative AI up a notch. While the technology has been used largely for photos and voice replications, Stability is making waves with a new tool for advanced AI-generated videos. The feature is called Stable Video Diffusion and ..."
+    publishedDateTime: 2023-11-22T16:46:00Z
+    webUrl: "https://hypebeast.com/2023/11/ai-startup-stability-generative-video-tool"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 29
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 37
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14909_3723.jpg"
-        width: 1200
-        height: 900
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F11%2Fsupreme-fall-winter-2023-week-14-release-list-drop-00.jpg?w=720&cbr=1&q=90&fit=max"
+        width: 720
+        height: 480
         isCached: true
   - title: "BP Says It's Expanding Use of Generative AI"
     excerpt: "“The service uses artificial intelligence and natural language processing to automate a variety of daily tasks such as writing emails and managing inboxes,” BP noted in the release. “By using the capabilities of copilot for Microsoft 365, BP can help ..."
@@ -152,6 +152,24 @@ related:
     provider:
       name: Rigzone
       domain: rigzone.com
+    quality: 19
+  - title: "How will cloud democratize generative AI?"
+    excerpt: "This article explores the role of the cloud in democratizing generative AI to everyone from startups to large enterprises."
+    publishedDateTime: 2023-11-22T11:54:00Z
+    webUrl: "https://www.embedded.com/how-will-cloud-democratize-generative-ai/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 19
+  - title: "U Receives $100 Million for Responsible AI Initiative"
+    excerpt: "The University of Utah recently received a $100 million investment for a new initiative on responsible artificial intelligence."
+    publishedDateTime: 2023-11-22T13:00:00Z
+    webUrl: "https://dailyutahchronicle.com/2023/11/22/responsible-ai-initiative/"
+    type: article
+    provider:
+      name: Daily Utah Chronicle
+      domain: dailyutahchronicle.com
     quality: 19
 
 secured: "aypBCpoxOfGe40QvpbwAq/qcZrretjbBT8jSUlI7tPKD5hRZKjxn2zaBwHJvHJswds9rkDaxUHYGrhQEoZimMus7jmgMth7TC0zZD0GaVXzTsVWPx+vZGOSs3dWNKmISaoa8LWB2rkcqjfkMcpKS5Kmwsb2ds7Z1Z9xnsoHmmGrfpSYEIpJEzgTMHHBOuBir1v0Iv0u3g6MbElNnDujrTNMvrIph3JNDAN8L5Cbe0HMsYCm0ndRIEjUaBhxIxy3VnOxJNT6uRY0KpbO9OIoTR6bXAmD9VCkPiu13Exii0w46wMXX0xtRsJk7e1XARygZwljQq0do2wUYgFF4noi+jg0M7UYIXvbgnvkTWXPbt8nZJ0Pg2GOCahSB9K2fZeoctR3MIxNgfqBWamm0HJODhKi0fNP8lxtiUdQ5NSHsHgxtzh6fTd6AYbWNkGgl2G1ARPCLMwcU4qWLcgsd3eDOA50FeXSyYtrI0cX3wYwv97BPM4fW8Co+j7uXg4tSEzdamrHRdEd96WfYm4rqNcEWHA==;pmUePqlRNO2LLzzshQ9YRQ=="
