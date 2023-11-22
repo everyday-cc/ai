@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Phoenix turns to artificial intelligence for improved wastewater monitoring"
-    excerpt: "From self-driving cars to automated services, artificial intelligence has been influencing every aspect of day-to-day life — even in ways we can’t see. In Phoenix,"
-    publishedDateTime: 2023-11-19T17:00:00Z
-    webUrl: "https://www.yourvalley.net/stories/phoenix-turns-to-artificial-intelligence-for-improved-wastewater-monitoring,461730"
-    type: article
-    provider:
-      name: Sun City West Independent
-      domain: yourvalley.net
-    quality: 37
-    images:
-      - url: "https://gc1.creativecirclecdn.com/yourvalley/medium/20231117-173000-RDH-Environmental-Installation.jpg"
-        width: 850
-        height: 531
-        isCached: true
   - title: "An innovative flush: Phoenix turns to artificial intelligence for improved wastewater monitoring"
     excerpt: "Kando Pulse is a wastewater intelligence platform built to “improve people’s lives and the environment,” according to Guy Cohen, chief product officer at Kando. The system uses sensors to obtain data from wastewater and translate it into insights that detect any irregularities within sewage."
     publishedDateTime: 2023-11-20T18:16:00Z

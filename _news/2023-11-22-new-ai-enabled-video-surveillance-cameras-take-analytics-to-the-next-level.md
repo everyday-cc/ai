@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/video-surveillance/article/53078
 webUrl: "https://www.securityinfowatch.com/video-surveillance/article/53078871/new-ai-enabled-video-surveillance-cameras-take-analytics-to-the-next-level"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How an ‘internet of AIs’ will take artificial intelligence to the next level"
+    excerpt: "It enables companies of all sizes to participate in the emerging AI computing economy. Artificial intelligence (AI) is a rapidly evolving field that seems likely to fall into the hands of major companies or organizations with nationally driven budgets."
+    publishedDateTime: 2023-11-22T11:59:00Z
+    webUrl: "https://cointelegraph.com/news/how-an-internet-of-ais-will-take-artificial-intelligence-to-the-next-level"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 49
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/storage/uploads/view/bc29d6439705f29c9b488f25462f8c33.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "dB8JGw5pS40idtQffau13lQ3wG0fAl3kUx5vxXXmNPhRNZPpelB95ojtlV/Xd4oOlmz9mj6PdTHiANZup0gPJ/XDRycXFIzg3eP6Codrh5IV3rFBTlXcuknsirQ+YknwTPuVfEo68sdVONbB8/zbTNohleVGGpzD5J3fGdcB9xAkKdd46adca86cmN5IlJqohw3j8LULmjqZcw8eHq07L106PRLrpEDEXVdexTsPo4cjxFjO41q08ZxEfTRo9i38GBTjKBewAPkZglTJZeRVZ+nPlD93GC0f9YFoDdSU9/MCrHniDYazPghuHi3U8bXjgPHQNPw5+dL7TfpW49L5XToPLMb/OblA9sPobbzNEa135/EhjswrcG/MlBpi3xVBhwOGiFJNhlZIGak0Bl91DQEVjxwq59dsT6P2GbCn4RpDbMefKZCgyMtidih4En378Qvl3N1U0Z9dKekuKY3WGEluZSOHIg/UamIyFwoA+Eq94GgSX7J2wR3Mce25qJnvNPs35xMsafko7ihq4AnTVg==;mlIIDnTWoIT4pKLlBDmWtQ=="
 ---

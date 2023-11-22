@@ -1,0 +1,36 @@
+---
+category: news
+title: "Physician staffing company Winnow AI acquired by national Aya Healthcare"
+excerpt: "San Diego-based Aya Healthcare has acquired Winnow AI, which was built out of Green-Hills-based SwitchPoint Ventures, according to a press release."
+publishedDateTime: 2023-11-22T12:40:00Z
+originalUrl: "https://www.bizjournals.com/nashville/news/2023/11/22/artificial-intelligence-ai-healthcare-winnow-aya.html"
+webUrl: "https://www.bizjournals.com/nashville/news/2023/11/22/artificial-intelligence-ai-healthcare-winnow-aya.html"
+ampWebUrl: "https://www.bizjournals.com/nashville/news/2023/11/22/artificial-intelligence-ai-healthcare-winnow-aya.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/11/22/artificial-intelligence-ai-healthcare-winnow-aya.amp.html"
+type: article
+quality: 53
+heat: 63
+published: false
+
+provider:
+  name: The Business Journals
+  domain: bizjournals.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+related:
+  - title: "Digital staffing company Aya Healthcare picks up Winnow AI to bolster its physician recruitment tech"
+    excerpt: "Digital staffing company Aya Healthcare acquired Winnow AI to bolster its physician recruitment capabilities as the industry grapples with a historic provider shortage. | It marks Aya Healthcare's third M&A deal in five months as the company works to build up its artificial intelligence capabilities for staffing,"
+    publishedDateTime: 2023-11-20T11:42:00Z
+    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/digital-staffing-company-aya-healthcare-picks-winnow-ai-bolster-its"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 19
+
+secured: "Nps1MQ2IUZEKEf7lhOO41hv4dsuIHNdWRHUUjwe/PHoQizWS/QBvcyPv8wMYOysDVeCtOFhIy7HrQRrqZF+OBIZCSf55Ar9T+GpLYrbQeWheXGdIbBhghOX4lFU0D8Ve+/adDovr/HIUejUJ3UwUBRMu2t/skIROQc09fpe4gz0NWSSwHVy/X/r2iShDEw+cPdAxOty4EHipp61kYqUjtgFoIEV4VoZgvvkdczSXSqApIJLlvSTQZQYc9c0bAQApL7CatBU/bYjFzsBurRTx8hnunExmc+GU4WFQzxwPWUUbP1yHKKkzrPZUj/xFXSpLgcMtqEqEzE2W8KQjdXt6f/8Owp5vbpnXJXOqYr623NPqNhKu1yp2fW60951wiwKGMSKGGh2kTZPC11n/wVVLv+Eu48fb3bJpbA05kThNPB6Jn6cDjS2SY2O/8/R3JfpZtvrSuowjweaRP+oBetQEI6TMHbGctarUKMcneVmsZMaPulAk8FuDhj7qWT2SQzmjjkYulKXt4puQK4ntNVdUgA==;VhqAwG17LOFJoHNG6EjT0A=="
+---
+

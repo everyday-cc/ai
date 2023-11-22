@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Using AI at the State Capitol to detect guns"
-    excerpt: "Here are five stories you need to know to start your day. It’s almost time for the high school football state finals and at the end of this playoff run, there are just two local teams remaining who will head to Ford Field this weekend: Ubly and Corunna."
-    publishedDateTime: 2023-11-21T12:43:00Z
-    webUrl: "https://www.wnem.com/video/2023/11/21/using-ai-state-capitol-detect-guns/"
-    ampWebUrl: "https://www.wnem.com/video/2023/11/21/using-ai-state-capitol-detect-guns/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wnem-com.cdn.ampproject.org/c/s/www.wnem.com/video/2023/11/21/using-ai-state-capitol-detect-guns/?outputType=amp"
-    type: article
-    provider:
-      name: WNEM-TV
-      domain: wnem.com
-    quality: 57
-    images:
-      - url: "https://gray-wnem-prod.cdn.arcpublishing.com/resizer/bXQTYY3GnDsK5pgXWzXjGsxSNmE=/800x450/smart/filters:quality(70)/do0bihdskp9dy.cloudfront.net/11-21-2023/t_d8fa081dfddb41dea8498d3e7d72a97b_name_file_1280x720_2000_v3_1_.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "CnI/NPPErs3QQsvYbjRa+R8swXgI2dccSC6uxJvP1AQCUkbOarzyLV+0FzO5kCFeceKUn/qIZj9fTuSJ/Ng5/SFWAdzvJapCdkXszDfE37Y1c3xaass+h8kyHNVboZfVM327I7rc8AOeH9iwv2Ai4GTtuOOFYiYk+sAg+bdvXiSIqgQhcElkjpiliYf0J4fKlJR6eX+OkqLOBTbWwaN2unUEPFbsMatpDXKMA6RZM97LqIu3wjztlNnQ4hChMgVK+H7ZKQjBAwCTBjFEKnRThy7/4p6P42QF6u3FyQ71ItMzoVwUNaSxd0S0taB+tTiOtPvTvvj+Pj7BbvrlaHY6Z6nGRLsOVhDrehSW6hjZWbpICjtL61jsmvvzLmy7KwR9xfa/ZJCXiiNjag1/qPW9Yx8XG+SsxVfAqMA/arl95y4m5SiD9JA8xez4iXsq6oYh213etvs8Y9zpbxz26tRY66vH9ydakbMft4k1w8D/M5Hn4IiOfym9ALFh/ozNBIBVfoLSh46CF6lJ4trNhbKB+w==;OMlcXlTL1Ipaf9HwGp7NMw=="
 ---

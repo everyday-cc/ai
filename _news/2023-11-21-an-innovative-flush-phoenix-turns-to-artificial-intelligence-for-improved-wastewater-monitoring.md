@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bizjournals.com/phoenix/news/2023/11/20/artificial-intel
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/phoenix/news/2023/11/20/artificial-intelligence-monitor-wastewater.amp.html"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Phoenix turns to artificial intelligence for improved wastewater monitoring"
-    excerpt: "From self-driving cars to automated services, artificial intelligence has been influencing every aspect of day-to-day life — even in ways we can’t see. In Phoenix,"
-    publishedDateTime: 2023-11-19T17:00:00Z
-    webUrl: "https://www.yourvalley.net/stories/phoenix-turns-to-artificial-intelligence-for-improved-wastewater-monitoring,461730"
-    type: article
-    provider:
-      name: Sun City West Independent
-      domain: yourvalley.net
-    quality: 37
-    images:
-      - url: "https://gc1.creativecirclecdn.com/yourvalley/medium/20231117-173000-RDH-Environmental-Installation.jpg"
-        width: 850
-        height: 531
-        isCached: true
   - title: "An innovative flush: Phoenix turns to artificial intelligence for improved wastewater monitoring"
     excerpt: "From self-driving cars to automated services, artificial intelligence has been influencing every aspect of day-to-day life – even in ways we can’t see. In Phoenix, artificial intelligence is helping the city from underground."
     publishedDateTime: 2023-11-17T22:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/amp/"
 type: article
 quality: 102
-heat: 475
+heat: 485
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sam Altman returns as OpenAI CEO after days of infighting at AI startup"
+    excerpt: "The move should quell an all-out employee revolt at the startup behind ChatGPT. Altman will report to a new board that includes former White House adviser Larry Summers."
+    publishedDateTime: 2023-11-22T11:27:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/sam-altman-returns-openai-ceo-infighting-ai-startup-rcna126214"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna126214"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna126214"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-08/230828-sam-altman-se-146p-e2b224.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Microsoft Hires Sam Altman Hours After OpenAI Rejects His Return"
     excerpt: "The announcement capped a tumultuous weekend for OpenAI, after Mr. Altman made a push to reclaim his job as C.E.O. of the artificial intelligence company."
     publishedDateTime: 2023-11-20T16:19:00Z

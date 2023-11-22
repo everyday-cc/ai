@@ -136,15 +136,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "US patients believe generative AI can improve healthcare access, affordability, survey finds"
-    excerpt: "More than half (53%) of U.S. consumers believe generative AI could improve access issues and shorten wait times for medical care, according to a survey by Deloitte's Center for Health Solutions. A little less than half of consumers (46%) say it has the potential to make healthcare more affordable."
-    publishedDateTime: 2023-11-17T20:05:00Z
-    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/us-patients-believe-generative-ai-can-improve-access-affordability"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 23
   - title: "BP Says It's Expanding Use of Generative AI"
     excerpt: "“The service uses artificial intelligence and natural language processing to automate a variety of daily tasks such as writing emails and managing inboxes,” BP noted in the release. “By using the capabilities of copilot for Microsoft 365, BP can help ..."
     publishedDateTime: 2023-11-22T10:01:00Z
@@ -153,6 +144,15 @@ related:
     provider:
       name: Rigzone
       domain: rigzone.com
+    quality: 19
+  - title: "How will cloud democratize generative AI?"
+    excerpt: "This article explores the role of the cloud in democratizing generative AI to everyone from startups to large enterprises."
+    publishedDateTime: 2023-11-22T11:54:00Z
+    webUrl: "https://www.embedded.com/how-will-cloud-democratize-generative-ai/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
     quality: 19
 
 secured: "XT/dU7xjCKsJOyrLDiA/NJHqbix7YwcbMWhmeJ0qgfl00vX6t1B9qCoJlk3LvBPESPZygk7RSiP8VvHK8cSCH1Lb+ZH0h/bENDamTMX0BMW+CwVl100XN46uVA2oMrJH3awVWsgfLPbHzv+2og86eSH7Q9yF4NW3D+GtLC9spYkMCJNjiCaBl/tSdT/EAQpfxz1jfdmEvbkDLfAfet2tB+vgiIMLn9l0Ri55nTrAGNBqczvjJvqjbTK4sBscp5Wy9LmtwfVzSWAKvjZQCxTKbw7NVWGziIwzxwezsYdOudNSf6EpSTBQerxskblm7CLFtmG840oqN8gzQpDTpBw4EbVQStt/Ho/an61J6RTdF9iyZBYjwJ9vCXqAg/6G11whhNbeEfdMw4U1niHKDDiGTYhM9H53SQ3d+JX6638CT+mgh7Q6DDAI84G/2nqVPPcRqQfS99n2ymedmEo3bpiCp1qnyK0XK3zTblm0Dg0afZ+P4rXCgs3T5KN50lJrmMVgHaNlQ1jtENZIo4OszYR6Lg==;W+2CmyCgcNAO35ZjBHszUQ=="

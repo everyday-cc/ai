@@ -144,15 +144,15 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "US patients believe generative AI can improve healthcare access, affordability, survey finds"
-    excerpt: "More than half (53%) of U.S. consumers believe generative AI could improve access issues and shorten wait times for medical care, according to a survey by Deloitte's Center for Health Solutions. A little less than half of consumers (46%) say it has the potential to make healthcare more affordable."
-    publishedDateTime: 2023-11-17T20:05:00Z
-    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/us-patients-believe-generative-ai-can-improve-access-affordability"
+  - title: "How will cloud democratize generative AI?"
+    excerpt: "This article explores the role of the cloud in democratizing generative AI to everyone from startups to large enterprises."
+    publishedDateTime: 2023-11-22T11:54:00Z
+    webUrl: "https://www.embedded.com/how-will-cloud-democratize-generative-ai/"
     type: article
     provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 23
+      name: Embedded
+      domain: embedded.com
+    quality: 19
 
 secured: "CNG//TXtjMhW9kSwoR3a5z4bDUEEGW+srbk2uZlh2SNIng+bbaZUddLkOY7fPIHK6EFuI/NjAWZOK+Ym4gEp2CjXeoceB9PAVAAiQ8BBKfeBBQ1JQBn840npchR6sUDWFQP3GSrzUpRI49fl5FGirtaAkHJaBPzz5OX6pRS+Y0wMxqxevObez75mmbVKqW8trhxbJWfB0DoNm0ooYt+I9a9bqNy5gaAeZa5xOF4yvn3G49jFhPsTER6UoVQ3HoA3RF9OOHjNAvJbqHQUmw1vOujOaPaMettDrap+jiAw+fi5x5ruJtTxj0p7CaYEjBTTPKFgIMd9LLC5yUyxT/DzTZZg5JE4AtTg4+6tJDdrQ2GkM9ByASNlNNw+feuEigcxAIxfsMrm6jxwK8IPQg69roeo5HZzNaJC2DEooycADkNpOs9tP0dVsqNR1oWcPl3fS4uxFlMEc3jpBmkcKOnUGlgJQkOplC8zlziAedVXG527eti2vgmQ+wRrdcZwJ1BgjwScL/DBgkyI+obn0/F3Ug==;SZAF++kp/kzn9FfRQ4Bstg=="
 ---

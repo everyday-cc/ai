@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/digital-s
 webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/digital-staffing-company-aya-healthcare-picks-winnow-ai-bolster-its"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,19 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Physician staffing company Winnow AI acquired by national Aya Healthcare"
+    excerpt: "San Diego-based Aya Healthcare has acquired Winnow AI, which was built out of Green-Hills-based SwitchPoint Ventures, according to a press release."
+    publishedDateTime: 2023-11-22T12:40:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2023/11/22/artificial-intelligence-ai-healthcare-winnow-aya.html"
+    ampWebUrl: "https://www.bizjournals.com/nashville/news/2023/11/22/artificial-intelligence-ai-healthcare-winnow-aya.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/11/22/artificial-intelligence-ai-healthcare-winnow-aya.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 53
 
 secured: "bfAoo+qKc/vzl/paC8gJxvN34lxK5iyQz4W/2KauC1gE3hyHtNv7HY4T3qxs4mgvc6dYm7fXXTMQrv7uNeHxcD+MCwRJq6jfFLmzZlumDqvYcCP8GSnSavcBC3Z93e0I7rgpLbTj0HrRtWTwQsyhU/Qop/wbBWDSzhhUqkfVseelPHgs2gLlzY4FKVZ3jQCrBUwrXRXk7oik3DMVo2mMTEK1hxUy24DxRxakN9qRKil/NNjG/D0txfmy9eYiuQIQgX3neGWdZcV6UMGl56X21Qq7RrCmGraDu8bEXGWsfxnJbt9iSm+yi2WGcwTfKl7di54wUdylzpLOM1YRvgiUy4MO2cJCt0vhkafQ/tNVL6NQXPaQRudLZFP8vV6cHu+6cuABcXGm2loArTAXOkNtOH1nXYtEKZ95m5uPrv0YM5CgSE6d9ltBVQCKPjiFsSpLVYhhU9sI2lt9ZZu3/q3RM6H9WNC4OibTL+HJsiAZJUTGP3Orqk0gnLrCB+iqhEFjju7Z1jFJBUOebhVIVPBO1g==;T++ws6b+q5Z7Oub1BqhwTg=="
 ---

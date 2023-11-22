@@ -1,20 +1,28 @@
 ---
 category: news
 title: "BioStrand® Unveils a Revolutionary Approach to Biological Sequence Retrieval: A Fusion of Natural Language Processing and Database Research"
-excerpt: "“New Paradigm for Biological Sequence Retrieval Inspired by Natural Language Processing and Database Research” on bioRχiv. We apologize, but this video has failed to load. Try refreshing your browser, or tap here to see other videos from our tea"
-publishedDateTime: 2023-11-12T23:59:00Z
-originalUrl: "https://financialpost.com/pmn/business-wire-news-releases-pmn/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research"
-webUrl: "https://financialpost.com/pmn/business-wire-news-releases-pmn/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research"
+excerpt: "\"New Paradigm for Biological Sequence Retrieval Inspired by Natural Language Processing and Database Research\" on bioRχiv. The publication delves into the intricacies of one of BioStrand's applications based on its patented HYFT-based methodology ..."
+publishedDateTime: 2023-11-13T13:39:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/11/b35748405/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-la"
+webUrl: "https://www.benzinga.com/pressreleases/23/11/b35748405/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-la"
+ampWebUrl: "https://www.benzinga.com/amp/content/35748405"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35748405"
 type: article
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "udgTtKs0EWkwEFAJXu/D0MlobHt/6YgWhDeGGTM4WmdZTi+CiDmzJf9ZmUoeox3EwSnr5QUD1TSVMXQbdD8bFz6BaE5WNPsbLQRzJamQgzc5p9VKLxdUEAr/g/lXEj6TtNjo0wSc26lkWcno28Pclycv5hBz560oaVSx7+1YdPeF7iuD5yGhQh4nzc6HtEERbWikTTJj2YzsChQoqQcGeZmheJpFROJeF50oscRSB8KJTUPiUyLuQItTNTu33lVnMzBHZJFGaHJRBMP6jzoE8ju1sQFnzCCR3qZkjNfTXpToIjoHPugP2bVOOTDO2lZU8hMRnQ9EuUebbsxl1Ly35xXF0D7qxCe6f1OVXxMgSI0=;2PqWJ0wn03hztucRc2Zutg=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "SSAzW5+sD0PEaP0kGEW+1Br67E4++Vb3215cyHma+X+x6C42PSrLEHklnTr1GtKTRNic0Cm7EzYtMuB9OaI65t/gOAfEPOP3+XtXwlinT22qXGkWaPlUzA7zaQPkfl58V1Hk2D2AOjNx9yB9GPNxYuTO1P5212ZTvU6wfgki3w2in7qDwUUi6vyvEWrz7m8ye2ono/zLGrvV5JYG00UQfVypuN3sV+qZ4sjYnvAZ4gCkfBUzVH+tuxX4WgubPknKkbNv/XCEGUJJDEu6Iy9XB8WkGWY9KbrGnLXHpSkRR1u2B9ax5vNhCg9PhCeCQQadiV4i+S59LVhDXM93FZfnjJV2OLaeKjpW9NAp3skgca0=;v1nnRdBkW60Z7sxkwZ2Zyw=="
 ---
 

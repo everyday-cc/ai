@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 91
-heat: 251
+heat: 271
 published: true
 
 provider:
@@ -203,6 +203,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "ChatGPT iPhone App's Voice Chat Feature Now Free to All Users"
+    excerpt: "OpenAI has announced that the voice chats feature in its official ChatGPT app for iPhone and iPad is now available for everyone to use,"
+    publishedDateTime: 2023-11-22T10:38:00Z
+    webUrl: "https://www.macrumors.com/2023/11/22/chatgpt-app-voice-chat-free-to-all/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 24
+    images:
+      - url: "https://images.macrumors.com/t/iBp9BqJv2WpLVJf_ebOZGLh1orw=/2500x/article-new/2023/05/chatgpt-for-iphone-feature.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
   - title: "ChatGPT rolls out voice chat feature to all users for free"
     excerpt: "OpenAI has announced that ChatGPT's voice chat feature will now be available to all mobile users for free. The feature, which first debuted back in September alongside image recognition, has only been available to users on the paid subscription plans for the artificial intelligence (AI)-powered chatbot prior."
     publishedDateTime: 2023-11-22T05:39:00Z
@@ -235,6 +249,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 11
+  - title: "Baidu reveals expectations-beating earnings and touts its new ChatGPT-like AI models, amid leadership chaos at U.S. competitor OpenAI"
+    excerpt: "Developers in China face another threat: U.S. rules limiting the sale of advanced AI chips from firms like Nvidia to Chinese companies. Last week, Alibaba shelved its plan to spin-off its cloud computing division as an independent company, blaming ..."
+    publishedDateTime: 2023-11-22T04:53:00Z
+    webUrl: "https://www.aol.com/finance/baidu-reveals-expectations-beating-earnings-095341977.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 8
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/iok5HE6EscWTJw7yKITu_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/02430db88c27d537951e901e4b4c1d8e"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "7 Biggest Questions About ChatGPT, Answered by Gartner Experts – Gartner"
     excerpt: "Contact or call jsbacContact April 5, 2023Contributor: Ava McCartneyGartner experts weigh in on how it’s valuable and whether it’s safe to"
     publishedDateTime: 2023-11-19T13:42:00Z

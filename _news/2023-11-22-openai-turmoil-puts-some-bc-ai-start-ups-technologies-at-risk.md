@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "OpenAI’s New CEO Likes Tweeting About Sex And Using AI To Write Pickup Lines"
-    excerpt: "Incoming exec Emmett Shear has regularly tweeted about sexual dynamics between men and women and the controversial pick-up artistry manual The Game."
-    publishedDateTime: 2023-11-20T20:50:00Z
-    webUrl: "https://www.forbes.com/sites/sarahemerson/2023/11/20/openai-ceo-emmett-shear-tweets-sex-dating-pickup-lines/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
 
 secured: "a6/8Ck/DcSR+D+I7U14GiZbguHkpdDnncMXH8ZrOV4c+ng3F0jhRC9nyZdyvronAmjeuGf0pV9bp+RJeLJHJdQAjjk8i6NDgHp4uHj7ue3jnV+tnt2knscj2HSAYCygiuTSQqocATKEDngAlnfm5qDbwNkmJoLvPuLObYDrWak3fuKRxjPFdDNNeBx3tTQA4KIueo+yq+ck7R8+7K92oLCy6pUWaMbEWYslxuAqVPXR4kpPEgT8bSFOiAh0jpiBSOo4pQSMZv8XOmtarTdYUcPV8Pwtn95eubVwfORtXnm4dbtRNHwiOAUGikgb4jGSIuRp75nxFEwy/pOBm8blk9oec858aE3UZxfj+t6Rp1Og=;fe8+KsEzR+0oFzXbjQDWyA=="
 ---

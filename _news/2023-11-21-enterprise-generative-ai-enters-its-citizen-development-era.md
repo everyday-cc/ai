@@ -136,15 +136,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "US patients believe generative AI can improve healthcare access, affordability, survey finds"
-    excerpt: "More than half (53%) of U.S. consumers believe generative AI could improve access issues and shorten wait times for medical care, according to a survey by Deloitte's Center for Health Solutions. A little less than half of consumers (46%) say it has the potential to make healthcare more affordable."
-    publishedDateTime: 2023-11-17T20:05:00Z
-    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/us-patients-believe-generative-ai-can-improve-access-affordability"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 23
   - title: "BP Says It's Expanding Use of Generative AI"
     excerpt: "“The service uses artificial intelligence and natural language processing to automate a variety of daily tasks such as writing emails and managing inboxes,” BP noted in the release. “By using the capabilities of copilot for Microsoft 365, BP can help ..."
     publishedDateTime: 2023-11-22T10:01:00Z
@@ -153,6 +144,15 @@ related:
     provider:
       name: Rigzone
       domain: rigzone.com
+    quality: 19
+  - title: "How will cloud democratize generative AI?"
+    excerpt: "This article explores the role of the cloud in democratizing generative AI to everyone from startups to large enterprises."
+    publishedDateTime: 2023-11-22T11:54:00Z
+    webUrl: "https://www.embedded.com/how-will-cloud-democratize-generative-ai/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
     quality: 19
 
 secured: "CORpW1gSrJq1U002dg1k+2WhqihaKzhXsUVUAmgiQRut+0v/7LGgq6yfBCJpghb8msrPE8CJu+SSC7Cfx3ZJre7nElbHcho9ZY/8XE+85/s1pujxCjIF1ACMkhoaXObldY/wjb0bEKQNRas9tvbihlVZdG42JwEZFNqNoOsIoU+KTO/xYpH+7i3OtcMHULYYM8BElkpVz3fe8eedpOto1evNP/WaiR5eXBgQgGP8m+8SRO0Tk3+sC6sokB+7CwYVXRMdWuV9PZGa8g+TN48PzxEVGJQhAeRbMHlBxHbekOgmGUgknl5zUAVvvHBoBXEZFQLSYyWjFzw29CU5inXgR78DihdwqU4dVxX2yfTdWNw=;T9mLtjO+2ONip8unxXM8Jw=="

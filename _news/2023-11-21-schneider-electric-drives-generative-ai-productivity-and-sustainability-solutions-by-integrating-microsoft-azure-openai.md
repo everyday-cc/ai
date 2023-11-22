@@ -151,6 +151,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Explained | How NVIDIA's AI gamble has paid off"
+    excerpt: "NVIDIA reported a 3x revenue growth, reaching $18.12 billion, with its data centre business soaring 279% to $14.5 billion, constituting 80% of total revenue. The shift from GPU to AI solutions propelled the company's transformation."
+    publishedDateTime: 2023-11-22T12:19:00Z
+    webUrl: "https://www.cnbctv18.com/technology/explained-how-nvidia-ai-gamble-has-paid-off-18385011.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/explained-how-nvidia-ai-gamble-has-paid-off-18385011.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/explained-how-nvidia-ai-gamble-has-paid-off-18385011.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 59
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/nvidia-1019x573.png"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Fired OpenAI CEO Sam Altman joins Microsoft as AI research lead"
     excerpt: "Sam Altman has been hired by Microsoft to lead its AI research after being fired by OpenAI. The former CEO and board members of the ChatGPT firm was let go last week following a review by the board of directors."
     publishedDateTime: 2023-11-21T17:45:00Z

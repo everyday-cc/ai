@@ -7,7 +7,7 @@ originalUrl: "https://www.yourvalley.net/stories/phoenix-turns-to-artificial-int
 webUrl: "https://www.yourvalley.net/stories/phoenix-turns-to-artificial-intelligence-for-improved-wastewater-monitoring,461730"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,35 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "An innovative flush: Phoenix turns to artificial intelligence for improved wastewater monitoring"
-    excerpt: "Kando Pulse is a wastewater intelligence platform built to “improve people’s lives and the environment,” according to Guy Cohen, chief product officer at Kando. The system uses sensors to obtain data from wastewater and translate it into insights that detect any irregularities within sewage."
-    publishedDateTime: 2023-11-20T18:16:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2023/11/20/artificial-intelligence-monitor-wastewater.html"
-    ampWebUrl: "https://www.bizjournals.com/phoenix/news/2023/11/20/artificial-intelligence-monitor-wastewater.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/phoenix/news/2023/11/20/artificial-intelligence-monitor-wastewater.amp.html"
+  - title: "Using AI To Improve Your Luxury Brand"
+    excerpt: "More than a trend, AI is a powerful tool that can amplify every aspect of luxury service, from operational efficiency to client engagement."
+    publishedDateTime: 2023-11-22T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 26
-  - title: "An innovative flush: Phoenix turns to artificial intelligence for improved wastewater monitoring"
-    excerpt: "From self-driving cars to automated services, artificial intelligence has been influencing every aspect of day-to-day life – even in ways we can’t see. In Phoenix, artificial intelligence is helping the city from underground."
-    publishedDateTime: 2023-11-17T22:58:00Z
-    webUrl: "https://azcapitoltimes.com/news/2023/11/17/an-innovative-flush-phoenix-turns-to-artificial-intelligence-for-improved-wastewater-monitoring/"
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655d0db30245b747da8222b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1103
+        height: 735
+        isCached: true
+  - title: "Using AI at the State Capitol to detect guns"
+    excerpt: "Here are five stories you need to know to start your day. It’s almost time for the high school football state finals and at the end of this playoff run, there are just two local teams remaining who will head to Ford Field this weekend: Ubly and Corunna."
+    publishedDateTime: 2023-11-21T12:43:00Z
+    webUrl: "https://www.wnem.com/video/2023/11/21/using-ai-state-capitol-detect-guns/"
+    ampWebUrl: "https://www.wnem.com/video/2023/11/21/using-ai-state-capitol-detect-guns/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wnem-com.cdn.ampproject.org/c/s/www.wnem.com/video/2023/11/21/using-ai-state-capitol-detect-guns/?outputType=amp"
     type: article
     provider:
-      name: Arizona Capitol Times
-      domain: azcapitoltimes.com
-    quality: 6
-  - title: "An innovative flush: Phoenix turns to artificial intelligence for improved wastewater monitoring – Cronkite News"
-    excerpt: "Nazario Prieto, assistant water services director for Phoenix, referred to the system as “adding eyes through our sewer mains 24/7.” The sensors can almost immediately alert city officials when issues arise, allowing a quicker response time to find the culprits of illegal dumping."
-    publishedDateTime: 2023-11-18T07:09:00Z
-    webUrl: "https://prescottenews.com/index.php/2023/11/18/an-innovative-flush-phoenix-turns-to-artificial-intelligence-for-improved-wastewater-monitoring-cronkite-news/"
+      name: WNEM-TV
+      domain: wnem.com
+    quality: 57
+    images:
+      - url: "https://gray-wnem-prod.cdn.arcpublishing.com/resizer/bXQTYY3GnDsK5pgXWzXjGsxSNmE=/800x450/smart/filters:quality(70)/do0bihdskp9dy.cloudfront.net/11-21-2023/t_d8fa081dfddb41dea8498d3e7d72a97b_name_file_1280x720_2000_v3_1_.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "OpenAI’s New CEO Likes Tweeting About Sex And Using AI To Write Pickup Lines"
+    excerpt: "Incoming exec Emmett Shear has regularly tweeted about sexual dynamics between men and women and the controversial pick-up artistry manual The Game."
+    publishedDateTime: 2023-11-20T20:50:00Z
+    webUrl: "https://www.forbes.com/sites/sarahemerson/2023/11/20/openai-ceo-emmett-shear-tweets-sex-dating-pickup-lines/"
     type: article
     provider:
-      name: Prescott eNews
-      domain: prescottenews.com
-    quality: 0
+      name: Forbes
+      domain: forbes.com
+    quality: 44
+  - title: "Scammers using artificial intelligence to find new ways to steal money"
+    excerpt: "As the holiday shopping season gets underway, so does the season for scams. And they have new ways to try and get their hands on your money this year. CBS New York's investigative reporter Tim McNicholas reports."
+    publishedDateTime: 2023-11-21T05:23:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/scammers-using-artificial-intelligence-to-find-new-ways-to-steal-money/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/21/a935b46e-7aff-4ec2-bb6e-d07a0193410e/thumbnail/1200x630/dcbd335234928fd83e9c49295c438e9e/01a6be1c2b9ddc40a6591c79752e7ed9.jpg?v=5659e73acd91751548aa89950cf015b0"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Using AI to Support Multilingual Students"
+    excerpt: "Multilingual learners are frequently expected to learn content through reading articles. However, these articles are often significantly above their reading levels. Fortunately, AI platforms such as Poe can come to their aid."
+    publishedDateTime: 2023-11-21T20:00:00Z
+    webUrl: "https://www.edutopia.org/article/using-ai-support-multilingual-students"
+    type: article
+    provider:
+      name: Edutopia
+      domain: edutopia.org
+    quality: 19
 
 secured: "CTcOf48IhlxRz7Bd6BQodf+50fX29Z+24N4UrFED+ufHTzV4KMvZ/kahEDRqF/QhqsKs9zlxYNiVZNdsEn/v9FsUbWF348Nj8bHNadQougBg9P+flCFzG7jiA2G5Bnu5clvNBbHldXs9YE+xMc6YcrYjhfghhv7TKSacF4bVfsioRJEyi3EHiM4pzzcwf0fQmzZcaTveYiY/Js3JgUawA0imbjO1x4AKDRoQIM38Yd3bkYekQIvpB+WEHujbRrYH5FBnlALZIsVbH84402oSvv1vVw2xgDbBZlcaCbRfWhc1uGjxxgwNOd5NNrrn7wn8v5n4SYqXlY8qfCrzW1XDwVkt0iWFme7HRDK+bCqqxAo/CEpE41nemq9H/rOaAQKzfXn1R4ueTAgSpf5BebGTmT6ZgeDi53LuQDsQQIW5bcaAaf3lv60D/Wxxq1Tro3K8gCVKmybm6/1ZAn+b11i1mD3EyQaNiFh7svD9ORusOQdjWWDBvN8N3LN3BGaYnECvZ9w3wpprZBkInfmIwopxMg==;uvdyvljYu2Zxe4PUduff7g=="
 ---

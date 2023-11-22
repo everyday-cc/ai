@@ -24,20 +24,70 @@ images:
     isCached: true
 
 related:
-  - title: "This Startup Is Using AI to Create, Not Cut, Jobs in E-Commerce"
-    excerpt: "The company's commitment to blending sophisticated AI with genuine human interaction offers an unrivaled online shopping eperience. Investors who share Flashost's vision for a more connected and humane e-commerce landscape are encouraged to book a meeting with the team to learn more about the investment opportunities."
-    publishedDateTime: 2023-11-20T11:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/20/9920979.htm"
+  - title: "Using AI To Improve Your Luxury Brand"
+    excerpt: "More than a trend, AI is a powerful tool that can amplify every aspect of luxury service, from operational efficiency to client engagement."
+    publishedDateTime: 2023-11-22T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655d0db30245b747da8222b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1103
+        height: 735
+        isCached: true
+  - title: "Using AI at the State Capitol to detect guns"
+    excerpt: "Here are five stories you need to know to start your day. It’s almost time for the high school football state finals and at the end of this playoff run, there are just two local teams remaining who will head to Ford Field this weekend: Ubly and Corunna."
+    publishedDateTime: 2023-11-21T12:43:00Z
+    webUrl: "https://www.wnem.com/video/2023/11/21/using-ai-state-capitol-detect-guns/"
+    ampWebUrl: "https://www.wnem.com/video/2023/11/21/using-ai-state-capitol-detect-guns/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wnem-com.cdn.ampproject.org/c/s/www.wnem.com/video/2023/11/21/using-ai-state-capitol-detect-guns/?outputType=amp"
+    type: article
+    provider:
+      name: WNEM-TV
+      domain: wnem.com
+    quality: 57
+    images:
+      - url: "https://gray-wnem-prod.cdn.arcpublishing.com/resizer/bXQTYY3GnDsK5pgXWzXjGsxSNmE=/800x450/smart/filters:quality(70)/do0bihdskp9dy.cloudfront.net/11-21-2023/t_d8fa081dfddb41dea8498d3e7d72a97b_name_file_1280x720_2000_v3_1_.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "OpenAI’s New CEO Likes Tweeting About Sex And Using AI To Write Pickup Lines"
+    excerpt: "Incoming exec Emmett Shear has regularly tweeted about sexual dynamics between men and women and the controversial pick-up artistry manual The Game."
+    publishedDateTime: 2023-11-20T20:50:00Z
+    webUrl: "https://www.forbes.com/sites/sarahemerson/2023/11/20/openai-ceo-emmett-shear-tweets-sex-dating-pickup-lines/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
+  - title: "Phoenix turns to artificial intelligence for improved wastewater monitoring"
+    excerpt: "From self-driving cars to automated services, artificial intelligence has been influencing every aspect of day-to-day life — even in ways we can’t see. In Phoenix,"
+    publishedDateTime: 2023-11-19T17:00:00Z
+    webUrl: "https://www.yourvalley.net/stories/phoenix-turns-to-artificial-intelligence-for-improved-wastewater-monitoring,461730"
+    type: article
+    provider:
+      name: Sun City West Independent
+      domain: yourvalley.net
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/2279598/Flashost_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://gc1.creativecirclecdn.com/yourvalley/medium/20231117-173000-RDH-Environmental-Installation.jpg"
+        width: 850
+        height: 531
         isCached: true
+  - title: "Using AI to Support Multilingual Students"
+    excerpt: "Multilingual learners are frequently expected to learn content through reading articles. However, these articles are often significantly above their reading levels. Fortunately, AI platforms such as Poe can come to their aid."
+    publishedDateTime: 2023-11-21T20:00:00Z
+    webUrl: "https://www.edutopia.org/article/using-ai-support-multilingual-students"
+    type: article
+    provider:
+      name: Edutopia
+      domain: edutopia.org
+    quality: 19
 
 secured: "57MwJ8sk4lIMbbGgFOzdzbvE8LnMa116dHmvkHGygKmLZG3teBK1/lPsQyQUD+efCTrNA26bQxdnpv14TTGOCkzpsabu4QQZsdgymtUT6d6IGAU4T4I+iPUjd8GuZR1gKgyuvTl8HLoOtPVDDo1rkc6Qdoxz5UiqluCzIUI7uQJImh5StVJX+q4F8dN5wpXI1m7RErMGq2Pk6y6SplJ/H4MNiIDhf/8Z4794L/gy4cgzVjK4OSHmz0SBSNivAC330mlRzAdR2GwaF/9hh5I1JysvGWz/mznbu+MsmwVciGN+HOwlsQHxSNad6M1bDRZZ8e0P15XGpdrIDuuuXxZl69w+kPLziUN1+HkoTB6Ij07FUKCmGFlqHIK5Pi7epn4I3xFsgiYjh1xYbDNhUDHW8F3k2LOwf8x/FGGmDdS51E3Y/eAEgLmb19hrx1PQA/x4UvWn1kcynB5YhM4RqDlI0O+4zUYCFGHhn0MraMTjkegsrDIMsqfuzOdPPuHmhpNfpN5WQrCcnjYH5qYqkGTLZA==;DGkMQ16ItIda79bcASVDkQ=="
 ---

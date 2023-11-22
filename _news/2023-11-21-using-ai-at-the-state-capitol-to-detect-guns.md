@@ -26,31 +26,68 @@ images:
     isCached: true
 
 related:
-  - title: "Michigan Capitol implements new AI tech to detect guns"
-    excerpt: "\"The software is unique in that it's just identifying the gun. If we had strapped that gun to the back of a golden retriever, it would get an alert on the gun. It doesn't matter who's carrying it.\" Alaimo said."
-    publishedDateTime: 2023-11-20T23:10:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/michigan-capitol-implements-new-ai-tech-to-detect-guns/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/michigan-capitol-implements-new-ai-tech-to-detect-guns/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/michigan-capitol-implements-new-ai-tech-to-detect-guns/"
+  - title: "Using AI To Improve Your Luxury Brand"
+    excerpt: "More than a trend, AI is a powerful tool that can amplify every aspect of luxury service, from operational efficiency to client engagement."
+    publishedDateTime: 2023-11-22T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655d0db30245b747da8222b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1103
+        height: 735
+        isCached: true
+  - title: "OpenAI’s New CEO Likes Tweeting About Sex And Using AI To Write Pickup Lines"
+    excerpt: "Incoming exec Emmett Shear has regularly tweeted about sexual dynamics between men and women and the controversial pick-up artistry manual The Game."
+    publishedDateTime: 2023-11-20T20:50:00Z
+    webUrl: "https://www.forbes.com/sites/sarahemerson/2023/11/20/openai-ceo-emmett-shear-tweets-sex-dating-pickup-lines/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
+  - title: "Phoenix turns to artificial intelligence for improved wastewater monitoring"
+    excerpt: "From self-driving cars to automated services, artificial intelligence has been influencing every aspect of day-to-day life — even in ways we can’t see. In Phoenix,"
+    publishedDateTime: 2023-11-19T17:00:00Z
+    webUrl: "https://www.yourvalley.net/stories/phoenix-turns-to-artificial-intelligence-for-improved-wastewater-monitoring,461730"
+    type: article
+    provider:
+      name: Sun City West Independent
+      domain: yourvalley.net
+    quality: 37
+    images:
+      - url: "https://gc1.creativecirclecdn.com/yourvalley/medium/20231117-173000-RDH-Environmental-Installation.jpg"
+        width: 850
+        height: 531
+        isCached: true
+  - title: "Scammers using artificial intelligence to find new ways to steal money"
+    excerpt: "As the holiday shopping season gets underway, so does the season for scams. And they have new ways to try and get their hands on your money this year. CBS New York's investigative reporter Tim McNicholas reports."
+    publishedDateTime: 2023-11-21T05:23:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/scammers-using-artificial-intelligence-to-find-new-ways-to-steal-money/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 57
+    quality: 37
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/20/6c6d0442-a315-4619-99ec-4af6dbe64bde/thumbnail/1200x630/da308726fb2c28b5cb63dfd7a769119a/mi.jpg?v=5659e73acd91751548aa89950cf015b0"
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/21/a935b46e-7aff-4ec2-bb6e-d07a0193410e/thumbnail/1200x630/dcbd335234928fd83e9c49295c438e9e/01a6be1c2b9ddc40a6591c79752e7ed9.jpg?v=5659e73acd91751548aa89950cf015b0"
         width: 1200
         height: 630
         isCached: true
-  - title: "Michigan Capitol to deploy artificial intelligence gun detection software Monday"
-    excerpt: "The state Capitol will deploy new technology that uses artificial intelligence to analyze surveillance video for firearms and alert potential threats."
-    publishedDateTime: 2023-11-20T12:00:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2023/11/20/michigan-capitol-to-deploy-artificial-intelligence-ai-gun-detection-software-monday/71624401007/"
+  - title: "Using AI to Support Multilingual Students"
+    excerpt: "Multilingual learners are frequently expected to learn content through reading articles. However, these articles are often significantly above their reading levels. Fortunately, AI platforms such as Poe can come to their aid."
+    publishedDateTime: 2023-11-21T20:00:00Z
+    webUrl: "https://www.edutopia.org/article/using-ai-support-multilingual-students"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 12
+      name: Edutopia
+      domain: edutopia.org
+    quality: 19
 
 secured: "DHkagGIBiZ+nu1kXkH04xGsG1RDmY8ou/6a4SX2NRIzMkB7qsZx4ZPerUru0vhYN8eWO9RSl6W+Y23xhN9rtkdpl41NJS5SPWfTM4bwb5JFaZroK1QluxwiXGJcbpvIB8UbCvSiZYmqfe2QhQl1gFDzJPjS6oGaGOX85ucFDFyhITOCLfNAFD61Wrrqe9fCOZVnqSyiF/zwaTHdLP2IaiIWLeP7lSjLTArYdetakEQhR+Xf9bUkdtKo+DVdKtNzwgG4Z3bXfVWDuKKwOUKXgCjrQC5OgABo0Ybw0Krh7YKtdiV20pDg0ZelN5E5jLB+HHGRU7SmjwAm507L0WWNCAwo3C76NNT+WTO84KBcYLPQ=;ES2x/AFViLgpnQx1n+Zpaw=="
 ---
