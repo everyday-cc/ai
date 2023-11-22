@@ -2,6 +2,57 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-10-19-ai-impact-on-data-centers-will-be-massive-ocp-says.md",
+      "title": "AI impact on data centers will be ‘massive,’ OCP says",
+      "excerpt": "Open Compute Project expects the hardware requirements of AI to usher in a new era of larger data centers, liquid-cooled hardware, and greater power consumption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3708754/ai-impact-on-data-centers-will-be-massive-ocp-says.html",
+      "originalUrl": "https://www.infoworld.com/article/3708754/ai-impact-on-data-centers-will-be-massive-ocp-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3708754/ai-impact-on-data-centers-will-be-massive-ocp-says.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708754/ai-impact-on-data-centers-will-be-massive-ocp-says.amp.html",
+      "publishedDateTime": "2023-10-18T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries.md",
       "title": "Amazon Introducing Warehouse Overhaul With Robotics to Speed Deliveries",
       "excerpt": "Amazon.com is introducing an array of new artificial intelligence and robotics capabilities into its warehouse operations that will reduce delivery times and help identify inventory more quickly.",
@@ -22,11 +73,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T16:23:00Z",
+      "publishedDateTime": "2023-10-18T09:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -74,11 +125,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html",
       "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html",
-      "publishedDateTime": "2023-10-18T16:06:00Z",
+      "publishedDateTime": "2023-10-18T09:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Mint",
@@ -108,11 +159,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T16:02:00Z",
+      "publishedDateTime": "2023-10-18T09:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Finanznachrichten",
@@ -151,11 +202,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T16:00:44Z",
+      "publishedDateTime": "2023-10-18T09:00:44-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -204,11 +255,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T16:00:00Z",
+      "publishedDateTime": "2023-10-18T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -256,11 +307,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-to-reduce-delivery-times/amp/",
       "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-to-reduce-delivery-times/amp/",
-      "publishedDateTime": "2023-10-18T15:47:00Z",
+      "publishedDateTime": "2023-10-18T08:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Post",
@@ -299,11 +350,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/",
-      "publishedDateTime": "2023-10-18T15:31:00Z",
+      "publishedDateTime": "2023-10-18T08:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -350,11 +401,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html/amp",
       "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html/amp",
-      "publishedDateTime": "2023-10-18T15:28:00Z",
+      "publishedDateTime": "2023-10-18T08:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "moneycontrol.com",
@@ -392,11 +443,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/18/meet-the-open-source-multimodal-models-rivaling-gpt-4v/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/meet-the-open-source-multimodal-models-rivaling-gpt-4v/amp/",
-      "publishedDateTime": "2023-10-18T15:05:00Z",
+      "publishedDateTime": "2023-10-18T08:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -444,11 +495,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/",
-      "publishedDateTime": "2023-10-18T14:43:00Z",
+      "publishedDateTime": "2023-10-18T07:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -487,11 +538,11 @@
       "heat": 81,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T14:39:00Z",
+      "publishedDateTime": "2023-10-18T07:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -540,11 +591,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T14:19:00Z",
+      "publishedDateTime": "2023-10-18T07:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -592,11 +643,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-in-naval-architecture-and-marine-engineering-small-proprietary-data-sets-limit-adoption/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-in-naval-architecture-and-marine-engineering-small-proprietary-data-sets-limit-adoption/",
-      "publishedDateTime": "2023-10-18T14:15:00Z",
+      "publishedDateTime": "2023-10-18T07:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -643,11 +694,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.amp.html",
       "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.amp.html",
-      "publishedDateTime": "2023-10-18T14:08:00Z",
+      "publishedDateTime": "2023-10-18T07:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Computerworld",
@@ -677,11 +728,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T14:03:00Z",
+      "publishedDateTime": "2023-10-18T07:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -720,11 +771,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/amp/",
-      "publishedDateTime": "2023-10-18T14:00:00Z",
+      "publishedDateTime": "2023-10-18T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -771,11 +822,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/paologaudiano/2023/10/18/fostering-stem-diversity-and-inclusion-through-robotics-and-turkey/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paologaudiano/2023/10/18/fostering-stem-diversity-and-inclusion-through-robotics-and-turkey/amp/",
-      "publishedDateTime": "2023-10-18T14:00:00Z",
+      "publishedDateTime": "2023-10-18T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -823,11 +874,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T13:48:00Z",
+      "publishedDateTime": "2023-10-18T06:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Time",
@@ -874,11 +925,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T13:43:00Z",
+      "publishedDateTime": "2023-10-18T06:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -926,11 +977,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/amp/",
       "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/amp/",
-      "publishedDateTime": "2023-10-18T13:35:00Z",
+      "publishedDateTime": "2023-10-18T06:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -968,11 +1019,11 @@
       "heat": 89,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T13:00:00Z",
+      "publishedDateTime": "2023-10-18T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",
@@ -1020,11 +1071,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
       "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
-      "publishedDateTime": "2023-10-18T12:40:00Z",
+      "publishedDateTime": "2023-10-18T05:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1072,11 +1123,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T12:26:00Z",
+      "publishedDateTime": "2023-10-18T05:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Geeky Gadgets",
@@ -1115,11 +1166,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T11:59:00Z",
+      "publishedDateTime": "2023-10-18T04:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired UK",
@@ -1134,40 +1185,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
-      "title": "AI needs a strong code of ethics to keep its dark side from overtaking us",
-      "excerpt": "A more ethically responsible tech industry and AI products and services are possible. With the stakes so high, it has to be worth it. Ann Skeet and Brian Green are authors of \"Ethics in the Age of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/marketwatch/20231018211/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us",
-      "originalUrl": "https://www.morningstar.com/news/marketwatch/20231018211/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

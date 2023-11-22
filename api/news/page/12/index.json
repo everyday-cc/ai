@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-11-10-scarlett-johansson-tackles-ai-in-legal-showdown-against-app-that-used-her-likeness-voice-in-ad.md",
+      "title": "Scarlett Johansson tackles AI in legal showdown against app that used her likeness, voice in ad",
+      "excerpt": "Scarlett Johansson is seeking legal action against an app that used her likeness and simulated voice without her permission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/scarlett-johansson-tackles-ai-legal-showdown-against-app-used-likeness-voice-ad",
+      "originalUrl": "https://www.foxnews.com/entertainment/scarlett-johansson-tackles-ai-legal-showdown-against-app-used-likeness-voice-ad",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/11/1200/675/ScarlettJohansson.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/scarlett-johansson-tackles-ai-legal-showdown-against-app-used-likeness-voice-ad.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/scarlett-johansson-tackles-ai-legal-showdown-against-app-used-likeness-voice-ad.amp",
+      "publishedDateTime": "2023-11-09T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok.md",
       "title": "This Week In XR: Open AI Dev Day Bombshells, Aleph Alpha AI Raises $500 Million, xAI’s Grok",
       "excerpt": "To grok is to deeply understand and empathize. In a post announcing Grok last Saturday, November 4th, the company explains Grok will grok the world in real time with a Large Language Model that includes a real time feed of X as it appears on the X,",
@@ -22,11 +73,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/amp/",
-      "publishedDateTime": "2023-11-10T00:08:00Z",
+      "publishedDateTime": "2023-11-09T16:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -74,11 +125,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deandebiase/2023/11/09/how-small-business-entrepreneurs-can-level-up-with-ai/amp/",
-      "publishedDateTime": "2023-11-10T00:04:00Z",
+      "publishedDateTime": "2023-11-09T16:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -117,11 +168,11 @@
       "heat": 81,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T22:34:00Z",
+      "publishedDateTime": "2023-11-09T14:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "U.S. News & World Report",
@@ -169,11 +220,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T21:55:00Z",
+      "publishedDateTime": "2023-11-09T13:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Atlantic",
@@ -220,11 +271,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.networkworld.com/article/3710371/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.amp.html",
       "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3710371/vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.amp.html",
-      "publishedDateTime": "2023-11-09T21:24:00Z",
+      "publishedDateTime": "2023-11-09T13:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Network World",
@@ -264,11 +315,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/09/ghost-now-openai-backed-claims-llms-will-overcome-self-driving-setbacks-but-experts-are-skeptical/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/09/ghost-now-openai-backed-claims-llms-will-overcome-self-driving-setbacks-but-experts-are-skeptical/amp/",
-      "publishedDateTime": "2023-11-09T20:14:00Z",
+      "publishedDateTime": "2023-11-09T12:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -316,11 +367,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/petersuciu/2023/11/09/meta-will-require-political-advertisers-to-disclose-when-they-use-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/11/09/meta-will-require-political-advertisers-to-disclose-when-they-use-ai/amp/",
-      "publishedDateTime": "2023-11-09T18:42:00Z",
+      "publishedDateTime": "2023-11-09T10:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -368,11 +419,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techxplore.com/news/2023-11-deep-learning-based-paves-efficient-battery.amp",
       "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-deep-learning-based-paves-efficient-battery.amp",
-      "publishedDateTime": "2023-11-09T18:04:00Z",
+      "publishedDateTime": "2023-11-09T10:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "techxplore",
@@ -411,11 +462,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T17:54:00Z",
+      "publishedDateTime": "2023-11-09T09:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -462,11 +513,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T17:53:00Z",
+      "publishedDateTime": "2023-11-09T09:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Biometric Companies",
@@ -506,11 +557,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.cnbc.com/amp/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html",
-      "publishedDateTime": "2023-11-09T17:23:00Z",
+      "publishedDateTime": "2023-11-09T09:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNBC",
@@ -558,11 +609,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/09/humanes-ai-pin/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/09/humanes-ai-pin/amp/",
-      "publishedDateTime": "2023-11-09T17:06:00Z",
+      "publishedDateTime": "2023-11-09T09:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -609,11 +660,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T17:03:00Z",
+      "publishedDateTime": "2023-11-09T09:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -661,11 +712,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T16:59:00Z",
+      "publishedDateTime": "2023-11-09T08:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",
@@ -704,11 +755,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T16:41:00Z",
+      "publishedDateTime": "2023-11-09T08:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -747,11 +798,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/09/theres-something-going-on-with-ai-startups-in-france/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/09/theres-something-going-on-with-ai-startups-in-france/amp/",
-      "publishedDateTime": "2023-11-09T15:21:00Z",
+      "publishedDateTime": "2023-11-09T07:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -798,11 +849,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839",
       "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/industrial-robot-crushed-worker-death-vegetable-packing-plant-104749839",
-      "publishedDateTime": "2023-11-09T15:02:00Z",
+      "publishedDateTime": "2023-11-09T07:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",
@@ -841,11 +892,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T15:02:00Z",
+      "publishedDateTime": "2023-11-09T07:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmochina",
@@ -893,11 +944,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.al.com/opinion/2023/11/guest-opinion-artificial-intelligence-will-save-lives-if-skeptics-dont-derail-progress.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/opinion/2023/11/guest-opinion-artificial-intelligence-will-save-lives-if-skeptics-dont-derail-progress.html?outputType=amp",
-      "publishedDateTime": "2023-11-09T14:34:00Z",
+      "publishedDateTime": "2023-11-09T06:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "al.com",
@@ -937,11 +988,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T14:24:00Z",
+      "publishedDateTime": "2023-11-09T06:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -980,11 +1031,11 @@
       "heat": 82,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T14:00:00Z",
+      "publishedDateTime": "2023-11-09T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -1022,11 +1073,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T13:30:00Z",
+      "publishedDateTime": "2023-11-09T05:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -1074,11 +1125,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T13:00:00Z",
+      "publishedDateTime": "2023-11-09T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -1125,11 +1176,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://dunyanews.tv/amp/english/769258.php",
       "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/769258.php",
-      "publishedDateTime": "2023-11-09T12:57:00Z",
+      "publishedDateTime": "2023-11-09T04:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Dunya News",
@@ -1144,57 +1195,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-10-tips-for-safeguarding-your-business-in-the-age-of-artificial-intelligence.md",
-      "title": "10 Tips For Safeguarding Your Business In The Age Of Artificial Intelligence",
-      "excerpt": "While AI holds immense promise, it also creates concerns about authenticity and the overall trustworthiness of the information it provides.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/10-tips-for-safeguarding-your-business-in-the-age-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/10-tips-for-safeguarding-your-business-in-the-age-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f0f2aa7ba9bb1000708a4c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/09/10-tips-for-safeguarding-your-business-in-the-age-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/09/10-tips-for-safeguarding-your-business-in-the-age-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-11-09T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

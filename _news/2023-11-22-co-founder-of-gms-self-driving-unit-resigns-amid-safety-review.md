@@ -108,6 +108,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "CEO of self-driving Cruise out at GM"
+    excerpt: "General Motors' self-driving-car unit, Cruise, is going through leadership changes following the loss of permits and the pause of operations in California."
+    publishedDateTime: 2023-11-20T23:03:00Z
+    webUrl: "https://sjvsun.com/business/ceo-of-self-driving-cruise-out-at-gm/"
+    type: article
+    provider:
+      name: The San Joaquin Valley Sun
+      domain: sjvsun.com
+    quality: 24
+    images:
+      - url: "https://sjvsun.com/wp-content/uploads/2023/11/SUN-OG-_-Feat-162.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Cruise CEO resigns amid questions over self-driving vehicles"
     excerpt: "Kyle Vogt has resigned as chief executive officer of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars."
     publishedDateTime: 2023-11-21T07:52:00Z
@@ -189,6 +203,6 @@ related:
       domain: ft.com
     quality: 3
 
-secured: "R3j3mNfi6ttZTvjL9rUyrgVQEDy25GwYStKYQ/I5ZJ7XkeLOmg2bIjZlafgMK5G9+5OCRy9haf+m8hyUXpmH3kMC1Lz3bcy89O5/kVnACmh0uWNAAsIVKF+PYGnsu5dWwiSUcOrW0RuzUsAhu8qIQpcZEO9rcDyy5B0P3pOmGatH0RmAIaJn+uuXKoHGgxfADQxJIYiWTLxEkL07hNBzmJ5G71Yh2zQx8MdVM4GfPa+zBJZCfLNDhPd9Q2XRMq2w4PWbpqR0q9XnF4yRJW5UjyfLpjkt2QDQWYbWla2oG2hGKUCu+WysiwC7gWPXXquEcc5F8IaAfYpSHxGitMqdmhWG3tHLYnL4ZjDCKV65r0w=;bMJeXtl4D4mJyE8vwtHzRA=="
+secured: "M2zeuYXrLbrJsyqlZJtp6CAbPNyCwZHhAPIxkBZlI5IfNM7QH8d5LRr4lFcMZOe42fSkSJKZXlwZAUu5jQTnxvRBzpAnT16SO6YEcfmJJSNgXoZs8xVKqbPQketzHQl5sVqxSvBeilB5P6GSOePPPEXA5vaaAXgpw6LM6yqlhhCptFkif0SwDris3t8pi7tur/apeThnoazGM6YCOrN9tw81WxdZU51QpB/98M0F+NBy6IFIexHJSm1/xWLdXn4/0mz/EtFsaydUmJSPijmv8Mlhz2GRnaA3z5kJ+VOA1b37uzT5I0jo4GgNMUsexDgb8DOEBqrhMO03yiFqN5govTa1yyZhl9y7ugnq264dknythKvo7ESMkzBZI8iotouZlyVigw3/HNl3RE5WqBJVOgG8R7MIa0RQdQ/Id8DGVirB7iMtyR9+vJNn8adjD3WHiXMEdapCkLFAtPUP7tL/x4F6CrR9rbDDwVOnxuUxd5iU33UTSKmhCKC/sMYj4gU189cP3EynG47DOGPbjRE2LQ==;WsvO3nllA+nV/+/VUOFBPw=="
 ---
 

@@ -2,6 +2,59 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-10-28-tunnelbear-vpn-review-2023-pricing-ease-of-use-security.md",
+      "title": "TunnelBear VPN Review 2023: Pricing, Ease of Use & Security",
+      "excerpt": "Read our in-depth analysis of TunnelBear VPN, covering its pricing, ease of use, security features, and more. Find out if this is the right VPN for you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/tunnelbear-vpn-review/",
+      "originalUrl": "https://www.techrepublic.com/article/tunnelbear-vpn-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/10/tunnelbear.png",
+          "width": 350,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-10-28-can-rishi-sunaks-big-summit-save-us-from-ai-nightmare.md",
       "title": "Can Rishi Sunak’s big summit save us from AI nightmare?",
       "excerpt": "Perhaps surprisingly, given this nightmarish backdrop, Prime Minister Rishi Sunak urged people \"not to lose sleep\". He has a plan, and it's an ambitious one. He wants to position the UK as the global leader for AI safety.",
@@ -22,11 +75,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.bbc.co.uk/news/technology-67172230.amp",
       "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67172230.amp",
-      "publishedDateTime": "2023-10-28T00:08:00Z",
+      "publishedDateTime": "2023-10-27T17:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -64,11 +117,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/28/2620382/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/28/2620382/amp/",
-      "publishedDateTime": "2023-10-28T00:00:00Z",
+      "publishedDateTime": "2023-10-27T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -107,11 +160,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T23:25:00Z",
+      "publishedDateTime": "2023-10-27T16:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Marketplace",
@@ -141,11 +194,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T22:43:00Z",
+      "publishedDateTime": "2023-10-27T15:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "scmp.com",
@@ -193,11 +246,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.dailymail.co.uk/tvshowbiz/article-12681561/amp/I-thought-vacuous-pop-bimbo-writes-SARAH-VINE-Britneys-angry-new-memoir-self-knowledge-wisdom-lets-mind-think-heart.html",
       "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/tvshowbiz/article-12681561/amp/I-thought-vacuous-pop-bimbo-writes-SARAH-VINE-Britneys-angry-new-memoir-self-knowledge-wisdom-lets-mind-think-heart.html",
-      "publishedDateTime": "2023-10-27T22:09:00Z",
+      "publishedDateTime": "2023-10-27T15:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Daily Mail",
@@ -236,11 +289,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/amp/",
-      "publishedDateTime": "2023-10-27T21:51:00Z",
+      "publishedDateTime": "2023-10-27T14:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -278,11 +331,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T21:00:00Z",
+      "publishedDateTime": "2023-10-27T14:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -330,11 +383,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/27/apple-headlines-iphone-16-pro-price-scary-fast-imac-macbook-pro-ios-update-ipad-air/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/27/apple-headlines-iphone-16-pro-price-scary-fast-imac-macbook-pro-ios-update-ipad-air/amp/",
-      "publishedDateTime": "2023-10-27T20:21:00Z",
+      "publishedDateTime": "2023-10-27T13:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -381,11 +434,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/27/android-headlines-galaxy-s24-pixel-8-pro-qualcomm-snapdragon-dimensity-xiaomi-honor-whatsapp/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/27/android-headlines-galaxy-s24-pixel-8-pro-qualcomm-snapdragon-dimensity-xiaomi-honor-whatsapp/amp/",
-      "publishedDateTime": "2023-10-27T20:13:00Z",
+      "publishedDateTime": "2023-10-27T13:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -432,11 +485,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T19:55:00Z",
+      "publishedDateTime": "2023-10-27T12:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -483,11 +536,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-about-artificial-intelligence/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/10/27/top-10-questions-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-10-27T19:26:00Z",
+      "publishedDateTime": "2023-10-27T12:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -535,11 +588,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T18:23:00Z",
+      "publishedDateTime": "2023-10-27T11:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TensorFlow",
@@ -579,11 +632,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T17:43:00Z",
+      "publishedDateTime": "2023-10-27T10:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Automotive News",
@@ -622,11 +675,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T16:56:00Z",
+      "publishedDateTime": "2023-10-27T09:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -665,11 +718,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T16:39:00Z",
+      "publishedDateTime": "2023-10-27T09:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "datanami.com",
@@ -708,11 +761,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T16:30:52Z",
+      "publishedDateTime": "2023-10-27T09:30:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -761,11 +814,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/?outputType=amp",
       "cdnAmpWebUrl": "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/?outputType=amp",
-      "publishedDateTime": "2023-10-27T15:09:00Z",
+      "publishedDateTime": "2023-10-27T08:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC29",
@@ -795,11 +848,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T15:09:00Z",
+      "publishedDateTime": "2023-10-27T08:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Automotive News",
@@ -829,11 +882,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T14:23:00Z",
+      "publishedDateTime": "2023-10-27T07:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Inter Press Service",
@@ -872,11 +925,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T14:01:00Z",
+      "publishedDateTime": "2023-10-27T07:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -924,11 +977,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T13:59:00Z",
+      "publishedDateTime": "2023-10-27T06:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -976,11 +1029,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T13:00:00Z",
+      "publishedDateTime": "2023-10-27T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Anime News Network",
@@ -1019,11 +1072,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/27/generative-ai-in-real-estate-emphasizing-whats-human-in-housing/amp/",
-      "publishedDateTime": "2023-10-27T12:30:00Z",
+      "publishedDateTime": "2023-10-27T05:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1061,11 +1114,11 @@
       "heat": 144,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T11:00:00Z",
+      "publishedDateTime": "2023-10-27T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Bloomberg L.P.",
@@ -1089,58 +1142,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-ai-and-the-future-of-work-adapting-to-a-changing-landscape.md",
-      "title": "AI And The Future Of Work: Adapting To A Changing Landscape",
-      "excerpt": "Nvidia, a leading technology company, recently announced a significant increase in earnings, with their revenue doubling due to the high demand for its AI chips that power new machine learning applications;",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6307744cdf865cb5591b5fd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
-      "publishedDateTime": "2023-10-27T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

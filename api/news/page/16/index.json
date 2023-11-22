@@ -2,6 +2,40 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-11-08-self-driving-cars-and-buses-your-guide-to-the-future-of-autonomous-vehicles.md",
+      "title": "Self-driving cars and buses: Your guide to the future of autonomous vehicles",
+      "excerpt": "My ministers will introduce new legal frameworks to support the safe commercial development of emerging industries, such as self-driving vehicles’",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/self-driving-cars-buses-guide-171731890.html",
+      "originalUrl": "https://www.aol.com/news/self-driving-cars-buses-guide-171731890.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-microstrategy-one-platform-now-available-in-aws-marketplace-empowering-businesses-with-ai-driven-business-intelligence.md",
       "title": "MicroStrategy ONE™ Platform Now Available in AWS Marketplace, Empowering Businesses with AI-Driven Business Intelligence",
       "excerpt": "By bringing together MicroStrategy's powerful generative artificial intelligence (AI) capabilities for business intelligence (BI) and the scalability and reliability of Amazon Web Services (AWS ...",
@@ -13,11 +47,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T19:18:00Z",
+      "publishedDateTime": "2023-11-07T11:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -56,11 +90,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/07/cast-ai-which-helps-companies-optimize-cloud-spend-lands-35m/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/07/cast-ai-which-helps-companies-optimize-cloud-spend-lands-35m/amp/",
-      "publishedDateTime": "2023-11-07T18:26:00Z",
+      "publishedDateTime": "2023-11-07T10:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -108,11 +142,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517/amp/1",
       "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/britain-says-car-makers-not-owners-liable-for-self-driving-crashes-4555517/amp/1",
-      "publishedDateTime": "2023-11-07T18:22:00Z",
+      "publishedDateTime": "2023-11-07T10:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NDTV",
@@ -142,11 +176,11 @@
       "heat": 99,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T18:00:29Z",
+      "publishedDateTime": "2023-11-07T10:00:29-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -194,11 +228,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/dbloom/2023/11/07/myspace-jam-city-veterans-roll-out-plaiday-text-to-video-ai-tool/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2023/11/07/myspace-jam-city-veterans-roll-out-plaiday-text-to-video-ai-tool/amp/",
-      "publishedDateTime": "2023-11-07T17:41:00Z",
+      "publishedDateTime": "2023-11-07T09:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -245,11 +279,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/nov/07/from-goat-exports-to-driverless-buses-the-21-bills-in-the-kings-speech-rishi-sunak",
-      "publishedDateTime": "2023-11-07T17:32:00Z",
+      "publishedDateTime": "2023-11-07T09:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -297,11 +331,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T17:07:00Z",
+      "publishedDateTime": "2023-11-07T09:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -349,11 +383,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T17:05:00Z",
+      "publishedDateTime": "2023-11-07T09:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -401,11 +435,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsung-unveils-its-generative-ai-model-samsung-gauss/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-unveils-its-generative-ai-model-samsung-gauss/",
-      "publishedDateTime": "2023-11-07T17:00:00Z",
+      "publishedDateTime": "2023-11-07T09:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -452,11 +486,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.digitaltrends.com/mobile/im-anxious-and-excited-about-mediatek-dimensity-9300-processor/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/im-anxious-and-excited-about-mediatek-dimensity-9300-processor/?amp",
-      "publishedDateTime": "2023-11-07T16:24:00Z",
+      "publishedDateTime": "2023-11-07T08:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Trends",
@@ -504,11 +538,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/conormurray/2023/11/07/actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/conormurray/2023/11/07/actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-11-07T16:15:00Z",
+      "publishedDateTime": "2023-11-07T08:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -555,11 +589,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/07/ai-helps-make-supply-chains-less-brittle-to-an-extent/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/11/07/ai-helps-make-supply-chains-less-brittle-to-an-extent/amp/",
-      "publishedDateTime": "2023-11-07T16:12:00Z",
+      "publishedDateTime": "2023-11-07T08:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -607,11 +641,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/amp/",
-      "publishedDateTime": "2023-11-07T16:00:00Z",
+      "publishedDateTime": "2023-11-07T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -660,11 +694,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2023/11/07/risc-v-gains-momentum-as-eda--ai-chip-design-leader-announces-new-ip/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2023/11/07/risc-v-gains-momentum-as-eda--ai-chip-design-leader-announces-new-ip/amp/",
-      "publishedDateTime": "2023-11-07T14:35:00Z",
+      "publishedDateTime": "2023-11-07T06:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -712,11 +746,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/07/artificial-intelligence-accelerating-clean-energy-transformation/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/07/artificial-intelligence-accelerating-clean-energy-transformation/amp/",
-      "publishedDateTime": "2023-11-07T14:00:00Z",
+      "publishedDateTime": "2023-11-07T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -764,11 +798,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T13:45:00Z",
+      "publishedDateTime": "2023-11-07T05:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmochina",
@@ -816,11 +850,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T13:16:00Z",
+      "publishedDateTime": "2023-11-07T05:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -871,11 +905,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/07/ai-ethics-in-fintech-building-trust-in-tomorrows-financial-ecosystem/amp/",
-      "publishedDateTime": "2023-11-07T13:15:00Z",
+      "publishedDateTime": "2023-11-07T05:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -924,11 +958,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T12:43:00Z",
+      "publishedDateTime": "2023-11-07T04:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -977,11 +1011,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-workers-2023-11?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-humanoid-robots-tesla-hiring-workers-2023-11?amp",
-      "publishedDateTime": "2023-11-07T12:34:00Z",
+      "publishedDateTime": "2023-11-07T04:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1030,11 +1064,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.aol.com/amphtml/self-driving-cars-buses-guide-171731890.html",
       "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/self-driving-cars-buses-guide-171731890.html",
-      "publishedDateTime": "2023-11-07T12:23:00Z",
+      "publishedDateTime": "2023-11-07T04:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AOL",
@@ -1073,11 +1107,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35651432",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35651432",
-      "publishedDateTime": "2023-11-07T12:01:00Z",
+      "publishedDateTime": "2023-11-07T04:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -1116,11 +1150,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/07/ai-and-workplace-communication-enhancing-collaboration-and-productivity/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/11/07/ai-and-workplace-communication-enhancing-collaboration-and-productivity/amp/",
-      "publishedDateTime": "2023-11-07T11:00:00Z",
+      "publishedDateTime": "2023-11-07T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1167,11 +1201,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity/amp",
       "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/cancer/26178/ai-oncology-care-ethical-considerations-respect-patient-dignity/amp",
-      "publishedDateTime": "2023-11-07T11:00:00Z",
+      "publishedDateTime": "2023-11-07T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Labroots",
@@ -1186,58 +1220,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-ai-lip-dubbing-puts-words-in-your-mouth.md",
-      "title": "AI Lip Dubbing Puts Words In Your Mouth",
-      "excerpt": "\"Captions entered the translation space in the fall of 2022 with ... ElevenLabs, also based in New York City, has recently released its own AI Dubbing feature with support for 20 languages. It's a similarly well-funded startup, having raised a $20 million ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/11/07/ai-lip-dubbing-puts-words-in-your-mouth/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/11/07/ai-lip-dubbing-puts-words-in-your-mouth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6549c89edcf34a674732b85f/0x0.jpg?format=jpg&crop=4972,2795,x173,y118,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/11/07/ai-lip-dubbing-puts-words-in-your-mouth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/11/07/ai-lip-dubbing-puts-words-in-your-mouth/amp/",
-      "publishedDateTime": "2023-11-07T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

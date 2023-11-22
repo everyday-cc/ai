@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-11-07-ai-lip-dubbing-puts-words-in-your-mouth.md",
+      "title": "AI Lip Dubbing Puts Words In Your Mouth",
+      "excerpt": "\"Captions entered the translation space in the fall of 2022 with ... ElevenLabs, also based in New York City, has recently released its own AI Dubbing feature with support for 20 languages. It's a similarly well-funded startup, having raised a $20 million ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/11/07/ai-lip-dubbing-puts-words-in-your-mouth/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/11/07/ai-lip-dubbing-puts-words-in-your-mouth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6549c89edcf34a674732b85f/0x0.jpg?format=jpg&crop=4972,2795,x173,y118,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/11/07/ai-lip-dubbing-puts-words-in-your-mouth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/11/07/ai-lip-dubbing-puts-words-in-your-mouth/amp/",
+      "publishedDateTime": "2023-11-07T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-ai-poised-to-seriously-ramp-up-devops-and-other-forms-of-collaboration.md",
       "title": "AI poised to seriously ramp up DevOps and other forms of collaboration",
       "excerpt": "A significant share of IT professionals are already employing AI to handle the more mundane tasks that eat the time they could be worrying about business matters.",
@@ -22,11 +74,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-poised-to-seriously-ramp-up-devops-and-other-forms-of-collaboration/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-poised-to-seriously-ramp-up-devops-and-other-forms-of-collaboration/",
-      "publishedDateTime": "2023-11-07T10:17:00Z",
+      "publishedDateTime": "2023-11-07T02:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -73,11 +125,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/marc-andreessen-horowitz-ai-copyright-2023-11?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marc-andreessen-horowitz-ai-copyright-2023-11?amp",
-      "publishedDateTime": "2023-11-07T10:00:00Z",
+      "publishedDateTime": "2023-11-07T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -124,11 +176,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T10:00:00Z",
+      "publishedDateTime": "2023-11-07T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -175,11 +227,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T09:00:00Z",
+      "publishedDateTime": "2023-11-07T01:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -227,11 +279,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.indiatvnews.com/amp/health/how-artificial-intelligence-can-predict-cardiac-arrest-2023-11-07-901637",
       "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/health/how-artificial-intelligence-can-predict-cardiac-arrest-2023-11-07-901637",
-      "publishedDateTime": "2023-11-07T08:52:00Z",
+      "publishedDateTime": "2023-11-07T00:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "India TV",
@@ -269,11 +321,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=362725",
       "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=362725",
-      "publishedDateTime": "2023-11-07T07:05:00Z",
+      "publishedDateTime": "2023-11-06T23:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Korea Times",
@@ -303,11 +355,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T07:00:00Z",
+      "publishedDateTime": "2023-11-06T23:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -346,11 +398,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T06:54:00Z",
+      "publishedDateTime": "2023-11-06T22:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "U.S. News & World Report",
@@ -398,11 +450,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T06:14:00Z",
+      "publishedDateTime": "2023-11-06T22:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nikkei Asia",
@@ -441,11 +493,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://inshorts.com/m/en/amp_news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745",
       "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/billionaire-binny-bansal-to-launch-aiasaservice-startup-report-1699335756745",
-      "publishedDateTime": "2023-11-07T05:42:00Z",
+      "publishedDateTime": "2023-11-06T21:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Inshorts",
@@ -483,11 +535,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467/amp",
       "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/mediatek-dimensity-9300-soc-unveiled-cortex-x4-cpu-apu-790-ai-specifications-features-4552467/amp",
-      "publishedDateTime": "2023-11-07T04:49:00Z",
+      "publishedDateTime": "2023-11-06T20:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "gadgets360",
@@ -526,11 +578,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
       "cdnAmpWebUrl": "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35790/generative-ai-to-boost-productivity-in-financial-services",
-      "publishedDateTime": "2023-11-07T04:16:00Z",
+      "publishedDateTime": "2023-11-06T20:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Consultancy",
@@ -570,11 +622,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/finding-the-path-toward-success-as-organizations-bring-ai-into-the-workplace/",
-      "publishedDateTime": "2023-11-07T02:39:00Z",
+      "publishedDateTime": "2023-11-06T18:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -622,11 +674,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T01:41:00Z",
+      "publishedDateTime": "2023-11-06T17:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "St. Louis Post-Dispatch",
@@ -665,11 +717,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T00:55:00Z",
+      "publishedDateTime": "2023-11-06T16:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -719,11 +771,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
-      "publishedDateTime": "2023-11-07T00:51:00Z",
+      "publishedDateTime": "2023-11-06T16:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -772,11 +824,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T00:27:00Z",
+      "publishedDateTime": "2023-11-06T16:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -814,11 +866,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T00:01:00Z",
+      "publishedDateTime": "2023-11-06T16:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -857,11 +909,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T00:01:00Z",
+      "publishedDateTime": "2023-11-06T16:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Electronics Weekly",
@@ -900,11 +952,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T00:01:00Z",
+      "publishedDateTime": "2023-11-06T16:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TensorFlow",
@@ -952,11 +1004,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T00:01:00Z",
+      "publishedDateTime": "2023-11-06T16:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CAR Magazine",
@@ -995,11 +1047,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T21:19:00Z",
+      "publishedDateTime": "2023-11-06T13:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmodo",
@@ -1047,11 +1099,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T20:31:00Z",
+      "publishedDateTime": "2023-11-06T12:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Time",
@@ -1099,11 +1151,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.wmur.com/amp/article/2024-president-candidates-ai/45756595",
       "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/2024-president-candidates-ai/45756595",
-      "publishedDateTime": "2023-11-06T20:31:00Z",
+      "publishedDateTime": "2023-11-06T12:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "WMUR",
@@ -1118,50 +1170,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-big-blue-can-still-catch-the-ai-wave-if-it-hurries.md",
-      "title": "Big Blue Can Still Catch The AI Wave If It Hurries",
-      "excerpt": "It has been two and a half decades since we have seen a rapidly expanding universe of a new kind of compute that rivals the current generative AI boom. Back then, with the Dot Com Boom, companies wrap",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/11/06/big-blue-can-still-catch-the-ai-wave-if-it-hurries/",
-      "originalUrl": "https://www.nextplatform.com/2023/11/06/big-blue-can-still-catch-the-ai-wave-if-it-hurries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2023/11/ibm-northpole-logo.jpg",
-          "width": 852,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/11/06/big-blue-can-still-catch-the-ai-wave-if-it-hurries/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/06/big-blue-can-still-catch-the-ai-wave-if-it-hurries/amp/",
-      "publishedDateTime": "2023-11-06T19:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "CEO of self-driving Cruise out at GM"
-    excerpt: "General Motors' self-driving-car unit, Cruise, is going through leadership changes following the loss of permits and the pause of operations in California."
-    publishedDateTime: 2023-11-20T23:03:00Z
-    webUrl: "https://sjvsun.com/business/ceo-of-self-driving-cruise-out-at-gm/"
-    type: article
-    provider:
-      name: The San Joaquin Valley Sun
-      domain: sjvsun.com
-    quality: 24
-    images:
-      - url: "https://sjvsun.com/wp-content/uploads/2023/11/SUN-OG-_-Feat-162.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Cruise testing self-driving cars in Japan, Dubai, even as they're parked in U.S."
     excerpt: "SAN FRANCISCO — Days after General Motors’ Cruise self-driving car unit pulled all of its vehicles off the roads in the U.S. for a safety review, it continues to test them on public roads in Dubai and Japan, Reuters has learned. Cruise this week said ..."
     publishedDateTime: 2023-11-18T16:47:00Z

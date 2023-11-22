@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
-publishedDateTime: 2023-11-22T14:42:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
-webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
+excerpt: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
+publishedDateTime: 2023-11-22T13:00:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/flywheel-collaborates-with-microsoft-and-nvidia-to-propel-end-to-end-ai-development-platform-on/article_f55b0323-e3b0-5c74-ad30-a42ffa6c085d.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/flywheel-collaborates-with-microsoft-and-nvidia-to-propel-end-to-end-ai-development-platform-on/article_f55b0323-e3b0-5c74-ad30-a42ffa6c085d.html"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/82/88207655-8f12-515a-8c15-0b5a2b86f6e2/655e0bf9be8a5.image.jpg?crop=1771%2C930%2C0%2C39&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "How Might Open.ai Outcomes Impact NVIDIA, AMD, Intel And Microsoft?"
@@ -249,15 +255,6 @@ related:
       name: datacenterfrontier.com
       domain: datacenterfrontier.com
     quality: 36
-  - title: "Microsoft Rolls Out Host of New AI Features at Ignite 2023"
-    excerpt: "From new copilots and AI development tools, to vector search and AI chips, artificial intelligence featured prominently in Microsoft’s annual Ignite"
-    publishedDateTime: 2023-11-17T21:44:00Z
-    webUrl: "https://www.datanami.com/2023/11/17/microsoft-rolls-out-host-of-new-ai-features-at-ignite-2023/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
   - title: "Former OpenAI boss to lead Microsoft Advanced AI division"
     excerpt: "Shenanigans over the weekend have seen OpenAI’s former CEO join Microsoft and Twitch’s former CEO step in as OpenAI’s interim CEO."
     publishedDateTime: 2023-11-20T07:54:00Z
@@ -332,6 +329,6 @@ related:
       domain: sinchew.com.my
     quality: 25
 
-secured: "Ir/E66v+38jZ744Ne6xIDUb5Te2FJxeIgyr+I2OB21i4vUD0fXjxd46DKZGWaXm2DvgEPqd6pv1X80TwGmmVyjSI2TfUBUfgDevo7BuyfwFm2mhvF7v8X/9lHJUO3KH1NIqyB8kv8cOduYCGtr70MS6L2dRLu8L2W7IdlEJONFkrDNRD4SD/fFFQFIvHjFQjYgHztdcYiWMLyhg602R5/W+WcXplSb6yUGBQsEPYdelKPTgFUNBSHZFP2LSo86R3lopdf69uZFi67GvTYnJTGtwdXRiM3UdWe9BaIZw6ZVSKjCdY8rNnSWVFkDkqRzAeAL17fNvauFzTWzy8UMiCT6ARDqV6yFjKtQnkMcR1P18=;0Yqwq5yKM+cUYDzvBzD/lw=="
+secured: "MbTA9QaBlqZJlVs9oGe48IZngN2oodfu/cuoHg7Xism7PK1AbEDipKjZ3jCBtGsVNWqEVppj7fE16AvF5LVGNBKr3UyIGRRe2P0GOvBkt//fgElLwIGPXOBYf2rpJ73giKvezl29/FKh2y+34qSewRZTeyAeFPIZKEOhiNuYDST36v3D5bRnlvDdo9fvxjHvECwGbpB1Un0Q+W+xEZAN2tcdhhVYrWHavgmEqgWuLsXHyYU+tkdC8DYgXvPvJfGAZoNDc/oRZAQY9U9grSwX3Vnlx3/zpOmfWvcj9tPtiTL0PNOL0W95Gh93aTNtXkcO0poRcsibYEWiVaNpqOID4v5CMqP2OZcFfQy9yFIz8dE=;t5Rvr+QrxvlYI+15kyAt/Q=="
 ---
 

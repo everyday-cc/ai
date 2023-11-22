@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-10-27-ai-and-the-future-of-work-adapting-to-a-changing-landscape.md",
+      "title": "AI And The Future Of Work: Adapting To A Changing Landscape",
+      "excerpt": "Nvidia, a leading technology company, recently announced a significant increase in earnings, with their revenue doubling due to the high demand for its AI chips that power new machine learning applications;",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6307744cdf865cb5591b5fd3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/27/ai-and-the-future-of-work-adapting-to-a-changing-landscape/amp/",
+      "publishedDateTime": "2023-10-27T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-27-mediago-empowers-advertisers-with-enhanced-smartbid-capabilities-to-maximize-roi.md",
       "title": "MediaGo Empowers Advertisers with Enhanced Smartbid Capabilities to Maximize ROI",
       "excerpt": "Leveraging deep learning technology, MediaGo's new Smartbid feature creates tangible value for performance advertisers by effectively managing the bidding process. The Smartbid model, built on a deep neural network with over 1 billion parameters, enables significant improvements in ad performance for advertisers at all scales.",
@@ -13,11 +65,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T09:33:00Z",
+      "publishedDateTime": "2023-10-27T02:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -56,11 +108,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers-u0iwgdbx?amp=1",
       "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/using-facial-recognition-sita-and-fraport-enable-a-contactless-travel-experience-for-all-airline-passengers-u0iwgdbx?amp=1",
-      "publishedDateTime": "2023-10-27T09:22:00Z",
+      "publishedDateTime": "2023-10-27T02:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Zawya",
@@ -90,11 +142,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T09:00:00Z",
+      "publishedDateTime": "2023-10-27T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Victoria Advocate",
@@ -124,11 +176,11 @@
       "heat": 73,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T09:00:00Z",
+      "publishedDateTime": "2023-10-27T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -175,11 +227,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T08:35:00Z",
+      "publishedDateTime": "2023-10-27T01:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -227,11 +279,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zawya.com/en/wealth/wealth-management/fii7-in-riyadh-sees-detailed-debate-on-ai-and-179bln-worth-of-investments-ujsy5de9?amp=1",
       "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/wealth/wealth-management/fii7-in-riyadh-sees-detailed-debate-on-ai-and-179bln-worth-of-investments-ujsy5de9?amp=1",
-      "publishedDateTime": "2023-10-27T05:49:00Z",
+      "publishedDateTime": "2023-10-26T22:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Zawya",
@@ -270,11 +322,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T05:14:00Z",
+      "publishedDateTime": "2023-10-26T22:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCentral",
@@ -305,11 +357,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T03:32:00Z",
+      "publishedDateTime": "2023-10-26T20:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Journal",
@@ -350,11 +402,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://syncedreview.com/2023/10/26/deepmind-verifies-convnets-can-match-vision-transformers-at-scale/amp/",
       "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/10/26/deepmind-verifies-convnets-can-match-vision-transformers-at-scale/amp/",
-      "publishedDateTime": "2023-10-27T02:35:00Z",
+      "publishedDateTime": "2023-10-26T19:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "syncedreview",
@@ -393,11 +445,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/boston-dynamics-uses-chatgpt-to-create-a-robot-tour-guide/?amp",
-      "publishedDateTime": "2023-10-27T02:20:00Z",
+      "publishedDateTime": "2023-10-26T19:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Trends",
@@ -445,11 +497,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35438797",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35438797",
-      "publishedDateTime": "2023-10-27T02:19:00Z",
+      "publishedDateTime": "2023-10-26T19:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -479,11 +531,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T01:37:00Z",
+      "publishedDateTime": "2023-10-26T18:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Financial Times",
@@ -522,11 +574,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.marketwatch.com/amp/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
       "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazons-ai-talk-is-making-wall-street-drool-but-there-seems-to-be-a-catch-9fbbf082",
-      "publishedDateTime": "2023-10-27T01:25:00Z",
+      "publishedDateTime": "2023-10-26T18:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -574,11 +626,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.rollingstone.com/culture/culture-features/tom-watson-jr-great-capitalist-who-ever-lived-excerpt-1234855231/amp/",
       "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/tom-watson-jr-great-capitalist-who-ever-lived-excerpt-1234855231/amp/",
-      "publishedDateTime": "2023-10-27T01:18:00Z",
+      "publishedDateTime": "2023-10-26T18:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Rolling Stone",
@@ -608,11 +660,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/",
       "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-u-s-news/ap-un-chief-appoints-39-member-panel-to-advise-on-international-governance-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-10-27T00:21:00Z",
+      "publishedDateTime": "2023-10-26T17:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",
@@ -651,11 +703,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T23:59:00Z",
+      "publishedDateTime": "2023-10-26T16:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TensorFlow",
@@ -704,11 +756,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.cio.com/article/657374/aws-revenue-growth-stabilizes-with-a-boost-from-generative-ai-led-services.html/amp/",
       "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/657374/aws-revenue-growth-stabilizes-with-a-boost-from-generative-ai-led-services.html/amp/",
-      "publishedDateTime": "2023-10-26T23:59:00Z",
+      "publishedDateTime": "2023-10-26T16:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CIO",
@@ -747,11 +799,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T23:33:00Z",
+      "publishedDateTime": "2023-10-26T16:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Robot Report",
@@ -791,11 +843,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/10/26/adobes-balakrishnan-new-ai-tools-in-express-lower-barriers-for-next-gen-users/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/10/26/adobes-balakrishnan-new-ai-tools-in-express-lower-barriers-for-next-gen-users/amp/",
-      "publishedDateTime": "2023-10-26T23:06:00Z",
+      "publishedDateTime": "2023-10-26T16:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -833,11 +885,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T22:43:00Z",
+      "publishedDateTime": "2023-10-26T15:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNBC",
@@ -876,11 +928,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T21:09:00Z",
+      "publishedDateTime": "2023-10-26T14:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Victoria Advocate",
@@ -919,11 +971,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp",
       "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp",
-      "publishedDateTime": "2023-10-26T20:54:00Z",
+      "publishedDateTime": "2023-10-26T13:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Medical Xpress",
@@ -962,11 +1014,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/tech/poison-pill-tool-break-ai-systems-stealing-unauthorized-data-allowing-artists-safeguard-works.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/poison-pill-tool-break-ai-systems-stealing-unauthorized-data-allowing-artists-safeguard-works.amp",
-      "publishedDateTime": "2023-10-26T20:30:00Z",
+      "publishedDateTime": "2023-10-26T13:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1013,11 +1065,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10?amp",
-      "publishedDateTime": "2023-10-26T20:27:00Z",
+      "publishedDateTime": "2023-10-26T13:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1043,60 +1095,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-cranium-raises-25m-to-fund-enterprise-ai-monitoring-security-and-compliance-platform.md",
-      "title": "Cranium raises $25M to fund enterprise AI monitoring, security, and compliance platform",
-      "excerpt": "The round was led by Telstra Ventures with participation from KPMG LLP and SYN Ventures, taking Cranium's total to $32 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/cranium-raises-25m-to-fund-enterprise-ai-monitoring-security-and-compliance-platform/",
-      "originalUrl": "https://venturebeat.com/security/cranium-raises-25m-to-fund-enterprise-ai-monitoring-security-and-compliance-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_peers_inside_an_open_PC_tower_at_the_circuitboa_194dd42e-576b-49a2-8341-b77eabcee85d.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T20:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
       ]
     }
   ],

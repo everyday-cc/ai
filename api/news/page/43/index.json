@@ -2,6 +2,40 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-10-18-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
+      "title": "AI needs a strong code of ethics to keep its dark side from overtaking us",
+      "excerpt": "A more ethically responsible tech industry and AI products and services are possible. With the stakes so high, it has to be worth it. Ann Skeet and Brian Green are authors of \"Ethics in the Age of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/marketwatch/20231018211/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us",
+      "originalUrl": "https://www.morningstar.com/news/marketwatch/20231018211/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-look-farm-robots-plant-tree-saplings-at-gitex-global-dubai.md",
       "title": "Look: Farm robots plant tree saplings at Gitex Global Dubai",
       "excerpt": "The Farm Bot displayed by TDRA at Gitex has two robotic arms: one selects the tree sapling and the other holds the pot where it is planted. There are cameras that monitor precision planting of the sapling. The potted tree sapling is then distributed to visitors at the TDRA stand.",
@@ -22,11 +56,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai?amp=1",
       "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai?amp=1",
-      "publishedDateTime": "2023-10-18T11:41:00Z",
+      "publishedDateTime": "2023-10-18T04:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Khaleej Times",
@@ -65,11 +99,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35304469",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35304469",
-      "publishedDateTime": "2023-10-18T11:39:00Z",
+      "publishedDateTime": "2023-10-18T04:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -108,11 +142,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/ai-driven-anomaly-detection-on-social-media-5-things-to-consider/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/ai-driven-anomaly-detection-on-social-media-5-things-to-consider/amp/",
-      "publishedDateTime": "2023-10-18T11:16:00Z",
+      "publishedDateTime": "2023-10-18T04:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -159,11 +193,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/amp/",
-      "publishedDateTime": "2023-10-18T10:30:00Z",
+      "publishedDateTime": "2023-10-18T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -211,11 +245,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.aol.com/amphtml/u-curb-exports-more-ai-063856265.html",
       "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/u-curb-exports-more-ai-063856265.html",
-      "publishedDateTime": "2023-10-18T09:38:00Z",
+      "publishedDateTime": "2023-10-18T02:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AOL",
@@ -254,11 +288,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://m.timesofindia.com/business/india-business/computer-vision-is-an-exciting-field-in-ai-now/amp_articleshow/104513432.cms",
       "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/computer-vision-is-an-exciting-field-in-ai-now/amp_articleshow/104513432.cms",
-      "publishedDateTime": "2023-10-18T09:24:00Z",
+      "publishedDateTime": "2023-10-18T02:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Indiatimes",
@@ -297,11 +331,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T09:00:00Z",
+      "publishedDateTime": "2023-10-18T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -339,11 +373,11 @@
       "heat": 98,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T09:00:00Z",
+      "publishedDateTime": "2023-10-18T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -382,11 +416,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T07:41:00Z",
+      "publishedDateTime": "2023-10-18T00:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Mena FN",
@@ -426,11 +460,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361323",
       "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361323",
-      "publishedDateTime": "2023-10-18T07:33:00Z",
+      "publishedDateTime": "2023-10-18T00:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Korea Times",
@@ -470,11 +504,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
       "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
-      "publishedDateTime": "2023-10-18T06:38:00Z",
+      "publishedDateTime": "2023-10-17T23:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Mint",
@@ -514,11 +548,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran",
       "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran",
-      "publishedDateTime": "2023-10-18T05:48:00Z",
+      "publishedDateTime": "2023-10-17T22:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "scmp.com",
@@ -566,11 +600,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T05:33:00Z",
+      "publishedDateTime": "2023-10-17T22:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -618,11 +652,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.cnbc.com/amp/2023/10/18/baidus-ernie-4point0-fails-to-wow-investors-citi-jefferies-keep-buy-ratings.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/18/baidus-ernie-4point0-fails-to-wow-investors-citi-jefferies-keep-buy-ratings.html",
-      "publishedDateTime": "2023-10-18T05:24:00Z",
+      "publishedDateTime": "2023-10-17T22:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNBC",
@@ -670,11 +704,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zawya.com/en/legal/regulations/gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document-eqeb7c9r?amp=1",
       "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/legal/regulations/gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document-eqeb7c9r?amp=1",
-      "publishedDateTime": "2023-10-18T05:22:00Z",
+      "publishedDateTime": "2023-10-17T22:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Zawya",
@@ -713,11 +747,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T05:09:00Z",
+      "publishedDateTime": "2023-10-17T22:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Robot Report",
@@ -756,11 +790,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35286587",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35286587",
-      "publishedDateTime": "2023-10-18T04:03:00Z",
+      "publishedDateTime": "2023-10-17T21:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -799,11 +833,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/amp/",
-      "publishedDateTime": "2023-10-18T01:39:00Z",
+      "publishedDateTime": "2023-10-17T18:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -841,11 +875,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T01:00:00Z",
+      "publishedDateTime": "2023-10-17T18:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -884,11 +918,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:59:00Z",
+      "publishedDateTime": "2023-10-17T17:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Statista",
@@ -927,11 +961,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:59:00Z",
+      "publishedDateTime": "2023-10-17T17:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Statista",
@@ -970,11 +1004,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:59:00Z",
+      "publishedDateTime": "2023-10-17T17:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Statista",
@@ -1013,11 +1047,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:58:00Z",
+      "publishedDateTime": "2023-10-17T17:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -1065,11 +1099,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:42:00Z",
+      "publishedDateTime": "2023-10-17T17:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Sun Sentinel",
@@ -1084,49 +1118,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide.md",
-      "title": "AI Skills for All: How IBM Is Helping To Close the Digital Divide",
-      "excerpt": "For instance, in one hands-on simulation, learners build and run a machine learning model with IBM Watson Studio. Beyond the fundamentals, we recently announced a new generative AI roadmap that includes new coursework on Prompt-Writing, Getting Started ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2023/10/18/ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2023/10/18/ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/794271/a90560dc-d22d-4aee-8c70-dc2a5a0ca3fa.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

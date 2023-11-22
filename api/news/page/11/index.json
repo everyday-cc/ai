@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-11-11-aws-explained-what-amazon-web-services-is-for-and-where-the-cloud-computing-industry-leader-is-headed.md",
+      "title": "AWS explained: What Amazon Web Services is for and where the cloud computing industry leader is headed",
+      "excerpt": "AWS is a division of Amazon that offers a wide range of cloud computing services. Amazon Web Services' pay-as-you-go model makes it a popular choice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/aws",
+      "originalUrl": "https://www.businessinsider.com/aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6543cd7f3cc84b4dfafb01a9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/aws?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/aws?amp",
+      "publishedDateTime": "2023-11-10T13:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-how-to-implement-enterprise-resource-planning-erp.md",
       "title": "How to implement enterprise resource planning (ERP)",
       "excerpt": "To benefit from ERP adoption, the system must be deployed properly and efficiently. Here are six steps to successfully implement ERP.\nThe post How to implement enterprise resource planning (ERP) appeared first on IBM Blog.\n",
@@ -13,11 +65,11 @@
       "heat": 83,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T20:57:24Z",
+      "publishedDateTime": "2023-11-10T12:57:24-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -55,11 +107,11 @@
       "heat": 251,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T20:39:56Z",
+      "publishedDateTime": "2023-11-10T12:39:56-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -108,11 +160,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/amp/",
-      "publishedDateTime": "2023-11-10T20:05:00Z",
+      "publishedDateTime": "2023-11-10T12:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -160,11 +212,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/us/hyped-ai-based-restaurant-opened-fanfare-last-month-san-francisco-now-empty.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/hyped-ai-based-restaurant-opened-fanfare-last-month-san-francisco-now-empty.amp",
-      "publishedDateTime": "2023-11-10T18:00:00Z",
+      "publishedDateTime": "2023-11-10T10:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -211,11 +263,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2023/11/10/the-lack-of-clarity-on-the-ai-pins-accessibility-begs-the-question-humane-for-whom/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/11/10/the-lack-of-clarity-on-the-ai-pins-accessibility-begs-the-question-humane-for-whom/amp/",
-      "publishedDateTime": "2023-11-10T17:54:00Z",
+      "publishedDateTime": "2023-11-10T09:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -262,11 +314,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/amp/",
-      "publishedDateTime": "2023-11-10T17:18:00Z",
+      "publishedDateTime": "2023-11-10T09:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -313,11 +365,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://blog.google/products/translate/google-translate-homonyms/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/google-translate-homonyms/amp/",
-      "publishedDateTime": "2023-11-10T17:00:00Z",
+      "publishedDateTime": "2023-11-10T09:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",
@@ -366,11 +418,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T16:57:42Z",
+      "publishedDateTime": "2023-11-10T08:57:42-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -410,11 +462,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T16:32:00Z",
+      "publishedDateTime": "2023-11-10T08:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SD Times",
@@ -453,11 +505,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T16:24:00Z",
+      "publishedDateTime": "2023-11-10T08:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Morningstar",
@@ -497,11 +549,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techxplore.com/news/2023-11-german-ai-startup-europe-cites.amp",
       "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-german-ai-startup-europe-cites.amp",
-      "publishedDateTime": "2023-11-10T15:59:00Z",
+      "publishedDateTime": "2023-11-10T07:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "techxplore",
@@ -539,11 +591,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T15:49:00Z",
+      "publishedDateTime": "2023-11-10T07:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Victoria Advocate",
@@ -583,11 +635,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T15:38:00Z",
+      "publishedDateTime": "2023-11-10T07:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRepublic",
@@ -635,11 +687,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/11/10/consumers-can-expect-ai-to-first-impact-the-tmt-sector--according-to-dealmakers/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/11/10/consumers-can-expect-ai-to-first-impact-the-tmt-sector--according-to-dealmakers/amp/",
-      "publishedDateTime": "2023-11-10T15:00:00Z",
+      "publishedDateTime": "2023-11-10T07:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -686,11 +738,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/amp/",
-      "publishedDateTime": "2023-11-10T14:35:00Z",
+      "publishedDateTime": "2023-11-10T06:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -731,11 +783,11 @@
       "heat": 82,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T13:00:00Z",
+      "publishedDateTime": "2023-11-10T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -773,11 +825,11 @@
       "heat": 298,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T13:00:00Z",
+      "publishedDateTime": "2023-11-10T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -817,11 +869,11 @@
       "heat": 139,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T11:21:00Z",
+      "publishedDateTime": "2023-11-10T03:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -869,11 +921,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T11:16:00Z",
+      "publishedDateTime": "2023-11-10T03:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -921,11 +973,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/amp_articleshow/105124807.cms",
       "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/amp_articleshow/105124807.cms",
-      "publishedDateTime": "2023-11-10T11:14:00Z",
+      "publishedDateTime": "2023-11-10T03:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Indiatimes",
@@ -964,11 +1016,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T11:03:00Z",
+      "publishedDateTime": "2023-11-10T03:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1008,11 +1060,11 @@
       "heat": 82,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T10:00:00Z",
+      "publishedDateTime": "2023-11-10T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -1059,11 +1111,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/media/mom-14-year-old-victim-ai-generated-pornographic-image-demands-change.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mom-14-year-old-victim-ai-generated-pornographic-image-demands-change.amp",
-      "publishedDateTime": "2023-11-10T10:00:00Z",
+      "publishedDateTime": "2023-11-10T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1101,11 +1153,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T09:45:00Z",
+      "publishedDateTime": "2023-11-10T01:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -1129,57 +1181,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-scarlett-johansson-tackles-ai-in-legal-showdown-against-app-that-used-her-likeness-voice-in-ad.md",
-      "title": "Scarlett Johansson tackles AI in legal showdown against app that used her likeness, voice in ad",
-      "excerpt": "Scarlett Johansson is seeking legal action against an app that used her likeness and simulated voice without her permission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/scarlett-johansson-tackles-ai-legal-showdown-against-app-used-likeness-voice-ad",
-      "originalUrl": "https://www.foxnews.com/entertainment/scarlett-johansson-tackles-ai-legal-showdown-against-app-used-likeness-voice-ad",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/11/1200/675/ScarlettJohansson.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/scarlett-johansson-tackles-ai-legal-showdown-against-app-used-likeness-voice-ad.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/scarlett-johansson-tackles-ai-legal-showdown-against-app-used-likeness-voice-ad.amp",
-      "publishedDateTime": "2023-11-10T07:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

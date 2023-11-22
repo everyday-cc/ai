@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-11-15-ai-based-model-can-predict-therapy-outcome-in-ovarian-cancer-patients.md",
+      "title": "AI-based model can predict therapy outcome in ovarian cancer patients",
+      "excerpt": "A model based on artificial intelligence is able to predict the therapy outcome (measured by volumetric reduction of tumor lesions) in 80% of ovarian cancer patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20231113/AI-based-model-can-predict-therapy-outcome-in-ovarian-cancer-patients.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20231113/AI-based-model-can-predict-therapy-outcome-in-ovarian-cancer-patients.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-alabama-man-beaten-beyond-recognition-in-same-prison-where-inmate-was-rented-out-and-murdered.md",
       "title": "Alabama man beaten beyond recognition in same prison where inmate was ‘rented out’ and murdered",
       "excerpt": "Louis Latham Jr. was struck with the heavy object at Staton Correctional Facility in August, leaving him with gruesome swelling to the side of his head and two shut eyes.",
@@ -13,11 +47,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T17:02:00Z",
+      "publishedDateTime": "2023-11-14T09:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Post",
@@ -47,11 +81,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T16:59:00Z",
+      "publishedDateTime": "2023-11-14T08:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Stuff",
@@ -81,11 +115,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T16:54:00Z",
+      "publishedDateTime": "2023-11-14T08:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Future Market Insights",
@@ -124,11 +158,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T16:41:00Z",
+      "publishedDateTime": "2023-11-14T08:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SiliconRepublic",
@@ -158,11 +192,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T15:36:00Z",
+      "publishedDateTime": "2023-11-14T07:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -192,11 +226,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T15:26:00Z",
+      "publishedDateTime": "2023-11-14T07:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "eturbonews",
@@ -226,11 +260,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T15:00:00Z",
+      "publishedDateTime": "2023-11-14T07:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",
@@ -269,11 +303,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T15:00:00Z",
+      "publishedDateTime": "2023-11-14T07:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MIT Technology Review",
@@ -303,11 +337,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T14:53:00Z",
+      "publishedDateTime": "2023-11-14T06:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "STAT",
@@ -337,11 +371,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T14:33:00Z",
+      "publishedDateTime": "2023-11-14T06:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -380,11 +414,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T14:05:00Z",
+      "publishedDateTime": "2023-11-14T06:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -432,11 +466,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T14:00:00Z",
+      "publishedDateTime": "2023-11-14T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SiliconANGLE",
@@ -466,11 +500,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T13:59:00Z",
+      "publishedDateTime": "2023-11-14T05:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Psychology Today",
@@ -500,11 +534,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T13:52:00Z",
+      "publishedDateTime": "2023-11-14T05:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "中国日报网",
@@ -543,11 +577,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T13:51:00Z",
+      "publishedDateTime": "2023-11-14T05:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Mena FN",
@@ -577,11 +611,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T13:10:00Z",
+      "publishedDateTime": "2023-11-14T05:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MIT Technology Review",
@@ -620,11 +654,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/14/neobanks-democratizing-financial-services-for-the-underbanked/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/14/neobanks-democratizing-financial-services-for-the-underbanked/amp/",
-      "publishedDateTime": "2023-11-14T13:00:00Z",
+      "publishedDateTime": "2023-11-14T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -663,11 +697,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T12:40:00Z",
+      "publishedDateTime": "2023-11-14T04:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Indiatimes",
@@ -706,11 +740,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T12:07:00Z",
+      "publishedDateTime": "2023-11-14T04:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Education Week",
@@ -740,11 +774,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T12:00:00Z",
+      "publishedDateTime": "2023-11-14T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MIT Technology Review",
@@ -774,11 +808,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T10:36:00Z",
+      "publishedDateTime": "2023-11-14T02:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Techopedia",
@@ -817,11 +851,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T10:31:00Z",
+      "publishedDateTime": "2023-11-14T02:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "WESA",
@@ -851,11 +885,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T09:21:00Z",
+      "publishedDateTime": "2023-11-14T01:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -885,11 +919,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T08:03:00Z",
+      "publishedDateTime": "2023-11-14T00:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NoCamels - Israeli Innovation News",
@@ -904,40 +938,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-nvidia-announces-new-h200-gpu-for-high-speed-data-processing-and-ai-model-training.md",
-      "title": "Nvidia Announces New H200 GPU for High-Speed Data Processing and AI Model Training",
-      "excerpt": "Nvidia has unveiled the H200 chips, which is a significant improvement from H100, and is expected to be available from Q2 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coinspeaker.com/nvidia-h200-gpu-data-ai/",
-      "originalUrl": "https://www.coinspeaker.com/nvidia-h200-gpu-data-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T07:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "coinspeaker",
-        "domain": "coinspeaker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

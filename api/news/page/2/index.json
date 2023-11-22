@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-22-amazon-lays-off-alexa-employees-as-2010s-voice-assistant-boom-gives-way-to-ai.md",
+      "title": "Amazon lays off Alexa employees as 2010s voice-assistant boom gives way to AI",
+      "excerpt": "Amazon is going through yet another round of layoffs, reports Computerworld, and once again the company’s devices-and-services division appears to be bearing the brunt of it. The layoffs will primarily affect the team working on Alexa, the Amazon voice assistant that drives the company's Echo smart speakers and other products.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/11/amazon-lays-off-alexa-employees-as-2010s-voice-assistant-boom-gives-way-to-ai/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/11/amazon-lays-off-alexa-employees-as-2010s-voice-assistant-boom-gives-way-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/echo-show-5-800x450.jpeg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/11/amazon-lays-off-alexa-employees-as-2010s-voice-assistant-boom-gives-way-to-ai/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/11/amazon-lays-off-alexa-employees-as-2010s-voice-assistant-boom-gives-way-to-ai/amp/",
+      "publishedDateTime": "2023-11-21T13:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-nvidias-revenue-triples-as-ai-chip-boom-continues.md",
       "title": "Nvidia's revenue triples as AI chip boom continues",
       "excerpt": "Nvidia called for accelerating revenue growth in the next quarter, even as executives warn that government limits on sales to some countries will hurt results.",
@@ -22,11 +73,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.cnbc.com/amp/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html",
-      "publishedDateTime": "2023-11-21T21:06:00Z",
+      "publishedDateTime": "2023-11-21T13:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNBC",
@@ -74,11 +125,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T20:59:00Z",
+      "publishedDateTime": "2023-11-21T12:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -117,11 +168,11 @@
       "heat": 136,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T19:40:27Z",
+      "publishedDateTime": "2023-11-21T11:40:27-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -158,7 +209,7 @@
       "originalUrl": "https://www.indiablooms.com/finance-details/19466/wipro-joins-hands-with-nvidia-to-integrate-generative-ai-in-healthcare.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -170,11 +221,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T18:29:00Z",
+      "publishedDateTime": "2023-11-21T10:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "India Blooms",
@@ -214,11 +265,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T18:24:00Z",
+      "publishedDateTime": "2023-11-21T10:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRepublic",
@@ -266,11 +317,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35908820",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35908820",
-      "publishedDateTime": "2023-11-21T18:20:00Z",
+      "publishedDateTime": "2023-11-21T10:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -312,11 +363,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T18:06:00Z",
+      "publishedDateTime": "2023-11-21T10:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -364,11 +415,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
-      "publishedDateTime": "2023-11-21T17:50:00Z",
+      "publishedDateTime": "2023-11-21T09:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -417,11 +468,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T17:24:48Z",
+      "publishedDateTime": "2023-11-21T09:24:48-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -470,11 +521,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/dileeprao/2023/11/21/unlocking-ai-brilliance-5-key-questions-to-distinguish-genius-from-garbage-in-entrepreneurship/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dileeprao/2023/11/21/unlocking-ai-brilliance-5-key-questions-to-distinguish-genius-from-garbage-in-entrepreneurship/amp/",
-      "publishedDateTime": "2023-11-21T17:00:00Z",
+      "publishedDateTime": "2023-11-21T09:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -521,11 +572,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/elizabethmacbride/2023/11/21/using-ai-investingcom-aims-to-be-the-bloomberg-of-retail-investing/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elizabethmacbride/2023/11/21/using-ai-investingcom-aims-to-be-the-bloomberg-of-retail-investing/amp/",
-      "publishedDateTime": "2023-11-21T16:56:00Z",
+      "publishedDateTime": "2023-11-21T08:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -573,11 +624,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/danielwebber/2023/11/21/ai-is-finding-its-feet-in-cross-border-payments--but-theres-a-long-road-ahead/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielwebber/2023/11/21/ai-is-finding-its-feet-in-cross-border-payments--but-theres-a-long-road-ahead/amp/",
-      "publishedDateTime": "2023-11-21T16:40:00Z",
+      "publishedDateTime": "2023-11-21T08:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -624,11 +675,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T16:30:00Z",
+      "publishedDateTime": "2023-11-21T08:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -676,11 +727,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/21/how-the-openai-fiasco-could-bolster-meta-and-the-open-ai-movement/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/how-the-openai-fiasco-could-bolster-meta-and-the-open-ai-movement/amp/",
-      "publishedDateTime": "2023-11-21T16:13:00Z",
+      "publishedDateTime": "2023-11-21T08:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -727,11 +778,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T16:07:00Z",
+      "publishedDateTime": "2023-11-21T08:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -778,11 +829,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/amp/",
       "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/amp/",
-      "publishedDateTime": "2023-11-21T15:43:00Z",
+      "publishedDateTime": "2023-11-21T07:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -818,7 +869,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 207,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -830,11 +881,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/amp/",
-      "publishedDateTime": "2023-11-21T14:15:00Z",
+      "publishedDateTime": "2023-11-21T06:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -872,11 +923,11 @@
       "heat": 75,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T13:22:00Z",
+      "publishedDateTime": "2023-11-21T05:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "in.mashable",
@@ -906,11 +957,11 @@
       "heat": 88,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T13:00:00Z",
+      "publishedDateTime": "2023-11-21T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Robot Report",
@@ -949,11 +1000,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/a-new-frontier-ai-compliance-regulations-redefined-for-a-new-era/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/21/a-new-frontier-ai-compliance-regulations-redefined-for-a-new-era/amp/",
-      "publishedDateTime": "2023-11-21T11:30:00Z",
+      "publishedDateTime": "2023-11-21T03:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1000,11 +1051,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/",
-      "publishedDateTime": "2023-11-21T11:00:00Z",
+      "publishedDateTime": "2023-11-21T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1040,7 +1091,7 @@
       "originalUrl": "https://fortune.com/franchise-list-page/fortune-50-ai-innovators-credits-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1056,7 +1107,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T10:30:00Z",
+      "publishedDateTime": "2023-11-21T02:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fortune",
@@ -1103,11 +1154,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes",
-      "publishedDateTime": "2023-11-21T10:13:00Z",
+      "publishedDateTime": "2023-11-21T02:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -1146,11 +1197,11 @@
       "heat": 82,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T10:00:00Z",
+      "publishedDateTime": "2023-11-21T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -1174,49 +1225,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-generative-ai-challenges-and-opportunities.md",
-      "title": "Generative AI: Challenges and opportunities",
-      "excerpt": "Generative AI is revolutionizing the ways of working of financial institutions and Fintech companies. While rapid advancements in GenAI have opened up new possibilities across various industries, it is the fintech and banking sector that is poised to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/",
-      "originalUrl": "https://www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/ai.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/lite/",
-      "publishedDateTime": "2023-11-21T09:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

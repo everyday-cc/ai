@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-13-digital-awareness-in-the-age-of-ai-metaverse-and-quantum-computing.md",
+      "title": "Digital Awareness In The Age Of AI, Metaverse And Quantum Computing",
+      "excerpt": "As we transition into an era defined by AI, the metaverse and quantum computing, digital awareness emerges as a critical skill set.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/digital-awareness-in-the-age-of-ai-metaverse-and-quantum-computing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/digital-awareness-in-the-age-of-ai-metaverse-and-quantum-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6422ed94de6f9d0ee2e2d107/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/digital-awareness-in-the-age-of-ai-metaverse-and-quantum-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/digital-awareness-in-the-age-of-ai-metaverse-and-quantum-computing/amp/",
+      "publishedDateTime": "2023-10-13T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-navigating-ethical-ai-and-the-future-of-automation.md",
       "title": "Navigating Ethical AI And The Future Of Automation",
       "excerpt": "As we traverse the landscape of AI and automation, we must ensure that our journey is guided by ethical principles.",
@@ -22,11 +74,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/",
-      "publishedDateTime": "2023-10-13T11:00:00Z",
+      "publishedDateTime": "2023-10-13T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -74,11 +126,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35224314",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35224314",
-      "publishedDateTime": "2023-10-12T16:12:00Z",
+      "publishedDateTime": "2023-10-12T09:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -117,11 +169,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/?outputType=amp",
       "cdnAmpWebUrl": "https://www-kswo-com.cdn.ampproject.org/c/s/www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/?outputType=amp",
-      "publishedDateTime": "2023-10-11T23:44:00Z",
+      "publishedDateTime": "2023-10-11T16:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "KSWO ABC 7 News",
@@ -160,11 +212,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T21:11:00Z",
+      "publishedDateTime": "2023-10-11T14:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -212,11 +264,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/amp/",
-      "publishedDateTime": "2023-10-11T17:46:00Z",
+      "publishedDateTime": "2023-10-11T10:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -264,11 +316,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.amp.html",
       "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.amp.html",
-      "publishedDateTime": "2023-10-11T17:00:00Z",
+      "publishedDateTime": "2023-10-11T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Computerworld",
@@ -308,11 +360,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T14:21:00Z",
+      "publishedDateTime": "2023-10-11T07:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -360,11 +412,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10?amp",
-      "publishedDateTime": "2023-10-11T08:59:00Z",
+      "publishedDateTime": "2023-10-11T01:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -412,11 +464,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/most-people-the-support-need-for-trustworthy-and-regulated-ai/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-people-the-support-need-for-trustworthy-and-regulated-ai/",
-      "publishedDateTime": "2023-10-11T07:13:00Z",
+      "publishedDateTime": "2023-10-11T00:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -464,11 +516,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T03:37:00Z",
+      "publishedDateTime": "2023-10-10T20:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "EconoTimes",
@@ -507,11 +559,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force?_amp=true",
       "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force?_amp=true",
-      "publishedDateTime": "2023-10-10T22:10:00Z",
+      "publishedDateTime": "2023-10-10T15:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Government Technology",

@@ -2,6 +2,49 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-10-16-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China’s Baidu races Waymo, GM to develop self-driving cars",
+      "excerpt": "A technician monitors a self-driving taxi developed by tech giant Baidu Inc. on June 14, 2022, in Beijing. (AP Photo/Ng Han Guan) BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
+      "originalUrl": "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2022/06/baidu-self-driving-taxi.jpg/w=2600",
+          "width": 2600,
+          "height": 1733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.md",
       "title": "U.S. tackles loopholes in curbs on AI chip exports to China",
       "excerpt": "The new rules will be added to sweeping U.S. restrictions on shipments of advanced chips and chipmaking equipment to China unveiled last October.",
@@ -22,11 +65,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
-      "publishedDateTime": "2023-10-16T00:00:00Z",
+      "publishedDateTime": "2023-10-15T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNBC",
@@ -65,11 +108,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T20:02:00Z",
+      "publishedDateTime": "2023-10-15T13:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -118,11 +161,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/amp/",
-      "publishedDateTime": "2023-10-15T17:36:00Z",
+      "publishedDateTime": "2023-10-15T10:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -170,11 +213,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/",
-      "publishedDateTime": "2023-10-15T17:34:00Z",
+      "publishedDateTime": "2023-10-15T10:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -222,11 +265,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T16:41:00Z",
+      "publishedDateTime": "2023-10-15T09:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Statista",
@@ -265,11 +308,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T16:41:00Z",
+      "publishedDateTime": "2023-10-15T09:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Statista",
@@ -299,11 +342,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T16:41:00Z",
+      "publishedDateTime": "2023-10-15T09:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Statista",
@@ -342,11 +385,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/nvidia-ai-chips-happy-staff-keep-wfh-remote-work-chatgpt-2023-10?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ai-chips-happy-staff-keep-wfh-remote-work-chatgpt-2023-10?amp",
-      "publishedDateTime": "2023-10-15T16:15:00Z",
+      "publishedDateTime": "2023-10-15T09:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -394,11 +437,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T15:31:00Z",
+      "publishedDateTime": "2023-10-15T08:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -446,11 +489,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/amp/",
-      "publishedDateTime": "2023-10-15T14:34:00Z",
+      "publishedDateTime": "2023-10-15T07:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -498,11 +541,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.livemint.com/ai/artificial-intelligence/want-to-know-the-ai-lingo-learn-the-basics-from-nlp-to-neural-networks/amp-11697379445817.html",
       "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/want-to-know-the-ai-lingo-learn-the-basics-from-nlp-to-neural-networks/amp-11697379445817.html",
-      "publishedDateTime": "2023-10-15T14:27:00Z",
+      "publishedDateTime": "2023-10-15T07:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Mint",
@@ -533,11 +576,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T10:00:00Z",
+      "publishedDateTime": "2023-10-15T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBC.ca",
@@ -576,11 +619,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T01:12:00Z",
+      "publishedDateTime": "2023-10-14T18:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SciTech Daily",
@@ -610,11 +653,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T00:00:00Z",
+      "publishedDateTime": "2023-10-14T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Hackaday",
@@ -653,11 +696,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/?amp",
       "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/?amp",
-      "publishedDateTime": "2023-10-14T22:33:00Z",
+      "publishedDateTime": "2023-10-14T15:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Punch Newspapers",
@@ -696,11 +739,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/amp/",
-      "publishedDateTime": "2023-10-14T20:08:00Z",
+      "publishedDateTime": "2023-10-14T13:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -748,11 +791,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-14T19:20:00Z",
+      "publishedDateTime": "2023-10-14T12:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Augusta Free Press",
@@ -791,11 +834,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html",
       "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html",
-      "publishedDateTime": "2023-10-14T16:09:00Z",
+      "publishedDateTime": "2023-10-14T09:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Hindustan Times Tech",
@@ -834,11 +877,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-14T15:59:00Z",
+      "publishedDateTime": "2023-10-14T08:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Daily Telegraph",
@@ -877,11 +920,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.thehindu.com/business/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra/article67421178.ece/amp/",
       "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra/article67421178.ece/amp/",
-      "publishedDateTime": "2023-10-14T14:32:00Z",
+      "publishedDateTime": "2023-10-14T07:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hindu",
@@ -920,11 +963,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/amp/",
       "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/amp/",
-      "publishedDateTime": "2023-10-14T11:05:00Z",
+      "publishedDateTime": "2023-10-14T04:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Honolulu Star-Advertiser",
@@ -963,11 +1006,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/amp/",
-      "publishedDateTime": "2023-10-14T10:01:00Z",
+      "publishedDateTime": "2023-10-14T03:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1014,11 +1057,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.amp",
       "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.amp",
-      "publishedDateTime": "2023-10-14T04:16:00Z",
+      "publishedDateTime": "2023-10-13T21:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The New Indian Express",
@@ -1057,11 +1100,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360973",
       "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360973",
-      "publishedDateTime": "2023-10-14T01:41:00Z",
+      "publishedDateTime": "2023-10-13T18:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Korea Times",
@@ -1076,58 +1119,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-14-we-are-decades-off-having-self-driving-cars-that-have-the-freedom-to-go-anywhere-autonomous-vehicle-boss-says.md",
-      "title": "We are decades off having self-driving cars that have the freedom to go anywhere, autonomous vehicle boss says",
-      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Fully self-driving passenger cars that can operate anywhere without human intervention are \"decades away ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fully-self-driving-car-tech-needs-decades-to-develop-2023-10",
-      "originalUrl": "https://www.businessinsider.com/fully-self-driving-car-tech-needs-decades-to-develop-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65280bf855f52b01b35df30c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fully-self-driving-car-tech-needs-decades-to-develop-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fully-self-driving-car-tech-needs-decades-to-develop-2023-10?amp",
-      "publishedDateTime": "2023-10-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

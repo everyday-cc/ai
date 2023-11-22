@@ -30,15 +30,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 26
-  - title: "An innovative flush: Phoenix turns to artificial intelligence for improved wastewater monitoring"
-    excerpt: "From self-driving cars to automated services, artificial intelligence has been influencing every aspect of day-to-day life – even in ways we can’t see. In Phoenix, artificial intelligence is helping the city from underground."
-    publishedDateTime: 2023-11-17T22:58:00Z
-    webUrl: "https://azcapitoltimes.com/news/2023/11/17/an-innovative-flush-phoenix-turns-to-artificial-intelligence-for-improved-wastewater-monitoring/"
-    type: article
-    provider:
-      name: Arizona Capitol Times
-      domain: azcapitoltimes.com
-    quality: 6
 
 secured: "cDfS6lah4KQZqtWfjBtS3fDf6Rn5oNHIdtimicKE67oWC75TzstrEbOO92kgEwxV+huzuKnlecZHCaS+XHEESmczpFN+klPWA2OWaktfHx04uICIyzIh88LDd3WciU2E7cIQ8kJJ8DEdfu0HJt2I/Vavnjbl/duCsQuEH66sAOdp6a0pmf3ExDsw0KDiphcT3Uz08Zi9ftCrx2wGNOnxNH1MNHC53rt9Gq8Wuf98vsnHD7guuc92m+RUSSLpZpiTDbm7T8ELrtMZwAU/J+26oLboehC56jqZZqML+z3upeN33MIHx+nnKgxeydgFClxucWH/DgiiHppI4JctKrdjGXQryD1+FdseQ5AEYcymOrVHll1qZLjrqH5bTPSvCSMgZxAQ4dsolQGkCrwbSyAhmwWxVv2D13Cjj8peTm/wlTatkLo2sopazon5N3+KIy2TsawWkiiyX31iLl0UdDgaAQ2KO0fj9KSbKozihXmywqeDJKEmP/TkJ/8ISxlgqKArJT+gqp66pKjNnk1VGv4bNw==;cp11ht5rCFgrl67fkhDeMQ=="
 ---

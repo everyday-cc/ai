@@ -2,6 +2,59 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-10-17-software-supply-chain-security-attacks-up-200-new-sonatype-research.md",
+      "title": "Software Supply Chain Security Attacks Up 200%: New Sonatype Research",
+      "excerpt": "State of the Software Supply Chain also covers regulations and how AI could help developers protect organizations from security risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/sonatype-state-software-supply-chain-security/",
+      "originalUrl": "https://www.techrepublic.com/article/sonatype-state-software-supply-chain-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/03/tr-31423-edge-attack.jpeg",
+          "width": 1400,
+          "height": 863,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-10-17-applying-artificial-intelligence-lessons-for-leaders-at-all-levels.md",
       "title": "Applying Artificial Intelligence: Lessons For Leaders At All Levels",
       "excerpt": "Broadridge Digital Transformation study, more than 70% of C-suite executives said AI is significantly changing the way they work.",
@@ -22,11 +75,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/amp/",
-      "publishedDateTime": "2023-10-17T15:20:00Z",
+      "publishedDateTime": "2023-10-17T08:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -74,11 +127,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
-      "publishedDateTime": "2023-10-17T14:15:00Z",
+      "publishedDateTime": "2023-10-17T07:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -125,11 +178,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
-      "publishedDateTime": "2023-10-17T13:46:00Z",
+      "publishedDateTime": "2023-10-17T06:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -177,11 +230,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub?amp=1",
       "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub?amp=1",
-      "publishedDateTime": "2023-10-17T13:46:00Z",
+      "publishedDateTime": "2023-10-17T06:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Zawya",
@@ -211,11 +264,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T12:38:00Z",
+      "publishedDateTime": "2023-10-17T05:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -246,11 +299,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T11:26:00Z",
+      "publishedDateTime": "2023-10-17T04:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -289,11 +342,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T10:30:00Z",
+      "publishedDateTime": "2023-10-17T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -340,11 +393,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.cnn.com/cnn/2023/10/16/tech/new-york-city-ai-action-plan/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/16/tech/new-york-city-ai-action-plan/index.html",
-      "publishedDateTime": "2023-10-17T10:07:00Z",
+      "publishedDateTime": "2023-10-17T03:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -392,11 +445,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T09:59:00Z",
+      "publishedDateTime": "2023-10-17T02:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",
@@ -445,11 +498,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.timesnownews.com/education/ai-takes-over-education-ai-robot-appointed-as-principal-headteacher-at-british-school-article-104493703/amp",
       "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/ai-takes-over-education-ai-robot-appointed-as-principal-headteacher-at-british-school-article-104493703/amp",
-      "publishedDateTime": "2023-10-17T09:28:00Z",
+      "publishedDateTime": "2023-10-17T02:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "timesnownews",
@@ -480,11 +533,11 @@
       "heat": 80,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T09:00:00Z",
+      "publishedDateTime": "2023-10-17T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -522,11 +575,11 @@
       "heat": 76,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T09:00:00Z",
+      "publishedDateTime": "2023-10-17T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -573,11 +626,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://blog.google/around-the-globe/google-europe/united-kingdom/ai-motor-disabilities/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/united-kingdom/ai-motor-disabilities/amp/",
-      "publishedDateTime": "2023-10-17T08:00:00Z",
+      "publishedDateTime": "2023-10-17T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",
@@ -625,11 +678,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T07:56:00Z",
+      "publishedDateTime": "2023-10-17T00:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -676,11 +729,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai/amp_articleshow/104490987.cms",
       "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai/amp_articleshow/104490987.cms",
-      "publishedDateTime": "2023-10-17T07:49:00Z",
+      "publishedDateTime": "2023-10-17T00:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Indiatimes",
@@ -710,11 +763,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T07:41:00Z",
+      "publishedDateTime": "2023-10-17T00:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Techopedia",
@@ -744,11 +797,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T06:22:00Z",
+      "publishedDateTime": "2023-10-16T23:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -796,11 +849,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/us/china-us-race-unleash-killer-ai-robot-soldiers-military-power-hangs-balance-experts.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/china-us-race-unleash-killer-ai-robot-soldiers-military-power-hangs-balance-experts.amp",
-      "publishedDateTime": "2023-10-17T06:14:00Z",
+      "publishedDateTime": "2023-10-16T23:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -839,11 +892,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T06:00:00Z",
+      "publishedDateTime": "2023-10-16T23:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Seattle Times",
@@ -873,11 +926,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T05:55:00Z",
+      "publishedDateTime": "2023-10-16T22:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "中国日报网",
@@ -916,11 +969,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T02:50:00Z",
+      "publishedDateTime": "2023-10-16T19:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Montclair",
@@ -960,11 +1013,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/?amp",
-      "publishedDateTime": "2023-10-17T01:45:00Z",
+      "publishedDateTime": "2023-10-16T18:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Trends",
@@ -1003,11 +1056,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T00:00:00Z",
+      "publishedDateTime": "2023-10-16T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Journal",
@@ -1046,11 +1099,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/amp/",
-      "publishedDateTime": "2023-10-17T00:00:00Z",
+      "publishedDateTime": "2023-10-16T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -1077,41 +1130,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-how-does-cognitive-behavioral-therapy-work.md",
-      "title": "How does cognitive behavioral therapy work?",
-      "excerpt": "Cognitive behavioral therapy (CBT) is a therapy technique that aims to help people find new ways to behave by changing their thought patterns. Therapists may use strategies such as role-playing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/296579",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/296579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-23-nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand.md",
+      "title": "Nvidia’s Q3 Earnings Explode On Surging Data Center AI And Gaming Demand",
+      "excerpt": "There’s no stopping Nvidia from this level of growth for the foreseeable future. The company continues to execute like a finely tuned machine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/",
+      "publishedDateTime": "2023-11-22T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-a-psychologist-explains-what-mind-reading-ai-can-do-to-us.md",
       "title": "A Psychologist Explains What ‘Mind-Reading’ AI Can Do To Us",
       "excerpt": "We are now able to translate human ... a non-invasive “language decoder” that can read brainwaves and interpret what people are thinking in real-time, making it one of the most important developments in the field of human-AI interaction today.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -22,11 +74,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/amp/",
-      "publishedDateTime": "2023-11-22T15:29:00Z",
+      "publishedDateTime": "2023-11-22T07:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -50,7 +102,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -74,11 +127,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/ai-emotions-and-business-are-we-ready-for-a-new-communications-era/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/ai-emotions-and-business-are-we-ready-for-a-new-communications-era/amp/",
-      "publishedDateTime": "2023-11-22T12:00:00Z",
+      "publishedDateTime": "2023-11-22T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -126,11 +179,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/what-you-need-to-know-about-prompt-engineers-and-why-you-might-want-one/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/what-you-need-to-know-about-prompt-engineers-and-why-you-might-want-one/amp/",
-      "publishedDateTime": "2023-11-22T11:45:00Z",
+      "publishedDateTime": "2023-11-22T03:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -178,11 +231,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/openai-chatgpt-voice-feature-now-available-for-all-users-what-it-is-and-how-it-works-2023-11-22-903867",
       "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/openai-chatgpt-voice-feature-now-available-for-all-users-what-it-is-and-how-it-works-2023-11-22-903867",
-      "publishedDateTime": "2023-11-22T07:51:00Z",
+      "publishedDateTime": "2023-11-21T23:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "India TV",
@@ -209,7 +262,7 @@
       "originalUrl": "https://www.indiablooms.com/finance-details/19466/wipro-joins-hands-with-nvidia-to-integrate-generative-ai-in-healthcare.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -221,11 +274,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T18:29:00Z",
+      "publishedDateTime": "2023-11-21T10:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "India Blooms",
@@ -265,11 +318,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35908820",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35908820",
-      "publishedDateTime": "2023-11-21T18:20:00Z",
+      "publishedDateTime": "2023-11-21T10:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -311,11 +364,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T17:24:48Z",
+      "publishedDateTime": "2023-11-21T09:24:48-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -364,11 +417,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/elizabethmacbride/2023/11/21/using-ai-investingcom-aims-to-be-the-bloomberg-of-retail-investing/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elizabethmacbride/2023/11/21/using-ai-investingcom-aims-to-be-the-bloomberg-of-retail-investing/amp/",
-      "publishedDateTime": "2023-11-21T16:56:00Z",
+      "publishedDateTime": "2023-11-21T08:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -416,11 +469,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/amp/",
-      "publishedDateTime": "2023-11-21T05:39:00Z",
+      "publishedDateTime": "2023-11-20T21:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -468,11 +521,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T00:00:00Z",
+      "publishedDateTime": "2023-11-16T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "philstar.com",
@@ -511,11 +564,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T16:56:00Z",
+      "publishedDateTime": "2023-11-15T08:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Financial Times",
@@ -545,11 +598,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T05:38:00Z",
+      "publishedDateTime": "2023-11-14T21:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Cleveland.com",
@@ -579,11 +632,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T00:00:00Z",
+      "publishedDateTime": "2023-11-14T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IT-Online",
@@ -614,11 +667,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T00:00:00Z",
+      "publishedDateTime": "2023-11-14T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IT-Online",
@@ -649,11 +702,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T15:26:00Z",
+      "publishedDateTime": "2023-11-14T07:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "eturbonews",
@@ -683,11 +736,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T12:40:00Z",
+      "publishedDateTime": "2023-11-14T04:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Indiatimes",
@@ -717,11 +770,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T09:21:00Z",
+      "publishedDateTime": "2023-11-14T01:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -751,11 +804,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T05:00:00Z",
+      "publishedDateTime": "2023-11-13T21:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Destination CRM",
@@ -785,11 +838,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T21:40:00Z",
+      "publishedDateTime": "2023-11-13T13:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -819,11 +872,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T21:40:00Z",
+      "publishedDateTime": "2023-11-13T13:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -862,11 +915,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T19:45:00Z",
+      "publishedDateTime": "2023-11-13T11:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forex Factory",
@@ -897,11 +950,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T12:39:00Z",
+      "publishedDateTime": "2023-11-13T04:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -940,11 +993,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35748405",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35748405",
-      "publishedDateTime": "2023-11-13T08:32:00Z",
+      "publishedDateTime": "2023-11-13T00:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -974,11 +1027,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T00:00:00Z",
+      "publishedDateTime": "2023-11-11T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Georgia Straight",
@@ -1008,11 +1061,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T00:00:00Z",
+      "publishedDateTime": "2023-11-10T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Hackaday",
@@ -1042,11 +1095,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T00:00:00Z",
+      "publishedDateTime": "2023-11-10T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "EurekAlert!",
@@ -1076,11 +1129,11 @@
       "heat": 251,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T20:39:56Z",
+      "publishedDateTime": "2023-11-10T12:39:56-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -1129,11 +1182,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://blog.google/products/translate/google-translate-homonyms/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/google-translate-homonyms/amp/",
-      "publishedDateTime": "2023-11-10T17:00:00Z",
+      "publishedDateTime": "2023-11-10T09:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",
@@ -1182,11 +1235,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/amp/",
-      "publishedDateTime": "2023-11-10T14:35:00Z",
+      "publishedDateTime": "2023-11-10T06:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -1213,58 +1266,6 @@
         "AI in Robotics",
         "Natural Language Processing",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-former-apple-designers-launch-700-humane-ai-pin-as-smartphone-replacement.md",
-      "title": "Former Apple designers launch $700 Humane AI Pin as smartphone replacement",
-      "excerpt": "The Humane AI Pin attaches to the lapel and is designed to replace your smartphone, allowing the user to make calls, send texts and look up information",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html",
-      "originalUrl": "https://www.cnbc.com/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107331667-1699553938651-humane-press-shield-lifestyle-2.png?v=1699554038",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html",
-      "publishedDateTime": "2023-11-09T17:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

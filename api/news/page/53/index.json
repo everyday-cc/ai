@@ -2,6 +2,58 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-10-11-improve-performance-of-falcon-models-with-amazon-sagemaker.md",
+      "title": "Improve performance of Falcon models with Amazon SageMaker",
+      "excerpt": "What is the optimal framework and configuration for hosting large language models (LLMs) for text-generating generative AI applications? Despite the abundance of options for serving LLMs, this is a hard question to answer due to the size of the models, varying model architectures, performance requirements",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/improve-falcon-performance-1257x630.jpg",
+          "width": 1257,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T09:28:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-achronix-announces-fpga-powered-accelerated-automatic-speech-recognition-solution.md",
       "title": "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution",
       "excerpt": "Join us on October 24 th at 8:30am PST for a LinkedIn Live webinar, moderated by EE Times' Sr. Reporter, Sally Ward-Foxton, that unveils the power of Achronix FP",
@@ -22,11 +74,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T16:20:00Z",
+      "publishedDateTime": "2023-10-11T09:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -65,11 +117,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T16:15:29Z",
+      "publishedDateTime": "2023-10-11T09:15:29-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -108,11 +160,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T16:07:00Z",
+      "publishedDateTime": "2023-10-11T09:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -151,11 +203,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T15:53:00Z",
+      "publishedDateTime": "2023-10-11T08:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -204,11 +256,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/firefox-is-getting-an-ai-powered-fake-review-detector-for-your-shopping-needs/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/firefox-is-getting-an-ai-powered-fake-review-detector-for-your-shopping-needs/",
-      "publishedDateTime": "2023-10-11T15:51:00Z",
+      "publishedDateTime": "2023-10-11T08:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -255,11 +307,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/11/ai-revolutionizing-mri-scans-a-munich-startup-banked-32m-to-scan-eggs-and-says-humans-are-next/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/ai-revolutionizing-mri-scans-a-munich-startup-banked-32m-to-scan-eggs-and-says-humans-are-next/amp/",
-      "publishedDateTime": "2023-10-11T15:47:00Z",
+      "publishedDateTime": "2023-10-11T08:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -297,11 +349,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T15:26:00Z",
+      "publishedDateTime": "2023-10-11T08:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PA Consulting Group",
@@ -340,11 +392,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T15:01:00Z",
+      "publishedDateTime": "2023-10-11T08:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Valdosta Daily Times",
@@ -383,11 +435,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.bbc.com/news/world-australia-67076216.amp",
       "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-australia-67076216.amp",
-      "publishedDateTime": "2023-10-11T15:00:00Z",
+      "publishedDateTime": "2023-10-11T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -435,11 +487,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/10/11/ai-set-for-a-cold-shower-in-2024-warns-analyst/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/10/11/ai-set-for-a-cold-shower-in-2024-warns-analyst/amp/",
-      "publishedDateTime": "2023-10-11T14:53:00Z",
+      "publishedDateTime": "2023-10-11T07:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -486,11 +538,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T14:33:00Z",
+      "publishedDateTime": "2023-10-11T07:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -537,11 +589,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T14:21:00Z",
+      "publishedDateTime": "2023-10-11T07:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -589,11 +641,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp",
-      "publishedDateTime": "2023-10-11T13:54:00Z",
+      "publishedDateTime": "2023-10-11T06:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -632,11 +684,11 @@
       "heat": 86,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T13:10:00Z",
+      "publishedDateTime": "2023-10-11T06:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -676,11 +728,11 @@
       "heat": 80,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T13:03:33Z",
+      "publishedDateTime": "2023-10-11T06:03:33-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -727,11 +779,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.scmp.com/tech/article/3237483/huawei-baidu-and-alibabas-mapping-service-help-china-set-standards-autonomous-driving-road",
       "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3237483/huawei-baidu-and-alibabas-mapping-service-help-china-set-standards-autonomous-driving-road",
-      "publishedDateTime": "2023-10-11T12:03:00Z",
+      "publishedDateTime": "2023-10-11T05:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "scmp.com",
@@ -779,11 +831,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/11/ai-is-reprioritizing-the-fundamentals-of-pr-and-communications/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/10/11/ai-is-reprioritizing-the-fundamentals-of-pr-and-communications/amp/",
-      "publishedDateTime": "2023-10-11T11:30:00Z",
+      "publishedDateTime": "2023-10-11T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -830,11 +882,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/bridging-the-gap-between-generative-ai-data-and-composable-martech/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/bridging-the-gap-between-generative-ai-data-and-composable-martech/amp/",
-      "publishedDateTime": "2023-10-11T11:30:00Z",
+      "publishedDateTime": "2023-10-11T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -881,11 +933,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T11:21:00Z",
+      "publishedDateTime": "2023-10-11T04:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -932,11 +984,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/11/state-of-play-has-ai-really-changed-digital-marketing/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/10/11/state-of-play-has-ai-really-changed-digital-marketing/amp/",
-      "publishedDateTime": "2023-10-11T11:15:00Z",
+      "publishedDateTime": "2023-10-11T04:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -984,11 +1036,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html",
       "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html",
-      "publishedDateTime": "2023-10-11T11:14:00Z",
+      "publishedDateTime": "2023-10-11T04:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Network World",
@@ -1027,11 +1079,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/",
-      "publishedDateTime": "2023-10-11T10:15:00Z",
+      "publishedDateTime": "2023-10-11T03:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1079,11 +1131,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T09:53:00Z",
+      "publishedDateTime": "2023-10-11T02:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -1130,11 +1182,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/amp_articleshow/103929376.cms",
       "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/amp_articleshow/103929376.cms",
-      "publishedDateTime": "2023-10-11T09:34:00Z",
+      "publishedDateTime": "2023-10-11T02:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Indiatimes",
@@ -1149,57 +1201,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-f5-warns-australian-it-of-social-engineering-risk-escalation-due-to-generative-ai.md",
-      "title": "F5 Warns Australian IT of Social Engineering Risk Escalation Due to Generative AI",
-      "excerpt": "F5 says Australian IT teams could be soon caught between generative AI-toting bad actors and enterprises guarding data with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/f5-generative-ai-cybersecurity-interview/",
-      "originalUrl": "https://www.techrepublic.com/article/f5-generative-ai-cybersecurity-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2020/02/securityrisk.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T09:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

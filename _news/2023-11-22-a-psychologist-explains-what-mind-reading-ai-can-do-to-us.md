@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-expl
 ampWebUrl: "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/655dc287b2a489c8f85430ab/0x0.jpg?format=jpg&crop=2646,1240,x366,y0,safe&height=900&width=1600&fit=bounds"

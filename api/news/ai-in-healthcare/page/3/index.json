@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-17-sharp-healthcare-creates-ai-assistant.md",
+      "title": "Sharp Healthcare creates AI assistant",
+      "excerpt": "Sharp Healthcare, based in San Diego, has created its own AI assistant, SharpAI, to support operational staff.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/digital-health/sharp-healthcare-creates-ai-assistant.html",
+      "originalUrl": "https://www.beckershospitalreview.com/digital-health/sharp-healthcare-creates-ai-assistant.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-17-how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease.md",
       "title": "How Tuning Fork Bio Uses Artificial Intelligence Tech To Detect And Prevent Disease",
       "excerpt": "In a nutshell, Tuning Fork Bio is dedicated to leveraging artificial intelligence to build technology intended to aid in the detection and prevention of disease.",
@@ -22,11 +66,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/",
-      "publishedDateTime": "2023-10-16T17:45:00Z",
+      "publishedDateTime": "2023-10-16T10:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -74,11 +118,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T14:02:00Z",
+      "publishedDateTime": "2023-10-16T07:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -127,11 +171,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T13:53:00Z",
+      "publishedDateTime": "2023-10-16T06:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "STAT",
@@ -170,11 +214,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp",
       "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp",
-      "publishedDateTime": "2023-10-16T06:17:00Z",
+      "publishedDateTime": "2023-10-15T23:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Psychology Today",
@@ -205,11 +249,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T10:00:00Z",
+      "publishedDateTime": "2023-10-15T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBC.ca",
@@ -248,11 +292,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/",
-      "publishedDateTime": "2023-10-13T13:30:00Z",
+      "publishedDateTime": "2023-10-13T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -300,11 +344,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T10:16:00Z",
+      "publishedDateTime": "2023-10-13T03:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -352,11 +396,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
-      "publishedDateTime": "2023-10-13T07:54:00Z",
+      "publishedDateTime": "2023-10-13T00:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -405,11 +449,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T20:09:00Z",
+      "publishedDateTime": "2023-10-12T13:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Mena FN",
@@ -448,11 +492,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T11:35:00Z",
+      "publishedDateTime": "2023-10-12T04:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Le Lézard",
@@ -491,11 +535,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35197746",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35197746",
-      "publishedDateTime": "2023-10-12T02:40:00Z",
+      "publishedDateTime": "2023-10-11T19:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -535,11 +579,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-vertex-ai-search-a-game-changer-for-healthcare--life-sciences/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-vertex-ai-search-a-game-changer-for-healthcare--life-sciences/amp/",
-      "publishedDateTime": "2023-10-12T02:17:00Z",
+      "publishedDateTime": "2023-10-11T19:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -578,11 +622,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T20:00:00Z",
+      "publishedDateTime": "2023-10-11T13:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "GEN",
@@ -612,11 +656,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T15:26:00Z",
+      "publishedDateTime": "2023-10-11T08:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PA Consulting Group",
@@ -655,11 +699,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force?_amp=true",
       "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force?_amp=true",
-      "publishedDateTime": "2023-10-10T22:10:00Z",
+      "publishedDateTime": "2023-10-10T15:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Government Technology",

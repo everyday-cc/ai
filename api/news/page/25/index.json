@@ -2,6 +2,41 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-10-31-artificial-intelligence-presents-unique-challenges-opportunities-for-education-in-nepa.md",
+      "title": "Artificial intelligence presents unique challenges, opportunities for education in NEPA",
+      "excerpt": "David Dzurec, Ph.D., gave his University of Scranton students a writing prompt. Their computers completed the assignment. The exercise about the history of the Jesuits was more about examining the answers artificial intelligence could provide — and how students can do better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/artificial-intelligence-presents-unique-challenges-190400724.html",
+      "originalUrl": "https://www.aol.com/artificial-intelligence-presents-unique-challenges-190400724.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-media-alert-brainchip-hosts-sustainable-cities-using-smart-efficient-ai-workshop-at-hacksterio-impact-summit-2023.md",
       "title": "Media Alert: BrainChip Hosts 'Sustainable Cities Using Smart Efficient AI' Workshop at Hackster.io Impact Summit 2023",
       "excerpt": "Todd Vierra, Vice President Customer Engagement at BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, will lead a workshop entitled \"Sustainable Cities Using Smart Efficient AI\" at the Hackster.io Impact Summit 2023 November 15.",
@@ -13,11 +48,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T21:59:00Z",
+      "publishedDateTime": "2023-10-30T14:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -47,11 +82,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35501962",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35501962",
-      "publishedDateTime": "2023-10-30T21:46:00Z",
+      "publishedDateTime": "2023-10-30T14:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -81,11 +116,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T21:33:00Z",
+      "publishedDateTime": "2023-10-30T14:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Neuroscience News",
@@ -115,11 +150,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://calgaryherald.com/news/politics/alberta-throne-speech-focuses-on-fight-against-ottawa-new-tax-bill-but-no-mention-of-provincial-pension-plan/wcm/24de3c34-8311-4f3b-a4db-323ff35b4485/amp/",
       "cdnAmpWebUrl": "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/news/politics/alberta-throne-speech-focuses-on-fight-against-ottawa-new-tax-bill-but-no-mention-of-provincial-pension-plan/wcm/24de3c34-8311-4f3b-a4db-323ff35b4485/amp/",
-      "publishedDateTime": "2023-10-30T21:19:00Z",
+      "publishedDateTime": "2023-10-30T14:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Calgary Herald",
@@ -149,11 +184,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/abdoriani/2023/10/30/4-innovative-startup-opportunities-in-media/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/10/30/4-innovative-startup-opportunities-in-media/amp/",
-      "publishedDateTime": "2023-10-30T21:08:00Z",
+      "publishedDateTime": "2023-10-30T14:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -200,11 +235,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T21:01:00Z",
+      "publishedDateTime": "2023-10-30T14:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Robot Report",
@@ -243,11 +278,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/markminevich/2023/10/30/bidens-ai-directive-pioneering-responsible-tech-in-us/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/10/30/bidens-ai-directive-pioneering-responsible-tech-in-us/amp/",
-      "publishedDateTime": "2023-10-30T20:59:00Z",
+      "publishedDateTime": "2023-10-30T13:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -286,11 +321,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T19:47:00Z",
+      "publishedDateTime": "2023-10-30T12:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Security Boulevard",
@@ -321,11 +356,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T18:41:00Z",
+      "publishedDateTime": "2023-10-30T11:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBS News",
@@ -354,11 +389,11 @@
       "heat": 75,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T18:00:00Z",
+      "publishedDateTime": "2023-10-30T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -407,11 +442,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T17:50:59Z",
+      "publishedDateTime": "2023-10-30T10:50:59-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -459,11 +494,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T17:33:11Z",
+      "publishedDateTime": "2023-10-30T10:33:11-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -511,11 +546,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/alexlazarow/2023/10/30/waiting-for-fintech--the-moment-at-money2020/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2023/10/30/waiting-for-fintech--the-moment-at-money2020/amp/",
-      "publishedDateTime": "2023-10-30T17:09:00Z",
+      "publishedDateTime": "2023-10-30T10:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -563,11 +598,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.nationalreview.com/2023/10/americans-need-not-fear-artificial-intelligence/amp/",
       "cdnAmpWebUrl": "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2023/10/americans-need-not-fear-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-10-30T16:59:00Z",
+      "publishedDateTime": "2023-10-30T09:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "National Review",
@@ -606,11 +641,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/30/chatgpt-app-revenue-shows-no-signs-of-slowing-but-some-other-ai-apps-top-it/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/30/chatgpt-app-revenue-shows-no-signs-of-slowing-but-some-other-ai-apps-top-it/amp/",
-      "publishedDateTime": "2023-10-30T16:38:00Z",
+      "publishedDateTime": "2023-10-30T09:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -657,11 +692,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.technologyreview.com/2023/10/30/1082678/three-things-to-know-about-the-white-houses-executive-order-on-ai/amp/",
       "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/30/1082678/three-things-to-know-about-the-white-houses-executive-order-on-ai/amp/",
-      "publishedDateTime": "2023-10-30T16:32:00Z",
+      "publishedDateTime": "2023-10-30T09:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MIT Technology Review",
@@ -700,11 +735,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T16:11:00Z",
+      "publishedDateTime": "2023-10-30T09:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "GeekWire",
@@ -742,11 +777,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T15:49:00Z",
+      "publishedDateTime": "2023-10-30T08:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -794,11 +829,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T15:09:00Z",
+      "publishedDateTime": "2023-10-30T08:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Robot Report",
@@ -828,11 +863,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://thehill.com/homenews/administration/4282336-biden-issues-sweeping-executive-order-on-ai/amp/",
       "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/4282336-biden-issues-sweeping-executive-order-on-ai/amp/",
-      "publishedDateTime": "2023-10-30T15:03:00Z",
+      "publishedDateTime": "2023-10-30T08:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",
@@ -871,11 +906,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/annashields/2023/10/30/can-ai-resolve-your-issues-with-a-colleague/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annashields/2023/10/30/can-ai-resolve-your-issues-with-a-colleague/amp/",
-      "publishedDateTime": "2023-10-30T14:37:00Z",
+      "publishedDateTime": "2023-10-30T07:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -922,11 +957,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.nextplatform.com/2023/10/30/intel-is-counting-on-ai-inference-to-save-the-xeon-cpu/amp/",
       "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/10/30/intel-is-counting-on-ai-inference-to-save-the-xeon-cpu/amp/",
-      "publishedDateTime": "2023-10-30T14:31:00Z",
+      "publishedDateTime": "2023-10-30T07:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Next Platform",
@@ -956,11 +991,11 @@
       "heat": 89,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T14:23:00Z",
+      "publishedDateTime": "2023-10-30T07:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1010,62 +1045,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10?amp",
-      "publishedDateTime": "2023-10-30T14:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-ai-is-not-just-chatting-with-us-its-learning-how-to-turn-verbal-communications-into-real-world-insights.md",
-      "title": "AI is not just chatting with us. It's learning how to turn verbal communications into real-world insights.",
-      "excerpt": "A new wave of conversational AI tools are being designed to turn verbal communications into actionable insights for market research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-tools-turning-data-relatable-conversations-2023-10",
-      "originalUrl": "https://www.businessinsider.com/ai-tools-turning-data-relatable-conversations-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/653c18dc0487ff031cb11ceb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-tools-turning-data-relatable-conversations-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-tools-turning-data-relatable-conversations-2023-10?amp",
-      "publishedDateTime": "2023-10-30T14:09:00Z",
+      "publishedDateTime": "2023-10-30T07:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

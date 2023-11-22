@@ -2,6 +2,40 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-10-25-netsmart-accelerates-ai-innovations-with-aws-and-expands-partnership-to-optimize-outcomes-for-community-based-providers.md",
+      "title": "Netsmart Accelerates AI Innovations with AWS and Expands Partnership to Optimize Outcomes for Community-Based Providers",
+      "excerpt": "Netsmart today announced the successful development of an artificial intelligence (AI) Data Lab built on Amazon Web Services (AWS) to advance AI for community-based care providers. By combining the scale and power of AWS with the Netsmart CareFabric ® platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/netsmart-accelerates-ai-innovations-with-aws-and-expands-partnership-to-optimize-outcomes-for-community-based/article_692b76be-e0c2-5b68-8495-43c07dfba5c4.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/netsmart-accelerates-ai-innovations-with-aws-and-expands-partnership-to-optimize-outcomes-for-community-based/article_692b76be-e0c2-5b68-8495-43c07dfba5c4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-24-enterprise-managed-iam-an-sre-team-case-study.md",
       "title": "Enterprise-managed IAM: An SRE team case study",
       "excerpt": "How to easily and securely implement and manage an SRE team's access across an enterprise.\nThe post Enterprise-managed IAM: An SRE team case study appeared first on IBM Blog.\n",
@@ -13,11 +47,11 @@
       "heat": 82,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T16:25:12Z",
+      "publishedDateTime": "2023-10-24T09:25:12-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -64,11 +98,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T16:23:59Z",
+      "publishedDateTime": "2023-10-24T09:23:59-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -117,11 +151,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T15:44:00Z",
+      "publishedDateTime": "2023-10-24T08:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Security",
@@ -152,11 +186,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T15:41:00Z",
+      "publishedDateTime": "2023-10-24T08:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -195,11 +229,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T15:23:00Z",
+      "publishedDateTime": "2023-10-24T08:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Electrek",
@@ -247,11 +281,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T14:30:00Z",
+      "publishedDateTime": "2023-10-24T07:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Vancouver Is Awesome",
@@ -290,11 +324,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/how-generative-ai-can-empower-software-engineering-teams/amp/",
-      "publishedDateTime": "2023-10-24T14:15:00Z",
+      "publishedDateTime": "2023-10-24T07:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -341,11 +375,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/amp/",
-      "publishedDateTime": "2023-10-24T14:00:00Z",
+      "publishedDateTime": "2023-10-24T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -393,11 +427,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/10/24/how-new-voice-technologies-will-change-the-way-we-live-and-do-business/amp/",
-      "publishedDateTime": "2023-10-24T14:00:00Z",
+      "publishedDateTime": "2023-10-24T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -445,11 +479,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/?amp=1",
       "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/24/this-brain-like-ibm-chip-could-drastically-cut-the-cost-of-ai/?amp=1",
-      "publishedDateTime": "2023-10-24T14:00:00Z",
+      "publishedDateTime": "2023-10-24T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Singularity Hub",
@@ -488,11 +522,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T13:52:00Z",
+      "publishedDateTime": "2023-10-24T06:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Post-Bulletin",
@@ -531,11 +565,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T13:51:00Z",
+      "publishedDateTime": "2023-10-24T06:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Next Web",
@@ -583,11 +617,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T13:36:00Z",
+      "publishedDateTime": "2023-10-24T06:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -636,11 +670,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T13:35:00Z",
+      "publishedDateTime": "2023-10-24T06:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBS News",
@@ -679,11 +713,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T12:59:00Z",
+      "publishedDateTime": "2023-10-24T05:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -732,11 +766,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/world/artificial-intelligence-new-frontier-war-harder-prove-what-real.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/artificial-intelligence-new-frontier-war-harder-prove-what-real.amp",
-      "publishedDateTime": "2023-10-24T12:07:00Z",
+      "publishedDateTime": "2023-10-24T05:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -784,11 +818,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation",
-      "publishedDateTime": "2023-10-24T11:00:00Z",
+      "publishedDateTime": "2023-10-24T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -836,11 +870,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/kevinkruse/2023/10/24/how-to-nourish-a-culture-of-recognition/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kevinkruse/2023/10/24/how-to-nourish-a-culture-of-recognition/amp/",
-      "publishedDateTime": "2023-10-24T11:00:00Z",
+      "publishedDateTime": "2023-10-24T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -888,11 +922,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/24/stop-chasing-those-shiny-ai-objects-choosing-the-right-ai-for-you/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/24/stop-chasing-those-shiny-ai-objects-choosing-the-right-ai-for-you/amp/",
-      "publishedDateTime": "2023-10-24T11:00:00Z",
+      "publishedDateTime": "2023-10-24T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -940,11 +974,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T09:26:00Z",
+      "publishedDateTime": "2023-10-24T02:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Entrepreneur",
@@ -992,11 +1026,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361788",
       "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361788",
-      "publishedDateTime": "2023-10-24T08:00:00Z",
+      "publishedDateTime": "2023-10-24T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Korea Times",
@@ -1026,11 +1060,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T07:51:00Z",
+      "publishedDateTime": "2023-10-24T00:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Insider Monkey",
@@ -1069,11 +1103,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/24/oxolo-bags-e13m-for-gen-ai-driven-video-platform-which-can-optimise-engagement-on-the-fly/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/24/oxolo-bags-e13m-for-gen-ai-driven-video-platform-which-can-optimise-engagement-on-the-fly/amp/",
-      "publishedDateTime": "2023-10-24T07:01:00Z",
+      "publishedDateTime": "2023-10-24T00:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -1120,11 +1154,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/lite/",
       "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/lite/",
-      "publishedDateTime": "2023-10-24T06:45:00Z",
+      "publishedDateTime": "2023-10-23T23:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Financial Express",
@@ -1141,40 +1175,6 @@
         "IBM AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-britney-spears-the-woman-in-me-10-revelations-from-stars-tell-all-book-from-relationship-with-justin-timberlake-to-the-conservatorship.md",
-      "title": "Britney Spears - The Woman In Me: 10 revelations from star's tell-all book - from relationship with Justin Timberlake to the conservatorship",
-      "excerpt": "Friendship with Hilton and shaving her head: 'I was out of my mind with grief' Spears ... Pic: AP Conservatorship: 'I was like a child robot' A lot of the book tackles the subject of Spears's conservatorship, which controlled her life for 13 years.",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/britney-spears-the-woman-in-me-10-revelations-from-stars-tell-all-book-from-relationship-with-justin-timberlake-to-the-conservatorship-12991137",
-      "originalUrl": "https://news.sky.com/story/britney-spears-the-woman-in-me-10-revelations-from-stars-tell-all-book-from-relationship-with-justin-timberlake-to-the-conservatorship-12991137",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T06:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

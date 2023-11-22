@@ -22,11 +22,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T18:24:00Z",
+      "publishedDateTime": "2023-11-21T10:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRepublic",
@@ -74,11 +74,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35908820",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35908820",
-      "publishedDateTime": "2023-11-21T18:20:00Z",
+      "publishedDateTime": "2023-11-21T10:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -120,11 +120,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
-      "publishedDateTime": "2023-11-21T17:50:00Z",
+      "publishedDateTime": "2023-11-21T09:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -173,11 +173,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T16:30:00Z",
+      "publishedDateTime": "2023-11-21T08:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -213,7 +213,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 344,
+      "heat": 334,
       "tags": null,
       "images": [
         {
@@ -225,11 +225,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/amp/",
-      "publishedDateTime": "2023-11-20T17:12:00Z",
+      "publishedDateTime": "2023-11-20T09:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -277,11 +277,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/amp/",
-      "publishedDateTime": "2023-11-20T08:01:00Z",
+      "publishedDateTime": "2023-11-20T00:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -329,11 +329,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/",
       "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/",
-      "publishedDateTime": "2023-11-20T06:18:00Z",
+      "publishedDateTime": "2023-11-19T22:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Financial Express",
@@ -373,11 +373,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/technology/2023/nov/17/microsoft-azure-ai-video-deepfakes",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/17/microsoft-azure-ai-video-deepfakes",
-      "publishedDateTime": "2023-11-17T16:09:00Z",
+      "publishedDateTime": "2023-11-17T08:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -425,11 +425,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T03:01:00Z",
+      "publishedDateTime": "2023-11-15T19:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CRN Australia",
@@ -468,11 +468,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
+      "publishedDateTime": "2023-11-15T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -503,11 +503,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
+      "publishedDateTime": "2023-11-15T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -546,11 +546,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/amp/",
       "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/amp/",
-      "publishedDateTime": "2023-11-15T21:53:00Z",
+      "publishedDateTime": "2023-11-15T13:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -599,11 +599,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T18:45:00Z",
+      "publishedDateTime": "2023-11-15T10:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Verge",
@@ -651,11 +651,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/15/microsoft-looks-to-free-itself-from-gpu-shackles-by-designing-custom-ai-chips/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/15/microsoft-looks-to-free-itself-from-gpu-shackles-by-designing-custom-ai-chips/amp/",
-      "publishedDateTime": "2023-11-15T16:00:00Z",
+      "publishedDateTime": "2023-11-15T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -704,11 +704,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T16:00:00Z",
+      "publishedDateTime": "2023-11-15T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SiliconANGLE",
@@ -738,11 +738,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T05:05:00Z",
+      "publishedDateTime": "2023-11-14T21:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Future Market Insights",
@@ -772,11 +772,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T00:00:00Z",
+      "publishedDateTime": "2023-11-14T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "News Medical",
@@ -806,11 +806,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T23:20:00Z",
+      "publishedDateTime": "2023-11-14T15:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -842,11 +842,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T03:03:00Z",
+      "publishedDateTime": "2023-11-13T19:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -886,11 +886,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T06:44:00Z",
+      "publishedDateTime": "2023-11-12T22:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Georgia Straight",
@@ -930,11 +930,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/amp/",
-      "publishedDateTime": "2023-11-10T20:05:00Z",
+      "publishedDateTime": "2023-11-10T12:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -973,11 +973,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T16:32:00Z",
+      "publishedDateTime": "2023-11-10T08:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SD Times",
@@ -1016,11 +1016,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T16:24:00Z",
+      "publishedDateTime": "2023-11-10T08:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Morningstar",
@@ -1060,11 +1060,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T15:49:00Z",
+      "publishedDateTime": "2023-11-10T07:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Victoria Advocate",
@@ -1104,11 +1104,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/amp_articleshow/105124807.cms",
       "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/amp_articleshow/105124807.cms",
-      "publishedDateTime": "2023-11-10T11:14:00Z",
+      "publishedDateTime": "2023-11-10T03:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Indiatimes",
@@ -1147,11 +1147,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/11/09/this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok/amp/",
-      "publishedDateTime": "2023-11-10T00:08:00Z",
+      "publishedDateTime": "2023-11-09T16:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1190,11 +1190,11 @@
       "heat": 81,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T22:34:00Z",
+      "publishedDateTime": "2023-11-09T14:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "U.S. News & World Report",
@@ -1242,11 +1242,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
       "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
-      "publishedDateTime": "2023-11-09T07:01:00Z",
+      "publishedDateTime": "2023-11-08T23:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "telecom.economictimes.indiatimes",
@@ -1286,11 +1286,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T04:08:00Z",
+      "publishedDateTime": "2023-11-08T20:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TweakTown",
@@ -1330,11 +1330,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T17:00:00Z",
+      "publishedDateTime": "2023-11-08T09:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

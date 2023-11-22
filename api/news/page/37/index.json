@@ -2,6 +2,41 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-10-23-how-artificial-intelligence-will-transform-businesses.md",
+      "title": "How Artificial Intelligence Will Transform Businesses",
+      "excerpt": "You probably interact with artificial intelligence (AI ... For instance, for self-driving cars to work, several factors must be identified, analyzed and responded to simultaneously.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
+      "originalUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-10-23-dance-therapy-class-aims-to-help-children-with-disabilities-express-themselves.md",
       "title": "Dance therapy class aims to help children with disabilities express themselves",
       "excerpt": "Dance can help children with disabilities express themselves when words fail, according to Timmins autism specialist and dance teacher Jessica Croussette.",
@@ -22,11 +57,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2023/10/22/1_6612292.amp.html",
       "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2023/10/22/1_6612292.amp.html",
-      "publishedDateTime": "2023-10-22T22:52:00Z",
+      "publishedDateTime": "2023-10-22T15:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CTV News",
@@ -56,11 +91,11 @@
       "heat": 72,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-22T21:28:00Z",
+      "publishedDateTime": "2023-10-22T14:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Science Daily",
@@ -109,11 +144,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-22T20:40:00Z",
+      "publishedDateTime": "2023-10-22T13:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -162,11 +197,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/amp/",
-      "publishedDateTime": "2023-10-22T19:55:00Z",
+      "publishedDateTime": "2023-10-22T12:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -204,11 +239,11 @@
       "heat": 72,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-22T15:37:00Z",
+      "publishedDateTime": "2023-10-22T08:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -246,11 +281,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
-      "publishedDateTime": "2023-10-22T13:43:00Z",
+      "publishedDateTime": "2023-10-22T06:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -298,11 +333,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/23/ai-recruitment-job-search-artificial-intelligence-employment",
-      "publishedDateTime": "2023-10-22T13:38:00Z",
+      "publishedDateTime": "2023-10-22T06:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -341,11 +376,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-22T12:45:00Z",
+      "publishedDateTime": "2023-10-22T05:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -394,11 +429,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/",
       "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/",
-      "publishedDateTime": "2023-10-22T09:31:00Z",
+      "publishedDateTime": "2023-10-22T02:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Financial Express",
@@ -438,11 +473,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-22T00:00:00Z",
+      "publishedDateTime": "2023-10-21T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Border Mail",
@@ -481,11 +516,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/10/21/viral-photos-of-hamas-leaders-accused-of-being-ai-fakes-actually-just-poorly-upscaled/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/10/21/viral-photos-of-hamas-leaders-accused-of-being-ai-fakes-actually-just-poorly-upscaled/amp/",
-      "publishedDateTime": "2023-10-21T18:48:00Z",
+      "publishedDateTime": "2023-10-21T11:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -532,11 +567,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-21T18:07:00Z",
+      "publishedDateTime": "2023-10-21T11:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -584,11 +619,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/amp/",
-      "publishedDateTime": "2023-10-21T15:01:00Z",
+      "publishedDateTime": "2023-10-21T08:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -637,11 +672,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
-      "publishedDateTime": "2023-10-21T13:59:00Z",
+      "publishedDateTime": "2023-10-21T06:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -689,11 +724,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-21T10:00:00Z",
+      "publishedDateTime": "2023-10-21T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Time",
@@ -740,11 +775,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp",
       "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp",
-      "publishedDateTime": "2023-10-21T09:45:00Z",
+      "publishedDateTime": "2023-10-21T02:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Daily Star",
@@ -782,11 +817,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/amazon-earnings?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-earnings?amp",
-      "publishedDateTime": "2023-10-21T08:49:00Z",
+      "publishedDateTime": "2023-10-21T01:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -834,11 +869,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-21T04:54:00Z",
+      "publishedDateTime": "2023-10-20T21:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "EconoTimes",
@@ -877,11 +912,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/amp/",
-      "publishedDateTime": "2023-10-21T01:05:00Z",
+      "publishedDateTime": "2023-10-20T18:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -928,11 +963,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T23:23:00Z",
+      "publishedDateTime": "2023-10-20T16:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Globe and Mail",
@@ -971,11 +1006,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T22:17:00Z",
+      "publishedDateTime": "2023-10-20T15:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -1023,11 +1058,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.bbc.com/news/uk-wales-67171042.amp",
       "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp",
-      "publishedDateTime": "2023-10-20T22:01:00Z",
+      "publishedDateTime": "2023-10-20T15:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -1075,11 +1110,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T20:24:00Z",
+      "publishedDateTime": "2023-10-20T13:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Seeking Alpha",
@@ -1118,11 +1153,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/jon-stewart-show-apple-tv-ended-report-china-ai-2023-10?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jon-stewart-show-apple-tv-ended-report-china-ai-2023-10?amp",
-      "publishedDateTime": "2023-10-20T20:07:00Z",
+      "publishedDateTime": "2023-10-20T13:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1145,49 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-21-ai-used-in-healthcare-could-amplify-racial-bias-in-medicine-new-study-says.md",
-      "title": "AI used in healthcare could amplify racial bias in medicine, new study says",
-      "excerpt": "A study released on Friday shows that though AI may bring some technological advantages to the table for healthcare, it could also perpetuate racist beliefs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktvu.com/news/ai-used-in-healthcare-could-amplify-racial-bias-in-medicine-new-study-says",
-      "originalUrl": "https://www.ktvu.com/news/ai-used-in-healthcare-could-amplify-racial-bias-in-medicine-new-study-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/10/932/470/NPJ-digital-medicine-graph.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ktvu.com/news/ai-used-in-healthcare-could-amplify-racial-bias-in-medicine-new-study-says.amp",
-      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/ai-used-in-healthcare-could-amplify-racial-bias-in-medicine-new-study-says.amp",
-      "publishedDateTime": "2023-10-20T20:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTVU",
-        "domain": "ktvu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

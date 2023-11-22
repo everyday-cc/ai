@@ -2,6 +2,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-11-08-five-questions-to-consider-when-evaluating-an-ai-solution.md",
+      "title": "Five Questions To Consider When Evaluating An AI Solution",
+      "excerpt": "Data is key to any AI strategy and a critical enterprise asset. Any tool you deploy within your organization needs to secure and protect your data. So, you should start by evaluating the public, private and open-source LLM models available and identifying ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654a751b6cca537b3db324ba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1334,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/08/five-questions-to-consider-when-evaluating-an-ai-solution/amp/",
+      "publishedDateTime": "2023-11-08T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-the-bibfconcludes-a-tech-masterclass-on-machine-learning-in-banking-finance.md",
       "title": "The BIBFconcludes a tech masterclass on \"Machine learning in banking & finance\"",
       "excerpt": "Embracing machine learning technologies in the financial sector allows institutions to gain a competitive edge, enhance decision-making processes, and improve financial endeavors.\" Ms. Maryam also mentioned that the 'Tech Masterclass' concept was ...",
@@ -22,11 +73,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/the-bibfconcludes-a-tech-masterclass-on-machine-learning-in-banking-and-finance-bl65vhzi?amp=1",
       "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/the-bibfconcludes-a-tech-masterclass-on-machine-learning-in-banking-and-finance-bl65vhzi?amp=1",
-      "publishedDateTime": "2023-11-08T12:13:00Z",
+      "publishedDateTime": "2023-11-08T04:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Zawya",
@@ -66,11 +117,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/08/context-is-king-how-ctos-can-ensure-generative-ai-delivers-expected-outcomes/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/08/context-is-king-how-ctos-can-ensure-generative-ai-delivers-expected-outcomes/amp/",
-      "publishedDateTime": "2023-11-08T11:45:00Z",
+      "publishedDateTime": "2023-11-08T03:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -108,11 +159,11 @@
       "heat": 139,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T10:00:00Z",
+      "publishedDateTime": "2023-11-08T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -160,11 +211,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T10:00:00Z",
+      "publishedDateTime": "2023-11-08T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -211,11 +262,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T07:48:00Z",
+      "publishedDateTime": "2023-11-07T23:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -263,11 +314,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T07:34:00Z",
+      "publishedDateTime": "2023-11-07T23:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Thaiger",
@@ -308,11 +359,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T07:13:00Z",
+      "publishedDateTime": "2023-11-07T23:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -360,11 +411,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://blog.google/outreach-initiatives/sustainability/boosting-sustainable-solutions-from-sweden/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/boosting-sustainable-solutions-from-sweden/amp/",
-      "publishedDateTime": "2023-11-08T06:00:00Z",
+      "publishedDateTime": "2023-11-07T22:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",
@@ -403,11 +454,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T05:35:00Z",
+      "publishedDateTime": "2023-11-07T21:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Inter Press Service",
@@ -446,11 +497,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T05:31:00Z",
+      "publishedDateTime": "2023-11-07T21:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Finanznachrichten",
@@ -489,11 +540,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/ibm-aws-set-up-innovation-lab-in-bengaluru/article67509749.ece/amp/",
       "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ibm-aws-set-up-innovation-lab-in-bengaluru/article67509749.ece/amp/",
-      "publishedDateTime": "2023-11-08T05:28:00Z",
+      "publishedDateTime": "2023-11-07T21:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hindu",
@@ -532,11 +583,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/amp/",
-      "publishedDateTime": "2023-11-08T05:09:00Z",
+      "publishedDateTime": "2023-11-07T21:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -584,11 +635,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://m.investing.com/news/world-news/ai-summit-a-start-but-global-agreement-a-distant-hope-3222617?ampMode=1",
       "cdnAmpWebUrl": "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/world-news/ai-summit-a-start-but-global-agreement-a-distant-hope-3222617?ampMode=1",
-      "publishedDateTime": "2023-11-08T04:00:00Z",
+      "publishedDateTime": "2023-11-07T20:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Investing",
@@ -626,11 +677,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T02:25:00Z",
+      "publishedDateTime": "2023-11-07T18:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -677,11 +728,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T02:13:00Z",
+      "publishedDateTime": "2023-11-07T18:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -728,11 +779,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.thisdaylive.com/index.php/2023/11/08/tijani-artificial-intelligence-can-enhance-good-governance-security-others?amp=1",
       "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/08/tijani-artificial-intelligence-can-enhance-good-governance-security-others?amp=1",
-      "publishedDateTime": "2023-11-08T00:53:00Z",
+      "publishedDateTime": "2023-11-07T16:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "This Day",
@@ -771,11 +822,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T00:22:00Z",
+      "publishedDateTime": "2023-11-07T16:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Electrek",
@@ -823,11 +874,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T00:03:00Z",
+      "publishedDateTime": "2023-11-07T16:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "earth",
@@ -859,11 +910,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T00:02:00Z",
+      "publishedDateTime": "2023-11-07T16:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Mena FN",
@@ -893,11 +944,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T00:00:00Z",
+      "publishedDateTime": "2023-11-07T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CIO",
@@ -936,11 +987,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.wral.com/amp/21134051/",
       "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21134051/",
-      "publishedDateTime": "2023-11-07T23:38:00Z",
+      "publishedDateTime": "2023-11-07T15:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "WRAL",
@@ -979,11 +1030,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://arstechnica.com/gaming/2023/11/xbox-moderation-team-turns-to-ai-for-help-filtering-a-flood-of-user-content/amp/",
       "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gaming/2023/11/xbox-moderation-team-turns-to-ai-for-help-filtering-a-flood-of-user-content/amp/",
-      "publishedDateTime": "2023-11-07T22:40:00Z",
+      "publishedDateTime": "2023-11-07T14:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -1030,11 +1081,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2023/11/07/how-viome-uses-ai-in-making-precision-nutrition-and-wellness-accessible-to-all/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/11/07/how-viome-uses-ai-in-making-precision-nutrition-and-wellness-accessible-to-all/amp/",
-      "publishedDateTime": "2023-11-07T21:13:00Z",
+      "publishedDateTime": "2023-11-07T13:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1081,11 +1132,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/ai-emerging-tech-transforming-food-production-2023-11?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-emerging-tech-transforming-food-production-2023-11?amp",
-      "publishedDateTime": "2023-11-07T20:59:00Z",
+      "publishedDateTime": "2023-11-07T12:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1108,40 +1159,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-self-driving-cars-and-buses-your-guide-to-the-future-of-autonomous-vehicles.md",
-      "title": "Self-driving cars and buses: Your guide to the future of autonomous vehicles",
-      "excerpt": "My ministers will introduce new legal frameworks to support the safe commercial development of emerging industries, such as self-driving vehicles’",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/self-driving-cars-buses-guide-171731890.html",
-      "originalUrl": "https://www.aol.com/news/self-driving-cars-buses-guide-171731890.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T19:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

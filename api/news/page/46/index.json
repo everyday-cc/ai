@@ -2,6 +2,41 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-10-17-how-does-cognitive-behavioral-therapy-work.md",
+      "title": "How does cognitive behavioral therapy work?",
+      "excerpt": "Cognitive behavioral therapy (CBT) is a therapy technique that aims to help people find new ways to behave by changing their thought patterns. Therapists may use strategies such as role-playing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medicalnewstoday.com/articles/296579",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/296579",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical News Today",
+        "domain": "medicalnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-10-17-masters-in-professional-computer-science.md",
       "title": "Master's in Professional Computer Science",
       "excerpt": "computer vision, computer graphics, deep learning, computer security, software security and more. This cohort-based program trains computational specialists who can construct models, develop algorithms, and write software using state-of-the-art graduate ...",
@@ -22,11 +57,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T00:00:00Z",
+      "publishedDateTime": "2023-10-16T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Simon Fraser University",
@@ -65,11 +100,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T23:15:00Z",
+      "publishedDateTime": "2023-10-16T16:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -117,11 +152,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T21:34:00Z",
+      "publishedDateTime": "2023-10-16T14:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Becker's Hospital Review",
@@ -161,11 +196,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://arstechnica.com/science/2023/10/ai-helps-decipher-first-text-of-unreadable-ancient-herculaneum-scroll/amp/",
       "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/10/ai-helps-decipher-first-text-of-unreadable-ancient-herculaneum-scroll/amp/",
-      "publishedDateTime": "2023-10-16T21:16:00Z",
+      "publishedDateTime": "2023-10-16T14:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -212,11 +247,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10?amp",
-      "publishedDateTime": "2023-10-16T20:19:00Z",
+      "publishedDateTime": "2023-10-16T13:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -256,11 +291,11 @@
       "heat": 105,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T20:00:59Z",
+      "publishedDateTime": "2023-10-16T13:00:59-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -308,11 +343,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/",
-      "publishedDateTime": "2023-10-16T19:44:00Z",
+      "publishedDateTime": "2023-10-16T12:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -359,11 +394,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T17:49:00Z",
+      "publishedDateTime": "2023-10-16T10:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -411,11 +446,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/",
-      "publishedDateTime": "2023-10-16T17:45:00Z",
+      "publishedDateTime": "2023-10-16T10:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -463,11 +498,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-spending-to-reach-143-billion-in-2027-according-to-idc/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-spending-to-reach-143-billion-in-2027-according-to-idc/",
-      "publishedDateTime": "2023-10-16T17:38:00Z",
+      "publishedDateTime": "2023-10-16T10:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -514,11 +549,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.ndtv.com/india-news/in-prime-minister-narendra-modi-and-sundar-pichais-chat-ai-for-good-governance-to-reach-of-gpay-4487135/amp/1",
       "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/in-prime-minister-narendra-modi-and-sundar-pichais-chat-ai-for-good-governance-to-reach-of-gpay-4487135/amp/1",
-      "publishedDateTime": "2023-10-16T17:26:00Z",
+      "publishedDateTime": "2023-10-16T10:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NDTV",
@@ -557,11 +592,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/qai/2023/10/16/retail-investors-have-been-burned-should-startups-be-using-ai-to-get-them-back/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/10/16/retail-investors-have-been-burned-should-startups-be-using-ai-to-get-them-back/amp/",
-      "publishedDateTime": "2023-10-16T17:00:00Z",
+      "publishedDateTime": "2023-10-16T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -608,11 +643,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T16:35:00Z",
+      "publishedDateTime": "2023-10-16T09:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -660,11 +695,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-introduces-data-streaming-for-ai--new-partnerships/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-introduces-data-streaming-for-ai--new-partnerships/amp/",
-      "publishedDateTime": "2023-10-16T16:35:00Z",
+      "publishedDateTime": "2023-10-16T09:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -702,11 +737,11 @@
       "heat": 99,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T16:00:09Z",
+      "publishedDateTime": "2023-10-16T09:00:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -745,11 +780,11 @@
       "heat": 109,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T16:00:09Z",
+      "publishedDateTime": "2023-10-16T09:00:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -797,11 +832,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T16:00:00Z",
+      "publishedDateTime": "2023-10-16T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -848,11 +883,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "publishedDateTime": "2023-10-16T15:43:00Z",
+      "publishedDateTime": "2023-10-16T08:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNBC",
@@ -892,11 +927,11 @@
       "heat": 81,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T15:24:47Z",
+      "publishedDateTime": "2023-10-16T08:24:47-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -943,11 +978,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/",
-      "publishedDateTime": "2023-10-16T15:15:00Z",
+      "publishedDateTime": "2023-10-16T08:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -986,11 +1021,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T15:01:00Z",
+      "publishedDateTime": "2023-10-16T08:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -1029,11 +1064,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/lorenthompson/2023/10/16/leidos-reinforcement-learning-exercise-illuminates-how-ai-can-automate-military-ops/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lorenthompson/2023/10/16/leidos-reinforcement-learning-exercise-illuminates-how-ai-can-automate-military-ops/amp/",
-      "publishedDateTime": "2023-10-16T14:54:00Z",
+      "publishedDateTime": "2023-10-16T07:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1081,11 +1116,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/amp/",
-      "publishedDateTime": "2023-10-16T14:54:00Z",
+      "publishedDateTime": "2023-10-16T07:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -1133,11 +1168,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/",
-      "publishedDateTime": "2023-10-16T14:15:00Z",
+      "publishedDateTime": "2023-10-16T07:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -1145,57 +1180,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-how-to-embrace-ai-intentionally-to-grow-customer-engagement.md",
-      "title": "How To Embrace AI Intentionally To Grow Customer Engagement",
-      "excerpt": "As AI adoption accelerates, brands have an opportunity to shape their future with an ethical, optimistic human-centric approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e38c9a3173937eb80c8def/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/amp/",
-      "publishedDateTime": "2023-10-16T14:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

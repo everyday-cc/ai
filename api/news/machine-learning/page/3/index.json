@@ -22,11 +22,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T17:23:19Z",
+      "publishedDateTime": "2023-10-26T10:23:19-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -76,11 +76,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T17:02:00Z",
+      "publishedDateTime": "2023-10-25T10:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Live Science",
@@ -110,11 +110,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T05:32:00Z",
+      "publishedDateTime": "2023-10-24T22:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Science Daily",
@@ -162,11 +162,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T15:44:00Z",
+      "publishedDateTime": "2023-10-24T08:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Security",
@@ -206,11 +206,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T21:44:00Z",
+      "publishedDateTime": "2023-10-23T14:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "uni",
@@ -249,11 +249,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036",
       "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036",
-      "publishedDateTime": "2023-10-23T16:02:00Z",
+      "publishedDateTime": "2023-10-23T09:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Telegraph",
@@ -284,11 +284,11 @@
       "heat": 72,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T13:41:00Z",
+      "publishedDateTime": "2023-10-23T06:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CUInsight",
@@ -329,11 +329,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T10:15:00Z",
+      "publishedDateTime": "2023-10-23T03:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nanowerk",
@@ -363,11 +363,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-23T09:03:00Z",
+      "publishedDateTime": "2023-10-23T02:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "technologynetworks",
@@ -406,11 +406,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T17:56:00Z",
+      "publishedDateTime": "2023-10-20T10:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRepublic",
@@ -459,11 +459,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T17:30:59Z",
+      "publishedDateTime": "2023-10-20T10:30:59-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -512,11 +512,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.amp",
       "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.amp",
-      "publishedDateTime": "2023-10-20T15:03:00Z",
+      "publishedDateTime": "2023-10-20T08:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Medical Xpress",
@@ -555,11 +555,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35351970",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35351970",
-      "publishedDateTime": "2023-10-20T15:02:00Z",
+      "publishedDateTime": "2023-10-20T08:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -589,11 +589,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T00:00:00Z",
+      "publishedDateTime": "2023-10-19T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business News Daily",
@@ -633,11 +633,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T00:00:00Z",
+      "publishedDateTime": "2023-10-19T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business News Daily",
@@ -676,11 +676,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T16:57:49Z",
+      "publishedDateTime": "2023-10-19T09:57:49-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -729,11 +729,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T12:30:00Z",
+      "publishedDateTime": "2023-10-19T05:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "cancerhealth",
@@ -772,11 +772,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a-new-era-of-problems-for-ai-and-ml-models/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a-new-era-of-problems-for-ai-and-ml-models/amp/",
-      "publishedDateTime": "2023-10-19T11:15:00Z",
+      "publishedDateTime": "2023-10-19T04:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -815,11 +815,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T10:12:00Z",
+      "publishedDateTime": "2023-10-19T03:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "itsecuritywire",
@@ -849,11 +849,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T17:28:00Z",
+      "publishedDateTime": "2023-10-18T10:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "fx-markets",
@@ -883,11 +883,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T14:03:00Z",
+      "publishedDateTime": "2023-10-18T07:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -926,11 +926,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
       "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
-      "publishedDateTime": "2023-10-18T06:38:00Z",
+      "publishedDateTime": "2023-10-17T23:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Mint",
@@ -961,11 +961,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:00:00Z",
+      "publishedDateTime": "2023-10-17T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Medicine Buffalo",
@@ -996,11 +996,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T00:00:00Z",
+      "publishedDateTime": "2023-10-16T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Journal",
@@ -1030,11 +1030,11 @@
       "heat": 99,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T16:00:09Z",
+      "publishedDateTime": "2023-10-16T09:00:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -1073,11 +1073,11 @@
       "heat": 109,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T16:00:09Z",
+      "publishedDateTime": "2023-10-16T09:00:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -1125,11 +1125,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/lorenthompson/2023/10/16/leidos-reinforcement-learning-exercise-illuminates-how-ai-can-automate-military-ops/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lorenthompson/2023/10/16/leidos-reinforcement-learning-exercise-illuminates-how-ai-can-automate-military-ops/amp/",
-      "publishedDateTime": "2023-10-16T14:54:00Z",
+      "publishedDateTime": "2023-10-16T07:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1168,11 +1168,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T13:56:00Z",
+      "publishedDateTime": "2023-10-16T06:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AZoOptics",
@@ -1211,11 +1211,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/amp/",
-      "publishedDateTime": "2023-10-16T07:17:00Z",
+      "publishedDateTime": "2023-10-16T00:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1263,11 +1263,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp",
       "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp",
-      "publishedDateTime": "2023-10-16T06:17:00Z",
+      "publishedDateTime": "2023-10-15T23:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Psychology Today",

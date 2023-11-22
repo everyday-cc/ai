@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "An innovative flush: Phoenix turns to artificial intelligence for improved wastewater monitoring"
-    excerpt: "From self-driving cars to automated services, artificial intelligence has been influencing every aspect of day-to-day life – even in ways we can’t see. In Phoenix, artificial intelligence is helping the city from underground."
-    publishedDateTime: 2023-11-17T22:58:00Z
-    webUrl: "https://azcapitoltimes.com/news/2023/11/17/an-innovative-flush-phoenix-turns-to-artificial-intelligence-for-improved-wastewater-monitoring/"
-    type: article
-    provider:
-      name: Arizona Capitol Times
-      domain: azcapitoltimes.com
-    quality: 6
   - title: "An innovative flush: Phoenix turns to artificial intelligence for improved wastewater monitoring – Cronkite News"
     excerpt: "Nazario Prieto, assistant water services director for Phoenix, referred to the system as “adding eyes through our sewer mains 24/7.” The sensors can almost immediately alert city officials when issues arise, allowing a quicker response time to find the culprits of illegal dumping."
     publishedDateTime: 2023-11-18T07:09:00Z

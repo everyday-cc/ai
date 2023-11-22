@@ -203,6 +203,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
+    excerpt: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
+    publishedDateTime: 2023-11-22T13:00:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/flywheel-collaborates-with-microsoft-and-nvidia-to-propel-end-to-end-ai-development-platform-on/article_f55b0323-e3b0-5c74-ad30-a42ffa6c085d.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 49
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/82/88207655-8f12-515a-8c15-0b5a2b86f6e2/655e0bf9be8a5.image.jpg?crop=1771%2C930%2C0%2C39&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The OpenAI Saga Continues, Microsoft’s New Chips, Microsoft’s AI Platform Hedge"
     excerpt: "More updates on the OpenAI saga, including the problematic board. Then, Microsoft unveils new chips, and is creating an AI platform that looks a lot like Microsoft’s other platforms."
     publishedDateTime: 2023-11-21T14:25:00Z
@@ -249,15 +263,6 @@ related:
       name: datacenterfrontier.com
       domain: datacenterfrontier.com
     quality: 36
-  - title: "Microsoft Rolls Out Host of New AI Features at Ignite 2023"
-    excerpt: "From new copilots and AI development tools, to vector search and AI chips, artificial intelligence featured prominently in Microsoft’s annual Ignite"
-    publishedDateTime: 2023-11-17T21:44:00Z
-    webUrl: "https://www.datanami.com/2023/11/17/microsoft-rolls-out-host-of-new-ai-features-at-ignite-2023/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
   - title: "Former OpenAI boss to lead Microsoft Advanced AI division"
     excerpt: "Shenanigans over the weekend have seen OpenAI’s former CEO join Microsoft and Twitch’s former CEO step in as OpenAI’s interim CEO."
     publishedDateTime: 2023-11-20T07:54:00Z
@@ -276,15 +281,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 33
-  - title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-    excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
-    publishedDateTime: 2023-11-22T14:42:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 29
   - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
     excerpt: "KKCompany is announcing its participation in the Microsoft startup initiative, \"Highway to 100 Unicorns,\" a startup accelerator program aimed to support startup innovation and strengthen the startup ecosystem in the Asia region."
     publishedDateTime: 2023-11-21T06:20:00Z

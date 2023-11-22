@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-21-generative-ai-challenges-and-opportunities.md",
+      "title": "Generative AI: Challenges and opportunities",
+      "excerpt": "Generative AI is revolutionizing the ways of working of financial institutions and Fintech companies. While rapid advancements in GenAI have opened up new possibilities across various industries, it is the fintech and banking sector that is poised to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/",
+      "originalUrl": "https://www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/ai.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/lite/",
+      "publishedDateTime": "2023-11-21T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-21-these-ai-agents-could-cut-your-workweek-to-just-3-days.md",
       "title": "These AI agents could cut your workweek to just 3 days",
       "excerpt": "While Elon Musk thinks AI will replace all jobs, this startup believes AI agents working with humans is the answer to workplace productivity.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-agents-three-day-workweek",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -22,11 +65,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T09:00:00Z",
+      "publishedDateTime": "2023-11-21T01:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Next Web",
@@ -73,11 +116,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622?amp",
       "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622?amp",
-      "publishedDateTime": "2023-11-21T07:41:00Z",
+      "publishedDateTime": "2023-11-20T23:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "tbsnews",
@@ -104,7 +147,7 @@
       "originalUrl": "https://www.androidauthority.com/mediatek-dimensity-8300-3386430/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -116,11 +159,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T07:36:00Z",
+      "publishedDateTime": "2023-11-20T23:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Android Authority",
@@ -168,11 +211,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/21/how-ai-became-a-cloud-workload/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/21/how-ai-became-a-cloud-workload/amp/",
-      "publishedDateTime": "2023-11-21T06:59:00Z",
+      "publishedDateTime": "2023-11-20T22:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -207,7 +250,7 @@
       "originalUrl": "https://www.bbc.com/news/uk-england-berkshire-67457365",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -219,11 +262,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.bbc.com/news/uk-england-berkshire-67457365.amp",
       "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-berkshire-67457365.amp",
-      "publishedDateTime": "2023-11-21T05:59:00Z",
+      "publishedDateTime": "2023-11-20T21:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -258,7 +301,7 @@
       "originalUrl": "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -270,11 +313,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/amp/",
-      "publishedDateTime": "2023-11-21T05:47:00Z",
+      "publishedDateTime": "2023-11-20T21:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -321,11 +364,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/amp/",
-      "publishedDateTime": "2023-11-21T05:39:00Z",
+      "publishedDateTime": "2023-11-20T21:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -373,11 +416,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/11/20/uncovering-4-leading-ai-blockchain-projects-to-watch-in-2024/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/11/20/uncovering-4-leading-ai-blockchain-projects-to-watch-in-2024/amp/",
-      "publishedDateTime": "2023-11-20T22:53:00Z",
+      "publishedDateTime": "2023-11-20T14:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -424,11 +467,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T22:41:00Z",
+      "publishedDateTime": "2023-11-20T14:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SiliconANGLE",
@@ -467,11 +510,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35885463",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35885463",
-      "publishedDateTime": "2023-11-20T22:15:00Z",
+      "publishedDateTime": "2023-11-20T14:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -501,11 +544,11 @@
       "heat": 82,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T20:49:34Z",
+      "publishedDateTime": "2023-11-20T12:49:34-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -540,7 +583,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 344,
+      "heat": 334,
       "tags": null,
       "images": [
         {
@@ -552,11 +595,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/amp/",
-      "publishedDateTime": "2023-11-20T17:12:00Z",
+      "publishedDateTime": "2023-11-20T09:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -604,11 +647,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain.amp",
-      "publishedDateTime": "2023-11-20T15:59:00Z",
+      "publishedDateTime": "2023-11-20T07:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -656,11 +699,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/jonathanreichental/2023/11/20/quantum-artificial-intelligence-is-closer-than-you-think/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanreichental/2023/11/20/quantum-artificial-intelligence-is-closer-than-you-think/amp/",
-      "publishedDateTime": "2023-11-20T15:45:00Z",
+      "publishedDateTime": "2023-11-20T07:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -707,11 +750,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/?amp=1",
       "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/?amp=1",
-      "publishedDateTime": "2023-11-20T15:00:00Z",
+      "publishedDateTime": "2023-11-20T07:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Singularity Hub",
@@ -750,11 +793,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T12:00:00Z",
+      "publishedDateTime": "2023-11-20T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -801,11 +844,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T11:00:00Z",
+      "publishedDateTime": "2023-11-20T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -854,11 +897,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/artificial-intelligence-a-new-era-for-legacy-application-modernization/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/20/artificial-intelligence-a-new-era-for-legacy-application-modernization/amp/",
-      "publishedDateTime": "2023-11-20T11:00:00Z",
+      "publishedDateTime": "2023-11-20T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -893,7 +936,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -905,11 +948,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/",
-      "publishedDateTime": "2023-11-20T10:15:00Z",
+      "publishedDateTime": "2023-11-20T02:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -957,11 +1000,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/amp/",
-      "publishedDateTime": "2023-11-20T10:13:00Z",
+      "publishedDateTime": "2023-11-20T02:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1000,11 +1043,11 @@
       "heat": 99,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T10:00:00Z",
+      "publishedDateTime": "2023-11-20T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -1052,11 +1095,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/amp/",
-      "publishedDateTime": "2023-11-20T08:01:00Z",
+      "publishedDateTime": "2023-11-20T00:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -1104,11 +1147,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/",
-      "publishedDateTime": "2023-11-20T08:00:00Z",
+      "publishedDateTime": "2023-11-20T00:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",
@@ -1156,11 +1199,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/",
       "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/",
-      "publishedDateTime": "2023-11-20T06:18:00Z",
+      "publishedDateTime": "2023-11-19T22:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Financial Express",
@@ -1177,58 +1220,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023.md",
-      "title": "5 Generative AI Predictions And A Wishlist From AWS re:Invent 2023",
-      "excerpt": "AWS re:Invent just around the corner ... In his capacity as Amazon's lead scientist for artificial general intelligence (AGI), Prasad brought in scientists from the Amazon Science team and those working on Alexa AI to focus on model training, providing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655aed36ae62b3b90c8db7ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1000,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/",
-      "publishedDateTime": "2023-11-20T05:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -57,22 +57,6 @@ related:
         width: 1118
         height: 618
         isCached: true
-  - title: "Q&A: How Artificial Intelligence Powers Collaboration and Efficiency for Healthcare"
-    excerpt: "Artificial Intelligence plays a pivotal role in fostering collaborative efforts and boosting operational efficiency within the healthcare ecosystem, helping streamline complex processes and aiding in clinical decision-making."
-    publishedDateTime: 2023-11-21T21:30:00Z
-    webUrl: "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 68
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202311/GettyImages-1336245275.jpg?itok=WESoihWH"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "Morning Bid: Thanksgiving starters of AI and oil"
     excerpt: "A key catalyst for some of the outsize Big Tech share gains this year, the craze around generative AI will also top the agenda as chip giant Nvidia reports earnings on Tuesday tha"
     publishedDateTime: 2023-11-20T10:10:00Z
@@ -195,24 +179,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 25
-  - title: "Opera gives voice to Alan Turing with help of artificial intelligence"
-    excerpt: "The makers of “I AM ALAN TURING,” an experimental opera being produced out of Yale’s Center for Collaborative Arts and Media, used AI in creating the show."
-    publishedDateTime: 2023-11-17T22:19:00Z
-    webUrl: "https://news.yale.edu/2023/11/17/opera-gives-voice-alan-turing-help-artificial-intelligence"
-    type: article
-    provider:
-      name: Yale Environment 360
-      domain: yale.edu
-    quality: 17
-  - title: "Rocketlane Unveils 'AI at Work' Report Showcasing the Impact of Artificial Intelligence on Modern Workplaces Across the Globe"
-    excerpt: "Rocketlane remains at the forefront of empowering businesses to streamline operations and enhance customer experiences through cutting-edge technologies. The 'AI at Work' report is a valuable resource for industry leaders, providing insights into the evolving landscape of AI adoption and its impact on business success."
-    publishedDateTime: 2023-11-21T14:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/21/9921894.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "8Y9qSSS7HkmKzY+bNIdaeR+vz8icNAWhdxJ2105LdGa8h7F57S/LjToUWSWXMxV0/CBcKOzIimWl3vPh96ROn5p7cNz1g+Q+qu/iMA/OC3XwAnKnBCLUSuF07YTv+MFjbt3fxWB5KvmLEULWxoU/fJVQpvn5XCq5SHQ8+t1NVaLfTuJ1gkpopR8KvIdhIJr1HzOrHX0KPZrEuMbJ8Au1wD2T0EtSh1qa3DYSrX8AKeC6U3Y9TYuOLycPce1IZzBSvLTE5ga8FYTJNa4sSmj4/3SwUj7U+wWn03C0Le3MBKTrDqKDgvFGRabV7UKGg8woghe1Kci8nv1WN3cZMfEmNkZG8dfaJrdW8jMKcluvgpHucSKy4mSiMYjyRZTdtwMNOvFKlj5gGVp93mtym0PNnGZvhKK2eVT5IcNY7dbFPtgipmq2NK3PQ6YMRASDbhZH/tG6j7zxPWxoc2hd+WO0uTP+g6WzacjMAhbGr5pa/DZWLLmVdgYtDqChQbt4Me1qXkqgUMCXC/nX9G11On5uSQ==;YvdYDqE1uP5shuV/SkZpCw=="
 ---

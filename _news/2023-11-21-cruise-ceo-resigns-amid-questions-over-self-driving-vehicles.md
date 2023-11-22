@@ -108,6 +108,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "CEO of self-driving Cruise out at GM"
+    excerpt: "General Motors' self-driving-car unit, Cruise, is going through leadership changes following the loss of permits and the pause of operations in California."
+    publishedDateTime: 2023-11-20T23:03:00Z
+    webUrl: "https://sjvsun.com/business/ceo-of-self-driving-cruise-out-at-gm/"
+    type: article
+    provider:
+      name: The San Joaquin Valley Sun
+      domain: sjvsun.com
+    quality: 24
+    images:
+      - url: "https://sjvsun.com/wp-content/uploads/2023/11/SUN-OG-_-Feat-162.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Cruise CEO resigns following troubles with self-driving cars"
     excerpt: "The founder and CEO of autonomous vehicle company Cruise, which is owned by General Motors, announced on X that he is resigning. Kyle Vogt founded the company in 2013 and also served as its president and chief technology officer."
     publishedDateTime: 2023-11-20T17:40:00Z

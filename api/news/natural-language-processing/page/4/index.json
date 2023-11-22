@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-14-australians-decide-against-creating-an-indigenous-voice-to-advise-parliament.md",
+      "title": "Australians decide against creating an Indigenous Voice to advise Parliament",
+      "excerpt": "CANBERRA, Australia >> Australians voted in a referendum today against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/",
+      "originalUrl": "https://www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.staradvertiser.com/wp-content/uploads/2023/10/web1_14305175-60302059f3c845c4b99d810132b81e3e.jpg",
+          "width": 760,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/amp/",
+      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/amp/",
+      "publishedDateTime": "2023-10-14T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Honolulu Star-Advertiser",
+        "domain": "staradvertiser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-soon-upi-payments-can-be-made-by-speaking-local-language.md",
       "title": "Soon UPI payments can be made by speaking local language",
       "excerpt": "Bhashini, the government's AI language translation platform, is set to enhance linguistic inclusion in UPI payments by introducing voice-based services within the National Payments Corporation of ...",
@@ -22,11 +65,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.hindustantimes.com/technology/soon-upi-payments-can-be-made-by-speaking-local-language-101697189901391-amp.html",
       "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/soon-upi-payments-can-be-made-by-speaking-local-language-101697189901391-amp.html",
-      "publishedDateTime": "2023-10-13T16:34:00Z",
+      "publishedDateTime": "2023-10-13T09:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Hindustan Times",
@@ -65,11 +108,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/toddnordstrom/2023/10/13/why-employee-recognition-doesnt-work-my-confession-as-a-so-called-expert/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/toddnordstrom/2023/10/13/why-employee-recognition-doesnt-work-my-confession-as-a-so-called-expert/amp/",
-      "publishedDateTime": "2023-10-13T11:46:00Z",
+      "publishedDateTime": "2023-10-13T04:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -117,11 +160,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/australia-news/2023/oct/12/australians-look-set-to-vote-against-indigenous-voice-in-parliament",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/12/australians-look-set-to-vote-against-indigenous-voice-in-parliament",
-      "publishedDateTime": "2023-10-12T09:55:00Z",
+      "publishedDateTime": "2023-10-12T02:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -169,11 +212,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T07:31:00Z",
+      "publishedDateTime": "2023-10-12T00:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Design-Reuse",
@@ -212,11 +255,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T16:20:00Z",
+      "publishedDateTime": "2023-10-11T09:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -255,11 +298,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.bbc.com/news/world-australia-67076216.amp",
       "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-australia-67076216.amp",
-      "publishedDateTime": "2023-10-11T15:00:00Z",
+      "publishedDateTime": "2023-10-11T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -307,11 +350,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/",
-      "publishedDateTime": "2023-10-11T10:15:00Z",
+      "publishedDateTime": "2023-10-11T03:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -359,11 +402,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T09:01:00Z",
+      "publishedDateTime": "2023-10-11T02:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The New York Times",
@@ -402,11 +445,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T07:58:00Z",
+      "publishedDateTime": "2023-10-11T00:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
@@ -436,11 +479,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T02:20:00Z",
+      "publishedDateTime": "2023-10-10T19:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Science Daily",
@@ -488,11 +531,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T20:12:00Z",
+      "publishedDateTime": "2023-10-10T13:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

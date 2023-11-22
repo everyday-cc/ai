@@ -2,6 +2,40 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-10-26-amazon-ads-automate-creative-images-for-sellers-with-generative-ai.md",
+      "title": "Amazon Ads Automate Creative Images For Sellers With Generative AI",
+      "excerpt": "Ryan Hamilton, founder of Universimm, a sort of social platform with niche topics that launched formally in July, uses Amazon Rekognition, a tool supported by GAI for video and image analysis that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/390485/amazon-ads-automate-creative-images-for-sellers-wi.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/390485/amazon-ads-automate-creative-images-for-sellers-wi.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-smart-glasses-developed-that-can-help-blind-people-recognize-objects.md",
       "title": "'Smart Glasses' Developed That Can Help Blind People Recognize Objects",
       "excerpt": "For example, such a system may describe the name of a given object and its direction in the environment. They may also come with features such as voice recognition control for internet searches or ...",
@@ -13,11 +47,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T18:00:00Z",
+      "publishedDateTime": "2023-10-25T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",
@@ -65,11 +99,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T17:54:00Z",
+      "publishedDateTime": "2023-10-25T10:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "eWeek",
@@ -117,11 +151,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T17:19:00Z",
+      "publishedDateTime": "2023-10-25T10:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -169,11 +203,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T17:02:00Z",
+      "publishedDateTime": "2023-10-25T10:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Live Science",
@@ -212,11 +246,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T17:00:00Z",
+      "publishedDateTime": "2023-10-25T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Tech.co",
@@ -255,11 +289,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/25/wanted-people-to-fill-in-the-growing-ai-leadership-vacuum/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/10/25/wanted-people-to-fill-in-the-growing-ai-leadership-vacuum/amp/",
-      "publishedDateTime": "2023-10-25T16:51:00Z",
+      "publishedDateTime": "2023-10-25T09:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -307,11 +341,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/25/google-plays-policy-update-cracks-down-on-offensive-ai-apps-disruptive-notifications/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/google-plays-policy-update-cracks-down-on-offensive-ai-apps-disruptive-notifications/amp/",
-      "publishedDateTime": "2023-10-25T16:30:00Z",
+      "publishedDateTime": "2023-10-25T09:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -358,11 +392,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T16:01:00Z",
+      "publishedDateTime": "2023-10-25T09:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -409,11 +443,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/",
-      "publishedDateTime": "2023-10-25T15:43:00Z",
+      "publishedDateTime": "2023-10-25T08:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -462,11 +496,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/25/pirr-ai-erotica/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/pirr-ai-erotica/amp/",
-      "publishedDateTime": "2023-10-25T15:01:00Z",
+      "publishedDateTime": "2023-10-25T08:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -504,11 +538,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.aol.com/amphtml/us-orders-immediate-halt-ai-035851187.html",
       "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/us-orders-immediate-halt-ai-035851187.html",
-      "publishedDateTime": "2023-10-25T14:55:00Z",
+      "publishedDateTime": "2023-10-25T07:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AOL",
@@ -547,11 +581,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/25/ai-dominates-qualcomm-snapdragon-summit-with-new-snapdragon-products/amp/",
-      "publishedDateTime": "2023-10-25T14:20:00Z",
+      "publishedDateTime": "2023-10-25T07:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -600,11 +634,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T13:28:00Z",
+      "publishedDateTime": "2023-10-25T06:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -644,11 +678,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T13:22:00Z",
+      "publishedDateTime": "2023-10-25T06:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -688,11 +722,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing-ai-to-streamline-identity-management/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/25/harnessing-ai-to-streamline-identity-management/amp/",
-      "publishedDateTime": "2023-10-25T11:15:00Z",
+      "publishedDateTime": "2023-10-25T04:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -739,11 +773,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://wraltechwire.com/2023/10/25/artificial-intelligence-in-the-c-suite-a-senior-leaders-guide-for-maximizing-ais-potential/?amp=1",
       "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/25/artificial-intelligence-in-the-c-suite-a-senior-leaders-guide-for-maximizing-ais-potential/?amp=1",
-      "publishedDateTime": "2023-10-25T11:14:00Z",
+      "publishedDateTime": "2023-10-25T04:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "WRAL TechWire",
@@ -781,11 +815,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/25/how-to-use-ai-to-surprise-and-delight-your-customers/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/10/25/how-to-use-ai-to-surprise-and-delight-your-customers/amp/",
-      "publishedDateTime": "2023-10-25T11:00:00Z",
+      "publishedDateTime": "2023-10-25T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -823,11 +857,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T10:39:00Z",
+      "publishedDateTime": "2023-10-25T03:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Journal",
@@ -866,11 +900,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T10:37:00Z",
+      "publishedDateTime": "2023-10-25T03:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -909,11 +943,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T10:33:00Z",
+      "publishedDateTime": "2023-10-25T03:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SD Times",
@@ -952,11 +986,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T10:33:00Z",
+      "publishedDateTime": "2023-10-25T03:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SD Times",
@@ -1004,11 +1038,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/25/google-is-actively-looking-to-insert-different-types-of-ads-in-its-generative-ai-search/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/google-is-actively-looking-to-insert-different-types-of-ads-in-its-generative-ai-search/amp/",
-      "publishedDateTime": "2023-10-25T09:19:00Z",
+      "publishedDateTime": "2023-10-25T02:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -1055,11 +1089,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T08:18:00Z",
+      "publishedDateTime": "2023-10-25T01:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Finanznachrichten",
@@ -1098,11 +1132,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T07:58:00Z",
+      "publishedDateTime": "2023-10-25T00:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Longview News-Journal",
@@ -1117,49 +1151,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-fpt-buys-stake-in-us-computer-vision-ai-company.md",
-      "title": "FPT buys stake in US computer vision, AI company",
-      "excerpt": "Tech giant FPT has invested in leading American computer vision and AI company Landing AI and become its strategic partner.",
-      "sourceUrl": null,
-      "webUrl": "https://e.vnexpress.net/news/business/companies/fpt-buys-stake-in-us-computer-vision-ai-company-4668913.html",
-      "originalUrl": "https://e.vnexpress.net/news/business/companies/fpt-buys-stake-in-us-computer-vision-ai-company-4668913.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1-english.vnecdn.net/2023/10/25/hoptacchienluocfptlanding39908-6268-5357-1698213279.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=FEcJUTI9TdQmDT19f-NfTw",
-          "width": 680,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://ampe.vnexpress.net/news/business/companies/fpt-buys-stake-in-us-computer-vision-ai-company-4668913.html",
-      "cdnAmpWebUrl": "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/business/companies/fpt-buys-stake-in-us-computer-vision-ai-company-4668913.html",
-      "publishedDateTime": "2023-10-25T05:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VN Express",
-        "domain": "vnexpress.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

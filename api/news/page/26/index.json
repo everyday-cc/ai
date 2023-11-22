@@ -2,6 +2,57 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-10-30-ai-is-not-just-chatting-with-us-its-learning-how-to-turn-verbal-communications-into-real-world-insights.md",
+      "title": "AI is not just chatting with us. It's learning how to turn verbal communications into real-world insights.",
+      "excerpt": "A new wave of conversational AI tools are being designed to turn verbal communications into actionable insights for market research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-tools-turning-data-relatable-conversations-2023-10",
+      "originalUrl": "https://www.businessinsider.com/ai-tools-turning-data-relatable-conversations-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/653c18dc0487ff031cb11ceb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-tools-turning-data-relatable-conversations-2023-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-tools-turning-data-relatable-conversations-2023-10?amp",
+      "publishedDateTime": "2023-10-30T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-30-crypto-billionaires-nonprofit-buys-500-million-of-ai-data-center-chips.md",
       "title": "Crypto billionaire's nonprofit buys $500 million of AI data center chips",
       "excerpt": "A nonprofit organization funded by cryptocurrency billionaire Jed McCaleb bought roughly $500 million of Nvidia advanced chips and plans to lease computing capacity to companies for artificial intelligence projects.",
@@ -22,11 +73,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T14:05:00Z",
+      "publishedDateTime": "2023-10-30T07:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Channel NewsAsia Singapore",
@@ -65,11 +116,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T14:02:00Z",
+      "publishedDateTime": "2023-10-30T07:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -117,11 +168,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/10/30/tech-leaders-will-boost-ops-to-grow-with-ai-in-2024/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/30/tech-leaders-will-boost-ops-to-grow-with-ai-in-2024/amp/",
-      "publishedDateTime": "2023-10-30T14:01:00Z",
+      "publishedDateTime": "2023-10-30T07:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -168,11 +219,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T13:58:00Z",
+      "publishedDateTime": "2023-10-30T06:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmochina",
@@ -220,11 +271,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/from-gut-feel-to-data-driven-decisions-how-machine-learning-can-inform-investment-priorities-for-ctos/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/30/from-gut-feel-to-data-driven-decisions-how-machine-learning-can-inform-investment-priorities-for-ctos/amp/",
-      "publishedDateTime": "2023-10-30T13:45:00Z",
+      "publishedDateTime": "2023-10-30T06:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -274,11 +325,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/navigating-the-shadows-a-strategic-approach-to-managing-dark-data/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/30/navigating-the-shadows-a-strategic-approach-to-managing-dark-data/amp/",
-      "publishedDateTime": "2023-10-30T13:00:00Z",
+      "publishedDateTime": "2023-10-30T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -327,11 +378,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/30/succeeding-in-a-crowded-ai-market-takes-a-thoughtful-approach/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/10/30/succeeding-in-a-crowded-ai-market-takes-a-thoughtful-approach/amp/",
-      "publishedDateTime": "2023-10-30T11:30:00Z",
+      "publishedDateTime": "2023-10-30T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -369,11 +420,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://abc7news.com/amp/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
       "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
-      "publishedDateTime": "2023-10-30T10:58:00Z",
+      "publishedDateTime": "2023-10-30T03:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC7 San Francisco",
@@ -412,11 +463,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://diginomica.com/uk-ai-safety-summit-diginomica-preview?amp",
       "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/uk-ai-safety-summit-diginomica-preview?amp",
-      "publishedDateTime": "2023-10-30T10:32:00Z",
+      "publishedDateTime": "2023-10-30T03:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Diginomica",
@@ -456,11 +507,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp",
       "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/startups/news-lenskart-acquires-ai-based-computer-vision-startup-tango-eye-261937/amp",
-      "publishedDateTime": "2023-10-30T09:52:00Z",
+      "publishedDateTime": "2023-10-30T02:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Zee Business",
@@ -499,11 +550,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.moneycontrol.com/news/business/lenskart-acquires-ai-led-computer-vision-startup-tango-eye-11625031.html/amp",
       "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/lenskart-acquires-ai-led-computer-vision-startup-tango-eye-11625031.html/amp",
-      "publishedDateTime": "2023-10-30T09:02:00Z",
+      "publishedDateTime": "2023-10-30T02:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "moneycontrol.com",
@@ -533,11 +584,11 @@
       "heat": 76,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T09:00:00Z",
+      "publishedDateTime": "2023-10-30T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -575,11 +626,11 @@
       "heat": 82,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T09:00:00Z",
+      "publishedDateTime": "2023-10-30T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -617,11 +668,11 @@
       "heat": 145,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T09:00:00Z",
+      "publishedDateTime": "2023-10-30T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -670,11 +721,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T09:00:00Z",
+      "publishedDateTime": "2023-10-30T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Journal-News",
@@ -713,11 +764,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.amp.html",
-      "publishedDateTime": "2023-10-30T09:00:00Z",
+      "publishedDateTime": "2023-10-30T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoWorld",
@@ -765,11 +816,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T08:35:00Z",
+      "publishedDateTime": "2023-10-30T01:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -816,11 +867,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/10/30/what-are-good-ai-governance-practices-and-ai-ethics-sources-3/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/30/what-are-good-ai-governance-practices-and-ai-ethics-sources-3/amp/",
-      "publishedDateTime": "2023-10-30T08:14:00Z",
+      "publishedDateTime": "2023-10-30T01:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -859,11 +910,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T07:59:00Z",
+      "publishedDateTime": "2023-10-30T00:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "cnbctv18",
@@ -902,11 +953,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T07:37:00Z",
+      "publishedDateTime": "2023-10-30T00:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Mena FN",
@@ -945,11 +996,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.cnbc.com/amp/2023/10/30/biden-unveils-us-governments-first-ever-ai-executive-order.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/30/biden-unveils-us-governments-first-ever-ai-executive-order.html",
-      "publishedDateTime": "2023-10-30T07:17:00Z",
+      "publishedDateTime": "2023-10-30T00:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNBC",
@@ -996,11 +1047,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/kalinabryant/2023/10/30/how-new-ai-model-counters-bias-providing-an-equitable-future-for-all/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalinabryant/2023/10/30/how-new-ai-model-counters-bias-providing-an-equitable-future-for-all/amp/",
-      "publishedDateTime": "2023-10-30T06:35:00Z",
+      "publishedDateTime": "2023-10-29T23:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1048,11 +1099,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.digitaltrends.com/computing/new-corruption-tool-nightshade-ai/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/new-corruption-tool-nightshade-ai/?amp",
-      "publishedDateTime": "2023-10-30T05:05:00Z",
+      "publishedDateTime": "2023-10-29T22:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Trends",
@@ -1090,11 +1141,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T04:46:00Z",
+      "publishedDateTime": "2023-10-29T21:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "U.S. News & World Report",
@@ -1118,40 +1169,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-2023-2030-artificial-intelligence-ai-robots-market-dynamics-top-players-growth-factors-and-forecasted-prospects.md",
-      "title": "2023-2030 Artificial Intelligence (AI) Robots Market Dynamics: Top Players, Growth Factors, and Forecasted Prospects",
-      "excerpt": "1.1 Product Overview and Scope of Artificial Intelligence (AI) Robots Market 1.2 Artificial Intelligence (AI) Robots Market Segment by Type 1.3 Global Artificial Intelligence (AI) Robots Market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/2023-2030-artificial-intelligence-ai-robots-market-dynamics-top-players-growth-factors-and-forecasted-prospects",
-      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/2023-2030-artificial-intelligence-ai-robots-market-dynamics-top-players-growth-factors-and-forecasted-prospects",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T03:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -22,11 +22,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/amp/",
-      "publishedDateTime": "2023-11-22T17:15:00Z",
+      "publishedDateTime": "2023-11-22T09:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -61,7 +61,7 @@
       "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -73,11 +73,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/",
-      "publishedDateTime": "2023-11-22T16:57:00Z",
+      "publishedDateTime": "2023-11-22T08:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -100,7 +100,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -124,11 +125,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35921762",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35921762",
-      "publishedDateTime": "2023-11-22T16:50:00Z",
+      "publishedDateTime": "2023-11-22T08:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -167,11 +168,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/amp/",
-      "publishedDateTime": "2023-11-22T16:02:00Z",
+      "publishedDateTime": "2023-11-22T08:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -218,11 +219,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://nbc-2.com/news/health/2023/11/22/lee-health-launches-e-visits-using-artificial-intelligence-to-avoid-wait-rooms/",
       "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/health/2023/11/22/lee-health-launches-e-visits-using-artificial-intelligence-to-avoid-wait-rooms/",
-      "publishedDateTime": "2023-11-22T15:49:00Z",
+      "publishedDateTime": "2023-11-22T07:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC2",
@@ -248,7 +249,7 @@
       "originalUrl": "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -260,11 +261,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/amp/",
-      "publishedDateTime": "2023-11-22T15:29:00Z",
+      "publishedDateTime": "2023-11-22T07:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -288,7 +289,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -312,11 +314,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/amp/",
-      "publishedDateTime": "2023-11-22T15:15:00Z",
+      "publishedDateTime": "2023-11-22T07:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -363,11 +365,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T14:53:00Z",
+      "publishedDateTime": "2023-11-22T06:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Gizmochina",
@@ -406,11 +408,11 @@
       "heat": 119,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T14:41:07Z",
+      "publishedDateTime": "2023-11-22T06:41:07-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -450,11 +452,11 @@
       "heat": 82,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T14:23:46Z",
+      "publishedDateTime": "2023-11-22T06:23:46-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -502,11 +504,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T12:58:00Z",
+      "publishedDateTime": "2023-11-22T04:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Daijiworld",
@@ -546,11 +548,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/sports/ai-driven-technology-revolutionize-sports-betting-personalized-experiences-based-patterns-interests.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/ai-driven-technology-revolutionize-sports-betting-personalized-experiences-based-patterns-interests.amp",
-      "publishedDateTime": "2023-11-22T12:02:00Z",
+      "publishedDateTime": "2023-11-22T04:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -597,11 +599,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/ai-emotions-and-business-are-we-ready-for-a-new-communications-era/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/ai-emotions-and-business-are-we-ready-for-a-new-communications-era/amp/",
-      "publishedDateTime": "2023-11-22T12:00:00Z",
+      "publishedDateTime": "2023-11-22T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -649,11 +651,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/now-that-generative-ai-is-here-where-will-all-the-data-come-from/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/now-that-generative-ai-is-here-where-will-all-the-data-come-from/amp/",
-      "publishedDateTime": "2023-11-22T12:00:00Z",
+      "publishedDateTime": "2023-11-22T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -701,11 +703,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T12:00:00Z",
+      "publishedDateTime": "2023-11-22T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -752,11 +754,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/what-you-need-to-know-about-prompt-engineers-and-why-you-might-want-one/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/what-you-need-to-know-about-prompt-engineers-and-why-you-might-want-one/amp/",
-      "publishedDateTime": "2023-11-22T11:45:00Z",
+      "publishedDateTime": "2023-11-22T03:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -804,11 +806,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T11:31:00Z",
+      "publishedDateTime": "2023-11-22T03:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -856,11 +858,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-11-22T11:15:00Z",
+      "publishedDateTime": "2023-11-22T03:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -907,11 +909,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T11:00:00Z",
+      "publishedDateTime": "2023-11-22T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",
@@ -959,11 +961,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/",
-      "publishedDateTime": "2023-11-22T11:00:00Z",
+      "publishedDateTime": "2023-11-22T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1010,11 +1012,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/openai-chatgpt-voice-feature-now-available-for-all-users-what-it-is-and-how-it-works-2023-11-22-903867",
       "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/openai-chatgpt-voice-feature-now-available-for-all-users-what-it-is-and-how-it-works-2023-11-22-903867",
-      "publishedDateTime": "2023-11-22T07:51:00Z",
+      "publishedDateTime": "2023-11-21T23:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "India TV",
@@ -1053,11 +1055,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/traversmark/2023/11/21/a-psychologist-explains-the-eerie-uncanny-valley-phenomenon/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/11/21/a-psychologist-explains-the-eerie-uncanny-valley-phenomenon/amp/",
-      "publishedDateTime": "2023-11-21T23:46:00Z",
+      "publishedDateTime": "2023-11-21T15:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1096,11 +1098,11 @@
       "heat": 92,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T22:47:36Z",
+      "publishedDateTime": "2023-11-21T14:47:36-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -1147,11 +1149,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/",
       "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/",
-      "publishedDateTime": "2023-11-21T21:47:00Z",
+      "publishedDateTime": "2023-11-21T13:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Crowdfund Insider",
@@ -1170,45 +1172,36 @@
       ]
     },
     {
-      "path": "_news/2023-11-22-amazon-lays-off-alexa-employees-as-2010s-voice-assistant-boom-gives-way-to-ai.md",
-      "title": "Amazon lays off Alexa employees as 2010s voice-assistant boom gives way to AI",
-      "excerpt": "Amazon is going through yet another round of layoffs, reports Computerworld, and once again the company’s devices-and-services division appears to be bearing the brunt of it. The layoffs will primarily affect the team working on Alexa, the Amazon voice assistant that drives the company's Echo smart speakers and other products.",
+      "path": "_news/2023-11-22-qa-how-artificial-intelligence-powers-collaboration-and-efficiency-for-healthcare.md",
+      "title": "Q&A: How Artificial Intelligence Powers Collaboration and Efficiency for Healthcare",
+      "excerpt": "Artificial Intelligence plays a pivotal role in fostering collaborative efforts and boosting operational efficiency within the healthcare ecosystem, helping streamline complex processes and aiding in clinical decision-making.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/11/amazon-lays-off-alexa-employees-as-2010s-voice-assistant-boom-gives-way-to-ai/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/11/amazon-lays-off-alexa-employees-as-2010s-voice-assistant-boom-gives-way-to-ai/",
+      "webUrl": "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare",
+      "originalUrl": "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/echo-show-5-800x450.jpeg",
-          "width": 800,
-          "height": 450,
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202311/GettyImages-1336245275.jpg?itok=WESoihWH",
+          "width": 1440,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/11/amazon-lays-off-alexa-employees-as-2010s-voice-assistant-boom-gives-way-to-ai/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/11/amazon-lays-off-alexa-employees-as-2010s-voice-assistant-boom-gives-way-to-ai/amp/",
-      "publishedDateTime": "2023-11-21T21:17:00Z",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp",
+      "publishedDateTime": "2023-11-21T13:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1217,7 +1210,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -13,11 +13,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T05:35:00Z",
+      "publishedDateTime": "2023-11-07T21:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Inter Press Service",
@@ -47,11 +47,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T00:00:00Z",
+      "publishedDateTime": "2023-11-07T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CIO",
@@ -90,11 +90,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T00:55:00Z",
+      "publishedDateTime": "2023-11-06T16:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -144,11 +144,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-07T00:01:00Z",
+      "publishedDateTime": "2023-11-06T16:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Electronics Weekly",
@@ -178,11 +178,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T15:38:00Z",
+      "publishedDateTime": "2023-11-06T07:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TensorFlow",
@@ -231,11 +231,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T09:02:00Z",
+      "publishedDateTime": "2023-11-06T01:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Impacts",
@@ -275,11 +275,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T08:46:00Z",
+      "publishedDateTime": "2023-11-06T00:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Geeky Gadgets",
@@ -321,11 +321,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize?amphtml=1",
       "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/137650/sony-interactive-entertainment-acquires-deep-learning-company-isize?amphtml=1",
-      "publishedDateTime": "2023-11-02T19:51:00Z",
+      "publishedDateTime": "2023-11-02T12:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Shacknews",
@@ -364,11 +364,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-02T07:11:00Z",
+      "publishedDateTime": "2023-11-02T00:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Inside Higher Ed",
@@ -407,11 +407,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T17:07:00Z",
+      "publishedDateTime": "2023-11-01T10:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Financial Post",
@@ -442,11 +442,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T16:10:00Z",
+      "publishedDateTime": "2023-11-01T09:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -478,11 +478,11 @@
       "heat": 84,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T13:46:00Z",
+      "publishedDateTime": "2023-11-01T06:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -521,11 +521,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T11:55:00Z",
+      "publishedDateTime": "2023-11-01T04:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Interesting Engineering",
@@ -564,11 +564,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-01T10:17:00Z",
+      "publishedDateTime": "2023-11-01T03:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Impacts",
@@ -611,11 +611,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://phys.org/news/2023-10-nanowire-brain-network-fly.amp",
       "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-nanowire-brain-network-fly.amp",
-      "publishedDateTime": "2023-11-01T10:00:00Z",
+      "publishedDateTime": "2023-11-01T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Phys.org",
@@ -645,11 +645,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T12:25:00Z",
+      "publishedDateTime": "2023-10-31T05:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Zawya",
@@ -681,11 +681,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T00:00:00Z",
+      "publishedDateTime": "2023-10-30T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "JD Supra",
@@ -716,11 +716,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T00:00:00Z",
+      "publishedDateTime": "2023-10-30T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "sinchew",
@@ -751,11 +751,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T23:39:00Z",
+      "publishedDateTime": "2023-10-30T16:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Macau Business",
@@ -785,11 +785,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T22:43:00Z",
+      "publishedDateTime": "2023-10-30T15:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Daily Excelsior",
@@ -819,11 +819,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T22:37:00Z",
+      "publishedDateTime": "2023-10-30T15:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Kashmir Reader",
@@ -853,11 +853,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T22:33:00Z",
+      "publishedDateTime": "2023-10-30T15:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ITWire",
@@ -887,11 +887,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T21:33:00Z",
+      "publishedDateTime": "2023-10-30T14:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Neuroscience News",
@@ -921,11 +921,11 @@
       "heat": 89,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T14:23:00Z",
+      "publishedDateTime": "2023-10-30T07:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -975,11 +975,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/from-gut-feel-to-data-driven-decisions-how-machine-learning-can-inform-investment-priorities-for-ctos/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/30/from-gut-feel-to-data-driven-decisions-how-machine-learning-can-inform-investment-priorities-for-ctos/amp/",
-      "publishedDateTime": "2023-10-30T13:45:00Z",
+      "publishedDateTime": "2023-10-30T06:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1029,11 +1029,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/navigating-the-shadows-a-strategic-approach-to-managing-dark-data/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/30/navigating-the-shadows-a-strategic-approach-to-managing-dark-data/amp/",
-      "publishedDateTime": "2023-10-30T13:00:00Z",
+      "publishedDateTime": "2023-10-30T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1082,11 +1082,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.theglobeandmail.com/amp/opinion/article-the-future-of-artificial-intelligence-a-future-i-helped-create-keeps/",
       "cdnAmpWebUrl": "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-the-future-of-artificial-intelligence-a-future-i-helped-create-keeps/",
-      "publishedDateTime": "2023-10-29T00:25:00Z",
+      "publishedDateTime": "2023-10-28T17:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Globe and Mail",
@@ -1125,11 +1125,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt",
-      "publishedDateTime": "2023-10-28T18:19:00Z",
+      "publishedDateTime": "2023-10-28T11:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -1168,11 +1168,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-28T12:47:00Z",
+      "publishedDateTime": "2023-10-28T05:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -1220,11 +1220,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10?amp",
-      "publishedDateTime": "2023-10-26T20:27:00Z",
+      "publishedDateTime": "2023-10-26T13:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

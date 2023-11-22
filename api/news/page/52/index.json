@@ -2,6 +2,49 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-10-12-achronix-announces-fpga-powered-accelerated-automatic-speech-recognition-solution.md",
+      "title": "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution",
+      "excerpt": "The solution is powered by a VectorPath accelerator card featuring a Speedster7t FPGA running Myrtle.ai’s Achronix-FPGA-optimized ASR IP — delivering industry-leading, real-time, ultra-low latency speech-to-text capabilities. A single card in a server ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/news/54994/achronix-fpga-powered-accelerated-automatic-speech-recognition.html",
+      "originalUrl": "https://www.design-reuse.com/news/54994/achronix-fpga-powered-accelerated-automatic-speech-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.designandreuse.com/news_img2/homepage54994/achronix-fpga-powered-accelerated-ASR-solution.png",
+          "width": 764,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide.md",
       "title": "Anysphere raises $8M from OpenAI to build an AI-powered IDE",
       "excerpt": "Anysphere, a startup building what it describes as an \"AI-native\" software development environment, called Cursor, today announced that it raised $8",
@@ -22,11 +65,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/",
-      "publishedDateTime": "2023-10-12T06:38:00Z",
+      "publishedDateTime": "2023-10-11T23:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -73,11 +116,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35197746",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35197746",
-      "publishedDateTime": "2023-10-12T02:40:00Z",
+      "publishedDateTime": "2023-10-11T19:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -117,11 +160,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/35186408",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35186408",
-      "publishedDateTime": "2023-10-12T02:39:00Z",
+      "publishedDateTime": "2023-10-11T19:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -160,11 +203,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-vertex-ai-search-a-game-changer-for-healthcare--life-sciences/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-vertex-ai-search-a-game-changer-for-healthcare--life-sciences/amp/",
-      "publishedDateTime": "2023-10-12T02:17:00Z",
+      "publishedDateTime": "2023-10-11T19:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -212,11 +255,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/amp/",
-      "publishedDateTime": "2023-10-12T00:50:00Z",
+      "publishedDateTime": "2023-10-11T17:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -267,7 +310,7 @@
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/amp/",
-      "publishedDateTime": "2023-10-12T00:28:00Z",
+      "publishedDateTime": "2023-10-11T17:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -314,11 +357,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T23:49:00Z",
+      "publishedDateTime": "2023-10-11T16:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -365,11 +408,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/?outputType=amp",
       "cdnAmpWebUrl": "https://www-kswo-com.cdn.ampproject.org/c/s/www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/?outputType=amp",
-      "publishedDateTime": "2023-10-11T23:44:00Z",
+      "publishedDateTime": "2023-10-11T16:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "KSWO ABC 7 News",
@@ -408,11 +451,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/",
       "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/",
-      "publishedDateTime": "2023-10-11T22:17:00Z",
+      "publishedDateTime": "2023-10-11T15:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Crowdfund Insider",
@@ -451,11 +494,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.cnbc.com/amp/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html",
-      "publishedDateTime": "2023-10-11T22:01:00Z",
+      "publishedDateTime": "2023-10-11T15:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNBC",
@@ -503,11 +546,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T21:11:00Z",
+      "publishedDateTime": "2023-10-11T14:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -555,11 +598,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/adobe-launches-new-symbol-to-tag-ai-generated-content-but-will-anyone-use-it/amp/",
       "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/adobe-launches-new-symbol-to-tag-ai-generated-content-but-will-anyone-use-it/amp/",
-      "publishedDateTime": "2023-10-11T20:29:00Z",
+      "publishedDateTime": "2023-10-11T13:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -606,11 +649,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/11/character-ai-introduces-group-chats-where-people-and-multiple-ais-can-talk-to-each-other/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/character-ai-introduces-group-chats-where-people-and-multiple-ais-can-talk-to-each-other/amp/",
-      "publishedDateTime": "2023-10-11T20:24:00Z",
+      "publishedDateTime": "2023-10-11T13:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -648,11 +691,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T20:00:00Z",
+      "publishedDateTime": "2023-10-11T13:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "GEN",
@@ -691,11 +734,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T19:15:00Z",
+      "publishedDateTime": "2023-10-11T12:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AOL",
@@ -734,11 +777,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://singularityhub.com/2023/10/11/tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco/?amp=1",
       "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/11/tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco/?amp=1",
-      "publishedDateTime": "2023-10-11T18:43:00Z",
+      "publishedDateTime": "2023-10-11T11:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Singularity Hub",
@@ -768,11 +811,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T18:04:00Z",
+      "publishedDateTime": "2023-10-11T11:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -811,11 +854,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://gulfnews.com/amp/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660",
       "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660",
-      "publishedDateTime": "2023-10-11T17:49:00Z",
+      "publishedDateTime": "2023-10-11T10:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Gulf News",
@@ -853,11 +896,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T17:47:00Z",
+      "publishedDateTime": "2023-10-11T10:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -906,11 +949,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/amp/",
-      "publishedDateTime": "2023-10-11T17:46:00Z",
+      "publishedDateTime": "2023-10-11T10:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -958,11 +1001,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/10/11/delivering-5-key-outcomes-with-computer-vision-at-the-edge/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/10/11/delivering-5-key-outcomes-with-computer-vision-at-the-edge/amp/",
-      "publishedDateTime": "2023-10-11T17:35:00Z",
+      "publishedDateTime": "2023-10-11T10:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1010,11 +1053,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/11/google-pixel-8-pro-android-14-review-ai-specs-upgrade/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/11/google-pixel-8-pro-android-14-review-ai-specs-upgrade/amp/",
-      "publishedDateTime": "2023-10-11T17:32:00Z",
+      "publishedDateTime": "2023-10-11T10:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1062,11 +1105,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.amp.html",
       "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708748/ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.amp.html",
-      "publishedDateTime": "2023-10-11T17:00:00Z",
+      "publishedDateTime": "2023-10-11T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Computerworld",
@@ -1106,11 +1149,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T16:38:00Z",
+      "publishedDateTime": "2023-10-11T09:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -1135,58 +1178,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-improve-performance-of-falcon-models-with-amazon-sagemaker.md",
-      "title": "Improve performance of Falcon models with Amazon SageMaker",
-      "excerpt": "What is the optimal framework and configuration for hosting large language models (LLMs) for text-generating generative AI applications? Despite the abundance of options for serving LLMs, this is a hard question to answer due to the size of the models, varying model architectures, performance requirements",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/improve-falcon-performance-1257x630.jpg",
-          "width": 1257,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T16:28:05Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

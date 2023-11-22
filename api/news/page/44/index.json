@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-10-18-ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide.md",
+      "title": "AI Skills for All: How IBM Is Helping To Close the Digital Divide",
+      "excerpt": "For instance, in one hands-on simulation, learners build and run a machine learning model with IBM Watson Studio. Beyond the fundamentals, we recently announced a new generative AI roadmap that includes new coursework on Prompt-Writing, Getting Started ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2023/10/18/ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2023/10/18/ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/794271/a90560dc-d22d-4aee-8c70-dc2a5a0ca3fa.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-data-sciences-student-showcases-machine-learning-to-us-legislators.md",
       "title": "Data sciences student showcases machine learning to U.S. legislators",
       "excerpt": "“By the end of the month, I found out I finished the race in the top 10% of people in the country.” Every month, AWS conducts a DeepRacer on different courses. Racers develop their machine learning models to finish the courses and deploy them on a ...",
@@ -13,11 +56,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:00:00Z",
+      "publishedDateTime": "2023-10-17T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Medicine Buffalo",
@@ -57,11 +100,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.gizchina.com/2023/10/18/azure-ai-content-safety/amp/",
       "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/10/18/azure-ai-content-safety/amp/",
-      "publishedDateTime": "2023-10-18T00:00:00Z",
+      "publishedDateTime": "2023-10-17T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "GizChina",
@@ -100,11 +143,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:00:00Z",
+      "publishedDateTime": "2023-10-17T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Globe and Mail",
@@ -143,11 +186,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/amp/",
-      "publishedDateTime": "2023-10-17T23:09:00Z",
+      "publishedDateTime": "2023-10-17T16:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -195,11 +238,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T22:59:00Z",
+      "publishedDateTime": "2023-10-17T15:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -248,11 +291,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T22:24:00Z",
+      "publishedDateTime": "2023-10-17T15:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -300,11 +343,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/",
-      "publishedDateTime": "2023-10-17T22:13:00Z",
+      "publishedDateTime": "2023-10-17T15:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -351,11 +394,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T21:25:00Z",
+      "publishedDateTime": "2023-10-17T14:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -403,11 +446,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/billconerly/2023/10/17/new-york-citys-ai-plan-what-other-municipalities-can-learn/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/10/17/new-york-citys-ai-plan-what-other-municipalities-can-learn/amp/",
-      "publishedDateTime": "2023-10-17T21:05:00Z",
+      "publishedDateTime": "2023-10-17T14:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -454,11 +497,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T21:01:00Z",
+      "publishedDateTime": "2023-10-17T14:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Los Angeles Times",
@@ -497,11 +540,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T20:48:00Z",
+      "publishedDateTime": "2023-10-17T13:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -549,11 +592,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/chinas-ernie-ai-is-just-as-good-as-or-better-than-chatgpt-says-its-creators/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chinas-ernie-ai-is-just-as-good-as-or-better-than-chatgpt-says-its-creators/",
-      "publishedDateTime": "2023-10-17T20:43:00Z",
+      "publishedDateTime": "2023-10-17T13:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -600,11 +643,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.digitaltrends.com/computing/gpu-prices-are-going-up-but-dont-panic-yet/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/gpu-prices-are-going-up-but-dont-panic-yet/?amp",
-      "publishedDateTime": "2023-10-17T19:50:00Z",
+      "publishedDateTime": "2023-10-17T12:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Trends",
@@ -643,11 +686,11 @@
       "heat": 71,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T18:55:31Z",
+      "publishedDateTime": "2023-10-17T11:55:31-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -685,11 +728,11 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T18:52:00Z",
+      "publishedDateTime": "2023-10-17T11:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Automation",
@@ -728,11 +771,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.nbcnewyork.com/news/local/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-different-languages/4776682/?amp=1",
       "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/can-new-yorks-mayor-speak-mandarin-no-but-with-ai-hes-making-robocalls-in-different-languages/4776682/?amp=1",
-      "publishedDateTime": "2023-10-17T18:00:00Z",
+      "publishedDateTime": "2023-10-17T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC New York",
@@ -762,11 +805,11 @@
       "heat": 77,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T17:33:23Z",
+      "publishedDateTime": "2023-10-17T10:33:23-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -813,11 +856,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T17:27:00Z",
+      "publishedDateTime": "2023-10-17T10:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Mena FN",
@@ -856,11 +899,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/your-ai-experiments-will-fail-if-you-dont-focus-on-this-special-ingredient/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/your-ai-experiments-will-fail-if-you-dont-focus-on-this-special-ingredient/",
-      "publishedDateTime": "2023-10-17T17:12:00Z",
+      "publishedDateTime": "2023-10-17T10:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -907,11 +950,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.rollingstone.com/culture/culture-features/ai-explicit-material-twitter-big-tech-1234855484/amp/",
       "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/ai-explicit-material-twitter-big-tech-1234855484/amp/",
-      "publishedDateTime": "2023-10-17T16:46:00Z",
+      "publishedDateTime": "2023-10-17T09:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Rolling Stone",
@@ -950,11 +993,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T16:39:00Z",
+      "publishedDateTime": "2023-10-17T09:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Electrek",
@@ -1002,11 +1045,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/amp/",
-      "publishedDateTime": "2023-10-17T15:56:00Z",
+      "publishedDateTime": "2023-10-17T08:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -1054,11 +1097,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/samsung-bespoke-jet-cordless-stick-vacuum",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/samsung-bespoke-jet-cordless-stick-vacuum",
-      "publishedDateTime": "2023-10-17T15:56:00Z",
+      "publishedDateTime": "2023-10-17T08:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1105,11 +1148,11 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T15:55:00Z",
+      "publishedDateTime": "2023-10-17T08:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -1134,59 +1177,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-software-supply-chain-security-attacks-up-200-new-sonatype-research.md",
-      "title": "Software Supply Chain Security Attacks Up 200%: New Sonatype Research",
-      "excerpt": "State of the Software Supply Chain also covers regulations and how AI could help developers protect organizations from security risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/sonatype-state-software-supply-chain-security/",
-      "originalUrl": "https://www.techrepublic.com/article/sonatype-state-software-supply-chain-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/03/tr-31423-edge-attack.jpeg",
-          "width": 1400,
-          "height": 863,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T15:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

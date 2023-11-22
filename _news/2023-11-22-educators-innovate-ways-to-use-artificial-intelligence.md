@@ -50,6 +50,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Educators innovate ways to use Artificial Intelligence"
+    excerpt: "Krista Sweckard told those attending the Nov. 8 Johnson County School District 1 board work session that artificial intelligence is the answer."
+    publishedDateTime: 2023-11-22T17:29:00Z
+    webUrl: "https://trib.com/news/state-regional/education/educators-innovate-ways-to-use-artificial-intelligence/article_ff563306-887f-11ee-8d25-d316af1efa80.html"
+    type: article
+    provider:
+      name: Casper Star-Tribune
+      domain: trib.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/f/f5/ff563306-887f-11ee-8d25-d316af1efa80/655e45a6c0b91.preview.jpg?crop=1010%2C530%2C0%2C94&resize=1010%2C530&order=crop%2Cresize"
+        width: 1010
+        height: 530
+        isCached: true
 
 secured: "LCs8qQ1WwYLKX15M/eGik3N8L1imbLX44dOz8pUfxNTWRPApgrJ72NxoGZqOnpieegjMHBh84Lf+RZumFY9smsNHnxNDly3Iyh/L4RF8PK4ZnhhrWbyZOFIEAPrA305e89e3wKjXc4yiBI/Qm5BBMwmZOEGvvS6S7FI+JVoyG+U1HM/kdWS0lrSq3rlzYH/LcZNsHMBb33dvzxrvuH+Z44rEm7sn8UTSUI6a/PBg8V7jHUy/qzecQNVuP73dySVm2MI+YzKKJVEa2OnGEV/g2fnhWCSbI4aZn/xC8FGgrY+cGyKEoUU1u8SHHZL87OepxfC6uyb32+vyUa5mzgk7YeUTC4f0COW8R2RtIWP8iT4MC/xr4QfT4BaBA100mKh6o6DY36QSn7NA+hx5cvIZLaWdy1aMTe2mODacvtjvBd2W24ZEcPFe0E27qiinh+5LPgFmIohJheCvBurrSK//pwSHkyRK0swbyrBrBatQUUTgb8NM2QhBBBKvYdRs4338RPL0cg6+uu7LvedHG1ve+Q==;7cT8YdanIAJ6Az1IhVjgAw=="
 ---
