@@ -2,7 +2,7 @@
 title: "Machine Learning Tutorial in Python | Edureka"
 excerpt: "This Edureka playlist on 'Machine Learning Tutorial in Python' helps you gain expertise in various types of machine learning algorithms like supervised, unsupervised and reinforcement algorithms. Through this playlist you will be learning the important Machine Learning concepts and its implementation in python programming language."
 type: collection
-heat: 74
+heat: 75
 
 provider:
   name: Edureka
@@ -16,9 +16,9 @@ items:
   - videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka
   - videos/edureka-what-is-machine-learning-machine-learning-basics-machine-learning-tutorial-edureka
   - videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka
-  - videos/edureka-top-10-applications-of-machine-learning-in-2021-machine-learning-application-examples-edureka
+  - videos/edureka-top-10-applications-of-machine-learning-in-2024-machine-learning-application-examples-edureka
   - videos/edureka-machine-learning-tutorial-machine-learning-algorithm-machine-learning-engineer-program-edureka
-  - videos/edureka-ai-vs-machine-learning-vs-deep-learning-machine-learning-training-with-python-edureka
+  - videos/edureka-ai-vs-machine-learning-vs-deep-learning-ai-vs-ml-vs-dl-differences-explained-edureka
   - videos/edureka-machine-learning-engineer-career-path-in-2021-machine-learning-tutorial-edureka
   - videos/edureka-10-must-have-machine-learning-engineer-skills-that-will-get-you-hired-ml-engineer-skills-edureka
   - videos/edureka-machine-learning-engineer-jobs-resume-salary-machine-learning-engineer-salary-report-edureka
@@ -30,7 +30,7 @@ items:
   - videos/edureka-python-seaborn-tutorial-data-visualization-in-python-using-seaborn-edureka
   - videos/edureka-scikit-learn-tutorial-machine-learning-with-python-python-for-data-science-training-edureka
   - videos/edureka-top-10-python-libraries-python-certification-training-for-data-science-edureka
-  - videos/edureka-top-10-reasons-to-learn-data-science-in-2021-why-data-science-data-science-training-edureka
+  - videos/edureka-top-10-reasons-to-learn-data-science-in-2024-why-data-science-data-science-training-edureka
   - videos/edureka-k-means-clustering-algorithm-k-means-example-in-python-machine-learning-algorithms-edureka
   - videos/edureka-logistic-regression-in-python-logistic-regression-example-machine-learning-algorithms-edureka
   - videos/edureka-linear-regression-algorithm-linear-regression-in-python-machine-learning-algorithm-edureka
@@ -98,6 +98,25 @@ items:
   - videos/edureka-machine-learning-road-map-machine-learning-careers-machine-learning-training-edureka
   - videos/edureka-analyzing-recent-covid-19-trends-using-python-covid-19-data-analysis-python-training-edureka
   - videos/edureka-machine-learning-steps-what-is-machine-learning-machine-learning-training-edureka
+  - videos/edureka-image-processing-tutorial-using-python-python-opencv-tutorial-python-training-edureka
+  - videos/edureka-cancer-detection-using-deep-learning-deep-learning-projects-deep-learning-training-edureka
+  - videos/edureka-plant-leaf-disease-detection-gui-machine-learning-projects-1-machine-learning-training-edureka
+  - videos/edureka-house-price-prediction-using-ml-machine-learning-projects-2-machine-learning-training-edureka
+  - videos/edureka-emoji-prediction-using-lstm-machine-learning-projects-3-machine-learning-training-edureka
+  - videos/edureka-color-old-photographs-using-autoencoders-machine-learning-projects-4-ml-training-edureka
+  - videos/edureka-building-document-scanner-using-opencv-machine-learning-project-7-ml-training-edureka
+  - videos/edureka-image-classification-using-cnn-deep-learning-tutorial-machine-learning-project-9-edureka
+  - videos/edureka-cartoon-effect-on-image-using-opencv-machine-learning-project-8-ml-training-edureka
+  - videos/edureka-machine-learning-roadmap-how-to-become-a-machine-learning-engineer-ml-engineer-edureka
+  - videos/edureka-clustering-algorithms-data-science-algorithms-edureka-ml-rewind-3
+  - videos/edureka-deploy-machine-learning-model-using-amazon-sagemaker-edureka-ml-rewind-4
+  - videos/edureka-mathematics-for-ml-edureka-ml-rewind-5
+  - videos/edureka-python-for-machine-learning-data-exploration-visualization-edureka-ml-rewind-3
+  - videos/edureka-data-exploration-vizualisation-machine-learning-tutorial-edureka-ml-rewind-4
+  - videos/edureka-data-cleaning-in-machine-learning-machine-learning-tutorial-edureka-ml-rewind-5
+  - videos/edureka-hierarchical-clustering-agglomerative-and-divisive-hierarchical-clustering-explained-edureka
+  - videos/edureka-machine-learning-full-course-12-hours-machine-learning-roadmap-2024-edureka
+  - videos/edureka-naive-bayes-classifier-explained-naive-bayes-algorithm-edureka-machine-learning-rewind
 
 topics:
   - AI

@@ -2,7 +2,7 @@
 title: "From Languages to Information Week 3: Text Classification and Sentiment Analysis | Stanford University"
 excerpt: "This is the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course"
 type: collection
-heat: 60
+heat: 61
 
 provider:
   name: Stanford University
@@ -14,19 +14,13 @@ provider:
 
 items:
   - videos/stanford-university-51-what-is-text-classification-text-classification-and-sentiment-analysis
+  - videos/stanford-university-naive-bayes-lecture-2-the-naive-bayes-classifier
+  - videos/stanford-university-naive-bayes-3-learning-in-naive-bayes
+  - videos/stanford-university-naive-bayes-4-sentiment-and-binary-nb
+  - videos/stanford-university-45-more-on-sentiment-classification
   - videos/stanford-university-52-naive-bayes-relationship-to-language-modeling-text-classification-and-sentiment-analysis
-  - videos/stanford-university-53-naive-bayes-learning-text-classification-and-sentiment-analysis
-  - videos/stanford-university-54-formalizing-the-naive-bayes-classifier-text-classification-and-sentiment-analysis
-  - videos/stanford-university-55-naive-bayes-text-classification-and-sentiment-analysis
-  - videos/stanford-university-56-multinomial-naive-bayes-a-worked-example-text-classification-and-sentiment-analysis
   - videos/stanford-university-57-precision-recall-and-the-f-measure-text-classification-and-sentiment-analysis
   - videos/stanford-university-58-text-classification-evaluation-text-classification-and-sentiment-analysis
-  - videos/stanford-university-59-practical-issues-in-text-classification-text-classification-and-sentiment-analysis
-  - videos/stanford-university-61-what-is-sentiment-analysis-text-classification-and-sentiment-analysis
-  - videos/stanford-university-62-sentiment-lexicons-text-classification-and-sentiment-analysis
-  - videos/stanford-university-63-other-sentiment-tasks-text-classification-and-sentiment-analysis
-  - videos/stanford-university-64-learning-sentiment-lexicons-text-classification-and-sentiment-analysis
-  - videos/stanford-university-65-sentiment-analysis-a-baseline-algorithm-text-classification-and-sentiment-analysis
 
 topics:
   - AI

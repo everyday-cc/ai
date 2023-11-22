@@ -4,1721 +4,1155 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/books/amazon-linear-algebra-and-its-applications-4th-edition.md",
-      "title": "Linear Algebra and Its Applications, 4th Edition",
-      "excerpt": "Linear algebra is relatively easy for students during the early stages of the course, when the material is presented in a familiar, concrete setting. But when abstract concepts are introduced, students often hit a brick wall. Instructors seem to agree that certain concepts (such as linear independence, spanning, subspace, vector space, and linear transformations), are not easily understood, and require time to assimilate. Since they are fundamental to the study of linear algebra, students' understanding of these concepts is vital to their mastery of the subject. David Lay introduces these concepts early in a familiar, concrete Rn setting, develops them gradually, and returns to them again and again throughout the text so that when discussed in the abstract, these concepts are more accessible.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-linear-algebra-and-its-applications-4th-edition/index.json",
-      "webUrl": "https://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0321385179/",
-      "ratings": {
-        "count": 202,
-        "average": 3.9
-      },
+      "path": "_learning/videos/edureka-climate-change-prediction-using-time-series-analysis-python-projects-python-training-edureka.md",
+      "title": "Climate Change Prediction Using Time Series Analysis | Python Projects | Python Training | Edureka",
+      "excerpt": "🔥Edureka Data Science Master Program: https://www.edureka.co/masters-program/data-scientist-certification This Edureka video on \" Climate Change Visualization ” will provide you with a comprehensive and detailed understanding of what is time series analysis and how to apply it to time series data to",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-climate-change-prediction-using-time-series-analysis-python-projects-python-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-climate-change-prediction-using-time-series-analysis-python-projects-python-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=ilw2AnNsbIc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ilw2AnNsbIc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M2S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "David C. Lay",
-            "type": "profile",
-            "name": "David C. Lay"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2021-03-16T09:01:16Z",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/41-T+n4g3mL._AC_UY218_ML3_.jpg",
-          "width": 174,
-          "height": 218,
-          "title": "Linear Algebra and Its Applications, 4th Edition",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/ilw2AnNsbIc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$11.98",
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-linear-algebra-step-by-step.md",
-      "title": "Linear Algebra: Step by Step",
-      "excerpt": "Linear algebra is a fundamental area of mathematics, and is arguably the most powerful mathematical tool ever developed. It is a core topic of study within fields as diverse as: business, economics, engineering, physics, computer science, ecology, sociology, demography and genetics.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-linear-algebra-step-by-step/index.json",
-      "webUrl": "https://www.amazon.com/Linear-Algebra-Step-Kuldeep-Singh-ebook/dp/B016WNBNGI/",
-      "ratings": {
-        "count": 132,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Kuldeep Singh",
-            "type": "profile",
-            "name": "Kuldeep Singh"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/71dfHU9VTEL._AC_UY218_ML3_.jpg",
-          "width": 168,
-          "height": 218,
-          "title": "Linear Algebra: Step by Step",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$37.72",
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-machine-learning-mathematics-study-deep-learning-through-data-science.md",
-      "title": "Machine Learning Mathematics: Study Deep Learning Through Data Science",
-      "excerpt": "Master the World of Machine Learning – Even if You’re a Complete Beginner.  Are you an aspiring entrepreneur? Or are you an amateur software developer looking for a break in the world of machine learning? Then this is the book for you.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-machine-learning-mathematics-study-deep-learning-through-data-science/index.json",
-      "webUrl": "https://www.amazon.com/Machine-Learning-Mathematics-Artificial-Intelligence-ebook/dp/B07Z413J9J/",
-      "ratings": {
-        "count": 25,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Samuel Hack",
-            "type": "profile",
-            "name": "Samuel Hack"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/91jusWlaXVL._AC_UY218_ML3_.jpg",
-          "width": 145,
-          "height": 218,
-          "title": "Machine Learning Mathematics: Study Deep Learning Through Data Science. How to Build Artificial Intelligence Through Concepts of Statistics, Algorithms, Analysis and Data Mining",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$19.38",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-machine-learning-the-absolute-complete-beginners-guide-to-learn-and-understand-machine-learning-from-beginners-intermediate-advanced-to-expert-concepts.md",
-      "title": "Machine Learning: The Absolute Complete Beginner’s Guide to Learn and Understand Machine Learning From Beginners, Intermediate, Advanced, To Expert Concepts",
-      "excerpt": "In this book, you find out types of machine learning techniques, models, and algorithms that can help achieve results for your company. This data helps each business and technical leaders find out how to use machine learning to anticipate and predict the future.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-machine-learning-the-absolute-complete-beginners-guide-to-learn-and-understand-machine-learning-from-beginners-intermediate-advanced-to-expert-concepts/index.json",
-      "webUrl": "https://www.amazon.com/Machine-Learning-Beginners-Understand-Intermediate-ebook/dp/B07RHG1WGF/",
-      "ratings": {
-        "count": 12,
-        "average": 3.5
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Steven Samelson",
-            "type": "profile",
-            "name": "Steven Samelson"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced",
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/81xbTFIyCmL._AC_UY218_ML3_.jpg",
-          "width": 136,
-          "height": 218,
-          "title": "Machine Learning: The Absolute Complete Beginner’s Guide to Learn and Understand Machine Learning From Beginners, Intermediate, Advanced, To Expert Concepts",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$18.59",
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-machine-learning-with-r-expert-techniques-for-predictive-modeling-3rd-edition.md",
-      "title": "Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition",
-      "excerpt": "Third edition of the bestselling, widely acclaimed R machine learning book, updated and improved for R 3.6 and beyond",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-machine-learning-with-r-expert-techniques-for-predictive-modeling-3rd-edition/index.json",
-      "webUrl": "https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1788295862/",
-      "ratings": {
-        "count": 41,
-        "average": 4.7
-      },
+      "path": "_learning/videos/edureka-how-to-upgrade-your-career-in-2018-career-guidance-and-counselling-for-2018-edurekain.md",
+      "title": "How to Upgrade your Career in 2018 | Career Guidance and Counselling for 2018 | @edurekaIN",
+      "excerpt": "** Edureka Skill Report: http://bit.ly/2Jea6Im ** As the phrase goes \"Change is the Only Constant\" - Technology, business methods, analytics are all changing at a supersonic speed. Yet switching careers is daunting.   Edureka Online Training With 24x7 Lifetime Support : https://www.edureka.co  How do",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-how-to-upgrade-your-career-in-2018-career-guidance-and-counselling-for-2018-edurekain/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-how-to-upgrade-your-career-in-2018-career-guidance-and-counselling-for-2018-edurekain/",
+      "originalUrl": "https://youtube.com/watch?v=AlgJ4qNEPaM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AlgJ4qNEPaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M24S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Brett Lantz",
-            "type": "profile",
-            "name": "Brett Lantz"
-          }
         ]
       },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2017-12-27T15:42:57Z",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/71FSR2wHzhL._AC_UY218_ML3_.jpg",
-          "width": 177,
-          "height": 218,
-          "title": "Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/AlgJ4qNEPaM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$35.99",
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-multiple-view-geometry-in-computer-vision.md",
-      "title": "Multiple View Geometry in Computer Vision",
-      "excerpt": "A basic problem in computer vision is to understand the structure of a real world scene. This book covers relevant geometric principles and how to represent objects algebraically so they can be computed and applied. Recent major developments in the theory and practice of scene reconstruction are described in detail in a unified framework. Richard Hartley and Andrew Zisserman provide comprehensive background material and explain how to apply the methods and implement the algorithms. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-multiple-view-geometry-in-computer-vision/index.json",
-      "webUrl": "https://www.amazon.com/Multiple-View-Geometry-Computer-Vision/dp/0521540518/",
-      "ratings": {
-        "count": 38,
-        "average": 4.7
-      },
+      "path": "_learning/videos/edureka-lstm-explained-what-is-lstm-deep-learning-training-edureka.md",
+      "title": "LSTM Explained | What Is LSTM | Deep Learning Training | Edureka",
+      "excerpt": "🔥Edureka Tensorflow Training: https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka LSTM Explained video will help you in understanding why we need Recurrent Neural Networks (RNN) and what exactly it is. It also explains few issues with training a Recurrent Neural Network and how to overcome",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-lstm-explained-what-is-lstm-deep-learning-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-lstm-explained-what-is-lstm-deep-learning-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=zD13uQIgac8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zD13uQIgac8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55M27S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Richard Hartley",
-            "type": "profile",
-            "name": "Richard Hartley"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2021-04-09T07:19:30Z",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/61OZ9p95mqL._AC_UY218_ML3_.jpg",
-          "width": 152,
-          "height": 218,
-          "title": "Multiple View Geometry in Computer Vision",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/zD13uQIgac8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$92.19",
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-numsense-data-science-for-the-layman-no-math-added.md",
-      "title": "Numsense! Data Science for the Layman: No Math Added",
-      "excerpt": "This book has been written in layman's terms as a gentle introduction to data science and its algorithms. Each algorithm has its own dedicated chapter that explains how it works, and shows an example of a real-world application. To help you grasp key concepts, we stick to intuitive explanations and visuals. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-numsense-data-science-for-the-layman-no-math-added/index.json",
-      "webUrl": "https://www.amazon.com/Numsense-Data-Science-Layman-Added-ebook/dp/B01N29ZEM6/",
-      "ratings": {
-        "count": 154,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Annalyn Ng",
-            "type": "profile",
-            "name": "Annalyn Ng"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/71IWFmZDhcL._AC_UY218_ML3_.jpg",
-          "width": 160,
-          "height": 218,
-          "title": "Numsense! Data Science for the Layman: No Math Added",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$27.54",
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-opencv-with-python-blueprints.md",
-      "title": "OpenCV with Python Blueprints",
-      "excerpt": "Design and develop advanced computer vision projects using OpenCV with Python",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-opencv-with-python-blueprints/index.json",
-      "webUrl": "https://www.amazon.com/OpenCV-Python-Blueprints-Michael-Beyeler/dp/1785282697/",
-      "ratings": {
-        "count": 14,
-        "average": 3.9
-      },
+      "path": "_learning/videos/edureka-machine-learning-with-python-full-course-in-6-hours-python-for-machine-learning-tutorial-edureka.md",
+      "title": "Machine Learning with Python Full Course in 6 Hours | Python for Machine Learning Tutorial | Edureka",
+      "excerpt": "🔥 Edureka Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka Machine Learning with Python Full Course video will help you understand and learn the fundamentals of Machine Learning. This Machine Learning Tutorial is ideal",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-machine-learning-with-python-full-course-in-6-hours-python-for-machine-learning-tutorial-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-machine-learning-with-python-full-course-in-6-hours-python-for-machine-learning-tutorial-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=0D-PCtUJInE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0D-PCtUJInE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5H44M27S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Michael Beyeler",
-            "type": "profile",
-            "name": "Michael Beyeler"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2021-02-09T12:31:00Z",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/51aUGE1GaZL._AC_UY218_ML3_.jpg",
-          "width": 177,
-          "height": 218,
-          "title": "OpenCV with Python Blueprints",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/0D-PCtUJInE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$37.49",
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-our-final-invention-artificial-intelligence-and-the-end-of-the-human-era.md",
-      "title": "Our Final Invention: Artificial Intelligence and the End of the Human Era",
-      "excerpt": "In as little as a decade, artificial intelligence could match and then surpass human intelligence. Corporations and government agencies around the world are pouring billions into achieving AI's Holy Grail―human-level intelligence. Once AI has attained it, scientists argue, it will have survival drives much like our own. We may be forced to compete with a rival more cunning, more powerful, and more alien than we can imagine.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-our-final-invention-artificial-intelligence-and-the-end-of-the-human-era/index.json",
-      "webUrl": "https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/1250058783/",
-      "ratings": {
-        "count": 467,
-        "average": 4.1
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "James Barrat",
-            "type": "profile",
-            "name": "James Barrat"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/41ozMLdzJHL._AC_UY218_ML3_.jpg",
-          "width": 146,
-          "height": 218,
-          "title": "Our Final Invention: Artificial Intelligence and the End of the Human Era",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$10.88",
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-pattern-recognition-and-machine-learning-information-science-and-statistics.md",
-      "title": "Pattern Recognition and Machine Learning (Information Science and Statistics)",
-      "excerpt": "This is the first textbook on pattern recognition to present the Bayesian viewpoint. The book presents approximate inference algorithms that permit fast approximate answers in situations where exact answers are not feasible. It uses graphical models to describe probability distributions when no other books apply graphical models to machine learning. No previous knowledge of pattern recognition or machine learning concepts is assumed. Familiarity with multivariate calculus and basic linear algebra is required, and some experience in the use of probabilities would be helpful though not essential as the book includes a self-contained introduction to basic probability theory.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-pattern-recognition-and-machine-learning-information-science-and-statistics/index.json",
-      "webUrl": "https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/",
-      "ratings": {
-        "count": 324,
-        "average": 4.3
-      },
+      "path": "_learning/videos/edureka-q-learning-explained-reinforcement-learning-using-python-q-learning-in-ai-edureka.md",
+      "title": "Q Learning Explained | Reinforcement Learning Using Python | Q Learning in AI | Edureka",
+      "excerpt": "** Python Data Science Training: https://www.edureka.co/python-programming-certification-training ** This Edureka video on \"Q Learning Explained\" will provide you with a detailed and comprehensive knowledge of Q-Learning and also the various aspects of Q-Learning.   Python Tutorial Playlist: https://goo.gl/WsBpKe",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-q-learning-explained-reinforcement-learning-using-python-q-learning-in-ai-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-q-learning-explained-reinforcement-learning-using-python-q-learning-in-ai-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=DhdUlDIAG7Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DhdUlDIAG7Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M13S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Christopher M. Bishop",
-            "type": "profile",
-            "name": "Christopher M. Bishop"
-          }
         ]
       },
-      "levels": [
-        "Intermediate",
-        "Advanced"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2019-06-12T05:44:51Z",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/61FKyOeM7KL._AC_UY218_ML3_.jpg",
-          "width": 161,
-          "height": 218,
-          "title": "Pattern Recognition and Machine Learning (Information Science and Statistics)",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/DhdUlDIAG7Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$50.76",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-practical-automated-machine-learning-on-azure-using-azure-machine-learning-to-quickly-build-ai-solutions.md",
-      "title": "Practical Automated Machine Learning on Azure: Using Azure Machine Learning to Quickly Build AI Solutions",
-      "excerpt": "Develop smart applications without spending days and weeks building machine-learning models. With this practical book, you’ll learn how to apply Automated Machine Learning, a process that uses machine learning to help people build machine learning models. Deepak Mukunthu, Parashar Shah, and Wee Hyong Tok provide a mix of technical depth, hands-on examples, and case studies that show how customers are solving real-world problems with this technology.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-practical-automated-machine-learning-on-azure-using-azure-machine-learning-to-quickly-build-ai-solutions/index.json",
-      "webUrl": "https://www.amazon.com/Practical-Automated-Machine-Learning-Azure/dp/149205559X/",
-      "ratings": {
-        "count": 3,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Deepak Mukunthu",
-            "type": "profile",
-            "name": "Deepak Mukunthu"
-          },
-          {
-            "path": "",
-            "title": "Parashar Shah",
-            "type": "profile",
-            "name": "Parashar Shah"
-          },
-          {
-            "path": "",
-            "title": "Wee Hyong Tok",
-            "type": "profile",
-            "name": "Wee Hyong Tok"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/81-SGy1qqGL._AC_UY218_ML3_.jpg",
-          "width": 166,
-          "height": 218,
-          "title": "Practical Automated Machine Learning on Azure: Using Azure Machine Learning to Quickly Build AI Solutions",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$44.65",
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-practical-statistics-for-data-scientists-50-essential-concepts.md",
-      "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
-      "excerpt": "Statistical methods are a key part of data science, yet very few data scientists have any formal statistics training. Courses and books on basic statistics rarely cover the topic from a data science perspective. This practical guide explains how to apply various statistical methods to data science, tells you how to avoid their misuse, and gives you advice on what's important and what's not.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-practical-statistics-for-data-scientists-50-essential-concepts/index.json",
-      "webUrl": "https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/",
-      "ratings": {
-        "count": 173,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Peter Bruce",
-            "type": "profile",
-            "name": "Peter Bruce"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/91-41U+btKL._AC_UY218_ML3_.jpg",
-          "width": 166,
-          "height": 218,
-          "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$28.40",
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-practical-time-series-analysis-prediction-with-statistics-and-machine-learning.md",
-      "title": "Practical Time Series Analysis: Prediction with Statistics and Machine Learning",
-      "excerpt": "Time series data analysis is increasingly important due to the massive production of such data through the internet of things, the digitalization of healthcare, and the rise of smart cities. As continuous monitoring and data collection become more common, the need for competent time series analysis with both statistical and machine learning techniques will increase.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-practical-time-series-analysis-prediction-with-statistics-and-machine-learning/index.json",
-      "webUrl": "https://www.amazon.com/Practical-Time-Analysis-Prediction-Statistics/dp/1492041653/",
-      "ratings": {
-        "count": 24,
-        "average": 3.9
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Aileen Nielsen",
-            "type": "profile",
-            "name": "Aileen Nielsen"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/91vNT0C2lrL._AC_UY218_ML3_.jpg",
-          "width": 166,
-          "height": 218,
-          "title": "Practical Time Series Analysis: Prediction with Statistics and Machine Learning",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$42.99",
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-prediction-machines-the-simple-economics-of-artificial-intelligence.md",
-      "title": "Prediction Machines: The Simple Economics of Artificial Intelligence",
-      "excerpt": "Artificial intelligence does the seemingly impossible, magically bringing machines to life--driving cars, trading stocks, and teaching children. But facing the sea change that AI will bring can be paralyzing. How should companies set strategies, governments design policies, and people plan their lives for a world so different from what we know? In the face of such uncertainty, many analysts either cower in fear or predict an impossibly sunny future.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-prediction-machines-the-simple-economics-of-artificial-intelligence/index.json",
-      "webUrl": "https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670/",
-      "ratings": {
-        "count": 184,
-        "average": 4.5
-      },
+      "path": "_learning/videos/edureka-top-10-benefits-of-artificial-intelligence-artificial-intelligence-ai-advantages-edureka.md",
+      "title": "Top 10 Benefits Of Artificial Intelligence | Artificial Intelligence (AI) Advantages | Edureka",
+      "excerpt": "** Machine Learning Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training ** This Edureka session on Benefits of Artificial Intelligence will help you understand how Artificial Intelligence is impacting various domains of our life and at last benefiting humankind.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-benefits-of-artificial-intelligence-artificial-intelligence-ai-advantages-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-benefits-of-artificial-intelligence-artificial-intelligence-ai-advantages-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=masnR4-vt3M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/masnR4-vt3M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M32S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Ajay Agrawal",
-            "type": "profile",
-            "name": "Ajay Agrawal"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2019-06-04T07:28:01Z",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/41qb3jwhk-L._AC_UY218_ML3_.jpg",
-          "width": 145,
-          "height": 218,
-          "title": "Prediction Machines: The Simple Economics of Artificial Intelligence",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/masnR4-vt3M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$18.39",
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI"
       ]
     },
     {
-      "path": "_learning/books/amazon-predictive-analytics-the-power-to-predict-who-will-click-buy-lie-or-die.md",
-      "title": "Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die",
-      "excerpt": "An introduction for everyone. In this rich, fascinating — surprisingly accessible — introduction, leading expert Eric Siegel reveals how predictive analytics (aka machine learning) works, and how it affects everyone every day. Rather than a “how to” for hands-on techies, the book serves lay readers and experts alike by covering new case studies and the latest state-of-the-art techniques.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-predictive-analytics-the-power-to-predict-who-will-click-buy-lie-or-die/index.json",
-      "webUrl": "https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1119145678/",
-      "ratings": {
-        "count": 211,
-        "average": 4.0
-      },
+      "path": "_learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka.md",
+      "title": "Top 10 Books for Machine Learning in 2021 | Best ML Books for Beginners And Advanced | Edureka",
+      "excerpt": "** Machine Learning Training:  https://www.edureka.co/data-science-python-certification-course ** This Edureka video on 'Top 10 Best Books for Machine Learning in 2021' will help you out if you are someone who loves to study from books. We have suggestions for the best books for beginners to advanced",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=AdBKfuYbqu4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AdBKfuYbqu4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M6S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Eric Siegel",
-            "type": "profile",
-            "name": "Eric Siegel"
-          }
         ]
       },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2019-11-14T14:32:18Z",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/51JX7J+2QeL._AC_UY218_ML3_.jpg",
-          "width": 145,
-          "height": 218,
-          "title": "Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/AdBKfuYbqu4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$19.99",
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-programming-computer-vision-with-python-tools-and-algorithms-for-analyzing-images.md",
-      "title": "Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images",
-      "excerpt": "If you want a basic understanding of computer vision’s underlying theory and algorithms, this hands-on introduction is the ideal place to start. You’ll learn techniques for object recognition, 3D reconstruction, stereo imaging, augmented reality, and other computer vision applications as you follow clear examples written in Python.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-programming-computer-vision-with-python-tools-and-algorithms-for-analyzing-images/index.json",
-      "webUrl": "https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549/",
-      "ratings": {
-        "count": 34,
-        "average": 3.9
-      },
+      "path": "_learning/videos/edureka-top-10-reasons-to-learn-data-science-in-2021-why-data-science-data-science-training-edureka.md",
+      "title": "Top 10 Reasons to Learn Data Science in 2021 | Why Data Science? | Data Science Training | Edureka",
+      "excerpt": "** Data Science Training with R : https://www.edureka.co/data-science-r-programming-certification-course ** ** Data Science Training with Python: https://www.edureka.co/python-programming-certification-training ** This Edureka video on \"Top 10 reasons to learn Data Science in 2021\" will give you enough",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-reasons-to-learn-data-science-in-2021-why-data-science-data-science-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-reasons-to-learn-data-science-in-2021-why-data-science-data-science-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=qOraDpY3Ta0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qOraDpY3Ta0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M22S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Jan Erik Solem",
-            "type": "profile",
-            "name": "Jan Erik Solem"
-          }
         ]
       },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2018-05-13T12:47:12Z",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/712sPsQBu1L._AC_UY218_ML3_.jpg",
-          "width": 164,
-          "height": 218,
-          "title": "Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/qOraDpY3Ta0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$38.66",
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-r-for-data-science-import-tidy-transform-visualize-and-model-data.md",
-      "title": "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",
-      "excerpt": "Learn how to use R to turn raw data into insight, knowledge, and understanding. This book introduces you to R, RStudio, and the tidyverse, a collection of R packages designed to work together to make data science fast, fluent, and fun. Suitable for readers with no previous programming experience, R for Data Science is designed to get you doing data science as quickly as possible.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-r-for-data-science-import-tidy-transform-visualize-and-model-data/index.json",
-      "webUrl": "https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/",
-      "ratings": {
-        "count": 386,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Hadley Wickham",
-            "type": "profile",
-            "name": "Hadley Wickham"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/71PFVFcIXnL._AC_UY218_ML3_.jpg",
-          "width": 134,
-          "height": 218,
-          "title": "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$38.79",
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-statistical-learning-with-sparsity-the-lasso-and-generalizations-chapman-amp-hallcrc-monographs-on-statistics-and-applied-probability.md",
-      "title": "Statistical Learning with Sparsity: The Lasso and Generalizations (Chapman & Hall/CRC Monographs on Statistics and Applied Probability)",
-      "excerpt": "A sparse statistical model has only a small number of nonzero parameters or weights; therefore, it is much easier to estimate and interpret than a dense model. Statistical Learning with Sparsity: The Lasso and Generalizations presents methods that exploit sparsity to help recover the underlying signal in a set of data.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-statistical-learning-with-sparsity-the-lasso-and-generalizations-chapman-amp-hallcrc-monographs-on-statistics-and-applied-probability/index.json",
-      "webUrl": "https://www.amazon.com/Statistical-Learning-Sparsity-Generalizations-Probability/dp/1498712169/",
-      "ratings": {
-        "count": 11,
-        "average": 4.8
-      },
+      "path": "_learning/videos/edureka-top-10-reasons-to-learn-data-science-why-data-science-data-science-training-edureka.md",
+      "title": "Top 10 Reasons to Learn Data Science | Why Data Science? | Data Science Training | Edureka",
+      "excerpt": "** Data Science Training with R : https://www.edureka.co/data-science-r-programming-certification-course ** ** Data Science Training with Python: https://www.edureka.co/python-programming-certification-training ** This Edureka video on \"Top 10 reasons to learn Data Science\" will give you enough reasons",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-reasons-to-learn-data-science-why-data-science-data-science-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-reasons-to-learn-data-science-why-data-science-data-science-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=qOraDpY3Ta0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qOraDpY3Ta0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M22S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Trevor Hastie",
-            "type": "profile",
-            "name": "Trevor Hastie"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2018-05-13T12:47:12Z",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/51Q6p6XXw3L._AC_UY218_ML3_.jpg",
-          "width": 142,
-          "height": 218,
-          "title": "Statistical Learning with Sparsity: The Lasso and Generalizations (Chapman & Hall/CRC Monographs on Statistics and Applied Probability)",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/qOraDpY3Ta0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$83.05",
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-superintelligence-paths-dangers-strategies.md",
-      "title": "Superintelligence: Paths, Dangers, Strategies",
-      "excerpt": "Superintelligence asks the questions: What happens when machines surpass humans in general intelligence? Will artificial agents save or destroy us? Nick Bostrom lays the foundation for understanding the future of humanity and intelligent life.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-superintelligence-paths-dangers-strategies/index.json",
-      "webUrl": "https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/",
-      "ratings": {
-        "count": 862,
-        "average": 4.1
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Nick Bostrom",
-            "type": "profile",
-            "name": "Nick Bostrom"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/81NHfj5hhgL._AC_UY218_ML3_.jpg",
-          "width": 143,
-          "height": 218,
-          "title": "Superintelligence: Paths, Dangers, Strategies",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$9.99",
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-the-book-of-why-the-new-science-of-cause-and-effect.md",
-      "title": "The Book of Why: The New Science of Cause and Effect",
-      "excerpt": "A Turing Award-winning computer scientist and statistician shows how understanding causality has revolutionized science and will revolutionize artificial intelligence",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-book-of-why-the-new-science-of-cause-and-effect/index.json",
-      "webUrl": "https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/",
-      "ratings": {
-        "count": 295,
-        "average": 4.3
-      },
+      "path": "_learning/videos/edureka-top-10-technologies-to-learn-in-2018-trending-technologies-2018-edureka.md",
+      "title": "Top 10 Technologies To Learn In 2018 | Trending Technologies 2018 | @edureka!",
+      "excerpt": "** Flat 20% Off ( Use Code: YOUTUBE ) Edureka Online Courses: https://www.edureka.co ** UPDATED 2019 Trending Technologies video: http://bit.ly/2S41ubS Subscribe to our Edureka YouTube channel to get video updates : https://goo.gl/6ohpTV This Edureka \"Top 10 Technologies in 2018\" video will introduce",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-technologies-to-learn-in-2018-trending-technologies-2018-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-technologies-to-learn-in-2018-trending-technologies-2018-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=evU3TzbraQM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/evU3TzbraQM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M26S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Judea Pearl",
-            "type": "profile",
-            "name": "Judea Pearl"
-          },
-          {
-            "path": "",
-            "title": "Dana Mackenzie",
-            "type": "profile",
-            "name": "Dana Mackenzie"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/41GY4+3eAyL._AC_UY218_ML3_.jpg",
-          "width": 119,
-          "height": 218,
-          "title": "The Book of Why: The New Science of Cause and Effect",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$19.16",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-the-driver-in-the-driverless-car-how-your-technology-choices-create-the-future.md",
-      "title": "The Driver in the Driverless Car: How Your Technology Choices Create the Future",
-      "excerpt": "Tech experts Vivek Wadhwa and Alex Salkever describe dozens of astonishing technological advances in this fascinating and thought-provoking book, which asks what kind of future lies ahead—Star Trek or Mad Max?",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-driver-in-the-driverless-car-how-your-technology-choices-create-the-future/index.json",
-      "webUrl": "https://www.amazon.com/Driver-Driverless-Car-Technology-Choices-ebook/dp/B07PM8QWP9/",
-      "ratings": {
-        "count": 47,
-        "average": 4.2
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Vivek Wadhwa",
-            "type": "profile",
-            "name": "Vivek Wadhwa"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/71V1qmWUoFL._AC_UY218_ML3_.jpg",
-          "width": 141,
-          "height": 218,
-          "title": "The Driver in the Driverless Car: How Your Technology Choices Create the Future",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$11.99",
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-the-elements-of-statistical-learning-data-mining-inference-and-prediction-second-edition-springer-series-in-statistics.md",
-      "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",
-      "excerpt": "This book describes the important ideas in a variety of fields such as medicine, biology, finance, and marketing in a common conceptual framework. While the approach is statistical, the emphasis is on concepts rather than mathematics. Many examples are given, with a liberal use of colour graphics. It is a valuable resource for statisticians and anyone interested in data mining in science or industry. The book's coverage is broad, from supervised learning (prediction) to unsupervised learning. The many topics include neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-elements-of-statistical-learning-data-mining-inference-and-prediction-second-edition-springer-series-in-statistics/index.json",
-      "webUrl": "https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/",
-      "ratings": {
-        "count": 325,
-        "average": 4.2
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Trevor Hastie",
-            "type": "profile",
-            "name": "Trevor Hastie"
-          },
-          {
-            "path": "",
-            "title": "Robert Tibshirani",
-            "type": "profile",
-            "name": "Robert Tibshirani"
-          },
-          {
-            "path": "",
-            "title": "Jerome Friedman",
-            "type": "profile",
-            "name": "Jerome Friedman"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate",
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/41aQrQaPseL._AC_UY218_ML3_.jpg",
-          "width": 145,
-          "height": 218,
-          "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$62.93",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-the-hundred-page-machine-learning-book.md",
-      "title": "The Hundred-Page Machine Learning Book",
-      "excerpt": "Everything you really need to know in Machine Learning in a hundred pages.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-hundred-page-machine-learning-book/index.json",
-      "webUrl": "https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X/",
-      "ratings": {
-        "count": 326,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Andriy Burkov",
-            "type": "profile",
-            "name": "Andriy Burkov"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/41hnD5LLz5L._AC_UY218_ML3_.jpg",
-          "width": 177,
-          "height": 218,
-          "title": "The Hundred-Page Machine Learning Book",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$31.03",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-the-industries-of-the-future.md",
-      "title": "The Industries of the Future",
-      "excerpt": "The New York Times bestseller, from leading innovation expert Alec Ross, a “fascinating vision” (Forbes) of what’s next for the world and how to navigate the changes the future will bring.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-industries-of-the-future/index.json",
-      "webUrl": "https://www.amazon.com/Industries-Future-Alec-Ross/dp/1476753660/",
-      "ratings": {
-        "count": 514,
-        "average": 4.4
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Alec Ross",
-            "type": "profile",
-            "name": "Alec Ross"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/71s-MrcZOTL._AC_UY218_ML3_.jpg",
-          "width": 143,
-          "height": 218,
-          "title": "The Industries of the Future",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$10.00",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazonmachine-learning-for-absolute-beginners-a-plain-english-introduction-machine-learning-from-scratch.md",
-      "title": "Machine Learning For Absolute Beginners: A Plain English Introduction (Machine Learning From Scratch)",
-      "excerpt": "Ready to crank up a virtual server and smash through petabytes of data? Want to add 'Machine Learning' to your LinkedIn profile? Well, hold on there...Before you embark on your epic journey into the world of machine learning, there is some theory and statistical principles to march through first.  This book has been written and designed for absolute beginners. This means plain-English explanations and no coding experience required. Where core algorithms are introduced, clear explanations and visual examples are added to make it easy and engaging to follow along at home.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazonmachine-learning-for-absolute-beginners-a-plain-english-introduction-machine-learning-from-scratch/index.json",
-      "webUrl": "https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction/dp/1549617214/",
-      "ratings": {
-        "count": 198,
-        "average": 4.4
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Oliver Theobald",
-            "type": "profile",
-            "name": "Oliver Theobald"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/61k3cuvIl9L._AC_UY218_ML3_.jpg",
-          "width": 145,
-          "height": 218,
-          "title": "Machine Learning For Absolute Beginners: A Plain English Introduction (Machine Learning From Scratch)",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$13.32",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/manning-machine-learning-with-r-tidyverse-and-mlr.md",
-      "title": "Machine Learning with R, tidyverse, and mlr",
-      "excerpt": "Early access book that provides basics of machine learning and using R programming language.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/manning-machine-learning-with-r-tidyverse-and-mlr/index.json",
-      "webUrl": "https://www.manning.com/books/machine-learning-with-r-tidyverse-and-mlr",
-      "provider": {
-        "name": "Manning",
-        "domain": "manning.com"
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://images.manning.com/720/960/resize/book/d/f6ea29a-3695-4ba3-804f-3db01327a7f7/Rhys-ML-MEAP-HI.png",
-          "width": 720,
-          "height": 903,
-          "title": "Machine Learning with R, tidyverse, and mlr",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university.md",
-      "title": "From Languages to Information Week 7: Recommendation Systems and Vector Semantics | Stanford University",
-      "excerpt": "This is the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university/",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "topItems": [
-        {
-          "path": "_learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics.md",
-          "title": "13.8 Word Similarity  Distributional Similarity I | Recommendation Systems and Vector Semantics",
-          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics/",
-          "originalUrl": "https://youtube.com/watch?v=swDoFpuHpzQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/swDoFpuHpzQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT13M15S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-01-25T10:45:08-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/swDoFpuHpzQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics.md",
-          "title": "13.10 Word Similarity  Distributional Similarity II | Recommendation Systems and Vector Semantics",
-          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics/",
-          "originalUrl": "https://youtube.com/watch?v=eSdBnha0xJc",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eSdBnha0xJc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT8M16S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-01-25T10:45:08-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/eSdBnha0xJc/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 50,
+      "publishedDateTime": "2017-12-11T15:49:07Z",
+      "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/swDoFpuHpzQ/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/evU3TzbraQM/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university.md",
-      "title": "From Languages to Information Week 8: PageRank | Stanford University",
-      "excerpt": "This is the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university/",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering.md",
-          "title": "14   1   Anchor Text | Relation Extraction and Question Answering",
-          "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering/",
-          "originalUrl": "https://youtube.com/watch?v=-rfVrRAgzHM",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-rfVrRAgzHM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M40S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-01-25T10:46:05-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/-rfVrRAgzHM/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering.md",
-          "title": "14   2   PageRank Overview and Markov Chains | Relation Extraction and Question Answering",
-          "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering/",
-          "originalUrl": "https://youtube.com/watch?v=29Tx-s0ybiQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/29Tx-s0ybiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT12M11S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-01-25T10:46:05-08:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/29Tx-s0ybiQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering.md",
-          "title": "14   3   Computing PageRank | Relation Extraction and Question Answering",
-          "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering/",
-          "originalUrl": "https://youtube.com/watch?v=TlVs9nMyZyQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TlVs9nMyZyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT8M10S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-01-25T10:46:05-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/TlVs9nMyZyQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-rfVrRAgzHM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-a-crash-course-in-data-science.md",
-      "title": "A Crash Course in Data Science",
-      "excerpt": "Learn A Crash Course in Data Science from Johns Hopkins University. By now you have definitely heard about data science and big data. In this one-week class, we will provide a crash course in what these terms mean and how they play a role in ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-a-crash-course-in-data-science/index.json",
-      "webUrl": "https://www.coursera.org/learn/data-science-course",
-      "length": "5 hours",
-      "ratings": {
-        "count": 5201,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Johns Hopkins University"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f0/399ec045ea11e5ba8e4bc295fed462/9990024683_955f8f043b_h.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "A Crash Course in Data Science",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/coursera-addressing-large-hadron-collider-challenges-by-machine-learning.md",
-      "title": "Addressing Large Hadron Collider Challenges by Machine Learning",
-      "excerpt": "Learn Addressing Large Hadron Collider Challenges by Machine Learning from National Research University Higher School of Economics. The Large Hadron Collider (LHC) is the largest data generation machine for the time being. It doesn’t produce the ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-addressing-large-hadron-collider-challenges-by-machine-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/hadron-collider-machine-learning",
-      "length": "19 hours",
-      "ratings": {
-        "count": 45,
-        "average": 4.5
-      },
+      "path": "_learning/videos/edureka-transformers-neural-networks-explained-nlp-with-deep-learning-deep-learning-course-edureka.md",
+      "title": "Transformers Neural Networks Explained | NLP with Deep Learning | Deep Learning Course | Edureka",
+      "excerpt": "🔥Edureka Tensorflow Training (Use Code \"𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎\"):  https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka \"𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫𝐬 𝐍𝐞𝐮𝐫𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 𝐄𝐱𝐩𝐥𝐚𝐢𝐧𝐞𝐝\" video will help you in understanding why we need Transformers and what exactly it is. It also",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-transformers-neural-networks-explained-nlp-with-deep-learning-deep-learning-course-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-transformers-neural-networks-explained-nlp-with-deep-learning-deep-learning-course-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=BK9C98J-JHw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BK9C98J-JHw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M1S",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "publishers": [
+        ]
+      },
+      "publishedDateTime": "2021-05-21T11:02:12Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BK9C98J-JHw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-twitter-sentiment-analysis-sentiment-analysis-in-python-using-tweepy-and-textblob-edureka.md",
+      "title": "Twitter Sentiment Analysis | Sentiment Analysis In Python Using Tweepy and Textblob | Edureka",
+      "excerpt": "( Machine Learning Training with Python: https://www.edureka.co/python ) Basics of Sentiment Analysis (First Part): https://goo.gl/wsXipF  This video on Twitter Sentiment Analysis using Python will help you fetch your tweets to Python and perform Sentiment Analysis on it. Stay tuned for more videos on",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-twitter-sentiment-analysis-sentiment-analysis-in-python-using-tweepy-and-textblob-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-twitter-sentiment-analysis-sentiment-analysis-in-python-using-tweepy-and-textblob-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=27P268Q7pE0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/27P268Q7pE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M39S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
           {
-            "path": "",
-            "name": "National Research University Higher School of Economics"
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
           }
         ]
       },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2018-08-10T06:00:06Z",
+      "heat": 53,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/58/773690b06611e7a6c2e3b47ae99c55/LCH_ML2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Addressing Large Hadron Collider Challenges by Machine Learning",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/27P268Q7pE0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-water-jug-problem-in-artificial-intelligence-state-representation-solution-edureka.md",
+      "title": "Water Jug Problem in Artificial Intelligence | State Representation & Solution | Edureka",
+      "excerpt": "🔥 𝐄𝐝𝐮𝐫𝐞𝐤𝐚 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 𝐂𝐨𝐮𝐫𝐬𝐞 𝐌𝐚𝐬𝐭𝐞𝐫 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 https://www.edureka.co/masters-program/data-scientist-certification (Use Code \"𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎\") This Edureka tutorial explains the importance of water jug problems in artificial intelligence, what is water jug",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-water-jug-problem-in-artificial-intelligence-state-representation-solution-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-water-jug-problem-in-artificial-intelligence-state-representation-solution-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=egOUSobY6N4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/egOUSobY6N4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M58S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-03-23T08:01:20Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/egOUSobY6N4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-what-is-cognitive-ai-cognitive-computing-vs-artificial-intelligence-ai-tutorial-edureka.md",
+      "title": "What is Cognitive AI? Cognitive Computing vs Artificial Intelligence | AI Tutorial | Edureka",
+      "excerpt": "🔥 PGP in AI and Machine Learning (9 Months Online Program) : https://www.edureka.co/post-graduate/machine-learning-and-ai This Edureka video on \"Cognitive AI\" explains cognitive computing and how it helps in making better human decisions at work. Also, it explains the differences between cognitive computing",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-what-is-cognitive-ai-cognitive-computing-vs-artificial-intelligence-ai-tutorial-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-what-is-cognitive-ai-cognitive-computing-vs-artificial-intelligence-ai-tutorial-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=Zsl7ttA9Kcg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zsl7ttA9Kcg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M18S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-01-14T13:24:44Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Zsl7ttA9Kcg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/futurology-the-birth-of-artificial-intelligence.md",
+      "title": "The Birth of Artificial Intelligence",
+      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the last",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-the-birth-of-artificial-intelligence/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-the-birth-of-artificial-intelligence/",
+      "originalUrl": "https://youtube.com/watch?v=eYmKC0oQtDE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eYmKC0oQtDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M50S",
+      "provider": {
+        "name": "Futurology",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-23T11:15:37Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eYmKC0oQtDE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-20-chatgpt-tips-for-beginners-in-2023-20-chatgpt-tips-and-tricks-you-should-know-simplilearn.md",
+      "title": "20 ChatGPT Tips For Beginners In 2023 | 20 ChatGPT Tips and Tricks You Should Know 🤔 | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this  20 ChatGPT Tips For Beginners In 2023 video, we bring you 20 essential ChatGPT tips for beginners",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-20-chatgpt-tips-for-beginners-in-2023-20-chatgpt-tips-and-tricks-you-should-know-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-20-chatgpt-tips-for-beginners-in-2023-20-chatgpt-tips-and-tricks-you-should-know-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=QC2pGuzzf3Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QC2pGuzzf3Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M16S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-01T10:47:10Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QC2pGuzzf3Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-5-alternatives-to-chatgpt-5-best-chatgpt-alternative-ai-tools-better-than-chatgpt-simplilearn.md",
+      "title": "5 Alternatives To ChatGPT | 5 Best ChatGPT Alternative | AI Tools Better Than ChatGPT | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z Looking for a free and powerful ChatGPT replacement in 2023? Look no further! In this \"Alternatives",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-5-alternatives-to-chatgpt-5-best-chatgpt-alternative-ai-tools-better-than-chatgpt-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-5-alternatives-to-chatgpt-5-best-chatgpt-alternative-ai-tools-better-than-chatgpt-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=UjDp5PG4NwA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UjDp5PG4NwA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M22S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-16T12:22:53Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UjDp5PG4NwA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-apriori-algorithm-apriori-algorithm-in-machine-learning-association-rule-mining-simplilearn.md",
+      "title": "Apriori Algorithm | Apriori Algorithm In Machine Learning | Association Rule Mining | Simplilearn",
+      "excerpt": "Apriori algorithm is a popular machine learning technique used for building recommendation systems. This video will make you understand what recommender systems are and how it works. You will also learn about collaborative filtering and association rule mining. Finally, you will get an idea of how the",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-apriori-algorithm-apriori-algorithm-in-machine-learning-association-rule-mining-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-apriori-algorithm-apriori-algorithm-in-machine-learning-association-rule-mining-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=wryiEKQ0XhQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wryiEKQ0XhQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M5S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-29T16:12:51Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wryiEKQ0XhQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-artificial-intelligence-bootcamp-2023-ai-bootcamp-for-beginners-learn-ai-from-scratchsimplilearn.md",
+      "title": "Artificial Intelligence Bootcamp 2023 | AI Bootcamp for Beginners |Learn AI From Scratch|Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  Looking to become a skilled AI Developer in 2023? Look no further than AI Bootcamp 2023! This comprehensive",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-artificial-intelligence-bootcamp-2023-ai-bootcamp-for-beginners-learn-ai-from-scratchsimplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-artificial-intelligence-bootcamp-2023-ai-bootcamp-for-beginners-learn-ai-from-scratchsimplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=HKP0mFSRgxM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HKP0mFSRgxM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9H10M11S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-16T13:23:53Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HKP0mFSRgxM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-artificial-intelligence-full-course-artificial-intelligence-tutorial-for-beginners-simplilearn.md",
+      "title": "Artificial Intelligence Full Course | Artificial Intelligence Tutorial For Beginners | Simplilearn",
+      "excerpt": "This video on Artificial Intelligence Full Course will help us understand the basics of artificial intelligence, top 10 applications of AI in 2021, understand Machine Learning, Deep Learning and the different algorithms used to build AI models. 🔥Free Artificial Intelligence Course: https://www.simplilearn.com/learn-ai-basics-skillup?utm_campaign=AIFullCourse&utm_medium=Description&utm_source=youtube",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-artificial-intelligence-full-course-artificial-intelligence-tutorial-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-artificial-intelligence-full-course-artificial-intelligence-tutorial-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=sp_OMFCfGMw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sp_OMFCfGMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7H28M10S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-12T07:49:53Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sp_OMFCfGMw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-backpropagation-in-neural-networks-backpropagation-algorithm-explained-for-beginners-simplilearn.md",
+      "title": "Backpropagation In Neural Networks | Backpropagation Algorithm Explained For Beginners | Simplilearn",
+      "excerpt": "This video on Backpropagation in Neural Networks will cover how backpropagation and gradient descent play a role in training neural networks. You will learn this using an example of how to recognize the handwritten digits using a neural network. After predicting the results, you will see how to train",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-backpropagation-in-neural-networks-backpropagation-algorithm-explained-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-backpropagation-in-neural-networks-backpropagation-algorithm-explained-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=GltT9b31fRY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GltT9b31fRY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M13S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-11-13T10:12:29Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GltT9b31fRY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-basics-of-machine-learning-machine-learning-fundamentals-machine-learning-training-simplilearn.md",
+      "title": "Basics of Machine Learning | Machine Learning Fundamentals | Machine Learning Training | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video on \"Basics of machine learning\" we'll demystify the basics of this transformative technology",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-basics-of-machine-learning-machine-learning-fundamentals-machine-learning-training-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-basics-of-machine-learning-machine-learning-fundamentals-machine-learning-training-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=hmOiINgO6tA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hmOiINgO6tA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H46M54S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-08T09:50:48Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hmOiINgO6tA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-bitcoin-prediction-using-machine-learning-machine-learning-projects-ml-projects-simplilearn.md",
+      "title": "Bitcoin Prediction Using Machine Learning | Machine Learning Projects | ML Projects | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video, \"Bitcoin Prediction For 2023* we will predict the bitcoin price with the help of python",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-bitcoin-prediction-using-machine-learning-machine-learning-projects-ml-projects-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-bitcoin-prediction-using-machine-learning-machine-learning-projects-ml-projects-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=vXE7eqGxRVY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vXE7eqGxRVY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT51M13S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-05T06:58:06Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vXE7eqGxRVY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-convolutional-neural-networks-cnn-with-tensorflow-cnn-tutorial-for-beginners-cnn-simplilearn.md",
+      "title": "Convolutional Neural Networks | CNN With TensorFlow | CNN Tutorial for Beginners | CNN | Simplilearn",
+      "excerpt": "🔥Cyber Security Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx76 🔥Cyber Security Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBy 🔥Cyber Security Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx7J                The convolutional Neural Networks tutorial by Simplilearn",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-convolutional-neural-networks-cnn-with-tensorflow-cnn-tutorial-for-beginners-cnn-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-convolutional-neural-networks-cnn-with-tensorflow-cnn-tutorial-for-beginners-cnn-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=ONBmh61NoHw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ONBmh61NoHw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H7M18S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-10T06:59:42Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ONBmh61NoHw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-coronavirus-outbreak-prediction-using-machine-learning-predicted-vs-actual-simplilearn.md",
+      "title": "Coronavirus Outbreak Prediction Using Machine Learning | Predicted vs Actual | Simplilearn",
+      "excerpt": "Coronavirus (Covid-19) has become the most buzzed topic these days. Its outbreak has taken the world by storm. In this video, we'll see what Coronavirus is, how did it emerge, and what are its symptoms. Then, we will see what has been its impact so far and analyze the outbreak of Coronavirus across various",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-coronavirus-outbreak-prediction-using-machine-learning-predicted-vs-actual-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-coronavirus-outbreak-prediction-using-machine-learning-predicted-vs-actual-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=sHWKN5dakPw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sHWKN5dakPw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M4S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-19T06:33:50Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sHWKN5dakPw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-cost-function-in-machine-learning-with-example-machine-learning-tutorial-simplilearn.md",
+      "title": "Cost Function In Machine Learning With Example | Machine Learning Tutorial | Simplilearn",
+      "excerpt": "This video on \"Cost Function in Machine Learning\" will help you understand what is the cost function, what is the need for cost function, cost function for linear regression, what is gradient descent, gradient descent for linear regression and we will also look at a demo with an example on how to implement",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-cost-function-in-machine-learning-with-example-machine-learning-tutorial-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-cost-function-in-machine-learning-with-example-machine-learning-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=nxijs7_VlGA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nxijs7_VlGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M51S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-11-17T14:44:06Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nxijs7_VlGA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-dall-e-2-explained-in-5-minutes-dall-e-2-ai-overview-dall-e-2-ai-image-generator-simplilearn.md",
+      "title": "Dall E 2 Explained In 5 Minutes! | Dall E 2 AI Overview | Dall E 2 AI Image Generator | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z 🔥 Purdue Post Graduate Program In AI And Machine Learning: https://www.simplilearn.com/pgp-ai-machine-learning-certification-training-course?utm_campaign=DallE2ExplainedIn5Minutes-O_j_7Zdt7hg&utm_medium=DescriptionFF&utm_source=youtube",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-dall-e-2-explained-in-5-minutes-dall-e-2-ai-overview-dall-e-2-ai-image-generator-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-dall-e-2-explained-in-5-minutes-dall-e-2-ai-overview-dall-e-2-ai-image-generator-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=O_j_7Zdt7hg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O_j_7Zdt7hg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M14S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-07-01T07:54:16Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/O_j_7Zdt7hg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-deep-learning-full-course-learn-deep-learning-in-6-hours-deep-learning-tutorial-simplilearn.md",
+      "title": "Deep Learning Full Course🔥 - Learn Deep Learning in 6 Hours | Deep Learning Tutorial | Simplilearn",
+      "excerpt": "This Deep Learning full course covers all the concepts and techniques that will help you become an expert in Deep Learning. First, you will learn the basics of Deep Learning and understand how to install TensorFlow, what is TensorFlow,TensorFlow Object detection API works, different Deep Learning frameworks,",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-full-course-learn-deep-learning-in-6-hours-deep-learning-tutorial-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-full-course-learn-deep-learning-in-6-hours-deep-learning-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=ve-Tj7kUemg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ve-Tj7kUemg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6H12M20S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-16T13:07:43Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ve-Tj7kUemg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-getting-started-with-spark-ar-spark-ar-tutorial-for-beginners-spark-ar-studio-simplilearn.md",
+      "title": "Getting Started with Spark AR | Spark AR Tutorial For Beginners | Spark AR Studio | Simplilearn",
+      "excerpt": "🔥 🎓Enhance your expertise in the below technologies to secure lucrative, high-paying job opportunities: 🟡 AI & Machine Learning - https://taplink.cc/simplilearn_ai_ml 🟢 Cyber Security - https://taplink.cc/simplilearn_cyber_security 🔴 Data Analytics - https://taplink.cc/simplilearn_data_analytics",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-getting-started-with-spark-ar-spark-ar-tutorial-for-beginners-spark-ar-studio-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-getting-started-with-spark-ar-spark-ar-tutorial-for-beginners-spark-ar-studio-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=7JPeOKEPngA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7JPeOKEPngA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M25S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-09-19T13:50:34Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7JPeOKEPngA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-hierarchical-clustering-hierarchical-clustering-in-r-agglomerative-clustering-simplilearn.md",
+      "title": "Hierarchical Clustering | Hierarchical Clustering in R |Agglomerative Clustering |Simplilearn",
+      "excerpt": "This video on hierarchical clustering will help you understand what is clustering, what is hierarchical clustering, how does hierarchical clustering work, what is agglomerative clustering, what is divisive clustering and you will also see a demo on how to group states based on their sales using a clustering",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-hierarchical-clustering-hierarchical-clustering-in-r-agglomerative-clustering-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-hierarchical-clustering-hierarchical-clustering-in-r-agglomerative-clustering-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=9U4h6pZw6f8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9U4h6pZw6f8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M5S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-07T09:14:23Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9U4h6pZw6f8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"

@@ -4,1512 +4,1171 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/courses/pluralsight-building-image-processing-applications-using-scikit-image.md",
-      "title": "Building Image Processing Applications Using scikit-image",
-      "excerpt": "In this course, you'll explore the scikit-image Python library which allows you to apply sophisticated image processing techniques to images and to quickly extract important insights or pre-process images for input to machine learning models.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-image-processing-applications-using-scikit-image/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/scikit-image-building-image-processing-applications",
-      "length": "1h 49m",
+      "path": "_learning/videos/futurology-what-is-machine-learning-machine-learning-explained.md",
+      "title": "What Is Machine Learning (Machine Learning Explained)",
+      "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   In the past few videos in this series, we have delved quite deep into the field of machine learning, discussing both supervised and unsupervised learning.   The focus of this video then is to consolidate many of the topics we’ve discussed in",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-what-is-machine-learning-machine-learning-explained/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-what-is-machine-learning-machine-learning-explained/",
+      "originalUrl": "https://youtube.com/watch?v=E2IAhfD1WYM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E2IAhfD1WYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M50S",
       "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
+        "name": "Futurology",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-24T01:59:04Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/E2IAhfD1WYM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-5-best-courses-to-learn-machine-learning-top-5-ml-courses-for-beginners-simplilearn.md",
+      "title": "🔥 5 Best Courses to Learn Machine Learning | Top 5 ML Courses For Beginners | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  Are you interested in learning Machine Learning but not sure where to start? Look no further! In",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-5-best-courses-to-learn-machine-learning-top-5-ml-courses-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-5-best-courses-to-learn-machine-learning-top-5-ml-courses-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=ySzN19PupNQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ySzN19PupNQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M51S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
+        ]
+      },
+      "publishedDateTime": "2023-05-08T13:22:04Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ySzN19PupNQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-a-brief-history-of-machine-learning-machine-learning-for-beginners-simplilearn.md",
+      "title": "A Brief History Of Machine Learning | Machine Learning For Beginners | Simplilearn",
+      "excerpt": "Ever wondered how your favorite technology, or the one you're working on came to be? What and how it changed over the years? These are some of the questions our new series, FlashbackFriday answers.  Today, we'll be delving into the history and important milestones of the Machine Learning  If you are",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-a-brief-history-of-machine-learning-machine-learning-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-a-brief-history-of-machine-learning-machine-learning-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=lY1SELMvoVs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lY1SELMvoVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M33S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
           {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
           }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
+      "publishedDateTime": "2019-09-19T09:08:54Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://pluralsight.imgix.net/course-images/scikit-image-building-image-processing-applications-v1.png",
+          "url": "https://i.ytimg.com/vi/lY1SELMvoVs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "title": "Building Image Processing Applications Using scikit-image",
-          "isCached": false
+          "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-artificial-intelligence-and-deep-learning-full-course-artificial-intelligence-course-simplilearn.md",
+      "title": "Artificial Intelligence And Deep Learning Full Course | Artificial Intelligence Course | Simplilearn",
+      "excerpt": "This video on Artificial Intelligence and Deep Learning full course will help us understand the basics of artificial intelligence and Deep Learning and the different algorithms used to build AI models.  🔥FREE AI Course: https://www.simplilearn.com/learn-ai-basics-skillup?utm_campaign=AIAndDLFullCourse&utm_medium=Description&utm_source=youtube",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-artificial-intelligence-and-deep-learning-full-course-artificial-intelligence-course-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-artificial-intelligence-and-deep-learning-full-course-artificial-intelligence-course-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=anTjbDH6y-Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/anTjbDH6y-Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9H9M49S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-22T09:46:40Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/anTjbDH6y-Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-best-machine-learning-bootcamp-for-2023-machine-learning-bootcamp-for-beginners-simplilearn.md",
+      "title": "🔥 Best Machine Learning Bootcamp For 2023 | Machine Learning Bootcamp For Beginners | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z The \"Best Machine Learning Bootcamp For 2023\" offered by Simplilearn is the ultimate program for individuals",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-best-machine-learning-bootcamp-for-2023-machine-learning-bootcamp-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-best-machine-learning-bootcamp-for-2023-machine-learning-bootcamp-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=7Io1VdngvbY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Io1VdngvbY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M17S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-07-07T11:55:44Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7Io1VdngvbY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-deep-learning-basics-tutorial-deep-learning-fundamentals-deep-learning-training-simplilearn.md",
+      "title": "Deep Learning Basics Tutorial | Deep Learning Fundamentals | Deep Learning Training | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  The \"Deep Learning Basics Tutorial\" provides a comprehensive overview of the fundamental principles",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-basics-tutorial-deep-learning-fundamentals-deep-learning-training-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-basics-tutorial-deep-learning-fundamentals-deep-learning-training-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=iLJWqJp8S6E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iLJWqJp8S6E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3H26M17S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-20T10:28:10Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iLJWqJp8S6E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-deep-learning-interview-questions-and-answers-ai-deep-learning-interview-questions-simplilearn.md",
+      "title": "Deep Learning Interview Questions And Answers | AI & Deep Learning Interview Questions | Simplilearn",
+      "excerpt": "This Deep Learning interview questions and answers video will help you prepare for Deep Learning interviews. This video is ideal for both beginners as well as professionals who are appearing for Deep Learning, Machine Learning or Data Science interviews. Learn what are the most important Deep Learning",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-interview-questions-and-answers-ai-deep-learning-interview-questions-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-interview-questions-and-answers-ai-deep-learning-interview-questions-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=JYMKEM5c7PU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JYMKEM5c7PU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT45M15S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-07T09:18:22Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JYMKEM5c7PU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-deep-learning-tutorial-deep-learning-tensorflow-deep-learning-with-neural-networks-simplilearn.md",
+      "title": "Deep Learning Tutorial | Deep Learning TensorFlow | Deep Learning With Neural Networks | Simplilearn",
+      "excerpt": "This Deep Learning tutorial will help you in understanding what is Deep Learning, why do we need Deep learning, what is neural network, applications of Deep Learning, what is perceptron, implementing logic gates using perceptron, types of neural networks. At the end of the video, you will get introduced",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-tutorial-deep-learning-tensorflow-deep-learning-with-neural-networks-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-tutorial-deep-learning-tensorflow-deep-learning-with-neural-networks-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=skf35x1lNV4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/skf35x1lNV4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H10M51S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-07T09:15:39Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/skf35x1lNV4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning",
-        "Computer Vision"
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {
-      "path": "_learning/courses/pluralsight-building-machine-learning-models-in-python-with-scikit-learn.md",
-      "title": "Building Machine Learning Models in Python with scikit-learn",
-      "excerpt": "Scikit-learn is one of the most popular ML libraries in Python. Use libraries specialized regression models such as Lasso and Ridge to build and train your ML models.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-machine-learning-models-in-python-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models",
-      "length": "3h 13m",
+      "path": "_learning/videos/simplilearn-deep-learning-tutorial-for-beginners-deep-learning-basics-deep-learning-course-simplilearn.md",
+      "title": "Deep Learning Tutorial For Beginners | Deep Learning Basics | Deep Learning Course | Simplilearn",
+      "excerpt": "Deep Learning is widely used in the field of AI and Data Science. This video on Deep Learning will help you understand what is Deep Learning and why we need Deep learning and neural networks. You will learn the applications of Deep Learning and the types of neural networks. Finally, you'll learn about",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-tutorial-for-beginners-deep-learning-basics-deep-learning-course-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-tutorial-for-beginners-deep-learning-basics-deep-learning-course-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=qeD_CtR-OcU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qeD_CtR-OcU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H21M56S",
       "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
+      "publishedDateTime": "2020-09-30T12:45:13Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://pluralsight.imgix.net/course-images/python-scikit-learn-building-machine-learning-models-v1.jpg",
+          "url": "https://i.ytimg.com/vi/qeD_CtR-OcU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "title": "Building Machine Learning Models in Python with scikit-learn",
-          "isCached": false
+          "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/pluralsight-building-neural-networks-with-scikit-learn.md",
-      "title": "Building Neural Networks with scikit-learn",
-      "excerpt": "This course covers all the important aspects of support currently available in scikit-learn for the construction and training of neural networks, including the perceptron, MLPClassifier, and MLPRegressor, as well as Restricted Boltzmann Machines. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-neural-networks-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-neural-networks-scikit-learn",
-      "length": "1h 55m",
+      "path": "_learning/videos/simplilearn-deep-learning-with-python-deep-learning-python-tutorial-deep-learning-for-beginners-simplilearn.md",
+      "title": "Deep Learning With Python | Deep Learning Python Tutorial | Deep Learning for Beginners |Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video on \"Deep Learning With Python\", we will do a hands-on lab demo on flower recognition",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-with-python-deep-learning-python-tutorial-deep-learning-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-with-python-deep-learning-python-tutorial-deep-learning-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=FCZwcWHk3Ms",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FCZwcWHk3Ms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H14M21S",
       "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
         ]
       },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
+      "publishedDateTime": "2023-03-17T13:24:47Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://pluralsight.imgix.net/course-images/building-neural-networks-scikit-learn-v1.png",
+          "url": "https://i.ytimg.com/vi/FCZwcWHk3Ms/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "title": "Building Neural Networks with scikit-learn",
-          "isCached": false
+          "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/pluralsight-building-regression-models-with-scikit-learn.md",
-      "title": "Building Regression Models with scikit-learn",
-      "excerpt": "This course covers important techniques such as ordinary least squares regression, moving on to lasso, ridge, and Elastic Net, and advanced techniques such as Support Vector Regression and Stochastic Gradient Descent Regression.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-regression-models-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-regression-models-scikit-learn",
-      "length": "2h 42m",
+      "path": "_learning/videos/simplilearn-deep-learning-with-python-deep-learning-tutorial-for-beginners-learn-deep-learning-simplilearn.md",
+      "title": "Deep Learning With Python | Deep Learning Tutorial For Beginners | Learn Deep Learning | Simplilearn",
+      "excerpt": "This Deep Learning with Python tutorial will help you understand what is deep learning, applications of deep learning, what is a neural network, biological versus artificial neural networks, activation functions, cost function, how neural networks work, and what gradient descent is. Finally, we'll code",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-with-python-deep-learning-tutorial-for-beginners-learn-deep-learning-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-with-python-deep-learning-tutorial-for-beginners-learn-deep-learning-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=QATEjfH4DsI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QATEjfH4DsI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M6S",
       "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
+      "publishedDateTime": "2020-08-20T08:38:31Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://pluralsight.imgix.net/course-images/building-regression-models-scikit-learn-v1.jpg",
+          "url": "https://i.ytimg.com/vi/QATEjfH4DsI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "title": "Building Regression Models with scikit-learn",
-          "isCached": false
+          "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/pluralsight-building-your-first-machine-learning-solution.md",
-      "title": "Building Your First Machine Learning Solution",
-      "excerpt": "Machine learning is exciting, yet, it may sound more complicated than it is actually is. This course empowers you with the necessary theory and practice to become confident about how machine learning works by building a hands-on solution.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-your-first-machine-learning-solution/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-machine-learning-solution",
-      "length": "2h 41m",
+      "path": "_learning/videos/simplilearn-deep-learning-with-pytorch-introduction-to-pytorch-for-deep-learning-pytorch-basics-simplilearn.md",
+      "title": "Deep Learning With Pytorch | Introduction to Pytorch for Deep Learning | Pytorch Basics| Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video by Simplilearn will explain to you *Deep Learning with PyTorch* . This video will cover",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-with-pytorch-introduction-to-pytorch-for-deep-learning-pytorch-basics-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-with-pytorch-introduction-to-pytorch-for-deep-learning-pytorch-basics-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=BQ65aJPb5aM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BQ65aJPb5aM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M23S",
       "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Mohammed Osman",
-            "type": "profile",
-            "name": "Mohammed Osman"
-          }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
+      "publishedDateTime": "2023-03-15T06:29:33Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://pluralsight.imgix.net/course-images/building-machine-learning-solution-v1.png",
+          "url": "https://i.ytimg.com/vi/BQ65aJPb5aM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "title": "Building Your First Machine Learning Solution",
-          "isCached": false
+          "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-your-first-pytorch-solution.md",
-      "title": "Building Your First PyTorch Solution",
-      "excerpt": "This course covers the important practical aspects of installing PyTorch from scratch on a variety of different platforms and getting going with classification and regression models. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-your-first-pytorch-solution/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-your-first-pytorch-solution",
-      "length": "2h 24m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/building-your-first-pytorch-solution-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Your First PyTorch Solution",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-your-first-scikit-learn-solution.md",
-      "title": "Building Your First scikit-learn Solution",
-      "excerpt": "This course covers both the why and how of using scikit-learn. You'll delve into scikit-learn’s niche in the ever-growing taxonomy of machine learning libraries, and important aspects of working with scikit-learn estimators and pipelines.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-your-first-scikit-learn-solution/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-first-scikit-learn-solution",
-      "length": "2h 7m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/building-first-scikit-learn-solution-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Your First scikit-learn Solution",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-combining-and-shaping-data.md",
-      "title": "Combining and Shaping Data",
-      "excerpt": "This course covers both conceptual and practical aspects of pulling together from different data sources, with different schemas and orientations, into a cohesive whole using Excel, Python, and various tools available on the Azure cloud platform.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-combining-and-shaping-data/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/combining-shaping-data",
-      "length": "3h 28m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/combining-shaping-data-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Combining and Shaping Data",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-creating-machine-learning-models.md",
-      "title": "Creating Machine Learning Models",
-      "excerpt": "This course covers the important types of machine learning algorithms, solution techniques based on the specifics of the problem you are trying to solve, as well as the classic machine learning workflow. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-creating-machine-learning-models/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/creating-machine-learning-models",
-      "length": "2h 43m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/creating-machine-learning-models-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Creating Machine Learning Models",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-deep-learning-instances-and-frameworks-on-aws.md",
-      "title": "Deep Learning Instances and Frameworks on AWS",
-      "excerpt": "Deep learning enables a new level of data analysis, but configuring custom compute resources to gain these insights can be extremely difficult. In this course, Deep Learning Instances and Frameworks on AWS, you will gain the ability to launch deep learning instances on EC2 and ECS. First, you will learn the types of Deep Learning AMIs provided by AWS. Next, you will analyze how to leverage popular deep learning frameworks on these instances. Finally, you will review how to manage and scale your deep learning activities on these instances. When you are finished with this course, you will be able to launch and utilize custom deep learning instances and leverage popular deep learning frameworks.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-deep-learning-instances-and-frameworks-on-aws/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/aws-ami-deep-learning-instances-frameworks",
-      "length": "1h 23m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "David Tucker",
-            "type": "profile",
-            "name": "David Tucker"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/aws-ami-deep-learning-instances-frameworks-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Deep Learning Instances and Frameworks on AWS",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-deploying-pytorch-models-in-production-pytorch-playbook.md",
-      "title": "Deploying PyTorch Models in Production: PyTorch Playbook",
-      "excerpt": "This course covers the important aspects of performing distributed training of PyTorch models, using the multiprocessing, data-parallel, and distributed data-parallel approaches. It also discusses which you can host PyTorch models for prediction.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-deploying-pytorch-models-in-production-pytorch-playbook/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/deploying-pytorch-models",
-      "length": "2h 13m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/deploying-pytorch-models-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Deploying PyTorch Models in Production: PyTorch Playbook",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-doing-data-science-with-python.md",
-      "title": "Doing Data Science with Python",
-      "excerpt": "This course shows you how to work on an end-to-end data science project including processing data, building &amp; evaluating machine learning model, and exposing the model as an API in a standardized approach using various Python libraries.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-doing-data-science-with-python/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/python-data-science",
-      "length": "6h 25m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Abhishek Kumar",
-            "type": "profile",
-            "name": "Abhishek Kumar"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/audience/data-professional.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Doing Data Science with Python",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-employing-ensemble-methods-with-scikit-learn.md",
-      "title": "Employing Ensemble Methods with scikit-learn",
-      "excerpt": "This course covers the theoretical and practical aspects of building ensemble learning solutions in scikit-learn; from random forests built using bagging and pasting to adaptive and gradient boosting and model stacking and hyperparameter tuning. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-employing-ensemble-methods-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/employing-ensemble-methods-scikit-learn",
-      "length": "2h 14m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/employing-ensemble-methods-scikit-learn-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Employing Ensemble Methods with scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-expediting-deep-learning-with-transfer-learning-pytorch-playbook.md",
-      "title": "Expediting Deep Learning with Transfer Learning: PyTorch Playbook",
-      "excerpt": "This course covers the important design choices that a data professional must make while leveraging pre-trained models using Transfer Learning. It also covers the implementation aspects of different Transfer Learning approaches in PyTorch. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-expediting-deep-learning-with-transfer-learning-pytorch-playbook/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/expediting-deep-learning-transfer-pytorch-playbook",
-      "length": "1h 46m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/expediting-deep-learning-transfer-pytorch-playbook-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Expediting Deep Learning with Transfer Learning: PyTorch Playbook",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-foundations-of-pytorch.md",
-      "title": "Foundations of PyTorch",
-      "excerpt": "This course covers many aspects of building deep learning models in PyTorch, including neurons and neural networks, and how PyTorch uses differential calculus to train such models and create dynamic computation graphs in deep learning.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-foundations-of-pytorch/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/foundations-pytorch",
-      "length": "2h 51m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/foundations-pytorch-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Foundations of PyTorch",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-getting-started-with-nlp-deep-learning-using-pytorch-and-fastai.md",
-      "title": "Getting Started with NLP Deep Learning Using PyTorch and fastai",
-      "excerpt": "This course will teach you how to start using fastai library and PyTorch to obtain near-state-of-the-art results with Deep Learning NLP for text classification. It will give you a theoretical background and show how to take models to production.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-getting-started-with-nlp-deep-learning-using-pytorch-and-fastai/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/getting-started-nlp-deep-learning-pytorch-fastai",
-      "length": "2h 13m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Gianni Rosa Gallina",
-            "type": "profile",
-            "name": "Gianni Rosa Gallina"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/getting-started-nlp-deep-learning-pytorch-fastai-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Getting Started with NLP Deep Learning Using PyTorch and fastai",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
         "Machine Learning",
-        "Natural Language Processing"
+        "Facebook AI"
       ]
     },
     {
-      "path": "_learning/courses/pluralsight-image-classification-with-pytorch.md",
-      "title": "Image Classification with PyTorch",
-      "excerpt": "This course covers the parts of building enterprise-grade image classification systems like image pre-processing, picking between CNNs and DNNs, calculating output dimensions of CNNs, and leveraging pre-trained models using PyTorch transfer learning.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-image-classification-with-pytorch/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/image-classification-pytorch",
-      "length": "3h 4m",
+      "path": "_learning/videos/simplilearn-free-deep-learning-course-with-certificate-deep-learning-course-for-beginners-simplilearn.md",
+      "title": "🔥FREE Deep Learning Course With Certificate | Deep Learning Course For Beginners | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z To learn more about Deep Learning, subscribe to our YouTube channel: https://www.youtube.com/user/Simplilearn?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-free-deep-learning-course-with-certificate-deep-learning-course-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-free-deep-learning-course-with-certificate-deep-learning-course-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=BY1KOyuHf_U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BY1KOyuHf_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M35S",
       "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/image-classification-pytorch-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Image Classification with PyTorch",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-machine-learning-with-xgboost-using-scikit-learn-in-python.md",
-      "title": "Machine Learning with XGBoost Using scikit-learn in Python",
-      "excerpt": "XGBoost is the most winning supervised machine learning approach in competitive modeling on structured datasets. This course will teach you the basics of XGBoost, including basic syntax, functions, and implementing the model in the real world. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-machine-learning-with-xgboost-using-scikit-learn-in-python/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/xgboost-python-scikit-learn-machine-learning",
-      "length": "1h 33m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Mike West",
-            "type": "profile",
-            "name": "Mike West"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/xgboost-python-scikit-learn-machine-learning-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Machine Learning with XGBoost Using scikit-learn in Python",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-model-evaluation-and-selection-using-scikit-learn.md",
-      "title": "Model Evaluation and Selection Using scikit-learn",
-      "excerpt": "Review the techniques and metrics used to evaluate how well your machine learning model performs. You will also learn methods to select the best machine learning model from a set of models that you've built.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-model-evaluation-and-selection-using-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/model-evaluation-selection-scikit-learn",
-      "length": "1h 17m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Pluralsight",
-            "type": "profile",
-            "name": "Pluralsight"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/model-evaluation-selection-scikit-learn-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Model Evaluation and Selection Using scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-preparing-data-for-modeling-with-scikit-learn.md",
-      "title": "Preparing Data for Modeling with scikit-learn",
-      "excerpt": "This course covers important steps in the pre-processing of data, including standardization, normalization, novelty and outlier detection, pre-processing image and text data, as well as explicit kernel approximations such as the RBF and Nystroem methods. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-preparing-data-for-modeling-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/preparing-data-modeling-scikit-learn",
-      "length": "3h 40m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/preparing-data-modeling-scikit-learn-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Preparing Data for Modeling with scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-reducing-dimensions-in-data-with-scikit-learn.md",
-      "title": "Reducing Dimensions in Data with scikit-learn",
-      "excerpt": "This course covers a wide range of the important techniques of dimensionality reduction and feature selection available in scikit-learn, allowing model builders to optimize model performance by reducing overfitting, save on model training time and cost, and better visualize the results of machine learning models.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-reducing-dimensions-in-data-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/reducing-dimensions-data-scikit-learn",
-      "length": "2h 29m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/reducing-dimensions-data-scikit-learn-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Reducing Dimensions in Data with scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-scaling-scikit-learn-solutions.md",
-      "title": "Scaling scikit-learn Solutions",
-      "excerpt": "This course covers the important considerations for scikit-learn models in improving prediction latency and throughput; specific feature representation and partial learning techniques, as well as implementations of incremental learning, out-of-core learning, and multicore parallelism.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-scaling-scikit-learn-solutions/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/scaling-scikit-learn-solutions",
-      "length": "2h 53m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/scaling-scikit-learn-solutions-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Scaling scikit-learn Solutions",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-style-transfer-with-pytorch.md",
-      "title": "Style Transfer with PyTorch",
-      "excerpt": "This course covers the important aspects of neural style transfer, a technique for transforming images, and discusses Generative Adversarial Networks in order to efficiently create realistic images and videos.\n",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-style-transfer-with-pytorch/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/style-transfer-pytorch",
-      "length": "1h 49m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/style-transfer-pytorch-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Style Transfer with PyTorch",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-summarizing-data-and-deducing-probabilities.md",
-      "title": "Summarizing Data and Deducing Probabilities",
-      "excerpt": "This course covers the most important aspects of exploratory data analysis using different univariate, bivariate, and multivariate statistics from Excel and Python, including the use of Naive Bayes' classifiers and Seaborn to visualize relationships.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-summarizing-data-and-deducing-probabilities/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/summarizing-data-deducing-probabilities",
-      "length": "2h 48m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/summarizing-data-deducing-probabilities-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Summarizing Data and Deducing Probabilities",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-understanding-machine-learning-with-python.md",
-      "title": "Understanding Machine Learning with Python",
-      "excerpt": "Use your data to predict future events with the help of machine learning. This course will walk you through creating a machine learning prediction solution and will introduce Python, the scikit-learn library, and the Jupyter Notebook environment.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-understanding-machine-learning-with-python/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/python-understanding-machine-learning",
-      "length": "1h 53m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Jerry Kurata",
-            "type": "profile",
-            "name": "Jerry Kurata"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/python-understanding-machine-learning-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Understanding Machine Learning with Python",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-using-pytorch-in-the-cloud-pytorch-playbook.md",
-      "title": "Using PyTorch in the Cloud: PyTorch Playbook",
-      "excerpt": "This course covers the important aspects of using PyTorch on Amazon Web Services (AWS), Microsoft Azure, and the Google Cloud Platform (GCP), including the use of cloud-hosted notebooks, deep learning VM instances with GPU support, and PyTorch estimators. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-using-pytorch-in-the-cloud-pytorch-playbook/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/using-pytorch-in-the-cloud-playbook",
-      "length": "2h 21m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/using-pytorch-in-the-cloud-playbook-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Using PyTorch in the Cloud: PyTorch Playbook",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/udacity-intro-to-machine-learning.md",
-      "title": "Intro to Machine Learning",
-      "excerpt": "This class will teach you the end-to-end process of investigating data through a machine learning lens, and you'll apply what you've learned to a real-world data set.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/udacity-intro-to-machine-learning/index.json",
-      "webUrl": "https://classroom.udacity.com/courses/cs271",
-      "length": "10 Weeks",
-      "provider": {
-        "name": "Udacity",
-        "domain": "udacity.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/udacity.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Katie Malone",
-            "type": "profile",
-            "name": "Katie Malone"
-          },
-          {
-            "path": "",
-            "title": "Sebastian Thrun",
-            "type": "profile",
-            "name": "Sebastian Thrun"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud120_thumbnail.jpg",
-          "width": 300,
-          "height": 184,
-          "title": "Intro to Machine Learning",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/dotnet-build-a-ml-model-for-github-issue-classification-mlnet-5-of-8.md",
-      "title": "Build a ML model for GitHub Issue classification | ML.NET [5 of 8]",
-      "excerpt": "In the world of ML.NET there is a high-volume of interaction with GitHub. This video will teach you how to classify incoming GitHub issues into one of the many tags (labels) using a multi-class classification algorithm.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here:",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-github-issue-classification-mlnet-5-of-8/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-github-issue-classification-mlnet-5-of-8/",
-      "originalUrl": "https://youtube.com/watch?v=spPq7PdnmRs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/spPq7PdnmRs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M25S",
-      "provider": {
-        "name": "dotNET",
-        "domain": "dotnet.microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-09-19T18:45:35-07:00",
-      "heat": 50,
+      "publishedDateTime": "2021-11-03T05:25:31Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/spPq7PdnmRs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/BY1KOyuHf_U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
         "AI",
-        "Microsoft AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/dotnet-build-a-ml-model-for-movie-recommendation-mlnet-7-of-8.md",
-      "title": "Build a ML model for Movie Recommendation | ML.NET [7 of 8]",
-      "excerpt": "Following our last video, here are even more ways to use the model builder with ML.NET. In this video, we learn how to recommend movies for users using colloborative filtering based recommendation approach.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-movie-recommendation-mlnet-7-of-8/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-movie-recommendation-mlnet-7-of-8/",
-      "originalUrl": "https://youtube.com/watch?v=f2KIjQCVN0A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f2KIjQCVN0A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M40S",
+      "path": "_learning/videos/simplilearn-free-deep-learning-with-keras-course-deep-learning-tutorial-skillup-simplilearn.md",
+      "title": "🔥Free Deep Learning With Keras Course | Deep Learning Tutorial | Skillup | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z 🔥Enroll for Free Online Course to Learn Deep Learning with Keras: https://www.simplilearn.com/learn-keras-for-beginners-free-course-skillup?utm_campaign=DeepLearningWithKerasIntro&utm_medium=DescriptionFF&utm_source=youtube",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-free-deep-learning-with-keras-course-deep-learning-tutorial-skillup-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-free-deep-learning-with-keras-course-deep-learning-tutorial-skillup-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=dOV2hpwUak4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dOV2hpwUak4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M36S",
       "provider": {
-        "name": "dotNET",
-        "domain": "dotnet.microsoft.com",
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-09-19T19:30:46-07:00",
-      "heat": 50,
+      "publishedDateTime": "2022-03-22T12:17:26Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/f2KIjQCVN0A/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/dOV2hpwUak4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
         "AI",
-        "Microsoft AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8.md",
-      "title": "Build a ML model for predicting taxi fares | ML.NET [6 of 8]",
-      "excerpt": "There are tons of different ways to use the model builder with ML.NET. In this video, we learn how to predict taxi fares based on distance traveled, trip time etc. using a regression algorithm.   Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8/",
-      "originalUrl": "https://youtube.com/watch?v=CnmmhxGUgqg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CnmmhxGUgqg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M32S",
+      "path": "_learning/videos/simplilearn-free-machine-learning-algorithms-course-with-certificate-machine-learning-skillup-simplilearn.md",
+      "title": "🔥Free Machine Learning Algorithms Course with Certificate | Machine Learning | Skillup | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video, you'll learn how to get certified in machine learning algorithms for free. Simplilearn's",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-free-machine-learning-algorithms-course-with-certificate-machine-learning-skillup-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-free-machine-learning-algorithms-course-with-certificate-machine-learning-skillup-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=tXA786jJIh4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tXA786jJIh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M26S",
       "provider": {
-        "name": "dotNET",
-        "domain": "dotnet.microsoft.com",
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-09-19T19:22:31-07:00",
-      "heat": 50,
+      "publishedDateTime": "2022-03-04T14:27:47Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/CnmmhxGUgqg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/tXA786jJIh4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
         "AI",
-        "Microsoft AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-free-opencv-course-for-beginners-opencv-course-free-skillup-simplilearn.md",
+      "title": "🔥Free OpenCV Course For Beginners | OpenCV Course Free | SkillUp | Simplilearn",
+      "excerpt": "*Note: 1+ Years of Work Experience Recommended to Sign up for Below Programs⬇️ 🔥Enroll for Free Online Course to Learn OpenCV with Python: https://www.simplilearn.com/free-opencv-training-course-skillup?utm_campaign=FreeLearnOpenCVCourseForBeginners&utm_medium=Description&utm_source=youtube  About Simplilearn",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-free-opencv-course-for-beginners-opencv-course-free-skillup-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-free-opencv-course-for-beginners-opencv-course-free-skillup-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=NBWBCwGE45E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NBWBCwGE45E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M39S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-04-29T11:39:05Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NBWBCwGE45E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-how-does-netflix-work-how-netflix-uses-machine-learning-machine-learning-use-cases-simplilearn.md",
+      "title": "How Does Netflix Work? | How Netflix Uses Machine Learning | Machine Learning Use Cases |Simplilearn",
+      "excerpt": "In this video, we will see how Netflix grew, and we will look into how Netflix works. Netflix uses various machine learning algorithms to decide its content and to make a personalized recommendation list. Machine learning and Big data analytics contribute primarily to how Netflix works. Let's get started",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-does-netflix-work-how-netflix-uses-machine-learning-machine-learning-use-cases-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-does-netflix-work-how-netflix-uses-machine-learning-machine-learning-use-cases-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=SBFFarEfmEs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SBFFarEfmEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M20S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-11-12T13:17:10Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SBFFarEfmEs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-how-to-become-a-machine-learning-engineer-how-to-learn-machine-learning-simplilearn.md",
+      "title": "How to Become A Machine Learning Engineer | How To Learn Machine Learning | Simplilearn",
+      "excerpt": "This video on \"How to become a Machine Learning Engineer\" will explain the skills that one should master to become successful in his Machine Learning career. This video will also explain about the job opportunities in Machine Learning industry along with the Machine Learning and Artificial Intelligence",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-to-become-a-machine-learning-engineer-how-to-learn-machine-learning-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-to-become-a-machine-learning-engineer-how-to-learn-machine-learning-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=-5hEYRt8JE0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-5hEYRt8JE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M44S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-09-03T14:53:32Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-5hEYRt8JE0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-how-to-build-neural-network-in-pytorch-pytorch-tutorial-for-beginners-simplilearn.md",
+      "title": "How to Build Neural Network in Pytorch? | PyTorch Tutorial for Beginners | Simplilearn",
+      "excerpt": "🔥Cyber Security Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx76 🔥Cyber Security Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBy 🔥Cyber Security Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx7J In this video on \"how to build a neural network in PyTorch,\" we'll learn",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-to-build-neural-network-in-pytorch-pytorch-tutorial-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-to-build-neural-network-in-pytorch-pytorch-tutorial-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=2AhiHV7QGVk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2AhiHV7QGVk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H16M53S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-06T13:51:09Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2AhiHV7QGVk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-introduction-to-machine-learning-machine-learning-basics-for-beginners-ml-basics-simplilearn.md",
+      "title": "Introduction To Machine Learning | Machine Learning Basics for Beginners | ML Basics | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z Machine Learning is a trending topic nowadays. This Introduction to Machine Learning video will help",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-introduction-to-machine-learning-machine-learning-basics-for-beginners-ml-basics-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-introduction-to-machine-learning-machine-learning-basics-for-beginners-ml-basics-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=xU2L8Lr-huw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xU2L8Lr-huw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M56S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-06-15T08:39:53Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xU2L8Lr-huw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-k-means-clustering-algorithm-k-means-example-in-python-machine-learning-algorithms-simplilearn.md",
+      "title": "K Means Clustering Algorithm | K Means Example in Python | Machine Learning Algorithms | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z K Means Clustering Algorithm tutorial video by simplilearn focuses on helping the aspiring machine",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-k-means-clustering-algorithm-k-means-example-in-python-machine-learning-algorithms-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-k-means-clustering-algorithm-k-means-example-in-python-machine-learning-algorithms-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=BSRsXi-gvms",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BSRsXi-gvms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT50M23S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-10-28T07:37:04Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BSRsXi-gvms/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-keras-tutorial-for-beginners-learn-keras-from-scratch-keras-for-deep-learning-simplilearn.md",
+      "title": "Keras Tutorial For Beginners | Learn Keras From Scratch | Keras For Deep Learning | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z ✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH  ⏩ Check",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-keras-tutorial-for-beginners-learn-keras-from-scratch-keras-for-deep-learning-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-keras-tutorial-for-beginners-learn-keras-from-scratch-keras-for-deep-learning-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=sBqocv9TbSQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sBqocv9TbSQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H59M27S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-12-28T11:26:52Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sBqocv9TbSQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-machine-learning-and-deep-learning-interview-questions-ai-ml-and-deep-learning-simplilearn.md",
+      "title": "🔥 Machine Learning and Deep Learning Interview Questions | AI ML and Deep Learning | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video on Machine Learning and Deep Learning Interview Questions covers top most asked questions",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-and-deep-learning-interview-questions-ai-ml-and-deep-learning-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-and-deep-learning-interview-questions-ai-ml-and-deep-learning-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=UxjU1ONe73Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UxjU1ONe73Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H54S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-02T13:49:51Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UxjU1ONe73Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-machine-learning-crash-course-in-4-hours-machine-learning-tutorial-for-beginners-simplilearn.md",
+      "title": "Machine Learning Crash Course In 4 Hours | Machine Learning Tutorial For Beginners | Simplilearn",
+      "excerpt": "Machine Learning is the most debated technology of the 21st century. In this machine learning crash course, you will learn about the basics of machine learning and the various applications of machine learning. You will understand the different machine learning algorithms with hands-on demo in Python",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-crash-course-in-4-hours-machine-learning-tutorial-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-crash-course-in-4-hours-machine-learning-tutorial-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=NOJOYcmyDhM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NOJOYcmyDhM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3H59M54S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-23T14:03:49Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NOJOYcmyDhM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-machine-learning-for-absolute-beginners-2020-machine-learning-tutorial-for-beginners-simplilearn.md",
+      "title": "Machine Learning For Absolute Beginners 2020 | Machine Learning Tutorial For Beginners | Simplilearn",
+      "excerpt": "This Machine Learning tutorial video is designed for beginners to learn Machine Learning from scratch. You will learn, what is Machine Learning, why Machine Learning is so important in our lives, what is Machine Learning, the various types of Machine Learning (Supervised, Unsupervised and Reinforcement",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-for-absolute-beginners-2020-machine-learning-tutorial-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-for-absolute-beginners-2020-machine-learning-tutorial-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=oxvtR803RhE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oxvtR803RhE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M17S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-08-31T12:16:02Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oxvtR803RhE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-machine-learning-free-online-course-machine-learning-course-with-certificate-simplilearn.md",
+      "title": "Machine Learning 🔥FREE Online Course | Machine Learning Course With Certificate | Simplilearn",
+      "excerpt": "Become An AI & ML Expert Today: https://taplink.cc/simplilearn_ai_ml 🔥Enroll for Free Machine Learning Course & Get Your Completion Certificate: https://www.simplilearn.com/learn-machine-learning-basics-skillup?utm_campaign=MachineLearningSkillupIntro&utm_medium=Description&utm_source=youtube  This",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-free-online-course-machine-learning-course-with-certificate-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-free-online-course-machine-learning-course-with-certificate-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=ic_haE7R7k0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ic_haE7R7k0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M53S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-09-24T12:48:59Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ic_haE7R7k0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-machine-learning-tutorial-part-2-machine-learning-tutorial-for-beginners-part-2-simplilearn.md",
+      "title": "Machine Learning Tutorial Part - 2 | Machine Learning Tutorial For Beginners Part - 2 | Simplilearn",
+      "excerpt": "This Machine Learning tutorial will help you understand what is clustering, K-Means clustering, flowchart to understand K-Means clustering along with demo showing clustering of cars into brands, what is logistic regression, logistic regression curve, sigmoid function and a demo on how to classify a tumor",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-tutorial-part-2-machine-learning-tutorial-for-beginners-part-2-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-tutorial-part-2-machine-learning-tutorial-for-beginners-part-2-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=_Wkx_447zBM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Wkx_447zBM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M13S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-07T09:09:42Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_Wkx_447zBM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-neural-network-in-artificial-intelligence-neural-network-explained-neural-network-simplilearn.md",
+      "title": "Neural Network In Artificial Intelligence | Neural Network Explained | Neural Network | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z Neural Network in artificial intelligence by simplilearn is a tutorial based on the fundamentals of",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-neural-network-in-artificial-intelligence-neural-network-explained-neural-network-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-neural-network-in-artificial-intelligence-neural-network-explained-neural-network-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=7CbI_D7CizE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7CbI_D7CizE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M57S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-03T07:52:08Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7CbI_D7CizE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-neural-network-tutorial-artificial-neural-network-tutorial-deep-learning-tutorial-simplilearn.md",
+      "title": "Neural Network Tutorial | Artificial Neural Network Tutorial | Deep Learning Tutorial | Simplilearn",
+      "excerpt": "This Neural Network tutorial will help you understand what is a neural network, how a neural network works, what can the neural network do, types of neural network and a usecase implementation on how to classify between photos of dogs and cats. Deep Learning uses advanced computing power and special",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-neural-network-tutorial-artificial-neural-network-tutorial-deep-learning-tutorial-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-neural-network-tutorial-artificial-neural-network-tutorial-deep-learning-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=ysVOhBGykxs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ysVOhBGykxs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53M55S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-07T09:16:11Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ysVOhBGykxs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-object-detection-using-tensorflow-tensorflow-tutorial-for-beginners-deep-learning-simplilearn.md",
+      "title": "Object Detection Using Tensorflow | TensorFlow Tutorial For Beginners | Deep Learning | Simplilearn",
+      "excerpt": "TensorFlow is a popular deep learning library for building neural network models. In this video, you will learn how about the TensorFlow object detection API. It is widely used to detect objects in images as well as videos. You will learn the functions and methods available in TensorFlow to create object",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-object-detection-using-tensorflow-tensorflow-tutorial-for-beginners-deep-learning-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-object-detection-using-tensorflow-tensorflow-tutorial-for-beginners-deep-learning-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=Bc8YdsC9Wkg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bc8YdsC9Wkg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H21M55S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-28T19:52:08Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Bc8YdsC9Wkg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
       ]
     }
   ],

@@ -19,7 +19,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "answer",
       "topics": [
         "AI",
@@ -70,7 +70,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "book",
       "price": "$13.98",
       "topics": [
@@ -121,7 +121,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "book",
       "price": "$9.99",
       "topics": [
@@ -172,7 +172,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "book",
       "price": "$11.99",
       "topics": [
@@ -222,7 +222,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -272,7 +272,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -322,7 +322,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -372,7 +372,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -413,7 +413,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -462,7 +462,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -492,7 +492,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-11-29T04:29:58-08:00",
+      "publishedDateTime": "2019-11-29T12:29:58Z",
       "heat": 50,
       "images": [
         {
@@ -502,7 +502,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -538,7 +538,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "topics": [
         "AI",
@@ -580,7 +580,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "topics": [
         "AI",
@@ -622,7 +622,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "topics": [
         "AI",

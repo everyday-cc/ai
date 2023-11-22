@@ -16,8 +16,8 @@
         "name": "Futurology",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-03-21T17:13:43-07:00",
-      "heat": 74,
+      "publishedDateTime": "2020-03-22T00:13:43Z",
+      "heat": 111,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/R3YFxF0n8n8/hqdefault.jpg",
@@ -26,7 +26,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -34,11 +34,11 @@
       ]
     },
     {
-      "path": "_learning/videos/futurology-artificial-intelligence-a-history.md",
-      "title": "Artificial Intelligence: A History",
-      "excerpt": "This video was made possible by Surfshark. Sign up with this link and enter the promo code 'Futurology' to get 83% off and an extra month free of your VPN plan! https://surfshark.deals/Futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://offset.earthone.io/   Artificial",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-artificial-intelligence-a-history/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-artificial-intelligence-a-history/",
+      "path": "_learning/videos/futurology-the-ancient-history-of-artificial-intelligence.md",
+      "title": "The Ancient History of Artificial Intelligence",
+      "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   Artificial intelligence has been a topic of growing prominence in the media and mainstream culture since 2015, as well as in the investment world, with start-ups that even mention the word in their business model, gaining massive amounts of funding.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-the-ancient-history-of-artificial-intelligence/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-the-ancient-history-of-artificial-intelligence/",
       "originalUrl": "https://youtube.com/watch?v=-qnMLjxJZm0",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-qnMLjxJZm0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT14M16S",
@@ -46,8 +46,8 @@
         "name": "Futurology",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-03-22T19:25:02-07:00",
-      "heat": 52,
+      "publishedDateTime": "2020-03-23T02:25:02Z",
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-qnMLjxJZm0/maxresdefault.jpg",
@@ -56,7 +56,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -76,8 +76,8 @@
         "name": "Futurology",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-03-23T04:15:37-07:00",
-      "heat": 50,
+      "publishedDateTime": "2020-03-23T11:15:37Z",
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/eYmKC0oQtDE/maxresdefault.jpg",
@@ -86,7 +86,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -94,11 +94,73 @@
       ]
     },
     {
-      "path": "_learning/videos/futurology-machine-learning-everything-you-need-to-know.md",
-      "title": "Machine Learning: Everything You Need To Know",
-      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://offset.earthone.io/   In the",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-machine-learning-everything-you-need-to-know/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-machine-learning-everything-you-need-to-know/",
+      "path": "_learning/videos/futurology-supervised-machine-learning-explained.md",
+      "title": "Supervised Machine Learning Explained",
+      "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   Artificial intelligence, machine learning – these words lately have been used synonymously – but should they be?   In this third video in our artificial intelligence series and as for the purpose of this machine learning series, I’ll seek to",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-supervised-machine-learning-explained/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-supervised-machine-learning-explained/",
+      "originalUrl": "https://youtube.com/watch?v=zAPmUlBX-Qg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zAPmUlBX-Qg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M23S",
+      "provider": {
+        "name": "Futurology",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-23T15:54:11Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zAPmUlBX-Qg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/futurology-unsupervised-machine-learning-explained.md",
+      "title": "Unsupervised Machine Learning Explained",
+      "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   In the last video in this series, we started on a quest to clear up the misconceptions between artificial intelligence and machine learning, beginning with discussing supervised learning, an essential foundational building block in understanding",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-unsupervised-machine-learning-explained/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-unsupervised-machine-learning-explained/",
+      "originalUrl": "https://youtube.com/watch?v=-OEgiMH5aok",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-OEgiMH5aok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M19S",
+      "provider": {
+        "name": "Futurology",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-23T22:11:51Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-OEgiMH5aok/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/futurology-what-is-machine-learning-machine-learning-explained.md",
+      "title": "What Is Machine Learning (Machine Learning Explained)",
+      "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   In the past few videos in this series, we have delved quite deep into the field of machine learning, discussing both supervised and unsupervised learning.   The focus of this video then is to consolidate many of the topics we’ve discussed in",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-what-is-machine-learning-machine-learning-explained/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-what-is-machine-learning-machine-learning-explained/",
       "originalUrl": "https://youtube.com/watch?v=E2IAhfD1WYM",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E2IAhfD1WYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT14M50S",
@@ -106,8 +168,8 @@
         "name": "Futurology",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-03-23T18:59:04-07:00",
-      "heat": 50,
+      "publishedDateTime": "2020-03-24T01:59:04Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/E2IAhfD1WYM/maxresdefault.jpg",
@@ -116,7 +178,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -125,11 +187,11 @@
       ]
     },
     {
-      "path": "_learning/videos/futurology-what-is-deep-learning-why-deep-learning-is-so-popular.md",
-      "title": "What Is Deep Learning (Why Deep Learning Is So Popular)",
-      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   Deep learning",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-what-is-deep-learning-why-deep-learning-is-so-popular/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-what-is-deep-learning-why-deep-learning-is-so-popular/",
+      "path": "_learning/videos/futurology-deep-learning-explained-why-deep-learning-is-so-popular.md",
+      "title": "Deep Learning Explained (& Why Deep Learning Is So Popular)",
+      "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   Deep learning is a sub-field of AI that has taken the world by storm, in large part, since the start of this decade. In this sixth video in my artificial intelligence series and as for the purpose of this deep learning series, we’ll explore why",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-deep-learning-explained-why-deep-learning-is-so-popular/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-deep-learning-explained-why-deep-learning-is-so-popular/",
       "originalUrl": "https://youtube.com/watch?v=pK9_ddD56J0",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pK9_ddD56J0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT10M30S",
@@ -137,8 +199,8 @@
         "name": "Futurology",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-07-15T08:01:44-07:00",
-      "heat": 50,
+      "publishedDateTime": "2020-07-15T15:01:44Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/pK9_ddD56J0/maxresdefault.jpg",
@@ -147,7 +209,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -156,11 +218,11 @@
       ]
     },
     {
-      "path": "_learning/videos/futurology-what-are-neural-networks-from-the-brain-to-artificial-intelligence.md",
-      "title": "What Are Neural Networks (From The Brain To Artificial Intelligence)",
-      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the last",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-what-are-neural-networks-from-the-brain-to-artificial-intelligence/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-what-are-neural-networks-from-the-brain-to-artificial-intelligence/",
+      "path": "_learning/videos/futurology-from-the-brain-to-ai-what-are-neural-networks.md",
+      "title": "From The Brain To AI (What Are Neural Networks)",
+      "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   In the last video in this series we discussed the differences between deep learning and machine learning, how and when the field of deep learning was officially born, and it’s rise to mainstream popularity. The focus of this video then will be",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-from-the-brain-to-ai-what-are-neural-networks/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-from-the-brain-to-ai-what-are-neural-networks/",
       "originalUrl": "https://youtube.com/watch?v=g08A2wiqlxA",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g08A2wiqlxA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT8M27S",
@@ -168,8 +230,8 @@
         "name": "Futurology",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-07-17T05:24:12-07:00",
-      "heat": 50,
+      "publishedDateTime": "2020-07-17T12:24:12Z",
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/g08A2wiqlxA/maxresdefault.jpg",
@@ -178,7 +240,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -198,8 +260,8 @@
         "name": "Futurology",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-07-19T07:14:15-07:00",
-      "heat": 50,
+      "publishedDateTime": "2020-07-19T14:14:15Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wieryfWkOl0/maxresdefault.jpg",
@@ -208,7 +270,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -217,11 +279,11 @@
       ]
     },
     {
-      "path": "_learning/videos/futurology-how-computers-learn-gradient-descent-backpropagation.md",
-      "title": "How Computers Learn (Gradient Descent & Backpropagation)",
-      "excerpt": "This video was made possible by Surfshark. Sign up with this link and enter the promo code 'Futurology' to get 83% off and an extra month free of your VPN plan! https://surfshark.deals/Futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the last",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-how-computers-learn-gradient-descent-backpropagation/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-how-computers-learn-gradient-descent-backpropagation/",
+      "path": "_learning/videos/futurology-how-computers-learn-neural-networks-explained-gradient-descent-backpropagation.md",
+      "title": "How Computers Learn | Neural Networks Explained (Gradient Descent & Backpropagation)",
+      "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   In the last video in this series, we went through an intuitive example, starting from scratch and layer-by-layer hand-building a neural network that can classify patterns in an input image.   The focus of this video then will continue right were",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-how-computers-learn-neural-networks-explained-gradient-descent-backpropagation/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-how-computers-learn-neural-networks-explained-gradient-descent-backpropagation/",
       "originalUrl": "https://youtube.com/watch?v=mb7bG9ABOLU",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mb7bG9ABOLU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT13M35S",
@@ -229,8 +291,8 @@
         "name": "Futurology",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-10-16T12:41:27-07:00",
-      "heat": 50,
+      "publishedDateTime": "2020-10-16T19:41:27Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/mb7bG9ABOLU/maxresdefault.jpg",
@@ -239,7 +301,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -247,11 +309,11 @@
       ]
     },
     {
-      "path": "_learning/videos/futurology-deep-learning-explained-how-neural-networks-work.md",
-      "title": "Deep Learning Explained (How Neural Networks Work)",
-      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In videos past",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-deep-learning-explained-how-neural-networks-work/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-deep-learning-explained-how-neural-networks-work/",
+      "path": "_learning/videos/futurology-how-neural-networks-work-neural-networks-explained.md",
+      "title": "How Neural Networks Work | Neural Networks Explained",
+      "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   In videos past of this deep learning series, we have going from learning about the origins of the field of deep learning to how the structure of the neural network was conceived, along with working through an intuitive example covering the fundamentals",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-how-neural-networks-work-neural-networks-explained/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-how-neural-networks-work-neural-networks-explained/",
       "originalUrl": "https://youtube.com/watch?v=rJmBhnLzjOM",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rJmBhnLzjOM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT12M18S",
@@ -259,8 +321,8 @@
         "name": "Futurology",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-11-09T07:41:39-08:00",
-      "heat": 50,
+      "publishedDateTime": "2020-11-09T15:41:39Z",
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/rJmBhnLzjOM/maxresdefault.jpg",
@@ -269,20 +331,19 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {
-      "path": "_learning/videos/futurology-how-convolutional-neural-networks-work-cnns-explained-visualized.md",
-      "title": "How Convolutional Neural Networks Work (CNNs Explained & Visualized)",
-      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://offset.earthone.io/   [Interactive",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-how-convolutional-neural-networks-work-cnns-explained-visualized/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-how-convolutional-neural-networks-work-cnns-explained-visualized/",
+      "path": "_learning/videos/futurology-convolutional-neural-networks-explained-cnn-visualized.md",
+      "title": "Convolutional Neural Networks Explained (CNN Visualized)",
+      "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   [Interactive Number Recognizer]https://www.cs.ryerson.ca/~aharley/vis/  Throughout this deep learning series, we have gone from the origins of the field and how the structure of the artificial neural network was conceived, to working through",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-convolutional-neural-networks-explained-cnn-visualized/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-convolutional-neural-networks-explained-cnn-visualized/",
       "originalUrl": "https://youtube.com/watch?v=pj9-rr1wDhM",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pj9-rr1wDhM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT10M47S",
@@ -290,8 +351,8 @@
         "name": "Futurology",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-11-09T08:26:46-08:00",
-      "heat": 54,
+      "publishedDateTime": "2020-11-09T16:26:46Z",
+      "heat": 63,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/pj9-rr1wDhM/maxresdefault.jpg",
@@ -300,7 +361,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

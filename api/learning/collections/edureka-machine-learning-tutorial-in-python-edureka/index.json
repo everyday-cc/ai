@@ -24,8 +24,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-09-21T12:13:28-07:00",
-      "heat": 174,
+      "publishedDateTime": "2019-09-21T19:13:28Z",
+      "heat": 157,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/maxresdefault.jpg",
@@ -34,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -63,8 +63,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-03-16T07:31:01-07:00",
-      "heat": 62,
+      "publishedDateTime": "2018-03-16T14:31:01Z",
+      "heat": 63,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Pj0neYUp9Tc/maxresdefault.jpg",
@@ -73,7 +73,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -102,8 +102,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-11-14T06:32:18-08:00",
-      "heat": 55,
+      "publishedDateTime": "2019-11-14T14:32:18Z",
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/AdBKfuYbqu4/maxresdefault.jpg",
@@ -112,7 +112,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -121,11 +121,11 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-top-10-applications-of-machine-learning-in-2021-machine-learning-application-examples-edureka.md",
-      "title": "Top 10 Applications of Machine Learning in 2021 | Machine Learning Application Examples | Edureka",
-      "excerpt": "** Machine Learning Training with Python: https://www.edureka.co/data-science-python-certification-course ** This \"Top 10 Applications of Machine Learning in 2021\" video will give you an idea of how vast the machine learning is and how commonly you are using it in your day to day life.   Check out our",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-applications-of-machine-learning-in-2021-machine-learning-application-examples-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-applications-of-machine-learning-in-2021-machine-learning-application-examples-edureka/",
+      "path": "_learning/videos/edureka-top-10-applications-of-machine-learning-in-2024-machine-learning-application-examples-edureka.md",
+      "title": "Top 10 Applications of Machine Learning in 2024 | Machine Learning Application Examples | Edureka",
+      "excerpt": "Machine Learning Training with Python: https://www.edureka.co/data-science-python-certification-course This \"Top 10 Applications of Machine Learning in 2024\" video will give you an idea of how vast the machine learning is and how commonly you are using it in your day to day life.   Check out our playlist",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-applications-of-machine-learning-in-2024-machine-learning-application-examples-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-applications-of-machine-learning-in-2024-machine-learning-application-examples-edureka/",
       "originalUrl": "https://youtube.com/watch?v=ahRcGObyEZo",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ahRcGObyEZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT13M59S",
@@ -141,8 +141,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-07-25T06:36:02-07:00",
-      "heat": 59,
+      "publishedDateTime": "2018-07-25T13:36:02Z",
+      "heat": 62,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ahRcGObyEZo/maxresdefault.jpg",
@@ -151,7 +151,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -180,7 +180,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-05-02T06:26:03-07:00",
+      "publishedDateTime": "2018-05-02T13:26:03Z",
       "heat": 51,
       "images": [
         {
@@ -190,7 +190,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -199,11 +199,11 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-ai-vs-machine-learning-vs-deep-learning-machine-learning-training-with-python-edureka.md",
-      "title": "AI vs Machine Learning vs Deep Learning | Machine Learning Training with Python | Edureka",
-      "excerpt": "🔥 NIT Warangal Post Graduate Program on AI and Machine Learning: https://www.edureka.co/post-graduate/machine-learning-and-ai This Edureka Machine Learning tutorial (Machine Learning Tutorial with Python Blog:  https://goo.gl/fe7ykh ) on \"AI vs Machine Learning vs Deep Learning\" talks about the differences",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-ai-vs-machine-learning-vs-deep-learning-machine-learning-training-with-python-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-ai-vs-machine-learning-vs-deep-learning-machine-learning-training-with-python-edureka/",
+      "path": "_learning/videos/edureka-ai-vs-machine-learning-vs-deep-learning-ai-vs-ml-vs-dl-differences-explained-edureka.md",
+      "title": "AI vs Machine Learning vs Deep Learning | AI vs ML vs DL - Differences Explained | Edureka",
+      "excerpt": "🔥 NIT Warangal Post Graduate Diploma on AI and Machine Learning: https://www.edureka.co/post-graduate/machine-learning-and-ai This Edureka Machine Learning tutorial (Machine Learning Tutorial with Python Blog:  https://goo.gl/fe7ykh ) on \"AI vs Machine Learning vs Deep Learning\" talks about the differences",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-ai-vs-machine-learning-vs-deep-learning-ai-vs-ml-vs-dl-differences-explained-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-ai-vs-machine-learning-vs-deep-learning-ai-vs-ml-vs-dl-differences-explained-edureka/",
       "originalUrl": "https://youtube.com/watch?v=WSbgixdC9g8",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WSbgixdC9g8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT14M50S",
@@ -212,15 +212,15 @@
         "domain": "edureka.co",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-03-29T08:27:26-07:00",
-      "heat": 95,
+      "publishedDateTime": "2018-03-29T15:27:26Z",
+      "heat": 110,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/WSbgixdC9g8/maxresdefault.jpg",
@@ -229,7 +229,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -245,7 +245,7 @@
       "webUrl": "https://everyday.cc/ai/learning/videos/edureka-machine-learning-engineer-career-path-in-2021-machine-learning-tutorial-edureka/",
       "originalUrl": "https://youtube.com/watch?v=cA_94ewJloI",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cA_94ewJloI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M59S",
+      "length": "PT25M44S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -258,7 +258,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-12-04T03:45:55-08:00",
+      "publishedDateTime": "2018-12-04T11:45:55Z",
       "heat": 50,
       "images": [
         {
@@ -268,7 +268,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -297,8 +297,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-12-20T05:43:15-08:00",
-      "heat": 55,
+      "publishedDateTime": "2018-12-20T13:43:15Z",
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Dml0gMJxwWI/maxresdefault.jpg",
@@ -307,7 +307,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -336,8 +336,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-02T21:41:47-08:00",
-      "heat": 57,
+      "publishedDateTime": "2019-01-03T05:41:47Z",
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/uMxQI2tJtKQ/maxresdefault.jpg",
@@ -346,7 +346,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -375,8 +375,8 @@
           }
         ]
       },
-      "publishedDateTime": "2021-01-11T06:46:06-08:00",
-      "heat": 51,
+      "publishedDateTime": "2021-01-11T14:46:06Z",
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kHlkRfThMmk/maxresdefault.jpg",
@@ -385,7 +385,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -414,8 +414,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-10-03T22:26:30-07:00",
-      "heat": 64,
+      "publishedDateTime": "2019-10-04T05:26:30Z",
+      "heat": 58,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/n7npKX5zIWI/maxresdefault.jpg",
@@ -424,7 +424,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -453,8 +453,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-03-30T00:47:54-07:00",
-      "heat": 75,
+      "publishedDateTime": "2018-03-30T07:47:54Z",
+      "heat": 65,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/N0lxfilGfak/maxresdefault.jpg",
@@ -463,7 +463,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -492,8 +492,8 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-09T04:31:00-08:00",
-      "heat": 57,
+      "publishedDateTime": "2021-02-09T12:31:00Z",
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/0D-PCtUJInE/maxresdefault.jpg",
@@ -502,7 +502,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -531,8 +531,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-24T07:33:22-07:00",
-      "heat": 54,
+      "publishedDateTime": "2019-06-24T14:33:22Z",
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/onFobjvGgZI/maxresdefault.jpg",
@@ -541,7 +541,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -570,8 +570,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-07-10T22:23:35-07:00",
-      "heat": 61,
+      "publishedDateTime": "2019-07-11T05:23:35Z",
+      "heat": 57,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/TLdXM0A7SR8/maxresdefault.jpg",
@@ -580,7 +580,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -609,8 +609,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-04-18T05:26:59-07:00",
-      "heat": 58,
+      "publishedDateTime": "2018-04-18T12:26:59Z",
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/bwZ3Qiuj3i8/maxresdefault.jpg",
@@ -619,7 +619,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -635,7 +635,7 @@
       "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-python-libraries-python-certification-training-for-data-science-edureka/",
       "originalUrl": "https://youtube.com/watch?v=dVr7r7QgLrk",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dVr7r7QgLrk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M4S",
+      "length": "PT31M50S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -648,8 +648,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-04-25T08:13:46-07:00",
-      "heat": 56,
+      "publishedDateTime": "2018-04-25T15:13:46Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/dVr7r7QgLrk/maxresdefault.jpg",
@@ -658,7 +658,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -667,11 +667,11 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-top-10-reasons-to-learn-data-science-in-2021-why-data-science-data-science-training-edureka.md",
-      "title": "Top 10 Reasons to Learn Data Science in 2021 | Why Data Science? | Data Science Training | Edureka",
-      "excerpt": "** Data Science Training with R : https://www.edureka.co/data-science-r-programming-certification-course ** ** Data Science Training with Python: https://www.edureka.co/python-programming-certification-training ** This Edureka video on \"Top 10 reasons to learn Data Science in 2021\" will give you enough",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-reasons-to-learn-data-science-in-2021-why-data-science-data-science-training-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-reasons-to-learn-data-science-in-2021-why-data-science-data-science-training-edureka/",
+      "path": "_learning/videos/edureka-top-10-reasons-to-learn-data-science-in-2024-why-data-science-data-science-training-edureka.md",
+      "title": "Top 10 Reasons to Learn Data Science in 2024 | Why Data Science? | Data Science Training | Edureka",
+      "excerpt": "** Data Science Training with R : https://www.edureka.co/data-science-r-programming-certification-course ** ** Data Science Training with Python: https://www.edureka.co/python-programming-certification-training ** This Edureka video on \"Top 10 reasons to learn Data Science in 2024\" will give you enough",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-reasons-to-learn-data-science-in-2024-why-data-science-data-science-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-reasons-to-learn-data-science-in-2024-why-data-science-data-science-training-edureka/",
       "originalUrl": "https://youtube.com/watch?v=qOraDpY3Ta0",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qOraDpY3Ta0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT14M22S",
@@ -687,8 +687,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-05-13T05:47:12-07:00",
-      "heat": 53,
+      "publishedDateTime": "2018-05-13T12:47:12Z",
+      "heat": 57,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qOraDpY3Ta0/maxresdefault.jpg",
@@ -697,7 +697,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -726,8 +726,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-05-28T07:24:48-07:00",
-      "heat": 89,
+      "publishedDateTime": "2018-05-28T14:24:48Z",
+      "heat": 74,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1XqG0kaJVHY/maxresdefault.jpg",
@@ -736,7 +736,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -765,8 +765,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-05-29T06:51:29-07:00",
-      "heat": 73,
+      "publishedDateTime": "2018-05-29T13:51:29Z",
+      "heat": 68,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/VCJdg7YBbAQ/maxresdefault.jpg",
@@ -775,7 +775,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -804,8 +804,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-06-26T07:28:25-07:00",
-      "heat": 94,
+      "publishedDateTime": "2018-06-26T14:28:25Z",
+      "heat": 86,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/E5RjzSK0fvY/maxresdefault.jpg",
@@ -814,7 +814,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -843,8 +843,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-13T23:23:29-08:00",
-      "heat": 82,
+      "publishedDateTime": "2019-01-14T07:23:29Z",
+      "heat": 72,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/OCwZyYH14uw/maxresdefault.jpg",
@@ -853,7 +853,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -882,8 +882,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-05-31T06:53:10-07:00",
-      "heat": 92,
+      "publishedDateTime": "2018-05-31T13:53:10Z",
+      "heat": 83,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/e8Yw4alG16Q/maxresdefault.jpg",
@@ -892,7 +892,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -921,8 +921,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-06-14T06:01:34-07:00",
-      "heat": 84,
+      "publishedDateTime": "2018-06-14T13:01:34Z",
+      "heat": 74,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qDcl-FRnwSU/maxresdefault.jpg",
@@ -931,7 +931,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -960,8 +960,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-14T07:13:41-08:00",
-      "heat": 84,
+      "publishedDateTime": "2019-01-14T15:13:41Z",
+      "heat": 65,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/NKVOjPHfiSA/maxresdefault.jpg",
@@ -970,7 +970,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -999,7 +999,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-12-25T09:20:07-08:00",
+      "publishedDateTime": "2018-12-25T17:20:07Z",
       "heat": 50,
       "images": [
         {
@@ -1009,7 +1009,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1038,8 +1038,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-06-21T22:24:18-07:00",
-      "heat": 71,
+      "publishedDateTime": "2018-06-22T05:24:18Z",
+      "heat": 72,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/t6gOpFLt-Ks/maxresdefault.jpg",
@@ -1048,7 +1048,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1077,8 +1077,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-07-11T07:05:56-07:00",
-      "heat": 66,
+      "publishedDateTime": "2018-07-11T14:05:56Z",
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6kZ-OPLNcgE/maxresdefault.jpg",
@@ -1087,7 +1087,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1116,8 +1116,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-07-26T07:07:44-07:00",
-      "heat": 71,
+      "publishedDateTime": "2018-07-26T14:07:44Z",
+      "heat": 61,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/vz_xuxYS2PM/maxresdefault.jpg",
@@ -1126,7 +1126,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1155,8 +1155,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-08-08T07:21:08-07:00",
-      "heat": 73,
+      "publishedDateTime": "2018-08-08T14:21:08Z",
+      "heat": 64,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/O_B7XLfx0ic/maxresdefault.jpg",
@@ -1165,7 +1165,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1194,8 +1194,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-09T21:33:45-08:00",
-      "heat": 58,
+      "publishedDateTime": "2019-01-10T05:33:45Z",
+      "heat": 57,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/LzaWrmKL1Z4/maxresdefault.jpg",
@@ -1204,7 +1204,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1233,8 +1233,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-10-07T02:46:00-07:00",
-      "heat": 52,
+      "publishedDateTime": "2018-10-07T09:46:00Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/sn4eOEfaYRo/maxresdefault.jpg",
@@ -1243,7 +1243,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1272,8 +1272,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-08-09T23:00:06-07:00",
-      "heat": 56,
+      "publishedDateTime": "2018-08-10T06:00:06Z",
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/27P268Q7pE0/maxresdefault.jpg",
@@ -1282,7 +1282,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1311,7 +1311,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-09-04T06:57:24-07:00",
+      "publishedDateTime": "2018-09-04T13:57:24Z",
       "heat": 50,
       "images": [
         {
@@ -1321,7 +1321,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1350,8 +1350,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-09-13T23:05:42-07:00",
-      "heat": 51,
+      "publishedDateTime": "2018-09-14T06:05:42Z",
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/GRN_9YkfN5w/maxresdefault.jpg",
@@ -1360,7 +1360,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1389,8 +1389,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-10-04T22:28:07-07:00",
-      "heat": 54,
+      "publishedDateTime": "2018-10-05T05:28:07Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Mn1AACvK-YI/maxresdefault.jpg",
@@ -1399,7 +1399,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1431,8 +1431,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-11-08T06:04:32-08:00",
-      "heat": 58,
+      "publishedDateTime": "2018-11-08T14:04:32Z",
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/nNHSlpJMOJs/maxresdefault.jpg",
@@ -1441,7 +1441,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1471,8 +1471,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-04-01T07:12:46-07:00",
-      "heat": 52,
+      "publishedDateTime": "2019-04-01T14:12:46Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/tTijEvJqTzI/maxresdefault.jpg",
@@ -1481,7 +1481,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1510,8 +1510,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-11-28T21:21:30-08:00",
-      "heat": 54,
+      "publishedDateTime": "2018-11-29T05:21:30Z",
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/p1ccbR2P_xA/maxresdefault.jpg",
@@ -1520,7 +1520,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1550,8 +1550,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-29T05:45:16-08:00",
-      "heat": 79,
+      "publishedDateTime": "2019-01-29T13:45:16Z",
+      "heat": 75,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/xtOg44r6dsE/maxresdefault.jpg",
@@ -1560,7 +1560,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1589,8 +1589,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-02-06T06:00:11-08:00",
-      "heat": 57,
+      "publishedDateTime": "2019-02-06T14:00:11Z",
+      "heat": 55,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/0cSFjaXMHpM/maxresdefault.jpg",
@@ -1599,7 +1599,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1628,8 +1628,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-02-27T21:45:56-08:00",
-      "heat": 53,
+      "publishedDateTime": "2019-02-28T05:45:56Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/gpKzZiUDjxM/maxresdefault.jpg",
@@ -1638,7 +1638,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1667,8 +1667,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-19T06:58:30-07:00",
-      "heat": 84,
+      "publishedDateTime": "2019-06-19T13:58:30Z",
+      "heat": 79,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/guVvtZ7ZClw/maxresdefault.jpg",
@@ -1677,7 +1677,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1706,8 +1706,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-27T07:15:57-07:00",
-      "heat": 60,
+      "publishedDateTime": "2019-06-27T14:15:57Z",
+      "heat": 57,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kho6oANGu_A/maxresdefault.jpg",
@@ -1716,7 +1716,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1745,8 +1745,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-03-10T03:04:11-07:00",
-      "heat": 80,
+      "publishedDateTime": "2019-03-10T10:04:11Z",
+      "heat": 66,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/vaysJAMDaZw/maxresdefault.jpg",
@@ -1755,7 +1755,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1784,8 +1784,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-03-17T02:53:30-07:00",
-      "heat": 67,
+      "publishedDateTime": "2019-03-17T09:53:30Z",
+      "heat": 70,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/aGu0fbkHhek/maxresdefault.jpg",
@@ -1794,7 +1794,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1823,8 +1823,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-02T01:22:52-07:00",
-      "heat": 167,
+      "publishedDateTime": "2019-06-02T08:22:52Z",
+      "heat": 160,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/JMUxmLyrhSk/maxresdefault.jpg",
@@ -1833,7 +1833,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1862,8 +1862,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-03-25T07:15:18-07:00",
-      "heat": 61,
+      "publishedDateTime": "2019-03-25T14:15:18Z",
+      "heat": 55,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fiQTb7-rCPo/maxresdefault.jpg",
@@ -1872,7 +1872,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1901,7 +1901,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-03-28T08:14:45-07:00",
+      "publishedDateTime": "2019-03-28T15:14:45Z",
       "heat": 51,
       "images": [
         {
@@ -1911,7 +1911,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1940,8 +1940,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-03-31T22:28:14-07:00",
-      "heat": 64,
+      "publishedDateTime": "2019-04-01T05:28:14Z",
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hjh1ikznScg/maxresdefault.jpg",
@@ -1950,7 +1950,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1979,7 +1979,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-04-08T05:17:58-07:00",
+      "publishedDateTime": "2019-04-08T12:17:58Z",
       "heat": 50,
       "images": [
         {
@@ -1989,7 +1989,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2018,8 +2018,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-05-08T06:41:47-07:00",
-      "heat": 136,
+      "publishedDateTime": "2019-05-08T13:41:47Z",
+      "heat": 137,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/oV74Najm6Nc/maxresdefault.jpg",
@@ -2028,7 +2028,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2057,8 +2057,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-05T22:37:50-07:00",
-      "heat": 55,
+      "publishedDateTime": "2019-06-06T05:37:50Z",
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/WZVAfLreIwM/maxresdefault.jpg",
@@ -2067,7 +2067,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2096,8 +2096,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-11T22:44:51-07:00",
-      "heat": 55,
+      "publishedDateTime": "2019-06-12T05:44:51Z",
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/DhdUlDIAG7Y/maxresdefault.jpg",
@@ -2106,7 +2106,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2135,7 +2135,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-08-06T08:14:32-07:00",
+      "publishedDateTime": "2019-08-06T15:14:32Z",
       "heat": 50,
       "images": [
         {
@@ -2145,7 +2145,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2174,8 +2174,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-08-07T23:00:02-07:00",
-      "heat": 58,
+      "publishedDateTime": "2019-08-08T06:00:02Z",
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/v0uVu5__JGg/maxresdefault.jpg",
@@ -2184,7 +2184,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2213,8 +2213,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-08-12T06:13:29-07:00",
-      "heat": 53,
+      "publishedDateTime": "2019-08-12T13:13:29Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/LepMvJdr2-w/maxresdefault.jpg",
@@ -2223,7 +2223,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2252,8 +2252,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-12-10T21:12:44-08:00",
-      "heat": 61,
+      "publishedDateTime": "2019-12-11T05:12:44Z",
+      "heat": 63,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/pXdum128xww/maxresdefault.jpg",
@@ -2262,7 +2262,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2291,8 +2291,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-12-30T20:37:45-08:00",
-      "heat": 60,
+      "publishedDateTime": "2019-12-31T04:37:45Z",
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/_ThdIOA9Lbk/maxresdefault.jpg",
@@ -2301,7 +2301,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2330,7 +2330,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-12-31T04:24:01-08:00",
+      "publishedDateTime": "2019-12-31T12:24:01Z",
       "heat": 51,
       "images": [
         {
@@ -2340,7 +2340,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2369,8 +2369,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-01-05T20:22:38-08:00",
-      "heat": 52,
+      "publishedDateTime": "2020-01-06T04:22:38Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/QupMZFeyETM/maxresdefault.jpg",
@@ -2379,7 +2379,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2408,8 +2408,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-01-07T20:28:37-08:00",
-      "heat": 58,
+      "publishedDateTime": "2020-01-08T04:28:37Z",
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/DIADjJXrgps/maxresdefault.jpg",
@@ -2418,7 +2418,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2447,8 +2447,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-01-09T22:46:52-08:00",
-      "heat": 78,
+      "publishedDateTime": "2020-01-10T06:46:52Z",
+      "heat": 71,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1VSZtNYMntM/maxresdefault.jpg",
@@ -2457,7 +2457,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2487,8 +2487,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-01-15T20:18:41-08:00",
-      "heat": 54,
+      "publishedDateTime": "2020-01-16T04:18:41Z",
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Yl8vbEcWxOc/maxresdefault.jpg",
@@ -2497,7 +2497,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2526,7 +2526,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-05T07:54:00-08:00",
+      "publishedDateTime": "2020-02-05T15:54:00Z",
       "heat": 50,
       "images": [
         {
@@ -2536,7 +2536,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2565,8 +2565,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-16T20:07:45-08:00",
-      "heat": 67,
+      "publishedDateTime": "2020-02-17T04:07:45Z",
+      "heat": 60,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/5g1eXmQtl0E/maxresdefault.jpg",
@@ -2575,7 +2575,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2604,7 +2604,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-02-25T06:23:14-08:00",
+      "publishedDateTime": "2019-02-25T14:23:14Z",
       "heat": 56,
       "images": [
         {
@@ -2614,7 +2614,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2643,7 +2643,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-09T06:51:14-07:00",
+      "publishedDateTime": "2020-03-09T13:51:14Z",
       "heat": 50,
       "images": [
         {
@@ -2653,7 +2653,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2682,8 +2682,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-17T06:53:12-07:00",
-      "heat": 52,
+      "publishedDateTime": "2020-03-17T13:53:12Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/JFB_751d2uc/maxresdefault.jpg",
@@ -2692,7 +2692,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2721,8 +2721,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-29T01:28:08-07:00",
-      "heat": 72,
+      "publishedDateTime": "2020-03-29T08:28:08Z",
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/_Hi6_JQesSQ/maxresdefault.jpg",
@@ -2731,7 +2731,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2760,7 +2760,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-19T05:13:28-07:00",
+      "publishedDateTime": "2020-04-19T12:13:28Z",
       "heat": 50,
       "images": [
         {
@@ -2770,7 +2770,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2799,8 +2799,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-19T05:13:54-07:00",
-      "heat": 51,
+      "publishedDateTime": "2020-04-19T12:13:54Z",
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/N-E2_Lq4Yzs/maxresdefault.jpg",
@@ -2809,7 +2809,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2838,8 +2838,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-24T01:09:16-07:00",
-      "heat": 79,
+      "publishedDateTime": "2020-04-24T08:09:16Z",
+      "heat": 65,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/lncoLfue_Y4/maxresdefault.jpg",
@@ -2848,7 +2848,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2877,8 +2877,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-06-01T03:02:13-07:00",
-      "heat": 60,
+      "publishedDateTime": "2020-06-01T10:02:13Z",
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1xw915rbyG4/maxresdefault.jpg",
@@ -2887,7 +2887,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2916,8 +2916,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-07-14T05:55:49-07:00",
-      "heat": 52,
+      "publishedDateTime": "2020-07-14T12:55:49Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/o81CjXX9Hpw/maxresdefault.jpg",
@@ -2926,7 +2926,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2955,8 +2955,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-03-16T06:25:43-07:00",
-      "heat": 52,
+      "publishedDateTime": "2018-03-16T13:25:43Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/nJKxWbQ1jaw/hqdefault.jpg",
@@ -2965,7 +2965,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -2994,8 +2994,8 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-22T08:26:14-08:00",
-      "heat": 58,
+      "publishedDateTime": "2021-02-22T16:26:14Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/QDH7cwDlixQ/maxresdefault.jpg",
@@ -3004,7 +3004,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -3033,8 +3033,8 @@
           }
         ]
       },
-      "publishedDateTime": "2021-03-06T03:47:23-08:00",
-      "heat": 58,
+      "publishedDateTime": "2021-03-06T11:47:23Z",
+      "heat": 62,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/4jv1pUrG0Zk/maxresdefault.jpg",
@@ -3043,7 +3043,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -3072,8 +3072,8 @@
           }
         ]
       },
-      "publishedDateTime": "2021-03-14T04:07:23-07:00",
-      "heat": 53,
+      "publishedDateTime": "2021-03-14T11:07:23Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hTS9MhGDlfU/maxresdefault.jpg",
@@ -3082,7 +3082,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -3111,8 +3111,8 @@
           }
         ]
       },
-      "publishedDateTime": "2021-03-16T02:01:16-07:00",
-      "heat": 131,
+      "publishedDateTime": "2021-03-16T09:01:16Z",
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ilw2AnNsbIc/maxresdefault.jpg",
@@ -3121,7 +3121,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -3150,8 +3150,8 @@
           }
         ]
       },
-      "publishedDateTime": "2021-03-23T05:50:47-07:00",
-      "heat": 55,
+      "publishedDateTime": "2021-03-23T12:50:47Z",
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/bZwpXEgG0to/maxresdefault.jpg",
@@ -3160,7 +3160,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -3189,8 +3189,8 @@
           }
         ]
       },
-      "publishedDateTime": "2021-04-09T02:00:32-07:00",
-      "heat": 51,
+      "publishedDateTime": "2021-04-09T09:00:32Z",
+      "heat": 61,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/pMIwu5FwJ78/maxresdefault.jpg",
@@ -3199,7 +3199,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -3228,8 +3228,8 @@
           }
         ]
       },
-      "publishedDateTime": "2021-04-16T01:35:26-07:00",
-      "heat": 99,
+      "publishedDateTime": "2021-04-16T08:35:26Z",
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/CC8V9cN9TuU/maxresdefault.jpg",
@@ -3238,7 +3238,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -3267,8 +3267,8 @@
           }
         ]
       },
-      "publishedDateTime": "2021-04-24T03:05:47-07:00",
-      "heat": 233,
+      "publishedDateTime": "2021-04-24T10:05:47Z",
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/3ZacJ9zRVOU/maxresdefault.jpg",
@@ -3277,7 +3277,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -3306,8 +3306,8 @@
           }
         ]
       },
-      "publishedDateTime": "2021-04-26T23:31:44-07:00",
-      "heat": 214,
+      "publishedDateTime": "2021-04-27T06:31:44Z",
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/B9bDNp2Zv5k/maxresdefault.jpg",
@@ -3316,7 +3316,750 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-image-processing-tutorial-using-python-python-opencv-tutorial-python-training-edureka.md",
+      "title": "Image Processing Tutorial Using Python | Python OpenCV Tutorial | Python Training | Edureka",
+      "excerpt": "🔥 Python Developer Masters Program (𝐔𝐬𝐞 𝐂𝐨𝐝𝐞: 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎):  https://www.edureka.co/masters-program/python-developer-training This Edureka Live video on \"𝐈𝐦𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐔𝐬𝐢𝐧𝐠 𝐏𝐲𝐭𝐡𝐨𝐧\" will provide you with a comprehensive and detailed knowledge",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-image-processing-tutorial-using-python-python-opencv-tutorial-python-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-image-processing-tutorial-using-python-python-opencv-tutorial-python-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=sfheWK72L74",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sfheWK72L74\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M1S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-05-06T15:00:00Z",
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sfheWK72L74/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-cancer-detection-using-deep-learning-deep-learning-projects-deep-learning-training-edureka.md",
+      "title": "Cancer Detection Using Deep Learning | Deep Learning Projects | Deep Learning Training | Edureka",
+      "excerpt": "🔥Edureka Deep Learning With TensorFlow (𝐔𝐬𝐞 𝐂𝐨𝐝𝐞: 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎): https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka video on 𝐂𝐚𝐧𝐜𝐞𝐫 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐔𝐬𝐢𝐧𝐠 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, will help you understand how to develop models using Convolution Neural Networks.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-cancer-detection-using-deep-learning-deep-learning-projects-deep-learning-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-cancer-detection-using-deep-learning-deep-learning-projects-deep-learning-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=7MceDfpnP8k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7MceDfpnP8k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H30M33S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-06-27T13:55:43Z",
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7MceDfpnP8k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-plant-leaf-disease-detection-gui-machine-learning-projects-1-machine-learning-training-edureka.md",
+      "title": "Plant Leaf Disease Detection GUI | Machine Learning Projects 1 | Machine Learning Training | Edureka",
+      "excerpt": "🔥 Edureka Deep Learning Certification training (𝐔𝐬𝐞 𝐂𝐨𝐝𝐞: 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎) :  https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka video on ' 𝐏𝐥𝐚𝐧𝐭 𝐋𝐞𝐚𝐟 𝐃𝐢𝐬𝐞𝐚𝐬𝐞 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐆𝐔𝐈' will give you an overview of how to detect the various Plant",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-plant-leaf-disease-detection-gui-machine-learning-projects-1-machine-learning-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-plant-leaf-disease-detection-gui-machine-learning-projects-1-machine-learning-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=amt9ZmGofJk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/amt9ZmGofJk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M5S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-17T14:46:29Z",
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/amt9ZmGofJk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-house-price-prediction-using-ml-machine-learning-projects-2-machine-learning-training-edureka.md",
+      "title": "House Price Prediction using ML | Machine Learning Projects 2 | Machine Learning Training | Edureka",
+      "excerpt": "🔥 Edureka Machine Learning Certification training (𝐔𝐬𝐞 𝐂𝐨𝐝𝐞: 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎) :  https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka video on '𝐇𝐨𝐮𝐬𝐞 𝐏𝐫𝐢𝐜𝐞 𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧' will help you predict House Prices with Machine Learning concepts. Following",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-house-price-prediction-using-ml-machine-learning-projects-2-machine-learning-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-house-price-prediction-using-ml-machine-learning-projects-2-machine-learning-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=UQAKwWUYnuI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UQAKwWUYnuI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT52M56S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-18T09:23:19Z",
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UQAKwWUYnuI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-emoji-prediction-using-lstm-machine-learning-projects-3-machine-learning-training-edureka.md",
+      "title": "Emoji Prediction using LSTM | Machine Learning Projects 3 | Machine Learning Training | Edureka",
+      "excerpt": "🔥 Edureka Machine Learning Certification training (𝐔𝐬𝐞 𝐂𝐨𝐝𝐞: 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎) :  https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka video on '𝐄𝐦𝐨𝐣𝐢 𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧 𝐮𝐬𝐢𝐧𝐠 𝐋𝐒𝐓𝐌' will help you predict emojis using LSTM. Following pointers",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-emoji-prediction-using-lstm-machine-learning-projects-3-machine-learning-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-emoji-prediction-using-lstm-machine-learning-projects-3-machine-learning-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=Obo-7dvmTQI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Obo-7dvmTQI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M54S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-25T16:01:54Z",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Obo-7dvmTQI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-color-old-photographs-using-autoencoders-machine-learning-projects-4-ml-training-edureka.md",
+      "title": "Color Old Photographs Using Autoencoders | Machine Learning Projects - 4 | ML Training | Edureka",
+      "excerpt": "🔥 Edureka Machine Learning Certification training (𝐔𝐬𝐞 𝐂𝐨𝐝𝐞: 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎):  https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka video on '𝐂𝐨𝐥𝐨𝐫 𝐎𝐥𝐝 𝐏𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐬 𝐔𝐬𝐢𝐧𝐠 𝐀𝐮𝐭𝐨𝐞𝐧𝐜𝐨𝐝𝐞𝐫𝐬' will give you an overview of how to",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-color-old-photographs-using-autoencoders-machine-learning-projects-4-ml-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-color-old-photographs-using-autoencoders-machine-learning-projects-4-ml-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=lLy0sRmxVvo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lLy0sRmxVvo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M46S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-28T13:06:22Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lLy0sRmxVvo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-building-document-scanner-using-opencv-machine-learning-project-7-ml-training-edureka.md",
+      "title": "Building Document Scanner Using OpenCV | Machine Learning Project 7 | ML Training | Edureka",
+      "excerpt": "🔥 Edureka Machine Learning Certification training (Use Code: YOUTUBE20) :  https://www.edureka.co/masters-program/machine-learning-engineer-training  This Edureka video on 'Building Document Scanner Using OpenCV' will give you an overview of Building Document Scanner Using OpenCV with Machine Learning",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-building-document-scanner-using-opencv-machine-learning-project-7-ml-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-building-document-scanner-using-opencv-machine-learning-project-7-ml-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=wZzz9xS5J4k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wZzz9xS5J4k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M23S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-08-03T14:19:43Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wZzz9xS5J4k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-image-classification-using-cnn-deep-learning-tutorial-machine-learning-project-9-edureka.md",
+      "title": "Image Classification using CNN | Deep Learning Tutorial | Machine Learning Project 9 | Edureka",
+      "excerpt": "🔥 Edureka Machine Learning Certification training (Use Code: YOUTUBE20) :  https://www.edureka.co/masters-program/machine-learning-engineer-training  This Edureka video on 'Image Classification using CNN' will give you an overview of Image Classification using Machine Learning and will help you understand",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-image-classification-using-cnn-deep-learning-tutorial-machine-learning-project-9-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-image-classification-using-cnn-deep-learning-tutorial-machine-learning-project-9-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=ejkRh9obVjk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ejkRh9obVjk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M2S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-08-11T02:26:44Z",
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ejkRh9obVjk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-cartoon-effect-on-image-using-opencv-machine-learning-project-8-ml-training-edureka.md",
+      "title": "Cartoon Effect on Image using OpenCV | Machine Learning Project 8 | ML Training | Edureka",
+      "excerpt": "🔥 Edureka Machine Learning Certification training (Use Code: YOUTUBE20) :  https://www.edureka.co/masters-program/machine-learning-engineer-training  This Edureka video on 'Cartoon Effect on Image using OpenCV' will give you an overview of  Cartoon Effect on Image using Machine Learning and will help",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-cartoon-effect-on-image-using-opencv-machine-learning-project-8-ml-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-cartoon-effect-on-image-using-opencv-machine-learning-project-8-ml-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=2xqvGZS7NCw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2xqvGZS7NCw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M28S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-08-11T02:27:50Z",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2xqvGZS7NCw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-machine-learning-roadmap-how-to-become-a-machine-learning-engineer-ml-engineer-edureka.md",
+      "title": "Machine Learning Roadmap | How to become a Machine Learning Engineer  | ML Engineer | Edureka",
+      "excerpt": "🔥 Edureka ML Master Program Certification (Use Code: YOUTUBE20) :  https://www.edureka.co/masters-program/machine-learning-engineer-training  This Edureka video on 'Machine Learning Roadmap' will give you an insight into why there is such a crazy demand for Machine learning in all industries these days.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-machine-learning-roadmap-how-to-become-a-machine-learning-engineer-ml-engineer-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-machine-learning-roadmap-how-to-become-a-machine-learning-engineer-ml-engineer-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=qgfBJjqXudA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qgfBJjqXudA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M2S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-09-03T23:33:34Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qgfBJjqXudA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-clustering-algorithms-data-science-algorithms-edureka-ml-rewind-3.md",
+      "title": "Clustering Algorithms | Data Science Algorithms | Edureka | ML Rewind - 3",
+      "excerpt": "🔥Machine Learning Training with Python: https://www.edureka.co/machine-learning-certification-training This Edureka video on \"Clustering Algorithms\" will help you understand the various aspects of clustering using K Means in Python.  🔴Subscribe to our channel to get video updates. Hit the subscribe",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-clustering-algorithms-data-science-algorithms-edureka-ml-rewind-3/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-clustering-algorithms-data-science-algorithms-edureka-ml-rewind-3/",
+      "originalUrl": "https://youtube.com/watch?v=7Syfdi6z-d8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Syfdi6z-d8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M27S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-09-14T05:09:56Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7Syfdi6z-d8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-deploy-machine-learning-model-using-amazon-sagemaker-edureka-ml-rewind-4.md",
+      "title": "Deploy Machine Learning Model using Amazon SageMaker | Edureka | ML Rewind - 4",
+      "excerpt": "🔥Machine Learning Training with Python: https://www.edureka.co/machine-learning-certification-training This Edureka video on \"Deploy an ML Model using Amazon Sagemaker\" discusses what is Amazon Sagemaker and how you can build, train and deploy your Machine Learning Models in Amazon Sagemaker.   🔹Check",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-deploy-machine-learning-model-using-amazon-sagemaker-edureka-ml-rewind-4/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-deploy-machine-learning-model-using-amazon-sagemaker-edureka-ml-rewind-4/",
+      "originalUrl": "https://youtube.com/watch?v=bV3f84Hfh58",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bV3f84Hfh58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M28S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-09-14T05:16:34Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bV3f84Hfh58/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-mathematics-for-ml-edureka-ml-rewind-5.md",
+      "title": "Mathematics for ML | Edureka | ML Rewind - 5",
+      "excerpt": "🔥Machine Learning Training with Python: https://www.edureka.co/machine-learning-certification-training This Edureka video on 'Mathematics for Machine Learning' teaches you all the math needed to get started with mastering Machine Learning. It teaches you all the necessary topics and concepts of Linear",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-mathematics-for-ml-edureka-ml-rewind-5/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-mathematics-for-ml-edureka-ml-rewind-5/",
+      "originalUrl": "https://youtube.com/watch?v=AeRe8YlxPZU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AeRe8YlxPZU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M29S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-09-14T05:20:56Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AeRe8YlxPZU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-python-for-machine-learning-data-exploration-visualization-edureka-ml-rewind-3.md",
+      "title": "Python for Machine Learning |  Data Exploration - Visualization | Edureka | ML Rewind - 3",
+      "excerpt": "🔥Edureka Machine Learning Certification Training: https://www.edureka.co/machine-learning-certification-training This Edureka video on ' Data Exploration - Visualization' is the fourth class in the Python Machine Learning Series which gives a brief introduction to creating visual representations in",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-python-for-machine-learning-data-exploration-visualization-edureka-ml-rewind-3/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-python-for-machine-learning-data-exploration-visualization-edureka-ml-rewind-3/",
+      "originalUrl": "https://youtube.com/watch?v=134Wp2jzSfc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/134Wp2jzSfc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M36S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-09-24T09:53:30Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/134Wp2jzSfc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-data-exploration-vizualisation-machine-learning-tutorial-edureka-ml-rewind-4.md",
+      "title": "Data Exploration Vizualisation | Machine Learning Tutorial | | Edureka | ML Rewind - 4",
+      "excerpt": "🔥Edureka Machine Learning Certification Training: https://www.edureka.co/machine-learning-certification-training This Edureka video on ' Data Exploration - Visualization' is the fourth class in the Python Machine Learning Series which gives a brief introduction to creating visual representations in",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-data-exploration-vizualisation-machine-learning-tutorial-edureka-ml-rewind-4/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-data-exploration-vizualisation-machine-learning-tutorial-edureka-ml-rewind-4/",
+      "originalUrl": "https://youtube.com/watch?v=vVAd6emOljk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vVAd6emOljk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M3S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-09-24T10:37:56Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vVAd6emOljk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-data-cleaning-in-machine-learning-machine-learning-tutorial-edureka-ml-rewind-5.md",
+      "title": "Data Cleaning in Machine Learning | Machine Learning Tutorial | | Edureka | ML Rewind - 5",
+      "excerpt": "🔥Edureka Machine Learning Certification Training: https://www.edureka.co/machine-learning-certification-training This Edureka video on ' Data Exploration - Visualization' is the fourth class in the Python Machine Learning Series which gives a brief introduction to creating visual representations in",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-data-cleaning-in-machine-learning-machine-learning-tutorial-edureka-ml-rewind-5/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-data-cleaning-in-machine-learning-machine-learning-tutorial-edureka-ml-rewind-5/",
+      "originalUrl": "https://youtube.com/watch?v=NWqL3ZccBBM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NWqL3ZccBBM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M9S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-09-24T10:57:26Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NWqL3ZccBBM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-hierarchical-clustering-agglomerative-and-divisive-hierarchical-clustering-explained-edureka.md",
+      "title": "Hierarchical Clustering | Agglomerative and Divisive Hierarchical Clustering Explained | Edureka",
+      "excerpt": "🔥Edureka Data Scientist Course  Master Program  https://www.edureka.co/masters-program/data-scientist-certification (Use Code \"𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎\") This Edureka tutorial explains Hierarchical Clustering, types of hierarchical clustering, agglomerative and divisive hierarchical clustering with examples,",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-hierarchical-clustering-agglomerative-and-divisive-hierarchical-clustering-explained-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-hierarchical-clustering-agglomerative-and-divisive-hierarchical-clustering-explained-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=3M1wUK2zCKY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3M1wUK2zCKY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M34S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-03-02T07:00:00Z",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3M1wUK2zCKY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-machine-learning-full-course-12-hours-machine-learning-roadmap-2024-edureka.md",
+      "title": "Machine Learning Full Course - 12 Hours | Machine Learning Roadmap [2024] | Edureka",
+      "excerpt": "🔥 𝐄𝐝𝐮𝐫𝐞𝐤𝐚 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐨𝐮𝐫𝐬𝐞 𝐌𝐚𝐬𝐭𝐞𝐫 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 : https://www.edureka.co/masters-program/machine-learning-engineer-training (𝐔𝐬𝐞 𝐂𝐨𝐝𝐞: 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎) This Edureka Machine Learning Full Course video will help you understand and learn Machine Learning",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-machine-learning-full-course-12-hours-machine-learning-roadmap-2024-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-machine-learning-full-course-12-hours-machine-learning-roadmap-2024-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=N5fSpaaxoZc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N5fSpaaxoZc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11H55M",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-13T10:27:52Z",
+      "heat": 103,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N5fSpaaxoZc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-naive-bayes-classifier-explained-naive-bayes-algorithm-edureka-machine-learning-rewind.md",
+      "title": "Naive Bayes Classifier Explained | Naive Bayes Algorithm | Edureka | Machine Learning Rewind",
+      "excerpt": "🔥 𝐄𝐝𝐮𝐫𝐞𝐤𝐚 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐂𝐨𝐮𝐫𝐬𝐞 𝐌𝐚𝐬𝐭𝐞𝐫 𝐏𝐫𝐨𝐠𝐫𝐚𝐦(𝐔𝐬𝐞 𝐂𝐨𝐝𝐞: 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎): https://www.edureka.co/masters-program/machine-learning-engineer-training  This Edureka video will provide you with a detailed and comprehensive knowledge of Naive Bayes Classifier",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-naive-bayes-classifier-explained-naive-bayes-algorithm-edureka-machine-learning-rewind/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-naive-bayes-classifier-explained-naive-bayes-algorithm-edureka-machine-learning-rewind/",
+      "originalUrl": "https://youtube.com/watch?v=LzUiKco33E4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LzUiKco33E4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M50S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-17T16:33:47Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LzUiKco33E4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

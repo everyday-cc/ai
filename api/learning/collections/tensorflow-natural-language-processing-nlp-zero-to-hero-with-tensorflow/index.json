@@ -24,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-20T09:02:29-08:00",
+      "publishedDateTime": "2020-02-20T17:02:29Z",
       "heat": 75,
       "images": [
         {
@@ -34,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -65,8 +65,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-25T09:20:04-08:00",
-      "heat": 63,
+      "publishedDateTime": "2020-02-25T17:20:04Z",
+      "heat": 62,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/r9QjkdSJZ2g/maxresdefault.jpg",
@@ -75,7 +75,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -106,8 +106,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-03T08:43:59-08:00",
-      "heat": 63,
+      "publishedDateTime": "2020-03-03T16:43:59Z",
+      "heat": 61,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Y_hzMnRXjhI/maxresdefault.jpg",
@@ -116,7 +116,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -147,8 +147,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-30T15:12:44-07:00",
-      "heat": 58,
+      "publishedDateTime": "2020-04-30T22:12:44Z",
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/OuYtk9Ymut4/maxresdefault.jpg",
@@ -157,7 +157,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -189,8 +189,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-06T14:51:19-07:00",
-      "heat": 54,
+      "publishedDateTime": "2020-05-06T21:51:19Z",
+      "heat": 55,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/A9QVYOBjZdY/maxresdefault.jpg",
@@ -199,7 +199,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -230,8 +230,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-14T16:05:17-07:00",
-      "heat": 63,
+      "publishedDateTime": "2020-05-14T23:05:17Z",
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ZMudJXhsUpY/maxresdefault.jpg",
@@ -240,7 +240,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

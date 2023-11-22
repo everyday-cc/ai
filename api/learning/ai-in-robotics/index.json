@@ -24,8 +24,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-11-02T06:30:21-08:00",
-      "heat": 63,
+      "publishedDateTime": "2020-11-02T14:30:21Z",
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/zFikq_cJ4mQ/maxresdefault.jpg",
@@ -34,7 +34,46 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-what-is-robotics-introduction-to-robotics-robotics-explained-simplilearn.md",
+      "title": "What is Robotics | Introduction to Robotics | Robotics Explained | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z Become An AI & ML Expert Today:                   In this video on \"What is Robotics\", we will take",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-robotics-introduction-to-robotics-robotics-explained-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-robotics-introduction-to-robotics-robotics-explained-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=rq_Xl71d3tE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rq_Xl71d3tE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M49S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-07-06T08:28:09Z",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rq_Xl71d3tE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -63,7 +102,7 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-16T09:26:33-07:00",
+      "publishedDateTime": "2020-10-16T16:26:33Z",
       "heat": 51,
       "images": [
         {
@@ -73,11 +112,51 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
         "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-top-10-robotics-project-2024-robotics-projects-for-beginners-robotics-projects-simplilearn.md",
+      "title": "Top 10 Robotics Project 2024 | Robotics Projects for Beginners | Robotics Projects | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z Top 10 Robotics Project 2024 by Simplilearn is dedicated to help aspiring Artificial intelligence",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-robotics-project-2024-robotics-projects-for-beginners-robotics-projects-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-robotics-project-2024-robotics-projects-for-beginners-robotics-projects-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=ivmWzO0i1pI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ivmWzO0i1pI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M19S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-10-19T06:21:32Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ivmWzO0i1pI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
         "AI in Robotics"
       ]
     },
@@ -124,7 +203,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -174,7 +253,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -224,7 +303,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -275,7 +354,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -326,7 +405,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -376,7 +455,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -424,7 +503,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free",
       "topics": [

@@ -2,7 +2,7 @@
 title: "From Languages to Information Week 7: Recommendation Systems and Vector Semantics | Stanford University"
 excerpt: "This is the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course"
 type: collection
-heat: 50
+heat: 60
 
 provider:
   name: Stanford University
@@ -13,15 +13,18 @@ provider:
       height: 50
 
 items:
-  - videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics
-  - videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics
+  - videos/stanford-university-recommender-systems-1-introduction
+  - videos/stanford-university-recommender-systems-2-content-based
+  - videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering
+  - videos/stanford-university-recommender-systems-4-item-item-collaborative-filtering
+  - videos/stanford-university-recommender-systems-5-simplified-version-for-pa6
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: https://i.ytimg.com/vi/swDoFpuHpzQ/hqdefault.jpg
+  - url: https://i.ytimg.com/vi/4xYYkQxTpEc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgRygtMA8=&rs=AOn4CLBOum4xzBmPP7YNox8FmQqBVsijDA
     width: 480
     height: 360
     isCached: true

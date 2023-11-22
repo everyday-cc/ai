@@ -24,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:46:05-08:00",
+      "publishedDateTime": "2018-01-25T18:46:05Z",
       "heat": 50,
       "images": [
         {
@@ -34,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -63,8 +63,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:46:05-08:00",
-      "heat": 51,
+      "publishedDateTime": "2018-01-25T18:46:05Z",
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/29Tx-s0ybiQ/hqdefault.jpg",
@@ -73,7 +73,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -102,7 +102,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:46:05-08:00",
+      "publishedDateTime": "2018-01-25T18:46:05Z",
       "heat": 50,
       "images": [
         {
@@ -112,7 +112,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

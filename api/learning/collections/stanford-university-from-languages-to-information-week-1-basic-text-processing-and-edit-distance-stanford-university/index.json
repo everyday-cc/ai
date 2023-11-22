@@ -24,8 +24,8 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
+      "publishedDateTime": "2018-01-25T18:34:51Z",
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
@@ -34,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -43,37 +43,37 @@
       ]
     },
     {
-      "path": "_learning/videos/stanford-university-12-sentence-segmentation-basic-text-processing-and-edit-distance.md",
-      "title": "1.2 Sentence Segmentation | Basic Text Processing and Edit Distance",
+      "path": "_learning/videos/stanford-university-12-regular-expression-substitutions.md",
+      "title": "1.2 Regular Expression Substitutions",
       "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-12-sentence-segmentation-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-12-sentence-segmentation-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=Ljn8YkZrce8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ljn8YkZrce8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M35S",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-12-regular-expression-substitutions/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-12-regular-expression-substitutions/",
+      "originalUrl": "https://youtube.com/watch?v=1CSVy9JbbK0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1CSVy9JbbK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M11S",
       "provider": {
         "name": "Stanford University",
         "domain": "stanford.edu",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
+      "publishedDateTime": "2021-07-13T20:40:25Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Ljn8YkZrce8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/1CSVy9JbbK0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB4FJzU1UZMjlEH-qNJEKvSfBzDaQ",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -82,37 +82,37 @@
       ]
     },
     {
-      "path": "_learning/videos/stanford-university-13-word-tokenization-basic-text-processing-and-edit-distance.md",
-      "title": "1.3 Word Tokenization | Basic Text Processing and Edit Distance",
+      "path": "_learning/videos/stanford-university-13-words-and-corpora.md",
+      "title": "1.3 Words and Corpora",
       "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-13-word-tokenization-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-13-word-tokenization-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=NJaxfxRtKV0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NJaxfxRtKV0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M26S",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-13-words-and-corpora/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-13-words-and-corpora/",
+      "originalUrl": "https://youtube.com/watch?v=xsIDTmo1NOg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xsIDTmo1NOg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M26S",
       "provider": {
         "name": "Stanford University",
         "domain": "stanford.edu",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
+      "publishedDateTime": "2021-07-13T20:41:16Z",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/NJaxfxRtKV0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/xsIDTmo1NOg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCHm65NEC38H5RR7Nv-3QnJA6DTzg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -121,37 +121,115 @@
       ]
     },
     {
-      "path": "_learning/videos/stanford-university-14-word-normalization-and-stemming-basic-text-processing-and-edit-distance.md",
-      "title": "1.4 Word Normalization and Stemming | Basic Text Processing and Edit Distance",
+      "path": "_learning/videos/stanford-university-14-word-tokenization.md",
+      "title": "1.4 Word Tokenization",
       "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-word-normalization-and-stemming-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-word-normalization-and-stemming-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=k5UCoz79OL8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k5UCoz79OL8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M48S",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-word-tokenization/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-word-tokenization/",
+      "originalUrl": "https://youtube.com/watch?v=7yFZHf8mzGk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7yFZHf8mzGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M21S",
       "provider": {
         "name": "Stanford University",
         "domain": "stanford.edu",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
+      "publishedDateTime": "2021-07-13T20:42:46Z",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/k5UCoz79OL8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7yFZHf8mzGk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgQigsMA8=&rs=AOn4CLDKuz0K80JMDaZq1H81ne8sf5P5Cg",
           "width": 480,
           "height": 360,
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-15-byte-pair-encoding.md",
+      "title": "1.5 Byte Pair Encoding",
+      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-15-byte-pair-encoding/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-15-byte-pair-encoding/",
+      "originalUrl": "https://youtube.com/watch?v=tOMjTCO0htA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tOMjTCO0htA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M38S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-13T20:43:09Z",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tOMjTCO0htA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCIrTIXO3bbCJShUTW1urpCnYxc5w",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-16-word-normalization.md",
+      "title": "1.6 Word Normalization",
+      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-16-word-normalization/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-16-word-normalization/",
+      "originalUrl": "https://youtube.com/watch?v=bFfWbQoVmIA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bFfWbQoVmIA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M24S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-13T20:43:35Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bFfWbQoVmIA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWyhMMA8=&rs=AOn4CLBSHQPa03JFQ1YEZAfiI4lz-XiwTw",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -180,7 +258,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
+      "publishedDateTime": "2018-01-25T18:34:51Z",
       "heat": 50,
       "images": [
         {
@@ -190,7 +268,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -219,7 +297,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
+      "publishedDateTime": "2018-01-25T18:34:51Z",
       "heat": 50,
       "images": [
         {
@@ -229,7 +307,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -258,7 +336,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
+      "publishedDateTime": "2018-01-25T18:34:51Z",
       "heat": 50,
       "images": [
         {
@@ -268,7 +346,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -297,7 +375,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
+      "publishedDateTime": "2018-01-25T18:34:51Z",
       "heat": 50,
       "images": [
         {
@@ -307,7 +385,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -336,7 +414,7 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
+      "publishedDateTime": "2018-01-25T18:34:51Z",
       "heat": 50,
       "images": [
         {
@@ -346,7 +424,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

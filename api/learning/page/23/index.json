@@ -4,30 +4,53 @@
   "page": 23,
   "value": [
     {
-      "path": "_learning/videos/siraj-raval-how-to-make-a-neural-network-intro-to-deep-learning-2.md",
-      "title": "How to Make a Neural Network - Intro to Deep Learning #2",
-      "excerpt": "How do we learn? In this video, I'll discuss our brain's biological neural network, then we'll talk about how an artificial neural network works. We'll create our own single layer feedforward network in Python, demo it, and analyze the implications of our results. This is the 2nd weekly video in my intro",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-make-a-neural-network-intro-to-deep-learning-2/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-make-a-neural-network-intro-to-deep-learning-2/",
-      "originalUrl": "https://youtube.com/watch?v=p69khggr1Jo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p69khggr1Jo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M20S",
+      "path": "_learning/answers/what-is-the-difference-between-ai-machine-learning-and-deep-learning.md",
+      "title": "What is the Difference between AI, Machine Learning, and Deep Learning",
+      "excerpt": "AI means getting a computer to mimic human behavior in some way. Machine learning is a subset of AI, and it consists of the techniques that enable computers to figure things out from the data and deliver AI applications. Deep learning, meanwhile, is a subset of machine learning that enables computers to solve more complex problems.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/answers/what-is-the-difference-between-ai-machine-learning-and-deep-learning/index.json",
+      "webUrl": "https://blogs.oracle.com/bigdata/difference-ai-machine-learning-deep-learning",
       "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
+        "name": "Oracle",
+        "domain": "oracle.com"
       },
-      "publishedDateTime": "2017-01-24T10:31:39-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/p69khggr1Jo/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f0499405-1197-4b43-b7c5-40548eeb9f34/File/a764b231617e29a0ad933f667d9db4e6/difference_between_ai__machine_learning__deep_learning.png",
+          "width": 1492,
+          "height": 1012,
+          "title": "What is the Difference between AI, Machine Learning, and Deep Learning",
+          "isCached": false
         }
       ],
-      "content": "\r\n",
-      "type": "video",
+      "content": "",
+      "type": "answer",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/articles/algorithmia-introduction-machine-learning-developers.md",
+      "title": "Introduction to Machine Learning for Developers",
+      "excerpt": "Developers often hear about leveraging machine learning algorithms in order to build more intelligent applications, but many don’t know where to start.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/algorithmia-introduction-machine-learning-developers/index.json",
+      "webUrl": "https://algorithmia.com/blog/introduction-machine-learning-developers",
+      "provider": {
+        "name": "algorithmia.com",
+        "domain": "algorithmia.com"
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://algorithmia.com/blog/wp-content/uploads/2016/10/machine-learning-introduction-fb1.png",
+          "width": 1400,
+          "height": 715,
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "article",
       "price": "Free",
       "topics": [
         "AI",
@@ -35,31 +58,1037 @@
       ]
     },
     {
-      "path": "_learning/videos/siraj-raval-how-to-make-a-tensorflow-image-classifier-live.md",
-      "title": "How to Make a Tensorflow Image Classifier (LIVE)",
-      "excerpt": "We're going to build an image classifier using just Tensorflow (no Keras). This will be in depth, the goal for this video is for you to fully understand how a Convolutional Neural Network works. We'll visualize the filters we create along the way as well.  Code for this video: https://github.com/llSourcell/How_to_make_a_tensorflow_image_classifier_LIVE/blob/master/demonotes.ipynb",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-make-a-tensorflow-image-classifier-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-make-a-tensorflow-image-classifier-live/",
-      "originalUrl": "https://youtube.com/watch?v=APmF6qE3Vjc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/APmF6qE3Vjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52M15S",
+      "path": "_learning/articles/medium-beginners-guide-to-computer-vision.md",
+      "title": "Beginner’s Guide to Computer Vision",
+      "excerpt": "The phenomenon that makes machines such as computers or mobile phones see the surroundings is known as Computer Vision. Serious work on re-creating a human eye started way back in 50s and since then, we have come a long way. Computer vision has already made its way to our mobile phone via different e-commerce or camera apps.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/medium-beginners-guide-to-computer-vision/index.json",
+      "webUrl": "https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720",
       "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2017-02-26T19:02:50-08:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/APmF6qE3Vjc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://miro.medium.com/max/1258/0*f_fh55r2DME5l6T6.jpg",
+          "width": 629,
+          "height": 441,
+          "title": "Beginner’s Guide to Computer Vision",
+          "isCached": false
         }
       ],
-      "content": "\r\n",
-      "type": "video",
+      "content": "",
+      "type": "article",
       "price": "Free",
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_learning/articles/monkeylearn-gentle-guide-to-machine-learning.md",
+      "title": "A Gentle Guide to Machine Learning",
+      "excerpt": "Machine Learning is a subfield within Artificial Intelligence that builds algorithms that allow computers to learn to perform tasks from data instead of being explicitly programmed.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/monkeylearn-gentle-guide-to-machine-learning/index.json",
+      "webUrl": "https://monkeylearn.com/blog/gentle-guide-to-machine-learning/",
+      "provider": {
+        "name": "MonkeyLearn",
+        "domain": "monkeylearn.com"
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://monkeylearn.com/blog/wp-content/uploads/2015/08/guide_to_machine_learning-2_thumb-1.png",
+          "width": 720,
+          "height": 336,
+          "title": "A Gentle Guide to Machine Learning",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/articles/r2d3-a-visual-intro-to-machine-learning.md",
+      "title": "A visual introduction to machine learning",
+      "excerpt": "In machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/r2d3-a-visual-intro-to-machine-learning/index.json",
+      "webUrl": "http://www.r2d3.us/visual-intro-to-machine-learning-part-1/",
+      "provider": {
+        "name": "r2d3.us",
+        "domain": "r2d3.us"
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "http://www.r2d3.us/static/pages/decision-trees-part-1/preview-en.png",
+          "width": 1120,
+          "height": 600,
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/articles/remi-canard-blog-the-machine-learning-cheatsheet.md",
+      "title": "The Machine Learning Cheatsheet",
+      "excerpt": "A simple, concise, 5 page document about the most common machine learning algorithms, focusing on how they work.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/remi-canard-blog-the-machine-learning-cheatsheet/index.json",
+      "webUrl": "https://remicnrd.github.io/the-machine-learning-cheatsheet/",
+      "provider": {
+        "name": "Rémi Canard's blog",
+        "domain": "remicnrd.github.io"
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://remicnrd.github.io/assets/img/cheatsheet-1.jpg",
+          "width": 2342,
+          "height": 1808,
+          "title": "The Machine Learning Cheatsheet",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/articles/state-of-ai-report-2019.md",
+      "title": "State of AI Report 2019",
+      "excerpt": "In this report, we set out to capture a snapshot of the exponential progress in AI with a focus on developments in the past 12 months. Consider this report as a compilation of the most interesting things we’ve seen that seeks to trigger an informed conversation about the state of AI and its implication for the future. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/state-of-ai-report-2019/index.json",
+      "webUrl": "https://www.stateof.ai/",
+      "provider": {
+        "name": "State of AI",
+        "domain": "stateof.ai"
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://image.slidesharecdn.com/stateofaireport2019-shared-190625173122/95/state-of-ai-report-2019-1-638.jpg?cb=1562158567",
+          "width": 638,
+          "height": 359,
+          "title": "State of AI Report 2019",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/articles/towardsdatascience-machine-learning-101-for-dummies-like-me.md",
+      "title": "Machine Learning 101 for Dummies like Me",
+      "excerpt": "The purpose of this article in the 101 for Dummies like Me series is to simplify the definition and understanding of machine learning.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/towardsdatascience-machine-learning-101-for-dummies-like-me/index.json",
+      "webUrl": "https://towardsdatascience.com/machine-learning-101-for-dummies-like-me-bdc6d03e1a38",
+      "provider": {
+        "name": "towardsdatascience.com",
+        "domain": "towardsdatascience.com"
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1400/1*yCrFCAmgOukq6SKrO-dBJw.png",
+          "width": 1400,
+          "height": 715,
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/articles/vas3k-blog-machine-learning-for-everyone.md",
+      "title": "Machine Learning for Everyone",
+      "excerpt": "A long blog post that explains machine learning in simple terms, with real-world examples and lots of visuals.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/vas3k-blog-machine-learning-for-everyone/index.json",
+      "webUrl": "https://vas3k.com/blog/machine_learning/",
+      "provider": {
+        "name": "vas3k blog",
+        "domain": "vas3k.com"
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.vas3k.ru/full/80c.jpg",
+          "width": 1400,
+          "height": 715,
+          "title": "Machine Learning for Everyone",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "price": "Free",
+      "topics": [
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-advances-in-financial-machine-learning.md",
+      "title": "Advances in Financial Machine Learning",
+      "excerpt": "Machine learning (ML) is changing virtually every aspect of our lives. Today ML algorithms accomplish tasks that until recently only expert humans could perform. As it relates to finance, this is the most exciting time to adopt a disruptive technology that will transform how everyone invests for generations. Readers will learn how to structure Big data in a way that is amenable to ML algorithms; how",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-advances-in-financial-machine-learning/index.json",
+      "webUrl": "https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/",
+      "ratings": {
+        "count": 141,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Marcos Lopez de Prado",
+            "type": "profile",
+            "name": "Marcos Lopez de Prado"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/51A6sUbwG2L._SX329_BO1,204,203,200_.jpg",
+          "width": 331,
+          "height": 499,
+          "title": "Advances in Financial Machine Learning",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-ai-superpowers-china-silicon-valley-and-the-new-world-order.md",
+      "title": "AI Superpowers: China, Silicon Valley, and the New World Order",
+      "excerpt": "Dr. Kai-Fu Lee—one of the world’s most respected experts on AI and China—reveals that China has suddenly caught up to the US at an astonishingly rapid and unexpected pace.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-ai-superpowers-china-silicon-valley-and-the-new-world-order/index.json",
+      "webUrl": "https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/",
+      "ratings": {
+        "count": 562,
+        "average": 4.4
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Kai-Fu Lee",
+            "type": "profile",
+            "name": "Kai-Fu Lee"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/81JjMSKLeLL._AC_UY218_ML3_.jpg",
+          "width": 145,
+          "height": 218,
+          "title": "AI Superpowers: China, Silicon Valley, and the New World Order",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$12.99",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-an-introduction-to-statistical-learning-with-applications-in-r-springer-texts-in-statistics.md",
+      "title": "An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)",
+      "excerpt": "The book provides an accessible overview of the field of statistical learning, an essential toolset for making sense of the vast and complex data sets that have emerged in fields ranging from biology to finance to marketing to astrophysics in the past twenty years. This book presents some of the most important modeling and prediction techniques, along with relevant applications. Topics include linear regression, classification, resampling methods, shrinkage approaches, tree-based methods, support vector machines, clustering, and more. Color graphics and real-world examples are used to illustrate the methods presented. Since the goal of this textbook is to facilitate the use of these statistical learning techniques by practitioners in science, industry, and other fields, each chapter contains a tutorial on implementing the analyses and methods presented in R, an extremely popular open source statistical software platform.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-an-introduction-to-statistical-learning-with-applications-in-r-springer-texts-in-statistics/index.json",
+      "webUrl": "https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/",
+      "ratings": {
+        "count": 510,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Gareth James",
+            "type": "profile",
+            "name": "Gareth James"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/81HYeeBlGmL._AC_UY218_ML3_.jpg",
+          "width": 145,
+          "height": 218,
+          "title": "An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$57.65",
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-applied-predictive-modeling.md",
+      "title": "Applied Predictive Modeling",
+      "excerpt": "Applied Predictive Modeling covers the overall predictive modeling process, beginning with the crucial steps of data preprocessing, data splitting and foundations of model tuning.  The text then provides intuitive explanations of numerous common and modern regression and classification techniques, always with an emphasis on illustrating and solving real data problems.  Addressing practical concerns extends beyond model fitting to topics such as handling class imbalance, selecting predictors, and pinpointing causes of poor model performance―all of which are problems that occur frequently in practice.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-applied-predictive-modeling/index.json",
+      "webUrl": "https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485/",
+      "ratings": {
+        "count": 126,
+        "average": 4.4
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Max Kuhn",
+            "type": "profile",
+            "name": "Max Kuhn"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/51yXZG8-WiL._AC_UY218_ML3_.jpg",
+          "width": 137,
+          "height": 218,
+          "title": "Applied Predictive Modeling",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$33.43",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-artificial-intelligence-a-modern-approach.md",
+      "title": "Artificial Intelligence: A Modern Approach: The Application in Healthcare, Industry and More: The Fascinating Topic of Machine Learning and Prediction Machines: The Complexity Explained for Beginners",
+      "excerpt": "Artificial intelligence is a word that carries with it heavy connotations. Although artificial intelligence is nothing more than the capacity for logic and understanding that machines can exhibit, in the minds of most people artificial intelligence is almost a Pandora’s box that, when opened, will eventually signal the human race’s doom..The idea that machines pose an existential threat to human beings",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-artificial-intelligence-a-modern-approach/index.json",
+      "webUrl": "https://www.amazon.com/Artificial-intelligence-modern-approach-application/dp/1082457264",
+      "ratings": {
+        "count": 15,
+        "average": 4.2
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Chris Baker",
+            "type": "profile",
+            "name": "Chris Baker"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41mK8iVIZxL._SX331_BO1,204,203,200_.jpg",
+          "width": 333,
+          "height": 499,
+          "title": "Artificial Intelligence: A Modern Approach: The Application in Healthcare, Industry and More: The Fascinating Topic of Machine Learning and Prediction Machines: The Complexity Explained for Beginners",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$0.00",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-autonomy-the-quest-to-build-the-driverless-carand-how-it-will-reshape-our-world.md",
+      "title": "Autonomy: The Quest to Build the Driverless Car―And How It Will Reshape Our World",
+      "excerpt": "An automotive and tech world insider investigates the quest to develop and perfect the driverless car—an innovation that promises to be the most disruptive change to our way of life since the smartphone",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-autonomy-the-quest-to-build-the-driverless-carand-how-it-will-reshape-our-world/index.json",
+      "webUrl": "https://www.amazon.com/Autonomy-Quest-Driverless-Car-Reshape/dp/0062661124/",
+      "ratings": {
+        "count": 67,
+        "average": 4.1
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Lawrence D Burns",
+            "type": "profile",
+            "name": "Lawrence D Burns"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/51v59nEibuL._AC_UY218_ML3_.jpg",
+          "width": 147,
+          "height": 218,
+          "title": "Autonomy: The Quest to Build the Driverless Car―And How It Will Reshape Our World",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$13.98",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-causation-prediction-and-search-adaptive-computation-and-machine-learning-series.md",
+      "title": "Causation, Prediction, and Search (Adaptive Computation and Machine Learning series)",
+      "excerpt": "The authors address the assumptions and methods that allow us to turn observations into causal knowledge, and use even incomplete causal knowledge in planning and prediction to influence and control our environment.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-causation-prediction-and-search-adaptive-computation-and-machine-learning-series/index.json",
+      "webUrl": "https://www.amazon.com/Causation-Prediction-Adaptive-Computation-Learning/dp/0262527928/",
+      "ratings": {
+        "count": 2,
+        "average": 4.3
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Peter Spirtes",
+            "type": "profile",
+            "name": "Peter Spirtes"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41jBqDLHJmL._AC_UY218_ML3_.jpg",
+          "width": 170,
+          "height": 218,
+          "title": "Causation, Prediction, and Search (Adaptive Computation and Machine Learning series)",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$70.00",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-code-the-hidden-language-of-computer-hardware-and-software.md",
+      "title": "Code: The Hidden Language of Computer Hardware and Software",
+      "excerpt": "What do flashlights, the British invasion, black cats, and seesaws have to do with computers? In CODE, they show us the ingenious ways we manipulate language and invent new means of communicating with each other. And through CODE, we see how this ingenuity and our very human compulsion to communicate have driven the technological innovations of the past two centuries. Using everyday objects and familiar language systems such as Braille and Morse code, author Charles Petzold weaves an illuminating narrative for anyone who’s ever wondered about the secret inner life of computers and other smart machines.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-code-the-hidden-language-of-computer-hardware-and-software/index.json",
+      "webUrl": "https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/",
+      "ratings": {
+        "count": 709,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Charles Petzold",
+            "type": "profile",
+            "name": "Charles Petzold"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/61bA23zSr5L._AC_UY218_ML3_.jpg",
+          "width": 146,
+          "height": 218,
+          "title": "Code: The Hidden Language of Computer Hardware and Software",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$21.68",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-computer-vision-models-learning-and-inference.md",
+      "title": "Computer Vision: Models, Learning, and Inference",
+      "excerpt": "This modern treatment of computer vision focuses on learning and inference in probabilistic models as a unifying theme. It shows how to use training data to learn the relationships between the observed image data and the aspects of the world that we wish to estimate, such as the 3D structure or the object class, and how to exploit these relationships to make new inferences about the world from new image data. W",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-computer-vision-models-learning-and-inference/index.json",
+      "webUrl": "https://www.amazon.com/Computer-Vision-Models-Learning-Inference/dp/1107011795/",
+      "ratings": {
+        "count": 34,
+        "average": 4.4
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Simon J. D. Prince",
+            "type": "profile",
+            "name": "Simon J. D. Prince"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/71DmZ2N+4DL._AC_UY218_ML3_.jpg",
+          "width": 145,
+          "height": 218,
+          "title": "Computer Vision: Models, Learning, and Inference",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$47.88",
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-data-science-in-r-a-case-studies-approach-to-computational-reasoning-and-problem-solving-chapman-hallcrc-the-r-series.md",
+      "title": "Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving (Chapman & Hall/CRC The R Series)",
+      "excerpt": "The book illustrates the details involved in solving real computational problems encountered in data analysis. It reveals the dynamic and iterative process by which data analysts approach a problem and reason about different ways of implementing solutions.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-data-science-in-r-a-case-studies-approach-to-computational-reasoning-and-problem-solving-chapman-hallcrc-the-r-series/index.json",
+      "webUrl": "https://www.amazon.com/Data-Science-Approach-Computational-Reasoning/dp/1482234815/",
+      "ratings": {
+        "count": 6,
+        "average": 4.2
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Deborah Nolan",
+            "type": "profile",
+            "name": "Deborah Nolan"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/517JI1PMaPL._AC_UY218_ML3_.jpg",
+          "width": 153,
+          "height": 218,
+          "title": "Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving (Chapman & Hall/CRC The R Series)",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$63.16",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-deep-learning-adaptive-computation-and-machine-learning-series.md",
+      "title": "Deep Learning (Adaptive Computation and Machine Learning series)",
+      "excerpt": "An introduction to a broad range of topics in deep learning, covering mathematical and conceptual background, deep learning techniques used in industry, and research perspectives.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-deep-learning-adaptive-computation-and-machine-learning-series/index.json",
+      "webUrl": "https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/",
+      "ratings": {
+        "count": 704,
+        "average": 4.0
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Ian Goodfellow",
+            "type": "profile",
+            "name": "Ian Goodfellow"
+          },
+          {
+            "path": "",
+            "title": "Yoshua Bengio",
+            "type": "profile",
+            "name": "Yoshua Bengio"
+          },
+          {
+            "path": "",
+            "title": "Aaron Courville",
+            "type": "profile",
+            "name": "Aaron Courville"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate",
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/61AWo6sS+-L._AC_UY218_ML3_.jpg",
+          "width": 166,
+          "height": 218,
+          "title": "Deep Learning (Adaptive Computation and Machine Learning series)",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$25.20",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-deep-learning-illustrated-a-visual-interactive-guide-to-artificial-intelligence-addison-wesley-data-amp-analytics-series.md",
+      "title": "Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence (Addison-Wesley Data &amp; Analytics Series)",
+      "excerpt": "Deep learning is transforming software, facilitating powerful new artificial intelligence capabilities, and driving unprecedented algorithm performance. Deep Learning Illustrated is uniquely intuitive and offers a complete introduction to the discipline’s techniques. Packed with full-color figures and easy-to-follow code, it sweeps away the complexity of building deep learning models, making the subject approachable and fun to learn.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-deep-learning-illustrated-a-visual-interactive-guide-to-artificial-intelligence-addison-wesley-data-amp-analytics-series/index.json",
+      "webUrl": "https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694/",
+      "ratings": {
+        "count": 57,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Jon Krohn",
+            "type": "profile",
+            "name": "Jon Krohn"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/516y7pRsyzL._AC_UY218_ML3_.jpg",
+          "width": 167,
+          "height": 218,
+          "title": "Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence (Addison-Wesley Data &amp; Analytics Series)",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$42.05",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-deep-learning-with-python.md",
+      "title": "Deep Learning with Python",
+      "excerpt": "Deep Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google AI researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-deep-learning-with-python/index.json",
+      "webUrl": "https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/",
+      "ratings": {
+        "count": 379,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Francois Chollet",
+            "type": "profile",
+            "name": "Francois Chollet"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate",
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/81rBwolAvOL._AC_UY218_ML3_.jpg",
+          "width": 175,
+          "height": 218,
+          "title": "Deep Learning with Python",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$22.00",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-discovering-statistics-using-r.md",
+      "title": "Discovering Statistics Using R",
+      "excerpt": "The R version of Andy Field′s hugely popular Discovering Statistics Using SPSS takes students on a journey of statistical discovery using the freeware R. Like its sister textbook, Discovering Statistics Using R is written in an irreverent style and follows the same ground breaking structure and pedagogical approach. The core material is enhanced by a cast of characters to help the reader on their way, hundreds of examples, self assessment tests to consolidate knowledge, and additional website material for those wanting to learn more.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-discovering-statistics-using-r/index.json",
+      "webUrl": "https://www.amazon.com/Discovering-Statistics-Using-Andy-Field/dp/1446200469/",
+      "ratings": {
+        "count": 245,
+        "average": 4.4
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Andy Field",
+            "type": "profile",
+            "name": "Andy Field"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41M2PgYiZXL._AC_UY218_ML3_.jpg",
+          "width": 160,
+          "height": 218,
+          "title": "Discovering Statistics Using R",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$34.99",
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-driverless-intelligent-cars-and-the-road-ahead-the-mit-press.md",
+      "title": "Driverless: Intelligent Cars and the Road Ahead (The MIT Press)",
+      "excerpt": "In the coming decade, intelligent cars and trucks will hit the streets, rearranging established industries, enabling new business models, saving lives, easing air pollution, and reshaping cities. Long-suffering commuters will finally be able to live wherever they wish, and read (or nap) on their drive to work. The bad news is that hundreds of thousands of driving-related jobs are at risk, our legal system will need to be re-drawn, and passenger privacy could become a luxury of the past.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-driverless-intelligent-cars-and-the-road-ahead-the-mit-press/index.json",
+      "webUrl": "https://www.amazon.com/Driverless-Intelligent-Cars-Ahead-Press-ebook/dp/B01K13FURS/",
+      "ratings": {
+        "count": 25,
+        "average": 4.4
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Hod Lipson",
+            "type": "profile",
+            "name": "Hod Lipson"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/816td2bsbaL._AC_UY218_ML3_.jpg",
+          "width": 148,
+          "height": 218,
+          "title": "Driverless: Intelligent Cars and the Road Ahead (The MIT Press)",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$9.99",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-hands-on-machine-learning-with-scikit-learn-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems.md",
+      "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems",
+      "excerpt": "Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-hands-on-machine-learning-with-scikit-learn-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems/index.json",
+      "webUrl": "https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/",
+      "ratings": {
+        "count": 745,
+        "average": 4.4
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Aur&amp;eacute;lien G&amp;eacute;ron",
+            "type": "profile",
+            "name": "Aur&amp;eacute;lien G&amp;eacute;ron"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/71P4atQpTbL._AC_UY218_ML3_.jpg",
+          "width": 156,
+          "height": 218,
+          "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$50.99",
       "topics": [
         "AI",
         "Machine Learning",
@@ -68,1043 +1097,256 @@
       ]
     },
     {
-      "path": "_learning/videos/siraj-raval-how-to-make-data-amazing-intro-to-deep-learning-5.md",
-      "title": "How to Make Data Amazing - Intro to Deep Learning #5",
-      "excerpt": "In this video, we'll go through data preprocessing steps for 3 different datasets. We'll also go in depth on a dimensionality reduction technique called Principal Component Analysis.  Coding challenge for this video: https://github.com/llSourcell/How_to_Make_Data_Amazing  Charles-David's Winning Code:",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-make-data-amazing-intro-to-deep-learning-5/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-make-data-amazing-intro-to-deep-learning-5/",
-      "originalUrl": "https://youtube.com/watch?v=koiTTim4M-s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/koiTTim4M-s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M44S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
+      "path": "_learning/books/amazon-human-compatible-artificial-intelligence-and-the-problem-of-control.md",
+      "title": "Human Compatible: Artificial Intelligence and the Problem of Control",
+      "excerpt": "A leading artificial intelligence researcher lays out a new approach to AI that will enable us to coexist successfully with increasingly intelligent machines",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-human-compatible-artificial-intelligence-and-the-problem-of-control/index.json",
+      "webUrl": "https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616/",
+      "ratings": {
+        "count": 74,
+        "average": 4.7
       },
-      "publishedDateTime": "2017-02-11T22:05:19-08:00",
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Stuart Russell",
+            "type": "profile",
+            "name": "Stuart Russell"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/koiTTim4M-s/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://m.media-amazon.com/images/I/81WSOFawK1L._AC_UY218_ML3_.jpg",
+          "width": 144,
+          "height": 218,
+          "title": "Human Compatible: Artificial Intelligence and the Problem of Control",
+          "isCached": false
         }
       ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "content": "",
+      "type": "book",
+      "price": "$25.20",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-learning-from-data.md",
+      "title": "Learning From Data",
+      "excerpt": "This book, together with specially prepared online material freely accessible to our readers, provides a complete introduction to Machine Learning, the technology that enables computational systems to adaptively improve their performance with experience accumulated from the observed data.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-learning-from-data/index.json",
+      "webUrl": "https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069/",
+      "ratings": {
+        "count": 172,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Yaser S. Abu-Mostafa",
+            "type": "profile",
+            "name": "Yaser S. Abu-Mostafa"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/81k-OvvReZL._AC_UY218_ML3_.jpg",
+          "width": 142,
+          "height": 218,
+          "title": "Learning From Data",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$28.00",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/siraj-raval-how-to-predict-music-you-love-live.md",
-      "title": "How to Predict Music You Love (LIVE)",
-      "excerpt": "In this video, we're going to look at several different type of recommender systems in an iPython notebook. Popularity based, item-item collaborative, then user-item collaborative. Then we'll touch on the bleeding edge in deep learning at the end. Also I freestyle. Twice lol.  Code for this video: https://github.com/llSourcell/recommender_live",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-predict-music-you-love-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-predict-music-you-love-live/",
-      "originalUrl": "https://youtube.com/watch?v=18adykNGhHU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/18adykNGhHU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT51M31S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
+      "path": "_learning/books/amazon-learning-opencv-computer-vision-with-the-opencv-library.md",
+      "title": "Learning OpenCV: Computer Vision with the OpenCV Library",
+      "excerpt": "\"This library is useful for practitioners, and is an excellent tool for those entering the field: it is a set of computer vision algorithms that work as advertised.\"-William T. Freeman, Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology Learning OpenCV puts you in the middle of the rapidly expanding field of computer vision. Written by the creators of the",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-learning-opencv-computer-vision-with-the-opencv-library/index.json",
+      "webUrl": "https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/B0742JQF31/",
+      "ratings": {
+        "count": 771,
+        "average": 4.3
       },
-      "publishedDateTime": "2017-02-11T22:05:19-08:00",
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Gary Bradski",
+            "type": "profile",
+            "name": "Gary Bradski"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/18adykNGhHU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://m.media-amazon.com/images/I/51KZWTKsUBL._SX383_BO1,204,203,200_.jpg",
+          "width": 385,
+          "height": 499,
+          "title": "Learning OpenCV: Computer Vision with the OpenCV Library",
+          "isCached": false
         }
       ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "content": "",
+      "type": "book",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/siraj-raval-how-to-simplify-your-dataset-easily-live.md",
-      "title": "How to Simplify Your Dataset Easily (LIVE)",
-      "excerpt": "We're going to compare some different techniques that reduce the dimensionality of our data so we can visualize it. We'll go through each one step by step including the math and I'll answer questions along the way. And I freestyle.  Code for this video: https://github.com/llSourcell/How_to_Simplify_Your_Data-LIVE-",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-simplify-your-dataset-easily-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-simplify-your-dataset-easily-live/",
-      "originalUrl": "https://youtube.com/watch?v=K796Ae4gLlY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K796Ae4gLlY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H16S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
+      "path": "_learning/books/amazon-life-30-being-human-in-the-age-of-artificial-intelligence.md",
+      "title": "Life 3.0: Being Human in the Age of Artificial Intelligence",
+      "excerpt": "How will artificial intelligence affect crime, war, justice, jobs, society, and our very sense of being human? The rise of AI has the potential to transform our future more than any other technology - and there's nobody better qualified or situated to explore that future than Max Tegmark, an MIT professor who's helped mainstream research on how to keep AI beneficial.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-life-30-being-human-in-the-age-of-artificial-intelligence/index.json",
+      "webUrl": "https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/B0742JQF31/",
+      "ratings": {
+        "count": 310,
+        "average": 4.3
       },
-      "publishedDateTime": "2017-02-26T19:02:50-08:00",
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Max Tegmark",
+            "type": "profile",
+            "name": "Max Tegmark"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/K796Ae4gLlY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://m.media-amazon.com/images/I/71L0Wz980PL._AC_UY218_ML3_.jpg",
+          "width": 239,
+          "height": 218,
+          "title": "Life 3.0: Being Human in the Age of Artificial Intelligence",
+          "isCached": false
         }
       ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "content": "",
+      "type": "book",
+      "price": "$17.00",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/siraj-raval-how-to-use-tensorboard-live.md",
-      "title": "How to Use Tensorboard (LIVE)",
-      "excerpt": "We're going to learn how the visualizer that comes with Tensorflow works in this live stream. We'll go through a bunch of different features and test out its functionality both programmatically and visually.  4:41 code begins 37:07 tensorboard visualization begins  Code for this video:  https://github.com/llSourcell/how_to_use_tensorboard_live/tree/master",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-use-tensorboard-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-use-tensorboard-live/",
-      "originalUrl": "https://youtube.com/watch?v=fBVEXKp4DIc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fBVEXKp4DIc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M4S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
+      "path": "_learning/books/amazon-linear-algebra-and-its-applications-4th-edition.md",
+      "title": "Linear Algebra and Its Applications, 4th Edition",
+      "excerpt": "Linear algebra is relatively easy for students during the early stages of the course, when the material is presented in a familiar, concrete setting. But when abstract concepts are introduced, students often hit a brick wall. Instructors seem to agree that certain concepts (such as linear independence, spanning, subspace, vector space, and linear transformations), are not easily understood, and require time to assimilate. Since they are fundamental to the study of linear algebra, students' understanding of these concepts is vital to their mastery of the subject. David Lay introduces these concepts early in a familiar, concrete Rn setting, develops them gradually, and returns to them again and again throughout the text so that when discussed in the abstract, these concepts are more accessible.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-linear-algebra-and-its-applications-4th-edition/index.json",
+      "webUrl": "https://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0321385179/",
+      "ratings": {
+        "count": 202,
+        "average": 3.9
       },
-      "publishedDateTime": "2017-04-10T16:16:33-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fBVEXKp4DIc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-use-tensorflow-for-classification-live.md",
-      "title": "How to Use Tensorflow for Classification (LIVE)",
-      "excerpt": "In this live session I'll introduce & give an overview of Google's Deep Learning library, Tensorflow. Then we'll use it to build a neural network capable of predicting housing prices, with me explaining every step along the way.  Code for this video: https://github.com/llSourcell/How_to_use_Tensorflow_for_classification-LIVE",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-use-tensorflow-for-classification-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-use-tensorflow-for-classification-live/",
-      "originalUrl": "https://youtube.com/watch?v=4urPuRoT1sE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4urPuRoT1sE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M16S",
       "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-02-04T19:16:01-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4urPuRoT1sE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-use-tensorflow-for-time-series-live.md",
-      "title": "How to Use Tensorflow for Time Series (Live)",
-      "excerpt": "We're going to use Tensorflow to predict the next event in a time series dataset. This can be applied to any kind of sequential data.   Code for this video: https://github.com/llSourcell/rnn_tutorial  Please Subscribe! And Like. And comment. That's what keeps me going.   More learning resources: https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-use-tensorflow-for-time-series-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-use-tensorflow-for-time-series-live/",
-      "originalUrl": "https://youtube.com/watch?v=hhJIztWR_vo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hhJIztWR_vo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H6M31S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-03-18T01:02:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hhJIztWR_vo/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-win-slot-machines-intro-to-deep-learning-13.md",
-      "title": "How to Win Slot Machines - Intro to Deep Learning #13",
-      "excerpt": "We'll learn how to solve the multi-armed bandit problem (maximizing success for a given slot machine) using a reinforcement learning technique called policy gradients.  Code for this video: https://github.com/llSourcell/how_to_win_slot_machines  Mike's winning code: https://github.com/xkortex/Siraj_Chatbot_Challenge",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-win-slot-machines-intro-to-deep-learning-13/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-win-slot-machines-intro-to-deep-learning-13/",
-      "originalUrl": "https://youtube.com/watch?v=AIeWLTUYLZQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AIeWLTUYLZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M38S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-04-10T16:16:33-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AIeWLTUYLZQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-101-what-is-question-answering-relation-extraction-and-question-answering.md",
-      "title": "10.1 What is Question Answering  | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-101-what-is-question-answering-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-101-what-is-question-answering-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=4-ABqPEPt28",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4-ABqPEPt28\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M29S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
+        "name": "Amazon",
+        "domain": "amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:43:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4-ABqPEPt28/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-102-answer-types-and-query-formulation-relation-extraction-and-question-answering.md",
-      "title": "10.2 Answer Types and Query Formulation | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-102-answer-types-and-query-formulation-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-102-answer-types-and-query-formulation-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=mRJ1_3QGtkk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mRJ1_3QGtkk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M48S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
+        ],
+        "authors": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
+            "path": "",
+            "title": "David C. Lay",
+            "type": "profile",
+            "name": "David C. Lay"
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:43:51-08:00",
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mRJ1_3QGtkk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://m.media-amazon.com/images/I/41-T+n4g3mL._AC_UY218_ML3_.jpg",
+          "width": 174,
+          "height": 218,
+          "title": "Linear Algebra and Its Applications, 4th Edition",
+          "isCached": false
         }
       ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "content": "",
+      "type": "book",
+      "price": "$11.98",
       "topics": [
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-103-passage-retrieval-and-answer-extraction-relation-extraction-and-question-answering.md",
-      "title": "10.3 Passage Retrieval and Answer Extraction | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-103-passage-retrieval-and-answer-extraction-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-103-passage-retrieval-and-answer-extraction-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=Y_X7y3WP9WU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y_X7y3WP9WU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M39S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:43:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y_X7y3WP9WU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-104-using-knowledge-in-qa-relation-extraction-and-question-answering.md",
-      "title": "10.4 Using Knowledge in QA | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-104-using-knowledge-in-qa-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-104-using-knowledge-in-qa-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=WGxgNt4ghlI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WGxgNt4ghlI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M26S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:43:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WGxgNt4ghlI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-105-advanced-answering-complex-questions-relation-extraction-and-question-answering.md",
-      "title": "10.5 Advanced  Answering Complex Questions | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-105-advanced-answering-complex-questions-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-105-advanced-answering-complex-questions-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=08NxMPiQi7s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/08NxMPiQi7s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M53S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:43:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/08NxMPiQi7s/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance.md",
-      "title": "1.1 Regular Expressions | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=808M7q8QX0E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/808M7q8QX0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M26S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-12-sentence-segmentation-basic-text-processing-and-edit-distance.md",
-      "title": "1.2 Sentence Segmentation | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-12-sentence-segmentation-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-12-sentence-segmentation-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=Ljn8YkZrce8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ljn8YkZrce8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M35S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ljn8YkZrce8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-13-word-tokenization-basic-text-processing-and-edit-distance.md",
-      "title": "1.3 Word Tokenization | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-13-word-tokenization-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-13-word-tokenization-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=NJaxfxRtKV0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NJaxfxRtKV0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M26S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NJaxfxRtKV0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics.md",
-      "title": "13.10 Word Similarity  Distributional Similarity II | Recommendation Systems and Vector Semantics",
-      "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics/",
-      "originalUrl": "https://youtube.com/watch?v=eSdBnha0xJc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eSdBnha0xJc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M16S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:45:08-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eSdBnha0xJc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics.md",
-      "title": "13.8 Word Similarity  Distributional Similarity I | Recommendation Systems and Vector Semantics",
-      "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics/",
-      "originalUrl": "https://youtube.com/watch?v=swDoFpuHpzQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/swDoFpuHpzQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M15S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:45:08-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/swDoFpuHpzQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering.md",
-      "title": "14   1   Anchor Text | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=-rfVrRAgzHM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-rfVrRAgzHM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M40S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:46:05-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-rfVrRAgzHM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering.md",
-      "title": "14   3   Computing PageRank | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=TlVs9nMyZyQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TlVs9nMyZyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M10S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:46:05-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TlVs9nMyZyQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-14-word-normalization-and-stemming-basic-text-processing-and-edit-distance.md",
-      "title": "1.4 Word Normalization and Stemming | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-word-normalization-and-stemming-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-word-normalization-and-stemming-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=k5UCoz79OL8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k5UCoz79OL8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M48S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/k5UCoz79OL8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-21-defining-minimum-edit-distance-basic-text-processing-and-edit-distance.md",
-      "title": "2.1 Defining Minimum Edit Distance | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-21-defining-minimum-edit-distance-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-21-defining-minimum-edit-distance-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=V14ikwzaLds",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V14ikwzaLds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M5S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/V14ikwzaLds/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-22-computing-minimum-edit-distance-basic-text-processing-and-edit-distance.md",
-      "title": "2.2 Computing Minimum Edit Distance | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-22-computing-minimum-edit-distance-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-22-computing-minimum-edit-distance-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=NlGoRN1C13w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NlGoRN1C13w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M55S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NlGoRN1C13w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-23-backtrace-for-computing-alignments-basic-text-processing-and-edit-distance.md",
-      "title": "2.3 Backtrace for Computing Alignments | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-23-backtrace-for-computing-alignments-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-23-backtrace-for-computing-alignments-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=quDUYXXLZsM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/quDUYXXLZsM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M56S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/quDUYXXLZsM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-24-weighted-minimum-edit-distance-basic-text-processing-and-edit-distance.md",
-      "title": "2.4 Weighted Minimum Edit Distance | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-24-weighted-minimum-edit-distance-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-24-weighted-minimum-edit-distance-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=gx7Fkf1n_5w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gx7Fkf1n_5w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M48S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gx7Fkf1n_5w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-25-minimum-edit-distance-in-computational-biology-basic-text-processing-and-edit-distance.md",
-      "title": "2.5 Minimum Edit Distance in Computational Biology | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-25-minimum-edit-distance-in-computational-biology-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-25-minimum-edit-distance-in-computational-biology-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=gVe8SAE-O1s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gVe8SAE-O1s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M31S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gVe8SAE-O1s/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction.md",
-      "title": "3.1 Introduction to N grams | Language Modeling and Spelling Correction",
-      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction/",
-      "originalUrl": "https://youtube.com/watch?v=hM49MPmakNI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hM49MPmakNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M42S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:39:27-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction.md",
-      "title": "3.2 Estimating N gram Probabilities | Language Modeling and Spelling Correction",
-      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction/",
-      "originalUrl": "https://youtube.com/watch?v=UyC0bBiZY-A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UyC0bBiZY-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M39S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:39:27-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UyC0bBiZY-A/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-33-evaluation-and-perplexity-language-modeling-and-spelling-correction.md",
-      "title": "3.3 Evaluation and Perplexity | Language Modeling and Spelling Correction",
-      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-33-evaluation-and-perplexity-language-modeling-and-spelling-correction/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-33-evaluation-and-perplexity-language-modeling-and-spelling-correction/",
-      "originalUrl": "https://youtube.com/watch?v=gTxlO_pCFaI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gTxlO_pCFaI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M10S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:39:27-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gTxlO_pCFaI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
+        "Math for AI"
       ]
     }
   ],

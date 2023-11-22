@@ -4,9 +4,9 @@ excerpt: "***** Python Certification Training for Data Science: https://www.edur
 originalUrl: https://youtube.com/watch?v=dVr7r7QgLrk
 type: video
 price: Free
-length: PT32M4S
+length: PT31M50S
 publishedDateTime: 2018-04-25T15:13:46Z
-heat: 56
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dVr7r7QgLrk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "yS6RxOuaOh/qB8MIIxQOYx6u1CWyaWrFz9yQZf4Uu5mwLNJ2YZC7qFLHJoHjJLxNHnTTr2foQ192ft33IdmOkQwKW2tYwvloHPaw+vFQMT96zp+6/FhOAQRwP/hGnMR0prtgc7Vr4b/20RHn5cNevGmzHbgWtlC0u0CaoO1IG8oZZ28w/U3eAHhYFGzaQmgOGfcGdyB1ISnUbwAJpZ+Nk6ztFH6Tsr+S/4fyl5ejfxlI2Dp4yGxbx++vERB0stcgk4C8JSrMk6JJ9nz/+ChgcnXm+r+SpKWci0GqY59VaGBd2WwafFm6LvH5texUmeIpNgTzc35wHQNz2Uqg9m48NVWI8p8XOrrKUP1Elsm8bVjxno6zz0mpTWHR9fkKEMx/IOMeO34Wt/wYR69DQNSTFwaKPfje7Td4+NAkH4AoH6o=;omZEct1AzUQ+JyxT+uMw4Q=="
+secured: "Jr/xxlqSfMKqlDIHg2n6aWFmATC9vewy4yYn+Y3s6CfzYzHbvry3HyBda+Wo6POtMkLoPJA3xwuxy0ydFWADAX4yPWcs0S36XPghS7fkDAh37ht491tkgfN5OX+pXbdlyedIw+DN9kkHqvHUFcAuKPHM8PbHphXJBui59fp9HxnGi5GIfVc/L2Q7tH1x6h4OgsmfHJE7GcqRzb2K2lVK8Y1mgQj/bLZ8l8hX4pV+YRU/UItSEkjwEFfxIiLM0uyN8dgcQFm+QXwlywidACoQ+0juE78YxBK6WkabWmFYdk1lhb4hIvUBN+ppKxGt3LfcFTHmYe5F4INM2jhn617adE1cuD2YBT4beW/FC8uXYLRomyYS0gGl8UD/iodS0QgMrT6w7lFIVcOni/QK4NggV146ZCE8srn+Rf0j9EfRdRU=;wBaytz3FWEMnPFfynY+4kg=="
 ---
 

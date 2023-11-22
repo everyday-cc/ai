@@ -2,7 +2,7 @@
 title: "From Languages to Information Week 1: Basic Text Processing and Edit Distance | Stanford University"
 excerpt: "This is the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course"
 type: collection
-heat: 60
+heat: 61
 
 provider:
   name: Stanford University
@@ -14,9 +14,11 @@ provider:
 
 items:
   - videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance
-  - videos/stanford-university-12-sentence-segmentation-basic-text-processing-and-edit-distance
-  - videos/stanford-university-13-word-tokenization-basic-text-processing-and-edit-distance
-  - videos/stanford-university-14-word-normalization-and-stemming-basic-text-processing-and-edit-distance
+  - videos/stanford-university-12-regular-expression-substitutions
+  - videos/stanford-university-13-words-and-corpora
+  - videos/stanford-university-14-word-tokenization
+  - videos/stanford-university-15-byte-pair-encoding
+  - videos/stanford-university-16-word-normalization
   - videos/stanford-university-21-defining-minimum-edit-distance-basic-text-processing-and-edit-distance
   - videos/stanford-university-22-computing-minimum-edit-distance-basic-text-processing-and-edit-distance
   - videos/stanford-university-23-backtrace-for-computing-alignments-basic-text-processing-and-edit-distance

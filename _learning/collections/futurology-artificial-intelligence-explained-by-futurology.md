@@ -2,7 +2,7 @@
 title: "Artificial Intelligence Explained by Futurology"
 excerpt: "This playlist is a composition of all videos related to artificial intelligence, from the history of AI to modern machine learning algorithms, artificial super intelligence and more!"
 type: collection
-heat: 62
+heat: 64
 
 provider:
   name: Futurology
@@ -10,17 +10,17 @@ provider:
 
 items:
   - videos/futurology-the-history-of-artificial-intelligence-documentary
-  - videos/futurology-artificial-intelligence-a-history
+  - videos/futurology-the-ancient-history-of-artificial-intelligence
   - videos/futurology-the-birth-of-artificial-intelligence
-  - videos/futurology-supervised-learning-explained
-  - videos/futurology-unsupervised-learning-explained
-  - videos/futurology-machine-learning-everything-you-need-to-know
-  - videos/futurology-what-is-deep-learning-why-deep-learning-is-so-popular
-  - videos/futurology-what-are-neural-networks-from-the-brain-to-artificial-intelligence
+  - videos/futurology-supervised-machine-learning-explained
+  - videos/futurology-unsupervised-machine-learning-explained
+  - videos/futurology-what-is-machine-learning-machine-learning-explained
+  - videos/futurology-deep-learning-explained-why-deep-learning-is-so-popular
+  - videos/futurology-from-the-brain-to-ai-what-are-neural-networks
   - videos/futurology-how-to-make-a-neural-network-neural-networks-explained
-  - videos/futurology-how-computers-learn-gradient-descent-backpropagation
-  - videos/futurology-deep-learning-explained-how-neural-networks-work
-  - videos/futurology-how-convolutional-neural-networks-work-cnns-explained-visualized
+  - videos/futurology-how-computers-learn-neural-networks-explained-gradient-descent-backpropagation
+  - videos/futurology-how-neural-networks-work-neural-networks-explained
+  - videos/futurology-convolutional-neural-networks-explained-cnn-visualized
 
 topics:
   - AI

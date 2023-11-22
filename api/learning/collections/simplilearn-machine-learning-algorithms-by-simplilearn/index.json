@@ -24,7 +24,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:11:52-08:00",
+      "publishedDateTime": "2019-01-07T09:11:52Z",
       "heat": 77,
       "images": [
         {
@@ -34,7 +34,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -63,8 +63,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:12:12-08:00",
-      "heat": 59,
+      "publishedDateTime": "2019-01-07T09:12:12Z",
+      "heat": 61,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XnOAdxOWXWg/maxresdefault.jpg",
@@ -73,7 +73,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -102,7 +102,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:12:35-08:00",
+      "publishedDateTime": "2019-01-07T09:12:35Z",
       "heat": 67,
       "images": [
         {
@@ -112,7 +112,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -141,8 +141,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:12:59-08:00",
-      "heat": 71,
+      "publishedDateTime": "2019-01-07T09:12:59Z",
+      "heat": 66,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/eM4uJ6XGnSM/maxresdefault.jpg",
@@ -151,7 +151,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -180,8 +180,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:13:52-08:00",
-      "heat": 62,
+      "publishedDateTime": "2019-01-07T09:13:52Z",
+      "heat": 61,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/l3dZ6ZNFjo0/maxresdefault.jpg",
@@ -190,7 +190,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -219,8 +219,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:13:31-08:00",
-      "heat": 62,
+      "publishedDateTime": "2019-01-07T09:13:31Z",
+      "heat": 64,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/TtKF996oEl8/maxresdefault.jpg",
@@ -229,7 +229,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -238,11 +238,11 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-knn-algorithm-using-python-how-knn-algorithm-works-data-science-for-beginners-simplilearn.md",
-      "title": "KNN Algorithm Using Python | How KNN Algorithm Works | Data Science For Beginners | Simplilearn",
-      "excerpt": "This KNN Algorithm tutorial (K-Nearest Neighbor Classification Algorithm tutorial) will help you understand what is KNN, why do we need KNN, how do we choose the factor 'K', when do we use KNN, how does KNN algorithm work and you will also see a use case demo showing how to predict whether a person will",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-knn-algorithm-using-python-how-knn-algorithm-works-data-science-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-knn-algorithm-using-python-how-knn-algorithm-works-data-science-for-beginners-simplilearn/",
+      "path": "_learning/videos/simplilearn-knn-algorithm-in-machine-learning-knn-algorithm-using-python-k-nearest-neighbor-simplilearn.md",
+      "title": "KNN Algorithm In Machine Learning | KNN Algorithm Using Python | K Nearest Neighbor | Simplilearn",
+      "excerpt": "Become An AI & ML Expert Today: https://taplink.cc/simplilearn_ai_ml 🔥AI & Machine Learning Bootcamp(US Only): https://www.simplilearn.com/ai-machine-learning-bootcamp?utm_campaign=KNNInMLMachineLearning&utm_medium=Descriptionff&utm_source=youtube 🔥Professional Certificate Course In AI And Machine",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-knn-algorithm-in-machine-learning-knn-algorithm-using-python-k-nearest-neighbor-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-knn-algorithm-in-machine-learning-knn-algorithm-using-python-k-nearest-neighbor-simplilearn/",
       "originalUrl": "https://youtube.com/watch?v=4HKqjENq9OU",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4HKqjENq9OU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT27M43S",
@@ -251,14 +251,14 @@
         "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:13:20-08:00",
+      "publishedDateTime": "2019-01-07T09:13:20Z",
       "heat": 82,
       "images": [
         {
@@ -268,7 +268,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -297,8 +297,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:18:10-08:00",
-      "heat": 65,
+      "publishedDateTime": "2019-01-07T09:18:10Z",
+      "heat": 60,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Jy9-aGMB_TE/maxresdefault.jpg",
@@ -307,7 +307,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -336,8 +336,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:17:59-08:00",
-      "heat": 61,
+      "publishedDateTime": "2019-01-07T09:17:59Z",
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/lWkFhVq9-nc/maxresdefault.jpg",
@@ -346,7 +346,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -375,8 +375,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:12:02-08:00",
-      "heat": 70,
+      "publishedDateTime": "2019-01-07T09:12:02Z",
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/2Sb1Gvo5si8/maxresdefault.jpg",
@@ -385,7 +385,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -414,8 +414,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:12:24-08:00",
-      "heat": 62,
+      "publishedDateTime": "2019-01-07T09:12:24Z",
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XycruVLySDg/maxresdefault.jpg",
@@ -424,7 +424,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -453,8 +453,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:12:47-08:00",
-      "heat": 58,
+      "publishedDateTime": "2019-01-07T09:12:47Z",
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/HmEPCEXn-ZM/maxresdefault.jpg",
@@ -463,7 +463,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -492,8 +492,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:13:11-08:00",
-      "heat": 55,
+      "publishedDateTime": "2019-01-07T09:13:11Z",
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/HeTT73WxKIc/maxresdefault.jpg",
@@ -502,7 +502,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -531,7 +531,7 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:13:41-08:00",
+      "publishedDateTime": "2019-01-07T09:13:41Z",
       "heat": 53,
       "images": [
         {
@@ -541,7 +541,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -570,8 +570,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:14:23-08:00",
-      "heat": 57,
+      "publishedDateTime": "2019-01-07T09:14:23Z",
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9U4h6pZw6f8/maxresdefault.jpg",
@@ -580,7 +580,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -609,8 +609,8 @@
           }
         ]
       },
-      "publishedDateTime": "2019-08-29T07:22:10-07:00",
-      "heat": 105,
+      "publishedDateTime": "2019-08-29T14:22:10Z",
+      "heat": 78,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9f-GarcDY58/maxresdefault.jpg",
@@ -619,7 +619,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -648,8 +648,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-18T23:33:50-07:00",
-      "heat": 59,
+      "publishedDateTime": "2020-03-19T06:33:50Z",
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/sHWKN5dakPw/maxresdefault.jpg",
@@ -658,7 +658,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -687,8 +687,8 @@
           }
         ]
       },
-      "publishedDateTime": "2020-11-19T02:15:19-08:00",
-      "heat": 55,
+      "publishedDateTime": "2020-11-19T10:15:19Z",
+      "heat": 72,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1FZ0A1QCMWc/maxresdefault.jpg",
@@ -697,7 +697,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -726,8 +726,8 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-15T00:03:53-08:00",
-      "heat": 53,
+      "publishedDateTime": "2021-02-15T08:03:53Z",
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/k9V3DapHEDA/maxresdefault.jpg",
@@ -736,7 +736,202 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-free-machine-learning-algorithms-course-with-certificate-machine-learning-skillup-simplilearn.md",
+      "title": "🔥Free Machine Learning Algorithms Course with Certificate | Machine Learning | Skillup | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video, you'll learn how to get certified in machine learning algorithms for free. Simplilearn's",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-free-machine-learning-algorithms-course-with-certificate-machine-learning-skillup-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-free-machine-learning-algorithms-course-with-certificate-machine-learning-skillup-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=tXA786jJIh4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tXA786jJIh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M26S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-03-04T14:27:47Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tXA786jJIh4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-neural-network-architectures-types-of-neural-network-architectures-neural-network-simplilearn.md",
+      "title": "Neural Network Architectures | Types of Neural Network Architectures | Neural Network | Simplilearn",
+      "excerpt": "🔥Become An AI & ML Expert Today: https://taplink.cc/simplilearn_ai_ml This video by simplilearn is based on artificial neural network architecture. This artificial intelligence and machine learning tutorial will help you understand neural network architectures in detail and types of neural network architectures.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-neural-network-architectures-types-of-neural-network-architectures-neural-network-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-neural-network-architectures-types-of-neural-network-architectures-neural-network-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=2l4t7bQPBCM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2l4t7bQPBCM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M17S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-04-20T14:16:00Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2l4t7bQPBCM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-what-is-neural-network-in-machine-learning-neural-network-explained-neural-network-simplilearn.md",
+      "title": "What is Neural Network in Machine Learning | Neural Network Explained | Neural Network | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video by Simplilearn is based on Neural Networks in Machine Learning. This Neural Network in",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-neural-network-in-machine-learning-neural-network-explained-neural-network-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-neural-network-in-machine-learning-neural-network-explained-neural-network-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=JCtMcVW8v7o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JCtMcVW8v7o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H36M42S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-04-21T11:00:49Z",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JCtMcVW8v7o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-regression-analysis-what-is-regression-analysis-introduction-to-regression-analysis-simplilearn.md",
+      "title": "Regression Analysis | What Is Regression Analysis | Introduction to Regression Analysis |Simplilearn",
+      "excerpt": "In this video we are going to cover how regression analysis perform by SVM algorithm using Olympic 2022 dataset.  This video will help you to understand what is machine learning, what is supervised learning, types of supervised learning - Classification and Regression, What is regression analysis , why",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-regression-analysis-what-is-regression-analysis-introduction-to-regression-analysis-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-regression-analysis-what-is-regression-analysis-introduction-to-regression-analysis-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=wsf6_LOp7XA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wsf6_LOp7XA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT52M43S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-08-03T11:02:37Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wsf6_LOp7XA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-python-machine-learning-projects-for-beginners-2023-machine-learning-with-python-simplilearn.md",
+      "title": "Python Machine Learning Projects For Beginners 2023 | Machine Learning With Python | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video will help you build various Python Machine Learning Projects from scratch. Starting with",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-python-machine-learning-projects-for-beginners-2023-machine-learning-with-python-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-python-machine-learning-projects-for-beginners-2023-machine-learning-with-python-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=EA3X_CtIjFo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EA3X_CtIjFo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3H47M51S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-10-11T16:35:44Z",
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EA3X_CtIjFo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
       "type": "video",
       "price": "Free",
       "topics": [

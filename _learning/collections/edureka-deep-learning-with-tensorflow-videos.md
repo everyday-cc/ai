@@ -2,7 +2,7 @@
 title: "Deep Learning With TensorFlow Videos"
 excerpt: "This Deep learning With Tensorflow videos playlist will help you to learn the basic concepts of Deep Learning, TensorFlow, the main functions, operations and the execution pipeline."
 type: collection
-heat: 109
+heat: 88
 
 provider:
   name: Edureka
@@ -30,7 +30,7 @@ items:
   - videos/edureka-recurrent-neural-networks-rnn-rnn-lstm-deep-learning-tutorial-tensorflow-tutorial-edureka
   - videos/edureka-convolutional-neural-network-cnn-convolutional-neural-networks-with-tensorflow-edureka
   - videos/edureka-restricted-boltzmann-machine-neural-network-tutorial-deep-learning-tutorial-edureka
-  - videos/edureka-ai-vs-machine-learning-vs-deep-learning-machine-learning-training-with-python-edureka
+  - videos/edureka-ai-vs-machine-learning-vs-deep-learning-ai-vs-ml-vs-dl-differences-explained-edureka
   - videos/edureka-top-8-deep-learning-frameworks-which-deep-learning-framework-you-should-learn-edureka
   - videos/edureka-what-are-autoencoders-autoencoders-using-tensorflow-deep-learning-using-tensorflow-edureka
   - videos/edureka-autoencoders-tutorial-autoencoders-in-deep-learning-tensorflow-training-edureka
@@ -50,8 +50,8 @@ items:
   - videos/edureka-classifying-hand-written-digits-using-tensorflow-deep-learning-tutorial-part-3-edureka
   - videos/edureka-creating-chatbots-using-tensorflow-chatbot-tutorial-deep-learning-training-edureka
   - videos/edureka-tensorflow-explained-deep-learning-using-tensorflow-tensorflow-tutorial-edureka
-  - videos/edureka-top-10-technologies-to-learn-in-2018-trending-technologies-2018-edureka
-  - videos/edureka-how-to-upgrade-your-career-in-2018-career-guidance-and-counselling-for-2018-edureka
+  - videos/edureka-top-10-technologies-to-learn-in-2018-trending-technologies-2018-edurekain
+  - videos/edureka-how-to-upgrade-your-career-in-2018-career-guidance-and-counselling-for-2018-edurekain
   - videos/edureka-openai-5-explained-artificial-intelligence-in-dota-2-edureka
   - videos/edureka-keras-vs-tensorflow-vs-pytorch-deep-learning-frameworks-comparison-edureka
   - videos/edureka-tensorboard-tutorial-graph-visualization-using-tensorboard-tensorflow-tutorial-edureka
@@ -63,6 +63,23 @@ items:
   - videos/edureka-top-deep-learning-projects-artificial-intelligence-projects-deep-learning-training-edureka
   - videos/edureka-what-are-gans-generative-adversarial-networks-explained-deep-learning-with-python-edureka
   - videos/edureka-lstm-explained-what-is-lstm-deep-learning-training-edureka
+  - videos/edureka-covid-detection-using-deep-learning-covid-detection-with-x-rays-deep-learning-training-edureka
+  - videos/edureka-transformers-neural-networks-explained-nlp-with-deep-learning-deep-learning-course-edureka
+  - videos/edureka-cancer-detection-using-deep-learning-deep-learning-projects-deep-learning-training-edureka
+  - videos/edureka-generate-images-using-dc-gan-generative-adversarial-networks-machine-learning-projects-6edureka
+  - videos/edureka-exploratory-data-analysis-eda-using-python-data-analysis-edureka-deep-learning-rewind-3
+  - videos/edureka-ai-tutorial-for-beginners-ai-training-edureka-deep-learning-rewind-4
+  - videos/edureka-climate-change-prediction-using-time-series-python-projects-edureka-deep-learning-rewind-5
+  - videos/edureka-recurrent-neural-networks-rnn-tensorflow-tutorial-edureka-deep-learning-rewind-4
+  - videos/edureka-ai-tutorial-for-beginners-ai-training-edureka-deep-learning-rewind-3
+  - videos/edureka-keras-tutorial-for-beginners-deep-learning-models-using-keras-edureka-deep-learning-rewind-5
+  - videos/edureka-exploratory-data-analysis-eda-using-python-python-training-edureka-dl-rewind-3
+  - videos/edureka-ai-tutorial-for-beginners-ai-training-edureka-deep-learning-rewind-4
+  - videos/edureka-climate-change-prediction-using-time-series-python-projects-edureka-deep-learning-rewind-5
+  - videos/edureka-recurrent-neural-networks-rnn-rnn-lstm-tensorflow-tutorial-edureka-dl-rewind-3
+  - videos/edureka-cancer-detection-using-deep-learning-deep-learning-projects-edureka-dl-rewind-4
+  - videos/edureka-image-classification-using-cnn-machine-learning-project-9-edureka-dl-rewind-5
+  - videos/edureka-gpt-3-explained-what-is-gpt-3-openai-gpt-3-gpt-3-tutorial-gpt-3-demo-edureka
 
 topics:
   - AI

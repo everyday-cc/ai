@@ -2,7 +2,7 @@
 title: "Machine Learning Algorithms by Simplilearn"
 excerpt: "This Machine Learning Algorithms playlist covers all the different types of supervised and unsupervised learning algorithms in Machine Learning. You will learn about various algorithms like Linear Regression, Logistic Regression, Decision Tree, Random Forest, Naive Bayes Classifier, and Clustering in Python. You will understand about Convolutional Neural Networks and Recurrent Neural Networks and look at a full course video on Machine Learning full course. Now, let's get into exploring the various Machine Learning algorithms."
 type: collection
-heat: 85
+heat: 80
 
 provider:
   name: Simplilearn
@@ -19,7 +19,7 @@ items:
   - videos/simplilearn-random-forest-algorithm-random-forest-explained-random-forest-in-machine-learning-simplilearn
   - videos/simplilearn-naive-bayes-classifier-naive-bayes-algorithm-naive-bayes-classifier-with-example-simplilearn
   - videos/simplilearn-support-vector-machine-how-support-vector-machine-works-svm-in-machine-learning-simplilearn
-  - videos/simplilearn-knn-algorithm-using-python-how-knn-algorithm-works-data-science-for-beginners-simplilearn
+  - videos/simplilearn-knn-algorithm-in-machine-learning-knn-algorithm-using-python-k-nearest-neighbor-simplilearn
   - videos/simplilearn-convolutional-neural-network-tutorial-cnn-how-cnn-works-deep-learning-tutorial-simplilearn
   - videos/simplilearn-recurrent-neural-network-rnn-tutorial-rnn-lstm-tutorial-deep-learning-tutorial-simplilearn
   - videos/simplilearn-linear-regression-in-r-linear-regression-in-r-with-example-data-science-algorithms-simplilearn
@@ -32,6 +32,11 @@ items:
   - videos/simplilearn-coronavirus-outbreak-prediction-using-machine-learning-predicted-vs-actual-simplilearn
   - videos/simplilearn-supervised-vs-unsupervised-vs-reinforcement-learning-machine-learning-tutorial-simplilearn
   - videos/simplilearn-machine-learning-algorithms-full-course-machine-learning-algorithms-explained-simplilearn
+  - videos/simplilearn-free-machine-learning-algorithms-course-with-certificate-machine-learning-skillup-simplilearn
+  - videos/simplilearn-neural-network-architectures-types-of-neural-network-architectures-neural-network-simplilearn
+  - videos/simplilearn-what-is-neural-network-in-machine-learning-neural-network-explained-neural-network-simplilearn
+  - videos/simplilearn-regression-analysis-what-is-regression-analysis-introduction-to-regression-analysis-simplilearn
+  - videos/simplilearn-python-machine-learning-projects-for-beginners-2023-machine-learning-with-python-simplilearn
 
 topics:
   - AI

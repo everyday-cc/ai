@@ -44,7 +44,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 130,
       "tags": [
         "TensorFlow"
       ],
@@ -57,7 +57,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -120,7 +120,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -170,7 +170,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 130,
+      "heat": 50,
       "tags": [
         "TensorFlow"
       ],
@@ -183,7 +183,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free+",
       "topics": [
@@ -246,7 +246,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "course",
       "price": "Free+",
       "topics": [

@@ -2,7 +2,7 @@
 title: "From Languages to Information Week 2: Language Modeling and Spelling Correction | Stanford University"
 excerpt: "This is the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course"
 type: collection
-heat: 60
+heat: 61
 
 provider:
   name: Stanford University
@@ -15,15 +15,11 @@ provider:
 items:
   - videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction
   - videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction
-  - videos/stanford-university-33-evaluation-and-perplexity-language-modeling-and-spelling-correction
+  - videos/stanford-university-33-evaluation-and-perplexity
   - videos/stanford-university-34-generalization-and-zeros-language-modeling-and-spelling-correction
   - videos/stanford-university-35-smoothing-add-one-language-modeling-and-spelling-correction
   - videos/stanford-university-36-interpolation-language-modeling-and-spelling-correction
   - videos/stanford-university-38-kneser-ney-smoothing-language-modeling-and-spelling-correction
-  - videos/stanford-university-41-the-spelling-correction-task-language-modeling-and-spelling-correction
-  - videos/stanford-university-42-the-noisy-channel-model-of-spelling-language-modeling-and-spelling-correction
-  - videos/stanford-university-43-real-word-spelling-correction-language-modeling-and-spelling-correction
-  - videos/stanford-university-44-state-of-the-art-systems-language-modeling-and-spelling-correction
 
 topics:
   - AI

@@ -2,7 +2,7 @@
 title: "Coding TensorFlow"
 excerpt: "Welcome to Coding TensorFlow! In this series, we will look at various parts of TensorFlow from a coding perspective."
 type: collection
-heat: 75
+heat: 69
 
 provider:
   name: TensorFlow
@@ -13,16 +13,23 @@ provider:
       height: 50
 
 items:
-  - videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6
-  - videos/tensorflow-long-short-term-memory-for-nlp-nlp-zero-to-hero-part-5
-  - videos/tensorflow-ml-with-recurrent-neural-networks-nlp-zero-to-hero-part-4
-  - videos/tensorflow-training-a-model-to-recognize-sentiment-in-text-nlp-zero-to-hero-part-3
-  - videos/tensorflow-sequencing-turning-sentences-into-data-nlp-zero-to-hero-part-2
+  - videos/tensorflow-recommendation-systems-overview-building-recommendation-systems-with-tensorflow
+  - videos/tensorflow-content-based-filtering-collaborative-filtering-building-recommendation-systems-with-tensorflow
+  - videos/tensorflow-intro-to-tensorflow-recommenders-building-recommendation-systems-with-tensorflow
+  - videos/tensorflow-building-a-ranking-model-with-tf-recommenders-building-recommendation-systems-with-tensorflow
+  - videos/tensorflow-leveraging-context-features-and-multitask-learning-building-recommendation-systems-with-tensorflow
+  - videos/tensorflow-deep-cross-network-building-recommendation-systems-with-tensorflow
+  - videos/tensorflow-efficient-serving-with-scann-for-retrieval-building-recommendation-systems-with-tensorflow
   - videos/tensorflow-natural-language-processing-tokenization-nlp-zero-to-hero-part-1
-  - videos/tensorflow-neural-structured-learning-part-4-adversarial-learning-for-image-classification
-  - videos/tensorflow-neural-structured-learning-part-3-training-with-synthesized-graphs
-  - videos/tensorflow-neural-structured-learning-part-2-training-with-natural-graphs
+  - videos/tensorflow-sequencing-turning-sentences-into-data-nlp-zero-to-hero-part-2
+  - videos/tensorflow-training-a-model-to-recognize-sentiment-in-text-nlp-zero-to-hero-part-3
+  - videos/tensorflow-ml-with-recurrent-neural-networks-nlp-zero-to-hero-part-4
+  - videos/tensorflow-long-short-term-memory-for-nlp-nlp-zero-to-hero-part-5
+  - videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6
   - videos/tensorflow-neural-structured-learning-part-1-framework-overview
+  - videos/tensorflow-neural-structured-learning-part-2-training-with-natural-graphs
+  - videos/tensorflow-neural-structured-learning-part-3-training-with-synthesized-graphs
+  - videos/tensorflow-neural-structured-learning-part-4-adversarial-learning-for-image-classification
   - videos/tensorflow-announcing-tensorflow-20-coding-tensorflow
   - videos/tensorflow-build-an-image-classifier-ml-zero-to-hero-part-4
   - videos/tensorflow-introducing-convolutional-neural-networks-ml-zero-to-hero-part-3
@@ -62,7 +69,7 @@ topics:
   - AI
 
 images:
-  - url: https://i.ytimg.com/vi/ZMudJXhsUpY/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/BthUPVwA59s/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true

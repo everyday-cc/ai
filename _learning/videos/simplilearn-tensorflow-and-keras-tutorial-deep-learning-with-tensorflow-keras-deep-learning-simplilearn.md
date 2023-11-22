@@ -4,9 +4,9 @@ excerpt: "This video on TensorFlow and Keras tutorial will help you understand D
 originalUrl: https://youtube.com/watch?v=eK0tvVRMDgw
 type: video
 price: Free
-length: PT2H38M51S
+length: PT2H38M50S
 publishedDateTime: 2021-03-04T11:53:13Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eK0tvVRMDgw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -30,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "VPcloGe5/+l9QIMcWKWiarixm5+XHvHaZbIcy+k0+aQaDy12dnXPjL0xLrmiacVx+owxrqhug88N9vfxCg8SKQ8xbm1OdLjikjDWFDaIJCJvpchLeaE9mA+/Mqh92V5X7og5xWnsj+1pPrl/Oz5EQ6rPPLXhwA9nKXKlHdCvrr8EYi9F4D15+lzZ9qPOPLkxAaSA2ykRk3R9s9kmhHGAi2izpLKFCfFTPlf1DucXoXZ4fZWw4fVXXKfwCEIrlgDkoHTtHxBpMOFBWBfY1N9pEkoybBdHfpdW0voEAG+PvzKy2yTb7z/DzdF+wGxZBLW34k0YoQV44qpFbqs3wa3x6ZZ9F/bOKUoqzRQZD8TyM31zMxfAX/vV+EchSr4mjpzFWVNYUuhLsgdll0xkQQ9aHUNFDUWNrZXrIk5ThIKwk80=;zlFEPOkyx8DTk5brftRu5g=="
+secured: "kSKLzDQm69Tw6CmkFX687pxAygtoZC+vtTl3iHRJDHKG9G67MVpVE0uKqIBwdEY6KJEl4erO4G2QBBtMmzwEJwaa8xC5JkJ0cK0ldTFrT7Iu9iI2DuYCDMRcDg47quQeMp4Pl5aCWzj6pHr6LCE74XpvP2LolH6mmvsXhj7BexDtx+AMhsWvAbWz4KMmovjJ8tB1cWAd2DydquxJhkK7yUbdoOOLs1KXXOyoktSMeLiCo/yssrZe4VfoADoZhykiMfx/ev7WRSePBaEuTOFv5Hkw5/KxI7C1XoBCWg1D/axBvX7TbA9tRRbpjN4LE+yAUuieJWIP5WrdK41rPNIDoa4yC+T4CPxoQ+AdqNKBUrxystn4vZJNesEykeQkVSU/g2C9PcR3+wx/Od1AakAMqPQNJU8pxwO06qHpmP1ES6g=;cvH79Gdz/wlcGwVDJizW2g=="
 ---
 

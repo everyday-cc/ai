@@ -2,7 +2,7 @@
 title: "Artificial Intelligence Tutorial For Beginners | Edureka"
 excerpt: "This 'Artificial Intelligence Tutorial For Beginners' playlist with help you learn AI from scratch. This playlist also covers concepts of Deep Learning and Tensorflow in detail with examples."
 type: collection
-heat: 98
+heat: 93
 
 provider:
   name: Edureka
@@ -26,7 +26,7 @@ items:
   - videos/edureka-breadth-first-search-algorithm-in-10-minutes-bfs-in-artificial-intelligence-edureka
   - videos/edureka-top-10-benefits-of-artificial-intelligence-in-2021-artificial-intelligence-advantages-edureka
   - videos/edureka-what-is-deep-learning-deep-learning-simplified-deep-learning-tutorial-edureka
-  - videos/edureka-ai-vs-machine-learning-vs-deep-learning-machine-learning-training-with-python-edureka
+  - videos/edureka-ai-vs-machine-learning-vs-deep-learning-ai-vs-ml-vs-dl-differences-explained-edureka
   - videos/edureka-deep-learning-tutorial-deep-learning-tutorial-for-beginners-neural-networks-edureka
   - videos/edureka-tensorflow-tutorial-deep-learning-using-tensorflow-tensorflow-tutorial-python-edureka
   - videos/edureka-artificial-neural-network-tutorial-deep-learning-with-neural-networks-edureka
@@ -48,6 +48,24 @@ items:
   - videos/edureka-ai-in-space-science-future-of-artificial-intelligence-artificial-intelligence-training-edureka
   - videos/edureka-how-to-become-an-artificial-intelligence-engineer-ai-engineer-skills-python-tutorial-edureka
   - videos/edureka-ai-roadmap-for-2021-learn-ai-artificial-intelligence-careers-data-science-training-edureka
+  - videos/edureka-ai-roadmap-for-2021-learn-ai-artificial-intelligence-careers-edureka-rewind
+  - videos/edureka-artificial-intelligence-tutorial-for-beginners-edureka-deep-learning-rewind-3
+  - videos/edureka-recurrent-neural-networks-tutorial-tensorflow-tutorial-edureka-deep-learning-rewind-4
+  - videos/edureka-the-future-of-ai-how-will-artificial-intelligence-change-the-world-in-2020-edureka-rewind
+  - videos/edureka-how-ai-is-changing-the-gaming-industry-in-2021-artificial-intelligence-training-edureka-rewind
+  - videos/edureka-ai-vs-ml-vs-deep-learning-difference-between-ai-ml-and-dl-ai-ml-training-edureka-rewind
+  - videos/edureka-how-to-become-an-ai-engineer-artificial-intelligence-roadmap-ai-career-path-edureka
+  - videos/edureka-artificial-intelligence-project-ideas-artificial-intelligence-training-edureka
+  - videos/edureka-dangers-of-ai-how-dangerous-is-artificial-intelligence-learn-ai-ai-training-edureka
+  - videos/edureka-hierarchical-clustering-agglomerative-and-divisive-hierarchical-clustering-explained-edureka
+  - videos/edureka-water-jug-problem-in-artificial-intelligence-state-representation-solution-edureka
+  - videos/edureka-feature-selection-in-machine-learning-feature-selection-techniques-with-examples-edureka
+  - videos/edureka-artificial-intelligence-full-course-in-10-hours-2024-artificial-intelligence-tutorial-edureka
+  - videos/edureka-top-10-generative-ai-tools-generative-ai-tools-ai-edureka
+  - videos/edureka-hands-on-rust-rust-tutorial-rust-programming-language-edureka
+  - videos/edureka-firebase-firestore-tutorial-basics-of-firestore-edureka
+  - videos/edureka-artificial-intelligence-full-course-in-10-hours-2024-artificial-intelligence-tutorial-edureka
+  - videos/edureka-what-is-human-computer-interaction-hci-hci-explained-edureka
 
 topics:
   - AI
