@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/amp/"
 type: article
 quality: 104
-heat: 294
+heat: 304
 published: true
 
 provider:
@@ -253,6 +253,20 @@ related:
       - url: "https://images.koreaherald.com/koreaherald/version03/www/images/share.jpg"
         width: 1600
         height: 800
+        isCached: true
+  - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
+    excerpt: "We offer our self-developed products and services to both individual users and enterprise customers across Asia, under the brands KKBOX, BlendVision, and Going Cloud. The Company has also earned third-party international certifications including OpenChain ISO/IEC 5230 and ISO 27001."
+    publishedDateTime: 2023-11-22T01:43:00Z
+    webUrl: "https://www.digitimes.com/biz/news.asp?feed=3601"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 27
+    images:
+      - url: "https://img.digitimes.com/ad/en_20231113_asasemiconductor_bigbutton.jpg"
+        width: 336
+        height: 280
         isCached: true
   - title: "Schneider Electric drives Generative AI productivity and sustainability solutions by integrating Microsoft Azure OpenAI"
     excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of working• Collaboration with Microsoft in artificial intelligence is f"

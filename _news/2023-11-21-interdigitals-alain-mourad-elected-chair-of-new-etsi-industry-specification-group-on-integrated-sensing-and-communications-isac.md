@@ -33,6 +33,20 @@ related:
         width: 1400
         height: 945
         isCached: true
+  - title: "Alain Mourad of InterDigital Appointed Chair of ETSI ISG on Integrated Sensing and Communications"
+    excerpt: "InterDigital yesterday announced that Alain Mourad, Head of InterDigital’s Wireless Lab Europe, has been elected Chair of the ETSI’s newly developed Industry Specification Group (ISG) on Integrated Sensing and Communication (ISAC)."
+    publishedDateTime: 2023-11-22T02:43:00Z
+    webUrl: "https://www.thefastmode.com/leadership-and-management/33962-alain-mourad-of-interdigital-appointed-chair-of-etsi-isg-on-integrated-sensing-and-communications"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 26
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/601476e55ec1734960ad660908f7f1e7.jpg?t=20231122_023629"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "PiVLSOSrBOW85HW+/f/bxFDttRrEyeDJMedTzYdFepv3feD4/H3ZaPm+XuzTpXopL0L9cSxmpxg+fjsqIecQR7Ek6zXXRYoyf17cw3KitulHcIyURfRkvDda2I486NScorwHDbucxkBYfTu0pBWqhbf51pyzPn/jLi0bcu0BxDPFZlv6KJivW4R3xTfLb/0sFrmw3Btn6ayOsPcElaxemewQZ/uecB6uuvzkdP7MLxPXla9paemFtZYXjBHvlINFZZma9NGL/ZvHsrup3NixbfpzwdbHrPZEn42EmNb9otn1w5g2IroEoZoeivlDbdkkNy+voVtmHM4bvs1+3wNTt//JPBIjvrlPEtEJ/WcWvg0=;MSuV1ofCGmqD8sxpMgQEqQ=="
 ---

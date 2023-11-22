@@ -107,6 +107,34 @@ related:
         width: 800
         height: 541
         isCached: true
+  - title: "Wipro Leverages NVIDIA AI to Enhance Healthcare Solutions"
+    excerpt: "Wipro and NVIDIA join forces to speed up generative AI adoption for healthcare via AI-driven strategies, products and services."
+    publishedDateTime: 2023-11-22T02:57:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/33966-wipro-leverages-nvidia-ai-to-enhance-healthcare-solutions"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 56
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/02dd3a6401840cd05dc8ec7ecf9feb85.jpg?t=20231122_025418"
+        width: 752
+        height: 408
+        isCached: true
+  - title: "Nvidia Triples Revenue As AI Chip Demand Stays Strong"
+    excerpt: "Nvidia tripled revenue in its third quarter from a year ago, a sign that demand for its AI chips and systems is still strong."
+    publishedDateTime: 2023-11-22T01:48:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-triples-revenue-as-ai-chip-demand-stays-strong"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0284-18d84313338b-88a6346e8803-1000/nvidia-2.jpeg"
+        width: 1500
+        height: 1128
+        isCached: true
   - title: "Genentech, NVIDIA Enter Into Strategic AI Research Collaboration"
     excerpt: "Tuesday announced a multi-year strategic research collaboration with NVIDIA that couples Genentech's artificial intelligence (AI) capabilities, extensive biological and molecular datasets, and research expertise with NVIDIA's world-leading accelerated computing capabilities and AI to speed up drug discovery and development."
     publishedDateTime: 2023-11-21T16:15:00Z
@@ -167,6 +195,6 @@ related:
       domain: thestreet.com
     quality: 11
 
-secured: "BEULv+mu/n6b8xWJ8NdlgyBX5Vpz/tsYDt2/UP3VwjiJiYpZPPStoakP9XcxfEE6S3F6BX6C5eOi8WjyRgFtKKSQa5se3oVlrOI7bvseGvTyUB4L5SbfeWnUXGZsoHL7TRZh3pHlf+WNhqn4oLqX430yIPDCdjwBHFR8GBd0ZvEyEX7spNGBllXBXyZMvFIsAlmBNvvi+lNkcpilnFXNLDbKhZ9Xwo+05Tc/LYFf8UI2xs2CcDz4+At9Naz92XrOsHC8pek/d7rM4dJvwTSXT2A3nL6xismoT9W+y5u8ABfQxBi/jKV3FL9lF5nmJVfvjLbBnj00rIeGRFSYHBqD/V996JJbq6mEXUhd2i89ASk=;a4zbJouu5lOkBN0WSjUtJw=="
+secured: "ngQ4zmBOmYd8//XQTMFOhPudQtoqjfffFcxQbkl55aNxbcGI5E7WkmcsntzPragRIhg96p7YvdXqX8CVpMYsBxI4RgAnsmJ7OJ6Orq+b5LAerbF65p0ZZVvPX5fXACx1pJMnIY4LWDinsfcMywO7OwbmnWZJBY1UeKtIjxZ0c8bMisoSZ/wYsjI613v7ZVR7cEnvmsTEBtnHPBFYPGrOMed69AyoNhHGJTsXav6fjoV2zapeRaUrTEaOW9QwhTvxG0HSW8PrqVOVSigukHz1Xev0jQLEpbXD7TH/Xr5siQgHxEc2eyaoHdp4ei5XNYY+HchRgpjFuYXqo6r0Axe7gZ4A7QZSgkxx0CThKQZLq6UkqIuMSDkbmrwh3yy7vPGdo7sajCYVixVv36mhulJn3LFaE1Km1jVj2Aj+hy1NUIsPtsDBd//v3YH2sDzFugRDMJiE0DzAPcaYjOUYS2X/tXKqLRnCmBNy1tpyBwyALnPJ3f9i7rhfJOQ1oVDpWKCac1LcYSZrckw1TUnGhJWG5g==;AHnbieC0RKoOA0z66xNc6A=="
 ---
 

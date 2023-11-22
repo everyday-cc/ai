@@ -31,7 +31,7 @@ related:
     provider:
       name: Entrepreneur
       domain: entrepreneur.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1700576628-ai-vs-human-creativity-g-1305439239.jpg?format=pjeg&auto=webp"
         width: 2000

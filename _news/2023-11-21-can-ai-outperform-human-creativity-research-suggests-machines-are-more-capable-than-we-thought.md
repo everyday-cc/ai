@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-21T00:00:00Z
 originalUrl: "https://www.entrepreneur.com/technology/can-ai-outperform-human-creativity-research-suggests/464485"
 webUrl: "https://www.entrepreneur.com/technology/can-ai-outperform-human-creativity-research-suggests/464485"
 type: article
-quality: 56
-heat: 66
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1700576628-ai-vs-human-creativity-g-1305439239.jpg?format=pjeg&auto=webp"

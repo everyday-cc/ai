@@ -56,15 +56,6 @@ related:
         width: 1920
         height: 1079
         isCached: true
-  - title: "Qualcomm’s Snapdragon 7 Gen 3 chipset brings faster AI and GPU performance"
-    excerpt: "Qualcomm’s is not done with its lineup of chipsets for 2023. The US-based company revealed earlier today a brand-new chipset aimed at mid-range smartphones, the Snapdragon 7 Gen 3. The new chipset will be initially packed inside smartphones launched by Honor and vivo,"
-    publishedDateTime: 2023-11-17T09:21:00Z
-    webUrl: "https://www.phonearena.com/news/qualcomm-snapdragon-7-gen-3-official-specs_id152681"
-    type: article
-    provider:
-      name: PhoneArena
-      domain: phonearena.com
-    quality: 47
   - title: "MediaTek Dimensity 8300 Flexes Generative AI Muscle To Arm Wrestle Snapdragon 7 Gen 3"
     excerpt: "Mediatek is aiming for the premium-oriented midrange smartphone market with the release of the Dimensity 8300 chipset. This new chip uses TSMC’s 2nd generation 4nm process and Arm’s latest v9 CPU architecture."
     publishedDateTime: 2023-11-21T15:59:00Z

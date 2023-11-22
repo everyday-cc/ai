@@ -34,15 +34,6 @@ related:
       name: in.mashable
       domain: mashable.com
     quality: 55
-  - title: "Top 10 Free AI Courses to Level Up Your Tech Skills in 2023"
-    excerpt: "Boost your career prospects in AI with these top 10 free online courses. Learn fundamental concepts, machine learning, ethics, and more."
-    publishedDateTime: 2023-11-17T09:52:00Z
-    webUrl: "https://www.techopedia.com/top-10-free-ai-courses"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 19
 
 secured: "c5xqs4yVkysKJRWyqsfaJ8rJ4ccLAwANTvxy7y8e3Jhl8SYgLyqIaGYfa/Vc6NPC2xe//FXWHuG5GJg6kXzaJGQbgKjoGKgh5+yo67pp77fW49BdMZqtTiZhD7YdLujJbNk3ISXgULFIU5Sl1YnQggqyZLyF5z/hD2nH1AR74UDCiOKgxI6vDiT5HWivaPCzSobY6OV9lPaNtqC9Jv7SD+UKKUCauAH93TrXJRCai7j3mo+YTTFwCd34an249kTLO7nASyoBGM/CivRjPrttFPhyyJ1fLyGOYXfgYZ1xSjlxCPDvwu0ZoZdYhks+Oot7MRSRj+J2RLAXb2p3uR+GuxYf80nkOPZUHSGYKJOsy8Y=;DViddblme5eZknx1pGBERg=="
 ---

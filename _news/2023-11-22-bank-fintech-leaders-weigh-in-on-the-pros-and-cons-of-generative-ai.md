@@ -94,15 +94,6 @@ related:
         width: 1032
         height: 580
         isCached: true
-  - title: "How Generative AI Is Redefining Creativity For Marketers"
-    excerpt: "AI platforms like Memorable are reshaping ad landscapes with innovative tools designed to enhance personalized ad strategies."
-    publishedDateTime: 2023-11-17T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/ilonalimonta-volkova/2023/11/17/how-generative-ai-is-redefining-creativity-for-marketers/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Meta Wants to Build Generative AI But Not Responsibly"
     excerpt: "Meta has done a little reshuffle, relocating their Responsible AI team to join the generative AI crew."
     publishedDateTime: 2023-11-20T11:50:00Z
@@ -155,6 +146,6 @@ related:
       domain: fiercehealthcare.com
     quality: 23
 
-secured: "Q7xE5XmPYrMcUeRDuW1p7kxcH7N2Pcyj8C5sbxFvS7Qf4xb/azvtbSPovwRPln/HDNSerBCO3X3oRqLRAcOecMR0gszLMkWSlyvQNxsBmGJYownZ/wva5JErDUeDGurBLKUrjjTinZHuDtnkDZahuouJUc5a6wxw7N04ayQz7hefR+mppW+AlBlOAqLbNTbT4T2aN6oTJMqtYD81NKbvnvrDvUw3pUsrjJHTx/Nt1DkfQcAPx26BrLSvbQ7YnILBUY55LL4QJPtdIUX+y6RruK0/7R1tazbC3WrDtcPoWpr/IVhblOHEZtU60Ve0w3uwVMEhhgZcFkX8ULVpr0qk9zPo8tYe8d9YNfQyMqEz2ek=;/de0hlu/tzqxFT/ada9kSQ=="
+secured: "XT/dU7xjCKsJOyrLDiA/NJHqbix7YwcbMWhmeJ0qgfl00vX6t1B9qCoJlk3LvBPESPZygk7RSiP8VvHK8cSCH1Lb+ZH0h/bENDamTMX0BMW+CwVl100XN46uVA2oMrJH3awVWsgfLPbHzv+2og86eSH7Q9yF4NW3D+GtLC9spYkMCJNjiCaBl/tSdT/EAQpfxz1jfdmEvbkDLfAfet2tB+vgiIMLn9l0Ri55nTrAGNBqczvjJvqjbTK4sBscp5Wy9LmtwfVzSWAKvjZQCxTKbw7NVWGziIwzxwezsYdOudNSf6EpSTBQerxskblm7CLFtmG840oqN8gzQpDTpBw4EbVQStt/Ho/an61J6RTdF9iyZBYjwJ9vCXqAg/6G11whhNbeEfdMw4U1niHKDDiGTYhM9H53SQ3d+JX6638CT+mgh7Q6DDAI84G/2nqVPPcRqQfS99n2ymedmEo3bpiCp1qnyK0XK3zTblm0Dg0afZ+P4rXCgs3T5KN50lJrmMVgHaNlQ1jtENZIo4OszYR6Lg==;W+2CmyCgcNAO35ZjBHszUQ=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35908820/cloud-artificia
 ampWebUrl: "https://www.benzinga.com/amp/content/35908820"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35908820"
 type: article
-quality: 69
-heat: 79
+quality: 73
+heat: 83
 published: true
 
 provider:
@@ -20,6 +20,8 @@ topics:
   - AWS AI
   - AI
   - Microsoft AI
+  - Natural Language Processing
+  - AI in Healthcare
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"

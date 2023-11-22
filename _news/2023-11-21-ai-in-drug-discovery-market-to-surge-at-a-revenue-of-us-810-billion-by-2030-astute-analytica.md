@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Robotics Market Revenue to Reach USD 82.76 Billion by 2028 – Market Size, Share, Forecasts, & Trends Analysis Report by Mordor Intelligence"
-    excerpt: "According to the latest research report titled, \"Robotics Market Report (2023 - 2028)\" by Mordor Intelligence, the market is estimated at USD 39.56 billion in 2023, and growing at a CAGR of 15.91% dur"
-    publishedDateTime: 2023-11-17T23:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35860460/robotics-market-revenue-to-reach-usd-82-76-billion-by-2028-market-size-share-forecasts-trends-ana"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35860460"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35860460"
+  - title: "Cyber Security in Robotics Market Surges Ahead with a Striking Projected Value of US$ 11.6 Billion by 2033"
+    excerpt: "The Cyber security in robotics market is poised for substantial growth, with a consistent Compound Annual Growth Rate (CAGR) of 11.7% expected during the forecasted period. In 2023, the market is projected to generate revenues of approximately US$ 3."
+    publishedDateTime: 2023-11-22T02:18:00Z
+    webUrl: "https://www.fmiblog.com/2023/11/22/cyber-security-in-robotics-market-surges-ahead-with-a-striking-projected-value-of-us-11-6-billion-by-2033/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 53
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/11/Cyber-Security-in-Robotics-Market.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "q6aSPdw7qoHptEKnj8QhtgKD/WofFjNPZhDNJ1u2G5IibZq/Q33gH23TLrQR2/nAsv3nUo0vJaXAQqmjCn981C847AXHPKdKf1LRCyrAhJr4VbRGDK0Bg8JV19l7912ZtqPj1WPTPgrZaxsbxexB5bO0uu7eR93K5T2+L3dRZ+FUDRruXiVODotDE7Pd0m05lbQiUtkBDUoGz83QhYh7q74AjeaaEvLA3hWkoa+6b8z+6fBd1S5UX01712sKA8L59oLyicGu5vsZ48RTKeGBRdo053GCQOP70l4JjbZadsoN4BXK3w2cVrH0KmG5gRqyJx9AZBecCfprnTOyOq00fYmPDhR2+gCB5asmfNeiTBKJenQcCUEYIwwnQN9C/1FA6Zd3SlVxQOrb/Wfl4MTIyT/V32MDQaMspgLZe90/Tsdg9PtLuTLcWstMq/EdQtfYcj3PSyeMgh7v0XtlT4Nii9cB1oKMxLzclpO4P6+FvpWEc0gdgu65kdRbxsiAbNl6+294kQr4pLB/FJLkNhrZLQ==;uQmR/Q69Hr5PCySx1C0DIw=="

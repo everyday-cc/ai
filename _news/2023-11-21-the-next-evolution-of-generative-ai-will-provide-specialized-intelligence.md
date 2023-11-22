@@ -97,15 +97,6 @@ related:
         width: 1032
         height: 580
         isCached: true
-  - title: "How Generative AI Is Redefining Creativity For Marketers"
-    excerpt: "AI platforms like Memorable are reshaping ad landscapes with innovative tools designed to enhance personalized ad strategies."
-    publishedDateTime: 2023-11-17T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/ilonalimonta-volkova/2023/11/17/how-generative-ai-is-redefining-creativity-for-marketers/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Meta Wants to Build Generative AI But Not Responsibly"
     excerpt: "Meta has done a little reshuffle, relocating their Responsible AI team to join the generative AI crew."
     publishedDateTime: 2023-11-20T11:50:00Z

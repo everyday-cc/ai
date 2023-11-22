@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Verta Launches the Verta GenAI Workbench to Help Teams to Get to Useful GenAI Faster"
-excerpt: "Verta CEO Manasi Vartak says, \"The GenAI product development process today is a lot like the Gartner hype cycle: teams start at the peak of inflated expectations based on media excitement or a quick ChatGPT exploration,"
-publishedDateTime: 2023-11-21T22:59:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/11/21/9922296.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/11/21/9922296.htm"
+excerpt: "Verta Inc, the AI Model Management and Operations company, launched the Verta GenAI Workbench, an all-in-one platform to accelerate the Gen"
+publishedDateTime: 2023-11-22T02:46:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231121507837/en/Verta-Launches-the-Verta-GenAI-Workbench-to-Help-Teams-to-Get-to-Useful-GenAI-Faster"
+webUrl: "https://www.businesswire.com/news/home/20231121507837/en/Verta-Launches-the-Verta-GenAI-Workbench-to-Help-Teams-to-Get-to-Useful-GenAI-Faster"
 type: article
 quality: 12
 heat: 12
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "U0Cudfq61Cn8K7YzL9668kRoBHcooX3TDd/x+34QR9PKA75dUt46meRTz6EEfhOJ2mANhJMcL9hzm0Vhk6mVYX4nUNgo00Nv21Oa3O4brzmxLvUF95ZIpvnEugZkJf5E9UBgb4nXjNn3o/KfqSUNGlNKbpCsUS2pY9HuglFds8Y1iF8tQAuRJUO9j1lHa+H2o5JP7J9fLwzvNnLUgRSp9hcJ7f6gTyoOn59LnyhnlJj/0n2HZM/fSuWaS4PKzNUYxeEKOHVtVAVrnaXAv0A1qsafZDuV4jnP5kgPIKh0WlveWZpHqPebvItUe0JTELnckUldOIUmBbJEQIS6ZtSCIOWFMfj0kNuSB8suA85VUuI=;IeUtRc2+3GExNAk2hFN0Cw=="
+secured: "jp6F2xrGVJcLhuxP8IqmGU5JaBAz1yumOeuE//fd2jK98hRLurTzhAMxYCuqi35ZZDhKUFpD0NS73+KSmI8om729qogcxizUZVhfFVZY6z7Ucvkpbda2b2VI7Tf9LNyYoGEGue15fCkeKMXerKrzyGdmyTphuw6y2FfHwAtbtk+DPOfXp19sZBOt6D6uKGoecChG2IJnFPUDzx/RPMoKisNbov1TuDCirAcuMIOS7qrYCePXSjeJP7FdA9ANbfRMfOgHvoNcE/vrQaq0lPtQBHqH+wWWs12hd7nis31OdytvN1y6yzgWDq6s2wzUxi+QYpsuIwO7NYqWTF/3vc61uCiFL2prUFMp5xiiWcayE8Xm6mwKpiylutavtVUKJVuPARfNvOUuzsLw39qwx8/1B8CqAeS5/Gl9vcuo/eoxk875QtyvL4nDMLDnl0RIHSDbPbg68MQz2dx38LO6t+fhetnKO68XBaxicgFOpMLHISWfR2DomJ34FEGCcWP4jCBM/a6JaSFO/qEV8XmMmyNmeQ==;ZBG2blWQzxmCmboeyvLiQw=="
 ---
 

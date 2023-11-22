@@ -184,6 +184,20 @@ related:
       name: Canindia.com
       domain: canindia.com
     quality: 33
+  - title: "OpenAI staff make jokes about CEO drama as they announce new ChatGPT voice feature"
+    excerpt: "In a demo of the new feature, OpenAI’s staff even made jokes about the drama surrounding the artificial intelligence firm, with someone asking ChatGPT: “It’s been a long night for the team, and we’re hungry. How many 16-inch pizzas should I order for 778 people?”"
+    publishedDateTime: 2023-11-22T02:01:00Z
+    webUrl: "https://siliconangle.com/2023/11/21/openai-staff-make-jokes-ceo-drama-announce-new-chatgpt-voice-feature/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ai-generated-8177861_1920.jpg"
+        width: 1920
+        height: 1329
+        isCached: true
   - title: "A|I: The AI Times – Everything you need to know about the sudden firing of Sam Altman"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
     publishedDateTime: 2023-11-20T14:43:00Z

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Experts Predict Artificial General Intelligence July 2025 to 2031"
-    excerpt: "There were some approaches on getting to AGI that fully bypass embodiment or robotics. Artificial general intelligence (AGI) is a machine capable of understanding the world as well as—or better than—any human, in practically every field, including the ..."
-    publishedDateTime: 2023-11-17T10:09:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/11/experts-predict-artificial-general-intelligence-july-2025-to-2031.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 24
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/11/Screen-Shot-2023-11-16-at-6.26.16-PM.jpg"
-        width: 1476
-        height: 1276
-        isCached: true
   - title: "Understanding the Dawn of the Artificial General Intelligence Era"
     excerpt: "The abrupt departure—and possible return—of Sam Altman from OpenAI is sending tsunamis through Silicon Valley, igniting a flurry of speculation and bringing into sharp relief a fundamental debate at the crossroads of artificial intelligence (AI) development."
     publishedDateTime: 2023-11-20T14:44:00Z

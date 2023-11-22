@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Fortune 50 AI Innovators"
-excerpt: "Will AI create a world where no job is needed? Will computers achieve human-level intelligence? Where will the dramatic OpenAI storyline end up? The drama unfolding in the world of AI has proven that readers and investors need to follow the space closely—and it's changing minute to minute."
-publishedDateTime: 2023-11-21T15:04:00Z
-originalUrl: "https://www.fortune.com/ranking/ai-innovators/"
-webUrl: "https://www.fortune.com/ranking/ai-innovators/"
+excerpt: "Big Blue, based in Armonk, N.Y., was early to the AI game with Watson, which was first introduced over two decades ago, mesmerizing the world with what the tech could do. In 2023, the company launched its generative AI offerings,"
+publishedDateTime: 2023-11-20T22:45:00Z
+originalUrl: "https://fortune.com/ranking/ai-innovators/2023/ibm/"
+webUrl: "https://fortune.com/ranking/ai-innovators/2023/ibm/"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
   name: Fortune
@@ -19,12 +19,13 @@ provider:
       height: 50
 
 topics:
+  - IBM AI
   - AI
 
 images:
-  - url: "https://content.fortune.com/wp-content/uploads/2023/11/50-AI-logo.jpg?resize=1200,600"
-    width: 1200
-    height: 600
+  - url: "https://content.fortune.com/wp-content/uploads/2023/11/AI-Innovators-2023-IBM.jpg?w=1440&q=75"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -52,6 +53,6 @@ related:
       domain: businessinsider.com
     quality: 49
 
-secured: "yDf6mYKuuf5Q8ZmwB2SqXVL4t4CeZYTfAnwByp7JzJ0YGu92VQ3LEKJPg6c4U9jjUOYQdv0/WNkE/KY9iw4CU/iA3NIkRAL7R+1WglCrXK78jfoD7s6EoDJylQNw7sfpi+91IMMCDodSEw5l0+R/VdLaeFfCzh8nqSGpsE5dtb+ujyVqkPLWytUgacIhWsZpTe2NhtTcFWiNI1KgWhCRaSNuP6woxxR37e9ZWxCQ0cuCgDT8WEAMyUj1n9dIyh0wvnh2tO3uGzS47Yf/whxie381ySNcy9ZAop481+fB6Gcmqcvmrf0psObgSDlUjBs8qvskZgNLgzUUCIuGaS6Gnk7uez7/dWK5hqMGobeWSlE=;NqoxVz/xlDQEVWsODwBn2Q=="
+secured: "2OCIgGvLaxmCsJiITqX7fPME47XdgD3L33f5O/IHbp+0tqdRpncRrxKirPKBELrSoELfzwMRwUASp8scubyhaLpifxd3eh6373A0smv5WmyRSzUHGcDpufEns7pv83G9MITh/BfmoolD7z0AZ3/wyo/jmrAYy9ukfQU5fbIHRutP3cYnZxYnNFlULJ9Ru8bp6hIaBaAHKb2nTo1N06UR8xGbHO8us0oWqWo6bnRuSrb6oHfwMKOrWnVtFuWLAW3nq6DPHoK5RSTxf149gTxeuF6Zga0/sTjCZdXts93xVoI/jp+qc5v4be+b5USc6i2C3xgN4IM6mlbubT+t3HiCtUqikhOP0wKG8UFgo5eU0po=;V4QR8pH8I1MS8HEgysw2hA=="
 ---
 

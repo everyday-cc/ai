@@ -191,6 +191,20 @@ related:
       name: Canindia.com
       domain: canindia.com
     quality: 33
+  - title: "OpenAI staff make jokes about CEO drama as they announce new ChatGPT voice feature"
+    excerpt: "In a demo of the new feature, OpenAI’s staff even made jokes about the drama surrounding the artificial intelligence firm, with someone asking ChatGPT: “It’s been a long night for the team, and we’re hungry. How many 16-inch pizzas should I order for 778 people?”"
+    publishedDateTime: 2023-11-22T02:01:00Z
+    webUrl: "https://siliconangle.com/2023/11/21/openai-staff-make-jokes-ceo-drama-announce-new-chatgpt-voice-feature/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ai-generated-8177861_1920.jpg"
+        width: 1920
+        height: 1329
+        isCached: true
   - title: "What Elon Musk is really building inside his ChatGPT competitor xAI"
     excerpt: "Musk himself has given mixed signals regarding the AGI inflection point. At the xAI launch, he said he agreed with futurist Ray Kurzweil that AGI would likely emerge around 2029, “give or take a year.” But in an October Tesla earnings call, he described his cars’ AI system as “basically baby AGI—it has to understand reality in order to drive.”"
     publishedDateTime: 2023-11-20T12:00:00Z

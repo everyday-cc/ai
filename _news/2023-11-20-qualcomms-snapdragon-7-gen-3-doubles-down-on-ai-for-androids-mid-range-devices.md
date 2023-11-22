@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com.au/2023/11/qualcomms-snapdragon-7-gen-3-double
 webUrl: "https://gizmodo.com.au/2023/11/qualcomms-snapdragon-7-gen-3-doubles-down-on-ai-for-androids-mid-range-devices/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Qualcomm's Snapdragon 7 Gen 3 Doubles Down on AI for Android's Mid-Range Devices"
-    excerpt: "AI is the name of the game for this year’s chips, particularly for Qualcomm’s mobile processors. The chipmaker has announced the Snapdragon 7 Gen 3 processor for mid-range Android devices with promises of improved AI performance."
-    publishedDateTime: 2023-11-17T10:30:00Z
-    webUrl: "https://gizmodo.com/qualcomm-snapdragon-7-gen-3-ai-android-1851029683"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b6988deebc81b6be0a3378b42e6dab8d.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "c2WpUExsVshqSwRb8OoBTVFc1QhAH6BaHf0IXWwTwA75Nhallimqil4Ofb7y5/nG4rxLGm8gM066kVRwokamMKZL3nZLoW+GuDAhnUX0B02I0dQEeDCNVxWdnji8GRB99prKJWYDvWSUOR+frId0TQXD/aLgIVdnQsH7xwhCeYYTKad6zOpwEUGmYxbp7BmAYvqIqB1hTVsYUlTv97V2argB4kBETNzLA7enILT2Ql57jjWTioweyRmaR2ZtHqM8WQXDCeleAEqlZ90TWG64ISFqaUS5aj9P2fRZ7NuE70Jeg6hzZvLt47XN8IxxO71J0X1TXQcLHtfCIgGBUHMcJPFfrXY5Pz3lCl6E5cbJaOM=;6rsk5XrEwqypm+7RdxsXQw=="
 ---

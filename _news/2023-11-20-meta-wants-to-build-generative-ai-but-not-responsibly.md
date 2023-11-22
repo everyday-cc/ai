@@ -108,15 +108,6 @@ related:
         width: 1032
         height: 580
         isCached: true
-  - title: "How Generative AI Is Redefining Creativity For Marketers"
-    excerpt: "AI platforms like Memorable are reshaping ad landscapes with innovative tools designed to enhance personalized ad strategies."
-    publishedDateTime: 2023-11-17T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/ilonalimonta-volkova/2023/11/17/how-generative-ai-is-redefining-creativity-for-marketers/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Enterprise Generative AI Enters Its Citizen Development Era"
     excerpt: "More importantly, these GPTs can act on the user's behalf. OpenAI's tight integration with Zapier means thousands of connectors at your disposal, letting the AI query your CRM, update your ERP, or monitor your servers with a few clicks. How does the AI authenticate to all these services, you might ask? Great catch, but more on that later."
     publishedDateTime: 2023-11-20T18:26:00Z
