@@ -253,6 +253,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 16
+  - title: "OpenAI Researchers Warned the Board of an AI Discovery that Could Threaten Humanity"
+    excerpt: "Four days ahead of Sam Altman‘s ouster, several staff researchers wrote a letter to the board of directors warning of a powerful AI discovery, called Project Q*, that they said could threaten humanity. Reuters reported yesterday about it quoting as sources two people familiar with the matter."
+    publishedDateTime: 2023-11-23T19:11:00Z
+    webUrl: "https://iblnews.org/openai-researchers-warned-the-board-of-an-ai-discovery-that-could-threaten-humanity/"
+    type: article
+    provider:
+      name: IBL News
+      domain: iblnews.org
+    quality: 13
 
 secured: "9EoUzA9N5D1XcsZlJ44972PWF5SXTOdshy3Yjyv/1CibP2lpVjGh/9/I1qm/U0MlOnVkQcnUUtihTi5f7Ot9RtEwHBiLfwxEdHC/7pyrCyXt5S146yRzURtLNN7+q2BmOlreG1Q99YsiWLVkwJmCgQMQXKie7l6kGLUPayaQV+LCODXFp6ySrJqjNxWedu5Vo6bTaeqD3cCShiiHBbZ9QivruBo55fLPxNKD3Ba6Mn33qeIUUoL/HK2KjN+0WYorRUDEVXDGFuhod+NwGOKTcbBeOOOw8kPcIkJzFFXtF9+J9PhG2qtX+CT/UfB38lWcRkFHKHVm6Ar1lBtkMMIGUGz2zt7kUDwIpQFCkwSmgCM=;WbL3b7p+E+/DQkr9yqHrXQ=="
 ---

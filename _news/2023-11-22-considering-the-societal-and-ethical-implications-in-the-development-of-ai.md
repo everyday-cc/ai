@@ -51,6 +51,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Unraveling the Technical and Ethical Requirements of Artificial Intelligence"
+    excerpt: "In the rapidly evolving landscape of technology, Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and societies. As the influence of AI continues to grow, it becomes imperative to delve into the technical and ethical considerations that underpin its development and deployment."
+    publishedDateTime: 2023-11-23T22:42:00Z
+    webUrl: "https://techbullion.com/unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 51
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Ethics-requirement.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Developing Artificial Intelligence for Medical Devices"
     excerpt: "However, a Canadian company specializing in artificial intelligence (AI)-based monitoring of the spread of infectious diseases had already warned its customers of the risk of an epidemic in China as early as December 2019. 1 The warning had been derived ..."
     publishedDateTime: 2023-11-20T00:00:00Z

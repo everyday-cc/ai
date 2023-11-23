@@ -233,15 +233,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
-  - title: "Ousted OpenAI C.E.O. Makes Plans for New Artificial Intelligence Company"
-    excerpt: "Sam Altman, who was forced out of his company on Friday afternoon, was quickly moving to create another company with another OpenAI executive who quit on Friday."
-    publishedDateTime: 2023-11-18T23:00:00Z
-    webUrl: "https://www.nytimes.com/2023/11/18/technology/ousted-openai-ceo-makes-plans-for-new-artificial-intelligence-company.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 61
   - title: "Wall Street Breakfast Podcast: Sam Altman To Lead Microsoft's New AI Team"
     excerpt: "Ousted OpenAI CEO Sam Altman joins Microsoft. Cruise CEO Kyle Vogt resigns less than a month after pausing driverless operations. Nokia expands partnership with Globe Telecom."
     publishedDateTime: 2023-11-20T10:46:00Z

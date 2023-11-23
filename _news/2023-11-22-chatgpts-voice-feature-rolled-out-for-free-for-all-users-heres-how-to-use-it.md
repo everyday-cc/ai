@@ -224,6 +224,15 @@ related:
         width: 277
         height: 239
         isCached: true
+  - title: "Baidu's AI Chatbot Ernie 4 Is Off To A Good Start, Says Bullish Analyst"
+    excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
+    publishedDateTime: 2023-11-22T18:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-s-ai-chatbot-earnie-4-is-off-to-a-good-start-says-bullish-analyst-1032843810"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "ChatGPT turns 1: A generative AI status report"
     excerpt: "Nov. 30 will mark one year since ChatGPT’s public debut, and some experts are surprised we're not using AI tools even more."
     publishedDateTime: 2023-11-21T22:39:00Z
@@ -289,6 +298,15 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "How to Translate Languages with ChatGPT: Bridging Communication Gaps with AI"
+    excerpt: "ChatGPT signifies the dawn of a transformative phase in the realm of AI-powered language translation. Its exceptional proficiency in grasping the nuances of context and generating natural, fluent language across a diverse range of linguistic landscapes ..."
+    publishedDateTime: 2023-11-23T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-translate-languages-with-chatgpt-bridging-communication-gaps-with-ai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 31
   - title: "ChatGPT iPhone App's Voice Chat Feature Now Free to All Users"
     excerpt: "OpenAI has announced that the voice chats feature in its official ChatGPT app for iPhone and iPad is now available for everyone to use,"
     publishedDateTime: 2023-11-22T10:38:00Z

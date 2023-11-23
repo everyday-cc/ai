@@ -39,6 +39,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Baidu beats revenue estimates, navigates AI Chip challenges amidst U.S. export curbs"
+    excerpt: "In third-quarter performance, Baidu, reported a 6% increase in revenue to 34.45 billion yuan, surpassing analysts' expectations."
+    publishedDateTime: 2023-11-23T20:09:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/23/baidu-beats-revenue-estimates-navigates-ai-chip-challenges-amidst-u-s-export-curbs/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 57
   - title: "Baidu beats Q3 revenue estimates, reiterates AI investment plans to spur growth"
     excerpt: "U.S.-listed shares of Baidu were marginally higher in pre-market trade. Baidu has in recent years focused increasingly on AI, creating a self-driving vehicle and investing heavily in generative AI, which is capable of creating text, images and other media."
     publishedDateTime: 2023-11-21T02:57:00Z

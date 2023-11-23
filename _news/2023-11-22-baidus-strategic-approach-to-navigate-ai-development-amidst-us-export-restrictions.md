@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/11/22/baidu-us-ai-development-rest
 webUrl: "https://www.gizmochina.com/2023/11/22/baidu-us-ai-development-restriction/"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu beats revenue estimates, navigates AI Chip challenges amidst U.S. export curbs"
+    excerpt: "In third-quarter performance, Baidu, reported a 6% increase in revenue to 34.45 billion yuan, surpassing analysts' expectations."
+    publishedDateTime: 2023-11-23T20:09:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/23/baidu-beats-revenue-estimates-navigates-ai-chip-challenges-amidst-u-s-export-curbs/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 57
   - title: "Baidu Shares Climb on Strong Q3 Revenue and Reiterated AI Focus"
     excerpt: "Chinese tech behemoth Baidu posted solid Q3 financial results, sending its shares higher in the US and Hong Kong markets. The company recently unveiled the latest version of its ChatGPT-like chatbot and said it plans to continue investing relentlessly in artificial intelligence (AI) technology."
     publishedDateTime: 2023-11-21T16:00:00Z

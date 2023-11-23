@@ -43,6 +43,38 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Self-driving truck lane more than 20 miles long being developed in Texas"
+    excerpt: "TxDOT is partnering with a startup company to launch a program designed to improve self-driving trucks on Texas roadways."
+    publishedDateTime: 2023-11-23T21:39:00Z
+    webUrl: "https://www.khou.com/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+    ampWebUrl: "https://www.khou.com/amp/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 43
+    images:
+      - url: "https://media.khou.com/assets/KVUE/images/1f96cf21-5a34-46a3-b001-0c0b49348bb6/1f96cf21-5a34-46a3-b001-0c0b49348bb6_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Austin launches new dashboard to track incidents involving self-driving vehicles"
+    excerpt: "AUSTIN, Texas — While Cruise vehicles remain on the streets of Austin with someone in the driver's seat, other companies are still testing their self-driving cars in the city. As a result, Austin's Downtown Commission says they now have a new dashboard ..."
+    publishedDateTime: 2023-11-23T22:44:00Z
+    webUrl: "https://www.kvue.com/article/news/local/austin-self-driving-incident-dashboard-launched-downtown-commission-txdot/269-4b28657b-e8e3-4757-982c-1e12b2fd544c"
+    ampWebUrl: "https://www.kvue.com/amp/article/news/local/austin-self-driving-incident-dashboard-launched-downtown-commission-txdot/269-4b28657b-e8e3-4757-982c-1e12b2fd544c"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/austin-self-driving-incident-dashboard-launched-downtown-commission-txdot/269-4b28657b-e8e3-4757-982c-1e12b2fd544c"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 39
+    images:
+      - url: "https://media.kvue.com/assets/KVUE/images/f2a6e632-f68b-42ad-be72-e0afe66aee7d/f2a6e632-f68b-42ad-be72-e0afe66aee7d_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Trucking's future, or technology gone too far? ABC13 gets inside look at Texas self-driving trucks"
     excerpt: "Has technology gone too far? Self-driving big rigs are already on the road in Texas and safety remains a top concern. Here are experts' take on the future of trucking."
     publishedDateTime: 2023-11-22T03:35:00Z
@@ -83,6 +115,6 @@ related:
       domain: myfoxzone.com
     quality: 0
 
-secured: "eVhYIVORiNi68ST0PJHWGoFtNjMYl6mqD92NRrBFP08n7KZgsRAOAj3JWAILdsw17fE+vukAXKDnscvelemU+Vb+3X+K6s7KBb5sUNaxoaWZvbjbW+AIGUEjAHorMxG/iwCwh+pwZ5/erH/Fds9nafKi0Xonm+x/2jGdnHxdb+QyQzi8Xno9eFZnWwpx1BidjYvB+nx0A+OIogZL9qH+b+S3LGVBicPCtLj1vNSZxJbpCRepy/fCLsah1qP0juH+VrwLEQGnYnMZe8uqrZyD9p335JESDXATpn05HuJEUyCMvONwtaLSMMldsjmQLsTuJVvRyt+SSOT13z4EAfxG82tT+eT1URJKOMSET0Hnbe0=;2ddlnixnBQh9DYQLsIZX9Q=="
+secured: "HPtjNnzwNdsnlH+7RJ6KzyOIuXZZCzPeJ8rfTXMCgu43vbIGSL+nUqadrKr3uuSCs2wnn1/2/FLvfgZJ3CqWpnKoRysRKV/gwf2eGddlO+H2puZcPYxLhveSYlEdhFNr6HWIEM2mJypi4ISgquqtMXNsSkPe0q+XqpGQM6OfIVB6WVwiVj1MEO/Cuh+VpgxQlag3MfWjJzJSdluU8xJkjDmzY1HuizyriglRc+l/N602I3jcT+LWbS5IHiWu8Y7uS1zEHCUpoxWh10Iz1+qfMIEmbkS6Q5EwvI+HQKoVkiGfisZpZGUFfY2vPwvjIIkQHpxByvMDzbp01fUNbxgK1wRGUQHhMFo0cOVpThzqLoVcVnc3f3bO9sjD4IDTA/MvtZr6pAF/jYQZbkCTQljiXaSl8E5qBAL1DQz83KoXKoHZwrYeRXc4I7ZdtjvbfEwnnHOelM9BpmXUVWUT9x0Yj2hSh+CFNvKO1p8YRhlYw23Fdt1H3sfzCl53+0wkfJZVEX+bZgZ9aZOTuxsoJ0nfWw==;OInP98Ju/FJ9OGr+qvoWPg=="
 ---
 

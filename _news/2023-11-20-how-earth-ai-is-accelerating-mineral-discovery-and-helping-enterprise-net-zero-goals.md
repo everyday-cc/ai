@@ -98,6 +98,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Arm Cortex-M52 chip brings AI acceleration to low-power IoT devices"
+    excerpt: "The Arm Cortex-M52 is the smallest and most cost-efficient processor designed for AI acceleration applications, according to the company. This latest design from the UK-based fabless"
+    publishedDateTime: 2023-11-23T20:02:00Z
+    webUrl: "https://www.techspot.com/news/100942-arm-cortex-m52-chip-brings-ai-acceleration-low.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
   - title: "Nvidia collaborates with Genentech to accelerate AI-driven drug discovery"
     excerpt: "Nvidia said its offerings will accelerate the training and inference of generative models used in Genentech’s “lab in the loop” framework, where extensive experimental data is fed into models for iterative drug discovery."
     publishedDateTime: 2023-11-21T19:27:00Z

@@ -39,6 +39,20 @@ related:
         width: 1654
         height: 1112
         isCached: true
+  - title: "Aurrigo International plc returns to Milton Keynes with self-driving shuttle trial"
+    excerpt: "This important research into self-driving vehicles on public roads is creating a template for cities around the world to follow.” Aurrigo’s Auto-Shuttle will travel a 25-minute loop in Milton Keynes, seamlessly navigating complex city intersections ..."
+    publishedDateTime: 2023-11-23T22:20:00Z
+    webUrl: "https://www.themanufacturer.com/articles/aurrigo-international-plc-returns-to-milton-keynes-with-self-driving-shuttle-trial/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: themanufacturer.com
+    quality: 18
+    images:
+      - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/11/23221911/Auto-Shuttle-MK.jpg"
+        width: 1024
+        height: 688
+        isCached: true
 
 secured: "zQg0+ew2BsDAddLMq6ji/AD48azt1ieqaKS4JGgNxbvLHAXdS89mL3tXYeyobm20ADnfMiScV9wBZAhmai+c/ytU55cCsT2BnylX+bZ49N46ycQjOdwJwfT+mpLehGC5aPNBGwcQZobtQ5O9+xZtVItcrJVgCUujtsYQY7Hgeo6h3vXgIUw5wjQzpy4cT3XQTQlm3p1RNCJS+WkzLIQET7ELh4uDwBijreAdFU4t2mQ3oX3jwYwfU0HPp9RrM7HfEjucJdbwrk4B2FM0L89AL2VL+hj5eAzah9RgoQOGd4Wv7uJ7gHGJcc1T+Ut4kFNlc2bNQPi6YYClIL9D4Q5bT4nlrW5P9bc/jjGiEVM8yJU=;hjDSszx/p3sZ7xXxh4Vslw=="
 ---

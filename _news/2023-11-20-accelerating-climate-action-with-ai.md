@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-su
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
 type: article
 quality: 109
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -86,6 +86,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Arm Cortex-M52 chip brings AI acceleration to low-power IoT devices"
+    excerpt: "The Arm Cortex-M52 is the smallest and most cost-efficient processor designed for AI acceleration applications, according to the company. This latest design from the UK-based fabless"
+    publishedDateTime: 2023-11-23T20:02:00Z
+    webUrl: "https://www.techspot.com/news/100942-arm-cortex-m52-chip-brings-ai-acceleration-low.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
   - title: "How Earth AI is accelerating mineral discovery and helping enterprise Net Zero goals"
     excerpt: "Earth AI pioneers a more efficient experimental process for discovering minerals required for Net Zero goals. Their promising results highlight the importance of combining data science, domain expertise, and systematic thinking to solve new problems relevant to all enterprises."
     publishedDateTime: 2023-11-20T10:24:00Z

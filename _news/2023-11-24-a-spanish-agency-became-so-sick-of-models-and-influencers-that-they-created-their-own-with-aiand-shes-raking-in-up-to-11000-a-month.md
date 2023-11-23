@@ -24,6 +24,17 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "A Spanish agency became so sick of models and influencers that they created their own with AI—and she’s raking in up to $11,000 a month"
+    excerpt: "Aitana, described by her creators as the first Spanish AI model, was so convincing an unnamed famous Latin actor even called the agency the ask her on a date."
+    publishedDateTime: 2023-11-23T13:51:00Z
+    webUrl: "https://www.aol.com/spanish-agency-became-sick-models-145135613.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 0
+
 secured: "owwq2db/uxjJXCLQOavcIInu04V3M6sj+h2TaZ9ckuwMt6tMWjKWEnddNAfNh9E4A2WiCJWrRpUhEcfpRvR1r/7FQKX4UK0dKGQrijh1Fn3cVnI5SlYdqOCMnrCPcC4yHq4vsrdJpjWj4zhCEDyduJVramgNeD+NhJJX1wTiueIiAJClGqCJykI2rnWjTZUDa4m+6TESBvWkdbub2cmlGawy10CzYBo29B0UFn3HuBrGADAzRwxqin3E28ABwtAK/Bqb5NYjun5j2m1g6rR//UkHWvK57yLCd80KKzSbJF0vUAnAjR7WW7Lcy7O0upxFzsyydlPo5DXh6rkV/xG8dABeREU4DGkHOC1k4AXe/6I=;1Wd+rG17CCnRi7fJ83Jd3A=="
 ---
 
