@@ -152,6 +152,15 @@ related:
       name: Daily Utah Chronicle
       domain: dailyutahchronicle.com
     quality: 19
+  - title: "Amazon Invites Applications for Free Courses on Artificial Intelligence"
+    excerpt: "Amazon, the US-based internet giant, has announced that it would offer free educational courses on generative AI as part of"
+    publishedDateTime: 2023-11-23T05:41:00Z
+    webUrl: "https://www.dqindia.com/amazon-invites-applications-for-free-courses-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
 
 secured: "QwymT02vExs9QMGa/1LhNKhkVwfqgIpdWyc1sRIVabYfa/bDUQUWPR085o/LjCz1baRxcpzggjOcgmvcH+EKJLKo15Ve7xOPwYBtTtoCW42lPq1kYzhrQg03DAIzsFC6ust6ODfRhjezNpScah37x25LzqPa8fs2kHyllloZWmLU6b2ELX95bOwkqX2Ez0QC+sEW3QF8oQ38oBiSM1e7Dskg64GLSN0W5QGKyKnRqohpk7UuasimotmigOzay1ux4K4DSH/kUDPYPFBV6sbFRFuP5iRfBK5kYVsKqwOKJc9bf83fRo8rh+xRsc6+aJOcp86uznnhVPJN3pLIS1vVXwpoh8BHF1S/CgRErzjzzXk=;ZV2hD15s1xHgAdB4uaoheg=="
 ---

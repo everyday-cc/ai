@@ -73,6 +73,20 @@ related:
         width: 2223
         height: 1334
         isCached: true
+  - title: "Adobe's Rephrase.ai Acquisition Marks Strategic Entry into Indian Startup"
+    excerpt: "Adobe's Rephrase.ai Acquisition Marks Strategic Entry into Indian Startup - Adobe, headquartered in San Jose, has completed its first acquisition of an Indian tech startup by"
+    publishedDateTime: 2023-11-23T05:57:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/adobes-rephraseai-acquisition-marks-strategic-entry-into-indian-startup-nid-226611-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 36
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/8146QZ57.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "G+lyWJAIBdevsHiAbYrhRRFYOQpp49wtqHmqEmL7M6DcDL4Z9UgpoUSQqUTR23aA2vAdYKeAYUg+8Wb+TdqvVneXqo4jff2L32ngvbt1ME+JBElhxgj9EKvUBIjvtTTCXqM5fZRWHdd3C1YlMt0q2SeVVi1BSWc0wBQx32sjyh28XpwsBmLNyCP9fiQNuSkoSNofqCUlOrhLvnLRNpaU1cHLRS6f8h3TUpkvThlUI2MMGg1dJCTuDvAhGIRsEw8KC78hY91j+FGRcZiAt1ZtzcDjWnJ3cTv1n27sxVEUOJ6o2X6qlq2HlAjrCZ6CLOqE0aSKt8FoeirgoDMlUnwnDYFQCIgqBxjg6h4rRG2HrL8=;kw5Li0FIbvkQKKZQW3rtgA=="
 ---

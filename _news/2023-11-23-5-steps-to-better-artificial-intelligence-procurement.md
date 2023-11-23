@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-22T17:51:00Z
 originalUrl: "https://www.c4isrnet.com/opinions/2023/11/22/5-steps-to-better-artificial-intelligence-procurement/"
 webUrl: "https://www.c4isrnet.com/opinions/2023/11/22/5-steps-to-better-artificial-intelligence-procurement/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.c4isrnet.com/resizer/nzDjDQQMv-6HvwtYUykELZsjlME=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/YCG4LXLO2NBWZBMCM33HOUVR54.jpg"
@@ -35,6 +36,6 @@ related:
       domain: scientificamerican.com
     quality: 17
 
-secured: "yYReU1dV6v7h6tyoAa/UjieKj9F86tPWpS3POaNNysG9gtRyV1suNc2JBRGZQyjaBPsKSNh5vT8sEhanbVebWSTISCCSkC0WTQswaC1cFn8Si4r0KOUxFdmhRIu5OfsI/jbBpF9YfHEyFnLj0T/pE6tLD5Ou88rbeWq86aXqp//+XGBgI3Jz+6EnFff5Uz79U9HCaTofrLGNpwuYUN5eoDjpnrWu7d37plM67Lt5J1jZtDZMWtbJt9ilKK949fba7u95sBkURtIZqIILq4CffV9hRGBrgGsO7jYoxJ9eDD5/8Jkf3aq0tg/DfzU/A7iMNI3INcYW2hVTJQRJPNG14FshBjE5netYV0+rV0F0IqI=;Xgezb4irSzWdTUWPYtR+ww=="
+secured: "eP8/VnLAVXbBk8Hkdk5f13+016jBCez2BOI7mE7c0x2EEUKtLU8Jz56go2vIO0H1mtDYcmiLCw0QtEC1o9pgzSJfdnCdNZlrfL2tQqQr3FVtIQRyESpRbuM3uxoNEEU3pBi9UQUoho262NHPY7u+6T9Wi5uoGmZJ2NDGOXecyGOBSn0PwtvC0yRqQX0w3d/qP8f60dC5b47r7E2ICW/vX44K42m974WqhsD9T8RT6UzA2Teft9qpxozkwB3hy8RKyQovzd9ugQqJfs/OjLwkpAXudmYJbh57jk2k8XCjPfRRjv53mLG9/uK4f7mqrPh9S4UxGgJ0eiPjCwBsuZDQaL4IZhw/n3HgdZOslgAEhVZbHWZzFaniGN1Xl/wyLSLTCoEDUTlRzwC9NK+1b43VuUvQTakB1XvhVr2gIjlq3USFhrHjcNpX8vBO7elsJ9cC3A4TEJ07CFZ+Ij5sfpCJO3BqCH25QRzhnz61Nx/7UjlnYuuEJsJ0eIs/QeC2aQxJQhNF8u7HdOw1k4KQprlIsw==;58KWDgmUcURTxwNOlkol8w=="
 ---
 

@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia Q3 Earnings Explode On Surging Data Center AI And Gaming Demand"
+    excerpt: "There’s no stopping Nvidia from this level of growth for the foreseeable future. The company continues to execute like a finely tuned machine."
+    publishedDateTime: 2023-11-22T16:57:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Nvidia’s Q3 Earnings Explode On Surging Data Center AI And Gaming Demand"
     excerpt: "There’s no stopping Nvidia from this level of growth for the foreseeable future. The company continues to execute like a finely tuned machine."
     publishedDateTime: 2023-11-22T16:57:00Z
@@ -29,22 +45,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 90
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Nvidia Q3 Earnings Explode On Surging Data Center AI And Gaming Demand"
-    excerpt: "There’s no stopping Nvidia from this level of growth for the foreseeable future. The company continues to execute like a finely tuned machine."
-    publishedDateTime: 2023-11-22T16:57:00Z
-    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/"
-    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds"
         width: 1600

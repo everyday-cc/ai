@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -151,6 +151,15 @@ related:
     provider:
       name: Daily Utah Chronicle
       domain: dailyutahchronicle.com
+    quality: 19
+  - title: "Amazon Invites Applications for Free Courses on Artificial Intelligence"
+    excerpt: "Amazon, the US-based internet giant, has announced that it would offer free educational courses on generative AI as part of"
+    publishedDateTime: 2023-11-23T05:41:00Z
+    webUrl: "https://www.dqindia.com/amazon-invites-applications-for-free-courses-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
     quality: 19
 
 secured: "g6zL0lpbM7Gc3yOYASfPC4Ye/YmOvT4o7bSGLyZRigpCgvKqmBZ14hfidIKbpo9qAvpwJNPXNwR6YFDntCiFvfcTm1LzvI6N6sYjlz3dWlfiCj2ViP/87rMUj++5FItLXmbcm8n6N7PdWD5m0xaKEPmgahmfYKuYnxrpffzdhWtokiuT63DBecbBtYPD2ww1VnDqoWni6xEwFaBXsL9QrrhmYbo3Yx+AdoyatuDzzkVWOfYnAdd/YxyyANO/W7Vuid9lCQdBZs4n7hU7Q4cejhOU6+6Q+oq552AiGeLEeArH009ju5C66BWEzHxfq52Jy4wFYJ3kjq3kDfoPqMJmIKN3FvQvan76gIrCGaxiL5Y=;j4FCbxtznARUAEo5ot44CQ=="

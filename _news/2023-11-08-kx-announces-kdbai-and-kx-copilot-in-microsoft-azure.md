@@ -1,19 +1,15 @@
 ---
 category: news
 title: "KX ANNOUNCES KDB.AI AND KX COPILOT IN MICROSOFT AZURE"
-excerpt: "Jumpstart development of AI-powered applications with a 'ready-to-go' technology stack comprising KDB.AI, Azure Machine Learning and Azure OpenAI"
-publishedDateTime: 2023-11-08T07:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-1032792757"
-webUrl: "https://markets.businessinsider.com/news/stocks/kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-1032792757"
+excerpt: "Jumpstart development of AI-powered applications with a 'ready-to-go' technology stack comprising KDB.AI, Azure Machine Learning and Azure OpenAI Service Use natural language prompts to run ..."
+publishedDateTime: 2023-11-08T08:06:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-11/60595042-kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2023-11/60595042-kx-announces-kdb-ai-and-kx-copilot-in-microsoft-azure-008.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Microsoft AI
@@ -25,6 +21,6 @@ images:
     height: 209
     isCached: true
 
-secured: "LeSj5DlfCMyuCeJYLOhRP0lBVD1lbcwBvQSdOf5sQm8W2p6ZqYA+tEcD68jeF0XFxDWKnNlDpswVEQkhBVHjX7CTzqPPU8suCiFDymIJAscOy/do4383zSBxZiIDvXn0lKAgD4B4ejjAFclxKA0L9V8PI06G98P5M2+dlzwMGx/vEV/mp0JRq9iVRfsC79zUPxWqOzNBACocvGyfrp/rEH239I14AjG/XyDUQ+dX61P1NlZVcY0odm023iXDwVOjiCHp/+7EuVIug9zv+2OJMJxuaK1u1Jg2pQ3s23ZRh3sp7uEownGGTVD00bDtgmT6PfMqvkKhdQ80ObP25WACIstftO4X/kUEi2kCqDog/Sd/Ff7Wia98ePs7ajCXLZ7Wk//p4w40gyYbcTAjXaXQw4bEibn6T0pn58y1uWKWuiISu1UwJoMppE6Q7Vh+wcbFci9djZYmY4NFFU/0KY1K0+rHP0xRoQZYZgYItq0CeZVQlHLEcUoB68KN+Z3Bivt9b1TNozKfKEcdDWolGrOzkQ==;h8Cxlq8zdiGiiW/IaDKVYg=="
+secured: "Z/zxOFGnzgsuTWo75F7kcovwCUImIqoyn++ONimDM70ExLLpOAsmgzJbEsiYE3RSiBP466404EPvYZ6JvEo4MAtZGNF/EuUSL8l9HPhKkNgSkGbRaP5ZPAVpwOS+I0YwE+LsGSfztG3BSKgpnQ+E+ey046u5t9U/+ChV2L9jgSgMPJYLbYuT1kKZ7ImO/dEHboigya4KSp4hPBmkBJkpiJEzFA4C6yIQrBATeHy57SwFqd4+jx6Ew3HLI0fgwsO8PUmmSzXNju64WHueMFOeoJa0GFEeSX0gbEQDHtt128+Q+imc66JgKDkgTiYTdAj5Xvdl5Qh+ZobOxBdjA0cfJ8h0XJpkWD8Qd38pHBVm8YA=;GwUtVS6KHqjvK+s0F6KaMg=="
 ---
 

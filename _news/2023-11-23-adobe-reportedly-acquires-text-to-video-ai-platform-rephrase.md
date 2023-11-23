@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video
 webUrl: "https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video-ai-platform-rephrase/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://images.yourstory.com/cs/2/9dcea4f0645711ebb0265b80588e9ad2/shutterstock716579470-1673975373064.jpg?fm=png&auto=format"
         width: 2223
         height: 1334
+        isCached: true
+  - title: "Adobe's Rephrase.ai Acquisition Marks Strategic Entry into Indian Startup"
+    excerpt: "Adobe's Rephrase.ai Acquisition Marks Strategic Entry into Indian Startup - Adobe, headquartered in San Jose, has completed its first acquisition of an Indian tech startup by"
+    publishedDateTime: 2023-11-23T05:57:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/adobes-rephraseai-acquisition-marks-strategic-entry-into-indian-startup-nid-226611-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 36
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/8146QZ57.jpg"
+        width: 570
+        height: 367
         isCached: true
   - title: "Adobe acquires Bengaluru-based AI startup Rephrase.ai"
     excerpt: "The acquisition will also include absorbing majority of Rephrase.ai’s employees. The founders too will be working closely with the software company going ahead."

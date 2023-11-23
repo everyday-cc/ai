@@ -55,15 +55,15 @@
       ]
     },
     {
-      "path": "_news/2023-11-23-nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand.md",
-      "title": "Nvidia’s Q3 Earnings Explode On Surging Data Center AI And Gaming Demand",
+      "path": "_news/2023-11-23-nvidia-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand.md",
+      "title": "Nvidia Q3 Earnings Explode On Surging Data Center AI And Gaming Demand",
       "excerpt": "There’s no stopping Nvidia from this level of growth for the foreseeable future. The company continues to execute like a finely tuned machine.",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/",
       "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 260,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -102,8 +102,8 @@
         "news"
       ],
       "topics": [
-        "AI",
         "Natural Language Processing",
+        "AI",
         "AI Hardware"
       ]
     },

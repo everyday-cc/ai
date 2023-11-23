@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnin
 ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
 type: article
-quality: 89
-heat: -1
-published: false
+quality: 91
+heat: 261
+published: true
 
 provider:
   name: Forbes
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds"
@@ -248,6 +249,6 @@ related:
       domain: thestreet.com
     quality: 11
 
-secured: "G+0D0Xu9cC3AOCBFy3vkcKm617tHxU67Djnx4wCQ85nAnhZRa3ZyiNSBMwwHGtGp5VH8mhKAQL8PC/uQXNgHBNNsg8/vEasIg/CUDY6naEfhLsRqyJK46RNegCVh7LvfTT4K1ypwnDDtfalijv3nRDt8scKaIRHhTXJB/FoEywT+reIPYUQoh3kFAxyhcxv3N4bUWb/pGFSlUlhT0y1CInOaBwjtIpqieRrTB+xcBLFkM0U011OAKJmkIgtopYNpew0r0KlWkQwf/nXlMlkbDYZSSM9WRiFKAV9ChFbikt8E4xgEI3Yn8wU/NUJa1ckcfxTFcaTiiKY2Gf5t9PIQEJVoYfbcmGaJY3MIUuj+7ls=;lVZtmHFWmK6LcwNjXUKYNQ=="
+secured: "oPfI6WW91P0rHb/It6WWFZlFrLy+SqNL3w9Jm7k81/Tp0b7Bs1mRCLdJ/IFNqmuqnm/X4yhGDTUgZMReAkvdx8PyET9UFlrXCctd1x7Kj8BEp6y0Sp3rYVKZpqIb/x1OWJe1CKkWwgLxY6bodpLYFXHivT/6rC18kUIiYSbL+Yty9uDtCP8MFOaQUfAbzds99enBpeu8m3MmVHU5FOK7nixW5w/MsEJ+xu5pv2SZI0HuMItD3Q74xdUCxHCV8CeK1UHh9pOuobrdhOMR3lUwpoZHjABCjY/EzuHEvaiAfqZmxH7/6iehjP9UwMI3x0NR6ubYuZjv7W8GEIul8+FWWd1WApLn+JNX3CclPiTkj/9tAua0fTJq2L9EwI1B8GeQfYR0KUrBaFKnd0h50VpvI8BOI1gHvaeOqH4gOSLUQs3WfpkSTAwy+WXPzB39A+QEO1qokhiQ93MZFq8FlOFb8X/iktY94VmuDdZTlpq92f2RY8f/AbBzBubO3K3M7qZCJRwzX6df7iTvKZgKL2LQrw==;2SZbnyvRh0OhUqOaImBVWQ=="
 ---
 

@@ -1,23 +1,33 @@
 ---
 category: news
 title: "Kickstarter Launch: ScavBots Unveils Cutting-Edge Robotic Pool Cleaner for Ultimate Efficiency and Performance"
-excerpt: "ScavBots introduces the innovative ScavBots Robotic Pool Cleaner, combining lightweight design with powerful cleaning. The smart app allows remote control and real-time monitoring. It maintains pH bal"
-publishedDateTime: 2023-11-21T01:32:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/11/35886627/kickstarter-launch-scavbots-unveils-cutting-edge-robotic-pool-cleaner-for-ultimate-efficiency-and-p"
-webUrl: "https://www.benzinga.com/pressreleases/23/11/35886627/kickstarter-launch-scavbots-unveils-cutting-edge-robotic-pool-cleaner-for-ultimate-efficiency-and-p"
+excerpt: "ScavBots introduces the innovative ScavBots Robotic Pool Cleaner, combining lightweight design with powerful cleaning. The smart app allows"
+publishedDateTime: 2023-11-21T07:22:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/kickstarter-launch-scavbots-unveils-cutting-edge-robotic-pool-cleaner-for-ultimate-efficiency-and-performance-1032837795"
+webUrl: "https://markets.businessinsider.com/news/stocks/kickstarter-launch-scavbots-unveils-cutting-edge-robotic-pool-cleaner-for-ultimate-efficiency-and-performance-1032837795"
 type: article
-quality: 0
-heat: 0
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "Bgp4zfHq/C0Jw+QbQPeaPE/gkYozSxR8c++Vbwjk1YTAqwI41Fe8+gKPjuuUbxjSsr3T/3OlLt97thfBhruIZwsslFRcKoFzg768IiNHDq6TTEPOMSSRlwkoE6CI+K6ux/TK1/9os2xRZkCBhLrkB3AXs0pX4WXQuIfSxR8XkNcXPOgl3sSbzX7G6U18mvqN4gt0tySxaFUlBAdWJpwlauBnG7BeaDkhAVw6e+lQuK+LB7A8BNMRN+5BLfIygstT5bkw3M0LKpsFCnJO5X9oLdSX/YwYwylya0zmngZjY0wDN8wYxSu8mGfcbZ1YJuouvBJL6wtauGlSaDa5TrcsT4EXhcDYDHrhpMsOEtIcLcpjAnckECZqQvhPo8D2SI72raMtTl/JFnS5axdokpq8izB0/VwU1f/bLefa1KCwgrkXbvRLiaisBOIKF79xhPCJJ1dfJhXvuaS1TEdrSyc31Defr3Om6jhNHNHmdaWdRVUWsJZq5tfFNNu5HAIa2afQcuZiMxetULYPMl/FdN5zDw==;lkqgmzI68wODJROeEdA9Fw=="
+images:
+  - url: "https://storage.googleapis.com/mmstudio-images/gallery/AI1c6Zs6gRZKLvdKaBq3Ao0hNL73/89113677-1700487076-1.jpg"
+    width: 800
+    height: 393
+    isCached: true
+
+secured: "ou97ZfK8DXZBy5IhQ0wuEKbniMozmUaZeAD/DwoJPf+67xZnhFUqYWLcdwAVyILOX1MT16ggLzPukHkvqXtQC2U+GZ/QbE6zOLI1qRAY+vKL/l7ybFg/LO/S4UfIxfeELzuHpt9hhlRz/wvYfV/eTmI5rRV3MhczfNxiAYNSIerK+hCrL+2xMJVuJfhMixdB/IY0AmTFaTQUSU5sDSHYJwhwcNSXO4h8TDYhrDJ2TC05PXiw5p8sObw/cHFbpy/Q4dGv/u38rKoB2o7UW00rCT+eE/Z0K0mL4D71EimiYBgDx9TlCWZtHNNLhqdhjoJklVqNFWd0QgZRIUguz+6O1JB3LnZEeIkpK3mapbwqug8=;lknPDU+9X/3xd5QThblccg=="
 ---
 

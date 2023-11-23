@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-ear
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
 type: article
 quality: 90
-heat: 260
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -42,7 +42,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds"
         width: 1600

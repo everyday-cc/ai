@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-su
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
 type: article
 quality: 109
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2021/srijan%20kumar850x478.jpeg"
         width: 850
         height: 478
+        isCached: true
+  - title: "Saving corals with artificial intelligence"
+    excerpt: "Australian Taryn Foster has spent her whole life exploring the coral reefs in Western Australia. As a result, she has witnessed the damage caused by climate change. With her company Coral Maker, she now wants to take up the fight for corals - with artificial intelligence (AI) and robotics."
+    publishedDateTime: 2023-11-23T06:20:00Z
+    webUrl: "https://www.sbs.com.au/language/german/en/podcast-episode/mit-kunstlicher-intelligenz-korallen-retten/cbdi08fi5"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 39
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/ff52531/2147483647/strip/true/crop/8419x4736+0+226/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F5d%2Fca%2F7e6df41c4e52b83af99b574d4e57%2Fcoral-maker-autodesk-111.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "ConcertAI's TeraRecon, Integrates Clinical and Generative AI, Supporting Clinical Research and Advancing Clinical Care Solutions at #RSNA23"
     excerpt: "New solutions empower clinicians and research teams with AI orchestration, model development, visualization, and multi-modal data management to"
