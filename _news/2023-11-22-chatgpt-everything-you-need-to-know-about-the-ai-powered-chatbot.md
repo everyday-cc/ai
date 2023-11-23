@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 91
-heat: 331
+heat: 341
 published: true
 
 provider:
@@ -257,6 +257,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ai-generated-8177861_1920.jpg"
         width: 1920
         height: 1329
+        isCached: true
+  - title: "How to stop OpenAI from using your ChatGPT chats to train AI in just 3 minutes"
+    excerpt: "It’s very easy to stop your ChatGPT chat data from training future models - here’s where you find the hidden privacy setting."
+    publishedDateTime: 2023-11-22T19:02:00Z
+    webUrl: "https://bgr.com/tech/how-to-stop-openai-from-using-your-chatgpt-chats-to-train-ai-in-just-3-minutes/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 33
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/04/chat-gpt-open-ai.jpg?quality=82&strip=all"
+        width: 3024
+        height: 1701
         isCached: true
   - title: "A|I: The AI Times – Everything you need to know about the sudden firing of Sam Altman"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."

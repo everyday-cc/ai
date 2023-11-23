@@ -34,6 +34,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Worth $3.7 billion | MarketsandMarkets"
+    excerpt: "Mayo Clinic (US) and GE HealthCare (US) collaborated on research and product development programs to better equip clinicians and help diagnose and treat medical conditions.\"The application of"
+    publishedDateTime: 2023-11-22T22:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35926972/artificial-intelligence-ai-in-medical-diagnostics-market-worth-3-7-billion-marketsandmarkets"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "wpKqN3Rn3Gg+q71SGkuG8NBszCdIkM+2Z+Rz9TSg8ohep/7POM3ldyUkUKMQ3uws2gxqTSKrJG/g/w7FzW5vPVi3lKL7s50ZEB99ovI68WBOXF3AhPPl9AAoj2NsDq7MFn7pTthWhooI9+PBHmGHHAAgs00iEtLAqfkYpFQm717Ntad6E4X5WKewegXhoaeVgzhhYeJr5e+LdsC+Dp3N7qIhra8nrg7FlzQrq+Vg2vb8hWeka0+7ljCF7ouHReJG1/CbHdYv33b0Pb97WsmHWHP2EVXaR6P2Kz0GqDiDtyg3WEoTu6UTbl93TcgSaYSxF0HUH1e7RHJq6VRwPV9R5mQ0VpYtikTnMnP7IuEeUZ8Bm+h+bxUqaQVcdatbnL/E1OKaROBwMBJ8p7qfELuRzolsDxHoHcWXZrq/IFGb7ytCVxg9VPnCkfJlHFaiZJdfLV812dCwamThXKVXzUGG/zaloARtmq4F/Cb5BqI32tea7QzaYAf9eOBx4wD6ygB53PwxGdbRuqWD3E4pSZ+3qA==;K/fqCsOdpQ2J6ntdIGw09Q=="
 ---

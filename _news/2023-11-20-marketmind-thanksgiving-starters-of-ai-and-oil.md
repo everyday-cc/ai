@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Worth $3.7 billion | MarketsandMarkets"
+    excerpt: "Mayo Clinic (US) and GE HealthCare (US) collaborated on research and product development programs to better equip clinicians and help diagnose and treat medical conditions.\"The application of"
+    publishedDateTime: 2023-11-22T22:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35926972/artificial-intelligence-ai-in-medical-diagnostics-market-worth-3-7-billion-marketsandmarkets"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Eden Prairie's Starkey hopes to expand markets with AI hearing aids"
     excerpt: "The only one of the \"Big Five\" hearing aid makers based in the U.S. has seen a good year with the introduction of the new Genesis devices after a sluggish 2022."
     publishedDateTime: 2023-11-22T14:30:00Z

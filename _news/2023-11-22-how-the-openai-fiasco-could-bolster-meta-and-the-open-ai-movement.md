@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/21/how-the-openai-fiasco-could-bolste
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/how-the-openai-fiasco-could-bolster-meta-and-the-open-ai-movement/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -85,6 +85,22 @@ related:
     quality: 66
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2023/11/openai-flower.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Meta could benefit from the OpenAI shakeup"
+    excerpt: "Meta and Mark Zuckerberg, who had the luxury of watching the OpenAI boardroom drama from the sidelines, could end up indirectly benefiting the most."
+    publishedDateTime: 2023-11-22T22:15:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/national-international/how-meta-could-benefit-from-the-openai-shakeup/3703546/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/business/money-report/how-meta-could-benefit-from-the-openai-shakeup/3703546/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/business/money-report/how-meta-could-benefit-from-the-openai-shakeup/3703546/?amp=1"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 59
+    images:
+      - url: "https://media.nbcphiladelphia.com/2023/11/107307718-1695846920017-gettyimages-1693652103-AFP_33WW2GR.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true

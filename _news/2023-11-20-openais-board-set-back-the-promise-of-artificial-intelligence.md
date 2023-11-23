@@ -98,6 +98,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Meta could benefit from the OpenAI shakeup"
+    excerpt: "Meta and Mark Zuckerberg, who had the luxury of watching the OpenAI boardroom drama from the sidelines, could end up indirectly benefiting the most."
+    publishedDateTime: 2023-11-22T22:15:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/national-international/how-meta-could-benefit-from-the-openai-shakeup/3703546/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/business/money-report/how-meta-could-benefit-from-the-openai-shakeup/3703546/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/business/money-report/how-meta-could-benefit-from-the-openai-shakeup/3703546/?amp=1"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 59
+    images:
+      - url: "https://media.nbcphiladelphia.com/2023/11/107307718-1695846920017-gettyimages-1693652103-AFP_33WW2GR.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Generative AI startup AI21 Labs raises cash in the midst of OpenAI chaos"
     excerpt: "One AI startup’s undoing is another’s opportunity. Case in point: today, AI21 Labs, a company developing generative AI products along the lines of OpenAI’s GPT-4 and ChatGPT, closed a $53 million extension to its previously-announced Series C funding ..."
     publishedDateTime: 2023-11-21T14:00:00Z

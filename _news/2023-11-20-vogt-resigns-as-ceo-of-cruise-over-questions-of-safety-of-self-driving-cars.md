@@ -135,14 +135,14 @@ related:
   - title: "Co-founder of GM's Self-Driving Unit Resigns Amid Safety Review"
     excerpt: "Dan Kan, a co-founder and senior executive of GM's self-driving unit Cruise, has resigned from the company. Kan's resignation comes just one day after Cruise CEO Kyle Vogt resigned from"
     publishedDateTime: 2023-11-21T20:15:00Z
-    webUrl: "https://www.djournal.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397.html"
+    webUrl: "https://www.wyomingnews.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_65ad986b-156d-5744-b8a2-f347d2b34117.html"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
+      name: Wyoming News
+      domain: wyomingnews.com
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/2/cf/2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397/655d2c0e83f8b.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/6/5a/65ad986b-156d-5744-b8a2-f347d2b34117/655d2c67b3cac.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
         width: 720
         height: 378
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/amp/"
 type: article
 quality: 102
-heat: 537
+heat: 532
 published: true
 
 provider:

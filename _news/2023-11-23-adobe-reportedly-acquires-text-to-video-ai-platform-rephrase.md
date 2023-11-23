@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-22T17:03:00Z
 originalUrl: "https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video-ai-platform-rephrase/"
 webUrl: "https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video-ai-platform-rephrase/"
 type: article
-quality: 67
-heat: 97
+quality: 69
+heat: 99
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.37.16-Photo-of-a-person-of-Hispanic-descent-engrossed-in-a-video-chat-with-a-futuristic-robot-on-the-laptop.-The-laptop-creates-a-mild-illusion-of-echoing--e1700668881535.png?w=1200&strip=all"
@@ -63,6 +64,6 @@ related:
       domain: moneycontrol.com
     quality: 17
 
-secured: "Jj81VLqImzR8fjKvuIBxEkrZXBEw4oLSGkZmJJc9ckd42tcHIYIjGhB5aHjmiiuDGKM5bfpoVs5T+P2TNU0PWpWZhxAIg4wIzjvoMd/iu5KMQcZcz8FrnOYlXZQUwbYTa9zs7rL7/iNhkUB2hBDE9sO+RbQ97XngRXccctCR2B8rWSnmTeu9lCW7DD1oq5nwMJfjl14zzD8+Jd3xwA+UJour8lYb50/dOmdFPh3G9OwNkuOPM9W4Axk/DZEqujJc1W1EKCPER5tSkHSRf1rjntV5sOTlzCEn+/BOTUn2vJOgm7h9Z2eMU4BC/W2O2Uli8iKBYqsdRymtvm0j6sIwSLWTzvu4y9bA4t8FNQx8TdU=;PfYd879apE0Lx5/BFw93NQ=="
+secured: "Se82bzrCDiom5cwLAfPl6UZk1tgnHBP1WqcTrEG/7HvX375ddiFJidHrxj/zMz+oHeAF6iD1iysIP7GiP64TYSXTJIOdlo343uwjIVH4wAwS3U1yaNpJ81axin23LkYoUCyOhowehVgMoGMkIxv4ALVNCwEaiUcqB4eca7s2q3CAXUmdF8jhl4m6c+eXeY3RPq+z8fLOp9A8NhxsQ572V2q5CigK0+sGgSmc2TmgRR0nKgvHM3lQuTBPB5UF/uaLxmbzPYQUfSx+sZe4UInYQ6i+n5ZuD3pYLMrMpghcEdPJZ1PeIVg4EkWrt7g+42kdC2jT/fTfObYMtseGn5Z/xehE76lMN81r6oLiBqRGhI7EWwTiEMozwwUbZqSxq/kv9WU/kmAcZvT4uCWgGHz1kD45ptkLcZvlh4yIh/RBYF8SS7ImG256QAYC9lp4FR9iUa8529cwg5sgK5iiwj5AqDF0e2qEZ0SrgkbVylCrI3WNeNeYWxshW5eHBJkmVRfPnuENcQqPq1dFbuhUiuUTXQ==;gLrAXhmb31hkKQEqZnbHqQ=="
 ---
 

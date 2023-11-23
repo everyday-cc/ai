@@ -267,6 +267,20 @@ related:
         width: 1920
         height: 1329
         isCached: true
+  - title: "How to stop OpenAI from using your ChatGPT chats to train AI in just 3 minutes"
+    excerpt: "It’s very easy to stop your ChatGPT chat data from training future models - here’s where you find the hidden privacy setting."
+    publishedDateTime: 2023-11-22T19:02:00Z
+    webUrl: "https://bgr.com/tech/how-to-stop-openai-from-using-your-chatgpt-chats-to-train-ai-in-just-3-minutes/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 33
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/04/chat-gpt-open-ai.jpg?quality=82&strip=all"
+        width: 3024
+        height: 1701
+        isCached: true
   - title: "ChatGPT’s Voice Feature Rolled Out For Free For All Users; Here’s How To Use It"
     excerpt: "Besides Voice ChatGPT Has Also Introduced Image Feature For The App. What Does That Mean? It means you can insert an image in the app and converse about it. Eg: You can post a picture of an instrument that's not working and ask ChatGPT to troubleshoot."
     publishedDateTime: 2023-11-22T13:27:00Z

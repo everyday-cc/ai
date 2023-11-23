@@ -256,6 +256,20 @@ related:
         width: 1920
         height: 1329
         isCached: true
+  - title: "How to stop OpenAI from using your ChatGPT chats to train AI in just 3 minutes"
+    excerpt: "It’s very easy to stop your ChatGPT chat data from training future models - here’s where you find the hidden privacy setting."
+    publishedDateTime: 2023-11-22T19:02:00Z
+    webUrl: "https://bgr.com/tech/how-to-stop-openai-from-using-your-chatgpt-chats-to-train-ai-in-just-3-minutes/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 33
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/04/chat-gpt-open-ai.jpg?quality=82&strip=all"
+        width: 3024
+        height: 1701
+        isCached: true
   - title: "A|I: The AI Times – Everything you need to know about the sudden firing of Sam Altman"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
     publishedDateTime: 2023-11-20T14:43:00Z
@@ -349,6 +363,6 @@ related:
       domain: inferse.com
     quality: 3
 
-secured: "1wVDrkKBJdrkzC078ZZRimMIzkUusAN/HsmlW/TWB5zXYVymO9U9WeE4qpqWGXMvLr8XLJB44JQyzJx+e18tkC6uGEbeLk/7fCxp3I+0fI/lIXWFXtPNrkvPzQS5m9Bf9KkHlqKGTZ3AeuPZ6/VX1ZeNCNjT3sL+4e+rtKRb3hFgbJN4AsrvAZg3zmlm5jxeHUmzKobd1V7zXIhh+cUpmyp37tCGUD0WWsFs4wV7xHjhiHLg4dmwfaYKmAaKvDWY71LL5J47Nkqwl5qtgPIomBZqbIpCXsUiFO/XRLCRA52oCGq4RYbhPYfo83ulv5DDMCWeUvFzgz4fBJO2V+F2ADr9QTPHSY25IiSWKCtt7o8=;VCu9KbY93I1URlpRfv7T2g=="
+secured: "WWTkwOxYsTmv+a6mMcrunhKMKskTajqYFbAUwZJsz22RyMATazjAz03oe2/K4ICSiiB6WWjGTJTxppg8V9NZr6UueYasdSKrr40aYBb+t9lbMq9jqUnJnd6N9Bvp70cRl4fc3PXIcufaw4+zj2epgMlAg1YnrB+1KQ2DVOTNN91cn1heEFX1+eDlwHHZvzMOEZeKZ4QQCQlkPlPe5zKtXH+k8Oh8fpgk1C/P0CwPxPupUyyemGzGMHrIGOppcS3CtpDeSLpIRKyfirymsqYwsmpjUNCTwJxztEm9ug171i0yrzVW0HmJWVDCUSUrrjXRKgmXer1B531ULnlG/YsW4YtZXPhrqQyXjN2cq0fIWTL1icnzOLc4BJdvbwUv9MHd5meBfZvJoIblufHOdATfr4TxzOdL/pICgfX6IbDA6lS9dY7aXBbBpGUotnczpCmjhBYvARpXt72P68VlUXaRQgWvm6rTxfCeFQ/liyQDQeMDLemK9TTRiQgfugVibeIGDVQ9ES/Mu+wbvsGFPlF62Q==;WE3PA0sn0aIabqy6fR6JOw=="
 ---
 

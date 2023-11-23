@@ -260,6 +260,20 @@ related:
         width: 1920
         height: 1329
         isCached: true
+  - title: "How to stop OpenAI from using your ChatGPT chats to train AI in just 3 minutes"
+    excerpt: "It’s very easy to stop your ChatGPT chat data from training future models - here’s where you find the hidden privacy setting."
+    publishedDateTime: 2023-11-22T19:02:00Z
+    webUrl: "https://bgr.com/tech/how-to-stop-openai-from-using-your-chatgpt-chats-to-train-ai-in-just-3-minutes/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 33
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/04/chat-gpt-open-ai.jpg?quality=82&strip=all"
+        width: 3024
+        height: 1701
+        isCached: true
   - title: "A|I: The AI Times – Everything you need to know about the sudden firing of Sam Altman"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
     publishedDateTime: 2023-11-20T14:43:00Z
