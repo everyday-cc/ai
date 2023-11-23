@@ -39,6 +39,22 @@ related:
         width: 1121
         height: 630
         isCached: true
+  - title: "What does Sam Altman's firing — and quick reinstatement — mean for the future of AI?"
+    excerpt: "It’s been quite a week for ChatGPT-maker OpenAI — and co-founder Sam Altman. Altman, who helped start OpenAI as a nonprofit research lab back in 2015, was fired as CEO"
+    publishedDateTime: 2023-11-23T01:48:00Z
+    webUrl: "https://www.meridianstar.com/news/nation_and_world/what-does-sam-altmans-firing-and-quick-reinstatement-mean-for-the-future-of-ai/article_e0ed922e-ae4b-5e20-a416-9eaed0aac041.html"
+    ampWebUrl: "https://www.meridianstar.com/news/nation_and_world/what-does-sam-altmans-firing-and-quick-reinstatement-mean-for-the-future-of-ai/article_e0ed922e-ae4b-5e20-a416-9eaed0aac041.amp.html"
+    cdnAmpWebUrl: "https://www-meridianstar-com.cdn.ampproject.org/c/s/www.meridianstar.com/news/nation_and_world/what-does-sam-altmans-firing-and-quick-reinstatement-mean-for-the-future-of-ai/article_e0ed922e-ae4b-5e20-a416-9eaed0aac041.amp.html"
+    type: article
+    provider:
+      name: The Meridian Star
+      domain: meridianstar.com
+    quality: 50
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/meridianstar.com/content/tncms/assets/v3/editorial/3/32/332a46ca-01ed-5772-801e-731ed81de643/655e1c1752a03.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Sam Altman’s ‘Departure’ And Board Oversight Of Artificial Intelligence"
     excerpt: "OpenAI’s decision to terminate CEO Sam Altman may have a substantial ripple effect on how boards approach oversight of the organizational use of artificial intelligence."
     publishedDateTime: 2023-11-18T17:12:00Z

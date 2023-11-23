@@ -41,22 +41,6 @@ related:
         width: 880
         height: 542
         isCached: true
-  - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
-    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors ’ autonomous vehicle unit, as questions build about the safety of self-driving cars."
-    publishedDateTime: 2023-11-20T05:02:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022880"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022880"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/vogt-resigns-ceo-cruise-safety-questions-recalls-driving-105022880"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 34
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_6e53ea823e1ecc037ec9b282e8e16c2f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "As Self-Driving Cars Grow, So Do Safety Concerns"
     excerpt: "As autonomous vehicles (AVs) become more prevalent, many have raised concerns over how safe the concept is, Automoblog reports. Much of this concern has been voiced by the U.S. go"
     publishedDateTime: 2023-11-20T06:03:00Z
@@ -80,20 +64,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 24
-  - title: "Cruise CEO resigns after self-driving fleet pulled"
-    excerpt: "Kyle Vogt, the CEO of Cruise, General Motors’s (GM) autonomous vehicle unit, resigned Sunday amid growing safety concerns about the company’s self-driving fleet. Vogt announced his resignation late Sunday night on X,"
-    publishedDateTime: 2023-11-20T15:06:00Z
-    webUrl: "https://www.aol.com/news/cruise-ceo-resigns-self-driving-150632551.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_hill_articles_315/bf451bddd621fa2b5ebc529eff2f73da"
-        width: 900
-        height: 505
-        isCached: true
   - title: "CEO of Cruise self-driving cars steps down"
     excerpt: "HOUSTON — KHOU 11 news has confirmed the head of Cruise self-driving cars has resigned. Kyle Vogt resigned as CEO as the nationwide pause of operations continues. The pause stems from problems that led to action from state and federal regulators."
     publishedDateTime: 2023-11-21T00:16:00Z
@@ -107,20 +77,6 @@ related:
       - url: "https://media.khou.com/assets/KHOU/images/977409f4-e8ca-4979-b3f4-ca981906dbe7/977409f4-e8ca-4979-b3f4-ca981906dbe7_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Cruise CEO resigns following troubles with self-driving cars"
-    excerpt: "The founder and CEO of autonomous vehicle company Cruise, which is owned by General Motors, announced on X that he is resigning. Kyle Vogt founded the company in 2013 and also served as its president and chief technology officer."
-    publishedDateTime: 2023-11-20T17:40:00Z
-    webUrl: "https://www.aol.com/cruise-ceo-resigns-following-troubles-174053325.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/aol_newsy_441/9cd329f27749726f0e5dd13c0e2ae045"
-        width: 640
-        height: 360
         isCached: true
   - title: "Co-founder of GM's Self-Driving Unit Resigns Amid Safety Review"
     excerpt: "Dan Kan, a co-founder and senior executive of GM's self-driving unit Cruise, has resigned from the company. Kan's resignation comes just one day after Cruise CEO Kyle Vogt resigned from"
@@ -150,17 +106,34 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Vogt resigns as CEO of Cruise over questions of safety of self-driving cars"
-    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars."
-    publishedDateTime: 2023-11-20T06:06:00Z
-    webUrl: "https://www.business-standard.com/world-news/vogt-resigns-as-ceo-of-cruise-over-questions-of-safety-of-self-driving-cars-123112000176_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/world-news/vogt-resigns-as-ceo-of-cruise-over-questions-of-safety-of-self-driving-cars-123112000176_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/vogt-resigns-as-ceo-of-cruise-over-questions-of-safety-of-self-driving-cars-123112000176_1.html"
+  - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
+    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars. Vogt’s decision to step down, announced late Sunday ..."
+    publishedDateTime: 2023-11-20T14:29:00Z
+    webUrl: "https://www.bostonglobe.com/2023/11/20/business/vogt-resigns-ceo-cruise-following-safety-questions-recalls-self-driving-vehicles/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 22
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 14
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Kppzcmm788btNPz0ZGvSRGJGP0c=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XEOENH2MWXH7ZM5VLLKUF7YAFE.jpg"
+        width: 506
+        height: 338
+        isCached: true
+  - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
+    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars. Vogt's decision to step down, announced late Sunday ..."
+    publishedDateTime: 2023-11-22T05:18:00Z
+    webUrl: "https://www.wral.com/story/vogt-resigns-as-ceo-of-cruise-following-safety-questions-recalls-of-self-driving-vehicles/21158901/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 14
+    images:
+      - url: "https://wwwcache.wral.com/asset/business/2023/11/19/21158902/655ae426701c6-media_d582d0d89bae49de8bece9d4d4536caf-DMID1-60zs8q59r-640x480.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Cruise woes claim CEO, drive shakeup, but GM still believes in self-driving technology"
     excerpt: "Dan Ives, managing director and senior equity analyst at Wedbush Securities, said in a statement Vogt's resignation is \"another major black eye for the Cruise franchise and GM. He was the turnaround CEO and instead it’s another debacle.\""
     publishedDateTime: 2023-11-21T03:01:00Z
@@ -179,15 +152,6 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 4
-  - title: "Self-driving car venture Cruise chief resigns after uproar over accident"
-    excerpt: "The co-founder and chief executive of General Motors-owned Cruise has resigned, weeks after the self-driving car company paused driverless operations and California regulators barred its vehicles from the state’s streets. Cruise said on Sunday that its ..."
-    publishedDateTime: 2023-11-20T00:00:00Z
-    webUrl: "https://www.ft.com/content/0a68a82f-b5fb-4acb-a915-96cbc70bf8d7"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 3
 
 secured: "B10oCj6PgWfXGsMMzdXYaJ0LzufiCVwZnb1uEYSIV1vMua9ZtC/KcF9Lc8IlOZ7imAe6RxbK1e2GePzGl4VkbpfELaEDKF4xmrZBwI2TQq35t74RhuThTEeC/XDAmFpEOEzIGskak2wDVx0vtWJJeJ0D2Qgw5/SG7MiBRdzNKV1vfqGdmjieE2CTZT5J/681FgLAo1A5T9hdHGrt1lmxF1/55hH3RkNpGzRLkBngak4hZ0nXqgUtQz4teyjUuUF0U690anVPPfvZA7/l4eFTLUPFfAl7BpfQc72T/NfDBQuWRHUaS17D174n4dBJ6qLKdeV1W8/EOXQ9hMZMwwmNDXqTezYa5QUnu59bJeFlswdEy25lf9orlHMOV6wbnL4+TDXkslOh+vhcpUAruY9LLzoz7/hTvWeT4BBGQlx8BF0bmaVKGXPBebZbcnQ7bAmGurBLLNrQ2v+QAkWM+I6hQ4OZiW0ZHAsuh6xi/7/S6W4y4bBLKGf7v0PwTEvzHRzo1R6hK+t9UvmJjitJ5pGbmw==;ViKDAtVhbbAGGITLcZd+zw=="
 ---

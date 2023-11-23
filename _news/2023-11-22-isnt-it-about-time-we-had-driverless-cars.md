@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Cruise’s C.E.O. Quits as the Driverless Carmaker Aims to Rebuild Trust"
+    excerpt: "Kyle Vogt, a founder of Cruise, resigned from the company on Sunday, weeks after it suspended all of its self-driving operations. By Yiwen Lu and Tripp Mickle Reporting from San Francisco Kyle ..."
+    publishedDateTime: 2023-11-20T17:19:00Z
+    webUrl: "https://www.nytimes.com/2023/11/19/technology/cruise-ceo-kyle-vogt-quits.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 84
+    images:
+      - url: "https://static01.nyt.com/images/2023/11/21/us/19ALTcruise-ceo-print/19cruise-ceo-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "GM’s driverless ride heads into a ditch"
     excerpt: "For a while, General Motors' bet on robo-taxi startup Cruise held the promise of creating a serious challenge to electric-car leader Tesla . If there were any question about whether that’s still true,"
     publishedDateTime: 2023-11-21T20:59:00Z
@@ -79,6 +93,54 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Cruise CEO resigns after self-driving fleet pulled"
+    excerpt: "Kyle Vogt, the CEO of Cruise, General Motors’s (GM) autonomous vehicle unit, resigned Sunday amid growing safety concerns about the company’s self-driving fleet. Vogt announced his resignation late Sunday night on X,"
+    publishedDateTime: 2023-11-20T15:06:00Z
+    webUrl: "https://www.aol.com/news/cruise-ceo-resigns-self-driving-150632551.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_hill_articles_315/bf451bddd621fa2b5ebc529eff2f73da"
+        width: 900
+        height: 505
+        isCached: true
+  - title: "Cruise CEO resigns following troubles with self-driving cars"
+    excerpt: "The founder and CEO of autonomous vehicle company Cruise, which is owned by General Motors, announced on X that he is resigning. Kyle Vogt founded the company in 2013 and also served as its president and chief technology officer."
+    publishedDateTime: 2023-11-20T17:40:00Z
+    webUrl: "https://www.aol.com/cruise-ceo-resigns-following-troubles-174053325.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_newsy_441/9cd329f27749726f0e5dd13c0e2ae045"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Vogt resigns as CEO of Cruise over questions of safety of self-driving cars"
+    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars."
+    publishedDateTime: 2023-11-20T06:06:00Z
+    webUrl: "https://www.business-standard.com/world-news/vogt-resigns-as-ceo-of-cruise-over-questions-of-safety-of-self-driving-cars-123112000176_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/world-news/vogt-resigns-as-ceo-of-cruise-over-questions-of-safety-of-self-driving-cars-123112000176_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/vogt-resigns-as-ceo-of-cruise-over-questions-of-safety-of-self-driving-cars-123112000176_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 22
+  - title: "Self-driving car venture Cruise chief resigns after uproar over accident"
+    excerpt: "The co-founder and chief executive of General Motors-owned Cruise has resigned, weeks after the self-driving car company paused driverless operations and California regulators barred its vehicles from the state’s streets. Cruise said on Sunday that its ..."
+    publishedDateTime: 2023-11-20T00:00:00Z
+    webUrl: "https://www.ft.com/content/0a68a82f-b5fb-4acb-a915-96cbc70bf8d7"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 3
 
 secured: "93/RZ+iYg3r8IF3rpvnzd7XtKnQIqbrymSegBfIc/QPpI9RLHQE5B8DvJVC/uQ7AnDvB1XqhkuBuxq+yuuXBmdK9PvUgmzSgiNKyBq+s19m75jDP/+a7HbPteT8U3FJUEgjSIksEeT185iKYu2Ic0bdAbGle7lwxwVxEUm4TQ2FjV7ARAPvr40Eiw6Dlp+xWA6WeVwiQqXQkc0EiKwGqO8EbZl1ulrzrdsmEiScpeHjC34Ex4Df3SxcWrd/dH4S8lnLSdwFgPF76V7EZHZ6KedJiWJuGUC/G5Kl7gpY8AAalIMKEFDlg9yn+Q7+FQZGaFaumLKC5rDCEWpIKeeHWpFv/f7la1TG9POVWsMyy3J4=;jEBzv1PFIU2BtineJxJBpA=="
 ---

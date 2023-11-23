@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Meta could benefit from the OpenAI shakeup"
+    excerpt: "Meta and Mark Zuckerberg, who had the luxury of watching the OpenAI boardroom drama from the sidelines, could end up indirectly benefiting the most."
+    publishedDateTime: 2023-11-23T00:09:00Z
+    webUrl: "https://www.cnbc.com/2023/11/22/how-meta-could-benefit-from-the-openai-shakeup.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/11/22/how-meta-could-benefit-from-the-openai-shakeup.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/22/how-meta-could-benefit-from-the-openai-shakeup.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107307718-1695846920017-gettyimages-1693652103-AFP_33WW2GR.jpeg?v=1700680113"
+        width: 2633
+        height: 1767
+        isCached: true
   - title: "How the OpenAI fiasco could bolster Meta and the ‘open AI’ movement"
     excerpt: "And on a company level, Meta is doing all it can to encourage collaboration and “openness,” recently partnering with Hugging Face to launch a new startup accelerator designed to spur adoption of open source AI models. But OpenAI was — up until last ..."
     publishedDateTime: 2023-11-21T16:13:00Z
@@ -44,6 +60,38 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
+    excerpt: "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models."
+    publishedDateTime: 2023-11-20T00:00:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922?icid=recommended"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 77
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-11/231119-sam-altman-jm-1614-859c3a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
+    excerpt: "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models."
+    publishedDateTime: 2023-11-20T21:18:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 77
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-11/231119-sam-altman-jm-1614-859c3a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "The OpenAI fiasco shows why we must regulate artificial intelligence"
     excerpt: "If AI goes right, it could cure cancer and climate change and a host of similar problems, ushering in a futuristic utopia. If we get it wrong, many believe it could be an existential catastrophe"
     publishedDateTime: 2023-11-19T23:47:00Z
@@ -54,7 +102,7 @@ related:
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 72
+    quality: 76
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/11/newspress-collage-z5hdnr8oi-1700440023427.jpg?quality=75&strip=all&1700422172&w=1024"
         width: 1024
@@ -87,22 +135,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-20-10.22.17-A-dramatic-scene-on-an-18th-century-sailing-ship-capturing-the-essence-of-a-mutiny-like-in-the-story-of-Mutiny-on-the-Bounty.-The-ship-is-set-again.png?w=1200&strip=all"
         width: 1199
         height: 685
-        isCached: true
-  - title: "How Meta could benefit from the OpenAI shakeup"
-    excerpt: "Meta and Mark Zuckerberg, who had the luxury of watching the OpenAI boardroom drama from the sidelines, could end up indirectly benefiting the most."
-    publishedDateTime: 2023-11-22T22:15:00Z
-    webUrl: "https://www.nbcphiladelphia.com/news/national-international/how-meta-could-benefit-from-the-openai-shakeup/3703546/"
-    ampWebUrl: "https://www.nbcphiladelphia.com/news/business/money-report/how-meta-could-benefit-from-the-openai-shakeup/3703546/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/business/money-report/how-meta-could-benefit-from-the-openai-shakeup/3703546/?amp=1"
-    type: article
-    provider:
-      name: NBC 10 Philadelphia
-      domain: nbcphiladelphia.com
-    quality: 59
-    images:
-      - url: "https://media.nbcphiladelphia.com/2023/11/107307718-1695846920017-gettyimages-1693652103-AFP_33WW2GR.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "OpenAI’s Board Set Back the Promise of Artificial Intelligence"
     excerpt: "I was the first venture investor in OpenAI. The weekend drama illustrated my contention that the wrong boards can damage companies. Fancy titles like “Director of Strategy at Georgetown’s Center for Security and Emerging Technology” can lead to a false sense of understanding of the complex"
@@ -141,20 +173,6 @@ related:
         width: 845
         height: 535
         isCached: true
-  - title: "With OpenAI's future in limbo, its startup customers are looking to jump ship to other AI models offered by rivals Anthropic and Meta"
-    excerpt: "Many startups build on top of OpenAI's models, and are looking at alternatives from Anthropic and Meta in the wake of Sam Altman's ouster."
-    publishedDateTime: 2023-11-21T03:13:00Z
-    webUrl: "https://www.businessinsider.com/openai-startup-customers-considering-anthropic-meta-aimodels-2023-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/6552aa3e385143459e8c5757?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "OpenAI chaos explained: What it could mean for the future of artificial intelligence"
     excerpt: "The firing of CEO Sam Altman, the threat of employee exodus, and more. OpenAI chaos explained: What it could mean for the future of artificial intelligence."
     publishedDateTime: 2023-11-20T19:00:00Z
@@ -164,6 +182,24 @@ related:
       name: Popular Science
       domain: popsci.com
     quality: 25
+  - title: "Artificial Intelligence's rival factions, from Elon Musk to OpenAI – The Washington Post"
+    excerpt: "Inside Silicon Valley’s AI sector, fierce divisions are growing over the impact of a new wave of artificial intelligence: While some argue it’s imperative to"
+    publishedDateTime: 2023-11-21T17:24:00Z
+    webUrl: "https://www.inferse.com/802145/artificial-intelligences-rival-factions-from-elon-musk-to-openai-the-washington-post/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 25
+  - title: "OpenAI meltdown prompts questions about startup’s SF footprint"
+    excerpt: "Could internal turmoil impact the firm’s newly signed sublease for 480K sf of offices at 1455 and 1515 Third Street?"
+    publishedDateTime: 2023-11-21T20:09:00Z
+    webUrl: "https://therealdeal.com/sanfrancisco/2023/11/21/openai-meltdown-prompts-questions-about-firms-sf-footprint/"
+    type: article
+    provider:
+      name: The Real Deal
+      domain: therealdeal.com
+    quality: 17
   - title: "How OpenAI interim chief Mira Murati helped launch AI into the mainstream"
     excerpt: "Born in Albania, former chief technology officer is charged with calming the waters after ouster of Sam Altman"
     publishedDateTime: 2023-11-19T09:02:00Z
@@ -172,6 +208,15 @@ related:
     provider:
       name: The Guardian
       domain: theguardian.com
+    quality: 16
+  - title: "xAI org chart: All the top power players at Elon Musk’s new OpenAI competitor"
+    excerpt: "CFO Plays many roles for Musk including managing director of Musk’s family office. Member of xAI technical staff. Babuschkin was a member of the technical staff at OpenAI for nearly two years and also worked at DeepMind. LinkedIn profile says he’s an xAI cofounder. Used to work at Google and DeepMind."
+    publishedDateTime: 2023-11-20T12:00:00Z
+    webUrl: "https://www.aol.com/finance/xai-org-chart-top-power-100000349.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 16
   - title: "OpenAI's meltdown prompts further questions around the future of AI safety surveillance"
     excerpt: "Abhishek Gupta, Founder and Principal Researcher at the Montreal AI Ethics Institute, said that enterprises need to consider AI safety metrics that go beyond traditional software performance indicators. He explains: Current metrics should encompass a ..."

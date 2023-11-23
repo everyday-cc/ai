@@ -2,6 +2,50 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-11-09-nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-ai-benchmarks.md",
+      "title": "NVIDIA flexes H100 AI GPU muscle, setting new records in AI benchmarks",
+      "excerpt": "NVIDIA shows off new records and milestones with its H100 Tensor Core GPUs and various AI benchmarks, including MLPerf benchmarks that NVIDIA dominates in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/94274/nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/94274/nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/4/94274_710_nvidia-flexes-h100-ai-gpu-muscle-setting-new-records-in-benchmarks_full.png",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T04:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-hollywood-actors-strike-ends-with-a-deal-that-will-impact-ai-and-streaming-for-decades.md",
       "title": "Hollywood Actors Strike Ends With a Deal That Will Impact AI and Streaming for Decades",
       "excerpt": "The Screen Actors Guild-American Federation of Television and Radio Artists reached a tentative agreement with the studios on Wednesday, ending a 118-day strike.",
@@ -1092,57 +1136,6 @@
         "AI",
         "AI in Marketing",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-ai-speculation-dominates-cloud-native-conference.md",
-      "title": "AI Speculation Dominates Cloud Native Conference",
-      "excerpt": "While talk of AI overshadowed other topics during the first day of KubeCon NA, customers and vendors alike are focused on more practical matters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/",
-      "originalUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654baf04eb3ddcc2d1029c73/0x0.jpg?format=jpg&crop=1454,818,x0,y75,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/amp/",
-      "publishedDateTime": "2023-11-08T16:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

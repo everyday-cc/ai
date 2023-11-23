@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Nvidia Q3 Earnings Explode On Surging Data Center AI And Gaming Demand"
+    excerpt: "There’s no stopping Nvidia from this level of growth for the foreseeable future. The company continues to execute like a finely tuned machine."
+    publishedDateTime: 2023-11-22T16:57:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
     excerpt: "Nvidia's earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
     publishedDateTime: 2023-11-20T14:43:00Z
@@ -154,6 +170,20 @@ related:
         width: 768
         height: 530
         isCached: true
+  - title: "How is artificial intelligence impacting data center design?"
+    excerpt: "As AI is reshaping how we interact with machines and the world around us, the design of data centers needs to adapt to this fast-changing landscape. So, Page pairs expert thinking with high-performing solutions to meet the needs of rapidly advancing technologies."
+    publishedDateTime: 2023-11-22T23:30:00Z
+    webUrl: "https://www.bdcnetwork.com/blog/how-artificial-intelligence-impacting-data-center-design"
+    type: article
+    provider:
+      name: Bdcnetwork.com
+      domain: bdcnetwork.com
+    quality: 39
+    images:
+      - url: "https://www.bdcnetwork.com/sites/default/files/109024_N2_jpg.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "AI Leader Dipping From Record Highs Before Earnings"
     excerpt: "This is shaping up to be a big report for the company given its lead in the artificial intelligence (AI) space. During yesterday's trading ... There's no set up required either. If you start buying the dividend stocks I show you today..."
     publishedDateTime: 2023-11-21T18:42:00Z
@@ -176,6 +206,15 @@ related:
     provider:
       name: Dataquest
       domain: dqindia.com
+    quality: 36
+  - title: "Nvidia’s Record Performance and Leadership in AI Drive Buy Rating and Optimistic Growth Forecast"
+    excerpt: "Analyst Cody Acree of Benchmark Co. reiterated a Buy rating on Nvidia (NVDA – Research Report), with a price target of ... The rapid adoption of Generative AI and Large Language Models by major consumer internet companies and cloud service providers ..."
+    publishedDateTime: 2023-11-23T02:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-record-performance-and-leadership-in-ai-drive-buy-rating-and-optimistic-growth-forecast-1032844290"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 36
   - title: "NVIDIA Crushes Earnings On Monster AI Chip Demand And Big Gains In Gaming"
     excerpt: "NVIDIA has found its golden goose in AI chip design, which contributed heavily to another massive spike in revenue during the company's third quarter of fiscal 2024—it tripled year-over-year to $18.12 billion."

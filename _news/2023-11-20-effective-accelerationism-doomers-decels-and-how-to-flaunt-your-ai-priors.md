@@ -44,6 +44,22 @@ related:
         width: 1300
         height: 733
         isCached: true
+  - title: "Simplifying AI development with Azure AI Studio"
+    excerpt: "Microsoft’s cloud-based AI development environment, now in public preview, takes a more streamlined approach to building AI-powered applications."
+    publishedDateTime: 2023-11-23T02:03:00Z
+    webUrl: "https://www.infoworld.com/article/3711360/simplifying-ai-development-with-azure-ai-studio.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711360/simplifying-ai-development-with-azure-ai-studio.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711360/simplifying-ai-development-with-azure-ai-studio.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.techhive.com/images/article/2014/04/futuristic-flowchart-135523847-100264958-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "The OpenAI meltdown will only accelerate the artificial intelligence race"
     excerpt: "Optimists and ‘doomers’ are fighting over the direction of AI research – and those who want speed may have won this round"
     publishedDateTime: 2023-11-22T09:11:00Z

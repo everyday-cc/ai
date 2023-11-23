@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-21T21:27:00Z
 originalUrl: "https://www.usatoday.com/story/news/health/2023/11/19/unitedhealth-artificial-intelligence-denies-claims-in-error-lawsuit-says/71579822007/"
 webUrl: "https://www.usatoday.com/story/news/health/2023/11/19/unitedhealth-artificial-intelligence-denies-claims-in-error-lawsuit-says/71579822007/"
 type: article
-quality: 10
-heat: 10
+quality: 12
+heat: 12
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 secured: "kzsDTWc3YawEb99ojh44ZHKLazq8ycbUEy3MOVu+Fpw401hDQZu+ub1NBJEjub3I6KxUKCQqSYz+D+9oCGX+B0eBIUbvc8+yDrphjctQStZIbEjVaqxqiORM9XpvCKQTsHY2dlj1tNmY0sKO2yxTXwvxlyA1LMqSPL8EGq6/suhGP3kJuLTR6f2z59+/oITOUNH7ryp71ZRGhLFl7V5flIrSt6mnipFErOWb619NDWwQ6McMlOxuvbtn2r+ejD+NlDm0PftncDBPol84ARYCoknBTjTOjhSI7xb6Iu0Mhh1LDEgqJKfKalO44dC51yJyJ7ZpPrJgWlqmaFo3OWTh1bohh9Ydw//7UPQd9wEgeQM=;FG1KMeatDN6BKxYXMdQHrw=="
 ---

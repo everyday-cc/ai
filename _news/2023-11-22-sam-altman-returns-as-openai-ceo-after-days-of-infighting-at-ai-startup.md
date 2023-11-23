@@ -313,6 +313,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft hires OpenAI founders to lead AI research team after ChatGPT maker's shakeup"
+    excerpt: "will be joining Microsoft to lead a new advanced AI research team.” Altman said “the mission continues,” in reply to Nadella on X. OpenAI said Friday that Altman was pushed out after a ..."
+    publishedDateTime: 2023-11-20T09:46:00Z
+    webUrl: "https://www.wral.com/story/microsoft-hires-openai-founders-to-lead-ai-research-team-after-chatgpt-makers-shakeup/21159171/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 48
+    images:
+      - url: "https://wwwcache.wral.com/asset/business/2023/11/20/21159770/655bab59a2571-media_0e7e5ab51dbe4ef380dce65cf732e02e-DMID1-6100o8wyz-640x480.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Xbox Already Has Big AI Plans, Now It Has Sam Altman"
     excerpt: "Sam Altman beefing up Microsoft's AI division will likely end up having ramifications for Xbox itself down the line."
     publishedDateTime: 2023-11-20T14:39:00Z
@@ -399,6 +413,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 41
+  - title: "OpenAI researchers warned board of AI breakthrough"
+    excerpt: "Some at OpenAI believe Q* (pronounced Q-Star) could be a breakthrough in the start-up’s search for what’s known as artificial general intelligence (AGI), one of the people said. OpenAI defines AGI as autonomous systems that surpass humans in most economically valuable tasks."
+    publishedDateTime: 2023-11-23T04:38:00Z
+    webUrl: "https://techcentral.co.za/openai-researchers-warned-ai-breakthrough/235696/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 39
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/10/machine-learning-artificial-intelligence-1500-800-2.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
     excerpt: "Matt Schlicht, the CEO of the startup Octane AI, told CNBC that Altman and Brockman, who was formerly the chief technology office of Stripe, “made a technology available that we’d only ever dreamed about” and called it “the most exciting and powerful development of our lifetime.”"
     publishedDateTime: 2023-11-19T14:10:00Z
@@ -547,6 +575,6 @@ related:
         height: 537
         isCached: true
 
-secured: "yT/9IStsTXl+YNGhmbanu4OhEsM3pk6xCtjHKxkB8UdOciSZOnbUwH59Bu/vtnvsdeMU8YVDyi+23AbtBCbz0+F5MN27Kw7FQB2gx8xD7ntOKM6BAczXNwBBU33II4gyw0n0h+LPT2FeAUg5tMmo7LVD6mnQqzms9GpWAC9xwR+txDwSk9m7ajoK2X/3ETv310vPgyYoVPuXM8uQGEOX64bhobCOAzHJKGuwpu+uisg7mAqG8CnxR2hwcIGx8Fg6p9PjgS53zS/MkME6ryofu3Nsdcq4dL74Hhk34blbFDXx33xRbO1IGImJbWtgcoqshDDgnEj0oH+n38xo+8mnU3Qc4bOe99EdVA6H86xTG8U=;mYSRA6FXaRKaP4CERw68Wg=="
+secured: "SifHZliXeAWcj76tFSjblSPiJVg5L41JG9Nkoe2DGMAE8o1ixXGrZ75SQG6PlWcL26/6C2sQIPN03bUGoL19lPDQsTI1r2QCCfzeuA5TInqvXIRizp7zOQfzdtq7lanLOgpWUWh+qsyyEqMloUk/Gs7ROsC4WmUbtCWxoRV4Y0fPnva0dR/fviKgoJXtV+s7kxeFp9tZFzE6gUVDP+/1lgl7zaOFVj4kN+PlZrJQJIJ2NtAZq4OwE3eshUPI7kXQxtsexD6TX52uKsA2hFN3pZSDzkk95yTHFr9BGVVJ5D14Iin1Mgh7E+VIj/xDT23dL86FxoYKJHW1m8xoUo9mnPzPPJrbEQZjTjXODlAE0gUgqNB2x+EN03k8C5RA036HVRheNvBh8AtLjrBGjXi80cmON6OGjJLmPZlw2BeGN8ykzgSFnvD3qglgzCRAU5mc5wNhnKGp6teXTsCuoMFVX37/3Qyjy9jZ9svlp71TO7qXDYBhInO/eMhyhbqWzo9z1gBVTqWsdGYtPFkvt/q2oQ==;4xZ7aWZDJLd0Q7Cc7ULkLA=="
 ---
 

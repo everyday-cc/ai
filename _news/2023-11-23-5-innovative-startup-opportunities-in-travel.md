@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-start
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 95
 published: true
 
 provider:

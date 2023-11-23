@@ -46,6 +46,22 @@ related:
         width: 1300
         height: 733
         isCached: true
+  - title: "Simplifying AI development with Azure AI Studio"
+    excerpt: "Microsoft’s cloud-based AI development environment, now in public preview, takes a more streamlined approach to building AI-powered applications."
+    publishedDateTime: 2023-11-23T02:03:00Z
+    webUrl: "https://www.infoworld.com/article/3711360/simplifying-ai-development-with-azure-ai-studio.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711360/simplifying-ai-development-with-azure-ai-studio.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711360/simplifying-ai-development-with-azure-ai-studio.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.techhive.com/images/article/2014/04/futuristic-flowchart-135523847-100264958-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Geospatial generative AI with Amazon Bedrock and Amazon Location Service"
     excerpt: "Today, geospatial workflows typically consist of loading data, transforming it, and then producing visual insights like maps, text, or charts. Generative AI can automate these tasks through autonomous agents. In this post, we discuss how to use foundation models from Amazon Bedrock to power agents to"
     publishedDateTime: 2023-11-22T14:18:22Z

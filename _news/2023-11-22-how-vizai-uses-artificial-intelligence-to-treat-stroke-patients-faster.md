@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/amyfeldman/2023/11/22/how-vizai-uses-
 webUrl: "https://www.forbes.com/sites/amyfeldman/2023/11/22/how-vizai-uses-artificial-intelligence-to-speed-help-to-stroke-patients/"
 type: article
 quality: 84
-heat: 86
+heat: 84
 published: true
 
 provider:

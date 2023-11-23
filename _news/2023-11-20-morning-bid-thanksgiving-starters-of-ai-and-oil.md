@@ -60,22 +60,6 @@ related:
         width: 1118
         height: 618
         isCached: true
-  - title: "Q&A: How Artificial Intelligence Powers Collaboration and Efficiency for Healthcare"
-    excerpt: "Artificial Intelligence plays a pivotal role in fostering collaborative efforts and boosting operational efficiency within the healthcare ecosystem, helping streamline complex processes and aiding in clinical decision-making."
-    publishedDateTime: 2023-11-21T21:30:00Z
-    webUrl: "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/11/qa-how-artificial-intelligence-powers-collaboration-and-efficiency-healthcare?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 68
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202311/GettyImages-1336245275.jpg?itok=WESoihWH"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "Trying To Do More Real HPC In An Increasingly AI World"
     excerpt: "If you are in the traditional HPC community, it is not hard to be of two minds about the rise of AI and the mainstreaming of generative AI. At the very least, the GenAI tsunami makes it easier to argu"
     publishedDateTime: 2023-11-20T17:54:00Z

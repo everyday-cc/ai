@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/11/amazon-lays-off-alexa-employ
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/11/amazon-lays-off-alexa-employees-as-2010s-voice-assistant-boom-gives-way-to-ai/amp/"
 type: article
 quality: 84
-heat: 96
+heat: 94
 published: true
 
 provider:

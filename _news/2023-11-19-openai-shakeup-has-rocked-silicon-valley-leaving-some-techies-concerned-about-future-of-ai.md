@@ -324,6 +324,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft hires OpenAI founders to lead AI research team after ChatGPT maker's shakeup"
+    excerpt: "will be joining Microsoft to lead a new advanced AI research team.” Altman said “the mission continues,” in reply to Nadella on X. OpenAI said Friday that Altman was pushed out after a ..."
+    publishedDateTime: 2023-11-20T09:46:00Z
+    webUrl: "https://www.wral.com/story/microsoft-hires-openai-founders-to-lead-ai-research-team-after-chatgpt-makers-shakeup/21159171/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 48
+    images:
+      - url: "https://wwwcache.wral.com/asset/business/2023/11/20/21159770/655bab59a2571-media_0e7e5ab51dbe4ef380dce65cf732e02e-DMID1-6100o8wyz-640x480.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Xbox Already Has Big AI Plans, Now It Has Sam Altman"
     excerpt: "Sam Altman beefing up Microsoft's AI division will likely end up having ramifications for Xbox itself down the line."
     publishedDateTime: 2023-11-20T14:39:00Z
@@ -410,6 +424,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 41
+  - title: "OpenAI researchers warned board of AI breakthrough"
+    excerpt: "Some at OpenAI believe Q* (pronounced Q-Star) could be a breakthrough in the start-up’s search for what’s known as artificial general intelligence (AGI), one of the people said. OpenAI defines AGI as autonomous systems that surpass humans in most economically valuable tasks."
+    publishedDateTime: 2023-11-23T04:38:00Z
+    webUrl: "https://techcentral.co.za/openai-researchers-warned-ai-breakthrough/235696/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 39
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/10/machine-learning-artificial-intelligence-1500-800-2.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "How AI Doomerism Caused OpenAI’s Sam Altman Firing Fiasco"
     excerpt: "It’s been a whirlwind few days for the startup at the heart of the artificial intelligence revolution—but they only have themselves to blame."
     publishedDateTime: 2023-11-20T22:02:00Z

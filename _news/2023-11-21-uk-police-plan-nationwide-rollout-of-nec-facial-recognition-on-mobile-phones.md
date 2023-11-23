@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202311/uk-police-plan-nationwide-r
 webUrl: "https://www.biometricupdate.com/202311/uk-police-plan-nationwide-rollout-of-nec-facial-recognition-on-mobile-phones"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Police to roll out controversial new facial recognition software which enables officers to take photos of suspects on their mobile phones and search for a match within seconds"
-    excerpt: "The controversial app, known as Operator Initiated Facial Recognition (OIFR), has already been trialled by three police forces using software called iPatrol. Last night the National Police Chiefs ..."
-    publishedDateTime: 2023-11-19T00:00:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12766589/Police-controversial-facial-recognition-software.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12766589/amp/Police-controversial-facial-recognition-software.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12766589/amp/Police-controversial-facial-recognition-software.html"
+  - title: "Māori bias ignored in facial recognition roll out"
+    excerpt: "A Māori computer scientist says government moves to ramp up the use of facial recognition and other biometric information should send alarm bells through Māori and other non-white communities. Overseas studies have shown a clear bias against black people especially,"
+    publishedDateTime: 2023-11-22T12:01:00Z
+    webUrl: "https://waateanews.com/2023/11/23/maori-bias-ignored-in-facial-recognition-roll-out/"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 7
+      name: Waatea
+      domain: waateanews.com
+    quality: 39
     images:
-      - url: "https://i.dailymail.co.uk/1s/2023/11/19/00/77977245-0-image-m-110_1700355148666.jpg"
+      - url: "https://waateanews.com/wp-content/uploads/2023/11/mntBLOCKSTORAGEhomemasternews_importersrcfacial-recognition-getty-images.jpg_1_Pub.jpg"
+        width: 850
+        height: 435
+        isCached: true
+  - title: "Māori being used as 'guinea pigs' for facial recognition tech - ethicist"
+    excerpt: "Māori technology ethicist Dr Karaitiana Taiuru says there is \"mountains\" of international research pointing to these systems being racist and Māori beneficiaries were being used as guinea pigs."
+    publishedDateTime: 2023-11-22T23:08:00Z
+    webUrl: "https://www.rnz.co.nz/news/national/503073/maori-being-used-as-guinea-pigs-for-facial-recognition-tech-ethicist"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 38
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--Ts-6LrAC--/t_tohu-badge-facebook/v1644342382/4MLMFO4_copyright_image_245147"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
 
 secured: "6mgICAhHs3oymiqeLnCpsveEU4CzVTn2NT+in6kc2ROrEEabjMhuN3TTBFz8/8GLeVgPisC0wOb6bZ0zVNbU+IQeDxY25XdQ8MU0PXY8X9UAsioMp8ntUws519d0HjV07ox2UzpIywXGtlHWULhzy2m+DWwcENExQefusGWswvhBBhHbrxCq6VIQiiJ1ofbdB2dWhUVN/XdgLMwBiGP0HU5LR2N1kir07VNmeSx4+Xi/EP3u802PQKrZ8Qwd+yta5oRpXkHRPtKAMUl8qBe0wLZZZEQ1Q7DOY/3JqcRGB+qDNENRbal6PUXn1wm+XEGOHhF4mrq2x3WJysOL4Ka+YiaBD6LUDQ/tmu5YPWVFtP5ytMBaD6OEsbxb+ttW9crLcaJmJnFYXE3DDSYGS0jlxCHXVUoHZIRljyb3bRzV8FSq5+uFrW38MMmWgZAClY5/iMnaqE0FkSVJGqU3xhigRDJaTxeuotmEY7A6W3wBUXabH1VYIpgycm5gbWsiwMRP/hpbEZQSOvzAo9PTmbjA6A==;JnJnWglKP/uUWN50rNvzhA=="

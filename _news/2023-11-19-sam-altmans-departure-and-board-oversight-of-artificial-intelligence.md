@@ -36,6 +36,22 @@ related:
         width: 1121
         height: 630
         isCached: true
+  - title: "What does Sam Altman's firing — and quick reinstatement — mean for the future of AI?"
+    excerpt: "It’s been quite a week for ChatGPT-maker OpenAI — and co-founder Sam Altman. Altman, who helped start OpenAI as a nonprofit research lab back in 2015, was fired as CEO"
+    publishedDateTime: 2023-11-23T01:48:00Z
+    webUrl: "https://www.meridianstar.com/news/nation_and_world/what-does-sam-altmans-firing-and-quick-reinstatement-mean-for-the-future-of-ai/article_e0ed922e-ae4b-5e20-a416-9eaed0aac041.html"
+    ampWebUrl: "https://www.meridianstar.com/news/nation_and_world/what-does-sam-altmans-firing-and-quick-reinstatement-mean-for-the-future-of-ai/article_e0ed922e-ae4b-5e20-a416-9eaed0aac041.amp.html"
+    cdnAmpWebUrl: "https://www-meridianstar-com.cdn.ampproject.org/c/s/www.meridianstar.com/news/nation_and_world/what-does-sam-altmans-firing-and-quick-reinstatement-mean-for-the-future-of-ai/article_e0ed922e-ae4b-5e20-a416-9eaed0aac041.amp.html"
+    type: article
+    provider:
+      name: The Meridian Star
+      domain: meridianstar.com
+    quality: 50
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/meridianstar.com/content/tncms/assets/v3/editorial/3/32/332a46ca-01ed-5772-801e-731ed81de643/655e1c1752a03.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Sam Altman warns AI could kill us all. But he still wants the world to use it"
     excerpt: "ET By Samantha Kelly, CNN New York (CNN) — Sam Altman thinks the technology underpinning his company’s most famous product could bring about the end of human civilization. In May, OpenAI CEO Sam Altman filed into a Senate subcommittee hearing room in Washington,"
     publishedDateTime: 2023-11-20T16:14:00Z

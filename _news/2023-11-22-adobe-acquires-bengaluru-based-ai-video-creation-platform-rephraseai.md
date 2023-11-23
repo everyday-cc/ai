@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Adobe buys Indian generative AI startup Rephrase.ai: What makes the deal important"
+    excerpt: "Adobe has acquired Rephrase.ai, a Bengaluru-based startup that runs an AI-powered video creation platform. The deal will allow Adobe to integrate Rephrase's technology with its Creative Cloud video-editing platform, enhancing its offerings. Rephrase.ai ..."
+    publishedDateTime: 2023-11-23T01:37:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/adobe-buys-indian-generative-ai-startup-rephrase-ai-what-makes-the-deal-important/articleshow/105425071.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/adobe-buys-indian-generative-ai-startup-rephrase-ai-what-makes-the-deal-important/amp_articleshow/105425071.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/adobe-buys-indian-generative-ai-startup-rephrase-ai-what-makes-the-deal-important/amp_articleshow/105425071.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 51
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-105425070,width-1280,height-720,resizemode-4/105425070.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Adobe acquires Bengaluru-based GenAI startup Rephrase.ai"
     excerpt: "In its first acquisition of an Indian tech startup, San Jose-based software giant Adobe has bought Rephrase.ai, a Bengaluru-based AI company that provides video creation technology. The value of the deal hasn't been disclosed."
     publishedDateTime: 2023-11-22T13:42:00Z

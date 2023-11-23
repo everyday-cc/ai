@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/info/2023/nov/21/who-said-what-using-mac
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:
