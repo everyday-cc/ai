@@ -61,6 +61,17 @@ related:
         width: 500
         height: 354
         isCached: true
+  - title: "Amazon's 'AI Ready' initiative to train 2 million in AI skills by 2025"
+    excerpt: "An AWS study found that 73% employers prioritise applicants with AI skills and these candidates can earn up to 47% more in salaries"
+    publishedDateTime: 2023-11-23T08:03:00Z
+    webUrl: "https://www.business-standard.com/companies/news/amazon-s-ai-ready-initiative-to-train-2-million-in-ai-skills-by-2025-123112300416_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/amazon-s-ai-ready-initiative-to-train-2-million-in-ai-skills-by-2025-123112300416_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/amazon-s-ai-ready-initiative-to-train-2-million-in-ai-skills-by-2025-123112300416_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
   - title: "Appen Teams Up with AWS to Drive AI Innovation"
     excerpt: "Appen Limited, a leading provider of high-quality data for the AI lifecycle, has selected Amazon Web Services (AWS) as"
     publishedDateTime: 2023-11-21T18:25:00Z

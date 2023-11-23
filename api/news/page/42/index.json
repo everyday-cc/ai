@@ -2,6 +2,109 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-10-19-how-transparent-are-ai-models-stanford-researchers-found-out.md",
+      "title": "How transparent are AI models? Stanford researchers found out.",
+      "excerpt": "Join us for key insights and networking with leaders in the Data and AI spaces at VB's exclusive after hours event this November! VentureBeat presents: AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-transparent-are-ai-models-stanford-researchers-found-out/",
+      "originalUrl": "https://venturebeat.com/ai/how-transparent-are-ai-models-stanford-researchers-found-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/Untitled-design-2023-10-18T093154.335.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T22:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-after-50000-hours-this-ai-can-play-pokemon-red.md",
+      "title": "After 50,000 hours, this AI can play Pokémon Red",
+      "excerpt": "Other researchers have used reinforcement learning to study the use of AI in gaming, like with DeepMind’s AlphaGo, which was the first computer program to defeat a professional Go player. But Whidden’s video has garnered so much attention because he ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/18/after-50000-hours-this-ai-can-play-pokemon-red/",
+      "originalUrl": "https://techcrunch.com/2023/10/18/after-50000-hours-this-ai-can-play-pokemon-red/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/ai-pokemon.jpg?resize=1200,776",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/18/after-50000-hours-this-ai-can-play-pokemon-red/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/after-50000-hours-this-ai-can-play-pokemon-red/amp/",
+      "publishedDateTime": "2023-10-18T22:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-how-ai-can-help-close-iots-growing-security-gaps-to-contain-ransomware.md",
       "title": "How AI can help close IoT’s growing security gaps to contain ransomware",
       "excerpt": "Nation-state attackers are increasingly hitting unprotected IoT sensors essential to infrastructure and manufacturing.",
@@ -1110,102 +1213,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-aitx-provides-update-on-deployed-rad-security-robots.md",
-      "title": "AITX Provides Update on Deployed RAD Security Robots",
-      "excerpt": "This announcement serves as an affirmation of the Company's commitment to enhancing shareholder value by tracking deployment statistics and revenue milestones. It underscores a strategic pivot towards operational efficiency, cost management, and revenue optimization through accelerated device deployment.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/aitx-provides-update-on-deployed-rad-security-robots-1032717018",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/aitx-provides-update-on-deployed-rad-security-robots-1032717018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T14:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-meta-recreates-mental-imagery-from-brain-scans-using-ai.md",
-      "title": "Meta recreates mental imagery from brain scans using AI",
-      "excerpt": "Being able to look inside a person's mind is a new level of invasiveness that technology has not yet attained on a large scale.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meta-recreates-mental-imagery-from-brain-scans-using-ai/",
-      "originalUrl": "https://venturebeat.com/ai/meta-recreates-mental-imagery-from-brain-scans-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_holographic_wireframe_surrounding_a_womans_head_93b4b12a-b535-48f1-a011-94a15f28f8f7.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T14:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

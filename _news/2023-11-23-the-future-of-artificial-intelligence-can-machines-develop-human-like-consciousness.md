@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-23T05:59:00Z
 originalUrl: "https://techbullion.com/the-future-of-artificial-intelligence-can-machines-develop-human-like-consciousness/"
 webUrl: "https://techbullion.com/the-future-of-artificial-intelligence-can-machines-develop-human-like-consciousness/"
 type: article
-quality: 32
-heat: 32
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -17,6 +17,9 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
+  - Natural Language Processing
+  - AI Ethics
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-11.jpg"
@@ -24,6 +27,6 @@ images:
     height: 500
     isCached: true
 
-secured: "UT4E6aSjYnx6fqQ4utawqk7sTqvinE5tTCmlIBoGAAuk6Wn0v2Fn8fhXuYW+aYgd12kXjN6bgoFGh6zp9FsYH7nZWG0+9/9V2FPMqzcuA0pqGpkTaCjz+Fj2llr2vvL6JIrXjU3TY4uf9gSRAMFgEvzUZL6sXYIv9kaKof4tWkG8tyrbQAr/bMLICEVzk8dMhhYj680L2sSdpa2Zvo2qcEChDPDMvu0Ylg5bN7jci7mMlwkgiZb8+Qm/o2B3Qy95HCbX+0KQOYCSylHDp7b74mWOx6jLHbyKvObWTYEbJm7LfvQDVE/8aaXUvy++zpEGJiFT8Gq1B1RVyhD4r51VMU2FpweuUi5D6HogtFMf5YA=;ysrVC8S67GUSSIxY8dbsiQ=="
+secured: "/pondcMhVXwrhyIxLFCPhzlkp2ZMUZ01JnoCAzqdAjxcK7X0J5T08yeSIfFllPtZ5qKCwSAe72PFG2HKLhNdHxqVAjZViJhgPNJ8x1q1eApGOA4HH1Rb1E1M/SeWHkbf68mJR6e7sCSqvcG6M9tcV7udsPh+xGNRmVWvP8/Gg6Hz/NI2RVqQz/4TfThG5Nvz9P67XuDj471mITP57tM61vG32SlCN1hg/nhn2lAHzPSl/ElBJOn652kzvGVUps7ucK6754nUhk4owlIU6N2JA4/SeC/8dSq4fyZ/xIflDV4i3ZeihFY4jQQKwY68JS/JnjjcJErWW+v90xaI+XI+T6aKE3h30luIDvmbxHrVtzo9zSM70BC/IZ8gCqM+0nfJeMGFNeOqtf7zA1CTTHjqJZDsuxEgA8EyqDNOIZ3ZK7hhuGWvDOJcdZfzbxucPuWxW/BNZwsRM1YgOyVfeNRDlrZg2OIKQFXFtZxcHc/rzWWW8YiTaBVRNLcOwwsiGdRM33kxaZ+QAzOW/4Ld5zA1tg==;FREIaiIIrLKqOv2YCGNujw=="
 ---
 

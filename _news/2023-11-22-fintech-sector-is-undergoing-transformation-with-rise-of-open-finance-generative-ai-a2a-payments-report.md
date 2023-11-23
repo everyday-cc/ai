@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-un
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intuit's AI-Driven Approach: Transforming Fintech Industry with GenOS & Intuit Assist"
+    excerpt: "Saurabh Saxena, Intuit India Site Leader & Vice President, Product Development, shares his insights on Intuit's strategic focus on AI, the transformative impact of GenOS, their newest launch - Intuit Assist,"
+    publishedDateTime: 2023-11-23T08:32:00Z
+    webUrl: "https://www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist-11700727898845.html"
+    ampWebUrl: "https://www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist/amp-11700727898845.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist/amp-11700727898845.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 52
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/11/23/1600x900/Screenshot_2023-11-23_140037_1700728233989_1700728241385.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Artificial Intelligence in Banking: Transforming Customer Experiences with FinTech"
     excerpt: "Introduction Artificial Intelligence (AI) has become a revolutionary force in the banking sector, reshaping the way financial institutions operate and interact with their customers. In tandem with Financial Technology (FinTech),"
     publishedDateTime: 2023-11-21T12:21:00Z

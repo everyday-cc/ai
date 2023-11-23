@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-21-small-batch-evs-and-plenty-of-robotshyundais-new-innovation-center.md",
+      "title": "Small-batch EVs and plenty of robots—Hyundai’s new innovation center",
+      "excerpt": "Hyundai's Innovation Center has put robots in charge of that entire task. One robot places the dash while another swings in and secures it to the vehicle. An impressive feat, because this task is full of constantly changing variables.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/",
+      "originalUrl": "https://arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/CSC05707-800x534.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/amp/",
+      "publishedDateTime": "2023-11-21T15:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-21-three-key-considerations-for-executives-to-embrace-generative-ai.md",
       "title": "Three Key Considerations For Executives To Embrace Generative AI",
       "excerpt": "As organizations tap into the potential benefits of generative AI, they may likely introduce a new host of significant risks.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -788,7 +840,7 @@
       "originalUrl": "https://siliconangle.com/2023/11/20/aws-launches-ai-ready-initiative-equip-2m-people-ai-skills/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1155,57 +1207,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-how-to-build-a-successful-talent-management-strategy.md",
-      "title": "How to build a successful talent management strategy",
-      "excerpt": "Explore how to build a talent management strategy that identifies top talent and cultivates their ability to produce business value.\nThe post How to build a successful talent management strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/talent-management-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/talent-management-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/11/9e21203c-fbbb-4c94-8a10c7986e951bc5.blog-lead-space-40x21-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -121,6 +121,20 @@ related:
         width: 1800
         height: 1013
         isCached: true
+  - title: "Generative AI Takes on SIEM"
+    excerpt: "The modernized QRadar SIEM offering will become part of the QRadar Suite, originally launched in April 2023, which brings IBM's EDR, XDR, SOAR and SIEM offerings and a new log management tool onto a common platform designed to give SOC analysts a unified interface and controls."
+    publishedDateTime: 2023-11-22T20:00:00Z
+    webUrl: "https://www.darkreading.com/emerging-tech/generative-ai-takes-on-siem"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc53d6965d9f963bf/64789b9b6159dba6643b4668/robot_at_laptop-Dariusz_Banaszuk-alamy.jpg"
+        width: 646
+        height: 430
+        isCached: true
   - title: "BP Says It's Expanding Use of Generative AI"
     excerpt: "“The service uses artificial intelligence and natural language processing to automate a variety of daily tasks such as writing emails and managing inboxes,” BP noted in the release. “By using the capabilities of copilot for Microsoft 365, BP can help ..."
     publishedDateTime: 2023-11-22T10:01:00Z

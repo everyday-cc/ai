@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai
 webUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Forbes
@@ -22,6 +22,22 @@ topics:
   - AI
   - Microsoft AI
   - AI Hardware
+
+related:
+  - title: "Unveiling Tomorrow: The Transformative Impact Of Artificial Intelligence In Our Daily Lives"
+    excerpt: "Explore the transformative impact of Artificial Intelligence (AI) on everyday life, from healthcare breakthroughs to financial innovations. Dive into the future with insights on"
+    publishedDateTime: 2023-11-23T08:47:00Z
+    webUrl: "https://thelogicalindian.com/trending/the-ai-revolution-shaping-daily-life-and-future-careers-41465"
+    type: article
+    provider:
+      name: The Logical Indian
+      domain: thelogicalindian.com
+    quality: 44
+    images:
+      - url: "https://thelogicalindian.com/h-upload/2023/11/23/234426-tli-3.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/Z/X8hvsLbaSGCHJgC7FrIg2C+VdkQKMd/mIQjbkSqjQyPI5H3iaFvAx/oD7ipqeJUa1jotEyx9yjK83sR7/cTbZq6LM2J6x+HFV3Ynic6BvmihfA+gtTdkz2bTXJ/tXcUAzTy4RxaPenev0T2y/CkOuffUJIDtG1c9+BdYz34H8xs6aqV1NE2vr9MRU8toxuyL0vjxPIq+n+9eQDni3CmccE3APod23WH/DdIlQiqVN6RJLunjEvXsD4oYjPIsFjO09LiiRAtpkzll7hESAiXRALg5F/tQzX1R/EDZi3d0em52W5yWVtnuBzgB0WzL/Jk5ocXruoNhxawbn8Z+p4aI3+F4VK0IhpgADE2sh2zpIE4OkpbZa8Lgdy3o+pOA/AxYvFfEkee0mk2EggXAj6NtPDSe1F/RgQWP88IzqT8r+3CT1vKLIpGwaTGsem1ICvQjGtjg6n+IOL3IeQFkbfe5tSDngByhcYn+58reMv3sH5aaf5FRmEu9Ij3MT6lioHQmjcXHTw6qZ/Imxnosrlw==;q613Z1+khQpjdqxrpQ5X4g=="
 ---

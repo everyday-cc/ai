@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-excerpt: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-publishedDateTime: 2023-11-22T13:00:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/flywheel-collaborates-with-microsoft-and-nvidia-to-propel-end-to-end-ai-development-platform-on/article_f55b0323-e3b0-5c74-ad30-a42ffa6c085d.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/flywheel-collaborates-with-microsoft-and-nvidia-to-propel-end-to-end-ai-development-platform-on/article_f55b0323-e3b0-5c74-ad30-a42ffa6c085d.html"
+excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
+publishedDateTime: 2023-11-22T09:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
+webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/82/88207655-8f12-515a-8c15-0b5a2b86f6e2/655e0bf9be8a5.image.jpg?crop=1771%2C930%2C0%2C39&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "How Might Open.ai Outcomes Impact NVIDIA, AMD, Intel And Microsoft?"
@@ -343,6 +337,6 @@ related:
       domain: sinchew.com.my
     quality: 25
 
-secured: "z6lvr01bZWH2iFBCuKXqjlcNSCuVsmRwqu1GmJMxB/wY4emvut9tWAqxzG9bONK/D44sPllCwuT3ZMKYOgtckMEdpzkNsxiraufJ0ilAEDP5KzcTBMejmjroi3PD+2SttKemt8LsjuiQZlz5531njJmP/LL63QipeI8iaVPgfOZK4ApOe7G6iFSHZiWmtD3BNG6FRTqBlVkEhv77hXCzog6GcnZpuWXXgj91zgNRafi6QqNyCpIKL2S1FhzuqJz9U8Q+kxZwRUGECEJwOr0paKG9aIZVPE3+ihnioEQu0ATG0bg6cj84lyBiq6iqHWiMFb8XrER4sVTzVkhPLnn1Etawvx0IRUr+BF3j/mtxiqN7fBQr4CcFb8rMKtdQt9++H2BElmgLQU9Mrg19QLsJaTOJEuiYZFw89Uo8U200tZOKeYAxj3bpRM0jiXiO+8DhriumwGCQTTd//WaOPvnKnMmG6LNRji4mqKIthKHm/0UPwsYeIMSedxQdnZA6sNaKcNnjYJPers16Y6npVjpj/A==;liVlfNS0KMeksUgiKd8OHg=="
+secured: "4Htn1uEGEyKxxxSE82Lsn31Z6oYMYE5J46ZM+OR/mLmt/dA8HnvaZkLt5jbzeRiu386t62jRbn99uCCjoaqE1jGkGfvyOV28seysbsyGbnjqZcwA3Hc2IjPfK/7JJ6shL9RVlQ0iIQLBriivZxMe4Gu6M0qDnG3ySqU6ItALHXpTMD27cL53xuw1H3Hwe4AkRXA+tNy9tqCYnkYF5aHnbGdIM6lcpr0xCKKxMBW1l8RIYG0dLDoGPjF6ccvyLMNEbznzG0ebrQfKjY+z07n8V2BlzsJ1j/0YXCbSTY+37KhcpGjE5klsW50MC1Xji7r7emfQUdC7zbjBgcr8AhfhtVdLZb4cgYow3cWtMv8vFJk=;+/Ehj7rYlJhfuperytofPA=="
 ---
 

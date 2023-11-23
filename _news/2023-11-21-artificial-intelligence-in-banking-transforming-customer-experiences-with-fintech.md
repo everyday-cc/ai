@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 848
         isCached: true
+  - title: "Intuit's AI-Driven Approach: Transforming Fintech Industry with GenOS & Intuit Assist"
+    excerpt: "Saurabh Saxena, Intuit India Site Leader & Vice President, Product Development, shares his insights on Intuit's strategic focus on AI, the transformative impact of GenOS, their newest launch - Intuit Assist,"
+    publishedDateTime: 2023-11-23T08:32:00Z
+    webUrl: "https://www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist-11700727898845.html"
+    ampWebUrl: "https://www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist/amp-11700727898845.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist/amp-11700727898845.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 52
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/11/23/1600x900/Screenshot_2023-11-23_140037_1700728233989_1700728241385.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Iceland’s tech clustering – a volcanic focus on fintech"
     excerpt: "Another area where fintech can play a part in improving the efficiency of financial trading and movement is in the identification and management of fraud, and in particular money laundering. Another member of Iceland’s fintech cluster, Lucinity, has set its sights on providing new tools for the task."
     publishedDateTime: 2023-11-20T10:45:00Z

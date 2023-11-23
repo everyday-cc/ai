@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-30-g7-nations-unite-on-ai-to-design-a-guidebook-for-ethical-innovation.md",
+      "title": "G7 Nations Unite on AI to Design A Guidebook for Ethical Innovation",
+      "excerpt": "The 11-point code puts emphasis on \"safe, secure, and trustworthy AI,\" offering guidelines for companies to identify and mitigate risks",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/10/30/g7-ai-regulations-meeting/",
+      "originalUrl": "https://www.gizmochina.com/2023/10/30/g7-ai-regulations-meeting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/07/hitesh-choudhary-t1PaIbMTJIM-unsplash-1024x575-1.jpg",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T13:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-30-what-are-good-ai-governance-practices-and-ai-ethics-sources-3.md",
       "title": "What Are Good AI Governance Practices And AI Ethics Sources? (#3)",
       "excerpt": "This article highlights AI governance and AI Ethic guidelines noting many global sources from Canada, EU, UK, USA, and other countries.",
@@ -1408,49 +1460,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-14-business-ai-will-change-the-way-businesses-are-run.md",
-      "title": "Business AI will change the way businesses are run",
-      "excerpt": "Then, we created our AI Ethics Policy that defines a company-wide ethical minimum standard for the development, deployment, use, and sale of SAP’s AI-powered systems. Since 2018 we have also had ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/655669/business-ai-will-change-the-way-businesses-are-run.html",
-      "originalUrl": "https://www.cio.com/article/655669/business-ai-will-change-the-way-businesses-are-run.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2023/10/iStock-1468025006.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/655669/business-ai-will-change-the-way-businesses-are-run.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/655669/business-ai-will-change-the-way-businesses-are-run.html/amp/",
-      "publishedDateTime": "2023-10-13T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],
