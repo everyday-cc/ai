@@ -39,15 +39,6 @@ related:
         width: 1121
         height: 630
         isCached: true
-  - title: "Sam Altman’s ‘Departure’ And Board Oversight Of Artificial Intelligence"
-    excerpt: "OpenAI’s decision to terminate CEO Sam Altman may have a substantial ripple effect on how boards approach oversight of the organizational use of artificial intelligence."
-    publishedDateTime: 2023-11-18T17:12:00Z
-    webUrl: "https://www.forbes.com/sites/michaelperegrine/2023/11/18/sam-altmans-departure-and-board-oversight-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "AI breakthrough that could threaten humanity might have been key to Sam Altman’s firing"
     excerpt: "Current programs like AI are good at writing and language translation as they predict the next word. Answers to the same prompt might vary as a result. But with math, there can only be an answer. Once math is conquered, AI will have greater reasoning ..."
     publishedDateTime: 2023-11-23T11:51:00Z

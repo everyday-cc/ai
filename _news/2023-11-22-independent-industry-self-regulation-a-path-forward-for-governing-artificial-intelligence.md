@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/indep
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence/amp/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Businesses, tech groups warn EU against over-regulating AI foundation models"
+    excerpt: "Businesses and tech groups on Thursday warned the European Union against over-regulating artificial intelligence systems known as foundation models in upcoming AI rules as this could kill nascent start-ups or drive them out of the region."
+    publishedDateTime: 2023-11-23T17:45:00Z
+    webUrl: "https://www.reuters.com/technology/businesses-tech-groups-warn-eu-against-over-regulating-ai-foundation-models-2023-11-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+    images:
+      - url: "https://www.reuters.com/resizer/zzWkhDyLUPbP5Q06CvtaGOOyJFU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U2RJKWH3HJMS5DYT7TGKTW6PS4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "2023 Artificial Intelligence Regulation: An Update from a Senior FTC Official"
     excerpt: "Michael Atleson, a senior attorney for the Federal Trade Commission (FTC), joined Holland & Knight for a recent question-and-answer webinar presentation on artificial intelligence (AI) regulation. This Holland & Knight alert provides a number of key ..."
     publishedDateTime: 2023-11-22T18:59:00Z

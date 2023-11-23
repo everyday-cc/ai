@@ -35,6 +35,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 81
+  - title: "Key AI Debates For 2024: Nvidia Competitors Threaten Semiconductor Giant's Dominance With Custom Chips"
+    excerpt: "Morgan Stanley analyst Brian Nowak delved into how AI conversations will intensify in 2024 and singled out potential beneficiaries."
+    publishedDateTime: 2023-11-23T17:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/key-ai-debates-for-2024-nvidia-competitors-threaten-semiconductor-giant-s-dominance-with-custom-chips-1032846466"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/artificial-intelligence-illustration.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Wipro Leverages NVIDIA AI to Enhance Healthcare Solutions"
     excerpt: "Wipro and NVIDIA join forces to speed up generative AI adoption for healthcare via AI-driven strategies, products and services."
     publishedDateTime: 2023-11-22T02:57:00Z

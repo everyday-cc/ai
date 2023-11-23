@@ -38,15 +38,6 @@ related:
         width: 1121
         height: 630
         isCached: true
-  - title: "Sam Altman’s ‘Departure’ And Board Oversight Of Artificial Intelligence"
-    excerpt: "OpenAI’s decision to terminate CEO Sam Altman may have a substantial ripple effect on how boards approach oversight of the organizational use of artificial intelligence."
-    publishedDateTime: 2023-11-18T17:12:00Z
-    webUrl: "https://www.forbes.com/sites/michaelperegrine/2023/11/18/sam-altmans-departure-and-board-oversight-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Sam Altman warns AI could kill us all. But he still wants the world to use it"
     excerpt: "ET By Samantha Kelly, CNN New York (CNN) — Sam Altman thinks the technology underpinning his company’s most famous product could bring about the end of human civilization. In May, OpenAI CEO Sam Altman filed into a Senate subcommittee hearing room in Washington,"
     publishedDateTime: 2023-11-20T16:14:00Z
@@ -85,6 +76,6 @@ related:
       domain: theguardian.com
     quality: 14
 
-secured: "iLsU/H1y2IHk/QU+VUddB7DL2wLfwHuT063QjAK8oXXTubSfvCCR0gCjQIRGUU30Ornj2cDE0UqX4CBKARYEPrP6A/BOEw+OsLlgiaz3Up5q/QN2AH1DskDZ1D7UCtPNmXYZVlKRdwBUHE3/kYWiBEOYqWPAlYRABBRDU0CYmbrk48vRwFoFk1SlkpC/+YkIPwU0Og02CT1vTMLAJoXC9hVpr5+GEVfJzTqmlZZVP8MN8nFlmDGnrulF6v0uytoh0zvNpTnYPGbY1bgYzAVNFnJFihY+O8JhjdC6AAtTa2ekE92gIED31l7Tb9/BrBl4lz0ZJVl2miESpqGtsXMavQEw8kYo34PzOgHg5YcdPCQ=;m4mA1qKwtSv5bAmVRrsmYg=="
+secured: "af9YLlWuvpsQmZL67loqklN8HJd/EVA7Dpfoh+9tDi40in+qs3f5ICpqwPHbtKqvvELsGDqTze7dEX5OyaqQyYlggCSwIwZS/cE19Ieb1J2uP4c4+P1P30soUNT1jqr00Hpp9AGHBtjdufdbo3CVNZssYNEcoxYFoL76zUfkALmWvAzkHTxb3eVdH0WWIZpb4hEKC/lqBLhyO5BPGBdT02vAGtpUK9Uanjn2rc8GIGSCHlNK7AUNGKY4tXSGDMSh9CywmHUGOsgxQQ9iNqg4eUHU5vGnn0Vf7nMa8scZ/gHgObKkTfuO/0IBt5yQikgZYFFt97vClaIa5v4pPaaiXdhHGwaUYtvxQXPgVIFe9YTdUsowC+U3jr9fYw+BU4ntSoBTrA8GCuUG0ogdYJrqR2eITjYlDGZUDLu/e0saJVcHuCQbmKdlkvLgFNTibmH0Lpg0Pu1uJgNlZpOY1lAaEj5eDEDjIkK8EIsTmT4AwsNfzVP18WsqhTaSCvMQpaMSOEgGIT+xF+lI3mhuRvrZew==;0KOffxjG1AQ05z33Hvy34w=="
 ---
 

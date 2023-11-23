@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Māori being used as ‘guinea pigs’ for facial recognition tech - ethicist"
+    excerpt: "A Māori technology ethicist says the government is allowing tech companies to use Māori as guinea pigs for facial recognition technology. A Māori Reference Group at the Ministry of Social Development (MSD) said this was okay because the Identity Check technology would gradually improve."
+    publishedDateTime: 2023-11-23T17:31:00Z
+    webUrl: "https://www.nzherald.co.nz/kahu/maori-being-used-as-guinea-pigs-for-facial-recognition-tech-ethicist/L3UKTI5AT5BT7NFJD4CTAZJQOA/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 38
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/1U4hnuSwrwO5MHzRd6JtkPJfxCI=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/3THUA6J3VRB5NLK67XOO7KJUEE.jfif"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "6mgICAhHs3oymiqeLnCpsveEU4CzVTn2NT+in6kc2ROrEEabjMhuN3TTBFz8/8GLeVgPisC0wOb6bZ0zVNbU+IQeDxY25XdQ8MU0PXY8X9UAsioMp8ntUws519d0HjV07ox2UzpIywXGtlHWULhzy2m+DWwcENExQefusGWswvhBBhHbrxCq6VIQiiJ1ofbdB2dWhUVN/XdgLMwBiGP0HU5LR2N1kir07VNmeSx4+Xi/EP3u802PQKrZ8Qwd+yta5oRpXkHRPtKAMUl8qBe0wLZZZEQ1Q7DOY/3JqcRGB+qDNENRbal6PUXn1wm+XEGOHhF4mrq2x3WJysOL4Ka+YiaBD6LUDQ/tmu5YPWVFtP5ytMBaD6OEsbxb+ttW9crLcaJmJnFYXE3DDSYGS0jlxCHXVUoHZIRljyb3bRzV8FSq5+uFrW38MMmWgZAClY5/iMnaqE0FkSVJGqU3xhigRDJaTxeuotmEY7A6W3wBUXabH1VYIpgycm5gbWsiwMRP/hpbEZQSOvzAo9PTmbjA6A==;JnJnWglKP/uUWN50rNvzhA=="
 ---

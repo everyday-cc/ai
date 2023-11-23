@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "An Android Phone Powers A Self Driving Car"
+    excerpt: "As auto manufacturers have brought self-driving features to their products, we’re told about how impressive their technologies are and just how much computing power is on board to make it happen."
+    publishedDateTime: 2023-11-22T00:00:00Z
+    webUrl: "https://hackaday.com/2023/06/27/an-android-phone-powers-a-self-driving-car/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2023/06/android-self-drive-featured.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "CEO of self-driving Cruise out at GM"
     excerpt: "General Motors' self-driving-car unit, Cruise, is going through leadership changes following the loss of permits and the pause of operations in California."
     publishedDateTime: 2023-11-20T23:03:00Z

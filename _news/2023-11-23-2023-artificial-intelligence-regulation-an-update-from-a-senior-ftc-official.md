@@ -41,6 +41,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Businesses, tech groups warn EU against over-regulating AI foundation models"
+    excerpt: "Businesses and tech groups on Thursday warned the European Union against over-regulating artificial intelligence systems known as foundation models in upcoming AI rules as this could kill nascent start-ups or drive them out of the region."
+    publishedDateTime: 2023-11-23T17:45:00Z
+    webUrl: "https://www.reuters.com/technology/businesses-tech-groups-warn-eu-against-over-regulating-ai-foundation-models-2023-11-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+    images:
+      - url: "https://www.reuters.com/resizer/zzWkhDyLUPbP5Q06CvtaGOOyJFU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U2RJKWH3HJMS5DYT7TGKTW6PS4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "XLv/bwhN3MgyqCujykRDKWQbj7bbbNXA4gOecTqw2Xiul8u2v2tbfIcccX2JG7vsVYKuNNus1d3yyzCupOCe1HkUIqALWUm+151g+cYsKh1LwaNC+pvn2PDZCr4wVRTSJG9tC8fAWNtZx1h963CBJWyZ2RgkPUUcDCnbdMd7QtmfjmNDMtimsvfgeOFoHdaXsM2KEITkQewaZlNwbzF2fdJ+6tFCnzOyF1Xal6bPTUVLflMWKSzltablzaYKepSGrz+Ma34VJd2c7Gxy0CzgS7BHxiuyXjywPlPb3INDzZ9hmUQyBX5CtabqsSGRllHQz7fXCiLci9QutVetNQRwl0cTa8LOpawvU2IxoW2WmzU=;LF5peUprZHCqXkBU2JKZcg=="
 ---

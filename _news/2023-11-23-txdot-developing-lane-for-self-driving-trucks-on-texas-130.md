@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving truck lane more than 20 miles long being developed in Central Texas"
+    excerpt: "AUSTIN, Texas — TxDOT is partnering with a company to launch a program designed to improve self-driving trucks on Texas roadways. The technology will focus on a 21-mile stretch of State Highway 130 from Georgetown to Del Valle. By next year, special pole ..."
+    publishedDateTime: 2023-11-23T18:03:00Z
+    webUrl: "https://www.wfaa.com/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+    ampWebUrl: "https://www.wfaa.com/amp/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+    type: article
+    provider:
+      name: WFAA8
+      domain: wfaa.com
+    quality: 39
+    images:
+      - url: "https://media.wfaa.com/assets/KVUE/images/1f96cf21-5a34-46a3-b001-0c0b49348bb6/1f96cf21-5a34-46a3-b001-0c0b49348bb6_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Trucking's future, or technology gone too far? ABC13 gets inside look at Texas self-driving trucks"
     excerpt: "Has technology gone too far? Self-driving big rigs are already on the road in Texas and safety remains a top concern. Here are experts' take on the future of trucking."
     publishedDateTime: 2023-11-22T03:35:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/opinions/the-sam-altman-saga-is-ai-the-place
 webUrl: "https://www.pcmag.com/opinions/the-sam-altman-saga-is-ai-the-place-to-move-fast-and-break-things"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sam Altman’s ‘Departure’ And Board Oversight Of Artificial Intelligence"
-    excerpt: "OpenAI’s decision to terminate CEO Sam Altman may have a substantial ripple effect on how boards approach oversight of the organizational use of artificial intelligence."
-    publishedDateTime: 2023-11-18T17:12:00Z
-    webUrl: "https://www.forbes.com/sites/michaelperegrine/2023/11/18/sam-altmans-departure-and-board-oversight-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Sam Altman warns AI could kill us all. But he still wants the world to use it"
     excerpt: "ET By Samantha Kelly, CNN New York (CNN) — Sam Altman thinks the technology underpinning his company’s most famous product could bring about the end of human civilization. In May, OpenAI CEO Sam Altman filed into a Senate subcommittee hearing room in Washington,"
     publishedDateTime: 2023-11-20T16:14:00Z

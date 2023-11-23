@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "French politicians vow legal action on alleged illegal facial recognition use by police"
+    excerpt: "Left-wing populist party La France Insoumise are calling for a parliamentary commission of inquiry to be set up to dig into the matter."
+    publishedDateTime: 2023-11-23T16:46:00Z
+    webUrl: "https://www.biometricupdate.com/202311/french-politicians-vow-legal-action-on-alleged-illegal-facial-recognition-use-by-police"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "GezjNCdlG8qaPYOjsHyFsff33CfVAGzl3fZF72Hlf2wjEZPbE03EtFFGcwFBy3eo+tV29z6cToDj7A8CLMMBF0UQNPH3tfUUEZy92m/ztIE7/gAf0Ws3jLL06I3AlEodxXOsn4ywxBW5HHCwxI3BbDyjsagkFscNIGgvIeJ5/d6+ArAxcD0WIk5DuToEwocAWcqbgzGWterHxPPNlBjDjAQbqE8wzxvc59B0U51zs91tkCVODdXB/CL+asAGUezMM/wpOYQnSZTPiZ/szrzKkjPSXfuJVC1RIQWuOilktFZGONCgrOY7GxmIi4sYxvDOrteGnLLHI7C5C6v68CSNcLCcEkZ/Q8XABmseWQ5KpsemElWECzHkd7hxv78ophjtXDMmtQ63ZKAey1Fa3Smdn9v9aOHZh09I3glwoqtnlLKZ2RYuur9+fSp+6G+Bv9uhAomc1g2FvK9DdGn5egdmrFlkGGRH+YhNuZVLA1DGr7yX4iYbEHfJtuFsmetvurb8ACZBQloGZNXKJrs0Y1AX8A==;al1WMO2NOiJ8V4l5CUZy+w=="
 ---

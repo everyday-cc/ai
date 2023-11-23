@@ -39,6 +39,20 @@ related:
         width: 850
         height: 435
         isCached: true
+  - title: "Māori being used as ‘guinea pigs’ for facial recognition tech - ethicist"
+    excerpt: "A Māori technology ethicist says the government is allowing tech companies to use Māori as guinea pigs for facial recognition technology. A Māori Reference Group at the Ministry of Social Development (MSD) said this was okay because the Identity Check technology would gradually improve."
+    publishedDateTime: 2023-11-23T17:31:00Z
+    webUrl: "https://www.nzherald.co.nz/kahu/maori-being-used-as-guinea-pigs-for-facial-recognition-tech-ethicist/L3UKTI5AT5BT7NFJD4CTAZJQOA/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 38
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/1U4hnuSwrwO5MHzRd6JtkPJfxCI=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/3THUA6J3VRB5NLK67XOO7KJUEE.jfif"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "UK police plan nationwide rollout of NEC facial recognition on mobile phones"
     excerpt: "The app, known as Operator Initiated Facial Recognition, is already being trialed by three UK police forces, with plans for a nationwide rollout next year."
     publishedDateTime: 2023-11-20T22:00:00Z

@@ -39,6 +39,20 @@ related:
         width: 800
         height: 375
         isCached: true
+  - title: "An Android Phone Powers A Self Driving Car"
+    excerpt: "As auto manufacturers have brought self-driving features to their products, we’re told about how impressive their technologies are and just how much computing power is on board to make it happen."
+    publishedDateTime: 2023-11-22T00:00:00Z
+    webUrl: "https://hackaday.com/2023/06/27/an-android-phone-powers-a-self-driving-car/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2023/06/android-self-drive-featured.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "wLv51ICxtJL2xvyjUKUpVR090jFIEff/Mv8tRg1cr83Qk8XAl9x0ESV0WsTupZpwE3gOHrFWvAKqM8z1xyamX5ILDg5dpdnsvF3IZ+gglzKBwmHh3FrgEGE20McAf5g7JtbadOkbO/OGC7CiP7a4b51yFi1wkpB8KSNakvkQAqz4EoIaAUfQlFEx1cWzDpNBRRzG3VddhU2560hr8gDaRzBuy/CJy2gzPJ7i3kmiYMMwXEJiIpWGxVDpjjUYzow8Ycr2PmJVXv0ONuclOuN29Cnr3SBGyvTqhwg41Jm0afLphlZpXC2HSfj9clm5NabmJ6SlPezE4nHHx6MsBiEJ1iVq2YwZF3kjui+a+xbNjNw=;6hHg8mxXzY+mJqDMwP0XZA=="
 ---

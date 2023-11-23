@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
-publishedDateTime: 2023-11-22T09:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
-webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
+excerpt: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
+publishedDateTime: 2023-11-22T13:00:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/flywheel-collaborates-with-microsoft-and-nvidia-to-propel-end-to-end-ai-development-platform-on/article_f55b0323-e3b0-5c74-ad30-a42ffa6c085d.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/flywheel-collaborates-with-microsoft-and-nvidia-to-propel-end-to-end-ai-development-platform-on/article_f55b0323-e3b0-5c74-ad30-a42ffa6c085d.html"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/82/88207655-8f12-515a-8c15-0b5a2b86f6e2/655e0bf9be8a5.image.jpg?crop=1771%2C930%2C0%2C39&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "How Might Open.ai Outcomes Impact NVIDIA, AMD, Intel And Microsoft?"
@@ -290,6 +296,20 @@ related:
       name: AOL
       domain: aol.com
     quality: 33
+  - title: "Flywheel and Microsoft collaborate to unlock powerful data insights in medical imaging"
+    excerpt: "Healthcare breakthroughs have long-standing barriers when it comes to unlocking the powerful insights trapped in medical imaging data."
+    publishedDateTime: 2023-11-23T16:58:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2023/11/23/flywheel-and-microsoft-collaborate-to-unlock-powerful-data"
+    type: article
+    provider:
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 31
+    images:
+      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/publications/pharmaceutical-science/outsourcing-pharma.com/article/2023/11/23/flywheel-and-microsoft-collaborate-to-unlock-powerful-data/16962507-2-eng-GB/Flywheel-and-Microsoft-collaborate-to-unlock-powerful-data.jpg"
+        width: 725
+        height: 510
+        isCached: true
   - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
     excerpt: "KKCompany is announcing its participation in the Microsoft startup initiative, \"Highway to 100 Unicorns,\" a startup accelerator program aimed to support startup innovation and strengthen the startup ecosystem in the Asia region."
     publishedDateTime: 2023-11-21T06:20:00Z
@@ -328,6 +348,6 @@ related:
       domain: sinchew.com.my
     quality: 25
 
-secured: "tQVe0R7aanIzLAN2zIwatK2e1f1JHjGlm+GNYUBdgj5Jy4i/Y+Ih4jeXPoG/2BvRJ430gZ3XtiCI73oj07xc+9icWGUv3TeP51DxAigBdegGszCXalCUofpeKxyM/RDw0FvTAxAVg30pRveliBmH+JaPQRwZyMDLXwwNhmckZdprOG7mmjB0IWm5N3C6JWiSy32/XnTkFR26mddus3MAvJouecKKb3Ie0eYEv4/gfcaOQPDVHetYRqYqqKMYIC5EdPQJao5GO6ilPWiwaTeUqrjdKqe48lyiiH2IBU68b9/AdCfreiPx8cSWQAixkRZ0USZ9Qlou3Qf3k7sig/aryTeZZOt0uAJdykzZXY3/wsU=;xKGuSUGt5ttSXrQM9MpYew=="
+secured: "l1Xm4TxsJ7QF+mlHpCbDRNpFyQLdXsAeq2giTwmw4dHxdyDzkcdyMmk/Ccfn0Kjlazk72TTIr+uQfJ4iwrNQmRaxxwSc8/q89K7/sj/91abUxX5LCVDngAyGB28h5k37dWz6TYAK/VLR4X33BZdFdareRgTHCh4Ga2rBqHXZggjS5Kq56EFzjWfJmAdXegOYNFJxgb21VE9m4pWdfcq1rkCA5dz91dUW5eoUZ+/4Zs+jN44n73FwSOwnx81c3z7Hm8cfOK6OxX/lMUsPIvwO+EFmVRKdJ9nS8N5i0AgH2ll+EnlD8QK+5wACHSTGPyBnEDj2z1+vr4Xm6f9Re1Q7lhWWyJmZxh9xh9xDxBzuRXc=;O+kp1eivI+x1pU3JMTdHGw=="
 ---
 

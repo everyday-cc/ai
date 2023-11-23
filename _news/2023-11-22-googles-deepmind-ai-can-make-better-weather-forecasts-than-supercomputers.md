@@ -41,6 +41,20 @@ related:
         width: 1408
         height: 792
         isCached: true
+  - title: "Google's DeepMind AI can make better weather forecasts than supercomputers"
+    excerpt: "DeepMind's new machine learning algorithm takes less than a minute to make its forecasts and can run on a desktop. But it won't replace traditional forecasts anytime soon."
+    publishedDateTime: 2023-11-23T17:01:00Z
+    webUrl: "https://www.space.com/google-deepmind-ai-weather-forecasts-artificial-intelligence"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 52
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/3vmfhoLHduNWUsmYkCBMWW-1200-80.jpg"
+        width: 970
+        height: 546
+        isCached: true
 
 secured: "/il3GCXPWa0KeEvPalh0sy+oP/Z0uI4tgsmjI3xE0OsJ0bKEyzf0lAFU3c7EMrD4XYnK4XPlGyL6jHP1oNkkq1OSKHW4BnsDwfuU2v+un+CNiEP12OIgOO7y7ZeokHSyD20QmdCtadaOcgTYfiP/D27MN9FliX/0fQF0Ns5lTf1RVDcmXnv+89E1psPsX03N+4iV/ykV4Jmk1hDgFJHb1TI1IUKU0WyVAXI74BjO69+rThBILOG/l3ebvkPSFa+KBZ8xQ2g70IySz8Yjb9d6Kq2lIy65oIi1OsxQH1OAzbHfVLhH75BFqQSEpyWjgVXf4QzL8OAh5iKm4ymqMStJmai0LKYRYVgBTnP8fKp6BcU=;AiMMlbFkBIGHB6W4x2bWSQ=="
 ---
