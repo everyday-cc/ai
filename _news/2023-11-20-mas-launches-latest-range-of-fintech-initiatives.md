@@ -81,6 +81,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Fintech Trends Survey: 2024 to Center on Digital Transformation within Finance Departments, AI and Real-Time Payments a Priority"
+    excerpt: "AvidXchange, a provider of AP automation software, announced the release of a white paper titled, “2024: Anticipating Tomorrow’s Trends.”"
+    publishedDateTime: 2023-11-23T15:12:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/11/216736-fintech-trends-survey-2024-to-center-on-digital-transformation-within-finance-departments-ai-and-real-time-payments-a-priority/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 25
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/11/Equity-Crowdfunding-in-2023-Webinar-300x250-12.12.23.jpeg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "/eBIFT2j0pi6mDh27ScDy0CB0Gniw6xD1UaxurvNpTSYKflS3CJamp4jbcy9KjloaAKyJ9XwerJcsn9PRxeyabNirvuwG4lckH2CIKk1XAzgxMj7G0PWfCUpQDzHGenn1TZ1p8aYKWzmks55hWOhDOf/tjdmtU/ydGNKJSpufmZd9iAjm/FW2aaihuysf6CDDeVgj9KxKfHkHdHqxov1L62y7MzITGi85Z4fYUxoVo6/muhEBG2Nx54RyWzMv50CDgznby4z2ymFEHNuu3HD4zSMWjH9qzFdXUYWOnBdYUvJuoizPfCxBiEzTSfLNpFU5gcYe2QHXAqiZG4MEKa2/SRCgNx7GSIVORVNhVR5A4E7HWU+dzZ/VzldGfe40HRdSWhH6rGDHJhXeNhQmqK259S6zejcnpfFHIya1lZAzlmPTjygfy0Dyu4ERvizC3tmf+UM2YYK+YDuLz66DdCnPeoPA4Nhm/1+6H7eKLYtZBvpMHj7X9yh7EWjX2G4YYCTrc9H3KN72DVENACY5lFx0Q==;iSmIROoWflVQS0owDgJm5w=="
 ---

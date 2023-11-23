@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Cruise testing self-driving cars in Japan, Dubai, even as they're parked in U.S."
-    excerpt: "SAN FRANCISCO — Days after General Motors’ Cruise self-driving car unit pulled all of its vehicles off the roads in the U.S. for a safety review, it continues to test them on public roads in Dubai and Japan, Reuters has learned. Cruise this week said ..."
-    publishedDateTime: 2023-11-18T16:47:00Z
-    webUrl: "https://www.autoblog.com/2023/11/18/cruise-testing-self-driving-cars-in-japan-dubai-even-as-theyre-parked-in-u-s/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 14
 
 secured: "MH8vwR8aXoSHooCRTB6QMWVPeEooQxRRCODEaepk35PMQgXdszHJAXTZpm0VhRL0C/pHU8t+YK283kIs5Yad1DX0arM1nMBJG6aBZv/io6cUcX1hlYdfVv5plfPm/2vy2nCuddnog4nsvSBsI8vqawqB6v5jtoxT+q13U6AeF22TMW9VAT9UfRKfCDVvv2oeNTYcqezcnrYixNQQF4P92ebevnnenfsDFZ8SjFJvM+/AWsXbAYjIoX3wIOxXu4ClB5knaD1fYrZEoGPwsiqfFb4NRZzu3XmJ9lNPnNfAUz5QB2srwT/sDGIS/973xxk/o7DdLt1ftQkDDRskizrX2n4bgzoHArHcQc/wsQves/M=;oPiT8Dvzinpe3xkCmeFQcw=="
 ---

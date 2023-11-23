@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-un
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-11/kirkjufell-2148191_640.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Fintech Trends Survey: 2024 to Center on Digital Transformation within Finance Departments, AI and Real-Time Payments a Priority"
+    excerpt: "AvidXchange, a provider of AP automation software, announced the release of a white paper titled, “2024: Anticipating Tomorrow’s Trends.”"
+    publishedDateTime: 2023-11-23T15:12:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/11/216736-fintech-trends-survey-2024-to-center-on-digital-transformation-within-finance-departments-ai-and-real-time-payments-a-priority/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 25
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/11/Equity-Crowdfunding-in-2023-Webinar-300x250-12.12.23.jpeg"
+        width: 300
+        height: 250
         isCached: true
   - title: "MAS launches latest range of fintech initiatives"
     excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."

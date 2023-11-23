@@ -2,6 +2,309 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-10-17-us-moves-to-close-loopholes-china-is-exploiting-to-secure-ai-chips.md",
+      "title": "US Moves to Close Loopholes China Is Exploiting to Secure AI Chips",
+      "excerpt": "The stricter rules are intended to prevent Chinese companies from obtaining large numbers of smaller chips and combining them to form a powerful data center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/us-moves-to-close-loopholes-china-is-exploiting-to-secure-ai-chips",
+      "originalUrl": "https://www.pcmag.com/news/us-moves-to-close-loopholes-china-is-exploiting-to-secure-ai-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05wqDEjdDEkzyQnBECxr9tG-1.fit_lim.size_1200x630.v1697554685.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T15:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-software-supply-chain-security-attacks-up-200-new-sonatype-research.md",
+      "title": "Software Supply Chain Security Attacks Up 200%: New Sonatype Research",
+      "excerpt": "State of the Software Supply Chain also covers regulations and how AI could help developers protect organizations from security risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/sonatype-state-software-supply-chain-security/",
+      "originalUrl": "https://www.techrepublic.com/article/sonatype-state-software-supply-chain-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/03/tr-31423-edge-attack.jpeg",
+          "width": 1400,
+          "height": 863,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T15:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-applying-artificial-intelligence-lessons-for-leaders-at-all-levels.md",
+      "title": "Applying Artificial Intelligence: Lessons For Leaders At All Levels",
+      "excerpt": "Broadridge Digital Transformation study, more than 70% of C-suite executives said AI is significantly changing the way they work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/",
+      "originalUrl": "https://www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6528415a926b4b1c462ac5d0/0x0.jpg?format=jpg&crop=1126,633,x35,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/amp/",
+      "publishedDateTime": "2023-10-17T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news.md",
+      "title": "AI will change the role of developers forever, but leaders say that's good news",
+      "excerpt": "Senior execs at two blue-chip organizations explain how they're embracing automation and why everyone in these businesses -- including IT pros -- are reaping the rewards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
+      "originalUrl": "https://www.zdnet.com/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/806ca95bad0de39cad63b2ec7a70724e961266ae/2023/05/05/91cfbf27-c652-4474-908c-4a2483fa4f87/gettyimages-1437209125.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
+      "publishedDateTime": "2023-10-17T14:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird.md",
+      "title": "I tested Meta's Tom Brady and Kendall Jenner AI chatbots and it was weird",
+      "excerpt": "Since Meta described his role as a \"Wisecracking sports debater who pulls no punches,\" I began the chat by chatting about the Jets' win last night. The first thing I noticed on the screen was the rectangle with Tom Brady's face in the upper right-hand corner, which resembled what you would see if you were on a FaceTime call with someone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
+      "originalUrl": "https://www.zdnet.com/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/edaff8ebce2fd9ac8f07c965727a5c2811b22422/2023/10/16/8dd8ef3c-53c2-4da8-a5ac-fa83066e3850/2022-25.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
+      "publishedDateTime": "2023-10-17T13:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day.md",
+      "title": "New Era of Artificial Intelligence (AI) Grips World's Imagination as GITEX Global 2023 Enters 2nd Day",
+      "excerpt": "Pony.ai, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al Olama, UAE Minister of State for AI, Digital Economy and Remote Work Applications, addresses the inaugural CTO World Congress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub",
+      "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.africa-newsroom.com/files/thumb/e270b6b8e4e5e55/600/418",
+          "width": 600,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub?amp=1",
+      "publishedDateTime": "2023-10-17T13:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-17-liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability.md",
       "title": "LiveRamp Announces Identity Integration with AWS Entity Resolution to Increase Marketing Interoperability",
       "excerpt": "It supports and enhances cross-channel media measurement workflows in AWS data lakes, media collaboration in AWS Clean Room collaborations, and artificial intelligence (AI) model development with Amazon SageMaker. RampID also helps brand marketers enrich ...",
@@ -824,285 +1127,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars.md",
-      "title": "Foxconn and Nvidia are building ‘AI factories’ to accelerate self-driving cars",
-      "excerpt": "Nvidia and Foxconn are working together to build so-called “AI factories,” a new class of data centers that promise to provide supercomputing powers to accelerate the development of self-driving cars, autonomous machines and industrial robots.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/",
-      "originalUrl": "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-18-at-3.18.03-pm.png?resize=1200,604",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/amp/",
-      "publishedDateTime": "2023-10-17T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-how-does-cognitive-behavioral-therapy-work.md",
-      "title": "How does cognitive behavioral therapy work?",
-      "excerpt": "Cognitive behavioral therapy (CBT) is a therapy technique that aims to help people find new ways to behave by changing their thought patterns. Therapists may use strategies such as role-playing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/296579",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/296579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-masters-in-professional-computer-science.md",
-      "title": "Master's in Professional Computer Science",
-      "excerpt": "computer vision, computer graphics, deep learning, computer security, software security and more. This cohort-based program trains computational specialists who can construct models, develop algorithms, and write software using state-of-the-art graduate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science.html",
-      "originalUrl": "https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sfu.ca/content/sfu/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/news/2023/defying-the-odds--new-mpcs-alumnus-finds-the-perfect-career-path.img.png/1686070792060.jpg",
-          "width": 2000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Simon Fraser University",
-        "domain": "www.sfu.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-redefining-retail-with-ai-info-tech-research-group-publishes-generative-ai-use-case-library.md",
-      "title": "Redefining Retail With AI: Info-Tech Research Group Publishes Generative AI Use Case Library",
-      "excerpt": "The firm's new use case library for the retail and wholesale industry explores generative AI use cases for the sector. Highlighting both",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/redefining-retail-with-ai-info-tech-research-group-publishes-generative-ai-use-case-library-1032709996",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/redefining-retail-with-ai-info-tech-research-group-publishes-generative-ai-use-case-library-1032709996",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2248762/Info_Tech_Research_Group_Redefining_Retail_With_AI__Info_Tech_Re.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T23:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-sharp-healthcare-creates-ai-assistant.md",
-      "title": "Sharp Healthcare creates AI assistant",
-      "excerpt": "Sharp Healthcare, based in San Diego, has created its own AI assistant, SharpAI, to support operational staff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/digital-health/sharp-healthcare-creates-ai-assistant.html",
-      "originalUrl": "https://www.beckershospitalreview.com/digital-health/sharp-healthcare-creates-ai-assistant.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T21:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-ai-helps-decipher-first-text-of-unreadable-ancient-herculaneum-scroll.md",
-      "title": "AI helps decipher first text of “unreadable” ancient Herculaneum scroll",
-      "excerpt": "Hundreds of badly charred ancient Roman scrolls found in a Roman villa have long been believed to be unreadable, but a 21-year-old computer science student at the University of Nebraska-Lincoln has successfully read the first text hidden within one of the rolled-up scrolls using a machine learning model.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2023/10/ai-helps-decipher-first-text-of-unreadable-ancient-herculaneum-scroll/",
-      "originalUrl": "https://arstechnica.com/science/2023/10/ai-helps-decipher-first-text-of-unreadable-ancient-herculaneum-scroll/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/scrollTOP-800x533.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/science/2023/10/ai-helps-decipher-first-text-of-unreadable-ancient-herculaneum-scroll/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/10/ai-helps-decipher-first-text-of-unreadable-ancient-herculaneum-scroll/amp/",
-      "publishedDateTime": "2023-10-16T21:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

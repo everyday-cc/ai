@@ -2,6 +2,292 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-10-12-chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation.md",
+      "title": "ChatGPT-esque AI Sales, Marketing Platform For Websites Customer Lead Generation",
+      "excerpt": "Hundreds of Customers AI introduces a revolutionary sales and marketing service, leveraging advanced artificial intelligence to triple business",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation-1032679768",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation-1032679768",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-chatgpt-esque-ai-sal-1696430204.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T08:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-achronix-announces-fpga-powered-accelerated-automatic-speech-recognition-solution.md",
+      "title": "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution",
+      "excerpt": "The solution is powered by a VectorPath accelerator card featuring a Speedster7t FPGA running Myrtle.ai’s Achronix-FPGA-optimized ASR IP — delivering industry-leading, real-time, ultra-low latency speech-to-text capabilities. A single card in a server ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/news/54994/achronix-fpga-powered-accelerated-automatic-speech-recognition.html",
+      "originalUrl": "https://www.design-reuse.com/news/54994/achronix-fpga-powered-accelerated-automatic-speech-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.designandreuse.com/news_img2/homepage54994/achronix-fpga-powered-accelerated-ASR-solution.png",
+          "width": 764,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T07:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide.md",
+      "title": "Anysphere raises $8M from OpenAI to build an AI-powered IDE",
+      "excerpt": "Anysphere, a startup building what it describes as an \"AI-native\" software development environment, called Cursor, today announced that it raised $8",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/",
+      "originalUrl": "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/27253e8e-2d70-41e0-99f1-f9e5a684f1a3_2918x1855.jpg",
+          "width": 2918,
+          "height": 1855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/",
+      "publishedDateTime": "2023-10-12T06:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-artificial-intelligence-ai-in-ultrasound-imaging-market-analysis-research-growth-and-forecast-to-2030.md",
+      "title": "Artificial Intelligence (AI) in Ultrasound Imaging Market Analysis, Research, Growth and Forecast to 2030",
+      "excerpt": "With A CAGR Of Approximately 9.67%, The Global Artificial Intelligence (AI) in Ultrasound Imaging Market, Valued At USD 917.11 Million In 2023, Is Forecasted To Expand To USD 1750 Million By 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35197746/artificial-intelligence-ai-in-ultrasound-imaging-market-analysis-research-growth-and-forecast-to-20",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35197746/artificial-intelligence-ai-in-ultrasound-imaging-market-analysis-research-growth-and-forecast-to-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35197746",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35197746",
+      "publishedDateTime": "2023-10-12T02:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-motion-control-software-in-robotics-market-share-2023-including-top-companies-and-forecast-to-2031.md",
+      "title": "Motion Control Software in Robotics Market Share 2023 Including Top Companies and Forecast to 2031",
+      "excerpt": "The latest report on the 'Global Motion Control Software in Robotics Market' is 200 pages long and includes a number of tables and figures. This report covers the period from 2023 to 2031 and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35186408/motion-control-software-in-robotics-market-share-2023-including-top-companies-and-forecast-to-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35186408/motion-control-software-in-robotics-market-share-2023-including-top-companies-and-forecast-to-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35186408",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35186408",
+      "publishedDateTime": "2023-10-12T02:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-google-clouds-vertex-ai-search-a-game-changer-for-healthcare-life-sciences.md",
+      "title": "Google Cloud’s Vertex AI Search: A Game-Changer for Healthcare & Life Sciences",
+      "excerpt": "At the HLTH 2023 conference this week, Google Cloud introduced enhancements to its Vertex AI Search tailored for healthcare and life sciences organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-vertex-ai-search-a-game-changer-for-healthcare--life-sciences/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-vertex-ai-search-a-game-changer-for-healthcare--life-sciences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6527571d20201eb53c5d4260/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-vertex-ai-search-a-game-changer-for-healthcare--life-sciences/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-vertex-ai-search-a-game-changer-for-healthcare--life-sciences/amp/",
+      "publishedDateTime": "2023-10-12T02:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator.md",
       "title": "OpenText Delivers Broad AI Orchestration Capabilities for the Enterprise with Aviator",
       "excerpt": "OpenText unveiled a broad expansion of its enterprise-class Aviator platform with new AI capabilities spanning business and technology needs.",
@@ -893,292 +1179,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-nvidias-plans-for-ai-gpus-could-upend-pc-gaming-forever.md",
-      "title": "Nvidia’s plans for AI GPUs could upend PC gaming forever",
-      "excerpt": "not in the overall GPU picture – well, Nvidia will just stop making them. Or that’s how it feels like things could pan out, given the focus on AI, with a yearly release cadence – if it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/computing/gpu/nvidias-plans-for-ai-gpus-could-upend-pc-gaming-forever",
-      "originalUrl": "https://www.techradar.com/computing/gpu/nvidias-plans-for-ai-gpus-could-upend-pc-gaming-forever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ZqEx6xXrMoLaCqGQs2YgJN-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T16:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-improve-performance-of-falcon-models-with-amazon-sagemaker.md",
-      "title": "Improve performance of Falcon models with Amazon SageMaker",
-      "excerpt": "What is the optimal framework and configuration for hosting large language models (LLMs) for text-generating generative AI applications? Despite the abundance of options for serving LLMs, this is a hard question to answer due to the size of the models, varying model architectures, performance requirements",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/improve-falcon-performance-1257x630.jpg",
-          "width": 1257,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T16:28:05Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-achronix-announces-fpga-powered-accelerated-automatic-speech-recognition-solution.md",
-      "title": "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution",
-      "excerpt": "Join us on October 24 th at 8:30am PST for a LinkedIn Live webinar, moderated by EE Times' Sr. Reporter, Sally Ward-Foxton, that unveils the power of Achronix FP",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/11/9897068.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/11/9897068.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2243716/achronix_announcement_graphic.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T16:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-index-your-web-crawled-content-using-the-new-web-crawler-for-amazon-kendra.md",
-      "title": "Index your web crawled content using the new Web Crawler for Amazon Kendra",
-      "excerpt": "In this post, we show how to index information stored in websites and use the intelligent search in Amazon Kendra to search for answers from content stored in internal and external websites. In addition, the ML-powered intelligent search can accurately get answers for your questions from unstructured",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/index-your-web-crawled-content-using-the-new-web-crawler-for-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/index-your-web-crawled-content-using-the-new-web-crawler-for-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/web-crawled-content-kendra.jpg",
-          "width": 893,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T16:15:29Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-noke-migrates-to-aws-to-enhance-cloud-based-digital-customer-experience.md",
-      "title": "Noke Migrates to AWS to Enhance Cloud-Based, Digital Customer Experience",
-      "excerpt": "This successful migration allows Noke to continue to lead digital innovation by leveraging AWS's leading industrial internet of things (IoT), artificial intelligence, and security capabilities. Running on AWS, Noke has increased its availability and global ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/11/9896964.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/11/9896964.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T16:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge.md",
-      "title": "Energy Dept. funded JetCool nets $17M to disrupt chip cooling as AI workloads surge",
-      "excerpt": "JetCool's technology is enabling 30% faster processing while reducing energy consumption by 50% and water usage by 90% over air cooling.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/ideogram-6-e1697035989840.jpeg?w=1200&strip=all",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T15:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

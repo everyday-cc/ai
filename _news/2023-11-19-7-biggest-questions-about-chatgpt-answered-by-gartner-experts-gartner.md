@@ -345,19 +345,14 @@ related:
       domain: siliconangle.com
     quality: 11
   - title: "Baidu reveals expectations-beating earnings and touts its new ChatGPT-like AI models, amid leadership chaos at U.S. competitor OpenAI"
-    excerpt: "Developers in China face another threat: U.S. rules limiting the sale of advanced AI chips from firms like Nvidia to Chinese companies. Last week, Alibaba shelved its plan to spin-off its cloud computing division as an independent company, blaming ..."
-    publishedDateTime: 2023-11-22T04:53:00Z
-    webUrl: "https://www.aol.com/finance/baidu-reveals-expectations-beating-earnings-095341977.html"
+    excerpt: "Baidu took an early lead in the race to dominate China's AI sector with the release of ERNIE Bot earlier this year."
+    publishedDateTime: 2023-11-22T08:53:00Z
+    webUrl: "https://www.aol.com/baidu-reveals-expectations-beating-earnings-095341977.html?ref=biztoc.com"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 8
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/iok5HE6EscWTJw7yKITu_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/02430db88c27d537951e901e4b4c1d8e"
-        width: 1200
-        height: 800
-        isCached: true
+    quality: 0
 
 secured: "+L+VVPP6InTlX/jvVtVb4n/B1REWpWNM2+6JR9M3qOXo50nRcmPkJXzFDRIhn/VdSVcj03Z+h1CsYcehqKKFMG+Q2QFbiyOrmgxU4JpRrQsvTBCTWO7k1QBYRmMEBjpe4bd60u9U798z2/p5A0m9ScqIqzBtQzeWRSU7tcub3bB+SMMB/7jwR9y+qT9Y2dJbzHnP+5BBduSuqjj00jLNZOmRcyWSZt/rOHLOsr5SWLSKg9nHFNGH5uP/xsK6lUajeFe+PkIOaDqK4MynM0lkvwZ1/ncmQQfaksvWVWnlzcxXqsOx3/25xcT8cEnjcMLQ5cGypmG00Zc4reC7jjbqy21HbaemXM2NK49dELBZk0A=;Qy/e7tyrPVvLWrbEbxhICw=="
 ---

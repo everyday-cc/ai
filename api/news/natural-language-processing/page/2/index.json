@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-10-former-apple-designers-launch-700-humane-ai-pin-as-smartphone-replacement.md",
+      "title": "Former Apple designers launch $700 Humane AI Pin as smartphone replacement",
+      "excerpt": "The Humane AI Pin attaches to the lapel and is designed to replace your smartphone, allowing the user to make calls, send texts and look up information",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html",
+      "originalUrl": "https://www.cnbc.com/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107331667-1699553938651-humane-press-shield-lifestyle-2.png?v=1699554038",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html",
+      "publishedDateTime": "2023-11-09T17:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-medcerts-combines-conversational-ai-generative-ai-and-natural-language-processing-for-a-revolutionary-new-ai-addition-to-online-healthcare.md",
       "title": "MedCerts Combines Conversational AI, Generative AI, and Natural Language Processing For a Revolutionary New AI Addition To Online Healthcare Training",
       "excerpt": "By combining Conversational AI, Generative AI, and Natural Language Processing (NLP), MedCerts gives learners realistic patient scenarios that are customized in each and every interaction without duplication within an End-to-End (E2E) platform.",
@@ -1230,60 +1282,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-generative-ai-is-coming-to-robots-courtesy-of-nvidia.md",
-      "title": "Generative AI is Coming to Robots, Courtesy of NVIDIA",
-      "excerpt": "As generative AI continues to revolutionize text and natural language processing, it’s also impacting computer vision. This transformative technology is expected to bring advancements in autonomous machines and robotics, where cameras play a pivotal role.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-robots-nvidia/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-robots-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 238,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/09/ew_09272023-will-ai-replace-jobs.png",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T18:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
       ]
     }
   ],

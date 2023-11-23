@@ -54,6 +54,50 @@
       ]
     },
     {
+      "path": "_news/2023-11-23-his-team-created-a-robotic-arm-that-helps-kill-cancer-using-artificial-intelligence.md",
+      "title": "His team created a robotic arm that helps kill cancer using artificial intelligence",
+      "excerpt": "The robotic arm will allow doctors to more accurately monitor the progress of high-intensity focused ultrasound treatment as it is happening.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/news/canada/kitchener-waterloo/hifu-non-invasive-cancer-treatment-artificial-intelligence-robot-university-of-waterlo-1.7036627",
+      "originalUrl": "https://www.cbc.ca/news/canada/kitchener-waterloo/hifu-non-invasive-cancer-treatment-artificial-intelligence-robot-university-of-waterlo-1.7036627",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.7036750.1700688000!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/moslem-sadeghi-goughari.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.7036627",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.7036627",
+      "publishedDateTime": "2023-11-23T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-the-top-7-media-people-in-ai.md",
       "title": "The top 7 media people in AI",
       "excerpt": "Joy Buolamwini, Algorithmic Justice League Dr. Buolamwini's research found that major tech companies' AI-driven facial recognition tools ... largely due to information they saw on sites like Facebook, Carlton was inspired to study technology and society.",
@@ -157,7 +201,7 @@
       "originalUrl": "https://www.forbes.com/sites/debgordon/2023/11/22/will-ai-improve-healthcare-consumers-think-so-new-surveys-show/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -463,7 +507,7 @@
       "originalUrl": "https://www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -809,6 +853,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-23-leadingage23-how-will-generative-ai-and-robotics-impact-senior-care.md",
+      "title": "LeadingAge23: How Will Generative AI and Robotics Impact Senior Care?",
+      "excerpt": "Leaders in the aging-services sector discussed the role of generative artificial intelligence and robotics today and for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care",
+      "originalUrl": "https://healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202311/AI-hero.jpg?itok=TMKoXvUz",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care?amp",
+      "publishedDateTime": "2023-11-22T16:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals.md",
       "title": "Beyond Productivity: The AI Outlook For Tax, Legal And Risk Professionals",
       "excerpt": "It’s been just one year since GenAI mania hijacked the news cycle and set in motion a tidal wave of rampant speculation about our work lives changing forever.",
@@ -817,7 +904,7 @@
       "originalUrl": "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -963,7 +1050,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -1002,7 +1089,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1142,94 +1230,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked.md",
-      "title": "As Sales Triple, Why AI-Chip Maker Nvidia’s Stock May Have Peaked",
-      "excerpt": "Demand for Nvidia’s graphics processing units has been exceeding supply, thanks to the rise of generative artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T13:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-amd-extends-pytorch-support-to-radeon-rx-7900-xt-gpus-for-ai-developers.md",
-      "title": "AMD extends PyTorch Support to Radeon RX 7900 XT GPUs for AI developers",
-      "excerpt": "Chip-maker AMD on Wednesday extended PyTorch (a machine learning framework) and ROCm (open software platform) support to Radeon RX 7900 XT GPUs to bring even more options for artificial intelligence (AI) developers and researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=1142443",
-      "originalUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=1142443",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/whatsapp_channel_icon.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T12:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daijiworld",
-        "domain": "daijiworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

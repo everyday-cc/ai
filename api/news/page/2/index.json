@@ -2,6 +2,94 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-22-as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked.md",
+      "title": "As Sales Triple, Why AI-Chip Maker Nvidia’s Stock May Have Peaked",
+      "excerpt": "Demand for Nvidia’s graphics processing units has been exceeding supply, thanks to the rise of generative artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T13:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-amd-extends-pytorch-support-to-radeon-rx-7900-xt-gpus-for-ai-developers.md",
+      "title": "AMD extends PyTorch Support to Radeon RX 7900 XT GPUs for AI developers",
+      "excerpt": "Chip-maker AMD on Wednesday extended PyTorch (a machine learning framework) and ROCm (open software platform) support to Radeon RX 7900 XT GPUs to bring even more options for artificial intelligence (AI) developers and researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=1142443",
+      "originalUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=1142443",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/whatsapp_channel_icon.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T12:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daijiworld",
+        "domain": "daijiworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-physician-staffing-company-winnow-ai-acquired-by-national-aya-healthcare.md",
       "title": "Physician staffing company Winnow AI acquired by national Aya Healthcare",
       "excerpt": "San Diego-based Aya Healthcare has acquired Winnow AI, which was built out of Green-Hills-based SwitchPoint Ventures, according to a press release.",
@@ -250,7 +338,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/now-that-generative-ai-is-here-where-will-all-the-data-come-from/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -792,7 +880,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1122,110 +1210,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks.md",
-      "title": "Amazon Textract’s new Layout feature introduces efficiencies in general purpose and generative AI document processing tasks",
-      "excerpt": "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from any document or image. AnalyzeDocument Layout is a new feature that allows customers to automatically extract layout elements such as paragraphs, titles, subtitles, headers, footers, and more",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/17/layout-textractor-975x630.jpg",
-          "width": 975,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T17:24:48Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-ai-based-entrepreneurial-success-5-ways-to-id-genius-from-garbage.md",
-      "title": "AI-Based Entrepreneurial Success: 5 Ways To ID Genius From Garbage",
-      "excerpt": "AI is all the rage today. The lure of accelerated idea generation is enticing. Yet, the key is to distinguish between gems and garbage, and in execution skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dileeprao/2023/11/21/unlocking-ai-brilliance-5-key-questions-to-distinguish-genius-from-garbage-in-entrepreneurship/",
-      "originalUrl": "https://www.forbes.com/sites/dileeprao/2023/11/21/unlocking-ai-brilliance-5-key-questions-to-distinguish-genius-from-garbage-in-entrepreneurship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655cb3a1da07219427973c11/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dileeprao/2023/11/21/unlocking-ai-brilliance-5-key-questions-to-distinguish-genius-from-garbage-in-entrepreneurship/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dileeprao/2023/11/21/unlocking-ai-brilliance-5-key-questions-to-distinguish-genius-from-garbage-in-entrepreneurship/amp/",
-      "publishedDateTime": "2023-11-21T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

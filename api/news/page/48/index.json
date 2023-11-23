@@ -2,6 +2,281 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-10-16-ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes.md",
+      "title": "AI aims to predict and fix developer coding errors before disaster strikes",
+      "excerpt": "Generative AI can be combined with more traditional forms of artificial intelligence to predict how computer systems may fail before applications are put into production, according to Dynatrace's CTO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/",
+      "originalUrl": "https://www.zdnet.com/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/28c0ea6042453b2f6bfc7502d541a0b7af992ccb/2023/09/28/9f3e672d-0f1e-4228-9b7e-d339c4f26f05/aifire.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/",
+      "publishedDateTime": "2023-10-16T14:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-how-to-embrace-ai-intentionally-to-grow-customer-engagement.md",
+      "title": "How To Embrace AI Intentionally To Grow Customer Engagement",
+      "excerpt": "As AI adoption accelerates, brands have an opportunity to shape their future with an ethical, optimistic human-centric approach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e38c9a3173937eb80c8def/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/amp/",
+      "publishedDateTime": "2023-10-16T14:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai.md",
+      "title": "Microsoft unveils extensions to Fabric, Azure for healthcare AI",
+      "excerpt": "These new offerings seek to bring together multiple modalities of medical data for greater analysis, and also bring large language models to clinicians' side as medical copilots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 486,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7b1085eb32224a532e4765a7998aee76e2402275/2023/10/16/e136bcb6-5b44-493b-bcf2-05ee2ec78ae0/gettyimages-1456133907.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T14:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-new-tutorial-explores-artificial-neural-networks-in-photonics.md",
+      "title": "New Tutorial Explores Artificial Neural Networks in Photonics",
+      "excerpt": "The integration of artificial neural networks (NNs) with photonics has sparked profound implications across scientific domains and industries. A new tutorial review published in the journal Advances in Optics and Photonics provides a comprehensive exploration of this convergence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azooptics.com/News.aspx?newsID=28459",
+      "originalUrl": "https://www.azooptics.com/News.aspx?newsID=28459",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T13:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoOptics",
+        "domain": "azooptics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-candor-on-gene-therapy-abiomed-is-warned-btk-success-in-ms.md",
+      "title": "Candor on gene therapy, Abiomed is warned, & BTK success in MS",
+      "excerpt": "Want to stay on top of the science and politics driving biotech today? Sign up to get our biotech newsletter in your inbox. Good morning! Today, cell and",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2023/10/16/candor-on-gene-therapy-abiomed-is-warned-btk-success-in-ms/",
+      "originalUrl": "https://www.statnews.com/2023/10/16/candor-on-gene-therapy-abiomed-is-warned-btk-success-in-ms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2023/10/IMG_3071-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T13:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-gitex-global-2023-self-driving-police-patrol-unveiled-in-dubai.md",
+      "title": "Gitex Global 2023: Self-driving police patrol unveiled in Dubai",
+      "excerpt": "Vehicle can detect criminal behaviour, recognise faces, and read car number plates Dubai: At the Gitex Global 2023 tech show in Dubai, the Dubai Police today unveiled its self-driving security ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/technology/consumer-electronics/gitex-global-2023-self-driving-police-patrol-unveiled-in-dubai-1.98781602",
+      "originalUrl": "https://gulfnews.com/technology/consumer-electronics/gitex-global-2023-self-driving-police-patrol-unveiled-in-dubai-1.98781602",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2023/10/16/Dubai_Police_Boost_Residential_Security_with_Self-Driving_Patrols1-1697454310268_18b3829439a_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/technology/consumer-electronics/gitex-global-2023-self-driving-police-patrol-unveiled-in-dubai-1.98781602",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/consumer-electronics/gitex-global-2023-self-driving-police-patrol-unveiled-in-dubai-1.98781602",
+      "publishedDateTime": "2023-10-16T13:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-streamtext-releases-update-with-enhanced-artificial-intelligence-language-translation-captions.md",
       "title": "StreamText Releases Update With Enhanced Artificial Intelligence Language Translation Captions",
       "excerpt": "MADISON, Wis., Oct. 16, 2023 /PRNewswire/ -- StreamText's latest Automatic Speech Recognition update includes enhanced artificial intelligence (AI) language translation. Over ten years ago ...",
@@ -908,292 +1183,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-generative-ai-revolutionising-banking-sector-fintech-surge-2023.md",
-      "title": "Generative AI revolutionising banking sector: Fintech Surge 2023",
-      "excerpt": "Gen AI will be a huge added value for the banking sector as it will detect many kinds of issues and improve accuracy of advanced services to the clients",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0",
-      "originalUrl": "https://www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/24/1463605211.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0?amp=1",
-      "publishedDateTime": "2023-10-16T02:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China’s Baidu races Waymo, GM to develop self-driving cars",
-      "excerpt": "A technician monitors a self-driving taxi developed by tech giant Baidu Inc. on June 14, 2022, in Beijing. (AP Photo/Ng Han Guan) BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "originalUrl": "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2022/06/baidu-self-driving-taxi.jpg/w=2600",
-          "width": 2600,
-          "height": 1733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.md",
-      "title": "U.S. tackles loopholes in curbs on AI chip exports to China",
-      "excerpt": "The new rules will be added to sweeping U.S. restrictions on shipments of advanced chips and chipmaking equipment to China unveiled last October.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
-      "originalUrl": "https://www.cnbc.com/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 574,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107317555-1697418146775-gettyimages-1507545065-CHINA_WORLD_AI.jpeg?v=1697421613",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
-      "publishedDateTime": "2023-10-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-want-to-know-the-ai-lingo-learn-the-basics-from-nlp-to-neural-networks.md",
-      "title": "Want to Know the AI Lingo? Learn the Basics, From NLP to Neural Networks",
-      "excerpt": "A bewildering array of new terms has accompanied the rise of artificial intelligence, a technology that aims to mimic human thinking. From generative AI to machine learning, neural nets and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/tech/ai/ai-lingo-technology-terms-definitions-69b41e31",
-      "originalUrl": "https://www.wsj.com/tech/ai/ai-lingo-technology-terms-definitions-69b41e31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T20:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple.md",
-      "title": "Baidu Announces Breakthrough In Speech Recognition, Claiming To Top Google And Apple",
-      "excerpt": "But he couldn't help revealing better speech recognition as a key area of interest in the age of the smartphone. Today, Baidu, often called China's Google, unveiled the first results of what the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/",
-      "originalUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/blogs-images/roberthof/files/2014/12/andrewngbaidu.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 664,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/amp/",
-      "publishedDateTime": "2023-10-15T17:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-an-example-of-how-ai-is-changing-marketing.md",
-      "title": "An Example Of How AI Is Changing Marketing",
-      "excerpt": "To learn more about how AI is impacting marketing, I talked with Ryan Coyne, CEO of Starboard, who has particularly rich insight on customization and marketing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652c20fe84b2025b759668c6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1352,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/",
-      "publishedDateTime": "2023-10-15T17:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

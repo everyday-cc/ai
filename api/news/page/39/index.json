@@ -2,6 +2,300 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-10-21-jon-stewarts-show-on-apple-tv-is-reportedly-coming-to-an-end-amid-disagreements-around-china-and-ai.md",
+      "title": "Jon Stewart's show on Apple TV+ is reportedly coming to an end amid disagreements around China and AI",
+      "excerpt": "The longtime talk show host and Apple reportedly parted ways over editorial differences on China and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jon-stewart-show-apple-tv-ended-report-china-ai-2023-10",
+      "originalUrl": "https://www.businessinsider.com/jon-stewart-show-apple-tv-ended-report-china-ai-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6532af83be9edfa8eda62941?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jon-stewart-show-apple-tv-ended-report-china-ai-2023-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jon-stewart-show-apple-tv-ended-report-china-ai-2023-10?amp",
+      "publishedDateTime": "2023-10-20T20:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-ai-used-in-healthcare-could-amplify-racial-bias-in-medicine-new-study-says.md",
+      "title": "AI used in healthcare could amplify racial bias in medicine, new study says",
+      "excerpt": "A study released on Friday shows that though AI may bring some technological advantages to the table for healthcare, it could also perpetuate racist beliefs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktvu.com/news/ai-used-in-healthcare-could-amplify-racial-bias-in-medicine-new-study-says",
+      "originalUrl": "https://www.ktvu.com/news/ai-used-in-healthcare-could-amplify-racial-bias-in-medicine-new-study-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/10/932/470/NPJ-digital-medicine-graph.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ktvu.com/news/ai-used-in-healthcare-could-amplify-racial-bias-in-medicine-new-study-says.amp",
+      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/ai-used-in-healthcare-could-amplify-racial-bias-in-medicine-new-study-says.amp",
+      "publishedDateTime": "2023-10-20T20:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVU",
+        "domain": "ktvu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai.md",
+      "title": "Microsoft would like to remind you that they are all-in on AI",
+      "excerpt": "In case you weren't sure how Microsoft felt about AI, CEO Satya Nadella is here to tell you: they like it. They like it a lot. In the company's annual",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/",
+      "originalUrl": "https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 424,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-915446280.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/amp/",
+      "publishedDateTime": "2023-10-20T18:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-israeli-cyber-war-room-uses-amazon-facial-recognition-to-find-missing-and-dead-after-hamas-attack.md",
+      "title": "Israeli ‘Cyber War Room’ Uses Amazon Facial Recognition To Find Missing And Dead After Hamas Attack",
+      "excerpt": "Amazon’s algorithms help identify at least 60 missing people in images and videos scraped from social media sites like Facebook and TikTok. Israel’s military is now running the project, its creators tell Forbes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2023/10/20/israel-uses-amazon-facial-recognition-to-identify-missing-and-dead-in-hamas-war/",
+      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2023/10/20/israel-uses-amazon-facial-recognition-to-identify-missing-and-dead-in-hamas-war/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T18:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-oracle-loops-in-nvidias-ai-stack-for-end-to-end-model-development.md",
+      "title": "Oracle loops in Nvidia’s AI stack for end-to-end model development",
+      "excerpt": "Nvidia's DGX Cloud and AI Enterprise software both are now available as dedicated apps on the Oracle Cloud Marketplace",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/oracle-loops-in-nvidias-ai-stack-for-end-to-end-model-development/",
+      "originalUrl": "https://venturebeat.com/ai/oracle-loops-in-nvidias-ai-stack-for-end-to-end-model-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-20-14.04.11-Illustration-of-the-circuit-board-rollercoaster-with-ethereal-clouds-of-data-enveloping-it-while-lines-of-computer-code-represented-as-luminous-gree.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T18:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-gartner-it-symposiumxpo-impact-of-generative-ai-on-the-human-machine-relationship.md",
+      "title": "Gartner IT Symposium/Xpo: Impact of Generative AI on the Human-Machine Relationship",
+      "excerpt": "Gartner AI experts and Distinguished VP Analysts address the human-machine relationship and best practices for business leaders in the new AI era.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/gartner-it-symposium-generative-ai-impact/",
+      "originalUrl": "https://www.techrepublic.com/article/gartner-it-symposium-generative-ai-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T17:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-20-governing-the-ml-lifecycle-at-scale-part-1-a-framework-for-architecting-ml-workloads-using-amazon-sagemaker.md",
       "title": "Governing the ML lifecycle at scale, Part 1: A framework for architecting ML workloads using Amazon SageMaker",
       "excerpt": "Customers of every size and industry are innovating on AWS by infusing machine learning (ML) into their products and services. Recent developments in generative AI models have further sped up the need of ML adoption across industries. However, implementing security, data privacy, and governance controls",
@@ -840,256 +1134,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-ai-models-lack-transparency-research.md",
-      "title": "AI models lack transparency: research",
-      "excerpt": "The best score – 54% – was given to Llama 2, the AI model launched by Facebook and Instagram owner ... a researcher at Stanford's Center for Research on Foundation Models, said companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/20/ai-models-lack-transparency-research",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/20/ai-models-lack-transparency-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2023/10/20/2345472.jpg",
-          "width": 1240,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T06:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-artificial-intelligence-hiring-activity-dropped-in-the-apparel-industry-in-q3-2023.md",
-      "title": "Artificial Intelligence hiring activity dropped in the apparel industry in Q3 2023",
-      "excerpt": "The global apparel industry experienced a 29% drop in new job postings related to artificial intelligence in Q3 2023 compared with the previous quarter, according to GlobalData’s Job Analytics. This compares to a 61% decrease versus Q3 2022. GlobalData ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-style.com/uncategorized/artificialintelligence-hiring-apparel-industry/",
-      "originalUrl": "https://www.just-style.com/uncategorized/artificialintelligence-hiring-apparel-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-style.com/wp-content/themes/goodlife-wp-B2B/assets/img/report.png",
-          "width": 388,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T04:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Companies",
-        "domain": "just-style.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-artificial-insurance-how-machine-learning-is-transforming-underwriting.md",
-      "title": "Artificial Insurance? How Machine Learning Is Transforming Underwriting",
-      "excerpt": "“French AI startup firm Shift Technology incorporates this technology in their fraud prevention services, which have already processed over 77 million claims. The cognitive machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
-      "originalUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China’s Baidu Races Waymo, GM to Develop Self-driving Cars",
-      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane.",
-      "sourceUrl": null,
-      "webUrl": "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "originalUrl": "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-29-165744.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Diplomat",
-        "domain": "thediplomat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-facial-recognition-advertising-the-new-way-to-target-ads-to-consumers.md",
-      "title": "Facial Recognition Advertising: The New Way to Target Ads to Consumers",
-      "excerpt": "Facial recognition advertising is the use of sensors that recognize a customer’s face and change how an ad appears to them in real time. The goal is to create dynamic ads that adjust to appeal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/15213-walgreens-facial-recognition.html",
-      "originalUrl": "https://www.businessnewsdaily.com/15213-walgreens-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.business.com/w/700/aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tL3Jlc291cmNlcy9pbWcvZXAtYm5kLWxvZ28tMTIwLnBuZw==",
-          "width": 700,
-          "height": 297,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-machine-learning-or-automation-whats-the-difference.md",
-      "title": "Machine Learning or Automation: What’s the Difference?",
-      "excerpt": "Major players in the tech industry are pushing the boundaries of self-determining computers, especially as cutting-edge technologies like artificial intelligence (AI) and machine learning become ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
-      "originalUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.business.com/w/700/aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tL3Jlc291cmNlcy9pbWcvZXAtYm5kLWxvZ28tMTIwLnBuZw==",
-          "width": 700,
-          "height": 297,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

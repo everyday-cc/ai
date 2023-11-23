@@ -26,6 +26,17 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Tracing the history and rise of large language models"
+    excerpt: "Language models excel in diverse applications, spanning machine translation, voice recognition, text summarisation, and chatbots"
+    publishedDateTime: 2023-11-23T14:16:00Z
+    webUrl: "https://www.thehindubusinessline.com/opinion/tracing-the-history-and-rise-of-large-language-models/article67566225.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 4
+
 secured: "cClaDHQrabuc5fJHbqVJ+Tyf0xnq8JxQDHOE0WCh49+/ZocyLpLydYrwLt1xDFh9C2nvNJHCIEOTqNhIxqVECtiOvNamhFcjM4PxMMy9XT3fM7Voi7p+BzbX17/TZLcCriM0OheOMOyJioFjoQFmk8F3sL0QVjmlc4QGi6AOVa93JwTtEZ72neyZLc/9X0Q3zIU3qyCUp73vn0QlUgp6quxCQJYyqq3+u9JJEeStbVb/jo9dsFWaw+8BUDEgNhjOEaJ6wcaVieZGuxTZ8AsAc0VGS0EQpVVr+V6NRX2SXi/U9tPPeAPlwexJ8dTXoUWxqZNZLxRlLfZrOCfNRy/Q+1gxCYgVMfYKP84StqDKqiY=;QAEugnUhd7HsJWGBBi6pQg=="
 ---
 

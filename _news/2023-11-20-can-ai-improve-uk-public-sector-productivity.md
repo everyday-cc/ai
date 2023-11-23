@@ -35,6 +35,20 @@ related:
         width: 1353
         height: 900
         isCached: true
+  - title: "IT-BPM sector banking on AI to boost productivity"
+    excerpt: "The country’s information technology-business process management sector is working on the strategic integration of generative artificial intelligence, banking on its potential to boost productivity, according to an industry group."
+    publishedDateTime: 2023-11-23T16:00:00Z
+    webUrl: "https://www.philstar.com/business/2023/11/24/2313723/it-bpm-sector-banking-ai-boost-productivity"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
+    quality: 39
+    images:
+      - url: "https://media.philstar.com/photos/2023/11/23/1_2023-11-23_19-17-41.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "+lupfTTERY3a2/8SbHgf0Vfg3LbCaSnCGd1bKlDWH0oVNlC2wshsoZL5dgOd9rbUVh/Q2ZDbJ+ngnx+qlLByJ5lXS9voWEPDD8pb5AW++6nuOXdXL5J04c1oWfesFsgP93xt/fEkb0u8EVKoRi7f7HU/1S1F0SLjs9G3+2o+i2TWUOsYvyr2V7snTvg8Z9G42PtKci/2VBRl39bjyw5kkfCNnMkk2MLQfSenD9zGOn6K9aBx2S7yEMlVgZgOrghQVk3kPvlTdGjTT7xoTNf7pwszawqOgE/7iBbsRA6z2knh9haeWTK/iatbZs09qK7LxiFdqyvJkfFH2T5pqeXlsBgejFr+dCUYtrskmkuW7hmuyjGw/ygnATVkiWMt6caF474H6ZdVXYYiZTrgcwNzirarqrnT26AILodh2mn5m9MkYScygsF7MFRwLqmAmoQRvgj+0/uiNAYqkX8IAg8ifoCsnEOOck4+LrW4zyms8wuiL5tkpiLfn3DaH4HR2o/d8AQZb5Mttttj/bNo/5Rfsg==;1YWRzrObuXuhiRM1uPrOtQ=="
 ---

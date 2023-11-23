@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/googles-bard-ai-sa
 webUrl: "https://markets.businessinsider.com/news/stocks/googles-bard-ai-says-these-3-stocks-will-rise-1000-1032835525"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,17 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Japan’s Favorite AI Stocks: 3 Companies the Country Loves"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Japan is hot on artificial intelligence (AI), and some AI stocks stand to gain"
-    publishedDateTime: 2023-11-21T21:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/japans-favorite-ai-stocks-3-companies-the-country-loves-1032840828"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "MX2Hxu3+nkQqIVpI7LYk1BqGyHtO3jioaUry3fEiWeOOVVV+BU6l1Y4tRRdcy/aBB2DpDn27B0OXBTGD3V3mlTRpvM+tecSl2cw7EeozD47fQgUFQVWwizmLlyiKAYcMfQ9ZJlH1bmGAAPlsDJNHFcWQd3mYJmIHy9LBAm2ABwMZf6eAJRPTSzS/hstxkFKNaoJlFVDLxEB7pWlXViHfRHuzivQC8xJu2sxztdu+q4FwyoQgPOgtR1+CsKKaQ4OW8Nm5Fvi9Z3+QbvXE7WQTlANdusNrgJWYY6q/p3KtEArer5/0otMbrQw0RGvLm8tMEsnKg9hazAz7os0ajvp7x7NqZUHLbxcNjvL94LnWufJm/O+Bi+VFwE0FU8RaxxQmLwQH3y5Ob6jczKpyAzmLk6Srk6CCE6nKOZ31C1WNONrvw+gYxfUpkdfJqaztSaNRhW7W476nPKmd+5F4cosIUqew9g+bQacF9jN1SoYsJIkqkIYM5sNtf6O5ozxY8J6C22wdAvFJNbv+q+LyuPohgg==;LIXdCQNnPsnpBVEVN+7fPQ=="
 ---

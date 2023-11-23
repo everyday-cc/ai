@@ -2,6 +2,237 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-10-30-the-10-most-valuable-companies-in-the-world-by-market-cap.md",
+      "title": "The 10 Most Valuable Companies in the World by Market Cap",
+      "excerpt": "Nvidia is also becoming a powerhouse in artificial intelligence hardware and software systems ... Alphabet is also diving deeper into autonomous driving cars through its Waymo division, with the world's first autonomous ride-hailing service, Waymo One.",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/articles/most-valuable-companies-in-the-world-by-market-cap",
+      "originalUrl": "https://money.usnews.com/investing/articles/most-valuable-companies-in-the-world-by-market-cap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T04:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-2023-2030-artificial-intelligence-ai-robots-market-dynamics-top-players-growth-factors-and-forecasted-prospects.md",
+      "title": "2023-2030 Artificial Intelligence (AI) Robots Market Dynamics: Top Players, Growth Factors, and Forecasted Prospects",
+      "excerpt": "1.1 Product Overview and Scope of Artificial Intelligence (AI) Robots Market 1.2 Artificial Intelligence (AI) Robots Market Segment by Type 1.3 Global Artificial Intelligence (AI) Robots Market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/2023-2030-artificial-intelligence-ai-robots-market-dynamics-top-players-growth-factors-and-forecasted-prospects",
+      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/2023-2030-artificial-intelligence-ai-robots-market-dynamics-top-players-growth-factors-and-forecasted-prospects",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T03:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-3-ways-leaders-can-harness-ai-for-breakthrough-innovation.md",
+      "title": "3 Ways Leaders Can Harness AI For Breakthrough Innovation",
+      "excerpt": "As we teeter on the brink of an AI-dominated era, leaders are under pressure to tap into this inspiring technology to innovate. How can they rise to the challenge?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders-can-harness-ai-for-breakthrough-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders-can-harness-ai-for-breakthrough-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/653c6b651bcf4ac38d17d493/0x0.jpg?format=jpg&crop=5120,2880,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders-can-harness-ai-for-breakthrough-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2023/10/29/3-ways-leaders-can-harness-ai-for-breakthrough-innovation/amp/",
+      "publishedDateTime": "2023-10-30T01:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-dgist-develops-an-artificial-intelligence-model-for-effectively-removing-biases-in-a-dataset.md",
+      "title": "DGIST develops an artificial intelligence model for effectively removing biases in a dataset",
+      "excerpt": "The developed image translation model can yield accurate classification results despite the use of biased data for the training of a deep learning model. - This solution is expected to be applied in various fields,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1006416",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1006416",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-microsoft-azure-vs-amazon-web-services-cloud-comparison.md",
+      "title": "Microsoft Azure vs. Amazon Web Services: Cloud Comparison",
+      "excerpt": "Amazon Web Services and Microsoft Azure are two of the leading cloud-based infrastructure as a service (IaaS) providers. In the past decade, both companies have created a broad range of flexible, stable and profitable services. But which one is right for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.business.com/articles/azure-vs-aws-cloud-comparison/",
+      "originalUrl": "https://www.business.com/articles/azure-vs-aws-cloud-comparison/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business.com",
+        "domain": "business.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-roomba-robot-vacuum-deals-start-at-159-this-week.md",
+      "title": "Roomba robot vacuum deals start at $159 this week",
+      "excerpt": "Prices start at just $159 for the Roomba 694 robot vacuum cleaner. This model isn’t the most ... First, the Roomba Combo j7+ with AI and integrated mopping is $300 off right n ow. This is the same as the J7+, but with the addition of a built-in mop.",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/deals/roomba-robot-vacuum-deals-start-at-159-this-week/",
+      "originalUrl": "https://bgr.com/deals/roomba-robot-vacuum-deals-start-at-159-this-week/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-30-ai-facial-recognition-technology-will-help-police-to-catch-more-criminals.md",
       "title": "AI facial recognition technology will help police to catch more criminals",
       "excerpt": "Facial recognition is set to be deployed in police officers’ body-worn video cameras as part of government plans to expand the use of the technology across forces nationally. Writing in The ...",
@@ -874,273 +1105,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-robocabs-waymo-is-winning-the-fight-its-flight-for-cruise.md",
-      "title": "Robocabs: Waymo is winning the fight; it’s flight for Cruise",
-      "excerpt": "First, a short update on Cruise. After the GM brand reportedly lost its self-driving license in California this week, it suspended all autonomous car activities in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.electrive.com/2023/10/27/robocabs-waymo-is-winning-the-fight-while-its-flight-for-cruise/",
-      "originalUrl": "https://www.electrive.com/2023/10/27/robocabs-waymo-is-winning-the-fight-while-its-flight-for-cruise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.electrive.com/2018/03/jaguar-i-pace-waymo-autonomous-car-autonomes-fahren.png",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-28T01:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electrive",
-        "domain": "electrive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-tunnelbear-vpn-review-2023-pricing-ease-of-use-security.md",
-      "title": "TunnelBear VPN Review 2023: Pricing, Ease of Use & Security",
-      "excerpt": "Read our in-depth analysis of TunnelBear VPN, covering its pricing, ease of use, security features, and more. Find out if this is the right VPN for you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/tunnelbear-vpn-review/",
-      "originalUrl": "https://www.techrepublic.com/article/tunnelbear-vpn-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/10/tunnelbear.png",
-          "width": 350,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-28T01:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-can-rishi-sunaks-big-summit-save-us-from-ai-nightmare.md",
-      "title": "Can Rishi Sunak’s big summit save us from AI nightmare?",
-      "excerpt": "Perhaps surprisingly, given this nightmarish backdrop, Prime Minister Rishi Sunak urged people \"not to lose sleep\". He has a plan, and it's an ambitious one. He wants to position the UK as the global leader for AI safety.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/technology-67172230.amp",
-      "originalUrl": "https://www.bbc.co.uk/news/technology-67172230.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/17998/production/_131546669_gettyimages-545163603.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/technology-67172230.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67172230.amp",
-      "publishedDateTime": "2023-10-28T00:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-amazons-tye-brady-discusses-generative-ai-humanoid-robots-and-mobile-manipulation.md",
-      "title": "Amazon’s Tye Brady discusses generative AI, humanoid robots and mobile manipulation",
-      "excerpt": "Also, the company is going to start rolling out the new MK30 drone ... “Every one of our teams is working on building generative AI applications.” That jumped out at me, for obvious reasons, but as the event pressed on into specifics around drone ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/28/2620382/",
-      "originalUrl": "https://techcrunch.com/2023/10/28/2620382/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/IMG_20231018_103820.webp?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/28/2620382/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/28/2620382/amp/",
-      "publishedDateTime": "2023-10-28T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-wheres-ai-steering-driverless-cars.md",
-      "title": "Where's AI steering driverless cars?",
-      "excerpt": "GM's Cruise taxis were banned from California roads after the state said the driverless car company misrepresented safety data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/",
-      "originalUrl": "https://www.marketplace.org/2023/10/27/progress-toward-driverless-car-future-hits-brakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T23:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-search-engine-baidu-and-carmaker-geelys-venture-starts-delivery-of-self-driving-ev-to-compete-with-teslas-model-y.md",
-      "title": "Search engine Baidu and carmaker Geely’s venture starts delivery of self-driving EV, to compete with Tesla’s Model Y",
-      "excerpt": "Apollo, Baidu’s autonomous driving unit, has provided the self-driving software. Joe Xia, CEO of JIyue Automotive Technology, speaks during the launch ceremony of JiYue 01 SUV in Shanghai on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/china-business/article/3239497/search-engine-baidu-and-carmaker-geelys-venture-starts-delivery-self-driving-ev-compete-teslas-model",
-      "originalUrl": "https://www.scmp.com/business/china-business/article/3239497/search-engine-baidu-and-carmaker-geelys-venture-starts-delivery-self-driving-ev-compete-teslas-model",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T22:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

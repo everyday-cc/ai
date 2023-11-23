@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "IT-BPM sector banking on AI to boost productivity"
+    excerpt: "The country’s information technology-business process management sector is working on the strategic integration of generative artificial intelligence, banking on its potential to boost productivity, according to an industry group."
+    publishedDateTime: 2023-11-23T16:00:00Z
+    webUrl: "https://www.philstar.com/business/2023/11/24/2313723/it-bpm-sector-banking-ai-boost-productivity"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
+    quality: 39
+    images:
+      - url: "https://media.philstar.com/photos/2023/11/23/1_2023-11-23_19-17-41.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Can AI improve UK public sector productivity?"
     excerpt: "The hope is that applying AI will help to deliver on chancellor Jeremy Hunt’s ambition, announced in June, to increase public sector productivity by 0.5 per cent a year in order to “stop the state growing ever bigger as a proportion of our output”."
     publishedDateTime: 2023-11-20T05:00:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-l
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/amp/"
 type: article
-quality: 87
-heat: 130
+quality: 89
+heat: 132
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64dbb92acf0ab1302db1ea3f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"

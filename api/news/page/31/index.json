@@ -2,6 +2,305 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2023-10-27-ai-machine-learning-and-robotics-are-making-the-retail-supply-chain-more-efficient-and-resilient-after-several-rocky-years.md",
+      "title": "AI, machine learning, and robotics are making the retail supply chain more efficient and resilient after several rocky years",
+      "excerpt": "AI, machine learning and robotics are improving retail supply chains. They help with productivity, production costs, meeting consumer demand and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10",
+      "originalUrl": "https://www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/653a6ca596f7540cd06651e5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-machine-learning-robotics-retail-supply-chain-technology-2023-10?amp",
+      "publishedDateTime": "2023-10-26T20:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-cranium-raises-25m-to-fund-enterprise-ai-monitoring-security-and-compliance-platform.md",
+      "title": "Cranium raises $25M to fund enterprise AI monitoring, security, and compliance platform",
+      "excerpt": "The round was led by Telstra Ventures with participation from KPMG LLP and SYN Ventures, taking Cranium's total to $32 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/cranium-raises-25m-to-fund-enterprise-ai-monitoring-security-and-compliance-platform/",
+      "originalUrl": "https://venturebeat.com/security/cranium-raises-25m-to-fund-enterprise-ai-monitoring-security-and-compliance-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_robot_peers_inside_an_open_PC_tower_at_the_circuitboa_194dd42e-576b-49a2-8341-b77eabcee85d.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T20:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-kinder-gentler-robotic-arm-channels-its-inner-elephant-and-octopus.md",
+      "title": "Kinder, gentler robotic arm channels its inner elephant and octopus",
+      "excerpt": "In order to function safely alongside human workers, robotic arms shouldn't be hard and unyielding. An experimental new arm was designed with that fact in mind, as it mimics soft n' squishy elephant trunks and octopus tentacles.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/robotic-arm-elephant-octopus/",
+      "originalUrl": "https://newatlas.com/robotics/robotic-arm-elephant-octopus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/3850958/2147483647/strip/true/crop/5675x2979+0+403/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F06%2Fad%2F7825cdd64664870af7c54b8dd4ed%2F9283.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T19:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups.md",
+      "title": "Microsoft: Octo Tempest is one of the most dangerous financial hacking groups",
+      "excerpt": "and financial services. Microsoft assesses that Octo Tempest is a well-organized group that includes members with extensive technical knowledge and multiple hand-on-keyboard operators. The hackers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bleepingcomputer.com/news/security/microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups/",
+      "originalUrl": "https://www.bleepingcomputer.com/news/security/microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bleepstatic.com/content/hl-images/2023/10/27/oktospider.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bleepingcomputer.com/news/security/microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups/amp/",
+      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups/amp/",
+      "publishedDateTime": "2023-10-26T18:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bleeping Computer",
+        "domain": "bleepingcomputer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-building-a-full-stack-robotics-company-in-the-age-of-large-ai-models.md",
+      "title": "Building a full-stack robotics company in the age of large AI models",
+      "excerpt": "Who would you rather be: the robotics startup that hopes some incumbent will select you ... vs any open source model – OpenAI’s secret weapon is their army of Scale.AI and other RLHF resources.) With the shift from classical robotics to large models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/building-a-full-stack-robotics-company-in-the-age-of-large-ai-models/",
+      "originalUrl": "https://www.therobotreport.com/building-a-full-stack-robotics-company-in-the-age-of-large-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/electric-sheep-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T18:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-generative-ai-is-coming-to-robots-courtesy-of-nvidia.md",
+      "title": "Generative AI is Coming to Robots, Courtesy of NVIDIA",
+      "excerpt": "As generative AI continues to revolutionize text and natural language processing, it’s also impacting computer vision. This transformative technology is expected to bring advancements in autonomous machines and robotics, where cameras play a pivotal role.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-robots-nvidia/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/generative-ai-robots-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 238,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/09/ew_09272023-will-ai-replace-jobs.png",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T18:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-10-27-what-the-uns-ai-advisory-group-will-do.md",
       "title": "What the U.N.’s AI Advisory Group Will Do",
       "excerpt": "While the body will have little power itself, its recommendations could shape a future U.N. agency for AI governance",
@@ -933,274 +1232,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-artificial-intelligence-company-from-silicon-valley-entres-bihar.md",
-      "title": "Artificial Intelligence company from Silicon Valley entres Bihar",
-      "excerpt": "A Silicon Valley-based Artificial Intelligence company has opened an office in Bihar, making it the first IT company from the US",
-      "sourceUrl": null,
-      "webUrl": "https://www.orissapost.com/artificial-intelligence-company-from-silicon-valley-entres-bihar/",
-      "originalUrl": "https://www.orissapost.com/artificial-intelligence-company-from-silicon-valley-entres-bihar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orissapost.com/wp-content/uploads/2023/10/Tiger-Analytics.jpg",
-          "width": 609,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.orissapost.com/artificial-intelligence-company-from-silicon-valley-entres-bihar/",
-      "cdnAmpWebUrl": "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/artificial-intelligence-company-from-silicon-valley-entres-bihar/",
-      "publishedDateTime": "2023-10-26T09:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "orissapost",
-        "domain": "orissapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-ibm-unveils-ai-powered-watsonx-code-assistant-for-streamlined-enterprise-development.md",
-      "title": "IBM unveils AI-powered watsonx Code Assistant for streamlined enterprise development",
-      "excerpt": "This product is said to cater to two specific enterprise use cases: IT Automation with watsonx Code Assistant for Red Hat Ansible Lightspeed and mainframe application modernisation with watsonx Code Assistant for Z.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/technology/ibm-unveils-ai-powered-watsonx-code-assistant-for-streamlined-enterprise-development-18157131.htm",
-      "originalUrl": "https://www.cnbctv18.com/technology/ibm-unveils-ai-powered-watsonx-code-assistant-for-streamlined-enterprise-development-18157131.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/02/IBM-Source-Reuters-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/technology/ibm-unveils-ai-powered-watsonx-code-assistant-for-streamlined-enterprise-development-18157131.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/ibm-unveils-ai-powered-watsonx-code-assistant-for-streamlined-enterprise-development-18157131.htm/amp",
-      "publishedDateTime": "2023-10-26T09:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-how-to-match-images-using-delf-and-tensorflow-hub.md",
-      "title": "How to match images using DELF and TensorFlow Hub",
-      "excerpt": "TensorFlow Hub (TF-Hub) is a platform to share machine learning expertise packaged in reusable resources, notably pre-trained modules. In this colab, we will use a module that packages the DELF neural network and logic for processing images to identify ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/hub/tutorials/tf_hub_delf_module",
-      "originalUrl": "https://www.tensorflow.org/hub/tutorials/tf_hub_delf_module",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-hub-logo-social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T08:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-revolutionizing-accounts-payable-automation-gravity-software-unveils-cutting-edge-ai-technology-powered-by-microsofts-cognitive-services-ai.md",
-      "title": "Revolutionizing Accounts Payable Automation: Gravity Software Unveils Cutting-Edge AI Technology Powered by Microsoft's Cognitive Services AI Engine",
-      "excerpt": "This transformative solution uses the Microsoft Cognitive Services AI engine to convert PDFs of vendor bills into Gravity Vouchers, significantly reducing the need for manual data entry or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/revolutionizing-accounts-payable-automation-gravity-software-unveils-cutting-edge-ai-technology-powered-by-microsofts-cognitive/article_9df20d0f-02f2-5459-899f-3095e383f201.html",
-      "originalUrl": "https://www.victoriaadvocate.com/revolutionizing-accounts-payable-automation-gravity-software-unveils-cutting-edge-ai-technology-powered-by-microsofts-cognitive/article_9df20d0f-02f2-5459-899f-3095e383f201.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T07:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-sk-hynix-cuts-losses-in-q3-on-higher-ai-memory-chip-sales.md",
-      "title": "SK hynix cuts losses in Q3 on higher AI memory chip sales",
-      "excerpt": "SK hynix posted an operating loss of 1.79 trillion won ($1.31 billion) in the third quarter, but the memory chip maker was able to reduce its deficit by focusing on high-priced and high-performance AI memory chips such as high-bandwidth memory (HBM),",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/10/129_361933.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/10/129_361933.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/336d93b73d2a4d70b2f47a9328f5ba29.jpg",
-          "width": 601,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361933",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361933",
-      "publishedDateTime": "2023-10-26T06:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-bat-inspired-glasses-help-the-blind-vision-impaired-see-using-sound.md",
-      "title": "Bat-inspired glasses help the blind & vision-impaired ‘see’ using sound",
-      "excerpt": "Inspired by bats’ use of echolocation, researchers have developed smart glasses that transform visual information into unique sound representations that enhance the ability of blind and vision-impaired people to navigate their surroundings.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/technology/acoustic-touch-glasses-help-the-blind-vision-impaired-see-using-sound/",
-      "originalUrl": "https://newatlas.com/technology/acoustic-touch-glasses-help-the-blind-vision-impaired-see-using-sound/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/aa5d338/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1b%2F68%2F07b3ff5049e0b3386b528aacc7b9%2Fimg-20220510-145947717-hdr.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T06:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

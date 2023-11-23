@@ -1,28 +1,26 @@
 ---
 category: news
-title: "What does Sam Altman's firing — and quick reinstatement — mean for the future of AI?"
-excerpt: "It’s been quite a week for ChatGPT-maker OpenAI — and co-founder Sam Altman. Altman, who helped start OpenAI as a nonprofit research lab back in 2015, was fired as CEO"
-publishedDateTime: 2023-11-23T01:48:00Z
-originalUrl: "https://www.meridianstar.com/news/nation_and_world/what-does-sam-altmans-firing-and-quick-reinstatement-mean-for-the-future-of-ai/article_e0ed922e-ae4b-5e20-a416-9eaed0aac041.html"
-webUrl: "https://www.meridianstar.com/news/nation_and_world/what-does-sam-altmans-firing-and-quick-reinstatement-mean-for-the-future-of-ai/article_e0ed922e-ae4b-5e20-a416-9eaed0aac041.html"
-ampWebUrl: "https://www.meridianstar.com/news/nation_and_world/what-does-sam-altmans-firing-and-quick-reinstatement-mean-for-the-future-of-ai/article_e0ed922e-ae4b-5e20-a416-9eaed0aac041.amp.html"
-cdnAmpWebUrl: "https://www-meridianstar-com.cdn.ampproject.org/c/s/www.meridianstar.com/news/nation_and_world/what-does-sam-altmans-firing-and-quick-reinstatement-mean-for-the-future-of-ai/article_e0ed922e-ae4b-5e20-a416-9eaed0aac041.amp.html"
+title: "What does Sam Altman’s firing — and quick reinstatement — mean for the future of AI?"
+excerpt: "If you’re just catching up on the OpenAI saga and what’s at stake for the artificial intelligence space as a whole, you’ve come to the right place. Here’s a rundown of what you need to know."
+publishedDateTime: 2023-11-23T15:10:00Z
+originalUrl: "https://www.baltimoresun.com/business/ct-biz-sam-altman-ai-20231123-2g37rwaqwrbenihfsxgkcgjcfu-story.html"
+webUrl: "https://www.baltimoresun.com/business/ct-biz-sam-altman-ai-20231123-2g37rwaqwrbenihfsxgkcgjcfu-story.html"
 type: article
-quality: 50
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: The Meridian Star
-  domain: meridianstar.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/meridianstar.com/content/tncms/assets/v3/editorial/3/32/332a46ca-01ed-5772-801e-731ed81de643/655e1c1752a03.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://www.baltimoresun.com/resizer/RjK_7Wt4EkQqEOhfzWlFXWB7juw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/4PNFMUGA4SWEZ73JASYJCFYHGQ.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -87,6 +85,6 @@ related:
       domain: theguardian.com
     quality: 14
 
-secured: "nSaErAlfU1r7cEaB9xG0vlbIUfbgebc407dfSGDi3NGplzWJuQJgwvl3/PU04bzsnUTfQ0j/XuiZR388RVDl1iM8unqhPiM6TvfdNRv0Gzxc7h1RzB+/Kya2R/Je3bv6BCK1ekRJ617mN6ARY1h9jWCt8b5uSmARMaFy9IrUzuTrDpkcEP4bV4JfnGmRAr6S95wAfJuuhZv/5vwyBLo4WaCVt5cgs4XgEYQVm2qCKPilkX6dEp/EXOQlIMwv+cYXbv4/6/AYlPQpjL8V017IbHhEzTYaLFhwQntDr5ryCglWWRZ99hH7sWTsvn7Rp3OoTi6FBQiceV2ptE6MpoH8u0zc+ANTsohwlq2ilTjj9nNJLd/seK/nX2bB2i5yGNZ6Ftv/XuGSoo+XFXKmXjJB1FEQ3dB4KNmlr+BICsqm0+OZ8HpR+DNEZ1VoSKRFRYkOEC0fWeT7kmSn2POYNvfTHQhi0+G2142OO4IslUnX6h284ZRw3RZQoiNtkTarsMWu/iaYDwyWhfYMi2CkI5JudA==;feDLqvO03hSOqIDc1m3TPg=="
+secured: "iLsU/H1y2IHk/QU+VUddB7DL2wLfwHuT063QjAK8oXXTubSfvCCR0gCjQIRGUU30Ornj2cDE0UqX4CBKARYEPrP6A/BOEw+OsLlgiaz3Up5q/QN2AH1DskDZ1D7UCtPNmXYZVlKRdwBUHE3/kYWiBEOYqWPAlYRABBRDU0CYmbrk48vRwFoFk1SlkpC/+YkIPwU0Og02CT1vTMLAJoXC9hVpr5+GEVfJzTqmlZZVP8MN8nFlmDGnrulF6v0uytoh0zvNpTnYPGbY1bgYzAVNFnJFihY+O8JhjdC6AAtTa2ekE92gIED31l7Tb9/BrBl4lz0ZJVl2miESpqGtsXMavQEw8kYo34PzOgHg5YcdPCQ=;m4mA1qKwtSv5bAmVRrsmYg=="
 ---
 

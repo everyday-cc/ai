@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nigeria Tells Industrialists To Embrace Artificial Intelligence, Green Energy To Improve Efficiency"
+    excerpt: "By adopting these cutting-edge technologies, we can boost the competitiveness of our local manufacturers and position Nigeria as a global manufacturing hub.”"
+    publishedDateTime: 2023-11-23T14:16:00Z
+    webUrl: "https://www.arise.tv/nigeria-tells-industrialists-to-embrace-artificial-intelligence-green-energy-to-improve-efficiency/"
+    type: article
+    provider:
+      name: Arise
+      domain: arise.tv
+    quality: 5
 
 secured: "r5FIDpoNxS41IIhpCOXIx4CDSIGmJwCAM/2wHrFUfIhhSfVY8OToDTKTMbZTVMfmAyPbQjdwkarR9pUma6+a443rqJWNBegt/MBeuxCng9kvDqRhkVeUEJbWsgBVx8zlC2tQRlaV9Mf37s8Aw3O/PWoDNPmJyZSBcZ6jSGsV6yXEhdFzKP+RDb5GDKr/G1YokURAd7QV4VMgmlwJka3L1DbiCKQrvmNAxVTOEbZkIaY2XVhgnEVvErPc4aQPHEqIZY+G65MKiIH19lXQp3OG2uD9wpVscBW9o98nBR9TJXEpg86LNCLzFIranKVD0DyGGWhHeI2M5k4WDfvOGyW+XZQfcrMTAYqtXGfANi7IIFI+PPHg+oQ36Dz6pavlgq5H8su7JvnS2mYnffrLZSJ4ajhjefmjlHrBaGYzXFbdH/Qvyoi6yHrVbipz15zNofTtpq8cHalKnBrd2kttgvhiMsy9PDOJRzsI6+slEwcIoHiDfxPN379OU3o2uAyuq1KzVCzu45F/vYDsJxoAajywhA==;iT6PVRIZL0vVtNIZlvJ8Zg=="
 ---

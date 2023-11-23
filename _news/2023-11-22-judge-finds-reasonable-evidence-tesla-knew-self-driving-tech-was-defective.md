@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/technology/2023/nov/22/tesla-autopilot
 webUrl: "https://www.theguardian.com/technology/2023/nov/22/tesla-autopilot-defective-lawsuit-musk"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "‘Reasonable evidence’ Tesla knew self-driving tech was faulty, PlayStation 5 Slim pre-orders live in UK"
+    excerpt: "A judge has found “reasonable evidence” Elon Musk and other executives at Tesla knew that the company’s self-driving technology was defective"
+    publishedDateTime: 2023-11-23T14:48:00Z
+    webUrl: "https://www.techdigest.tv/2023/11/reasonable-evidence-tesla-knew-self-driving-tech-was-faulty-playstation-5-slim-pre-orders-live-in-uk.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 23
+    images:
+      - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2023/11/PS5.webp?resize=776%2C436&#038;ssl=1"
+        width: 776
+        height: 436
+        isCached: true
 
 secured: "wtJlF3YfAN5GwkzcXNL467f2Xu60+Y6VOefIdKeGIy/dxqcnx2BpPoPe4b69V7o3nH903kjGaKAsVygHMbEyf2bw7dchtaYpT/FmzzaZGzM+Zc6jwPlxev/fglnmcIg9KPxTjMZ583B4eCvcEpeZNGs7/E68N6i22nPEotWg72Zgc0kcN5YAMkCN+V/rywH0VBQQYXDnU6QOj3t2qq6imfmv5Gw86KaSIiRZkKshCMak5VtWM14MDtxwVsSs/DVTJrUo79g6R5CVJWCHotZim4RlEzpIuBXAiE55CqArbZFHYLWiPSRgS2Hmn0i028bJfZLmLSGapJTcIXXejRng4NS6RQLWCf9JmpmnhWRUHr5p55xYUcwsTGGKfaAGhXfMDI0uSo4Od0DPJvFKLzRYflUVwW5Wnu9kDQ4HZOF8js9KdD6ZYVMP2y//qTVxbnDGE+aww9mnp4sKr93QWtuZirFSlQQ+3LE/RoMhNOCXslDhalbZpSo8yJ+iwSX8nKsD3vZmm6/AkDZXQtIO67s6PA==;ekHTUmZPp2wF5/j8vuwbFQ=="
 ---

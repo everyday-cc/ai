@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-23-his-team-created-a-robotic-arm-that-helps-kill-cancer-using-artificial-intelligence.md",
+      "title": "His team created a robotic arm that helps kill cancer using artificial intelligence",
+      "excerpt": "The robotic arm will allow doctors to more accurately monitor the progress of high-intensity focused ultrasound treatment as it is happening.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/news/canada/kitchener-waterloo/hifu-non-invasive-cancer-treatment-artificial-intelligence-robot-university-of-waterlo-1.7036627",
+      "originalUrl": "https://www.cbc.ca/news/canada/kitchener-waterloo/hifu-non-invasive-cancer-treatment-artificial-intelligence-robot-university-of-waterlo-1.7036627",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.7036750.1700688000!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/moslem-sadeghi-goughari.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.7036627",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.7036627",
+      "publishedDateTime": "2023-11-23T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-hyundai-unveils-robot-operated-ev-plant-in-singapore.md",
       "title": "Hyundai Unveils Robot-Operated EV Plant in Singapore",
       "excerpt": "After beating General Motors and Ford in US electric vehicle (EV) sales in Q3, Hyundai Motor Group plans to keep its momentum going in the market.Hyundai officially launched its new",
@@ -31,6 +75,49 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-leadingage23-how-will-generative-ai-and-robotics-impact-senior-care.md",
+      "title": "LeadingAge23: How Will Generative AI and Robotics Impact Senior Care?",
+      "excerpt": "Leaders in the aging-services sector discussed the role of generative artificial intelligence and robotics today and for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care",
+      "originalUrl": "https://healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202311/AI-hero.jpg?itok=TMKoXvUz",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care?amp",
+      "publishedDateTime": "2023-11-22T16:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1181,101 +1268,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-a-cautionary-tale-of-the-friendly-robot-co-worker.md",
-      "title": "A Cautionary Tale Of The Friendly Robot Co-Worker",
-      "excerpt": "I believe it is prudent to think about several of the possibilities that uninhibited AI could have broadly, but in this article, I am going to focus on the workplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e38c9a3173937eb80c8def/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/11/09/a-cautionary-tale-of-the-friendly-robot-co-worker/amp/",
-      "publishedDateTime": "2023-11-09T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-smart-disruption-china-will-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry.md",
-      "title": "Smart disruption? China will mass-produce AI-powered humanoid robots by 2025 to unsettle industry",
-      "excerpt": "China hopes to disrupt industries and how factories function just like how smartphones disrupted human interaction. For that, they are planning to start manufacturing AI powered humanoid robots en mas",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html",
-      "originalUrl": "https://www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2023/11/Mindless-disruption-China-to-mass-produce-AI-powered-humanoid-robots-by-2025-.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html/amp",
-      "publishedDateTime": "2023-11-09T08:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

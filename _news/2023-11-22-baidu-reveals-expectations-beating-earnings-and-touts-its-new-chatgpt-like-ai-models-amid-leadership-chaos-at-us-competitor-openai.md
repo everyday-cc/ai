@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Baidu reveals expectations-beating earnings and touts its new ChatGPT-like AI models, amid leadership chaos at U.S. competitor OpenAI"
-excerpt: "Developers in China face another threat: U.S. rules limiting the sale of advanced AI chips from firms like Nvidia to Chinese companies. Last week, Alibaba shelved its plan to spin-off its cloud computing division as an independent company, blaming ..."
-publishedDateTime: 2023-11-22T04:53:00Z
-originalUrl: "https://www.aol.com/finance/baidu-reveals-expectations-beating-earnings-095341977.html"
-webUrl: "https://www.aol.com/finance/baidu-reveals-expectations-beating-earnings-095341977.html"
+excerpt: "Baidu took an early lead in the race to dominate China's AI sector with the release of ERNIE Bot earlier this year."
+publishedDateTime: 2023-11-22T08:53:00Z
+originalUrl: "https://www.aol.com/baidu-reveals-expectations-beating-earnings-095341977.html?ref=biztoc.com"
+webUrl: "https://www.aol.com/baidu-reveals-expectations-beating-earnings-095341977.html?ref=biztoc.com"
 type: article
-quality: 8
+quality: 0
 heat: -1
 published: false
 
@@ -15,14 +15,8 @@ provider:
   domain: aol.com
 
 topics:
-  - AI Hardware
+  - AI Ethics
   - AI
-
-images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/iok5HE6EscWTJw7yKITu_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/02430db88c27d537951e901e4b4c1d8e"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -360,6 +354,6 @@ related:
       domain: inferse.com
     quality: 3
 
-secured: "HmBsosdzgf2BxuQI1ioDfULGFavjWrmqWfnuuIRD+tM00dAkD9Zv0qY6bdyG5IY4poWBzH2dVVUVIPbbtGSIX/6iu70uMFmJmGeynNzTj5bUvlCdmeAhpijTZdvoeR413/MzPS6mEku9dvIM77aXZ0biGp6faKpH8DS2NfuHDV4dMGTtgZE+NyEwu/TERTIAxKy9hS7b3FBedGbmfbbOvTPZJkB+L3yT9uHRbQJZ9h9CeTrLJvI4JaMUSo8Mnblj/odZL0clXdf4zRoU0tSuCEh8Tqsjv/35f/dWBAJX+3+wt2xVa/VuWLG3fnCfYK+t+z8lmK2mpTAxs5V0gA0DpEs1O84FMshMzMrViLMxx4w=;jtFk6Dzsb0Hsx1n9fOD0/A=="
+secured: "tpyAJXUAxEiXlOoOTeyADzrmg45Hw5Juxn3jLVK05/IEGxvugOsOmGtITeVpcMBKG7TGDf2oY7fheWzm/uDQ7Wxu/ddvWNxgPDkeF90s+2tZ3g8HtLhQo5sITKERMQyvc9MCmc94wme5VgkROKKY+bEiywJrj7hf9UuussFeZtMc6O/Y2KXGgwHsV2uSzPo9Nw17CL7aW/wOww+dJA0pOPxqMN0owP+N3Lr/d9YJs8WAk0E9YmLldvdT8v1BHQK2AsGTSAkQVUdzfzjWgQJkkd19AgVU+1tUr2iPxMUkzC4BltsY7JGshU46bMS9YZaFGZQNFM+ePMez67X7ZT0DN3pLaNTnh7fKuG8ZyPNk+/MouLFF1VrcSSVk9DvewX+j9jazdp/xHY6nb4VkIx7JJUHOzLAAevfzDx8jk+X+gna3Rn9i9QIHG61BhCdIDcqHyek54/LbnetcNMhuM0YCeRPvEjHT0NMsUDAuSYKW25wwScxJebKCcEXn/l0DxFLBvqj/RsNV+qL8iipPQaZLsQ==;sqxghmG2yXS9RCDQmHkYyQ=="
 ---
 

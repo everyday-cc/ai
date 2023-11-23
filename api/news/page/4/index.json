@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-21-global-machine-learning-analysis-report-2023-2028-ai-integration-powers-precise-predictions-fueling-ml-expansion.md",
+      "title": "Global Machine Learning Analysis Report 2023-2028 - AI Integration Powers Precise Predictions, Fueling ML Expansion",
+      "excerpt": "The \"Machine Learning Market - Global Industry Size, Share, Trends, Opportunity, and Forecast. 2018-2028 Segmented By Component (Services & Solutions), By Enterprises Size",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/n35885463/global-machine-learning-analysis-report-2023-2028-ai-integration-powers-precise-predictions-fuelin",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/n35885463/global-machine-learning-analysis-report-2023-2028-ai-integration-powers-precise-predictions-fuelin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35885463",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35885463",
+      "publishedDateTime": "2023-11-20T22:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-ssd-vs-nvme-whats-the-difference.md",
+      "title": "SSD vs. NVMe: What’s the difference?",
+      "excerpt": "While the terms SSD and NVMe are used to describe two types of drives, they are actually different data storage technologies that can complement each other. \nThe post SSD vs. NVMe: What’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ssd-vs-nvme/",
+      "originalUrl": "https://www.ibm.com/blog/ssd-vs-nvme/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T20:49:34Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-cruises-ceo-quits-as-the-driverless-carmaker-aims-to-rebuild-trust.md",
+      "title": "Cruise’s C.E.O. Quits as the Driverless Carmaker Aims to Rebuild Trust",
+      "excerpt": "Kyle Vogt, a founder of Cruise, resigned from the company on Sunday, weeks after it suspended all of its self-driving operations. By Yiwen Lu and Tripp Mickle Reporting from San Francisco Kyle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/11/19/technology/cruise-ceo-kyle-vogt-quits.html",
+      "originalUrl": "https://www.nytimes.com/2023/11/19/technology/cruise-ceo-kyle-vogt-quits.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/11/21/us/19ALTcruise-ceo-print/19cruise-ceo-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T17:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-21-how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft.md",
       "title": "How Might Open.ai Outcomes Impact NVIDIA, AMD, Intel And Microsoft?",
       "excerpt": "NVIDIA has already increased the outlook for GPUs astronomically based on demand for Hopper and GraceHopper chips with associated CoSWoS capacity needed for HBM. NVIDIA wins if they can redirect a few tens of thousands to the new Microsoft AI Subsidiary (in Azure) without losing customers to AMD.",
@@ -1073,144 +1210,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-17-qualcomms-snapdragon-7-gen-3-doubles-down-on-ai-for-androids-mid-range-devices.md",
-      "title": "Qualcomm's Snapdragon 7 Gen 3 Doubles Down on AI for Android's Mid-Range Devices",
-      "excerpt": "AI is the name of the game for this year’s chips, particularly for Qualcomm’s mobile processors. The chipmaker has announced the Snapdragon 7 Gen 3 processor for mid-range Android devices with promises of improved AI performance.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/qualcomm-snapdragon-7-gen-3-ai-android-1851029683",
-      "originalUrl": "https://gizmodo.com/qualcomm-snapdragon-7-gen-3-ai-android-1851029683",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b6988deebc81b6be0a3378b42e6dab8d.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-17-self-driving-cars-all-you-need-to-know.md",
-      "title": "Self-driving cars: all you need to know",
-      "excerpt": "Self-driving cars were, in fairly recent history, considered the stuff of cartoons and sci-fi films. Today, though, a huge number of cars on the market have at least some 'autonomous driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.carbuyer.co.uk/tips-and-advice/153283/self-driving-cars-all-you-need-to-know",
-      "originalUrl": "https://www.carbuyer.co.uk/tips-and-advice/153283/self-driving-cars-all-you-need-to-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediacloud.carbuyer.co.uk/image/private/s--t2t0qtT6--/f_auto,t_primary-image-mobile@1/v1699459709/carbuyer/2023/11/Self-Driving%20Car.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T08:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Car Buyer",
-        "domain": "carbuyer.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-17-ibm-enables-responsible-enterprise-ai-with-watsonxgovernance.md",
-      "title": "IBM enables responsible Enterprise AI with watsonx.governance",
-      "excerpt": "Cairo, Egypt - IBM (NYSE:IBM) announced the general availability (GA) of watsonx.governance in early December to help businesses automate AI lifecycle governance and proactively manage risk and compliance. This expands IBM’s industry-leading AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/ibm-enables-responsible-enterprise-ai-with-watsonxgovernance-pmvmosp6",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/ibm-enables-responsible-enterprise-ai-with-watsonxgovernance-pmvmosp6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MWIzMTVjZjMtZjkzNy00/0/1-jpg.jpeg?f=3%3A2",
-          "width": 759,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/ibm-enables-responsible-enterprise-ai-with-watsonxgovernance-pmvmosp6?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ibm-enables-responsible-enterprise-ai-with-watsonxgovernance-pmvmosp6?amp=1",
-      "publishedDateTime": "2023-11-17T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }
