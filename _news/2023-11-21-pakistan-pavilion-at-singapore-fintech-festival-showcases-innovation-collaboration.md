@@ -83,6 +83,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Where to find fintech investment"
+    excerpt: "Despite fintech investment in 2023 falling, UK fintechs are still attracting more VC investment than all other EMEA fintechs combined"
+    publishedDateTime: 2023-11-23T09:24:00Z
+    webUrl: "https://growthbusiness.co.uk/where-to-find-fintech-investment-2571193/"
+    type: article
+    provider:
+      name: Growth Business
+      domain: growthbusiness.co.uk
+    quality: 24
+    images:
+      - url: "https://growthbusiness-production.s3.amazonaws.com/uploads/2023/11/GettyImages-159175682-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "2024 fintech trends and Finextra’s predictions for the new year"
     excerpt: "Launching today, Finextra’s PREDICT 2024 channel will gather insights and ideas from the industry's top thought leaders, capturing how the financial services industry will tap into technology trends  in 2024 and these predictions will be shared with our 800,000 monthly readers."
     publishedDateTime: 2023-11-18T20:17:00Z

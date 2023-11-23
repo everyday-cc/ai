@@ -18,21 +18,49 @@ topics:
   - AI
 
 related:
-  - title: "Eyewitness Newsmakers: Examining the risks and benefits of artificial intelligence"
-    excerpt: "Like almost every new technological advancement, artificial intelligence has generated trepidation and even worry for many people. During a recent edition of Eyewitness Newsmakers, we tackled the complex issue."
-    publishedDateTime: 2023-11-20T17:27:00Z
-    webUrl: "https://abc7.com/eyewitness-newsmakers-artificial-intelligence-ai-viterbi-school-of-engineering/14071899/"
-    ampWebUrl: "https://abc7.com/amp/eyewitness-newsmakers-artificial-intelligence-ai-viterbi-school-of-engineering/14071899/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/eyewitness-newsmakers-artificial-intelligence-ai-viterbi-school-of-engineering/14071899/"
+  - title: "The top 7 media people in AI"
+    excerpt: "Joy Buolamwini, Algorithmic Justice League Dr. Buolamwini's research found that major tech companies' AI-driven facial recognition tools ... largely due to information they saw on sites like Facebook, Carlton was inspired to study technology and society."
+    publishedDateTime: 2023-11-23T10:45:00Z
+    webUrl: "https://www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11"
+    ampWebUrl: "https://www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11?amp"
     type: article
     provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 51
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/14085256_112023-kabc-newsmakers.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://i.insider.com/655d34449c7d23cb3b9e85ad?width=1200&format=jpeg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "The evolution of ethics in an age of AI and big data"
+    excerpt: "Over the past decade, advancements in big data and artificial intelligence (AI) have drastically transformed our world, creating many new opportunities, but also giving rise to many challenges, particularly about ethics."
+    publishedDateTime: 2023-11-21T08:17:00Z
+    webUrl: "https://it-online.co.za/2023/11/21/the-evolution-of-ethics-in-an-age-of-ai-and-big-data/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 54
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2023/09/Professor-Yudhvir-Seetharam.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Partisan Media Bias Shapes AI Sentiment"
+    excerpt: "The study highlights the significant role media plays in shaping public opinion on AI, especially in the context of political discussions and policy-making."
+    publishedDateTime: 2023-11-22T21:41:00Z
+    webUrl: "https://neurosciencenews.com/partisan-bias-ai-25248/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 39
+    images:
+      - url: "https://neurosciencenews.com/files/2023/11/ai-politics-neurosicnee.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "x36UtUsl4BgiI/K+Yca9Z5sgmu8OeS0l2Pjr2iwYVUMplYeqHDu9H97tLELl2Y86+BiwkkAdSCOpwa+RM90nRGQGO24JJW2BapgIHnnPzG93Lr8l2EjjtczLgDx465dZCbn0A3QuRsfZ8yp+b92x/IWohBMHUBK5GSPhcFUvMpwRAP0SLswaWmNd1rDuT3rCoTv4SyEeXLZg16ipsKLNTp1tz/ruM9KLzdXsdiXHb5vvIZkCBxTvKpCuPEndcxAPhIyR+p0pSPzhGkCLdf5nGDej4101SY7d0S8HO74L3u6QuddOW6LDPBGneQ2REy0dNyJe2XFVMJ+MzOlvhElzvM+scDALj/Ek6TpNBqwap8E=;HEbVW++4lUtMJA7nBKBNjg=="

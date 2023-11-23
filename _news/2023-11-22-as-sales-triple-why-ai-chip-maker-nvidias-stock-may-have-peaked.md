@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple
 webUrl: "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/"
 type: article
 quality: 81
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 39
+  - title: "Nvidia dominates AI market, where are the limits to its growth?"
+    excerpt: "Nvidia again presented quarterly results last Tuesday that were above experts' expectations. Still, investors are wondering whether the company's"
+    publishedDateTime: 2023-11-23T10:43:00Z
+    webUrl: "https://www.techzine.eu/news/devices/113601/nvidia-dominates-ai-market-where-are-the-limits-to-its-growth/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "NVDA Stock Forecast: Do These Recent Updates Make Nvidia a Buy?"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While Nvidia (NASDAQ:NVDA) may not fit the traditional mold of a retirement"
     publishedDateTime: 2023-11-21T12:24:00Z

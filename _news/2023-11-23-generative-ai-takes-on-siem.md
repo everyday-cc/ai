@@ -66,6 +66,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 84
+  - title: "Three-quarters of finance executives expect generative AI to replace them"
+    excerpt: "NatWest is tapping IBM’s data platform, as well as the IT giant’s Watson AI technology, to create Cora+ as part of its customer support. According recent research from IBM’s Institute for Business Value, over 40% of banking and financial markets ..."
+    publishedDateTime: 2023-11-23T10:03:00Z
+    webUrl: "https://www.computerweekly.com/news/366560698/Three-quarters-of-finance-executives-expect-generative-AI-to-replace-them"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 55
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/large-language-model-LLM-generative-AI-chat-gpt-peopleimagescom-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "AWS's generative AI functions support Taiwan startups innovation"
     excerpt: "The rapid development of artificial intelligence (AI) has changed many aspects of our lives. In particular, the launch of generative AI at the end of 2022 has created a large wave of technological innovation,"
     publishedDateTime: 2023-11-22T07:58:00Z
@@ -173,6 +187,6 @@ related:
       domain: dqindia.com
     quality: 19
 
-secured: "JgigB420vk1UdYxs8GgnfleMWRsrkTP7PkJXlIJOP8EZ3lOm5u8gfrDEDAz4wd/zZtfUhNSDC06ReKHjK05ZNilw5qo3ThF6q8YlHhPAGl9q7UolQcnNTY0Y2K5G4eFP+k59BvqzzuFw5yE7Z1DIzyJ1+s6ihXO+W8e0fLtXafvIdI5z+2wRQanHkdamUtqon0NorbDGgqUxoT226h9KpWNWVo5CaYshWehK0wIS9/j6BugTZ23X7dA4OBy34hvu+00zNeGVpq400IYtOqyhUD5CH+q0Cpb6z82hFZ6iX8ddkk0a+LDlLRjln9rD5JMgEajOvwwSSMgShVY8uv46+6rYFgNkJgxoAUFObx4iB9k=;26XGVBrVJo+ZNub+vfDTBw=="
+secured: "6nMh1KogJkPkCle/ZaPN88QFihDOkq74oz3KJzzWFx+iiy5rStIPHD2kdj7CMwCAEZcoz53W+IkJIqxGENpXZgw58WRGnGskQo4ML918M8WJ4T/M/fJHLob/Emde9idEUVHUs8q7NXhgDcA40yDe/Nnsq1UxHcEdoeK0GOcYFIl/K1avcaPuBORinXXg39R0mD+xlFRQd/xy2mWQZf4S9iWNR7aoT3OJqkuKRPb+T8icKCXri90x2paF48vB6hXCwqRhxqOOWOHrO9uhitIasE10lQgpta5sMZFAInDZifFXepi9DTgYSYhdetTTPX/IwtehO8K4uihiVAnkeVLVhX6fZB3rnCY6gvnieCFb6ptwAzJ7TVQRKV2lJMeADsEL8IwkBtFoyYCvyZWzDYqNqSGlMRBHZOPL2iLbpxjYtXMY2i25A3BY1kUALq8l8Rlxsizx9Pn7eT6wbtY8GKJrcHqVkHlBxDL/sbGIjsZ+zNE7K7uc9Xff5tsCqLv9aY/RIaFGg7XJ3ffug4ewmVdM+w==;rHRQMv3FvgYML/SiuHUZjA=="
 ---
 

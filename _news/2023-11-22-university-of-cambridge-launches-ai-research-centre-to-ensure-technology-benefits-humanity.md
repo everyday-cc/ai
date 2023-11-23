@@ -7,7 +7,7 @@ originalUrl: "https://www.itv.com/news/anglia/2023-11-22/new-research-launched-a
 webUrl: "https://www.itv.com/news/anglia/2023-11-22/new-research-launched-at-university-to-ensure-ai-benefits-humanity"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "AI, sustainability to shape data centre trends in 2024"
+    excerpt: "Vertiv forecasts a strong focus on AI-enablement and energy management in the global data centre industry, heading into 2024."
+    publishedDateTime: 2023-11-23T10:32:00Z
+    webUrl: "https://www.itweb.co.za/content/wbrpO7g2jnJvDLZn"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7g2jnJvDLZn"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2jnJvDLZn"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/11/Giordano-Albertazzi-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Artificial Intelligence, sustainability at ‘forefront’ in 2024: Vertiv"
+    excerpt: "Intense, urgent demand for artificial intelligence (AI) capabilities and the \"duelling pressure\" to reduce energy consumption, costs and greenhouse gas emissions loom large over the data centre industry - and will be at the forfefront - heading into 2024 ..."
+    publishedDateTime: 2023-11-23T02:57:00Z
+    webUrl: "https://itwire.com/it-industry-news/strategy/artificial-intelligence,-sustainability-at-‘forefront’-in-2024-vertiv.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 52
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/a1770fd13a35220da1cafb035a7ed839_M.jpg"
+        width: 375
+        height: 563
+        isCached: true
 
 secured: "mYRM4lTGW5xppPYdX+atERExv+92nnAC7Dy+L3rpZ5qn4Yp7d6pxv/QF41V+52taLdB8ZHNpojj/kpgKt0tMO8vcvUlxb0ODEdr7x/E9zgpaU07j9kN/Cm/FF8sHnkW/CFv17Fkq8eb0w2PjtTWoeLWFThwr/0jZAFVTvUk2snVj3QAmOX0AdDsUrfu1dR8BsTrrL5OQ5rjeUl2lXzOrCjD3GqN7OMogVlr/GCzM3cBL1dRmigrgO7qBXCcz3EkxvFTUCsVSGt0L7Stxz3YLyrM6iLc1SwtxMgLLvWJiKqXienJN8JW2bjfNkZSMowNleSV7wDOFyIp2L78/KboJl2JMOOEhwwdy6jfUeZbVkls=;UfLVL85T1J4AhjAo8X2K6A=="
 ---

@@ -80,19 +80,21 @@ related:
         width: 952
         height: 525
         isCached: true
-  - title: "The evolution of ethics in an age of AI and big data"
-    excerpt: "Over the past decade, advancements in big data and artificial intelligence (AI) have drastically transformed our world, creating many new opportunities, but also giving rise to many challenges, particularly about ethics."
-    publishedDateTime: 2023-11-21T08:17:00Z
-    webUrl: "https://it-online.co.za/2023/11/21/the-evolution-of-ethics-in-an-age-of-ai-and-big-data/"
+  - title: "Law enforcement using AI to solve crimes, including 2020 Nashville bombing"
+    excerpt: "It was during the quiet early hours of Christmas morning 2020 when a bomb went off, killing the bomber and destroying Second Avenue and Commerce Street. In the initial days and weeks, artificial intelligence played a critical role in the investigation."
+    publishedDateTime: 2023-11-23T09:00:00Z
+    webUrl: "https://www.wkrn.com/news/local-news/law-enforcement-using-ai-to-solve-crimes-including-2020-nashville-bombing/"
+    ampWebUrl: "https://www.wkrn.com/news/local-news/law-enforcement-using-ai-to-solve-crimes-including-2020-nashville-bombing/amp/"
+    cdnAmpWebUrl: "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/news/local-news/law-enforcement-using-ai-to-solve-crimes-including-2020-nashville-bombing/amp/"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 54
+      name: WKRN-TV
+      domain: wkrn.com
+    quality: 55
     images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/09/Professor-Yudhvir-Seetharam.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.wkrn.com/wp-content/uploads/sites/73/2021/02/brix.jpg?w=1280"
+        width: 1272
+        height: 718
         isCached: true
   - title: "Riding The AI Wave And Investing In StarUps"
     excerpt: "AI startups have attracted billions in institutional funding ... deal flow in the Artificial Intelligence space and interest in investing in some of the 2021 startup darlings that now trade at significantly discounted valuations.” For investors who ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://fintechnews.ch/wp-content/uploads/2023/11/Juniper-Research-Releases-its-Top-10-Fintech-Payments-Trends-for-2024-Amidst-Unprecedented-Technological-Shifts.jpg"
         width: 1024
         height: 567
+        isCached: true
+  - title: "Where to find fintech investment"
+    excerpt: "Despite fintech investment in 2023 falling, UK fintechs are still attracting more VC investment than all other EMEA fintechs combined"
+    publishedDateTime: 2023-11-23T09:24:00Z
+    webUrl: "https://growthbusiness.co.uk/where-to-find-fintech-investment-2571193/"
+    type: article
+    provider:
+      name: Growth Business
+      domain: growthbusiness.co.uk
+    quality: 24
+    images:
+      - url: "https://growthbusiness-production.s3.amazonaws.com/uploads/2023/11/GettyImages-159175682-scaled.jpg"
+        width: 2560
+        height: 1706
         isCached: true
   - title: "Pakistan Pavilion at Singapore Fintech Festival showcases innovation, collaboration"
     excerpt: "The annual Singapore Fintech Festival (SFF), a global congregation of fintech firms, witnessed a significant representation from"

@@ -69,6 +69,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 39
+  - title: "Nvidia dominates AI market, where are the limits to its growth?"
+    excerpt: "Nvidia again presented quarterly results last Tuesday that were above experts' expectations. Still, investors are wondering whether the company's"
+    publishedDateTime: 2023-11-23T10:43:00Z
+    webUrl: "https://www.techzine.eu/news/devices/113601/nvidia-dominates-ai-market-where-are-the-limits-to-its-growth/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Nvidia fails to satisfy lofty investor expectations for AI boom"
     excerpt: "Nvidia Corp investors gave a cool reaction to its latest quarterly report, which blew past average analysts’ estimates but failed to satisfy the loftier expectations of shareholders who have bet heavily on an artificial intelligence boom."
     publishedDateTime: 2023-11-22T04:51:00Z

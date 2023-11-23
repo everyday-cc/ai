@@ -77,6 +77,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Where to find fintech investment"
+    excerpt: "Despite fintech investment in 2023 falling, UK fintechs are still attracting more VC investment than all other EMEA fintechs combined"
+    publishedDateTime: 2023-11-23T09:24:00Z
+    webUrl: "https://growthbusiness.co.uk/where-to-find-fintech-investment-2571193/"
+    type: article
+    provider:
+      name: Growth Business
+      domain: growthbusiness.co.uk
+    quality: 24
+    images:
+      - url: "https://growthbusiness-production.s3.amazonaws.com/uploads/2023/11/GettyImages-159175682-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "Pakistan Pavilion at Singapore Fintech Festival showcases innovation, collaboration"
     excerpt: "The annual Singapore Fintech Festival (SFF), a global congregation of fintech firms, witnessed a significant representation from"
     publishedDateTime: 2023-11-20T17:51:00Z
