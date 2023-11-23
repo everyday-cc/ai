@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/opinions/the-sam-altman-saga-is-ai-the-place
 webUrl: "https://www.pcmag.com/opinions/the-sam-altman-saga-is-ai-the-place-to-move-fast-and-break-things"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       - url: "https://kion546.b-cdn.net/2023/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG83cG44bzkwMDAyM2I2aWJibXUzczEw-L19wYWdlcy9jbG83b3o5Z3gwMDAwMjZwOGRydXRhazAw.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI breakthrough that could threaten humanity might have been key to Sam Altman’s firing"
+    excerpt: "Current programs like AI are good at writing and language translation as they predict the next word. Answers to the same prompt might vary as a result. But with math, there can only be an answer. Once math is conquered, AI will have greater reasoning ..."
+    publishedDateTime: 2023-11-23T11:51:00Z
+    webUrl: "https://bgr.com/tech/ai-breakthrough-that-could-threaten-humanity-might-have-been-key-to-sam-altmans-firing/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 33
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/11/openai-devday-2023-chatgpt-1.jpg?quality=82&strip=all"
+        width: 1600
+        height: 817
         isCached: true
   - title: "Sam Altman was the trusted face of AI. His firm, though, is much more complex"
     excerpt: "The conflicts of interest built into OpenAI’s corporate structure may be a bigger story than the loss of its leader"

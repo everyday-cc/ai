@@ -35,6 +35,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Smart Reporting to Showcase Integration of AI in Radiology Workflow at RSNA 2023"
+    excerpt: "Smart Reporting is thrilled to announce its participation in the upcoming Imaging Artificial Intelligence in Practice (IAIP) demonstration,"
+    publishedDateTime: 2023-11-23T12:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/smart-reporting-to-showcase-integration-of-ai-in-radiology-workflow-at-rsna-2023-1032845570"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/JWCf3hd96gY1gRkT5qBPAQm2QWo1/1700577207816-0.jpg"
+        width: 650
+        height: 412
+        isCached: true
 
 secured: "ojPiCDqjRWlyTAIs0w9j+gyL8yweHMlUWp1ZEGGCQiyirXIukU4kDM+kQgCV4iaxmOHuzvcqIMEKXYr5RBAmeH5HHN9s80GXhDvBBCAdg0NSaMxmt/XoHqND1V6FyN000g42RgNzsa/SiDiB/qXN9002ouemAoUeg5LDTX1kONUvhFF2h3aqOrfJ/SGn7QHnnkR4+8ZXpAIm12q132u+FSdB1dL47Oa29yrc5y7+JpsU/AvQaIQRpsI/+ADwTaxzUftWZ9NiZykPGX1pPK+Cj3xuUONWChvpKutYjUgAWttmPPRBg0yLmay87wChP9O13n8La2POdBel7X9gDpyRuSGONcTaccITglJ4uIaYVlA=;Qh15sMMuj4GuHv26XfQ0QA=="
 ---

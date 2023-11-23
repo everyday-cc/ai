@@ -193,6 +193,20 @@ related:
         width: 845
         height: 535
         isCached: true
+  - title: "OpenAI researchers warned of powerful AI discovery before company chaos"
+    excerpt: "Some staff at ChatGPT creator believe breakthrough relates to startup’s search for what’s known as artificial general intelligence (AGI)"
+    publishedDateTime: 2023-11-23T12:39:00Z
+    webUrl: "https://www.aol.com/news/openai-researchers-warned-powerful-ai-103916487.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/41365508796aff005913473394bf365c"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial Intelligence's rival factions, from Elon Musk to OpenAI – The Washington Post"
     excerpt: "Inside Silicon Valley’s AI sector, fierce divisions are growing over the impact of a new wave of artificial intelligence: While some argue it’s imperative to"
     publishedDateTime: 2023-11-21T17:24:00Z

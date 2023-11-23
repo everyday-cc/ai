@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-excerpt: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-publishedDateTime: 2023-11-22T13:00:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/flywheel-collaborates-with-microsoft-and-nvidia-to-propel-end-to-end-ai-development-platform-on/article_f55b0323-e3b0-5c74-ad30-a42ffa6c085d.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/flywheel-collaborates-with-microsoft-and-nvidia-to-propel-end-to-end-ai-development-platform-on/article_f55b0323-e3b0-5c74-ad30-a42ffa6c085d.html"
+excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
+publishedDateTime: 2023-11-22T09:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
+webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/82/88207655-8f12-515a-8c15-0b5a2b86f6e2/655e0bf9be8a5.image.jpg?crop=1771%2C930%2C0%2C39&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "How Might Open.ai Outcomes Impact NVIDIA, AMD, Intel And Microsoft?"
@@ -325,15 +319,6 @@ related:
         height: 280
         isCached: true
   - title: "Schneider Electric drives Generative AI productivity and sustainability solutions by integrating Microsoft Azure OpenAI"
-    excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of working• Collaboration with Microsoft in artificial intelligence is f"
-    publishedDateTime: 2023-11-18T13:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35862268/schneider-electric-drives-generative-ai-productivity-and-sustainability-solutions-by-integrating-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-  - title: "Schneider Electric drives Generative AI productivity and sustainability solutions by integrating Microsoft Azure OpenAI"
     excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of working Collaboration with Microsoft in artificial intelligence is focused on creating innovative solutions"
     publishedDateTime: 2023-11-20T09:01:00Z
     webUrl: "https://www.sinchew.com.my/news/20231120/mysinchew/5140310"
@@ -343,6 +328,6 @@ related:
       domain: sinchew.com.my
     quality: 25
 
-secured: "Wm6OHT0CC3GgK6Cv8Y626S0P+iGwR42cDEWEmWZXGcVv+oo7YyFJrKtFQtnPaSq9TH51ZlGb2XAtNWVemj5snnNun0YFx6gfrp0emiReGZ2BWH0kdTxmvL5YCQXWzbslYBGwkw5/z0ysOT9r2S/rAF+dtGWU6uD35LbKhgIy1uRIwmzudr6dQT0kDIQ4a1ZYBZp+B7ARYLs7jKmNeqvWgyWfAF34xgmqCND10CB8caijNVVwe0wsISm0dyY/63OCmOCtILNLEWd5h/nxjgCILUYuGAY/WG3nUgTfRBx6uVyLwtbjl34DILjCDf73worKHQfzFshtYfHx+9f99Isqz7PEMRkJGS4xFbnB+mKqBD4=;3OLL7HaN7BV7vSQ/SDHehQ=="
+secured: "N+74lcdvwJGGnZ5ckQtNiw3km+wmNmnfOtfNw1QuJrOEdn/1hYYUKkL8vTXBYUIwWANZKXFRjAIrI8rJGWRfkHjChDkKO6/kJYM3NyNLHWhvBlh+ibxazfoXbQa1uP/cAAjXIdCvKrMwM6hf5GuIHf080wEaVEVH8cKqBkSj1vAxO0Z6r6b22EntwuqsHRQn4sPT2/XHlSWo/GtxSW2zwscasU5RFRo5UWBfaq1CsHcOj7zZzxQyfO8orbN1Bxz0gZqy/aSaQ5FLo5g61g7XGFxFYtL83mBHJ//2BO//46LwzXunPjpeVMixQIhPlUbbfFQRmFpMhnQDsiNWWzvfcbumExvWQagn25cJPMe0cUI=;BAfhPdFxjM/JHprZYi2F5A=="
 ---
 

@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI breakthrough that could threaten humanity might have been key to Sam Altman’s firing"
+    excerpt: "Current programs like AI are good at writing and language translation as they predict the next word. Answers to the same prompt might vary as a result. But with math, there can only be an answer. Once math is conquered, AI will have greater reasoning ..."
+    publishedDateTime: 2023-11-23T11:51:00Z
+    webUrl: "https://bgr.com/tech/ai-breakthrough-that-could-threaten-humanity-might-have-been-key-to-sam-altmans-firing/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 33
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/11/openai-devday-2023-chatgpt-1.jpg?quality=82&strip=all"
+        width: 1600
+        height: 817
+        isCached: true
 
 secured: "GJxWNMdeyUJ+8cPBQ0EdREDm4AtwCDCHXS5KDiMjuJRe3gxOMbGJOxoROFgu9Uhi+Ya+o9CTnAPqzFl81UssPtooOLCIwzrKpV+yoBTG5bsRwl5lsUn8DJIY7IIstjYH2xC190mnCNMMvdVFI2X+PKuSMGbZvZD8qGQQs/FdNLu6RPG04N3/lj8hKeqzwf5Os5hN6TvDAvgpVWkJH/PvgDGeiljokC/oazyyDSKV9Y8YA2F5pNBND18eI0vQrUpFPakV1R703riI5YbT6VCqP72LUT186vfBzJRpqcBvXcJojWq/FnC83cYEVoD7LFUKx/nqy7ft9aP9S8GWX1b0WHERI+fQ+WV8JuBrCvjWsj61ANEh8hfQ+d2aBrx2DXJXmrrykicJMdCylIRaY7MAa13SEKVYcqEHeViwq9REis07xAheOaLvsvc6aktwngClXb3tUMLYI/vjizUL1C4lxT3lWJwh5+s73HYgObtavB+DDU6K68f5kKyuyRkg9lSFULhYOguWkJ7vyZdphvpBrQ==;Xbe6aadBQqTeowY+3e8r1A=="
 ---

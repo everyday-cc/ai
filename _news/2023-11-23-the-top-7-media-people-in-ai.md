@@ -69,6 +69,6 @@ related:
       domain: boisestatepublicradio.org
     quality: 17
 
-secured: "0puF5TiFi6tXqAWkt+9vgwIGNc/s69QnHf6iWEPnLk7YbwDFELUrKn25yCQT5Hsvsypl2s4OOhlSZn40ZgPdsS3zTNtUmqQ4uliPgKAIdiZRGiY7F6A3C0rqR+KDPzb81EeDdiT4tK/M10hqhjvum1sEUnfTA4UPp7/lt6UpHbdGbH9/65LuSYY0qahcpRu7BjoQIOwVTY7E+5fdozUFPnx0kdRs86gpdJU2r1zqi+iPXVLWHhd3vmioqkxZ5JjFG/CjhX5UL2QOtZt+AJTmgF6W20sm9tUOLMMlxQb5XMzUyEX0kRQ2ba4UTDgdMrguPvt+gsenxAqd+vdsH2KwkwBqW11Rj8QHYJqaN+/EUEg=;no15vLVm0EIeqH5mcg7heA=="
+secured: "0TSG+3bDezauENAbPlGRrMY0FyUpWDuoFm6aa/hBAfIGn7yZTANMm5VKFzUPJKpw/mT1JoQhOxyC6aVHr6z4Dy8AagJSZQiard3Gs440ib/NpZNEWdEDAH8t1+uhyAdketzho+ybWONWctuVY6/CJo88LIcMTNST8irZYJj+sWhHnZzyZ064R6L1KeEO0JedMc41zM/TSmBK8cmE92JNZzeQUdhpks/Nj6yG0UkcWAFh+yBuFN2LHNtDKOZ3Y5APx9TvqELqSp7EVCyUB1FuG+F85VvXA/XoXi+gF4wEFXXJBP2/OR4OJkRxyic0GjhxrKzb/JmkJtGeOV6k//G1vo9LalhLqaAvuVRdzot021s=;aJ3BIco+B3dAXC+qlL6O+A=="
 ---
 

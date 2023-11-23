@@ -7,8 +7,8 @@ originalUrl: "https://www.fmiblog.com/2023/11/22/cyber-security-in-robotics-mark
 webUrl: "https://www.fmiblog.com/2023/11/22/cyber-security-in-robotics-market-surges-ahead-with-a-striking-projected-value-of-us-11-6-billion-by-2033/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Future Market Insights
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Educational Robots Market Expected to Reach $5 Billion by 2032"
+    excerpt: "The global educational robots market is poised for remarkable growth, with projections indicating a substantial increase in market value over the next decade. According to the latest report by Future Market Insights (FMI),"
+    publishedDateTime: 2023-11-23T12:17:00Z
+    webUrl: "https://www.fmiblog.com/2023/11/23/global-educational-robots-market-expected-to-reach-5-billion-by-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 39
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/11/Education-4-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI in Drug Discovery Market to Surge at a Revenue of US$ 8.10 Billion By 2030 | Astute Analytica"
     excerpt: "The AI in Drug Discovery Market is expected to reach a valuation of US$ 8.10 billion by 2030, growing at a CAGR of 25% during the forecast period from"
     publishedDateTime: 2023-11-21T12:51:00Z

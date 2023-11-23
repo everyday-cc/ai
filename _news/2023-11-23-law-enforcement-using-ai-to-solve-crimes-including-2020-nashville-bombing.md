@@ -58,6 +58,22 @@ related:
         width: 1118
         height: 618
         isCached: true
+  - title: "Fluency and Amazon to work on AI and machine learning"
+    excerpt: "Fluency, the data and technology division of M&C Saatchi Group, has partnered with Amazon Web Services on scaling artificial intelligence, machine learning and generative AI."
+    publishedDateTime: 2023-11-23T11:59:00Z
+    webUrl: "https://www.research-live.com/article/news/fluency-and-amazon-to-work-on-ai-and-machine-learning/id/5119763"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 76
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
   - title: "Morning Bid: Thanksgiving starters of AI and oil"
     excerpt: "A key catalyst for some of the outsize Big Tech share gains this year, the craze around generative AI will also top the agenda as chip giant Nvidia reports earnings on Tuesday tha"
     publishedDateTime: 2023-11-20T10:10:00Z

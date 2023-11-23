@@ -28,6 +28,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
+  - title: "CISA Roadmap for AI Cybersecurity: Defense of Critical Infrastructure, “Secure by Design” AI Prioritized"
+    excerpt: "CISA has released a roadmap establishing four overarching broad goals, with five more specific lines of effort that appear to indicate concrete immediate priorities. Defensive AI cybersecurity measures and plans for critical infrastructure adoption are repeating themes."
+    publishedDateTime: 2023-11-23T11:00:00Z
+    webUrl: "https://www.cpomagazine.com/cyber-security/cisa-roadmap-for-ai-cybersecurity-defense-of-critical-infrastructure-secure-by-design-ai-prioritized/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 2
 
 secured: "+fURIzcZytRjkKWVdpJ63j4E9c9MtlqtFQiniJDc7yiOiClZuuKmX2JgMyjlwnRNjRnGnWC79OY9pbl1SIsLSlHc4wfhSEaeejdG85vajnoRjsH1Dc8gwC/EhczT1FDdkmLRYKdjjK2IAcwseBickrfVBNC5lhLplXO/1CJxhBa/P7/lE1vHkmsbomziVJycYKmv4qgTzvM5a3wIZK+bFgXcrQykdqOKEboLD9c0Ln4oCcFuOPFTCgMYKyRedwnod0QSaaMNFTOjzsvGf1SxV0pS9Dc6K+JmI82Ye42iF5I0oVfA+ePYukr237+WGppKZ77+SRClIB7VkARsP1Dg/T7rBl2sekMHbIIe//jWsASNsTY40F4BPeJjfL32tc4CLyKSVXpPI35sl+uMDVF4gQ1zHLSX8RX6xrEn/T909SKIsUkOHtXxcLIIIWtImclDaqx1GGmXkb1fAF7cJJNG9F5eHOSjIdzMMv9O7arIcvR516SV6Q4BiA52D2CYbneUXcW2KelG5jOcH4GZw11/5w==;owgfcucyZg1FM9b/NN4m1Q=="
 ---
