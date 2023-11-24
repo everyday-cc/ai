@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-21T06:40:00Z
 originalUrl: "https://www.digitimes.com/news/a20231121PR200/ai-software-hardware-development-nvidia.html"
 webUrl: "https://www.digitimes.com/news/a20231121PR200/ai-software-hardware-development-nvidia.html"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://img.digitimes.com/newsshow/20231121pr200_files/3_2b.jpg"

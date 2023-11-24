@@ -243,6 +243,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT’s Voice Feature Now Available To All Users For Free"
+    excerpt: "Capping off a whole week of Succession-level corporate drama, OpenAi is rolling out a new ChatGPT feature to its free"
+    publishedDateTime: 2023-11-24T04:00:00Z
+    webUrl: "https://www.lowyat.net/2023/311539/chatgpt-voice-free/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 39
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2023/11/chatgpt-voice-1.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "AWS to power Yellow.ai’s AI-powered voicebot, chatbot solutions globally"
     excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions globally."
     publishedDateTime: 2023-11-20T20:26:00Z

@@ -83,7 +83,7 @@ related:
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://img.digitimes.com/newsshow/20231121pr200_files/3_2b.jpg"
         width: 1280

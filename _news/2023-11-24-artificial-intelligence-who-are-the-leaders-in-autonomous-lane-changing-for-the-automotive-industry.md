@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence: who are the leaders in autonomous vehicle ECUs for the automotive industry?"
+    excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
+    publishedDateTime: 2023-11-24T02:27:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-vehicle-ecus-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_autonomous-vehicle-ECUs.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Artificial intelligence: who are the leaders in autonomous on-demand logistics for the automotive industry?"
     excerpt: "The automotive industry continues to be a hotbed of patent innovation. Activity is driven by factors such as the growth of e-commerce, the shortage of truck drivers, the rising cost of fuel, the demand for convenient delivery options,"
     publishedDateTime: 2023-11-24T02:21:00Z

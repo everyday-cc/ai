@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 91
-heat: 361
+heat: 371
 published: true
 
 provider:
@@ -243,6 +243,20 @@ related:
       - url: "https://www.marketplace.org/wp-content/uploads/2023/11/GettyImages-1753524489-e1700602163153.jpg?w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "ChatGPT’s Voice Feature Now Available To All Users For Free"
+    excerpt: "Capping off a whole week of Succession-level corporate drama, OpenAi is rolling out a new ChatGPT feature to its free"
+    publishedDateTime: 2023-11-24T04:00:00Z
+    webUrl: "https://www.lowyat.net/2023/311539/chatgpt-voice-free/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 39
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2023/11/chatgpt-voice-1.jpg"
+        width: 1400
+        height: 1050
         isCached: true
   - title: "AWS to power Yellow.ai’s AI-powered voicebot, chatbot solutions globally"
     excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions globally."

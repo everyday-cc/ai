@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/amp/"
 type: article
 quality: 102
-heat: 562
+heat: 572
 published: true
 
 provider:
@@ -467,6 +467,20 @@ related:
       - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1700517350/231120-Anslow-OpenAI-tease_jwyhym"
         width: 1480
         height: 832
+        isCached: true
+  - title: "He’s back: Sam Altman and the chaos at the heart of the AI industry"
+    excerpt: "The CEO of OpenAI was sacked and then rehired days later, after staff threatened to follow him. But what does this corporate drama tell us about the future of AI? Blake Montgomery explains"
+    publishedDateTime: 2023-11-24T02:00:00Z
+    webUrl: "https://www.theguardian.com/news/audio/2023/nov/24/sam-altman-chaos-heart-ai-industry-podcast?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 37
+    images:
+      - url: "https://i.guim.co.uk/img/media/d4876b120477fefa6ed3e124024779fef07ef007/0_77_5392_3237/master/5392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=579b6731d066428c619e2d6ad34bc241"
+        width: 1200
+        height: 630
         isCached: true
   - title: "What the OpenAI drama means for AI progress — and safety"
     excerpt: "Stability AI and Cohere are other often-cited rivals. West notes that these start-ups rely heavily on the vast and expensive computing resources provided by just three companies — Google, Microsoft and Amazon — potentially creating a race for dominance ..."
