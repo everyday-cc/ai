@@ -40,6 +40,15 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "The fight for the soul of AI"
+    excerpt: "Can one organization, or one person, maintain the brain of a scientist, the drive of a capitalist and the cautious heart of a regulatory agency?"
+    publishedDateTime: 2023-11-24T19:41:00Z
+    webUrl: "https://www.seattletimes.com/opinion/the-fight-for-the-soul-of-ai/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "TKGiWKVZFSSHqJ1Bn6bMCeV5iOXb+tUNn4uCsuluMs2m7z3wnCXzxz0vjzkLomV46thLqAYGYJDgARnbChWyzPIrHGA9PjvWntQzH3wYuCAHpa2XROZVk4P8pwIL6GdsE3d1nPetLhGiqT4OZD5Rd3K50dZzaOMw43g081nfMmOTFTLPU2Wlkepv8cRENJNA5VF4bMvqQ1LSaZlDK5dO75DhfEYfLjQJWBT9CsXjxtg7EgiTcbuFM7e94GDVFhoJIDRkj+IcfN+it0VAccA0lg78/L4wBBMJC47iCMIW2+b6cBuQ7AusikkcbQYaDQnFFq+tHtoIIQ2StUSW3eIDlF0rEp60gZvPSFxAwYMF8NM=;oX4tacyZ9KmV4TJpL6cTTw=="
 ---

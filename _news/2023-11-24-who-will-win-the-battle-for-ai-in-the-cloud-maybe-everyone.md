@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-24T15:31:00Z
 originalUrl: "https://siliconangle.com/2023/11/24/will-win-battle-ai-cloud-maybe-everyone/"
 webUrl: "https://siliconangle.com/2023/11/24/will-win-battle-ai-cloud-maybe-everyone/"
 type: article
-quality: 41
-heat: 41
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -18,6 +18,9 @@ topics:
   - Microsoft AI
   - AI
   - AI Hardware
+  - AWS AI
+  - IBM AI
+  - Natural Language Processing
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/mathew-schwartz-5qRWQEdK7Sg-unsplash.jpg"
@@ -25,6 +28,6 @@ images:
     height: 3456
     isCached: true
 
-secured: "TEg+kVYIJhDk35JYTMLlbP+yko+6nM3+LWkHyh7AVqlYTcc5WNyUdeNvd/N8NNS7GKVoNYjf1/EJcpoOGMcPtd4CcrcLxp2Ayjd/q7hBxWGzy+wHyqh2+3X+fHGzZI9H1YDOBPp29QAZo+v33BgB+0AKnyj4rQ+QbSXoXeefHvASMh3VIF5m6SLqEpjLrEDw3M8GaIgmNaNkibeJD68jIhySKMhlug8Dwz0S81/rgMG0anF/5TMS2sw57MuVOYwXWMlRb7PQ+f8/R80+n8jERknhhEMLOVDePGVdpXOG7IHSICSvr1Q5Pt7BfKiHXCU1o93Y356olRBO9bvu9+BESdkBnstaAZNPioH2/BQlmP8=;BqBAVuFWEX/ib+Gx+9TpJw=="
+secured: "lNPtsyfUXdJzo+9duI0QeQX+R2mDKELKFXDlzVxpHlKhO5Np+ctSeRoXNewCqSUixUyjiBHg/qZgbO0lA++oYdnPxqk7qn4+xD80zQBubAnij7z4oXBlYUsvy+CVMoeoT0vIO8YiLgYc+P/f+oNlovQjOy4daE6uqKVn8YleL6YPsRWJDmjE8PXLEv+y/rDi5/JGAUD55t8veaT6fKLXPysqTjyhpnK2E9WLATWstWzHXG3tgUmAy2FKQcXKGepWfKjQQqzigR9mmSTuBgQHaFvpToxyg4NLcRShPVRmPFK7zM661cSv5Y7EzqJGqbXTeha3k4WbT+L67d50gVZSx1WuLxQ4ZKnAquU3eqwSpog5JAldzYXgebVNjcXXl+HnDJEOZwh1oXpvJB970cVvEqlF0xaLtqFo9VTDl4wQYiu81NtRFaJYXwKkOSYdP5svkL1v8tftwKObXzpeGEcAr4jriIQ6vUShTvB3SfnnDL/NgriECwXkByPkAAGV/cexSqezLcag22HT7ELxTil7Zw==;qygXfbeI+t+9m4htoz0qdw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/amp/"
 type: article
 quality: 87
-heat: 247
+heat: 237
 published: true
 
 provider:
@@ -124,15 +124,6 @@ related:
         width: 1272
         height: 718
         isCached: true
-  - title: "Riding The AI Wave And Investing In StarUps"
-    excerpt: "AI startups have attracted billions in institutional funding ... deal flow in the Artificial Intelligence space and interest in investing in some of the 2021 startup darlings that now trade at significantly discounted valuations.” For investors who ..."
-    publishedDateTime: 2023-11-19T19:27:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/11/19/riding-the-ai-wave-and-investing-in-starups/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Supercharging Your Mid-Market Brand’s Voice In The Age Of AI"
     excerpt: "AI can help you produce more content than ever before while maintaining your unique brand voice. But it requires some pre-work."
     publishedDateTime: 2023-11-20T13:45:00Z

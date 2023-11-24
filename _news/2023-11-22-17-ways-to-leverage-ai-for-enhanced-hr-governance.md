@@ -22,35 +22,33 @@ topics:
   - AI
 
 related:
-  - title: "How AI Can Be Leveraged For Diversity And Inclusion"
-    excerpt: "In the modern workplace, diversity and inclusion have become more than just buzzwords—they are crucial to fostering innovation, creativity, and a welcoming environment."
-    publishedDateTime: 2023-11-19T20:29:00Z
-    webUrl: "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/"
-    ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/amp/"
+  - title: "IBM Unveils watsonx.governance to Build Trust in Generative AI"
+    excerpt: "IBM announced November 14th that watsonx.governance will be generally available in early December to help businesses shine a light on AI models and eliminate the mystery around the data going in, and the answers coming out."
+    publishedDateTime: 2023-11-20T17:30:00Z
+    webUrl: "https://www.hstoday.us/industry/ibm-unveils-watsonx-governance-to-build-trust-in-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 56
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655a7b77d4a3a31792aee594/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://www.hstoday.us/wp-content/uploads/2023/11/gears-7147823_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "How AI, Robotics and Machine Learning Can Improve Food Traceability"
-    excerpt: "Advanced artificial intelligence (AI), robotics and machine learning technologies can help manufacturers improve food traceability, ensure the safety of their products and build trust with customers."
-    publishedDateTime: 2023-11-22T16:41:00Z
-    webUrl: "https://www.automation.com/en-us/articles/november-2023/ai-robotics-machine-learning-food-traceability"
+  - title: "Meta Wants to Build Generative AI But Not Responsibly"
+    excerpt: "Meta has done a little reshuffle, relocating their Responsible AI team to join the generative AI crew."
+    publishedDateTime: 2023-11-20T11:50:00Z
+    webUrl: "https://analyticsindiamag.com/meta-wants-to-build-generative-ai-but-not-responsibly/"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 86
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://www.automation.com/getmedia/682bf491-966a-43d0-af15-f52f9bba87fc/TM-robotics-feature-Nov-22-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/11/Meta_AIM.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "ZKxTnqiI6uXDS/8zxugphjzdkNXnZWpBoU3bgNV0ILE3odbkFDaq2crM0Ipm6ZcXWwD2Qn2wgCLPf2Yzh50j8IW/vvIdFwmedZ9XDd/wLkaKHkmD31X3T7J0l/DWyQSmTqrF7Kowqj6/X1t9lxIyTBr+bBTCozx3WQaOa3Dngv1aEcZ2tiqjfSTGg73slscm7yIfTvn7VZNL9Q1oqfELatmuj+/JeFO6xPNO+Rq7N/cRCZ5SN8XDwp5sdjL41+p2AfKcxlksRq4AlSb3m78JOeo2MiXkw1620J+HR2oaHRtvj2VrHhto01EtJFW8LntpqpMn1k0spH//DHG3M5rozZ2ioBBkognBwsEkOI7lqTyuNbFKQn4Ki7IBYB5Ca+35GSZCFkpqOi82woVHVt2runaku6UdAxiCaavRjtqYxyKHUY1vrVBL4QLJwEBp/pIfVJsp8QALgAadBGSaOldQ0OA5o3RZxrQDn6Upb18J88NFAcf7+29Nh20TBmKYhFnWGOyxashNQG8aTXEYPVSEMQ==;U+y8h9o2iByHMbfBTX8lJA=="

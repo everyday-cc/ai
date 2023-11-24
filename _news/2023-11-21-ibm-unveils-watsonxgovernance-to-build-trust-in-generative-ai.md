@@ -7,8 +7,8 @@ originalUrl: "https://www.hstoday.us/industry/ibm-unveils-watsonx-governance-to-
 webUrl: "https://www.hstoday.us/industry/ibm-unveils-watsonx-governance-to-build-trust-in-generative-ai/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Homeland Security Today
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "17 Ways To Leverage AI For Enhanced HR Governance"
+    excerpt: "HR can ethically use AI to enhance organizational governance by deploying transparent algorithms for talent acquisition, thereby reducing bias and fostering diversity."
+    publishedDateTime: 2023-11-22T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/11/22/17-ways-to-leverage-ai-for-enhanced-hr-governance/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Meta Wants to Build Generative AI But Not Responsibly"
     excerpt: "Meta has done a little reshuffle, relocating their Responsible AI team to join the generative AI crew."
     publishedDateTime: 2023-11-20T11:50:00Z

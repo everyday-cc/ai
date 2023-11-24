@@ -364,6 +364,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
+  - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
+    excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"
+    publishedDateTime: 2023-11-24T20:22:00Z
+    webUrl: "https://www.inferse.com/804736/elon-musk-unveils-new-artificial-intelligence-bot-to-rival-chatgpt-time/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 16
   - title: "Anthropic updates Claude 2.1 AI chatbot to process bigger files and improved safety"
     excerpt: "Anthropic, an artificial intelligence startup geared toward building trustworthy AI models to rival OpenAI LP’s ChatGPT, today announced an upgrade to its Claude chatbot that advances its core features with significantly improved safety, a much larger context window and a new third-party tool use feature."
     publishedDateTime: 2023-11-21T19:23:00Z

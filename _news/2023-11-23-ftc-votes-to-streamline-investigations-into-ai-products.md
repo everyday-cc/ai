@@ -24,6 +24,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Can criminal investigations rely on AI?"
+    excerpt: "Incorporating AI technologies in criminal investigation can expedite the process, generate high-quality leads, and enhance law enforcement efforts."
+    publishedDateTime: 2023-11-24T21:12:00Z
+    webUrl: "https://www.biometricupdate.com/202311/can-criminal-investigations-rely-on-ai"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/11164314/crime-scene-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+
 secured: "2eKwzNcdwEehoSboqjeQ1EexJyGrFKbPHvV9/ksciiQOHyFyFplXc1191nIMJYLyQx/sM9H5jjaU3x+1fhYzqnhaPfSxyvWihr4RgiQ2W2Jlz3ZAYL98clxMxaqeAW7FBs0oyeO2eepxRCc0RAJFzLO55R3NL8ynB/TAnoubhX/mtlElDZhpA8XoEKN5qM09Bd2g+gfeu4yX0KLLs080WFQBQ0VgfZuG811jzkpK3Y+YLriRza3OvPkzRT0LYYcQ3+pobRF+TOsUPy4WHO7wCnQjirLQP5mjq05neAEujTgo/u/OLv5aPCOYTvyavbKXjmNCynEA7PWAi4oCaubmc5YQH+H8+54eqsTShI2klha9tbcfclH/yZOgEOefgYCFm3J5k2i2io3iV1O4/QG0i7/7tr8Zq1pBgXOBNMh5yomcs0HRs20MivfT9oztBmW8eAmokcszsi+kSZX/pqiHxKtjnOAnqHd6cXUTZ/of9GWo5qAyhARX1H9mVGvJuIg0wjCYPu+z7Wl0jtdolUjHBA==;NZkXbxIGLoNQC1BA83EMuQ=="
 ---
 

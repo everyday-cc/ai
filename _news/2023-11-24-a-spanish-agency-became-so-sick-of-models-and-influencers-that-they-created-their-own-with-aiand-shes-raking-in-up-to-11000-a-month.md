@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "This AI-Generated Influencer Can Pull In 10,000 Euros A Month"
+    excerpt: "The thing is, Lopez isn’t real. She’s AI generated. She’s also a successful influencer. She can make up to 10,000 euros a month (more than $10,000), according to the Barcelona design agency that created her and maintains her peppy social media persona."
+    publishedDateTime: 2023-11-24T22:00:00Z
+    webUrl: "https://www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated-influencer-can-pull-in-10000-euros-a-month/"
+    ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated-influencer-can-pull-in-10000-euros-a-month/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated-influencer-can-pull-in-10000-euros-a-month/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65610e780a47ac89c02b5e9e/0x0.jpg?format=jpg&crop=796,447,x0,y76,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 898
+        isCached: true
   - title: "An agency created an AI model who earns up to $11,000 a month because it was tired of influencers 'who have egos'"
     excerpt: "Aitana López is a Spanish AI model and influencer with 124,000 followers on Instagram. She was created by a Barcelona-based agency."
     publishedDateTime: 2023-11-24T12:36:00Z

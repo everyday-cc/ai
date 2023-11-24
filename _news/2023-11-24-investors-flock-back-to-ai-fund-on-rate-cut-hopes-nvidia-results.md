@@ -2,11 +2,11 @@
 category: news
 title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
 excerpt: "An exchange-traded fund tracking artificial intelligence stocks saw investors pouring money after six straight weeks of outflows, on the backdrop of strong quarterly results by chipmaker Nvidia and rising optimism that U."
-publishedDateTime: 2023-11-24T15:11:00Z
-originalUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html?ref=biztoc.com"
-webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html?ref=biztoc.com"
+publishedDateTime: 2023-11-24T12:10:00Z
+originalUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html"
+webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html"
 type: article
-quality: 37
+quality: 19
 heat: -1
 published: false
 
@@ -15,13 +15,8 @@ provider:
   domain: aol.com
 
 topics:
+  - AI in Robotics
   - AI
-
-images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/15956a8a29bc3c93c3b3f2c772ea148e"
-    width: 800
-    height: 533
-    isCached: true
 
 related:
   - title: "Nvidia Q3 Earnings Explode On Surging Data Center AI And Gaming Demand"
@@ -340,6 +335,6 @@ related:
       domain: thestreet.com
     quality: 11
 
-secured: "C0BC/29PQzGkQDoOkM5N32ioh3vq5/kTyV4XnzF6hde9XqxTX2x3xJYq32Ha+alx5JoXKxKnM9b7u1dkrX4tusm9kJYgIaO0OXvA5DJRYT0ZlFKDbdjs31mvyirVqou48bOFXCIGKT4g6R+OmXUQziHdZ6/jK7i/i9YM+NB3+jGUkEfTbYxVEhc9J5H+HWx/b438hfaqMvwWZNw81RTjkpyG17mZcW6nmf0E53g3FlW/rr1Gx2T1CR6kX2lUbdqN0SD2xLqwpRMVj4WDsC76ZzG6apRD9xhuvKCYpIZMUgB2UK3Pn/+YdfJ/lZigkZAS/vhs6FBY/poZbkcyYPtkRID/YLVmNNn0Sqrl56ewsLE=;nNUYi/EeT8fLQZxAtuZxkw=="
+secured: "S1jjX9B2x5zxVd9RXj1HO3UYJNo7Q7LUyGBTy1KWPeNpjigKJntoqwkWe8kv2tUV2mMaxKwmbkcR7/8UKz2g18ypuxICn2UCVvpeADgVGbBbD3ctOEGRaJyNOtflmpQ5Y6m1vfRJDUPPc3JW5lk1hVsdQTMN0YGAtVjQ4/SWX30vWmx8TtcxEdRguLt08kQaF3lb0kzmZ1jplETg3vryYoe0Cr899JKQvpzYKBX1BZ99Oqavs8ffz8Tr35FK0cO6MjrC/wrzaCvjsnlRnxAd5GvV1tmb5W3YzrHXhwIgtYkx2QZkbbtZZ9hy0eN4aV5xCssxUgPmbdABp67FKEZ1zj9eh6qVhLKp2kZu48as08mPOnQdT/knDtL0s5c7crMc3Itc+ZQLIpJedXIWr2bdoRLYDc7O4t8ljIyJPpVQLd6J+xhDB22sl0HJDpq++f96Iv5ABtEM9dR/uyEvAtiJ6agg5uyUGUD6rUkqp4ES05TZdoLVaZF+Wh57dABmDqrKidqL2m0Uc1W39UzzazLgNA==;vXI/UYlnvg/IgO92DTazKQ=="
 ---
 

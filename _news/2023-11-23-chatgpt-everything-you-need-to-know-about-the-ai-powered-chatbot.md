@@ -354,6 +354,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
+  - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
+    excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"
+    publishedDateTime: 2023-11-24T20:22:00Z
+    webUrl: "https://www.inferse.com/804736/elon-musk-unveils-new-artificial-intelligence-bot-to-rival-chatgpt-time/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 16
   - title: "ChatGPT gained 1 million users in under a week. Here’s why the AI chatbot is primed to disrupt search as we know it – Fortune"
     excerpt: "We are all used to entering search queries online and getting relevant links in response. But what if you could get an instant answer from a robot? And what"
     publishedDateTime: 2023-11-24T08:11:00Z

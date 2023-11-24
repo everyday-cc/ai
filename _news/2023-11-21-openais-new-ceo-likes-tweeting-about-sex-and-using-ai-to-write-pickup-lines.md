@@ -38,6 +38,20 @@ related:
         width: 1103
         height: 735
         isCached: true
+  - title: "How AI, Robotics and Machine Learning Can Improve Food Traceability"
+    excerpt: "Advanced artificial intelligence (AI), robotics and machine learning technologies can help manufacturers improve food traceability, ensure the safety of their products and build trust with customers."
+    publishedDateTime: 2023-11-22T16:41:00Z
+    webUrl: "https://www.automation.com/en-us/articles/november-2023/ai-robotics-machine-learning-food-traceability"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 86
+    images:
+      - url: "https://www.automation.com/getmedia/682bf491-966a-43d0-af15-f52f9bba87fc/TM-robotics-feature-Nov-22-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Using AI at the State Capitol to detect guns"
     excerpt: "Here are five stories you need to know to start your day. It’s almost time for the high school football state finals and at the end of this playoff run, there are just two local teams remaining who will head to Ford Field this weekend: Ubly and Corunna."
     publishedDateTime: 2023-11-21T12:43:00Z

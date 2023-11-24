@@ -2,7 +2,7 @@
 category: news
 title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
 excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
-publishedDateTime: 2023-11-22T14:42:00Z
+publishedDateTime: 2023-11-22T09:00:00Z
 originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
 webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
 type: article
@@ -342,6 +342,6 @@ related:
       domain: sinchew.com.my
     quality: 25
 
-secured: "gbXauagUi36pAa8wv48JBk6N/yMAJh9kBZyET5Nv8PMJquHbH8uc5hux6K0wdhw5hsrU3w26utltM0x1r3CpaoiMDaOoT81rmjSuMy91WcitvHLPvYkkXVtdNvQ90Zys0vIPMtBKf6dP1vK4ZCxi++OyorXUriysRIWZwyuDO5yv8kzVwSopxYAl9/DHj/7Xoqt2RfONNygQTe+1bTVBKnzwhNLxLPnHtrvZf8DUHTurkQiX+nkwhIcaoIIcgT23EeECbXvGh2GrFFMKeBctBRbX3putP/8CI46+jZdYiGpHmbLnU4QFXch6jllh2Jq0+ob2b5xr+XJ8veqbniBcPVmcuU7cI+Db4DDxK9s8j/Y=;JqlQFHptS6VwuIPsprGABA=="
+secured: "72x7nMLRcxImS7bL/JEdCyuP5GJxoa+07Z4jqGWQS8GQafX120aacJb+6+8PPI9HFJlcE0Gfi/w6v3/5/8I047nr8ZBAHL8iyQqMgjAbBuSEg+hFv4al+uWi4FoJyem7b3J5BlCvxOamNz48VzEUF8FhWtCbimo0m9OdpP0DGP7Ub6fZC93+UyKJEMbq9kdaOOIN6lj+8hiGmjsJJNImXz7VOBKRg84VrosJ5/Xrf9ySoP6a1zx/UjUkJWIrTGhduPyOKD5c9rrYSzwXLU20HreDdnrpp4Qe+01KabZHji11GArGwQ+IvMcOR6El6eiVLwVD/VI6zcLfTrET2Lmu8mEcJd2T68b5qIMJ0IlxveM=;o9x0cxlOfpF5d6SqMroWZw=="
 ---
 

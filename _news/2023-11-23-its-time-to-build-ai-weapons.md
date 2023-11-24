@@ -23,6 +23,17 @@ images:
     height: 1440
     isCached: true
 
+related:
+  - title: "Good AI, bad AI: Decoding responsible artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is so hot right now. ChatGPT, DALL-E, and other AI-driven platforms are providing us with completely new ways of working. Generative AI is writing everything from cover letters to campaign strategies and creating impressive images from scratch."
+    publishedDateTime: 2023-11-24T19:17:00Z
+    webUrl: "https://techxplore.com/news/2023-11-good-ai-bad-decoding-responsible.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 34
+
 secured: "mWwYA/jFoPvuN5px8+Wwlpn5kEv97jVyxaZVJnm84lxyCxEED3tXxiKCvI7tQj1em5PTUq3zgsOHpsujbnlOmpnBIFIwTV6mGVkZd2ctbDhA9h6UdlxrPCkPh3XCiQukFooTi+0Js3A1oCO7HdRvqv65ZhkC1bMpc4wzgyOjuNUpAGsdLqC9xFZaTmSlsZ1+kxJTWnltCePU2F04XABHnnaJf4Hp9pXp+R05tCvlXK4Bn8PwAI7XWgnTWkYb+cMS3cjHADB64hep+kB/cfWWAnlwSorpElc88i+hHu0k7X15uKqEBqQ4tqWIfVxpXxVG2avzI0BC2krnMYRa63h4nbRFkCD/5L5IaOsutEKajow=;3GxLfxuyPGcJei7izYkfpA=="
 ---
 

@@ -43,6 +43,15 @@ related:
         width: 2250
         height: 1265
         isCached: true
+  - title: "Tesla starts releasing to employees FSD v12 – a critical update to self-driving effort"
+    excerpt: "Tesla has started releasing to employees its FSD v12 update, which is apparently critical to Tesla’s achieving its self-driving"
+    publishedDateTime: 2023-11-24T19:14:00Z
+    webUrl: "https://electrek.co/2023/11/24/tesla-releasing-employees-fsd-v12-a-critical-update-self-driving-effort/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 41
   - title: "Tesla Full Self-Driving in process of entering Chinese market: reports"
     excerpt: "US electric car maker Tesla said its Full Self-Driving (FSD) function is now in progress to deploy in the Chinese market, as reported by the Chinese media outlet CHINAFUND on Thursday, citing sources from Tesla China."
     publishedDateTime: 2023-11-23T16:47:00Z
@@ -57,6 +66,15 @@ related:
         width: 1009
         height: 673
         isCached: true
+  - title: "Crash lawsuit over Tesla’s self-driving technology can proceed, Florida judge says"
+    excerpt: "Tesla must defend itself in a lawsuit accusing the company of gross negligence with its self-driving technology, a Flordia judge ruled this week."
+    publishedDateTime: 2023-11-24T19:40:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/nov/24/crash-lawsuit-over-teslas-self-driving-technology-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 13
 
 secured: "yc6YbSb5Jamz+lHtaWZYgTXGy4xH6D0RJYlfxPzA3zn5VXkhmwspt7iqj6EUn+5zNKEqrgdBecCXjTXtnEnaxbqwOyT1+D6O6qtk+QcqXlJxo0bKdiE5dihMdkyNf4O1wVdie7DUYqD9l3t/0auKQzdYGKf0NMxwWnucBt/VZefugprdoIrpmxLL7C06sQdgH4LionbLdUA/QgHsP5RgJCSvY5jQxqVkS8isPLV+eFODysyG/izkSs5LoYusvX4ogdevgWMwSxW7FnwJCfbLACf8ERSLgUDViQoy7clIk3MOsYtQftg6s7Eeu3QfBsyhzKy6UluuUHzprTdy80qVjX2beRS+CQFb2BkeeSJhbf+a1OwBuGMCTUSJ4cIZT/5iXNMyRBCYLT0YKsUBhEiHzCGJ7HAKSspKTy5aiGTrbdortK9hK96BIiKwMvpMYF/CLgzKQWBZPuvFvYGuIweBCwqttdjK9Wfle8vTIAQ3oB6spUpQaOy7KZ/j8Vg58iDZDMGZEfYBenwBRutsZ/a7ww==;xw+GTzdqqbTbCbm9zmNScg=="
 ---

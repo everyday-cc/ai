@@ -41,6 +41,15 @@ related:
         width: 2250
         height: 1265
         isCached: true
+  - title: "Tesla starts releasing to employees FSD v12 – a critical update to self-driving effort"
+    excerpt: "Tesla has started releasing to employees its FSD v12 update, which is apparently critical to Tesla’s achieving its self-driving"
+    publishedDateTime: 2023-11-24T19:14:00Z
+    webUrl: "https://electrek.co/2023/11/24/tesla-releasing-employees-fsd-v12-a-critical-update-self-driving-effort/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 41
   - title: "Austin launches new dashboard to track incidents involving self-driving vehicles"
     excerpt: "AUSTIN, Texas — While Cruise vehicles remain on the streets of Austin with someone in the driver's seat, other companies are still testing their self-driving cars in the city. As a result, Austin's Downtown Commission says they now have a new dashboard ..."
     publishedDateTime: 2023-11-23T22:44:00Z
@@ -57,6 +66,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Crash lawsuit over Tesla’s self-driving technology can proceed, Florida judge says"
+    excerpt: "Tesla must defend itself in a lawsuit accusing the company of gross negligence with its self-driving technology, a Flordia judge ruled this week."
+    publishedDateTime: 2023-11-24T19:40:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/nov/24/crash-lawsuit-over-teslas-self-driving-technology-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 13
 
 secured: "IBaFmwfAxEJsEps0u8vZFu6TRbnCW7eiNg2eyii8vwp2DoRTDhxFodYn0VR/k47UMgNGNmS2ft/qNpPLyjAvMgV6d9aunr5oA9ssHf1reOPMF0M5vyyM4UlhGfsA1KNBV8i06e5G0K1Ep/9Mj2DuXDEdKe43Fxq/GLs2hBKfhFciI4rl613uwsHTUUfeluTq27jj5LSNno0a9KzK4ILMUAkr5Tw/lrTSLatnDCOB1GmeUNdzm9e0HGuIV1tru4K6Ey9klimOyrw/3/B9pw/UbTuKErHmeyUAEWVoYoT+rB0APYZsyAbQgTFVpt+/e4fuCywPREIX0CqY/SYpzUYZTpO6x3j0m/hroQ6BQI5DDgU=;pFaiCefEVh5lD5rJ3MgHWQ=="
 ---

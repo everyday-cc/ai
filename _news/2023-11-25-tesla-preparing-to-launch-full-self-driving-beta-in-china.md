@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-sel
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla starts releasing to employees FSD v12 – a critical update to self-driving effort"
+    excerpt: "Tesla has started releasing to employees its FSD v12 update, which is apparently critical to Tesla’s achieving its self-driving"
+    publishedDateTime: 2023-11-24T19:14:00Z
+    webUrl: "https://electrek.co/2023/11/24/tesla-releasing-employees-fsd-v12-a-critical-update-self-driving-effort/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 41
   - title: "Austin launches new dashboard to track incidents involving self-driving vehicles"
     excerpt: "AUSTIN, Texas — While Cruise vehicles remain on the streets of Austin with someone in the driver's seat, other companies are still testing their self-driving cars in the city. As a result, Austin's Downtown Commission says they now have a new dashboard ..."
     publishedDateTime: 2023-11-23T22:44:00Z
@@ -57,7 +66,16 @@ related:
         width: 1009
         height: 673
         isCached: true
+  - title: "Crash lawsuit over Tesla’s self-driving technology can proceed, Florida judge says"
+    excerpt: "Tesla must defend itself in a lawsuit accusing the company of gross negligence with its self-driving technology, a Flordia judge ruled this week."
+    publishedDateTime: 2023-11-24T19:40:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/nov/24/crash-lawsuit-over-teslas-self-driving-technology-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 13
 
-secured: "wRkXvUMFNXeYomPhSzm3Mw5/XcjTvE4jZ2uDnf51bnChBZrauXoXTjK585kx7OIVMZU07Ik8cjGz6BkgXRpk8BsR++evmeoldZkJDyPdXN3lAGT94OoyVz/gK+rn2gyG+aUdhugxE+6mAZ2Co8sealYQ50Leb7TqNmxtfVVPm2AY+I/8Doq0eziIuShPWINI4lk61cHNir3XKNfDNTjGqM9al8OS5KrkVLo9PARdp726aeI0byA+rU685xXz0yL12MaLMO7YAflXwup0Zl8Y9qtDXe04kJlEYGaZpqrCRml1tXbcojGURwvSNWCeAWL6UtIKOiyuRH1xl2HhR+r2Feu7oAU4l1tlzQ29yHVnHJo=;AFx4olLKn+M281Teqim9uw=="
+secured: "He088RlCyKMZODernUFYYr/B/pm9lDR2Y1/3CtljcDeaQwye2L1/Dn3z1TYkJg1drpqNZEAfKcG7898G7qCsvlQ+vLCvZnbqRD+TqqRP1fw3wTKj8Cm8w8JpxpC9PgkvlKYnM2TLgGF7vrwQmI7mVk6W8xw0OJB0Zm1UoyaMMp+f2Hwe5Zey4Zz2fr9isH0qhqne2Kx4Py5QsAQyb6xTYTZpNg+D5fSJD8AEFHeJWirp2xIHw8zXDI2CF25rOixTzp47rUlBG0rkwIKxqHX93R4xMffNG1tp3loUav00OzJcOd27Xr595cMJeAZ+I6GdRbsNo53lsirJn05QXIoE2K3Zvp8F0oDtqZ+S5aB+bJVo7dkNsYiiLXT67sGQ/kKPgSGTsAYO5QkYEtjTwXMWOOnLGYD6Wnbh9q/1zEATXS8YeEjF6DoNJcBvhD0tMxiQeSgKGyms6d/zlZDLhgDc1MueJoG3FYTcaYM89WsYjdcW5N5xrIlAmvWg52HZyHXyWSo0Eet5gGr0Ub9BRBfkew==;1VTZD1UsZd6qBkXNO+aPSQ=="
 ---
 

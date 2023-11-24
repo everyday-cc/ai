@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-at-universities-reveals-about-the-future-of-ai-and-society/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1358
         height: 768
         isCached: true
+  - title: "The fight for the soul of AI"
+    excerpt: "Can one organization, or one person, maintain the brain of a scientist, the drive of a capitalist and the cautious heart of a regulatory agency?"
+    publishedDateTime: 2023-11-24T19:41:00Z
+    webUrl: "https://www.seattletimes.com/opinion/the-fight-for-the-soul-of-ai/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "egVZOtAbypm4VJn8Q2KnTbV/Z0ZV6OBl38LbS0s9GVuxrAk0yGCFMqy/zufqjTN5vDzi0f65XHfKGudVSz13C2c2TqJny4hSete69NgCWe3+6U5jrP/K9VkPttFbA0s5exsGlc7d/VEi9NtmLsF1kn9mRcCtBpyuVyiKJETojlNcGhBCHtZIzVliof9kMGPKnvgwcriUqF4dj1W0kX6fzoouMxEMEaUu97X8kQvy/qc0laS82+CIxEF8KeEYO0el1AXxZJVoS+YfhbSCZwKrj4yDtyWi8KzoaPAXqlhP2GJJakLpNUFx+0P2WUjyuUk8yxOFAX89gyzSw6wj9zcqMhyhakylh7+ipvbHQsXITxuozItohEBIeYmghA1tojsD19blCHF5+0KfL6X90drwABhsoNKsFjN8NGqKJwsCKxGYDXwBdMw8GPbVxbOPzRd76qeGpbqggBTqBwrSMioGJXev/q1qHCy77eH0DaHlVVPsEvURGqbm3qor84MRhMwRM6xbnAGst77UdP00kAlVaw==;+kpCzAX+4ni77MxK9QdgNQ=="
 ---

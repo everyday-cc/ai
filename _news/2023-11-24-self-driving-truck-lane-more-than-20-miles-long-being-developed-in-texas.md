@@ -3,8 +3,8 @@ category: news
 title: "Self-driving truck lane more than 20 miles long being developed in Texas"
 excerpt: "TxDOT is partnering with a startup company to launch a program designed to improve self-driving trucks on Texas roadways."
 publishedDateTime: 2023-11-23T21:39:00Z
-originalUrl: "https://www.khou.com/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
-webUrl: "https://www.khou.com/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+originalUrl: "https://www.khou.com/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+webUrl: "https://www.khou.com/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
 ampWebUrl: "https://www.khou.com/amp/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
 cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
 type: article
@@ -76,6 +76,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "a8bMW780rAOOkfKBXm5qq0pciGUxrdeAMXe5g0SxFl3Cc6pvgIPD6O3UqBj8kcigH09F4YrWP3K2Mns49JLOVlLyOtzMgXLqcBPoDdbR1My2JM8j7h02tTIeappNmesmey28gxbLo/wSsqoUurI0cfjLLUP3o4IdVfgMkrPy4EChW/bg3FbXv6lyuj4W45ziplk4G0q1ajdcDt0zUl07+uXk0/BFlHugN7h4x7ooY4h0+niP1aB6DYykihmEifvD5t9Q6AxKUgRAXKSbxm6/St3ZUVqqQ70fE/YbFgatHo/FAkodN7Np13l68C7ef3AYBHg5eRjzS/SJFTUELwBu9knimTAppAcrFhB//rwaPGayaZxs5n/TJXYhSFD8KQSDY/jpP8E3mwLuMWpvzPK2gANCHvwqOzq/z9oR1li7fLh9zQL9C114p6cpYL0TfFp/oapLMg+BfDHAn3ZQcDeyBghpjMbBn6MDXpPuK13QlFAXk7oGWaY3vymIE1AeYIsPXtb+HeFUiY6HZmo2hKXg5A==;QfsPAXI5PWhF4JTnCfAiZA=="
+secured: "VHKawbwC2IJONZ0gHUehjlUCm1XBLctkEgozobMfUvzqtYbz6IrchgrF/rNtWllq7yyrKvoJdtEL2W4QuKaKqRFCtIp5yjd01iDxvpi2/EDEPWnFqxvVu1gJmyReyizahrsg3zp5uV38BdpnhRJsGsYGZajaOSnFotmp8NzqmL3ydIT18S7GM2GLzDEOiLDl0A+eRGKYQwn3uzWWPr3KPTDQ0gr1qA6045V0K9q7jyJ4hMdhmIPQepGWOwbuwargYH4xj6vcfLGvv6Y9hwo/YKHe+S6R4WoP4aR17NTNBLE7QYKbiSWdx6C0hZCPhnAHGKOR7X6RHuXWL26lr8cdBuE1m27ioz3UlmWaxEC47L8=;86+kjxjC988CY8aoGDp1bw=="
 ---
 

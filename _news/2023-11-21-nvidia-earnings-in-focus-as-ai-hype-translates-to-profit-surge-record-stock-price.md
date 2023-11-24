@@ -279,20 +279,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
-    excerpt: "An exchange-traded fund tracking artificial intelligence stocks saw investors pouring money after six straight weeks of outflows, on the backdrop of strong quarterly results by chipmaker Nvidia and rising optimism that U."
-    publishedDateTime: 2023-11-24T15:11:00Z
-    webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/15956a8a29bc3c93c3b3f2c772ea148e"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Wipro and NVIDIA Collaborate to Advance Gen AI in Healthcare"
     excerpt: "Wipro Limited, a technology services and consulting company, has announced a collaboration with NVIDIA to accelerate the adoption of generative"
     publishedDateTime: 2023-11-22T04:50:00Z
@@ -337,6 +323,15 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
+    quality: 19
+  - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
+    excerpt: "An exchange-traded fund tracking artificial intelligence stocks saw investors pouring money after six straight weeks of outflows, on the backdrop of strong quarterly results by chipmaker Nvidia and rising optimism that U."
+    publishedDateTime: 2023-11-24T12:10:00Z
+    webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 19
 
 secured: "GO2yAKipTIDP51Ja2T8Xd31hKdW2U+MkgVUh492sB2a/3LZifBkIm4xy2/bpy/cHCRqelBCxaLoiAbJkkMTietUtphX1Dts2sc7J+6RRXJAUwNmtJaSts1hU1wkgSmPIe+S5BnRsKWlFvhQUrIKjnISLVyobumTYEAfsxC8mrhZ0kiaB8QjGm4GWfo4CQZ0cFvR65Dag00eidxdNm4xqGz30LwOJVP8IKXXywMeS+Sowm6m5jddPeEjAmVh6RAIPWA/EJh5XnZu8OpvUBKG+oYvb6k7OUUBZlmpWFDja+qtd0FnN4w1o6RPQ2Don5HYdY0LS5WL6F9zZCJU6A0uU0DE9S1aLXHGLQUbnp1CRy04jj6kqcSWqVNMINxsaAjQ6UME3TAb6Up+DQ1oa+cfvsEVhD/70oThU7KN/iivSbadIY7O/0/Gj3P4X+DdBxrXlD+hPcXHISlPnjZVUwWIdtROAnQD6JkUzCo6x1CkiVwvES02MS4vO8rztio8UKA6ctyeyDnhkMgVAoBczil5mFw==;fojr1nsAfvJCKodsOL7Fdw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/ai-industry-must-sure-important-103000190
 webUrl: "https://www.aol.com/news/ai-industry-must-sure-important-103000190.html"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -25,19 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence makes its way into the music and film industries"
-    excerpt: "This year, artificial intelligence (AI) has taken the internet by storm and is now infiltrating the music and film industries. The sensational technology began with picture generators such as DALL-E mini."
-    publishedDateTime: 2023-11-19T21:07:00Z
-    webUrl: "https://sbstatesman.com/122531/arts/artificial-intelligence-makes-its-way-into-the-music-and-film-industries/"
+  - title: "Artificial intelligence: who are the leaders in adaptive driver alerting for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Activity is driven by technological advancements in artificial intelligence (AI) and machine learning, consu"
+    publishedDateTime: 2023-11-24T01:53:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-adaptive-driver-alerting-automotive/"
     type: article
     provider:
-      name: The Statesman
-      domain: sbstatesman.com
-    quality: 38
+      name: Just Auto
+      domain: just-auto.com
+    quality: 22
     images:
-      - url: "https://sbstatesman.com/wp-content/uploads/2023/11/AI-In-music-and-film.png"
-        width: 2001
-        height: 1001
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Adaptive-driver-alerting.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in autonomous on-demand logistics for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Activity is driven by factors such as the growth of e-commerce, the shortage of truck drivers, the rising cost of fuel, the demand for convenient delivery options,"
+    publishedDateTime: 2023-11-24T02:21:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-on-demand-logistics-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_autonomous-on-demand-logistics.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in obstacle detection radar-LiDAR for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Innovation in autonomous vehicles (AVs) is driven by safety, cost, performance, and convenience, and growing importance of technologies such as data processing and fusion,"
+    publishedDateTime: 2023-11-24T13:23:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-obstacle-detection-radar-lidar-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_LiDAR-point-cloud-processing.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in collaborative autonomous driving for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Collaborative autonomous driving (CAD) is driving innovation in the automotive industry due to its potential to improve safety, efficiency,"
+    publishedDateTime: 2023-11-24T12:21:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-collaborative-autonomous-driving-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 18
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_collaborative-autonomous-driving.jpg"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "i6X/YPJIX1aOPeKxc8o1ZLPIf38mUoP+kVzxleGB/x4QRwrUwsXtw7sYW4CNgSb2/q44UBbzRCeKJHw16iwcetwNb/GDqrP4OXI/bi4UPTmADVk/trHROZ7kM/Qx76Ojb1O7eKB43e0JxWEcTJaw8e4p1/b042ddXfATf4jNEWyqA6X1qHKsnK1yDxqH2q5yMMgcOqvus0vTaySJbwmdrkWHnJELEhQQUBX/Qml/XZ7+2DIPg5Lt88j2LfNVB8JN+GgFki6teyFQuyeuQ6UhXAkPupVaDSUyJnVOOfTohY8KCh4DpQBC/uJOC3CmlREzX1PH6uKu5gC6wnhXPrAQnmjY6NAo2MVppczNDXh9JadhbBw470HoAALOi1yRSeVR3bepkQocaFd/fPUPXBKRARqeiXFsE6oBCs7M/cq/ifrapO0jMz7DqK+bkzJ/e1xBVAeHLTOh4m2kPrnWpataXGS7rSnaNGfgFZWn4rbiE4vapdsGpm+RCbFkXXKv4neQ0D8cQ7Zne7m6yXkSFuR5Rg==;72hpCsqnBtLHcUmp/CaFzg=="
