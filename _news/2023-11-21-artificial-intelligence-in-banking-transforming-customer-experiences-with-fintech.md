@@ -87,6 +87,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Experts discuss fintech market revamping tech trends"
+    excerpt: "Qatar s fintech sector is advancing into modern technology as latest trends persist to take shape in the region. During a panel"
+    publishedDateTime: 2023-11-24T07:44:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/24/11/2023/experts-discuss-fintech-market-revamping-tech-trends"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 24
+    images:
+      - url: "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg"
+        width: 1280
+        height: 1024
+        isCached: true
   - title: "MAS launches latest range of fintech initiatives"
     excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."
     publishedDateTime: 2023-11-20T12:45:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 91
-heat: 371
+heat: 381
 published: true
 
 provider:
@@ -364,6 +364,20 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
+  - title: "ChatGPT gained 1 million users in under a week. Here’s why the AI chatbot is primed to disrupt search as we know it – Fortune"
+    excerpt: "We are all used to entering search queries online and getting relevant links in response. But what if you could get an instant answer from a robot? And what"
+    publishedDateTime: 2023-11-24T08:11:00Z
+    webUrl: "https://www.inferse.com/804258/chatgpt-gained-1-million-users-in-under-a-week-heres-why-the-ai-chatbot-is-primed-to-disrupt-search-as-we-know-it-fortune/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 12
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13093.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Anthropic updates Claude 2.1 AI chatbot to process bigger files and improved safety"
     excerpt: "Anthropic, an artificial intelligence startup geared toward building trustworthy AI models to rival OpenAI LP’s ChatGPT, today announced an upgrade to its Claude chatbot that advances its core features with significantly improved safety, a much larger context window and a new third-party tool use feature."
     publishedDateTime: 2023-11-21T19:23:00Z

@@ -67,20 +67,20 @@ related:
         height: 3333
         isCached: true
   - title: "Nvidia delays launch of new China-focused AI chip"
-    excerpt: "Nvidia has told customers in China it is delaying the launch of a new artificial intelligence chip it designed to comply with U.S. export rules until the first quarter of next year, two sources familiar with the matter said."
-    publishedDateTime: 2023-11-24T06:02:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/articleshow/105464640.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/amp_articleshow/105464640.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/amp_articleshow/105464640.cms"
+    excerpt: "Nvidia: The California-based AI chip giant had been expected to launch the new products as early as Nov. 16, chip industry newsletter SemiAnalysis reported this month."
+    publishedDateTime: 2023-11-24T08:50:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/nvidia-delays-launch-of-new-china-focused-ai-chip/105470627"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-delays-launch-of-new-china-focused-ai-chip/105470627"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-delays-launch-of-new-china-focused-ai-chip/105470627"
     type: article
     provider:
-      name: Indiatimes
+      name: telecom.economictimes.indiatimes
       domain: indiatimes.com
     quality: 74
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-102804,msid-105464733/nvidias-chips.jpg"
-        width: 600
-        height: 450
+      - url: "https://etimg.etb2bimg.com/thumb/msid-105470627,imgsize-23246,width-1200,height=765,overlay-ettelecom/devices/nvidia-delays-launch-of-new-china-focused-ai-chip.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Nvidia reports record Q3 results driven by surging demand for AI"
     excerpt: "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more. Nvidia reported record revenue today for its third fiscal quarter of fiscal 2024 (ending October 31,"

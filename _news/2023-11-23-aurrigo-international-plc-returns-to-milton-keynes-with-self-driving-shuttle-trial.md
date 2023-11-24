@@ -40,18 +40,18 @@ related:
         height: 1112
         isCached: true
   - title: "Aurrigo International plc returns to Milton Keynes with self-driving shuttle trial"
-    excerpt: "This important research into self-driving vehicles on public roads is creating a template for cities around the world to follow.” Aurrigo’s Auto-Shuttle will travel a 25-minute loop in Milton Keynes, seamlessly navigating complex city intersections ..."
-    publishedDateTime: 2023-11-23T22:20:00Z
-    webUrl: "https://www.themanufacturer.com/articles/aurrigo-international-plc-returns-to-milton-keynes-with-self-driving-shuttle-trial/"
+    excerpt: "One of the UK’s leading autonomous technology specialists is returning to Milton Keynes -nine years after it first deployed its… | Manufacturing | Engineering | Transport | Technology | Innovation | M"
+    publishedDateTime: 2023-11-24T08:41:00Z
+    webUrl: "https://bdaily.co.uk/articles/2023/11/24/aurrigo-international-plc-returns-to-milton-keynes-with-self-driving-shuttle-trial"
     type: article
     provider:
-      name: Manufacturing
-      domain: themanufacturer.com
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
     quality: 18
     images:
-      - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/11/23221911/Auto-Shuttle-MK.jpg"
-        width: 1024
-        height: 688
+      - url: "https://bdaily.co.uk/images/uploads/J8ZwE5TSBm7xMsZhrVNI8B84u076jOuaoXz1ur7J.jpeg?w=1200&h=630&fm=jpg&fit=crop-50-50&s=434493c30761895328521b0d2eaa4da2"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "zQg0+ew2BsDAddLMq6ji/AD48azt1ieqaKS4JGgNxbvLHAXdS89mL3tXYeyobm20ADnfMiScV9wBZAhmai+c/ytU55cCsT2BnylX+bZ49N46ycQjOdwJwfT+mpLehGC5aPNBGwcQZobtQ5O9+xZtVItcrJVgCUujtsYQY7Hgeo6h3vXgIUw5wjQzpy4cT3XQTQlm3p1RNCJS+WkzLIQET7ELh4uDwBijreAdFU4t2mQ3oX3jwYwfU0HPp9RrM7HfEjucJdbwrk4B2FM0L89AL2VL+hj5eAzah9RgoQOGd4Wv7uJ7gHGJcc1T+Ut4kFNlc2bNQPi6YYClIL9D4Q5bT4nlrW5P9bc/jjGiEVM8yJU=;hjDSszx/p3sZ7xXxh4Vslw=="

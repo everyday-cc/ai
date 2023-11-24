@@ -66,15 +66,6 @@ related:
         width: 1600
         height: 817
         isCached: true
-  - title: "Sam Altman was the trusted face of AI. His firm, though, is much more complex"
-    excerpt: "The conflicts of interest built into OpenAI’s corporate structure may be a bigger story than the loss of its leader"
-    publishedDateTime: 2023-11-19T09:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/nov/19/sam-altman-was-the-trusted-face-of-ai-his-firm-though-is-much-more-complex"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 14
 
 secured: "af9YLlWuvpsQmZL67loqklN8HJd/EVA7Dpfoh+9tDi40in+qs3f5ICpqwPHbtKqvvELsGDqTze7dEX5OyaqQyYlggCSwIwZS/cE19Ieb1J2uP4c4+P1P30soUNT1jqr00Hpp9AGHBtjdufdbo3CVNZssYNEcoxYFoL76zUfkALmWvAzkHTxb3eVdH0WWIZpb4hEKC/lqBLhyO5BPGBdT02vAGtpUK9Uanjn2rc8GIGSCHlNK7AUNGKY4tXSGDMSh9CywmHUGOsgxQQ9iNqg4eUHU5vGnn0Vf7nMa8scZ/gHgObKkTfuO/0IBt5yQikgZYFFt97vClaIa5v4pPaaiXdhHGwaUYtvxQXPgVIFe9YTdUsowC+U3jr9fYw+BU4ntSoBTrA8GCuUG0ogdYJrqR2eITjYlDGZUDLu/e0saJVcHuCQbmKdlkvLgFNTibmH0Lpg0Pu1uJgNlZpOY1lAaEj5eDEDjIkK8EIsTmT4AwsNfzVP18WsqhTaSCvMQpaMSOEgGIT+xF+lI3mhuRvrZew==;0KOffxjG1AQ05z33Hvy34w=="
 ---

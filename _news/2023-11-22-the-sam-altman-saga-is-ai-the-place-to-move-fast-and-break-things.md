@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/opinions/the-sam-altman-saga-is-ai-the-place
 webUrl: "https://www.pcmag.com/opinions/the-sam-altman-saga-is-ai-the-place-to-move-fast-and-break-things"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sam Altman was the trusted face of AI. His firm, though, is much more complex"
-    excerpt: "The conflicts of interest built into OpenAI’s corporate structure may be a bigger story than the loss of its leader"
-    publishedDateTime: 2023-11-19T09:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/nov/19/sam-altman-was-the-trusted-face-of-ai-his-firm-though-is-much-more-complex"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 14
 
 secured: "FmjZMB8TWzGrthynJcyvYAoVFdMgukAge/fHFVOzB4UrbJO4/4yLS17Jl87uxCdpc3LtMlyqAdgWsJxIRQBKVoKR9cXVapoiWELTrOtJF11TW+x4UXV4hIBdk56mpkpaP3P8CMQXJzclkMaIPb1JFUAMT+8m6oWTyID8EowXsP8s5TT+0UtkgwD8qd4iashUd51e1/gLuP+6iqGJ83RacSIcvB2kh31+4ojjBFkte4xhqO1TrhdRJMQnUPCOxyFUgDNlPhIwE1zgjwf+rJLb9TXPEcli3BFDCNV+ZuB9IwumztI498ndakasznQoM5DlAugOOwR7i3GGeaGO2xBio0TMUAEXuZOdI8w30Qit29v++fvEICgVm82Fhh13H2JDo4tJ0RBEP6IUWfnTv/IXsRzrWYEKOPFLAFjzuNCj5rE+f558/9Jyj7UTPXPveSWFXU9KPbQUnQ2xRMjEnZ4vCYoDn32klRgN+Jt70CvLdsYNTW+Gx/NM6k0VFz9K8BoAr01Xmn2zcZth3rktzYkg0w==;yu602LulRn9WKtIR5iOsJA=="
 ---

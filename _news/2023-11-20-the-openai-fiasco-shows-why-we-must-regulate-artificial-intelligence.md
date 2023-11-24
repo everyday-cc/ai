@@ -244,15 +244,6 @@ related:
       name: The Real Deal
       domain: therealdeal.com
     quality: 17
-  - title: "How OpenAI interim chief Mira Murati helped launch AI into the mainstream"
-    excerpt: "Born in Albania, former chief technology officer is charged with calming the waters after ouster of Sam Altman"
-    publishedDateTime: 2023-11-19T09:02:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/nov/19/how-openai-interim-chief-mira-murati-helped-launch-ai-into-the-mainstream"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 16
   - title: "xAI org chart: All the top power players at Elon Musk’s new OpenAI competitor"
     excerpt: "CFO Plays many roles for Musk including managing director of Musk’s family office. Member of xAI technical staff. Babuschkin was a member of the technical staff at OpenAI for nearly two years and also worked at DeepMind. LinkedIn profile says he’s an xAI cofounder. Used to work at Google and DeepMind."
     publishedDateTime: 2023-11-20T12:00:00Z

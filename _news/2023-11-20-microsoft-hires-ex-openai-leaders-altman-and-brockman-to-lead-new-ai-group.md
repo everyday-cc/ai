@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/amp/"
 type: article
 quality: 102
-heat: 572
+heat: 582
 published: true
 
 provider:
@@ -527,6 +527,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "OpenAI CEO Sam Altman Funds Longevity Startup With Goal To Increase Human Lifespan By 10 Years – Yahoo Finance"
+    excerpt: "A startup firm backed by an artificial intelligence (AI) industry leader aims to expand human lifespan by 10 years.Sam Altman is the CEO of OpenAI, the"
+    publishedDateTime: 2023-11-24T07:40:00Z
+    webUrl: "https://www.inferse.com/804220/openai-ceo-sam-altman-funds-longevity-startup-with-goal-to-increase-human-lifespan-by-10-years-yahoo-finance/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 34
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13074.png"
+        width: 600
+        height: 400
         isCached: true
   - title: "Before he was fired, OpenAI's Altman sought billions for AI chip venture"
     excerpt: "Only weeks before he was suddenly fired by OpenAI, CEO Sam Altman was seeking billions from investors to build an artificial intelligence chip company. The new venture, first reported by Bloomberg, would have been at least somewhat separate from OpenAI, but Altman pitched the business to investors who were not able to invest in the AI startup."

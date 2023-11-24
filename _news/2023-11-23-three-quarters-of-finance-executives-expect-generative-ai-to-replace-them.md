@@ -42,6 +42,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "71% Of Employers May Be Left Behind In The Generative AI Race"
+    excerpt: "Skills Index report from BTG (Business Talent Group) unearthed some striking data about generative AI and its integration in today's workplace."
+    publishedDateTime: 2023-11-24T08:00:00Z
+    webUrl: "https://www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e33d6e2d96a58f8c668eb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "The Next Evolution Of Generative AI Will Provide Specialized Intelligence"
     excerpt: "Specialized technologies will deliver deeper, more reliable and more valuable insights compared to the general-purpose tools available today."
     publishedDateTime: 2023-11-21T11:45:00Z
@@ -67,6 +83,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 84
+  - title: "FOX Sports expands Google Cloud partnership, generative AI to automate archived sports video search"
+    excerpt: "The old way of searching through countless hours of archived sports footage is going out the window, as FOX Sports and Google Cloud take their partnership to the next level."
+    publishedDateTime: 2023-11-24T07:00:00Z
+    webUrl: "https://www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search"
+    ampWebUrl: "https://www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 73
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/11/1200/675/Google-Cloud.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AWS's generative AI functions support Taiwan startups innovation"
     excerpt: "The rapid development of artificial intelligence (AI) has changed many aspects of our lives. In particular, the launch of generative AI at the end of 2022 has created a large wave of technological innovation,"
     publishedDateTime: 2023-11-22T07:58:00Z

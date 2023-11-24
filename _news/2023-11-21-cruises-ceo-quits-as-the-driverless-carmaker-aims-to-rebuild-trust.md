@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/11/19/technology/cruise-ceo-kyle-vogt
 webUrl: "https://www.nytimes.com/2023/11/19/technology/cruise-ceo-kyle-vogt-quits.html"
 type: article
 quality: 84
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/c949d909bc46ec40b7b1c7b78be4413b14e1aecd/0_16_4490_2696/master/4490.jpg?width=620&quality=85&auto=format&fit=max&s=0bef85820729cebdfb6d397af57b3802"
         width: 620
         height: 372
+        isCached: true
+  - title: "Driverless cars immune from traffic tickets in California under current laws"
+    excerpt: "An NBC Bay Area investigation reveals autonomous vehicles in California cannot be cited for moving traffic violations since transportation laws require tickets to be issued to actual “drivers.”"
+    publishedDateTime: 2023-11-23T23:03:00Z
+    webUrl: "https://www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/"
+    ampWebUrl: "https://www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/?amp=1"
+    type: article
+    provider:
+      name: NBC Bay Area
+      domain: nbcbayarea.com
+    quality: 56
+    images:
+      - url: "https://media.nbcbayarea.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all"
+        width: 1200
+        height: 675
         isCached: true
   - title: "World's biggest driverless car race: 'a new type of motor sport with different heroes'"
     excerpt: "The Abu Dhabi-backed A2RL Autonomous Racing League plans to pit ten driverless cars in wheel-to-wheel battle from next year; the most ambitious AI motor sport plan yet. Its backer reveals more about t"

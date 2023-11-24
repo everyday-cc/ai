@@ -251,15 +251,6 @@ related:
       name: The Real Deal
       domain: therealdeal.com
     quality: 17
-  - title: "How OpenAI interim chief Mira Murati helped launch AI into the mainstream"
-    excerpt: "Born in Albania, former chief technology officer is charged with calming the waters after ouster of Sam Altman"
-    publishedDateTime: 2023-11-19T09:02:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/nov/19/how-openai-interim-chief-mira-murati-helped-launch-ai-into-the-mainstream"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 16
   - title: "OpenAI Researchers Warned the Board of an AI Discovery that Could Threaten Humanity"
     excerpt: "Four days ahead of Sam Altman‘s ouster, several staff researchers wrote a letter to the board of directors warning of a powerful AI discovery, called Project Q*, that they said could threaten humanity. Reuters reported yesterday about it quoting as sources two people familiar with the matter."
     publishedDateTime: 2023-11-23T19:11:00Z

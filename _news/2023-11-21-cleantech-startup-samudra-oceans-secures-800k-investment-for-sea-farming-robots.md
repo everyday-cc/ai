@@ -7,7 +7,7 @@ originalUrl: "https://bdaily.co.uk/articles/2023/11/21/cleantech-startup-samudra
 webUrl: "https://bdaily.co.uk/articles/2023/11/21/cleantech-startup-samudra-oceans-secures-800k-investment-for-sea-farming-robots"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Samudra Oceans secures £800k for innovative sea farming robots"
+    excerpt: "London robotics startup, Samudra Oceans, has secured a £150,000 investment from British Design Fund, as part of a £800,000 pre-seed funding round, for its technology that aims to positively impact sea farming and the blue economy."
+    publishedDateTime: 2023-11-24T08:41:00Z
+    webUrl: "https://www.angelnews.co.uk/blog/ai-robotics/samudra-oceans-secures-800k-for-innovative-sea-farming-robots/"
+    type: article
+    provider:
+      name: angelnews.co.uk
+      domain: angelnews.co.uk
+    quality: 39
+    images:
+      - url: "https://www.angelnews.co.uk/an2017/images/Samudra_Oceans.png"
+        width: 920
+        height: 700
+        isCached: true
 
 secured: "NqD/kL57FiW1R9JrZCkE1IUom1tXx8C+iM1ZbCWMyq1w1b9Yv6eup31gaIse0pFYpbraIJHu3N6fohQBhCQibKUOOGPmklhTb2tO4lQyHqhrV10RWuz9BO4ZxEWcb0/GTChcvkSXae/byTlFUlj5lZ5/RGLcVcSwf1nknKlqQlT5+Oo00rjCL3N7Iq4cLSr46KZgX/0xXwd+Le7N/r/GBkiZFEvx8ohXoQ8PGHQRDsyZWum87hY+i2MUFF+gQ71V5WhryP2/ibPrPJtzBlJvV3glWANn+L6hBcVarCe6IIqt/MyJGwq5fZoVGxk432VCJFRDouADJTr8eAuyFhX5+MRiFSzjCgDJrrplFXm06P3U9q2RA0PuKHfvmZTE2pAZD1azGvJaC4AdfbUrvgVWTFoZJSA2JCfHJjUFxEVBqTTZN0TNGZr+BPWk7HnMUxS1AWpBW7lJYqpjEB6HjZ0Ohp3rs6nFDO9M05zba9ddzmg6MnbV6JXiCczF9p/4+JC/+8BKckcL8US46TMYfNQ9Vw==;WzBLm/mUj6CUcPQ4PQ9PTw=="
 ---

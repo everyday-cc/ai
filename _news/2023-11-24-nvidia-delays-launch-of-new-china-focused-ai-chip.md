@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Nvidia delays launch of new China-focused AI chip"
-excerpt: "Nvidia has told customers in China it is delaying the launch of a new artificial intelligence chip it designed to comply with U.S. export rules until the first quarter of next year, two sources familiar with the matter said."
-publishedDateTime: 2023-11-24T06:02:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/articleshow/105464640.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/articleshow/105464640.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/amp_articleshow/105464640.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/amp_articleshow/105464640.cms"
+excerpt: "Nvidia: The California-based AI chip giant had been expected to launch the new products as early as Nov. 16, chip industry newsletter SemiAnalysis reported this month."
+publishedDateTime: 2023-11-24T08:50:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/devices/nvidia-delays-launch-of-new-china-focused-ai-chip/105470627"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/nvidia-delays-launch-of-new-china-focused-ai-chip/105470627"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-delays-launch-of-new-china-focused-ai-chip/105470627"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-delays-launch-of-new-china-focused-ai-chip/105470627"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
+  name: telecom.economictimes.indiatimes
   domain: indiatimes.com
 
 topics:
@@ -21,9 +21,9 @@ topics:
   - AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-102804,msid-105464733/nvidias-chips.jpg"
-    width: 600
-    height: 450
+  - url: "https://etimg.etb2bimg.com/thumb/msid-105470627,imgsize-23246,width-1200,height=765,overlay-ettelecom/devices/nvidia-delays-launch-of-new-china-focused-ai-chip.jpg"
+    width: 1200
+    height: 765
     isCached: true
 
 related:
@@ -260,6 +260,6 @@ related:
       domain: thestreet.com
     quality: 11
 
-secured: "sWDxD7s1MHwxbeDsun698qFgLve4fX+QvUnXUw11HNDrOpC0sNpKTKSIn3Kz1+aoxNByFaegyvvt6GgME4d4nUUXH7XxYOtPOtAUFR+imNh/x2DAQpKNyymZ0i8P0s/+cViG4JAxjBRSXbzy65ySA5SQi1RzSYxDcSwglzdblL3jnp3dSvjCqgm/07vus2XIkNI17s6IPd3owLEBumn7wGNKiOr+/83CBmgqUM2vwKh9kLbYceNVtyU1k38yIyNUFE6dKj0UgaiY3TTzKsJfPvqSDOGMdXfqydwYP+NLxQZeo51jKr+Z32UlEB5MBcr1GUtG8whnpmGfGHlniD/rFTNvn1289yrY8u+t849XWIs=;Xpnhlrn1U/1xDLRGphj66w=="
+secured: "L3gQBVVHatDJy5oHOI9Tb+UXMgvh8wla2dipErta1pai8G83KOGcLP6mcTRvXvjugpL2UCNGeoI1XUDn/WR4jlBwQ/Cv+VtM2XWL2ZkyU5G1+u8IK1rQy8yCpKFaBLDSBXQNRNcZmb+DSAu+GAaVrHJoy+8AE1/oReP+0KKZ5ObhcMXikI4VWFcArqGDGVh2UJ+2wuB384nQ+c+WfhKYkQ0X9dONp4dDggdAfY5SSNbObQ50Bu8aKsXdyq7c9Jj+cAMF/t29PrmOruSPBQpDS7P8Y85YbL+LJyAPyDLKUJRCfHCr56otSKA62JO3SIsyeacJg/J71cvGOnG6excgnR4DLmGfX8lpcqyyj07UXik=;/23LLDIhIT4iXNHqIu/chw=="
 ---
 

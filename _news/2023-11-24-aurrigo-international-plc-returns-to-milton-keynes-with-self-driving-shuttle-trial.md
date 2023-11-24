@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Aurrigo International plc returns to Milton Keynes with self-driving shuttle trial"
-excerpt: "This important research into self-driving vehicles on public roads is creating a template for cities around the world to follow.” Aurrigo’s Auto-Shuttle will travel a 25-minute loop in Milton Keynes, seamlessly navigating complex city intersections ..."
-publishedDateTime: 2023-11-23T22:20:00Z
-originalUrl: "https://www.themanufacturer.com/articles/aurrigo-international-plc-returns-to-milton-keynes-with-self-driving-shuttle-trial/"
-webUrl: "https://www.themanufacturer.com/articles/aurrigo-international-plc-returns-to-milton-keynes-with-self-driving-shuttle-trial/"
+excerpt: "One of the UK’s leading autonomous technology specialists is returning to Milton Keynes -nine years after it first deployed its… | Manufacturing | Engineering | Transport | Technology | Innovation | M"
+publishedDateTime: 2023-11-24T08:41:00Z
+originalUrl: "https://bdaily.co.uk/articles/2023/11/24/aurrigo-international-plc-returns-to-milton-keynes-with-self-driving-shuttle-trial"
+webUrl: "https://bdaily.co.uk/articles/2023/11/24/aurrigo-international-plc-returns-to-milton-keynes-with-self-driving-shuttle-trial"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Manufacturing
-  domain: themanufacturer.com
+  name: Bdaily Business Network
+  domain: bdaily.co.uk
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/11/23221911/Auto-Shuttle-MK.jpg"
-    width: 1024
-    height: 688
+  - url: "https://bdaily.co.uk/images/uploads/J8ZwE5TSBm7xMsZhrVNI8B84u076jOuaoXz1ur7J.jpeg?w=1200&h=630&fm=jpg&fit=crop-50-50&s=434493c30761895328521b0d2eaa4da2"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 1112
         isCached: true
 
-secured: "ec1qYCX7vtVz3merkXxmXAAtOx50S5iQjLqtvxYsWiNXmtGGdbpaaBxRVbMHu8atLgWRZAufDdc1tEyiRE5uGLR+I52c6V+s/yflDMSnzWOIXk7NB3vG8QgefUD0IoEvi2oyjItH3bFaxPsyrvicJ1n8IU0F5OlOmBc+6Bv4fo1AZHlmyLTwbe0nTGqPBiMoGVOJH77HFxWENeQiYfCBbsGpJ1k44lJhI8FhfUXW5sf69+ezAAX/5OvLgSzY+jKs9fzAOJ6VBnMoWYdHR+eM8c7D6QcWunEJ7Mc0xg4n1VyrUdATp4aK25qQxL1MhEIr3Z8u8ElJWTPWnXE7azFYuyiV4pD3mcQAwKREf5qLnGQ=;TO4yfWhjhrNmLV4reTx+QQ=="
+secured: "XkEjdgYTSdoTxDZ9UcTTx3kpKKyg1Sxm8G9eQZJJ8Slg2HspteSHKc7rGswTXPVpyH2yT2W4FZ9L4Eeh26OMGz9nONZMdx6POSr3ytXLqjWQLXcbIzWGtDLtbksnRcEPrGib3CWIXc25xo5O0RaIPqo/6bFgGWH6rG6QQr+8WSaldyRrN4CRaTjBt7205Ghh4QxBC9CBjjz8Bfst1NNwDvnQ4iOyCPmco1PdF+biPR8QKFbprSEJxZkDuI6HytlO29+er4UPvCOPavv6cWDQ8xdvuzQ1Rjh7BDyjbwcUCDwgafzrUTcaC9/2QNmfr6bNFCkg4JlCtr0L5Si80yhhTl8AhVHGUnHTu3QqX4TAC4c=;v4qzDlOPQEHpz8yJ7vtZ3w=="
 ---
 
