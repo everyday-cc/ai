@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Artificial intelligence: who are the leaders in autonomous vehicle ECUs for the automotive industry?"
-excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
-publishedDateTime: 2023-11-24T02:27:00Z
-originalUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-vehicle-ecus-automotive/"
-webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-vehicle-ecus-automotive/"
+title: "Artificial intelligence: who are the leaders in adaptive driver alerting for the automotive industry?"
+excerpt: "The automotive industry continues to be a hotbed of patent innovation. Activity is driven by technological advancements in artificial intelligence (AI) and machine learning, consu"
+publishedDateTime: 2023-11-24T01:53:00Z
+originalUrl: "https://www.just-auto.com/data-insights/innovators-ai-adaptive-driver-alerting-automotive/"
+webUrl: "https://www.just-auto.com/data-insights/innovators-ai-adaptive-driver-alerting-automotive/"
 type: article
-quality: 24
+quality: 22
 heat: -1
 published: false
 
@@ -15,11 +15,10 @@ provider:
   domain: just-auto.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_autonomous-vehicle-ECUs.jpg"
+  - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Adaptive-driver-alerting.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -39,17 +38,17 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Artificial intelligence: who are the leaders in adaptive driver alerting for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Activity is driven by technological advancements in artificial intelligence (AI) and machine learning, consu"
-    publishedDateTime: 2023-11-24T01:53:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-adaptive-driver-alerting-automotive/"
+  - title: "Artificial intelligence: who are the leaders in autonomous vehicle ECUs for the automotive industry?"
+    excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
+    publishedDateTime: 2023-11-24T02:27:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-vehicle-ecus-automotive/"
     type: article
     provider:
       name: Just Auto
       domain: just-auto.com
-    quality: 22
+    quality: 24
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Adaptive-driver-alerting.jpg"
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_autonomous-vehicle-ECUs.jpg"
         width: 1440
         height: 810
         isCached: true
@@ -82,6 +81,6 @@ related:
         height: 810
         isCached: true
 
-secured: "h/zQ1+uLJODXkGEoMfatr+Ks/dxYBs4tELhzv/7zSYDKuNin2meifFh1BIpyz7eaQaWoY4CqNejOeDeQk1XuSCndQuwyUuktJY30iK0Gt68LOQiUNGHXF83XkhDH/liJ7HErF4sy3tnsKf7MF2n9tGpeC0dZ+mmsV6WI09OMoW/u2s4yHWSXdLQ5kEOjY6wfn5vVvB7hly4q2y9+EUw/GPKcX+xsULLA+bu2IpJm51/kE9lM6MSUaiqqL+VeX8HSI7848KVStRESRoVL43cVBVz6cdT+VZNwWCDVBD1Tz+lT9DRSasFkxYCDoL+q6TgE+NOzvVJv5x9C300J/HCgDONzU0/C8bUrEl7+2IwJOANjhf/0kqjXXjFn+/WYmwC3PbKLL3P4sA+dOu4MqB0+6xv6kMscUo4BZ3Ra+sJn3QT1WJWWaEAdeThXHjuxc+dwIiOv/r1synO3cAfYWkG7fbGhnUJ1O7+rlTef+aRfU7jL4uZvuZuChQAk5e9Djla8U4kfMggNrElAyDpjFNvtlw==;YlcIypjugZOANpZg0+CPiw=="
+secured: "3+bhfS+rdRLAiBjSlCb7xu3ZgON9vyxEGF3i2KxDqcwVtrG30x2K2xW+EBC0FwpPiTnZoVn0Jhq4F4BKYE4pIXVQ0EiHxagDaxENyAon/zGX2sbSCZxscYP8aHHBAObDgkw/M3NptLI6gsLL0pxf21AjYQSLrTzZQEKf2ceYWtsBgJ2BDlglZrlAAglIyVQgKNdZVxTr0qlayZSvk+dyWqcy/ioZm9s4/uAK264K/kGD9JFwW7CEkkIIYmwGFb9Bgz8UTyyRuMwb4nMIgsYfHykL3r37ZezjLwsFKVcssE3ujGkZ2Bl3iicBmKLVtPZtBQvz5RrhRkPB9rP+8uvooVpwYFYaQcxpjhfKpx6gVrE=;aIH0XZTI1cEzmjVxgkna1A=="
 ---
 

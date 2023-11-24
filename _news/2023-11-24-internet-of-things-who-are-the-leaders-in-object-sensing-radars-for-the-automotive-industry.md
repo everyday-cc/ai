@@ -53,6 +53,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Artificial intelligence: who are the leaders in adaptive driver alerting for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Activity is driven by technological advancements in artificial intelligence (AI) and machine learning, consu"
+    publishedDateTime: 2023-11-24T01:53:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-adaptive-driver-alerting-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 22
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Adaptive-driver-alerting.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Artificial intelligence: who are the leaders in autonomous on-demand logistics for the automotive industry?"
     excerpt: "The automotive industry continues to be a hotbed of patent innovation. Activity is driven by factors such as the growth of e-commerce, the shortage of truck drivers, the rising cost of fuel, the demand for convenient delivery options,"
     publishedDateTime: 2023-11-24T02:21:00Z

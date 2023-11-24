@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-ear
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
 type: article
 quality: 91
-heat: 261
+heat: 271
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107327179-1698862366973-gettyimages-1258356102-TAIWAN-COMPUTEX2023-01062023-162JPG.jpeg?v=1700162267"
         width: 5000
         height: 3333
+        isCached: true
+  - title: "Nvidia delays launch of new China-focused AI chip"
+    excerpt: "Nvidia has told customers in China it is delaying the launch of a new artificial intelligence chip it designed to comply with U.S. export rules until the first quarter of next year, two sources familiar with the matter said."
+    publishedDateTime: 2023-11-24T06:02:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/articleshow/105464640.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/amp_articleshow/105464640.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/amp_articleshow/105464640.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-102804,msid-105464733/nvidias-chips.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Nvidia reports record Q3 results driven by surging demand for AI"
     excerpt: "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more. Nvidia reported record revenue today for its third fiscal quarter of fiscal 2024 (ending October 31,"

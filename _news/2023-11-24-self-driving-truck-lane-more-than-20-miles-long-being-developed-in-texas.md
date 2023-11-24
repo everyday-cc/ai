@@ -3,8 +3,8 @@ category: news
 title: "Self-driving truck lane more than 20 miles long being developed in Texas"
 excerpt: "TxDOT is partnering with a startup company to launch a program designed to improve self-driving trucks on Texas roadways."
 publishedDateTime: 2023-11-23T21:39:00Z
-originalUrl: "https://www.khou.com/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
-webUrl: "https://www.khou.com/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+originalUrl: "https://www.khou.com/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+webUrl: "https://www.khou.com/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
 ampWebUrl: "https://www.khou.com/amp/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
 cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
 type: article
@@ -92,6 +92,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "+/nQDZgAfCyHMSBIQMHZOa3HhVsjk2lEgOjfJQ89YQALmktEVV6EPCmjY/8xlI0936dqeyw3H+k5U36Zqru91mkVuAqFwyZ9cLXkWKjuA8oqVmLEd+Gldvd4u1qH02fTFEALmAvQIV4eJpO31+spBYMkru3aBbdDPKKiw1AyracjG8Kl+CFskAH+QoL7gDF2WqxBHJ8xvXvbDdhZ6mZg1GQvcgYCUlrGb6HxSE9VpA+w3se6kiZsik8g+vgWCEpsAetOrsDmPfveixIiILuzoWxfRakZThiGpTUr9UnBMxVyOCxGYmlh2KE1drlIKh/d3TTtgI1es3knRbBqD0OrE3V8ViGCb7MzXT/ZgKrxZxzOeIyM2sihIP/VjIGjOWn5Vf410pBjkm7OqL49EqxC8xW+Ddc74GOgXP+fXnCUyQ+WYnpnMJn8J41rXfdj/o88FxaUC1om4DE0U0iBbzqmFdTVxVzXr4AtPLbnNSvuQhTk2E9tKvN9ePKfs/5sQcxaAxpeGNMTHbbfj9y78ZJxLg==;sDfMvzGxOVlSRKJMkJZwIQ=="
+secured: "+lC8vIEzZZ8AZetK+d431QN3Oiz14a7L+CJSyriMaMyACiFVOXBmOstWygcUpLXPvGnbr3tTfdw0jKpskEt/AuTCxqbNRFu32wgbvSiGu0vGE/QqDQRqF6gheQYJmqaVqEpAh8sz4wgFIbsQKqRW5r/Vll05tvXndrciyi+TNKf4UtMwPXG/N5rx7qeQuY2INXlfTk8kOhDSnB0jARWcOI4/NEE5RVMVEM7rbcGMkN9OHRNMx8tTxNcQztLNx3CzyHsJtgpXCpOmo6/WTf3bUbI39v1YY836kHSXOQ73nF92VAKOQAd8XHrnOC679aTw+ujK0cwcjvaFPv2Ikb2Juc7+Ym0XbkzRWjUi9kujxuE=;VJBFOI3taSFuCx2lb8SyWw=="
 ---
 

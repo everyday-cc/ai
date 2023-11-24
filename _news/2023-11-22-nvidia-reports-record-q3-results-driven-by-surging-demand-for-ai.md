@@ -77,6 +77,22 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "Nvidia delays launch of new China-focused AI chip"
+    excerpt: "Nvidia has told customers in China it is delaying the launch of a new artificial intelligence chip it designed to comply with U.S. export rules until the first quarter of next year, two sources familiar with the matter said."
+    publishedDateTime: 2023-11-24T06:02:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/articleshow/105464640.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/amp_articleshow/105464640.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/amp_articleshow/105464640.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-102804,msid-105464733/nvidias-chips.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Morning Bid: AI buzzes but market shrugs at Nvidia beat"
     excerpt: "While many investors have been thrall to the AI boom all year, the 240% year-to-date surge in Nvidia (NVDA.O) has stolen the show as AI excitement sent demand for its high-end chips soaring. Remarkably, Nvidia managed to vault the sky-high bar for quarterly earnings, revenue and projections yet again in its latest update overnight."
     publishedDateTime: 2023-11-22T10:01:00Z

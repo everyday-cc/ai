@@ -35,6 +35,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 81
+  - title: "Nvidia delays launch of new China-focused AI chip: Sources"
+    excerpt: "Nvidia has told customers in China it is delaying the launch of a new artificial intelligence chip it designed to comply with US export rules until th"
+    publishedDateTime: 2023-11-24T06:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/international-business/nvidia-delays-launch-of-new-china-focused-ai-chip-sources/articleshow/105464770.cms"
+    ampWebUrl: "https://m.timesofindia.com/business/international-business/nvidia-delays-launch-of-new-china-focused-ai-chip-sources/amp_articleshow/105464770.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/nvidia-delays-launch-of-new-china-focused-ai-chip-sources/amp_articleshow/105464770.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-105464858,width-1070,height-580,imgsize-32714,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "Key AI Debates For 2024: Nvidia Competitors Threaten Semiconductor Giant's Dominance With Custom Chips"
     excerpt: "Morgan Stanley analyst Brian Nowak delved into how AI conversations will intensify in 2024 and singled out potential beneficiaries."
     publishedDateTime: 2023-11-23T17:58:00Z
@@ -49,6 +65,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Exclusive-Nvidia Delays Launch of New China-Focused AI Chip -Sources"
+    excerpt: "The H20, L20 and L2 include most of Nvidia's newest features for AI work, but have had some of their computing power measures cut back to comply with new U.S. rules, according to SemiAnalysis' analysis of the chips' specifications."
+    publishedDateTime: 2023-11-24T05:53:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-11-24/exclusive-nvidia-delays-launch-of-new-china-focused-ai-chip-sources"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Wipro Leverages NVIDIA AI to Enhance Healthcare Solutions"
     excerpt: "Wipro and NVIDIA join forces to speed up generative AI adoption for healthcare via AI-driven strategies, products and services."
     publishedDateTime: 2023-11-22T02:57:00Z

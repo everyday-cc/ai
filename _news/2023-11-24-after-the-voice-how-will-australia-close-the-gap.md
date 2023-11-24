@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Voice denial a blemish on Australia's history"
+    excerpt: "Denying Indigenous Australians a Voice to Parliament has exposed an absence of compassion that has set our nation backwards in time."
+    publishedDateTime: 2023-11-24T05:00:00Z
+    webUrl: "https://independentaustralia.net/politics/politics-display/voice-denial-a-blemish-on-australias-history,18109"
+    type: article
+    provider:
+      name: independentaustralia.net
+      domain: independentaustralia.net
+    quality: 24
+    images:
+      - url: "https://independentaustralia.net/_lib/slir/w800/i/article/img/article-18109-hero.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "vtXmbgUs2EIsvGDuekSX0/CRr9WdrPwHsJK5jorCqvISjjF5h/duQELBDApw5gAAO5QKRToh2BZlytlAiW9tEJF+ObO4+SJZtGf37NYCddwZ8LzGTBQAnTjFQwpk3DdfWIL25GRAcQv9bDPcOqw8kEmH7AhAgmpsXhz9i3SKH3ip+1aC257Qx8onJt2yszlOpbclESmtrNXdBmY8vGuT6tlyKiInthVYmAMmsCPPgXsJeBMAWvqxFaPYXgqvCwI8OeXyzvGW6YPSO+FKi96rYkT5ezCWBZKG7MLKfY8hXvW30wqpN+5e1RUlV1CqvpzPhPZIc4N0V0Di+n/68mgSEoOpWBkIGlnl2b/Y1Pvr6Unk8i0J0NheYx9UcpcDtCgxJFnEPhAy2yrBKA/Iu4EtmZp6hCs0EX+d7np8FoAjiaRQoyKICLbFNfBiOG0USCe3TrDhVln0W7Vn0O1jHtWyfJm0r4Wk+5jaFsODRxMzxSSlUBoJu7O90xNDdL5wpUDECwjc+UG0A0QDKofvzQOqvA==;tQn1s+X2TkkcLtwI9QtM5g=="
 ---

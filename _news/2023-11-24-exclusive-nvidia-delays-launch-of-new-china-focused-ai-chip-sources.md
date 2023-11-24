@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Key AI Debates For 2024: Nvidia Competitors Threaten Semiconductor Giant's Dominance With Custom Chips"
-excerpt: "Morgan Stanley analyst Brian Nowak delved into how AI conversations will intensify in 2024 and singled out potential beneficiaries."
-publishedDateTime: 2023-11-23T17:58:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/key-ai-debates-for-2024-nvidia-competitors-threaten-semiconductor-giant-s-dominance-with-custom-chips-1032846466"
-webUrl: "https://markets.businessinsider.com/news/stocks/key-ai-debates-for-2024-nvidia-competitors-threaten-semiconductor-giant-s-dominance-with-custom-chips-1032846466"
+title: "Exclusive-Nvidia Delays Launch of New China-Focused AI Chip -Sources"
+excerpt: "The H20, L20 and L2 include most of Nvidia's newest features for AI work, but have had some of their computing power measures cut back to comply with new U.S. rules, according to SemiAnalysis' analysis of the chips' specifications."
+publishedDateTime: 2023-11-24T05:53:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2023-11-24/exclusive-nvidia-delays-launch-of-new-china-focused-ai-chip-sources"
+webUrl: "https://www.usnews.com/news/technology/articles/2023-11-24/exclusive-nvidia-delays-launch-of-new-china-focused-ai-chip-sources"
 type: article
-quality: 68
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/artificial-intelligence-illustration.jpeg"
-    width: 1024
-    height: 768
-    isCached: true
 
 related:
   - title: "As Sales Triple, Why AI-Chip Maker Nvidia’s Stock May Have Peaked"
@@ -54,15 +48,20 @@ related:
         width: 1069
         height: 580
         isCached: true
-  - title: "Exclusive-Nvidia Delays Launch of New China-Focused AI Chip -Sources"
-    excerpt: "The H20, L20 and L2 include most of Nvidia's newest features for AI work, but have had some of their computing power measures cut back to comply with new U.S. rules, according to SemiAnalysis' analysis of the chips' specifications."
-    publishedDateTime: 2023-11-24T05:53:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-11-24/exclusive-nvidia-delays-launch-of-new-china-focused-ai-chip-sources"
+  - title: "Key AI Debates For 2024: Nvidia Competitors Threaten Semiconductor Giant's Dominance With Custom Chips"
+    excerpt: "Morgan Stanley analyst Brian Nowak delved into how AI conversations will intensify in 2024 and singled out potential beneficiaries."
+    publishedDateTime: 2023-11-23T17:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/key-ai-debates-for-2024-nvidia-competitors-threaten-semiconductor-giant-s-dominance-with-custom-chips-1032846466"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/artificial-intelligence-illustration.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Wipro joins hands with NVIDIA to integrate generative AI in healthcare"
     excerpt: "Bengaluru: Leading IT firm Wipro on Tuesday announced a partnership with chip-maker NVIDIA aimed at expediting the integration of generative artificial intelligence (AI) in healthcare enterprises."
     publishedDateTime: 2023-11-21T18:29:00Z
@@ -133,6 +132,6 @@ related:
       domain: theedgesingapore.com
     quality: 19
 
-secured: "K8QI3a9rynfUJXuLY4Uonwn56uYiC7EcjhRRjPDfZFly3l3FVfA+XLUu4r2s+3+l0b2z/z66FPyOILy/VlhQ4Un1kAZANQslDGbFetCbdpBR3YsCzmr58cfYZERPJrKv6XrMlkaqTAWGNJvRXltc+RQnf0pamu0HbXba2bEZpzvY5CScOoiDRogjDZS9aUr9W7yHpK+duk7i+oesVOG3bN9eaaNwkvyuH19GgxUFWImIyNu8+vFDAWECnUdr2MEwRAWiW+OHX4WU4uB2etmEK8xGE7JCF6zfBSFmmvZgbMo/JIMhfknenmiiL2CmukrVkoynpSoHVDecrCvIAbbWpfyrWVI/gJuWYk6+bbKt6gIXq6k760riFcJ71GXyfjr+6pxAladbAj8teo4OHu3eO5gpRl4/+zyq/D5ULfJODC2TJ/+mU48+ttoGNHEdbbgdzASb+KsVh/1Hie0XTLlsY6qCUwRrGeBZb79DEYgQ89pIf6JFVXDkeW/3Fl7Ga/H2JsP+wjMK1bBgCRODcl9Jug==;F5Vu33SUf1m0IBt6xQ67JQ=="
+secured: "iJyYu17dIw/p819uzjrF3FBWer4WOxPvr6xc1vaA8J5P02OfFXt3eamF0hXwtlDLt74soNhWr8qXCRuUqvbWFv27EoedKyvu+xUdIL9dH7Va0Dg/2qKg4YKjkoyrxkr+pW5YD0EWm/OHZatRhjRfExADh/VovWvcRYa6jznWHn+hZUejUO4bvOfk8iJujS5euuYU6VVNyGcfyjuMyR/jcAr9SMttv9+R6zsg7uUXWY5hLFBNo0IfXviQ4rQtwSTOkldt2Q0xs2wXM9/XboPQW5dsFMVCgwqDrZgSfkqJ41+ssgBioxUkurN0kHMv5gubu+K+tsI3IGb6k3n4ixmTPsPymTHbLkTNyP3RkzMcnfCzYG1D9P20MoFDO0scjq8f3+oEftVyVEKjTgFyjmvFgQ+l/e7lO5UnkI6ZwkmR06dyGMUnwTY9b9HkBCYZbgIZ7bM7l2NNNOE++qttonLicFdk2Dn8Gvwkgtt1lgB1e1hsM9vjRea1jyxo7w+D9z+7NeLl2UkqVwh/Bbi8A++fdw==;b6GcEFJ0Uy6StkALHzFEVA=="
 ---
 
