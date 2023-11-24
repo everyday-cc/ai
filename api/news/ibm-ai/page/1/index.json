@@ -359,6 +359,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-17-technique-enables-ai-on-edge-devices-to-keep-learning-over-time.md",
+      "title": "Technique enables AI on edge devices to keep learning over time",
+      "excerpt": "Researchers from MIT, the MIT-IBM Watson AI Lab, and elsewhere developed a technique that enables deep-learning models to efficiently adapt to new sensor data directly on an edge device.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1008379",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1008379",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fd5e2671-0325-46f7-a96c-39b503dd4485/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-16T17:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-16-ibm-launches-watsonxgovernance-to-optimize-ai-management.md",
       "title": "IBM Launches Watsonx.governance to Optimize AI Management",
       "excerpt": "International Business Machines Corporation IBM recently unveiled watsonx.governance, a new addition to its WatsonX AI solution suite, aimed at enhancing the management and monitoring of AI models ...",
@@ -1211,57 +1254,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-fda-fsma-providing-value-beyond-compliance.md",
-      "title": "FDA FSMA: Providing value beyond compliance",
-      "excerpt": "Though the rule doesn’t go into effect until January 2026, companies must proactively and strategically prepare their supply chain now.\nThe post FDA FSMA: Providing value beyond compliance appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/fda-fsma-providing-value-beyond-compliance/",
-      "originalUrl": "https://www.ibm.com/blog/fda-fsma-providing-value-beyond-compliance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/10/DSC_0875-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

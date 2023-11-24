@@ -46,6 +46,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Embedded Smart Cameras Market Eyes a Robust 34.2% CAGR Journey to US$ 1,24,725.1 Million by 2033"
+    excerpt: "The embedded smart cameras market is poised for remarkable growth, with a projected (CAGR) of 34.2% expected between 2023 and 2033. This surge in growth is anticipated to culminate in a substantial market value,"
+    publishedDateTime: 2023-11-24T01:26:00Z
+    webUrl: "https://www.fmiblog.com/2023/11/24/embedded-smart-cameras-market-eyes-a-robust-34-2-cagr-journey-to-us-124725-1-million-by-2033/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 11
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/11/Embedded-Smart-Cameras-Market.jpg"
+        width: 1000
+        height: 392
+        isCached: true
 
 secured: "q6aSPdw7qoHptEKnj8QhtgKD/WofFjNPZhDNJ1u2G5IibZq/Q33gH23TLrQR2/nAsv3nUo0vJaXAQqmjCn981C847AXHPKdKf1LRCyrAhJr4VbRGDK0Bg8JV19l7912ZtqPj1WPTPgrZaxsbxexB5bO0uu7eR93K5T2+L3dRZ+FUDRruXiVODotDE7Pd0m05lbQiUtkBDUoGz83QhYh7q74AjeaaEvLA3hWkoa+6b8z+6fBd1S5UX01712sKA8L59oLyicGu5vsZ48RTKeGBRdo053GCQOP70l4JjbZadsoN4BXK3w2cVrH0KmG5gRqyJx9AZBecCfprnTOyOq00fYmPDhR2+gCB5asmfNeiTBKJenQcCUEYIwwnQN9C/1FA6Zd3SlVxQOrb/Wfl4MTIyT/V32MDQaMspgLZe90/Tsdg9PtLuTLcWstMq/EdQtfYcj3PSyeMgh7v0XtlT4Nii9cB1oKMxLzclpO4P6+FvpWEc0gdgu65kdRbxsiAbNl6+294kQr4pLB/FJLkNhrZLQ==;uQmR/Q69Hr5PCySx1C0DIw=="
 ---

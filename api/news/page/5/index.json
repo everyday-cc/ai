@@ -548,6 +548,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-17-technique-enables-ai-on-edge-devices-to-keep-learning-over-time.md",
+      "title": "Technique enables AI on edge devices to keep learning over time",
+      "excerpt": "Researchers from MIT, the MIT-IBM Watson AI Lab, and elsewhere developed a technique that enables deep-learning models to efficiently adapt to new sensor data directly on an edge device.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1008379",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1008379",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fd5e2671-0325-46f7-a96c-39b503dd4485/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-16T17:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-17-ai-is-already-being-melded-with-roboticsone-outcome-could-be-powerful-new-weapons.md",
       "title": "AI is already being melded with robotics—one outcome could be powerful new weapons",
       "excerpt": "Interest in the incorporation of robots into security, policing and military operations has been steadily increasing over the last few years. It's an avenue already being explored in both North America and Europe.",
@@ -1042,49 +1085,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-reactor-physics-research-advanced-neural-networks-reveal-new-potential-in-solving-k-eigenvalue-problems.md",
-      "title": "Reactor physics research: Advanced neural networks reveal new potential in solving K-eigenvalue problems",
-      "excerpt": "This study introduced two pioneering neural networks, the Generalized Inverse Power Method Neural Network (GIPMNN) and its advanced version, the Physics-Constrained GIPMNN (PC-GIPMNN), to address ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-11-reactor-physics-advanced-neural-networks.html",
-      "originalUrl": "https://phys.org/news/2023-11-reactor-physics-advanced-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/breakthrough-in-reacto.jpg",
-          "width": 1769,
-          "height": 1745,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-11-reactor-physics-advanced-neural-networks.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-reactor-physics-advanced-neural-networks.amp",
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -3,8 +3,8 @@ category: news
 title: "Altman Sought Billions For AI Chip Venture Before OpenAI Ouster"
 excerpt: "In the weeks leading up to his shocking ouster from OpenAI, Sam Altman was actively working to raise billions from some of the world’s largest investors for a new chip venture, according to people familiar with the matter."
 publishedDateTime: 2023-11-19T17:37:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster"
-webUrl: "https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster"
+originalUrl: "https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster?sref=nPlhheXZ&embedded-checkout=true&leadSource=uverify wall"
+webUrl: "https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster?sref=nPlhheXZ&embedded-checkout=true&leadSource=uverify wall"
 type: article
 quality: 64
 heat: -1
@@ -606,6 +606,6 @@ related:
         height: 537
         isCached: true
 
-secured: "6Pf32Ie89CjNwMwKmzDQzhKQjNdRB1Xj0Z6LanzJ5SD8n9NpQKk7aNNY2FfpAsqmWzJHak4PNFlVdFXcqgCgcj02IKmz533KVMP2dzoC/+hDyPMyMqKtK2+AhpMyCzDuXKjF+a/MTUc3aLlTQatF3++TlMYpmfhfdg6uTqfgTYrGw7OMAzRzYKcKnbEXTR72uxjBm8UbCx4QgnSJW6w8sbBHvXimFfodIRa1NIAZPTdLJOKTXOvKtlrqV9aYR6TOIGtDa7M5o+ddMvSPBieh9LV0cPgksJGnTssOOUN5fth2qT2SHot5j0Bz2RRLND6vuDM7i3KWkMwVgXNEv6SjqOsCUfSR/hEVwO6zhK7l0TWboTJDUqFhZPd92i3qHsJr6+Etfu4iOxb44FCuOi1kxpZyvvIdhb0OIxfON1qsjnl1ProXGWwTe4pvkwfn9n+gIAWA4wuNMJkQ2BCAmEsl2063T1CMvgTNw1PeM5C43/AcLXs6JKKts3LTNLzocKr72U5IHGvFSo918rhUzFrGUQ==;L5exvxoazEZoQqYTKTikEw=="
+secured: "YG+CMiBw96Vn/Bg17wNnEbDq+OM35fpRxb4B05VB9RwG/x5mnU7YwSWbs/T/s5/6+MTCBCrKwg3nhkMPm43G65pWyux1fNJvD+eXdIliees2Sv+EmFeEIniHpGk21vCp4iQFMX9i1ZvSnisXX44wrwBaFyVSFbcF59y7U4sb1Fd8ojbq5+A51Bed4ypH6erjNEpG8+uPXgKxmBeT9iNttAHYryO188i2rZMDS6hiNAvjfclSo/4eHNrA7XFGZFXYSRf1g47RxWd5/m4M3apXfxqATdLLT9rv3RA4xsRLVVAq+qJxoKGdnqHgxMWl5P4R6w1NZfCd4DsayrBq5EId/1mS0tolvQtmwJgfHaky8C86pfO6rVBYSODPFr6oWi9/nR871hxbw52GLQi0ei1KJMZdkF/DTZHpmVJR4pkUaeOuk1FBEejlctglU0zvh189HSxfAKOTdgQo2sMb5KEM1aDwp1nwRh/+UNEHUsLxKDf4k+6xVsej88SQ7OCX/UORaiXsFRE0sZY15I9ZkuQ9hw==;lLrKC2LPKX9wjKsHRuMs7w=="
 ---
 

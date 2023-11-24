@@ -2,6 +2,57 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-11-07-openai-ceo-sam-altman-shrugs-off-elon-musk-in-ai-arms-race.md",
+      "title": "OpenAI CEO Sam Altman shrugs off Elon Musk in AI arms race",
+      "excerpt": "OpenAI CEO Sam Altman shrugged off the threat of Elon Musk's new AI startup at the company's developer conference on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/openai-ceo-sam-altman-shrugs-off-elon-musk-in-ai-arms-race/",
+      "originalUrl": "https://venturebeat.com/ai/openai-ceo-sam-altman-shrugs-off-elon-musk-in-ai-arms-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/11/nuneybits_Abstract_painting_of_OpenAI_CEO_Sam_Altman_playing_ch_7ee20a76-b98f-409b-bdb2-cee3dd5eca8c-transformed.png?fit=750%2C600&#038;strip=all",
+          "width": 750,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T00:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-assembly-neos-nuance-dragon-legal-anywhere-empowering-legal-professionals-with-seamless-speech-recognition-integration.md",
       "title": "Assembly Neos + Nuance Dragon Legal Anywhere: Empowering Legal Professionals with Seamless Speech Recognition Integration",
       "excerpt": "\"With Nuance Dragon Legal Anywhere and Neos, legal professionals can create, edit, and review legal documents faster and more accurately than ever before,\" said Daniel Farrar, CEO, of Assembly Software.",
@@ -1163,48 +1214,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-the-history-of-malware-a-primer-on-the-evolution-of-cyber-threats.md",
-      "title": "The history of malware: A primer on the evolution of cyber threats",
-      "excerpt": "Theoretically, malware has been around since the 1960s. Explore how malware has evolved throughout its history.\nThe post The history of malware: A primer on the evolution of cyber threats appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/malware-history/",
-      "originalUrl": "https://www.ibm.com/blog/malware-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

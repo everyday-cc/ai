@@ -3,23 +3,23 @@ category: news
 title: "Co-founder of GM's Self-Driving Unit Resigns Amid Safety Review"
 excerpt: "Dan Kan, a co-founder and senior executive of GM's self-driving unit Cruise, has resigned from the company. Kan's resignation comes just one day after Cruise CEO Kyle Vogt resigned from"
 publishedDateTime: 2023-11-21T20:15:00Z
-originalUrl: "https://www.wyomingnews.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_65ad986b-156d-5744-b8a2-f347d2b34117.html"
-webUrl: "https://www.wyomingnews.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_65ad986b-156d-5744-b8a2-f347d2b34117.html"
+originalUrl: "https://www.djournal.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397.html"
+webUrl: "https://www.djournal.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Wyoming News
-  domain: wyomingnews.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/6/5a/65ad986b-156d-5744-b8a2-f347d2b34117/655d2c67b3cac.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/2/cf/2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397/655d2c0e83f8b.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
     width: 720
     height: 378
     isCached: true
@@ -148,6 +148,6 @@ related:
       domain: autonews.com
     quality: 4
 
-secured: "0Ui676+qL+iygNRuPNHViDd5zS8eHO7FWNCmfEqLq+BTFL6Mrrv/OfyA2z2lv0AYyKt1JZqmi86nkaxVpFqLi2dh6t1W9GjlAUbaWzuVFs4wgogRm4FbRL5mYqSH40/YgUwHtD5BX+t0UGeIXHX+U7kPYyhRydvoEOGHFLABQ4gOckv10HZ89er7b/46EpoRnObRXHtaELgyXktksuO+RiQ+utKQ9sHdz0WPOBrqqOu51+Y4WlvH6UTBC8OsAjaEbc/JNN1RIw12LdDMal+8Q3JzRpCycU4dPoL9G38rpC8EZnCgLO6F9xxhcMSUTtTrQWRFahaWnbCPRsc3gDwAsDAjarJje+KoPcmBU5jlvoc=;MG6GODiNdzMgQ2EyAUp8JA=="
+secured: "+l/h58qtkDbrHf/xjCUqBdnRt4RnQtgBPvi1bh/Fip9399ElA6A+CYFvj7hD/gC0PLpurosmtw3kup5yZlnJ8hrEosdqBBF0qqX2FwQfjMuj3d2Uql4fUdEJBrJUaM21792AnbaD3RuBK+fO++BadUfXiXtxLzpfvyXVYK9PPcsIfRy234XyU1qdaM3/v2y0g7Yyg9bPlT5se55z3axAVtMwMRvyH8nz4zKfwabUCSKPprcxy5f2oPJnMPub7GhkT9sVXxX8Kvb2uE0vMy33GxBxwfOS1fOxKU2yxe84uA8LTKhNkcmtHJJ0mHjoIXWGKbXLIAPNJFZotl6OotZX4pL+AoZsgsrKvHzBh3QSLb0=;9LeS8QNpLmpkJuZTVrq07Q=="
 ---
 

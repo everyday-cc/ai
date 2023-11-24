@@ -244,7 +244,7 @@ related:
   - title: "Altman Sought Billions For AI Chip Venture Before OpenAI Ouster"
     excerpt: "In the weeks leading up to his shocking ouster from OpenAI, Sam Altman was actively working to raise billions from some of the world’s largest investors for a new chip venture, according to people familiar with the matter."
     publishedDateTime: 2023-11-19T17:37:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster"
+    webUrl: "https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster?sref=nPlhheXZ&embedded-checkout=true&leadSource=uverify wall"
     type: article
     provider:
       name: Bloomberg L.P.

@@ -2,6 +2,40 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-11-09-artificial-intelligence-for-dummies.md",
+      "title": "Artificial intelligence for dummies",
+      "excerpt": "There has been great progress in narrow forms of artificial intelligence, like self-driving vehicles and automated legal systems, but the only threat they pose, if any, is to jobs. That’s not a ...",
+      "sourceUrl": null,
+      "webUrl": "https://trinidadexpress.com/opinion/columnists/artificial-intelligence-for-dummies/article_3d858c54-7f60-11ee-aaf4-673d3c78cb14.html",
+      "originalUrl": "https://trinidadexpress.com/opinion/columnists/artificial-intelligence-for-dummies/article_3d858c54-7f60-11ee-aaf4-673d3c78cb14.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Trinidad Express Newspapers",
+        "domain": "trinidadexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
       "title": "Honda planning self-driving electric vehicle fitted with AI",
       "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing. Honda ...",
@@ -1127,57 +1161,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-the-strong-case-for-board-oversight-of-artificial-intelligence.md",
-      "title": "The Strong Case For Board Oversight Of Artificial Intelligence",
-      "excerpt": "The massive scope of the Biden Administration’s new Executive Order on AI makes clear the vital role to be played by the board of directors in the application of this extraordinary new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654ba61fde642bcaaf7854bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelperegrine/2023/11/08/the-strong-case-for-board-oversight-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-11-08T15:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

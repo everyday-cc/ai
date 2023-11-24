@@ -200,6 +200,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Spanish influencer agency designed this AI model after deciding real-life influencers are a pain"
+    excerpt: "Meet Aitana Lopez, a gorgeous young influencer from Barcelona who has 122,000 followers on Instagram - even though she's an AI creation."
+    publishedDateTime: 2023-11-24T01:11:00Z
+    webUrl: "https://bgr.com/business/spanish-influencer-agency-designed-this-ai-model-after-deciding-real-life-influencers-are-a-pain/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 24
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/11/Screenshot-2023-11-23-at-10.39.09 AM.jpg?quality=82&strip=all"
+        width: 1242
+        height: 830
+        isCached: true
   - title: "Rocketlane Unveils 'AI at Work' Report Showcasing the Impact of Artificial Intelligence on Modern Workplaces Across the Globe"
     excerpt: "Rocketlane remains at the forefront of empowering businesses to streamline operations and enhance customer experiences through cutting-edge technologies. The 'AI at Work' report is a valuable resource for industry leaders, providing insights into the evolving landscape of AI adoption and its impact on business success."
     publishedDateTime: 2023-11-21T14:02:00Z

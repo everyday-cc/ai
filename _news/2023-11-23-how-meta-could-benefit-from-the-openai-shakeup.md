@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/11/22/how-meta-could-benefit-from-the-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/22/how-meta-could-benefit-from-the-openai-shakeup.html"
 type: article
 quality: 89
-heat: 279
+heat: 289
 published: true
 
 provider:
@@ -152,6 +152,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/4f8463ac76baecd281714a8d1cd460f04856f42a/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=cbf2b7b0a793fb8fd30d3e7c0a7e97ae"
         width: 620
         height: 372
+        isCached: true
+  - title: "AI Startup Cohere’s CEO Slams Effective Altruism in Wake of OpenAI Drama"
+    excerpt: "The chief executive officer of artificial intelligence startup Cohere criticized the “self-righteousness” of the effective altruism movement and those overly concerned with th"
+    publishedDateTime: 2023-11-24T01:06:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-cohere-s-ceo-slams-effective-altruism-in-wake-of-openai-drama-71700717899430.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-cohere-s-ceo-slams-effective-altruism-in-wake-of-openai-drama-71700717899430.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-cohere-s-ceo-slams-effective-altruism-in-wake-of-openai-drama-71700717899430.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 56
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/11/24/1600x900/UK-GOMEZ-8_1700787630959_1700787649517.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "OpenAI’s Board Set Back the Promise of Artificial Intelligence"
     excerpt: "I was the first venture investor in OpenAI. The weekend drama illustrated my contention that the wrong boards can damage companies. Fancy titles like “Director of Strategy at Georgetown’s Center for Security and Emerging Technology” can lead to a false sense of understanding of the complex"

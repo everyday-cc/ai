@@ -158,6 +158,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Meta’s Responsible AI Team Disbanded, Paves the Way for Generative AI Dominance"
+    excerpt: "Meta, the parent company of Facebook and Instagram, has dissolved its Responsible ... projects like the custom silicon unit in its Reality Labs and the Fundamental AI Research department with its AI protein-folding team. Zuckerberg said, “Our single ..."
+    publishedDateTime: 2023-11-21T01:12:00Z
+    webUrl: "https://techreport.com/news/metas-responsible-ai-team-disbanded-paves-the-way-for-generative-ai-dominance/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 35
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/11/shutterstock_2297040931.jpg?_t=1700557978"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "BP Says It's Expanding Use of Generative AI"
     excerpt: "“The service uses artificial intelligence and natural language processing to automate a variety of daily tasks such as writing emails and managing inboxes,” BP noted in the release. “By using the capabilities of copilot for Microsoft 365, BP can help ..."
     publishedDateTime: 2023-11-22T10:01:00Z

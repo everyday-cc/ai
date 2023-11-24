@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2023/11/22/cyber-security-in-robotics-mark
 webUrl: "https://www.fmiblog.com/2023/11/22/cyber-security-in-robotics-market-surges-ahead-with-a-striking-projected-value-of-us-11-6-billion-by-2033/"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.fmiblog.com/wp-content/uploads/2023/11/Education-4-1.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Embedded Smart Cameras Market Eyes a Robust 34.2% CAGR Journey to US$ 1,24,725.1 Million by 2033"
+    excerpt: "The embedded smart cameras market is poised for remarkable growth, with a projected (CAGR) of 34.2% expected between 2023 and 2033. This surge in growth is anticipated to culminate in a substantial market value,"
+    publishedDateTime: 2023-11-24T01:26:00Z
+    webUrl: "https://www.fmiblog.com/2023/11/24/embedded-smart-cameras-market-eyes-a-robust-34-2-cagr-journey-to-us-124725-1-million-by-2033/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 11
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/11/Embedded-Smart-Cameras-Market.jpg"
+        width: 1000
+        height: 392
         isCached: true
   - title: "AI in Drug Discovery Market to Surge at a Revenue of US$ 8.10 Billion By 2030 | Astute Analytica"
     excerpt: "The AI in Drug Discovery Market is expected to reach a valuation of US$ 8.10 billion by 2030, growing at a CAGR of 25% during the forecast period from"

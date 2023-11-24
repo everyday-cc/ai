@@ -24,6 +24,22 @@ images:
     height: 485
     isCached: true
 
+related:
+  - title: "Truth after the Voice"
+    excerpt: "The lost opportunity of the Voice referendum revealed Australians’ poor understanding ... After 12 years of a formal recognition process in Australia, the caravan was poised to leave. The mass exoneration of the nation for the defeat of recognition ..."
+    publishedDateTime: 2023-11-24T01:44:00Z
+    webUrl: "https://www.themonthly.com.au/issue/2023/december/megan-davis/truth-after-voice"
+    type: article
+    provider:
+      name: The Monthly
+      domain: themonthly.com.au
+    quality: 24
+    images:
+      - url: "https://www.themonthly.com.au/sites/default/files/styles/the_nation_reviewed/public/Davis_1223_social.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+
 secured: "vtXmbgUs2EIsvGDuekSX0/CRr9WdrPwHsJK5jorCqvISjjF5h/duQELBDApw5gAAO5QKRToh2BZlytlAiW9tEJF+ObO4+SJZtGf37NYCddwZ8LzGTBQAnTjFQwpk3DdfWIL25GRAcQv9bDPcOqw8kEmH7AhAgmpsXhz9i3SKH3ip+1aC257Qx8onJt2yszlOpbclESmtrNXdBmY8vGuT6tlyKiInthVYmAMmsCPPgXsJeBMAWvqxFaPYXgqvCwI8OeXyzvGW6YPSO+FKi96rYkT5ezCWBZKG7MLKfY8hXvW30wqpN+5e1RUlV1CqvpzPhPZIc4N0V0Di+n/68mgSEoOpWBkIGlnl2b/Y1Pvr6Unk8i0J0NheYx9UcpcDtCgxJFnEPhAy2yrBKA/Iu4EtmZp6hCs0EX+d7np8FoAjiaRQoyKICLbFNfBiOG0USCe3TrDhVln0W7Vn0O1jHtWyfJm0r4Wk+5jaFsODRxMzxSSlUBoJu7O90xNDdL5wpUDECwjc+UG0A0QDKofvzQOqvA==;tQn1s+X2TkkcLtwI9QtM5g=="
 ---
 

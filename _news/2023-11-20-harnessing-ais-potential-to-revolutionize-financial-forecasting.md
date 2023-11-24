@@ -103,6 +103,20 @@ related:
         width: 776
         height: 600
         isCached: true
+  - title: "Artificial intelligence: who are the leaders in AI in damage estimation for the automotive industry?"
+    excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
+    publishedDateTime: 2023-11-24T02:01:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-ai-in-damage-estimation-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 37
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/AI-in-damage-estimation.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "f40sZYjulZO9iVpHcyPDnaQ2KrigHlcof3SIvBVsE7QpssJWbg1bHSjiHEDutPAHMB3BXoXjRPPfd08BvkW1kVYFvwZk5fPE3POcs5iSqSn8CJaxJCBLXX2I5pe6Ph/t4V4TAlbHbtkrXSJCkOc9dPu5N2g5zeE62lFLoUgFI2VuFoSsGGC/J8uA9gdBwX6HZLK4LyufsL22/jNHelSkWnwrDliM4bDEQ1A3pgNQl9gx27ggi3ic61lGZQMWOYnBIfJsileennoHxpru+j8TAk27/URiMbIJy9MnwPi8auTGArBYlGCnLOeygIakYpbcFTPxWksxWE8g7ZZTzPYSoX3MC2fROwedoaIDhqVkzDLE3Bj0FXDEGbvz4bEM7at+W6YRBLyU/ZNUgIUSbJX6yDDBtX+anlVRK0J8D1YNt+9T/YBJLCze5JAceut7j/DSlBjERr2sEfG10uC7/JLb0qSgBW57mpLhBxhhhoMo7eqYa6v7qp9Z7bbNEFK8PeUe61BrfpnECRnhBtl31abUag==;Rr4hGVNq9EMlET6S2DZdsg=="
 ---

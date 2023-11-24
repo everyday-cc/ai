@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://snworksceo.imgix.net/ohi/46d06f70-b794-4f33-92d0-a5f49f020eff.sized-1000x1000.png?w=800&h=600"
         width: 776
         height: 600
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in AI in damage estimation for the automotive industry?"
+    excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
+    publishedDateTime: 2023-11-24T02:01:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-ai-in-damage-estimation-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 37
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/AI-in-damage-estimation.jpg"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "hN4Gv4JK6Yo8ZClCfIEfuIrt9W0r5qNcQ6EyjqA/m6t4chgTFGqZzputB6xL/3MV+yhMauRepTFPzAw13gniEvkNSMvOBAOuEZ3vKZKGwJe49MJOyAyn6UT6jcO7/0DLwXalULDiiq0HISWGHGK4mgwOJSjIKA4WEZ1+aHROHDX3vNdMHWQwW3WaGrqJhZgJ4Qj0BDSHHbFpnx9AFrFE2JMz1yTAK3U9xbSPiuKPDzXzzvgk7WKQmftUDSFkPQG0PBTetGBkDyhC9Te51SGVY3d1BnCTq4kFzkQcXNM5numKDl8X/Ob0d1/7s7w0voerQSmbIdHsAHVJqnre6DippF7AGxJTuhjAWe6s16uhz45UMvcz41FDO7yvM3oHRQ8E1humhB6RTNFlBRtLqpv29nEB4Wzp4NtOuo3ooZkPIVgKTecT8R88AKFHTbnP73EW3kgGp8jYH87kvMf2OZwRPDnHSiLocjKalpguL1tWvSHUT5qjAdMltx1vjaPGwpJIybatv1nkMmJZpqfZLV6E1w==;78R9j4vwfizfXDRaeITN1Q=="
