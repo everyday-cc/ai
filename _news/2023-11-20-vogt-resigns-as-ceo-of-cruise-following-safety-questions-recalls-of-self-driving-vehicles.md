@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
-excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars. Vogt’s decision to step down, announced late Sunday ..."
-publishedDateTime: 2023-11-20T14:29:00Z
-originalUrl: "https://www.bostonglobe.com/2023/11/20/business/vogt-resigns-ceo-cruise-following-safety-questions-recalls-self-driving-vehicles/"
-webUrl: "https://www.bostonglobe.com/2023/11/20/business/vogt-resigns-ceo-cruise-following-safety-questions-recalls-self-driving-vehicles/"
+title: "Vogt Resigns as CEO of Cruise Following Safety Questions, Recalls of Self-Driving Vehicles"
+excerpt: "Vogt Resigns as CEO of Cruise Following Safety Questions, Recalls of Self-Driving Vehicles Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build ..."
+publishedDateTime: 2023-11-20T04:52:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2023-11-19/vogt-resigns-as-ceo-of-cruise-following-safety-questions-recalls-of-self-driving-vehicles"
+webUrl: "https://www.usnews.com/news/business/articles/2023-11-19/vogt-resigns-as-ceo-of-cruise-following-safety-questions-recalls-of-self-driving-vehicles"
 type: article
-quality: 14
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Kppzcmm788btNPz0ZGvSRGJGP0c=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XEOENH2MWXH7ZM5VLLKUF7YAFE.jpg"
-    width: 506
-    height: 338
-    isCached: true
 
 related:
   - title: "Vogt resigns as CEO of Cruise following safety concerns over self-driving vehicles"
@@ -95,14 +93,14 @@ related:
   - title: "Co-founder of GM's Self-Driving Unit Resigns Amid Safety Review"
     excerpt: "Dan Kan, a co-founder and senior executive of GM's self-driving unit Cruise, has resigned from the company. Kan's resignation comes just one day after Cruise CEO Kyle Vogt resigned from"
     publishedDateTime: 2023-11-21T20:15:00Z
-    webUrl: "https://www.djournal.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397.html"
+    webUrl: "https://www.wyomingnews.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_65ad986b-156d-5744-b8a2-f347d2b34117.html"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
+      name: Wyoming News
+      domain: wyomingnews.com
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/2/cf/2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397/655d2c0e83f8b.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/6/5a/65ad986b-156d-5744-b8a2-f347d2b34117/655d2c67b3cac.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
         width: 720
         height: 378
         isCached: true
@@ -153,6 +151,6 @@ related:
       domain: autonews.com
     quality: 4
 
-secured: "WSdOad1tG4jEv72QGtF/qo/PMdrz1HbZUgutJYxl6eARISdRr1hRqWjB0mufv9DPVApg0FJTQX2CBzqio48IC84DrLO7GS9NWtjD+2x2w7uGKnmWzkw/V4D8pVGVimvpeF8Pymqm3kpsDMACleDRKk/FyC/6L8RT+WBCnXf7tw6AnNXdemyxMHldwf2sdov9JPmlCwOjrZf6c3c3oM9DiaKicDOEoL1ic5spq9w7FFnr9WKuaqlWZFUrjmKHhlkWh+f8zAtyv2cu4XPA698ITzDokQ+84G6i345KQMRR2KuXwI1Tcn9BMEfKyhbmHflkMTKGQAbKUYcV5LKRhPL2eUH2dgM5RDKpMwsPphiptlo=;+3249hGo+e1UTm36pU7Nsg=="
+secured: "60SQDEeS0kOKkKme/IBbNgVqo0qd22d3Hj5HIplF8XBOUEc3oOsJk8C0SCe9LbnvB9sx77MTKDgO7vknmuDxi7qN3dHAqOJUo8Fqxk0Z39zs6+QYdWMvRd+fJaE8FFSsI2QOBmapq8lNLraojY2vsMROa2eB7w2ST6Ug5AL/vdKfOP44lB4oYjprQriRy/9X+6izSAzac9JcgFu26/G0RqDrrFHyW1/AkMiu7rB7M97UYq+GgtabXN5warjw8qehT8EyWsdQtd4STs23d5qNuoB4tLWjBzFdTgdCni1VuBJXVL3IWj+zJsYf1D/oIpZ/CuEifPknr3y45kz/vLUct64uH/D/9cQn49IDfszVNuc=;exxbVDaf7iC9Ab5MUIEnHg=="
 ---
 

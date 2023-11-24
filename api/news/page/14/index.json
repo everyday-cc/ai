@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-11-09-deadly-robot-mistook-human-for-box-killed-man-and-raised-safety-concerns.md",
+      "title": "Deadly Robot Mistook Human for Box, Killed Man, and Raised Safety Concerns!",
+      "excerpt": "The tragedy occurred at a factory in Seoul, South Korea. The factory had been using robotic workers to reduce costs, as have many of their competitors. The industrial robot was tasked with lifting and stacking boxes of vegetables onto pallets. This helped the factory save time and money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/11/09/robot-crushes-man-to-death/",
+      "originalUrl": "https://www.gizmochina.com/2023/11/09/robot-crushes-man-to-death/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/11/robot-crushes-man-to-death.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T15:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-guest-opinion-artificial-intelligence-will-save-lives-if-skeptics-dont-derail-progress.md",
       "title": "Guest opinion: Artificial intelligence will save lives If skeptics don’t derail progress",
       "excerpt": "I hope Congress will consider our mission, our progress, and positive health care opportunities when they consider legislation and regulation about AI.",
@@ -1088,49 +1140,6 @@
       "provider": {
         "name": "Trinidad Express Newspapers",
         "domain": "trinidadexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
-      "title": "Honda planning self-driving electric vehicle fitted with AI",
-      "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing. Honda ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asahi.com/ajw/articles/14760121",
-      "originalUrl": "https://www.asahi.com/ajw/articles/14760121",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p.potaufeu.asahi.com/c996-p/picture/27207743/e21cf678151f1180730d954a38af462c.jpg",
-          "width": 660,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "朝日新聞社",
-        "domain": "asahi.com",
         "images": null,
         "publishers": null,
         "authors": null

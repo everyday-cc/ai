@@ -212,6 +212,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft brings ChatGPT AI to Windows 11’s command line, and here’s a closer look"
+    excerpt: "ChatGPT-powered “AI chat” on Windows 11. ChatGPT integration is now available in Terminal (Canary), a new development channel to test experimental features ahead of a wider rollout. With ChatGPT AI Chat in Terminal,"
+    publishedDateTime: 2023-11-24T00:20:00Z
+    webUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/"
+    ampWebUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
+    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
+    type: article
+    provider:
+      name: Windows Latest
+      domain: windowslatest.com
+    quality: 68
+    images:
+      - url: "https://www.windowslatest.com/wp-content/uploads/2023/09/Windows-Terminal-with-AI-on-Windows-11.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Makes Big AI Investment Hiring Altman And Brockman"
     excerpt: "The duo is widely respected for their work on artificial intelligence, and their arrival at Microsoft is seen as a significant win for the company."
     publishedDateTime: 2023-11-20T19:28:00Z
@@ -348,15 +364,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "OpenAI’s leadership coup could slam brakes on growth in favor of AI safety"
-    excerpt: "All the signs point to a split between co-founder Ilya Sutskever and Sam Altman, after Sutskever become increasingly concerned that Altman was pushing OpenAI's business expansion too quickly, at the expense of safety."
-    publishedDateTime: 2023-11-18T23:02:00Z
-    webUrl: "https://venturebeat.com/ai/openais-leadership-coup-could-slam-brakes-on-growth-in-favor-of-ai-safety/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
   - title: "Sam Altman's firing at OpenAI reflects schism over future of AI development"
     excerpt: "The rift that cost artificial-intelligence whiz kid Sam Altman his CEO job at OpenAI reflects a fundamental difference of opinion over safety, broadly, between two camps developing the world-altering software and pondering its societal impact."
     publishedDateTime: 2023-11-20T18:17:00Z
@@ -459,6 +466,20 @@ related:
       - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1700517350/231120-Anslow-OpenAI-tease_jwyhym"
         width: 1480
         height: 832
+        isCached: true
+  - title: "What the OpenAI drama means for AI progress — and safety"
+    excerpt: "Stability AI and Cohere are other often-cited rivals. West notes that these start-ups rely heavily on the vast and expensive computing resources provided by just three companies — Google, Microsoft and Amazon — potentially creating a race for dominance ..."
+    publishedDateTime: 2023-11-23T23:43:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-03700-4"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03700-4/d41586-023-03700-4_26348126.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "View | Microsoft's (Open)AI gambit pays off unexpectedly"
     excerpt: "Sam Altman's departure from OpenAI to Microsoft marks a seismic shift in AI, potentially reshaping the competitive dynamics. Microsoft's strategic move may position it as a leader, intensifying tensions in Silicon Valley over innovation,"

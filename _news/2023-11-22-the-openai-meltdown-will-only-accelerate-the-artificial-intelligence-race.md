@@ -3,8 +3,8 @@ category: news
 title: "The OpenAI meltdown will only accelerate the artificial intelligence race"
 excerpt: "Optimists and ‘doomers’ are fighting over the direction of AI research – and those who want speed may have won this round"
 publishedDateTime: 2023-11-22T09:11:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
-webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration?ref=upstract.com"
+webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
 type: article
@@ -171,6 +171,6 @@ related:
       domain: businessinsider.com
     quality: 15
 
-secured: "WfAl1e0wECxMulhmYZco1VMOOk0LTI1+QDiGALDDK++mhC82I+hAWbiF89/qWispwEgj4yPHpo3B0nZYWMF+5a5FHnRR+Csp9e9tr9hhSpkANOGGkHtlREXsR3HXzehIqst/YxZrjQB3KQDn+i6Kd4IQ6xnpFVfP7++H3ZoJeM6BNVFyMsjnkLjB6siTPsX8wa7Hi6Ndskqu7kFVwk0CK6R0g36eRUoMSChV0UikA/wFFHtbKSgUZ1gZiXyBRmzLIrxApb65j6z3F6SWYbYwXUj9Brma6ZzDCktcwKPRFCu5uVz/ghEoV5ovgrnhYb7VOlsqzn8cz2ni0Xg1gNonyg2y8jQ0TVlHYPnux+HLZxty8zCvajliHibhxjzrvsFXgoT7PRr1CrLvBp6TjAnwuGiOS16UTHZV0K4UtO3cjzZ9sdlrOBPJqhrY33GUDBhYHnv2bc83VDx9JvXzMqgAAI+mfi+J8EMQJ6A7ARSzGWlEASPVVBA8O90oMVfsDXyt/COtC3phqe737I0tmHH7Iw==;9sTVjTDV+7r2OsNJkMLHvA=="
+secured: "4949fdEFcoBXgJwpyxKwFafmYB8vqVzIVSwWFm2m42Lww6/U4FPnCnuon1f/BgdpKFhRH2sL11jhGdWMqnBzpu2FT7GAocz2Wnfh0B9ut4yp+GtRB0p/MN4zKhlVXwtElu6zzWirQ1+jAx45PqkHl/44RfNQWCzuzgw7xizSB2AyjUlCc8uMrCxhveXJwcnnAqoFDSM7cHrrHrt0dGyqgJM40IQbyHdXRwHAKLWeyNm3yMNe+R54oI0PwlYl8BkHm/79hGu6FOy/mcG1KOHuDmq2mGLttJTdLcMMs1V4eHMz12UmYIQCoN/NP9qSD9UsYp38wUTIpHpgxU8N/IzvUdTwpNsfD27fHuqE20OTiKU=;WRrSjHuOEEnGFjxyjK9n0g=="
 ---
 

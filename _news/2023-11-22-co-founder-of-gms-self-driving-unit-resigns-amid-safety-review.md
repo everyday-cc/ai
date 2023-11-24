@@ -3,23 +3,23 @@ category: news
 title: "Co-founder of GM's Self-Driving Unit Resigns Amid Safety Review"
 excerpt: "Dan Kan, a co-founder and senior executive of GM's self-driving unit Cruise, has resigned from the company. Kan's resignation comes just one day after Cruise CEO Kyle Vogt resigned from"
 publishedDateTime: 2023-11-21T20:15:00Z
-originalUrl: "https://www.djournal.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397.html"
-webUrl: "https://www.djournal.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397.html"
+originalUrl: "https://www.wyomingnews.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_65ad986b-156d-5744-b8a2-f347d2b34117.html"
+webUrl: "https://www.wyomingnews.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_65ad986b-156d-5744-b8a2-f347d2b34117.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Wyoming News
+  domain: wyomingnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/2/cf/2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397/655d2c0e83f8b.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/6/5a/65ad986b-156d-5744-b8a2-f347d2b34117/655d2c67b3cac.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
     width: 720
     height: 378
     isCached: true
@@ -59,6 +59,15 @@ related:
     excerpt: "WASHINGTON (Reuters) - U.S. Transportation Secretary Pete Buttigieg said Monday the federal government will do \"everything we can\" using existing regulatory powers to ensure General Motors robotaxi unit Cruise and other autonomous vehicles are deployed safely."
     publishedDateTime: 2023-11-20T15:13:00Z
     webUrl: "https://money.usnews.com/investing/news/articles/2023-11-20/buttigieg-vows-to-do-everything-we-can-to-ensure-cruise-other-self-driving-vehicles-safe"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 24
+  - title: "Vogt Resigns as CEO of Cruise Following Safety Questions, Recalls of Self-Driving Vehicles"
+    excerpt: "Vogt Resigns as CEO of Cruise Following Safety Questions, Recalls of Self-Driving Vehicles Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build ..."
+    publishedDateTime: 2023-11-20T04:52:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2023-11-19/vogt-resigns-as-ceo-of-cruise-following-safety-questions-recalls-of-self-driving-vehicles"
     type: article
     provider:
       name: U.S. News & World Report
@@ -107,20 +116,6 @@ related:
         height: 700
         isCached: true
   - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
-    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars. Vogt’s decision to step down, announced late Sunday ..."
-    publishedDateTime: 2023-11-20T14:29:00Z
-    webUrl: "https://www.bostonglobe.com/2023/11/20/business/vogt-resigns-ceo-cruise-following-safety-questions-recalls-self-driving-vehicles/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 14
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Kppzcmm788btNPz0ZGvSRGJGP0c=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XEOENH2MWXH7ZM5VLLKUF7YAFE.jpg"
-        width: 506
-        height: 338
-        isCached: true
-  - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
     excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars. Vogt's decision to step down, announced late Sunday ..."
     publishedDateTime: 2023-11-22T05:18:00Z
     webUrl: "https://www.wral.com/story/vogt-resigns-as-ceo-of-cruise-following-safety-questions-recalls-of-self-driving-vehicles/21158901/"
@@ -153,6 +148,6 @@ related:
       domain: autonews.com
     quality: 4
 
-secured: "ZmynGBZc+K/alIxXDzqbHse8cjVI1SI6yrAFpAWZcxJbTqjHz4aNWbyZdpbSAPCqCE1HbNPIwL1d+nap/atep4WRQdB9lzi09TNghYgKRsulflUychtOFmjal9j+Bmu+7IAbos8KyOw1ldh9nTYZMVx89DHW7Fp2mohZvMZmeJL8bBg9Zt8Q3VSls5sFrluX9mQBUxRNCfkK4cmpGFeqLq0VbUHICSZ3u9CJW8D5x9afBulovyUcR8vXxddQzwLfnqziDNJfYvSD0SEiU1SCNEPhPBuYiwX+Ug+z3kjLgzg+c0hMOs21Eg3X7TzzdFQFCFOJd6q8WRUjBmMrzNm/8NkKrCpw5FWMdJGMJ7bBsIYkzaKkWf82OA9WXankEFh4Nx1RFteCHnDgXc+XtmEYI0fGwpGgiLiCoVOeqMVElWvF9Cp9rpDJqOcJudnGWbGySv5qB9AgOGFvRlVusGgGq2kvAWoRZ2f4QZIzG0+XjwXm2uAHYp7nmiq18T19yP6Zo6JQQUdR+j4I8PovOdUhWQ==;sfYm6A1CE75icednOY9wjA=="
+secured: "0Ui676+qL+iygNRuPNHViDd5zS8eHO7FWNCmfEqLq+BTFL6Mrrv/OfyA2z2lv0AYyKt1JZqmi86nkaxVpFqLi2dh6t1W9GjlAUbaWzuVFs4wgogRm4FbRL5mYqSH40/YgUwHtD5BX+t0UGeIXHX+U7kPYyhRydvoEOGHFLABQ4gOckv10HZ89er7b/46EpoRnObRXHtaELgyXktksuO+RiQ+utKQ9sHdz0WPOBrqqOu51+Y4WlvH6UTBC8OsAjaEbc/JNN1RIw12LdDMal+8Q3JzRpCycU4dPoL9G38rpC8EZnCgLO6F9xxhcMSUTtTrQWRFahaWnbCPRsc3gDwAsDAjarJje+KoPcmBU5jlvoc=;MG6GODiNdzMgQ2EyAUp8JA=="
 ---
 

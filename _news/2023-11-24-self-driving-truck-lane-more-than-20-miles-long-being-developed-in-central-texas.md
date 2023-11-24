@@ -91,29 +91,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Self-driving cars stay stuck in the slow lane"
-    excerpt: "Would you trust a self-driving car with your safety? If the idea of getting into a car with no steering wheel makes you feel distinctly nervous, then you’re probably not alone."
-    publishedDateTime: 2023-11-23T11:03:00Z
-    webUrl: "https://www.businesspost.ie/article/self-driving-cars-stay-stuck-in-the-slow-lane/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 24
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=e3b544bd-b5d6-52f1-b76f-ffddb1e3bf11&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=4500&height=2531&x=1.0E-5&y=0.07865"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "The future is here: Autonomous trucking company Aurora expects its Texas freights to be fully self-driving by end of 2024"
-    excerpt: "Aurora's trucks are equipped with long range lidar, radar and cameras. The company says its trucks use that technology to see four football fields ahead on highways."
-    publishedDateTime: 2023-11-19T00:40:00Z
-    webUrl: "https://www.myfoxzone.com/article/tech/autonomous-trucking-self-driving-trucks-texas-2024/287-53c8ae3c-252d-45b2-aa5f-eb40e7e868fa"
-    type: article
-    provider:
-      name: KIDY
-      domain: myfoxzone.com
-    quality: 0
 
 secured: "HPtjNnzwNdsnlH+7RJ6KzyOIuXZZCzPeJ8rfTXMCgu43vbIGSL+nUqadrKr3uuSCs2wnn1/2/FLvfgZJ3CqWpnKoRysRKV/gwf2eGddlO+H2puZcPYxLhveSYlEdhFNr6HWIEM2mJypi4ISgquqtMXNsSkPe0q+XqpGQM6OfIVB6WVwiVj1MEO/Cuh+VpgxQlag3MfWjJzJSdluU8xJkjDmzY1HuizyriglRc+l/N602I3jcT+LWbS5IHiWu8Y7uS1zEHCUpoxWh10Iz1+qfMIEmbkS6Q5EwvI+HQKoVkiGfisZpZGUFfY2vPwvjIIkQHpxByvMDzbp01fUNbxgK1wRGUQHhMFo0cOVpThzqLoVcVnc3f3bO9sjD4IDTA/MvtZr6pAF/jYQZbkCTQljiXaSl8E5qBAL1DQz83KoXKoHZwrYeRXc4I7ZdtjvbfEwnnHOelM9BpmXUVWUT9x0Yj2hSh+CFNvKO1p8YRhlYw23Fdt1H3sfzCl53+0wkfJZVEX+bZgZ9aZOTuxsoJ0nfWw==;OInP98Ju/FJ9OGr+qvoWPg=="
 ---

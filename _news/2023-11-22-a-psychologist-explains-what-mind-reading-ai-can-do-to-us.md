@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/amp/"
 type: article
 quality: 91
-heat: 95
+heat: 99
 published: true
 
 provider:

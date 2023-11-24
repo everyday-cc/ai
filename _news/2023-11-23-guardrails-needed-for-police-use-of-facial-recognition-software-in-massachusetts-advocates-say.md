@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police
 cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/amp/"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -55,23 +55,7 @@ related:
         width: 2048
         height: 792
         isCached: true
-  - title: "Police to roll out controversial new facial recognition software which enables officers to take photos of suspects on their mobile phones and search for a match within seconds"
-    excerpt: "The controversial app, known as Operator Initiated Facial Recognition (OIFR), has already been trialled by three police forces using software called iPatrol. Last night the National Police Chiefs ..."
-    publishedDateTime: 2023-11-19T00:00:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12766589/Police-controversial-facial-recognition-software.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12766589/amp/Police-controversial-facial-recognition-software.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12766589/amp/Police-controversial-facial-recognition-software.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 7
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/11/19/00/77977245-0-image-m-110_1700355148666.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "6f6us4NwCnW913YbMrMz8r8hJXY2BJoc0nekgww2sy5tabT9V/tJEBQaXEniBJZLD8Ps0BANf194M55WBXhP0MFygJLywOKMBGBFuO3ixg3fhNbQOmwEAN2pyluDexxN9LLmnwWryvop49/q6eBPMnGN6uaqNjeB9znRYAbC+2QvU2PwFdVut9YT4MGqwK+TF4C5V08c1hosVTm+Xj6zMWXbJJQ89ZQhDFR/2RRCUD4aobj1ZsCKsyjaW8rBY0MfeIHPKIwbmyWfULk7f71roLYHkSHsGXVquaaPhlLZ4tdJfMRXdUJuNMESTqEW8crEM/o2S9QnexkoZa/9+YFB2LliHCVxHyOY14o2MaWp32I=;d+lVxSGZGroZHXpFowamCg=="
+secured: "wOebjl0wY0Bm4UQABJOQneyp7KzyK1PmLDkaspb15gwX6y7ik0CQn2prOdS6Qko0Wm20bNWxnMaJPnkOKsQ2O+ngJliD87Y0hBRIaKaXxhxBcKfjvls6Al94+5EdT6PFjnxKadvcOWYP4iFCJSdoHabWSAtC4l0W71pnFvl9GK+z/ojiyvNj1tuQ8gfvk026/7/xkAldYay0vSr5v8XtsRKowyzUJT9sEbBuSMuhahglgAn/PK1IQ/Tugt/GsGAZKYH6bZPt0S2GgXxXTUwwOJvFJLW/xODCGYqtat+d0col7Of8o8mBkvQtPSaG6D1bvJMFfTOEyH6yUci4HWFM7oiDHE9M3TvBNX+VpmFk2qNK9bxdQbcF1CYc99Wg+09aK3hY1uwLNf5emZAW+toj3WbwQFfBWheSBt4vcgqEO3FaZPia9v/qWWc6xqbsUfWdQbnjUPU0c2cO4Vb/KS7Yq0urdlekdi/N/a4JYRAljsAhHfI8YVwlBcNDVt/X9HeZjdgMTi6kb3KI3HZsearuGA==;kVr9qZSXC95xya4rRb3gLA=="
 ---
 

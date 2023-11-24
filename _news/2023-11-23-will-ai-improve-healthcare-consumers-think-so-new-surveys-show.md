@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/debgordon/2023/11/22/will-ai-improve-he
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/debgordon/2023/11/22/will-ai-improve-healthcare-consumers-think-so-new-surveys-show/amp/"
 type: article
 quality: 104
-heat: 127
+heat: 130
 published: true
 
 provider:

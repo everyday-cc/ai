@@ -58,7 +58,7 @@ related:
   - title: "The OpenAI meltdown will only accelerate the artificial intelligence race"
     excerpt: "Optimists and ‘doomers’ are fighting over the direction of AI research – and those who want speed may have won this round"
     publishedDateTime: 2023-11-22T09:11:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
+    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
     type: article

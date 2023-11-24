@@ -59,7 +59,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/11/Ethics-requirement.jpg"
         width: 800

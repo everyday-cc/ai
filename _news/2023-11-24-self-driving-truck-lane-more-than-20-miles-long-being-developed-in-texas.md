@@ -91,30 +91,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Self-driving cars stay stuck in the slow lane"
-    excerpt: "Would you trust a self-driving car with your safety? If the idea of getting into a car with no steering wheel makes you feel distinctly nervous, then you’re probably not alone."
-    publishedDateTime: 2023-11-23T11:03:00Z
-    webUrl: "https://www.businesspost.ie/article/self-driving-cars-stay-stuck-in-the-slow-lane/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 24
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=e3b544bd-b5d6-52f1-b76f-ffddb1e3bf11&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=4500&height=2531&x=1.0E-5&y=0.07865"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "The future is here: Autonomous trucking company Aurora expects its Texas freights to be fully self-driving by end of 2024"
-    excerpt: "Aurora's trucks are equipped with long range lidar, radar and cameras. The company says its trucks use that technology to see four football fields ahead on highways."
-    publishedDateTime: 2023-11-19T00:40:00Z
-    webUrl: "https://www.myfoxzone.com/article/tech/autonomous-trucking-self-driving-trucks-texas-2024/287-53c8ae3c-252d-45b2-aa5f-eb40e7e868fa"
-    type: article
-    provider:
-      name: KIDY
-      domain: myfoxzone.com
-    quality: 0
 
-secured: "TSf+RlDvBTa4nTW5siJBodwoOVn/UPf/K0xCHlD5vaLV2G/ovjc4rZlKIc4I1+VbhlwJmH/TYJK0jXLzYO/yxo51wipNpht9uRDYAy18VDK0bowM3z/yPJ/ydNCqk7+beVGzzWXl5IKe70XJLDfRc/w+35k/jXmGEErg7fhuvTQraD6yIf5IS1vUB4m/Ej6kRGsCmXhUwCseS/Eb4RrLyTbiy7VV7vs8Oc7NpvvH84u6orGBGBPFWzPHw/6h9Gh8X0/3R8QA2VCRWqgy/FrURhfAFSvcyZQBYqdbYgLsUxF+VkowJ3Q/h1JrU/K8LYeiHkr6KNUVJrZJn1UmazjEvX3vfs3/fZV1jGZa+gFLPqU=;EYQAxJoAdJMUzv2HlNogIQ=="
+secured: "+/nQDZgAfCyHMSBIQMHZOa3HhVsjk2lEgOjfJQ89YQALmktEVV6EPCmjY/8xlI0936dqeyw3H+k5U36Zqru91mkVuAqFwyZ9cLXkWKjuA8oqVmLEd+Gldvd4u1qH02fTFEALmAvQIV4eJpO31+spBYMkru3aBbdDPKKiw1AyracjG8Kl+CFskAH+QoL7gDF2WqxBHJ8xvXvbDdhZ6mZg1GQvcgYCUlrGb6HxSE9VpA+w3se6kiZsik8g+vgWCEpsAetOrsDmPfveixIiILuzoWxfRakZThiGpTUr9UnBMxVyOCxGYmlh2KE1drlIKh/d3TTtgI1es3knRbBqD0OrE3V8ViGCb7MzXT/ZgKrxZxzOeIyM2sihIP/VjIGjOWn5Vf410pBjkm7OqL49EqxC8xW+Ddc74GOgXP+fXnCUyQ+WYnpnMJn8J41rXfdj/o88FxaUC1om4DE0U0iBbzqmFdTVxVzXr4AtPLbnNSvuQhTk2E9tKvN9ePKfs/5sQcxaAxpeGNMTHbbfj9y78ZJxLg==;sDfMvzGxOVlSRKJMkJZwIQ=="
 ---
 

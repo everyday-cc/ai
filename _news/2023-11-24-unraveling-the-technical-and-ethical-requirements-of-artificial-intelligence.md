@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-23T22:42:00Z
 originalUrl: "https://techbullion.com/unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence/"
 webUrl: "https://techbullion.com/unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence/"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/11/Ethics-requirement.jpg"
@@ -95,6 +96,6 @@ related:
       domain: nyas.org
     quality: 32
 
-secured: "6YUCS/Hp3Vh8pe+xM0XLEWVRqfcI4++Rk2Q1Swsohc2GZIc+h6BQq0yIEwc5LwJQXNnsN/LcM38PNn+HvQocJ9quqOlL+10IOLwnOHiR6piSc7r1mnIA0dQhoaV8fHN2okctoNizuNiEhJopo7KhrnRVgLHG5uHB8aoqhUGGdF99dDVoS/q2Ia7Z2cEbXc5viV7beGXU50s6Fc1lNGxJGDMn6z0+73r6rYw2OJv1ZB9NP0bnk5rrFSiS99alHbvuldoIb1z0NpylxLwjpROm3x5byj/wditfzLRYKXvf3jRFk0lZ48ZetKTyIQwbb8ZuunHgFlKVlnmboTipCs7mHPdQaVCPXO0Jx0i9Y07ngQg=;MZGOTWC/y1p28q9BO8R0Og=="
+secured: "hMXaKwtVvUfTG7vr3n0gccghUduYQMV73YX+3cqeImA6TmkIwFNqCR0aSmfskYKqnyENgAzfe0uxpAtWLbJidb8sWfwz64f5TgPIS36DPLyyispcIkIyPguvFQ0GdK84eUPCAwVctRFohKtDTiN5FKQAFiBjz7KZ5+z/cqCjnt/5s6RiaAS2eODj5aOKKz8CC7zlbuaKTyjncWxkv1E6iG7HmoJhrvLEna/83CxpO5G0X1BBikR55xx3wnRMVPkt1pXcJlcCdo4uvYPXzNWPfyGADjjUP9iESevfuwJmbv3eGnF4e8MDa/eb0HII3N/ECDOlHyyOFYhG9QqscCTmUpBA2C452SlmbbDuVVVtZuwYA6/n3/ekUzJsYMg0joz9J94uENhqbhEBD+z/7KsttCnhM5NJ3K6Ny23B8xEgasfPoPdGdwa4cwCfucPrjrdif8cfc/AOGATSS320JHVAK76vp+71xxpTSI9ulAMB1KuTbSibOiqPmgkzqQ3+0kVkSRoXdlTMc/tZi6gM1AAjsg==;Xb05+nnhbK+cCzo2b0zZBQ=="
 ---
 

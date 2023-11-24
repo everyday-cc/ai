@@ -55,22 +55,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Police to roll out controversial new facial recognition software which enables officers to take photos of suspects on their mobile phones and search for a match within seconds"
-    excerpt: "The controversial app, known as Operator Initiated Facial Recognition (OIFR), has already been trialled by three police forces using software called iPatrol. Last night the National Police Chiefs ..."
-    publishedDateTime: 2023-11-19T00:00:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12766589/Police-controversial-facial-recognition-software.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12766589/amp/Police-controversial-facial-recognition-software.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12766589/amp/Police-controversial-facial-recognition-software.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 7
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/11/19/00/77977245-0-image-m-110_1700355148666.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "GezjNCdlG8qaPYOjsHyFsff33CfVAGzl3fZF72Hlf2wjEZPbE03EtFFGcwFBy3eo+tV29z6cToDj7A8CLMMBF0UQNPH3tfUUEZy92m/ztIE7/gAf0Ws3jLL06I3AlEodxXOsn4ywxBW5HHCwxI3BbDyjsagkFscNIGgvIeJ5/d6+ArAxcD0WIk5DuToEwocAWcqbgzGWterHxPPNlBjDjAQbqE8wzxvc59B0U51zs91tkCVODdXB/CL+asAGUezMM/wpOYQnSZTPiZ/szrzKkjPSXfuJVC1RIQWuOilktFZGONCgrOY7GxmIi4sYxvDOrteGnLLHI7C5C6v68CSNcLCcEkZ/Q8XABmseWQ5KpsemElWECzHkd7hxv78ophjtXDMmtQ63ZKAey1Fa3Smdn9v9aOHZh09I3glwoqtnlLKZ2RYuur9+fSp+6G+Bv9uhAomc1g2FvK9DdGn5egdmrFlkGGRH+YhNuZVLA1DGr7yX4iYbEHfJtuFsmetvurb8ACZBQloGZNXKJrs0Y1AX8A==;al1WMO2NOiJ8V4l5CUZy+w=="
 ---

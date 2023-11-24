@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-18-microsoft-releases-ai-tool-for-photorealistic-copying-of-faces-and-voices.md",
+      "title": "Microsoft releases AI tool for photorealistic copying of faces and voices",
+      "excerpt": "In response to criticism that Azure AI Speech was simply a ‘deepfakes creator’, Microsoft said it had implemented safeguards Microsoft announced its latest contribution to the artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/nov/17/microsoft-azure-ai-video-deepfakes",
+      "originalUrl": "https://www.theguardian.com/technology/2023/nov/17/microsoft-azure-ai-video-deepfakes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/35e3c2e6b39e49fa0c11a93b26a71fa212ff81e2/0_0_6048_4024/master/6048.jpg?width=620&quality=85&auto=format&fit=max&s=d4351671ec0b0eef06f61f9f099bb237",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/nov/17/microsoft-azure-ai-video-deepfakes",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/nov/17/microsoft-azure-ai-video-deepfakes",
+      "publishedDateTime": "2023-11-17T16:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-17-experts-warn-against-using-artificial-intelligence-for-mental-health-support.md",
       "title": "Experts warn against using artificial intelligence for mental health support",
       "excerpt": "While AI can be a useful tool for so many things, there’s a growing concern about the danger associated with using robots in place of the human touch.",
@@ -1033,40 +1085,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-scale-ai-to-enable-enterprises-to-customize-large-language-models-and-build-robust-generative-ai-applications-on-microsoft-azure.md",
-      "title": "Scale AI to Enable Enterprises to Customize Large Language Models and Build Robust Generative AI Applications on Microsoft Azure",
-      "excerpt": "Scale AI, the data engine that powers the most advanced AI applications, today announced a collaboration with Microsoft at Microsoft Ignite to deliver",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231115149949/en/Scale-AI-to-Enable-Enterprises-to-Customize-Large-Language-Models-and-Build-Robust-Generative-AI-Applications-on-Microsoft-Azure",
-      "originalUrl": "https://www.businesswire.com/news/home/20231115149949/en/Scale-AI-to-Enable-Enterprises-to-Customize-Large-Language-Models-and-Build-Robust-Generative-AI-Applications-on-Microsoft-Azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

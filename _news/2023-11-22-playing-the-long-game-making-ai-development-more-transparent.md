@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/amp/"
 type: article
 quality: 89
-heat: 142
+heat: 145
 published: true
 
 provider:
@@ -55,7 +55,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/11/Ethics-requirement.jpg"
         width: 800

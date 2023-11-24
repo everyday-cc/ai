@@ -2,6 +2,41 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-11-14-cook-welcoming-remarks-at-the-5th-annual-conference-on-nontraditional-data-machine-learning-and-natural-language-processing-in.md",
+      "title": "Cook: Welcoming Remarks at the 5th Annual Conference on \"Nontraditional Data, Machine Learning, and Natural Language Processing in",
+      "excerpt": "Good morning, and welcome to the 5th annual conference on \"Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics.\"1 In a world with evolving data sources and significant advances in computing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forexfactory.com/news/1252007-cook-welcoming-remarks-at-the-5th-annual-conference",
+      "originalUrl": "https://www.forexfactory.com/news/1252007-cook-welcoming-remarks-at-the-5th-annual-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T19:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forex Factory",
+        "domain": "forexfactory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-child-psychiatrist-sexually-exploited-patients-used-artificial-intelligence-to-create-pornography.md",
       "title": "Child Psychiatrist Sexually Exploited Patients, Used Artificial Intelligence to Create Pornography",
       "excerpt": "David Tatum of Charlotte, North Carolina recorded under a minor's skirt during a therapy session with him, made secret videos of patients in the shower and \"used AI to digitally alter clothed images of minors making them sexually explicit.",
@@ -279,49 +314,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-artificial-intelligence-for-dummies.md",
-      "title": "Artificial intelligence for dummies",
-      "excerpt": "There has been great progress in narrow forms of artificial intelligence, like self-driving vehicles and automated legal systems, but the only threat they pose, if any, is to jobs. The “large ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/",
-      "originalUrl": "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdn-data.s3.amazonaws.com/uploads/2023/11/Britain-AI-Summit.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T15:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangor Daily News",
-        "domain": "bangordailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
