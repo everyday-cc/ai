@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-10-27-microsoft-gaining-ground-in-cloud-race-with-aws-google.md",
-      "title": "Microsoft gaining ground in cloud race with AWS, Google",
-      "excerpt": "Microsoft is pulling ahead of its chief rivals, Amazon.com and Google, in the burgeoning cloud services market.",
-      "sourceUrl": null,
-      "webUrl": "https://techcentral.co.za/microsoft-gaining-cloud-race-aws-google/234097/",
-      "originalUrl": "https://techcentral.co.za/microsoft-gaining-cloud-race-aws-google/234097/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcentral.co.za/wp-content/uploads/2021/09/cloud-2156-1120-6-1024x532.jpg",
-          "width": 1024,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T05:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCentral",
-        "domain": "techcentral.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-27-artificial-intelligence-ai-in-education-market-trends-2023-2031-aleks-microsoft-aws-top-key-players.md",
       "title": "Artificial Intelligence (AI) in Education Market Trends 2023-2031 | ALEKS, Microsoft, AWS | Top Key Players",
       "excerpt": "The Global Artificial Intelligence (AI) in Education market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2031. In 2022, the market is growing at a ...",
@@ -1345,6 +1301,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-purplecubeai-introduces-cognitive-data-insights-a-game-changer-in-unstructured-data-processing-and-data-governance.md",
+      "title": "PurpleCubeAI Introduces Cognitive Data Insights: A Game-Changer in Unstructured Data Processing and Data Governance",
+      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--PurpleCubeAI, the industry’s only cloud-native scalable, enterprise-class unified data orchestration platform, today announces its latest offering, Cognitive Data ... available on both Microsoft Azure and AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231016713946/en/PurpleCubeAI-Introduces-Cognitive-Data-Insights-A-Game-Changer-in-Unstructured-Data-Processing-and-Data-Governance",
+      "originalUrl": "https://www.businesswire.com/news/home/20231016713946/en/PurpleCubeAI-Introduces-Cognitive-Data-Insights-A-Game-Changer-in-Unstructured-Data-Processing-and-Data-Governance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T11:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

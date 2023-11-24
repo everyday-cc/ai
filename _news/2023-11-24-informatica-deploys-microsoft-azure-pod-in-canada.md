@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/informatica-deploys-mic
 webUrl: "https://www.datacenterdynamics.com/en/news/informatica-deploys-microsoft-azure-pod-in-canada/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,28 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's AI Transformation: From Software Giant To AI Powerhouse"
-    excerpt: "Microsoft wants to be a major force in the AI ecosystem, and Microsoft CEO and Chairman Satya Nadella made this clear in his keynote address. From developing its own AI accelerator chips to launching a marketplace for copilots, Microsoft has a long-term strategy in place."
-    publishedDateTime: 2023-11-19T18:28:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/"
+  - title: "Coffee Briefing Nov. 21 – Microsoft Ignite updates; Canadians want more AI training; SalvageData expands to Canada; and more"
+    excerpt: "Coffee Briefings are timely deliveries of the latest ITWC headlines, interviews, and podcasts. Today’s Coffee Briefing is delivered by IT World Canada’s editorial team! Missed last week’s Coffee Briefing?"
+    publishedDateTime: 2023-11-21T16:01:00Z
+    webUrl: "https://www.itworldcanada.com/article/coffee-briefing-nov-21-microsoft-ignite-updates-canadians-want-more-ai-training-salvagedata-expands-to-canada-and-more/553039"
+    ampWebUrl: "https://www.itworldcanada.com/article/coffee-briefing-nov-21-microsoft-ignite-updates-canadians-want-more-ai-training-salvagedata-expands-to-canada-and-more/553039?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/coffee-briefing-nov-21-microsoft-ignite-updates-canadians-want-more-ai-training-salvagedata-expands-to-canada-and-more/553039?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-  - title: "Unveiling Tomorrow: The Transformative Impact Of Artificial Intelligence In Our Daily Lives"
-    excerpt: "Explore the transformative impact of Artificial Intelligence (AI) on everyday life, from healthcare breakthroughs to financial innovations. Dive into the future with insights on"
-    publishedDateTime: 2023-11-23T08:47:00Z
-    webUrl: "https://thelogicalindian.com/trending/the-ai-revolution-shaping-daily-life-and-future-careers-41465"
-    type: article
-    provider:
-      name: The Logical Indian
-      domain: thelogicalindian.com
-    quality: 44
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 47
     images:
-      - url: "https://thelogicalindian.com/h-upload/2023/11/23/234426-tli-3.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/02/coffee_briefing_2.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "ejBphkrX1HuQM0ZGpVulqzO52s0sy3O2rrVXOjcZCRJuLqVsmHO+y8hQoZ7tp17pqsbKY5Bje2h0cQuN4VAgs2GrHRcY1UNg1Mz7s2ObQCV0lgl8yIWzAqWaFngXPRT8ngWeEWqrPiJT8yn77KliZF8SIVzMiWrn0PowaITO7e+qEKYg8hrDJlfMYwtHDIc1xU7WWUpbAzu0/FVrMo9XTELNllN7kR6vSOJYwboSXe9GFBLHg499yAmYCa4nYw9OJAITQ9KGqykWspxtri2Cp61lKRpc0Hn4At7nEEh6FVVsM1FO7J0+bPXRE5U7AoSvIJjLx/azEO+OlPbMhh8oluwQU7eD46dn4g/+3ko7gns=;+kz+2XNIh0SE3uyXvPOYMQ=="

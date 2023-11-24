@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-09-amazon-black-friday-deals-2023-the-35-best-sales-to-shop-right-now.md",
+      "title": "Amazon Black Friday deals 2023 - the 35+ best sales to shop right now",
+      "excerpt": "While the official Amazon Black Friday deals event is set for November 17, there are plenty of early offers to shop right now. You can find record-low prices on TVs, appliances, Apple gadgets ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/black-friday/amazon-black-friday-deals",
+      "originalUrl": "https://www.techradar.com/black-friday/amazon-black-friday-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/NiTNVFTYd9WoQxMzQdCPnM-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T19:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws.md",
       "title": "Build a medical imaging AI inference pipeline with MONAI Deploy on AWS",
       "excerpt": "In this post, we show you how to create a MAP connector to AWS HealthImaging, which is reusable in applications built with the MONAI Deploy App SDK, to integrate with and accelerate image data retrieval from a cloud-native DICOM store to medical imaging AI workloads. The MONAI Deploy SDK can be used",
@@ -1264,40 +1317,6 @@
         "AWS AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-amazon-ads-automate-creative-images-for-sellers-with-generative-ai.md",
-      "title": "Amazon Ads Automate Creative Images For Sellers With Generative AI",
-      "excerpt": "Ryan Hamilton, founder of Universimm, a sort of social platform with niche topics that launched formally in July, uses Amazon Rekognition, a tool supported by GAI for video and image analysis that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/390485/amazon-ads-automate-creative-images-for-sellers-wi.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/390485/amazon-ads-automate-creative-images-for-sellers-wi.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T19:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

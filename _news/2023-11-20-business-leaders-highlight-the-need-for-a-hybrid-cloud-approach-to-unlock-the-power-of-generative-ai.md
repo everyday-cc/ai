@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/business-leaders-highlight-the-need-for-a
 webUrl: "https://www.ibm.com/blog/business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Generative AI is a toddler — don’t let it run your business"
+    excerpt: "Just like toddlers, humans are the adults responsible for verifying our \"growing\" AI’s output and making corrections as needed."
+    publishedDateTime: 2023-11-24T17:14:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-is-a-toddler-dont-let-it-run-your-business/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2014/11/baby-laptop-paul-inkles-flickr.jpg?w=1200&strip=all"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Upended overnight, the red-hot generative AI market is suddenly up for grabs"
     excerpt: "The turmoil at OpenAI is reverberating across the market, affecting the ChatGPT-maker's customers, competitors, and employees."
     publishedDateTime: 2023-11-21T21:50:00Z

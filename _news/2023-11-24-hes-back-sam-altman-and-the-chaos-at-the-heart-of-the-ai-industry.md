@@ -3,8 +3,8 @@ category: news
 title: "He’s back: Sam Altman and the chaos at the heart of the AI industry"
 excerpt: "The CEO of OpenAI was sacked and then rehired days later, after staff threatened to follow him. But what does this corporate drama tell us about the future of AI? Blake Montgomery explains"
 publishedDateTime: 2023-11-24T02:00:00Z
-originalUrl: "https://www.theguardian.com/news/audio/2023/nov/24/sam-altman-chaos-heart-ai-industry-podcast?ref=upstract.com"
-webUrl: "https://www.theguardian.com/news/audio/2023/nov/24/sam-altman-chaos-heart-ai-industry-podcast?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/news/audio/2023/nov/24/sam-altman-chaos-heart-ai-industry-podcast"
+webUrl: "https://www.theguardian.com/news/audio/2023/nov/24/sam-altman-chaos-heart-ai-industry-podcast"
 type: article
 quality: 37
 heat: -1
@@ -203,20 +203,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 69
-  - title: "Sam Altman Is Said to Be Discussing Return to OpenAI With Company’s Board"
-    excerpt: "Mr. Altman was forced out of the artificial intelligence start-up on Friday, leading to an outcry from his supporters and the company’s investors."
-    publishedDateTime: 2023-11-19T17:27:00Z
-    webUrl: "https://www.nytimes.com/2023/11/18/technology/sam-altman-openai-board.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 68
-    images:
-      - url: "https://static01.nyt.com/images/2023/11/18/multimedia/18openai-altman-1-whzc/18openai-altman-1-whzc-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Sam Altman Was in Talks to Raise Billions for AI Chip Venture Before OpenAI Ouster"
     excerpt: "Altman was said to be travelling to the Middle East to fundraise for the project, which was code-named Tigris."
     publishedDateTime: 2023-11-20T07:15:00Z
@@ -258,15 +244,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
-  - title: "Altman Sought Billions For AI Chip Venture Before OpenAI Ouster"
-    excerpt: "In the weeks leading up to his shocking ouster from OpenAI, Sam Altman was actively working to raise billions from some of the world’s largest investors for a new chip venture, according to people familiar with the matter."
-    publishedDateTime: 2023-11-19T17:37:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster?sref=nPlhheXZ&embedded-checkout=true&leadSource=uverify wall"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
   - title: "AI doomsayers blamed in OpenAI's undoing"
     excerpt: "OpenAI has gone from ruling the world of artificial intelligence with ChatGPT to chaos, its chief executive ousted seemingly for advancing too fast and too far with the risky technology."
     publishedDateTime: 2023-11-21T09:09:00Z
@@ -632,6 +609,6 @@ related:
         height: 537
         isCached: true
 
-secured: "4NmK8lVeRUFuo0vWv6B3wO6zOKOVd7RHu0/gn0yNloKAOdy3y7bPSOF5x9v4J8ecsPgc1l2jjtnGw75NOMXMV9Fag9Le37nd08Ic3hd6dUiPETqgeRYV/FG2c2uzeYua2AHdZJxZky0K3B90EP5b9h5lls97kTvJ3madvIKKErJK3GCH1fpwWytZcRY780bkGEkHi83BI9SQLfsOJAy0e9P6urEpECC6wApZx9LZMLpHlF0SDk4Wg6DE51S7NzZq8l8LPsu29sb0ne0iud65EIq/LW1sloZhjejH7ZQgypKuovGyqpp8jwkhTZRC15fQ40sXtpXUQ2Doh22Gaz7fYAEKqY3c08MWQ2OUIPrz+0FHLTA9tZ0bQeFf0COc09FH8VMgAmafDjkzotpnbTVve9T4PHkTFfWlSmpjiMUr3T9m3Z+k0NoPP8qQPoQer1ETTaoioeUh0Pv29oKZHIIBp1Bf9Ny7oWaoeCaSIjyAy9pW6A1pPtx5wynNXiehTLZwLo4sn/fxIh3ZN2UykfD5Yw==;7mQzkf/uv3uy1FPxXLJpQw=="
+secured: "CMV6C5WY4zBeSDoZmyLtQJHXL+TaQ6sU2l3qn4WasJTJSQ4y3B+jlbFIGQkkL6Q0K8bsh8QpfZnrWciQ7REbaXu8Nu1ajyfguGvrxyMGmNYnegjDfRVD8k2gNrasqN0lN2eqDDDCZpiJcg+mAo/qSZMx/oqJokyoxlMlkrgYh22nuoocHPxutaD9lWS8kfOg8CWX3IE00e9jZtUlyBXWpAR9KmrEtb0HJnTFtL1qmxBu47dyAunlqHlZ9mF0nMxcthJMzjk82kZtuHPAoF5/A5cf7nRTsRP01hc5g3JPQ3OxukV2Ts4yDA/2dm8L3TgGMSIXOv9bayKY3zy3bxY3NcLxz3fGuGCzIpfQABUp3QM=;FRQYuR2QlQC930c4jyS1Ig=="
 ---
 

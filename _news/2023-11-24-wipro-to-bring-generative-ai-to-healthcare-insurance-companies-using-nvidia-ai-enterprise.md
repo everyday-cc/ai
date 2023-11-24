@@ -73,6 +73,20 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "Nvidia shares fall after China AI chip is delayed"
+    excerpt: "Citing two sources familiar with the matter, Reuters writes that the delayed chip is the H20, the most powerful of three AI-focused products Nvidia has developed"
+    publishedDateTime: 2023-11-24T17:17:00Z
+    webUrl: "https://www.techspot.com/news/100955-nvidia-shares-fall-after-new-china-focused-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-24-image-18.jpg"
+        width: 4686
+        height: 2661
+        isCached: true
   - title: "Nvidia delays launch of new China-focused AI chip"
     excerpt: "Nvidia delays H20 AI chip launch in China until Q1 2021 due to server integration issues; L20 launch still on schedule. U.S. export curbs create opportunity for rivals like Huawei to win orders that may have gone to Nvidia."
     publishedDateTime: 2023-11-24T11:11:00Z
@@ -244,20 +258,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
-    excerpt: "An exchange-traded fund tracking artificial intelligence stocks saw investors pouring money after six straight weeks of outflows, on the backdrop of strong quarterly results by chipmaker Nvidia and rising optimism that U."
-    publishedDateTime: 2023-11-24T15:11:00Z
-    webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/15956a8a29bc3c93c3b3f2c772ea148e"
-        width: 800
-        height: 533
-        isCached: true
   - title: "AI Leader Dipping From Record Highs Before Earnings"
     excerpt: "This is shaping up to be a big report for the company given its lead in the artificial intelligence (AI) space. During yesterday's trading ... There's no set up required either. If you start buying the dividend stocks I show you today..."
     publishedDateTime: 2023-11-21T18:42:00Z
@@ -271,6 +271,20 @@ related:
       - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/logos/bigstock-san-francisco-ca-june-----250312549.jpg?sfvrsn=dcebda06_6"
         width: 1400
         height: 1050
+        isCached: true
+  - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
+    excerpt: "An exchange-traded fund tracking artificial intelligence stocks saw investors pouring money after six straight weeks of outflows, on the backdrop of strong quarterly results by chipmaker Nvidia and rising optimism that U."
+    publishedDateTime: 2023-11-24T15:11:00Z
+    webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/15956a8a29bc3c93c3b3f2c772ea148e"
+        width: 800
+        height: 533
         isCached: true
   - title: "Wipro and NVIDIA Collaborate to Advance Gen AI in Healthcare"
     excerpt: "Wipro Limited, a technology services and consulting company, has announced a collaboration with NVIDIA to accelerate the adoption of generative"

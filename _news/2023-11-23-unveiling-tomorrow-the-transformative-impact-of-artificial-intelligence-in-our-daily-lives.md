@@ -7,7 +7,7 @@ originalUrl: "https://thelogicalindian.com/trending/the-ai-revolution-shaping-da
 webUrl: "https://thelogicalindian.com/trending/the-ai-revolution-shaping-daily-life-and-future-careers-41465"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,29 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's AI Transformation: From Software Giant To AI Powerhouse"
-    excerpt: "Microsoft wants to be a major force in the AI ecosystem, and Microsoft CEO and Chairman Satya Nadella made this clear in his keynote address. From developing its own AI accelerator chips to launching a marketplace for copilots, Microsoft has a long-term strategy in place."
-    publishedDateTime: 2023-11-19T18:28:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/"
+  - title: "The Evolution of AI Generative Models: From GANs to Transformers"
+    excerpt: "Introduction Artificial Intelligence (AI) has undergone a revolutionary transformation in recent years, particularly in the realm of generative models. From the groundbreaking Generative Adversarial Networks (GANs) to the highly sophisticated Transformers,"
+    publishedDateTime: 2023-11-22T07:26:00Z
+    webUrl: "https://techbullion.com/the-evolution-of-ai-generative-models-from-gans-to-transformers/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-  - title: "Informatica deploys Microsoft Azure pod in Canada"
-    excerpt: "Informatica says IDMC improves analytics and AI workloads on Azure by ensuring data is high quality and trustworthy. Customers can now access IDMC as an Azure Native Service purchased through the Azure Marketplace. Informatica has customers in more than ..."
-    publishedDateTime: 2023-11-24T09:53:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/informatica-deploys-microsoft-azure-pod-in-canada/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/1637699511013.2e16d0ba.fill-1200x630.jpg"
-        width: 450
-        height: 237
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/The-Evolution-of-AI-Generative-Models-From-GANs-to-Transformers.jpg"
+        width: 600
+        height: 450
         isCached: true
+  - title: "GD Culture Group Unveils its Transformative and Photorealistic AI-driven Digital Human Technology on TikTok"
+    excerpt: "AI Catalysis is also dedicated to developing, creating, and sharing generative virtual human content. Here is the 36-second video sample of a digital human developed by AI Catalysis. https://youtube.com/shorts/IWTIfsh-YfY?feature=share"
+    publishedDateTime: 2023-11-20T13:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gd-culture-group-unveils-its-transformative-and-photorealistic-ai-driven-digital-human-technology-on-tiktok-1032835352"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
 
 secured: "TvkmPaBoxcRBr7BZNWGSl9v5c7SxxBClStRf40UBdRyDD3Va6J2JcEZWku3+DGACEiIdGvWUPatzCKdE+ABES5aNI1foTinHw4H2JXz49J+JHVUnGKJv9j0JHwUyGFT0ruRwv5oTyzLQ9Re2RsdfK3vrNZuebPYTVbWEEVN0ONoXWgUpmxdaCJ5SgNbhuXQYdApomprz3iHxT9QoBhIsrQyhi8AaqL1M2/NsZBURZ8hgdUDGiZS9ZaTy/lkFw0cOssNaNTZyHpdbPmTyZV0anfb6ZnoXKtkpbNSPLlSB5ZdnAKYZVsMdc/+he5hUqA60AYJ/j/L2trxf0FYnkSC4v1LUu4j23oX6Hfd5/3p6NgBiXEV9d6bZ2ZNSv0eTox2Ka8lHrHfUBCCDFrEIWAxhJobnXHqrwEh9NplcjvJq516JNE1unhKjWu2HwIyN9UdgNv7CycQCPbLiADgCgjrRgWhmxj0UmBnITcBGsdga93jFd80insvBBtiCrvzj4t0hbBkS9qOx5DcnX/Wsrmj3sw==;0yseWxmXAihtXeR8IYljaQ=="
 ---

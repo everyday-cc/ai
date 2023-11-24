@@ -2,6 +2,154 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-10-13-will-consumers-buy-selfish-self-driving-cars.md",
+      "title": "Will Consumers Buy ‘Selfish’ Self-Driving Cars?",
+      "excerpt": "When it comes to prioritizing the safety of passengers over bystanders, makers of autonomous vehicles have to walk a fine line.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/business/autos/will-consumers-buy-selfish-self-driving-cars-73ac7d52",
+      "originalUrl": "https://www.wsj.com/business/autos/will-consumers-buy-selfish-self-driving-cars-73ac7d52",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-868014/social",
+          "width": 876,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-13T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-new-ai-algorithm-promises-defense-against-cyberattacks-on-robots.md",
+      "title": "New AI algorithm promises defense against cyberattacks on robots",
+      "excerpt": "The researchers tested their algorithm on a replica of a US Army combat ground vehicle and found it was 99% effective in preventing a malicious attack.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots",
+      "originalUrl": "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/10/13/image/jpeg/yslUdwFgtDUykIuSkP5rtdvzU9nhwQYLu9KYcoUc.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-13T12:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-why-employee-recognition-doesnt-work-my-confession-as-a-so-called-expert.md",
+      "title": "Why Employee Recognition Doesn’t Work: My Confession as a “So-Called” Expert",
+      "excerpt": "uh oh. Sometimes blind spots teach us the most valuable lessons. Rewind about 8 years ago. I was on a stage giving a speech about the power of employee recognition. There were probably three or four hundred people in the audience. I told some jokes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/toddnordstrom/2023/10/13/why-employee-recognition-doesnt-work-my-confession-as-a-so-called-expert/",
+      "originalUrl": "https://www.forbes.com/sites/toddnordstrom/2023/10/13/why-employee-recognition-doesnt-work-my-confession-as-a-so-called-expert/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6528f89b7abb85f6cb8f2a1a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1345,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/toddnordstrom/2023/10/13/why-employee-recognition-doesnt-work-my-confession-as-a-so-called-expert/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/toddnordstrom/2023/10/13/why-employee-recognition-doesnt-work-my-confession-as-a-so-called-expert/amp/",
+      "publishedDateTime": "2023-10-13T11:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-1-hot-artificial-intelligence-ai-stock-im-buying-more-of-in-october.md",
       "title": "1 Hot Artificial Intelligence (AI) Stock I'm Buying More of in October",
       "excerpt": "It does this by utilizing a segment of AI known as machine learning. By analyzing trillions of signals weekly, CrowdStrike's platform knows what is normal activity and what is a threat. This was a key innovation when CrowdStrike first came on the scene, but now multiple competitors offer the same product.",
@@ -1059,153 +1207,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-artificial-general-intelligence-agi-is-one-prompt-away.md",
-      "title": "Artificial General Intelligence (AGI) Is One Prompt Away",
-      "excerpt": "AI technology, artificial intelligence. digital transformation ... The confusion between AI and ML came about because of deep learning, an extension of neural networks to allow for hierarchical connections between layers of neurons, and trained on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/philipmaymin/2023/10/13/artificial-general-intelligence-agi-is-one-prompt-away/",
-      "originalUrl": "https://www.forbes.com/sites/philipmaymin/2023/10/13/artificial-general-intelligence-agi-is-one-prompt-away/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652a02e4e2a0b80637644ae7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/philipmaymin/2023/10/13/artificial-general-intelligence-agi-is-one-prompt-away/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/philipmaymin/2023/10/13/artificial-general-intelligence-agi-is-one-prompt-away/amp/",
-      "publishedDateTime": "2023-10-13T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-waymos-santa-monica-launch-spurs-excitement-apprehension.md",
-      "title": "Waymo’s Santa Monica Launch Spurs Excitement, Apprehension",
-      "excerpt": "(TNS) — Waymo's self-driving cars are taking a tour around Los Angeles. Its first stop? Santa Monica's Third Street Promenade. After months of testing, the Silicon Valley-based driverless car ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/fs/waymos-santa-monica-launch-spurs-excitement-apprehension",
-      "originalUrl": "https://www.govtech.com/fs/waymos-santa-monica-launch-spurs-excitement-apprehension",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/39a2efd/2147483647/strip/true/crop/1163x606+0+22/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F97%2F3a%2F2b9b99b8a8d8f43ceba10ea2d103%2Fwaymo-lexus.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/fs/waymos-santa-monica-launch-spurs-excitement-apprehension?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/waymos-santa-monica-launch-spurs-excitement-apprehension?_amp=true",
-      "publishedDateTime": "2023-10-12T22:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-80-of-enterprises-will-have-incorporated-ai-by-2026-according-to-a-gartner-report.md",
-      "title": "80% of enterprises will have incorporated AI by 2026, according to a Gartner report",
-      "excerpt": "\"Technology leaders should start with models with high accuracy in performance leaderboards, ones that have superior ecosystem support and have adequate enterprise guardrails around security and privacy,\" said Chandrasekaran. Also: Firefox is getting an AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/80-of-enterprises-will-have-incorporated-ai-by-2026-according-to-a-gartner-report/",
-      "originalUrl": "https://www.zdnet.com/article/80-of-enterprises-will-have-incorporated-ai-by-2026-according-to-a-gartner-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/37ade14e36ae2c93b4b11dffa4e8b40e024c12bf/2023/10/12/2f956f7c-d3d6-4fb6-9b60-5afbcf127921/gettyimages-1303886185.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/80-of-enterprises-will-have-incorporated-ai-by-2026-according-to-a-gartner-report/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/80-of-enterprises-will-have-incorporated-ai-by-2026-according-to-a-gartner-report/",
-      "publishedDateTime": "2023-10-12T21:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

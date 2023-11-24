@@ -57,6 +57,20 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "WHO outline’s responsible regulations needed for Artificial Intelligence in healthcare"
+    excerpt: "The World Health Organization recently published a new document outlining essential regulatory considerations for applying AI in healthcare"
+    publishedDateTime: 2023-11-24T16:29:00Z
+    webUrl: "https://www.openaccessgovernment.org/who-outlines-responsible-regulations-needed-for-artificial-intelligence-in-healthcare/170622/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 46
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/11/iStock-1396801868-scaled.jpg"
+        width: 2000
+        height: 1334
+        isCached: true
 
 secured: "+tGMRp0GMhif1/L6XaizN3MWqhGFfp5Y040I17Eh4Dxc5xE9fREvgoC3A1fGi160A1aChTTK7/rM5PdGn8MYJSdVMFP0jxjHDY6weh6/VPbpKYV9DmkZv+hkg2t6PrOsfKltOEWb9tSctRSM45fWhSy3KGpdHBBSR8l1F88OqAZ6tke20E9JHvx2OeyWwP3ZuVGTvtbrnswi5ZX/HZsC9ByRo+3eJhBWUndAaKYJc+m+RckDDOfRhyh6ZZ8khyhdmsN5qzWrLqg1UYchfsg+pUGVtg4y6hh5ai4tza7bbSfBewhHfdrCELgjpGwn8drSqOVr1ufJxKDn5eDVRLWtZ6BUM9nwd6mnHevt3d5ZcZ4=;ZmyAeL4U2e/qicqw+n5IRQ=="
 ---

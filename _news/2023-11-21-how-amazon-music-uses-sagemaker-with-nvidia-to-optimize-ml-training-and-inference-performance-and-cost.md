@@ -24,6 +24,36 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Accelerating AI/ML development at BMW Group with Amazon SageMaker Studio"
+    excerpt: "This post is co-written with Marc Neumann, Amor Steinberg and Marinus Krommenhoek from BMW Group. The BMW Group – headquartered in Munich, Germany – is driven by 149,000 employees worldwide and manufactures in over 30 production and assembly facilities across 15 countries. Today, the BMW Group is the"
+    publishedDateTime: 2023-11-24T17:49:46Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 120
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/09/blog_v1.png"
+        width: 971
+        height: 492
+        isCached: true
+  - title: "Simplifying AI development with Azure AI Studio"
+    excerpt: "Microsoft’s cloud-based AI development environment, now in public preview, takes a more streamlined approach to building AI-powered applications."
+    publishedDateTime: 2023-11-23T02:03:00Z
+    webUrl: "https://www.infoworld.com/article/3711360/simplifying-ai-development-with-azure-ai-studio.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711360/simplifying-ai-development-with-azure-ai-studio.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711360/simplifying-ai-development-with-azure-ai-studio.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.techhive.com/images/article/2014/04/futuristic-flowchart-135523847-100264958-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Machine Learning with MATLAB and Amazon SageMaker"
     excerpt: "This post is written in collaboration with Brad Duncan, Rachel Johnson and Richard Alcock from MathWorks. MATLAB  is a popular programming tool for a wide range of applications, such as data processing, parallel computing, automation, simulation, machine learning, and artificial intelligence. It’s heavily"
     publishedDateTime: 2023-11-21T19:40:27Z
@@ -33,6 +63,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 86
+  - title: "Optimizing costs for Amazon SageMaker Canvas with automatic shutdown of idle apps"
+    excerpt: "Amazon SageMaker Canvas is a rich, no-code Machine Learning (ML) and Generative AI workspace that has allowed customers all over the world to more easily adopt ML technologies to solve old and new challenges thanks to its visual, no-code interface. It does so by covering the ML workflow end-to-end: whether"
+    publishedDateTime: 2023-11-24T17:30:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-amazon-sagemaker-canvas-with-automatic-shutdown-of-idle-apps/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/07/image042-294x300.png"
+        width: 294
+        height: 300
+        isCached: true
   - title: "KT’s journey to reduce training time for a vision transformers model using Amazon SageMaker"
     excerpt: "KT Corporation is one of the largest telecommunications providers in South Korea, offering a wide range of services including fixed-line telephone, mobile communication, and internet, and AI services. KT’s AI Food Tag is an AI-based dietary management solution that identifies the type and nutritional"
     publishedDateTime: 2023-11-20T20:46:18Z
@@ -60,15 +104,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 53
-  - title: "Build a contextual chatbot for financial services using Amazon SageMaker JumpStart, Llama 2 and Amazon OpenSearch Serverless with Vector Engine"
-    excerpt: "The financial service (FinServ) industry has unique generative AI requirements related to domain-specific data, data security, regulatory controls, and industry compliance standards. In addition, customers are looking for choices to select the most performant and cost-effective machine learning (ML)"
-    publishedDateTime: 2023-11-22T14:45:17Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-chatbot-for-financial-services-using-amazon-sagemaker-jumpstart-llama-2-and-amazon-opensearch-serverless-with-vector-engine/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 33
 
 secured: "dmVDrtt4zYenFQi0tijEJB8VUCFzH7ZuAcictCaln8/YlqRcd6y3MgzdHIYlPWV+r3PPBh+rfiIXVNjMxQbzP436hUxPWkVIJ/miyU0d+lo7fr6z3mjmfRWsLvGKikp27sWfjbnPzOE2vAL5iZqFn1etf2y/QvPMA6c+EGWkJ60owJXnfurcgImaRs34ur9by/rlyiy/4UT+14w7wI8Nh4CNgdql7A2QX3LoU+vzn9zspk4fM6+cDND9mdglL3+ATHAoOOlB6xVO06piJO4OLRxR+GnJzVQu/zgNqmn9LsTqDs8SEybUO73PX4gdNN+uykA6RxlGeRNJ3t46dXsOQ2+wWEl+2aD4fsJpaXWFqhU=;6BpNZy7/XCIG/nhaQJ8xEw=="
 ---

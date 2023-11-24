@@ -43,22 +43,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Austin launches new dashboard to track incidents involving self-driving vehicles"
-    excerpt: "AUSTIN, Texas — While Cruise vehicles remain on the streets of Austin with someone in the driver's seat, other companies are still testing their self-driving cars in the city. As a result, Austin's Downtown Commission says they now have a new dashboard ..."
-    publishedDateTime: 2023-11-23T22:44:00Z
-    webUrl: "https://www.kvue.com/article/news/local/austin-self-driving-incident-dashboard-launched-downtown-commission-txdot/269-4b28657b-e8e3-4757-982c-1e12b2fd544c"
-    ampWebUrl: "https://www.kvue.com/amp/article/news/local/austin-self-driving-incident-dashboard-launched-downtown-commission-txdot/269-4b28657b-e8e3-4757-982c-1e12b2fd544c"
-    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/austin-self-driving-incident-dashboard-launched-downtown-commission-txdot/269-4b28657b-e8e3-4757-982c-1e12b2fd544c"
-    type: article
-    provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 39
-    images:
-      - url: "https://media.kvue.com/assets/KVUE/images/f2a6e632-f68b-42ad-be72-e0afe66aee7d/f2a6e632-f68b-42ad-be72-e0afe66aee7d_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Self-driving truck lane more than 20 miles long being developed in Central Texas"
     excerpt: "AUSTIN, Texas — TxDOT is partnering with a company to launch a program designed to improve self-driving trucks on Texas roadways. The technology will focus on a 21-mile stretch of State Highway 130 from Georgetown to Del Valle. By next year, special pole ..."
     publishedDateTime: 2023-11-23T18:03:00Z
@@ -92,6 +76,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "xCrkeJ7DvJwnvY3vNX7/4mGSqnEUTtXedm0eG05wq5rIB1HkxzZa7sqcIDE2ybRmGkfR5wdym/r+xGP2TntckDFF6lixS+uZWo/GDN2KhWJasOlMUCPX8n/j6pbxcGPttP2ZOPTIQ+uVOZv3Cp51orVswdHS8EjePq9C0Zx7BsoMNiCos3ay4R0zATAoMOohNZgrUANXOfSqClS6L5Q5cD+F7OT+hDdfLGVbdTFhHylXlKBOK4zY4qJSjQGtEC4ZvDvxIWzi1P4Z6ZXSVXC02MqO4IiEHsHfrRbdBJeRxr0KM28AE+0IwJRzGowxgLBm7NTOHZQmQxfEcMXxOmqv4lzEVXnWtQLrRCH1+9dSwpM=;e6HzdZ8HA3CzfICqYpLIEA=="
+secured: "a8bMW780rAOOkfKBXm5qq0pciGUxrdeAMXe5g0SxFl3Cc6pvgIPD6O3UqBj8kcigH09F4YrWP3K2Mns49JLOVlLyOtzMgXLqcBPoDdbR1My2JM8j7h02tTIeappNmesmey28gxbLo/wSsqoUurI0cfjLLUP3o4IdVfgMkrPy4EChW/bg3FbXv6lyuj4W45ziplk4G0q1ajdcDt0zUl07+uXk0/BFlHugN7h4x7ooY4h0+niP1aB6DYykihmEifvD5t9Q6AxKUgRAXKSbxm6/St3ZUVqqQ70fE/YbFgatHo/FAkodN7Np13l68C7ef3AYBHg5eRjzS/SJFTUELwBu9knimTAppAcrFhB//rwaPGayaZxs5n/TJXYhSFD8KQSDY/jpP8E3mwLuMWpvzPK2gANCHvwqOzq/z9oR1li7fLh9zQL9C114p6cpYL0TfFp/oapLMg+BfDHAn3ZQcDeyBghpjMbBn6MDXpPuK13QlFAXk7oGWaY3vymIE1AeYIsPXtb+HeFUiY6HZmo2hKXg5A==;QfsPAXI5PWhF4JTnCfAiZA=="
 ---
 

@@ -27,69 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "TxDOT developing lane for self-driving trucks on Texas 130"
-    excerpt: "TxDOT is partnering with a startup company to launch a program designed to improve self-driving trucks on Texas roadways."
-    publishedDateTime: 2023-11-23T00:25:00Z
-    webUrl: "https://www.kvue.com/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
-    ampWebUrl: "https://www.kvue.com/amp/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
-    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+  - title: "Tesla Preparing To Launch “Full Self-Driving” Beta In China"
+    excerpt: "A new report suggests that Tesla will launch the FSD Beta in China with the release of version 12 of the software"
+    publishedDateTime: 2023-11-24T16:31:00Z
+    webUrl: "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/"
+    ampWebUrl: "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/amp/"
     type: article
     provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 44
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
     images:
-      - url: "https://media.kvue.com/assets/KVUE/images/1f96cf21-5a34-46a3-b001-0c0b49348bb6/1f96cf21-5a34-46a3-b001-0c0b49348bb6_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/11/Tesla-China.jpg"
+        width: 2250
+        height: 1265
         isCached: true
-  - title: "Self-driving truck lane more than 20 miles long being developed in Texas"
-    excerpt: "TxDOT is partnering with a startup company to launch a program designed to improve self-driving trucks on Texas roadways."
-    publishedDateTime: 2023-11-23T21:39:00Z
-    webUrl: "https://www.khou.com/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
-    ampWebUrl: "https://www.khou.com/amp/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+  - title: "Tesla Full Self-Driving in process of entering Chinese market: reports"
+    excerpt: "US electric car maker Tesla said its Full Self-Driving (FSD) function is now in progress to deploy in the Chinese market, as reported by the Chinese media outlet CHINAFUND on Thursday, citing sources from Tesla China."
+    publishedDateTime: 2023-11-23T16:47:00Z
+    webUrl: "https://www.globaltimes.cn/page/202311/1302435.shtml"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 43
-    images:
-      - url: "https://media.khou.com/assets/KVUE/images/1f96cf21-5a34-46a3-b001-0c0b49348bb6/1f96cf21-5a34-46a3-b001-0c0b49348bb6_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Self-driving truck lane more than 20 miles long being developed in Central Texas"
-    excerpt: "AUSTIN, Texas — TxDOT is partnering with a company to launch a program designed to improve self-driving trucks on Texas roadways. The technology will focus on a 21-mile stretch of State Highway 130 from Georgetown to Del Valle. By next year, special pole ..."
-    publishedDateTime: 2023-11-23T18:03:00Z
-    webUrl: "https://www.wfaa.com/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
-    ampWebUrl: "https://www.wfaa.com/amp/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
+      name: Global Times
+      domain: globaltimes.cn
     quality: 39
     images:
-      - url: "https://media.wfaa.com/assets/KVUE/images/1f96cf21-5a34-46a3-b001-0c0b49348bb6/1f96cf21-5a34-46a3-b001-0c0b49348bb6_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Trucking's future, or technology gone too far? ABC13 gets inside look at Texas self-driving trucks"
-    excerpt: "Has technology gone too far? Self-driving big rigs are already on the road in Texas and safety remains a top concern. Here are experts' take on the future of trucking."
-    publishedDateTime: 2023-11-22T03:35:00Z
-    webUrl: "https://abc13.com/self-driving-vehicles-texas-driverless-trucks-aurora-innovation-ai/14089903/"
-    ampWebUrl: "https://abc13.com/amp/self-driving-vehicles-texas-driverless-trucks-aurora-innovation-ai/14089903/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/self-driving-vehicles-texas-driverless-trucks-aurora-innovation-ai/14089903/"
-    type: article
-    provider:
-      name: abc13
-      domain: abc13.com
-    quality: 30
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/14090204_112123-ktrk-driverless-trucks-desi-TUES-img.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-09-07/b0485774-df20-49dc-80d2-d35a46e1e088.jpeg"
+        width: 1009
+        height: 673
         isCached: true
 
 secured: "yc6YbSb5Jamz+lHtaWZYgTXGy4xH6D0RJYlfxPzA3zn5VXkhmwspt7iqj6EUn+5zNKEqrgdBecCXjTXtnEnaxbqwOyT1+D6O6qtk+QcqXlJxo0bKdiE5dihMdkyNf4O1wVdie7DUYqD9l3t/0auKQzdYGKf0NMxwWnucBt/VZefugprdoIrpmxLL7C06sQdgH4LionbLdUA/QgHsP5RgJCSvY5jQxqVkS8isPLV+eFODysyG/izkSs5LoYusvX4ogdevgWMwSxW7FnwJCfbLACf8ERSLgUDViQoy7clIk3MOsYtQftg6s7Eeu3QfBsyhzKy6UluuUHzprTdy80qVjX2beRS+CQFb2BkeeSJhbf+a1OwBuGMCTUSJ4cIZT/5iXNMyRBCYLT0YKsUBhEiHzCGJ7HAKSspKTy5aiGTrbdortK9hK96BIiKwMvpMYF/CLgzKQWBZPuvFvYGuIweBCwqttdjK9Wfle8vTIAQ3oB6spUpQaOy7KZ/j8Vg58iDZDMGZEfYBenwBRutsZ/a7ww==;xw+GTzdqqbTbCbm9zmNScg=="

@@ -2,6 +2,144 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-10-25-ibm-extends-watsonx-governance-compliance-with-manta-acquisition.md",
+      "title": "IBM Extends Watson.x Governance & Compliance with Manta Acquisition",
+      "excerpt": "IBM announced the acquisition of Manta Software. Manta is a leading data lineage platform that allows enterprises to understand their data better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/24/ibm-extends-watsonx-governance--compliance-with-manta-acquisition/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/24/ibm-extends-watsonx-governance--compliance-with-manta-acquisition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651cb4a382d94a88ea799277/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/24/ibm-extends-watsonx-governance--compliance-with-manta-acquisition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/24/ibm-extends-watsonx-governance--compliance-with-manta-acquisition/amp/",
+      "publishedDateTime": "2023-10-24T17:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-ai-risk-must-be-treated-as-seriously-as-climate-crisis-says-google-deepmind-chief.md",
+      "title": "AI risk must be treated as seriously as climate crisis, says Google DeepMind chief",
+      "excerpt": "Demis Hassabis calls for greater regulation to quell existential fears over tech with above-human levels of intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation?ref=biztoc.com",
+      "originalUrl": "https://www.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/93c2ec47dfa92753188caec7eada3383a593dc5a/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=f95968ad0e4c3d48f26b309e88995955",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/24/ai-risk-climate-crisis-google-deepmind-chief-demis-hassabis-regulation",
+      "publishedDateTime": "2023-10-24T17:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-netsmart-accelerates-ai-innovations-with-aws-and-expands-partnership-to-optimize-outcomes-for-community-based-providers.md",
+      "title": "Netsmart Accelerates AI Innovations with AWS and Expands Partnership to Optimize Outcomes for Community-Based Providers",
+      "excerpt": "Netsmart today announced the successful development of an artificial intelligence (AI) Data Lab built on Amazon Web Services (AWS) to advance AI for community-based care providers. By combining the scale and power of AWS with the Netsmart CareFabric ® platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/netsmart-accelerates-ai-innovations-with-aws-and-expands-partnership-to-optimize-outcomes-for-community-based/article_692b76be-e0c2-5b68-8495-43c07dfba5c4.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/netsmart-accelerates-ai-innovations-with-aws-and-expands-partnership-to-optimize-outcomes-for-community-based/article_692b76be-e0c2-5b68-8495-43c07dfba5c4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T17:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-24-enterprise-managed-iam-an-sre-team-case-study.md",
       "title": "Enterprise-managed IAM: An SRE team case study",
       "excerpt": "How to easily and securely implement and manage an SRE team's access across an enterprise.\nThe post Enterprise-managed IAM: An SRE team case study appeared first on IBM Blog.\n",
@@ -1045,135 +1183,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-oxolo-bags-13m-for-gen-ai-driven-video-platform-which-can-optimise-engagement-on-the-fly.md",
-      "title": "Oxolo bags €13M for Gen AI-driven video platform which can optimise engagement on the fly",
-      "excerpt": "Much has been made of AI-powered videos which can either make a real person speak different words or other languages, or generate a synthetic person which As a result of this rather magic approach, Oxolo has now raised a €13 million Series A funding round led by DN Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/24/oxolo-bags-e13m-for-gen-ai-driven-video-platform-which-can-optimise-engagement-on-the-fly/",
-      "originalUrl": "https://techcrunch.com/2023/10/24/oxolo-bags-e13m-for-gen-ai-driven-video-platform-which-can-optimise-engagement-on-the-fly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/Oxolo-founders.jpg?w=678",
-          "width": 678,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/24/oxolo-bags-e13m-for-gen-ai-driven-video-platform-which-can-optimise-engagement-on-the-fly/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/24/oxolo-bags-e13m-for-gen-ai-driven-video-platform-which-can-optimise-engagement-on-the-fly/amp/",
-      "publishedDateTime": "2023-10-24T07:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-ai-and-its-impact-on-mba-education.md",
-      "title": "AI and its impact on MBA education",
-      "excerpt": "Business schools have incorporated artificial intelligence (AI) tools such as Tableau for data visualization, IBM Watson for analytics and natural language processing, Salesforce Einstein for customer relationship management, Google Analytics for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/",
-      "originalUrl": "https://www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/image-2023-10-24T114111.709.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education-ai-and-its-impact-on-mba-education-3285061/lite/",
-      "publishedDateTime": "2023-10-24T06:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-10-24-britney-spears-the-woman-in-me-10-revelations-from-stars-tell-all-book-from-relationship-with-justin-timberlake-to-the-conservatorship.md",
-      "title": "Britney Spears - The Woman In Me: 10 revelations from star's tell-all book - from relationship with Justin Timberlake to the conservatorship",
-      "excerpt": "Friendship with Hilton and shaving her head: 'I was out of my mind with grief' Spears ... Pic: AP Conservatorship: 'I was like a child robot' A lot of the book tackles the subject of Spears's conservatorship, which controlled her life for 13 years.",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/britney-spears-the-woman-in-me-10-revelations-from-stars-tell-all-book-from-relationship-with-justin-timberlake-to-the-conservatorship-12991137",
-      "originalUrl": "https://news.sky.com/story/britney-spears-the-woman-in-me-10-revelations-from-stars-tell-all-book-from-relationship-with-justin-timberlake-to-the-conservatorship-12991137",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-24T06:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,108 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-11-14-fintech-founders-pair-ai-and-client-prospecting-in-new-platform-for-financial-advisors.md",
+      "title": "Fintech founders pair AI and client prospecting in new platform for financial advisors",
+      "excerpt": "Called Powder and crafted by the minds behind Addepar's Navigator, the wealthtech startup wants to cut the old-school sales process from months to weeks by injecting AI into every step.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financial-planning.com/news/fintech-founders-pair-ai-and-client-prospecting-in-new-platform-for-financial-advisors",
+      "originalUrl": "https://www.financial-planning.com/news/fintech-founders-pair-ai-and-client-prospecting-in-new-platform-for-financial-advisors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T02:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Planning",
+        "domain": "financial-planning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-the-future-is-here-autonomous-trucking-company-aurora-expects-its-texas-freights-to-be-fully-self-driving-by-end-of-2024.md",
+      "title": "The future is here: Autonomous trucking company Aurora expects its Texas freights to be fully self-driving by end of 2024",
+      "excerpt": "Aurora's trucks are equipped with long range lidar, radar and cameras. The company says its trucks use that technology to see four football fields ahead on highways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khou.com/article/tech/autonomous-trucking-self-driving-trucks-texas-2024/287-53c8ae3c-252d-45b2-aa5f-eb40e7e868fa",
+      "originalUrl": "https://www.khou.com/article/tech/autonomous-trucking-self-driving-trucks-texas-2024/287-53c8ae3c-252d-45b2-aa5f-eb40e7e868fa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T02:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-senator-mark-warner-talks-artificial-intelligence-democracy-with-gu-politics.md",
+      "title": "Senator Mark Warner Talks Artificial Intelligence, Democracy With GU Politics",
+      "excerpt": "Senator Mark Warner (D-Va.) spoke to Georgetown University students about the intersection of artificial intelligence and democracy as part of the Georgetown Institute of Politics and Public Service’s guest speaker series Nov.",
+      "sourceUrl": null,
+      "webUrl": "https://thehoya.com/senator-mark-warner-talks-artificial-intelligence-democracy-with-gu-politics/",
+      "originalUrl": "https://thehoya.com/senator-mark-warner-talks-artificial-intelligence-democracy-with-gu-politics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T01:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hoya",
+        "domain": "thehoya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-the-ai-revolution-in-college-admissions-balancing-efficiency-and-ethics.md",
       "title": "The AI Revolution In College Admissions: Balancing Efficiency And Ethics",
       "excerpt": "It's critical that colleges articulate the role of AI in making admissions decisions, ensuring that it complements rather than replaces human judgment.",
@@ -800,117 +902,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-on-thecube-pod-sizing-up-the-ai-pin-and-has-ibm-finally-gotten-it-right-with-watson.md",
-      "title": "On theCUBE Pod: Sizing up the AI Pin and has IBM finally gotten it right with Watson?",
-      "excerpt": "Generative artificial intelligence continues to be the subject captivating the technology world, and more seminal moments concerning the technology may have taken place this past week. On Thursday, Human Inc. unveiled its long-awaited AI-powered wearable, the $699 AI Pin.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/11/13/on-thecube-pod-sizing-up-the-ai-pin-and-has-ibm-finally-gotten-it-right-with-watson-thecubepod/",
-      "originalUrl": "https://siliconangle.com/2023/11/13/on-thecube-pod-sizing-up-the-ai-pin-and-has-ibm-finally-gotten-it-right-with-watson-thecubepod/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T16:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-nvidia-is-launching-a-new-must-have-ai-chip-as-customers-still-scramble-for-its-last-one.md",
-      "title": "Nvidia is launching a new must-have AI chip — as customers still scramble for its last one",
-      "excerpt": "Nvidia is introducing a new top-of-the-line chip for AI work, the HGX H200. The new GPU upgrades the wildly in demand H100 with 1.4x more memory bandwidth and 1.8x more memory capacity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/11/13/23958823/nvidia-h200-ai-gpu-announced-specs-release-date",
-      "originalUrl": "https://www.theverge.com/2023/11/13/23958823/nvidia-h200-ai-gpu-announced-specs-release-date",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T16:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-artificial-intelligence-predicts-treatment-outcome-in-ovarian-cancer-patients.md",
-      "title": "Artificial Intelligence Predicts Treatment Outcome in Ovarian Cancer Patients",
-      "excerpt": "A model based on artificial intelligence is able to predict the therapy outcome in 80% of ovarian cancer patients. The tool, named IRON (Integrated Radiogenomics for Ovarian Neoadjuvant therapy), analyzes various patient clinical features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/cancer-research/news/artificial-intelligence-predicts-treatment-outcome-in-ovarian-cancer-patients-380967",
-      "originalUrl": "https://www.technologynetworks.com/cancer-research/news/artificial-intelligence-predicts-treatment-outcome-in-ovarian-cancer-patients-380967",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T15:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,84 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-11-17-ai-ethics-essentials-lawsuit-over-ai-denial-of-healthcare.md",
+      "title": "AI Ethics Essentials: Lawsuit Over AI Denial of Healthcare",
+      "excerpt": "UnitedHealthcare has been sued for the alleged wrongful denial of extended care claims for elderly patients through the use of an artificial intelligence (AI) algorithm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/douglaslaney/2023/11/16/ai-ethics-essentials-lawsuit-over-ai-denial-of-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/douglaslaney/2023/11/16/ai-ethics-essentials-lawsuit-over-ai-denial-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-16T20:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-11-17-self-driving-car-company-cruise-pauses-even-more-operations-as-it-aims-to-rebuild-trust.md",
+      "title": "Self-driving car company Cruise pauses even more operations as it aims to rebuild trust",
+      "excerpt": "Cruise has also been the subject of a federal probe from the National Highway Traffic and Safety Administration examining if the self-driving vehicles are using appropriate precautions around ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statesman.com/story/business/technology/2023/11/16/cruise-self-driving-car-austin-tx-autonomous-vehicle-company-pause-more-operations-rebuild-trust/71592824007/",
+      "originalUrl": "https://www.statesman.com/story/business/technology/2023/11/16/cruise-self-driving-car-austin-tx-autonomous-vehicle-company-pause-more-operations-rebuild-trust/71592824007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-16T19:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-17-venture-capital-in-ai-where-and-how-much.md",
       "title": "Venture Capital In AI – Where And How Much",
       "excerpt": "If you want to see what 21st century leadership looks like and where it is, I suggest turning your gaze toward venture capital in artificial intelligence.",
@@ -179,6 +257,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-16-vroozi-introduces-vroozi-ai-natural-language-processing-assistant-that-accelerates-spend-management-and-invoice-payments-for-all.md",
+      "title": "Vroozi Introduces Vroozi AI: Natural Language Processing Assistant that Accelerates Spend Management and Invoice Payments for All",
+      "excerpt": "The virtual assistant reflects the company’s continued investment in AI capabilities with the goal of streamlining the procure-to-pay process from intake to automated invoice processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231116457912/en/Vroozi-Introduces-Vroozi-AI-Natural-Language-Processing-Assistant-that-Accelerates-Spend-Management-and-Invoice-Payments-for-All",
+      "originalUrl": "https://www.businesswire.com/news/home/20231116457912/en/Vroozi-Introduces-Vroozi-AI-Natural-Language-Processing-Assistant-that-Accelerates-Spend-Management-and-Invoice-Payments-for-All",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-16T14:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -927,135 +1039,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-microsoft-ignite-2023-all-the-ai-news-from-microsofts-it-pro-event.md",
-      "title": "Microsoft Ignite 2023: all the AI news from Microsoft’s IT pro event",
-      "excerpt": "Windows AI Studio allows developers to access development tools and models from the existing Azure AI Studio and other services like Hugging Face. It also offers an end-to-end “guided workspace ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/23961007/microsoft-ignite-2023-news-ai-announcements-copilot-windows-azure-office",
-      "originalUrl": "https://www.theverge.com/23961007/microsoft-ignite-2023-news-ai-announcements-copilot-windows-azure-office",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T18:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-deepl-rides-high-amid-ai-translation-boom.md",
-      "title": "DeepL rides high amid AI translation boom",
-      "excerpt": "Data provider Statista forecasts that the global market for AI-based translation (specifically “natural language processing”, or NLP) will grow from about $5bn in 2023 to about $12bn by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/a4f7f5b6-6c42-4df0-8529-a82b526869ac",
-      "originalUrl": "https://www.ft.com/content/a4f7f5b6-6c42-4df0-8529-a82b526869ac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F127f3bc8-487b-4b0b-8f33-3f0ae9ea9e89.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T16:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-ibm-launches-watsonxgovernance-to-optimize-ai-management.md",
-      "title": "IBM Launches Watsonx.governance to Optimize AI Management",
-      "excerpt": "International Business Machines Corporation IBM recently unveiled watsonx.governance, a new addition to its WatsonX AI solution suite, aimed at enhancing the management and monitoring of AI models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ibm-launches-watsonx.governance-to-optimize-ai-management",
-      "originalUrl": "https://www.nasdaq.com/articles/ibm-launches-watsonx.governance-to-optimize-ai-management",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T16:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

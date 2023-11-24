@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-24-how-snaplogic-built-a-text-to-pipeline-application-with-amazon-bedrock-to-translate-business-intent-into-action.md",
+      "title": "How SnapLogic built a text-to-pipeline application with Amazon Bedrock to translate business intent into action",
+      "excerpt": "This post was co-written with Greg Benson, Chief Scientist; Aaron Kesler, Sr. Product Manager; and Rich Dill, Enterprise Solutions Architect from SnapLogic. Many customers are building generative AI apps on Amazon Bedrock and Amazon CodeWhisperer to create code artifacts based on natural language. This",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-snaplogic-built-a-text-to-pipeline-application-with-amazon-bedrock-to-translate-business-intent-into-action/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-snaplogic-built-a-text-to-pipeline-application-with-amazon-bedrock-to-translate-business-intent-into-action/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/ML-15431-arch-high-5-1235x630.jpg",
+          "width": 1235,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-24T17:28:12Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-how-to-apply-natural-language-processing-to-cybersecurity.md",
       "title": "How to apply natural language processing to cybersecurity",
       "excerpt": "Here’s the exciting part — natural language processing (NLP) is stepping onto the scene. This innovative technology enhances traditional cybersecurity methods, offering intelligent data analysis and threat identification. As digital interactions evolve ...",
@@ -62,7 +115,7 @@
       "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 321,
+      "heat": 331,
       "tags": null,
       "images": [
         {
@@ -414,7 +467,7 @@
       "originalUrl": "https://www.forbes.com/sites/elizabethmacbride/2023/11/21/using-ai-investingcom-aims-to-be-the-bloomberg-of-retail-investing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -539,6 +592,40 @@
       "provider": {
         "name": "philstar.com",
         "domain": "philstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-16-vroozi-introduces-vroozi-ai-natural-language-processing-assistant-that-accelerates-spend-management-and-invoice-payments-for-all.md",
+      "title": "Vroozi Introduces Vroozi AI: Natural Language Processing Assistant that Accelerates Spend Management and Invoice Payments for All",
+      "excerpt": "The virtual assistant reflects the company’s continued investment in AI capabilities with the goal of streamlining the procure-to-pay process from intake to automated invoice processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231116457912/en/Vroozi-Introduces-Vroozi-AI-Natural-Language-Processing-Assistant-that-Accelerates-Spend-Management-and-Invoice-Payments-for-All",
+      "originalUrl": "https://www.businesswire.com/news/home/20231116457912/en/Vroozi-Introduces-Vroozi-AI-Natural-Language-Processing-Assistant-that-Accelerates-Spend-Management-and-Invoice-Payments-for-All",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-16T14:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1158,84 +1245,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-natural-language-processing-for-adjudication-of-heart-failure-in-a-multicenter-clinical-trial.md",
-      "title": "Natural language processing for adjudication of heart failure in a multicenter clinical trial",
-      "excerpt": "Editor’s Note: Please see the article for additional information, including other authors, author contributions and affiliations, conflicts of interest and financial disclosures, and funding and support. Media advisory: This study is being released to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1007598",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1007598",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain.md",
-      "title": "Build trust and safety for generative AI applications with Amazon Comprehend and LangChain",
-      "excerpt": "We are witnessing a rapid increase in the adoption of large language models (LLM) that power generative AI applications across industries. LLMs are capable of a variety of tasks, such as generating creative content, answering inquiries via chatbots, generating code, and more. Organizations looking to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 251,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T20:39:56Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

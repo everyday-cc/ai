@@ -202,20 +202,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 69
-  - title: "Sam Altman Is Said to Be Discussing Return to OpenAI With Company’s Board"
-    excerpt: "Mr. Altman was forced out of the artificial intelligence start-up on Friday, leading to an outcry from his supporters and the company’s investors."
-    publishedDateTime: 2023-11-19T17:27:00Z
-    webUrl: "https://www.nytimes.com/2023/11/18/technology/sam-altman-openai-board.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 68
-    images:
-      - url: "https://static01.nyt.com/images/2023/11/18/multimedia/18openai-altman-1-whzc/18openai-altman-1-whzc-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Microsoft brings ChatGPT AI to Windows 11’s command line, and here’s a closer look"
     excerpt: "ChatGPT-powered “AI chat” on Windows 11. ChatGPT integration is now available in Terminal (Canary), a new development channel to test experimental features ahead of a wider rollout. With ChatGPT AI Chat in Terminal,"
     publishedDateTime: 2023-11-24T00:20:00Z
@@ -241,15 +227,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
-  - title: "Altman Sought Billions For AI Chip Venture Before OpenAI Ouster"
-    excerpt: "In the weeks leading up to his shocking ouster from OpenAI, Sam Altman was actively working to raise billions from some of the world’s largest investors for a new chip venture, according to people familiar with the matter."
-    publishedDateTime: 2023-11-19T17:37:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster?sref=nPlhheXZ&embedded-checkout=true&leadSource=uverify wall"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
   - title: "AI doomsayers blamed in OpenAI's undoing"
     excerpt: "OpenAI has gone from ruling the world of artificial intelligence with ChatGPT to chaos, its chief executive ousted seemingly for advancing too fast and too far with the risky technology."
     publishedDateTime: 2023-11-21T09:09:00Z
@@ -465,7 +442,7 @@ related:
   - title: "He’s back: Sam Altman and the chaos at the heart of the AI industry"
     excerpt: "The CEO of OpenAI was sacked and then rehired days later, after staff threatened to follow him. But what does this corporate drama tell us about the future of AI? Blake Montgomery explains"
     publishedDateTime: 2023-11-24T02:00:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2023/nov/24/sam-altman-chaos-heart-ai-industry-podcast?ref=upstract.com"
+    webUrl: "https://www.theguardian.com/news/audio/2023/nov/24/sam-altman-chaos-heart-ai-industry-podcast"
     type: article
     provider:
       name: The Guardian

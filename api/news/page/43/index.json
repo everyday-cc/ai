@@ -2,6 +2,125 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-10-19-how-meta-and-ai-companies-recruited-striking-actors-to-train-ai.md",
+      "title": "How Meta and AI companies recruited striking actors to train AI",
+      "excerpt": "Hollywood actors are on strike over concerns about the use of artificial intelligence, but for as little as $300, Meta and a company called Realeyes hired them to make avatars appear more human.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/10/19/1081974/meta-realeyes-artificial-intelligence-hollywood-actors-strike/",
+      "originalUrl": "https://www.technologyreview.com/2023/10/19/1081974/meta-realeyes-artificial-intelligence-hollywood-actors-strike/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/10/emote-actress1.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/10/19/1081974/meta-realeyes-artificial-intelligence-hollywood-actors-strike/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/19/1081974/meta-realeyes-artificial-intelligence-hollywood-actors-strike/amp/",
+      "publishedDateTime": "2023-10-19T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-security-startup-airgap-networks-brings-telco-technologies-to-the-lan.md",
+      "title": "Security startup Airgap Networks brings telco technologies to the LAN",
+      "excerpt": "Airgap Networks has developed a ransomware kill switch that blocks all lateral device-to-device communications and disables network-level communications among workstations and applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3709049/startup-airgap-networks-brings-telco-technologies-to-the-lan.html",
+      "originalUrl": "https://www.networkworld.com/article/3709049/startup-airgap-networks-brings-telco-technologies-to-the-lan.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/04/micro-segmentation_security_lock_2400x1600-100838720-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3709049/startup-airgap-networks-brings-telco-technologies-to-the-lan.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3709049/startup-airgap-networks-brings-telco-technologies-to-the-lan.amp.html",
+      "publishedDateTime": "2023-10-19T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-language-weaver-scales-development-of-generative-ai-technologies.md",
+      "title": "Language Weaver scales development of generative AI technologies",
+      "excerpt": "AI-powered machine translation platform. Language Weaver is using Amazon Web Services' (AWS) machine learning and AI services, including Amazon SageMaker, to build new features and scale its Large ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60409821-language-weaver-scales-development-of-generative-ai-technologies-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60409821-language-weaver-scales-development-of-generative-ai-technologies-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T08:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-levrai-powers-over-1000-small-businesses-with-its-finance-ecosystem.md",
       "title": "Levr.ai powers over 1,000 small businesses with its finance ecosystem",
       "excerpt": "Levr.ai, a trailblazing financial technology (fintech) company, is proud to continue its mission-driven commitment to revolutionize small",
@@ -1036,160 +1155,6 @@
         "IBM AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai.md",
-      "title": "What LinkedIn Is Getting Wrong, And Why They Need To Be Google For Business. (hint It’s AI)",
-      "excerpt": "LinkedIn should be a Camera Obscura for the professional realm. LinkedIn's primary revenue focus is unsustainable. Relying heavily on revenue from recruiting firms",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelgale/2023/10/18/what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai/",
-      "originalUrl": "https://www.forbes.com/sites/michaelgale/2023/10/18/what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/653010b23ac572e4831d3103/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelgale/2023/10/18/what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelgale/2023/10/18/what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai/amp/",
-      "publishedDateTime": "2023-10-18T17:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-jasper-launches-new-marketing-ai-copilot-no-one-should-have-to-work-alone-again.md",
-      "title": "Jasper launches new marketing AI copilot: ‘No one should have to work alone again’",
-      "excerpt": "New features include analytics to optimize content, a company intelligence hub to align messaging with brand strategy, and campaign tools.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/jasper-launches-new-marketing-ai-copilot-no-one-should-have-to-work-alone-again/",
-      "originalUrl": "https://venturebeat.com/ai/jasper-launches-new-marketing-ai-copilot-no-one-should-have-to-work-alone-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_golden_age_sci-fi_book_art_profile_view_a_robot_leans_o_33549ea0-c858-4b66-a892-a7b4c83592a4.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T17:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-ai-impact-on-data-centers-will-be-massive-ocp-says.md",
-      "title": "AI impact on data centers will be ‘massive,’ OCP says",
-      "excerpt": "Open Compute Project expects the hardware requirements of AI to usher in a new era of larger data centers, liquid-cooled hardware, and greater power consumption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3708754/ai-impact-on-data-centers-will-be-massive-ocp-says.html",
-      "originalUrl": "https://www.infoworld.com/article/3708754/ai-impact-on-data-centers-will-be-massive-ocp-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3708754/ai-impact-on-data-centers-will-be-massive-ocp-says.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708754/ai-impact-on-data-centers-will-be-massive-ocp-says.amp.html",
-      "publishedDateTime": "2023-10-18T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

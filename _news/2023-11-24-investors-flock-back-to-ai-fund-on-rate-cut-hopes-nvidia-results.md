@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-24T15:11:00Z
 originalUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html?ref=biztoc.com"
 webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html?ref=biztoc.com"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: aol.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -72,6 +71,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107327179-1698862366973-gettyimages-1258356102-TAIWAN-COMPUTEX2023-01062023-162JPG.jpeg?v=1700162267"
         width: 5000
         height: 3333
+        isCached: true
+  - title: "Nvidia shares fall after China AI chip is delayed"
+    excerpt: "Citing two sources familiar with the matter, Reuters writes that the delayed chip is the H20, the most powerful of three AI-focused products Nvidia has developed"
+    publishedDateTime: 2023-11-24T17:17:00Z
+    webUrl: "https://www.techspot.com/news/100955-nvidia-shares-fall-after-new-china-focused-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-24-image-18.jpg"
+        width: 4686
+        height: 2661
         isCached: true
   - title: "Nvidia delays launch of new China-focused AI chip"
     excerpt: "Nvidia delays H20 AI chip launch in China until Q1 2021 due to server integration issues; L20 launch still on schedule. U.S. export curbs create opportunity for rivals like Huawei to win orders that may have gone to Nvidia."
@@ -327,6 +340,6 @@ related:
       domain: thestreet.com
     quality: 11
 
-secured: "/lv0X9qRLEAiMZXwC/c2vG1mZSxMIFW81dsDw+a5IFIC+OscArKkDOMDLT+EPsr9epMb0WH8OUa3miyfGQVmq5SKxHss0qcMWRt3LuMdiUw7TBofkB/Y/Af7VlRmCuG649XRFKZ5PAdmVopKsl/yGvVey1Pfk1GTiTRjNbWfm4LDck0WG7GYyLWjeFJpktcfeVXbMXZMeXBFw5VqKsfX6OhYdE5jArUvHhpIIcbZ2yUZ0mHFVcqzKs6T/slWgGFaBG1Ik5YsFIAajHqV3h9Ei2N65U/vp9zylU3MYGdZXsmt6AqCOX43Yhae8RW68Epl8wtHjTrUdj/79YxPLFr5xS7TrQTWm8NQoW6AI7ZBwsE=;fCiIrm/kw5MCKajF2brCDA=="
+secured: "C0BC/29PQzGkQDoOkM5N32ioh3vq5/kTyV4XnzF6hde9XqxTX2x3xJYq32Ha+alx5JoXKxKnM9b7u1dkrX4tusm9kJYgIaO0OXvA5DJRYT0ZlFKDbdjs31mvyirVqou48bOFXCIGKT4g6R+OmXUQziHdZ6/jK7i/i9YM+NB3+jGUkEfTbYxVEhc9J5H+HWx/b438hfaqMvwWZNw81RTjkpyG17mZcW6nmf0E53g3FlW/rr1Gx2T1CR6kX2lUbdqN0SD2xLqwpRMVj4WDsC76ZzG6apRD9xhuvKCYpIZMUgB2UK3Pn/+YdfJ/lZigkZAS/vhs6FBY/poZbkcyYPtkRID/YLVmNNn0Sqrl56ewsLE=;nNUYi/EeT8fLQZxAtuZxkw=="
 ---
 

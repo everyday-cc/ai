@@ -34,6 +34,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 84
+  - title: "Generative AI is a toddler — don’t let it run your business"
+    excerpt: "Just like toddlers, humans are the adults responsible for verifying our \"growing\" AI’s output and making corrections as needed."
+    publishedDateTime: 2023-11-24T17:14:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-is-a-toddler-dont-let-it-run-your-business/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2014/11/baby-laptop-paul-inkles-flickr.jpg?w=1200&strip=all"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Highlights of the 2023 Executive Order on Artificial Intelligence"
     excerpt: "The following is the Nov. 17, 2023, Congressional Research Service report, Highlights of the 2023 Executive Order on Artificial Intelligence for Congress. From the report On October 30, 2023, the Biden Administration released Executive Order (E."
     publishedDateTime: 2023-11-21T12:56:00Z

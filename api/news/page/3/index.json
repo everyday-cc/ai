@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-22-the-advantages-and-disadvantages-of-erp-systems.md",
+      "title": "The advantages and disadvantages of ERP systems",
+      "excerpt": "It’s important to understand how the advantages and disadvantages of enterprise resource planning (ERP) can affect an organization.\nThe post The advantages and disadvantages of ERP systems appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/enterprise-resource-planning-advantages-disadvantages/",
+      "originalUrl": "https://www.ibm.com/blog/enterprise-resource-planning-advantages-disadvantages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/11/pi-2591234.blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-what-you-need-to-know-about-prompt-engineersand-why-you-might-want-one.md",
+      "title": "What You Need To Know About Prompt Engineers—And Why You Might Want One",
+      "excerpt": "Effectively harnessing these tools is something that requires a deep understanding of both the AI tool’s capabilities and how to communicate with it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/what-you-need-to-know-about-prompt-engineers-and-why-you-might-want-one/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/what-you-need-to-know-about-prompt-engineers-and-why-you-might-want-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61cb2397df4f158c91554661/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/what-you-need-to-know-about-prompt-engineers-and-why-you-might-want-one/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/what-you-need-to-know-about-prompt-engineers-and-why-you-might-want-one/amp/",
+      "publishedDateTime": "2023-11-22T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-how-vizai-uses-artificial-intelligence-to-treat-stroke-patients-faster.md",
+      "title": "How Viz.ai Uses Artificial Intelligence To Treat Stroke Patients Faster",
+      "excerpt": "At the time, artificial intelligence wasn’t as popular a process as it is ... in cases and increase the chance that the patient gets the best guideline-directed therapy.” That’s a bigger and potentially riskier bet. “Care coordination is an interme ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amyfeldman/2023/11/22/how-vizai-uses-artificial-intelligence-to-speed-help-to-stroke-patients/",
+      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2023/11/22/how-vizai-uses-artificial-intelligence-to-speed-help-to-stroke-patients/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655befc25c58c309b24c36c0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T11:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence.md",
       "title": "Independent Industry Self-Regulation: A Path Forward For Governing Artificial Intelligence?",
       "excerpt": "Industry self-regulation through agreed-upon voluntary standards and guidelines should be part of the mix from the very start, especially when it comes to AI.",
@@ -431,50 +586,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-21-machine-learning-with-matlab-and-amazon-sagemaker.md",
-      "title": "Machine Learning with MATLAB and Amazon SageMaker",
-      "excerpt": "This post is written in collaboration with Brad Duncan, Rachel Johnson and Richard Alcock from MathWorks. MATLAB  is a popular programming tool for a wide range of applications, such as data processing, parallel computing, automation, simulation, machine learning, and artificial intelligence. It’s heavily",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-with-matlab-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-with-matlab-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T19:40:27Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-11-22-microsoft-azure-confidential-vms-will-roll-out-this-december.md",
       "title": "Microsoft Azure Confidential VMs Will Roll Out This December",
       "excerpt": "The partnership with Intel allows for hardware-enforced security and confidentiality on 4th Gen Xeon processors.",
@@ -790,7 +901,7 @@
       "originalUrl": "https://www.forbes.com/sites/elizabethmacbride/2023/11/21/using-ai-investingcom-aims-to-be-the-bloomberg-of-retail-investing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1122,100 +1233,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-a-new-frontier-ai-compliance-regulations-redefined-for-a-new-era.md",
-      "title": "A New Frontier: AI Compliance Regulations Redefined For A New Era",
-      "excerpt": "With AI's endless capabilities right on our doorstep, many have coupled the rapid advancement with raised concerns calling for more significant AI compliance regulations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/a-new-frontier-ai-compliance-regulations-redefined-for-a-new-era/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/a-new-frontier-ai-compliance-regulations-redefined-for-a-new-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d24d61ad57307c8265f247/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1497,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/a-new-frontier-ai-compliance-regulations-redefined-for-a-new-era/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/21/a-new-frontier-ai-compliance-regulations-redefined-for-a-new-era/amp/",
-      "publishedDateTime": "2023-11-21T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-amd-stock-2024-can-this-ai-chip-contender-stay-strong.md",
-      "title": "AMD Stock 2024: Can This AI Chip Contender Stay Strong?",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Price performance has been quite swingy for Advanced Micro Devices",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amd-stock-2024-can-this-ai-chip-contender-stay-strong-1032838725",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amd-stock-2024-can-this-ai-chip-contender-stay-strong-1032838725",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-25-tesla-preparing-to-launch-full-self-driving-beta-in-china.md",
+      "title": "Tesla Preparing To Launch “Full Self-Driving” Beta In China",
+      "excerpt": "A new report suggests that Tesla will launch the FSD Beta in China with the release of version 12 of the software",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/",
+      "originalUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2023/11/Tesla-China.jpg",
+          "width": 2250,
+          "height": 1265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/amp/",
+      "publishedDateTime": "2023-11-24T16:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence.md",
       "title": "His AI'ness: Godfather of self-driving cars to restart his church to worship artificial intelligence",
       "excerpt": "Anthony Levandowski, one of the most important figures in self-driving cars, who co-founded Google's self-driving venture, is restarting a church dedicated to AI. Called Way of the Future, the church",
@@ -1158,49 +1201,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-artificial-intelligence-for-dummies.md",
-      "title": "Artificial intelligence for dummies",
-      "excerpt": "There has been great progress in narrow forms of artificial intelligence, like self-driving vehicles and automated legal systems, but the only threat they pose, if any, is to jobs. The “large ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/",
-      "originalUrl": "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdn-data.s3.amazonaws.com/uploads/2023/11/Britain-AI-Summit.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangor Daily News",
-        "domain": "bangordailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

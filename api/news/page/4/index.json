@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-21-a-new-frontier-ai-compliance-regulations-redefined-for-a-new-era.md",
+      "title": "A New Frontier: AI Compliance Regulations Redefined For A New Era",
+      "excerpt": "With AI's endless capabilities right on our doorstep, many have coupled the rapid advancement with raised concerns calling for more significant AI compliance regulations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/a-new-frontier-ai-compliance-regulations-redefined-for-a-new-era/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/a-new-frontier-ai-compliance-regulations-redefined-for-a-new-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d24d61ad57307c8265f247/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1497,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/a-new-frontier-ai-compliance-regulations-redefined-for-a-new-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/21/a-new-frontier-ai-compliance-regulations-redefined-for-a-new-era/amp/",
+      "publishedDateTime": "2023-11-21T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-amd-stock-2024-can-this-ai-chip-contender-stay-strong.md",
+      "title": "AMD Stock 2024: Can This AI Chip Contender Stay Strong?",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Price performance has been quite swingy for Advanced Micro Devices",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amd-stock-2024-can-this-ai-chip-contender-stay-strong-1032838725",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amd-stock-2024-can-this-ai-chip-contender-stay-strong-1032838725",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-21T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-21-how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution.md",
       "title": "How AI Camp Is Setting Employers Up For The Next Industrial Revolution",
       "excerpt": "The AI revolution will change what you look for in your future employees, but the education system isn’t giving young people the STEM skills they need.",
@@ -1030,7 +1124,7 @@
       "originalUrl": "https://www.ibm.com/blog/business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": null,
       "content": "",
@@ -1113,111 +1207,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-ai-community-fractured-over-israel-hamas-war.md",
-      "title": "AI community fractured over Israel-Hamas war",
-      "excerpt": "As nearly 200 AI ethics leaders sign a petition criticizing Israel's use of AI, Israeli and Jewish AI leaders say they feel 'shocked' and 'alone.'",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-community-fractured-over-israel-hamas-war/",
-      "originalUrl": "https://venturebeat.com/ai/ai-community-fractured-over-israel-hamas-war/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-17-12.39.54-Create-an-abstract-image-representing-the-concept-of-a-fracture-during-war-incorporating-elements-of-technology.-The-image-should-feature-contrasting.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions.md",
-      "title": "What’s In Store For 2024? Innovations In B2C And B2B Fintech Solutions",
-      "excerpt": "To excel in the dynamic fintech landscape of 2024, businesses must prioritize innovation and customer-centricity while embracing automation and adaptability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6557c6c8274bff58c483c9d0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1178,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/",
-      "publishedDateTime": "2023-11-20T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
