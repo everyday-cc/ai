@@ -24,6 +24,17 @@ images:
     height: 533
     isCached: true
 
+related:
+  - title: "Government’s safety ambition for self-driving vehicles is ‘too weak’, say MPs"
+    excerpt: "MPs on the Transport Committee have warned the Government that its “safety ambition” for self-driving vehicles is too weak and called for stronger action."
+    publishedDateTime: 2023-11-24T13:57:00Z
+    webUrl: "https://fleetworld.co.uk/governments-safety-ambition-for-self-driving-vehicles-is-too-weak-say-mps/"
+    type: article
+    provider:
+      name: Fleet World
+      domain: fleetworld.co.uk
+    quality: 1
+
 secured: "RIe3A5kXoru2Wx7iXuQwZyX87AX2H9sQlAYg/rPpVjH7qFUp8pAGVOzYKyjAmwkZbieqAxtTWETBpvqQQhGamiHwVJBl07S4I7eM0di2hRsVzzB0mmD2eqCakZuNEeAQbtzE05xRb/G1TznvkVOWsnl9ZUBUET6Obd77Y/H/SvFO7Ij6RLdcDtK/wsGQfqqFMRGtfo/FH8f2xQFvsIi9lfcKMAUxeTd9bhoF32IJ8ef1bzCHFoYcdMz6Czg+1qvW8l7xS0+fZEPT9F5YBIf3h0/KzfRk4YkSHMjYYfuj11gAOmHxqzi1nDFJsQp8NDC/SslnxAfRrKdyB0v0JbIFNP3suy/OgJjGpsP4RyU7np8=;xxO3e6n7yD9Wl4cloTSebg=="
 ---
 

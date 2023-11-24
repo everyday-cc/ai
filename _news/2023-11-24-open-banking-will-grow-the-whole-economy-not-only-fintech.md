@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 210
 published: true
 
 provider:
@@ -194,6 +194,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "TVmx+dII4mPw3qo/pSy41PA4T5dwdHLcRkDek6S+5YbxBc7o1s1Zp7CtyYyTaewqfCZFSuRiOHBEgtaQ0+6mflo2BYVCQ3C42vdaim5wuekIssJMnRkltk6+4u7CfXmvT7KSh0MdSkk5IOqzxx+UQV8VmBLGjOPyGxNah1/wbq5w/hAQf3Z68zjL8Q1XaY7Gz17zBYK3ivRU/FVaYlaec+fFGxErviDj6dYPDV/dn3C2byYs/OFgJgAUGQHiKXbCeKkCeLQCSMNsKMnzRXx1iu3PWsy1E6q8vauFhguxCciRh4kxIiv/yvBMUOnUXZgV0p6c9Qn+uJ9nEZm40g65CrnN6G2Yq8q8v6+M5OHmPGo=;gwltz8LzFtPL4Os5FcsnNQ=="
+secured: "AxRzmLg+Fu7ul7gLTnFR5H8Nl04kAEBndZRyOkyMNZbxIUqrirsTvq7g8VZNaFXNVCU0inmfE1mauvOG3nG96x9Jrqx7wsjUh+A4qtI4gBk9USZDUqWvIKWuhFewav5X7zDWkK0UbqAwdIg2pHLln7WoYSRwfg4vziFvtQPzipfRtX2UXX76Zog9FasPtd5J0Ii4axrCfqD2U1RNtc+dH5hk+U2xjP+8ARthy6HxI3xL1bJAmPEccPB4c0YDFZoX3W1Y3TvgCoa6UylzXEpI5a98jR6e4XuAk3PdBFAKk0YQawblMTBvZoXfzOtHJyx10API2r5VFjovcgUTs4WwIkVXLJSZhtpxctQDrazGglOckw6h8tOvHlQ9KMKgj5HdgYsRrtZr3co1EaAXmc5IO+4ZhorVaa8aQt2IU+4RZk/l4ZpXSY3HcRmaVP47LvdZonaLVQWc0zBepgziKnpytw098j8z/tiiFc4oJ3kpSRC86XQRKZ+BVQ+Npt+DF9sFLnCxdh82jQaOdRaXiiKzqg==;rXcDNvdnOfNNjLAlZ9VdKQ=="
 ---
 

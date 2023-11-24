@@ -135,6 +135,15 @@ related:
       name: Pluralsight
       domain: pluralsight.com
     quality: 19
+  - title: "AWS re:Invent 2023: What to Expect from This Year’s Event"
+    excerpt: "Amazon Web Services is all-in on generative AI and the promise it offers as cloud computing continues its transformation journey."
+    publishedDateTime: 2023-11-24T14:00:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/11/aws-reinvent-2023-what-expect-years-event"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 19
   - title: "Neo4j Signs Strategic Collaboration Agreement with AWS to Enhance Generative AI Results While Addressing AI Hallucinations"
     excerpt: "Reduced Hallucinations: Neo4j with Langchain and Amazon Bedrock can now work together using Retrieval Augmented Generation (RAG) to create virtual assistants grounded in enterprise knowledge. This helps customers by reducing hallucinations and providing more accurate, transparent, and explainable results."
     publishedDateTime: 2023-11-21T16:17:00Z

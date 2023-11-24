@@ -7,7 +7,7 @@ originalUrl: "https://it-online.co.za/2023/11/22/how-digital-transformation-is-r
 webUrl: "https://it-online.co.za/2023/11/22/how-digital-transformation-is-reshaping-auditing/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,38 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "How AI Is Transforming Leasing, Security And Resident Services"
+    excerpt: "Check out Benzinga's favorite private market real estate offerings and start collecting your share of the rental income. From leasing and security to enhanced resident services, artificial intelligence (AI) can help property managers improve their ..."
+    publishedDateTime: 2023-11-24T11:01:00Z
+    webUrl: "https://www.benzinga.com/real-estate/23/11/35941423/how-ai-is-transforming-leasing-security-and-resident-services"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35941423"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35941423"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Business-People-And-Humanoid-Ai-Robot-Si.jpeg?width=1200&height=800&fit=crop"
+        width: 834
+        height: 556
+        isCached: true
+  - title: "Colors-Ai Is Transforming Product Development Through Customer Feedback Analysis"
+    excerpt: "Colors-AI's cutting-edge platform is revolutionizing how businesses harness customer feedback to inform and prioritize product development. <"
+    publishedDateTime: 2023-11-23T00:55:00Z
+    webUrl: "https://menafn.com/1107474457/Colors-Ai-Is-Transforming-Product-Development-Through-Customer-Feedback-Analysis"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/22/ZPW_445528e9-4_Image_In_Body.png"
+        width: 545
+        height: 814
+        isCached: true
 
 secured: "5/XDSYLz6ovMgGje0UNzrXjTwMYv+IVcbi6dw8MGbGcUJENkglfUgzO1GKDsc3LI3uX7fl543B5+AYK/3pl003Ei8m3McZG6+KMNqGbpqTX1KE0SdJJS+DrhIOGfB+mprWdL4I5naS0lU6qzUyWkIT7/jbkTzfZYWMIyu8ytB0Tv0wRmZ4WtTFnZBg71wgMDmIRnGCf4MUTz7Z5GYUzDZVDMoDFOmEdQssmT+SvCi30XhNLEco+6g8jEVaA7DKBlgjgpUTKbfs08u+xzqguJiqAFGwLCJ1NWlt68QavvGhjgPfsf6bE72Dv1LbO8MCHevvxphJkVElQBryH71DzpK75ukis6KX1Ue3ZOrAD0G14=;wy0bJ61RWyXv5DgBHEbbDQ=="
 ---

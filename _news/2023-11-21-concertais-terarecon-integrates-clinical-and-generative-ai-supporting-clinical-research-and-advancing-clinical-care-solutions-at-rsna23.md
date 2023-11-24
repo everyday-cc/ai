@@ -186,6 +186,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "DigiPlus Fest 2023: Accelerating content velocity with Gen AI"
+    excerpt: "At ET DigiPlus Fest 2023, Anindita D Veluri, Director of Marketing, Adobe India spoke about transforming the marketing and customer experience landscape with Gen AI."
+    publishedDateTime: 2023-11-24T14:04:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/digiplus-fest-2023-accelerating-content-velocity-with-gen-ai/105479135"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "Bm1aa0ohigVdu3XbtsmbPNtjxHSLnb7Pp/4CzugI+XMjItKMe+IUpxG05MoJl4NQmBSetHcOsqjzvdHWiaKQanFQ+pDYhGWLLzHY01TEhi00lr8ykfucDYPVjTDte3fSONHxc0AuoiXsNpw4jR3Vwj32yKUFdgSlOz3cv0b92gou0loNgKw9f4z2OE55VvRVwPNvhloSXHm9DRibsdm2CkhobCj8qBvHyH27PBD8cY+V8KFoFklITpx6XgVQYpAzeo5NScaNZMm+yF8fpQl7Tytfwjsf8OWzqn0E9nm2U3KTx9FGrqUX/cS4ZRfP8eabXsYnWdTLJca+efeOQeaTaNAeZwwdywHom+I27D2kL28=;ehXLS2P5bJQUhgyPiSVksA=="
 ---

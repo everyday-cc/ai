@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/11/20/samsung-backs-6m-round-llm-cyb
 webUrl: "https://siliconangle.com/2023/11/20/samsung-backs-6m-round-llm-cybersecurity-startup-lasso-security/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI in Security
 
 related:
+  - title: "How to apply natural language processing to cybersecurity"
+    excerpt: "Here’s the exciting part — natural language processing (NLP) is stepping onto the scene. This innovative technology enhances traditional cybersecurity methods, offering intelligent data analysis and threat identification. As digital interactions evolve ..."
+    publishedDateTime: 2023-11-24T02:17:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-apply-natural-language-processing-to-cybersecurity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_626404406-e1623836461847.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How Indian enterprises can incorporate AI into their cybersecurity solutions to build digital resilience"
     excerpt: "CISOs in Indian organizations have the opportunity to harness the power of AI for proactive cybersecurity measures, fostering long-term organizational and digital resilience."
     publishedDateTime: 2023-11-20T10:31:00Z

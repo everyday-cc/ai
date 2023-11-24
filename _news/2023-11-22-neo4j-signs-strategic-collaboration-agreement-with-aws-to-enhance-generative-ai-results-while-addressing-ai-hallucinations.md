@@ -139,6 +139,15 @@ related:
       name: Pluralsight
       domain: pluralsight.com
     quality: 19
+  - title: "AWS re:Invent 2023: What to Expect from This Year’s Event"
+    excerpt: "Amazon Web Services is all-in on generative AI and the promise it offers as cloud computing continues its transformation journey."
+    publishedDateTime: 2023-11-24T14:00:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/11/aws-reinvent-2023-what-expect-years-event"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 19
 
 secured: "0K9a+PTWcxKa1VdqzjL+npulxKLgc2gz+faSn+n/sM9cK1ivPJVX9nSTFFq96eGNDVXMfjo/JqscEGVo+u2XjqZlREJnMXZv9/3RNEEdLVnfK6BaeCQCKtJV/4r3Sgij4Bu5VV/ZAvv/CejRhw4dk47jcykYJ+2ZEldI+dmRNcDrEATPtG7rGW/epCKbg0NbzsQ6VmP13f3aMWp2OxN7dzPrUjLaQS1mRXV4iVLxxdwF2R2ZfSJA/eQOw9eyjcoQDj3uFH5T2fm0P68zB2y48UkzcNCm6bA1NKYrJwdK3C5GzzcTzD/nTaz6TExBahHgmEZVzj5HpNy+PSGGDLnn+lTSCS3yElrBbksO3hgSFTA=;vhXcUIc0jxex/xr2HHuiPw=="
 ---

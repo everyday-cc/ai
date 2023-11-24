@@ -92,6 +92,22 @@ related:
         width: 952
         height: 525
         isCached: true
+  - title: "The flying, swimming and tunneling robots inspired by nature"
+    excerpt: "Drawing inspiration from birds, fish and even worms, researchers in Europe are developing machines to explore places on Earth that are difficult for people to reach."
+    publishedDateTime: 2023-11-24T15:51:00Z
+    webUrl: "https://techxplore.com/news/2023-11-flying-tunneling-robots-nature.html"
+    ampWebUrl: "https://techxplore.com/news/2023-11-flying-tunneling-robots-nature.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-flying-tunneling-robots-nature.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/the-flying-swimming-an.jpg"
+        width: 2048
+        height: 725
+        isCached: true
   - title: "Law enforcement using AI to solve crimes, including 2020 Nashville bombing"
     excerpt: "It was during the quiet early hours of Christmas morning 2020 when a bomb went off, killing the bomber and destroying Second Avenue and Commerce Street. In the initial days and weeks, artificial intelligence played a critical role in the investigation."
     publishedDateTime: 2023-11-23T09:00:00Z

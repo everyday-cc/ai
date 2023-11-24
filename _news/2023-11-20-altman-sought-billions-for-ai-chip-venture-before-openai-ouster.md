@@ -69,6 +69,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "AI Wizard Sam Altman Shows What Real Leadership Is. His Bosses Were Clueless"
+    excerpt: "A lot happened to artificial intelligence pioneer wizard Sam Altman, recently. But for me mostly it demonstrated how his bosses knew little about leadership. First let’s recap the basics of what happened over the past few days. First, Altman was a cofounder of OpenAI, a leading company in the development of advanced artificial intelligence."
+    publishedDateTime: 2023-11-24T14:02:00Z
+    webUrl: "https://www.forbes.com/sites/simonconstable/2023/11/24/ai-wizard-sam-altman-shows-what-real-leadership-is-his-bosses-were-clueless/"
+    ampWebUrl: "https://www.forbes.com/sites/simonconstable/2023/11/24/ai-wizard-sam-altman-shows-what-real-leadership-is-his-bosses-were-clueless/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonconstable/2023/11/24/ai-wizard-sam-altman-shows-what-real-leadership-is-his-bosses-were-clueless/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6560a7660a8d42d8e5b29c42/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1339
+        height: 900
+        isCached: true
   - title: "Microsoft Says Sam Altman and Greg Brockman Will Lead New In-House AI Team"
     excerpt: "Application error: a client-side exception has occurred (see the browser console for more information)."
     publishedDateTime: 2023-11-20T08:45:00Z
@@ -421,15 +437,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "OpenAI CEO Sam Altman discusses possible return, mulls new AI venture, source says"
-    excerpt: "A day after the board fired him in a surprise move that rocked the tech world, Altman was talking with OpenAI executives about improving the company's governance structure, the source said."
-    publishedDateTime: 2023-11-19T13:24:00Z
-    webUrl: "https://www.reuters.com/technology/openai-co-founder-altman-planning-new-venture-information-2023-11-18/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 41
   - title: "OpenAI researchers warned board of AI breakthrough"
     excerpt: "Some at OpenAI believe Q* (pronounced Q-Star) could be a breakthrough in the start-up’s search for what’s known as artificial general intelligence (AGI), one of the people said. OpenAI defines AGI as autonomous systems that surpass humans in most economically valuable tasks."
     publishedDateTime: 2023-11-23T04:38:00Z
@@ -444,15 +451,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
-    excerpt: "Matt Schlicht, the CEO of the startup Octane AI, told CNBC that Altman and Brockman, who was formerly the chief technology office of Stripe, “made a technology available that we’d only ever dreamed about” and called it “the most exciting and powerful development of our lifetime.”"
-    publishedDateTime: 2023-11-19T14:10:00Z
-    webUrl: "https://www.cnbc.com/2023/11/19/openai-executive-shakeup-raises-concerns-about-future-of-ai.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 37
   - title: "How AI Doomerism Caused OpenAI’s Sam Altman Firing Fiasco"
     excerpt: "It’s been a whirlwind few days for the startup at the heart of the artificial intelligence revolution—but they only have themselves to blame."
     publishedDateTime: 2023-11-20T22:02:00Z

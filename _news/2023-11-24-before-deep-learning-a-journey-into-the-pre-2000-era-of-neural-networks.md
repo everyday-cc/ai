@@ -7,8 +7,8 @@ originalUrl: "https://techbullion.com/before-deep-learning-a-journey-into-the-pr
 webUrl: "https://techbullion.com/before-deep-learning-a-journey-into-the-pre-2000-era-of-neural-networks/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Impacts
@@ -39,7 +39,16 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Artificial intelligence: who are the leaders in end-to-end learning models for the automotive industry?"
+    excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
+    publishedDateTime: 2023-11-24T12:25:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-end-to-end-learning-models-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 5
 
-secured: "Z9tQWS5XarGsghi3COba82D2yBpFqR95AKBtAfQc/wsFcYZ8gUhUS/DzYrnhrICrknI1IEIqLvOmHTdbrDxBJOOUMqwdpMEY+VFKEvuzU5w5mhR0sllQ23go/WzIVmbh9VtS8S+enlJhLepaQSqPeVqo4QozHs42b+njsnNynKbYTHdP2MDVPeEVtMdtAdRfsdwCm16dZZrJGfAmkRhFAmyrl8vB8KqwyiwpKeVHjKgltfoaa+mITRP6oAN4LQHtikrBNnhAZYCqQ1+qOUkKWDpCZCMAm9e4xa1bhpWz8Zj7gZN8Rz+8gmnxC9yFi/L8W02QY0CwjjMHDKQ39k7PNAqK9LNZdKh2luCcr+5jE34=;oLCOYVEQBb3mQ307L4u5Dg=="
+secured: "rn8ka8/TAaz9wJ3l0rwMW+icFmveWWyqVXcUi4yZl2yEPEB7OaORC5N/TTaAOCHkOBZo2ACOUgDiAH4kHZFQ7bFOcmysC3/SDiWEoU+gQf1ipDP4riMK2HyZg/Mn3PHLYhDYMWbCGAsNmBH+iAESSEUFmXXpfkVcGgh2W4DLaEjX5FNyOXYxcJlNkprR6rwJhohgosGCNSV2eJ2QE29fK2EyrLtDtSTk1xjUX8BhxleHndj1OZFBH21ihGP63f+qC1ox0D5iBv4KAu2LHQmO5OHGBUPG+2DV+FZmoGMb8OQRi0ZTNWzIfPHCzvka4YNaTqXPKQVzC6+DFtv/Kcp9JVu8wPrOImETUxdDb1x27WAm/zlowyQB+jHMSjb+Gt9BQ3lNoFdQSP0WYW0MNdsRD/BquoLMPjYeiaBzw46AsQVMMBkpfXIjMRR/Hbwwmdy/UxWb3O+zuTjX/k1G3VnYgNo6x7bMyXqfGED6xVaIn7tbUDekIPfPQvwcQ8hF8ooosZqoVFhqxK5lgTtyTBZBbQ==;8Npdp4k0VFa3JlPz9m/RaA=="
 ---
 

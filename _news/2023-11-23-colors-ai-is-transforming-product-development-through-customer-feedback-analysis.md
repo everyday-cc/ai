@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107474457/Colors-Ai-Is-Transforming-Product-De
 webUrl: "https://menafn.com/1107474457/Colors-Ai-Is-Transforming-Product-Development-Through-Customer-Feedback-Analysis"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,33 @@ images:
     width: 545
     height: 814
     isCached: true
+
+related:
+  - title: "How AI Is Transforming Leasing, Security And Resident Services"
+    excerpt: "Check out Benzinga's favorite private market real estate offerings and start collecting your share of the rental income. From leasing and security to enhanced resident services, artificial intelligence (AI) can help property managers improve their ..."
+    publishedDateTime: 2023-11-24T11:01:00Z
+    webUrl: "https://www.benzinga.com/real-estate/23/11/35941423/how-ai-is-transforming-leasing-security-and-resident-services"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35941423"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35941423"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Business-People-And-Humanoid-Ai-Robot-Si.jpeg?width=1200&height=800&fit=crop"
+        width: 834
+        height: 556
+        isCached: true
+  - title: "How digital transformation is reshaping auditing"
+    excerpt: "Digital innovation offers unique insights throughout the audit process, enabling auditors to offer increased value and efficiency in a demanding economy. The second 2023 SAICA Audit Reform Webcast, held in August and chaired by SAICA executive for audit and assurance Thandokuhle Myoli,"
+    publishedDateTime: 2023-11-22T06:53:00Z
+    webUrl: "https://it-online.co.za/2023/11/22/how-digital-transformation-is-reshaping-auditing/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 4
 
 secured: "8rPkBQwt/xMgu2YGhgpTW0TuA6R8qsSvh5HZvT8cFXe7m0+pPHvxbugY/D/ex5m/gDae1i7BKagz+1wqfO0o6FOkHeLSfwdUamg19UszZkVG9EddjQ1JkwdSUsBs+cPXvgHPRlyY/PtvWRNwiJuHIl+6J4g00WNhZVZOinzgiQEg6Z8fidj0Tn0Zj3+VWusTA1Zybt7j5oXuauXXtg0UB+DXa1bwp/sMUp1Od6F4y46fnLMNbTP4WrneQOR1DGOw+Knxxf21MJDNzACqm4nJgFocAyXO5+7u99ewqWMW2CBJuxhKfAmq7utg+r91/Jr2WjMpDW8Z/5UO7FRlMoJDzSjNqEH9+cTBZx3DKG+IkfA=;zIO149UtzfgWUK1x/iQt5g=="
 ---

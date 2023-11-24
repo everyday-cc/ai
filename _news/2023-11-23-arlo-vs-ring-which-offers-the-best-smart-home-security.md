@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/arlo-vs-ring-3388054/"
 webUrl: "https://www.androidauthority.com/arlo-vs-ring-3388054/"
 type: article
 quality: 71
-heat: 73
+heat: 71
 published: true
 
 provider:

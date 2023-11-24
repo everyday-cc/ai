@@ -129,6 +129,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Artificial intelligence: who are the leaders in moving obstacle prediction AI for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is advancing moving obstacle prediction AI due to growing demand for autonomous vehicles, advancements in LiDAR and camera sensor technology,"
+    publishedDateTime: 2023-11-24T12:54:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-moving-obstacle-prediction-ai-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 14
 
 secured: "dkK+QaPXzrK4cJv8mvF8w01CxD7kA9MGr/RKHnh+WSvABxSCbzG2Erq+iKymMFUaTsy0TTt0cs6PGiqEEl4ur8SqoYWBZJMU5M1nvpUz60RmLID1NVPKhEdJzOnNT9EgWN2gsfUhGvJ+AyLXoY0ingxMi29JiuWIxb1kXcjfq4Sx782zqC2FyH2HI5ArBMYEIETnXpv40lmYCLs2f4FO2h6hdd/fY2nRRZIWyuYnqunZoo2k6L7vdHcoBjvNa+l9TGgQwJelVoX8vvL8FszJbwFCgiD5mYgrfPO4zdU9Bwaqcd2oqIngJwk7A0pkazAdNxHKwuWScCJQTCuKmh1wh6Ncr16I8YKwYs3nKDSKMX4=;XJbV8oufYtSN+ioqBnrpIg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -133,6 +133,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Artificial intelligence: who are the leaders in moving obstacle prediction AI for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is advancing moving obstacle prediction AI due to growing demand for autonomous vehicles, advancements in LiDAR and camera sensor technology,"
+    publishedDateTime: 2023-11-24T12:54:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-moving-obstacle-prediction-ai-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 14
 
 secured: "hN4Gv4JK6Yo8ZClCfIEfuIrt9W0r5qNcQ6EyjqA/m6t4chgTFGqZzputB6xL/3MV+yhMauRepTFPzAw13gniEvkNSMvOBAOuEZ3vKZKGwJe49MJOyAyn6UT6jcO7/0DLwXalULDiiq0HISWGHGK4mgwOJSjIKA4WEZ1+aHROHDX3vNdMHWQwW3WaGrqJhZgJ4Qj0BDSHHbFpnx9AFrFE2JMz1yTAK3U9xbSPiuKPDzXzzvgk7WKQmftUDSFkPQG0PBTetGBkDyhC9Te51SGVY3d1BnCTq4kFzkQcXNM5numKDl8X/Ob0d1/7s7w0voerQSmbIdHsAHVJqnre6DippF7AGxJTuhjAWe6s16uhz45UMvcz41FDO7yvM3oHRQ8E1humhB6RTNFlBRtLqpv29nEB4Wzp4NtOuo3ooZkPIVgKTecT8R88AKFHTbnP73EW3kgGp8jYH87kvMf2OZwRPDnHSiLocjKalpguL1tWvSHUT5qjAdMltx1vjaPGwpJIybatv1nkMmJZpqfZLV6E1w==;78R9j4vwfizfXDRaeITN1Q=="
 ---

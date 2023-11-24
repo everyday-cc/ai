@@ -23,17 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Dear Annie: Artificial Intelligence only making social more vicious"
-    excerpt: "Dear Annie: I just read a story in the newspaper about some high school boys using artificial intelligence to create nude images of girls in the same school and then posting them on social media. I also read a story earlier about something similar happening in Spain."
-    publishedDateTime: 2023-11-19T13:59:00Z
-    webUrl: "https://www.syracuse.com/advice/2023/11/dear-annie-artificial-intelligence-only-making-social-more-vicious.html"
-    type: article
-    provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 17
-
 secured: "2NQ1ZhMnVKQ2hwfU3lfDYoLAUWokRStE6jiJFArwBQsPJm8uI6LFsre/nkwaNH4P9LqAqDtfxnjjNykVRK5jLmewQgnnZJvcOlT72Vn4rdmpjjH42Zd6NQIVQbOo8UdARF7aSreNW+InUCdjsv9KeuVw5d7lpVA+rPRBmUk0Xi5i/EvrynhCpeqOa5WJFYmQkSoxpjK4+C2l0YPW+uKJmUIvUsfTAGbFPZKwux6i5hEXvKcnaNSvBs5DFyRLgAd2+pC+eycqjXBIVzVn0LSWS5TWTjRUWvit/aoMLDx+1l3UHxk6J4JBPvalNccBNIU1eCpjMot0bE3dVcw9oY/8yPfagy1Mo/u+wXmtmbHLQ16kZEAEm88oE+/M4MwxAr0tw0Vo4deuGxBvjCIUsQxuwkl/1YciwlOQ27SWxg/ip2TsF/XPomJ0eopda1v7iRwTkioZpltUc6xJDxtMPhdA8Q/46lZGqsxTZHm/WmIHRha+o/UlrWrYcMYpsW1PQkEz8TyojewU7XksGJORkTbHdA==;cpqHc21XoSMM/BSALQs0eQ=="
 ---
 

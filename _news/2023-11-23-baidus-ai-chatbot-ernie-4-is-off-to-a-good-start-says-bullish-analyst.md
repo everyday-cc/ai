@@ -375,15 +375,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 11
-  - title: "7 Biggest Questions About ChatGPT, Answered by Gartner Experts – Gartner"
-    excerpt: "Contact or call jsbacContact April 5, 2023Contributor: Ava McCartneyGartner experts weigh in on how it’s valuable and whether it’s safe to"
-    publishedDateTime: 2023-11-19T13:42:00Z
-    webUrl: "https://www.inferse.com/800202/7-biggest-questions-about-chatgpt-answered-by-gartner-experts-gartner/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 3
   - title: "Baidu reveals expectations-beating earnings and touts its new ChatGPT-like AI models, amid leadership chaos at U.S. competitor OpenAI"
     excerpt: "Baidu took an early lead in the race to dominate China's AI sector with the release of ERNIE Bot earlier this year."
     publishedDateTime: 2023-11-22T08:53:00Z

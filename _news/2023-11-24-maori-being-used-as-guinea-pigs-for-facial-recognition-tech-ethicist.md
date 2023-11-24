@@ -67,6 +67,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "UK police plan national roll-out of facial-recognition phone app"
+    excerpt: "UK police chiefs announce plans to further expand police use of facial-recognition technology through a nationwide roll-out of mobile-based tools and massive increases in retrospective facial-recognition use,"
+    publishedDateTime: 2023-11-24T07:30:00Z
+    webUrl: "https://www.computerweekly.com/news/366560813/UK-police-plan-national-roll-out-of-facial-recognition-phone-app"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 4
 
 secured: "51up8AmYipf+AIhbZfEfPMJFL/BpQT53eA3VVEzX1mQzpNshyaBJ3g7c+Bzn3y3DnXFPJsJQMIZOBlmpPDg/IJ5DXSJZ3hpWowbONFk7q2mw/8FrmbUIhMkNIBVYkiFQcpXbFxsd5U9dLCXzl5uocP/5lML69/MnhcVLyOqE8bT+0+DgDOJhXjZFQh3zrnvCtLvtsBSZbKnSyMT3aEAwtQImnYR0Xq1w39g13lofP8P6UzSYbTZzawYdiDWhdentqw4sefslya5FOGHy23Ph5hcRWeDOW0WfSGuUkhAEigzG7xtU3uIZrh3oc0eU+XJSN1dUoR79vU6z1ECRTqST8Iz9kSK8fu8RXcGsq0Fs7LM=;THijDH1+YAWSiNnZyuDVog=="
 ---

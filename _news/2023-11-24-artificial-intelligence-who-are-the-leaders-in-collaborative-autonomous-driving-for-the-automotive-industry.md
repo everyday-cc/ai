@@ -80,6 +80,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Artificial intelligence: who are the leaders in obstacle detection radar-LiDAR for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Innovation in autonomous vehicles (AVs) is driven by safety, cost, performance, and convenience, and growing importance of technologies such as data processing and fusion,"
+    publishedDateTime: 2023-11-24T13:23:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-obstacle-detection-radar-lidar-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_LiDAR-point-cloud-processing.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Internet of Things: who are the leaders in object sensing radars for the automotive industry?"
     excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over one million patents, there are 300+ innovation areas that will shape the future of the industry."
     publishedDateTime: 2023-11-24T02:09:00Z

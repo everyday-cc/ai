@@ -39,6 +39,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Artificial intelligence: who are the leaders in end-to-end learning models for the automotive industry?"
+    excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
+    publishedDateTime: 2023-11-24T12:25:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-end-to-end-learning-models-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 5
 
 secured: "sv0kGL4rax4ELZg2YQR87wLLtzl+3o7I0btXhNz/bKn8p+P5GbRYa/ytF5NxUXpczLygaKn00NT6A8n0fohzbgBbJ3PIZRDe5pXSjTkXArmoBz05s8Snbcb0c/oxUsG2FFEikbyhj5yZwpLS2O8Gd0y39+sf/Wdp7huVC/A4CtP+/ylI+k8NwyYYDniTY4APu34tYR/97KnXqPirc9bqip70P8dqnknZin91WrfYER1zShRERSjq5dZmUVI2clXzM0pTOnR1xKrC4Vii7GILNl9hmEDMvhkt9iMBXGyH63eFsciNYfLh981tKP20l1FmU+Z0ab3DX2KWay+M0cX6q64RfMkGubGxRizQyNXECFPuvpwVPpWYp+bOPig0hfxcoJMEAyuS37Ttx3gVWpgI8CZQ6y6QS34W5yRO1X1/8dZ/yzM1bIZtBTx9OndWTY7DvY06EmrCDImXlh8TIlUqmdif1oC0ZeJibeMkmYhFZHhslYWJwnOwDf1Ln+mRvBPJdCOhKxW/Znrh9aNuPmbRSg==;c6AP8SpWKbogP4JQbgQDaQ=="
 ---

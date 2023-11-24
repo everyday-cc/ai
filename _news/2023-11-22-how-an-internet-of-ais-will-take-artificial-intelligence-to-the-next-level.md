@@ -23,22 +23,6 @@ images:
     height: 799
     isCached: true
 
-related:
-  - title: "New AI-enabled video surveillance cameras take analytics to the next level"
-    excerpt: "During the transition from analog to IP or digital video is not just video that we used to capture (images) through a coaxial cable and then we record and playback. There are so many ways to utilize video in terms of operations and security,"
-    publishedDateTime: 2023-11-21T16:54:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/53078871/new-ai-enabled-video-surveillance-cameras-take-analytics-to-the-next-level"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 37
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/11/655cd956f7277b001ec82129-bigstockbackviewofyoungbusinessman475182819.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "75gMZizfDB4yaImM7Mp2uC8hzPlmG9EMUyF7WqkJ414mW0AwjszGlfkVDJTyj6xkrZvEoU1F+7r7PL/EE9fjA65zj2y87Y7S9abNxogE1OkNWA9oHXsST966rRqIoNUvz52xnRhvz4dnTESm95Kos/9vrYRgTtqqtpWe6C+9HitNlsJ9SqXjs2Y+yZGj2RpS/MDIxVPNghTGXKF/XfJcTh9Xhs1hDSnoKIZ6BTagsjsrL1AmU59ivyb9xryhju2wc7hZLCqRazcYcFSNBv9nxTFgbqxx1cK+2u25nhCzrM4I6lMo+UcqbJ8lI6voSv1f17XlOVCSx7f/kAntdpGh3SZ0W6k9cLFPuxZe/4Y1oAY=;ss37tSY7/dV/IZUAs+W06A=="
 ---
 

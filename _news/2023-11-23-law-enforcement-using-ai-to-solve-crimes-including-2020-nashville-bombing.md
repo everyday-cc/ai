@@ -104,6 +104,22 @@ related:
         width: 952
         height: 525
         isCached: true
+  - title: "The flying, swimming and tunneling robots inspired by nature"
+    excerpt: "Drawing inspiration from birds, fish and even worms, researchers in Europe are developing machines to explore places on Earth that are difficult for people to reach."
+    publishedDateTime: 2023-11-24T15:51:00Z
+    webUrl: "https://techxplore.com/news/2023-11-flying-tunneling-robots-nature.html"
+    ampWebUrl: "https://techxplore.com/news/2023-11-flying-tunneling-robots-nature.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-flying-tunneling-robots-nature.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/the-flying-swimming-an.jpg"
+        width: 2048
+        height: 725
+        isCached: true
   - title: "Riding The AI Wave And Investing In StarUps"
     excerpt: "AI startups have attracted billions in institutional funding ... deal flow in the Artificial Intelligence space and interest in investing in some of the 2021 startup darlings that now trade at significantly discounted valuations.” For investors who ..."
     publishedDateTime: 2023-11-19T19:27:00Z

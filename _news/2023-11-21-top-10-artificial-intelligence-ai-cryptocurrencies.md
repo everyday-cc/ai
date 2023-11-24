@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/au/investing/cryptocurrency/top-10-
 webUrl: "https://www.forbes.com/advisor/au/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/"
 type: article
 quality: 84
-heat: 114
+heat: 115
 published: true
 
 provider:

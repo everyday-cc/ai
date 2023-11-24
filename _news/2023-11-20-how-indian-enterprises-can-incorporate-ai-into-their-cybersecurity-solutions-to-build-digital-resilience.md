@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "How to apply natural language processing to cybersecurity"
+    excerpt: "Here’s the exciting part — natural language processing (NLP) is stepping onto the scene. This innovative technology enhances traditional cybersecurity methods, offering intelligent data analysis and threat identification. As digital interactions evolve ..."
+    publishedDateTime: 2023-11-24T02:17:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-apply-natural-language-processing-to-cybersecurity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_626404406-e1623836461847.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Samsung backs $6M round for LLM cybersecurity startup Lasso Security"
     excerpt: "The capital was provided by Entrée Capital, the lead investor in the round, and Samsung Electronics Co. Ltd.’s Next venture capital arm. The raise brings Lasso Security’s total outside funding to just over $7.5 million."
     publishedDateTime: 2023-11-20T19:03:00Z

@@ -174,6 +174,15 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "DigiPlus Fest 2023: Accelerating content velocity with Gen AI"
+    excerpt: "At ET DigiPlus Fest 2023, Anindita D Veluri, Director of Marketing, Adobe India spoke about transforming the marketing and customer experience landscape with Gen AI."
+    publishedDateTime: 2023-11-24T14:04:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/digiplus-fest-2023-accelerating-content-velocity-with-gen-ai/105479135"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 19
   - title: "ConcertAI's TeraRecon, Integrates Clinical and Generative AI, Supporting Clinical Research and Advancing Clinical Care Solutions at #RSNA23"
     excerpt: "New solutions empower clinicians and research teams with AI orchestration, model development, visualization, and multi-modal data management to"
     publishedDateTime: 2023-11-20T17:09:00Z

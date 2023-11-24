@@ -165,6 +165,20 @@ related:
         width: 1500
         height: 1128
         isCached: true
+  - title: "Nvidia delays AI chip designed for China: ‘Nvidia has demand without China’"
+    excerpt: "Nvidia delays an AI chip it specifically designed for China. Wedbush analyst Bryson says Nvidia has demand without China."
+    publishedDateTime: 2023-11-24T14:52:00Z
+    webUrl: "https://invezz.com/news/2023/11/24/nvidia-delays-ai-chip-designed-for-china/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 52
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/02/161973057-m1-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Genentech, NVIDIA Enter Into Strategic AI Research Collaboration"
     excerpt: "Tuesday announced a multi-year strategic research collaboration with NVIDIA that couples Genentech's artificial intelligence (AI) capabilities, extensive biological and molecular datasets, and research expertise with NVIDIA's world-leading accelerated computing capabilities and AI to speed up drug discovery and development."
     publishedDateTime: 2023-11-21T16:15:00Z
@@ -229,6 +243,20 @@ related:
       - url: "https://www.bdcnetwork.com/sites/default/files/109024_N2_jpg.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
+    excerpt: "An exchange-traded fund tracking artificial intelligence stocks saw investors pouring money after six straight weeks of outflows, on the backdrop of strong quarterly results by chipmaker Nvidia and rising optimism that U."
+    publishedDateTime: 2023-11-24T15:11:00Z
+    webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/15956a8a29bc3c93c3b3f2c772ea148e"
+        width: 800
+        height: 533
         isCached: true
   - title: "AI Leader Dipping From Record Highs Before Earnings"
     excerpt: "This is shaping up to be a big report for the company given its lead in the artificial intelligence (AI) space. During yesterday's trading ... There's no set up required either. If you start buying the dividend stocks I show you today..."

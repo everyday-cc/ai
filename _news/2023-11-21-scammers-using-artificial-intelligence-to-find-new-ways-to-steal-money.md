@@ -65,20 +65,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
-  - title: "Phoenix turns to artificial intelligence for improved wastewater monitoring"
-    excerpt: "From self-driving cars to automated services, artificial intelligence has been influencing every aspect of day-to-day life — even in ways we can’t see. In Phoenix,"
-    publishedDateTime: 2023-11-19T17:00:00Z
-    webUrl: "https://www.yourvalley.net/stories/phoenix-turns-to-artificial-intelligence-for-improved-wastewater-monitoring,461730"
-    type: article
-    provider:
-      name: Sun City West Independent
-      domain: yourvalley.net
-    quality: 37
-    images:
-      - url: "https://gc1.creativecirclecdn.com/yourvalley/medium/20231117-173000-RDH-Environmental-Installation.jpg"
-        width: 850
-        height: 531
-        isCached: true
   - title: "Using AI to Support Multilingual Students"
     excerpt: "Multilingual learners are frequently expected to learn content through reading articles. However, these articles are often significantly above their reading levels. Fortunately, AI platforms such as Poe can come to their aid."
     publishedDateTime: 2023-11-21T20:00:00Z

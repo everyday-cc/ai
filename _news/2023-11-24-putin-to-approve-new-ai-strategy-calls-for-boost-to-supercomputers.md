@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Putin to approve new AI strategy, calls for boost to supercomputers"
-excerpt: "President Vladimir Putin said on Friday that he would soon approve a new version of Russia's strategy for Artificial Intelligence development, and called for a significant increase in the expansion of supercomputers."
-publishedDateTime: 2023-11-24T11:45:00Z
-originalUrl: "https://www.reuters.com/technology/putin-approve-new-ai-strategy-calls-boost-supercomputers-2023-11-24/"
-webUrl: "https://www.reuters.com/technology/putin-approve-new-ai-strategy-calls-boost-supercomputers-2023-11-24/"
+title: "Putin to Approve New AI Strategy, Calls for Boost to Supercomputers"
+excerpt: "MOSCOW (Reuters) - President Vladimir Putin said on Friday that he would soon approve a new version of Russia's strategy for Artificial Intelligence development, and called for a significant increase in the expansion of supercomputers."
+publishedDateTime: 2023-11-24T12:45:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2023-11-24/putin-to-approve-new-ai-strategy-calls-for-boost-to-supercomputers"
+webUrl: "https://www.usnews.com/news/technology/articles/2023-11-24/putin-to-approve-new-ai-strategy-calls-for-boost-to-supercomputers"
 type: article
-quality: 67
-heat: 67
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://www.reuters.com/resizer/Xz13xfjdOWllvab6asJB52fM6XI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W6GZG6OFUZMNVFEU7O3IP4ALLI.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "g8Zrp6vW3sNSa+rMU5Sg1M91PD9/MbCv6gS0k77fYVg6iGJ526P3ppBYezweezn28XIZZPLE0B38r2Dyir1rcQUvSONDLIyu4lIcQNDCXD8MLElkG0Lf8N4my+twMQMgkgOsea+xMlwT2zYHYKhXNkr76gUeWg7qoS3dQ/mvwVAOrha4O52KFmf3KqSHPLho4SR/uYhQJdb7erixmgXYfT/DBbFePNC/PQ6qaaUTAoRklLJEQoMzFU9GeaUHSe4yB4EkgsZN5STQgTQF7LiiQ9KMA0GXim2C9O8OtpSKuts9DglKkVAjEWgmn2h4TOJ0DD+4qoFMeA3h3h6Z0HbR62oSxRqvU5IBxDGVUksjmBU=;JPpsbn/j3cwcfajtwGlxaw=="
+secured: "VQrYWjQjRf5k/y+Ybj5cUDCdWQkfn3v2zHtwOwuPyeC81PyxAsRV9JGJF7n1MhvKzNeAnbqBSx30poT4juM9PmuL+zQlxYtdx9gtlSo1cf53OBGwg3Ix5LFzU2UndoBd+E2LR6D1ElEnFHGMX0MTWtA0bZpM8c7+yV7Q+w/E8a2vEte/UfvWy/y7OYdDMwVOiWPcQd9NStj/7Hfej5ptskDIjqH5vIdhdgQqfQs04wSTHVRk/YhICYnBXlHh0IUIEVTdDMU628e1RuRw5ouHfQGWkKKScCpHo2qEXFj8h5Q2GBZNAeUacLCLuiIg3mTg+/b1Cf0okVtzkiUV5qGfApSDnWSEoto6pMUzOK/8RvhTvsCzyz5R0w2Qjv9LJzBBvQtLiRCraET0XpSVdOssBvNeguO/uLqa/SX1Sg2qCohnIXbTzs7nrsbiaqgMl42Trlb6PF4sj8yw80cbl5g9un7pP/+Hlf5kobzlUs7y3eUho7rOE7vEOoAr/i6YLTcs+kJf7wG/Czxtiw6toejGpQ==;XczNO7CCGRta9pU4lYlOzg=="
 ---
 
