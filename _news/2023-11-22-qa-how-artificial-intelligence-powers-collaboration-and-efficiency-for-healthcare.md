@@ -43,15 +43,20 @@ related:
         width: 1406
         height: 900
         isCached: true
-  - title: "A call for better regulations over AI in healthcare – AI Magazine"
-    excerpt: "The artificial intelligence (AI) healthcare market is predicted to grow from US$11bn in 2021 to US$187bn by 2030, according to Statista. This huge increase"
-    publishedDateTime: 2023-11-19T12:54:00Z
-    webUrl: "https://www.inferse.com/800158/a-call-for-better-regulations-over-ai-in-healthcare-ai-magazine/"
+  - title: "Healthcare in the age of AI: How will artificial intelligence impact future decision-making?"
+    excerpt: "Authored by: Constanza Salas, Jhon Galindo and Rachel Howard"
+    publishedDateTime: 2023-11-24T11:06:00Z
+    webUrl: "https://www.pmlive.com/pmhub/healthcare_market_research/109066_the_research_partnership/white_papers_and_resources/healthcare_in_the_age_of_ai_how_will_artificial_intelligence_impact_future_decision-making"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 34
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 58
+    images:
+      - url: "https://www.pmlive.com/__data/assets/image/0006/1503879/Artboard_1.jpg"
+        width: 358
+        height: 238
+        isCached: true
 
 secured: "2ZVSdZPFns0At0xEv010EijYtLoGWdK+GcRJP88eFrQQOeVT0N7dz+OtP3NXci23u2V2zzep5conK/F/HSHZPMe8JqX57bFR9w3uDOkSKw5Bb8siitLxQxHj/05Uj9xygCa7tx6D4OjCtwb3AYRYjtUqqvkciT/q/zYsn/NxDSS3hjlyX7kePc2sxo6jpbxCdnok/ju3vBWewWmsr9yxluww/of3IWfogLarL3cShA1HqkwmWZoNF19PVGa2MrMug2ZmGfI3I/mDQ+ST9coQi44JlpUmU/J4IbnwBO5RM9S82EZMcZmSFbXTtpWXggapbdyPaFmprMx4kjpE41J2TJXmOXRsbJrsFsJwsa9Fl07drHBBflr6GlK4lwMiUOYc2uvPJcXxu/k4BPnaSugvy71yLU8tpSi0sEnTZTrM3sUuVdSKY5PyJ1MFtJ4biaF1dUVNkDu/6cIedgk4FQ9MD98dpGjfZ/TV6ctuDVQhA+Weez3DNuF0XaNFIyEhO3crohyW/a1nnInUmdd49IArIQ==;4LXD4LwbHI0X9Ov8Cdytww=="
 ---

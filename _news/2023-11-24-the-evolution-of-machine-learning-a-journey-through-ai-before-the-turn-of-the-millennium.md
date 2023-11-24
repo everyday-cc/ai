@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/the-evolution-of-machine-learning-a-journe
 webUrl: "https://techbullion.com/the-evolution-of-machine-learning-a-journey-through-ai-before-the-turn-of-the-millennium/"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Evolution of AI Generative Models: From GANs to Transformers"
-    excerpt: "Introduction Artificial Intelligence (AI) has undergone a revolutionary transformation in recent years, particularly in the realm of generative models. From the groundbreaking Generative Adversarial Networks (GANs) to the highly sophisticated Transformers,"
-    publishedDateTime: 2023-11-22T07:26:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-ai-generative-models-from-gans-to-transformers/"
+  - title: "Before Deep Learning: A Journey into the Pre-2000 Era of Neural Networks"
+    excerpt: "Introduction The roots of deep learning stretch far beyond the current buzz. Before the advent of deep learning, the realm of neural networks had already started to take shape, laying the foundation for the sophisticated models we have today."
+    publishedDateTime: 2023-11-24T11:33:00Z
+    webUrl: "https://techbullion.com/before-deep-learning-a-journey-into-the-pre-2000-era-of-neural-networks/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 39
+    quality: 53
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/The-Evolution-of-AI-Generative-Models-From-GANs-to-Transformers.jpg"
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Before-Deep-Learning-A-Journey-into-the-Pre-2000-Era-of-Neural-Networks-1.jpg"
         width: 600
         height: 450
         isCached: true
 
-secured: "klPfOeJnnHBCr25Bhid/ipV3hmgiYaUHqQNiv72+45sSfdGQZamLQuMWu7pzSzBymZY6Ao8ViTV/kAsPscglxxge29GJn+kb7gti1BwIjNL1F4Jo++ohD5EU5ijzQ5nO2AK9AaOb2nqU2tbrOroXh/XmaxXkR0cOKDfXAQbE6ORQKKZjgI1NFo7C1+tvF7POwjS7o+5LSjgnAmT2uqc6L3+04jJ/AGacnVUsJn/25VHFtwAdHDU9d/nNQbDIxBo2SDAR1W9YM7KQW4dJ3dcul8aGMA+YXPBmk/jCJYENy2Bm7Wu07RrWI+sJm1csh+dxX/rrbe9j829V8ZxW76G8vA2/X/ulPlO8wreLhazCZa4=;xU7Y6xe3NFKBif0iwuPkfQ=="
+secured: "sv0kGL4rax4ELZg2YQR87wLLtzl+3o7I0btXhNz/bKn8p+P5GbRYa/ytF5NxUXpczLygaKn00NT6A8n0fohzbgBbJ3PIZRDe5pXSjTkXArmoBz05s8Snbcb0c/oxUsG2FFEikbyhj5yZwpLS2O8Gd0y39+sf/Wdp7huVC/A4CtP+/ylI+k8NwyYYDniTY4APu34tYR/97KnXqPirc9bqip70P8dqnknZin91WrfYER1zShRERSjq5dZmUVI2clXzM0pTOnR1xKrC4Vii7GILNl9hmEDMvhkt9iMBXGyH63eFsciNYfLh981tKP20l1FmU+Z0ab3DX2KWay+M0cX6q64RfMkGubGxRizQyNXECFPuvpwVPpWYp+bOPig0hfxcoJMEAyuS37Ttx3gVWpgI8CZQ6y6QS34W5yRO1X1/8dZ/yzM1bIZtBTx9OndWTY7DvY06EmrCDImXlh8TIlUqmdif1oC0ZeJibeMkmYhFZHhslYWJwnOwDf1Ln+mRvBPJdCOhKxW/Znrh9aNuPmbRSg==;c6AP8SpWKbogP4JQbgQDaQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/from-sci-fi-to-reality-exploring-ais-role-
 webUrl: "https://techbullion.com/from-sci-fi-to-reality-exploring-ais-role-in-driving-future-growth/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1000
     height: 500
     isCached: true
+
+related:
+  - title: "His AI'ness: Godfather of self-driving cars to restart his church to worship artificial intelligence"
+    excerpt: "Anthony Levandowski, one of the most important figures in self-driving cars, who co-founded Google's self-driving venture, is restarting a church dedicated to AI. Called Way of the Future, the church"
+    publishedDateTime: 2023-11-24T11:19:00Z
+    webUrl: "https://www.firstpost.com/tech/his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence-13427512.html"
+    ampWebUrl: "https://www.firstpost.com/tech/his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence-13427512.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence-13427512.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 59
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/11/His-AIness-Godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Project aims to turn AI research into start-up businesses"
+    excerpt: "A new accelerator project has been launched to help researchers at the forefront of artificial intelligence discovery turn their work into start-up companies."
+    publishedDateTime: 2023-11-24T12:21:00Z
+    webUrl: "https://www.thebusinessdesk.com/yorkshire/news/2117175-project-aims-to-turn-ai-research-into-start-up-businesses/"
+    type: article
+    provider:
+      name: The UK
+      domain: thebusinessdesk.com
+    quality: 39
+    images:
+      - url: "https://www.thebusinessdesk.com/_files/images/nov_23/Using-AI-to-create-start-ups-e1700828433554.jpg"
+        width: 551
+        height: 367
+        isCached: true
 
 secured: "FM39fM9qq6sL0NSaFsEAI9Rlp2hw2cjl0eFQ/dvhESMwDwG6yhD07uLxZil4Y+bw4grRVlLLiI9gq5AXLv0v27ugHcXoMzz5AfrECPSZlhvdKrXhHF44W7pPY+udGYG19YaTrCKv3f96/Cg7H3TjX3gkbZh5xAOBKfIydSSVhWSST5/Pydxa+UvTLQHicgTR+f9oJ0A4Qps/mX7MiOp1fdsgIUtnbK5xYBDeSIDhdy/e0OephTN5Gr9uyxBF4BCvGIdQlBfVFtZXsl1v9krVJCqOanaQgtSRqX5VWNjZC0U+W7tHhBG3wBscHJbJbU41ED8l0dyWWprfRLjAc9eGhmR3Q0JQu8y0l8CjnVOLeom84StPbcxwmHBrHIzfcdUzCYGUZl0SRxIrxUrY1/oND3j87NTtvjfjuR3CafZDga/yZK/NYZV3qhG5ER/vkP/ANCz2h4MwuVFSb782EdGukcD2PrPuL6jdr4cfQFblFrGh285fl1M2c0O7dcz7zuo9TcPgFoqk4zbK3eZwdPtVnw==;EkaBmtUcM5V6Bbf5NMS59A=="
 ---

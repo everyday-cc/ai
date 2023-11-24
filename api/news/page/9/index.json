@@ -2,6 +2,117 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-11-14-ai-enhanced-enhanced-security-operations-solutions-startup-radiant-security-raises-15m.md",
+      "title": "AI-enhanced enhanced security operations solutions startup Radiant Security raises $15M",
+      "excerpt": "Artificial intelligence-enhanced security operations solutions startup Radiant Security Inc. today announced that it has raised $15 million in new funding for additional research and development.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/11/14/ai-enhanced-enhanced-security-operations-solutions-startup-radiant-security-raises-15m/",
+      "originalUrl": "https://siliconangle.com/2023/11/14/ai-enhanced-enhanced-security-operations-solutions-startup-radiant-security-raises-15m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/radiantsecurity.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-why-artificial-intelligence-hasnt-mastered-meditation-yet.md",
+      "title": "Why Artificial Intelligence Hasn’t Mastered Meditation… Yet",
+      "excerpt": "I got a solid A, thank you very much! I wrote about the dangers of unchecked development of artificial intelligence long before it was a “thing.” Nowadays, it seems not only possible, but likely, that AI will become as intelligent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/momentology/202311/why-artificial-intelligence-hasnt-mastered-meditation-yet",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/momentology/202311/why-artificial-intelligence-hasnt-mastered-meditation-yet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-new-robot-control-system-unveiled.md",
+      "title": "New robot control system unveiled",
+      "excerpt": "With the rapid development of technology, intelligent robots have gradually permeated various aspects of people's lives. In order to make life more convenient and easier, an advanced robot control system has become an indispensable part of the AI age.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202311/14/WS655378c8a31090682a5ee1fc.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202311/14/WS655378c8a31090682a5ee1fc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T13:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-roadmap-technologies-revolutionizes-predictive-analytics-with-cloud-based-deep-learning-software-for-time-series-forecasting-arriving-in-2024.md",
       "title": "Roadmap Technologies Revolutionizes Predictive Analytics With Cloud-Based Deep Learning Software For Time Series Forecasting, Arriving In 2024",
       "excerpt": "RoadMap's new forecasting system allows companies to rapidly deploy over 40+ advanced forecasting models to accurately predict key areas of business",
@@ -493,8 +604,8 @@
       "title": "3 Machine Learning Stocks You’ll Regret Not Buying Soon: November 2023",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning is revolutionizing industries from healthcare to",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035?op=1",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035?op=1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -527,8 +638,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -818,126 +930,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-as-h100-ai-gpu.md",
-      "title": "NVIDIA officially teases next-gen B100 Blackwell GPU: over 4x as fast as H100 AI GPU",
-      "excerpt": "NVIDIA promises perpetual innovation and perpetual performance leaps with a sneak peek at its next-gen B100 Blackwell GPU in GPT-3 175B inference perf.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/94338/nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-h100-ai/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/94338/nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-h100-ai/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/4/94338_110_nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-h100-ai_full.jpg",
-          "width": 1500,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T23:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-amazon-black-friday-2023-best-early-deals-and-upcoming-sale-dates.md",
-      "title": "Amazon Black Friday 2023: Best Early Deals and Upcoming Sale Dates",
-      "excerpt": "If you're looking to stock up on movies, you can save a heap of cash right now at Amazon. Amazon has officially announced its Black Friday sale will begin on Friday, November 17 and run through ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ign.com/articles/amazon-black-friday-2023",
-      "originalUrl": "https://www.ign.com/articles/amazon-black-friday-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T23:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup.md",
-      "title": "Sharechat co-founders raise $3 million from India Quotient, Elevation Capital for robotics startup",
-      "excerpt": "P.S. If you're as passionate about robotics as we are, reach out, connect, and let's build something extraordinary together.” The round comes at a time when internet startups are struggling to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/09/Artificial-Intelligence.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html/amp",
-      "publishedDateTime": "2023-11-13T22:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Business Tech Roundup: Google Maps Gets A Massive AI Upgrade"
-    excerpt: "A \"revolutionary\" accounting software is launched, Xero takes on payables, Microsoft Edge translates in real time and new Chromebook deals for Black Friday."
-    publishedDateTime: 2023-11-19T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/quickerbettertech/2023/11/19/business-tech-roundup-google-maps-gets-a-massive-ai-upgrade/"
+  - title: "‘We are a little bit scared’: OpenAI CEO warns of risks of artificial intelligence – The Guardian"
+    excerpt: "Sam Altman stresses need to guard against negative consequences of technology, as company releases new version GPT-4Sam Altman, CEO of OpenAI, the company"
+    publishedDateTime: 2023-11-21T04:35:00Z
+    webUrl: "https://www.inferse.com/801620/we-are-a-little-bit-scared-openai-ceo-warns-of-risks-of-artificial-intelligence-the-guardian/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-11818.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3RHoQYoR8/VDYHKcoF+xTtUJXQeDCZMB+e3jz+8y6lXyT6QNcuQaEcVHv8s4AOMITzyeNUmWJxcZxCeyfYGhxb1CVqXvihbBc4YEDJ56+oPwAWIBMALMvRvyICqfEhz02vegVS4ZQJ09p93PUsnCzETNxjvoZZRnWT8yoD2sVyO5+Fc/xRZ04Zl20MH6sYoJlJ+dtKx/vhK2I7G/ZPn4xetvmRfb1LnChprl1ZNZqWuB35Vpd5YmNludm9tEidxOL5kOn6+oXbPb8qgfQhrzenOb/cimPakQ6rGNoQdq+k1pmGLfEEp6mlMTCr/BBK4JSlysimvmBe0NvW1Ep4VNxQlr9YzqHTvr6ogWEBPBQuA=;L8iuqI2tJO2ugI+0jwT/7g=="
 ---

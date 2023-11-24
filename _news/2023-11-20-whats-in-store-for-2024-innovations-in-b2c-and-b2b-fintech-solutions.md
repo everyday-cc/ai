@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 94
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotic Process Automation in Finance: Streamlining Operations with FinTech"
-    excerpt: "Introduction Technological advancements continue to redefine the way financial institutions operate. One such groundbreaking innovation is Robotic Process Automation (RPA), a game-changer that has seamlessly integrated with the financial sector,"
-    publishedDateTime: 2023-11-21T14:55:00Z
-    webUrl: "https://techbullion.com/robotic-process-automation-in-finance-streamlining-operations-with-fintech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Robotic-Process-Automation-in-Finance-Streamlining-Operations-with-FinTech.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Irish association calls for national fintech centre"
     excerpt: "A lobby group representing Ireland's financial services sector has called on the government to establish physical centre for fintech firms."
     publishedDateTime: 2023-11-20T10:42:00Z
@@ -58,34 +44,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/5446new.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "Top 10 Fintech and Payments Trends in 2024"
-    excerpt: "Juniper Research unveiled today the 10 trends that are set to radically impact the fintech and payments landscape in 2024, included within its latest whitepaper."
-    publishedDateTime: 2023-11-21T06:12:00Z
-    webUrl: "https://fintechnews.ch/fintech/top-10-fintech-and-payments-trends-in-2024/64766/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2023/11/Juniper-Research-Releases-its-Top-10-Fintech-Payments-Trends-for-2024-Amidst-Unprecedented-Technological-Shifts.jpg"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "Where to find fintech investment"
-    excerpt: "Despite fintech investment in 2023 falling, UK fintechs are still attracting more VC investment than all other EMEA fintechs combined"
-    publishedDateTime: 2023-11-23T09:24:00Z
-    webUrl: "https://growthbusiness.co.uk/where-to-find-fintech-investment-2571193/"
-    type: article
-    provider:
-      name: Growth Business
-      domain: growthbusiness.co.uk
-    quality: 24
-    images:
-      - url: "https://growthbusiness-production.s3.amazonaws.com/uploads/2023/11/GettyImages-159175682-scaled.jpg"
-        width: 2560
-        height: 1706
         isCached: true
   - title: "Pakistan Pavilion at Singapore Fintech Festival showcases innovation, collaboration"
     excerpt: "The annual Singapore Fintech Festival (SFF), a global congregation of fintech firms, witnessed a significant representation from"

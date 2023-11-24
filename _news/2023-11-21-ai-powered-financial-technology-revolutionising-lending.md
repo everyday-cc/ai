@@ -64,6 +64,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Artificial intelligence: who are the leaders in fault monitoring AI for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is leveraging artificial intelligence (AI) for fault monitoring due to the increasing complexity of vehicles,"
+    publishedDateTime: 2023-11-24T12:41:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-fault-monitoring-ai-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_fault-monitoring-AI.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Revolutionizing Creative Industries: PromeAI's Breakthrough in AI-Driven Image Generation"
     excerpt: "AI Image Generation provides artists and designers with an additional source of inspiration and allows ordinary people who lack drawing skills to embrace creativity. Background Diffusion assists e-commerce businesses in producing visually striking product images,"
     publishedDateTime: 2023-11-21T13:49:00Z

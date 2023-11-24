@@ -19,35 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Sector Is Undergoing Transformation with Rise of Open Finance, Generative AI, A2A Payments – Report"
-    excerpt: "The whitepaper found that “the fintech market is undergoing a rapid shift, with the rise of new technologies, such as Open Finance, generative AI and A2A (account-to-account) payments having a major impact on business models.” This is combined with unp ..."
-    publishedDateTime: 2023-11-21T21:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
+  - title: "Open Banking Will Grow The Whole Economy Not Only Fintech"
+    excerpt: "The spread of open banking means a real revolution in consumer finance and this time it will be a revolution that will make life better for the average consumer."
+    publishedDateTime: 2023-11-24T12:12:00Z
+    webUrl: "https://www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/"
+    ampWebUrl: "https://www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/NYSE-New-York-Fintech-1024x848.jpg"
-        width: 1024
-        height: 848
-        isCached: true
-  - title: "Intuit's AI-Driven Approach: Transforming Fintech Industry with GenOS & Intuit Assist"
-    excerpt: "Saurabh Saxena, Intuit India Site Leader & Vice President, Product Development, shares his insights on Intuit's strategic focus on AI, the transformative impact of GenOS, their newest launch - Intuit Assist,"
-    publishedDateTime: 2023-11-23T08:32:00Z
-    webUrl: "https://www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist-11700727898845.html"
-    ampWebUrl: "https://www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist/amp-11700727898845.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist/amp-11700727898845.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 52
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/11/23/1600x900/Screenshot_2023-11-23_140037_1700728233989_1700728241385.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/656091809e5873159ceef16f/0x0.jpg?format=jpg&crop=2830,1591,x0,y11,safe&height=900&width=1600&fit=bounds"
         width: 1600
         height: 900
         isCached: true
@@ -81,19 +65,77 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Fintech Trends Survey: 2024 to Center on Digital Transformation within Finance Departments, AI and Real-Time Payments a Priority"
-    excerpt: "AvidXchange, a provider of AP automation software, announced the release of a white paper titled, “2024: Anticipating Tomorrow’s Trends.”"
-    publishedDateTime: 2023-11-23T15:12:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/11/216736-fintech-trends-survey-2024-to-center-on-digital-transformation-within-finance-departments-ai-and-real-time-payments-a-priority/"
+  - title: "Kaleidofin: Fintech platform for the women, by the women"
+    excerpt: "Chennai-headquartered financial technology platform Kaleidofin helps under-banked customers, particularly women, meet their real-life goals by providing tailored financial solutions"
+    publishedDateTime: 2023-11-23T09:24:00Z
+    webUrl: "https://www.forbesindia.com/article/startups/kaleidofin-fintech-platform-for-the-women-by-the-women/89893/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/startups/kaleidofin-fintech-platform-for-the-women-by-the-women/89893/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/startups/kaleidofin-fintech-platform-for-the-women-by-the-women/89893/1"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 25
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 44
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/11/Equity-Crowdfunding-in-2023-Webinar-300x250-12.12.23.jpeg"
-        width: 300
-        height: 250
+      - url: "https://www.forbesindia.com/media/images/2023/Nov/img_223301_sucharitamukherjee.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Robotic Process Automation in Finance: Streamlining Operations with FinTech"
+    excerpt: "Introduction Technological advancements continue to redefine the way financial institutions operate. One such groundbreaking innovation is Robotic Process Automation (RPA), a game-changer that has seamlessly integrated with the financial sector,"
+    publishedDateTime: 2023-11-21T14:55:00Z
+    webUrl: "https://techbullion.com/robotic-process-automation-in-finance-streamlining-operations-with-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Robotic-Process-Automation-in-Finance-Streamlining-Operations-with-FinTech.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "Singapore’s fintech sector struggling to find talent"
+    excerpt: "In a 2021 Accenture survey, nearly two out of three firms blamed their talent gap on not being able to get work permits for foreigners. Nowadays, only 37 percent cite difficulty in securing employment passes as a hiring challenge. For this dramatic change, the employers and employees should thank Hong Kong."
+    publishedDateTime: 2023-11-20T15:59:00Z
+    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/11/21/2003809473"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 24
+    images:
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "Top 10 Fintech and Payments Trends in 2024"
+    excerpt: "Juniper Research unveiled today the 10 trends that are set to radically impact the fintech and payments landscape in 2024, included within its latest whitepaper."
+    publishedDateTime: 2023-11-21T06:12:00Z
+    webUrl: "https://fintechnews.ch/fintech/top-10-fintech-and-payments-trends-in-2024/64766/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2023/11/Juniper-Research-Releases-its-Top-10-Fintech-Payments-Trends-for-2024-Amidst-Unprecedented-Technological-Shifts.jpg"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Where to find fintech investment"
+    excerpt: "Despite fintech investment in 2023 falling, UK fintechs are still attracting more VC investment than all other EMEA fintechs combined"
+    publishedDateTime: 2023-11-23T09:24:00Z
+    webUrl: "https://growthbusiness.co.uk/where-to-find-fintech-investment-2571193/"
+    type: article
+    provider:
+      name: Growth Business
+      domain: growthbusiness.co.uk
+    quality: 24
+    images:
+      - url: "https://growthbusiness-production.s3.amazonaws.com/uploads/2023/11/GettyImages-159175682-scaled.jpg"
+        width: 2560
+        height: 1706
         isCached: true
   - title: "Experts Discuss Fintech Market Revamping Tech Trends"
     excerpt: "( MENAFN - The Peninsula) Joel Johnson | The Peninsula"
@@ -109,6 +151,43 @@ related:
         width: 400
         height: 250
         isCached: true
+  - title: "The fintech stocks surging in the AltFi Fintech Index amid a market rally"
+    excerpt: "Keep up with the latest in the world of fintech and alternative finance by subscribing to our newsletters. Get the latest headlines, expert insights and reports and be the first to know about upcoming events."
+    publishedDateTime: 2023-11-23T05:30:00Z
+    webUrl: "https://www.altfi.com/article/the-fintech-stocks-surging-in-the-altfi-fintech-index-amid-a-market-rally"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 23
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/2FBPvgGjIFcejmMyqXJDLJ/cf822caf84afe7de0d8dccc58ed81964/pexels-anna-nekrashevich-6802042.jpg"
+        width: 5799
+        height: 3664
+        isCached: true
+  - title: "I Attended The Singapore FinTech Festival For The First Time As A Fresh Graduate. Here’s Why I Loved It"
+    excerpt: "The Singapore FinTech Festival (SFF) is an annual flagship event organised in Singapore that brings together different fintech companies around the world"
+    publishedDateTime: 2023-11-23T22:59:00Z
+    webUrl: "https://dollarsandsense.sg/attended-singapore-fintech-festival-first-time-fresh-graduate-heres-loved/"
+    type: article
+    provider:
+      name: DollarsAndSense
+      domain: dollarsandsense.sg
+    quality: 8
+    images:
+      - url: "https://dollarsandsense.sg/wp-content/uploads/2023/11/SFF-Map.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "PKKFF Tenet Fintech Group Inc."
+    excerpt: "Tenet Fintech Group Inc., through its subsidiaries, provides various analytics and AI-based services to small-and-medium businesses and financial institutions. It offers Business Hub, a global ..."
+    publishedDateTime: 2023-11-21T15:53:00Z
+    webUrl: "https://seekingalpha.com/symbol/PKKFF"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "/eBIFT2j0pi6mDh27ScDy0CB0Gniw6xD1UaxurvNpTSYKflS3CJamp4jbcy9KjloaAKyJ9XwerJcsn9PRxeyabNirvuwG4lckH2CIKk1XAzgxMj7G0PWfCUpQDzHGenn1TZ1p8aYKWzmks55hWOhDOf/tjdmtU/ydGNKJSpufmZd9iAjm/FW2aaihuysf6CDDeVgj9KxKfHkHdHqxov1L62y7MzITGi85Z4fYUxoVo6/muhEBG2Nx54RyWzMv50CDgznby4z2ymFEHNuu3HD4zSMWjH9qzFdXUYWOnBdYUvJuoizPfCxBiEzTSfLNpFU5gcYe2QHXAqiZG4MEKa2/SRCgNx7GSIVORVNhVR5A4E7HWU+dzZ/VzldGfe40HRdSWhH6rGDHJhXeNhQmqK259S6zejcnpfFHIya1lZAzlmPTjygfy0Dyu4ERvizC3tmf+UM2YYK+YDuLz66DdCnPeoPA4Nhm/1+6H7eKLYtZBvpMHj7X9yh7EWjX2G4YYCTrc9H3KN72DVENACY5lFx0Q==;iSmIROoWflVQS0owDgJm5w=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Nvidia delays launch of new China-focused AI chip"
-excerpt: "Nvidia: The California-based AI chip giant had been expected to launch the new products as early as Nov. 16, chip industry newsletter SemiAnalysis reported this month."
-publishedDateTime: 2023-11-24T08:50:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/devices/nvidia-delays-launch-of-new-china-focused-ai-chip/105470627"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/nvidia-delays-launch-of-new-china-focused-ai-chip/105470627"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-delays-launch-of-new-china-focused-ai-chip/105470627"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-delays-launch-of-new-china-focused-ai-chip/105470627"
+excerpt: "Nvidia delays H20 AI chip launch in China until Q1 2021 due to server integration issues; L20 launch still on schedule. U.S. export curbs create opportunity for rivals like Huawei to win orders that may have gone to Nvidia."
+publishedDateTime: 2023-11-24T11:11:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece/amp/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: telecom.economictimes.indiatimes
-  domain: indiatimes.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-105470627,imgsize-23246,width-1200,height=765,overlay-ettelecom/devices/nvidia-delays-launch-of-new-china-focused-ai-chip.jpg"
+  - url: "https://th-i.thgim.com/public/incoming/s7bnqg/article67569502.ece/alternates/FREE_1200/2023-11-24T052805Z_715528354_RC2KOZ9X1Q6Y_RTRMADP_3_NVIDIA-CHINA.JPG"
     width: 1200
-    height: 765
+    height: 800
     isCached: true
 
 related:
@@ -271,6 +271,15 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 33
+  - title: "These artificial intelligence (AI) stocks are better buys than Nvidia"
+    excerpt: "While Nvidia has been one of the best investments in 2023, there are better options going into the new year. Investors interested in AI might be better off now buying stocks in companies that are at earlier stages in their AI expansions and have more room for growth over the long term."
+    publishedDateTime: 2023-11-24T10:27:00Z
+    webUrl: "https://www.azcentral.com/story/money/2023/11/24/nvidia-or-artificial-intelligence-ai-stocks-to-buy/71664718007/"
+    type: article
+    provider:
+      name: AZ Central
+      domain: azcentral.com
+    quality: 32
   - title: "Chips Stocks Fall Ahead of Nvidia Earnings"
     excerpt: "Semiconductor stocks were falling on Tuesday ahead of the latest earnings report from graphics card titan Nvidia. Nvidia shares were down 1.4% to $497.26. The iShares Semiconductor ETF was down 2%. Nvidia stock is up 240% in 2023."
     publishedDateTime: 2023-11-21T18:01:00Z
@@ -290,6 +299,6 @@ related:
       domain: thestreet.com
     quality: 11
 
-secured: "Dz6ejGaGj1yfBUhqDPu4zQqIfnOdO0nQQYRXuFf6w+HFoJ6ps5Y3d1wrlxGqbXapCdAJyul485mfQn99AL9kLxFzHXpqegzZ6mMmFUiZ8rdBhRUDXvjQhsDkW4N9cVvVrlT7bW3dYyWJBK3OCPoytUt504fn3RhkrEmw0/dC8JcgK5zhucqbQZ6aiSnHhW/hn75Tz7FXRSeN3knSIQ/9tLq7cnY2HQ0W557dL5lmxIE2cg4Uxoeczx2cmVH9hqJIOitlp8cQiC4bSgStpMj6iogI3vsHu5uEAvhwbKNxWtw5lqV5MDhVSHncOwARK5AN1VeQM2Z6uiTWJff6D2jhgwNhQzjptjupJzeSmFa4yY8k7XfI8faUS/3jk4kPwF8nqQUd06Xb6cjR9hBtG5SrG0ZGArNyKcnciYzgWYXDx1jb1z2t8h5kuIp8RNn0m4AnA/ut37ZAzpLx4b7hTw99nd+PvmXDl8H7mn+w90Z3aWz32UgMFRjrMc/Aza5IsK6XkwRVJw47LjoHIdeRySaEqw==;JdLXE0cYVqDh/Ip9pWLsdA=="
+secured: "XBm/EnXEjJFcXxyykjtg4lVuFzVSmlt+96H/bFF6TkBXgx6A6bfCRoMp5tjoM4v/Ey5Ne3DB/V2CS2WDGkoRz/p9fRR+YnbbKSu4P6BOCaUs8z678v1y8vlLt9W5cprmNOCfbJkcgMUV6m3vK20uc0uz5pQXOLzSl4LxHLvB8HkgtlB+PSlBssgw1raHIgABjCkRPDMWMn3k3kRmXzw4GYWvKQPgDaWuHr9jtc5tKO284iRwVzqk/WvahbTHAjBOZMf1Lu3kdmeMrnwwfsogJ6nOFwC+/rYWMTJkXJ/ORkqdgon3WCt4yy0NAxYgXMUOs/j6xMqRytMWMQTZwlg4b1hf9xV26dMe9qwBSr6pxr4=;J8K4aV24JLOD2VFKHN9AGQ=="
 ---
 

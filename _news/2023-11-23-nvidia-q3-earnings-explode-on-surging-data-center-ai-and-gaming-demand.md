@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-ear
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
 type: article
 quality: 91
-heat: 291
+heat: 301
 published: true
 
 provider:
@@ -65,20 +65,20 @@ related:
         height: 3333
         isCached: true
   - title: "Nvidia delays launch of new China-focused AI chip"
-    excerpt: "Nvidia: The California-based AI chip giant had been expected to launch the new products as early as Nov. 16, chip industry newsletter SemiAnalysis reported this month."
-    publishedDateTime: 2023-11-24T08:50:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/nvidia-delays-launch-of-new-china-focused-ai-chip/105470627"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-delays-launch-of-new-china-focused-ai-chip/105470627"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-delays-launch-of-new-china-focused-ai-chip/105470627"
+    excerpt: "Nvidia delays H20 AI chip launch in China until Q1 2021 due to server integration issues; L20 launch still on schedule. U.S. export curbs create opportunity for rivals like Huawei to win orders that may have gone to Nvidia."
+    publishedDateTime: 2023-11-24T11:11:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece/amp/"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
+      name: The Hindu
+      domain: thehindu.com
     quality: 74
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-105470627,imgsize-23246,width-1200,height=765,overlay-ettelecom/devices/nvidia-delays-launch-of-new-china-focused-ai-chip.jpg"
+      - url: "https://th-i.thgim.com/public/incoming/s7bnqg/article67569502.ece/alternates/FREE_1200/2023-11-24T052805Z_715528354_RC2KOZ9X1Q6Y_RTRMADP_3_NVIDIA-CHINA.JPG"
         width: 1200
-        height: 765
+        height: 800
         isCached: true
   - title: "NVIDIA delays the launch of new AI chips focused on China"
     excerpt: "The delayed chip is the H20, the most powerful of three China-focused chips Nvidia has developed to comply with fresh US export restrictions, the sources said, and could complicate its efforts to preserve market share in China against local rivals like Huawei,"
@@ -276,6 +276,15 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 33
+  - title: "These artificial intelligence (AI) stocks are better buys than Nvidia"
+    excerpt: "While Nvidia has been one of the best investments in 2023, there are better options going into the new year. Investors interested in AI might be better off now buying stocks in companies that are at earlier stages in their AI expansions and have more room for growth over the long term."
+    publishedDateTime: 2023-11-24T10:27:00Z
+    webUrl: "https://www.azcentral.com/story/money/2023/11/24/nvidia-or-artificial-intelligence-ai-stocks-to-buy/71664718007/"
+    type: article
+    provider:
+      name: AZ Central
+      domain: azcentral.com
+    quality: 32
   - title: "Chips Stocks Fall Ahead of Nvidia Earnings"
     excerpt: "Semiconductor stocks were falling on Tuesday ahead of the latest earnings report from graphics card titan Nvidia. Nvidia shares were down 1.4% to $497.26. The iShares Semiconductor ETF was down 2%. Nvidia stock is up 240% in 2023."
     publishedDateTime: 2023-11-21T18:01:00Z

@@ -2,6 +2,151 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-10-26-south-korea-artificial-intelligence-ai-in-healthcare-market-worth-236-billion-by-2032-themarketpublicist.md",
+      "title": "South Korea Artificial Intelligence (AI) In Healthcare Market Worth $2.36 Billion By 2032 Themarketpublicist",
+      "excerpt": "( MENAFN - Ameliorate Digital Consultancy) South Korea Artificial Intelligence (AI) in Healthcare Market size was crossed over USD 100 Million in 2022 and is projected to record more than 37.2% growth rate from 2023 – 2032, reaching a valuation of approximately USD 2.36 Billion by the end of the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107307150/South-Korea-Artificial-Intelligence-AI-In-Healthcare-Market-Worth-236-Billion-By-2032-Themarketpublicist",
+      "originalUrl": "https://menafn.com/1107307150/South-Korea-Artificial-Intelligence-AI-In-Healthcare-Market-Worth-236-Billion-By-2032-Themarketpublicist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?393847",
+          "width": 328,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T05:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave.md",
+      "title": "In 2024, APAC Firms Will Be Inspired By The Generative AI Wave",
+      "excerpt": "The APAC region is bracing itself for a year of exploration and potential growth, with genAI at the center of it all.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/",
+      "originalUrl": "https://www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65397e34a8e118b302b844b9/0x0.jpg?format=jpg&crop=2999,1686,x0,y154,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/10/26/in-2024-apac-firms-will-be-inspired-by-the-generative-ai-wave/amp/",
+      "publishedDateTime": "2023-10-26T05:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-amazon-launches-new-ai-product-image-generator.md",
+      "title": "Amazon launches new AI product image generator",
+      "excerpt": "The functionality works similar to other open-ended text-to-image generators such as OpenAI's DALL-E 3 and Midjourney.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/amazon-launches-new-ai-product-image-generator/",
+      "originalUrl": "https://venturebeat.com/ai/amazon-launches-new-ai-product-image-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/assets.aboutamazon-2.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T04:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-artificial-intelligence-company-from-silicon-valley-enters-bihar.md",
       "title": "Artificial Intelligence company from Silicon Valley enters Bihar",
       "excerpt": "Tiger Analytics is primarily a consulting company in the field of artificial intelligence and machine learning.We hope that taking this lead into account, many more companies will come to Bihar in the same way,",
@@ -1020,160 +1165,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-wanted-people-to-fill-in-the-growing-ai-leadership-vacuum.md",
-      "title": "Wanted: People To Fill In The Growing AI Leadership Vacuum",
-      "excerpt": "As AI impacts people, processes, and applications, it 'will require careful stewardship and handling – regardless of title or business function'",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/25/wanted-people-to-fill-in-the-growing-ai-leadership-vacuum/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/25/wanted-people-to-fill-in-the-growing-ai-leadership-vacuum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62579c7e40a68b70f7243179/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/25/wanted-people-to-fill-in-the-growing-ai-leadership-vacuum/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/10/25/wanted-people-to-fill-in-the-growing-ai-leadership-vacuum/amp/",
-      "publishedDateTime": "2023-10-25T16:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-google-plays-policy-update-cracks-down-on-offensive-ai-apps-disruptive-notifications.md",
-      "title": "Google Play’s policy update cracks down on ‘offensive’ AI apps, disruptive notifications",
-      "excerpt": "Google is taking aim at potentially problematic generative AI apps with a new policy, to be enforced starting early next year, that will require",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/25/google-plays-policy-update-cracks-down-on-offensive-ai-apps-disruptive-notifications/",
-      "originalUrl": "https://techcrunch.com/2023/10/25/google-plays-policy-update-cracks-down-on-offensive-ai-apps-disruptive-notifications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Lensa-AI-shoulder-Large.jpeg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/25/google-plays-policy-update-cracks-down-on-offensive-ai-apps-disruptive-notifications/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/google-plays-policy-update-cracks-down-on-offensive-ai-apps-disruptive-notifications/amp/",
-      "publishedDateTime": "2023-10-25T16:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-webex-says-ai-can-save-us-from-glitchy-audio-and-video-calls.md",
-      "title": "Webex Says AI Can Save Us From Glitchy Audio and Video Calls",
-      "excerpt": "New technology will help fill in the gaps when your audio or video cuts out, while an AI Assistant can summarize meeting notes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/webex-says-ai-can-save-us-from-glitchy-audio-and-video-calls",
-      "originalUrl": "https://www.pcmag.com/news/webex-says-ai-can-save-us-from-glitchy-audio-and-video-calls",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01lHKSNnuCqRvjrZiR4qUor-1.fit_lim.size_1200x630.v1698090635.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T16:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/274040624/introducing-lazy-ai-
 webUrl: "https://www.bignewsnetwork.com/news/274040624/introducing-lazy-ai-software-engineer-revolutionizing-software-development"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 630
     height: 420
     isCached: true
-
-related:
-  - title: "Revolutionizing AI Work With New Hardware Structures"
-    excerpt: "Basically speaking, the processes are done in memory, rather than by sending the relevant data through a processor. The hardware setup involves the use of machines called analog to digital converters, which is pretty much what it sounds like."
-    publishedDateTime: 2023-11-23T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/11/23/revolutionizing-ai-work-with-new-hardware-structures/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "UOwt99AcN2vjFw3uthpNr6ZKwuYtw35cOhA6G64zvahIrei8r9sgy19L+gTkLYmeuWMGgiehVVYrONjPCbP/Pv0PfgiOOCpDyYp2uoGQBDGvZkvNntyug7OLmrcoWhz/t7uwVMX8EU0ctZIn6jdFAK+aFceItPL4KdFZQEz9PXGvBAEw68spux0L81mZYpORGB7dh4RS8Qo8wSAZcFq4uQh+Zvi5PdKtWERQe16j/cYcxllGojWH7wMB1ajcDWBqzaxyuNCwHE78rwe77Pk6Li3c8IjwTuEnkAEZoJigMDkhtOxBWDP7SOojPjx0s7raq56ubBGO9BoJWvu3qHqQQwVZnRKYEG8Yobc0OrEKPaM=;ug2Ga52Vht9WdVnk2ghMJg=="
 ---

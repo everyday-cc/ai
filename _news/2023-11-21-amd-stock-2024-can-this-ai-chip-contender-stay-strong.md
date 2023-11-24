@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/amd-stock-2024-can
 webUrl: "https://markets.businessinsider.com/news/stocks/amd-stock-2024-can-this-ai-chip-contender-stay-strong-1032838725"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Japan is hot on artificial intelligence (AI), and some AI stocks stand to gain"
     publishedDateTime: 2023-11-21T21:49:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/japans-favorite-ai-stocks-3-companies-the-country-loves-1032840828"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "7 Blue-Chip Stocks That Won’t Do You Wrong"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors are barreling toward the end of 2023 – and whoever thought"
+    publishedDateTime: 2023-11-24T11:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-wont-do-you-wrong-1032847711"
     type: article
     provider:
       name: Business Insider

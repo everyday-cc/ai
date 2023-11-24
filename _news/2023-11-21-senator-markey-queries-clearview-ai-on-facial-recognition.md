@@ -7,7 +7,7 @@ originalUrl: "https://news.bloomberglaw.com/privacy-and-data-security/senator-ma
 webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/senator-markey-queries-clearview-ai-on-facial-recognition"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Richard Prince, Clearview AI and Your Face"
+    excerpt: "In a 1985 interview with Aperture magazine, artist Richard Prince said, ‘I’m interested in what we produce and what we consume. What we think we own and what we think we control.’ You’d think, or hope,"
+    publishedDateTime: 2023-11-24T11:01:00Z
+    webUrl: "https://artreview.com/richard-prince-clearview-ai-and-your-face-gagosian/"
+    type: article
+    provider:
+      name: ArtReview
+      domain: artreview.com
+    quality: 39
+    images:
+      - url: "https://backend.artreview.com/wp-content/uploads/2023/11/PRINC_1984.0029_CRP-scaled.jpg"
+        width: 2560
+        height: 1679
+        isCached: true
 
 secured: "DBBCi1tIe7g/HxJFZpbAFr+AxaKXyBzclvaZzzzkCjq8Idsdvg4JmuS7p6siox99RypsdvI7ktTSwqZRL7lkSO1eaBE82by/6ExSgyk9Jbt+2hl9ynlQWmtCaJ4M18wnyXidwWjo3kdb/G9LIwm6a5FHNZTmM1aErPXNj77/3//eGPh3r87iy8DvVQ7gscbt+nwTQ1Ey6kY1fH+/xgyp6zB8zx95fWkzsE0pSpeFeYR14ZzNFhiwjowWjSPvP8T+3nKtmei8TGsB1Ka9KePIyNfbcF6dAeK7mrswRRI7PjB9pue2POC19+XWSQ80ZG2bXA/gYscWA4A5OOzaogGdMWOCUn9I9rwW6FFpXg6x61E=;44u14qFXrVpXLyG0cvDu4w=="
 ---

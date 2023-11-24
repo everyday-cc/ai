@@ -67,6 +67,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Artificial intelligence: who are the leaders in collaborative autonomous driving for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Collaborative autonomous driving (CAD) is driving innovation in the automotive industry due to its potential to improve safety, efficiency,"
+    publishedDateTime: 2023-11-24T12:21:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-collaborative-autonomous-driving-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 18
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_collaborative-autonomous-driving.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Internet of Things: who are the leaders in object sensing radars for the automotive industry?"
     excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over one million patents, there are 300+ innovation areas that will shape the future of the industry."
     publishedDateTime: 2023-11-24T02:09:00Z

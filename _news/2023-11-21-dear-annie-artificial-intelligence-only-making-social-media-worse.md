@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Only Making Social Media Worse"
-    excerpt: "I just read a story in the newspaper about some high school boys using artificial intelligence to create nude images of girls in the same school and then"
-    publishedDateTime: 2023-11-19T12:00:00Z
-    webUrl: "https://www.gillettenewsrecord.com/diversions/annie/article_e6f9788c-8329-11ee-9405-dfb303107f4c.html"
-    type: article
-    provider:
-      name: Gillette News-Record
-      domain: gillettenewsrecord.com
-    quality: 17
   - title: "Dear Annie: Artificial Intelligence only making social more vicious"
     excerpt: "Dear Annie: I just read a story in the newspaper about some high school boys using artificial intelligence to create nude images of girls in the same school and then posting them on social media. I also read a story earlier about something similar happening in Spain."
     publishedDateTime: 2023-11-19T13:59:00Z

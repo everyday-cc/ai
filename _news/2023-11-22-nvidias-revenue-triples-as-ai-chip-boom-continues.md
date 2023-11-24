@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Thousands of RTX 4090 GPUs Are Being Rebuilt for AI Computing in China"
+    excerpt: "In China, Nvidia's RTX 4090 is being repurposed in the thousands. The GPU components are taken out, and put in a new PCB and cooler design!"
+    publishedDateTime: 2023-11-24T05:12:00Z
+    webUrl: "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/"
+    ampWebUrl: "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 74
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/11/nvidia-geforce-rtx-4090.jpg"
+        width: 1250
+        height: 750
+        isCached: true
   - title: "There’s a generative AI rocket under Nvidia."
     excerpt: "The company’s Q3 2024 earnings reveal $18.12 billion in revenue for the quarter, with $14.51 billion from its data center business as the world’s AI companies jockey for Nvidia’s chips. That overall revenue number is a 206 percent jump from last year and marks a continuing growth trend for the company."
     publishedDateTime: 2023-11-21T22:24:00Z

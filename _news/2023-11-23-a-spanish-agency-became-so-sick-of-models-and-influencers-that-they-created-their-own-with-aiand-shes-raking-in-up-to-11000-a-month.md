@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "An agency created an AI model who earns up to $11,000 a month because it was tired of influencers 'who have egos'"
+    excerpt: "Aitana López is a Spanish AI model and influencer with 124,000 followers on Instagram. She was created by a Barcelona-based agency."
+    publishedDateTime: 2023-11-24T12:36:00Z
+    webUrl: "https://www.businessinsider.com/ai-influencer-aitana-clueless-agency-tech-spain-2023-11"
+    ampWebUrl: "https://www.businessinsider.com/ai-influencer-aitana-clueless-agency-tech-spain-2023-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-influencer-aitana-clueless-agency-tech-spain-2023-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://i.insider.com/65607b7e9c7d23cb3b9f5071?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "A Spanish agency became so sick of models and influencers that they created their own with AI—and she’s raking in up to $11,000 a month"
     excerpt: "Aitana, described by her creators as the first Spanish AI model, was so convincing an unnamed famous Latin actor even called the agency the ask her on a date."
     publishedDateTime: 2023-11-23T16:51:00Z

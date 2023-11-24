@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 91
-heat: 381
+heat: 371
 published: true
 
 provider:
@@ -198,15 +198,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This New AI Chatbot Is Ushering In Nvidia’s End"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Editor’s note: “This New AI Chatbot Is Ushering In Nvidia’s"
-    publishedDateTime: 2023-11-19T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/a-new-ai-chatbot-is-ushering-in-nvidias-end-2-1032833487"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Yellow.ai Scales Generative AI–powered Chatbot and Voicebot Solutions Globally on AWS"
     excerpt: "Amazon Web Services (AWS) announced that Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions. These dynamic AI agents enhance the customer experience with goal-driven conversations with customers while comprehending their needs and providing highly personalized responses."
     publishedDateTime: 2023-11-20T06:11:00Z

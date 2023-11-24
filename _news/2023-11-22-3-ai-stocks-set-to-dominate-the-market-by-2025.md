@@ -41,6 +41,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "7 Blue-Chip Stocks That Won’t Do You Wrong"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors are barreling toward the end of 2023 – and whoever thought"
+    publishedDateTime: 2023-11-24T11:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-wont-do-you-wrong-1032847711"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "wakUFDMVHqrYkp7tTp1VrmGn9ZI737DLjLKi1OlIpYNqt2HOnX9fCJzb/car1X4gRe+w3nudBzgbOjuB3i0PuNQrXjAzZio+cgXHpwB8VjlMD8N41yTQxZzSgbo1WyvxbJ+dZLxmyAtdF4huIYLEaiV67q640IsQZOViDRVoiBxkSbrVfCpl87OZrLJ4rEpAdpQ5lf/aGw0Zmen43lmC/WmmIMrCaP5sWl41SYUSHiw1QXT6GE4PRQS/apEnujG27GFtaoIovP6VucUtaqX28Ewr8AiXbKsiTATXvGhEGUn+aVohy7yyvl44EIhzWcg1TkMtoH4hZT0MTJLDosqyFn+MSHpJd18ryWLtqAkIas8=;CnhvhfoRwuQzEChuw+ffhg=="
 ---

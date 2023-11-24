@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/amp/"
 type: article
 quality: 89
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/11/Ethics-requirement.jpg"
         width: 800
         height: 400
+        isCached: true
+  - title: "AI’s Odyssey: Tracing the Development of Artificial Intelligence Before the Year 2000"
+    excerpt: "Introduction: Artificial Intelligence (AI) has become an integral part of our modern technological landscape, shaping the way we live and work. However, its journey to prominence was not an overnight success."
+    publishedDateTime: 2023-11-24T11:18:00Z
+    webUrl: "https://techbullion.com/ais-odyssey-tracing-the-development-of-artificial-intelligence-before-the-year-2000/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 49
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/AIs-Odyssey-Tracing-the-Development-of-Artificial-Intelligence-Before-the-Year-2000.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Developing Artificial Intelligence for Medical Devices"
     excerpt: "However, a Canadian company specializing in artificial intelligence (AI)-based monitoring of the spread of infectious diseases had already warned its customers of the risk of an epidemic in China as early as December 2019. 1 The warning had been derived ..."
