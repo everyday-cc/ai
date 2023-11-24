@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai
 webUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Informatica deploys Microsoft Azure pod in Canada"
+    excerpt: "Informatica says IDMC improves analytics and AI workloads on Azure by ensuring data is high quality and trustworthy. Customers can now access IDMC as an Azure Native Service purchased through the Azure Marketplace. Informatica has customers in more than ..."
+    publishedDateTime: 2023-11-24T09:53:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/informatica-deploys-microsoft-azure-pod-in-canada/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/1637699511013.2e16d0ba.fill-1200x630.jpg"
+        width: 450
+        height: 237
+        isCached: true
   - title: "Unveiling Tomorrow: The Transformative Impact Of Artificial Intelligence In Our Daily Lives"
     excerpt: "Explore the transformative impact of Artificial Intelligence (AI) on everyday life, from healthcare breakthroughs to financial innovations. Dive into the future with insights on"
     publishedDateTime: 2023-11-23T08:47:00Z

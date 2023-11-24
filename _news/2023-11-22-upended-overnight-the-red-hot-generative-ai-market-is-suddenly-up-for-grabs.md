@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/upended-overnight-red-hot-generative-195059884
 webUrl: "https://www.aol.com/upended-overnight-red-hot-generative-195059884.html?ref=biztoc.com"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,26 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI"
+    excerpt: "Explore the key drivers that impacted cloud transformation and what they mean for companies on their cloud modernization journey.\nThe post Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-20T14:00:00Z
+    webUrl: "https://www.ibm.com/blog/business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 84
+  - title: "Highlights of the 2023 Executive Order on Artificial Intelligence"
+    excerpt: "The following is the Nov. 17, 2023, Congressional Research Service report, Highlights of the 2023 Executive Order on Artificial Intelligence for Congress. From the report On October 30, 2023, the Biden Administration released Executive Order (E."
+    publishedDateTime: 2023-11-21T12:56:00Z
+    webUrl: "https://news.usni.org/2023/11/21/highlights-of-the-2023-executive-order-on-artificial-intelligence"
+    type: article
+    provider:
+      name: USNI
+      domain: usni.org
+    quality: 17
 
 secured: "q7+dgf6vclIfN24LjnFbgCSv7dEkNKJ23lH/blizsHMZ1dU0aYAtZvK/SWhx9o79tUSF7ImXBV298Mwqn1PPpWuXaN2kI7B65JLDggqkviroJSAvcgkVJBidfB7IJFk6UrsAMI9K1t64sTpRtXZAxYxBFE8x8S8Npd/F+Ksm1YpHAJIWoNEDkUheT5lz4LwlJTAqcyM65vBSxIh0HqI93TcI4PwZc1WWjuUCamJbBst38s/uXQIVMTV2QtUSUkEr49w5qNT3z8Qv386lTTzOJnT6PoFR4izBi16MLrAfN9LaeIAuubEOx9ilt8UKf/5fd4tr1ImE+Ien+xTNDbnIe2iiZd/WQ5CyyHYYQ8ak8YqZQIhepqOQ7eKcFQrgR5MF/Jt0WDa5olL3sEXE2RUvOxveHlOqQFA1t0DVwRq3hAvpmDdkYVtozEibI+wkN2TZoF8n6u+/93cuxfvmFNntTtHwzYT8oJcf2H106ODOlH3F0vyLLmIxIBTKih6aZAqqGbOyqDz5K71QYkMpCVYTbA==;xYGqy65YtGFlaguqv0c/ng=="
 ---

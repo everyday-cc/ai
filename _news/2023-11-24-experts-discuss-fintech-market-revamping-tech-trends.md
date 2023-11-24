@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Experts discuss fintech market revamping tech trends"
-excerpt: "Qatar s fintech sector is advancing into modern technology as latest trends persist to take shape in the region. During a panel"
-publishedDateTime: 2023-11-24T07:44:00Z
-originalUrl: "https://thepeninsulaqatar.com/article/24/11/2023/experts-discuss-fintech-market-revamping-tech-trends"
-webUrl: "https://thepeninsulaqatar.com/article/24/11/2023/experts-discuss-fintech-market-revamping-tech-trends"
+title: "Experts Discuss Fintech Market Revamping Tech Trends"
+excerpt: "( MENAFN - The Peninsula) Joel Johnson | The Peninsula"
+publishedDateTime: 2023-11-24T10:54:00Z
+originalUrl: "https://menafn.com/1107480950/Experts-Discuss-Fintech-Market-Revamping-Tech-Trends"
+webUrl: "https://menafn.com/1107480950/Experts-Discuss-Fintech-Market-Revamping-Tech-Trends"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Peninsula
-  domain: thepeninsulaqatar.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg"
-    width: 1280
-    height: 1024
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?121001"
+    width: 400
+    height: 250
     isCached: true
 
 related:
@@ -111,6 +111,6 @@ related:
       domain: euromoney.com
     quality: 4
 
-secured: "hFbIWfzqEHvLIipuCZ4RqmLpOLsopw9panAx9MrzVTX0/tV24jdOLV0LEn9Fg8ubucN3y+wvRXj5MnJ/haQEM+Ut6Fh2w8rAHPEwpyBlWmR3lRok1Cl+QoG+x3+ySmT7mAJUT5cG1zCJHrXkofAQ6Eo/uUXlP31yu6pViw/oOxxJbwQGteFZNd407NGgRBatn43Iubr8J05Xnb2THG7prZDVHOvldHenzcpllsWFN4mCi3QsgeEEu6OC0DlAz8REQH54iTsJ29a+o6AkLqyDwgvM04is4sxLAHSagpguUHZKn82HqaMLNHy70IErIOiljObMLWlHcJfQf2OuxVPJNGE345Po+Oy4u2oDYXAwx7M=;M7zmdefTqC9f8yriYKyobA=="
+secured: "hGQPTy3CcM3GSPHoNPDL1xRkk0Sh+82Z8E1uFQ74iC2elI7PAFVCn+i0P+YCkEGr1iZwN3X7TXXBGVjurqYWw/ESr9S6vI45KYBagHGpc998Ozb+3kQdvvaNkP/dKLnBl38IM4b4wb4hxPv6oxI9Qavq2I4XiLlc2alwVmSeyUl4uFf/PokwF5TaX1FUsIKrcMclTuh41EPbDesX6jivhFZ/xfSrAHlA8v04kaA9qpGxVhn/st3kYLkDClRDV7FeIpjwnUtMACeTx9CBOzHsLVUk4yvV365WC2jsiEZS520wwUaa9e+lJ4S+eXtM8LPIHMq2xopaiyVSLHdMUOqXb8DWzYHYKEDb2aV6NaGHwj8=;mruUg08dy0X68/7d5aC5MQ=="
 ---
 

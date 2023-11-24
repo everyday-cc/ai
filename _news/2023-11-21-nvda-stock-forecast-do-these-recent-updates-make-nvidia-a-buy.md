@@ -48,6 +48,38 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Nvidia delays rollout of new custom-made AI chip for China, shares dip"
+    excerpt: "Nvidia (NASDAQ: NVDA) has informed Chinese customers of a delay in launching its new artificial intelligence chip, the H20, designed to comply with U.S. export rules. Shares in the chipmaker declined 2.2% in pre-market Friday trade."
+    publishedDateTime: 2023-11-24T10:24:00Z
+    webUrl: "https://au.investing.com/news/stock-market-news/nvidia-delays-rollout-of-new-custommade-ai-chip-for-china-shares-dip-432SI-3047505"
+    ampWebUrl: "https://m.au.investing.com/news/stock-market-news/nvidia-delays-rollout-of-new-custommade-ai-chip-for-china-shares-dip-432SI-3047505?ampMode=1"
+    cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/nvidia-delays-rollout-of-new-custommade-ai-chip-for-china-shares-dip-432SI-3047505?ampMode=1"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 74
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXMPEB1A16P_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Nvidia may have delayed launch of new China-focused AI chip"
+    excerpt: "Nvidia has reportedly delayed the launch of its new AI chip for the Chinese market for the second time. The delayed chip, called H20, is facing integr"
+    publishedDateTime: 2023-11-24T10:32:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-may-have-delayed-launch-of-new-china-focused-ai-chip/articleshow/105473227.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-may-have-delayed-launch-of-new-china-focused-ai-chip/amp_articleshow/105473227.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-may-have-delayed-launch-of-new-china-focused-ai-chip/amp_articleshow/105473227.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-105473603,width-1280,height-720,resizemode-4/105473603.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Key AI Debates For 2024: Nvidia Competitors Threaten Semiconductor Giant's Dominance With Custom Chips"
     excerpt: "Morgan Stanley analyst Brian Nowak delved into how AI conversations will intensify in 2024 and singled out potential beneficiaries."
     publishedDateTime: 2023-11-23T17:58:00Z
@@ -98,6 +130,20 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/02dd3a6401840cd05dc8ec7ecf9feb85.jpg?t=20231122_025418"
         width: 752
         height: 408
+        isCached: true
+  - title: "NVIDIA postpones launch of H20 China-specific AI chip"
+    excerpt: "NVIDIA has informed its Chinese customers about a delay in the launch of its new artificial intelligence (AI) chip, the H20, until early next year"
+    publishedDateTime: 2023-11-24T09:24:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/nvidia-delays-launch-of-new-china-focused-ai-chip/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 54
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l20520231124142034.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Stock Market Today: Futures Edge Higher; Investors Eye Nvidia Shares, AI Saga Continues"
     excerpt: "Live coverage of stocks and financial news, including the S&P 500, Dow and Nasdaq Composite."

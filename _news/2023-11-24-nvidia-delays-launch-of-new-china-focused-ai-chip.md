@@ -75,6 +75,22 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "NVIDIA delays the launch of new AI chips focused on China"
+    excerpt: "The delayed chip is the H20, the most powerful of three China-focused chips Nvidia has developed to comply with fresh US export restrictions, the sources said, and could complicate its efforts to preserve market share in China against local rivals like Huawei,"
+    publishedDateTime: 2023-11-24T09:49:00Z
+    webUrl: "https://www.cnbctv18.com/technology/nvidia-delays-the-launch-of-new-ai-chips-focused-on-china-18404991.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/nvidia-delays-the-launch-of-new-ai-chips-focused-on-china-18404991.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/nvidia-delays-the-launch-of-new-ai-chips-focused-on-china-18404991.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 74
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/11/nvidia-1-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Nvidia reports record Q3 results driven by surging demand for AI"
     excerpt: "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more. Nvidia reported record revenue today for its third fiscal quarter of fiscal 2024 (ending October 31,"
     publishedDateTime: 2023-11-21T22:53:00Z
@@ -158,6 +174,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Wipro To Bring Generative AI To Healthcare Insurance Companies Using NVIDIA AI Enterprise"
+    excerpt: "Wipro announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI"
+    publishedDateTime: 2023-11-24T10:43:00Z
+    webUrl: "https://www.indianweb2.com/2023/11/wipro-to-bring-generative-ai-to.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 45
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG2FYxGdd4iyCv3Ind4m3LSaPOA8yDjaypLKRtn_DVLR6oxoUm_u72jA_sZc5l_pq0KGji5-fZopwzH-HFRC0vG8rKvDuXicK2V6lRNv2c9dFE8D_RO5vNLCP4n-er_PbCMo5TDChOaB_Qebkq_RqyGYh13RQ6k-f9zvA35b0OtvcF0eTHA-xizi3JNMM/s16000/20231124_161022_0000.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Unleashing the Power of Artificial Intelligence and Machine Learning in Financial Decision-Making"
     excerpt: "Introduction Traditional decision-making processes are being revolutionized by the integration of cutting-edge technologies. Artificial Intelligence (AI) and Machine Learning (ML) have emerged as formidable tools,"
     publishedDateTime: 2023-11-21T05:13:00Z
@@ -260,6 +290,6 @@ related:
       domain: thestreet.com
     quality: 11
 
-secured: "L3gQBVVHatDJy5oHOI9Tb+UXMgvh8wla2dipErta1pai8G83KOGcLP6mcTRvXvjugpL2UCNGeoI1XUDn/WR4jlBwQ/Cv+VtM2XWL2ZkyU5G1+u8IK1rQy8yCpKFaBLDSBXQNRNcZmb+DSAu+GAaVrHJoy+8AE1/oReP+0KKZ5ObhcMXikI4VWFcArqGDGVh2UJ+2wuB384nQ+c+WfhKYkQ0X9dONp4dDggdAfY5SSNbObQ50Bu8aKsXdyq7c9Jj+cAMF/t29PrmOruSPBQpDS7P8Y85YbL+LJyAPyDLKUJRCfHCr56otSKA62JO3SIsyeacJg/J71cvGOnG6excgnR4DLmGfX8lpcqyyj07UXik=;/23LLDIhIT4iXNHqIu/chw=="
+secured: "Dz6ejGaGj1yfBUhqDPu4zQqIfnOdO0nQQYRXuFf6w+HFoJ6ps5Y3d1wrlxGqbXapCdAJyul485mfQn99AL9kLxFzHXpqegzZ6mMmFUiZ8rdBhRUDXvjQhsDkW4N9cVvVrlT7bW3dYyWJBK3OCPoytUt504fn3RhkrEmw0/dC8JcgK5zhucqbQZ6aiSnHhW/hn75Tz7FXRSeN3knSIQ/9tLq7cnY2HQ0W557dL5lmxIE2cg4Uxoeczx2cmVH9hqJIOitlp8cQiC4bSgStpMj6iogI3vsHu5uEAvhwbKNxWtw5lqV5MDhVSHncOwARK5AN1VeQM2Z6uiTWJff6D2jhgwNhQzjptjupJzeSmFa4yY8k7XfI8faUS/3jk4kPwF8nqQUd06Xb6cjR9hBtG5SrG0ZGArNyKcnciYzgWYXDx1jb1z2t8h5kuIp8RNn0m4AnA/ut37ZAzpLx4b7hTw99nd+PvmXDl8H7mn+w90Z3aWz32UgMFRjrMc/Aza5IsK6XkwRVJw47LjoHIdeRySaEqw==;JdLXE0cYVqDh/Ip9pWLsdA=="
 ---
 

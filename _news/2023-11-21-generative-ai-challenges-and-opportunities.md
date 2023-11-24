@@ -43,6 +43,20 @@ related:
         width: 1518
         height: 900
         isCached: true
+  - title: "AWS's generative AI functions support Taiwan startups innovation"
+    excerpt: "The rapid development of artificial intelligence (AI) has changed many aspects of our lives. In particular, the launch of generative AI at the end of 2022 has created a large wave of technological innovation,"
+    publishedDateTime: 2023-11-22T07:58:00Z
+    webUrl: "https://www.digitimes.com/news/a20231122PR204/ai-aws-generative-ai-news-highlights.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231122pr204_files/1_2b.jpg"
+        width: 1280
+        height: 852
+        isCached: true
   - title: "Tech Giant Acquires AI Startup: Industry Game Changer"
     excerpt: "Startup’s Focus: Artificial Intelligence and Machine Learning Technologies The startup is focused on artificial intelligence (AI) and machine learning technologies and has already gained recognition in the industry for its inventive and groundbreaking ..."
     publishedDateTime: 2023-11-22T00:00:00Z

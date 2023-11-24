@@ -34,6 +34,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "Informatica deploys Microsoft Azure pod in Canada"
+    excerpt: "Informatica says IDMC improves analytics and AI workloads on Azure by ensuring data is high quality and trustworthy. Customers can now access IDMC as an Azure Native Service purchased through the Azure Marketplace. Informatica has customers in more than ..."
+    publishedDateTime: 2023-11-24T09:53:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/informatica-deploys-microsoft-azure-pod-in-canada/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/1637699511013.2e16d0ba.fill-1200x630.jpg"
+        width: 450
+        height: 237
+        isCached: true
 
 secured: "TvkmPaBoxcRBr7BZNWGSl9v5c7SxxBClStRf40UBdRyDD3Va6J2JcEZWku3+DGACEiIdGvWUPatzCKdE+ABES5aNI1foTinHw4H2JXz49J+JHVUnGKJv9j0JHwUyGFT0ruRwv5oTyzLQ9Re2RsdfK3vrNZuebPYTVbWEEVN0ONoXWgUpmxdaCJ5SgNbhuXQYdApomprz3iHxT9QoBhIsrQyhi8AaqL1M2/NsZBURZ8hgdUDGiZS9ZaTy/lkFw0cOssNaNTZyHpdbPmTyZV0anfb6ZnoXKtkpbNSPLlSB5ZdnAKYZVsMdc/+he5hUqA60AYJ/j/L2trxf0FYnkSC4v1LUu4j23oX6Hfd5/3p6NgBiXEV9d6bZ2ZNSv0eTox2Ka8lHrHfUBCCDFrEIWAxhJobnXHqrwEh9NplcjvJq516JNE1unhKjWu2HwIyN9UdgNv7CycQCPbLiADgCgjrRgWhmxj0UmBnITcBGsdga93jFd80insvBBtiCrvzj4t0hbBkS9qOx5DcnX/Wsrmj3sw==;0yseWxmXAihtXeR8IYljaQ=="
 ---

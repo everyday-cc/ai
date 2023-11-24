@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711380/generative-ai-adoption-spe
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711380/generative-ai-adoption-speed-unprecedented-oreilly-survey-says.amp.html"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "O’Reilly “Generative AI in the Enterprise” 2023 Report"
-    excerpt: "In an era marked by rapid technological evolution, the landscape of artificial intelligence is undergoing a monumental shift, spearheaded by the advent and integration of generative AI. O'Reilly, a leading beacon in technology and business learning,"
-    publishedDateTime: 2023-11-21T16:32:00Z
-    webUrl: "https://www.unite.ai/oreilly-generative-ai-in-the-enterprise-2023-report/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/11/9d68dfbf-055b-4873-845c-ab4b4963221b-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "Ga4p1yiv+K0dOWIkh0d/ZnU0fAMabQASNSLXYQie7bgEFcOH92KofJinLhvM+r8lCTvQksgROzNBWD6i6m4W/U+MVRjWgVoCkrrDUST2QXT8m9ooYXKLLC3U4SxhW17adFnG2e5UolJjw49ExOmt+IgzzSxUMG+QeqM9uYG40SSkzsloAVlt3kREGa7GIBe6bCM/8TIhzU/buXcH1XaJ2oH1bOsgw0PVfIciaf4uarBNDUeVRFZZon0P//NxRfc2f2tgQqg+/4imzNqCfJqdg19WAQH9g31p43i1Tw2F+jLgbE8vl/ALOSSV7WWnnXns5dVlz6t2UA7bSfSILLwn+YtthuNZcNE/VZ9OBEWAUvjStE9g6UvWiTL+nbEKyzjxqFzB1EShjX2v8yAx1FIEcXDs5oN9QqxQpoAdhEp6pgl18L+UNI8z7RCwM/qUtTew1MxxxfX24ucalTgvze2W/Ph44xgrRGnZmGkqQzyZfWIW1/r1ZP8gObPDR8L3wuMZGkxlwbA9FMqYAQE6QRF07A==;QxQERl3SIwvfL9izLqQnhg=="
 ---

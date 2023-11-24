@@ -75,6 +75,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "The OpenAI meltdown will only accelerate the artificial intelligence race"
+    excerpt: "Optimists and ‘doomers’ are fighting over the direction of AI research – and those who want speed may have won this round"
+    publishedDateTime: 2023-11-22T16:37:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 71
+    images:
+      - url: "https://i.guim.co.uk/img/media/d12a7c1f184baf181c112396b8fb18251adfef30/0_527_4772_2865/master/4772.jpg?width=620&quality=85&auto=format&fit=max&s=2b17ea177f30c94ed0803376811924be"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Geospatial generative AI with Amazon Bedrock and Amazon Location Service"
     excerpt: "Today, geospatial workflows typically consist of loading data, transforming it, and then producing visual insights like maps, text, or charts. Generative AI can automate these tasks through autonomous agents. In this post, we discuss how to use foundation models from Amazon Bedrock to power agents to"
     publishedDateTime: 2023-11-22T14:18:22Z

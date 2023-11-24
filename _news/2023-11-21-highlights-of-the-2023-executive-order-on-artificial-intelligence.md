@@ -7,7 +7,7 @@ originalUrl: "https://news.usni.org/2023/11/21/highlights-of-the-2023-executive-
 webUrl: "https://news.usni.org/2023/11/21/highlights-of-the-2023-executive-order-on-artificial-intelligence"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,31 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI"
+    excerpt: "Explore the key drivers that impacted cloud transformation and what they mean for companies on their cloud modernization journey.\nThe post Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-20T14:00:00Z
+    webUrl: "https://www.ibm.com/blog/business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 84
+  - title: "Upended overnight, the red-hot generative AI market is suddenly up for grabs"
+    excerpt: "The turmoil at OpenAI is reverberating across the market, affecting the ChatGPT-maker's customers, competitors, and employees."
+    publishedDateTime: 2023-11-21T21:50:00Z
+    webUrl: "https://www.aol.com/upended-overnight-red-hot-generative-195059884.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 36
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/vxR1o_DtioZNY8IHC95xvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/c467ae378bd2c67c1cf239b0348bd82b"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Sv7OV80wmQbftmd3y354+MplAY//Rfp5mTHc7a5sGewD0KUg+5QwTfRjmp9ufTgkqX5GkwZD7fTmFMC+ONJuX4ovhCc+JlhmNZTDb5ktHPGYEPcJjZlvPqsRnx6UM16Bf5EGI1kUo6EHm6taKUfxul4hxNSs+Hc6R+qJ21skS3es3uzvwQosMuvr3qjBC4C0NCRdIb7VL6nE2EpYlozvphWJmct3BCiXNVTmNCwpwu71JswniKP16TyMIVy9CroaAfUpCjKahBWz7s3abxijKUvN5hdbwYMk8uftb0vHBnhrQdeYeoiD9nO2yfaRJy2Mg6VR7p22nwxr5MMj3lBk1apgDTjuxxantMrkSwmfnc3FsnoUOEilCnetVtG1a+jKeRDsiqZctuv6F6HuPspMAqctCMRwboU8rdSSvRtrQQMAz3oVAw19nvsL+RMpbiMx9X22yheJnmkwylQmSQedaATagFhzkKU6vWmJ/rGoP/Ic+YeYAilewPPJiRliNk5I6+xX6GXOEXHOv4T+xSr0mQ==;PjR/oRDYDcnirv7a8Q+kpg=="
 ---

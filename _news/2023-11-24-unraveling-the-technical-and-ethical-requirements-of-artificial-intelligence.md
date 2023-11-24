@@ -42,6 +42,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Exploring AI: Artificial intelligence’s development and future potential"
+    excerpt: "AI ethics in education is a big deal as well. Nadia Pesch, a senior at Lane Tech, said she’s familiar with classmates using Chat GPT to cheat. “I pretty much had every teacher saying ‘Don’ ..."
+    publishedDateTime: 2023-11-22T00:00:00Z
+    webUrl: "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/"
+    ampWebUrl: "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/"
+    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/"
+    type: article
+    provider:
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 73
+    images:
+      - url: "https://wgntv.com/wp-content/uploads/sites/5/2023/11/snapshot-2023-11-21T213437.632.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Four ways AI is making the power grid faster and more resilient"
     excerpt: "From predicting EV charge times to pinpointing areas of high wildfire risk, AI is transforming our energy network."
     publishedDateTime: 2023-11-22T10:00:00Z

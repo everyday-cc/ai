@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-start
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/amp/"
 type: article
 quality: 72
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/ai.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AWS's generative AI functions support Taiwan startups innovation"
+    excerpt: "The rapid development of artificial intelligence (AI) has changed many aspects of our lives. In particular, the launch of generative AI at the end of 2022 has created a large wave of technological innovation,"
+    publishedDateTime: 2023-11-22T07:58:00Z
+    webUrl: "https://www.digitimes.com/news/a20231122PR204/ai-aws-generative-ai-news-highlights.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231122pr204_files/1_2b.jpg"
+        width: 1280
+        height: 852
         isCached: true
   - title: "Tech Giant Acquires AI Startup: Industry Game Changer"
     excerpt: "Startup’s Focus: Artificial Intelligence and Machine Learning Technologies The startup is focused on artificial intelligence (AI) and machine learning technologies and has already gained recognition in the industry for its inventive and groundbreaking ..."

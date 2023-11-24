@@ -35,6 +35,20 @@ related:
         width: 946
         height: 475
         isCached: true
+  - title: "Nigeria’s NITDA advocates AI integration in payments for global recognition"
+    excerpt: "The Director-General of NITDA emphasizes leveraging AI and data analytics, highlighting the forthcoming AI Policy to guide adoption and deployment, and acknowledging the potential and benefits of AI while addressing associated threats and biases."
+    publishedDateTime: 2023-11-24T09:00:00Z
+    webUrl: "https://cointelegraph.com/news/nigeria-nitda-advocates-ai-integration-payments-global-recognition"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 37
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-11/e1c61096-c0e9-4241-a6fa-59e7441ef2b5.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "dSXDcxipPTQ2XPnwAhHLsE4YTeCptcOyPjaVjo1fmn1nSroMbO4/IPF9ylD+dmfMVp38DIWpicKRw9a6juUNAO8pWPpmExPrIv2goOVvOm7sbTmtL70TxkagdsbZMS6rQ+kEUtDRabzKLaAQP8/vjefhLYurlbPWAHiIKo+vTR69cp9615OaFZKmmbsRpTW8a2pCRJg9r+deVJ5P8gucCD4oX2pCWFDecXmNzvrjRKrf1PhAdtuiNycIzOVwR6Vpl3c3/rQKzlwoWPjH56UpOun2bgkqXKhr2mFMAjAibWKv/3pcf7baqu0m6Z166XBxWNTmZGGqZ4HIE/YC4w7gnz66WBJ0flTcJxqL8ExNHAkNZl1zccygyIH4MRLgtpSgOU7n//DqyhJF+X+yoPqbAYIJ37o1iVFtSDwct/tqjk05CnljvLLx6y26gYccdnAinZ2N+osl+GfvhO3L7ZDce5KyehybjCNlGxRLIZPhwy28ZS3pCZrfNC/QFdOz9+yWx51a/fiR4sWVAbVRgugJ9Q==;dceMVS9M5kZnd2AohZpNsg=="
 ---

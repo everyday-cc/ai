@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/au/investing/cryptocurrency/top-10-
 webUrl: "https://www.forbes.com/advisor/au/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "The rise of Artificial Intelligence (AI) in Online casinos"
+    excerpt: "Online casinos, and even physical gambling establishments, are an example of one of the many industries that have benefited greatly from artificial intelligence (AI); from in the form of customized AI dealers to improved and sophisticated customer service bots."
+    publishedDateTime: 2023-11-24T09:35:00Z
+    webUrl: "https://www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/"
+    ampWebUrl: "https://www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/?amp=1"
+    cdnAmpWebUrl: "https://www-chiangraitimes-com.cdn.ampproject.org/c/s/www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/?amp=1"
+    type: article
+    provider:
+      name: Chiangrai Times
+      domain: chiangraitimes.com
+    quality: 74
+    images:
+      - url: "https://www.chiangraitimes.com/wp-content/uploads/2023/08/Mobile-app-download-banner-ad-Made-with-PosterMyWall-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "2 Artificial Intelligence (AI) Stocks That Could Be Millionaire Makers"
     excerpt: "It's no secret that artificial intelligence (AI) is a booming industry. As a result, many investors are searching for AI stocks that could make them millionaires. While you're unlikely to find a ..."
     publishedDateTime: 2023-11-20T12:06:00Z
