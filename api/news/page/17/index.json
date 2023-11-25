@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-11-08-gm-to-update-cruise-software-so-self-driving-cars-stop-if-a-pedestrian-is-pinned-underneath.md",
+      "title": "GM to update Cruise software so self-driving cars stop if a pedestrian is pinned underneath",
+      "excerpt": "A Cruise self-driving car dragged a pedestrian in October. Cruise says an update should keep the cars stationary if a similar incident occurs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11",
+      "originalUrl": "https://www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/654bacad3cc84b4dfafe88e3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gm-update-cruise-self-driving-software-after-pedestrian-accident-2023-11?amp",
+      "publishedDateTime": "2023-11-08T15:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-point-predictive-wins-lendtech-of-the-year-at-the-2023-us-fintech-awards.md",
       "title": "Point Predictive Wins LendTech of the Year at the 2023 US Fintech Awards",
       "excerpt": "Point Predictive's first- and third-party fraud solution API, which secured the coveted LendTech of the Year award, is exclusively designed for fintech and lenders. This groundbreaking API seamlessly combines the robust capabilities of Point Predictive's proprietary derived data repository,",
@@ -1113,57 +1165,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-11-08T02:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-adobe-responds-to-controversy-over-ai-generated-images-of-gaza-explosion.md",
-      "title": "Adobe responds to controversy over AI-generated images of Gaza explosion",
-      "excerpt": "Adobe responded today to a controversy over AI-generated images of a Gaza explosion that were published on several small blogs and websites.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/adobe-responds-to-controversy-over-ai-generated-images-of-gaza-explosion/",
-      "originalUrl": "https://venturebeat.com/ai/adobe-responds-to-controversy-over-ai-generated-images-of-gaza-explosion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/11/Untitled-design-2023-11-07T200109.912.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T02:13:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

@@ -117,6 +117,22 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Nvidia delays launch of new China-focused AI chip"
+    excerpt: "The U.S. export curbs have created an opportunity for rivals such as Huawei to win orders that may have otherwise gone to Nvidia, whose graphics processing units (GPUs) dominate the AI market."
+    publishedDateTime: 2023-11-25T02:52:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/nvidia-delays-launch-of-new-china-focused-ai-chip-11809501.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/nvidia-delays-launch-of-new-china-focused-ai-chip-11809501.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/nvidia-delays-launch-of-new-china-focused-ai-chip-11809501.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/6-Nvidia-Corp.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Nvidia reports record Q3 results driven by surging demand for AI"
     excerpt: "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more. Nvidia reported record revenue today for its third fiscal quarter of fiscal 2024 (ending October 31,"
     publishedDateTime: 2023-11-21T22:53:00Z

@@ -123,6 +123,22 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Nvidia delays launch of new China-focused AI chip"
+    excerpt: "The U.S. export curbs have created an opportunity for rivals such as Huawei to win orders that may have otherwise gone to Nvidia, whose graphics processing units (GPUs) dominate the AI market."
+    publishedDateTime: 2023-11-25T02:52:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/nvidia-delays-launch-of-new-china-focused-ai-chip-11809501.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/nvidia-delays-launch-of-new-china-focused-ai-chip-11809501.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/nvidia-delays-launch-of-new-china-focused-ai-chip-11809501.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/6-Nvidia-Corp.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Morning Bid: AI buzzes but market shrugs at Nvidia beat"
     excerpt: "While many investors have been thrall to the AI boom all year, the 240% year-to-date surge in Nvidia (NVDA.O) has stolen the show as AI excitement sent demand for its high-end chips soaring. Remarkably, Nvidia managed to vault the sky-high bar for quarterly earnings, revenue and projections yet again in its latest update overnight."
     publishedDateTime: 2023-11-22T10:01:00Z

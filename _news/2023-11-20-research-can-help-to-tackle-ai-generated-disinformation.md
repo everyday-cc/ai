@@ -144,20 +144,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 48
-  - title: "Elevate Your Teaching Career with Educational AI Tools"
-    excerpt: "As with other technological advances in the past, AI isn't going anywhere. You can unlock new teaching tools that also prepare your students for tech jobs."
-    publishedDateTime: 2023-11-20T01:32:00Z
-    webUrl: "https://www.educatorstechnology.com/2023/11/educational-ai-tools.html"
-    type: article
-    provider:
-      name: Educational Technology and Mobile Learning
-      domain: educatorstechnology.com
-    quality: 39
-    images:
-      - url: "https://www.educatorstechnology.com/wp-content/uploads/2023/11/1-8.png"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Saving corals with artificial intelligence"
     excerpt: "Australian Taryn Foster has spent her whole life exploring the coral reefs in Western Australia. As a result, she has witnessed the damage caused by climate change. With her company Coral Maker, she now wants to take up the fight for corals - with artificial intelligence (AI) and robotics."
     publishedDateTime: 2023-11-23T06:20:00Z

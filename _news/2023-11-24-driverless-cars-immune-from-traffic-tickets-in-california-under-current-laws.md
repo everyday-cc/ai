@@ -2,26 +2,26 @@
 category: news
 title: "Driverless cars immune from traffic tickets in California under current laws"
 excerpt: "An NBC Bay Area investigation reveals autonomous vehicles in California cannot be cited for moving traffic violations since transportation laws require tickets to be issued to actual “drivers.”"
-publishedDateTime: 2023-11-23T23:03:00Z
-originalUrl: "https://www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/"
-webUrl: "https://www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/"
-ampWebUrl: "https://www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/?amp=1"
-cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/?amp=1"
+publishedDateTime: 2023-11-24T07:03:00Z
+originalUrl: "https://www.nbcsandiego.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3363784/"
+webUrl: "https://www.nbcsandiego.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3363784/"
+ampWebUrl: "https://www.nbcsandiego.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3363784/?amp=1"
+cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3363784/?amp=1"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: NBC Bay Area
-  domain: nbcbayarea.com
+  name: NBC 7 San Diego
+  domain: nbcsandiego.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.nbcbayarea.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all"
+  - url: "https://media.nbcsandiego.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all"
     width: 1200
     height: 675
     isCached: true
@@ -150,6 +150,6 @@ related:
       domain: abc.net.au
     quality: 19
 
-secured: "UzTEQViMQC79T4Rz24iLH14ussstauV6D37FympqmwtXZTZY0EPvfYwCVtsFpdWAhR0ahtVsHCZY9/Sn4gd8y/m5S3kc/WBhfAMDroWEBO2gOVJXjTVnGBuQcwiKO+cY5wfqI9lN+tU+tsccY/s5w4gRuHtpV2lg3GnANN0gA73KY4Mj0eSAblNOtnS25DVAAFjphCg2fhF/y22U3qiz1mjnre6DYmQxvtQjf0S5Z7GMtAboF148L4F3Ps8sKFZj9VLbhYiSnFjocs8lMghdC4f7hOJGBzVAzZNSkokH4swC5Y/T/ZiKiU95LN5Yhmyb2rvSL6vmOKs688RyusCtPGJKwgFfk0i0Cu346fDIf0sGuLojUdcR5+LXCifgeWAfFgPeXIuz+C02wuVauoCXBgTKOb/Oxjec/3GqSgSBlGLH9OCcyVUyrSdrwvtAqq97F29c5sjyzaPP0C8tgOpMW6fH05ubemGEBRkXPjU/ukayEpjFlFVMtkRE+3bRf+8KOT4BZ77PsUMWNf0SbSfJnQ==;UDraN0Iqt06ztRhhDMpkVw=="
+secured: "cJKG6VT65z/+zUKZHMvpX5FvSBWmpABBxW5to5SyqI82iuaoIacW+RdkcWiGy3GWNJmb4CKI699iYUsgdiTOohas71R0lkonDlbmZYSH0eQkEoy8uF8LUoBo1AiPX8RfKPvvGXYLncY4fsL72zu5BHLyN6NjAWG6YAm7TEqcl2mkFD8woGS9u1f6cARZ42U3xjhtzZkPaWQ5fjNhcgMn6WWJhZSUjOJ+aCaywoxSvgto8OT4VrjvByc5O6c6h5jfVGeTgYy/hVufDFm1XgZJjmLhFf2JgzJrKMBbbSaXysfj6SG7o6TL3VNMXczpDOww8CSe9YdVNqp+kDQ9qq4sAOSGANRK6s8T7VF40WFvviA=;1gJ2Tea5Q7xduIRGoPfaWw=="
 ---
 

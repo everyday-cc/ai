@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-10-26-northwestern-universitys-ai-designs-a-new-robot-in-seconds.md",
+      "title": "Northwestern University’s AI Designs a New Robot in Seconds",
+      "excerpt": "Researchers at Northwestern University used artificial intelligence to create a program that designed, iterated and refined a new walking robot from scratch, based on a simple prompt, within 26 seconds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/northwestern-universitys-ai-designs-a-new-robot-in-seconds",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/northwestern-universitys-ai-designs-a-new-robot-in-seconds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/c3651e4/2147483647/strip/true/crop/817x426+0+59/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F33%2F2e%2F6046a09243d6960fc72cb5d20af8%2F10f2817b-12f0-42c5-9b43-52e1294984ca.jfif",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/northwestern-universitys-ai-designs-a-new-robot-in-seconds?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/northwestern-universitys-ai-designs-a-new-robot-in-seconds?_amp=true",
+      "publishedDateTime": "2023-10-25T22:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit.md",
       "title": "The UK Lists Top Nightmare AI Scenarios Ahead of Its Big Tech Summit",
       "excerpt": "Ahead of a global summit on how to keep artificial intelligence from doing harm, a UK government report warns that the tech could be used to help create bioweapons, or escape human control altogether.",
@@ -1145,41 +1188,6 @@
         "AI",
         "AI in Robotics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-veracode-reveals-automation-and-training-are-key-drivers-of-software-security-for-financial-services.md",
-      "title": "Veracode Reveals Automation and Training Are Key Drivers of Software Security for Financial Services",
-      "excerpt": "The Power of AI and Machine Learning The State of Software Security report also analyzed language preference by vertical and found, at 51 percent, Java is almost a de facto standard within the Financial Services sector. Veracode Fix, an AI-powered ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T13:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

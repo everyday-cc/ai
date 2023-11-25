@@ -105,20 +105,6 @@ related:
         width: 1923
         height: 1080
         isCached: true
-  - title: "GeForce RTX 4090 is no longer available in China as NVIDIA removes the GPU from its website"
-    excerpt: "thanks to new US government restrictions that restrict sales of powerful GPU hardware that can be used for AI processing. Based on the new export measures, the GeForce RTX 4090 - a GPU designed for PC gaming - falls under the 'banned' list because it's ..."
-    publishedDateTime: 2023-11-20T02:28:00Z
-    webUrl: "https://www.tweaktown.com/news/94445/geforce-rtx-4090-is-no-longer-available-in-china-as-nvidia-removes-the-gpu-from-its-website/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 44
-    images:
-      - url: "https://static.tweaktown.com/news/9/4/94445_01_geforce-rtx-4090-is-no-longer-available-in-china-as-nvidia-removes-the-gpu-from-its-website_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
 
 secured: "/Akpc2wSIO6Rwnc8SECNlB3kWif2d1r/q7RXYv7bZpP+TkCR62QvrhYeZURJCIwg/YNVktraVRhFZ9A5RyuiBS15ENv2HpZe+ExsOYnPMOr2zOhVxNtPpzN0W0cF4an6Ic+NSebWXJSDgJtaG2glSNlIWLijrYNFt/Y7ijnHaVa5XuMj06JaWAxpt+KZ0O/pDNrUsfStfLL8PUGoTbkUk9cy4S/yHIn50mU5uTTPLJ7eOmTBMAHD1vfL0L14xJqAo79Z4Um0A6i6DzbwvDSn+9KKiUGhdljRe+S7Cs+SzesQLKRUUb2tA7BHHUk37KoJzUXhhh6dqB9F69NH/rt60KoGrhPjR23asrjwwfBcQ+z33EWFQ4PwktECfZV25Bqq7bHXx2RxlF9gPz5lWLeId88RyC81FsHYQU/wiwNqG2aVKuuK2xRom039iXzoMHVf6ghceFK6rYfF+Xkp/71rhaAnv3Qbtkxr+gdB86z4bA+fMEy2REaSt3XeI95UiKmUprW+TlAJGOHu4KwQrTlznw==;VQA+T1Y07zk/957ee0AsFA=="
 ---

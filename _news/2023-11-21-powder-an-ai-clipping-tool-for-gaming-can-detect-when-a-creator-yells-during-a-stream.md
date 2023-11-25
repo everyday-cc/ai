@@ -198,20 +198,6 @@ related:
         width: 1024
         height: 590
         isCached: true
-  - title: "Guest Article: Navigating tomorrow - The rise of artificial intelligence in leadership"
-    excerpt: "Mumbai: In an era marked by rapid technological advancements, the integration of artificial intelligence (AI) into various facets of our lives is becoming increasingly prevalent. One of the most intriguing and transformative areas where AI is making a significant impact is in the realm of leadership."
-    publishedDateTime: 2023-11-20T02:56:00Z
-    webUrl: "https://www.indiantelevision.com/mam/digital/guest-article%3A-navigating-tomorrow---the-rise-of-artificial-intelligence-in-leadership-231120"
-    type: article
-    provider:
-      name: Indian Television Dot Com
-      domain: indiantelevision.com
-    quality: 29
-    images:
-      - url: "https://www.indiantelevision.com/sites/default/files/images/tv-images/2023/11/20/23.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AI is already impacting influencer marketing, according to the CMO of Billion Dollar Boy. Here's how she thinks brands should approach the new tech."
     excerpt: "Becky Owen, the CMO of influencer-marketing firm Billion Dollar Boy, is at the helm of an innovation unit at the company that focuses on AI efforts."
     publishedDateTime: 2023-11-21T13:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-ear
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
 type: article
 quality: 91
-heat: 331
+heat: 341
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2023/11/nvidia-1-1019x573.jpg"
         width: 1019
         height: 573
+        isCached: true
+  - title: "Nvidia delays launch of new China-focused AI chip"
+    excerpt: "The U.S. export curbs have created an opportunity for rivals such as Huawei to win orders that may have otherwise gone to Nvidia, whose graphics processing units (GPUs) dominate the AI market."
+    publishedDateTime: 2023-11-25T02:52:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/nvidia-delays-launch-of-new-china-focused-ai-chip-11809501.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/nvidia-delays-launch-of-new-china-focused-ai-chip-11809501.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/nvidia-delays-launch-of-new-china-focused-ai-chip-11809501.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/6-Nvidia-Corp.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Nvidia reports record Q3 results driven by surging demand for AI"
     excerpt: "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more. Nvidia reported record revenue today for its third fiscal quarter of fiscal 2024 (ending October 31,"

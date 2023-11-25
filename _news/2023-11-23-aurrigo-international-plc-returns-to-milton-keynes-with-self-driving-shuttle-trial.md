@@ -39,6 +39,20 @@ related:
         width: 1654
         height: 1112
         isCached: true
+  - title: "Taking a ride on a self-driving bus in Milton Keynes"
+    excerpt: "A BBC reporter has taken a ride on an automated bus that can operate without a driver. It is being tested at multiple stops in Milton Keynes as part of a Europe-wide research project. It uses many ..."
+    publishedDateTime: 2023-11-24T02:18:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/uk-england-beds-bucks-herts-67445112"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 24
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/048C/production/_131746110_p0gt482y.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Aurrigo International plc returns to Milton Keynes with self-driving shuttle trial"
     excerpt: "One of the UK’s leading autonomous technology specialists is returning to Milton Keynes -nine years after it first deployed its… | Manufacturing | Engineering | Transport | Technology | Innovation | M"
     publishedDateTime: 2023-11-24T08:41:00Z

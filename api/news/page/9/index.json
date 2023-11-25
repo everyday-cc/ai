@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-11-15-airbnb-acquires-ai-startup-gameplannerai.md",
+      "title": "Airbnb acquires AI startup GamePlanner.AI",
+      "excerpt": "Nov 14 (Reuters) - Airbnb (ABNB.O) said on Tuesday it has acquired GamePlanner.AI, a 12-person startup, for an undisclosed sum, amid rapid adoption of artificial intelligence that has taken the tech world by storm and pushed many companies to explore its uses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/deals/airbnb-acquires-ai-startup-gameplannerai-2023-11-14/",
+      "originalUrl": "https://www.reuters.com/markets/deals/airbnb-acquires-ai-startup-gameplannerai-2023-11-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/ubYqesjaLMR0YeB9rNEHNNHIn0M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KEACCE5OYRM6HIL5VMVIYCVBDA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T18:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-deepmind-says-its-new-ai-system-is-the-worlds-most-accurate-10-day-weather-forecaster.md",
       "title": "DeepMind says its new AI system is the world’s most accurate 10-day weather forecaster",
       "excerpt": "A new AI model called GraphCast provides weather forecasts with \"unprecedented accuracy,\" Google DeepMind claims.",
@@ -903,40 +954,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-how-facebook-went-all-in-on-ai.md",
-      "title": "How Facebook went all in on AI",
-      "excerpt": "Inside Facebook and the Fight to Expose its Harmful Secrets, Jeff Horwitz reveals how the company came to rely on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/",
-      "originalUrl": "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -2,6 +2,41 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-10-25-veracode-reveals-automation-and-training-are-key-drivers-of-software-security-for-financial-services.md",
+      "title": "Veracode Reveals Automation and Training Are Key Drivers of Software Security for Financial Services",
+      "excerpt": "The Power of AI and Machine Learning The State of Software Security report also analyzed language preference by vertical and found, at 51 percent, Java is almost a de facto standard within the Financial Services sector. Veracode Fix, an AI-powered ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-veracode-reveals-automation-training-key-drivers-software-security-/2023/10/25/9904994.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-25T13:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-10-25-harnessing-ai-to-streamline-identity-management.md",
       "title": "Harnessing AI To Streamline Identity Management",
       "excerpt": "While generative artificial intelligence can help boost IAM’s capabilities, there are challenges and limitations to keep in mind as well.",
@@ -1106,57 +1141,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-google-cloud-revenue-misses-expectations-despite-ai-boom.md",
-      "title": "Google Cloud revenue misses expectations despite AI boom",
-      "excerpt": "Alphabet, Google’s parent company, reports stronger than expected overall revenue but stock falls in after-hours trading",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai?ref=biztoc.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3e2889687f977cb0a22d79523e871b6d5e717030/0_0_2788_1673/master/2788.jpg?width=620&quality=85&auto=format&fit=max&s=666e3bbe284d312ff95f65500ac217e1",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai",
-      "publishedDateTime": "2023-10-24T21:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

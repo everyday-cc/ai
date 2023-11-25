@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/amp/"
 type: article
 quality: 102
-heat: 542
+heat: 532
 published: true
 
 provider:
@@ -148,22 +148,6 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/ETkTgA8M6VAaCCzShBtM.Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-11/7675f9d0-87a9-11ee-abff-49d44ef3039f.cf.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The OpenAI Drama: Sam Altman’s Shocking Ouster, Board Resignation And The Struggle For AI’s Future"
-    excerpt: "In the tumultuous world of artificial intelligence, OpenAI, a pioneering force in generative AI, finds itself at a crossroads."
-    publishedDateTime: 2023-11-20T02:20:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/11/19/the-openai-drama-sam-altmans-shocking-ouster-board-resignation-and-the-struggle-for-ais-future/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/11/19/the-openai-drama-sam-altmans-shocking-ouster-board-resignation-and-the-struggle-for-ais-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/11/19/the-openai-drama-sam-altmans-shocking-ouster-board-resignation-and-the-struggle-for-ais-future/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655a27bc3780a2d384b19dac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1280
-        height: 900
         isCached: true
   - title: "Sam Altman's ouster at OpenAI precipitated by letter to board about AI breakthrough, sources tell Reuters"
     excerpt: "The previously unreported letter and AI algorithm was a catalyst that caused the board to ... progress on Q*, which some internally believe could be a breakthrough in the startup's search for superintelligence, also known as artificial general intelligence ..."

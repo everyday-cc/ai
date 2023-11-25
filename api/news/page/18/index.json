@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-11-08-adobe-responds-to-controversy-over-ai-generated-images-of-gaza-explosion.md",
+      "title": "Adobe responds to controversy over AI-generated images of Gaza explosion",
+      "excerpt": "Adobe responded today to a controversy over AI-generated images of a Gaza explosion that were published on several small blogs and websites.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/adobe-responds-to-controversy-over-ai-generated-images-of-gaza-explosion/",
+      "originalUrl": "https://venturebeat.com/ai/adobe-responds-to-controversy-over-ai-generated-images-of-gaza-explosion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/11/Untitled-design-2023-11-07T200109.912.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T02:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-tijani-artificial-intelligence-can-enhance-good-governance-security-others.md",
       "title": "Tijani: Artificial Intelligence Can Enhance Good Governance, Security, Others",
       "excerpt": "The Minister of Communications, Innovation and Digital Economy, Dr. Bosun Tijani, has said that Nigeria stands to benefit immensely from the deployment of Artificial Intelligence (AI) to solve certain societal challenges.",
@@ -1127,58 +1178,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-artificial-intelligence-accelerating-clean-energy-transformation.md",
-      "title": "Artificial Intelligence: Accelerating Clean Energy Transformation",
-      "excerpt": "The union of artificial intelligence and renewable energy promises a brighter, cleaner future for power generation and for our planet as a whole. As we stand on the cusp of a clean energy revolution, leveraging the potential of AI can catalyze this transition, making our path to decarbonized power generation smoother, faster and more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/07/artificial-intelligence-accelerating-clean-energy-transformation/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/07/artificial-intelligence-accelerating-clean-energy-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65494949d96d8cc3814c7e77/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/07/artificial-intelligence-accelerating-clean-energy-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/07/artificial-intelligence-accelerating-clean-energy-transformation/amp/",
-      "publishedDateTime": "2023-11-07T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
