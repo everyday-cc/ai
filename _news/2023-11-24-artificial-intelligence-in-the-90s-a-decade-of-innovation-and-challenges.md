@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/artificial-intelligence-in-the-90s-a-decad
 webUrl: "https://techbullion.com/artificial-intelligence-in-the-90s-a-decade-of-innovation-and-challenges/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Absence of dedicated legal framework a challenge for AI regulations"
+    excerpt: "In recent years, India has seen a surge in Artificial Intelligence (AI) adoption, transforming its technological landscape. As a global IT hub, India leverages AI for innovation and economic growth. In business and manufacturing,"
+    publishedDateTime: 2023-11-25T10:56:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1143310"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 39
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/whatsapp_channel_icon.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "AI’s legal challenges: Not so artificial, not enough intelligence | Opinion"
     excerpt: "The use of generative AI like ChatGPT by businesses is full of pitfalls, writes attorney and Tripp Scott law firm COO Paul Lopez, from violation of intellectual property rights to AI simply making"
     publishedDateTime: 2023-11-23T08:30:00Z

@@ -29,7 +29,7 @@ related:
     provider:
       name: WGN-TV
       domain: wgntv.com
-    quality: 73
+    quality: 75
     images:
       - url: "https://wgntv.com/wp-content/uploads/sites/5/2023/11/snapshot-2023-11-21T213437.632.jpg?w=1280"
         width: 1280
@@ -76,6 +76,20 @@ related:
       name: New York Academy of Sciences
       domain: nyas.org
     quality: 32
+  - title: "Colors-Ai Is Transforming Product Development Through Customer Feedback Analysis"
+    excerpt: "Colors-AI's cutting-edge platform is revolutionizing how businesses harness customer feedback to inform and prioritize product development. <"
+    publishedDateTime: 2023-11-23T00:55:00Z
+    webUrl: "https://menafn.com/1107474457/Colors-Ai-Is-Transforming-Product-Development-Through-Customer-Feedback-Analysis"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/22/ZPW_445528e9-4_Image_In_Body.png"
+        width: 545
+        height: 814
+        isCached: true
 
 secured: "OwusUxQtPsJ2jiuMazDpwPfxsu+Rfp436YoP2xqOezGRotnwsuYx0FoguhfTa7gOrN/UIVtHPloD1dP9EAMKHK1D2BWjzjj4yV8P5xl4dQFDqJ+34ggcGWnLuNuTzdfffqbWTTKUlEyXCAaZXQPX/Uor32X/h0hGZVzxUU5nFKLAOg11yCcqOjsFtOWw+Lv93sk/hcFOYIhNMzF/vFfgqpPSLn3vKwEo+c3O+X+4exTEmOtnW4/phpOSpWDVookIjuJpetCDguglblBx86FbPUyeInZgH+hKo+FTXIdOj/PhTxGNk9o7qkZ/Q6hgNt5J/m7TFQlI6x3h3sCmfbG2CouaL96C/HojYWDTF6nVr7s=;E74MmDEQnHPXlzG5vCx/Sg=="
 ---

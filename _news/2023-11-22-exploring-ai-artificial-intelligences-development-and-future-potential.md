@@ -8,8 +8,8 @@ webUrl: "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligence
 ampWebUrl: "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/"
 cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/"
 type: article
-quality: 73
-heat: 123
+quality: 75
+heat: 135
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://wgntv.com/wp-content/uploads/sites/5/2023/11/snapshot-2023-11-21T213437.632.jpg?w=1280"
@@ -68,6 +69,20 @@ related:
       name: New York Academy of Sciences
       domain: nyas.org
     quality: 32
+  - title: "Colors-Ai Is Transforming Product Development Through Customer Feedback Analysis"
+    excerpt: "Colors-AI's cutting-edge platform is revolutionizing how businesses harness customer feedback to inform and prioritize product development. <"
+    publishedDateTime: 2023-11-23T00:55:00Z
+    webUrl: "https://menafn.com/1107474457/Colors-Ai-Is-Transforming-Product-Development-Through-Customer-Feedback-Analysis"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/22/ZPW_445528e9-4_Image_In_Body.png"
+        width: 545
+        height: 814
+        isCached: true
   - title: "The Future of AI: Self-Learning Machines Could Replace Current Artificial Neural Networks"
     excerpt: "New physics-based self-learning machines could replace the current artificial neural networks and save energy. Artificial intelligence (AI) not only delivers impressive performance but also demands significant energy."
     publishedDateTime: 2023-11-22T22:14:00Z

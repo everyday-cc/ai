@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Save up to 45% with Roborock Black Friday robot vacuum and mop discounts"
-    excerpt: "Invest in a Roborock vacuum and mop to help with holiday cleaning by taking advantage of huge discounts for Black Friday."
-    publishedDateTime: 2023-11-20T10:03:00Z
-    webUrl: "https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts"
-    ampWebUrl: "https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 58
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/57157-116216-1-xl.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The 55+ best Amazon Black Friday deals 2023 - save up to 70% off"
     excerpt: "The best Amazon Black Friday deals have arrived - and yes, you read that right. While the official Black Friday deals date is still days away, Amazon has launched its official sale, which means ..."
     publishedDateTime: 2023-11-21T19:12:00Z

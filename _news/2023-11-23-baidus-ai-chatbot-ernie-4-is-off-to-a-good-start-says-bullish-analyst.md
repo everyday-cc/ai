@@ -190,20 +190,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Yellow.ai Chooses AWS Cloud To Power Its Generative AI Chatbot Solutions"
-    excerpt: "Yellow.ai is using Amazon Bedrock, a fully managed foundation model (FM) service that gives businesses access to industry-leading FMs"
-    publishedDateTime: 2023-11-20T11:05:00Z
-    webUrl: "https://startup.outlookindia.com/sector/saas/yellow-ai-chooses-aws-cloud-to-power-its-generative-ai-chatbot-solutions-news-9887"
-    type: article
-    provider:
-      name: startup.outlookindia
-      domain: outlookindia.com
-    quality: 53
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1678183910.jpg?utm_source=fb"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "ChatGPT turns 1: A generative AI status report"
     excerpt: "Nov. 30 will mark one year since ChatGPT’s public debut, and some experts are surprised we're not using AI tools even more."
     publishedDateTime: 2023-11-21T22:39:00Z

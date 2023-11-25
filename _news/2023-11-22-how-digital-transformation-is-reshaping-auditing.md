@@ -35,6 +35,22 @@ related:
         width: 834
         height: 556
         isCached: true
+  - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
+    excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
+    publishedDateTime: 2023-11-25T10:38:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 68
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Four ways AI is making the power grid faster and more resilient"
     excerpt: "From predicting EV charge times to pinpointing areas of high wildfire risk, AI is transforming our energy network."
     publishedDateTime: 2023-11-22T10:00:00Z
@@ -50,36 +66,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/smart-grid.jpg?w=3000"
         width: 3000
         height: 1688
-        isCached: true
-  - title: "How Earth AI is accelerating mineral discovery and helping enterprise Net Zero goals"
-    excerpt: "Earth AI pioneers a more efficient experimental process for discovering minerals required for Net Zero goals. Their promising results highlight the importance of combining data science, domain expertise, and systematic thinking to solve new problems relevant to all enterprises."
-    publishedDateTime: 2023-11-20T10:24:00Z
-    webUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals"
-    ampWebUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-11/amethyst-3328166_640.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Colors-Ai Is Transforming Product Development Through Customer Feedback Analysis"
-    excerpt: "Colors-AI's cutting-edge platform is revolutionizing how businesses harness customer feedback to inform and prioritize product development. <"
-    publishedDateTime: 2023-11-23T00:55:00Z
-    webUrl: "https://menafn.com/1107474457/Colors-Ai-Is-Transforming-Product-Development-Through-Customer-Feedback-Analysis"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2023-11/22/ZPW_445528e9-4_Image_In_Body.png"
-        width: 545
-        height: 814
         isCached: true
 
 secured: "5/XDSYLz6ovMgGje0UNzrXjTwMYv+IVcbi6dw8MGbGcUJENkglfUgzO1GKDsc3LI3uX7fl543B5+AYK/3pl003Ei8m3McZG6+KMNqGbpqTX1KE0SdJJS+DrhIOGfB+mprWdL4I5naS0lU6qzUyWkIT7/jbkTzfZYWMIyu8ytB0Tv0wRmZ4WtTFnZBg71wgMDmIRnGCf4MUTz7Z5GYUzDZVDMoDFOmEdQssmT+SvCi30XhNLEco+6g8jEVaA7DKBlgjgpUTKbfs08u+xzqguJiqAFGwLCJ1NWlt68QavvGhjgPfsf6bE72Dv1LbO8MCHevvxphJkVElQBryH71DzpK75ukis6KX1Ue3ZOrAD0G14=;wy0bJ61RWyXv5DgBHEbbDQ=="

@@ -29,7 +29,7 @@ related:
     provider:
       name: WGN-TV
       domain: wgntv.com
-    quality: 73
+    quality: 75
     images:
       - url: "https://wgntv.com/wp-content/uploads/sites/5/2023/11/snapshot-2023-11-21T213437.632.jpg?w=1280"
         width: 1280
@@ -67,6 +67,20 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 34
+  - title: "Colors-Ai Is Transforming Product Development Through Customer Feedback Analysis"
+    excerpt: "Colors-AI's cutting-edge platform is revolutionizing how businesses harness customer feedback to inform and prioritize product development. <"
+    publishedDateTime: 2023-11-23T00:55:00Z
+    webUrl: "https://menafn.com/1107474457/Colors-Ai-Is-Transforming-Product-Development-Through-Customer-Feedback-Analysis"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/22/ZPW_445528e9-4_Image_In_Body.png"
+        width: 545
+        height: 814
+        isCached: true
   - title: "The Future of AI: Self-Learning Machines Could Replace Current Artificial Neural Networks"
     excerpt: "New physics-based self-learning machines could replace the current artificial neural networks and save energy. Artificial intelligence (AI) not only delivers impressive performance but also demands significant energy."
     publishedDateTime: 2023-11-22T22:14:00Z

@@ -186,20 +186,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Yellow.ai Chooses AWS Cloud To Power Its Generative AI Chatbot Solutions"
-    excerpt: "Yellow.ai is using Amazon Bedrock, a fully managed foundation model (FM) service that gives businesses access to industry-leading FMs"
-    publishedDateTime: 2023-11-20T11:05:00Z
-    webUrl: "https://startup.outlookindia.com/sector/saas/yellow-ai-chooses-aws-cloud-to-power-its-generative-ai-chatbot-solutions-news-9887"
-    type: article
-    provider:
-      name: startup.outlookindia
-      domain: outlookindia.com
-    quality: 53
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1678183910.jpg?utm_source=fb"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Baidu's AI Chatbot Ernie 4 Is Off To A Good Start, Says Bullish Analyst"
     excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
     publishedDateTime: 2023-11-22T18:50:00Z

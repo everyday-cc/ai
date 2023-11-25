@@ -76,6 +76,6 @@ related:
       domain: wyomingnews.com
     quality: 17
 
-secured: "ohH8bUdrIBscgj/VwSI83H3LFgola0mk7nWJYqV/PiflTfp/Qy3PD2xYUM5qP4i/wPQFZlJZyZfN6wDr/thLNIAozXXPwUMS9YKaCgdUmeIJb3S133E11XS/lWqolsb5ChfdiX0qNv4be+of3WQdKNBJieKpWSYiPQPYpYhOrgKQZTlFAf/9KcjL/MLvHwqj6t33q9x0FdIWKceJ+d2cIgPY3zzKixVZliGmwnc8qgZ5RFh8sRLiEQhhuE+FZ/mndaeuW7WzAIAiiTlBvJp+c6SBI3T8KczcaUBl7CcxYZRXUruQRfC05BdHjyAqsRYZwTveBHLiSwbyK+Pu8co8lv7rpBN679cI0Abyrh0npwo=;rzgk23oSGYm2c0zxwIUeYA=="
+secured: "XohfMT+KHhAhCFmH2OaRV/8IBIZB7rdnNPj4aXsMo5KlC7G7ee1UnGNV3SsWudrLXQ8Ib99+QrhlmSu+1WJaOZegQo0xgQtBTm7ibn467bQiEG/MQaiv3djI0FEQUSeo1osFe0CkJIl9e0uS87qmnFg7IVSU9IwnnS/eZIzb8J1wNc24gsijcXZPjTLwokM/5L0bbbEWNgwCFmH1Va1j3zZv7oHt3zuP5IsuCx6FxZ2d2/437anuiRXnqzcYcV+xx3U92Q/gKztQF0T3rxl5IycgAzL43JL3k+qW22ok71IU1YxSgve6NcC6jy2FJB04iI7Dvt/+VnMDnkHqH+XLHoNxsuGLKS567l4IkePJuY8=;SyYsXJp0rrq8r+ftBsKD3g=="
 ---
 

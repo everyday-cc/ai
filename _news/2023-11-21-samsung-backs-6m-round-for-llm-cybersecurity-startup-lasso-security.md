@@ -47,15 +47,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "How Indian enterprises can incorporate AI into their cybersecurity solutions to build digital resilience"
-    excerpt: "CISOs in Indian organizations have the opportunity to harness the power of AI for proactive cybersecurity measures, fostering long-term organizational and digital resilience."
-    publishedDateTime: 2023-11-20T10:31:00Z
-    webUrl: "https://www.voicendata.com/how-indian-enterprises-can-incorporate-ai-into-their-cybersecurity-solutions-to-build-digital-resilience/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 2
   - title: "CISA Roadmap for AI Cybersecurity: Defense of Critical Infrastructure, “Secure by Design” AI Prioritized"
     excerpt: "CISA has released a roadmap establishing four overarching broad goals, with five more specific lines of effort that appear to indicate concrete immediate priorities. Defensive AI cybersecurity measures and plans for critical infrastructure adoption are repeating themes."
     publishedDateTime: 2023-11-23T11:00:00Z

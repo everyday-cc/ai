@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-excerpt: "Flywheel announces the launch of its SaaS data management solution on Microsoft Azure, integrated with NVIDIA MONAI."
-publishedDateTime: 2023-11-22T13:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
-webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
+excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
+publishedDateTime: 2023-11-22T14:42:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
+webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
 type: article
 quality: 29
 heat: -1
@@ -175,20 +175,6 @@ related:
         width: 1000
         height: 650
         isCached: true
-  - title: "Sam Altman will lead new Microsoft AI team. OpenAI board names interim CEO."
-    excerpt: "Sam Altman, the face of the artificial intelligence revolution, will not return as OpenAI chief executive despite talks to negotiate his reinstatement Sunday, two people familiar with the matter said,"
-    publishedDateTime: 2023-11-20T10:38:00Z
-    webUrl: "https://www.bostonglobe.com/2023/11/20/business/sam-altman-will-lead-new-microsoft-ai-team-openai-board-names-interim-ceo/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 54
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/9xznEgGQiGRrNX632mIy8cb_bQw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XT7V74J5EGDPEWCQTPATS5HLYQ.jpg"
-        width: 506
-        height: 338
-        isCached: true
   - title: "How Microsoft's hiring of OpenAI's Altman could reshape AI development"
     excerpt: "Following a dramatic departure of two key leaders from ChatGPT-maker OpenAI, Microsoft, a major investor in the startup, ended up a winner."
     publishedDateTime: 2023-11-21T14:49:00Z
@@ -324,6 +310,6 @@ related:
         height: 280
         isCached: true
 
-secured: "7eCqs5sP3kScBcszypDqidlX6DUOox8SXpYf0FvNtK44TSdc6PPQEmS6EzPI0meHay+BTc3wDjKmcpc9a4OCkUDCSzMqoBxibtf4cWxZAaM/zFcG6HdByjJLJZIxE6Nj9rcNdjpMbfKZNBlqPDC6Ut62kOUtiHEmP1R197pKNCgBhL0u6O/Epc/nzzM1oLuZFUoDwbsJ9v6yUkYI/rBWpLiO/e6daTLJQEswH5tefFluS+wfymHDNM0giX4E2fNYBO8G+mYqN0VZIqU39bViJukP5BEpvVE5eA11uxZ5tx2HhKSbTTm52DB6uJzk6mH7PHW8mTxLCc764md9SU/kHtBl3k6N4Kt4lwKRi8D2kLLJ/JAootn3XzMFAwCcxlVUkf7dosy9AfTcpeCYH+7tT3LZv0HF/vQqsLreWkShl/ap3MPIuYr6C0V0EDVxwU4pdmn5f105d8hvB6ULPkWU6L1czoxDAAnkB4dtYvgk4Df9Xl1EM/Iw+YdXBj024y8kfw+0kmO/gMjPZ68mQwAxeg==;1gL9yhpM4UC5KgF+KhgnwA=="
+secured: "esO8ZQeSWd0jvbbhw+JnJZXTtMv9m3PJG+lPDeYakQ5g5OLddiLjcWfvV16M1pKu4SnCwL4ehFdZqtp3FzeIfIa3BhcVEaO1SJjlJ/x+tXZOPbcBAXYB/l47ALRvJe7sV01Wcnqui2voyp3AeKV6dgtlsHC/TPUZmP64zi1XDzKIvcJNZMjcrD7wXD5TdXIIUIfQIRYDSwYketg/V1GhT3BXOBp4tKKRcF5wibfCC8ATPsBmhT0ApLwtUDteld3iE/QaSgWeLCMewF369lPwtv2JPwWdQAUDS8xzufT54DyfnKtN2uY2oe5Hp1LJ4GfqS80J7/jJkGfcd85F4up/6XLXVttd3onzS6eJy5omwvY=;hCVtijVYuuge1xqKRkswEg=="
 ---
 

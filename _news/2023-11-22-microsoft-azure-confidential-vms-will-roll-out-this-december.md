@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/azure-confidential-vms-public
 webUrl: "https://www.techrepublic.com/article/azure-confidential-vms-public-preview/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Embarc Collective AI company hires ex-Paypal, Microsoft software developer as CTO"
-    excerpt: "The Tampa-based company was founded in 2018, and it's CEO and co-founder, Chris Jones, has spent that time building and pivoting the platform."
-    publishedDateTime: 2023-11-20T10:43:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/inno/stories/news/2023/11/20/amni-ai-company-hires-cto.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 29
 
 secured: "j8/ZtwfwBzNZDX7SNP+odY/tTmtKlTKZuwhPwo3dVgmCBr3fzGJjGkSYLVUZ9QgWtW+ij4dcHwoNXUx0LWwOQ8nzxoNL8N9jMJe0p6cpS8QGOGHBIZLeLUQmmy6RzWAv7yA9SlAdWWpQcb0pikSuv6/PFSiYmhRYByJRXxg3LyMcAnEHJKzywrUK9HIgpBKZHDfRC9EXGWfXFQA/Y/DcnDGY5hJ3eUSOOpSYhWqMJ9n0M+/VRewaWrWF6b4jJX966WBiwWJBonFynA/z7xXnImuge7y77V9ofs0P0/Z7uk/6p5DqwnexRxXKkDafvNVBLnO7XaGKGmp6TnLQkACa1g0V3PSyQjI8VCvUhfsd7y8042+bIWau7BiWHc4m03vzBErMxNIs+g1x7ug6y+jgRjIi58HndwBhs0I026wR3kWI2RUA7JW+NI+fBoDF1ce66W4SqHg4fr3b9VFodPcT7Kn2pGdR2V3PnRvucYTpWGTwb/FA6VMyEqSjhtqmovt6AaOt/h6uQjWSGQs0rbmX8g==;fWHG0w0gPW0z1uJljzERIg=="
 ---

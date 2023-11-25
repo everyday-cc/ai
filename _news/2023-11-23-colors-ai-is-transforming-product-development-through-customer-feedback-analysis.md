@@ -24,63 +24,72 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Transforming Leasing, Security And Resident Services"
-    excerpt: "Check out Benzinga's favorite private market real estate offerings and start collecting your share of the rental income. From leasing and security to enhanced resident services, artificial intelligence (AI) can help property managers improve their ..."
-    publishedDateTime: 2023-11-24T11:01:00Z
-    webUrl: "https://www.benzinga.com/real-estate/23/11/35941423/how-ai-is-transforming-leasing-security-and-resident-services"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35941423"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35941423"
+  - title: "Exploring AI: Artificial intelligence’s development and future potential"
+    excerpt: "AI ethics in education is a big deal as well. Nadia Pesch, a senior at Lane Tech, said she’s familiar with classmates using Chat GPT to cheat. “I pretty much had every teacher saying ‘Don’ ..."
+    publishedDateTime: 2023-11-22T00:00:00Z
+    webUrl: "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/"
+    ampWebUrl: "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/"
+    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 75
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Business-People-And-Humanoid-Ai-Robot-Si.jpeg?width=1200&height=800&fit=crop"
-        width: 834
-        height: 556
+      - url: "https://wgntv.com/wp-content/uploads/sites/5/2023/11/snapshot-2023-11-21T213437.632.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Four ways AI is making the power grid faster and more resilient"
-    excerpt: "From predicting EV charge times to pinpointing areas of high wildfire risk, AI is transforming our energy network."
-    publishedDateTime: 2023-11-22T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/"
-    ampWebUrl: "https://www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/amp/"
+  - title: "The Shift To AI: A CEO's Perspective On Future-Proofing Business"
+    excerpt: "CEO and co-founder of Hexact, on a mission to empower businesses of all sizes with AI-driven sidekicks that work in the cloud."
+    publishedDateTime: 2023-11-21T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/the-shift-to-ai-a-ceos-perspective-on-future-proofing-business/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Enterprise Generative AI Enters Its Citizen Development Era"
+    excerpt: "More importantly, these GPTs can act on the user's behalf. OpenAI's tight integration with Zapier means thousands of connectors at your disposal, letting the AI query your CRM, update your ERP, or monitor your servers with a few clicks. How does the AI authenticate to all these services, you might ask? Great catch, but more on that later."
+    publishedDateTime: 2023-11-20T18:26:00Z
+    webUrl: "https://www.darkreading.com/edge/enterprise-generative-ai-enters-its-citizen-development-era"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/smart-grid.jpg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9c4d9ed25c4d9a76/6557b6c5dd7f68040aaebbeb/robothand-dpa_picture_alliance-alamy.jpg"
+        width: 1800
+        height: 1013
         isCached: true
-  - title: "How Earth AI is accelerating mineral discovery and helping enterprise Net Zero goals"
-    excerpt: "Earth AI pioneers a more efficient experimental process for discovering minerals required for Net Zero goals. Their promising results highlight the importance of combining data science, domain expertise, and systematic thinking to solve new problems relevant to all enterprises."
-    publishedDateTime: 2023-11-20T10:24:00Z
-    webUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals"
-    ampWebUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
+  - title: "Good AI, bad AI: Decoding responsible artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is so hot right now. ChatGPT, DALL-E, and other AI-driven platforms are providing us with completely new ways of working. Generative AI is writing everything from cover letters to campaign strategies and creating impressive images from scratch."
+    publishedDateTime: 2023-11-24T19:17:00Z
+    webUrl: "https://techxplore.com/news/2023-11-good-ai-bad-decoding-responsible.html"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-11/amethyst-3328166_640.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "How digital transformation is reshaping auditing"
-    excerpt: "Digital innovation offers unique insights throughout the audit process, enabling auditors to offer increased value and efficiency in a demanding economy. The second 2023 SAICA Audit Reform Webcast, held in August and chaired by SAICA executive for audit and assurance Thandokuhle Myoli,"
-    publishedDateTime: 2023-11-22T06:53:00Z
-    webUrl: "https://it-online.co.za/2023/11/22/how-digital-transformation-is-reshaping-auditing/"
+      name: techxplore
+      domain: techxplore.com
+    quality: 34
+  - title: "Considering the societal and ethical implications in the development of AI"
+    excerpt: "The research of Betty Li Hou, who presented a seminar as part of The New York Academy of Sciences’ Artificial Intelligence (AI) & Society Lecture series, explores the educational, philosophical, sociological,"
+    publishedDateTime: 2023-11-21T20:44:00Z
+    webUrl: "https://www.nyas.org/news-articles/academy-news/considering-the-societal-and-ethical-implications-in-the-development-of-ai/"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 4
+      name: New York Academy of Sciences
+      domain: nyas.org
+    quality: 32
+  - title: "The Future of AI: Self-Learning Machines Could Replace Current Artificial Neural Networks"
+    excerpt: "New physics-based self-learning machines could replace the current artificial neural networks and save energy. Artificial intelligence (AI) not only delivers impressive performance but also demands significant energy."
+    publishedDateTime: 2023-11-22T22:14:00Z
+    webUrl: "https://scitechdaily.com/the-future-of-ai-self-learning-machines-could-replace-current-artificial-neural-networks/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 25
 
 secured: "8rPkBQwt/xMgu2YGhgpTW0TuA6R8qsSvh5HZvT8cFXe7m0+pPHvxbugY/D/ex5m/gDae1i7BKagz+1wqfO0o6FOkHeLSfwdUamg19UszZkVG9EddjQ1JkwdSUsBs+cPXvgHPRlyY/PtvWRNwiJuHIl+6J4g00WNhZVZOinzgiQEg6Z8fidj0Tn0Zj3+VWusTA1Zybt7j5oXuauXXtg0UB+DXa1bwp/sMUp1Od6F4y46fnLMNbTP4WrneQOR1DGOw+Knxxf21MJDNzACqm4nJgFocAyXO5+7u99ewqWMW2CBJuxhKfAmq7utg+r91/Jr2WjMpDW8Z/5UO7FRlMoJDzSjNqEH9+cTBZx3DKG+IkfA=;zIO149UtzfgWUK1x/iQt5g=="
 ---

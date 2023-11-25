@@ -168,20 +168,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Sam Altman will lead new Microsoft AI team. OpenAI board names interim CEO."
-    excerpt: "Sam Altman, the face of the artificial intelligence revolution, will not return as OpenAI chief executive despite talks to negotiate his reinstatement Sunday, two people familiar with the matter said,"
-    publishedDateTime: 2023-11-20T10:38:00Z
-    webUrl: "https://www.bostonglobe.com/2023/11/20/business/sam-altman-will-lead-new-microsoft-ai-team-openai-board-names-interim-ceo/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 54
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/9xznEgGQiGRrNX632mIy8cb_bQw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XT7V74J5EGDPEWCQTPATS5HLYQ.jpg"
-        width: 506
-        height: 338
-        isCached: true
   - title: "How Microsoft's hiring of OpenAI's Altman could reshape AI development"
     excerpt: "Following a dramatic departure of two key leaders from ChatGPT-maker OpenAI, Microsoft, a major investor in the startup, ended up a winner."
     publishedDateTime: 2023-11-21T14:49:00Z
@@ -289,9 +275,9 @@ related:
         height: 510
         isCached: true
   - title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-    excerpt: "Flywheel announces the launch of its SaaS data management solution on Microsoft Azure, integrated with NVIDIA MONAI."
-    publishedDateTime: 2023-11-22T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
+    excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
+    publishedDateTime: 2023-11-22T14:42:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
     type: article
     provider:
       name: Business Wire

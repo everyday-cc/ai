@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-21T14:48:00Z
 originalUrl: "https://www.geeky-gadgets.com/misconceptions-about-artificial-intelligence-ai/"
 webUrl: "https://www.geeky-gadgets.com/misconceptions-about-artificial-intelligence-ai/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Robotics
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/misconceptions-about-AI.jpg"

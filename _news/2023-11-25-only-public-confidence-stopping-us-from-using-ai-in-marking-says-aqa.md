@@ -73,20 +73,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "Morning Bid: Thanksgiving starters of AI and oil"
-    excerpt: "A key catalyst for some of the outsize Big Tech share gains this year, the craze around generative AI will also top the agenda as chip giant Nvidia reports earnings on Tuesday tha"
-    publishedDateTime: 2023-11-20T10:10:00Z
-    webUrl: "https://www.reuters.com/markets/us/global-markets-view-usa-2023-11-20/?ref=biztoc.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/OTonxUC0js-331bMFXUWQuFq1OE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2K5MG2S3UFJOHNIKLKWA57OI2Q.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Trying To Do More Real HPC In An Increasingly AI World"
     excerpt: "If you are in the traditional HPC community, it is not hard to be of two minds about the rise of AI and the mainstreaming of generative AI. At the very least, the GenAI tsunami makes it easier to argu"
     publishedDateTime: 2023-11-20T17:54:00Z
@@ -181,6 +167,22 @@ related:
         width: 724
         height: 482
         isCached: true
+  - title: "Mastering the art of differentiation: Vital competencies for thriving in the age of artificial intelligence"
+    excerpt: "In this age of AI, mastering these vital competencies not only propels your journey toward professional success but also equips you to unlock the transformative potential of AI, ensuring your prominence and prosperity in an increasingly automated world."
+    publishedDateTime: 2023-11-25T10:15:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 39
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/Untitled-design-2023-11-24T171540.538.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Navigating tomorrow -The rise of artificial intelligence in leadership"
     excerpt: "Mumbai: In an era marked by rapid technological advancements, the integration of artificial intelligence (AI) into various facets of our lives is becoming increasingly prevalent. One of the most intriguing and transformative areas where AI is making a significant impact is in the realm of leadership."
     publishedDateTime: 2023-11-21T02:53:00Z
@@ -242,6 +244,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "qD3pLajj5gSQ6sO3nSTk1edGfnUGzzyZzpQS5GokWAmz8M5sKurv7fYAcJcFrIWqhKHMVTSrtgQaqdKAUFPN3nsl6ulN5BduwYJD9ePb13PZeBcLrM53OEwYzS3lGfCz/EaZYtvexxeRqAJ8dDpJ1ZAY5V3t6egQdRFvNp1orpdq/e6xHt8CJ6mx9M745qmYDcqfaUaEg8ge4epk5uMGBGUv+toiHxVCt5Xf3A6VKUsXCnkRdiunLXDIQC8DzMHAMc1k4P0TOqjNtgEEM9hzWa+ICfldrioUdCEpZ1gF8aycgTD4vDFQlCqULMT5gclXFqVDpgySlMhFlV5ab6m0O0Cr5dW6C8w+MZA2KYGrMqo=;XcHiCwoT0z/+dk8mlHzQ7Q=="
+secured: "no8yuFPQzD9mXqASJVA5AJnKXgluPnwTyQzwB3VCuVDzKJTgezn9dkPZE9cOBvqk3UpdMtvfpAV2PuYfD/NcvUkyfcL5/GmKcCfIyqDAMrPUe4NJlZWOgiHBKQJTEQVIeh6tkgl7Q4YDzTwlLRbnRzIKIaMrYYGxsmCBckI3ToOPstkxQPgf+ljumA7z5Z14LKtogxBzu9oLw7XzGWJxRO7u9oM8z1dSne7I+68yji8pGegxmG9eJcpmWGMXT/PGTG8wTbzEZX8E8rgxbjNUfiGQBxv8frbfjXwUkiTVSK/mO/45E1PQgwnR/2Mx3Gk0d9gCimdmrny7wUBbNsiWYY5xHP3yHOqOkUvrUCcSXcd4H8iVK+399TA35UH56oZohEEpnvFjAw3g5iVI6280RqjPE4c38O+yUNq+Ow8yuWwAhGtUJdjR6vrPLAXQpRNdY3BsOwVirV8ZzXXljj/f3XRXdp201Kj7KVCNdDMSfmhWqSpm9mpWf0kLyyHpwSFDlx/OAo0509IiilcCH7e5dg==;f0tvkvVr4tnoxDXFURXhhg=="
 ---
 

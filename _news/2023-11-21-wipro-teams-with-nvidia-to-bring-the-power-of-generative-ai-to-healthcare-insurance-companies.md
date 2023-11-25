@@ -50,6 +50,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 48
+  - title: "Pakistan Pavilion at Singapore Fintech Festival showcases innovation, collaboration"
+    excerpt: "The annual Singapore Fintech Festival (SFF), a global congregation of fintech firms, witnessed a significant representation from"
+    publishedDateTime: 2023-11-20T17:51:00Z
+    webUrl: "https://www.app.com.pk/national/pakistan-pavilion-at-singapore-fintech-festival-showcases-innovation-collaboration/"
+    type: article
+    provider:
+      name: Associated Press of Pakistan
+      domain: app.com.pk
+    quality: 18
+    images:
+      - url: "https://www.app.com.pk/wp-content/uploads/2023/11/Singapore-Fintech-Festival.png"
+        width: 660
+        height: 330
+        isCached: true
   - title: "ConcertAI's TeraRecon, Integrates Clinical and Generative AI, Supporting Clinical Research and Advancing Clinical Care Solutions at #RSNA23"
     excerpt: "New solutions empower clinicians and research teams with AI orchestration, model development, visualization, and multi-modal data management to"
     publishedDateTime: 2023-11-20T17:09:00Z

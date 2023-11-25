@@ -62,6 +62,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Pakistan Pavilion at Singapore Fintech Festival showcases innovation, collaboration"
+    excerpt: "The annual Singapore Fintech Festival (SFF), a global congregation of fintech firms, witnessed a significant representation from"
+    publishedDateTime: 2023-11-20T17:51:00Z
+    webUrl: "https://www.app.com.pk/national/pakistan-pavilion-at-singapore-fintech-festival-showcases-innovation-collaboration/"
+    type: article
+    provider:
+      name: Associated Press of Pakistan
+      domain: app.com.pk
+    quality: 18
+    images:
+      - url: "https://www.app.com.pk/wp-content/uploads/2023/11/Singapore-Fintech-Festival.png"
+        width: 660
+        height: 330
+        isCached: true
 
 secured: "Bm1aa0ohigVdu3XbtsmbPNtjxHSLnb7Pp/4CzugI+XMjItKMe+IUpxG05MoJl4NQmBSetHcOsqjzvdHWiaKQanFQ+pDYhGWLLzHY01TEhi00lr8ykfucDYPVjTDte3fSONHxc0AuoiXsNpw4jR3Vwj32yKUFdgSlOz3cv0b92gou0loNgKw9f4z2OE55VvRVwPNvhloSXHm9DRibsdm2CkhobCj8qBvHyH27PBD8cY+V8KFoFklITpx6XgVQYpAzeo5NScaNZMm+yF8fpQl7Tytfwjsf8OWzqn0E9nm2U3KTx9FGrqUX/cS4ZRfP8eabXsYnWdTLJca+efeOQeaTaNAeZwwdywHom+I27D2kL28=;ehXLS2P5bJQUhgyPiSVksA=="
 ---

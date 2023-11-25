@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna126214"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna126214"
 type: article
 quality: 89
-heat: 639
+heat: 589
 published: true
 
 provider:
@@ -116,16 +116,16 @@ related:
         height: 630
         isCached: true
   - title: "The OpenAI meltdown will only accelerate the artificial intelligence race"
-    excerpt: "Instead, OpenAI was the center of a fierce philosophical debate about what it means to develop artificial general intelligence for the benefit of humanity. To understand the current debate and its ..."
-    publishedDateTime: 2023-11-23T00:18:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
+    excerpt: "Optimists and ‘doomers’ are fighting over the direction of AI research – and those who want speed may have won this round"
+    publishedDateTime: 2023-11-22T09:11:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 73
+    quality: 71
     images:
       - url: "https://i.guim.co.uk/img/media/d12a7c1f184baf181c112396b8fb18251adfef30/0_527_4772_2865/master/4772.jpg?width=620&quality=85&auto=format&fit=max&s=2b17ea177f30c94ed0803376811924be"
         width: 620
@@ -133,8 +133,8 @@ related:
         isCached: true
   - title: "The OpenAI meltdown will only accelerate the artificial intelligence race"
     excerpt: "Optimists and ‘doomers’ are fighting over the direction of AI research – and those who want speed may have won this round"
-    publishedDateTime: 2023-11-22T09:11:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration?ref=upstract.com"
+    publishedDateTime: 2023-11-22T16:37:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration?ref=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
     type: article
@@ -163,15 +163,6 @@ related:
         width: 4500
         height: 3001
         isCached: true
-  - title: "Sam Altman joins Microsoft to lead new artificial intelligence team following OpenAI firing"
-    excerpt: "Altman, one of the initial board members of OpenAI, was fired as CEO of the ChatGPT company on Friday. The decision came after a review by"
-    publishedDateTime: 2023-11-20T10:15:00Z
-    webUrl: "https://www.techspot.com/news/100901-sam-altman-joins-microsoft-lead-new-artificial-intelligence.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
   - title: "OpenAI’s board: From AI safety to mutiny | The AI Beat"
     excerpt: "In one head-spinning weekend, OpenAI's nonprofit board went from serious about AI safety to watching employees get ready to mount a mutiny."
     publishedDateTime: 2023-11-20T23:18:00Z
@@ -276,20 +267,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sam Altman lands new gig as CEO of Microsoft AI after shock axing from OpenAI"
-    excerpt: "Writing on LinkedIn, Microsoft CEO Satya Nadela revealed both Altman and Brockman would join the Windows maker. They will create a new division focused on advanced AI research and while he didn’t say this would directly compete with OpenAI, it is likely to work on similar ideas."
-    publishedDateTime: 2023-11-20T11:03:00Z
-    webUrl: "https://www.tomsguide.com/news/sam-altman-lands-new-gig-as-ceo-of-microsoft-ai-after-shock-axing-from-openai"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 51
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jF8ztHCbSVeXyHbgFJDFB5-1200-80.jpg"
-        width: 1200
-        height: 841
-        isCached: true
   - title: "Was OpenAI Brouhaha Aimed To Derail AI Capability To Complete Grade School Math?"
     excerpt: "It is being reported that a group of staff researchers at OpenAI conveyed their concerns to the board of directors"
     publishedDateTime: 2023-11-23T17:48:00Z
@@ -317,20 +294,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/execchaos.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Microsoft hires OpenAI founders to lead AI research team after ChatGPT maker's shakeup"
-    excerpt: "will be joining Microsoft to lead a new advanced AI research team.” Altman said “the mission continues,” in reply to Nadella on X. OpenAI said Friday that Altman was pushed out after a ..."
-    publishedDateTime: 2023-11-20T09:46:00Z
-    webUrl: "https://www.wral.com/story/microsoft-hires-openai-founders-to-lead-ai-research-team-after-chatgpt-makers-shakeup/21159171/"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 48
-    images:
-      - url: "https://wwwcache.wral.com/asset/business/2023/11/20/21159770/655bab59a2571-media_0e7e5ab51dbe4ef380dce65cf732e02e-DMID1-6100o8wyz-640x480.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Xbox Already Has Big AI Plans, Now It Has Sam Altman"
     excerpt: "Sam Altman beefing up Microsoft's AI division will likely end up having ramifications for Xbox itself down the line."
@@ -546,20 +509,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft hires OpenAI's Sam Altman, Greg Brockman, and other researchers to head new advanced AI research team"
-    excerpt: "Microsoft has hired Sam Altman, Greg Brockman, and other OpenAI researchers that left the startup in a dramatic series of events over Friday and the weekend."
-    publishedDateTime: 2023-11-20T09:55:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-hires-openais-sam-altman-greg-brockman-and-other-researchers-to-head-new-advanced-ai-research-team/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 34
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "OpenAI CEO Sam Altman Funds Longevity Startup With Goal To Increase Human Lifespan By 10 Years – Yahoo Finance"
     excerpt: "A startup firm backed by an artificial intelligence (AI) industry leader aims to expand human lifespan by 10 years.Sam Altman is the CEO of OpenAI, the"
     publishedDateTime: 2023-11-24T07:40:00Z
@@ -638,20 +587,6 @@ related:
       - url: "https://www.baltimoresun.com/resizer/RjK_7Wt4EkQqEOhfzWlFXWB7juw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/4PNFMUGA4SWEZ73JASYJCFYHGQ.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "OpenAI’s 34-year-old CTO Mira Murati was briefly at the center of the startup’s CEO chaos"
-    excerpt: "It's been, you could say, an eventful few days. Dominating the business news cycle is the ouster of CEO Sam Altman from OpenAI, the influential startup behind ChatGPT and the mainstreaming of generative AI. On Friday, the company's board fired Altman ..."
-    publishedDateTime: 2023-11-20T09:09:00Z
-    webUrl: "https://www.aol.com/finance/openai-34-old-cto-mira-140926169.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 28
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/rkOq2pfoGCWITF.MZTDYNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/87a7c740fcb9ed35d795008952f6b3f5"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Sam Altman to lead advanced AI research at Microsoft after surprise firing from OpenAI"
     excerpt: "Microsoft looks to gain big from the talent leaving OpenAI by having them lead a brand-new team to manage custom AI chips instead of relying on Nvidia tech."

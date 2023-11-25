@@ -457,7 +457,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/sam-altman-returns-openai-ceo-infighting-ai-startup-rcna126214",
       "featuredContent": null,
       "highlight": null,
-      "heat": 639,
+      "heat": 589,
       "tags": null,
       "images": [
         {
@@ -741,7 +741,7 @@
       "originalUrl": "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -772,7 +772,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -972,7 +973,7 @@
       "originalUrl": "https://www.techrepublic.com/article/azure-confidential-vms-public-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1122,7 +1123,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 361,
+      "heat": 351,
       "tags": null,
       "images": [
         {

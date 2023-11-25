@@ -57,7 +57,7 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/misconceptions-about-AI.jpg"
         width: 1158

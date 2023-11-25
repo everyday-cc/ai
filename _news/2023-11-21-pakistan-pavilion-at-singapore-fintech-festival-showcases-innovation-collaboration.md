@@ -25,59 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "What’s In Store For 2024? Innovations In B2C And B2B Fintech Solutions"
-    excerpt: "To excel in the dynamic fintech landscape of 2024, businesses must prioritize innovation and customer-centricity while embracing automation and adaptability."
-    publishedDateTime: 2023-11-20T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/"
+  - title: "SandboxAQ Announces AI Simulation Collaboration with NVIDIA to Impact the Physical World"
+    excerpt: "AI and Quantum Simulation (AQ) is Next Significant AI Advancement for Creating Novel Battery Chemistries, Pharmaceutical Drugs, Energy Generation, Construction Materials and More PALO ALTO, Calif., Nov."
+    publishedDateTime: 2023-11-20T13:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35873661"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35873661"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6557c6c8274bff58c483c9d0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1178
-        height: 785
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Accounting in 2024: Artificial intelligence, tech innovation and more"
-    excerpt: "How finance and accounting teams start 2024 will set the stage for defining the rest of the year and positioning for sustained success."
-    publishedDateTime: 2023-11-24T15:29:00Z
-    webUrl: "https://www.accountingtoday.com/opinion/accounting-in-2024-artificial-intelligence-tech-innovation-and-more"
+  - title: "Nvidia collaborates with Genentech to accelerate AI-driven drug discovery"
+    excerpt: "Nvidia said its offerings will accelerate the training and inference of generative models used in Genentech’s “lab in the loop” framework, where extensive experimental data is fed into models for iterative drug discovery."
+    publishedDateTime: 2023-11-21T19:27:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-collaborates-with-genentech-to-accelerate-ai-driven-drug-discovery/"
     type: article
     provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 48
+  - title: "Wipro Teams with NVIDIA to Bring the Power of Generative AI to Healthcare Insurance Companies"
+    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading technology services and consulting company, today announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI-driven strategies,"
+    publishedDateTime: 2023-11-21T13:04:00Z
+    webUrl: "https://www.itemonline.com/wipro-teams-with-nvidia-to-bring-the-power-of-generative-ai-to-healthcare-insurance-companies/article_1d55ebef-5e40-5a6d-b788-72e470c8cc78.html"
+    type: article
+    provider:
+      name: The Huntsville Item
+      domain: itemonline.com
+    quality: 43
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/7e65898/2147483647/strip/true/crop/510x268+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F37%2F50%2Fb80088a346279ccea103d26ea6e4%2Fp18iuaclvj1ndu17vs14u33dul7fa.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.cnhionline.com/ksherman/images/5879-RTJ-Summer-Packages-300x250.gif"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Irish association calls for national fintech centre"
-    excerpt: "A lobby group representing Ireland's financial services sector has called on the government to establish physical centre for fintech firms."
-    publishedDateTime: 2023-11-20T10:42:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43313/irish-association-calls-for-national-fintech-centre"
+  - title: "ConcertAI's TeraRecon, Integrates Clinical and Generative AI, Supporting Clinical Research and Advancing Clinical Care Solutions at #RSNA23"
+    excerpt: "New solutions empower clinicians and research teams with AI orchestration, model development, visualization, and multi-modal data management to"
+    publishedDateTime: 2023-11-20T17:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/concertai-s-terarecon-integrates-clinical-and-generative-ai-supporting-clinical-research-and-advancing-clinical-care-solutions-at-rsna23-1032836447"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5446new.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Fintech Solutions: Adyen for Platforms Integrates with TabSquare, a Delivery Hero Entity, to Improve CX"
-    excerpt: "Adyen, the global financial platform of choice for leading companies, announced the successful integration of Adyen for Platforms for TabSquare."
-    publishedDateTime: 2023-11-24T13:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/11/216724-fintech-solutions-adyen-for-platforms-integrates-with-tabsquare-a-delivery-hero-entity-to-improve-cx/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 15
 
 secured: "8TwKolXORKUu0RwLZOlqrisdmntvJrxIDO1BbLG2fA3NN0TC9E5h8Y7h/iT0M0miK+Mj0qUMR1LVDq1DwPMMBsmkyBdzYJPKYAnPPlDMEYpS9xepYYHJLLgcM1APa9+l2TI5p2nHr/SfS5zS+mkWx2iNs1jtSgUow07YraNvlaYLJTrNg67Vo+mp5CxNJ4Up2vhwJqTdMYDsB53V8HlrbLRAnfW2S/2nQ8pLDwX562vqozac1xXpQ1A7HknBI2lME/wdS+OfEH6k6YkpPfZohrsyt28bV0UCARLJ7pY5vWqJnHgX+lueEBz2swJyZ+tKta4cYGyiFDPOYGha4YkN3CfNe+1TSt/H2Bz+F4D6TKoFE4VZq4+5z4HXrjXDz+ICBLecOzpgurNIc+nG1Gdd0vaCIZMkt+ZkhCO/A0m0ncraLm2HBJV9bhcnJ6J/Ujm3Qnhr2yNid9AE2uWdZkhcBSkC35+KZeEo8aqgYdTdggBTC7oV7A5KBTi8ij2I2zSCI26QYNy/pBQPsk7SK2paQA==;12PqxBWm8bL7JPKyROLxLw=="
 ---

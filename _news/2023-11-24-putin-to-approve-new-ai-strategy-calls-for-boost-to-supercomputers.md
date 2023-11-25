@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/putin-approve-new-ai-strategy-c
 webUrl: "https://www.reuters.com/technology/putin-approve-new-ai-strategy-calls-boost-supercomputers-2023-11-24/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Putin to boost AI work in Russia to prevent Western monopoly"
+    excerpt: "MOSCOW (AP) -- Russian President Vladimir Putin on Friday announced a plan to endorse a national strategy for the development of artificial intelligence, emphasizing it's essential to prevent a Western monopoly."
+    publishedDateTime: 2023-11-25T10:00:00Z
+    webUrl: "https://www.newstribune.com/news/2023/nov/25/putin-to-boost-ai-work-in-russia-to-prevent/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205891590_205891590-066f71ebc2554bf3bc9e37f2c8f7a4c3_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Putin to boost AI work in Russia to fight a Western monopoly he says is ‘unacceptable and dangerous’"
     excerpt: "Russian President Vladimir Putin on Friday announced a plan to endorse a national strategy for the development of artificial intelligence, emphasizing that it’s essential to prevent a Western monopoly."
     publishedDateTime: 2023-11-24T22:50:00Z
