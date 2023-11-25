@@ -27,241 +27,330 @@ images:
     isCached: true
 
 related:
-  - title: "How Might Open.ai Outcomes Impact NVIDIA, AMD, Intel And Microsoft?"
-    excerpt: "NVIDIA has already increased the outlook for GPUs astronomically based on demand for Hopper and GraceHopper chips with associated CoSWoS capacity needed for HBM. NVIDIA wins if they can redirect a few tens of thousands to the new Microsoft AI Subsidiary (in Azure) without losing customers to AMD."
-    publishedDateTime: 2023-11-20T17:12:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/amp/"
+  - title: "Nvidia Q3 Earnings Explode On Surging Data Center AI And Gaming Demand"
+    excerpt: "There’s no stopping Nvidia from this level of growth for the foreseeable future. The company continues to execute like a finely tuned machine."
+    publishedDateTime: 2023-11-22T16:57:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 91
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655b9293a3cff1f243d07850/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1258
-        height: 778
-        isCached: true
-  - title: "Microsoft- An AI Powerhouse To Reckon With In The Future"
-    excerpt: "In doing so, Microsoft became an even greater force to reckon with Microsoft now could have less reason to lean on OpenAI for future AI breakthroughs and advanced"
-    publishedDateTime: 2023-11-21T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/"
-    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655be7de4854a016a0b983ac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds"
+        width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft will struggle to clean up ugly AI mess"
-    excerpt: "Microsoft boss Satya Nadella’s stressful weekend is probably only the beginning. The board overseeing artificial intelligence venture OpenAI abruptly ousted Chief Executive Sam Altman on Friday. After an unsuccessful attempt to broker his return,"
-    publishedDateTime: 2023-11-20T17:22:00Z
-    webUrl: "https://www.reuters.com/breakingviews/microsoft-will-struggle-clean-up-ugly-ai-mess-2023-11-20/"
+  - title: "Nvidia’s Q3 Earnings Explode On Surging Data Center AI And Gaming Demand"
+    excerpt: "There’s no stopping Nvidia from this level of growth for the foreseeable future. The company continues to execute like a finely tuned machine."
+    publishedDateTime: 2023-11-22T16:57:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 90
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Nvidia shares fall after China AI chip is delayed"
+    excerpt: "Citing two sources familiar with the matter, Reuters writes that the delayed chip is the H20, the most powerful of three AI-focused products Nvidia has developed"
+    publishedDateTime: 2023-11-24T17:17:00Z
+    webUrl: "https://www.techspot.com/news/100955-nvidia-shares-fall-after-new-china-focused-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-24-image-18.jpg"
+        width: 4686
+        height: 2661
+        isCached: true
+  - title: "Nvidia delays launch of new China-focused AI chip"
+    excerpt: "Nvidia delays H20 AI chip launch in China until Q1 2021 due to server integration issues; L20 launch still on schedule. U.S. export curbs create opportunity for rivals like Huawei to win orders that may have gone to Nvidia."
+    publishedDateTime: 2023-11-24T11:11:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/s7bnqg/article67569502.ece/alternates/FREE_1200/2023-11-24T052805Z_715528354_RC2KOZ9X1Q6Y_RTRMADP_3_NVIDIA-CHINA.JPG"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "NVIDIA delays the launch of new AI chips focused on China"
+    excerpt: "The delayed chip is the H20, the most powerful of three China-focused chips Nvidia has developed to comply with fresh US export restrictions, the sources said, and could complicate its efforts to preserve market share in China against local rivals like Huawei,"
+    publishedDateTime: 2023-11-24T09:49:00Z
+    webUrl: "https://www.cnbctv18.com/technology/nvidia-delays-the-launch-of-new-ai-chips-focused-on-china-18404991.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/nvidia-delays-the-launch-of-new-ai-chips-focused-on-china-18404991.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/nvidia-delays-the-launch-of-new-ai-chips-focused-on-china-18404991.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 74
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/11/nvidia-1-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
+  - title: "Nvidia delays launch of new AI chip in China amid US export rules"
+    excerpt: "Touted as the most potent among three China-targeted chips developed by Nvidia, the H20 faces a setback in its market debut. This delay may potentially impact Nvidia's competitive stance in China agai"
+    publishedDateTime: 2023-11-25T04:05:00Z
+    webUrl: "https://www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules-11700877282885.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules/amp-11700877282885.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules/amp-11700877282885.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/11/25/1600x900/NVIDIA-RESULTS-ETFS-0_1700881880436_1700881905113.JPG"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Nvidia delays launch of new China-focused AI chip"
+    excerpt: "The U.S. export curbs have created an opportunity for rivals such as Huawei to win orders that may have otherwise gone to Nvidia, whose graphics processing units (GPUs) dominate the AI market."
+    publishedDateTime: 2023-11-25T02:52:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/nvidia-delays-launch-of-new-china-focused-ai-chip-11809501.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/nvidia-delays-launch-of-new-china-focused-ai-chip-11809501.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/nvidia-delays-launch-of-new-china-focused-ai-chip-11809501.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/6-Nvidia-Corp.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Nvidia reports record Q3 results driven by surging demand for AI"
+    excerpt: "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more. Nvidia reported record revenue today for its third fiscal quarter of fiscal 2024 (ending October 31,"
+    publishedDateTime: 2023-11-21T22:53:00Z
+    webUrl: "https://venturebeat.com/gaming-business/nvidia-reports-record-q3-results-driven-by-surging-demand-for-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Nvidia-Grace-Hopper-Superchip.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Morning Bid: AI buzzes but market shrugs at Nvidia beat"
+    excerpt: "While many investors have been thrall to the AI boom all year, the 240% year-to-date surge in Nvidia (NVDA.O) has stolen the show as AI excitement sent demand for its high-end chips soaring. Remarkably, Nvidia managed to vault the sky-high bar for quarterly earnings, revenue and projections yet again in its latest update overnight."
+    publishedDateTime: 2023-11-22T10:01:00Z
+    webUrl: "https://www.reuters.com/markets/us/global-markets-view-usa-2023-11-22/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 84
+    quality: 67
     images:
-      - url: "https://www.reuters.com/resizer/0HejM6R-sFjiMdFq3gjoV0eovFw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GF4Z2BISTZKSLOYSMZJECCIIKA.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.reuters.com/resizer/olsenkQFIkM8i-kVq7lc2NN5NT4=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L42CT5JZ7VLKZDL3XOVLCAD3IE.jpg"
+        width: 800
+        height: 419
         isCached: true
-  - title: "AI silent war, is Nadella the Microsoft pied piper as OpenAI shakes"
-    excerpt: "Referred to as one of the most remarkable acqui-hires this year, Microsoft CEO Satya Nadella appears to have roped in some reputational credit for Microsoft."
-    publishedDateTime: 2023-11-22T06:25:00Z
-    webUrl: "https://memeburn.com/2023/11/ai-silent-war-is-nadella-the-microsoft-pied-piper-as-openai-shakes/"
-    ampWebUrl: "https://memeburn.com/2023/11/ai-silent-war-is-nadella-the-microsoft-pied-piper-as-openai-shakes/?amp=1"
-    cdnAmpWebUrl: "https://memeburn-com.cdn.ampproject.org/c/s/memeburn.com/2023/11/ai-silent-war-is-nadella-the-microsoft-pied-piper-as-openai-shakes/?amp=1"
+  - title: "Can AI Stalwart Nvidia Deliver Back-To-Back Hit Show? Q3 Earnings Preview"
+    excerpt: "thanks to robust sales of high-performance chips to cloud service providers and large consumer internet companies. The strong demand came on the back of the development of large language models and generative AI. Oppenheimer analyst Rick Schafer models 22% ..."
+    publishedDateTime: 2023-11-21T05:04:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35888525/can-ai-stalwart-nvidia-deliver-back-to-back-hit-show-q3-earnings-preview"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35888525"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35888525"
     type: article
     provider:
-      name: Memeburn
-      domain: memeburn.com
-    quality: 76
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
     images:
-      - url: "https://s5.cdn.memeburn.com/wp-content/uploads/2020/01/microsoft-edge-chromium-stock-1.jpg"
-        width: 1600
-        height: 900
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Nvidia_28.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
         isCached: true
-  - title: "Microsoft goes all-in on AI at Ignite"
-    excerpt: "Ignite conference took place last week, and AI was the star of this year's event. AI is the one technology Microsoft seems most excited"
-    publishedDateTime: 2023-11-21T08:36:00Z
-    webUrl: "https://stuff.co.za/2023/11/21/microsoft-goes-all-in-on-ai-at-ignite/"
-    ampWebUrl: "https://stuff.co.za/2023/11/21/microsoft-goes-all-in-on-ai-at-ignite/?amp=1"
-    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/11/21/microsoft-goes-all-in-on-ai-at-ignite/?amp=1"
+  - title: "Nvidia Triples Revenue As AI Chip Demand Stays Strong"
+    excerpt: "Nvidia tripled revenue in its third quarter from a year ago, a sign that demand for its AI chips and systems is still strong."
+    publishedDateTime: 2023-11-22T01:48:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-triples-revenue-as-ai-chip-demand-stays-strong"
     type: article
     provider:
-      name: stuff.co.za
-      domain: stuff.co.za
-    quality: 74
-    images:
-      - url: "https://stuff.co.za/wp-content/uploads/2023/11/AI-Ignite-23-Header.jpg"
-        width: 1023
-        height: 695
-        isCached: true
-  - title: "Fired OpenAI CEO Sam Altman joins Microsoft as AI research lead"
-    excerpt: "Sam Altman has been hired by Microsoft to lead its AI research after being fired by OpenAI. The former CEO and board members of the ChatGPT firm was let go last week following a review by the board of directors."
-    publishedDateTime: 2023-11-21T17:45:00Z
-    webUrl: "https://rollingout.com/2023/11/21/ai-ceo-sam-altman-joins-microsoft/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 56
-    images:
-      - url: "https://rollingout.com/wp-content/uploads/2023/11/1679322765cropped3080x2002.jpg"
-        width: 1000
-        height: 650
-        isCached: true
-  - title: "How Microsoft's hiring of OpenAI's Altman could reshape AI development"
-    excerpt: "Following a dramatic departure of two key leaders from ChatGPT-maker OpenAI, Microsoft, a major investor in the startup, ended up a winner."
-    publishedDateTime: 2023-11-21T14:49:00Z
-    webUrl: "https://www.securityinfowatch.com/industry-news/news/53078830/how-microsofts-hiring-of-openais-altman-could-reshape-ai-development"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
+      name: CRN
+      domain: crn.com
     quality: 54
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/11/655cbe74654e4c001d57cb5a-gettyimages1483272785.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://www.crn.com/resources/0284-18d84313338b-88a6346e8803-1000/nvidia-2.jpeg"
+        width: 1500
+        height: 1128
         isCached: true
-  - title: "The OpenAI Saga Continues, Microsoft’s New Chips, Microsoft’s AI Platform Hedge"
-    excerpt: "More updates on the OpenAI saga, including the problematic board. Then, Microsoft unveils new chips, and is creating an AI platform that looks a lot like Microsoft’s other platforms."
-    publishedDateTime: 2023-11-21T14:25:00Z
-    webUrl: "https://stratechery.com/2023/the-openai-saga-continues-microsofts-new-chips-microsofts-ai-platform-hedge/"
+  - title: "Nvidia delays AI chip designed for China: ‘Nvidia has demand without China’"
+    excerpt: "Nvidia delays an AI chip it specifically designed for China. Wedbush analyst Bryson says Nvidia has demand without China."
+    publishedDateTime: 2023-11-24T14:52:00Z
+    webUrl: "https://invezz.com/news/2023/11/24/nvidia-delays-ai-chip-designed-for-china/"
     type: article
     provider:
-      name: Stratechery
-      domain: stratechery.com
-    quality: 47
-  - title: "Schneider Electric Drives Generative AI Productivity And Sustainability Solutions By Integrating Microsoft Azure Openai"
-    excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of work"
-    publishedDateTime: 2023-11-21T08:29:00Z
-    webUrl: "https://menafn.com/1107462801/Schneider-Electric-Drives-Generative-AI-Productivity-And-Sustainability-Solutions-By-Integrating-Microsoft-Azure-Openai"
+      name: Invezz
+      domain: invezz.com
+    quality: 52
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/02/161973057-m1-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Genentech, NVIDIA Enter Into Strategic AI Research Collaboration"
+    excerpt: "Tuesday announced a multi-year strategic research collaboration with NVIDIA that couples Genentech's artificial intelligence (AI) capabilities, extensive biological and molecular datasets, and research expertise with NVIDIA's world-leading accelerated computing capabilities and AI to speed up drug discovery and development."
+    publishedDateTime: 2023-11-21T16:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/genentech-nvidia-enter-into-strategic-ai-research-collaboration-1032840044"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Wipro To Bring Generative AI To Healthcare Insurance Companies Using NVIDIA AI Enterprise"
+    excerpt: "Wipro announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI"
+    publishedDateTime: 2023-11-24T10:43:00Z
+    webUrl: "https://www.indianweb2.com/2023/11/wipro-to-bring-generative-ai-to.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
     quality: 45
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?373546"
-        width: 375
-        height: 250
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG2FYxGdd4iyCv3Ind4m3LSaPOA8yDjaypLKRtn_DVLR6oxoUm_u72jA_sZc5l_pq0KGji5-fZopwzH-HFRC0vG8rKvDuXicK2V6lRNv2c9dFE8D_RO5vNLCP4n-er_PbCMo5TDChOaB_Qebkq_RqyGYh13RQ6k-f9zvA35b0OtvcF0eTHA-xizi3JNMM/s16000/20231124_161022_0000.png"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Sam Altman, ex OpenAI founder and CEO now at Microsoft to run new advanced AI intelligence team"
-    excerpt: "Microsoft has hired Sam Altman, where he will lead a new advanced artificial intelligence team, after OpenAI terminated him, then tried to rehire him."
-    publishedDateTime: 2023-11-20T23:56:00Z
-    webUrl: "https://www.tweaktown.com/news/94458/sam-altman-ex-openai-founder-and-ceo-now-at-microsoft-to-run-new-advanced-ai-intelligence-team/index.html"
+  - title: "Unleashing the Power of Artificial Intelligence and Machine Learning in Financial Decision-Making"
+    excerpt: "Introduction Traditional decision-making processes are being revolutionized by the integration of cutting-edge technologies. Artificial Intelligence (AI) and Machine Learning (ML) have emerged as formidable tools,"
+    publishedDateTime: 2023-11-21T05:13:00Z
+    webUrl: "https://techbullion.com/unleashing-the-power-of-artificial-intelligence-and-machine-learning-in-financial-decision-making/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 44
+      name: Impacts
+      domain: techbullion.com
+    quality: 43
     images:
-      - url: "https://static.tweaktown.com/news/9/4/94458_904_sam-altman-ex-openai-founder-and-ceo-now-at-microsoft_full.jpg"
-        width: 1500
-        height: 843
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Unleashing-the-Power-of-Artificial-Intelligence-and-Machine-Learning-in-Financial-Decision-Making-1.png"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Microsoft Girds to Dominate Cloud-Based AI Services"
-    excerpt: "Launching its own server CPUs and AI chips to fortify the Azure cloud, Microsoft takes shots at all their potential competitors while offering more options to their"
-    publishedDateTime: 2023-11-22T14:18:00Z
-    webUrl: "https://www.datacenterfrontier.com/cloud/article/33015357/microsoft-girds-to-dominate-cloud-based-ai-services"
+  - title: "Nvidia Revenue Rockets On Demand For Powerful Chips"
+    excerpt: "Nvidia on Tuesday reported that its revenue more than tripled in the recently ended quarter as companies snapped up chips to power artificial intelligence (AI)."
+    publishedDateTime: 2023-11-22T07:00:00Z
+    webUrl: "https://www.latintimes.com/nvidia-revenue-rockets-demand-powerful-chips-549085"
     type: article
     provider:
-      name: datacenterfrontier.com
-      domain: datacenterfrontier.com
-    quality: 36
-  - title: "Eviden and Microsoft Collaborate to Help Customers Take Advantage of the Microsoft Cloud and Generative AI"
-    excerpt: "Eviden, the Atos Group business leading in digital, cloud, big data, and security, is collaborating with Microsoft to help"
-    publishedDateTime: 2023-11-22T19:30:00Z
-    webUrl: "https://www.datanami.com/this-just-in/eviden-and-microsoft-collaborate-to-help-customers-take-advantage-of-the-microsoft-cloud-and-generative-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 36
+      name: Latin Times
+      domain: latintimes.com
+    quality: 39
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/11/eviden-microsoft-300x300.png"
-        width: 300
-        height: 300
+      - url: "https://d.latintimes.com/en/full/547992/nvidia.jpg"
+        width: 768
+        height: 530
         isCached: true
-  - title: "8 AI Projects Microsoft Open-Sourced in 2023"
-    excerpt: "Microsoft did its bit by releasing several AI and machine learning models, projects and libraries all round the year."
-    publishedDateTime: 2023-11-21T13:00:00Z
-    webUrl: "https://analyticsindiamag.com/8-ai-projects-microsoft-open-sourced-in-2023/"
+  - title: "How is artificial intelligence impacting data center design?"
+    excerpt: "As AI is reshaping how we interact with machines and the world around us, the design of data centers needs to adapt to this fast-changing landscape. So, Page pairs expert thinking with high-performing solutions to meet the needs of rapidly advancing technologies."
+    publishedDateTime: 2023-11-22T23:30:00Z
+    webUrl: "https://www.bdcnetwork.com/blog/how-artificial-intelligence-impacting-data-center-design"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
-  - title: "OpenAI, Microsoft hit with new author copyright lawsuit over AI training"
-    excerpt: "OpenAI and Microsoft were sued on Tuesday over claims that they misused the work of nonfiction authors to train the artificial intelligence models that underlie services like OpenAI's chatbot ChatGPT."
-    publishedDateTime: 2023-11-21T22:53:00Z
-    webUrl: "https://www.aol.com/openai-microsoft-hit-author-copyright-205330946.html?ref=biztoc.com"
+      name: Bdcnetwork.com
+      domain: bdcnetwork.com
+    quality: 39
+    images:
+      - url: "https://www.bdcnetwork.com/sites/default/files/109024_N2_jpg.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "AI Leader Dipping From Record Highs Before Earnings"
+    excerpt: "This is shaping up to be a big report for the company given its lead in the artificial intelligence (AI) space. During yesterday's trading ... There's no set up required either. If you start buying the dividend stocks I show you today..."
+    publishedDateTime: 2023-11-21T18:42:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/analysis/2023/11/21/ai-leader-dipping-from-record-highs-before-earnings"
+    type: article
+    provider:
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 37
+    images:
+      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/logos/bigstock-san-francisco-ca-june-----250312549.jpg?sfvrsn=dcebda06_6"
+        width: 1400
+        height: 1050
+        isCached: true
+  - title: "Wipro and NVIDIA Collaborate to Advance Gen AI in Healthcare"
+    excerpt: "Wipro Limited, a technology services and consulting company, has announced a collaboration with NVIDIA to accelerate the adoption of generative"
+    publishedDateTime: 2023-11-22T04:50:00Z
+    webUrl: "https://www.dqindia.com/wipro-and-nvidia-collaborate-to-advance-gen-ai-in-healthcare/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 36
+  - title: "Nvidia’s Record Performance and Leadership in AI Drive Buy Rating and Optimistic Growth Forecast"
+    excerpt: "Analyst Cody Acree of Benchmark Co. reiterated a Buy rating on Nvidia (NVDA – Research Report), with a price target of ... The rapid adoption of Generative AI and Large Language Models by major consumer internet companies and cloud service providers ..."
+    publishedDateTime: 2023-11-23T02:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-record-performance-and-leadership-in-ai-drive-buy-rating-and-optimistic-growth-forecast-1032844290"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+  - title: "NVIDIA Crushes Earnings On Monster AI Chip Demand And Big Gains In Gaming"
+    excerpt: "NVIDIA has found its golden goose in AI chip design, which contributed heavily to another massive spike in revenue during the company's third quarter of fiscal 2024—it tripled year-over-year to $18.12 billion."
+    publishedDateTime: 2023-11-22T13:30:00Z
+    webUrl: "https://hothardware.com/news/nvidia-crushes-earnings-ai-chip-demand-gains-gaming"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 33
+  - title: "These artificial intelligence (AI) stocks are better buys than Nvidia"
+    excerpt: "While Nvidia has been one of the best investments in 2023, there are better options going into the new year. Investors interested in AI might be better off now buying stocks in companies that are at earlier stages in their AI expansions and have more room for growth over the long term."
+    publishedDateTime: 2023-11-24T10:27:00Z
+    webUrl: "https://www.azcentral.com/story/money/2023/11/24/nvidia-or-artificial-intelligence-ai-stocks-to-buy/71664718007/"
+    type: article
+    provider:
+      name: AZ Central
+      domain: azcentral.com
+    quality: 32
+  - title: "Chips Stocks Fall Ahead of Nvidia Earnings"
+    excerpt: "Semiconductor stocks were falling on Tuesday ahead of the latest earnings report from graphics card titan Nvidia. Nvidia shares were down 1.4% to $497.26. The iShares Semiconductor ETF was down 2%. Nvidia stock is up 240% in 2023."
+    publishedDateTime: 2023-11-21T18:01:00Z
+    webUrl: "https://www.barrons.com/livecoverage/stock-market-today-112123/card/chips-stocks-fall-ahead-of-nvidia-earnings-AqB5quRHJ1W1rTiUkjBm"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
+  - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
+    excerpt: "An exchange-traded fund tracking artificial intelligence stocks saw investors pouring money after six straight weeks of outflows, on the backdrop of strong quarterly results by chipmaker Nvidia and rising optimism that U."
+    publishedDateTime: 2023-11-24T15:11:00Z
+    webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html?ref=biztoc.com"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 33
-  - title: "Flywheel and Microsoft collaborate to unlock powerful data insights in medical imaging"
-    excerpt: "Healthcare breakthroughs have long-standing barriers when it comes to unlocking the powerful insights trapped in medical imaging data."
-    publishedDateTime: 2023-11-23T16:58:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2023/11/23/flywheel-and-microsoft-collaborate-to-unlock-powerful-data"
+    quality: 19
+  - title: "Nvidia earnings in focus as AI hype translates to profit surge, record stock price"
+    excerpt: "Nvidia is expected to report Q3 sales nearly tripled amid as demand for AI-related chips surged. But new limits on exports to China could blunt its forecasts."
+    publishedDateTime: 2023-11-21T15:29:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-earnings-in-focus-as-ai-hype-translates-to-record-highs-profit-surge"
     type: article
     provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 31
-    images:
-      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/publications/pharmaceutical-science/outsourcing-pharma.com/article/2023/11/23/flywheel-and-microsoft-collaborate-to-unlock-powerful-data/16962507-2-eng-GB/Flywheel-and-Microsoft-collaborate-to-unlock-powerful-data.jpg"
-        width: 725
-        height: 510
-        isCached: true
-  - title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-    excerpt: "Flywheel announces the launch of its SaaS data management solution on Microsoft Azure, integrated with NVIDIA MONAI."
-    publishedDateTime: 2023-11-22T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 29
-  - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
-    excerpt: "KKCompany is announcing its participation in the Microsoft startup initiative, \"Highway to 100 Unicorns,\" a startup accelerator program aimed to support startup innovation and strengthen the startup ecosystem in the Asia region."
-    publishedDateTime: 2023-11-21T06:20:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20231121000581"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 27
-    images:
-      - url: "https://images.koreaherald.com/koreaherald/version03/www/images/share.jpg"
-        width: 1600
-        height: 800
-        isCached: true
-  - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
-    excerpt: "We offer our self-developed products and services to both individual users and enterprise customers across Asia, under the brands KKBOX, BlendVision, and Going Cloud. The Company has also earned third-party international certifications including OpenChain ISO/IEC 5230 and ISO 27001."
-    publishedDateTime: 2023-11-22T01:43:00Z
-    webUrl: "https://www.digitimes.com/biz/news.asp?feed=3601"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 27
-    images:
-      - url: "https://img.digitimes.com/ad/en_20231113_asasemiconductor_bigbutton.jpg"
-        width: 336
-        height: 280
-        isCached: true
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 11
 
 secured: "QaHc+Yr51ND9zNMMmzCpqbmQ+g5H1AvzjqO2+i1WEoZ4KwUQQcc/mcowzoMZ19BJCOuUhrgWippSHIoKNisD1srFElTS9mmS0CXWYZFiRbCusPTj+/jpr1DSpAE9yD6CCQ8SH+1RTNhhrnyoAnwACwYxVlfZOIcCD245bTKwirtpzCS/pQyrVWNuIxQP5c57+ytzp4XTmt7h6dg3OlVUxL+awkwW0b6sPr8r8xQMjCQT+1DFu+1WJTb5Jcz/dtWSwlsKBLiT1YneEQKjlliqs4ymSUUbksTfMuMHWiAPbGhnfw12AWpmNE0G8N9LgWqJMRU9OcLMRvmKR1Io2HWtFn4oxKw3MbHKB4Z7CKaZMiQ=;YKTvMWL+gSjj1k1/Jgv8CQ=="
 ---

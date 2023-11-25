@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-23-guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say.md",
+      "title": "Guardrails needed for police use of facial recognition software in Massachusetts, advocates say",
+      "excerpt": "Police would need a warrant to use facial recognition software while investigating serious crimes and state police would be tasked with centralizing all law enforcement searches under legislation supporters argue reduces bias and puts guardrails on the use ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/",
+      "originalUrl": "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2019/09/AP_19127788378584.jpg?w=1024&h=671",
+          "width": 1024,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/amp/",
+      "publishedDateTime": "2023-11-23T11:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc.md",
+      "title": "Intel Talks Expansion, Meteor Lake And The Importance Of AI On The PC.",
+      "excerpt": "Intel's new Fab 34 manufacturing facility in Ireland is where its Meteor Lake next generation processors will be made. The facility is hugely important",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/",
+      "originalUrl": "https://www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655f3639923dbc4e3c593114/0x0.jpg?format=jpg&crop=2337,1316,x75,y335,safe&height=900&width=1600&fit=bounds",
+          "width": 1598,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/amp/",
+      "publishedDateTime": "2023-11-23T11:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-his-team-created-a-robotic-arm-that-helps-kill-cancer-using-artificial-intelligence.md",
+      "title": "His team created a robotic arm that helps kill cancer using artificial intelligence",
+      "excerpt": "The robotic arm will allow doctors to more accurately monitor the progress of high-intensity focused ultrasound treatment as it is happening.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/news/canada/kitchener-waterloo/hifu-non-invasive-cancer-treatment-artificial-intelligence-robot-university-of-waterlo-1.7036627",
+      "originalUrl": "https://www.cbc.ca/news/canada/kitchener-waterloo/hifu-non-invasive-cancer-treatment-artificial-intelligence-robot-university-of-waterlo-1.7036627",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.7036750.1700688000!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/moslem-sadeghi-goughari.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.7036627",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.7036627",
+      "publishedDateTime": "2023-11-23T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-the-top-7-media-people-in-ai.md",
       "title": "The top 7 media people in AI",
       "excerpt": "Joy Buolamwini, Algorithmic Justice League Dr. Buolamwini's research found that major tech companies' AI-driven facial recognition tools ... largely due to information they saw on sites like Facebook, Carlton was inspired to study technology and society.",
@@ -105,7 +244,7 @@
       "originalUrl": "https://www.forbes.com/sites/debgordon/2023/11/22/will-ai-improve-healthcare-consumers-think-so-new-surveys-show/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -720,7 +859,7 @@
       "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 331,
+      "heat": 341,
       "tags": null,
       "images": [
         {
@@ -1090,137 +1229,6 @@
         "AI",
         "AWS AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium.md",
-      "title": "How Amazon Search M5 saved 30% for LLM training cost by using AWS Trainium",
-      "excerpt": "For decades, Amazon has pioneered and innovated machine learning (ML), bringing delightful experiences to its customers. From the earliest days, Amazon has used ML for various use cases such as book recommendations, search, and fraud detection. Similar to the rest of the industry, the advancements of",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T14:23:46Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked.md",
-      "title": "As Sales Triple, Why AI-Chip Maker Nvidia’s Stock May Have Peaked",
-      "excerpt": "Demand for Nvidia’s graphics processing units has been exceeding supply, thanks to the rise of generative artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T13:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-amd-extends-pytorch-support-to-radeon-rx-7900-xt-gpus-for-ai-developers.md",
-      "title": "AMD extends PyTorch Support to Radeon RX 7900 XT GPUs for AI developers",
-      "excerpt": "Chip-maker AMD on Wednesday extended PyTorch (a machine learning framework) and ROCm (open software platform) support to Radeon RX 7900 XT GPUs to bring even more options for artificial intelligence (AI) developers and researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=1142443",
-      "originalUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=1142443",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/whatsapp_channel_icon.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T12:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daijiworld",
-        "domain": "daijiworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

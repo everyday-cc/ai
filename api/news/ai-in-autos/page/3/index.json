@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-07-artificial-intelligence-and-us-nuclear-weapons-decisions-how-big-a-role.md",
+      "title": "Artificial intelligence and US nuclear weapons decisions: How big a role?",
+      "excerpt": "But the seeds of change are already present. \"Artificial intelligence is extremely powerful,\" Gen. Mark Milley, retired chairman of the Joint Chiefs of Staff, told \"60 Minutes\" on Oct. 8.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/artificial-intelligence-us-nuclear-weapons-decisions-how-big-role",
+      "originalUrl": "https://www.foxnews.com/opinion/artificial-intelligence-us-nuclear-weapons-decisions-how-big-role",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-britain-says-makers-not-car-owners-liable-for-self-driving-crashes.md",
+      "title": "Britain Says Makers, Not Car Owners Liable for Self-Driving Crashes",
+      "excerpt": "Britain Says Makers, Not Car Owners Liable for Self-Driving Crashes By Alistair Smout and Nick Carey LONDON (Reuters) -Britain will make the makers rather than the owners of self-driving cars ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2023-11-07/britain-says-self-driving-car-makers-liable-for-incidents-in-new-framework",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-11-07/britain-says-self-driving-car-makers-liable-for-incidents-in-new-framework",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T06:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-the-uks-automated-vehicles-bill-what-you-need-to-know.md",
       "title": "The UK's Automated Vehicles Bill: what you need to know",
       "excerpt": "It will set out the legal framework for self-driving cars and it is becoming clear that car makers, not owners, will shoulder the legal responsibility for any crashes in the UK involving ...",
@@ -1165,83 +1251,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-dgist-develops-an-artificial-intelligence-model-for-effectively-removing-biases-in-a-dataset.md",
-      "title": "DGIST develops an artificial intelligence model for effectively removing biases in a dataset",
-      "excerpt": "The developed image translation model can yield accurate classification results despite the use of biased data for the training of a deep learning model. - This solution is expected to be applied in various fields,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1006416",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1006416",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-robocabs-waymo-is-winning-the-fight-its-flight-for-cruise.md",
-      "title": "Robocabs: Waymo is winning the fight; it’s flight for Cruise",
-      "excerpt": "First, a short update on Cruise. After the GM brand reportedly lost its self-driving license in California this week, it suspended all autonomous car activities in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.electrive.com/2023/10/27/robocabs-waymo-is-winning-the-fight-while-its-flight-for-cruise/",
-      "originalUrl": "https://www.electrive.com/2023/10/27/robocabs-waymo-is-winning-the-fight-while-its-flight-for-cruise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.electrive.com/2018/03/jaguar-i-pace-waymo-autonomous-car-autonomes-fahren.png",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-28T01:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electrive",
-        "domain": "electrive.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

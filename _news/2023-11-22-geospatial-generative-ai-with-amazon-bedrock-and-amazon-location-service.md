@@ -51,22 +51,6 @@ related:
         width: 1400
         height: 788
         isCached: true
-  - title: "Creativity in the age of generative AI: A new era of creative partnerships"
-    excerpt: "Recent advancements in generative artificial intelligence (AI) have showcased its potential in a wide range of creative activities such as producing works of art, composing symphonies, and even drafting legal texts,"
-    publishedDateTime: 2023-11-20T18:13:00Z
-    webUrl: "https://techxplore.com/news/2023-11-creativity-age-generative-ai-era.html"
-    ampWebUrl: "https://techxplore.com/news/2023-11-creativity-age-generative-ai-era.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-creativity-age-generative-ai-era.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/creativity.jpg"
-        width: 1920
-        height: 1462
-        isCached: true
 
 secured: "QAL3zqMERBNU1YURgxihy9sIYIZzzow0iqe3W392iNxRC3VCoWNXn8/2KYdo5kpj7a64S1V7nFzzpx46OE0S+f8Wa1LIWt/piMXP7ZkTM3Oz/JBZevWUqWxRw62q4rCAe2n8Vi1MUAoTk98lU7OVut2Xxn8vmpmnG/oRzM105BrIW/E5gfbNeWK6ZMoUAzktIB4Q+/dlGkCtXsItHqgBjBhBI77fBSznsbmE36ZeXTxuLBFi5H9SpTh4QfzF/wWpExb3Yd5XAzp7/7IBkuWhmdZUMYdB6LQQ5cnsHFh3g4oT3wG/ua5OYqed82M6caPZW4nEsAI4xrFqnSZ7lJRYH4jlg20rY9U/2de9l7T1vlY=;M2wfeIynEmtiFqP5tLT57Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/coffee-briefing-nov-21-microso
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/coffee-briefing-nov-21-microsoft-ignite-updates-canadians-want-more-ai-training-salvagedata-expands-to-canada-and-more/553039?amp=1"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "Informatica deploys Microsoft Azure pod in Canada"
-    excerpt: "Informatica says IDMC improves analytics and AI workloads on Azure by ensuring data is high quality and trustworthy. Customers can now access IDMC as an Azure Native Service purchased through the Azure Marketplace. Informatica has customers in more than ..."
-    publishedDateTime: 2023-11-24T09:53:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/informatica-deploys-microsoft-azure-pod-in-canada/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/1637699511013.2e16d0ba.fill-1200x630.jpg"
-        width: 450
-        height: 237
-        isCached: true
 
 secured: "Plet4EaFDyaSFlv0z8JpMTU9+sW38B60/P3FZ0GaLzf4p/OdtrU3txG6fbJL1Iusvt/NXiKex8tbGx6s6/4U+r6WAy3+75QHgC4Qo7I9+bmBqUyx+0V+dhnHTpxslT/sxEpcg4gN9nDa/bYCjTiCvyeEatIZZxwLQFGLrdMKsg6fK3LsCu2bDGIKH1ZZ8bb+KvTzdWdQ3i78nS2erpDPuUuzDtmjFs+Y85GSPGEME9acseIeYxoKz7tY6P6MwAa8nkkoQmkBb+ATN9spQuAs0X9hgaNeWrOa+NpX7tvRTXfNj94NjGZPmXaLSwMN+tJPyn4tk2I47lmqV1UWP/Mix33C+R1N/oL/CY3gr3B0OqE=;N4jWFuAK7ewjoS9L0pSTiA=="
 ---

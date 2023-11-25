@@ -2,6 +2,161 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-11-09-us-patent-law-hinders-life-saving-cancer-therapy-development.md",
+      "title": "US Patent Law Hinders Life-Saving Cancer Therapy Development",
+      "excerpt": "New York Law School’s Shahrokh Falati says US patent laws are limiting advancement of life-saving cancer therapies, and that Congress should abolish Supreme Court-created exceptions to written law.",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/us-law-week/us-patent-law-hinders-life-saving-cancer-therapy-development",
+      "originalUrl": "https://news.bloomberglaw.com/us-law-week/us-patent-law-hinders-life-saving-cancer-therapy-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T09:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.bloomberglaw",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-medcerts-combines-conversational-ai-generative-ai-and-natural-language-processing-for-a-revolutionary-new-ai-addition-to-online-healthcare.md",
+      "title": "MedCerts Combines Conversational AI, Generative AI, and Natural Language Processing For a Revolutionary New AI Addition To Online Healthcare Training",
+      "excerpt": "By combining Conversational AI, Generative AI, and Natural Language Processing (NLP), MedCerts gives learners realistic patient scenarios that are customized in each and every interaction without duplication within an End-to-End (E2E) platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231109758687/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231109758687/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-smart-disruption-china-will-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry.md",
+      "title": "Smart disruption? China will mass-produce AI-powered humanoid robots by 2025 to unsettle industry",
+      "excerpt": "China hopes to disrupt industries and how factories function just like how smartphones disrupted human interaction. For that, they are planning to start manufacturing AI powered humanoid robots en mas",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html",
+      "originalUrl": "https://www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/11/Mindless-disruption-China-to-mass-produce-AI-powered-humanoid-robots-by-2025-.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/china-to-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry-13368592.html/amp",
+      "publishedDateTime": "2023-11-09T08:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief.md",
+      "title": "India, Japan can team up in chips, rare-earth & AI, says RBI chief",
+      "excerpt": "There are many collaboration opportunities between India and Japan in semiconductors and resilient supply chains, rare-earths extraction, space technology, artificial intelligence, quantum computing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
+      "originalUrl": "https://www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.orissapost.com/wp-content/uploads/2022/06/Shaktikanta-Das-scaled.jpg",
+          "width": 2560,
+          "height": 1523,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
+      "cdnAmpWebUrl": "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/india-japan-can-team-up-in-chips-rare-earth-ai-says-rbi-chief/",
+      "publishedDateTime": "2023-11-09T07:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "orissapost",
+        "domain": "orissapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience.md",
       "title": "Data security firm Rubrik launches ‘Ruby’ genAI companion to improve cyber resilience",
       "excerpt": "The company will leverage Microsoft’s Azure OpenAI, in combination with its machine learning-driven Data Threat Engine, to help discover, investigate, remediate, and report on cyber incidents. Ruby helps customers of all levels of cyber expertise through ...",
@@ -929,204 +1084,6 @@
         "AWS AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws.md",
-      "title": "Build a medical imaging AI inference pipeline with MONAI Deploy on AWS",
-      "excerpt": "In this post, we show you how to create a MAP connector to AWS HealthImaging, which is reusable in applications built with the MONAI Deploy App SDK, to integrate with and accelerate image data retrieval from a cloud-native DICOM store to medical imaging AI workloads. The MONAI Deploy SDK can be used",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/02/monaideploy_arch-1260x571.png",
-          "width": 1260,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T18:47:42Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-the-us-and-30-other-nations-agree-to-set-guardrails-for-military-ai.md",
-      "title": "The US and 30 Other Nations Agree to Set Guardrails for Military AI",
-      "excerpt": "When politicians, tech executives, and researchers gathered in the UK last week to discuss the risks of artificial intelligence ... Lauren Kahn, a senior research analyst at the Center for Security and Emerging Technology (CSET) at Georgetown University ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/the-us-and-30-other-nations-agree-to-set-guardrails-for-military-ai/",
-      "originalUrl": "https://www.wired.com/story/the-us-and-30-other-nations-agree-to-set-guardrails-for-military-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/654ae8c1428f34179e6b33c2/191:100/w_1280,c_limit/Military-AI-Guardrails-Business-1757360709.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T18:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-who-offers-recommendations-for-ai-guidelines-in-healthcare.md",
-      "title": "WHO Offers Recommendations for AI Guidelines in Healthcare",
-      "excerpt": "Experts emphasize the importance of training AI systems on reliable data and of checking the systems’ safety and efficacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/998216",
-      "originalUrl": "https://www.medscape.com/viewarticle/998216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/gty_231108_ai_guidelines_medical_800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T18:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part.md",
-      "title": "Humane may be launching a $699 AI-powered projector to replace your phone. That's not the craziest part",
-      "excerpt": "The secretive startup, founded by former Apple employees and backed by OpenAI's CEO and Microsoft, is launching its AI Pin wearable tomorrow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "originalUrl": "https://www.zdnet.com/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/87cbc24ba40159165e2246bfb590a298b9f944f1/2023/07/03/1cc88643-728b-4a3e-8d11-206baab84df0/fz6bjtfaqaaivgz.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/humane-may-be-launching-a-699-ai-powered-projector-to-replace-your-phone-thats-not-the-craziest-part/",
-      "publishedDateTime": "2023-11-08T18:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

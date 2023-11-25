@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cruise’s C.E.O. Quits as the Driverless Carmaker Aims to Rebuild Trust"
-    excerpt: "Kyle Vogt, a founder of Cruise, resigned from the company on Sunday, weeks after it suspended all of its self-driving operations. By Yiwen Lu and Tripp Mickle Reporting from San Francisco Kyle ..."
-    publishedDateTime: 2023-11-20T17:19:00Z
-    webUrl: "https://www.nytimes.com/2023/11/19/technology/cruise-ceo-kyle-vogt-quits.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 84
-    images:
-      - url: "https://static01.nyt.com/images/2023/11/21/us/19ALTcruise-ceo-print/19cruise-ceo-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "GM’s driverless ride heads into a ditch"
     excerpt: "For a while, General Motors' bet on robo-taxi startup Cruise held the promise of creating a serious challenge to electric-car leader Tesla . If there were any question about whether that’s still true,"
     publishedDateTime: 2023-11-21T20:59:00Z
@@ -55,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "GM’s Cruise CEO resigns amid concerns over driverless car safety"
-    excerpt: "Kyle Vogt exits as Twitch co-founder Emmett Shear appointed as interim boss of OpenAI"
-    publishedDateTime: 2023-11-20T18:09:00Z
-    webUrl: "https://www.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/c949d909bc46ec40b7b1c7b78be4413b14e1aecd/0_16_4490_2696/master/4490.jpg?width=620&quality=85&auto=format&fit=max&s=0bef85820729cebdfb6d397af57b3802"
-        width: 620
-        height: 372
-        isCached: true
   - title: "World's biggest driverless car race: 'a new type of motor sport with different heroes'"
     excerpt: "The Abu Dhabi-backed A2RL Autonomous Racing League plans to pit ten driverless cars in wheel-to-wheel battle from next year; the most ambitious AI motor sport plan yet. Its backer reveals more about t"
     publishedDateTime: 2023-11-21T18:02:00Z
@@ -84,20 +54,6 @@ related:
       - url: "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2023/11/A2RL-1.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Cruise CEO resigns following troubles with self-driving cars"
-    excerpt: "The founder and CEO of autonomous vehicle company Cruise, which is owned by General Motors, announced on X that he is resigning. Kyle Vogt founded the company in 2013 and also served as its president and chief technology officer."
-    publishedDateTime: 2023-11-20T17:40:00Z
-    webUrl: "https://www.aol.com/cruise-ceo-resigns-following-troubles-174053325.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/aol_newsy_441/9cd329f27749726f0e5dd13c0e2ae045"
-        width: 640
-        height: 360
         isCached: true
   - title: "Isn't it about time we had driverless cars?"
     excerpt: "Driverless cars feel like they've been \"two or three years away\"… for the last 10 years. So why don't we have them yet? What technical and ethical hurdles do we still need to overcome to finally make robots our designated drivers?"

@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-24T08:34:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/aimreply-s-new-ai-assistant-set-to-revolutionize-email-for-busy-professionals-1032847068"
 webUrl: "https://markets.businessinsider.com/news/stocks/aimreply-s-new-ai-assistant-set-to-revolutionize-email-for-busy-professionals-1032847068"
 type: article
-quality: 66
-heat: 66
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 images:
   - url: "https://storage.googleapis.com/mmstudio-images/gallery/r6ZmsB0rZ2N74pbNR5Ge0wK5nL53/1700811548060-0.png"

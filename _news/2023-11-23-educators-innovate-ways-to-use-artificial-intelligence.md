@@ -25,9 +25,9 @@ images:
 
 related:
   - title: "Fortune 50 AI Innovators"
-    excerpt: "For instance, Brazilian bank Bradesco automated its customer service answers using Watson Assistant, responding to 283,000 questions monthly. IBM is focusing on expanding the use of its AI where ..."
-    publishedDateTime: 2023-11-21T15:54:00Z
-    webUrl: "https://fortune.com/ranking/ ai-innovators/2023/ibm/"
+    excerpt: "Big Blue, based in Armonk, N.Y., was early to the AI game with Watson, which was first introduced over two decades ago, mesmerizing the world with what the tech could do. In 2023, the company launched its generative AI offerings,"
+    publishedDateTime: 2023-11-20T22:45:00Z
+    webUrl: "https://fortune.com/ranking/ai-innovators/2023/ibm/"
     type: article
     provider:
       name: Fortune

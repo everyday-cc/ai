@@ -2,6 +2,143 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-11-21-global-machine-learning-analysis-report-2023-2028-ai-integration-powers-precise-predictions-fueling-ml-expansion.md",
+      "title": "Global Machine Learning Analysis Report 2023-2028 - AI Integration Powers Precise Predictions, Fueling ML Expansion",
+      "excerpt": "The \"Machine Learning Market - Global Industry Size, Share, Trends, Opportunity, and Forecast. 2018-2028 Segmented By Component (Services & Solutions), By Enterprises Size",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/n35885463/global-machine-learning-analysis-report-2023-2028-ai-integration-powers-precise-predictions-fuelin",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/n35885463/global-machine-learning-analysis-report-2023-2028-ai-integration-powers-precise-predictions-fuelin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35885463",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35885463",
+      "publishedDateTime": "2023-11-20T22:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-ssd-vs-nvme-whats-the-difference.md",
+      "title": "SSD vs. NVMe: What’s the difference?",
+      "excerpt": "While the terms SSD and NVMe are used to describe two types of drives, they are actually different data storage technologies that can complement each other. \nThe post SSD vs. NVMe: What’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ssd-vs-nvme/",
+      "originalUrl": "https://www.ibm.com/blog/ssd-vs-nvme/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T20:49:34Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-cruises-ceo-quits-as-the-driverless-carmaker-aims-to-rebuild-trust.md",
+      "title": "Cruise’s C.E.O. Quits as the Driverless Carmaker Aims to Rebuild Trust",
+      "excerpt": "Kyle Vogt, a founder of Cruise, resigned from the company on Sunday, weeks after it suspended all of its self-driving operations. By Yiwen Lu and Tripp Mickle Reporting from San Francisco Kyle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/11/19/technology/cruise-ceo-kyle-vogt-quits.html",
+      "originalUrl": "https://www.nytimes.com/2023/11/19/technology/cruise-ceo-kyle-vogt-quits.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/11/21/us/19ALTcruise-ceo-print/19cruise-ceo-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T17:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-21-how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft.md",
       "title": "How Might Open.ai Outcomes Impact NVIDIA, AMD, Intel And Microsoft?",
       "excerpt": "NVIDIA has already increased the outlook for GPUs astronomically based on demand for Hopper and GraceHopper chips with associated CoSWoS capacity needed for HBM. NVIDIA wins if they can redirect a few tens of thousands to the new Microsoft AI Subsidiary (in Azure) without losing customers to AMD.",
@@ -821,6 +958,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-20-ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation.md",
+      "title": "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation",
+      "excerpt": "The Santa Monica, CA-based company said the Avenda Health Focal Therapy System, is an artificial intelligence (AI)-enabled focal therapy system being developed to treat localized prostate cancer in a urologist’s office under local anesthesia. In ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_May112021at124830PM.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-lost-time-for-no-reason-how-driverless-taxis-are-stressing-cities.md",
       "title": "‘Lost Time for No Reason’: How Driverless Taxis Are Stressing Cities",
       "excerpt": "In San Francisco and Austin, Texas, where passengers can hail self-driving vehicles, the cars have added to the workloads of city employees. By Yiwen Lu Reporting from San Francisco Around 2 a.m ...",
@@ -1006,180 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-microsofts-ai-transformation-from-software-giant-to-ai-powerhouse.md",
-      "title": "Microsoft's AI Transformation: From Software Giant To AI Powerhouse",
-      "excerpt": "Microsoft wants to be a major force in the AI ecosystem, and Microsoft CEO and Chairman Satya Nadella made this clear in his keynote address. From developing its own AI accelerator chips to launching a marketplace for copilots, Microsoft has a long-term strategy in place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-19T18:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-11-19-facebook-parent-meta-breaks-up-its-responsible-ai-team.md",
-      "title": "Facebook-parent Meta breaks up its Responsible AI team",
-      "excerpt": "Facebook-parent Meta has split up its Responsible AI division, the team dedicated to regulating the safety of its artificial intelligence ventures. Most Responsible AI staffers have been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
-      "originalUrl": "https://www.cnbc.com/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107300081-1694615776137-gettyimages-1662740663-AFP_33V44JW.jpeg?v=1698249601",
-          "width": 4019,
-          "height": 2679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
-      "publishedDateTime": "2023-11-19T01:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-19-how-microsofts-new-chip-for-ai-could-disrupt-big-tech-especially-nvidia-amd-and-intel.md",
-      "title": "How Microsoft’s new chip for AI could disrupt big tech — especially Nvidia, AMD and Intel",
-      "excerpt": "Microsoft can now fully control its future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/WP-MKTW-0002737772?mod=article_recs_pos1_sb_hp&next_redirect=true",
-      "originalUrl": "https://www.wsj.com/articles/WP-MKTW-0002737772?mod=article_recs_pos1_sb_hp&next_redirect=true",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-18T18:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-18-european-regulation-on-artificial-intelligence-threatened-by-stalled-negotiations.md",
-      "title": "European regulation on artificial intelligence threatened by stalled negotiations",
-      "excerpt": "A wind of panic is blowing over the AI Act. Negotiations on the draft European regulation on artificial intelligence (AI) have been very tense since MEPs walked out of a meeting with member-state ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lemonde.fr/en/economy/article/2023/11/18/artificial-intelligence-european-regulation-threatened-by-stalled-negotiations_6265152_19.html",
-      "originalUrl": "https://www.lemonde.fr/en/economy/article/2023/11/18/artificial-intelligence-european-regulation-threatened-by-stalled-negotiations_6265152_19.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Monde.fr",
-        "domain": "lemonde.fr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

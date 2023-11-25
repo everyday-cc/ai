@@ -39,15 +39,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Senator Markey Queries Clearview AI on Facial Recognition"
-    excerpt: "Democrat Edward Markey asks Clearview AI to provide information about the collection of biometric data and threats posed to privacy, according to a letter sent to the company."
-    publishedDateTime: 2023-11-20T17:22:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/senator-markey-queries-clearview-ai-on-facial-recognition"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 34
   - title: "Clearview AI tops 40B reference images in facial recognition database"
     excerpt: "Clearview AI’s reference database for facial recognition searches has surpassed 40 billion images, double its volume of just 20 months ago."
     publishedDateTime: 2023-11-24T19:23:00Z

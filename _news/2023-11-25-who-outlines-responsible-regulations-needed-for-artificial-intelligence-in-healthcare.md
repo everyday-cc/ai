@@ -41,6 +41,22 @@ related:
         width: 1406
         height: 900
         isCached: true
+  - title: "Risks Of AI In Healthcare Come To Light"
+    excerpt: "AI is a new frontier and can be potentially extremely helpful in healthcare. It can also be extremely harmful. A class action lawsuit describes alleged harm."
+    publishedDateTime: 2023-11-25T18:24:00Z
+    webUrl: "https://www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/"
+    ampWebUrl: "https://www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65623b21796ce4c2f2011280/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Q&A: How Artificial Intelligence Powers Collaboration and Efficiency for Healthcare"
     excerpt: "Artificial Intelligence plays a pivotal role in fostering collaborative efforts and boosting operational efficiency within the healthcare ecosystem, helping streamline complex processes and aiding in clinical decision-making."
     publishedDateTime: 2023-11-21T21:30:00Z

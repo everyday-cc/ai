@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU"
-    excerpt: "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,"
-    publishedDateTime: 2023-11-25T11:06:00Z
-    webUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 74
-    images:
-      - url: "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Shift To AI: A CEO's Perspective On Future-Proofing Business"
     excerpt: "CEO and co-founder of Hexact, on a mission to empower businesses of all sizes with AI-driven sidekicks that work in the cloud."
     publishedDateTime: 2023-11-21T14:00:00Z
@@ -58,20 +44,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Enterprise Generative AI Enters Its Citizen Development Era"
-    excerpt: "More importantly, these GPTs can act on the user's behalf. OpenAI's tight integration with Zapier means thousands of connectors at your disposal, letting the AI query your CRM, update your ERP, or monitor your servers with a few clicks. How does the AI authenticate to all these services, you might ask? Great catch, but more on that later."
-    publishedDateTime: 2023-11-20T18:26:00Z
-    webUrl: "https://www.darkreading.com/edge/enterprise-generative-ai-enters-its-citizen-development-era"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9c4d9ed25c4d9a76/6557b6c5dd7f68040aaebbeb/robothand-dpa_picture_alliance-alamy.jpg"
-        width: 1800
-        height: 1013
-        isCached: true
   - title: "Good AI, bad AI: Decoding responsible artificial intelligence"
     excerpt: "Artificial intelligence (AI) is so hot right now. ChatGPT, DALL-E, and other AI-driven platforms are providing us with completely new ways of working. Generative AI is writing everything from cover letters to campaign strategies and creating impressive images from scratch."
     publishedDateTime: 2023-11-24T19:17:00Z

@@ -2,6 +2,137 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-22-how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium.md",
+      "title": "How Amazon Search M5 saved 30% for LLM training cost by using AWS Trainium",
+      "excerpt": "For decades, Amazon has pioneered and innovated machine learning (ML), bringing delightful experiences to its customers. From the earliest days, Amazon has used ML for various use cases such as book recommendations, search, and fraud detection. Similar to the rest of the industry, the advancements of",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T14:23:46Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked.md",
+      "title": "As Sales Triple, Why AI-Chip Maker Nvidia’s Stock May Have Peaked",
+      "excerpt": "Demand for Nvidia’s graphics processing units has been exceeding supply, thanks to the rise of generative artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 221,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T13:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-amd-extends-pytorch-support-to-radeon-rx-7900-xt-gpus-for-ai-developers.md",
+      "title": "AMD extends PyTorch Support to Radeon RX 7900 XT GPUs for AI developers",
+      "excerpt": "Chip-maker AMD on Wednesday extended PyTorch (a machine learning framework) and ROCm (open software platform) support to Radeon RX 7900 XT GPUs to bring even more options for artificial intelligence (AI) developers and researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=1142443",
+      "originalUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=1142443",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/whatsapp_channel_icon.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T12:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daijiworld",
+        "domain": "daijiworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-osium-ai-uses-artificial-intelligence-to-speed-up-materials-innovation.md",
       "title": "Osium AI uses artificial intelligence to speed up materials innovation",
       "excerpt": "While everybody is trying to figure out how artificial intelligence can be leveraged across various industries, French startup Osium AI has found an interesting use cases for AI — research and development in materials science. Founded by Sarah Najmark ...",
@@ -216,7 +347,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/now-that-generative-ai-is-here-where-will-all-the-data-come-from/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -423,7 +554,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/sam-altman-returns-openai-ceo-infighting-ai-startup-rcna126214",
       "featuredContent": null,
       "highlight": null,
-      "heat": 539,
+      "heat": 439,
       "tags": null,
       "images": [
         {
@@ -707,7 +838,7 @@
       "originalUrl": "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -751,7 +882,7 @@
       "originalUrl": "https://www.forbes.com/sites/traversmark/2023/11/21/a-psychologist-explains-the-eerie-uncanny-valley-phenomenon/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -888,7 +1019,7 @@
       "originalUrl": "https://arstechnica.com/gadgets/2023/11/amazon-lays-off-alexa-employees-as-2010s-voice-assistant-boom-gives-way-to-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -931,21 +1062,21 @@
       ]
     },
     {
-      "path": "_news/2023-11-22-microsoft-azure-confidential-vms-will-roll-out-this-december.md",
-      "title": "Microsoft Azure Confidential VMs Will Roll Out This December",
-      "excerpt": "The partnership with Intel allows for hardware-enforced security and confidentiality on 4th Gen Xeon processors.",
+      "path": "_news/2023-11-22-gms-driverless-ride-heads-into-a-ditch.md",
+      "title": "GM’s driverless ride heads into a ditch",
+      "excerpt": "For a while, General Motors' bet on robo-taxi startup Cruise held the promise of creating a serious challenge to electric-car leader Tesla . If there were any question about whether that’s still true,",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/azure-confidential-vms-public-preview/",
-      "originalUrl": "https://www.techrepublic.com/article/azure-confidential-vms-public-preview/",
+      "webUrl": "https://www.reuters.com/breakingviews/gms-driverless-ride-heads-into-ditch-2023-11-21/",
+      "originalUrl": "https://www.reuters.com/breakingviews/gms-driverless-ride-heads-into-ditch-2023-11-21/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/11/tr_20231121-azure-confidential-vms-public-preview.jpg",
-          "width": 1400,
-          "height": 900,
+          "url": "https://www.reuters.com/resizer/lmofop6tmoYtLuPf_X1YuLYYLyk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2RGXNCKQXNNU7JPZZO4UYCKKOM.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -955,14 +1086,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T18:24:00Z",
+      "publishedDateTime": "2023-11-21T20:59:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -978,7 +1109,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1077,163 +1208,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/",
-      "originalUrl": "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 311,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
-      "publishedDateTime": "2023-11-21T17:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks.md",
-      "title": "Amazon Textract’s new Layout feature introduces efficiencies in general purpose and generative AI document processing tasks",
-      "excerpt": "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from any document or image. AnalyzeDocument Layout is a new feature that allows customers to automatically extract layout elements such as paragraphs, titles, subtitles, headers, footers, and more",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/17/layout-textractor-975x630.jpg",
-          "width": 975,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T17:24:48Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-ai-based-entrepreneurial-success-5-ways-to-id-genius-from-garbage.md",
-      "title": "AI-Based Entrepreneurial Success: 5 Ways To ID Genius From Garbage",
-      "excerpt": "AI is all the rage today. The lure of accelerated idea generation is enticing. Yet, the key is to distinguish between gems and garbage, and in execution skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dileeprao/2023/11/21/unlocking-ai-brilliance-5-key-questions-to-distinguish-genius-from-garbage-in-entrepreneurship/",
-      "originalUrl": "https://www.forbes.com/sites/dileeprao/2023/11/21/unlocking-ai-brilliance-5-key-questions-to-distinguish-genius-from-garbage-in-entrepreneurship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655cb3a1da07219427973c11/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dileeprao/2023/11/21/unlocking-ai-brilliance-5-key-questions-to-distinguish-genius-from-garbage-in-entrepreneurship/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dileeprao/2023/11/21/unlocking-ai-brilliance-5-key-questions-to-distinguish-genius-from-garbage-in-entrepreneurship/amp/",
-      "publishedDateTime": "2023-11-21T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

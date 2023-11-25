@@ -42,22 +42,6 @@ related:
         width: 834
         height: 556
         isCached: true
-  - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
-    excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
-    publishedDateTime: 2023-11-25T10:38:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 68
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "How digital transformation is reshaping auditing"
     excerpt: "Digital innovation offers unique insights throughout the audit process, enabling auditors to offer increased value and efficiency in a demanding economy. The second 2023 SAICA Audit Reform Webcast, held in August and chaired by SAICA executive for audit and assurance Thandokuhle Myoli,"
     publishedDateTime: 2023-11-22T06:53:00Z

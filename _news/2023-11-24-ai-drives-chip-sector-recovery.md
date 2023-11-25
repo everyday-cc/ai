@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/ai-driv
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/ai-drives-chip-sector-recovery-49057/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

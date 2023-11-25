@@ -43,6 +43,22 @@ related:
         width: 1406
         height: 900
         isCached: true
+  - title: "Risks Of AI In Healthcare Come To Light"
+    excerpt: "AI is a new frontier and can be potentially extremely helpful in healthcare. It can also be extremely harmful. A class action lawsuit describes alleged harm."
+    publishedDateTime: 2023-11-25T18:24:00Z
+    webUrl: "https://www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/"
+    ampWebUrl: "https://www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65623b21796ce4c2f2011280/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Healthcare in the age of AI: How will artificial intelligence impact future decision-making?"
     excerpt: "Authored by: Constanza Salas, Jhon Galindo and Rachel Howard"
     publishedDateTime: 2023-11-24T11:06:00Z

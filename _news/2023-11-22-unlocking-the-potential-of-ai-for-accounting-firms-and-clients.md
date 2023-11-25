@@ -38,22 +38,6 @@ related:
         width: 1213
         height: 900
         isCached: true
-  - title: "Powder, an AI clipping tool for gaming, can detect when a creator yells during a stream"
-    excerpt: "Powder, AI-powered clipping software that takes highlights from gaming ... Powder claims to save streamers upwards of around 10 hours per week or 520 hours a year. The France-based startup was founded in 2018 by Kiss, Yannis Mangematin and Christian ..."
-    publishedDateTime: 2023-11-20T18:31:00Z
-    webUrl: "https://techcrunch.com/2023/11/20/powder-an-ai-clipping-tool-for-gaming-can-detect-when-a-creator-yells-during-a-stream/"
-    ampWebUrl: "https://techcrunch.com/2023/11/20/powder-an-ai-clipping-tool-for-gaming-can-detect-when-a-creator-yells-during-a-stream/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/20/powder-an-ai-clipping-tool-for-gaming-can-detect-when-a-creator-yells-during-a-stream/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/Powder-clipping-tool-gaming.png?w=1118"
-        width: 1118
-        height: 618
-        isCached: true
   - title: "Fluency and Amazon to work on AI and machine learning"
     excerpt: "Fluency, the data and technology division of M&C Saatchi Group, has partnered with Amazon Web Services on scaling artificial intelligence, machine learning and generative AI."
     publishedDateTime: 2023-11-23T11:59:00Z
@@ -69,22 +53,6 @@ related:
       - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
         width: 1000
         height: 581
-        isCached: true
-  - title: "Trying To Do More Real HPC In An Increasingly AI World"
-    excerpt: "If you are in the traditional HPC community, it is not hard to be of two minds about the rise of AI and the mainstreaming of generative AI. At the very least, the GenAI tsunami makes it easier to argu"
-    publishedDateTime: 2023-11-20T17:54:00Z
-    webUrl: "https://www.nextplatform.com/2023/11/20/trying-to-do-more-real-hpc-in-an-increasingly-ai-world/"
-    ampWebUrl: "https://www.nextplatform.com/2023/11/20/trying-to-do-more-real-hpc-in-an-increasingly-ai-world/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/20/trying-to-do-more-real-hpc-in-an-increasingly-ai-world/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 61
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2022/09/lenovo-hpc-ai-logo.jpg"
-        width: 952
-        height: 525
         isCached: true
   - title: "The flying, swimming and tunneling robots inspired by nature"
     excerpt: "Drawing inspiration from birds, fish and even worms, researchers in Europe are developing machines to explore places on Earth that are difficult for people to reach."

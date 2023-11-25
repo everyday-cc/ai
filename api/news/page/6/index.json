@@ -2,6 +2,180 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-11-20-microsofts-ai-transformation-from-software-giant-to-ai-powerhouse.md",
+      "title": "Microsoft's AI Transformation: From Software Giant To AI Powerhouse",
+      "excerpt": "Microsoft wants to be a major force in the AI ecosystem, and Microsoft CEO and Chairman Satya Nadella made this clear in his keynote address. From developing its own AI accelerator chips to launching a marketplace for copilots, Microsoft has a long-term strategy in place.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-19T18:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-11-19-facebook-parent-meta-breaks-up-its-responsible-ai-team.md",
+      "title": "Facebook-parent Meta breaks up its Responsible AI team",
+      "excerpt": "Facebook-parent Meta has split up its Responsible AI division, the team dedicated to regulating the safety of its artificial intelligence ventures. Most Responsible AI staffers have been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
+      "originalUrl": "https://www.cnbc.com/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107300081-1694615776137-gettyimages-1662740663-AFP_33V44JW.jpeg?v=1698249601",
+          "width": 4019,
+          "height": 2679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html",
+      "publishedDateTime": "2023-11-19T01:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-19-how-microsofts-new-chip-for-ai-could-disrupt-big-tech-especially-nvidia-amd-and-intel.md",
+      "title": "How Microsoft’s new chip for AI could disrupt big tech — especially Nvidia, AMD and Intel",
+      "excerpt": "Microsoft can now fully control its future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/WP-MKTW-0002737772?mod=article_recs_pos1_sb_hp&next_redirect=true",
+      "originalUrl": "https://www.wsj.com/articles/WP-MKTW-0002737772?mod=article_recs_pos1_sb_hp&next_redirect=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-18T18:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-18-european-regulation-on-artificial-intelligence-threatened-by-stalled-negotiations.md",
+      "title": "European regulation on artificial intelligence threatened by stalled negotiations",
+      "excerpt": "A wind of panic is blowing over the AI Act. Negotiations on the draft European regulation on artificial intelligence (AI) have been very tense since MEPs walked out of a meeting with member-state ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lemonde.fr/en/economy/article/2023/11/18/artificial-intelligence-european-regulation-threatened-by-stalled-negotiations_6265152_19.html",
+      "originalUrl": "https://www.lemonde.fr/en/economy/article/2023/11/18/artificial-intelligence-european-regulation-threatened-by-stalled-negotiations_6265152_19.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Monde.fr",
+        "domain": "lemonde.fr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-18-corpus-christi-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains.md",
       "title": "Corpus Christi Health Update: Poor Cognitive Function Tied to Poor Sleep. Doctor Explains",
       "excerpt": "Dr. Puja Uppal says, \"Sharp brains need good rest!\"Doctor's Expert Insights About Poor Cognitive Function & Your Sleep Health in TexasKnow this: \"Here's the thing, we know",
@@ -940,151 +1114,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-ai-chatbot-can-pass-national-lawyer-ethics-exam.md",
-      "title": "AI chatbot can pass national lawyer ethics exam",
-      "excerpt": "Popular AI chatbot GPT-4 outperforms most aspiring lawyers on the legal ethics exam required by nearly every state in order to practice law, a new study has found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/transactional/ai-chatbot-can-pass-national-lawyer-ethics-exam-study-finds-2023-11-16/?n=@",
-      "originalUrl": "https://www.reuters.com/legal/transactional/ai-chatbot-can-pass-national-lawyer-ethics-exam-study-finds-2023-11-16/?n=@",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T11:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-artificial-intelligence-an-opportunity-or-a-risk.md",
-      "title": "Artificial Intelligence: An Opportunity Or A Risk?",
-      "excerpt": "The original read: \"Berset still has to fix it.\" What artificial intelligence produces can be funny, sometimes even bizarre. However, it gets serious when a so-called chatbot suddenly advises a man to commit suicide or a self-driving car causes an accident.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107436957/Artificial-Intelligence-An-Opportunity-Or-A-Risk",
-      "originalUrl": "https://menafn.com/1107436957/Artificial-Intelligence-An-Opportunity-Or-A-Risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T09:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-vroozi-introduces-vroozi-ai-natural-language-processing-assistant-that-accelerates-spend-management-and-invoice-payments-for-all.md",
-      "title": "Vroozi Introduces Vroozi AI: Natural Language Processing Assistant that Accelerates Spend Management and Invoice Payments for All",
-      "excerpt": "The virtual assistant reflects the company’s continued investment in AI capabilities with the goal of streamlining the procure-to-pay process from intake to automated invoice processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231116457912/en/Vroozi-Introduces-Vroozi-AI-Natural-Language-Processing-Assistant-that-Accelerates-Spend-Management-and-Invoice-Payments-for-All",
-      "originalUrl": "https://www.businesswire.com/news/home/20231116457912/en/Vroozi-Introduces-Vroozi-AI-Natural-Language-Processing-Assistant-that-Accelerates-Spend-Management-and-Invoice-Payments-for-All",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T09:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-the-trends-of-2023-artificial-intelligence.md",
-      "title": "The trends of 2023: artificial intelligence",
-      "excerpt": "Grigory Mindlin, general manager for broadcast at disguise, says that the dawn of AI is bringing new sorts of discussions into the broadcast industry… and that doesn’t have to be a bad thing! What industry trends have particularly stood out for you in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/artificial-intelligence/the-trends-of-2023-artificial-intelligence",
-      "originalUrl": "https://www.tvbeurope.com/artificial-intelligence/the-trends-of-2023-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T06:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

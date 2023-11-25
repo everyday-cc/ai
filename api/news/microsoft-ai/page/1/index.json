@@ -2,20 +2,20 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-11-22-microsoft-azure-confidential-vms-will-roll-out-this-december.md",
-      "title": "Microsoft Azure Confidential VMs Will Roll Out This December",
-      "excerpt": "The partnership with Intel allows for hardware-enforced security and confidentiality on 4th Gen Xeon processors.",
+      "path": "_news/2023-11-26-aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start.md",
+      "title": "AWS Reinvent Preview With Matt Wood, Who’s Been At AWS From The Start",
+      "excerpt": "Patrick Moorhead previews the annual Reinvent conference with Matt Wood, who oversees AWS products and has helped organize the conference for more than a decade.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/azure-confidential-vms-public-preview/",
-      "originalUrl": "https://www.techrepublic.com/article/azure-confidential-vms-public-preview/",
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 91,
       "tags": null,
       "images": [
         {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/11/tr_20231121-azure-confidential-vms-public-preview.jpg",
-          "width": 1400,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6562325b4ef5e34bc98848da/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1522,
           "height": 900,
           "title": null,
           "attribution": null,
@@ -24,16 +24,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T18:24:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/amp/",
+      "publishedDateTime": "2023-11-25T18:11:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -108,7 +109,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 311,
+      "heat": 301,
       "tags": null,
       "images": [
         {
@@ -153,38 +154,38 @@
       ]
     },
     {
-      "path": "_news/2023-11-22-microsofts-ai-fate-isnt-entirely-in-its-hands-wsjs-dan-gallagher.md",
-      "title": "Microsoft’s AI Fate Isn’t Entirely in Its Hands: WSJ’s Dan Gallagher",
-      "excerpt": "OpenAI developed the key generative artificial-intelligence technology that helped give Microsoft a healthy lead in the biggest tech race in years. After OpenAI’s board ousted co-founder and CEO Sam Altman on Friday and his weekend efforts to return to the company fell apart,",
+      "path": "_news/2023-11-21-microsoft-an-ai-powerhouse-to-reckon-with-in-the-future.md",
+      "title": "Microsoft- An AI Powerhouse To Reckon With In The Future",
+      "excerpt": "In doing so, Microsoft became an even greater force to reckon with Microsoft now could have less reason to lean on OpenAI for future AI breakthroughs and advanced",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-11-21-2023/card/microsoft-s-ai-fate-isn-t-entirely-in-its-hands-wsj-s-dan-gallagher-ZNSsTWIeKNo6MxWY6fb7",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-11-21-2023/card/microsoft-s-ai-fate-isn-t-entirely-in-its-hands-wsj-s-dan-gallagher-ZNSsTWIeKNo6MxWY6fb7",
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 454,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-785590/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655be7de4854a016a0b983ac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T16:30:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/amp/",
+      "publishedDateTime": "2023-11-21T15:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -200,8 +201,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {

@@ -152,6 +152,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Explained | How NVIDIA's AI gamble has paid off"
+    excerpt: "NVIDIA reported a 3x revenue growth, reaching $18.12 billion, with its data centre business soaring 279% to $14.5 billion, constituting 80% of total revenue. The shift from GPU to AI solutions propelled the company's transformation."
+    publishedDateTime: 2023-11-22T12:19:00Z
+    webUrl: "https://www.cnbctv18.com/technology/explained-how-nvidia-ai-gamble-has-paid-off-18385011.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/explained-how-nvidia-ai-gamble-has-paid-off-18385011.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/explained-how-nvidia-ai-gamble-has-paid-off-18385011.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 59
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/nvidia-1019x573.png"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Can AI Stalwart Nvidia Deliver Back-To-Back Hit Show? Q3 Earnings Preview"
     excerpt: "thanks to robust sales of high-performance chips to cloud service providers and large consumer internet companies. The strong demand came on the back of the development of large language models and generative AI. Oppenheimer analyst Rick Schafer models 22% ..."
     publishedDateTime: 2023-11-21T05:04:00Z

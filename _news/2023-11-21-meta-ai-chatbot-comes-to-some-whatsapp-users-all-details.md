@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft brings ChatGPT AI to Windows 11’s command line, and here’s a closer look"
-    excerpt: "ChatGPT-powered “AI chat” on Windows 11. ChatGPT integration is now available in Terminal (Canary), a new development channel to test experimental features ahead of a wider rollout. With ChatGPT AI Chat in Terminal,"
-    publishedDateTime: 2023-11-24T00:20:00Z
-    webUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/"
-    ampWebUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
-    type: article
-    provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 68
-    images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/09/Windows-Terminal-with-AI-on-Windows-11.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Baidu's AI Chatbot Earnie 4 Is Off To A Good Start, Says Bullish Analyst"
     excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
     publishedDateTime: 2023-11-22T18:11:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/25/the-future-of-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/11/25/the-future-of-ai-is-at-the-edge-cloudflare-leads-the-way/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         height: 853
         isCached: true
 
-secured: "z2+Fer+kUFVtwYTojNSAQbJHbnIPibIUGsr+mP5PELpzxtD5zEOOBX8CLCXY+og2aMS/1Yac84ExzJ6ES9dzA/5ds+3SHH4pq/qAtVg3qBeEdNBpyI3T+13xHBSoutjC8voThXkPWJLD1l8lvZ8Y4D/SUpeRgSGb20qbI8U0dM3qME+J9uLnywNdaPGu9GrVdU3UT1boBIjJpCiP57/KTHdPzfv3WKHZrQaLiUegZ4waaPT15CTtI04Nv4JA1V48a/Xbm2fp9QPfSgq1tZT9s/aPHBxMaN8PotoO5OJrfATc4SH+cz8JVbrOFINY/UJIjhwy4+ojL1UxbWvKONVl6L4UxJxYJ/8cj7W4v5TdtlTfFSkpmx5Prgi+UdYfjyrdAUN6WJrNRJ27oiNti+ZsmZA3dWp6XVoVbVeqjRzGOhNgQH67QiKuJrhmFzmq4Mveg8PicqKyfBedLmneHpU0ZBqQ21hd3KXaguAuD+fyc1V17KZynldFRoqSNvejKNkSPwPldw8urH3NWS9fwXPFaw==;IAdQ/1AG+jEoBVrTPxI+LQ=="
+secured: "Na7CCwxokZrUXI6V9YZwQiSrnv8bLFNMDPAc4pN84GcST+/cSu3lMFWDzeCUhm0z5EoLqZmS1TjgsiL6uKWlMg1boA2rwSYfVpdNuI0QZdIzmzdfYG68YIXhs2550/aCsQHIanp2yR3ARkObXSmSIgPGoPQeHAc+L8zp6MZUZDceeT2m19G3GGLR54BA61W6TE5y8mwKYx0ksOh5KsJUI+viOcsgswKWDE2OVf2vFbFiwZHkZqBdvXXMtXS1AiWFoL/cqxBRxrSrLt0VNDQoNUZtTpgIE55BUNeDcp7aPcuu+b6mZPJ6sa9u2ppq8YzqyFmjBobMt9x/oBhV62vpyK6k07YY65m7PuPuen7wuxYuUuFTVIMhHkyUZ4ntvfGQT9PDX+t/nbzuTdfrxBlPgPGOldMjD48waK/hlmcXscFWJNJawqbp2h57Ab/BZsmZrCfPqAg374mjn8lUYPIKdAd/iLCEyg89OiKG7yU0/bunGKHn7baSQUtVmWErmjdTAV4PQdxF/XqjAQN5Ea7WdA==;FAdTJ5nUdMoPqXHv/ctzZQ=="
 ---
 

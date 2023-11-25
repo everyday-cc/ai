@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Might Open.ai Outcomes Impact NVIDIA, AMD, Intel And Microsoft?"
-    excerpt: "NVIDIA has already increased the outlook for GPUs astronomically based on demand for Hopper and GraceHopper chips with associated CoSWoS capacity needed for HBM. NVIDIA wins if they can redirect a few tens of thousands to the new Microsoft AI Subsidiary (in Azure) without losing customers to AMD."
-    publishedDateTime: 2023-11-20T17:12:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655b9293a3cff1f243d07850/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1258
-        height: 778
-        isCached: true
   - title: "Microsoft- An AI Powerhouse To Reckon With In The Future"
     excerpt: "In doing so, Microsoft became an even greater force to reckon with Microsoft now could have less reason to lean on OpenAI for future AI breakthroughs and advanced"
     publishedDateTime: 2023-11-21T15:00:00Z
@@ -60,19 +44,47 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Microsoft will struggle to clean up ugly AI mess"
-    excerpt: "Microsoft boss Satya Nadella’s stressful weekend is probably only the beginning. The board overseeing artificial intelligence venture OpenAI abruptly ousted Chief Executive Sam Altman on Friday. After an unsuccessful attempt to broker his return,"
-    publishedDateTime: 2023-11-20T17:22:00Z
-    webUrl: "https://www.reuters.com/breakingviews/microsoft-will-struggle-clean-up-ugly-ai-mess-2023-11-20/"
+  - title: "Microsoft Azure Confidential VMs Will Roll Out This December"
+    excerpt: "The partnership with Intel allows for hardware-enforced security and confidentiality on 4th Gen Xeon processors."
+    publishedDateTime: 2023-11-21T18:24:00Z
+    webUrl: "https://www.techrepublic.com/article/azure-confidential-vms-public-preview/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: TechRepublic
+      domain: techrepublic.com
     quality: 84
     images:
-      - url: "https://www.reuters.com/resizer/0HejM6R-sFjiMdFq3gjoV0eovFw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GF4Z2BISTZKSLOYSMZJECCIIKA.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/tr_20231121-azure-confidential-vms-public-preview.jpg"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "Microsoft’s AI Fate Isn’t Entirely in Its Hands: WSJ’s Dan Gallagher"
+    excerpt: "OpenAI developed the key generative artificial-intelligence technology that helped give Microsoft a healthy lead in the biggest tech race in years. After OpenAI’s board ousted co-founder and CEO Sam Altman on Friday and his weekend efforts to return to the company fell apart,"
+    publishedDateTime: 2023-11-21T16:30:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-11-21-2023/card/microsoft-s-ai-fate-isn-t-entirely-in-its-hands-wsj-s-dan-gallagher-ZNSsTWIeKNo6MxWY6fb7"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-785590/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Microsoft's AI Future Is Bright After Tapping Altman, OpenAI's Is Uncertain: Analysts"
+    excerpt: "Microsoft Corp's (NASDAQ: MSFT) hiring of Sam Altman just days after the 38-year-old entrepreneur was fired by OpenAI has inspired analysts to examine the Redmond, Washington-based tech giant's positi"
+    publishedDateTime: 2023-11-21T17:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-ai-future-is-bright-after-tapping-altman-openai-s-is-uncertain-analysts-1032840273"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/11/21/building-1011876_1280.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Microsoft goes all-in on AI at Ignite"
     excerpt: "Ignite conference took place last week, and AI was the star of this year's event. AI is the one technology Microsoft seems most excited"
@@ -90,22 +102,98 @@ related:
         width: 1023
         height: 695
         isCached: true
-  - title: "Explained | How NVIDIA's AI gamble has paid off"
-    excerpt: "NVIDIA reported a 3x revenue growth, reaching $18.12 billion, with its data centre business soaring 279% to $14.5 billion, constituting 80% of total revenue. The shift from GPU to AI solutions propelled the company's transformation."
-    publishedDateTime: 2023-11-22T12:19:00Z
-    webUrl: "https://www.cnbctv18.com/technology/explained-how-nvidia-ai-gamble-has-paid-off-18385011.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/explained-how-nvidia-ai-gamble-has-paid-off-18385011.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/explained-how-nvidia-ai-gamble-has-paid-off-18385011.htm/amp"
+  - title: "Microsoft snatches Sam Altman and former OpenAI colleagues to form its own AI research team"
+    excerpt: "In another twist on the OpenAI saga that raged over the weekend, Microsoft has swooped in and hired Sam Altman and Greg Brockman.."
+    publishedDateTime: 2023-11-20T22:31:00Z
+    webUrl: "https://www.engadget.com/microsoft-snatches-sam-altman-and-former-openai-colleagues-to-form-its-own-ai-research-team-082755685.html'"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 59
+      name: Engadget
+      domain: engadget.com
+    quality: 74
     images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/nvidia-1019x573.png"
-        width: 1019
-        height: 573
+      - url: "https://s.yimg.com/uu/api/res/1.2/ETkTgA8M6VAaCCzShBtM.Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-11/7675f9d0-87a9-11ee-abff-49d44ef3039f.cf.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU"
+    excerpt: "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,"
+    publishedDateTime: 2023-11-25T11:06:00Z
+    webUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 74
+    images:
+      - url: "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft brings ChatGPT AI to Windows 11’s command line, and here’s a closer look"
+    excerpt: "ChatGPT-powered “AI chat” on Windows 11. ChatGPT integration is now available in Terminal (Canary), a new development channel to test experimental features ahead of a wider rollout. With ChatGPT AI Chat in Terminal,"
+    publishedDateTime: 2023-11-24T00:20:00Z
+    webUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/"
+    ampWebUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
+    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
+    type: article
+    provider:
+      name: Windows Latest
+      domain: windowslatest.com
+    quality: 68
+    images:
+      - url: "https://www.windowslatest.com/wp-content/uploads/2023/09/Windows-Terminal-with-AI-on-Windows-11.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
+    excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
+    publishedDateTime: 2023-11-25T10:38:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 68
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Watch CNBC's Special Report: Satya Nadella and the Future of AI"
+    excerpt: "CNBC's Jon Fortt hosts a CNBC special report covering the latest out of the AI space including OpenAI's leadership turmoil, CNBC's interview with Microsoft CEO Satya Nadella, discussions with current players in the AI space and more."
+    publishedDateTime: 2023-11-21T00:46:00Z
+    webUrl: "https://www.cnbc.com/video/2023/11/20/watch-cnbcs-special-report-satya-nadella-and-the-future-of-ai.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107336950-1700533755Special-FULL-112023.jpg?v=1700533754&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Microsoft Makes Big AI Investment Hiring Altman And Brockman"
+    excerpt: "The duo is widely respected for their work on artificial intelligence, and their arrival at Microsoft is seen as a significant win for the company."
+    publishedDateTime: 2023-11-20T19:28:00Z
+    webUrl: "https://www.forbes.com/sites/elijahclark/2023/11/20/microsoft-makes-big-ai-investment-hiring-altman-and-brockman/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+  - title: "Investing in Generative AI? You Won’t Do Much Better Than Microsoft Stock."
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How did Microsoft (NASDAQ:MSFT) stock earn its membership among the"
+    publishedDateTime: 2023-11-21T11:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/investing-in-generative-ai-you-wont-do-much-better-than-microsoft-stock-1032838858"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Fired OpenAI CEO Sam Altman joins Microsoft as AI research lead"
     excerpt: "Sam Altman has been hired by Microsoft to lead its AI research after being fired by OpenAI. The former CEO and board members of the ChatGPT firm was let go last week following a review by the board of directors."
     publishedDateTime: 2023-11-21T17:45:00Z
@@ -120,6 +208,20 @@ related:
         width: 1000
         height: 650
         isCached: true
+  - title: "Microsoft leverages TSMC's one-stop service for in-house developed chip"
+    excerpt: "TSMC not only offers advanced process manufacturing but also its advanced packaging for the recently released Microsoft Azure Maia 100 AI accelerator, according to industry sources."
+    publishedDateTime: 2023-11-22T01:24:00Z
+    webUrl: "https://www.digitimes.com/news/a20231121PD215/microsoft-tsmc-ai-accelerator-5nm.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 56
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231121pd215_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "How Microsoft's hiring of OpenAI's Altman could reshape AI development"
     excerpt: "Following a dramatic departure of two key leaders from ChatGPT-maker OpenAI, Microsoft, a major investor in the startup, ended up a winner."
     publishedDateTime: 2023-11-21T14:49:00Z
@@ -133,6 +235,34 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/11/655cbe74654e4c001d57cb5a-gettyimages1483272785.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft puts Azure Kubernetes Service into high gear"
+    excerpt: "Microsoft has announced another expansion of Azure Kubernetes Service (AKS). The new features focus on centrally managing large volumes of clusters,"
+    publishedDateTime: 2023-11-21T09:32:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/113493/microsoft-puts-azure-kubernetes-service-into-high-gear/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_1196949082.png"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "Informatica deploys Microsoft Azure pod in Canada"
+    excerpt: "Informatica says IDMC improves analytics and AI workloads on Azure by ensuring data is high quality and trustworthy. Customers can now access IDMC as an Azure Native Service purchased through the Azure Marketplace. Informatica has customers in more than ..."
+    publishedDateTime: 2023-11-24T09:53:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/informatica-deploys-microsoft-azure-pod-in-canada/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/1637699511013.2e16d0ba.fill-1200x630.jpg"
+        width: 450
+        height: 237
         isCached: true
   - title: "The OpenAI Saga Continues, Microsoft’s New Chips, Microsoft’s AI Platform Hedge"
     excerpt: "More updates on the OpenAI saga, including the problematic board. Then, Microsoft unveils new chips, and is creating an AI platform that looks a lot like Microsoft’s other platforms."
@@ -157,6 +287,24 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Schneider Electric Integrates Microsoft Azure OpenAI for Sustainable Solutions"
+    excerpt: "Schneider Electric tapped into its collaboration with Microsoft to integrate Microsoft Azure OpenAI into its operations, utilizing algorithms to generate text, code and diverse content."
+    publishedDateTime: 2023-11-21T20:17:00Z
+    webUrl: "https://www.iotevolutionworld.com/iot/articles/457794-schneider-electric-integrates-microsoft-azure-openai-sustainable-solutions.htm"
+    type: article
+    provider:
+      name: iotevolutionworld.com
+      domain: iotevolutionworld.com
+    quality: 45
+  - title: "Microsoft says Altman will lead new in-house AI team, as OpenAI board hires former Twitch CEO to lead start-up"
+    excerpt: "The twin moves mark a turning point in the frenetic aftermath of Altman’s firing, which stunned Silicon Valley and set off a campaign led by Nadella and other OpenAI executives to get Altman reinstated."
+    publishedDateTime: 2023-11-20T19:50:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3242126/talks-reinstate-altman-openai-reach-impasse-over-board-make-and-role"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 44
   - title: "Sam Altman, ex OpenAI founder and CEO now at Microsoft to run new advanced AI intelligence team"
     excerpt: "Microsoft has hired Sam Altman, where he will lead a new advanced artificial intelligence team, after OpenAI terminated him, then tried to rehire him."
     publishedDateTime: 2023-11-20T23:56:00Z
@@ -171,6 +319,52 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Microsoft Q4 Earnings Call: Over One Billion Bing AI Chat Sessions – Search Engine Journal"
+    excerpt: "We’ve gathered insights from 13 of the top PPC marketing experts who know what’s coming, what you should pay attention to, and what to avoid.In this"
+    publishedDateTime: 2023-11-22T00:09:00Z
+    webUrl: "https://www.inferse.com/802422/microsoft-q4-earnings-call-over-one-billion-bing-ai-chat-sessions-search-engine-journal/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 44
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-12208-1920x1075.png"
+        width: 1920
+        height: 1075
+        isCached: true
+  - title: "Microsoft, OpenAI sued over alleged unauthorized use of nonfiction authors’ work in AI training"
+    excerpt: "Artificial intelligence startup OpenAI and Microsoft Corp. have been hit with a new lawsuit alleging that the companies violated copyright by using the works of nonfiction authors to train AI models, including OpenAI’s ChatGPT. Julian Sancton ..."
+    publishedDateTime: 2023-11-22T16:10:00Z
+    webUrl: "https://siliconangle.com/2023/11/22/microsoft-openai-sued-alleged-unauthorized-use-nonfiction-authors-work-ai-training/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 42
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/hammer-620011_1280.jpg"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "I think Microsoft Azure “Eagle” is probably the most important tech news of 2023 that you haven't heard of — here's why"
+    excerpt: "The 1,123,200-core Eagle is fitted powered by the Intel Xeon Platinum 8480C 48C CPU alongside 14,400 Nvidia H100 GPUs, alongside Nvidia InfiniBand NDR technology, which increases AI and HPC performance. The Azure Cobalt CPU, based on the Arm Neoverse CSS ..."
+    publishedDateTime: 2023-11-23T20:32:00Z
+    webUrl: "https://www.techradar.com/pro/i-think-microsoft-azure-eagle-is-probably-the-most-important-tech-news-of-2023-that-you-havent-heard-of-heres-why"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 40
+  - title: "Sam Altman Returns to Microsoft: A Strategic Alliance in the AI Realm"
+    excerpt: "OpenAI CEO Sam Altman is set to join Microsoft, marking a renewed partnership between the two companies and a new chapter in the world of AI."
+    publishedDateTime: 2023-11-20T20:21:00Z
+    webUrl: "https://techstory.in/sam-altman-returns-to-microsoft/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 36
   - title: "Microsoft Girds to Dominate Cloud-Based AI Services"
     excerpt: "Launching its own server CPUs and AI chips to fortify the Azure cloud, Microsoft takes shots at all their potential competitors while offering more options to their"
     publishedDateTime: 2023-11-22T14:18:00Z
@@ -235,6 +429,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 29
+  - title: "Sam Altman to lead advanced AI research at Microsoft after surprise firing from OpenAI"
+    excerpt: "Microsoft looks to gain big from the talent leaving OpenAI by having them lead a brand-new team to manage custom AI chips instead of relying on Nvidia tech."
+    publishedDateTime: 2023-11-20T19:40:00Z
+    webUrl: "https://www.courthousenews.com/sam-altman-to-lead-advanced-ai-research-at-microsoft-after-surprise-firing-from-openai/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 28
   - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
     excerpt: "KKCompany is announcing its participation in the Microsoft startup initiative, \"Highway to 100 Unicorns,\" a startup accelerator program aimed to support startup innovation and strengthen the startup ecosystem in the Asia region."
     publishedDateTime: 2023-11-21T06:20:00Z
