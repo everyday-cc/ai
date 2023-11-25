@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-11-2
 webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-11-21-2023/card/microsoft-s-ai-fate-isn-t-entirely-in-its-hands-wsj-s-dan-gallagher-ZNSsTWIeKNo6MxWY6fb7"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "OpenAI Former CEO Joins Microsoft To Continue AI ‘Mission’; Satya Nadella Weighs-In"
-    excerpt: "Microsoft hires OpenAI CEO Sam Altman and others to lead a new advanced AI research team at Microsoft to drive GenAI and technology innovation."
-    publishedDateTime: 2023-11-20T14:07:00Z
-    webUrl: "https://www.crn.com/news/cloud/openai-former-ceo-joins-microsoft-to-continue-ai-mission-satya-nadella-weighs-in"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 28
 
 secured: "ne2AprnxHmlls/Sd9NTVKXA2uP1dhlmHAsL6rUPQazsDJ5V8eWYrBR6922ZVhGWMMS8pgvpLTaz7XGX9H6wxplwJPUulNQ164Sf09cNpX3ZGQzK4nPak4rDci0SM2xINBBzXfCWsMLIErPn/wAPyBpp6fTmVx90L5cAtr2tOR04XHjj0O+p3Mr+HS1L64p6UGAlFmtPm/aPSBWhGnfg40Kf4q5goKJXYBgzluO+9l9NrY/MShx+pYRHv9HZcz30AXGy1YPAOxoa07J2AWzuMJUYo3wHqydMV6uHSi56s3YczQbEQfTj5H4BKl2VbWAT/PAez+H3ZeWaZBl41G/8GPcHHNif83IzhSH2IZ/8L98M=;F0bqcQtJBCPjIoH7+a1tPQ=="
 ---

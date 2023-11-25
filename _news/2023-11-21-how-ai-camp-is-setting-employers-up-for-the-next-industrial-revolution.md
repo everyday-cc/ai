@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Harnessing AI's Potential To Revolutionize Financial Forecasting"
-    excerpt: "Recent advances in artificial intelligence present potentially transformative opportunities to overcome these forecasting limitations. When applied thoughtfully, AI financial forecasting methods can ingest disparate data sources, identify non-obvious correlations, adapt models dynamically and generate forecasts exponentially faster."
-    publishedDateTime: 2023-11-20T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/harnessing-ais-potential-to-revolutionize-financial-forecasting/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "AI-powered financial technology revolutionising lending"
     excerpt: "Leading and emerging banks, fintech companies and some of Australia’s most iconic consumer brands are implementing AI-powered technology to revolutionise their customer engagement and lending offerings. Upon pairing this technology with human nous ..."
     publishedDateTime: 2023-11-21T04:57:00Z

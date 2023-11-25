@@ -38,15 +38,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "OpenAI Former CEO Joins Microsoft To Continue AI ‘Mission’; Satya Nadella Weighs-In"
-    excerpt: "Microsoft hires OpenAI CEO Sam Altman and others to lead a new advanced AI research team at Microsoft to drive GenAI and technology innovation."
-    publishedDateTime: 2023-11-20T14:07:00Z
-    webUrl: "https://www.crn.com/news/cloud/openai-former-ceo-joins-microsoft-to-continue-ai-mission-satya-nadella-weighs-in"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 28
 
 secured: "ISwm/kDKFL5FMA7AGDkKuIj8uw114NyQ6LJgDys51W/SV3v+4zEKg997fDuLR0erMKMt34mSlyYgZENSbUGd6I68b7hUcCa3Z0iYKz6XBTmLbQrwA4dsOb7Bo4oBAIy48FLEkpYDO+lEeOsVWMnOqjEXH9kiJXVuGrOPkuh6WUjg0afauMug4a5fm/QLKMrzthy51mLE52GFNwzIbeU9Nv/lAFfTfWMToPkW0FQIocalZRC98RW3e+MbF0JEUczfKfjJ0IuipNq8TNbtdWOVZPONcjoXXzA+hk+dioVYmRViNX/8R9TyWaDVZfqk+Yvh8+AtL7KKA1avy/pQLS8+T0a1azG87SDS+iLu6cj1+KI=;pq/5QtiO8uYlbuhIGcQEKg=="
 ---

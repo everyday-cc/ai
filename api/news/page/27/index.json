@@ -2,6 +2,39 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-10-31-ai-powered-search-is-off-to-a-problematic-start-can-google-and-econsultancy.md",
+      "title": "'AI-powered' search is off to a problematic start. Can Google and … – Econsultancy",
+      "excerpt": "EMEA/USA: +44 (0)20 7970 4322 | email: subs.support@econsultancy.com",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/774223/ai-powered-search-is-off-to-a-problematic-start-can-google-and-econsultancy/",
+      "originalUrl": "https://www.inferse.com/774223/ai-powered-search-is-off-to-a-problematic-start-can-google-and-econsultancy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T23:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-how-to-get-snapchat-ai.md",
       "title": "How to get Snapchat AI",
       "excerpt": "If you're wondering how to navigate Snapchat's My AI feature, you're not alone. Here's how to get Snapchat AI and use it.",
@@ -853,41 +886,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-ensuring-the-security-of-large-language-models.md",
-      "title": "Ensuring the Security of Large Language Models",
-      "excerpt": "Introduction In the ever-evolving landscape of artificial intelligence, Large Language Models (LLMs) have emerged as transformative tools, reshaping how we",
-      "sourceUrl": null,
-      "webUrl": "https://securityboulevard.com/2023/10/ensuring-the-security-of-large-language-models/",
-      "originalUrl": "https://securityboulevard.com/2023/10/ensuring-the-security-of-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T19:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security Boulevard",
-        "domain": "securityboulevard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

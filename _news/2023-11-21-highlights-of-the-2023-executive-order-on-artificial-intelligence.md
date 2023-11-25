@@ -18,42 +18,33 @@ topics:
   - AI
 
 related:
-  - title: "Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI"
-    excerpt: "Explore the key drivers that impacted cloud transformation and what they mean for companies on their cloud modernization journey.\nThe post Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-11-20T14:00:00Z
-    webUrl: "https://www.ibm.com/blog/business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai/"
+  - title: "The Week When AI Got High on Its Own Supply"
+    excerpt: "It may seem like Sam Altman's messy drama was the only thing happening in AI this week but the world kept turning."
+    publishedDateTime: 2023-11-24T20:08:00Z
+    webUrl: "https://gizmodo.com/openai-sam-altman-microsoft-week-roundup-ai-board-1851042201"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 84
-  - title: "Generative AI is a toddler — don’t let it run your business"
-    excerpt: "Just like toddlers, humans are the adults responsible for verifying our \"growing\" AI’s output and making corrections as needed."
-    publishedDateTime: 2023-11-24T17:14:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-is-a-toddler-dont-let-it-run-your-business/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Gizmodo
+      domain: gizmodo.com
     quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2014/11/baby-laptop-paul-inkles-flickr.jpg?w=1200&strip=all"
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/175c7f714c51b703e9494b2a6935c77c.jpg"
         width: 1200
-        height: 799
+        height: 675
         isCached: true
-  - title: "Upended overnight, the red-hot generative AI market is suddenly up for grabs"
-    excerpt: "The turmoil at OpenAI is reverberating across the market, affecting the ChatGPT-maker's customers, competitors, and employees."
-    publishedDateTime: 2023-11-21T21:50:00Z
-    webUrl: "https://www.aol.com/upended-overnight-red-hot-generative-195059884.html?ref=biztoc.com"
+  - title: "Congress Ramps Up Its Focus on Artificial Intelligence"
+    excerpt: "Over the past several months, federal lawmakers have continued exploring regulation of artificial intelligence (AI) through hearings and legislative proposals. Amidst many other Congressional priorities, legislators seem set on making headway toward some ..."
+    publishedDateTime: 2023-11-22T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/congress-ramps-up-its-focus-on-3110336/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 36
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 37
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/vxR1o_DtioZNY8IHC95xvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/c467ae378bd2c67c1cf239b0348bd82b"
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16056_1548.jpg"
         width: 1200
-        height: 800
+        height: 900
         isCached: true
 
 secured: "Sv7OV80wmQbftmd3y354+MplAY//Rfp5mTHc7a5sGewD0KUg+5QwTfRjmp9ufTgkqX5GkwZD7fTmFMC+ONJuX4ovhCc+JlhmNZTDb5ktHPGYEPcJjZlvPqsRnx6UM16Bf5EGI1kUo6EHm6taKUfxul4hxNSs+Hc6R+qJ21skS3es3uzvwQosMuvr3qjBC4C0NCRdIb7VL6nE2EpYlozvphWJmct3BCiXNVTmNCwpwu71JswniKP16TyMIVy9CroaAfUpCjKahBWz7s3abxijKUvN5hdbwYMk8uftb0vHBnhrQdeYeoiD9nO2yfaRJy2Mg6VR7p22nwxr5MMj3lBk1apgDTjuxxantMrkSwmfnc3FsnoUOEilCnetVtG1a+jKeRDsiqZctuv6F6HuPspMAqctCMRwboU8rdSSvRtrQQMAz3oVAw19nvsL+RMpbiMx9X22yheJnmkwylQmSQedaATagFhzkKU6vWmJ/rGoP/Ic+YeYAilewPPJiRliNk5I6+xX6GXOEXHOv4T+xSr0mQ==;PjR/oRDYDcnirv7a8Q+kpg=="

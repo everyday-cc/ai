@@ -41,15 +41,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Harnessing AI's Potential To Revolutionize Financial Forecasting"
-    excerpt: "Recent advances in artificial intelligence present potentially transformative opportunities to overcome these forecasting limitations. When applied thoughtfully, AI financial forecasting methods can ingest disparate data sources, identify non-obvious correlations, adapt models dynamically and generate forecasts exponentially faster."
-    publishedDateTime: 2023-11-20T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/harnessing-ais-potential-to-revolutionize-financial-forecasting/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "How is Generative AI Transforming the Financial Industry?"
     excerpt: "Explore the transformative power of Generative AI in finance with real-world case studies and expert insights from SFF 2023."
     publishedDateTime: 2023-11-22T03:43:00Z

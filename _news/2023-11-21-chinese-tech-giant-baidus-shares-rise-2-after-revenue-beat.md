@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/11/21/baidu-q3-earnings-chinese-tech-g
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/21/baidu-q3-earnings-chinese-tech-giant-reports-revenue-beat.html"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: CNBC
@@ -31,21 +31,28 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese robot combines wheels and legs to conquer any terrain"
-    excerpt: "It is part of a growing trend and demand for legged robots, especially in China, where the government and the industry are investing heavily in robotics and artificial intelligence ... Pre-orders will start later this year, along with performance, specs ..."
-    publishedDateTime: 2023-11-20T15:59:00Z
-    webUrl: "https://www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain"
-    ampWebUrl: "https://www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain.amp"
+  - title: "Baidu beats revenue estimates, navigates AI Chip challenges amidst U.S. export curbs"
+    excerpt: "In third-quarter performance, Baidu, reported a 6% increase in revenue to 34.45 billion yuan, surpassing analysts' expectations."
+    publishedDateTime: 2023-11-23T20:09:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/23/baidu-beats-revenue-estimates-navigates-ai-chip-challenges-amidst-u-s-export-curbs/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 104
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 57
+  - title: "Baidu says sees limited impact from U.S. chip curbs after Q3 revenue beat"
+    excerpt: "Baidu has enough artificial intelligence chips stockpiled to soften the impact of U.S. technology export curbs on its business for now, the Chinese tech giant said on Tuesday after reporting forecast-beating quarterly revenue."
+    publishedDateTime: 2023-11-21T18:19:00Z
+    webUrl: "https://www.aol.com/baidu-beats-q3-revenue-estimates-090740285.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 55
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99f695b8-7440-42e4-80d8-68e21dc124be/e3631157-0d31-40ee-901a-b7602a60acf4/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://media.zenfs.com/en/aol_reuters_29/3aa8ddde2648dbe16efbfd4f98c6b0d3"
+        width: 800
+        height: 534
         isCached: true
   - title: "Baidu Is Looking for AI Chip Alternatives, Chinese Tech Giant’s Robin Li Says"
     excerpt: "Baidu, which launched its chatbot Ernie Bot 4.0 last month, does not need chips with too much computing power, Li said at an analyst conference after the Beijing-based firm’s earnings call yesterday. Baidu’s four-layer architecture and algorithmic strengths will also help improve efficiency and mitigate the impact of these challenges."
@@ -60,6 +67,20 @@ related:
       - url: "http://img.yicaiglobal.com/src/image/2023/11/39554594711237.jpg"
         width: 770
         height: 510
+        isCached: true
+  - title: "Baidu Shares Climb on Strong Q3 Revenue and Reiterated AI Focus"
+    excerpt: "Chinese tech behemoth Baidu posted solid Q3 financial results, sending its shares higher in the US and Hong Kong markets. The company recently unveiled the latest version of its ChatGPT-like chatbot and said it plans to continue investing relentlessly in artificial intelligence (AI) technology."
+    publishedDateTime: 2023-11-21T16:00:00Z
+    webUrl: "https://tokenist.com/baidu-shares-climb-on-strong-q3-revenue-and-reiterated-ai-focus/"
+    type: article
+    provider:
+      name: The Tokenist
+      domain: tokenist.com
+    quality: 39
+    images:
+      - url: "https://tokenist.com/wp-content/uploads/2023/11/141236712_m_normal_none.jpg"
+        width: 2508
+        height: 1672
         isCached: true
 
 secured: "cXbkI5UyJY9SvVqvE3dyHarYo8Eni0sUeXmK5U0ALlNlqpHWz8VszdbIe+G00Iqx6Hn7qcAAwxe2uiYbvPidTvAulEVmHKxYxdJ/avpl9qH8FTnTsxc8IACApsBb9nrd/v8mCu0f0hpl3fVfWbpKnk1yZFWwKKW5R05fxdFMosQRkyJowSBohSLLVxklm0O06pYna5fmk3oGjK1hT0VThAcampVFyDAUX2Yx8Mz1warHQojr0NfMR2oU3I9I7Lnpabzg+tJ38FtoaiZliv0WwkV5KdXKjcpd3q3g6AHaPzfG4Ek8zrVtSbuiIoNHWIwWu1lb5+qfmopmSoHdUCJMZ75iZACHAVhjcENJoyzRbzE=;a3jkvQeSBgMxaEN7qiEcQg=="

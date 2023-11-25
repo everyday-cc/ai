@@ -34,24 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "New NVIDIA Ethernet AI networking platform soon available"
-    excerpt: "NVIDIA has announce the imminent availability of its new Spectrum-X Ethernet networking solution, a technology poised to significantly boost AI system"
-    publishedDateTime: 2023-11-20T14:45:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-networking/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
-  - title: "NVIDIA Unveils Spectrum-X Ethernet Networking for AI with Dell, HPE, and Lenovo Integration"
-    excerpt: "NVIDIA today announced that Dell Technologies, Hewlett Packard Enterprise and Lenovo will be the first to integrate"
-    publishedDateTime: 2023-11-20T16:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/nvidia-unveils-spectrum-x-ethernet-networking-for-ai-with-dell-hpe-and-lenovo-integration/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 9
   - title: "DriveNets Joins Ultra Ethernet Consortium; Commits to Developing Open, Multi-vendor Ethernet Solutions for AI"
     excerpt: "It improves the performance of large-scale AI workloads regardless of GPU or AI accelerator used, enabling users to build open, multi-vendor AI infrastructures. DriveNets is part of the first group of companies to join the UEC after its founding by members ..."
     publishedDateTime: 2023-11-21T08:45:00Z

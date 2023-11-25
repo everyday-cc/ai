@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/sports/ai-driven-technology-revolutionize-sp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/ai-driven-technology-revolutionize-sports-betting-personalized-experiences-based-patterns-interests.amp"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1012
         height: 860
         isCached: true
-  - title: "WiMi Announced Interactive Holographic Assistant Based on Artificial Intelligence"
-    excerpt: "WiMi's AI-based interactive holographic assistant technology: Speech recognition and processing: The system captures the user's voice commands through advanced speech recognition technology. These commands are transmitted to the speech processing module, which is responsible for converting speech into text and parsing the user's intent."
-    publishedDateTime: 2023-11-20T13:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-announced-interactive-holographic-assistant-based-on-artificial-intelligence-1032835283"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
 
 secured: "cKCXTf4Fl0xNzCtKowTYUtRVfZfBPENSnHRXMTZMazF3E3K3X0dWK2eHHUusGkbpy86AyMbeff25PKuW4mpUSqOjECTZlxrwrA30I3yJhbmvM4rAjZKvspZf0VbCUUDswCQYTJLAojOvL15bmC9FEPXv18sEXbiwSzgyV298z6qrvjxTDijI69QjalstVJm5TnDsja9u1zS3sUUOE4lyOIfqYJMbi/zMQdquAGcvZH56pnlt78+nXEzhqir1JnbEYfk44YQVA2psTS2BtJJy2Be2SXQ5GPiphRcejhMJF3TwyfT8UAxaGWxfUmrUrhFekjSSNZJTHUTaUc4Fxxo8hxOuaKyEq2t7PnsWKmr8MGI=;hXqSrSJZbGETtHf3u9LfJw=="
 ---

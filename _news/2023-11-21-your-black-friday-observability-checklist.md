@@ -22,18 +22,18 @@ topics:
   - IBM AI
 
 related:
-  - title: "5 Best Black Friday Sales for AI Tools"
-    excerpt: "Welcome to the most awaited Black Friday event of the year, where cutting-edge AI tools meet unbeatable deals! As the tech world buzzes with excitement, we bring you a curated selection of the finest AI tools and applications,"
-    publishedDateTime: 2023-11-20T16:31:00Z
-    webUrl: "https://www.unite.ai/black-friday-sales/"
+  - title: "The Best Black Friday Deals From Amazon to Shop Now"
+    excerpt: "Does Amazon Do Black Friday and Cyber Monday Deals? Yes! We've seen stellar deals come through on Amazon during Black Friday and Cyber Monday in years past, and Amazon announced this year's deals ..."
+    publishedDateTime: 2023-11-24T12:17:00Z
+    webUrl: "https://www.menshealth.com/technology-gear/a45025550/amazon-black-friday-deals-2023/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 56
+      name: Men's Health
+      domain: menshealth.com
+    quality: 24
     images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/11/black-friday-AI-tools-1000x600.png"
-        width: 1000
+      - url: "https://hips.hearstapps.com/hmg-prod/images/mh-9-12-amazon-sale-6500a978a80f5.png?crop=1xw:1xh;center,top&resize=1200:*"
+        width: 1200
         height: 600
         isCached: true
 

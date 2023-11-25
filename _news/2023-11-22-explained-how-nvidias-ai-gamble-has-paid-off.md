@@ -105,22 +105,6 @@ related:
         width: 1023
         height: 695
         isCached: true
-  - title: "Microsoft Makes A New Move To Dominate Artificial Intelligence"
-    excerpt: "OpenAI has hired Emmett Shear as its new interim CEO. Shear was co-founder and ex-CEO of video game streaming service Twitch. Twitch is now owned by Amazon.com, Inc. AMZN . Shear has been in favor of slowing AI development."
-    publishedDateTime: 2023-11-20T16:43:00Z
-    webUrl: "https://www.benzinga.com/23/11/35878617/microsoft-makes-a-new-move-to-dominate-artificial-intelligence"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35878617"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35878617"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://cdn.benzinga.com/files/nicholas-cappello-wb63zqj5gne-unsplash_10_9.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Fired OpenAI CEO Sam Altman joins Microsoft as AI research lead"
     excerpt: "Sam Altman has been hired by Microsoft to lead its AI research after being fired by OpenAI. The former CEO and board members of the ChatGPT firm was let go last week following a review by the board of directors."
     publishedDateTime: 2023-11-21T17:45:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/11/22/how-meta-could-benefit-from-the-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/22/how-meta-could-benefit-from-the-openai-shakeup.html"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1247646075-e1700575788127.jpg?resize=1200,676"
         width: 1200
         height: 676
-        isCached: true
-  - title: "The Shake-up at OpenAI Reshapes the Industry’s Global Order"
-    excerpt: "Big Tech is reeling from the ouster of Sam Altman at a leading A.I. start-up and his subsequent jump to Microsoft, moves that reset the power dynamic underpinning the sector."
-    publishedDateTime: 2023-11-20T13:27:00Z
-    webUrl: "https://www.nytimes.com/2023/11/20/business/dealbook/sam-altman-openai-microsoft-google-ai.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: "https://static01.nyt.com/images/2023/11/20/multimedia/20db-altman-zbgq/20db-altman-zbgq-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "OpenAI’s Turmoil Unveiled: The Tech World’s Battle for AI’s Future"
     excerpt: "The recent upheaval at OpenAI unfolds as a gripping tech-world drama, blending secret board maneuvers, fears of killer A.I."

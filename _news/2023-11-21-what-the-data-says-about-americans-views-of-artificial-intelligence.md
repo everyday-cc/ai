@@ -7,7 +7,7 @@ originalUrl: "https://www.pewresearch.org/short-reads/2023/11/21/what-the-data-s
 webUrl: "https://www.pewresearch.org/short-reads/2023/11/21/what-the-data-says-about-americans-views-of-artificial-intelligence/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,26 +24,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Yellow.ai Achieves Tenfold Growth in North America Over Two Years"
-    excerpt: "The conversational AI leader recently ranked the 88th Fastest-Growing Company in North America on the 2023 Deloitte Technology Fast 500™SAN"
-    publishedDateTime: 2023-11-20T13:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-achieves-tenfold-growth-in-north-america-over-two-years-1032835438"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Survey reveals 8 in 10 Americans worry that Artificial Intelligence tech will be used for identity theft crimes"
-    excerpt: "Top Reasons for Concern: a perceived increase in recent cyberattacks (55%), use of Artificial Intelligence (AI) technology (54%), and proficiency of today's hackers (51%)"
-    publishedDateTime: 2023-11-20T13:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/survey-reveals-8-in-10-americans-worry-that-artificial-intelligence-tech-will-be-used-for-identity-theft-crimes-1032835476"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
 
 secured: "EDBn9f1j/zNCPoaY+c0SHX6Jq6jloW3CiFo8wz+X74McAgSkxaqnQ4yCC2ykCJYS7y/aMoyJBrwlmdHs5nKb19D2Y97ibVHmxhZ9q8p2M5If1sKdC4KBCh6HqiSXmuF6cwnRDmhymENV7gXrOg348/6Wf6aQ3kynpxCSU0+hqJIvNQ3N7sDgMMygvdnRZD9v66lpVI7CWxR3ow98GTCyYNMJkcu+kJXpzcT6H5djORRSfm+Xf2LO1ILSIfhz5be3r1sAqbXlEze+QFnUd4RIoZxXaPpl887d+qlFYPjwsquxusD4IVXCTotUdgSZ4Smzl8tDSlTkSTzqyG+RnX0tObsxJOgX43uJULtRr9eif/iwdtHnSWT7662NpKanx5TpFPBFA7kqFU4fiZvGXdYnZdneKHEb7YhRMcfAUmhJhpEW6q4gdFZSQBCmdrW+tAr5ekv/nZfHWNvSFBtQz3E34nSZdEQFi716oWpc+bj1YpVp239CyGYWIPX3q57bhbdc2zKYotROxeUawVdZpc0edg==;Tq+fjr6YJWqgPm1CtnHZKA=="
 ---

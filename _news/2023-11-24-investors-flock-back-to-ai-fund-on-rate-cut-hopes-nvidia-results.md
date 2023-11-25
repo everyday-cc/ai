@@ -2,9 +2,9 @@
 category: news
 title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
 excerpt: "An exchange-traded fund tracking artificial intelligence stocks saw investors pouring money after six straight weeks of outflows, on the backdrop of strong quarterly results by chipmaker Nvidia and rising optimism that U."
-publishedDateTime: 2023-11-24T12:10:00Z
-originalUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html"
-webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html"
+publishedDateTime: 2023-11-24T15:11:00Z
+originalUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html?ref=biztoc.com"
+webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html?ref=biztoc.com"
 type: article
 quality: 19
 heat: -1
@@ -50,22 +50,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
-    excerpt: "Nvidia's earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
-    publishedDateTime: 2023-11-20T14:43:00Z
-    webUrl: "https://www.cnbc.com/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107327179-1698862366973-gettyimages-1258356102-TAIWAN-COMPUTEX2023-01062023-162JPG.jpeg?v=1700162267"
-        width: 5000
-        height: 3333
         isCached: true
   - title: "Nvidia shares fall after China AI chip is delayed"
     excerpt: "Citing two sources familiar with the matter, Reuters writes that the delayed chip is the H20, the most powerful of three AI-focused products Nvidia has developed"
@@ -188,22 +172,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/Nvidia_28.jpeg?width=1200&height=800&fit=crop"
         width: 830
         height: 553
-        isCached: true
-  - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
-    excerpt: "Nvidia’s earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
-    publishedDateTime: 2023-11-20T16:43:00Z
-    webUrl: "https://www.nbcmiami.com/news/national-international/nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024/3164667/"
-    ampWebUrl: "https://www.nbcmiami.com/news/business/money-report/nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024/3164667/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024/3164667/?amp=1"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 56
-    images:
-      - url: "https://media.nbcmiami.com/2023/11/107300190-1694621998133-gettyimages-1662849007-AI_CEOs_518_091323.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Nvidia Triples Revenue As AI Chip Demand Stays Strong"
     excerpt: "Nvidia tripled revenue in its third quarter from a year ago, a sign that demand for its AI chips and systems is still strong."
@@ -367,6 +335,6 @@ related:
       domain: thestreet.com
     quality: 11
 
-secured: "S1jjX9B2x5zxVd9RXj1HO3UYJNo7Q7LUyGBTy1KWPeNpjigKJntoqwkWe8kv2tUV2mMaxKwmbkcR7/8UKz2g18ypuxICn2UCVvpeADgVGbBbD3ctOEGRaJyNOtflmpQ5Y6m1vfRJDUPPc3JW5lk1hVsdQTMN0YGAtVjQ4/SWX30vWmx8TtcxEdRguLt08kQaF3lb0kzmZ1jplETg3vryYoe0Cr899JKQvpzYKBX1BZ99Oqavs8ffz8Tr35FK0cO6MjrC/wrzaCvjsnlRnxAd5GvV1tmb5W3YzrHXhwIgtYkx2QZkbbtZZ9hy0eN4aV5xCssxUgPmbdABp67FKEZ1zj9eh6qVhLKp2kZu48as08mPOnQdT/knDtL0s5c7crMc3Itc+ZQLIpJedXIWr2bdoRLYDc7O4t8ljIyJPpVQLd6J+xhDB22sl0HJDpq++f96Iv5ABtEM9dR/uyEvAtiJ6agg5uyUGUD6rUkqp4ES05TZdoLVaZF+Wh57dABmDqrKidqL2m0Uc1W39UzzazLgNA==;vXI/UYlnvg/IgO92DTazKQ=="
+secured: "iWVCY/e9tYXeJs2kHxbpwJmWAf+M74R3bz/9lEW9GPfiQ9KwBvxRpLoGlQdSrZ5+T0WZXvTb5wlb996NBBVwY6WkYXJj/6xgB8p103vey52GuUExtHEj4lu+p0Io47cbPSFWgWYEJMXqFMPEzhoQyT7Bvz+13zb5uV10PXXzqmnhPJhVR3ybUE3hW3g19Qcy3v3MGAIKYQQijVIpKzPmC/alAKsAKMgdTW7FtckY2FAGk8anTmhIcwEFYv6QTJlYus4ksE3t2dWjfznE2Shpk0lTpN0ug9ErgY4XtMyoYhsL8yBv3e8pF+Ubd/WmQp/GZocnNHHa+f0uUwB5SsECQoHZwMX9gTGnCuNv0k9xyi+NzaF3cuIT+WGf+ng899nXrab7iDC302h8Mpg+rXSkVxktp+hIVek427LVKLpctrefqItzV8YkPuCh5rwT0KewFJtyH9dqTmncD/P/1tRvIDttny8AdXsuy0WhraQD8UC5A6QJ8cNoS7VYBxqQoVyrq8Fv0hINxr3ZlY53ca7GNQ==;6B+NgYTpGkAxx0LFYbcQlw=="
 ---
 

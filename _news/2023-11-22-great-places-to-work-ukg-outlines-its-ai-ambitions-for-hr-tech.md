@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "WiMi Announced Interactive Holographic Assistant Based on Artificial Intelligence"
-    excerpt: "WiMi's AI-based interactive holographic assistant technology: Speech recognition and processing: The system captures the user's voice commands through advanced speech recognition technology. These commands are transmitted to the speech processing module, which is responsible for converting speech into text and parsing the user's intent."
-    publishedDateTime: 2023-11-20T13:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-announced-interactive-holographic-assistant-based-on-artificial-intelligence-1032835283"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
 
 secured: "OPC8VpuNWu+472Z5y3MShibnmjLYhI5iKmUXk1pJGfpyQ4UtB1MbRK0PAiNP6tvdMM7/ey6LDJytyAI3OdtTkWlciXAnM1Ptszctl/NlhuUHY3UFXE9rfdeUOyhHB/hz8WOXh+5oVPHDutZ2CZrrYAYhCCrgCs1YKPszDOkHFIcmNkwm6FcHyLipLM//ZghJYjaJzO5119Vhx0hAzQU5CUx0V4ZF54bNg0cecJ5nXDmayYAKFrRZEyYckXJOEV+eQbE+QSZVMAoUzrSxSaPgpalZy5g2MQyVhd5/UQNqrGv6QKVEhKepJ2FjQ1EZ12kRCjW5Jx3jJ7+56hiN5VqVcISplp3mMYaMyaw2nswfDTQ=;MMzrZkdIV9eK2Xe33hsMKg=="
 ---

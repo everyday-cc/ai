@@ -99,20 +99,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Cruise CEO resigns after self-driving fleet pulled"
-    excerpt: "Kyle Vogt, the CEO of Cruise, General Motors’s (GM) autonomous vehicle unit, resigned Sunday amid growing safety concerns about the company’s self-driving fleet. Vogt announced his resignation late Sunday night on X,"
-    publishedDateTime: 2023-11-20T15:06:00Z
-    webUrl: "https://www.aol.com/news/cruise-ceo-resigns-self-driving-150632551.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_hill_articles_315/bf451bddd621fa2b5ebc529eff2f73da"
-        width: 900
-        height: 505
-        isCached: true
   - title: "Isn't it about time we had driverless cars?"
     excerpt: "Driverless cars feel like they've been \"two or three years away\"… for the last 10 years. So why don't we have them yet? What technical and ethical hurdles do we still need to overcome to finally make robots our designated drivers?"
     publishedDateTime: 2023-11-22T14:00:00Z

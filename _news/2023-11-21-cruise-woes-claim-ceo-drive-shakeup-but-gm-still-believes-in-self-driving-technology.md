@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Cruise CEO resigns amid questions over self-driving vehicles"
+    excerpt: "Kyle Vogt has resigned as chief executive officer of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars."
+    publishedDateTime: 2023-11-21T07:52:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/nov/21/cruise-ceo-resigns-amid-questions-over-self/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205863245_205859005-d582d0d89bae49de8bece9d4d4536caf_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
   - title: "Founder of GM’s self-driving division resigns amid collisions"
     excerpt: "Kyle Vogt, the founder and CEO of Cruise, General Motors’ self-driving vehicle unit, resigned Sunday following a turbulent period."
     publishedDateTime: 2023-11-21T18:19:00Z
@@ -46,6 +60,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2018/11/29/general_motors_cruise_management_73747_c0-127-4040-2483_s1200x700.jpg?f041ecf2ef0f1df903051c2acd67b2bff2f7194e"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
+    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars. Vogt's decision to step down, announced late Sunday ..."
+    publishedDateTime: 2023-11-22T05:18:00Z
+    webUrl: "https://www.wral.com/story/vogt-resigns-as-ceo-of-cruise-following-safety-questions-recalls-of-self-driving-vehicles/21158901/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 14
+    images:
+      - url: "https://wwwcache.wral.com/asset/business/2023/11/19/21158902/655ae426701c6-media_d582d0d89bae49de8bece9d4d4536caf-DMID1-60zs8q59r-640x480.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "rW8NA9+LIeWYwdwW7uJ+xY9Pea4ioHWxh5Ji5nhogqU2nR1/aR8ddGa8OWt2DhHHoJOLs3JqqJ2cNtVKF0Infma6MjgxeHWFfyecPoqp7mHscBLM/JT61NTgivdQGu/hSJ7dmBtMh4UO+9cMUm/ZTpBS8Bh3vbcsb0Sp2OOvKgTXnq/KrrLZNfWqWRKwN1VaZM+CEL1vw91/hknd4IP8NGyjGZnz3YEdE6v1mfjFZqNtep/fb/YpWVykuWuGpQpyimKz1d9/7gwgwkcS1pScIzmuSdyp4lkTRGlsajN5JlgW6gWzBaTG4AsKFwtwvS6GcuEYpvjQ4cNHfvOEbE2k1YptiEkJNXF8yh9m4JSDuLIws8Yt1eaus8xlBa57kUe2WCR76YwBYjTe8SF013LSDRlPZnD/H2alRqpUFxO2ank9Js5DoQHzsZZGIX9FJFdIu1GXkq4vFNO3Csa8pZYc56Gddx16gZ2mqpT1tM6FbH4YYfxX49b0GSOlXIkBTbT9eni6T4Z7ypB+qyaDwcwo2w==;TStVpraVCMdwpv+6yiEKbw=="

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/11/20/how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 294,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -873,6 +873,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-20-thanks-to-ai-robots-are-aware-of-their-surroundings.md",
+      "title": "Thanks to AI, Robots Are Aware of Their Surroundings",
+      "excerpt": "Now we’re looking at machine learning and AI algorithms that teach the robot new tasks ... Not a lot the companies are doing that yet, but a lot of start-ups are developing it.” Robots have taken over manufacturing and warehouses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/robotics/thanks-ai-robots-are-aware-their-surroundings",
+      "originalUrl": "https://www.mddionline.com/robotics/thanks-ai-robots-are-aware-their-surroundings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/Feature_106.jpg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-the-minds-eye-of-a-neural-network-system.md",
       "title": "The mind’s eye of a neural network system",
       "excerpt": "In the background of image recognition software that can ID our friends on social media and wildflowers in our yard are neural networks, a type of artificial intelligence inspired by how own our brains process data. While neural networks sprint through ...",
@@ -1137,49 +1180,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-18-corpus-christi-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains.md",
-      "title": "Corpus Christi Health Update: Poor Cognitive Function Tied to Poor Sleep. Doctor Explains",
-      "excerpt": "Dr. Puja Uppal says, \"Sharp brains need good rest!\"Doctor's Expert Insights About Poor Cognitive Function & Your Sleep Health in TexasKnow this: \"Here's the thing, we know",
-      "sourceUrl": null,
-      "webUrl": "https://kdhnews.com/news/texas/corpus-christi-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_b0c71ec5-a0ce-5a87-8442-3dfce6e226ec.html",
-      "originalUrl": "https://kdhnews.com/news/texas/corpus-christi-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_b0c71ec5-a0ce-5a87-8442-3dfce6e226ec.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T22:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Killeen Daily Herald",
-        "domain": "kdhnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

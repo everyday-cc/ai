@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 182
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/11/Robotic-Process-Automation-in-Finance-Streamlining-Operations-with-FinTech.jpg"
         width: 700
         height: 400
-        isCached: true
-  - title: "Singapore’s fintech sector struggling to find talent"
-    excerpt: "In a 2021 Accenture survey, nearly two out of three firms blamed their talent gap on not being able to get work permits for foreigners. Nowadays, only 37 percent cite difficulty in securing employment passes as a hiring challenge. For this dramatic change, the employers and employees should thank Hong Kong."
-    publishedDateTime: 2023-11-20T15:59:00Z
-    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/11/21/2003809473"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 24
-    images:
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
-        width: 1200
-        height: 1200
         isCached: true
   - title: "Top 10 Fintech and Payments Trends in 2024"
     excerpt: "Juniper Research unveiled today the 10 trends that are set to radically impact the fintech and payments landscape in 2024, included within its latest whitepaper."

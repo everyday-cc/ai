@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-ear
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
 type: article
 quality: 91
-heat: 351
+heat: 331
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
-    excerpt: "Nvidia's earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
-    publishedDateTime: 2023-11-20T14:43:00Z
-    webUrl: "https://www.cnbc.com/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/20/nvidia-earnings-report-to-give-investors-peek-into-ai-demand-for-2024.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107327179-1698862366973-gettyimages-1258356102-TAIWAN-COMPUTEX2023-01062023-162JPG.jpeg?v=1700162267"
-        width: 5000
-        height: 3333
         isCached: true
   - title: "Nvidia shares fall after China AI chip is delayed"
     excerpt: "Citing two sources familiar with the matter, Reuters writes that the delayed chip is the H20, the most powerful of three AI-focused products Nvidia has developed"
@@ -185,22 +169,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/Nvidia_28.jpeg?width=1200&height=800&fit=crop"
         width: 830
         height: 553
-        isCached: true
-  - title: "Nvidia earnings will give Wall Street a peek into AI demand heading into 2024"
-    excerpt: "Nvidia’s earnings report on Tuesday may give investors their clearest picture yet of the demand for artificial intelligence technology heading into next year"
-    publishedDateTime: 2023-11-20T16:43:00Z
-    webUrl: "https://www.nbcmiami.com/news/national-international/nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024/3164667/"
-    ampWebUrl: "https://www.nbcmiami.com/news/business/money-report/nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024/3164667/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/nvidia-earnings-will-give-wall-street-a-peek-into-ai-demand-heading-into-2024/3164667/?amp=1"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 56
-    images:
-      - url: "https://media.nbcmiami.com/2023/11/107300190-1694621998133-gettyimages-1662849007-AI_CEOs_518_091323.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Nvidia Triples Revenue As AI Chip Demand Stays Strong"
     excerpt: "Nvidia tripled revenue in its third quarter from a year ago, a sign that demand for its AI chips and systems is still strong."
@@ -356,8 +324,8 @@ related:
     quality: 19
   - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
     excerpt: "An exchange-traded fund tracking artificial intelligence stocks saw investors pouring money after six straight weeks of outflows, on the backdrop of strong quarterly results by chipmaker Nvidia and rising optimism that U."
-    publishedDateTime: 2023-11-24T12:10:00Z
-    webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html"
+    publishedDateTime: 2023-11-24T15:11:00Z
+    webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html?ref=biztoc.com"
     type: article
     provider:
       name: AOL

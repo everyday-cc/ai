@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-11-11-microsoft-celebrates-cognitive-services-milestones-with-new-ai-capabilities.md",
+      "title": "Microsoft celebrates Cognitive Services milestones with new AI capabilities",
+      "excerpt": "Value stream management involves people in the organization to examine workflows and other processes to ensure they are deriving the maximum value from their efforts while eliminating waste — of ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
+      "originalUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T16:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-german-ai-startup-hope-of-europe-cites-existential-danger.md",
       "title": "German AI startup, hope of Europe, cites 'existential danger'",
       "excerpt": "Europe's hope to rival OpenAI, Aleph Alpha, may have just raised close to 500 million euros ($534 million) from investors this week, but its co-founder said Friday the start-up was in a battle to even survive.",
@@ -1146,50 +1189,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-ai-ethics-board-in-us-doj-would-advise-on-facial-recognition-deployment.md",
-      "title": "AI ethics board in US DOJ would advise on facial recognition deployment",
-      "excerpt": "Members would review legal and ethics compliance when using facial recognition and related algorithms for law enforcement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202311/ai-ethics-board-in-us-doj-would-advise-on-facial-recognition-deployment",
-      "originalUrl": "https://www.biometricupdate.com/202311/ai-ethics-board-in-us-doj-would-advise-on-facial-recognition-deployment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg",
-          "width": 2048,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T17:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

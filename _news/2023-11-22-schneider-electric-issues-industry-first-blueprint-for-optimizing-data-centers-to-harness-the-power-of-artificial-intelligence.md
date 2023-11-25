@@ -48,15 +48,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "View | Microsoft's (Open)AI gambit pays off unexpectedly"
-    excerpt: "Sam Altman's departure from OpenAI to Microsoft marks a seismic shift in AI, potentially reshaping the competitive dynamics. Microsoft's strategic move may position it as a leader, intensifying tensions in Silicon Valley over innovation,"
-    publishedDateTime: 2023-11-20T14:23:00Z
-    webUrl: "https://www.cnbctv18.com/technology/microsoft-openai-gambit-pays-off-sam-altman-satya-nadella-microsoft-18369191.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 36
 
 secured: "RhQP0bANx8ny5aT75GmMY9bcPVHR/RXoPDXYgtGUXieoJEwxX0yjAXXhg7ugc0+LTKdV7FFbZ/2B3pepKbJKtNURtFRApxKZ0uM8yPkO/eh4G8GSBYYdgJT/aoyJUZRTXebzWnW7X1+vXLpgF056/sfywPayg+2VtBfOPVKheXfL6NUrZAva7Bnc7X2gh65KT/8gKX5zJVX5LKaMLf++CNsXUInNqk7nqRWev6kD0waChG+AIRGiZXaH9aS5Ymq/oOmxKZR+AFmmNJw8222DS3naszovQgSoIypnJIZ9+3Hjxq13jLGU0+7UmpqYbPiQ8IHembifODfjkVzB315UB4pS0EGFN+gReEFlwUn353o=;YcqGZbrA+5J/YkOWxnOHsQ=="
 ---

@@ -128,15 +128,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Supercharging Your Mid-Market Brand’s Voice In The Age Of AI"
-    excerpt: "AI can help you produce more content than ever before while maintaining your unique brand voice. But it requires some pre-work."
-    publishedDateTime: 2023-11-20T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/supercharging-your-mid-market-brands-voice-in-the-age-of-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Unlocking The Potential Of AI For Accounting Firms And Clients"
     excerpt: "In the ever-evolving landscape of finance and law, AI has emerged as a dynamic force reshaping how accounting firms and their clients operate."
     publishedDateTime: 2023-11-22T12:30:00Z
@@ -146,20 +137,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Surviving and Thriving in the Age of AI: How Healthcare Leaders Can Learn What They Need to Know"
-    excerpt: "AI may transform health care across the board, but not by itself. It's a tool, and like any tool, it will work more effectively and more safely in trained hands. As the AI revolution continues to grow,"
-    publishedDateTime: 2023-11-20T14:00:00Z
-    webUrl: "https://medcitynews.com/2023/11/surviving-and-thriving-in-the-age-of-ai-how-healthcare-leaders-can-learn-what-they-need-to-know/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 41
-    images:
-      - url: "https://medcitynews.com/uploads/2022/08/GettyImages-1415976995.jpg"
-        width: 724
-        height: 482
-        isCached: true
   - title: "Mastering the art of differentiation: Vital competencies for thriving in the age of artificial intelligence"
     excerpt: "In this age of AI, mastering these vital competencies not only propels your journey toward professional success but also equips you to unlock the transformative potential of AI, ensuring your prominence and prosperity in an increasingly automated world."
     publishedDateTime: 2023-11-25T10:15:00Z

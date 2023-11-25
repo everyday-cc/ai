@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-11-08-generative-ai-in-search-expands-to-more-than-120-new-countries-and-territories.md",
+      "title": "Generative AI in Search expands to more than 120 new countries and territories",
+      "excerpt": "Generative AI in Search, or Search Generative Experience (SGE), is expanding around the world, and adding four new languages.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/search/google-search-generative-ai-international-expansion/",
+      "originalUrl": "https://blog.google/products/search/google-search-generative-ai-international-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_hero_hVttB6n.width-1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-optimize-for-sustainability-with-amazon-codewhisperer.md",
       "title": "Optimize for sustainability with Amazon CodeWhisperer",
       "excerpt": "This post explores how Amazon CodeWhisperer can help with code optimization for sustainability through increased resource efficiency. Computationally resource-efficient coding is one technique that aims to reduce the amount of energy required to process a line of code and, as a result, aid companies",
@@ -1182,40 +1234,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-artificial-neural-networks-market-size-growth-to-fuel-lucrative-revenues-in-the-future.md",
-      "title": "Artificial Neural Networks Market Size Growth to Fuel Lucrative Revenues in the Future",
-      "excerpt": "Report Ocean has recently published “The Artificial Neural Networks Market” Research Report 2023-2031, offering a comprehensive analysis of the market. This report delves deep into the market dynamics, including key trends, upcoming technologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2023/11/08/artificial-neural-networks-market-size-growth-to-fuel-lucrative-revenues-in-the-future/",
-      "originalUrl": "https://ipsnews.net/business/2023/11/08/artificial-neural-networks-market-size-growth-to-fuel-lucrative-revenues-in-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T05:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

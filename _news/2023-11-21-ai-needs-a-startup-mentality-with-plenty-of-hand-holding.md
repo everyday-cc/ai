@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-sta
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1165
     height: 776
     isCached: true
+
+related:
+  - title: "AI Startup Stability Has a New Tool For Creating Generative Videos"
+    excerpt: "Startup Stability is taking generative AI up a notch. While the technology has been used largely for photos and voice replications, Stability is making waves with a new tool for advanced AI-generated videos."
+    publishedDateTime: 2023-11-22T17:25:00Z
+    webUrl: "https://hypebeast.com/2023/11/ai-startup-stability-generative-video-tool"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 17
 
 secured: "U4/LlTlixAhqSPKJuezfPoFnnUM5FbcbxCwn47VTlWC4HcTJuaWnsstMCE7JE7KU5xgmSNhswsFDny6Bdicw0wdujB9Q7y+j1H6WrMum8E2pJ1QYHB5uzo/9H6upEH/YBsY3yXS9HAJrQ2ghCj0anBlsZnCUy1f10/hZjhLqi+UiZ5OK31H8pReD44SV5CbR3UQ2bACcvMGIFkvKqJKWrzX8h+lqkkm02J1zi5XUhSgZM2uzZJ4ded/5g+8ik1bnWCcOFG5LFjxciqf4V11y2Edp5RbRnyhicF7TuVF28brZouPiDKRz/8f++DpZPlhfCPQ55KxEgk0TdXuLVQtzGudg51Wmk+7XOwh9/BiLOEPb0FrsGj9tRuMP0VvLhs2VWVAD3ZW0S2Q4GCiPYh3b5fmAsTH1ccC4Y74sTNZeundzOGj2Z2PLOGUEGfeNy1hLbeb0DTJHqLK5qhoyRRV4flnyJB7wVJsJ9d/I0uQLLOGP4BppKypIwUtjnpBxrhjMKQyCWxSJHRdieYl/uJjt9g==;xtx/+PtFqc7Bqni6Q7rDbQ=="
 ---

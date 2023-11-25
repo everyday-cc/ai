@@ -54,6 +54,59 @@
       ]
     },
     {
+      "path": "_news/2023-11-22-best-cyber-monday-deals-2023-50-sales-from-amazon-best-buy-walmart-target.md",
+      "title": "Best Cyber Monday deals 2023: 50+ sales from Amazon, Best Buy, Walmart, Target",
+      "excerpt": "If you're looking for a bargain this November, you're not the only one. Amazon has already posted a sneak peak for its upcoming 'Cyber Weekend' sale so we've already got a decent picture of what's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/cyber-monday/best-cyber-monday-deals",
+      "originalUrl": "https://www.techradar.com/cyber-monday/best-cyber-monday-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ARr35zMXd5NMsbknoeP8jR-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-21T16:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-ai-is-finding-its-feet-in-cross-border-payments-but-theres-a-long-road-ahead.md",
       "title": "AI Is Finding Its Feet In Cross-Border Payments – But There’s A Long Road Ahead",
       "excerpt": "Behind the scenes, most fintechs are likely to have long-term projects that involve generative AI, but when it comes to current applications, the space is divided.",
@@ -113,7 +166,7 @@
       "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-11-21-2023/card/microsoft-s-ai-fate-isn-t-entirely-in-its-hands-wsj-s-dan-gallagher-ZNSsTWIeKNo6MxWY6fb7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -269,7 +322,7 @@
       "originalUrl": "https://www.forbes.com/advisor/au/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -293,6 +346,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-chinese-tech-giant-baidus-shares-rise-2-after-revenue-beat.md",
+      "title": "Chinese tech giant Baidu's shares rise 2% after revenue beat",
+      "excerpt": "\"Baidu reported solid third-quarter financial results, demonstrating resilience in a challenging economic climate,\" Robin Li, Baidu CEO and co-founder of Baidu, said in a release. BEIJING ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/11/21/baidu-q3-earnings-chinese-tech-giant-reports-revenue-beat.html",
+      "originalUrl": "https://www.cnbc.com/2023/11/21/baidu-q3-earnings-chinese-tech-giant-reports-revenue-beat.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107111213-16618626982022-08-30t102021z_659801199_rc2x6w98tzw1_rtrmadp_0_baidu-results.jpeg?v=1678966622",
+          "width": 3500,
+          "height": 2333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/21/baidu-q3-earnings-chinese-tech-giant-reports-revenue-beat.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/21/baidu-q3-earnings-chinese-tech-giant-reports-revenue-beat.html",
+      "publishedDateTime": "2023-11-21T14:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -449,7 +554,7 @@
       "originalUrl": "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -584,57 +689,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-these-ai-agents-could-cut-your-workweek-to-just-3-days.md",
-      "title": "These AI agents could cut your workweek to just 3 days",
-      "excerpt": "While Elon Musk thinks AI will replace all jobs, this startup believes AI agents working with humans is the answer to workplace productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-agents-three-day-workweek",
-      "originalUrl": "https://thenextweb.com/news/ai-agents-three-day-workweek",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F11%2Fai-agents-three-day-workweek.jpeg&signature=7b53689e064a850aba2df56e610a69e1",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -843,7 +897,7 @@
       "originalUrl": "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -894,7 +948,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/21/ai-needs-a-startup-mentality---with-plenty-of-hand-holding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -935,57 +989,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-watch-cnbcs-special-report-satya-nadella-and-the-future-of-ai.md",
-      "title": "Watch CNBC's Special Report: Satya Nadella and the Future of AI",
-      "excerpt": "CNBC's Jon Fortt hosts a CNBC special report covering the latest out of the AI space including OpenAI's leadership turmoil, CNBC's interview with Microsoft CEO Satya Nadella, discussions with current players in the AI space and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2023/11/20/watch-cnbcs-special-report-satya-nadella-and-the-future-of-ai.html",
-      "originalUrl": "https://www.cnbc.com/video/2023/11/20/watch-cnbcs-special-report-satya-nadella-and-the-future-of-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107336950-1700533755Special-FULL-112023.jpg?v=1700533754&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T00:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1176,7 +1179,7 @@
       "originalUrl": "https://www.nytimes.com/2023/11/19/technology/cruise-ceo-kyle-vogt-quits.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {

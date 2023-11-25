@@ -7,7 +7,7 @@ originalUrl: "https://www.inforum.com/news/minnesota/minnesota-group-uses-artifi
 webUrl: "https://www.inforum.com/news/minnesota/minnesota-group-uses-artificial-intelligence-to-aid-monarch-butterflies"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Minnesota group uses artificial intelligence to aid monarch butterflies"
-    excerpt: "By Dan Gunderson St. Paul-based Monarch Joint Venture has a faster, more accurate method for measuring the reach and quality of pollinator habitat on the landscape. An artificial intelligence program called POLLi can count milkweed plants in images collected by drones."
-    publishedDateTime: 2023-11-20T14:22:00Z
-    webUrl: "https://www.austindailyherald.com/2023/11/minnesota-group-uses-artificial-intelligence-to-aid-monarch-butterflies/"
-    type: article
-    provider:
-      name: Austin Daily Herald
-      domain: austindailyherald.com
-    quality: 32
   - title: "Minnesota group uses artificial intelligence to aid monarch butterflies"
     excerpt: "An artificial intelligence program called POLLi can count milkweed plants in images collected by drones. Milkweed is the host plant for monarch butterflies and critical for their survival. Similar technology is widely used in agriculture to check crop ..."
     publishedDateTime: 2023-11-23T20:02:00Z

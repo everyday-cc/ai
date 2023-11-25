@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind Says New Multi-Game AI Is a Step Toward More General Intelligence"
-    excerpt: "A new Google DeepMind algorithm that can tackle a much wider variety of games could be a step towards more general AI, its creators say."
-    publishedDateTime: 2023-11-20T15:00:00Z
-    webUrl: "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/"
-    ampWebUrl: "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 72
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2023/11/chess-pieces-knights.jpeg"
-        width: 1408
-        height: 792
-        isCached: true
   - title: "Google's DeepMind AI can make better weather forecasts than supercomputers"
     excerpt: "DeepMind's new machine learning algorithm takes less than a minute to make its forecasts and can run on a desktop. But it won't replace traditional forecasts anytime soon."
     publishedDateTime: 2023-11-21T18:34:00Z

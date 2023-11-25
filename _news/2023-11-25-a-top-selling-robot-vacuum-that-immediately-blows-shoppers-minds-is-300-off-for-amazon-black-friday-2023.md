@@ -24,6 +24,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "A top-selling robot vacuum that 'immediately' blows shoppers' minds is $300 off for Amazon Black Friday 2023"
+    excerpt: "Shark’s AI Ultra Robot Vacuum with a self-emptying base is just $300 after ... naming the rooms within the companion app for iOS and Android. Once mapped, you can start a cleaning mode to tackle your entire space, a single room, or certain ones you ..."
+    publishedDateTime: 2023-11-24T15:45:00Z
+    webUrl: "https://www.thestreet.com/deals/shark-ai-ultra-robot-vacuum-black-friday-2023-sale-amazon"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 0
+
 secured: "cqOnPfDjaZt6XWO5YJuFJwXvJJSD0a+5UnZD9mAC8Qi776a+tNCtAXHcMr6BOKgrssWIOAINhUeq7HmzHg7jYVBaJY1qecm815UktCLgKFXtCtejVgXBxCilYTMmnzr8GwSlAKtSb0BNDUOi2uIN/6/R6VqaZeHY+YHidjlneYBxOKGWyv8nx4ezppt2YN1R/BYNb734pJoidDeWrZPEkU6O8/2IKLVpbt9T6aXxwe2hCjwPKNvsq0UswK1PxFxHtzNWEgSCXAs+TpZb0g+Vd39r0dgdkwMNzYxTmvVjqQjLza0tTDzHOmSyAdoGx8Onp7XjyGck7/QXp3Cth9OvZF5mWwMeVN5f/+jFjKOOFmo=;uGkV60l4FuVOw5DPGBmWVw=="
 ---
 

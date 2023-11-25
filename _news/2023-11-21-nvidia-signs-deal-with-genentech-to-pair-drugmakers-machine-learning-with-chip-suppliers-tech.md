@@ -7,7 +7,7 @@ originalUrl: "https://endpts.com/nvidia-signs-deal-with-genentech-to-pair-drugma
 webUrl: "https://endpts.com/nvidia-signs-deal-with-genentech-to-pair-drugmakers-machine-learning-with-chip-suppliers-tech/"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,31 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Nvidia collaborates with Genentech to accelerate AI-driven drug discovery"
+    excerpt: "Nvidia said its offerings will accelerate the training and inference of generative models used in Genentech’s “lab in the loop” framework, where extensive experimental data is fed into models for iterative drug discovery."
+    publishedDateTime: 2023-11-21T19:27:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-collaborates-with-genentech-to-accelerate-ai-driven-drug-discovery/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 48
+  - title: "Wipro Teams with NVIDIA to Bring the Power of Generative AI to Healthcare Insurance Companies"
+    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading technology services and consulting company, today announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI-driven strategies,"
+    publishedDateTime: 2023-11-21T13:04:00Z
+    webUrl: "https://www.itemonline.com/wipro-teams-with-nvidia-to-bring-the-power-of-generative-ai-to-healthcare-insurance-companies/article_1d55ebef-5e40-5a6d-b788-72e470c8cc78.html"
+    type: article
+    provider:
+      name: The Huntsville Item
+      domain: itemonline.com
+    quality: 43
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/5879-RTJ-Summer-Packages-300x250.gif"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "Cupabz9X4kCE6pTLZoInQMHN5ecfa1iW+PhwyMkGr26uXhlsKxBnnjRjjAWhR5uXUpwqPf2SddcPYPWMi8Ki/prSBQKFJRYPRnxrAo6YgPxosW3T9AuzpMPn6msE+J/D123X1kZ5PV+Kpst1480Kfx8asX8h3IKs3okKIt1wDm7EeTrgYsdIWDmIZ9WlKAkW6K9usy8meWNLk4W82PDSOPRSZ1Y3kiuSsVNfkomF8VpuxoKCreTyHvAhE1NrG7D8ZXhHv1Qu0dNUqYjfhfATXbIDy6WaQ2n4eYtc8LVDfHrxIdwnBLNavF1KSTg7p3gsmEyAsjM3B8cjHobVzD+zMCsVVslYpohsTe+KWBDq9EneBFZl11Not7jzx2xbhY1v//vo9U8KRA/mbrkrVNpZNiWkR3RLGj6PBMOy+Msd35DrvpzfWo8hNaUp4E/sgw4xMl++J/TwT2xaxHverDt0+yfGBgx3gPWazUgVscqh6RIcEXxR063z9J6riUjz5r0mSu8yc2FPhVZ++8aYAK0f1g==;yCU75xlFSKmakwYRcjLD4A=="
 ---

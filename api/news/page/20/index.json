@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-11-07-intel-races-to-catch-rivals-as-ai-boom-supercharges-chip-competition.md",
+      "title": "Intel races to catch rivals as AI boom supercharges chip competition",
+      "excerpt": "TAIPEI -- U.S. chip giant Intel is on track to deliver five upgrades to its advanced manufacturing process in four years, CEO Pat Gelsinger said on Tuesday as the company faces pressure to reassure PC and server-making clients that its technology will remain competitive.",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/Tech/Semiconductors/Intel-races-to-catch-rivals-as-AI-boom-supercharges-chip-competition",
+      "originalUrl": "https://asia.nikkei.com/Business/Tech/Semiconductors/Intel-races-to-catch-rivals-as-AI-boom-supercharges-chip-competition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F2%252F7%252F3%252F0%252F46800372-1-eng-GB%252FIMG_9316%2520%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BC.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T06:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nikkei Asia",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-billionaire-binny-bansal-to-launch-ai-as-a-service-startup-report.md",
       "title": "Billionaire Binny Bansal to launch AI-as-a-service startup: Report",
       "excerpt": "billionaire flipkart cofounder binny bansal is launching an aiasaservice startup to target global customers and has hired 15 experts for the venture consisting mostly of ai scientists bloomberg report",
@@ -1149,58 +1192,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-xbox-partners-with-inworld-ai-to-build-ai-tools-for-game-development.md",
-      "title": "Xbox partners with Inworld AI to build AI tools for game development",
-      "excerpt": "GamesBeat Next's on-demand library is now live! Start catching up on the 30+ sessions you might have missed.  Watch Now Microsoft’s Xbox and Inworld AI have partnered to create AI-powered game development tools for narrative and character creation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/xbox-partners-with-inworld-ai-to-build-ai-tools-for-game-development/",
-      "originalUrl": "https://venturebeat.com/games/xbox-partners-with-inworld-ai-to-build-ai-tools-for-game-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/11/inworld-xbox-1x.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -33,15 +33,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "View | Microsoft's (Open)AI gambit pays off unexpectedly"
-    excerpt: "Sam Altman's departure from OpenAI to Microsoft marks a seismic shift in AI, potentially reshaping the competitive dynamics. Microsoft's strategic move may position it as a leader, intensifying tensions in Silicon Valley over innovation,"
-    publishedDateTime: 2023-11-20T14:23:00Z
-    webUrl: "https://www.cnbctv18.com/technology/microsoft-openai-gambit-pays-off-sam-altman-satya-nadella-microsoft-18369191.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 36
   - title: "Schneider Electric Issues Industry-First Blueprint for Optimizing Data Centers to Harness the Power of Artificial Intelligence"
     excerpt: "Tech - Schneider Electric, the leader in the digital transformation of energy management and automation, today announced the launch of an industry-first guide to"
     publishedDateTime: 2023-11-22T12:43:00Z

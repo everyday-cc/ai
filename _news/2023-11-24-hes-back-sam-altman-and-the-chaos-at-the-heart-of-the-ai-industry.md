@@ -44,20 +44,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Microsoft Hires Sam Altman Hours After OpenAI Rejects His Return"
-    excerpt: "The announcement capped a tumultuous weekend for OpenAI, after Mr. Altman made a push to reclaim his job as C.E.O. of the artificial intelligence company."
-    publishedDateTime: 2023-11-20T16:19:00Z
-    webUrl: "https://www.nytimes.com/2023/11/20/technology/openai-altman-ceo-not-returning.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 86
-    images:
-      - url: "https://static01.nyt.com/images/2023/11/20/multimedia/20openai-tkjv/20openai-tkjv-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "AI Wizard Sam Altman Shows What Real Leadership Is. His Bosses Were Clueless"
     excerpt: "A lot happened to artificial intelligence pioneer wizard Sam Altman, recently. But for me mostly it demonstrated how his bosses knew little about leadership. First let’s recap the basics of what happened over the past few days. First, Altman was a cofounder of OpenAI, a leading company in the development of advanced artificial intelligence."
     publishedDateTime: 2023-11-24T14:02:00Z
@@ -270,20 +256,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "OpenAI’s Board Set Back the Promise of Artificial Intelligence"
-    excerpt: "I was the first venture investor in OpenAI. The weekend drama illustrated my contention that the wrong boards can damage companies. Fancy titles like “Director of Strategy at Georgetown’s Center for Security and Emerging Technology” can lead to a false sense of understanding of the complex"
-    publishedDateTime: 2023-11-20T15:53:00Z
-    webUrl: "https://www.theinformation.com/articles/openais-board-set-back-the-promise-of-artificial-intelligence"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 52
-    images:
-      - url: "https://tii.imgix.net/production/articles/11747/7184b549-37ed-4712-b7c3-ba77373bcac5.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Was OpenAI Brouhaha Aimed To Derail AI Capability To Complete Grade School Math?"
     excerpt: "It is being reported that a group of staff researchers at OpenAI conveyed their concerns to the board of directors"
     publishedDateTime: 2023-11-23T17:48:00Z
@@ -312,15 +284,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Xbox Already Has Big AI Plans, Now It Has Sam Altman"
-    excerpt: "Sam Altman beefing up Microsoft's AI division will likely end up having ramifications for Xbox itself down the line."
-    publishedDateTime: 2023-11-20T14:39:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2023/11/20/xbox-already-has-big-ai-plans-now-it-has-sam-altman/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Sam Altman Exposes the Charade of AI Accountability"
     excerpt: "The OpenAI founder will find it harder to convince the world he is working for the good of humanity, and not for the good of shareholders. He is now just another Big Tech executive."
     publishedDateTime: 2023-11-20T19:00:00Z
@@ -498,20 +461,6 @@ related:
       name: tech
       domain: techstory.in
     quality: 36
-  - title: "Sam Altman warns AI could kill us all. But he still wants the world to use it"
-    excerpt: "ET By Samantha Kelly, CNN New York (CNN) — Sam Altman thinks the technology underpinning his company’s most famous product could bring about the end of human civilization. In May, OpenAI CEO Sam Altman filed into a Senate subcommittee hearing room in Washington,"
-    publishedDateTime: 2023-11-20T16:14:00Z
-    webUrl: "https://kion546.com/news/2023/11/20/sam-altman-warns-ai-could-kill-us-all-but-he-still-wants-the-world-to-use-it-3/"
-    type: article
-    provider:
-      name: KION
-      domain: kion546.com
-    quality: 36
-    images:
-      - url: "https://kion546.b-cdn.net/2023/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG83cG44bzkwMDAyM2I2aWJibXUzczEw-L19wYWdlcy9jbG83b3o5Z3gwMDAwMjZwOGRydXRhazAw.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "OpenAI CEO Sam Altman Funds Longevity Startup With Goal To Increase Human Lifespan By 10 Years – Yahoo Finance"
     excerpt: "A startup firm backed by an artificial intelligence (AI) industry leader aims to expand human lifespan by 10 years.Sam Altman is the CEO of OpenAI, the"
     publishedDateTime: 2023-11-24T07:40:00Z
@@ -526,15 +475,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Before he was fired, OpenAI's Altman sought billions for AI chip venture"
-    excerpt: "Only weeks before he was suddenly fired by OpenAI, CEO Sam Altman was seeking billions from investors to build an artificial intelligence chip company. The new venture, first reported by Bloomberg, would have been at least somewhat separate from OpenAI, but Altman pitched the business to investors who were not able to invest in the AI startup."
-    publishedDateTime: 2023-11-20T13:28:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/before-he-was-fired-openais-altman-sought-billions-for-ai-chip-venture/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 33
   - title: "AI breakthrough that could threaten humanity might have been key to Sam Altman’s firing"
     excerpt: "Current programs like AI are good at writing and language translation as they predict the next word. Answers to the same prompt might vary as a result. But with math, there can only be an answer. Once math is conquered, AI will have greater reasoning ..."
     publishedDateTime: 2023-11-23T11:51:00Z

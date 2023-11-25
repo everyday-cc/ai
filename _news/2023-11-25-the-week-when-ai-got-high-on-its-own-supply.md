@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/openai-sam-altman-microsoft-week-roundup-ai-bo
 webUrl: "https://gizmodo.com/openai-sam-altman-microsoft-week-roundup-ai-board-1851042201"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Highlights of the 2023 Executive Order on Artificial Intelligence"
+    excerpt: "The following is the Nov. 17, 2023, Congressional Research Service report, Highlights of the 2023 Executive Order on Artificial Intelligence for Congress. From the report On October 30, 2023, the Biden Administration released Executive Order (E."
+    publishedDateTime: 2023-11-21T12:56:00Z
+    webUrl: "https://news.usni.org/2023/11/21/highlights-of-the-2023-executive-order-on-artificial-intelligence"
+    type: article
+    provider:
+      name: USNI
+      domain: usni.org
+    quality: 17
 
 secured: "stCdya/xZUKVFcv+HS9kDxB7LzhVQQ2H0o2P8DZU5AnfoAceV7j4N6ggmZGhaTAWZePMUOK3txB4Kz3129wEMWWtIBGCTZViULkvydZkw5eUmgiCaYzhN7sas+PiSZtGIJ8a0zh/5iCw71giVNAA8bevDWG/+t155ebxqFduoRcnx6rJQOGb0BUJAZkypw2FqANH7jsfw/j4drg4B+pJXGyNjPFrHGbHR5iywu+YeDV2vkuv9KDqO+0NhvL5QFjQrlAtzqTOxfCKvV/vmMnIM7+xTIv8hEiosbf4ey+O4fQ9Amdufze06/zt9Dx0y7F7KORwj/YPd7DmfCXaRruDEYDIdgTJvIY8/Tl6eDN/kWWweGdKNKW0me6VIf+DeJBkiByZwHoXG6sup8gsVKMhx6drEjPOt4XH++dl5mBPsce9W2c0f4pmigXmMQMu81dgXhVoL1Wr6U6rx3YmbMnmwh7KfBJrUBRg/FJLfIUdp00VOXsdhajCx5kpMaM/fbIiD0T6EjPS2SHRQn+eId8Hbw==;/P2NyjdeuVqOjaswOzaQ2Q=="
 ---

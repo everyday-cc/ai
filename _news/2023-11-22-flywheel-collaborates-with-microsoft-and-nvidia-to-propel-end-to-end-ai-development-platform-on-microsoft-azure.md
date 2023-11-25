@@ -97,22 +97,6 @@ related:
         width: 1023
         height: 695
         isCached: true
-  - title: "Microsoft Makes A New Move To Dominate Artificial Intelligence"
-    excerpt: "OpenAI has hired Emmett Shear as its new interim CEO. Shear was co-founder and ex-CEO of video game streaming service Twitch. Twitch is now owned by Amazon.com, Inc. AMZN . Shear has been in favor of slowing AI development."
-    publishedDateTime: 2023-11-20T16:43:00Z
-    webUrl: "https://www.benzinga.com/23/11/35878617/microsoft-makes-a-new-move-to-dominate-artificial-intelligence"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35878617"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35878617"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://cdn.benzinga.com/files/nicholas-cappello-wb63zqj5gne-unsplash_10_9.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Explained | How NVIDIA's AI gamble has paid off"
     excerpt: "NVIDIA reported a 3x revenue growth, reaching $18.12 billion, with its data centre business soaring 279% to $14.5 billion, constituting 80% of total revenue. The shift from GPU to AI solutions propelled the company's transformation."
     publishedDateTime: 2023-11-22T12:19:00Z
@@ -278,6 +262,6 @@ related:
         height: 280
         isCached: true
 
-secured: "k707pboo+V5A+YD4/WRBBEXRee13rGAyCbkJPiZWzkfUeNGAAPNLCY0Z0qA7O7Dl5/dt4Wp/S/qKI0dFEw4X1UebVno8Jz9eYOepnXTdUR6ROEOBQXaiQj1MW+HtrbOTo6Ptb8z/hevCCJvYduBJHpRof/D5xq1QkTPs2HIETvv/qGNLGaXNRFxbKWG31CM3gJqVt3RzeHIb6BuFyc8/X1tcWYBmK83ZHPMneDAioZrTz8ZNNFk/dVYqEup7hRZ5D/2YiUQe1qwJR8JT7ez0PX1jijrjE7/7KKnyHqlB24Gy3BSjdG8htwRibReXrgYpkFu/n9AfrzmwtiFmlSVWhnQLnAtgu7k+YT7UBKuDr+GikUZVpVpV8rrlsC2T4geldhkgVotwVfedULjcOuf3y6K5exQZTcSZw051Z44E4tD32YKY2eQlKTc/W0kRiqMRTS1IKzNe6SfPGwusl2/Z+ZWodfvXVJjisfxlQ6rzXcRq+jr5lASCG+iUyt4JiFNJJjai+p7epsn8Wq7n62S/+w==;DsE2nrLsEq1xIxZFTZvqiA=="
+secured: "kEiHHdnJS7o8CfYBng4m3qGsmL1Y+exdkmYhuBj1bAnKgVRPqf5sIaseVVnD9p3FKdeDvZYK9s0/eqH8j4Bqvu5uysV47OETdUqq1+uVbj+cwz8QtsaCTVSI88tTIFkWYcyDHYPSDmEeKZtyhGj5XVYnd6Ks0S9RAQkvLUAgO/YsoGehuCG4nD9mm0nohFOyBXzG5UVohoUdNHVsX3X53VT4qmJJ0O+DylRBWpA9/CpeOwBtDJSgEJxuMooXvSaW0guQ8opmni8lkEYhF9iybdYCVAt3vCKE0YGl0tFSSpG2Zmo/SryrqNAA4m+07/7Cb8/Oqi4pgrDhPGmOBAHxu832bshn9C3+sbq6/QiFPGHXP09VYAvSJBqZNHK+qr3Yiyj4eF26gkif4kv4I7XuzecnWiNuTT313jOVCP9xW4/NHrXfTPfocyh0K8ksr6LYrfrc3IhZPHmQosEgcUeq9ifZ5/fMD5bjq6QOuAPF6i+ATPUNdbXF8yNEq+DLKwbxmnHMvtC5ipuUFZZQHWcH7A==;GfKxjXAa7YuVQrKD1+EDtQ=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-10-29-excited-and-scared-as-experts-seek-to-tame-chatgpt-and-medical-ai.md",
+      "title": "“Excited” And “Scared” As Experts Seek To Tame ChatGPT And Medical AI",
+      "excerpt": "Grappling with what ChatGPT and generative AI will mean for health and medicine? The president of the National Academy of Medicine is both \"excited\" and \"scared.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelmillenson/2023/10/29/excited-and-scared-as-experts-seek-to-tame-chatgpt-and-medical-ai/",
+      "originalUrl": "https://www.forbes.com/sites/michaelmillenson/2023/10/29/excited-and-scared-as-experts-seek-to-tame-chatgpt-and-medical-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/653e82dc8db972da878b738f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelmillenson/2023/10/29/excited-and-scared-as-experts-seek-to-tame-chatgpt-and-medical-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelmillenson/2023/10/29/excited-and-scared-as-experts-seek-to-tame-chatgpt-and-medical-ai/amp/",
+      "publishedDateTime": "2023-10-29T16:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-29-anas-andaloussi-from-minecraft-player-to-ai-business-prodigy.md",
       "title": "Anas Andaloussi: From Minecraft Player To AI Business Prodigy",
       "excerpt": "At just 18 years old, Anas Andaloussi amassed $50,000 a month through AI-powered projects, fueled by his mastery of SEO",
@@ -1089,57 +1140,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-apple-loop-iphone-16-price-shock-apples-missing-ai-mystery-imac-launch.md",
-      "title": "Apple Loop: iPhone 16 Price Shock, Apple’s Missing AI, Mystery iMac Launch",
-      "excerpt": "This week’s Apple headlines; a shocking iPhone price rise, the release of iOS 17.1, Apple’s Scary Fast event, plans for a new iMac and MacBook Pro, iPad Air details leak, Apple’s missing AI, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ewanspence/2023/10/27/apple-headlines-iphone-16-pro-price-scary-fast-imac-macbook-pro-ios-update-ipad-air/",
-      "originalUrl": "https://www.forbes.com/sites/ewanspence/2023/10/27/apple-headlines-iphone-16-pro-price-scary-fast-imac-macbook-pro-ios-update-ipad-air/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6529b634ba755d58cc946446/0x0.jpg?format=jpg&crop=1248,702,x144,y281,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/27/apple-headlines-iphone-16-pro-price-scary-fast-imac-macbook-pro-ios-update-ipad-air/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/27/apple-headlines-iphone-16-pro-price-scary-fast-imac-macbook-pro-ios-update-ipad-air/amp/",
-      "publishedDateTime": "2023-10-27T20:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

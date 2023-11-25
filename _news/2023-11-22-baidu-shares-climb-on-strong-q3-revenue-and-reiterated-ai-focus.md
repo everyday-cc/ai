@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu’s Strategic Approach to Navigate AI Development amidst US Export Restrictions"
-    excerpt: "This suggests a potential shift towards self-reliance in AI technology, a move that could modify the global AI landscape."
-    publishedDateTime: 2023-11-22T14:53:00Z
-    webUrl: "https://www.gizmochina.com/2023/11/22/baidu-us-ai-development-restriction/"
+  - title: "Chinese tech giant Baidu's shares rise 2% after revenue beat"
+    excerpt: "\"Baidu reported solid third-quarter financial results, demonstrating resilience in a challenging economic climate,\" Robin Li, Baidu CEO and co-founder of Baidu, said in a release. BEIJING ..."
+    publishedDateTime: 2023-11-21T14:28:00Z
+    webUrl: "https://www.cnbc.com/2023/11/21/baidu-q3-earnings-chinese-tech-giant-reports-revenue-beat.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/11/21/baidu-q3-earnings-chinese-tech-giant-reports-revenue-beat.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/21/baidu-q3-earnings-chinese-tech-giant-reports-revenue-beat.html"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 63
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/baidu.jpg"
-        width: 1280
-        height: 720
+      - url: "https://image.cnbcfm.com/api/v1/image/107111213-16618626982022-08-30t102021z_659801199_rc2x6w98tzw1_rtrmadp_0_baidu-results.jpeg?v=1678966622"
+        width: 3500
+        height: 2333
         isCached: true
   - title: "Baidu beats revenue estimates, navigates AI Chip challenges amidst U.S. export curbs"
     excerpt: "In third-quarter performance, Baidu, reported a 6% increase in revenue to 34.45 billion yuan, surpassing analysts' expectations."
@@ -48,19 +50,33 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 57
-  - title: "Baidu beats Q3 revenue estimates, reiterates AI investment plans to spur growth"
-    excerpt: "U.S.-listed shares of Baidu were marginally higher in pre-market trade. Baidu has in recent years focused increasingly on AI, creating a self-driving vehicle and investing heavily in generative AI, which is capable of creating text, images and other media."
-    publishedDateTime: 2023-11-21T02:57:00Z
-    webUrl: "https://www.aol.com/news/baidu-beats-q3-revenue-estimates-090740285.html"
+  - title: "Baidu says sees limited impact from U.S. chip curbs after Q3 revenue beat"
+    excerpt: "Baidu has enough artificial intelligence chips stockpiled to soften the impact of U.S. technology export curbs on its business for now, the Chinese tech giant said on Tuesday after reporting forecast-beating quarterly revenue."
+    publishedDateTime: 2023-11-21T18:19:00Z
+    webUrl: "https://www.aol.com/baidu-beats-q3-revenue-estimates-090740285.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 35
+    quality: 55
     images:
       - url: "https://media.zenfs.com/en/aol_reuters_29/3aa8ddde2648dbe16efbfd4f98c6b0d3"
         width: 800
         height: 534
+        isCached: true
+  - title: "Baidu Is Looking for AI Chip Alternatives, Chinese Tech Giant’s Robin Li Says"
+    excerpt: "Baidu, which launched its chatbot Ernie Bot 4.0 last month, does not need chips with too much computing power, Li said at an analyst conference after the Beijing-based firm’s earnings call yesterday. Baidu’s four-layer architecture and algorithmic strengths will also help improve efficiency and mitigate the impact of these challenges."
+    publishedDateTime: 2023-11-22T06:18:00Z
+    webUrl: "https://www.yicaiglobal.com/news/baidu-is-looking-for-ai-chip-alternatives-chinese-tech-giants-robin-li-says"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 51
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/11/39554594711237.jpg"
+        width: 770
+        height: 510
         isCached: true
 
 secured: "GW8StaXAtdnTdKfYKqTUDCzw5zFHotUSdwch1EbXDXfJQC+Ro7zg2fJRdui2sbFmzxMzpfv+cZMXhBcnaImGZHBPOg/XYR9K5ZMnAAWKVepFRuNRU/Yv0YvEm/9tw8u4dDo/nV49V3fEEOu8OYU5xQiX6r91/7eUwMsOYOteMVhNg7y3xQD7WimxrkT9CGJZT8kcKkjx6O0YXua08K6d/QmHpbOC3YT3j3LXz9mSHCPt5eZYAiBaufr/9NX4TjDYuTTaIpQvDN1gx4aOXVR5V9gNwnw2rxgN8kD4tgIEeKRfVvLxbGLBrpW3AZvJDYNTVwmESCGGbuAk4TmcbdqWaokXOwm90kEdpdKOrv0vtVAf2LEZrcNr8bXsAE0RmHDRUo5E+rctzpiKX71N1n3OilVRTYBSeoPJwGWqe+jfC17oJHzlC4uoQsrAqSu5fIjI4uvrbPg87ChvMxm9HgeEFLsYtyHENhY+OUx7yEtLl+qeQeRaho/isLtXVzeZja3QJZQdBhWTsbJJP/NMLmfl1w==;bL6rx1xVVlV/PmsD4z0ygw=="

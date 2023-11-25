@@ -89,20 +89,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Startups must add AI value beyond ChatGPT integration"
-    excerpt: "Fine-tuning an AI model using collected or synthetic data can deliver a competitive advantage to your startup. How to deliver added value to your AI-based startup via fine-tuning When seeking how to involve AI in your product, there are a few ways to go."
-    publishedDateTime: 2023-11-20T14:58:00Z
-    webUrl: "https://techcrunch.com/2023/11/20/startups-must-add-ai-value-beyond-chatgpt-integration/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1084580876.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Baidu's AI Chatbot Earnie 4 Is Off To A Good Start, Says Bullish Analyst"
     excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
     publishedDateTime: 2023-11-22T18:11:00Z
@@ -164,20 +150,6 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/11/22/1600x900/FILES-US-TECHNOLOGY-AI-ALTMAN-1_1700623250597_1700623286912.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "AWS to power Yellow.ai's AI-powered voicebot, chatbot solutions globally"
-    excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its"
-    publishedDateTime: 2023-11-20T15:12:00Z
-    webUrl: "https://www.thehansindia.com/tech/aws-to-power-yellowais-ai-powered-voicebot-chatbot-solutions-globally-839138"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 53
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/11/20/1400849-aws.jpg"
-        width: 1200
-        height: 720
         isCached: true
   - title: "Baidu's AI Chatbot Ernie 4 Is Off To A Good Start, Says Bullish Analyst"
     excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
@@ -252,20 +224,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/04/chat-gpt-open-ai.jpg?quality=82&strip=all"
         width: 3024
         height: 1701
-        isCached: true
-  - title: "A|I: The AI Times – Everything you need to know about the sudden firing of Sam Altman"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2023-11-20T14:43:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-everything-you-need-to-know-about-the-sudden-firing-of-sam-altman/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 32
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2023/11/sam_altman_with_fire_around_him.jpg"
-        width: 1024
-        height: 640
         isCached: true
   - title: "How to Translate Languages with ChatGPT: Bridging Communication Gaps with AI"
     excerpt: "ChatGPT signifies the dawn of a transformative phase in the realm of AI-powered language translation. Its exceptional proficiency in grasping the nuances of context and generating natural, fluent language across a diverse range of linguistic landscapes ..."

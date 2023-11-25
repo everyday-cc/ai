@@ -25,15 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Buttigieg Vows to 'Do Everything We Can' to Ensure Cruise, Other Self-Driving Vehicles Safe"
-    excerpt: "WASHINGTON (Reuters) - U.S. Transportation Secretary Pete Buttigieg said Monday the federal government will do \"everything we can\" using existing regulatory powers to ensure General Motors robotaxi unit Cruise and other autonomous vehicles are deployed safely."
-    publishedDateTime: 2023-11-20T15:13:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-11-20/buttigieg-vows-to-do-everything-we-can-to-ensure-cruise-other-self-driving-vehicles-safe"
+  - title: "CEO of self-driving Cruise out at GM"
+    excerpt: "General Motors' self-driving-car unit, Cruise, is going through leadership changes following the loss of permits and the pause of operations in California."
+    publishedDateTime: 2023-11-20T23:03:00Z
+    webUrl: "https://sjvsun.com/business/ceo-of-self-driving-cruise-out-at-gm/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: The San Joaquin Valley Sun
+      domain: sjvsun.com
     quality: 24
+    images:
+      - url: "https://sjvsun.com/wp-content/uploads/2023/11/SUN-OG-_-Feat-162.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Founder of GM’s self-driving division resigns amid collisions"
+    excerpt: "Kyle Vogt, the founder and CEO of Cruise, General Motors’ self-driving vehicle unit, resigned Sunday following a turbulent period."
+    publishedDateTime: 2023-11-21T18:19:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/nov/21/founder-gms-self-driving-division-kyle-vogt-resign/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 24
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2018/11/29/general_motors_cruise_management_73747_c0-127-4040-2483_s1200x700.jpg?f041ecf2ef0f1df903051c2acd67b2bff2f7194e"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
     excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars. Vogt's decision to step down, announced late Sunday ..."
     publishedDateTime: 2023-11-22T05:18:00Z
@@ -48,6 +67,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Cruise woes claim CEO, drive shakeup, but GM still believes in self-driving technology"
+    excerpt: "Dan Ives, managing director and senior equity analyst at Wedbush Securities, said in a statement Vogt's resignation is \"another major black eye for the Cruise franchise and GM. He was the turnaround CEO and instead it’s another debacle.\""
+    publishedDateTime: 2023-11-21T03:01:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2023/11/20/cruise-woes-claim-ceo-drive-shakeup-but-gm-still-touts-self-driving-tech/71654392007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 11
 
 secured: "B10oCj6PgWfXGsMMzdXYaJ0LzufiCVwZnb1uEYSIV1vMua9ZtC/KcF9Lc8IlOZ7imAe6RxbK1e2GePzGl4VkbpfELaEDKF4xmrZBwI2TQq35t74RhuThTEeC/XDAmFpEOEzIGskak2wDVx0vtWJJeJ0D2Qgw5/SG7MiBRdzNKV1vfqGdmjieE2CTZT5J/681FgLAo1A5T9hdHGrt1lmxF1/55hH3RkNpGzRLkBngak4hZ0nXqgUtQz4teyjUuUF0U690anVPPfvZA7/l4eFTLUPFfAl7BpfQc72T/NfDBQuWRHUaS17D174n4dBJ6qLKdeV1W8/EOXQ9hMZMwwmNDXqTezYa5QUnu59bJeFlswdEy25lf9orlHMOV6wbnL4+TDXkslOh+vhcpUAruY9LLzoz7/hTvWeT4BBGQlx8BF0bmaVKGXPBebZbcnQ7bAmGurBLLNrQ2v+QAkWM+I6hQ4OZiW0ZHAsuh6xi/7/S6W4y4bBLKGf7v0PwTEvzHRzo1R6hK+t9UvmJjitJ5pGbmw==;ViKDAtVhbbAGGITLcZd+zw=="
 ---

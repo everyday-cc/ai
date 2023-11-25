@@ -25,54 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "SandboxAQ Announces AI Simulation Collaboration with NVIDIA to Impact the Physical World"
-    excerpt: "AI and Quantum Simulation (AQ) is Next Significant AI Advancement for Creating Novel Battery Chemistries, Pharmaceutical Drugs, Energy Generation, Construction Materials and More PALO ALTO, Calif., Nov."
-    publishedDateTime: 2023-11-20T13:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35873661"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35873661"
+  - title: "Singapore Fintech Festival 2023: Top 9 Highlights You Might Have Missed"
+    excerpt: "The Singapore Fintech Festival (SFF) wrapped up its annual event on November 17, 2023, concluding a multi-day fintech program that attracted an estimated audience 60,000+ attendees."
+    publishedDateTime: 2023-11-22T09:00:00Z
+    webUrl: "https://fintechnews.sg/80895/events/singapore-fintech-festival-2023-top-9-highlights-you-might-have-missed/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Singapore-Fintech-Festival-2023-Top-8-Highlights-You-Might-Have-Missed.jpg"
+        width: 1024
+        height: 567
         isCached: true
-  - title: "Nvidia collaborates with Genentech to accelerate AI-driven drug discovery"
-    excerpt: "Nvidia said its offerings will accelerate the training and inference of generative models used in Genentech’s “lab in the loop” framework, where extensive experimental data is fed into models for iterative drug discovery."
-    publishedDateTime: 2023-11-21T19:27:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-collaborates-with-genentech-to-accelerate-ai-driven-drug-discovery/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 48
-  - title: "Wipro Teams with NVIDIA to Bring the Power of Generative AI to Healthcare Insurance Companies"
-    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading technology services and consulting company, today announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI-driven strategies,"
-    publishedDateTime: 2023-11-21T13:04:00Z
-    webUrl: "https://www.itemonline.com/wipro-teams-with-nvidia-to-bring-the-power-of-generative-ai-to-healthcare-insurance-companies/article_1d55ebef-5e40-5a6d-b788-72e470c8cc78.html"
-    type: article
-    provider:
-      name: The Huntsville Item
-      domain: itemonline.com
-    quality: 43
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/5879-RTJ-Summer-Packages-300x250.gif"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "ConcertAI's TeraRecon, Integrates Clinical and Generative AI, Supporting Clinical Research and Advancing Clinical Care Solutions at #RSNA23"
-    excerpt: "New solutions empower clinicians and research teams with AI orchestration, model development, visualization, and multi-modal data management to"
-    publishedDateTime: 2023-11-20T17:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/concertai-s-terarecon-integrates-clinical-and-generative-ai-supporting-clinical-research-and-advancing-clinical-care-solutions-at-rsna23-1032836447"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 15
 
 secured: "8TwKolXORKUu0RwLZOlqrisdmntvJrxIDO1BbLG2fA3NN0TC9E5h8Y7h/iT0M0miK+Mj0qUMR1LVDq1DwPMMBsmkyBdzYJPKYAnPPlDMEYpS9xepYYHJLLgcM1APa9+l2TI5p2nHr/SfS5zS+mkWx2iNs1jtSgUow07YraNvlaYLJTrNg67Vo+mp5CxNJ4Up2vhwJqTdMYDsB53V8HlrbLRAnfW2S/2nQ8pLDwX562vqozac1xXpQ1A7HknBI2lME/wdS+OfEH6k6YkpPfZohrsyt28bV0UCARLJ7pY5vWqJnHgX+lueEBz2swJyZ+tKta4cYGyiFDPOYGha4YkN3CfNe+1TSt/H2Bz+F4D6TKoFE4VZq4+5z4HXrjXDz+ICBLecOzpgurNIc+nG1Gdd0vaCIZMkt+ZkhCO/A0m0ncraLm2HBJV9bhcnJ6J/Ujm3Qnhr2yNid9AE2uWdZkhcBSkC35+KZeEo8aqgYdTdggBTC7oV7A5KBTi8ij2I2zSCI26QYNy/pBQPsk7SK2paQA==;12PqxBWm8bL7JPKyROLxLw=="
 ---

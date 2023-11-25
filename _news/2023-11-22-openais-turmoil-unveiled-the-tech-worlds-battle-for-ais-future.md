@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "The Shake-up at OpenAI Reshapes the Industry’s Global Order"
-    excerpt: "Big Tech is reeling from the ouster of Sam Altman at a leading A.I. start-up and his subsequent jump to Microsoft, moves that reset the power dynamic underpinning the sector."
-    publishedDateTime: 2023-11-20T13:27:00Z
-    webUrl: "https://www.nytimes.com/2023/11/20/business/dealbook/sam-altman-openai-microsoft-google-ai.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: "https://static01.nyt.com/images/2023/11/20/multimedia/20db-altman-zbgq/20db-altman-zbgq-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Artificial Intelligence's rival factions, from Elon Musk to OpenAI – The Washington Post"
     excerpt: "Inside Silicon Valley’s AI sector, fierce divisions are growing over the impact of a new wave of artificial intelligence: While some argue it’s imperative to"
     publishedDateTime: 2023-11-21T17:24:00Z
