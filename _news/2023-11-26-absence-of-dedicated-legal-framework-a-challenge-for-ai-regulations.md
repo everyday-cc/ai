@@ -2,9 +2,9 @@
 category: news
 title: "Absence of dedicated legal framework a challenge for AI regulations"
 excerpt: "In recent years, India has seen a surge in Artificial Intelligence (AI) adoption, transforming its technological landscape. As a global IT hub, India leverages AI for innovation and economic growth. In business and manufacturing,"
-publishedDateTime: 2023-11-25T16:03:00Z
-originalUrl: "https://www.canindia.com/absence-of-dedicated-legal-framework-a-challenge-for-ai-regulations-2/"
-webUrl: "https://www.canindia.com/absence-of-dedicated-legal-framework-a-challenge-for-ai-regulations-2/"
+publishedDateTime: 2023-11-25T20:06:00Z
+originalUrl: "https://www.canindia.com/absence-of-dedicated-legal-framework-a-challenge-for-ai-regulations-9/"
+webUrl: "https://www.canindia.com/absence-of-dedicated-legal-framework-a-challenge-for-ai-regulations-9/"
 type: article
 quality: 19
 heat: -1
@@ -57,6 +57,6 @@ related:
       domain: canindia.com
     quality: 19
 
-secured: "I78n8y8yi8+M5f5ltGdVHnMs6YR2UAPwgUS5YeQ52pl8bgnjMXqb13Qi9IFuPMLegnNnSvaHQDGqSvCYfSfD+dktnOxfjgC2aFU9dSsJoRx928xtb+GHhfOu6n2zjRM85eGw1xFw1L0v/56++Lpz2132mPz/9oyiBHWnDTsJqh0wH/ZqUC9qi4dO6eRBjS3FaQyppGocWY4L6uxZO+7yoM6CqfTgvl9lNDp6VonCjcE1aW9A0zB2ZpSgRMcAHXIsGOCp04lg/fsIx3KL6B5EazobWUtEPodaTAgN1kFJdAPztudQSQrbIbfpjugbaLTINWfxQb0Dj6zePKerMEmlragPrHzbSlb8EMlstWh7UNE=;lOsoeAhxWrtnQ6b826z3Sw=="
+secured: "86dxUvrpH+0uoeSFvGvPvfcyGzVAnrhS5Rs2tzBeAqU084bpbtDdKHZmiOl7MKJmQPVvXw7IJ8eBn6k4CmIe1CmXpqg6sJLAsiYGuwIMvgeI5FIUQYX6tGUzPdPR8sShi6LcrhyNjq/IkTP2ov52p+S3XdK9m20UFmwPeApz8ZaJLq0DwwOaY10M7s2pQlZctgYKDau27eWyPvslXhPO7O4O5YVkOHKB0fwI+DjeyP9AHAFEmIP5qMiCnhZIKzj1xNGzev59j1lAA+gzbmcpuN5GEmHht79gyEvMBFu6Wk9SgYwkTbWC1ZtyDtwNbRyh82Bz881Z/Wka7E100sXefu2mYzcq6tqFUJ1bNJuxpAw=;OKUIOJkPPcRXw3UK28vvLQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://english.elpais.com/technology/2023-11-21/emmett-shear-the-
 webUrl: "https://english.elpais.com/technology/2023-11-21/emmett-shear-the-new-head-of-openai-a-doomer-who-wants-to-curb-artificial-intelligence.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI
   - Facebook AI
-
-related:
-  - title: "OpenAI’s new CEO Emmett Shear: AI is so dangerous, ‘it should cause you to s–t your pants’"
-    excerpt: "OpenAI hired an AI doomsayer to be its new CEO, while the board kicked his predecessor straight into the arms of Microsoft."
-    publishedDateTime: 2023-11-20T22:20:00Z
-    webUrl: "https://bgr.com/business/openais-new-ceo-emmett-shear-ai-is-so-dangerous-it-should-cause-you-to-s-t-your-pants/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 31
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/11/rsz_gettyimages-1058682490.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "a1rmz5Ii2oBiIcI6PebH7Sx3nKcXY5rhhQuc0Vn+F2Hm4X3wUxuNJ6Fz3icpcn933VMAnP8Ry/Jb9UsTKLJkK7YB+dVr/SPzfGVTzgVvLL05qVsjy+BuN/OAShcYzFL26SDzxW8ztjSjxrV1gaXW/ioxryeF5B57qnJHmPzamRlUTFpEklG9RdPfsRiLtxrZiXfLw65uy/AcejGfMjbx3sUtFCPddHurjq4c4SrcziFbBPo7dEWDtxVeLNUefvEPgcyjW6m+JqGWX6gwzvqUqFWqsnk5m6itDDJTl2yXfswT8HChbccZCcd45YvyfKmj1C4j/G0M2DMGC1fL0qERvwqrqryOxcNak17q9y5HQw+M/wrDxbdfa3aH5TvrZU/qn3dKGM5fm2nGVIs80ke8F2dR7YYz6ze+e/PPV4nYQBuZzMINC/Bn18QsRRVmmbIRjr4/z1I35tWVx9NxjXcIcW+a6g73jeqiMqzt2DlmX6ah0U6djcBdIKr4foWoP9AnECijkjYjhye4jlC/JtgrOg==;plw+o+x5+QPYco2Pg3KXjg=="
 ---

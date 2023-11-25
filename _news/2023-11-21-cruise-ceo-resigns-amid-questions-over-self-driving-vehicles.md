@@ -7,7 +7,7 @@ originalUrl: "https://www.arkansasonline.com/news/2023/nov/21/cruise-ceo-resigns
 webUrl: "https://www.arkansasonline.com/news/2023/nov/21/cruise-ceo-resigns-amid-questions-over-self/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "CEO of self-driving Cruise out at GM"
-    excerpt: "General Motors' self-driving-car unit, Cruise, is going through leadership changes following the loss of permits and the pause of operations in California."
-    publishedDateTime: 2023-11-20T23:03:00Z
-    webUrl: "https://sjvsun.com/business/ceo-of-self-driving-cruise-out-at-gm/"
+  - title: "Co-founder of GM's Self-Driving Unit Resigns Amid Safety Review"
+    excerpt: "Dan Kan, a co-founder and senior executive of GM's self-driving unit Cruise, has resigned from the company. Kan's resignation comes just one day after Cruise CEO Kyle Vogt resigned from"
+    publishedDateTime: 2023-11-21T20:15:00Z
+    webUrl: "https://www.djournal.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397.html"
     type: article
     provider:
-      name: The San Joaquin Valley Sun
-      domain: sjvsun.com
+      name: Daily Journal
+      domain: djournal.com
     quality: 24
     images:
-      - url: "https://sjvsun.com/wp-content/uploads/2023/11/SUN-OG-_-Feat-162.png"
-        width: 1200
-        height: 628
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/2/cf/2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397/655d2c0e83f8b.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
+        width: 720
+        height: 378
         isCached: true
   - title: "Founder of GM’s self-driving division resigns amid collisions"
     excerpt: "Kyle Vogt, the founder and CEO of Cruise, General Motors’ self-driving vehicle unit, resigned Sunday following a turbulent period."
@@ -76,6 +76,15 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 11
+  - title: "Austin launches dashboard to track self-driving vehicle incidents"
+    excerpt: "A new dashboard will be used to track self-driving car complaints in Austin as Cruise autonomous vehicles continue to cause incidents."
+    publishedDateTime: 2023-11-24T23:21:00Z
+    webUrl: "https://www.mysanantonio.com/news/local/article/cruise-autonomous-vehicles-18512918.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: mysanantonio.com
+    quality: 4
 
 secured: "B10oCj6PgWfXGsMMzdXYaJ0LzufiCVwZnb1uEYSIV1vMua9ZtC/KcF9Lc8IlOZ7imAe6RxbK1e2GePzGl4VkbpfELaEDKF4xmrZBwI2TQq35t74RhuThTEeC/XDAmFpEOEzIGskak2wDVx0vtWJJeJ0D2Qgw5/SG7MiBRdzNKV1vfqGdmjieE2CTZT5J/681FgLAo1A5T9hdHGrt1lmxF1/55hH3RkNpGzRLkBngak4hZ0nXqgUtQz4teyjUuUF0U690anVPPfvZA7/l4eFTLUPFfAl7BpfQc72T/NfDBQuWRHUaS17D174n4dBJ6qLKdeV1W8/EOXQ9hMZMwwmNDXqTezYa5QUnu59bJeFlswdEy25lf9orlHMOV6wbnL4+TDXkslOh+vhcpUAruY9LLzoz7/hTvWeT4BBGQlx8BF0bmaVKGXPBebZbcnQ7bAmGurBLLNrQ2v+QAkWM+I6hQ4OZiW0ZHAsuh6xi/7/S6W4y4bBLKGf7v0PwTEvzHRzo1R6hK+t9UvmJjitJ5pGbmw==;ViKDAtVhbbAGGITLcZd+zw=="
 ---

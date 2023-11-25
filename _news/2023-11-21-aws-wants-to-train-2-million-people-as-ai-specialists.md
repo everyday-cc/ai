@@ -7,8 +7,8 @@ originalUrl: "https://www.techzine.eu/news/analytics/113485/aws-wants-to-train-2
 webUrl: "https://www.techzine.eu/news/analytics/113485/aws-wants-to-train-2-million-people-as-ai-specialists/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: techzine
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches AI Ready initiative to equip 2M people with AI skills"
-    excerpt: "Amazon Web Services Inc. today debuted AI Ready, a new initiative through which it hopes to equip 2 million people with artificial intelligence skills by 2025."
-    publishedDateTime: 2023-11-20T22:41:00Z
-    webUrl: "https://siliconangle.com/2023/11/20/aws-launches-ai-ready-initiative-equip-2m-people-ai-skills/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/amazon-3.png"
-        width: 933
-        height: 519
-        isCached: true
   - title: "AWS to offer free AI training courses to two million people by 2025"
     excerpt: "Amazon Web Services (AWS) has outlined its commitment to providing two million people around the world with access to free artificial intelligence (AI) skills training by 2025, as part of its ongoing work to make it easier for businesses to access the tech expertise they need."
     publishedDateTime: 2023-11-22T09:30:00Z

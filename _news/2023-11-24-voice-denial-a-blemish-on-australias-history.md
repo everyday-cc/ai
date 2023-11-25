@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Voice denial a blemish on Australia's history"
+    excerpt: "Denying Indigenous Australians a Voice to Parliament has exposed an absence of compassion that has set our nation backwards in time writes Dermot Daley"
+    publishedDateTime: 2023-11-25T21:28:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274043854/voice-denial-a-blemish-on-australias-history"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/iau1700808737.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "jUSgnIReDJUHEGZeKylRwPifcmVOaIBoHgixYIzkMAM/my+fz8KRpOur7JchFr6U9OZWHfO/GL8sslVqsOkWZryHkiLpXEde85Aa0RsFwF3VuJlYU7b/0s9gy0Y8MlKS0YV/0xTQksZvbduNJPy7PRmJrc/zltjLCq9D/XpsQkxak3DyKM+3ihMuhr8RQfyl5cggV0V0jCuTwZe4DmTctdb5XI8ILGgdJCxP58EhopnVbq7rZlugOZZDQdBkTybvdz/BnyazlIGkm96uk3wQ8p3NUNxwfIQtQQkGLknyPWD5Wbwxt4pBdKUmmNHgnla2ubJNMuTtk3AdfWwiHPuMJhfxVj+RjMK21/D9QfAHk+G7nKEW8YEwZ+TAinOAoNpK2QvOnEDeY46S0YUij6tGUvB4MfPPe+Dto4CcPPVd1WEnnbX26dWy4DJu3gGZjRFZ6K0g553CHSpKdntUMZufv/T/7meiLsx/AzK8NYRooDrbzqIhidhGHbxGq00yQS2lfgYlJ7zdnj5TRLyB4O7udA==;7zSiCG5bWK61DcpYeF9Q/A=="
 ---

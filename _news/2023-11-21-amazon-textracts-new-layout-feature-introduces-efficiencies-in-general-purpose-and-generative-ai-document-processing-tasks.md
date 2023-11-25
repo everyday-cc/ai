@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks/"
 type: article
 quality: 95
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 68
-  - title: "Amazon Launches New Generative AI Training Courses for Free"
-    excerpt: "The 'AI Ready' initiative offers online classes for developers and other technical professionals as well as for students."
-    publishedDateTime: 2023-11-20T21:49:00Z
-    webUrl: "https://www.techrepublic.com/article/amazon-free-ai-skills-training-courses/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/amazon-skills-builder-ai-courses-nov-23.jpeg"
-        width: 1400
-        height: 788
-        isCached: true
 
 secured: "ljnsDtUo3YQI21+cpY0T1K1Tm+spg1/tfaiR4h0ap94kxw1p2z7jolMKBSwk/Uf0KvhcwLtlEe7Ugwr30FtFs2haGKHgPiWwK2SAKH6pwBnUOIgNS5CY6TINKtgoeJbImR4K44t9pbb9jVt1pu0L04FK7gXWW9pUQ7iCu/m7e6b6rMRdCMwWG+AU0jqD4pUFrfannznXLy9J83EESFjiNvQHXm3lnJ3+JKBxwZKzXkYRsTWD4zX5pBFAcLsb3NJ2MF0dE3mWMgYOcfnBOZ7k26YPP4ohNWN6nGRiM3NXfJIS4bqHAeSoIUuiZtL+s0ycQbB45sOJucy3Pn7qrJTM5GThABUCuKao5aCZL03+qWg=;+Ks00HyWRoFWTEatbMk16A=="
 ---

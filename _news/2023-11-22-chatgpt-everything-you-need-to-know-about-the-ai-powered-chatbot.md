@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 91
-heat: 301
+heat: 291
 published: true
 
 provider:
@@ -177,15 +177,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "AWS to power Yellow.ai’s AI-powered voicebot, chatbot solutions globally"
-    excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions globally."
-    publishedDateTime: 2023-11-20T20:26:00Z
-    webUrl: "https://www.canindia.com/aws-to-power-yellow-ais-ai-powered-voicebot-chatbot-solutions-globally/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 33
   - title: "OpenAI staff make jokes about CEO drama as they announce new ChatGPT voice feature"
     excerpt: "In a demo of the new feature, OpenAI’s staff even made jokes about the drama surrounding the artificial intelligence firm, with someone asking ChatGPT: “It’s been a long night for the team, and we’re hungry. How many 16-inch pizzas should I order for 778 people?”"
     publishedDateTime: 2023-11-22T02:01:00Z

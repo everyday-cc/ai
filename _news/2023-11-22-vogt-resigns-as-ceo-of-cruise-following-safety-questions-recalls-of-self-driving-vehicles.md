@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "CEO of self-driving Cruise out at GM"
-    excerpt: "General Motors' self-driving-car unit, Cruise, is going through leadership changes following the loss of permits and the pause of operations in California."
-    publishedDateTime: 2023-11-20T23:03:00Z
-    webUrl: "https://sjvsun.com/business/ceo-of-self-driving-cruise-out-at-gm/"
-    type: article
-    provider:
-      name: The San Joaquin Valley Sun
-      domain: sjvsun.com
-    quality: 24
-    images:
-      - url: "https://sjvsun.com/wp-content/uploads/2023/11/SUN-OG-_-Feat-162.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Cruise CEO resigns amid questions over self-driving vehicles"
     excerpt: "Kyle Vogt has resigned as chief executive officer of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars."
     publishedDateTime: 2023-11-21T07:52:00Z
@@ -52,6 +38,20 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205863245_205859005-d582d0d89bae49de8bece9d4d4536caf_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 399
+        isCached: true
+  - title: "Co-founder of GM's Self-Driving Unit Resigns Amid Safety Review"
+    excerpt: "Dan Kan, a co-founder and senior executive of GM's self-driving unit Cruise, has resigned from the company. Kan's resignation comes just one day after Cruise CEO Kyle Vogt resigned from"
+    publishedDateTime: 2023-11-21T20:15:00Z
+    webUrl: "https://www.djournal.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/2/cf/2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397/655d2c0e83f8b.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
+        width: 720
+        height: 378
         isCached: true
   - title: "Founder of GM’s self-driving division resigns amid collisions"
     excerpt: "Kyle Vogt, the founder and CEO of Cruise, General Motors’ self-driving vehicle unit, resigned Sunday following a turbulent period."
@@ -76,6 +76,15 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 11
+  - title: "Austin launches dashboard to track self-driving vehicle incidents"
+    excerpt: "A new dashboard will be used to track self-driving car complaints in Austin as Cruise autonomous vehicles continue to cause incidents."
+    publishedDateTime: 2023-11-24T23:21:00Z
+    webUrl: "https://www.mysanantonio.com/news/local/article/cruise-autonomous-vehicles-18512918.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: mysanantonio.com
+    quality: 4
 
 secured: "Z3TTLIxOswhUpxleHiPBM8JL1sQWQw14K7vLsmHjm4tkZrmGzDCKG93rNMdnSX5jaim7WdqVwMD+i7SLGFrqIi0d4rUQnZZNo2pjE2bHIr1uJbTIMaFBfjViE+TMOD4RxskrxS9jST6pH8yb6HoKzvkMLtOFMGSWEgusXDHO32dLZqbibs0+Pwph4InoWU0VwXk2kfBI3y6jBk+66rL/4XlTmeA16lNrt/rrkg2SZGYY2uXvXlpAJxQBIrrPkqy1ZJbeYjyl5TdnHyOnuesibdgSGIMRrdud8f+NEYnwQqX2gXaIF/cdflQhASNvP77TXRiMNrxJYXIfMjHRwJpf17UETirwmheMW/ApGV99Xz0=;Cj4bYMAfE06GkGaDJiFuMw=="
 ---

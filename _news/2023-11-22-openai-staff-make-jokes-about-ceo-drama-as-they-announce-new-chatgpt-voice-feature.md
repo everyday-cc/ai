@@ -186,15 +186,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "AWS to power Yellow.ai’s AI-powered voicebot, chatbot solutions globally"
-    excerpt: "Amazon Web Services (AWS) on Monday announced that the global leader in conversational artificial intelligence (AI) Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions globally."
-    publishedDateTime: 2023-11-20T20:26:00Z
-    webUrl: "https://www.canindia.com/aws-to-power-yellow-ais-ai-powered-voicebot-chatbot-solutions-globally/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 33
   - title: "How to stop OpenAI from using your ChatGPT chats to train AI in just 3 minutes"
     excerpt: "It’s very easy to stop your ChatGPT chat data from training future models - here’s where you find the hidden privacy setting."
     publishedDateTime: 2023-11-22T19:02:00Z

@@ -63,7 +63,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -406,7 +406,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -501,6 +501,49 @@
         "AWS AI",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-aws-wants-to-train-2-million-people-as-ai-specialists.md",
+      "title": "AWS wants to train 2 million people as AI specialists",
+      "excerpt": "AWS wants to train 2 million people as AI specialists by 2025. To this end, Amazon has presented the free AI Ready training program. The program targets",
+      "sourceUrl": null,
+      "webUrl": "https://www.techzine.eu/news/analytics/113485/aws-wants-to-train-2-million-people-as-ai-specialists/",
+      "originalUrl": "https://www.techzine.eu/news/analytics/113485/aws-wants-to-train-2-million-people-as-ai-specialists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techzine.eu/wp-content/uploads/2023/11/shutterstock_2263545623.jpg",
+          "width": 1000,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-21T08:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techzine",
+        "domain": "techzine.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1275,58 +1318,6 @@
         "name": "inforum",
         "domain": "inforum.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-aws-explained-what-amazon-web-services-is-for-and-where-the-cloud-computing-industry-leader-is-headed.md",
-      "title": "AWS explained: What Amazon Web Services is for and where the cloud computing industry leader is headed",
-      "excerpt": "AWS is a division of Amazon that offers a wide range of cloud computing services. Amazon Web Services' pay-as-you-go model makes it a popular choice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/aws",
-      "originalUrl": "https://www.businessinsider.com/aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6543cd7f3cc84b4dfafb01a9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/aws?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/aws?amp",
-      "publishedDateTime": "2023-11-10T21:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

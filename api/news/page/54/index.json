@@ -2,6 +2,83 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-10-13-mass-bill-targets-police-misuse-of-facial-recognition.md",
+      "title": "Mass. bill targets police misuse of facial recognition",
+      "excerpt": "Police departments in Massachusetts would be significantly curtailed in their ability to rely on facial recognition technology under revived legislation touted by civil rights activists that’s meant to crack down on racial disparities among people of color wrongfully suspected of crimes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.necn.com/news/local/mass-bill-targets-police-misuse-of-facial-recognition/3066273/",
+      "originalUrl": "https://www.necn.com/news/local/mass-bill-targets-police-misuse-of-facial-recognition/3066273/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.necn.com/2019/09/GettyImages-826000302.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.necn.com/news/local/mass-bill-targets-police-misuse-of-facial-recognition/3066273/?amp=1",
+      "cdnAmpWebUrl": "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/local/mass-bill-targets-police-misuse-of-facial-recognition/3066273/?amp=1",
+      "publishedDateTime": "2023-10-12T18:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NECN",
+        "domain": "necn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-deepmind-looks-at-ways-to-make-ai-training-less-of-a-power-drain.md",
+      "title": "DeepMind Looks at Ways to Make AI Training Less of a Power Drain",
+      "excerpt": "It's completely free and we guarantee you'll learn something new every day. DeepMind wants to trim the fat. Google's AI arm filed a patent application in recent months for a system to allocate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/deepmind-looks-at-ways-to-make-ai-training-less-of-a-power-drain",
+      "originalUrl": "https://www.nasdaq.com/articles/deepmind-looks-at-ways-to-make-ai-training-less-of-a-power-drain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T16:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-81-of-companies-have-generative-ai-teams-smaller-enterprises-lead.md",
       "title": "81% Of Companies Have Generative AI Teams: Smaller Enterprises Lead",
       "excerpt": "Smaller companies are leading the charge while larger enterprises lag behind, however. Executives at companies with $50-200 million in revenue personally use generative AI frequently, with 57% reporting using it weekly. Executives at larger organizations, however, distrust the technology, mainly due to accuracy concerns.",
@@ -1083,93 +1160,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-artificial-intelligence-ai-in-ultrasound-imaging-market-analysis-research-growth-and-forecast-to-2030.md",
-      "title": "Artificial Intelligence (AI) in Ultrasound Imaging Market Analysis, Research, Growth and Forecast to 2030",
-      "excerpt": "With A CAGR Of Approximately 9.67%, The Global Artificial Intelligence (AI) in Ultrasound Imaging Market, Valued At USD 917.11 Million In 2023, Is Forecasted To Expand To USD 1750 Million By 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35197746/artificial-intelligence-ai-in-ultrasound-imaging-market-analysis-research-growth-and-forecast-to-20",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35197746/artificial-intelligence-ai-in-ultrasound-imaging-market-analysis-research-growth-and-forecast-to-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35197746",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35197746",
-      "publishedDateTime": "2023-10-12T02:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-motion-control-software-in-robotics-market-share-2023-including-top-companies-and-forecast-to-2031.md",
-      "title": "Motion Control Software in Robotics Market Share 2023 Including Top Companies and Forecast to 2031",
-      "excerpt": "The latest report on the 'Global Motion Control Software in Robotics Market' is 200 pages long and includes a number of tables and figures. This report covers the period from 2023 to 2031 and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35186408/motion-control-software-in-robotics-market-share-2023-including-top-companies-and-forecast-to-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35186408/motion-control-software-in-robotics-market-share-2023-including-top-companies-and-forecast-to-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35186408",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35186408",
-      "publishedDateTime": "2023-10-12T02:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -58,22 +58,6 @@ related:
         width: 1339
         height: 900
         isCached: true
-  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
-    excerpt: "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models."
-    publishedDateTime: 2023-11-20T21:18:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 77
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-11/231119-sam-altman-jm-1614-859c3a.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "OpenAI CEO Sam Altman was seeking funds for a new AI chip company before being fired"
     excerpt: "OpenAI's management drama is becoming increasingly intriguing and tumultuous. The company recently terminated Sam Altman, who served as a board member before his appointment as CEO."
     publishedDateTime: 2023-11-22T19:21:00Z
@@ -244,15 +228,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 46
-  - title: "OpenAI’s New CEO Likes Tweeting About Sex And Using AI To Write Pickup Lines"
-    excerpt: "Incoming exec Emmett Shear has regularly tweeted about sexual dynamics between men and women and the controversial pick-up artistry manual The Game."
-    publishedDateTime: 2023-11-20T20:50:00Z
-    webUrl: "https://www.forbes.com/sites/sarahemerson/2023/11/20/openai-ceo-emmett-shear-tweets-sex-dating-pickup-lines/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
   - title: "Today in AI: Sam Altman as CEO of OpenAI is strategic win for Nadella, What is AGI? and AWS India AI ready initiative to train people"
     excerpt: "AGI is more of a general term, referring to Artificial Intelligence that has not been trained to excel ... The cloud service provider also earmarked $12 million for AWS Generative AI Scholarship, wherein it will provide Udacity scholarships to more than ..."
     publishedDateTime: 2023-11-23T09:37:00Z
@@ -324,20 +299,6 @@ related:
       - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/41365508796aff005913473394bf365c"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How AI Doomerism Caused OpenAI’s Sam Altman Firing Fiasco"
-    excerpt: "It’s been a whirlwind few days for the startup at the heart of the artificial intelligence revolution—but they only have themselves to blame."
-    publishedDateTime: 2023-11-20T22:02:00Z
-    webUrl: "https://www.thedailybeast.com/how-ai-doomerism-caused-openais-sam-altman-firing-fiasco"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1700517350/231120-Anslow-OpenAI-tease_jwyhym"
-        width: 1480
-        height: 832
         isCached: true
   - title: "OpenAI turmoil puts some B.C. AI start-ups' technologies at risk"
     excerpt: "\"Dozens and dozens\" of B.C. companies could also be impacted if uncertainty spirals out of control at OpenAI, Rob Goehring, CEO at Wisr AI and the founding chair of BC Tech’s AI C-Council told BIV this afternoon."
@@ -507,6 +468,6 @@ related:
       domain: ft.com
     quality: 0
 
-secured: "ORZoq7NkSunXsX94041HTSOBdaGMSd1LcEXrFKazXeus1wG1UCyESD8REyvmfRGeeMlZXjtZ1vfWqsflWWpwoSSCZaU7+9Jt1eI0QIzdK8qVUlF2zQVwQY+kRfvmPh9qmlioaYRDIov+LAncmn6SmBMhPxqYEc8jPFI9keYXQTjIrZ0nnluIjAMmeSVXEiSKrp5UCB8XSRPRPk2uk316B7VF+ipQyfQ01bSP4B/5963JN9j0mfbNZ2KV/9B0wqhA3Ca2YDIhi1qiHHIpmteHLXcQVqW9S66bPcnVm9VBuommptwSBSU2pkqjMNUIzJkUFnn1KhIRniXvwBEqN19x5ZDOCe4krtkuCAi0A+JxMBw=;cHbgKGYd+mZDCJvxJfDbew=="
+secured: "BGDn1CSwnAJN0doL+gBs5JdRyIFRx14EONbCUaylRT5Pn95jREcBpxrAwgY1lnGALOboQQEkrJsNKGoQkSdknXSybD8+vdajeIPRQcTMR3KKOkTz3QMW0YH3trbvW6/5XSZf7j2Kcm4FH7K11tbthdCFY2WNXFmWmJ/nE/zqyIMSdflI6cz+EgmgPyCifDds7oSISrkL9Z5oVjOby0/GCEeWfVUNYfRyDeceYjHuENU7KrhlEW1YGpKQq/DiSCrq0uJJVuPUMQ06HA10Abni70KGd1tMnHcHm2cs8nZ8u5y7J+Hp/3Wgsrpp+C6Vg1JM5tMsWSBya35cdoJPuXPWGq5BwgU3Gd0AF8Oj156YVGGWRB6ugaF0zK9csFOROiCnvIYFeKL57TQ+r4gvvk7s8WenER6zaRsU23WGVzIkLTlM3DSCev5WM31xGAJM2Jl87LNq0E6ECXpcRUV2CQBBjZ0rUoR/m1W7zK1aKfBWLa55DICUDwNPMMUFmnNpxsnMV9PqC8VRWlTSVeCC7JHxTQ==;s0ra2BaquvbGCM4jjIteQQ=="
 ---
 

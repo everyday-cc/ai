@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-excerpt: "Flywheel announces the launch of its SaaS data management solution on Microsoft Azure, integrated with NVIDIA MONAI."
-publishedDateTime: 2023-11-22T13:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
-webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
+excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
+publishedDateTime: 2023-11-22T09:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
+webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
 type: article
 quality: 29
 heat: -1
@@ -109,20 +109,6 @@ related:
         width: 1023
         height: 695
         isCached: true
-  - title: "Microsoft snatches Sam Altman and former OpenAI colleagues to form its own AI research team"
-    excerpt: "In another twist on the OpenAI saga that raged over the weekend, Microsoft has swooped in and hired Sam Altman and Greg Brockman.."
-    publishedDateTime: 2023-11-20T22:31:00Z
-    webUrl: "https://www.engadget.com/microsoft-snatches-sam-altman-and-former-openai-colleagues-to-form-its-own-ai-research-team-082755685.html'"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/ETkTgA8M6VAaCCzShBtM.Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-11/7675f9d0-87a9-11ee-abff-49d44ef3039f.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU"
     excerpt: "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,"
     publishedDateTime: 2023-11-25T11:06:00Z
@@ -183,15 +169,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft Makes Big AI Investment Hiring Altman And Brockman"
-    excerpt: "The duo is widely respected for their work on artificial intelligence, and their arrival at Microsoft is seen as a significant win for the company."
-    publishedDateTime: 2023-11-20T19:28:00Z
-    webUrl: "https://www.forbes.com/sites/elijahclark/2023/11/20/microsoft-makes-big-ai-investment-hiring-altman-and-brockman/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
   - title: "Investing in Generative AI? You Won’t Do Much Better Than Microsoft Stock."
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How did Microsoft (NASDAQ:MSFT) stock earn its membership among the"
     publishedDateTime: 2023-11-21T11:45:00Z
@@ -303,15 +280,6 @@ related:
       name: iotevolutionworld.com
       domain: iotevolutionworld.com
     quality: 45
-  - title: "Microsoft says Altman will lead new in-house AI team, as OpenAI board hires former Twitch CEO to lead start-up"
-    excerpt: "The twin moves mark a turning point in the frenetic aftermath of Altman’s firing, which stunned Silicon Valley and set off a campaign led by Nadella and other OpenAI executives to get Altman reinstated."
-    publishedDateTime: 2023-11-20T19:50:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3242126/talks-reinstate-altman-openai-reach-impasse-over-board-make-and-role"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 44
   - title: "Sam Altman, ex OpenAI founder and CEO now at Microsoft to run new advanced AI intelligence team"
     excerpt: "Microsoft has hired Sam Altman, where he will lead a new advanced artificial intelligence team, after OpenAI terminated him, then tried to rehire him."
     publishedDateTime: 2023-11-20T23:56:00Z
@@ -363,15 +331,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 40
-  - title: "Sam Altman Returns to Microsoft: A Strategic Alliance in the AI Realm"
-    excerpt: "OpenAI CEO Sam Altman is set to join Microsoft, marking a renewed partnership between the two companies and a new chapter in the world of AI."
-    publishedDateTime: 2023-11-20T20:21:00Z
-    webUrl: "https://techstory.in/sam-altman-returns-to-microsoft/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 36
   - title: "Microsoft Girds to Dominate Cloud-Based AI Services"
     excerpt: "Launching its own server CPUs and AI chips to fortify the Azure cloud, Microsoft takes shots at all their potential competitors while offering more options to their"
     publishedDateTime: 2023-11-22T14:18:00Z
@@ -427,15 +386,6 @@ related:
         width: 725
         height: 510
         isCached: true
-  - title: "Sam Altman to lead advanced AI research at Microsoft after surprise firing from OpenAI"
-    excerpt: "Microsoft looks to gain big from the talent leaving OpenAI by having them lead a brand-new team to manage custom AI chips instead of relying on Nvidia tech."
-    publishedDateTime: 2023-11-20T19:40:00Z
-    webUrl: "https://www.courthousenews.com/sam-altman-to-lead-advanced-ai-research-at-microsoft-after-surprise-firing-from-openai/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 28
   - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
     excerpt: "KKCompany is announcing its participation in the Microsoft startup initiative, \"Highway to 100 Unicorns,\" a startup accelerator program aimed to support startup innovation and strengthen the startup ecosystem in the Asia region."
     publishedDateTime: 2023-11-21T06:20:00Z
@@ -465,6 +415,6 @@ related:
         height: 280
         isCached: true
 
-secured: "kEiHHdnJS7o8CfYBng4m3qGsmL1Y+exdkmYhuBj1bAnKgVRPqf5sIaseVVnD9p3FKdeDvZYK9s0/eqH8j4Bqvu5uysV47OETdUqq1+uVbj+cwz8QtsaCTVSI88tTIFkWYcyDHYPSDmEeKZtyhGj5XVYnd6Ks0S9RAQkvLUAgO/YsoGehuCG4nD9mm0nohFOyBXzG5UVohoUdNHVsX3X53VT4qmJJ0O+DylRBWpA9/CpeOwBtDJSgEJxuMooXvSaW0guQ8opmni8lkEYhF9iybdYCVAt3vCKE0YGl0tFSSpG2Zmo/SryrqNAA4m+07/7Cb8/Oqi4pgrDhPGmOBAHxu832bshn9C3+sbq6/QiFPGHXP09VYAvSJBqZNHK+qr3Yiyj4eF26gkif4kv4I7XuzecnWiNuTT313jOVCP9xW4/NHrXfTPfocyh0K8ksr6LYrfrc3IhZPHmQosEgcUeq9ifZ5/fMD5bjq6QOuAPF6i+ATPUNdbXF8yNEq+DLKwbxmnHMvtC5ipuUFZZQHWcH7A==;GfKxjXAa7YuVQrKD1+EDtQ=="
+secured: "CzqnBTCsG4N5HB6+bhysSPPXYsBMEp9Hs7t26p86KcxQ9pHNO/DgBI6UkGHGYDPG7IwMbxAD1t43eIvj53OJOROC3pt5dG4CkCw0MeLaf1cYBc20ZDjY83EvpSheNPlrzMOevHhNBYOvpyFfX3PKcxspymaYWiJ4ezltMMq3fqGqQCdkD2hYp5+nM1X/wUEtHZZ43VEfAcztygyCKs2P/41RNESl8R8ruCS6yUfD3ZNjiBwY3XgKhxL1TZgh91aqLZuLYDRN/TYJkT+Acxqaze2MnJBRtILukbem9VbFYY7dWuU7FFiQkqCrfr2Gjaf74+gsb170ldhAyhNlEFQptGK9NiJnwV/WAtue8DdDrog=;m5BnuWsrjEZZuHwiniARPg=="
 ---
 

@@ -201,7 +201,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 301,
+      "heat": 291,
       "tags": null,
       "images": [
         {
@@ -570,6 +570,40 @@
       "provider": {
         "name": "Stuff",
         "domain": "stuff.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-ai-based-image-recognition-face-blur-function.md",
+      "title": "AI-Based Image Recognition Face Blur Function",
+      "excerpt": "we have developed an automatic blurring function using image recognition-based AI for object detection as a plug-in for editing machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhk.or.jp/strl/english/interbee2023/8.html",
+      "originalUrl": "https://www.nhk.or.jp/strl/english/interbee2023/8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T04:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1267,49 +1301,6 @@
       "provider": {
         "name": "Semiconductor Engineering",
         "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-01-new-orleans-facial-recognition-tool-mostly-used-against-black-suspects.md",
-      "title": "New Orleans facial recognition tool mostly used against Black suspects",
-      "excerpt": "Facial recognition technology has long been controversial. The city of New Orleans previously had banned the use of facial recognition software, which went into effect in 2020 following the death of George Floyd. Then, in 2022, the city reversed course, allowing it to be used.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/orleans-facial-recognition-tool-mostly-224218079.html",
-      "originalUrl": "https://www.aol.com/orleans-facial-recognition-tool-mostly-224218079.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/2455b9f2facb0079778ba0a9988f6829",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T22:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Fortune 50 AI Innovators"
-excerpt: "Big Blue, based in Armonk, N.Y., was early to the AI game with Watson, which was first introduced over two decades ago, mesmerizing the world with what the tech could do. In 2023, the company launched its generative AI offerings,"
-publishedDateTime: 2023-11-20T22:45:00Z
-originalUrl: "https://fortune.com/ranking/ai-innovators/2023/ibm/"
-webUrl: "https://fortune.com/ranking/ai-innovators/2023/ibm/"
+excerpt: "For instance, Brazilian bank Bradesco automated its customer service answers using Watson Assistant, responding to 283,000 questions monthly. IBM is focusing on expanding the use of its AI where ..."
+publishedDateTime: 2023-11-21T15:54:00Z
+originalUrl: "https://fortune.com/ranking/ ai-innovators/2023/ibm/"
+webUrl: "https://fortune.com/ranking/ ai-innovators/2023/ibm/"
 type: article
 quality: 69
 heat: 109
@@ -76,6 +76,6 @@ related:
       domain: wyomingnews.com
     quality: 17
 
-secured: "kO4vCboCy0P5fbFMI57iGf6i3KfPEsnpWGcKjHjEEflq9pBAGc7FOD3TNnAA+YUpio3E5HgVPhGiyzleB+CkW8odIn9AFFxoVpl8MO/WNYGWPpFaAGAhvnH2+3+mrc+4SMC/EsWC/vzXKEvX/TiNWEJGiXRps2yK3FVXDTMx/HlStFPDyDneLy6mfKAmNOLGDBOFEEX5dde51RG4jOV8N2i9hqKvDFfBFelUbDB8h0UlZAhaf36zImFNGJnc9Pv0+vPCwcF08CYMt2MCXllIe06hgTbcwI93Kb2l9W96J6LWBpg0h/4EjvUKap/Fwxhy/qFmEDE7sixQFELcT9fesNh8ShPHybrrdMDqPIGs8yo=;uBNV22g/7vGCPoFDBGPGiQ=="
+secured: "in369TV5ojxMEiS/KPtZFcaWRk6hz5yAIu1+d0F6m1XOkKcK/VL7I98gzmjVeEEi8CKFRJ+buUrSnab0WmwgPkWqh+MRc5zCD14ddO5yPY9C0YRXWQhg+UqTukMqb3sd7HnjQrVtfmUlDj2w6HWfXhdILXefN4W6EGeFE/UfMr4/2YeTGZx3Pp9bYIxVz/vk6RSmjMeY6rPC4tOy6RB7NKpFzaKbiLfeLSFeJg3TYSsNHWKUgzpktuJWtBP9pFelrhR2nbkfN0Zuhr71Fa05eT5oXu2l85e0wE4mQx6vg5Om+lqIoG0sSMaqdO3Qx80ohibLH3K3QdQ1/zpC0KrANSeNLMjzK53r97dB/P7VstU=;4tnPWUT/XwcLuDawfTmf0w=="
 ---
 

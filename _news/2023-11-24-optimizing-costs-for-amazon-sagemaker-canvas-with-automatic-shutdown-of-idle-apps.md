@@ -77,15 +77,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 85
-  - title: "KT’s journey to reduce training time for a vision transformers model using Amazon SageMaker"
-    excerpt: "KT Corporation is one of the largest telecommunications providers in South Korea, offering a wide range of services including fixed-line telephone, mobile communication, and internet, and AI services. KT’s AI Food Tag is an AI-based dietary management solution that identifies the type and nutritional"
-    publishedDateTime: 2023-11-20T20:46:18Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/kts-journey-to-reduce-training-time-for-a-vision-transformers-model-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
   - title: "Text embedding and sentence similarity retrieval at scale with Amazon SageMaker JumpStart"
     excerpt: "In this post, we demonstrate how to use the SageMaker Python SDK for text embedding and sentence similarity. Sentence similarity involves assessing the likeness between two pieces of text after they are converted into embeddings by the LLM, which is a foundation step for applications like Retrieval Augmented"
     publishedDateTime: 2023-11-21T19:37:50Z
@@ -95,15 +86,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 60
-  - title: "Use Amazon SageMaker Studio to build a RAG question answering solution with Llama 2, LangChain, and Pinecone for fast experimentation"
-    excerpt: "Retrieval Augmented Generation (RAG) allows you to provide a large language model (LLM) with access to data from external knowledge sources such as repositories, databases, and APIs without the need to fine-tune it. When using generative AI for question answering, RAG enables LLMs to answer questions"
-    publishedDateTime: 2023-11-20T20:58:17Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-studio-to-build-a-rag-question-answering-solution-with-llama-2-langchain-and-pinecone-for-fast-experimentation/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 53
 
 secured: "8+NodDQ1ynIEf3aOHLJ9HBc/k//AuDJHEPKHZlMARn/ifXpth6RvtltcL5NCPmHF8XxomZL0+DmnzBRmQ1SbAPtmeat0LXK+7s22PBZI0HxUr8/40jqyVmcc6f+x/qJNkgoozggN7xrsDj0h/LPCI+/sJFG7bCko4av0SZrdW28eqVXTannUQsuN13v5eHKYESpyziGBzlycb+KQEwMN6EOSiZ7oknrSRuIPBX6XgcbLufoXNt9pmjBKrjw5/8hhEHPdp+cPWLusnKs4EnUpxyW1C36BNScFne+Tj4mG9RSwu2GxHq13vk2dZqfluU9tsK17XhTvsxLBL4VIjRoTLa2+j/6IMZBqHK2Zt5pGsbE=;M0EvRONgsB+Sg8FeVxQpzA=="
 ---

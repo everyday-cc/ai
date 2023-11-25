@@ -2,7 +2,7 @@
 category: news
 title: "The mind's eye of a neural network system"
 excerpt: "(Nanowerk News) In the background of image recognition software that can ID our friends on social media and wildflowers in our yard are neural networks, a type of artificial intelligence inspired by how own our brains process data. While neural networks ..."
-publishedDateTime: 2023-11-17T00:00:00Z
+publishedDateTime: 2023-11-17T09:28:00Z
 originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=64066.php"
 webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64066.php"
 type: article
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "atOV+FzSO9nGO0ZKU4jgtnrZ5Ddbj3Z3esovYVQERXqh+V2RuzGI2RLQXbzokaqANd+Fkrr+aJhFH7wL7vhnJbcjXpdZodkAcuyCrVB+RIQELaVOjMGQ0QHFQs08Arsye+pZaKIZUaewD8NaMNqFYZ+puye4rPSKlF2CZBh6S56TIgv0GXtfOHRtaaJX/elkgJxj4ytxawDS/k2npB8Zpn2PKc/izNQIWN+OIyAXRg/y9su0eSJTI9FNWOQy9gmYL/dztlH8XVzBnWSDG8MBeV8bg5mAsbPpN3Vk5rsk+vaPY+OE2PMRMQ4pguv682enFCy6t2kLWCAOFCzaf/Ks5P22zcv+go1D1Mq0Ual9jm4=;c2kByPMoi8pUQKNwOIX3Kg=="
+secured: "Ck2R6ClnoaVkFLHID819cxyooKfo71sFkeGVrDQFmROMtAV4myyx9o/JLv0u5RXMOC7cBaSvhpJW1lCzM9YHo8XEI5WVDQW4+x4VbxDfBdltM6M9iP4ugim+u0jT6izMrq161APiVg/dh0UQV6Ud2nTmHL/gSmzLRg0e0hSBmzbYxvE7e/+jXi0foxk6mASefxhXUHjz4JSnvQ9OJKw4WlXe8q1l45OLes/WXuF3ygMCJbdzHynBrzVoZqKAz33oCW3TucG5XigfQe+ivwEbpbfIXZJew2ZcL4n8F747sGws+yRPTuOoTA7vEYPQ4uB8DhrQHtuPwef+VdOp55yOgbvw0M/EmYD4KJKMep9+hz0=;NRUsrdHY0KPRawiiYTXZzg=="
 ---
 

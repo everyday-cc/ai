@@ -2,6 +2,92 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-10-11-index-your-web-crawled-content-using-the-new-web-crawler-for-amazon-kendra.md",
+      "title": "Index your web crawled content using the new Web Crawler for Amazon Kendra",
+      "excerpt": "In this post, we show how to index information stored in websites and use the intelligent search in Amazon Kendra to search for answers from content stored in internal and external websites. In addition, the ML-powered intelligent search can accurately get answers for your questions from unstructured",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/index-your-web-crawled-content-using-the-new-web-crawler-for-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/index-your-web-crawled-content-using-the-new-web-crawler-for-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/web-crawled-content-kendra.jpg",
+          "width": 893,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T16:15:29Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-noke-migrates-to-aws-to-enhance-cloud-based-digital-customer-experience.md",
+      "title": "Noke Migrates to AWS to Enhance Cloud-Based, Digital Customer Experience",
+      "excerpt": "This successful migration allows Noke to continue to lead digital innovation by leveraging AWS's leading industrial internet of things (IoT), artificial intelligence, and security capabilities. Running on AWS, Noke has increased its availability and global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/11/9896964.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/11/9896964.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T16:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge.md",
       "title": "Energy Dept. funded JetCool nets $17M to disrupt chip cooling as AI workloads surge",
       "excerpt": "JetCool's technology is enabling 30% faster processing while reducing energy consumption by 50% and water usage by 90% over air cooling.",
@@ -1114,92 +1200,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-openais-unreasonable-claims-exhaust-ai-ethics-researchers.md",
-      "title": "OpenAI's 'unreasonable claims' exhaust AI-ethics researchers",
-      "excerpt": "Ethics researchers are struggling to keep up with the generative-AI boom as critiquing existing tech hinders the creation of more-responsible AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10",
-      "originalUrl": "https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6525b95f55f52b01b35ba4e1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10?amp",
-      "publishedDateTime": "2023-10-11T08:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-flood-insurance-market-to-reach-500-billion-globally-by-2032-at-156-cagr-allied-market-research.md",
-      "title": "Flood Insurance Market to Reach $50.0 Billion, Globally, by 2032 at 15.6% CAGR: Allied Market Research",
-      "excerpt": "Allied Market Research published a report, titled, \"Flood Insurance Market by Coverage (Building Property Coverage and Personal",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/flood-insurance-market-to-reach-50-0-billion-globally-by-2032-at-15-6-cagr-allied-market-research-301953289.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/flood-insurance-market-to-reach-50-0-billion-globally-by-2032-at-15-6-cagr-allied-market-research-301953289.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T07:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -3,28 +3,20 @@ category: news
 title: "Driverless cars immune from traffic tickets in California under current laws"
 excerpt: "An NBC Bay Area investigation reveals autonomous vehicles in California cannot be cited for moving traffic violations since transportation laws require tickets to be issued to actual “drivers.”"
 publishedDateTime: 2023-11-23T23:03:00Z
-originalUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/"
-webUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/"
-ampWebUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
-cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
+originalUrl: "https://www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/"
+webUrl: "https://www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/"
 type: article
-quality: 56
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: NBC Los Angeles
-  domain: nbclosangeles.com
+  name: NBC Bay Area
+  domain: nbcbayarea.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://media.nbclosangeles.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "GM’s driverless ride heads into a ditch"
@@ -65,6 +57,6 @@ related:
       domain: abc.net.au
     quality: 19
 
-secured: "Bbm2caZLGM2G6L+IKZTuCtamTC3BUsN92fjcZmc1nTxlArAdBDyL9vAltyd3IcbFbpVpT2k6T7e5AXLdRaJ6Ylr6lx/zaLdfCZpNXaTnq4YDi8Ur6CW8GXVQZaMe/ncqhuV9fTg4ULnep9PRJx4E5vM4IQXUsECFDduk3Xq9mL9mVRFpOGbWZ9kHPVwhC8FPmwFs6Zv4d6Uep4ufjrtWdOuLT8pLuPYL89DqMgamqK59PpuU3LzbCahfhSyN+b3Oxnx7eqHnGh2QS27SCwj0+9k1YuRF7vRe3K9DzzZ3psGhKOdmv9k3lZIZfIgX+sMWki93h9Mdg8Qa6555COMgrqkn7LwVdWFPqY/0zV3LO/1Wl8tV4EIHkan5NbD9s52LPNx9280tYKCh1jPaFqXjsrYCcgKFhQBaIHvuxDrEPVxD8AliqCmGA81lWQCVqIO1MV9AMcMHcaqZMS7AO9sqy/t0UwclQzJxteb79Ll6lXKT8m+9TZcrPSL9707ycausU/lmw/ufV8qRMFqM1NPZnQ==;Ljz6lndvIbcIRRvYdu1XgA=="
+secured: "gV9Q0JFwfeaZqdvDvVVsTz1fNPUixz9BotZFu3gLfMt62A/B9qTn2RCNea+Uou+sYSUDRUpCZgMvWLO4ZVRx/Nijk07lwU+46TMblZS3C0bVOkTA4HQ/4sB5GcMUv+y3JEmkq4BpYN6ScNCV9/0VXjlSwgjFeQNIcKrMi5HwyAuitZ3TFo1k0HQI5UqjdWWuioeC7VP8/b7wPQCXnfeGmLHhDYjRbcqE5dkD0nvU0b0LrR88PcR/XaCh6ClfXJc5sLh5/7ynRaKIZbmWzqXiYrZtPVIzIWBhpxawSL/T859t7g6MP4X6P3d9Zqd80O7xRUXWYSimCN+Qw5txLpn2C5gQzUU9OkcdCTlpOYI49aaq1HQHGtIdnY7Of1zI5rTJsIwJthRT3Y3VLyiYxt8CgYL6JZRiJU5xqa+Dx27stKy2FLwCKAj9DjL3YrRmT7b36bj/wy7biA3Bspfg7aEsnQ5l6V3kaxNzV6H2ljIR+EUaigKbaf1YTA4TnfmOVj3YmeTluxWLtEI+WcS2+tCZRA==;sm3Zizx9wZScGTKSa5TQHw=="
 ---
 

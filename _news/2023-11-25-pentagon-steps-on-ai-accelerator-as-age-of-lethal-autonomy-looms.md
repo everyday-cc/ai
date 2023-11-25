@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-ac
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 506
         height: 337
         isCached: true
+  - title: "Pentagon steps on AI accelerator as age of lethal autonomy looms"
+    excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"
+    publishedDateTime: 2023-11-25T17:26:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152243"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 17
 
 secured: "47bUw9LNXE51ZRwJfYUCiYzOA1W542XnEr4d6251LRaRNdzgVknNbxTLev3wqxvsm/zBM96CYFSmfdS6qWu8gAriPual4QnyRDfNvsCVJfSYrOy2AWTGpujVEDE8v/g3DqtBQ6NFsBta90sR8FOJfYWh6zcSzleZblQ0TEm/tHlfmeIVBrPZu1JfiiCX98jWcKU7muEybSEdxqV6raI24Jbfv/LCI9QoEhYn7z9VjybrEpEFjhWfJhgs7seBYz38qveYmpU1O0wJKX36Cp44X+ZwvYtWN/6gEutKefSqE7T2YgPD6z+KTGdC/Yr7vo7Rpn7M+uXlDCjydCssaEygRyALwKw2n6Bcy+J5xAtFutk=;D+9oH9Kn+5HHV56ufHHY+Q=="
 ---

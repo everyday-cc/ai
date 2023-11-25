@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "UK police plan nationwide rollout of NEC facial recognition on mobile phones"
-    excerpt: "The app, known as Operator Initiated Facial Recognition, is already being trialed by three UK police forces, with plans for a nationwide rollout next year."
-    publishedDateTime: 2023-11-20T22:00:00Z
-    webUrl: "https://www.biometricupdate.com/202311/uk-police-plan-nationwide-rollout-of-nec-facial-recognition-on-mobile-phones"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/11/20165532/police-phone-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "UQjRcwMiefv89KeioHLEH5lgRzlVFWgO8Azvn6FswUqjlSNS0O6hf5ID4Gxyf9+KD3nD99kPFtmE9WdpdPTqU2Od8f/suoqrFG8CnACE2MoGOqWHbzAxGzRfY80LWtqxhj9ONt/yzAWG/M9BtaYLrYb7SJh3kLcLcdwQpvTxQl2kX5U1nzU1IQBZ/E5SwL7vKQv28aVA+KhDPuHEnIn0crNPTP2v4CGJgxVXIyOVmnSvrYYFtpkXIah2gaZpyPRO758JsGLQr0CZxefWCVnSmYVlNtfXoiAqp2md/7SsVaP7RcdT0flKTwDIGSecFKcTnH7j0YO67+XYbAcRopxOhkUC20XgchsmQkw1HJ9w3drgZw6GLtnrvbDizeOTKOix65uL8IYSbBma46xByHL170TXNkNOQcpoQuqGwqtj6gNGJLdoc4NazckTegtnpWa8D4TJW1WE/3XTUtz1ya2ANSjCKKMwL1xrneT1CRW+70BiYwRAPLHJUQ2uEfDlOhLKVo846A0KQ0xx2yR6WFylfA==;0SVZhBn9x5u2EAC7uYkHbQ=="
 ---

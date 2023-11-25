@@ -37,20 +37,6 @@ related:
         width: 975
         height: 630
         isCached: true
-  - title: "Amazon Launches New Generative AI Training Courses for Free"
-    excerpt: "The 'AI Ready' initiative offers online classes for developers and other technical professionals as well as for students."
-    publishedDateTime: 2023-11-20T21:49:00Z
-    webUrl: "https://www.techrepublic.com/article/amazon-free-ai-skills-training-courses/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/amazon-skills-builder-ai-courses-nov-23.jpeg"
-        width: 1400
-        height: 788
-        isCached: true
 
 secured: "QAL3zqMERBNU1YURgxihy9sIYIZzzow0iqe3W392iNxRC3VCoWNXn8/2KYdo5kpj7a64S1V7nFzzpx46OE0S+f8Wa1LIWt/piMXP7ZkTM3Oz/JBZevWUqWxRw62q4rCAe2n8Vi1MUAoTk98lU7OVut2Xxn8vmpmnG/oRzM105BrIW/E5gfbNeWK6ZMoUAzktIB4Q+/dlGkCtXsItHqgBjBhBI77fBSznsbmE36ZeXTxuLBFi5H9SpTh4QfzF/wWpExb3Yd5XAzp7/7IBkuWhmdZUMYdB6LQQ5cnsHFh3g4oT3wG/ua5OYqed82M6caPZW4nEsAI4xrFqnSZ7lJRYH4jlg20rY9U/2de9l7T1vlY=;M2wfeIynEmtiFqP5tLT57Q=="
 ---

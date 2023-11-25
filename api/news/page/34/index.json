@@ -2,6 +2,84 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-10-26-revolutionizing-accounts-payable-automation-gravity-software-unveils-cutting-edge-ai-technology-powered-by-microsofts-cognitive-services-ai.md",
+      "title": "Revolutionizing Accounts Payable Automation: Gravity Software Unveils Cutting-Edge AI Technology Powered by Microsoft's Cognitive Services AI Engine",
+      "excerpt": "This transformative solution uses the Microsoft Cognitive Services AI engine to convert PDFs of vendor bills into Gravity Vouchers, significantly reducing the need for manual data entry or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/revolutionizing-accounts-payable-automation-gravity-software-unveils-cutting-edge-ai-technology-powered-by-microsofts-cognitive/article_9df20d0f-02f2-5459-899f-3095e383f201.html",
+      "originalUrl": "https://www.victoriaadvocate.com/revolutionizing-accounts-payable-automation-gravity-software-unveils-cutting-edge-ai-technology-powered-by-microsofts-cognitive/article_9df20d0f-02f2-5459-899f-3095e383f201.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-26T07:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-sk-hynix-cuts-losses-in-q3-on-higher-ai-memory-chip-sales.md",
+      "title": "SK hynix cuts losses in Q3 on higher AI memory chip sales",
+      "excerpt": "SK hynix posted an operating loss of 1.79 trillion won ($1.31 billion) in the third quarter, but the memory chip maker was able to reduce its deficit by focusing on high-priced and high-performance AI memory chips such as high-bandwidth memory (HBM),",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/10/129_361933.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/10/129_361933.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/336d93b73d2a4d70b2f47a9328f5ba29.jpg",
+          "width": 601,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361933",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361933",
+      "publishedDateTime": "2023-10-26T06:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-bat-inspired-glasses-help-the-blind-vision-impaired-see-using-sound.md",
       "title": "Bat-inspired glasses help the blind & vision-impaired ‘see’ using sound",
       "excerpt": "Inspired by bats’ use of echolocation, researchers have developed smart glasses that transform visual information into unique sound representations that enhance the ability of blind and vision-impaired people to navigate their surroundings.",
@@ -1070,110 +1148,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-experts-from-accenture-and-aws-on-optimizing-cloud-and-ai.md",
-      "title": "Experts from Accenture and AWS on Optimizing Cloud and AI",
-      "excerpt": "Providing insight are Chris Niederman, Managing Director, Global Systems Integrators at Amazon Web Services; and Chris Wegmann, Global Technology Lead of AWS Business Group at Accenture. eWEEK content and product recommendations are editorially independent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/accenture-and-aws-on-optimizing-cloud-ai/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/accenture-and-aws-on-optimizing-cloud-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/10/eSPEAKS-thumbnail-aws-accenture.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T17:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-ai-is-finally-resulting-in-real-growth-for-big-tech.md",
-      "title": "AI is finally resulting in real growth for big tech",
-      "excerpt": "including going up 29% at Azure, three percentage points better than analysts expected. Investors liked that a lot. The market’s reaction to the two sets of data provides their grading, but we care about the AI-related components that went into the top ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-analysis/",
-      "originalUrl": "https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/microsoft-getty-hacks-government.jpg?resize=1200,816",
-          "width": 1200,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T17:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

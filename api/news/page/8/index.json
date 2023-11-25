@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-11-15-baidu-upgrading-to-buy.md",
+      "title": "Baidu: Upgrading To Buy",
+      "excerpt": "Although I never invested in Baidu, Inc. (NASDAQ:BIDU), I found the company attractively valued back in 2021 when BIDU stock was still in a free fall. Last June, I rated Baidu stock a hold despite ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4652024-baidu-upgrading-to-buy",
+      "originalUrl": "https://seekingalpha.com/article/4652024-baidu-upgrading-to-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1392925359/image_1392925359.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1017,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T14:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-fujitsu-claims-new-tech-can-optimize-cpu-gpu-allocation-for-ai-and-hpc-workloads.md",
       "title": "Fujitsu claims new tech can optimize CPU & GPU allocation for AI and HPC workloads",
       "excerpt": "Fujitsu developed two new technologies designed to optimize CPU and GPU workloads on powerful HPC systems. The company is working to allocate resources in real-time to",
@@ -973,42 +1016,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-ethical-machine-learning-with-explainable-ai-and-impact-analysis.md",
-      "title": "Ethical Machine Learning with Explainable AI and Impact Analysis",
-      "excerpt": "These include a very popular integration of ChatGPT with Azure OpenAI and Cognitive Search ... Kesha Williams spoke about ethical machine learning at NDC Oslo 2023. In the pre-machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/11/ethical-machine-learning/",
-      "originalUrl": "https://www.infoq.com/news/2023/11/ethical-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T23:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
       ]
     }
   ],
