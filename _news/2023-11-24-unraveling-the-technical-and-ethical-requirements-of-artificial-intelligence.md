@@ -26,105 +26,222 @@ images:
     isCached: true
 
 related:
-  - title: "Playing The Long Game: Making AI Development More Transparent"
-    excerpt: "The competitive nature of AI developments has incentivized companies to move quickly and shroud their efforts in secrecy as AI continues to get more advanced. While playing things close to the vest is understandable (after all, each company wants to build AI solutions that are unique to them), it also creates major information gaps in the industry."
-    publishedDateTime: 2023-11-22T15:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/amp/"
+  - title: "The Art Of Selling, Persuading, And Influencing In An AI World"
+    excerpt: "As we witness a transformative era in trade and collaboration, it is essential for leaders to adapt and thrive in the evolving landscape of sales."
+    publishedDateTime: 2023-11-21T05:47:00Z
+    webUrl: "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/"
+    ampWebUrl: "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dbb92acf0ab1302db1ea3f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655c40d36f6c19838150e0e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1213
         height: 900
         isCached: true
-  - title: "Exploring AI: Artificial intelligence’s development and future potential"
-    excerpt: "AI ethics in education is a big deal as well. Nadia Pesch, a senior at Lane Tech, said she’s familiar with classmates using Chat GPT to cheat. “I pretty much had every teacher saying ‘Don’ ..."
-    publishedDateTime: 2023-11-22T00:00:00Z
-    webUrl: "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/"
-    ampWebUrl: "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/"
-    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/"
+  - title: "Powder, an AI clipping tool for gaming, can detect when a creator yells during a stream"
+    excerpt: "Powder, AI-powered clipping software that takes highlights from gaming ... Powder claims to save streamers upwards of around 10 hours per week or 520 hours a year. The France-based startup was founded in 2018 by Kiss, Yannis Mangematin and Christian ..."
+    publishedDateTime: 2023-11-20T18:31:00Z
+    webUrl: "https://techcrunch.com/2023/11/20/powder-an-ai-clipping-tool-for-gaming-can-detect-when-a-creator-yells-during-a-stream/"
+    ampWebUrl: "https://techcrunch.com/2023/11/20/powder-an-ai-clipping-tool-for-gaming-can-detect-when-a-creator-yells-during-a-stream/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/20/powder-an-ai-clipping-tool-for-gaming-can-detect-when-a-creator-yells-during-a-stream/amp/"
     type: article
     provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 73
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
     images:
-      - url: "https://wgntv.com/wp-content/uploads/sites/5/2023/11/snapshot-2023-11-21T213437.632.jpg?w=1280"
-        width: 1280
-        height: 720
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/Powder-clipping-tool-gaming.png?w=1118"
+        width: 1118
+        height: 618
         isCached: true
-  - title: "Four ways AI is making the power grid faster and more resilient"
-    excerpt: "From predicting EV charge times to pinpointing areas of high wildfire risk, AI is transforming our energy network."
-    publishedDateTime: 2023-11-22T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/"
-    ampWebUrl: "https://www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/amp/"
+  - title: "Fluency and Amazon to work on AI and machine learning"
+    excerpt: "Fluency, the data and technology division of M&C Saatchi Group, has partnered with Amazon Web Services on scaling artificial intelligence, machine learning and generative AI."
+    publishedDateTime: 2023-11-23T11:59:00Z
+    webUrl: "https://www.research-live.com/article/news/fluency-and-amazon-to-work-on-ai-and-machine-learning/id/5119763"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: research
+      domain: research-live.com
+    quality: 76
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/smart-grid.jpg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
         isCached: true
-  - title: "AI’s Odyssey: Tracing the Development of Artificial Intelligence Before the Year 2000"
-    excerpt: "Introduction: Artificial Intelligence (AI) has become an integral part of our modern technological landscape, shaping the way we live and work. However, its journey to prominence was not an overnight success."
-    publishedDateTime: 2023-11-24T11:18:00Z
-    webUrl: "https://techbullion.com/ais-odyssey-tracing-the-development-of-artificial-intelligence-before-the-year-2000/"
+  - title: "Morning Bid: Thanksgiving starters of AI and oil"
+    excerpt: "A key catalyst for some of the outsize Big Tech share gains this year, the craze around generative AI will also top the agenda as chip giant Nvidia reports earnings on Tuesday tha"
+    publishedDateTime: 2023-11-20T10:10:00Z
+    webUrl: "https://www.reuters.com/markets/us/global-markets-view-usa-2023-11-20/?ref=biztoc.com"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 49
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/AIs-Odyssey-Tracing-the-Development-of-Artificial-Intelligence-Before-the-Year-2000.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.reuters.com/resizer/OTonxUC0js-331bMFXUWQuFq1OE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2K5MG2S3UFJOHNIKLKWA57OI2Q.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Developing Artificial Intelligence for Medical Devices"
-    excerpt: "However, a Canadian company specializing in artificial intelligence (AI)-based monitoring of the spread of infectious diseases had already warned its customers of the risk of an epidemic in China as early as December 2019. 1 The warning had been derived ..."
-    publishedDateTime: 2023-11-20T00:00:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices"
+  - title: "Trying To Do More Real HPC In An Increasingly AI World"
+    excerpt: "If you are in the traditional HPC community, it is not hard to be of two minds about the rise of AI and the mainstreaming of generative AI. At the very least, the GenAI tsunami makes it easier to argu"
+    publishedDateTime: 2023-11-20T17:54:00Z
+    webUrl: "https://www.nextplatform.com/2023/11/20/trying-to-do-more-real-hpc-in-an-increasingly-ai-world/"
+    ampWebUrl: "https://www.nextplatform.com/2023/11/20/trying-to-do-more-real-hpc-in-an-increasingly-ai-world/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/20/trying-to-do-more-real-hpc-in-an-increasingly-ai-world/amp/"
     type: article
     provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 39
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 61
     images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-5291510_640_web.jpg"
-        width: 770
-        height: 440
+      - url: "http://www.nextplatform.com/wp-content/uploads/2022/09/lenovo-hpc-ai-logo.jpg"
+        width: 952
+        height: 525
         isCached: true
-  - title: "The future of hardware and software development for artificial intelligence"
-    excerpt: "Reflecting on the history of the computer industry, it all began with a small transistor, evolving into integrated circuits and eventually transforming into powerful CPUs capable of processing billions of instructions per second."
-    publishedDateTime: 2023-11-21T06:40:00Z
-    webUrl: "https://www.digitimes.com/news/a20231121PR200/ai-software-hardware-development-nvidia.html"
+  - title: "The flying, swimming and tunneling robots inspired by nature"
+    excerpt: "Drawing inspiration from birds, fish and even worms, researchers in Europe are developing machines to explore places on Earth that are difficult for people to reach."
+    publishedDateTime: 2023-11-24T15:51:00Z
+    webUrl: "https://techxplore.com/news/2023-11-flying-tunneling-robots-nature.html"
+    ampWebUrl: "https://techxplore.com/news/2023-11-flying-tunneling-robots-nature.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-flying-tunneling-robots-nature.amp"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/the-flying-swimming-an.jpg"
+        width: 2048
+        height: 725
+        isCached: true
+  - title: "Law enforcement using AI to solve crimes, including 2020 Nashville bombing"
+    excerpt: "It was during the quiet early hours of Christmas morning 2020 when a bomb went off, killing the bomber and destroying Second Avenue and Commerce Street. In the initial days and weeks, artificial intelligence played a critical role in the investigation."
+    publishedDateTime: 2023-11-23T09:00:00Z
+    webUrl: "https://www.wkrn.com/news/local-news/law-enforcement-using-ai-to-solve-crimes-including-2020-nashville-bombing/"
+    ampWebUrl: "https://www.wkrn.com/news/local-news/law-enforcement-using-ai-to-solve-crimes-including-2020-nashville-bombing/amp/"
+    cdnAmpWebUrl: "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/news/local-news/law-enforcement-using-ai-to-solve-crimes-including-2020-nashville-bombing/amp/"
+    type: article
+    provider:
+      name: WKRN-TV
+      domain: wkrn.com
+    quality: 55
+    images:
+      - url: "https://www.wkrn.com/wp-content/uploads/sites/73/2021/02/brix.jpg?w=1280"
+        width: 1272
+        height: 718
+        isCached: true
+  - title: "Supercharging Your Mid-Market Brand’s Voice In The Age Of AI"
+    excerpt: "AI can help you produce more content than ever before while maintaining your unique brand voice. But it requires some pre-work."
+    publishedDateTime: 2023-11-20T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/20/supercharging-your-mid-market-brands-voice-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Unlocking The Potential Of AI For Accounting Firms And Clients"
+    excerpt: "In the ever-evolving landscape of finance and law, AI has emerged as a dynamic force reshaping how accounting firms and their clients operate."
+    publishedDateTime: 2023-11-22T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/22/unlocking-the-potential-of-ai-for-accounting-firms-and-clients/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Surviving and Thriving in the Age of AI: How Healthcare Leaders Can Learn What They Need to Know"
+    excerpt: "AI may transform health care across the board, but not by itself. It's a tool, and like any tool, it will work more effectively and more safely in trained hands. As the AI revolution continues to grow,"
+    publishedDateTime: 2023-11-20T14:00:00Z
+    webUrl: "https://medcitynews.com/2023/11/surviving-and-thriving-in-the-age-of-ai-how-healthcare-leaders-can-learn-what-they-need-to-know/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 41
+    images:
+      - url: "https://medcitynews.com/uploads/2022/08/GettyImages-1415976995.jpg"
+        width: 724
+        height: 482
+        isCached: true
+  - title: "Navigating tomorrow -The rise of artificial intelligence in leadership"
+    excerpt: "Mumbai: In an era marked by rapid technological advancements, the integration of artificial intelligence (AI) into various facets of our lives is becoming increasingly prevalent. One of the most intriguing and transformative areas where AI is making a significant impact is in the realm of leadership."
+    publishedDateTime: 2023-11-21T02:53:00Z
+    webUrl: "https://www.indiantelevision.com/mam/digital/navigating-tomorrow--the-rise-of-artificial-intelligence-in-leadership-231121"
+    type: article
+    provider:
+      name: Indian Television Dot Com
+      domain: indiantelevision.com
     quality: 37
     images:
-      - url: "https://img.digitimes.com/newsshow/20231121pr200_files/3_2b.jpg"
-        width: 1280
-        height: 853
+      - url: "https://www.indiantelevision.com/sites/default/files/images/tv-images/2023/11/21/53.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Considering the societal and ethical implications in the development of AI"
-    excerpt: "The research of Betty Li Hou, who presented a seminar as part of The New York Academy of Sciences’ Artificial Intelligence (AI) & Society Lecture series, explores the educational, philosophical, sociological,"
-    publishedDateTime: 2023-11-21T20:44:00Z
-    webUrl: "https://www.nyas.org/news-articles/academy-news/considering-the-societal-and-ethical-implications-in-the-development-of-ai/"
+  - title: "Startup Combating AI Threats Pulls In $6M Seed Funding"
+    excerpt: "Lasso Security can identify which genAI tools are being used by firms and monitor every employee that uses them & the data they send out."
+    publishedDateTime: 2023-11-21T08:37:00Z
+    webUrl: "https://nocamels.com/2023/11/startup-combating-ai-threats-pulls-in-6m-seed-funding/"
     type: article
     provider:
-      name: New York Academy of Sciences
-      domain: nyas.org
-    quality: 32
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://nocamels.com/wp-content/uploads/2023/11/lassosecurity-e1700555834640.jpeg"
+        width: 1024
+        height: 590
+        isCached: true
+  - title: "Guest Article: Navigating tomorrow - The rise of artificial intelligence in leadership"
+    excerpt: "Mumbai: In an era marked by rapid technological advancements, the integration of artificial intelligence (AI) into various facets of our lives is becoming increasingly prevalent. One of the most intriguing and transformative areas where AI is making a significant impact is in the realm of leadership."
+    publishedDateTime: 2023-11-20T02:56:00Z
+    webUrl: "https://www.indiantelevision.com/mam/digital/guest-article%3A-navigating-tomorrow---the-rise-of-artificial-intelligence-in-leadership-231120"
+    type: article
+    provider:
+      name: Indian Television Dot Com
+      domain: indiantelevision.com
+    quality: 29
+    images:
+      - url: "https://www.indiantelevision.com/sites/default/files/images/tv-images/2023/11/20/23.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "AI is already impacting influencer marketing, according to the CMO of Billion Dollar Boy. Here's how she thinks brands should approach the new tech."
+    excerpt: "Becky Owen, the CMO of influencer-marketing firm Billion Dollar Boy, is at the helm of an innovation unit at the company that focuses on AI efforts."
+    publishedDateTime: 2023-11-21T13:29:00Z
+    webUrl: "https://www.businessinsider.com/influencer-marketing-firm-billion-dollar-boy-investing-in-ai-2023-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
+  - title: "Spanish influencer agency designed this AI model after deciding real-life influencers are a pain"
+    excerpt: "Meet Aitana Lopez, a gorgeous young influencer from Barcelona who has 122,000 followers on Instagram - even though she's an AI creation."
+    publishedDateTime: 2023-11-24T01:11:00Z
+    webUrl: "https://bgr.com/business/spanish-influencer-agency-designed-this-ai-model-after-deciding-real-life-influencers-are-a-pain/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 24
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/11/Screenshot-2023-11-23-at-10.39.09 AM.jpg?quality=82&strip=all"
+        width: 1242
+        height: 830
+        isCached: true
+  - title: "Rocketlane Unveils 'AI at Work' Report Showcasing the Impact of Artificial Intelligence on Modern Workplaces Across the Globe"
+    excerpt: "Rocketlane remains at the forefront of empowering businesses to streamline operations and enhance customer experiences through cutting-edge technologies. The 'AI at Work' report is a valuable resource for industry leaders, providing insights into the evolving landscape of AI adoption and its impact on business success."
+    publishedDateTime: 2023-11-21T14:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/21/9921894.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "hMXaKwtVvUfTG7vr3n0gccghUduYQMV73YX+3cqeImA6TmkIwFNqCR0aSmfskYKqnyENgAzfe0uxpAtWLbJidb8sWfwz64f5TgPIS36DPLyyispcIkIyPguvFQ0GdK84eUPCAwVctRFohKtDTiN5FKQAFiBjz7KZ5+z/cqCjnt/5s6RiaAS2eODj5aOKKz8CC7zlbuaKTyjncWxkv1E6iG7HmoJhrvLEna/83CxpO5G0X1BBikR55xx3wnRMVPkt1pXcJlcCdo4uvYPXzNWPfyGADjjUP9iESevfuwJmbv3eGnF4e8MDa/eb0HII3N/ECDOlHyyOFYhG9QqscCTmUpBA2C452SlmbbDuVVVtZuwYA6/n3/ekUzJsYMg0joz9J94uENhqbhEBD+z/7KsttCnhM5NJ3K6Ny23B8xEgasfPoPdGdwa4cwCfucPrjrdif8cfc/AOGATSS320JHVAK76vp+71xxpTSI9ulAMB1KuTbSibOiqPmgkzqQ3+0kVkSRoXdlTMc/tZi6gM1AAjsg==;Xb05+nnhbK+cCzo2b0zZBQ=="
 ---

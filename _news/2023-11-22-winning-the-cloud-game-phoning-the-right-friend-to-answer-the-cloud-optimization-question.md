@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/winning-the-cloud-game-phoning-the-right-
 webUrl: "https://www.ibm.com/blog/winning-the-cloud-game-phoning-the-right-friend-to-answer-the-cloud-optimization-question/"
 type: article
 quality: 92
-heat: -1
-published: false
+heat: 102
+published: true
 
 provider:
   name: IBM
@@ -28,29 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "Maximo Application Suite migration and modernization with Red Hat OpenShift on Azure"
-    excerpt: "Walking through recommended options for running MAS on Azure and how the IBM, Red Hat and Microsoft Azure components come together.\nThe post Maximo Application Suite migration and modernization with Red Hat OpenShift on Azure appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-11-21T10:00:00Z
-    webUrl: "https://www.ibm.com/blog/maximo-application-suite-migration-and-modernization-with-red-hat-openshift-on-azure/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 92
-  - title: "Artificial Intelligence: A New Era For Legacy Application Modernization"
-    excerpt: "When implemented and used properly, AI tools can significantly assist in the modernization of existing legacy applications."
-    publishedDateTime: 2023-11-20T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/artificial-intelligence-a-new-era-for-legacy-application-modernization/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/artificial-intelligence-a-new-era-for-legacy-application-modernization/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/20/artificial-intelligence-a-new-era-for-legacy-application-modernization/amp/"
+  - title: "Playing The Long Game: Making AI Development More Transparent"
+    excerpt: "The competitive nature of AI developments has incentivized companies to move quickly and shroud their efforts in secrecy as AI continues to get more advanced. While playing things close to the vest is understandable (after all, each company wants to build AI solutions that are unique to them), it also creates major information gaps in the industry."
+    publishedDateTime: 2023-11-22T15:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f2d686d44b66e05156c5e3c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64dbb92acf0ab1302db1ea3f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
         height: 900
         isCached: true
 

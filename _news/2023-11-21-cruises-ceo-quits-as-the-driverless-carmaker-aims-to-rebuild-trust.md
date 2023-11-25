@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/11/19/technology/cruise-ceo-kyle-vogt
 webUrl: "https://www.nytimes.com/2023/11/19/technology/cruise-ceo-kyle-vogt-quits.html"
 type: article
 quality: 84
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -153,15 +153,6 @@ related:
       name: Australian Broadcasting Corporation
       domain: abc.net.au
     quality: 19
-  - title: "Self-driving car venture Cruise chief resigns after uproar over accident"
-    excerpt: "The co-founder and chief executive of General Motors-owned Cruise has resigned, weeks after the self-driving car company paused driverless operations and California regulators barred its vehicles from the state’s streets. Cruise said on Sunday that its ..."
-    publishedDateTime: 2023-11-20T00:00:00Z
-    webUrl: "https://www.ft.com/content/0a68a82f-b5fb-4acb-a915-96cbc70bf8d7"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 3
 
 secured: "ItbDbEg3kmgu4JLmVVFwUb+qc8P3QfHvb07+/4NMw4sKYkWRHADL3AedRQty5fJi467w29FDgLRKeOD/DfNAhVttuAfOnzfvRHIDdBgrbIibuuY2nAnUnyiBUajnDywQGXLVYVtTx7R+qaslv3a4YacbucjrNhKHRzaA2fOGXI+s9BHV6dXUL8mxHeHXexJX/rMyowvmMtCczpxPbkU60kuDbK01h7pCk8HqAxMbJ/eB4f1RaRtsZilHUmIXeKJyfa348/PTaBecNoMN2rxo/HEGOdfD2uvm8eNV4O+UPQWTAOz8nBR6MUOChtgF2jOI8YXcPKesghW2ukPpRUDLUnSDk9jKuKPqJRKNDi5yBsA=;6vQ/AKTwNcAx8p7ju/mszQ=="
 ---

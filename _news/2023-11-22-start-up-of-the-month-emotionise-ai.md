@@ -40,20 +40,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artificial Intelligence: Intellectual Property Considerations for Your Business Operations"
-    excerpt: "Over the past couple of decades, artificial intelligence-enabled (AI) technologies have crept into the marketplace, providing businesses with internal- and external-facing services, such as customer support, search engine optimization, market research ..."
-    publishedDateTime: 2023-11-20T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-intellectual-6821463/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 29
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14909_3723.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "Ih7eWDFrJYVwEjm0FTpPpwypbZnunQFRuWDMFS+UbSJsO9RqejtknWqUrR6xCcDbVutMHXq4Lj4A4xOLFnSyd6KdSSYtu+J8zWge8MPTlikOtFlEk99e+IuRfDYqmSRgsXIKTXjsu9hzKwxI18UKNllqfiTntQx+kC95wVyW3Chy7tCbuLGNLwmtIBATud4nfLr7VBmC7febGXeEM4HI9z3c+xKH3mdv40sE9EFl6R8Qdo6Jz5P4gf2T5nWL2aRpkwoZ/L5u2eeEaYbTkykw2L3A2yIqFywu1An9ex8zQpApxa7xsD6T+VniVfhoBQoN0IGhQhAzsTD971DvxekI+u8FwgCmgHxT+YYgvFe9/4s=;JhOhTHl52cz49K9A343tVA=="
 ---

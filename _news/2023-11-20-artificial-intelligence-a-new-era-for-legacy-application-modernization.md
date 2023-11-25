@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Application modernization overview"
+    excerpt: "Application modernization is the process of updating legacy applications leveraging modern technologies. Learn more in this post.\nThe post Application modernization overview appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-25T00:00:00Z
+    webUrl: "https://www.ibm.com/blog/application-modernization-overview/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 102
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/11/Screenshot-2023-11-22-at-12.03.16%E2%80%AFPM.png"
+        width: 1180
+        height: 912
+        isCached: true
   - title: "Maximo Application Suite migration and modernization with Red Hat OpenShift on Azure"
     excerpt: "Walking through recommended options for running MAS on Azure and how the IBM, Red Hat and Microsoft Azure components come together.\nThe post Maximo Application Suite migration and modernization with Red Hat OpenShift on Azure appeared first on IBM Blog.\n"
     publishedDateTime: 2023-11-21T10:00:00Z
@@ -39,20 +53,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 92
-  - title: "Winning the cloud game: Phoning the right friend to answer the cloud optimization question"
-    excerpt: "By embracing new technologies, organizations improve efficiency, enhance customer experience and remain competitive.\nThe post Winning the cloud game: Phoning the right friend to answer the cloud optimization question appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-11-22T19:24:33Z
-    webUrl: "https://www.ibm.com/blog/winning-the-cloud-game-phoning-the-right-friend-to-answer-the-cloud-optimization-question/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 92
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/11/90aeeede-ffda-4f77-8bd18923788d72bd.blog-lead-space-40x21-1-1.jpg"
-        width: 2400
-        height: 1260
-        isCached: true
 
 secured: "c5DlwkUyrJ+e8cUr15piaXRd9GJCMgcLpEI/RCaFwBvnYxA7u4q+ncNHrb0ZmGPIjrR1bRW2tdMDnAd3VifMHoJ+1FhB/X3zbimyx+ZBuoDJTK4BdHVet+Or/uKnjk7wjexXSitfqoB4SHKt3MSbO3zyl+7cU6jPrsJbhVTJ7oUM1zKT/FXQOSfTkianPIB5F+Lfk27DYu5tekeF3xz5UNLNemvj/pqpd6rGVemCOB0NOtPvmNODgAxCYJ2VOcQRMADJwT37jUmR8CadCdeAlm8VmAJUgALB3czx2qBQjp32sDxsjCmzypJerP5mJ4v4rnXaGIAufK60SAMUk7LUqrWejkU83WCAbo2UdeTlfJ2SM5TNYq/GJcJY2ccOZeg/bhDOrTDlGDFwvAzivQSersua5qDb3U+mR9PzDwMnmZ0oglE5Umi0PSKqP6K+9GPW/vojcs2KHPxbxzHf1FcxJOIxbjKA6mLJk92KBswy7WYaeX0Ri/fqhME7F1fyXd2o4r8MUch6++cMUiOf9JopcA==;0XanbiUKpngofC8wOOA0Hg=="
 ---

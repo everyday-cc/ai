@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-to-apply-natural-language-processin
 webUrl: "https://venturebeat.com/ai/how-to-apply-natural-language-processing-to-cybersecurity/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Role of Artificial Intelligence in Cybersecurity: A Double-Edged Sword”"
+    excerpt: "Introduction In the ever-evolving landscape of cybersecurity, Artificial Intelligence (AI) has emerged as a potent weapon against cyber threats. With its ability to analyze vast datasets, identify patterns,"
+    publishedDateTime: 2023-11-25T00:38:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-cybersecurity-a-double-edged-sword/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 35
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/The-Role-of-Artificial-Intelligence-in-Cybersecurity-A-Double-Edged-Sword.jpg"
+        width: 650
+        height: 450
+        isCached: true
   - title: "Samsung backs $6M round for LLM cybersecurity startup Lasso Security"
     excerpt: "The capital was provided by Entrée Capital, the lead investor in the round, and Samsung Electronics Co. Ltd.’s Next venture capital arm. The raise brings Lasso Security’s total outside funding to just over $7.5 million."
     publishedDateTime: 2023-11-20T19:03:00Z

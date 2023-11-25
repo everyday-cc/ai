@@ -25,22 +25,6 @@ images:
     height: 1285
     isCached: true
 
-related:
-  - title: "Redefining the quest for artificial intelligence: What should replace the Turing test?"
-    excerpt: "While it has been a valuable benchmark in the history of artificial intelligence, it has certain limitations: Mimicry vs. Understanding: Passing the Turing test often involves mimicking human responses, making it more a test of mimicry and language ..."
-    publishedDateTime: 2023-11-20T00:00:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64081.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 31
-    images:
-      - url: "https://www.nanowerk.com/smart/images/smartworlder.jpg"
-        width: 400
-        height: 217
-        isCached: true
-
 secured: "Rth4qJBPc1x2HdJKqqvzsJHrXU7ey15ilw4hHZAuGbiSkT3If4uhh6v7EQsErSvkE0DzjT09yVW7IncjRsXDUDACDwi+UJrO7vRh8QEOEyYcbJIw2vb8ow2AGeVKZ7sg7DO45QJWgyitAr5FxkrusTwiLNwqCfh0OBcaI+iNQOTBFeC04hitaOhfThXe5gKG4EreAUwPVk/lnPjq8nj9b8G6/3ggANrBHz/+AWm8Ww4OMyhu7ECo11Vt4ljwOcDRUFFq7EI1UO8Imm5MbYsi3qBXoBJ98T7Lf9uBrz/7F9mbgmVhLwSIJkvy5uDKMsQwOUYIkJcvnU+MG7AaT4FfRLTX6iEAUDXo6WvFCowIberw5tLxvaDVOX1ppAfwNT6dTOkzGOFKos9VZtL+Ay05EyW+/cj6WrVRlzW37BZzQ+MD0oa1jxOk0GN0ZaqrVJJEWPixXcGYjEI6puGpQmJLuh4hbS8N40VJsJz9dHfAVMnR4GxLppQQLnG96FFylahEAbLDy2heEQqpHx9nCp/jiA==;SDDztOOvkmbg22xV8KuXLw=="
 ---
 

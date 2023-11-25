@@ -6,9 +6,9 @@ publishedDateTime: 2023-11-24T20:08:00Z
 originalUrl: "https://gizmodo.com/openai-sam-altman-microsoft-week-roundup-ai-board-1851042201"
 webUrl: "https://gizmodo.com/openai-sam-altman-microsoft-week-roundup-ai-board-1851042201"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
   name: Gizmodo
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/175c7f714c51b703e9494b2a6935c77c.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Congress Ramps Up Its Focus on Artificial Intelligence"
@@ -37,6 +44,6 @@ related:
         height: 900
         isCached: true
 
-secured: "bjjXQuqrQxnSE6yGUck0DB1r0L1tGIaQYGDvBZpUkYWF67P4CxpUe4kRVnWBohcaR6EZKsPUPsqn74mlgQcKaYsq24aY+Yax5nWL1LXRYoEQQjnoxO5m4/63FYjNKiA0ztB4j9Pi5kXQIJPT8wIp6bp580+CYqqWSf3Qy076x6nCrUohpZ7CFo1H1RkZiKbSBFrKEbfjKktUlWi4sjx3OwBkxJ+m7hqRxbVHys4zhAgh/o615Jm4Sw6TJZ2T6o3o0onV4EMecCbDyf5BEe1XTnyIE6Fup9ZXlNGZAM87t413DrNXNQ6stsBJ16vV/V5StiS0m5SOkufBRTnG2w40aq5ATub2oTiWAj3jROEGEvJy0PrLtwyTbvw86zGFgGmBoHyAEuEOFj4fa6EOJmoheMWg6MSM/lxicv81Jv/xeRuq1mFmQjwzn10H/CCzNh5WkZYR5HWdtAOGxmEsZ3dtRTkjz08qq13QpBZPywiveT57a6g9+TrBKrZSBdIUq9mNKLBgSRPduIADMJfFwUFDfg==;xealZqBhTFUesw9aimy0hw=="
+secured: "1x0S6Z3X6BzjOTDgQOp2M2JBpmWYDR2ylG9paLgJA6Wk3+m+oTc0/tQgU2tUsrVnQXpyp3mv9rV3B+02Sur/QNvJ1SuGGzx/FwEWPK9EGw1JiUKi1zMObfY+fEfYpM6ODDO1D2iB5rOnPnHxOEH7otQqUL1JtXyCgL/AHegIvjxQFF/yRnDba3jtZveOEPCX2fH4320aT/gNgrSgGtbzCPSrzCinq3dAgpQL4AeT8Slr36eP3klazezCnlpas0KoRbECdyQ6onGxNzKMX4BVWpTejpWGjncFkGCJKFQzpxnTDqcX/bvmrQOaNv2/ANGrvu9H376ZJFJEGIsGhg2qTboPeVNr9FcYn4UzzpUcla0=;mUBEIWZT2WuK+uh71/SKAA=="
 ---
 

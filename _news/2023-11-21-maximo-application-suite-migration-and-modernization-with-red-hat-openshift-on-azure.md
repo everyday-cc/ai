@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/maximo-application-suite-migration-and-mo
 webUrl: "https://www.ibm.com/blog/maximo-application-suite-migration-and-modernization-with-red-hat-openshift-on-azure/"
 type: article
 quality: 92
-heat: 112
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -23,19 +23,19 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Winning the cloud game: Phoning the right friend to answer the cloud optimization question"
-    excerpt: "By embracing new technologies, organizations improve efficiency, enhance customer experience and remain competitive.\nThe post Winning the cloud game: Phoning the right friend to answer the cloud optimization question appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-11-22T19:24:33Z
-    webUrl: "https://www.ibm.com/blog/winning-the-cloud-game-phoning-the-right-friend-to-answer-the-cloud-optimization-question/"
+  - title: "Application modernization overview"
+    excerpt: "Application modernization is the process of updating legacy applications leveraging modern technologies. Learn more in this post.\nThe post Application modernization overview appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-25T00:00:00Z
+    webUrl: "https://www.ibm.com/blog/application-modernization-overview/"
     type: article
     provider:
       name: IBM
       domain: ibm.com
-    quality: 92
+    quality: 102
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/11/90aeeede-ffda-4f77-8bd18923788d72bd.blog-lead-space-40x21-1-1.jpg"
-        width: 2400
-        height: 1260
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/11/Screenshot-2023-11-22-at-12.03.16%E2%80%AFPM.png"
+        width: 1180
+        height: 912
         isCached: true
   - title: "Artificial Intelligence: A New Era For Legacy Application Modernization"
     excerpt: "When implemented and used properly, AI tools can significantly assist in the modernization of existing legacy applications."

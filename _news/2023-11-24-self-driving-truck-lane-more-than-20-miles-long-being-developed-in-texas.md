@@ -3,8 +3,8 @@ category: news
 title: "Self-driving truck lane more than 20 miles long being developed in Texas"
 excerpt: "TxDOT is partnering with a startup company to launch a program designed to improve self-driving trucks on Texas roadways."
 publishedDateTime: 2023-11-23T21:39:00Z
-originalUrl: "https://www.khou.com/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
-webUrl: "https://www.khou.com/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+originalUrl: "https://www.khou.com/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+webUrl: "https://www.khou.com/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
 ampWebUrl: "https://www.khou.com/amp/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
 cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
 type: article
@@ -59,6 +59,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Self-driving trucks will soon have their own lane on Texas 130. Will other highways follow?"
+    excerpt: "The Texas Department of Transportation announced it will be creating a smart freight corridor near Austin, in partnership with startup Cavnue."
+    publishedDateTime: 2023-11-22T14:08:00Z
+    webUrl: "https://www.aol.com/self-driving-trucks-soon-own-120825886.html"
+    ampWebUrl: "https://www.aol.com/amphtml/self-driving-trucks-soon-own-120825886.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/self-driving-trucks-soon-own-120825886.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
+    images:
+      - url: "https://media.zenfs.com/en/aol_gannett_aggregated_707/8abd3391305190f5b974a9dc2a81de55"
+        width: 952
+        height: 636
+        isCached: true
   - title: "Trucking's future, or technology gone too far? ABC13 gets inside look at Texas self-driving trucks"
     excerpt: "Has technology gone too far? Self-driving big rigs are already on the road in Texas and safety remains a top concern. Here are experts' take on the future of trucking."
     publishedDateTime: 2023-11-22T03:35:00Z
@@ -76,6 +92,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "VHKawbwC2IJONZ0gHUehjlUCm1XBLctkEgozobMfUvzqtYbz6IrchgrF/rNtWllq7yyrKvoJdtEL2W4QuKaKqRFCtIp5yjd01iDxvpi2/EDEPWnFqxvVu1gJmyReyizahrsg3zp5uV38BdpnhRJsGsYGZajaOSnFotmp8NzqmL3ydIT18S7GM2GLzDEOiLDl0A+eRGKYQwn3uzWWPr3KPTDQ0gr1qA6045V0K9q7jyJ4hMdhmIPQepGWOwbuwargYH4xj6vcfLGvv6Y9hwo/YKHe+S6R4WoP4aR17NTNBLE7QYKbiSWdx6C0hZCPhnAHGKOR7X6RHuXWL26lr8cdBuE1m27ioz3UlmWaxEC47L8=;86+kjxjC988CY8aoGDp1bw=="
+secured: "u5PWA52LPblWED8CZSa+ejYvyIX+q6OQi5a+9hSWYyUz4zj3ivm7vU0cPsiiKDC+64mC6chpc/32oEWG3wHpkKj/BrbaoHasgnImD9A8kT61CGrqRQnPGNduQNs7jnxgPvN1c4RHlDD5h5SRJ6pob5bZtccg1U+CAGh4b+8rFGFk5CAmGf4z3n21raciMVMCmHetY1XU9lEz6sDCiIacIfsEXz8UBjfjFxiTzu2yJkp+XQgJq7F4Ep+UJ3X7GVk3zf+5P2iKytJWKF7H0DwGJ/ahnHMhZrwvl6pwod0D+pv/IUX9Xe0klT2b3/RgrcX3nN3z2TMTiddJwzfKxur2Tq26t6p1LRabzT9w8Iqmb/M=;g6CBVvUriQkPlS1MiAEjwg=="
 ---
 

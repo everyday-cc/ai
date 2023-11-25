@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtontimes.com/news/2023/nov/21/founder-gms-self-
 webUrl: "https://www.washingtontimes.com/news/2023/nov/21/founder-gms-self-driving-division-kyle-vogt-resign/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,29 @@ images:
     isCached: true
 
 related:
+  - title: "CEO of self-driving Cruise out at GM"
+    excerpt: "General Motors' self-driving-car unit, Cruise, is going through leadership changes following the loss of permits and the pause of operations in California."
+    publishedDateTime: 2023-11-20T23:03:00Z
+    webUrl: "https://sjvsun.com/business/ceo-of-self-driving-cruise-out-at-gm/"
+    type: article
+    provider:
+      name: The San Joaquin Valley Sun
+      domain: sjvsun.com
+    quality: 24
+    images:
+      - url: "https://sjvsun.com/wp-content/uploads/2023/11/SUN-OG-_-Feat-162.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Cruise woes claim CEO, drive shakeup, but GM still believes in self-driving technology"
+    excerpt: "Dan Ives, managing director and senior equity analyst at Wedbush Securities, said in a statement Vogt's resignation is \"another major black eye for the Cruise franchise and GM. He was the turnaround CEO and instead it’s another debacle.\""
+    publishedDateTime: 2023-11-21T03:01:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2023/11/20/cruise-woes-claim-ceo-drive-shakeup-but-gm-still-touts-self-driving-tech/71654392007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 11
   - title: "Kyle Vogt resigns from GM self-driving unit Cruise"
     excerpt: "Kyle Vogt's departure is the latest fallout from a safety crisis at the beleaguered self-driving subsidiary of General Motors."
     publishedDateTime: 2023-11-20T03:45:00Z

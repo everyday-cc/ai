@@ -153,15 +153,6 @@ related:
       name: Australian Broadcasting Corporation
       domain: abc.net.au
     quality: 19
-  - title: "Self-driving car venture Cruise chief resigns after uproar over accident"
-    excerpt: "The co-founder and chief executive of General Motors-owned Cruise has resigned, weeks after the self-driving car company paused driverless operations and California regulators barred its vehicles from the state’s streets. Cruise said on Sunday that its ..."
-    publishedDateTime: 2023-11-20T00:00:00Z
-    webUrl: "https://www.ft.com/content/0a68a82f-b5fb-4acb-a915-96cbc70bf8d7"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 3
 
 secured: "aVjeBcpE6FlqoPVuNRBSiPxgDR4p6vJG5O666SVVxS/shyOUYn/TFwZjH0VDbV7ypjUDgRVWV3be8kbCVLdy+BUnqyY/p2cBCSAHpbNQhZPK+16mM/ahNZ0i9kmWhkraR2I4SdArksQ1QbJ1Iqlm0iepihWlqe2b30llmRxWlgJ1PYeIJhJ4httBfZVV+lC9hfYwICU0rthkYcZaOjgzQVB5md54OrQDXMs1T3luOaV0FFnaiIv3ztjLk+GO7+CQq89cPHCrzyTdsMmYbkY255sasgTaQScumeKxSs7Q1GCwGeeHGmjFDbIyUs3DI9zJwMxySJ/adeGgKiecGpM3eRXip0VxREsVtfLiIjIpkhtuEOsgRslmMD0PzYre15CWJPk8VGKUfeUZ6snVZgaAE9aL3GRkPHXgIXyPhTnehXW2ko4VzI5xIWVNb77FepHi3eMqkhU4XfaTD+2DBvAA0wjse20SFXbOty+w5lJ1rBiSqlythGoBzcjy9mpe5fCoBli3tosqnbcIgJmd6j+gww==;Om6bhSZ8QvytGjjFWAGH3Q=="
 ---

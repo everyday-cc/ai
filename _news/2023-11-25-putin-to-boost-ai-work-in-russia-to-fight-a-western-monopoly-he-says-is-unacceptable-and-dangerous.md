@@ -1,0 +1,45 @@
+---
+category: news
+title: "Putin to boost AI work in Russia to fight a Western monopoly he says is ‘unacceptable and dangerous’"
+excerpt: "Russian President Vladimir Putin on Friday announced a plan to endorse a national strategy for the development of artificial intelligence, emphasizing that it’s essential to prevent a Western monopoly."
+publishedDateTime: 2023-11-24T22:50:00Z
+originalUrl: "https://www.washingtontimes.com/news/2023/nov/24/putin-to-boost-ai-work-in-russia-to-fight-western-/"
+webUrl: "https://www.washingtontimes.com/news/2023/nov/24/putin-to-boost-ai-work-in-russia-to-fight-western-/"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: Washington Times
+  domain: washingtontimes.com
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://twt-thumbs.washtimes.com/media/image/2023/11/24/Russia_Putin_21596_c0-225-5391-3369_s1200x700.jpg?af9dca67c31e2e088f2bcbb236003be7397af912"
+    width: 1200
+    height: 700
+    isCached: true
+
+related:
+  - title: "Putin to approve new AI strategy, calls for boost to supercomputers"
+    excerpt: "President Vladimir Putin said on Friday that he would soon approve a new version of Russia's strategy for Artificial Intelligence development, and called for a significant increase in the expansion of supercomputers."
+    publishedDateTime: 2023-11-24T11:45:00Z
+    webUrl: "https://www.reuters.com/technology/putin-approve-new-ai-strategy-calls-boost-supercomputers-2023-11-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/w8AY1jmnjn74VzZlvhJzKC65XqE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GIQ7S6IANVNHLOP2N5OPYHGRP4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+
+secured: "uNKT9rkt+aFHoBA0qT1CTCJ2DKYaYgxNyKdfzCKTAxB9UMtsG+jzCZKvm3iEKxowPnh6wvVKdM5Kb42w0rAhuFM4eHgnsWfXk6cABs8r4NvKwl0ohIqEYYh7Inriwy5npQLIJccwn+qLXJp9myv4ULaOtkQMl+HHB3ta63L257dIOtiHv6u4/BhokSkmID9s0W0V6lC+hge6C2yQcpfoSfvc+2Ta1UJKqwSDSMLctZugkZr2GjCVYXDaVkpBH5VjsKdxJfYalpBIdT+90GUmey/EmSyBTUxP0DEqrTtuwtNrQVeWwzQNvnglZDpTyYWt41ao2N9eznQRoWa8xQmDad7e54rlADAGVrqTKG63asQ=;q1o2zRx3n/X2Sul+ojjL1A=="
+---
+

@@ -34,6 +34,20 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "The future of hardware and software development for artificial intelligence"
+    excerpt: "Reflecting on the history of the computer industry, it all began with a small transistor, evolving into integrated circuits and eventually transforming into powerful CPUs capable of processing billions of instructions per second."
+    publishedDateTime: 2023-11-21T06:40:00Z
+    webUrl: "https://www.digitimes.com/news/a20231121PR200/ai-software-hardware-development-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231121pr200_files/3_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "What Universal Music Group really thinks about generative AI and copyright law…"
     excerpt: "MBW has digested UMG's revelatory 99-page submission to the US Copyright Office on generative AI. Here's what we've discovered."
     publishedDateTime: 2023-11-23T18:48:00Z

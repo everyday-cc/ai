@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202311/clearview-ai-tops-40-billio
 webUrl: "https://www.biometricupdate.com/202311/clearview-ai-tops-40-billion-reference-images-in-facial-recognition-database"
 type: article
 quality: 51
-heat: 81
+heat: 82
 published: true
 
 provider:
@@ -58,6 +58,6 @@ related:
       domain: biometricupdate.com
     quality: 34
 
-secured: "YLj3DRnsJqGuhebquWo5VDXzaMLo1JejoViELBKjjtnIdp+O+V0jRZsRtK6p+sB/A/XhWmTo9qHxmPlaKb3cOfIa1Ed37ypHH7DVGb+u8gjeBF7dMVmsNjZyockVM+p0yikJl3FmGvfLWFoFemrF4YjHiUndEb3Z6QUfl7MqoNB0d8ii5EgZrt9uMXl1Hsul9siJJgaaZFMsP2k27KtMBTJpnR/EWzoA2hnw0K8R6nRAc+dYLBuxpitK+8LEn7/lyJoqAHHhgZTG0Z+pNSh5uJNdmvVpcdpC2dwMPbrY7qSgvMSn5QdfkYaC45L5K0jUqi14x0h0OR4VbASBIhGkvxxtLXciEMJngmA1Ao1izOY=;1MKtQmrtV7I05pE/B7geGA=="
+secured: "Q0NGzHBtBIU79NtmiyayEYG4y+SajoAQ6EfpZoTNBmhtfEvYyndZoREOwsFY12fZOzP9zk9vheZ3tYXZ06mgBcTyKD2d5DzqiWdO/P/4ZE0Wtf2YW4NWeZ9HnVZUh3m+AS4Ov91OEsQTNdE6Zj//WQWuaaKF0hbx/00CC+F3VqKdsg8g3sD9PUl2zoxemtEVmYpMo/P/LnmEinf3pfQs7m6p1w8dkVFBccW0BtB8KHt/aaslpPg4buVkx2fxOsYlTTkjtll/JOHBbED8WiTvT3ke30muGpeKW0JN1xK3sFL19GsZTyF3nOzcQIZQ05QnqRtf+++3ts9A2sCrGQd1d8wxT+z27pVuR/IMmOKv5Kp6agnGX6etUQlkZLogZ2YmoOFN7TWZ02nILijivsS7iw6LBppxNnNZ3VA5EqpuUtD89hIBvt/AYZT5kULwhHyqz8g3gXJUKzhn5woIyWB6FjDz6wNORFqpGD1NYlXnVpQ8haqMTyzEaJwxPzneWdVKNVaXVtrj+6FlhWL+Ra6WYA==;fgQLiPnUi8HtW0Kts89EyQ=="
 ---
 

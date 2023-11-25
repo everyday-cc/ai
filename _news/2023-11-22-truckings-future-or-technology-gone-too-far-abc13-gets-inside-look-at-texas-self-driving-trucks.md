@@ -46,7 +46,7 @@ related:
   - title: "Self-driving truck lane more than 20 miles long being developed in Texas"
     excerpt: "TxDOT is partnering with a startup company to launch a program designed to improve self-driving trucks on Texas roadways."
     publishedDateTime: 2023-11-23T21:39:00Z
-    webUrl: "https://www.khou.com/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+    webUrl: "https://www.khou.com/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
     ampWebUrl: "https://www.khou.com/amp/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
     cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
     type: article
@@ -74,6 +74,22 @@ related:
       - url: "https://media.wfaa.com/assets/KVUE/images/1f96cf21-5a34-46a3-b001-0c0b49348bb6/1f96cf21-5a34-46a3-b001-0c0b49348bb6_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Self-driving trucks will soon have their own lane on Texas 130. Will other highways follow?"
+    excerpt: "The Texas Department of Transportation announced it will be creating a smart freight corridor near Austin, in partnership with startup Cavnue."
+    publishedDateTime: 2023-11-22T14:08:00Z
+    webUrl: "https://www.aol.com/self-driving-trucks-soon-own-120825886.html"
+    ampWebUrl: "https://www.aol.com/amphtml/self-driving-trucks-soon-own-120825886.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/self-driving-trucks-soon-own-120825886.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
+    images:
+      - url: "https://media.zenfs.com/en/aol_gannett_aggregated_707/8abd3391305190f5b974a9dc2a81de55"
+        width: 952
+        height: 636
         isCached: true
 
 secured: "0zFzY5V4qSk2iLH8cCHW4eUXY/2OvB31vG/M4d7MsW/D/S6pVY+/Co+8+rK6VWWX9JvtIIuwokQ8zz6gyL0ZK678MJ9hbsYzixOvTo22kNLxQJNlclwQzWREHK0yqFJtFeNr1Bu8pTCovaUGvdoEK4hozTS0CgNSE9KV34ORs1GYApWUljybgqMFwURWITVx+pwoh7RqJOLmJ6CvMiH3RQnY6HaNOvEF1OxwKSJbsHdxIylxaK0Zoyi0ManAVE2FHo4qRye8Zr2+TNOi4i8+z1zP610DYMdinyCnPADBwWShzF5bhNTfouTGJCW78v/I3TAnALo8oQLvBVfXRtUvs9gPwwQKtl2w1n+rmrbUJ9WIedRmBUIJegYic92rFKjhERks8J6n0lpy3egZOgFpvNOXKZviIKeR/KxlxOVw+u5oOy2q23uJGRZtyGtoDL6cd2j7SFAxnEU800uYo1xw4gxV/xtJENkKWl66Qb8uNcnz99EEQS2bI0H0Q6t7jNi+vSElQnvAqMmrWQsY5PZZyw==;JEPIgpeptuDkEJN3KjwkvA=="

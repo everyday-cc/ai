@@ -148,15 +148,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 22
-  - title: "Self-driving car venture Cruise chief resigns after uproar over accident"
-    excerpt: "The co-founder and chief executive of General Motors-owned Cruise has resigned, weeks after the self-driving car company paused driverless operations and California regulators barred its vehicles from the state’s streets. Cruise said on Sunday that its ..."
-    publishedDateTime: 2023-11-20T00:00:00Z
-    webUrl: "https://www.ft.com/content/0a68a82f-b5fb-4acb-a915-96cbc70bf8d7"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 3
 
 secured: "93/RZ+iYg3r8IF3rpvnzd7XtKnQIqbrymSegBfIc/QPpI9RLHQE5B8DvJVC/uQ7AnDvB1XqhkuBuxq+yuuXBmdK9PvUgmzSgiNKyBq+s19m75jDP/+a7HbPteT8U3FJUEgjSIksEeT185iKYu2Ic0bdAbGle7lwxwVxEUm4TQ2FjV7ARAPvr40Eiw6Dlp+xWA6WeVwiQqXQkc0EiKwGqO8EbZl1ulrzrdsmEiScpeHjC34Ex4Df3SxcWrd/dH4S8lnLSdwFgPF76V7EZHZ6KedJiWJuGUC/G5Kl7gpY8AAalIMKEFDlg9yn+Q7+FQZGaFaumLKC5rDCEWpIKeeHWpFv/f7la1TG9POVWsMyy3J4=;jEBzv1PFIU2BtineJxJBpA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated-influencer-can-pull-in-10000-euros-a-month/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 118
 published: true
 
 provider:
@@ -70,6 +70,6 @@ related:
       domain: aol.com
     quality: 0
 
-secured: "Uqr3gSdnc1LArIhkHs29OXdQpPNw7kA98KtqXTWV1Z//bf3fumV/VWBILnZl7B3WtZNPeCX0Rp2KNPNI8Fpgp2ulC9XGM7R9W+aontIX0pdR3U4FraU3eFGCsQs4F035ytxqT+MmRniVjcdQCk439PyxZXpyye+eqNZuHDzDyM0eSwFiWEBqdE2GY5sDFzM1UOtCsZJlfSDPw4WFsUQlec6UTQn+XRhf7l3bf8rc3Ku8MvDyTQAbuwJEc4nssPyFQ5I9S8oA2OP0NiXtqity9nTslJKZy1TSRblGBDkckOMJsSHQ9lA24ApuyymjrsyaIUYfxi3Rojne2VUr4fHkdgJNdG5zmdKTxNKaxqb2I6c=;kwE3ggV7NYQ5mUdQWzWJzw=="
+secured: "YjfXlDbH989/jyzr2U2RrNDtSw1dfHZomNb2SVXKwntJG4t2kmPootw7IXaxJkQv91ga7GoRBt//pcZmhGrHSvJKDDSdDcX3MK/cHgSPAq3jXYT6Fp24rpqodlWlDY/Mn1zKY43Nl/ZBOMAoZrMau5KFD1MKxHWXloPzsbfxzJe6luQRH6hON6Lx91PMmZucWZb+N0pUtW4zT0rUWxxaLDQGc90F5hEiormXeZvxJz9i6rHLrHgqNpYMMmZ7AZy10x7LJfhKtCaV82EWQqmgAgfPu+nAMKkfenhWGk+acY690YYccOjPyyitRyw8x97py9Qx1HIoogXkmHuueR5rDleIEd3152XcMlFql9ZjR4/kIKlgShn8fBvof/5EOEtSsXcslRlfA0KhR6XYj6dJ3W0kzc40mkbQIMdygjSuYDor0CAx+Z+yo5U7cQuJd9J4yeVDfOYZu7vWcZkjagxlDTUH7mSUd7G6tTzODzmtaQ+jOEaUHApLGUpCkc2cUZCDXkoUNN+k9Z2hOJoBSoYqng==;mX5ek719jN6YMFWz2JoXCg=="
 ---
 

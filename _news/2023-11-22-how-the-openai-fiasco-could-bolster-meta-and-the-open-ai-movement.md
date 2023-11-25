@@ -48,22 +48,6 @@ related:
         isCached: true
   - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
     excerpt: "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models."
-    publishedDateTime: 2023-11-20T00:00:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922?icid=recommended"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 77
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-11/231119-sam-altman-jm-1614-859c3a.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
-    excerpt: "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models."
     publishedDateTime: 2023-11-20T21:18:00Z
     webUrl: "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922"
     ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
@@ -77,22 +61,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-11/231119-sam-altman-jm-1614-859c3a.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "The OpenAI fiasco shows why we must regulate artificial intelligence"
-    excerpt: "If AI goes right, it could cure cancer and climate change and a host of similar problems, ushering in a futuristic utopia. If we get it wrong, many believe it could be an existential catastrophe"
-    publishedDateTime: 2023-11-19T23:47:00Z
-    webUrl: "https://nypost.com/2023/11/19/opinion/the-openai-fiasco-shows-why-we-must-regulate-artificial-intelligence/"
-    ampWebUrl: "https://nypost.com/2023/11/19/opinion/the-openai-fiasco-shows-why-we-must-regulate-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/11/19/opinion/the-openai-fiasco-shows-why-we-must-regulate-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 76
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/11/newspress-collage-z5hdnr8oi-1700440023427.jpg?quality=75&strip=all&1700422172&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "The Shake-up at OpenAI Reshapes the Industry’s Global Order"
     excerpt: "Big Tech is reeling from the ouster of Sam Altman at a leading A.I. start-up and his subsequent jump to Microsoft, moves that reset the power dynamic underpinning the sector."

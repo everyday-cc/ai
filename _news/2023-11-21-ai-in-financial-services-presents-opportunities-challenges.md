@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Firms Could Capture Over 50% of Financial Services Revenue in Next 15 Years, Industry Professional Predicts"
-    excerpt: "Rex Salisbury says that in the next 15 years, Fintechs could potentially capture more than 50% of financial services revenue."
-    publishedDateTime: 2023-11-19T23:16:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/11/216348-fintech-firms-could-capture-over-50-of-financial-services-revenue-in-next-15-years-industry-professional-predicts/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216348-fintech-firms-could-capture-over-50-of-financial-services-revenue-in-next-15-years-industry-professional-predicts/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216348-fintech-firms-could-capture-over-50-of-financial-services-revenue-in-next-15-years-industry-professional-predicts/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 22
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/The-Future-of-Fintech.jpeg"
-        width: 1611
-        height: 1278
-        isCached: true
   - title: "The Challenges of AI Algorithm Bias in Financial Services"
     excerpt: "How can financial service providers avoid perpetuating algorithm bias in decision making that could have a negative impact on consumers?"
     publishedDateTime: 2023-11-20T09:35:00Z

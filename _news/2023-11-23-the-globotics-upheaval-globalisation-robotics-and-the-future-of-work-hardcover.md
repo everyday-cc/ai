@@ -7,7 +7,7 @@ originalUrl: "https://www.abebooks.co.uk/products/isbn/9781474609012"
 webUrl: "https://www.abebooks.co.uk/products/isbn/9781474609012"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 350
     height: 500
     isCached: true
-
-related:
-  - title: "BOTZ Global X Robotics & Artificial Intelligence ETF"
-    excerpt: "The chart has 1 X axis displaying Time. Data ranges from 2022-11-17 00:00:00 to 2023-11-20 15:59:54. The chart has 1 Y axis displaying values. Data ranges from -8.78 to 97.35."
-    publishedDateTime: 2023-11-20T00:00:00Z
-    webUrl: "https://seekingalpha.com/symbol/BOTZ/peers/comparison"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 49
 
 secured: "LGyVmjBSrGOR9AKnMc2XaCV/nwuqA8VspRrqvxlv1b+ZZlbXJH1DLRHjjX/jOQvhaLDe3OADLw0Z7ar24qEjg6dZScbL5FrfDi8cHEvGptgZtvRhu9lDyzqFKLBYCom7gNgtCYLcG3tUJQkg9VcsON91gjBhvU/6W7iWmUfQ/2YkzMUVDyuJ16OyCIDYKp/dABRqGI5eDMvCH8PkvUjMibRItVJaaR+235IaUJd/MTcyyXtqwe8S3Pei7Mi+By1wbsyE5/RnZNG1fNczrP1hLyqUa4yt5RSJIfUbWZu3mPQoZhoBVdUX34xSvyCy4D67UtkFjQUn+PWzgeTTn4fgDjE1AbECcxq6S9H2ikPrRkU=;jiLQmxDveiYLSE9hmuoNwQ=="
 ---
