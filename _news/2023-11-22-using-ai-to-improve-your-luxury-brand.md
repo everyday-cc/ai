@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "OpenAI’s New CEO Likes Tweeting About Sex And Using AI To Write Pickup Lines"
-    excerpt: "Incoming exec Emmett Shear has regularly tweeted about sexual dynamics between men and women and the controversial pick-up artistry manual The Game."
-    publishedDateTime: 2023-11-20T20:50:00Z
-    webUrl: "https://www.forbes.com/sites/sarahemerson/2023/11/20/openai-ceo-emmett-shear-tweets-sex-dating-pickup-lines/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
   - title: "Scammers using artificial intelligence to find new ways to steal money"
     excerpt: "As the holiday shopping season gets underway, so does the season for scams. And they have new ways to try and get their hands on your money this year. CBS New York's investigative reporter Tim McNicholas reports."
     publishedDateTime: 2023-11-21T05:23:00Z

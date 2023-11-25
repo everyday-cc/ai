@@ -57,20 +57,6 @@ related:
         width: 611
         height: 459
         isCached: true
-  - title: "AI roundup: OpenAI CEO returns, Stable Video Diffusion, Anthropic…"
-    excerpt: "Tweet-Reply Of The Week goes to the wag who wrote “the lengths this man will go to not use Microsoft Teams” in response to the announcement that OpenAI co-founder Sam Altman is returning as CEO days after being ousted and joining Microsoft."
-    publishedDateTime: 2023-11-22T08:32:00Z
-    webUrl: "https://musically.com/2023/11/22/ai-roundup-openai-ceo-returns-stable-video-diffusion-anthropic/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2023/10/AI-artificial-intelligence-generic-4x3-1.png?fit=1200%2C900&#038;ssl=1"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Anthropic updates Claude 2.1 AI chatbot to process bigger files and improve safety"
     excerpt: "Anthropic, an artificial intelligence startup geared toward building trustworthy AI models to rival OpenAI LP’s ChatGPT, today announced an upgrade to its Claude chatbot that advances its core features with significantly improved safety, a much larger context window and a new third-party tool use feature."
     publishedDateTime: 2023-11-21T19:31:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35873661"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35873661"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 80
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia collaborates with Genentech to accelerate AI-driven drug discovery"
+    excerpt: "Nvidia said its offerings will accelerate the training and inference of generative models used in Genentech’s “lab in the loop” framework, where extensive experimental data is fed into models for iterative drug discovery."
+    publishedDateTime: 2023-11-21T19:27:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-collaborates-with-genentech-to-accelerate-ai-driven-drug-discovery/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 48
   - title: "Wipro Teams with NVIDIA to Bring the Power of Generative AI to Healthcare Insurance Companies"
     excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading technology services and consulting company, today announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI-driven strategies,"
     publishedDateTime: 2023-11-21T13:04:00Z
@@ -41,6 +50,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "ConcertAI's TeraRecon, Integrates Clinical and Generative AI, Supporting Clinical Research and Advancing Clinical Care Solutions at #RSNA23"
+    excerpt: "New solutions empower clinicians and research teams with AI orchestration, model development, visualization, and multi-modal data management to"
+    publishedDateTime: 2023-11-20T17:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/concertai-s-terarecon-integrates-clinical-and-generative-ai-supporting-clinical-research-and-advancing-clinical-care-solutions-at-rsna23-1032836447"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 15
 
 secured: "w5draGQwv8jiSKJuhWkgrl8gjx/D3JgDvoWnpFpE2dBwK2WJwdVWHdb9xNGJMJcrnIZwLcr/+S83JiM82S7qvSdggy4I+56X6MAuRmF280J8oJ9GCs88osf6Ruyh/Ug8fF+Kg9/xZI/ITFe/uWlrTDNSnGiuDNjvqdexbcdqVfWnLo1l7YUFqEmuLOczoD8Q29TLk76CIZgOdAWilWQk6YxMKJpGyPs9Vbe9oZ2zZJrAV0r6YrGlejCuXWDsscKg7m1PiosAkqvJT07RYxy6M4+LqzbzaOWxqVIUxjpBrMnrXfwRlKguFlhYZyILYWuh8To46u+w+8jxpkayaUTC6OQg18w6gTF00Q/7dxgyO2c=;YwsCNMOk1wcQY4vii2KhvA=="
 ---

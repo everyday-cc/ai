@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-at-universities-reveals-about-the-future-of-ai-and-society/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The future of hardware and software development for artificial intelligence"
-    excerpt: "Reflecting on the history of the computer industry, it all began with a small transistor, evolving into integrated circuits and eventually transforming into powerful CPUs capable of processing billions of instructions per second."
-    publishedDateTime: 2023-11-21T06:40:00Z
-    webUrl: "https://www.digitimes.com/news/a20231121PR200/ai-software-hardware-development-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231121pr200_files/3_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "What Universal Music Group really thinks about generative AI and copyright law…"
     excerpt: "MBW has digested UMG's revelatory 99-page submission to the US Copyright Office on generative AI. Here's what we've discovered."
     publishedDateTime: 2023-11-23T18:48:00Z

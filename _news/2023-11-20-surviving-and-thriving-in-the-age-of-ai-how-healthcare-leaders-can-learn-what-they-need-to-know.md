@@ -167,6 +167,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Only public confidence stopping us from using AI in marking, says AQA"
+    excerpt: "Artificial intelligence could quality-assure exam markers from “tomorrow morning”, but “public confidence” was holding it back, according to AQA’s chief executive. Colin Hughes said while ChatGPT in particular had attracted a lot of attention, “it may even be materially not very important or interesting” compared with other technologies."
+    publishedDateTime: 2023-11-25T08:50:00Z
+    webUrl: "https://schoolsweek.co.uk/only-public-confidence-stopping-us-from-using-ai-in-marking-says-aqa/"
+    type: article
+    provider:
+      name: Schools Week
+      domain: schoolsweek.co.uk
+    quality: 39
+    images:
+      - url: "https://schoolsweek.co.uk/wp-content/uploads/2023/09/AI-robot-hand-SM.jpg"
+        width: 800
+        height: 420
+        isCached: true
   - title: "Navigating tomorrow -The rise of artificial intelligence in leadership"
     excerpt: "Mumbai: In an era marked by rapid technological advancements, the integration of artificial intelligence (AI) into various facets of our lives is becoming increasingly prevalent. One of the most intriguing and transformative areas where AI is making a significant impact is in the realm of leadership."
     publishedDateTime: 2023-11-21T02:53:00Z

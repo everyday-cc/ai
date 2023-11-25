@@ -41,6 +41,15 @@ related:
         width: 975
         height: 630
         isCached: true
+  - title: "Geospatial generative AI with Amazon Bedrock and Amazon Location Service"
+    excerpt: "Today, geospatial workflows typically consist of loading data, transforming it, and then producing visual insights like maps, text, or charts. Generative AI can automate these tasks through autonomous agents. In this post, we discuss how to use foundation models from Amazon Bedrock to power agents to"
+    publishedDateTime: 2023-11-22T14:18:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/geospatial-generative-ai-with-amazon-bedrock-and-amazon-location-service/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
   - title: "Amazon Launches New Generative AI Training Courses for Free"
     excerpt: "The 'AI Ready' initiative offers online classes for developers and other technical professionals as well as for students."
     publishedDateTime: 2023-11-20T21:49:00Z

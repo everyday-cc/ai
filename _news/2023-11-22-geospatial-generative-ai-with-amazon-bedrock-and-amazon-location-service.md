@@ -23,162 +23,50 @@ topics:
   - AWS AI
 
 related:
-  - title: "Accelerating climate action with AI"
-    excerpt: "AI has the potential to mitigate 5-10% of global greenhouse gas emissions according to our new report with Boston Consulting Group."
-    publishedDateTime: 2023-11-20T08:00:00Z
-    webUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/"
-    ampWebUrl: "https://blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/report-ai-sustainability-google-cop28/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sustainability-BlogHeader-Adaptation-2.width-1300.png"
-        width: 1300
-        height: 733
-        isCached: true
-  - title: "Automating product description generation with Amazon Bedrock"
-    excerpt: "In today’s ever-evolving world of ecommerce, the influence of a compelling product description cannot be overstated. It can be the decisive factor that turns a potential visitor into a paying customer or sends them clicking off to a competitor’s site. The manual creation of these descriptions across"
-    publishedDateTime: 2023-11-24T17:36:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/"
+  - title: "Amazon Textract’s new Layout feature introduces efficiencies in general purpose and generative AI document processing tasks"
+    excerpt: "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from any document or image. AnalyzeDocument Layout is a new feature that allows customers to automatically extract layout elements such as paragraphs, titles, subtitles, headers, footers, and more"
+    publishedDateTime: 2023-11-21T17:24:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 74
+    quality: 95
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/24/Picture1-5-2-1101x630.jpg"
-        width: 1101
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/17/layout-textractor-975x630.jpg"
+        width: 975
         height: 630
         isCached: true
-  - title: "The OpenAI meltdown will only accelerate the artificial intelligence race"
-    excerpt: "Optimists and ‘doomers’ are fighting over the direction of AI research – and those who want speed may have won this round"
-    publishedDateTime: 2023-11-22T09:11:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
+  - title: "Amazon Launches New Generative AI Training Courses for Free"
+    excerpt: "The 'AI Ready' initiative offers online classes for developers and other technical professionals as well as for students."
+    publishedDateTime: 2023-11-20T21:49:00Z
+    webUrl: "https://www.techrepublic.com/article/amazon-free-ai-skills-training-courses/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 71
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
     images:
-      - url: "https://i.guim.co.uk/img/media/d12a7c1f184baf181c112396b8fb18251adfef30/0_527_4772_2865/master/4772.jpg?width=620&quality=85&auto=format&fit=max&s=2b17ea177f30c94ed0803376811924be"
-        width: 620
-        height: 372
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/amazon-skills-builder-ai-courses-nov-23.jpeg"
+        width: 1400
+        height: 788
         isCached: true
-  - title: "The OpenAI meltdown will only accelerate the artificial intelligence race"
-    excerpt: "Optimists and ‘doomers’ are fighting over the direction of AI research – and those who want speed may have won this round"
-    publishedDateTime: 2023-11-22T16:37:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
+  - title: "Creativity in the age of generative AI: A new era of creative partnerships"
+    excerpt: "Recent advancements in generative artificial intelligence (AI) have showcased its potential in a wide range of creative activities such as producing works of art, composing symphonies, and even drafting legal texts,"
+    publishedDateTime: 2023-11-20T18:13:00Z
+    webUrl: "https://techxplore.com/news/2023-11-creativity-age-generative-ai-era.html"
+    ampWebUrl: "https://techxplore.com/news/2023-11-creativity-age-generative-ai-era.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-creativity-age-generative-ai-era.amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 71
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
     images:
-      - url: "https://i.guim.co.uk/img/media/d12a7c1f184baf181c112396b8fb18251adfef30/0_527_4772_2865/master/4772.jpg?width=620&quality=85&auto=format&fit=max&s=2b17ea177f30c94ed0803376811924be"
-        width: 620
-        height: 372
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/creativity.jpg"
+        width: 1920
+        height: 1462
         isCached: true
-  - title: "Effective accelerationism, doomers, decels, and how to flaunt your AI priors"
-    excerpt: "Several political perspectives are shaping quite a lot of the work on artificial intelligence, and so we need to understand them, especially now."
-    publishedDateTime: 2023-11-20T15:57:00Z
-    webUrl: "https://techcrunch.com/2023/11/20/e-acc-doomers-decels-openai-altman/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778704897.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Arm Cortex-M52 chip brings AI acceleration to low-power IoT devices"
-    excerpt: "The Arm Cortex-M52 is the smallest and most cost-efficient processor designed for AI acceleration applications, according to the company. This latest design from the UK-based fabless"
-    publishedDateTime: 2023-11-23T20:02:00Z
-    webUrl: "https://www.techspot.com/news/100942-arm-cortex-m52-chip-brings-ai-acceleration-low.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 64
-  - title: "How Earth AI is accelerating mineral discovery and helping enterprise Net Zero goals"
-    excerpt: "Earth AI pioneers a more efficient experimental process for discovering minerals required for Net Zero goals. Their promising results highlight the importance of combining data science, domain expertise, and systematic thinking to solve new problems relevant to all enterprises."
-    publishedDateTime: 2023-11-20T10:24:00Z
-    webUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals"
-    ampWebUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-11/amethyst-3328166_640.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Nvidia collaborates with Genentech to accelerate AI-driven drug discovery"
-    excerpt: "Nvidia said its offerings will accelerate the training and inference of generative models used in Genentech’s “lab in the loop” framework, where extensive experimental data is fed into models for iterative drug discovery."
-    publishedDateTime: 2023-11-21T19:27:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-collaborates-with-genentech-to-accelerate-ai-driven-drug-discovery/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 48
-  - title: "Research Can Help to Tackle AI-generated Disinformation"
-    excerpt: "Continue reading Research Can Help to Tackle AI-generated Disinformation."
-    publishedDateTime: 2023-11-20T12:00:00Z
-    webUrl: "https://www.cc.gatech.edu/news/research-can-help-tackle-ai-generated-disinformation"
-    type: article
-    provider:
-      name: cc.gatech.edu
-      domain: gatech.edu
-    quality: 39
-    images:
-      - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2021/srijan%20kumar850x478.jpeg"
-        width: 850
-        height: 478
-        isCached: true
-  - title: "Saving corals with artificial intelligence"
-    excerpt: "Australian Taryn Foster has spent her whole life exploring the coral reefs in Western Australia. As a result, she has witnessed the damage caused by climate change. With her company Coral Maker, she now wants to take up the fight for corals - with artificial intelligence (AI) and robotics."
-    publishedDateTime: 2023-11-23T06:20:00Z
-    webUrl: "https://www.sbs.com.au/language/german/en/podcast-episode/mit-kunstlicher-intelligenz-korallen-retten/cbdi08fi5"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 39
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/ff52531/2147483647/strip/true/crop/8419x4736+0+226/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F5d%2Fca%2F7e6df41c4e52b83af99b574d4e57%2Fcoral-maker-autodesk-111.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "DigiPlus Fest 2023: Accelerating content velocity with Gen AI"
-    excerpt: "At ET DigiPlus Fest 2023, Anindita D Veluri, Director of Marketing, Adobe India spoke about transforming the marketing and customer experience landscape with Gen AI."
-    publishedDateTime: 2023-11-24T14:04:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/digiplus-fest-2023-accelerating-content-velocity-with-gen-ai/105479135"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 19
-  - title: "ConcertAI's TeraRecon, Integrates Clinical and Generative AI, Supporting Clinical Research and Advancing Clinical Care Solutions at #RSNA23"
-    excerpt: "New solutions empower clinicians and research teams with AI orchestration, model development, visualization, and multi-modal data management to"
-    publishedDateTime: 2023-11-20T17:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/concertai-s-terarecon-integrates-clinical-and-generative-ai-supporting-clinical-research-and-advancing-clinical-care-solutions-at-rsna23-1032836447"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 15
 
 secured: "QAL3zqMERBNU1YURgxihy9sIYIZzzow0iqe3W392iNxRC3VCoWNXn8/2KYdo5kpj7a64S1V7nFzzpx46OE0S+f8Wa1LIWt/piMXP7ZkTM3Oz/JBZevWUqWxRw62q4rCAe2n8Vi1MUAoTk98lU7OVut2Xxn8vmpmnG/oRzM105BrIW/E5gfbNeWK6ZMoUAzktIB4Q+/dlGkCtXsItHqgBjBhBI77fBSznsbmE36ZeXTxuLBFi5H9SpTh4QfzF/wWpExb3Yd5XAzp7/7IBkuWhmdZUMYdB6LQQ5cnsHFh3g4oT3wG/ua5OYqed82M6caPZW4nEsAI4xrFqnSZ7lJRYH4jlg20rY9U/2de9l7T1vlY=;M2wfeIynEmtiFqP5tLT57Q=="
 ---

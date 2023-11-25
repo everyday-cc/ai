@@ -255,15 +255,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Former OpenAI boss to lead Microsoft Advanced AI division"
-    excerpt: "Shenanigans over the weekend have seen OpenAI’s former CEO join Microsoft and Twitch’s former CEO step in as OpenAI’s interim CEO."
-    publishedDateTime: 2023-11-20T07:54:00Z
-    webUrl: "https://www.computerweekly.com/news/366560294/Former-OpenAI-boss-to-lead-Microsoft-Advanced-AI-division"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 34
   - title: "8 AI Projects Microsoft Open-Sourced in 2023"
     excerpt: "Microsoft did its bit by releasing several AI and machine learning models, projects and libraries all round the year."
     publishedDateTime: 2023-11-21T13:00:00Z
@@ -297,9 +288,9 @@ related:
         height: 510
         isCached: true
   - title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-    excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
-    publishedDateTime: 2023-11-22T09:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
+    excerpt: "Flywheel announces the launch of its SaaS data management solution on Microsoft Azure, integrated with NVIDIA MONAI."
+    publishedDateTime: 2023-11-22T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
     type: article
     provider:
       name: Business Wire
@@ -333,15 +324,6 @@ related:
         width: 336
         height: 280
         isCached: true
-  - title: "Schneider Electric drives Generative AI productivity and sustainability solutions by integrating Microsoft Azure OpenAI"
-    excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of working Collaboration with Microsoft in artificial intelligence is focused on creating innovative solutions"
-    publishedDateTime: 2023-11-20T09:01:00Z
-    webUrl: "https://www.sinchew.com.my/news/20231120/mysinchew/5140310"
-    type: article
-    provider:
-      name: sinchew
-      domain: sinchew.com.my
-    quality: 25
 
 secured: "o75Os+qszN3bagyalGc5vmnZwSrvNX8T2g8Q3ULRwb83rAlhc3lnKDab/dfnW7gKPXShK1qk0tNHHV1O6f6CIEQSO5BRhWz7Ntlienr3bHvMT+4wpCScshXLG5SuswY6cEkJcUcY6RZN4dUmfUpE+jlTAX+UD0ySvDYI0N4SrreJmJQxfAP6R5umrk91YWgfRNCt3WKeA0X5+yim3LKL4JUzBRxxFD4jZ0oola6Veyg5VsJw1ylSoF4h5Bj+7xjnFMf2fXhyYGu/z6OCw3vUzLt5brMokE/ZuxNGpyB3t/vNium0xlKFFZEZEqZsRbOa1VfYtGsSY69uo3as9+BrCGgT3sZcYdrV8JQ9TjIsBEY=;eFH5i4/BijxsZjpTpJCC4g=="
 ---

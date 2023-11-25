@@ -56,6 +56,22 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "How Earth AI is accelerating mineral discovery and helping enterprise Net Zero goals"
+    excerpt: "Earth AI pioneers a more efficient experimental process for discovering minerals required for Net Zero goals. Their promising results highlight the importance of combining data science, domain expertise, and systematic thinking to solve new problems relevant to all enterprises."
+    publishedDateTime: 2023-11-20T10:24:00Z
+    webUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals"
+    ampWebUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 52
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-11/amethyst-3328166_640.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "How digital transformation is reshaping auditing"
     excerpt: "Digital innovation offers unique insights throughout the audit process, enabling auditors to offer increased value and efficiency in a demanding economy. The second 2023 SAICA Audit Reform Webcast, held in August and chaired by SAICA executive for audit and assurance Thandokuhle Myoli,"
     publishedDateTime: 2023-11-22T06:53:00Z

@@ -40,20 +40,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "The future of hardware and software development for artificial intelligence"
-    excerpt: "Reflecting on the history of the computer industry, it all began with a small transistor, evolving into integrated circuits and eventually transforming into powerful CPUs capable of processing billions of instructions per second."
-    publishedDateTime: 2023-11-21T06:40:00Z
-    webUrl: "https://www.digitimes.com/news/a20231121PR200/ai-software-hardware-development-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231121pr200_files/3_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "The fight for the soul of AI"
     excerpt: "Can one organization, or one person, maintain the brain of a scientist, the drive of a capitalist and the cautious heart of a regulatory agency?"
     publishedDateTime: 2023-11-24T19:41:00Z

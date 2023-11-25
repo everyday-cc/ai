@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Reorganizes AI Division, Dissolves Key Regulatory Team Amid Efficiency Drive"
-    excerpt: "Meta Platforms Inc. is reorganizing its artificial intelligence division and as part of this move, it has dissolved the unit that is responsible for regulating its AI ventures as they are developed and distributed."
-    publishedDateTime: 2023-11-20T08:40:00Z
-    webUrl: "https://www.econotimes.com/Meta-Breaks-Up-Responsible-AI-Unit-Transfers-Team-Members-to-Generative-AI-Product-Division-1666401"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 34
-    images:
-      - url: "https://f1.econotimes.com/2023/11/g452da03hw_th_1024x0.jpeg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "U Receives $100 Million for Responsible AI Initiative"
     excerpt: "The University of Utah recently received a $100 million investment for a new initiative on responsible artificial intelligence."
     publishedDateTime: 2023-11-22T13:00:00Z

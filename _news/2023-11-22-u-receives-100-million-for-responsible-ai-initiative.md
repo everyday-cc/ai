@@ -33,20 +33,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Meta Reorganizes AI Division, Dissolves Key Regulatory Team Amid Efficiency Drive"
-    excerpt: "Meta Platforms Inc. is reorganizing its artificial intelligence division and as part of this move, it has dissolved the unit that is responsible for regulating its AI ventures as they are developed and distributed."
-    publishedDateTime: 2023-11-20T08:40:00Z
-    webUrl: "https://www.econotimes.com/Meta-Breaks-Up-Responsible-AI-Unit-Transfers-Team-Members-to-Generative-AI-Product-Division-1666401"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 34
-    images:
-      - url: "https://f1.econotimes.com/2023/11/g452da03hw_th_1024x0.jpeg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "WmDQ4tXUx6PqJqp+y/qid9KeCClZZ5y2x4tdJxdJ7IoZPrEZhC1BWo6K5d1ctc5deh9ogIKVKikd+DOxmaXuuZK4/FiZPWEQec0riPofHdzrB1OeeUA9v94YODzY4dD3kQilIRtr1R6+ye/XJaU1mW+Na5ACDxd092O5YFvjuQRKLT3r3bqL+5m9KvnmUaedag3ruwY6tQYGYE57MImGUrxjSKp5eZXjEDBQZbPn1gLGTLiWYIvol5fcfe0+T2KZpMntStFMD0JM8cu6TQRQXANGJDnOypGA7dUpA6PcH080tv/WihDQ4fy8PS24oa/wD61W2+hr7xJmyCE8Y7rwxmZYClfrxuiIwp9DsFZny16K+Ny5nm16BMdCz68zGjtmWlk9GpH4rRD6xRrO7/8RiJRBBuIsXO/jtrTEh2AL5gMq3Jg6z1mUStV+CIuOAw6gBtb+gwnVPm9xvrPEA69rn4rinF+ZukGwp5bXMaHGhgBEpq3SBWpxpONJrRng5H0pPhwTjteiknnO+CkPfaY5Yg==;4PUv9Tj6+emhx1IIbOlY1A=="
 ---

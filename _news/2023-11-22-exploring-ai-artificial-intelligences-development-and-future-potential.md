@@ -9,7 +9,7 @@ ampWebUrl: "https://wgntv.com/news/cover-story/exploring-ai-artificial-intellige
 cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/"
 type: article
 quality: 73
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 25
-  - title: "Tapping into Google Bard’s Potential: Exploring Advanced Features and Applications"
-    excerpt: "Since Google AI unveiled Google Bard, their latest natural language processing (NLP) model, it has garnered significant attention in the tech industry."
-    publishedDateTime: 2023-11-20T08:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/tapping-into-google-bards-potential-exploring-advanced-features-and-applications/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 18
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/Google-Bard-5.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "5Z0lClM8K4U0yNwKo+ambA0EEzNXZNK4Kt1mSackw/d8+M/nnmKukX6N8JWYLGlkaNlnkRLFeeTOrSVS27bh1BT3sBgmf++LmLVLQN1uTTmWkQ5Biy+9kzJSGp0t1PmjLcGXtQDDGrBRXeKzF0ihhGSC+UAyhwn2YnklSKEFGO0sZYCSVvEkrYhmq3JGtAM/IX9f2PIz7v1k5JcTLQtbF5uWniecFxQneYarbu/GVomWEOQ+NHT+9Put2vUQW84pCIGIY6b2wpCueAkqyCQHnvpiv4Pf9Ujz8/IULsM62RpOWKe6cDnPMyD7ydvcqR81ABRnDb4SubYSlDmiqgWvjQTBZb8sxNaJfWioNpxOBDc=;OvGLrClbmTFOzG1XU5UDGA=="
 ---

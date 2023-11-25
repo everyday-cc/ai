@@ -3,25 +3,25 @@ category: news
 title: "Driverless cars immune from traffic tickets in California under current laws"
 excerpt: "An NBC Bay Area investigation reveals autonomous vehicles in California cannot be cited for moving traffic violations since transportation laws require tickets to be issued to actual “drivers.”"
 publishedDateTime: 2023-11-23T23:03:00Z
-originalUrl: "https://www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/"
-webUrl: "https://www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/"
-ampWebUrl: "https://www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/?amp=1"
-cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/?amp=1"
+originalUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/"
+webUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/"
+ampWebUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
+cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: NBC Bay Area
-  domain: nbcbayarea.com
+  name: NBC Los Angeles
+  domain: nbclosangeles.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.nbcbayarea.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all"
+  - url: "https://media.nbclosangeles.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all"
     width: 1200
     height: 675
     isCached: true
@@ -54,22 +54,6 @@ related:
       - url: "https://www.reuters.com/resizer/lmofop6tmoYtLuPf_X1YuLYYLyk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2RGXNCKQXNNU7JPZZO4UYCKKOM.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "GM’s Cruise CEO resigns amid concerns over driverless car safety"
-    excerpt: "Kyle Vogt exits as Twitch co-founder Emmett Shear appointed as interim boss of OpenAI"
-    publishedDateTime: 2023-11-20T08:24:00Z
-    webUrl: "https://www.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt"
-    ampWebUrl: "https://amp.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/nov/20/gm-cruise-ceo-resigns-driverless-car-kyle-vogt"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/c949d909bc46ec40b7b1c7b78be4413b14e1aecd/0_16_4490_2696/master/4490.jpg?width=620&quality=85&auto=format&fit=max&s=0bef85820729cebdfb6d397af57b3802"
-        width: 620
-        height: 372
         isCached: true
   - title: "GM’s Cruise CEO resigns amid concerns over driverless car safety"
     excerpt: "Kyle Vogt exits as Twitch co-founder Emmett Shear appointed as interim boss of OpenAI"
@@ -139,6 +123,6 @@ related:
       domain: abc.net.au
     quality: 19
 
-secured: "nKzB1QD9IGwkj5W1+UDF7Fg8iWwfGZY3iQdA84kmwjJBJR6+XFH06NWWUUj0vk322mN3za79FUSnDhvE7UDhg89jOaeBgGL8nljwpxi17GYQYalj96q+DdM/G0Uk4n/iO66rdtbsI+n/2e0P6RQEtf5kbHSbLYASIGlwm1eiqnjKhwQoYo7+vRUuwfvTm952wJOZVqqPX4gzklgU44bIqtmbpFnOaOzpxvloMQQN6TOI6dFlpb23EtA7moButDvfT8/t1WZi+GBShT2tHlCMU+mcwXk9rkLMJ2HG1LuEiC+UMKNb2CoZGVn7pat0hvr8b6Ng/GmQcRVlJpWL5NnBfxHxn9WhtuYoV5D3XmwRe87h6SwCFOXt/PoPpPPd1FcK6yOUOAng5wARgvjePUtaC7upy5UAVQUEIEhZFzvFe7cYx5eJNAvNkSvvNlNp91LQftkmEMfMIzaxpuOClu/JE0v1XgUsS8CbvYUPWZFah6QjiMDI6FzyJWtnuj63MNYgc2898ZLRJ5XJt9AwQRvVpA==;NCDKbzVCuA3QB9Eaol1bZA=="
+secured: "L4Rsz2dMWMzsuEYUgD2WSGsf18hFrojJjbs3X0b5kxK1oRIkWF3qMJP/KIQCMQt+wIfqcFABTp2sm6nRXgHFlIuugX0WZGJM+lCCpjYgQgjyRIbeoE5DLklRlDhac5qYJueSJ2FQuVg2olTaSsjuyFFybqlhbY4bp2OtS6GFx0BcXpXpXwdlr51OenL1ScXD4T2bsU1hSGivrMF+Mja30lD9ii/sCAlp7j0HLjHIyxFp0JuVx0RjT6vUkopD3r4aTiv5bo83bwH45QnXZ4s/Pg8/elIdqZEzMddbMkBJ3UVVjGTKEzOFCUNZJTbkvMs7OBFlSFjwc2GrLPwqr/TY3VcvQ2UQcjmE5Ohl6QoRWmo=;0bj/gk4CV3fbE7W3cm+4ew=="
 ---
 

@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft hires ex-OpenAI leaders Altman and Brockman to lead new AI group"
-    excerpt: "Altman has been the public face of OpenAI, the most valuable U.S. startup. It’s not only widely estimated to be leading the current AI race but has in less than a year also assumed the position of kingmaker for thousands of other startups that are ..."
-    publishedDateTime: 2023-11-20T08:01:00Z
-    webUrl: "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/"
-    ampWebUrl: "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 102
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/10/Sam-Altman-OpenAI-Greg-Brockman-DSC00947.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Sam Altman returns as OpenAI CEO after days of infighting at AI startup"
     excerpt: "The move should quell an all-out employee revolt at the startup behind ChatGPT. Altman will report to a new board that includes former White House adviser Larry Summers."
     publishedDateTime: 2023-11-22T11:27:00Z
@@ -92,19 +76,21 @@ related:
         width: 1339
         height: 900
         isCached: true
-  - title: "Microsoft Says Sam Altman and Greg Brockman Will Lead New In-House AI Team"
-    excerpt: "Application error: a client-side exception has occurred (see the browser console for more information)."
-    publishedDateTime: 2023-11-20T08:45:00Z
-    webUrl: "https://time.com/6337503/sam-altman-joins-microsoft-ai/"
+  - title: "OpenAI shakeup has rocked Silicon Valley, leaving some techies concerned about future of AI"
+    excerpt: "Whether or not Altman returns, the turmoil could give rivals an advantage in what has quickly become a highly competitive market for advanced large language models."
+    publishedDateTime: 2023-11-20T21:18:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-shakeup-rocked-silicon-valley-leaving-techies-concerned-future-rcna125922"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna125922"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna125922"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 82
+      name: NBC News
+      domain: nbcnews.com
+    quality: 77
     images:
-      - url: "https://api.time.com/wp-content/uploads/2023/11/sam-altman-microsoft.jpg?quality=85"
-        width: 3000
-        height: 2125
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-11/231119-sam-altman-jm-1614-859c3a.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Microsoft's AI Future Is Bright After Tapping Altman, OpenAI's Is Uncertain: Analysts"
     excerpt: "Microsoft Corp's (NASDAQ: MSFT) hiring of Sam Altman just days after the 38-year-old entrepreneur was fired by OpenAI has inspired analysts to examine the Redmond, Washington-based tech giant's positi"
@@ -134,22 +120,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Emmett Shear, OpenAI's new interim CEO, shares Sam Altman's worry that AI could destroy all life"
-    excerpt: "Shear has repeatedly said he believes AI can potentially wipe out the human race, the same fear Sam Altman expressed as ChatGPT rose to prominence."
-    publishedDateTime: 2023-11-20T08:10:00Z
-    webUrl: "https://www.businessinsider.com/emmett-shear-openai-ceo-artificial-intelligence-destroy-all-life-chatgpt-2023-11"
-    ampWebUrl: "https://www.businessinsider.com/emmett-shear-openai-ceo-artificial-intelligence-destroy-all-life-chatgpt-2023-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/emmett-shear-openai-ceo-artificial-intelligence-destroy-all-life-chatgpt-2023-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
-    images:
-      - url: "https://i.insider.com/655b006422cf74a57399f09c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft snatches Sam Altman and former OpenAI colleagues to form its own AI research team"
     excerpt: "In another twist on the OpenAI saga that raged over the weekend, Microsoft has swooped in and hired Sam Altman and Greg Brockman.."
     publishedDateTime: 2023-11-20T22:31:00Z
@@ -164,6 +134,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The OpenAI meltdown will only accelerate the artificial intelligence race"
+    excerpt: "Instead, OpenAI was the center of a fierce philosophical debate about what it means to develop artificial general intelligence for the benefit of humanity. To understand the current debate and its ..."
+    publishedDateTime: 2023-11-23T00:18:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 73
+    images:
+      - url: "https://i.guim.co.uk/img/media/d12a7c1f184baf181c112396b8fb18251adfef30/0_527_4772_2865/master/4772.jpg?width=620&quality=85&auto=format&fit=max&s=2b17ea177f30c94ed0803376811924be"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "The OpenAI meltdown will only accelerate the artificial intelligence race"
+    excerpt: "Optimists and ‘doomers’ are fighting over the direction of AI research – and those who want speed may have won this round"
+    publishedDateTime: 2023-11-22T09:11:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 71
+    images:
+      - url: "https://i.guim.co.uk/img/media/d12a7c1f184baf181c112396b8fb18251adfef30/0_527_4772_2865/master/4772.jpg?width=620&quality=85&auto=format&fit=max&s=2b17ea177f30c94ed0803376811924be"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Sam Altman joins Microsoft to lead new artificial intelligence team following OpenAI firing"
     excerpt: "Altman, one of the initial board members of OpenAI, was fired as CEO of the ChatGPT company on Friday. The decision came after a review by"
     publishedDateTime: 2023-11-20T10:15:00Z
@@ -173,47 +175,64 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 69
-  - title: "Sam Altman Was in Talks to Raise Billions for AI Chip Venture Before OpenAI Ouster"
-    excerpt: "Altman was said to be travelling to the Middle East to fundraise for the project, which was code-named Tigris."
-    publishedDateTime: 2023-11-20T07:15:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/sam-altman-openai-ceo-firing-raise-billions-investors-ai-chip-venture-4588728"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/sam-altman-openai-ceo-firing-raise-billions-investors-ai-chip-venture-4588728/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/sam-altman-openai-ceo-firing-raise-billions-investors-ai-chip-venture-4588728/amp"
+  - title: "OpenAI’s board: From AI safety to mutiny | The AI Beat"
+    excerpt: "In one head-spinning weekend, OpenAI's nonprofit board went from serious about AI safety to watching employees get ready to mount a mutiny."
+    publishedDateTime: 2023-11-20T23:18:00Z
+    webUrl: "https://venturebeat.com/ai/openais-board-from-ai-safety-to-mutiny-the-ai-beat/"
     type: article
     provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 68
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://i.gadgets360cdn.com/large/sam_altman_worldcoin_main_bloomberg_1625030781405_1_1700464377534.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-20-10.22.17-A-dramatic-scene-on-an-18th-century-sailing-ship-capturing-the-essence-of-a-mutiny-like-in-the-story-of-Mutiny-on-the-Bounty.-The-ship-is-set-again.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
+  - title: "The Sam Altman Saga: Is AI the Place to 'Move Fast and Break Things'?"
+    excerpt: "The OpenAI board was reportedly not happy with the former CEO's plan to profit from its powerful AI. But this is Silicon Valley. Is it possible to develop ethical AI and still make billions?"
+    publishedDateTime: 2023-11-21T16:07:00Z
+    webUrl: "https://www.pcmag.com/opinions/the-sam-altman-saga-is-ai-the-place-to-move-fast-and-break-things"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05Irm0QKmV9nQHGPgyLAhNx-4.fit_lim.size_1200x630.v1700520536.jpg"
+        width: 1121
+        height: 630
+        isCached: true
+  - title: "OpenAI’s crisis will sow the seeds of the next generation of AI startups"
+    excerpt: "OpenAI’s meltdown is likely to become the latest installment in what’s becoming a Silicon Valley tradition. It's hard to know how this will end."
+    publishedDateTime: 2023-11-20T18:42:00Z
+    webUrl: "https://techcrunch.com/2023/11/20/openai-expats/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openai-flower.jpg?resize=1200,675"
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft brings ChatGPT AI to Windows 11’s command line, and here’s a closer look"
-    excerpt: "ChatGPT-powered “AI chat” on Windows 11. ChatGPT integration is now available in Terminal (Canary), a new development channel to test experimental features ahead of a wider rollout. With ChatGPT AI Chat in Terminal,"
-    publishedDateTime: 2023-11-24T00:20:00Z
-    webUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/"
-    ampWebUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
+  - title: "Thursday briefing: What the meltdown at OpenAI means for the future of artificial intelligence"
+    excerpt: "Why Sam Altman was fired as the company’s CEO, why he was rehired – and what it all means for the field"
+    publishedDateTime: 2023-11-23T05:53:00Z
+    webUrl: "https://www.theguardian.com/world/2023/nov/23/first-edition-openai-sam-altman"
+    ampWebUrl: "https://amp.theguardian.com/world/2023/nov/23/first-edition-openai-sam-altman"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/nov/23/first-edition-openai-sam-altman"
     type: article
     provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 68
+      name: The Guardian
+      domain: theguardian.com
+    quality: 60
     images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/09/Windows-Terminal-with-AI-on-Windows-11.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://i.guim.co.uk/img/media/4f8463ac76baecd281714a8d1cd460f04856f42a/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=cbf2b7b0a793fb8fd30d3e7c0a7e97ae"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Microsoft Makes Big AI Investment Hiring Altman And Brockman"
-    excerpt: "The duo is widely respected for their work on artificial intelligence, and their arrival at Microsoft is seen as a significant win for the company."
-    publishedDateTime: 2023-11-20T19:28:00Z
-    webUrl: "https://www.forbes.com/sites/elijahclark/2023/11/20/microsoft-makes-big-ai-investment-hiring-altman-and-brockman/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
   - title: "AI doomsayers blamed in OpenAI's undoing"
     excerpt: "OpenAI has gone from ruling the world of artificial intelligence with ChatGPT to chaos, its chief executive ousted seemingly for advancing too fast and too far with the risky technology."
     publishedDateTime: 2023-11-21T09:09:00Z
@@ -230,19 +249,35 @@ related:
         width: 1280
         height: 818
         isCached: true
-  - title: "Wall Street Breakfast Podcast: Sam Altman To Lead Microsoft's New AI Team"
-    excerpt: "Ousted OpenAI CEO Sam Altman joins Microsoft. Cruise CEO Kyle Vogt resigns less than a month after pausing driverless operations. Nokia expands partnership with Globe Telecom."
-    publishedDateTime: 2023-11-20T10:46:00Z
-    webUrl: "https://seekingalpha.com/article/4653087-wall-street-breakfast-podcast-sam-altman-to-lead-microsofts-new-ai-team"
+  - title: "AI Startup Cohere’s CEO Slams Effective Altruism in Wake of OpenAI Drama"
+    excerpt: "The chief executive officer of artificial intelligence startup Cohere criticized the “self-righteousness” of the effective altruism movement and those overly concerned with th"
+    publishedDateTime: 2023-11-24T01:06:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-cohere-s-ceo-slams-effective-altruism-in-wake-of-openai-drama-71700717899430.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-cohere-s-ceo-slams-effective-altruism-in-wake-of-openai-drama-71700717899430.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-cohere-s-ceo-slams-effective-altruism-in-wake-of-openai-drama-71700717899430.html"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 55
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 56
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1778705436/image_1778705436.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1076
+      - url: "https://images.hindustantimes.com/tech/img/2023/11/24/1600x900/UK-GOMEZ-8_1700787630959_1700787649517.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "OpenAI’s Board Set Back the Promise of Artificial Intelligence"
+    excerpt: "I was the first venture investor in OpenAI. The weekend drama illustrated my contention that the wrong boards can damage companies. Fancy titles like “Director of Strategy at Georgetown’s Center for Security and Emerging Technology” can lead to a false sense of understanding of the complex"
+    publishedDateTime: 2023-11-20T15:53:00Z
+    webUrl: "https://www.theinformation.com/articles/openais-board-set-back-the-promise-of-artificial-intelligence"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 52
+    images:
+      - url: "https://tii.imgix.net/production/articles/11747/7184b549-37ed-4712-b7c3-ba77373bcac5.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Sam Altman lands new gig as CEO of Microsoft AI after shock axing from OpenAI"
     excerpt: "Writing on LinkedIn, Microsoft CEO Satya Nadela revealed both Altman and Brockman would join the Windows maker. They will create a new division focused on advanced AI research and while he didn’t say this would directly compete with OpenAI, it is likely to work on similar ideas."
@@ -257,6 +292,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/jF8ztHCbSVeXyHbgFJDFB5-1200-80.jpg"
         width: 1200
         height: 841
+        isCached: true
+  - title: "Was OpenAI Brouhaha Aimed To Derail AI Capability To Complete Grade School Math?"
+    excerpt: "It is being reported that a group of staff researchers at OpenAI conveyed their concerns to the board of directors"
+    publishedDateTime: 2023-11-23T17:48:00Z
+    webUrl: "https://thedeepdive.ca/was-openai-brouhaha-aimed-to-derail-ai-capability-to-complete-grade-school-math/"
+    type: article
+    provider:
+      name: thedeepdive
+      domain: thedeepdive.ca
+    quality: 51
+    images:
+      - url: "https://thedeepdive.ca/wp-content/uploads/2023/11/header-template-75.jpg"
+        width: 1117
+        height: 629
         isCached: true
   - title: "Amid Executive Turmoil at OpenAI, Microsoft Poaches Altman for 'AI Research Team'"
     excerpt: "After Altman's ouster, in a show of solidarity, OpenAI board chairman Greg Brockman quit the company, along with three high-ranking AI scientists ... have allegedly involved Microsoft withholding Azure credits from OpenAI). For a time, it did look like ..."
@@ -313,6 +362,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Generative AI startup AI21 Labs raises cash in the midst of OpenAI chaos"
+    excerpt: "One AI startup’s undoing is another’s opportunity. Case in point: today, AI21 Labs, a company developing generative AI products along the lines of OpenAI’s GPT-4 and ChatGPT, closed a $53 million extension to its previously-announced Series C funding ..."
+    publishedDateTime: 2023-11-21T14:00:00Z
+    webUrl: "https://techcrunch.com/2023/11/21/generative-ai-startup-ai21-labs-raises-cash-in-the-midst-of-openai-chaos/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
   - title: "Sam Altman's firing at OpenAI reflects schism over future of AI development"
     excerpt: "The rift that cost artificial-intelligence whiz kid Sam Altman his CEO job at OpenAI reflects a fundamental difference of opinion over safety, broadly, between two camps developing the world-altering software and pondering its societal impact."
     publishedDateTime: 2023-11-20T18:17:00Z
@@ -322,15 +380,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 45
-  - title: "Schneider Electric Integrates Microsoft Azure OpenAI for Sustainable Solutions"
-    excerpt: "Schneider Electric tapped into its collaboration with Microsoft to integrate Microsoft Azure OpenAI into its operations, utilizing algorithms to generate text, code and diverse content."
-    publishedDateTime: 2023-11-21T20:17:00Z
-    webUrl: "https://www.iotevolutionworld.com/iot/articles/457794-schneider-electric-integrates-microsoft-azure-openai-sustainable-solutions.htm"
-    type: article
-    provider:
-      name: iotevolutionworld.com
-      domain: iotevolutionworld.com
-    quality: 45
   - title: "Microsoft says Altman will lead new in-house AI team, as OpenAI board hires former Twitch CEO to lead start-up"
     excerpt: "The twin moves mark a turning point in the frenetic aftermath of Altman’s firing, which stunned Silicon Valley and set off a campaign led by Nadella and other OpenAI executives to get Altman reinstated."
     publishedDateTime: 2023-11-20T19:50:00Z
@@ -339,6 +388,15 @@ related:
     provider:
       name: scmp.com
       domain: scmp.com
+    quality: 44
+  - title: "OpenAI’s New CEO Likes Tweeting About Sex And Using AI To Write Pickup Lines"
+    excerpt: "Incoming exec Emmett Shear has regularly tweeted about sexual dynamics between men and women and the controversial pick-up artistry manual The Game."
+    publishedDateTime: 2023-11-20T20:50:00Z
+    webUrl: "https://www.forbes.com/sites/sarahemerson/2023/11/20/openai-ceo-emmett-shear-tweets-sex-dating-pickup-lines/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 44
   - title: "Today in AI: Sam Altman as CEO of OpenAI is strategic win for Nadella, What is AGI? and AWS India AI ready initiative to train people"
     excerpt: "AGI is more of a general term, referring to Artificial Intelligence that has not been trained to excel ... The cloud service provider also earmarked $12 million for AWS Generative AI Scholarship, wherein it will provide Udacity scholarships to more than ..."
@@ -356,19 +414,33 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft, OpenAI sued over alleged unauthorized use of nonfiction authors’ work in AI training"
-    excerpt: "Artificial intelligence startup OpenAI and Microsoft Corp. have been hit with a new lawsuit alleging that the companies violated copyright by using the works of nonfiction authors to train AI models, including OpenAI’s ChatGPT. Julian Sancton ..."
-    publishedDateTime: 2023-11-22T16:10:00Z
-    webUrl: "https://siliconangle.com/2023/11/22/microsoft-openai-sued-alleged-unauthorized-use-nonfiction-authors-work-ai-training/"
+  - title: "‘We are a little bit scared’: OpenAI CEO warns of risks of artificial intelligence – The Guardian"
+    excerpt: "Sam Altman stresses need to guard against negative consequences of technology, as company releases new version GPT-4Sam Altman, CEO of OpenAI, the company"
+    publishedDateTime: 2023-11-21T04:35:00Z
+    webUrl: "https://www.inferse.com/801620/we-are-a-little-bit-scared-openai-ceo-warns-of-risks-of-artificial-intelligence-the-guardian/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 42
+      name: Inferse
+      domain: inferse.com
+    quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/hammer-620011_1280.jpg"
-        width: 1280
-        height: 960
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-11818.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI roundup: OpenAI CEO returns, Stable Video Diffusion, Anthropic…"
+    excerpt: "Tweet-Reply Of The Week goes to the wag who wrote “the lengths this man will go to not use Microsoft Teams” in response to the announcement that OpenAI co-founder Sam Altman is returning as CEO days after being ousted and joining Microsoft."
+    publishedDateTime: 2023-11-22T08:32:00Z
+    webUrl: "https://musically.com/2023/11/22/ai-roundup-openai-ceo-returns-stable-video-diffusion-anthropic/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2023/10/AI-artificial-intelligence-generic-4x3-1.png?fit=1200%2C900&#038;ssl=1"
+        width: 1200
+        height: 900
         isCached: true
   - title: "OpenAI researchers warned board of AI breakthrough"
     excerpt: "Some at OpenAI believe Q* (pronounced Q-Star) could be a breakthrough in the start-up’s search for what’s known as artificial general intelligence (AGI), one of the people said. OpenAI defines AGI as autonomous systems that surpass humans in most economically valuable tasks."
@@ -384,6 +456,20 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "OpenAI researchers warned of powerful AI discovery before company chaos"
+    excerpt: "Some staff at ChatGPT creator believe breakthrough relates to startup’s search for what’s known as artificial general intelligence (AGI)"
+    publishedDateTime: 2023-11-23T12:39:00Z
+    webUrl: "https://www.aol.com/news/openai-researchers-warned-powerful-ai-103916487.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/41365508796aff005913473394bf365c"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How AI Doomerism Caused OpenAI’s Sam Altman Firing Fiasco"
     excerpt: "It’s been a whirlwind few days for the startup at the heart of the artificial intelligence revolution—but they only have themselves to blame."
     publishedDateTime: 2023-11-20T22:02:00Z
@@ -397,6 +483,20 @@ related:
       - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1700517350/231120-Anslow-OpenAI-tease_jwyhym"
         width: 1480
         height: 832
+        isCached: true
+  - title: "OpenAI turmoil puts some B.C. AI start-ups' technologies at risk"
+    excerpt: "\"Dozens and dozens\" of B.C. companies could also be impacted if uncertainty spirals out of control at OpenAI, Rob Goehring, CEO at Wisr AI and the founding chair of BC Tech’s AI C-Council told BIV this afternoon."
+    publishedDateTime: 2023-11-21T16:30:00Z
+    webUrl: "https://www.princegeorgecitizen.com/technology/openai-turmoil-puts-some-bc-ai-start-ups-technologies-at-risk-7861725"
+    type: article
+    provider:
+      name: The Prince George Citizen
+      domain: princegeorgecitizen.com
+    quality: 37
+    images:
+      - url: "https://www.vmcdn.ca/f/files/biv/ashishanand-22.jpg;w=938;h=527;mode=crop"
+        width: 938
+        height: 527
         isCached: true
   - title: "He’s back: Sam Altman and the chaos at the heart of the AI industry"
     excerpt: "The CEO of OpenAI was sacked and then rehired days later, after staff threatened to follow him. But what does this corporate drama tell us about the future of AI? Blake Montgomery explains"
@@ -426,15 +526,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "View | Microsoft's (Open)AI gambit pays off unexpectedly"
-    excerpt: "Sam Altman's departure from OpenAI to Microsoft marks a seismic shift in AI, potentially reshaping the competitive dynamics. Microsoft's strategic move may position it as a leader, intensifying tensions in Silicon Valley over innovation,"
-    publishedDateTime: 2023-11-20T14:23:00Z
-    webUrl: "https://www.cnbctv18.com/technology/microsoft-openai-gambit-pays-off-sam-altman-satya-nadella-microsoft-18369191.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 36
   - title: "Sam Altman Returns to Microsoft: A Strategic Alliance in the AI Realm"
     excerpt: "OpenAI CEO Sam Altman is set to join Microsoft, marking a renewed partnership between the two companies and a new chapter in the world of AI."
     publishedDateTime: 2023-11-20T20:21:00Z
@@ -444,6 +535,20 @@ related:
       name: tech
       domain: techstory.in
     quality: 36
+  - title: "Sam Altman warns AI could kill us all. But he still wants the world to use it"
+    excerpt: "ET By Samantha Kelly, CNN New York (CNN) — Sam Altman thinks the technology underpinning his company’s most famous product could bring about the end of human civilization. In May, OpenAI CEO Sam Altman filed into a Senate subcommittee hearing room in Washington,"
+    publishedDateTime: 2023-11-20T16:14:00Z
+    webUrl: "https://kion546.com/news/2023/11/20/sam-altman-warns-ai-could-kill-us-all-but-he-still-wants-the-world-to-use-it-3/"
+    type: article
+    provider:
+      name: KION
+      domain: kion546.com
+    quality: 36
+    images:
+      - url: "https://kion546.b-cdn.net/2023/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG83cG44bzkwMDAyM2I2aWJibXUzczEw-L19wYWdlcy9jbG83b3o5Z3gwMDAwMjZwOGRydXRhazAw.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft hires OpenAI's Sam Altman, Greg Brockman, and other researchers to head new advanced AI research team"
     excerpt: "Microsoft has hired Sam Altman, Greg Brockman, and other OpenAI researchers that left the startup in a dramatic series of events over Friday and the weekend."
     publishedDateTime: 2023-11-20T09:55:00Z
@@ -481,6 +586,20 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 33
+  - title: "AI breakthrough that could threaten humanity might have been key to Sam Altman’s firing"
+    excerpt: "Current programs like AI are good at writing and language translation as they predict the next word. Answers to the same prompt might vary as a result. But with math, there can only be an answer. Once math is conquered, AI will have greater reasoning ..."
+    publishedDateTime: 2023-11-23T11:51:00Z
+    webUrl: "https://bgr.com/tech/ai-breakthrough-that-could-threaten-humanity-might-have-been-key-to-sam-altmans-firing/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 33
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/11/openai-devday-2023-chatgpt-1.jpg?quality=82&strip=all"
+        width: 1600
+        height: 817
+        isCached: true
   - title: "Analysis-AI poster child Altman back at OpenAI, may have fewer checks on power"
     excerpt: "Sam Altman's return as OpenAI's chief executive will strengthen his grip on the startup and may leave the ChatGPT creator with fewer checks on his power as the company introduces technology that could upend industries,"
     publishedDateTime: 2023-11-22T23:08:00Z
@@ -509,15 +628,34 @@ related:
         width: 760
         height: 443
         isCached: true
-  - title: "OpenAI Former CEO Joins Microsoft To Continue AI ‘Mission’; Satya Nadella Weighs-In"
-    excerpt: "Microsoft hires OpenAI CEO Sam Altman and others to lead a new advanced AI research team at Microsoft to drive GenAI and technology innovation."
-    publishedDateTime: 2023-11-20T14:07:00Z
-    webUrl: "https://www.crn.com/news/cloud/openai-former-ceo-joins-microsoft-to-continue-ai-mission-satya-nadella-weighs-in"
+  - title: "What does Sam Altman’s firing — and quick reinstatement — mean for the future of AI?"
+    excerpt: "If you’re just catching up on the OpenAI saga and what’s at stake for the artificial intelligence space as a whole, you’ve come to the right place. Here’s a rundown of what you need to know."
+    publishedDateTime: 2023-11-23T15:10:00Z
+    webUrl: "https://www.baltimoresun.com/business/ct-biz-sam-altman-ai-20231123-2g37rwaqwrbenihfsxgkcgjcfu-story.html"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 30
+    images:
+      - url: "https://www.baltimoresun.com/resizer/RjK_7Wt4EkQqEOhfzWlFXWB7juw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/4PNFMUGA4SWEZ73JASYJCFYHGQ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "OpenAI’s 34-year-old CTO Mira Murati was briefly at the center of the startup’s CEO chaos"
+    excerpt: "It's been, you could say, an eventful few days. Dominating the business news cycle is the ouster of CEO Sam Altman from OpenAI, the influential startup behind ChatGPT and the mainstreaming of generative AI. On Friday, the company's board fired Altman ..."
+    publishedDateTime: 2023-11-20T09:09:00Z
+    webUrl: "https://www.aol.com/finance/openai-34-old-cto-mira-140926169.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 28
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/rkOq2pfoGCWITF.MZTDYNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/87a7c740fcb9ed35d795008952f6b3f5"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Sam Altman to lead advanced AI research at Microsoft after surprise firing from OpenAI"
     excerpt: "Microsoft looks to gain big from the talent leaving OpenAI by having them lead a brand-new team to manage custom AI chips instead of relying on Nvidia tech."
     publishedDateTime: 2023-11-20T19:40:00Z
@@ -527,6 +665,15 @@ related:
       name: Courthouse News Service
       domain: courthousenews.com
     quality: 28
+  - title: "OpenAI chaos explained: What it could mean for the future of artificial intelligence"
+    excerpt: "The firing of CEO Sam Altman, the threat of employee exodus, and more. OpenAI chaos explained: What it could mean for the future of artificial intelligence."
+    publishedDateTime: 2023-11-20T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/sam-altman-fired-openai-microsoft/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 25
   - title: "OpenAI in “intense discussions” to contain staff mutiny following Altman’s exit from AI startup"
     excerpt: "The start-up tech firm behind ChatGPT is in turmoil after its founder Sam Altman was forced to depart the board and as chief executive"
     publishedDateTime: 2023-11-21T08:47:00Z
@@ -564,6 +711,33 @@ related:
         width: 800
         height: 537
         isCached: true
+  - title: "OpenAI Researchers Warned the Board of an AI Discovery that Could Threaten Humanity"
+    excerpt: "Four days ahead of Sam Altman‘s ouster, several staff researchers wrote a letter to the board of directors warning of a powerful AI discovery, called Project Q*, that they said could threaten humanity. Reuters reported yesterday about it quoting as sources two people familiar with the matter."
+    publishedDateTime: 2023-11-23T19:11:00Z
+    webUrl: "https://iblnews.org/openai-researchers-warned-the-board-of-an-ai-discovery-that-could-threaten-humanity/"
+    type: article
+    provider:
+      name: IBL News
+      domain: iblnews.org
+    quality: 13
+  - title: "OpenAI's meltdown prompts further questions around the future of AI safety surveillance"
+    excerpt: "Abhishek Gupta, Founder and Principal Researcher at the Montreal AI Ethics Institute, said that enterprises need to consider AI safety metrics that go beyond traditional software performance indicators. He explains: Current metrics should encompass a ..."
+    publishedDateTime: 2023-11-21T13:00:00Z
+    webUrl: "https://diginomica.com/openais-meltdown-prompts-further-questions-around-future-ai-safety-surveillance"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 11
+  - title: "Live news: News updates from November 22: Sam Altman to return as Open AI CEO, Far-right leader set to come first in Dutch elections"
+    excerpt: "Keep abreast of significant corporate, financial and political developments around the world. Stay informed and spot emerging risks and opportunities with independent global reporting, expert commentary and analysis you can trust."
+    publishedDateTime: 2023-11-22T23:59:00Z
+    webUrl: "https://www.ft.com/content/6280aa4e-73d1-40b7-b9e0-cb1ba9789e6b"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 0
 
 secured: "GvPF3BSFcg5a5Hnfvsd9IYchvN0l6jhNUhZCQ2yL5T2/QrbfEyDce4WXNVZ8AM8dH8iiQm8zkW3jngl8YOIbJCNJ0ZUoMvIp/ImCZ74EQr7EmTDIVxK8umlKroG7tv4La5ucCSOf2+AIirGX0AyetPebTOKrULfk3oxTexlECyt/JfOaqD8G72LvEmOMzC6dFL8w0gRRW7UZc+G3ZDDDA66fMqLAYhwX60rqhg4TKlNPvuoVOXimcdLWQuch7iuXB0/l+oU/UNF/67ZO0+L5P9emQ8el5Rfg3jke6+2uIOTMVKeQUbJUTVcIEomv1/1Iz/tIMpSGHhkW1sKqyWv02BwAM1B6vDwcxb4R5Jb6b1hcw7v/QTmqJlcah70BRodpgEQfXEqAVej9cRb7NfdVJwLJYaSVCTe5gCZcyhrQyrc+RMoTYpT7XRiNAN0T6IXwv7QdU0ceq97ZezM40w0JIhlp87kPemhIQEBM1mjyGp+1jLBxiMUEg/ZuEEluXSAickhxFNhnQJRj2qKp4w9LAQ==;AqSJzRSZlpTjt9eNrXhaMw=="
 ---

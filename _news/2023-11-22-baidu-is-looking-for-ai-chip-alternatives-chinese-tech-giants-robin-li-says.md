@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Chinese tech giant Baidu's shares rise 2% after revenue beat"
+    excerpt: "\"Baidu reported solid third-quarter financial results, demonstrating resilience in a challenging economic climate,\" Robin Li, Baidu CEO and co-founder of Baidu, said in a release. BEIJING ..."
+    publishedDateTime: 2023-11-21T14:28:00Z
+    webUrl: "https://www.cnbc.com/2023/11/21/baidu-q3-earnings-chinese-tech-giant-reports-revenue-beat.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/11/21/baidu-q3-earnings-chinese-tech-giant-reports-revenue-beat.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/21/baidu-q3-earnings-chinese-tech-giant-reports-revenue-beat.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107111213-16618626982022-08-30t102021z_659801199_rc2x6w98tzw1_rtrmadp_0_baidu-results.jpeg?v=1678966622"
+        width: 3500
+        height: 2333
+        isCached: true
 
 secured: "gBdxcRdsEkJ2a7t9OxvXQIobd8KJ/1cZSs90jhCXoyfmXNholOzMYBOY6xyJeQnvYPaQ1fx+L1fYOAYFpsKnCdsO2hUVffyeTf5UUYyR2j2BMiugsnAzKC9JrBAI/GPdgMvS7WondIRSsXg6JtgIfqCQ3rZ9d+EU6o6B6dX+/vQnUaXFOCF/08OhaCJ4MEuGlCmZlmPF6dIi+qpcLM8pZolh6ByeQC1P+VQLT6m7h3cpYuA2puAZG3kxjGnJKGQVVZ2wZ4faeLUCHGgUMvySc7IRW+3DdP83ih8YzDPNAYARReiTH1NEXGQ0EdaZ5WH0NsKu/kSJp1V4cHuA3G34fJK0lEQeGwyQbe3h0GI5y9xJ/J3y9aubQ4yDZKB3m6X6wYXk8qvlU87vIq0pzKOfgeTDB9j/6BgrBpoS162y++EwHwO/FjCzMxe6GBiOcmbYiGQvcDWxxrOJRNvk76f1Bdgf4fGZFxKXtF5bCtPf6P40KCfHVYAjnHMBvIsTdd69wUDd+6myJAGzjRyzhgNjtg==;U8w0OBE9AWYuEv7yYSGveQ=="
 ---

@@ -41,6 +41,24 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Nvidia collaborates with Genentech to accelerate AI-driven drug discovery"
+    excerpt: "Nvidia said its offerings will accelerate the training and inference of generative models used in Genentech’s “lab in the loop” framework, where extensive experimental data is fed into models for iterative drug discovery."
+    publishedDateTime: 2023-11-21T19:27:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-collaborates-with-genentech-to-accelerate-ai-driven-drug-discovery/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 48
+  - title: "ConcertAI's TeraRecon, Integrates Clinical and Generative AI, Supporting Clinical Research and Advancing Clinical Care Solutions at #RSNA23"
+    excerpt: "New solutions empower clinicians and research teams with AI orchestration, model development, visualization, and multi-modal data management to"
+    publishedDateTime: 2023-11-20T17:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/concertai-s-terarecon-integrates-clinical-and-generative-ai-supporting-clinical-research-and-advancing-clinical-care-solutions-at-rsna23-1032836447"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 15
 
 secured: "fgBonXfXWld85WSjvQPQM/5gZfWjnytqWeyPN3BHJ84abGBKlzt3WQT+M2LtzgWwYc1Q/t13UYgPsuzbyOpZdJJKh29ge8aEsXNyckRkZUwWiAHh8QjpkTQjqmNZOZi3ovoLuUgrK2y39iLI4bfHBM8g86clXwUNOHrprAhYGtxyt4+WPUrWZXQWF2NSPaivGYSrBh7eYqq5AiGQlGG87D1wBBTtH5gfn5q3iKNEJZjp++G3EeTajIBidyK56voh0ThhpBrhXxZH92eY9/41Hb1MfY6CQWA086Oz+zZzwCrHZ6ZdI4n1LFcpyV54tXtav8D7AV1RidwxEIOaYp/3KdjReQN6qbBBIJVFOkuuf9I=;eo5de+1OxI9cP1YTmJmOmg=="
 ---

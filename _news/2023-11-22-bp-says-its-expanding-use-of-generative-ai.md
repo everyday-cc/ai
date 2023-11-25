@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Research Can Help to Tackle AI-generated Disinformation"
+    excerpt: "Continue reading Research Can Help to Tackle AI-generated Disinformation."
+    publishedDateTime: 2023-11-20T12:00:00Z
+    webUrl: "https://www.cc.gatech.edu/news/research-can-help-tackle-ai-generated-disinformation"
+    type: article
+    provider:
+      name: cc.gatech.edu
+      domain: gatech.edu
+    quality: 39
+    images:
+      - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2021/srijan%20kumar850x478.jpeg"
+        width: 850
+        height: 478
+        isCached: true
 
 secured: "CNG//TXtjMhW9kSwoR3a5z4bDUEEGW+srbk2uZlh2SNIng+bbaZUddLkOY7fPIHK6EFuI/NjAWZOK+Ym4gEp2CjXeoceB9PAVAAiQ8BBKfeBBQ1JQBn840npchR6sUDWFQP3GSrzUpRI49fl5FGirtaAkHJaBPzz5OX6pRS+Y0wMxqxevObez75mmbVKqW8trhxbJWfB0DoNm0ooYt+I9a9bqNy5gaAeZa5xOF4yvn3G49jFhPsTER6UoVQ3HoA3RF9OOHjNAvJbqHQUmw1vOujOaPaMettDrap+jiAw+fi5x5ruJtTxj0p7CaYEjBTTPKFgIMd9LLC5yUyxT/DzTZZg5JE4AtTg4+6tJDdrQ2GkM9ByASNlNNw+feuEigcxAIxfsMrm6jxwK8IPQg69roeo5HZzNaJC2DEooycADkNpOs9tP0dVsqNR1oWcPl3fS4uxFlMEc3jpBmkcKOnUGlgJQkOplC8zlziAedVXG527eti2vgmQ+wRrdcZwJ1BgjwScL/DBgkyI+obn0/F3Ug==;SZAF++kp/kzn9FfRQ4Bstg=="
 ---

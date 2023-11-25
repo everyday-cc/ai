@@ -79,20 +79,6 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 25
-  - title: "Tapping into Google Bard’s Potential: Exploring Advanced Features and Applications"
-    excerpt: "Since Google AI unveiled Google Bard, their latest natural language processing (NLP) model, it has garnered significant attention in the tech industry."
-    publishedDateTime: 2023-11-20T08:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/tapping-into-google-bards-potential-exploring-advanced-features-and-applications/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 18
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/Google-Bard-5.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "eq8XSSlm1ZVx7SxK8IJYFVVHqNaBP4+4UFl8HWiTrvlKdAcW/RYQ5r0suDVvHG6sE0o5hI/P+6bRB/XnEhAwiTEpe2NdZiELUJ6FyHeKzE2Ti5xYewZz7rd3aar70V1vAgXe9LvDK5EAWq3tYszvISqrLHFG0rcYYUUtlrNnIX/upln9790nbhJNEuNNlNSL7tUV3nhshhYzuwahy285KGT0TpQuMklZ64ha0z80RVdmVaNBthkks6NZjkUkOjQvG8B+BqFLfpKErVefy27Wp7LRNzyocqqU2b1vZh1RVS3gAEJQci/w4+87n/beaAARkHQ+jzT9i26zDlnrSuBSFdew7bg2FSRQboXCHNR32Gqr+gqQgfvuPyaF4jS+NU4TMPge2l9Y+yMBYmbRRvo8+imvcdYezuKS+965qSbwVXTevATBRnTavPau5jS2wk9OnYfZCXQirA2u0N/H0LXElEbl4sRfxfugs0xGfchi6VZpE+Bn8OAFGMyKNaVAv9TByt5pVRudwkr81jc1zdDUqw==;Wl4lhywMyB/4+xwLYSncuw=="
 ---

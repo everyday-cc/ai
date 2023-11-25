@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35941423"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35941423"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/smart-grid.jpg?w=3000"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "How Earth AI is accelerating mineral discovery and helping enterprise Net Zero goals"
+    excerpt: "Earth AI pioneers a more efficient experimental process for discovering minerals required for Net Zero goals. Their promising results highlight the importance of combining data science, domain expertise, and systematic thinking to solve new problems relevant to all enterprises."
+    publishedDateTime: 2023-11-20T10:24:00Z
+    webUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals"
+    ampWebUrl: "https://diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-earth-ai-accelerating-mineral-discovery-and-helping-enterprise-net-zero-goals?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 52
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-11/amethyst-3328166_640.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Colors-Ai Is Transforming Product Development Through Customer Feedback Analysis"
     excerpt: "Colors-AI's cutting-edge platform is revolutionizing how businesses harness customer feedback to inform and prioritize product development. <"

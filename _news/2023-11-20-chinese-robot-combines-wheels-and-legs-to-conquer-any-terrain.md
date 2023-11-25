@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/chinese-robot-combines-wheels-and-legs-to-conquer-any-terrain.amp"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese tech giant Baidu's shares rise 2% after revenue beat"
+    excerpt: "\"Baidu reported solid third-quarter financial results, demonstrating resilience in a challenging economic climate,\" Robin Li, Baidu CEO and co-founder of Baidu, said in a release. BEIJING ..."
+    publishedDateTime: 2023-11-21T14:28:00Z
+    webUrl: "https://www.cnbc.com/2023/11/21/baidu-q3-earnings-chinese-tech-giant-reports-revenue-beat.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/11/21/baidu-q3-earnings-chinese-tech-giant-reports-revenue-beat.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/21/baidu-q3-earnings-chinese-tech-giant-reports-revenue-beat.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107111213-16618626982022-08-30t102021z_659801199_rc2x6w98tzw1_rtrmadp_0_baidu-results.jpeg?v=1678966622"
+        width: 3500
+        height: 2333
+        isCached: true
   - title: "Baidu Is Looking for AI Chip Alternatives, Chinese Tech Giant’s Robin Li Says"
     excerpt: "Baidu, which launched its chatbot Ernie Bot 4.0 last month, does not need chips with too much computing power, Li said at an analyst conference after the Beijing-based firm’s earnings call yesterday. Baidu’s four-layer architecture and algorithmic strengths will also help improve efficiency and mitigate the impact of these challenges."
     publishedDateTime: 2023-11-22T06:18:00Z

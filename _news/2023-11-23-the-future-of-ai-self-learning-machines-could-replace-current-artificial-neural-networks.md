@@ -76,20 +76,6 @@ related:
       name: New York Academy of Sciences
       domain: nyas.org
     quality: 32
-  - title: "Tapping into Google Bard’s Potential: Exploring Advanced Features and Applications"
-    excerpt: "Since Google AI unveiled Google Bard, their latest natural language processing (NLP) model, it has garnered significant attention in the tech industry."
-    publishedDateTime: 2023-11-20T08:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/tapping-into-google-bards-potential-exploring-advanced-features-and-applications/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 18
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/Google-Bard-5.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "OwusUxQtPsJ2jiuMazDpwPfxsu+Rfp436YoP2xqOezGRotnwsuYx0FoguhfTa7gOrN/UIVtHPloD1dP9EAMKHK1D2BWjzjj4yV8P5xl4dQFDqJ+34ggcGWnLuNuTzdfffqbWTTKUlEyXCAaZXQPX/Uor32X/h0hGZVzxUU5nFKLAOg11yCcqOjsFtOWw+Lv93sk/hcFOYIhNMzF/vFfgqpPSLn3vKwEo+c3O+X+4exTEmOtnW4/phpOSpWDVookIjuJpetCDguglblBx86FbPUyeInZgH+hKo+FTXIdOj/PhTxGNk9o7qkZ/Q6hgNt5J/m7TFQlI6x3h3sCmfbG2CouaL96C/HojYWDTF6nVr7s=;E74MmDEQnHPXlzG5vCx/Sg=="
 ---

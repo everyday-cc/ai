@@ -180,6 +180,20 @@ related:
         width: 724
         height: 482
         isCached: true
+  - title: "Only public confidence stopping us from using AI in marking, says AQA"
+    excerpt: "Artificial intelligence could quality-assure exam markers from “tomorrow morning”, but “public confidence” was holding it back, according to AQA’s chief executive. Colin Hughes said while ChatGPT in particular had attracted a lot of attention, “it may even be materially not very important or interesting” compared with other technologies."
+    publishedDateTime: 2023-11-25T08:50:00Z
+    webUrl: "https://schoolsweek.co.uk/only-public-confidence-stopping-us-from-using-ai-in-marking-says-aqa/"
+    type: article
+    provider:
+      name: Schools Week
+      domain: schoolsweek.co.uk
+    quality: 39
+    images:
+      - url: "https://schoolsweek.co.uk/wp-content/uploads/2023/09/AI-robot-hand-SM.jpg"
+        width: 800
+        height: 420
+        isCached: true
   - title: "Startup Combating AI Threats Pulls In $6M Seed Funding"
     excerpt: "Lasso Security can identify which genAI tools are being used by firms and monitor every employee that uses them & the data they send out."
     publishedDateTime: 2023-11-21T08:37:00Z
