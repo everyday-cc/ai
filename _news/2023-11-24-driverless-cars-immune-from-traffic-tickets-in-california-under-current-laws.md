@@ -129,17 +129,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Vogt resigns as CEO of Cruise over questions of safety of self-driving cars"
-    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars."
-    publishedDateTime: 2023-11-20T06:06:00Z
-    webUrl: "https://www.business-standard.com/world-news/vogt-resigns-as-ceo-of-cruise-over-questions-of-safety-of-self-driving-cars-123112000176_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/world-news/vogt-resigns-as-ceo-of-cruise-over-questions-of-safety-of-self-driving-cars-123112000176_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/vogt-resigns-as-ceo-of-cruise-over-questions-of-safety-of-self-driving-cars-123112000176_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 22
   - title: "Isn't it about time we had driverless cars?"
     excerpt: "Driverless cars feel like they've been \"two or three years away\"… for the last 10 years. So why don't we have them yet? What technical and ethical hurdles do we still need to overcome to finally make robots our designated drivers?"
     publishedDateTime: 2023-11-22T14:00:00Z
@@ -150,6 +139,6 @@ related:
       domain: abc.net.au
     quality: 19
 
-secured: "neLLWGRfDnQlRRrBQ5NRTKHizbxQazumzh8XKiELH2NZGO5LYA23BBHUd5ps4r1BimbPq4kfgdn+b1dawTPyPhYXC2aUd9D2Bo2Nne0GRxZ8EpjsUW5o+CwzYmVfBIVS2j+gtdz85SFBXPsl7DN+FRZCKwGPZUYCg2Hb/+NAHValY+eB0n3YYut4gBGmAnb29xozRIzh9LI5+QdGG8Lgkqd/IMyJzhv3oShGlL6eIF07VH7dhOTl+8Yqy60PbMV21ilzZLLK9dEQNM3gePmxpxs4jcaj79zkqbWVwRNblBTUzjjBZhMHAfLhvmYFoiaarpnqDTO+zjh6QaV5rMSyTLjH3L6ArYEDDldjQ9QfXDQ=;zNKpp0JV3AM/KWQ0muF04A=="
+secured: "nKzB1QD9IGwkj5W1+UDF7Fg8iWwfGZY3iQdA84kmwjJBJR6+XFH06NWWUUj0vk322mN3za79FUSnDhvE7UDhg89jOaeBgGL8nljwpxi17GYQYalj96q+DdM/G0Uk4n/iO66rdtbsI+n/2e0P6RQEtf5kbHSbLYASIGlwm1eiqnjKhwQoYo7+vRUuwfvTm952wJOZVqqPX4gzklgU44bIqtmbpFnOaOzpxvloMQQN6TOI6dFlpb23EtA7moButDvfT8/t1WZi+GBShT2tHlCMU+mcwXk9rkLMJ2HG1LuEiC+UMKNb2CoZGVn7pat0hvr8b6Ng/GmQcRVlJpWL5NnBfxHxn9WhtuYoV5D3XmwRe87h6SwCFOXt/PoPpPPd1FcK6yOUOAng5wARgvjePUtaC7upy5UAVQUEIEhZFzvFe7cYx5eJNAvNkSvvNlNp91LQftkmEMfMIzaxpuOClu/JE0v1XgUsS8CbvYUPWZFah6QjiMDI6FzyJWtnuj63MNYgc2898ZLRJ5XJt9AwQRvVpA==;NCDKbzVCuA3QB9Eaol1bZA=="
 ---
 

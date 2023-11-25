@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 91
-heat: 361
+heat: 351
 published: true
 
 provider:
@@ -181,20 +181,6 @@ related:
       - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1678183910.jpg?utm_source=fb"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Yellow.ai Scales Generative AI–powered Chatbot and Voicebot Solutions Globally on AWS"
-    excerpt: "Amazon Web Services (AWS) announced that Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions. These dynamic AI agents enhance the customer experience with goal-driven conversations with customers while comprehending their needs and providing highly personalized responses."
-    publishedDateTime: 2023-11-20T06:11:00Z
-    webUrl: "https://technuter.com/channel-news/yellow-ai-scales-generative-ai-powered-chatbot-and-voicebot-solutions-globally-on-aws.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 47
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg"
-        width: 277
-        height: 239
         isCached: true
   - title: "Baidu's AI Chatbot Ernie 4 Is Off To A Good Start, Says Bullish Analyst"
     excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."

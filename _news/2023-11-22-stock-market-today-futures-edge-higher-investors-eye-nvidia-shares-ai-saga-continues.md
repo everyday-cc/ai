@@ -160,6 +160,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nvidia Delays AI Chip Launch in China Amid Export Rule Compliance"
+    excerpt: "Nvidia has informed its Chinese customers of a delay in the launch of its anticipated artificial intelligence (AI) chip, the H20."
+    publishedDateTime: 2023-11-25T05:59:00Z
+    webUrl: "https://techreport.com/news/nvidia-delays-ai-chip-launch-in-china-amid-export-rule-compliance/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/11/NVIDIA-RTX-4000-Series-Mobility-GPUs-Feature-Image.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Nvidia dominates AI market, where are the limits to its growth?"
     excerpt: "Nvidia again presented quarterly results last Tuesday that were above experts' expectations. Still, investors are wondering whether the company's"
     publishedDateTime: 2023-11-23T10:43:00Z

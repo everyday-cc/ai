@@ -1,23 +1,26 @@
 ---
 category: news
-title: "The mind’s eye of a neural network system"
-excerpt: "In the background of image recognition software that can ID our friends on social media and wildflowers in our yard are neural networks, a type of artificial intelligence inspired by how own our brains process data."
-publishedDateTime: 2023-11-16T18:49:00Z
-originalUrl: "https://www.purdue.edu/newsroom/releases/2023/Q4/the-minds-eye-of-a-neural-network-system.html"
-webUrl: "https://www.purdue.edu/newsroom/releases/2023/Q4/the-minds-eye-of-a-neural-network-system.html"
+title: "The mind's eye of a neural network system"
+excerpt: "(Nanowerk News) In the background of image recognition software that can ID our friends on social media and wildflowers in our yard are neural networks, a type of artificial intelligence inspired by how own our brains process data. While neural networks ..."
+publishedDateTime: 2023-11-17T00:00:00Z
+originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=64066.php"
+webUrl: "https://www.nanowerk.com/news2/robotics/newsid=64066.php"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: Purdue University
-  domain: purdue.edu
+  name: Nanowerk
+  domain: nanowerk.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "hXuFASkXEsU24raPBRBXBDsCZUBngrQgrnXiv+zc/Pn3ySx0mG7LQ9pnG7JGvYmJtpOtAlBL1iytSy/7A/AtNUYIWrQCpoJw8Lk1nOP/ubt1R7w2LDPhivr1599vMaqOhLiu+Bf8NaFVPLKsYSRPqxHE2Oh2Ym+RMgFLCk0y5HzoMbT1QEXx8Zwfsb39GJyB4NBhlOM1WLpmrIatsEEjlEUA7980sUx2PKUqdtKbXRBG54EBhD+EJarnMDTY08b9VffM2bgF/MvgRoSqvtO2J4SBvqX3ILnW1OLJ1ljIpM2sXMWpiuf8LWuFYiPYJoCVTXgsjxTm2Jd6kbAAOokzlWg9tAB84T0Uc/u6t/rnirCF9RYR8raeeibMbrNLnZYfJWcAbwI/hCiTaRw31GvbMISTL/rRQ+reuod0VZgQ85/SbklSwTqbLoIGdwXEtchzWPfXWPGLDtGQxxhSN31jpVOTldK9+cVLvM2lkD5aNMPnDgqCuvhKT1SJusTCAQ0ECJ8+iR0B441W1Uw+XT7ODw==;T74aSdRGYpciSwM3CAeIMg=="
+images:
+  - url: "https://www.nanowerk.com/news2/robotics/id64066_1.jpg"
+    width: 800
+    height: 450
+    isCached: true
+
+secured: "atOV+FzSO9nGO0ZKU4jgtnrZ5Ddbj3Z3esovYVQERXqh+V2RuzGI2RLQXbzokaqANd+Fkrr+aJhFH7wL7vhnJbcjXpdZodkAcuyCrVB+RIQELaVOjMGQ0QHFQs08Arsye+pZaKIZUaewD8NaMNqFYZ+puye4rPSKlF2CZBh6S56TIgv0GXtfOHRtaaJX/elkgJxj4ytxawDS/k2npB8Zpn2PKc/izNQIWN+OIyAXRg/y9su0eSJTI9FNWOQy9gmYL/dztlH8XVzBnWSDG8MBeV8bg5mAsbPpN3Vk5rsk+vaPY+OE2PMRMQ4pguv682enFCy6t2kLWCAOFCzaf/Ks5P22zcv+go1D1Mq0Ual9jm4=;c2kByPMoi8pUQKNwOIX3Kg=="
 ---
 

@@ -129,17 +129,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Vogt resigns as CEO of Cruise over questions of safety of self-driving cars"
-    excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars."
-    publishedDateTime: 2023-11-20T06:06:00Z
-    webUrl: "https://www.business-standard.com/world-news/vogt-resigns-as-ceo-of-cruise-over-questions-of-safety-of-self-driving-cars-123112000176_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/world-news/vogt-resigns-as-ceo-of-cruise-over-questions-of-safety-of-self-driving-cars-123112000176_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/vogt-resigns-as-ceo-of-cruise-over-questions-of-safety-of-self-driving-cars-123112000176_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 22
   - title: "Isn't it about time we had driverless cars?"
     excerpt: "Driverless cars feel like they've been \"two or three years away\"… for the last 10 years. So why don't we have them yet? What technical and ethical hurdles do we still need to overcome to finally make robots our designated drivers?"
     publishedDateTime: 2023-11-22T14:00:00Z

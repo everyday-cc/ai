@@ -33,22 +33,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "5 Generative AI Predictions And A Wishlist From AWS re:Invent 2023"
-    excerpt: "AWS re:Invent just around the corner ... In his capacity as Amazon's lead scientist for artificial general intelligence (AGI), Prasad brought in scientists from the Amazon Science team and those working on Alexa AI to focus on model training, providing ..."
-    publishedDateTime: 2023-11-20T05:33:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/11/20/5-generative-ai-predictions-and-a-wishlist-from-aws-reinvent-2023/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655aed36ae62b3b90c8db7ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1000
-        height: 688
-        isCached: true
   - title: "IBM expands relationship with AWS to bring generative AI solutions and dedicated expertise to clients"
     excerpt: "Providing clients with dedicated AWS expertise and plans to train and skill 10,000 consultants United Arab Emirates -- IBM (NYSE: IBM ( announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from generative artificial intelligence (AI)."
     publishedDateTime: 2023-11-20T08:08:00Z

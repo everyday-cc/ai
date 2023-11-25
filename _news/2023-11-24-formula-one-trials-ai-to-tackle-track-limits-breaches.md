@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/sports/motor-sports/formula-one-trials-ai-
 webUrl: "https://www.reuters.com/sports/motor-sports/formula-one-trials-ai-tackle-track-limits-breaches-2023-11-23/"
 type: article
 quality: 67
-heat: 79
+heat: 77
 published: true
 
 provider:

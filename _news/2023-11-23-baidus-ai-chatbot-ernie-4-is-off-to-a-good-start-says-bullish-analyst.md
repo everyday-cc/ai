@@ -188,20 +188,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Yellow.ai Scales Generative AI–powered Chatbot and Voicebot Solutions Globally on AWS"
-    excerpt: "Amazon Web Services (AWS) announced that Yellow.ai has chosen AWS as its preferred cloud provider to power its generative AI–powered voicebot and chatbot solutions. These dynamic AI agents enhance the customer experience with goal-driven conversations with customers while comprehending their needs and providing highly personalized responses."
-    publishedDateTime: 2023-11-20T06:11:00Z
-    webUrl: "https://technuter.com/channel-news/yellow-ai-scales-generative-ai-powered-chatbot-and-voicebot-solutions-globally-on-aws.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 47
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg"
-        width: 277
-        height: 239
-        isCached: true
   - title: "ChatGPT turns 1: A generative AI status report"
     excerpt: "Nov. 30 will mark one year since ChatGPT’s public debut, and some experts are surprised we're not using AI tools even more."
     publishedDateTime: 2023-11-21T22:39:00Z

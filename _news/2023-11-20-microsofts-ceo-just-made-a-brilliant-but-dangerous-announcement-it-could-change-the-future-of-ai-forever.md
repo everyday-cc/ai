@@ -19,21 +19,19 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip."
-    excerpt: "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip."
-    publishedDateTime: 2023-11-20T06:18:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/"
+  - title: "Watch CNBC's Special Report: Satya Nadella and the Future of AI"
+    excerpt: "CNBC's Jon Fortt hosts a CNBC special report covering the latest out of the AI space including OpenAI's leadership turmoil, CNBC's interview with Microsoft CEO Satya Nadella, discussions with current players in the AI space and more."
+    publishedDateTime: 2023-11-21T00:46:00Z
+    webUrl: "https://www.cnbc.com/video/2023/11/20/watch-cnbcs-special-report-satya-nadella-and-the-future-of-ai.html"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 78
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/microsoft-maia-chip-edited.jpg"
-        width: 1200
-        height: 675
+      - url: "https://image.cnbcfm.com/api/v1/image/107336950-1700533755Special-FULL-112023.jpg?v=1700533754&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Ty2aJg9hgtfYOuKgWgE+RKRkAU27qGxPumNAUbszvtlwLqwY+49M1N6civiuea5s4bjIPOGApTLDykswuaz3HhC25aIryBD1s0jAHQ6RqYfIzpf+bNah9tR84sP6Uo9bKFtZ6OLUI8t8KpyoxGUOsA7ZJUSa0+/mZLY4szesQDDU+wTLdKOWNpD1D38xaPH4IEA1uOaDpPLXT6gJPmZ3HC6hFdj7RjuvMPmSAcB1Vo+oWsNkQkgla6xuYJfhLM0MtAYea1lr35vfc4A7kQoLrVux+02Ae5+Je/qTudeGt6cV/Z3QZ5s89GEn5HfbG/Lm8yNvwM5dGs2M53Ch8JT/ZITfPY9ir6jYmVwBwPEkWB/OSzif+JmqYXH5OBESV283jRTvostYdjyDILT4Woq972Hr59/K6YXPqm7oNz+btzyy9FMuCsVHTbrU6iz1Q15WFUIx2C1K73igGTIs9569Yi3eIzdeMYl2BeoNU9VjQoOEQcx5fY4dDrGkizOFGFRqO2qA/lI8nQkAi6b2rXtMFA==;BLcGJ6gXyar23BoIl5PLdQ=="
