@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Absence of dedicated legal framework a challenge for AI regulations"
-    excerpt: "In recent years, India has seen a surge in Artificial Intelligence (AI) adoption, transforming its technological landscape. As a global IT hub, India leverages AI for innovation and economic growth. In business and manufacturing,"
-    publishedDateTime: 2023-11-25T10:56:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1143310"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 39
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/whatsapp_channel_icon.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Artificial Intelligence in the 90s: A Decade of Innovation and Challenges"
     excerpt: "Introduction: The 1990s marked a pivotal era for the development of Artificial Intelligence (AI), witnessing both unprecedented innovation and formidable challenges. As technology advanced, researchers and enthusiasts alike grappled with the possibilities and limitations of AI."
     publishedDateTime: 2023-11-24T11:53:00Z
@@ -53,6 +39,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Absence of dedicated legal framework a challenge for AI regulations"
+    excerpt: "In recent years, India has seen a surge in Artificial Intelligence (AI) adoption, transforming its technological landscape. As a global IT hub, India leverages AI for innovation and economic growth. In business and manufacturing,"
+    publishedDateTime: 2023-11-25T12:04:00Z
+    webUrl: "https://www.canindia.com/absence-of-dedicated-legal-framework-a-challenge-for-ai-regulations-2/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 19
 
 secured: "5GJy+B2CfU1865k6DMakxfSLop5Xu2MtLyrl08V3DVnWnCh3x3n7pMgCIqObyj4CKRi6RUD/WYHJXoFIKSS8XcS1nDVXkacMD9vXb1VF23xozOxSykLj+pXeUigXZug5V4MDccfGsH3JwVPx8UHq+BkPAX/gIgnXXJEDzYf0U2qYxtrSwZBlcGWbsAn6emUHvhkHHT4ZS5EQ3CjfLEB0xLbfNCrUxKLh4D7cbkk7fcT6VQ8/671pvTMGHiQVTi8fGCAjoKdel9xGKqgIyPtPWePQyJ17892LL9+ZyKrHvTNtOamID+YPT99QUJyi6iF6MfzhaSRFvkh5FgBNDvNSPACCmIjIbvM2wTApxCP6f6Lf8g52uhTe2pjgv+R5HzgWsa4XKCzEFkX6v8dzrRFlVXLVqh7Q7YSqM/TJtjYdhXbjy/DeHVt8l3KypgVRsH0jL3dbRhtFRZwJsNdu3NB4J7m/2FvEN3VnMSl8qDQv2gDEmpAVWLFYeqGaKFf5RPfoyeXhgCh5tAFw3Ke53i2j0Q==;ya0f5SuxeEo8m3wKXH6GWQ=="
 ---

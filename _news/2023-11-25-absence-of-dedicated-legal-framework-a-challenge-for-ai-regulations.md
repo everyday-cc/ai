@@ -2,27 +2,21 @@
 category: news
 title: "Absence of dedicated legal framework a challenge for AI regulations"
 excerpt: "In recent years, India has seen a surge in Artificial Intelligence (AI) adoption, transforming its technological landscape. As a global IT hub, India leverages AI for innovation and economic growth. In business and manufacturing,"
-publishedDateTime: 2023-11-25T10:56:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1143310"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1143310"
+publishedDateTime: 2023-11-25T12:04:00Z
+originalUrl: "https://www.canindia.com/absence-of-dedicated-legal-framework-a-challenge-for-ai-regulations-2/"
+webUrl: "https://www.canindia.com/absence-of-dedicated-legal-framework-a-challenge-for-ai-regulations-2/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Canindia.com
+  domain: canindia.com
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/whatsapp_channel_icon.png"
-    width: 512
-    height: 512
-    isCached: true
 
 related:
   - title: "Artificial Intelligence in the 90s: A Decade of Innovation and Challenges"
@@ -54,6 +48,6 @@ related:
         height: 682
         isCached: true
 
-secured: "wP16vpxIu4t6Zix5AR5sOuOEzcqF3hojHS25h8qpYdmxGBTC9ByPiH3errilLqbrN9OSKIE/agJQlx+wV7H83C8YDponF/rBcbkJLqxa4vcd5srbE9VBycruguRdypTUYuwJ4FKjbTssdF55mW3o3/lLjM5KZmrxS7LMJTl55lVu9QNtmJ05n8/H6YtsVyhpjuRWC0OJKJ9OmYSje5c31jCseT25XjjD5giuW7bi9Im8LkX1FSWH94/WKiy6DmVA7qd4CT/eU1dl1q/mw//CY0EPIqC790mZoWWedKpigM1kCXNC6yUjVqV7EvPn2CxNtPsiB2eNIcLh87xW80KvVXhKuN32YVRgm0QjDHI9d4g=;sMMeq3rYX0KMZigp8ndQNw=="
+secured: "z65DL0WFiHU4UvC031kkkr0pS0wTDrKwTdUsQsFIy29ZEv4eiiXMH7wEYgOISf2qiCMlNafuXcftEP149GPehuCWpoAOJD/FMsG0pz+gEeYi9OaIuEt9mnF9iqY1tOQRq60otW0LhL9fUTgA3oa4V4vrINTtDI2zDF9lo5VwGrP2tONWQpdEky3ZIfyGXHAAeuybVw56fem2rh24hvz3LkFAbdHMeKHZGdbGTVGpXOBZ+ACY+ZhfmNjSPLgSdiQNuKIxfMQq3hb0wueqE1QaOGHOH0y+CA+xU0OYpjtxBMqgBDCp3eoj4FHU8GmqsqB4VpWSP+/7yMpxQZ5889x4FXbdwZIqc8QvHZZIIvR5IgI=;wROa3eApRCCAs1YCdaZI0w=="
 ---
 

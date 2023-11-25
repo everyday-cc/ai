@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/11/22/how-meta-could-benefit-from-the-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/22/how-meta-could-benefit-from-the-openai-shakeup.html"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -93,15 +93,6 @@ related:
       name: The Real Deal
       domain: therealdeal.com
     quality: 17
-  - title: "xAI org chart: All the top power players at Elon Musk’s new OpenAI competitor"
-    excerpt: "CFO Plays many roles for Musk including managing director of Musk’s family office. Member of xAI technical staff. Babuschkin was a member of the technical staff at OpenAI for nearly two years and also worked at DeepMind. LinkedIn profile says he’s an xAI cofounder. Used to work at Google and DeepMind."
-    publishedDateTime: 2023-11-20T12:00:00Z
-    webUrl: "https://www.aol.com/finance/xai-org-chart-top-power-100000349.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 16
 
 secured: "NM8WYPve7TBLNN7OKer2jFcWXv4K94oQrFwR+VNmeC9ifJ25mBh3Bn1Ou1ApwnVj/yW7Oni88QMtePBptvWyR8NXhkFAtc0Xz5gIKQs16S7sPZK30LX3tLumywhXxyRatIByU/ovgl7CDH4rkdNCCPioqBu/b1vYntYr1dnoCopAwolwd6kWrqNomAg8OHIFvod5HMz1AwiZeRRplxYiWoV9VY0lRLBco6BTFeYiMTYvFSf92kbrZh0I8aAwQlfwhOfooa+k9EOGwurx6T++kUfV0Ttnn6SLzZdw0GqxYaCi+ijYb5gLloRKSSpPTMn/w+cWaWYezx84s/aVXN+N/Yr3p/UyLuDVq7mDLTWjilWNv+FRxoxNvFQXuEcRvwranz/bC/crPBoeVmw35ymWndLyyhPa2f5smH/cQWATH7uiwsx/yaGTXi8IHj0aynlbWcHL6xdY07JhesRN4Z0U2Xke8baht03L2B1n7nR0oN7HGjgWSm/bql6PpXTcCG2fQepIe+V2N1iDZStqtn4TsA==;p5ZLiDbyiZq1Z2jAu/5CXA=="
 ---

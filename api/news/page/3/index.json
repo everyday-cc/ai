@@ -2,40 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-11-22-physician-staffing-company-winnow-ai-acquired-by-national-aya-healthcare.md",
-      "title": "Physician staffing company Winnow AI acquired by national Aya Healthcare",
-      "excerpt": "San Diego-based Aya Healthcare has acquired Winnow AI, which was built out of Green-Hills-based SwitchPoint Ventures, according to a press release.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/nashville/news/2023/11/22/artificial-intelligence-ai-healthcare-winnow-aya.html",
-      "originalUrl": "https://www.bizjournals.com/nashville/news/2023/11/22/artificial-intelligence-ai-healthcare-winnow-aya.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/nashville/news/2023/11/22/artificial-intelligence-ai-healthcare-winnow-aya.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/11/22/artificial-intelligence-ai-healthcare-winnow-aya.amp.html",
-      "publishedDateTime": "2023-11-22T12:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-22-osium-ai-uses-artificial-intelligence-to-speed-up-materials-innovation.md",
       "title": "Osium AI uses artificial intelligence to speed up materials innovation",
       "excerpt": "While everybody is trying to figure out how artificial intelligence can be leveraged across various industries, French startup Osium AI has found an interesting use cases for AI — research and development in materials science. Founded by Sarah Najmark ...",
@@ -741,7 +707,7 @@
       "originalUrl": "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1123,7 +1089,7 @@
       "originalUrl": "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 351,
+      "heat": 341,
       "tags": null,
       "images": [
         {
@@ -1218,6 +1184,57 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-ai-based-entrepreneurial-success-5-ways-to-id-genius-from-garbage.md",
+      "title": "AI-Based Entrepreneurial Success: 5 Ways To ID Genius From Garbage",
+      "excerpt": "AI is all the rage today. The lure of accelerated idea generation is enticing. Yet, the key is to distinguish between gems and garbage, and in execution skills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dileeprao/2023/11/21/unlocking-ai-brilliance-5-key-questions-to-distinguish-genius-from-garbage-in-entrepreneurship/",
+      "originalUrl": "https://www.forbes.com/sites/dileeprao/2023/11/21/unlocking-ai-brilliance-5-key-questions-to-distinguish-genius-from-garbage-in-entrepreneurship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655cb3a1da07219427973c11/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dileeprao/2023/11/21/unlocking-ai-brilliance-5-key-questions-to-distinguish-genius-from-garbage-in-entrepreneurship/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dileeprao/2023/11/21/unlocking-ai-brilliance-5-key-questions-to-distinguish-genius-from-garbage-in-entrepreneurship/amp/",
+      "publishedDateTime": "2023-11-21T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

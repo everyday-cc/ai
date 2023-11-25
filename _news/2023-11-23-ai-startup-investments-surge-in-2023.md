@@ -7,7 +7,7 @@ originalUrl: "https://www.techopedia.com/ai-startup-investments-surge-in-2023"
 webUrl: "https://www.techopedia.com/ai-startup-investments-surge-in-2023"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "This Startup Is Using AI to Create, Not Cut, Jobs in E-Commerce"
-    excerpt: "The company's commitment to blending sophisticated AI with genuine human interaction offers an unrivaled online shopping eperience. Investors who share Flashost's vision for a more connected and humane e-commerce landscape are encouraged to book a meeting with the team to learn more about the investment opportunities."
-    publishedDateTime: 2023-11-20T11:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/20/9920979.htm"
+  - title: "Prices of AI Crypto Tokens Surge as Elon Musk Reveals Investment"
+    excerpt: "Rising interest in artificial intelligence, buoyed by shareholding from Musk's X Corp and drama at OpenAI, impacted the crypto market."
+    publishedDateTime: 2023-11-22T14:00:00Z
+    webUrl: "https://www.thestreet.com/crypto/markets/prices-of-ai-crypto-tokens-surge-as-elon-musk-reveals-investment"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/2279598/Flashost_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "mgXc6+f4Hu9kyrPNo+E/lSCYQRfUYZya6a4jU/++d5SsE032I3xcaCO4VdcpxdaEy8IWa1E+427VigetAbRKQgfTtnwQPg43IIpNRBd/s34sYShPTPH9BfwfPfIYIhnzueAuINoA8Hbbe83ZrcWW18WNDMrIbNoY6jQOw+TYPsjKn4EmDYdOxu8pNCCIpk3FHFLkMlR8O4C0HhEMa7wUygC0ybQxUUXsD3s3kzjqGUoQebu4Csg39jPQR9d09Xn6lbT2ohPOuircrCMU60OgYCnOYM3TQSNUXmLH6djgAfSMLLOFKrkUYeXt4mspeU8ZliswfXOAGtOYrYKMJCjWJphkSymG/TVgYMUObqB+MXONIp2qRM3tJkAM0gg9UAMnIDIydpRd0PquywV4Abjed9zDrrOAQrDg8CuKKRQDCHkeJ8u7q5tMxxLwoHFofrck2bqq1dsXcK1f7uXC2uAv/u0Xi7zCBI8Ny8At8flyF7fc8wOIgmgXVrZC/yqBq3j/ligDirpqvyhbf3gKTkgEjQ==;Kr7HrQ7rq9VXpgRWZAiRCQ=="
 ---

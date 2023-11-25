@@ -333,36 +333,36 @@
       ]
     },
     {
-      "path": "_news/2023-11-21-ibm-unveils-watsonxgovernance-to-build-trust-in-generative-ai.md",
-      "title": "IBM Unveils watsonx.governance to Build Trust in Generative AI",
-      "excerpt": "IBM announced November 14th that watsonx.governance will be generally available in early December to help businesses shine a light on AI models and eliminate the mystery around the data going in, and the answers coming out.",
+      "path": "_news/2023-11-20-ibm-named-a-leader-in-2023-gartner-magic-quadrant-for-access-management.md",
+      "title": "IBM Named a Leader in 2023 Gartner® Magic Quadrant™ for Access Management",
+      "excerpt": "IBM Security Verify is an ideal partner for companies looking to simplify the foundation of their identity management strategy.\nThe post IBM Named a Leader in 2023 Gartner® Magic Quadrant™ for Access Management appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.hstoday.us/industry/ibm-unveils-watsonx-governance-to-build-trust-in-generative-ai/",
-      "originalUrl": "https://www.hstoday.us/industry/ibm-unveils-watsonx-governance-to-build-trust-in-generative-ai/",
+      "webUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-2023-gartner-magic-quadrant-for-access-management/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-2023-gartner-magic-quadrant-for-access-management/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 81,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.hstoday.us/wp-content/uploads/2023/11/gears-7147823_1280.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T17:30:00Z",
+      "publishedDateTime": "2023-11-20T16:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Homeland Security Today",
-        "domain": "hstoday.us",
-        "images": null,
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -371,9 +371,7 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI",
-        "AI Ethics"
+        "IBM AI"
       ]
     },
     {

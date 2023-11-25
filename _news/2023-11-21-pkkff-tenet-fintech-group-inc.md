@@ -163,15 +163,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "MAS launches latest range of fintech initiatives"
-    excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."
-    publishedDateTime: 2023-11-20T12:45:00Z
-    webUrl: "https://www.euromoney.com/article/2ch7qdhmxyq9fpfz71dz4/fintech/mas-launches-latest-range-of-fintech-initiatives"
-    type: article
-    provider:
-      name: Euromoney
-      domain: euromoney.com
-    quality: 4
 
 secured: "4woWWXwTAri13iN3aEtNgeresUc2TBxp9S2a2rKti1sLMDEcHF6J7sXruI/YQPPxEawG69RZicCvUqG10oKPDs5xzZSNId0lFCX+35hcx2RVmY5r9U3EOa0qIh0m4DzyALVjTgpk27HNbMffPJTTNRZ+Ay9rg5NcKYlfZ+9KGtywIRmRSOCvt2D+WjQv+pJWoM1RWXes59WGaPk4tpQfAiTMY4F4DkaW4o+LnUOmcZl+c/3gb8wz4bJUhjl5uas26GR4cmX/I4NCtTA0A/buy9CZ0MKwT0ydh/QbRnTiBFNPwVZ9EaBhtRBjVTFSef0JPk+JOcpF/7SOrSv6QrY0I0y6gKS6bEH/RZJvWGOlfFM=;qS/LNq1F9JqpTY+O3leZeQ=="
 ---

@@ -82,22 +82,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The biggest AI announcements from Microsoft Ignite 2023"
-    excerpt: "Microsoft announced a slew of AI updates at the Microsoft Ignite event a few days ago. Here is a look at the most important announcements that will shape Microsoft's future for the years to come."
-    publishedDateTime: 2023-11-20T12:05:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/the-biggest-ai-announcements-from-microsoft-ignite-2023-11775021.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/the-biggest-ai-announcements-from-microsoft-ignite-2023-11775021.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/the-biggest-ai-announcements-from-microsoft-ignite-2023-11775021.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Microsoft-Copilot.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft goes all-in on AI at Ignite"
     excerpt: "Ignite conference took place last week, and AI was the star of this year's event. AI is the one technology Microsoft seems most excited"
     publishedDateTime: 2023-11-21T08:36:00Z
@@ -129,22 +113,6 @@ related:
       - url: "https://cdn.benzinga.com/files/nicholas-cappello-wb63zqj5gne-unsplash_10_9.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Microsoft India exec talks about startup support, says AI will core to India's digital empowerment"
-    excerpt: "India's startup landscape surged from 5,000 in 2016 to over 99,000 now. Sangeeta Bavi of Microsoft India, in a conversation with CNBCTV18, attributed this growth to technology's pivotal role in fostering innovation."
-    publishedDateTime: 2023-11-20T12:15:00Z
-    webUrl: "https://www.cnbctv18.com/technology/microsoft-india-exec-talks-about-startup-support-says-ai-will-core-to-indias-digital-empowerment-18367071.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/microsoft-india-exec-talks-about-startup-support-says-ai-will-core-to-indias-digital-empowerment-18367071.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/microsoft-india-exec-talks-about-startup-support-says-ai-will-core-to-indias-digital-empowerment-18367071.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 60
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/02/Microsoft-Source-Reuters.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Explained | How NVIDIA's AI gamble has paid off"
     excerpt: "NVIDIA reported a 3x revenue growth, reaching $18.12 billion, with its data centre business soaring 279% to $14.5 billion, constituting 80% of total revenue. The shift from GPU to AI solutions propelled the company's transformation."
@@ -274,9 +242,9 @@ related:
         height: 510
         isCached: true
   - title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-    excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
-    publishedDateTime: 2023-11-22T14:42:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
+    excerpt: "Flywheel announces the launch of its SaaS data management solution on Microsoft Azure, integrated with NVIDIA MONAI."
+    publishedDateTime: 2023-11-22T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
     type: article
     provider:
       name: Business Wire

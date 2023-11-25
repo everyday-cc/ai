@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 91
-heat: 351
+heat: 341
 published: true
 
 provider:
@@ -318,15 +318,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "What Elon Musk is really building inside his ChatGPT competitor xAI"
-    excerpt: "Musk himself has given mixed signals regarding the AGI inflection point. At the xAI launch, he said he agreed with futurist Ray Kurzweil that AGI would likely emerge around 2029, “give or take a year.” But in an October Tesla earnings call, he described his cars’ AI system as “basically baby AGI—it has to understand reality in order to drive.”"
-    publishedDateTime: 2023-11-20T12:00:00Z
-    webUrl: "https://www.aol.com/elon-musk-really-building-inside-100000200.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
   - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
     excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"
     publishedDateTime: 2023-11-24T20:22:00Z

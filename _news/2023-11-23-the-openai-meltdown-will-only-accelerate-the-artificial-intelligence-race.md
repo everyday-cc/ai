@@ -135,16 +135,16 @@ related:
         height: 630
         isCached: true
   - title: "The OpenAI meltdown will only accelerate the artificial intelligence race"
-    excerpt: "Optimists and ‘doomers’ are fighting over the direction of AI research – and those who want speed may have won this round"
-    publishedDateTime: 2023-11-22T09:11:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration?ref=upstract.com"
+    excerpt: "Instead, OpenAI was the center of a fierce philosophical debate about what it means to develop artificial general intelligence for the benefit of humanity. To understand the current debate and its ..."
+    publishedDateTime: 2023-11-22T10:12:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://i.guim.co.uk/img/media/d12a7c1f184baf181c112396b8fb18251adfef30/0_527_4772_2865/master/4772.jpg?width=620&quality=85&auto=format&fit=max&s=2b17ea177f30c94ed0803376811924be"
         width: 620
@@ -674,6 +674,6 @@ related:
       domain: ft.com
     quality: 0
 
-secured: "M6MyqUHUdv+sQ4WBvk8wobLmsDz4ywLkmxPs3/z5M6JE3vx/All1AvFmsrwNNSLaYGmW4nkbT+Rx0WPUz7Trny6HaqY9wIYhvFcUa+tjCtbG3a0NaPaABKi27adTOx6u75IYWsdRHSoTt9FU9rSuf4kHyPwZgwoQX/9vBTPnWAbQGAqQqdLDu8YjYT/VbE3S373shnfZ+ayeFDrAW3Qy2U2MrsFFMJiFSpQye+3GnEIrh0zU+ahCIOuaHfOTK+K2AtUMwFukIbGi7+lv2efdA+PW4LbRp1sfoERUYPGYJ6XQ3hUnzUNXxQglKZKqMe95TItmPQzYv8pncmmXUQHd+5WtjjHXtMczKXZJiCo4ts0=;xclUxyQZbkkcH5ZObRQtHg=="
+secured: "XiKZ7xXGGfpuQsQ+DQ2W4WIgfcZL5fOJiQjpc13fmTgH/Gnr6XFf0/eDP2AmpwEZkAQqyxdJFvfbMyK48hYxjS5wucKZbq4IDiQsEUZVsyIANonMcRIHBfhQmIV1Z5hdb6nBQV2w08KkHvwH+nv+4h7JutGZfFjlUOimdh16I5c4uyOKXTORKztXRY9jBJBO/IEXWX3DSfc+KKux02Z3N5PDo3ZvLDxRmoMh3N36KEXnbR7TADXE3VqUnbEQvwlf2R/1YqRVsmvRwByqiO2a0Ng83Q+QFC8JJegpaXNtdbkHFXpeQcGI46o+2d58a739lxr/zy5EdbBrQT1rC0mXZkt7e5FuimSm2BMZQqC2axtgwFIgq+kC3LeuI/BNNgCpfhjBo2uroia+SJVTaRI2eaFhkXPjah6vUMxt2jZyfIoCkk2zo4eP1Y64D4uuuEkbv5zOnQf0KBrv5SW2ACzrlV4of5GZxCb6AfMCaxEMaMc/LoqofJnL4E/FWIOlQo21Qhu+eC+XG8fuo9VQDORRUg==;uv/l2DbOivMoqPZRu6RZCg=="
 ---
 

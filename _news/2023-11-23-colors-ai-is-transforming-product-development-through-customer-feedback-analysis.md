@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU"
+    excerpt: "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,"
+    publishedDateTime: 2023-11-25T11:06:00Z
+    webUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 74
+    images:
+      - url: "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Shift To AI: A CEO's Perspective On Future-Proofing Business"
     excerpt: "CEO and co-founder of Hexact, on a mission to empower businesses of all sizes with AI-driven sidekicks that work in the cloud."
     publishedDateTime: 2023-11-21T14:00:00Z

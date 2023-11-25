@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU"
+    excerpt: "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,"
+    publishedDateTime: 2023-11-25T11:06:00Z
+    webUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 74
+    images:
+      - url: "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Enterprise Generative AI Enters Its Citizen Development Era"
     excerpt: "More importantly, these GPTs can act on the user's behalf. OpenAI's tight integration with Zapier means thousands of connectors at your disposal, letting the AI query your CRM, update your ERP, or monitor your servers with a few clicks. How does the AI authenticate to all these services, you might ask? Great catch, but more on that later."
     publishedDateTime: 2023-11-20T18:26:00Z

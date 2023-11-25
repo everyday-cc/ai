@@ -41,15 +41,6 @@ related:
         width: 765
         height: 510
         isCached: true
-  - title: "2 Artificial Intelligence (AI) Stocks That Could Be Millionaire Makers"
-    excerpt: "It's no secret that artificial intelligence (AI) is a booming industry. As a result, many investors are searching for AI stocks that could make them millionaires. While you're unlikely to find a ..."
-    publishedDateTime: 2023-11-20T12:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-ai-stocks-that-could-be-millionaire-makers"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "Misconceptions about artificial intelligence (AI)"
     excerpt: "Artificial intelligence (AI) is a term that often conjures up images of futuristic robots and machines taking over the world. However, Karmel Allison, a"
     publishedDateTime: 2023-11-21T14:48:00Z

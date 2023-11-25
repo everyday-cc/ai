@@ -87,15 +87,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 25
-  - title: "xAI org chart: All the top power players at Elon Musk’s new OpenAI competitor"
-    excerpt: "CFO Plays many roles for Musk including managing director of Musk’s family office. Member of xAI technical staff. Babuschkin was a member of the technical staff at OpenAI for nearly two years and also worked at DeepMind. LinkedIn profile says he’s an xAI cofounder. Used to work at Google and DeepMind."
-    publishedDateTime: 2023-11-20T12:00:00Z
-    webUrl: "https://www.aol.com/finance/xai-org-chart-top-power-100000349.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 16
 
 secured: "GNKsjiDnrXStuh1CJqNikp5CyhjgAFslPaQc6MAuy4zBgGSSSbiZHN9ygeE+TvCSOuEyFETctSuSuqjUtM5buSAbS3bUMKG8AP0WmdwxIWFL2GNCKLkumTha4inrnNKrXu4ICEMptEJFS8qDfmfVlSD37LB+n9t+Yah7otMPKp1Mf+nsDwjvK/rsqSoCwXdEdbtYJVNcrXAgPhbyq02ScEiFUAHyxpT60NWE4Z73lZ5qW2nYRdapn+FFRJ82nKF7RcBgNP9+wnIYw9mKwdOGKiQxj9JnehJaUPV0laQKFKCc4EURZFF9xgN2hfuL8KBvtBzTuj66JeEVrkH9EhSKvQa618+M0n6/ExV71ruz0da+xeZYmxf7Hp3dE6tbZLs6VBxF0K2DuP1IcOzc5bu/D3LbFKcfCTnURNd12I5E6Wu7XWZkpsjbji+wcR2iP01UAwR7CwHyWdZ0mirR5su0PAN8dkcTcGBzjS3BYS9vbY11/FIGhmHPtJQAw1Cz69KrnfhmB4gLhQ+GVShwHfIXcQ==;zk6em9rh/BnyjM4JwKnAUw=="
 ---

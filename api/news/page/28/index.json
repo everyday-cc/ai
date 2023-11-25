@@ -2,41 +2,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_news/2023-10-31-ensuring-the-security-of-large-language-models.md",
-      "title": "Ensuring the Security of Large Language Models",
-      "excerpt": "Introduction In the ever-evolving landscape of artificial intelligence, Large Language Models (LLMs) have emerged as transformative tools, reshaping how we",
-      "sourceUrl": null,
-      "webUrl": "https://securityboulevard.com/2023/10/ensuring-the-security-of-large-language-models/",
-      "originalUrl": "https://securityboulevard.com/2023/10/ensuring-the-security-of-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T19:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security Boulevard",
-        "domain": "securityboulevard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-10-31-impact-of-artificial-intelligence-on-businesses.md",
       "title": "Impact of artificial intelligence on businesses",
       "excerpt": "As the use of A.I. continues to grow, does the technology stand to benefit small businesses, or larger ones? CBS News Bay Area anchor Ryan Yamamoto asks Olaf Groth, PhD, global strategist and professor at UC Berkeley's Haas School of Business about the impact on businesses,",
@@ -1171,6 +1136,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-white-house-aims-to-monitor-regulate-artificial-intelligence-with-new-executive-order.md",
+      "title": "White House aims to monitor, regulate artificial intelligence with new executive order",
+      "excerpt": "The White House rolled out a sweeping executive order Monday that aims to monitor and regulate the risks of artificial intelligence while also harnessing its potential.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7news.com/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
+      "originalUrl": "https://abc7news.com/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://abc7news.com/amp/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
+      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/white-house-artificial-intelligence-executive-order-biden-ai/13990936/",
+      "publishedDateTime": "2023-10-30T10:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

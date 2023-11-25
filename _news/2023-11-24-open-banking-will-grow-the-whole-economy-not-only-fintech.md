@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -159,15 +159,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "MAS launches latest range of fintech initiatives"
-    excerpt: "While the air at the Singapore Fintech Festival was full of grand ideas about GenAI, real innovation was taking place in the weeds of fintech development."
-    publishedDateTime: 2023-11-20T12:45:00Z
-    webUrl: "https://www.euromoney.com/article/2ch7qdhmxyq9fpfz71dz4/fintech/mas-launches-latest-range-of-fintech-initiatives"
-    type: article
-    provider:
-      name: Euromoney
-      domain: euromoney.com
-    quality: 4
   - title: "PKKFF Tenet Fintech Group Inc."
     excerpt: "Tenet Fintech Group Inc., through its subsidiaries, provides various analytics and AI-based services to small-and-medium businesses and financial institutions. It offers Business Hub, a global ..."
     publishedDateTime: 2023-11-21T15:53:00Z

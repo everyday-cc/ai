@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Marketmind: Thanksgiving Starters of AI and Oil"
-    excerpt: "In Europe, the debt markets started the week with relief after Moody's late on Friday confirmed Italy's investment grade sovereign credit rating and surprised markets by upping the outlook to stable. The risk premium between German and Italian 10-year yields tightened to 170 bps - the lowest since Sept. 21."
-    publishedDateTime: 2023-11-20T11:10:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-11-20/marketmind-thanksgiving-starters-of-ai-and-oil"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Worth $3.7 billion | MarketsandMarkets"
     excerpt: "Mayo Clinic (US) and GE HealthCare (US) collaborated on research and product development programs to better equip clinicians and help diagnose and treat medical conditions.\"The application of"
     publishedDateTime: 2023-11-22T22:25:00Z
@@ -47,6 +38,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Genomics Market to Surpass US$ 19.72 Billion by 2030 - Coherent Market Insights"
+    excerpt: "Key Trends and Analysis of the Global Artificial Intelligence (AI) in Genomics Market:"
+    publishedDateTime: 2023-11-22T20:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/22/9922628.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/902389/Coherent_Market_Insights_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "wpKqN3Rn3Gg+q71SGkuG8NBszCdIkM+2Z+Rz9TSg8ohep/7POM3ldyUkUKMQ3uws2gxqTSKrJG/g/w7FzW5vPVi3lKL7s50ZEB99ovI68WBOXF3AhPPl9AAoj2NsDq7MFn7pTthWhooI9+PBHmGHHAAgs00iEtLAqfkYpFQm717Ntad6E4X5WKewegXhoaeVgzhhYeJr5e+LdsC+Dp3N7qIhra8nrg7FlzQrq+Vg2vb8hWeka0+7ljCF7ouHReJG1/CbHdYv33b0Pb97WsmHWHP2EVXaR6P2Kz0GqDiDtyg3WEoTu6UTbl93TcgSaYSxF0HUH1e7RHJq6VRwPV9R5mQ0VpYtikTnMnP7IuEeUZ8Bm+h+bxUqaQVcdatbnL/E1OKaROBwMBJ8p7qfELuRzolsDxHoHcWXZrq/IFGb7ytCVxg9VPnCkfJlHFaiZJdfLV812dCwamThXKVXzUGG/zaloARtmq4F/Cb5BqI32tea7QzaYAf9eOBx4wD6ygB53PwxGdbRuqWD3E4pSZ+3qA==;K/fqCsOdpQ2J6ntdIGw09Q=="

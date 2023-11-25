@@ -36,15 +36,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 53
-  - title: "Digital staffing company Aya Healthcare picks up Winnow AI to bolster its physician recruitment tech"
-    excerpt: "Digital staffing company Aya Healthcare acquired Winnow AI to bolster its physician recruitment capabilities as the industry grapples with a historic provider shortage. | It marks Aya Healthcare's third M&A deal in five months as the company works to build up its artificial intelligence capabilities for staffing,"
-    publishedDateTime: 2023-11-20T11:42:00Z
-    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/digital-staffing-company-aya-healthcare-picks-winnow-ai-bolster-its"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 19
 
 secured: "KSfebTMZQfPWvcL57GLJiofF06dzr4KA7JXdK/dfD/3gBKAbRsBpYLfuTljR+BlWi4Jcp8eYxvYJHFX3DRyLi4zyVj65KcLsA6UlGqIwsLdZP4N57QLE4QGdGGDI4Py2fq88lwIpLFt45uEKmZX8SoHZl9QnhfZNF0rrid93WVNe0YZiB6suRggpzC3bysE5B1CNHs6GxSGmbtK+sS7oJRsfBOolnqjep6ywsszPmw2XVnE4P6mKjVuhSzcz/NDN4X/9lFq6VT6CI3Sb1AZ+97k8gg+mq+ewPdVKwum2i2G1rse6481U/TLw46g0Y2VC869GiyH2et+ayNYEWo0XdkFzmQqnzwF7jXyMIiNJZDDmihL0fo9O1TxgrEJREo31akaEE1DBbHq/grStuAAJtnO60+wB7VuU83drLvuTANbJhux5hvg8pFajt1BMdQvIW0VVDd4+LKX0oT/MLYaY9D6zOnroxZ+vymNp5hp2q048N27l9C0LwFsYhfWGb6BNd8toMvv1uLwprZKyCO6oVw==;cBPcZ3+ATU97Jf7r9RI/uw=="
 ---

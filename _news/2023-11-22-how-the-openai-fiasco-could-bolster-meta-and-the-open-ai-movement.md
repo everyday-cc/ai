@@ -92,15 +92,6 @@ related:
       name: The Real Deal
       domain: therealdeal.com
     quality: 17
-  - title: "xAI org chart: All the top power players at Elon Musk’s new OpenAI competitor"
-    excerpt: "CFO Plays many roles for Musk including managing director of Musk’s family office. Member of xAI technical staff. Babuschkin was a member of the technical staff at OpenAI for nearly two years and also worked at DeepMind. LinkedIn profile says he’s an xAI cofounder. Used to work at Google and DeepMind."
-    publishedDateTime: 2023-11-20T12:00:00Z
-    webUrl: "https://www.aol.com/finance/xai-org-chart-top-power-100000349.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 16
 
 secured: "wNooD53hitGFg7kef9Ufe37yRJjE9Wlqj+30tPIxYTg9Gz3rqxHFvQnWX/QCxgFBGaObUV+txsyCaeskfjfrO7qmwb7HDtRLc98o+raxMGGTjiZ01Gygm/S1NUKnEKvVNiQ7uu4MI5da6M19JZ/M0vGpE4aocuZyl4vvPCQ9ocim3smwZuYfAoAWLr3pDaAovQ41HwQyQIP30zFb1DdfUabhZZD1u5HP9vZmOuKhTniRmO8aq9ikNggADRo/ttNLW9XaRaS23CaArcK9EfsYhIBpYJ7GFCMsxiBZ88YpKZTuC7cFnrNHJiRvNBFgTJA25PFf32dUtJf3djPHuEJJLv/r3wLa+uduLwMcdVG0/eQ=;wSP/RCxlYU29GlnavBGVTA=="
 ---

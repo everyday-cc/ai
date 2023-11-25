@@ -320,15 +320,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "What Elon Musk is really building inside his ChatGPT competitor xAI"
-    excerpt: "Musk himself has given mixed signals regarding the AGI inflection point. At the xAI launch, he said he agreed with futurist Ray Kurzweil that AGI would likely emerge around 2029, “give or take a year.” But in an October Tesla earnings call, he described his cars’ AI system as “basically baby AGI—it has to understand reality in order to drive.”"
-    publishedDateTime: 2023-11-20T12:00:00Z
-    webUrl: "https://www.aol.com/elon-musk-really-building-inside-100000200.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
   - title: "ChatGPT gained 1 million users in under a week. Here’s why the AI chatbot is primed to disrupt search as we know it – Fortune"
     excerpt: "We are all used to entering search queries online and getting relevant links in response. But what if you could get an instant answer from a robot? And what"
     publishedDateTime: 2023-11-24T08:11:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/sports/fox-sports-expands-google-cloud-partn
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search.amp"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Research Can Help to Tackle AI-generated Disinformation"
-    excerpt: "Continue reading Research Can Help to Tackle AI-generated Disinformation."
-    publishedDateTime: 2023-11-20T12:00:00Z
-    webUrl: "https://www.cc.gatech.edu/news/research-can-help-tackle-ai-generated-disinformation"
-    type: article
-    provider:
-      name: cc.gatech.edu
-      domain: gatech.edu
-    quality: 39
-    images:
-      - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2021/srijan%20kumar850x478.jpeg"
-        width: 850
-        height: 478
-        isCached: true
   - title: "BP Says It's Expanding Use of Generative AI"
     excerpt: "“The service uses artificial intelligence and natural language processing to automate a variety of daily tasks such as writing emails and managing inboxes,” BP noted in the release. “By using the capabilities of copilot for Microsoft 365, BP can help ..."
     publishedDateTime: 2023-11-22T10:01:00Z
