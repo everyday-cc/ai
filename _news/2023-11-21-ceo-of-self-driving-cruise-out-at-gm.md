@@ -48,15 +48,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 11
-  - title: "Kyle Vogt resigns from GM self-driving unit Cruise"
-    excerpt: "Kyle Vogt's departure is the latest fallout from a safety crisis at the beleaguered self-driving subsidiary of General Motors."
-    publishedDateTime: 2023-11-20T03:45:00Z
-    webUrl: "https://www.autonews.com/mobility-report/kyle-vogt-resigns-gm-unit-cruise"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 4
 
 secured: "wLv51ICxtJL2xvyjUKUpVR090jFIEff/Mv8tRg1cr83Qk8XAl9x0ESV0WsTupZpwE3gOHrFWvAKqM8z1xyamX5ILDg5dpdnsvF3IZ+gglzKBwmHh3FrgEGE20McAf5g7JtbadOkbO/OGC7CiP7a4b51yFi1wkpB8KSNakvkQAqz4EoIaAUfQlFEx1cWzDpNBRRzG3VddhU2560hr8gDaRzBuy/CJy2gzPJ7i3kmiYMMwXEJiIpWGxVDpjjUYzow8Ycr2PmJVXv0ONuclOuN29Cnr3SBGyvTqhwg41Jm0afLphlZpXC2HSfj9clm5NabmJ6SlPezE4nHHx6MsBiEJ1iVq2YwZF3kjui+a+xbNjNw=;6hHg8mxXzY+mJqDMwP0XZA=="
 ---

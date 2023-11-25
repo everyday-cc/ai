@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Vogt Resigns as CEO of Cruise Following Safety Questions, Recalls of Self-Driving Vehicles"
-    excerpt: "Vogt Resigns as CEO of Cruise Following Safety Questions, Recalls of Self-Driving Vehicles Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build ..."
-    publishedDateTime: 2023-11-20T04:52:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2023-11-19/vogt-resigns-as-ceo-of-cruise-following-safety-questions-recalls-of-self-driving-vehicles"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 24
   - title: "Cruise CEO resigns amid questions over self-driving vehicles"
     excerpt: "Kyle Vogt has resigned as chief executive officer of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars."
     publishedDateTime: 2023-11-21T07:52:00Z

@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Genentech, NVIDIA Enter Into Strategic AI Research Collaboration"
-excerpt: "Tuesday announced a multi-year strategic research collaboration with NVIDIA that couples Genentech's artificial intelligence (AI) capabilities, extensive biological and molecular datasets, and research expertise with NVIDIA's world-leading accelerated computing capabilities and AI to speed up drug discovery and development."
-publishedDateTime: 2023-11-21T16:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/genentech-nvidia-enter-into-strategic-ai-research-collaboration-1032840044"
-webUrl: "https://markets.businessinsider.com/news/stocks/genentech-nvidia-enter-into-strategic-ai-research-collaboration-1032840044"
+title: "Nvidia delays launch of new AI chip in China amid US export rules"
+excerpt: "Touted as the most potent among three China-targeted chips developed by Nvidia, the H20 faces a setback in its market debut. This delay may potentially impact Nvidia's competitive stance in China agai"
+publishedDateTime: 2023-11-25T04:05:00Z
+originalUrl: "https://www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules-11700877282885.html"
+webUrl: "https://www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules-11700877282885.html"
+ampWebUrl: "https://www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules/amp-11700877282885.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules/amp-11700877282885.html"
 type: article
-quality: 49
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mint
+  domain: livemint.com
 
 topics:
-  - Facebook AI
+  - AI Hardware
   - AI
+
+images:
+  - url: "https://www.livemint.com/lm-img/img/2023/11/25/1600x900/NVIDIA-RESULTS-ETFS-0_1700881880436_1700881905113.JPG"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "Nvidia Q3 Earnings Explode On Surging Data Center AI And Gaming Demand"
@@ -116,22 +120,6 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2023/11/nvidia-1-1019x573.jpg"
         width: 1019
         height: 573
-        isCached: true
-  - title: "Nvidia delays launch of new AI chip in China amid US export rules"
-    excerpt: "Touted as the most potent among three China-targeted chips developed by Nvidia, the H20 faces a setback in its market debut. This delay may potentially impact Nvidia's competitive stance in China agai"
-    publishedDateTime: 2023-11-25T04:05:00Z
-    webUrl: "https://www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules-11700877282885.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules/amp-11700877282885.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules/amp-11700877282885.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/11/25/1600x900/NVIDIA-RESULTS-ETFS-0_1700881880436_1700881905113.JPG"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Nvidia delays launch of new China-focused AI chip"
     excerpt: "The U.S. export curbs have created an opportunity for rivals such as Huawei to win orders that may have otherwise gone to Nvidia, whose graphics processing units (GPUs) dominate the AI market."
@@ -237,6 +225,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Genentech, NVIDIA Enter Into Strategic AI Research Collaboration"
+    excerpt: "Tuesday announced a multi-year strategic research collaboration with NVIDIA that couples Genentech's artificial intelligence (AI) capabilities, extensive biological and molecular datasets, and research expertise with NVIDIA's world-leading accelerated computing capabilities and AI to speed up drug discovery and development."
+    publishedDateTime: 2023-11-21T16:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/genentech-nvidia-enter-into-strategic-ai-research-collaboration-1032840044"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Wipro To Bring Generative AI To Healthcare Insurance Companies Using NVIDIA AI Enterprise"
     excerpt: "Wipro announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI"
     publishedDateTime: 2023-11-24T10:43:00Z
@@ -371,6 +368,6 @@ related:
       domain: thestreet.com
     quality: 11
 
-secured: "1L4bdcMyI9XPZqpuQ6l8lfkPCfYKPWfatb8XWqRTX6lRR8xFle0sNCJ+pL0JkIpH02OHldUKKDKTrCBxnWnT1DUlQWoT0aAbqSqQz/C3BWXfqweCWFnHHiCAFV1OJZXasPV3ME4GOq9eOBGHxTdeeKs2cW3ugGNmSkgHbMNKb4YJ/5i+5Y2dYjXUToVIQPdm1X9l3MvlqIU9kUfvRINTNknMfrRi/aF+VSX6AZ8tk8rexKCmseLyGDr693/fji0rnV8X9Zc/QLr7wmgHBDxG7OdBnK010ifnR13glQgyGi/dg1+kGNgu8lT6qjM84SV3ZgTFQkb0ZMs8UkIUNBzACQ/K6M8GN5zGp9++bDZRpww=;jtHgMZ313NejU8XOHBLO0A=="
+secured: "etTFw1ZMYQICiOWQ1ju9k9FquWiSPwbTBzBnPBSyf2/U8+jFATAvPPM6bfCM7gTsyyw9L0fsXdgn44ikl9a7w1i5hNkEQgt5zxs5m7+lq4AiSlrXIb1LdF9cfGXEabCO1cnDpjfUefly879KHZOvCSbS9uqcqmXeegN2p5Dd0ztHAbBz3y2I00WuXRaaD+aw36V800RQuorsB1IJ3ioqGwwXRAxkpOz6/3oxgdzgA17TfVhczzP84fDadrFdtyy4FH33+EQtKmG06cokACbzG2acwQcyrxJOvkif/JO0khdCZqIybZeXfJuJhzZ7ojwbhnY25han4QnA0myQqpZerB7f0WAiKDbIHFKj5zIvC8w=;gj8GIFWljAc44JH/cYKmBg=="
 ---
 

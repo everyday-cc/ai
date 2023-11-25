@@ -121,6 +121,22 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Nvidia delays launch of new AI chip in China amid US export rules"
+    excerpt: "Touted as the most potent among three China-targeted chips developed by Nvidia, the H20 faces a setback in its market debut. This delay may potentially impact Nvidia's competitive stance in China agai"
+    publishedDateTime: 2023-11-25T04:05:00Z
+    webUrl: "https://www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules-11700877282885.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules/amp-11700877282885.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules/amp-11700877282885.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/11/25/1600x900/NVIDIA-RESULTS-ETFS-0_1700881880436_1700881905113.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Nvidia reports record Q3 results driven by surging demand for AI"
     excerpt: "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more. Nvidia reported record revenue today for its third fiscal quarter of fiscal 2024 (ending October 31,"
     publishedDateTime: 2023-11-21T22:53:00Z
@@ -352,6 +368,6 @@ related:
       domain: thestreet.com
     quality: 11
 
-secured: "9w6VQJfSn/ctHx/jhlASr2T7dS7rqTIB7LnDWRYdDfK9sIuHZNiWzF5QHsc4mPgqT3Zieel6IOkOBlEfvl6jrU+G3J4WHmsk9uSqxk2SPlvZSkdoiIJGEAPn35HRuoyT7FeOuAMyVwqYBPjo5UzWdnL5zNJcS8PmBLjUyBgULhaGcQV5U8+vIPESV7/QQHSMTW9NKSDfYOcLoprRESN9H7LOzy0Zldy0pJ7ABHdz5dF1yW7Ld+Cs04qdZ14CiIeULIDDJbgP6pKCAvhD0y/NxMSk/UHwu0EvK/gRNoEyd+1O1nPugzVJupBfrwhFRm67/n/GjGrZyarCEazvSsRjd3snziHf8OshfJMVbmIZHy8=;fqes2CNlHmKreThAb03teA=="
+secured: "5cVngrTkk/szF3uNz1f7goG8sKqXoFqaSK9tHdF+8UEKrkc2OQCCbM2sQBifz8PMW6XSLDPzMANkFAlytmPCTZEmkiMo528QTqaIU/Lg+uKThFRm6xfDVfQVAS+1nGjmFG2UcYmVxf2+tVzJYP1iOzSWK14iXCKCa+8DvXPAWKNT6yTtCZoogCNUp0FP4YGtN7/hsFNCoiu0/wSfu222v/4AliE0vmj9x0xUUDWuX7xjr0nTXbUpA5S5f7WEtPFLag6YhsGCU9O1oNv/F0OydoQh+Zw/FKOewWlrvyl+2+KJZjSIxgx78bRUYaZcbP/GIsFyNHiuk9DgbMEgYMcWOXV8qneJK77dC/UaV+FRP2jQRH77auTV7ZO5xJwG5aRyGlWBXQ94oc2Rk9TBBSe4cE3F2yjn+TirLcdSaCxeWpzptanIFxs0ZdjeuJkQTBPvA3hej51eL+pwrvhH2UKl6XQiSOJuZk6hqw/TwjuqY5owN1NZBxed9hHKsFDAahF5WU7ONJ+23LRlR0TlZtfXFw==;uhcFa16QeoMhwb23Tk0Uyw=="
 ---
 

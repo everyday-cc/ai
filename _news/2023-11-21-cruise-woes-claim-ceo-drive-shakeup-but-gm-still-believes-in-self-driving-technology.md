@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Kyle Vogt resigns from GM self-driving unit Cruise"
-    excerpt: "Kyle Vogt's departure is the latest fallout from a safety crisis at the beleaguered self-driving subsidiary of General Motors."
-    publishedDateTime: 2023-11-20T03:45:00Z
-    webUrl: "https://www.autonews.com/mobility-report/kyle-vogt-resigns-gm-unit-cruise"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 4
 
 secured: "rW8NA9+LIeWYwdwW7uJ+xY9Pea4ioHWxh5Ji5nhogqU2nR1/aR8ddGa8OWt2DhHHoJOLs3JqqJ2cNtVKF0Infma6MjgxeHWFfyecPoqp7mHscBLM/JT61NTgivdQGu/hSJ7dmBtMh4UO+9cMUm/ZTpBS8Bh3vbcsb0Sp2OOvKgTXnq/KrrLZNfWqWRKwN1VaZM+CEL1vw91/hknd4IP8NGyjGZnz3YEdE6v1mfjFZqNtep/fb/YpWVykuWuGpQpyimKz1d9/7gwgwkcS1pScIzmuSdyp4lkTRGlsajN5JlgW6gWzBaTG4AsKFwtwvS6GcuEYpvjQ4cNHfvOEbE2k1YptiEkJNXF8yh9m4JSDuLIws8Yt1eaus8xlBa57kUe2WCR76YwBYjTe8SF013LSDRlPZnD/H2alRqpUFxO2ank9Js5DoQHzsZZGIX9FJFdIu1GXkq4vFNO3Csa8pZYc56Gddx16gZ2mqpT1tM6FbH4YYfxX49b0GSOlXIkBTbT9eni6T4Z7ypB+qyaDwcwo2w==;TStVpraVCMdwpv+6yiEKbw=="
 ---

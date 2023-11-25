@@ -113,6 +113,22 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Nvidia delays launch of new AI chip in China amid US export rules"
+    excerpt: "Touted as the most potent among three China-targeted chips developed by Nvidia, the H20 faces a setback in its market debut. This delay may potentially impact Nvidia's competitive stance in China agai"
+    publishedDateTime: 2023-11-25T04:05:00Z
+    webUrl: "https://www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules-11700877282885.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules/amp-11700877282885.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules/amp-11700877282885.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/11/25/1600x900/NVIDIA-RESULTS-ETFS-0_1700881880436_1700881905113.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Nvidia delays launch of new China-focused AI chip"
     excerpt: "The U.S. export curbs have created an opportunity for rivals such as Huawei to win orders that may have otherwise gone to Nvidia, whose graphics processing units (GPUs) dominate the AI market."
     publishedDateTime: 2023-11-25T02:52:00Z

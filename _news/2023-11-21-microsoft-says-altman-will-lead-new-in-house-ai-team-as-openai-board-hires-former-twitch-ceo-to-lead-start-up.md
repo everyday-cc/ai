@@ -253,20 +253,6 @@ related:
         width: 1536
         height: 1076
         isCached: true
-  - title: "Microsoft can survive without OpenAI: Nadella"
-    excerpt: "The Microsoft boss says his company can easily carry on in AI if the multi-billion-dollar relationship with OpenAI ends as pushes to bring back the ousted Sam Altman."
-    publishedDateTime: 2023-11-20T04:59:00Z
-    webUrl: "https://www.afr.com/technology/microsoft-can-survive-without-openai-nadella-20231119-p5el2r"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 54
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_exclusive_no_age_social_wm/b6f0234aff3e189e99e041ae97204891f5f1b2cf"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Sam Altman lands new gig as CEO of Microsoft AI after shock axing from OpenAI"
     excerpt: "Writing on LinkedIn, Microsoft CEO Satya Nadela revealed both Altman and Brockman would join the Windows maker. They will create a new division focused on advanced AI research and while he didn’t say this would directly compete with OpenAI, it is likely to work on similar ideas."
     publishedDateTime: 2023-11-20T11:03:00Z
