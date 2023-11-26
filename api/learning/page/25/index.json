@@ -4,6 +4,362 @@
   "page": 25,
   "value": [
     {
+      "path": "_learning/courses/pluralsight-building-your-first-machine-learning-solution.md",
+      "title": "Building Your First Machine Learning Solution",
+      "excerpt": "Machine learning is exciting, yet, it may sound more complicated than it is actually is. This course empowers you with the necessary theory and practice to become confident about how machine learning works by building a hands-on solution.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-your-first-machine-learning-solution/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-machine-learning-solution",
+      "length": "2h 41m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mohammed Osman",
+            "type": "profile",
+            "name": "Mohammed Osman"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-machine-learning-solution-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Your First Machine Learning Solution",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-your-first-pytorch-solution.md",
+      "title": "Building Your First PyTorch Solution",
+      "excerpt": "This course covers the important practical aspects of installing PyTorch from scratch on a variety of different platforms and getting going with classification and regression models. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-your-first-pytorch-solution/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-your-first-pytorch-solution",
+      "length": "2h 24m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-your-first-pytorch-solution-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Your First PyTorch Solution",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-your-first-scikit-learn-solution.md",
+      "title": "Building Your First scikit-learn Solution",
+      "excerpt": "This course covers both the why and how of using scikit-learn. You'll delve into scikit-learn’s niche in the ever-growing taxonomy of machine learning libraries, and important aspects of working with scikit-learn estimators and pipelines.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-your-first-scikit-learn-solution/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-first-scikit-learn-solution",
+      "length": "2h 7m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-first-scikit-learn-solution-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Your First scikit-learn Solution",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-combining-and-shaping-data.md",
+      "title": "Combining and Shaping Data",
+      "excerpt": "This course covers both conceptual and practical aspects of pulling together from different data sources, with different schemas and orientations, into a cohesive whole using Excel, Python, and various tools available on the Azure cloud platform.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-combining-and-shaping-data/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/combining-shaping-data",
+      "length": "3h 28m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/combining-shaping-data-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Combining and Shaping Data",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-creating-voice-and-chatbots-that-work-everywhere.md",
+      "title": "Creating Voice and Chatbots That Work Everywhere",
+      "excerpt": "With all the options out there, creating a voice and chatbot today can be a daunting decision. In this course, you'll take the stress out of figuring it all out by learning how to build a cross-channel conversational bot that works everywhere.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-creating-voice-and-chatbots-that-work-everywhere/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/creating-voice-chatbots-work-everywhere",
+      "length": "2h 26m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Walter Quesada",
+            "type": "profile",
+            "name": "Walter Quesada"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "Chatbot"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/audience/software-development.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Creating Voice and Chatbots That Work Everywhere",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-deep-learning-instances-and-frameworks-on-aws.md",
+      "title": "Deep Learning Instances and Frameworks on AWS",
+      "excerpt": "Deep learning enables a new level of data analysis, but configuring custom compute resources to gain these insights can be extremely difficult. In this course, Deep Learning Instances and Frameworks on AWS, you will gain the ability to launch deep learning instances on EC2 and ECS. First, you will learn the types of Deep Learning AMIs provided by AWS. Next, you will analyze how to leverage popular deep learning frameworks on these instances. Finally, you will review how to manage and scale your deep learning activities on these instances. When you are finished with this course, you will be able to launch and utilize custom deep learning instances and leverage popular deep learning frameworks.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-deep-learning-instances-and-frameworks-on-aws/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-ami-deep-learning-instances-frameworks",
+      "length": "1h 23m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "David Tucker",
+            "type": "profile",
+            "name": "David Tucker"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-ami-deep-learning-instances-frameworks-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Deep Learning Instances and Frameworks on AWS",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-deploying-pytorch-models-in-production-pytorch-playbook.md",
+      "title": "Deploying PyTorch Models in Production: PyTorch Playbook",
+      "excerpt": "This course covers the important aspects of performing distributed training of PyTorch models, using the multiprocessing, data-parallel, and distributed data-parallel approaches. It also discusses which you can host PyTorch models for prediction.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-deploying-pytorch-models-in-production-pytorch-playbook/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/deploying-pytorch-models",
+      "length": "2h 13m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/deploying-pytorch-models-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Deploying PyTorch Models in Production: PyTorch Playbook",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/courses/pluralsight-designing-and-implementing-solutions-using-google-cloud-automl.md",
       "title": "Designing and Implementing Solutions Using Google Cloud AutoML",
       "excerpt": "Google Cloud AI offers a wide range of machine learning services. AutoML features cutting-edge technology which uses your training data to find the best model for your use case. In this course, you'll learn to build a custom machine learning model.",
@@ -1166,356 +1522,6 @@
         "AI",
         "Natural Language Processing",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-smart-analytics-machine-learning-and-ai-on-gcp.md",
-      "title": "Smart Analytics, Machine Learning, and AI on GCP",
-      "excerpt": "Incorporating machine learning into data pipelines increases the ability of businesses to extract insights from their data. This course covers several ways machine learning can be included in data pipelines on Google Cloud Platform depending on the level of customization required. For little to no customization, this course covers AutoML. For more tailored machine learning capabilities, this course introduces AI Platform Notebooks and BigQuery Machine Learning. Also, this course covers how to productionalize machine learning solutions using Kubeflow. Learners will get hands-on experience building machine learning models on Google Cloud Platform using QwikLabs.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-smart-analytics-machine-learning-and-ai-on-gcp/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/smart-analytics-machine-learning-ai-gcp",
-      "length": "1h 40m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Google Cloud",
-            "type": "profile",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/smart-analytics-machine-learning-ai-gcp-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Smart Analytics, Machine Learning, and AI on GCP",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-style-transfer-with-pytorch.md",
-      "title": "Style Transfer with PyTorch",
-      "excerpt": "This course covers the important aspects of neural style transfer, a technique for transforming images, and discusses Generative Adversarial Networks in order to efficiently create realistic images and videos.\n",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-style-transfer-with-pytorch/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/style-transfer-pytorch",
-      "length": "1h 49m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/style-transfer-pytorch-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Style Transfer with PyTorch",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-summarizing-data-and-deducing-probabilities.md",
-      "title": "Summarizing Data and Deducing Probabilities",
-      "excerpt": "This course covers the most important aspects of exploratory data analysis using different univariate, bivariate, and multivariate statistics from Excel and Python, including the use of Naive Bayes' classifiers and Seaborn to visualize relationships.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-summarizing-data-and-deducing-probabilities/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/summarizing-data-deducing-probabilities",
-      "length": "2h 48m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/summarizing-data-deducing-probabilities-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Summarizing Data and Deducing Probabilities",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-translating-languages-on-aws-with-amazon-translate.md",
-      "title": "Translating Languages on AWS with Amazon Translate",
-      "excerpt": "Translating text at scale is a challenge for many organizations that want to make themselves understood internationally. In this course, Translating Languages on AWS with Amazon Translate, you will gain the ability to leverage Amazon Translate and neural machine translation in your applications. First, you will learn the basic context and benefits of neural machine translation tools. Next, you will discover how to leverage Amazon Translate APIs to scale your translation capabilities. Finally, you will explore how to integrate Amazon Translate with other AWS services such as Amazon Polly and Amazon CloudWatch. When you’re finished with this course, you will have the skills and knowledge of Amazon Translate needed to develop, secure, and monitor your own Amazon Translation applications and remove the restriction of language barriers.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-translating-languages-on-aws-with-amazon-translate/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/aws-translate-text",
-      "length": "2h 31m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Fernando Medina Corey",
-            "type": "profile",
-            "name": "Fernando Medina Corey"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/aws-translate-text-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Translating Languages on AWS with Amazon Translate",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-turning-speech-into-text-on-aws-with-amazon-transcribe.md",
-      "title": "Turning Speech into Text on AWS with Amazon Transcribe",
-      "excerpt": "Digital recorded audio is a useful storage medium, but quickly becomes useless when it needs to be consumed quickly. In this course, Turning Speech into Text on AWS with Amazon Transcribe, you’ll gain the ability to leverage and scale the AWS Transcribe service to convert your recorded speech into flat text data. First, you’ll explore manual runs of transcription jobs. Next, you’ll discover how to scale up the process for higher impact transcriptions across your organization. Finally, you’ll learn how to combine transcription with AWS Translate to add even more flexibility for your global needs. When you’re finished with this course, you’ll have the skills and knowledge to alleviate the need to have people manually listen to and transcribe or translate recorded speech.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-turning-speech-into-text-on-aws-with-amazon-transcribe/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/aws-transcribe-speech-text",
-      "length": "1h 29m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Tom Compagno",
-            "type": "profile",
-            "name": "Tom Compagno"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/aws-transcribe-speech-text-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Turning Speech into Text on AWS with Amazon Transcribe",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-understanding-machine-learning-with-python.md",
-      "title": "Understanding Machine Learning with Python",
-      "excerpt": "Use your data to predict future events with the help of machine learning. This course will walk you through creating a machine learning prediction solution and will introduce Python, the scikit-learn library, and the Jupyter Notebook environment.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-understanding-machine-learning-with-python/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/python-understanding-machine-learning",
-      "length": "1h 53m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Jerry Kurata",
-            "type": "profile",
-            "name": "Jerry Kurata"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/python-understanding-machine-learning-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Understanding Machine Learning with Python",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-using-pytorch-in-the-cloud-pytorch-playbook.md",
-      "title": "Using PyTorch in the Cloud: PyTorch Playbook",
-      "excerpt": "This course covers the important aspects of using PyTorch on Amazon Web Services (AWS), Microsoft Azure, and the Google Cloud Platform (GCP), including the use of cloud-hosted notebooks, deep learning VM instances with GPU support, and PyTorch estimators. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-using-pytorch-in-the-cloud-pytorch-playbook/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/using-pytorch-in-the-cloud-playbook",
-      "length": "2h 21m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/using-pytorch-in-the-cloud-playbook-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Using PyTorch in the Cloud: PyTorch Playbook",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
       ]
     }
   ],

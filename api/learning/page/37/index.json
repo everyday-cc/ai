@@ -1,0 +1,49 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 37,
+  "value": [
+    {
+      "path": "_learning/videos/youtube-ted-chris-urmson-how-a-driverless-car-sees-the-road.md",
+      "title": "Chris Urmson: How a driverless car sees the road",
+      "excerpt": "Statistically, the least reliable part of the car is ... the driver. Chris Urmson heads up Google's driverless car program, one of several efforts to remove humans from the driver's seat. He talks about where his program is right now, and shares fascinating footage that shows how the car sees the road and makes autonomous decisions about what to do next.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/youtube-ted-chris-urmson-how-a-driverless-car-sees-the-road/index.json",
+      "webUrl": "https://www.youtube.com/watch?v=tiwVMrTLUWg",
+      "provider": {
+        "name": "YouTube",
+        "domain": "youtube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/youtube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "TED",
+            "domain": "ted.com"
+          }
+        ]
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tiwVMrTLUWg/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCPu_URVLJU3qPXcxJy5H9biVCukA",
+          "width": 336,
+          "height": 188,
+          "title": "Chris Urmson: How a driverless car sees the road",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    }
+  ]
+}

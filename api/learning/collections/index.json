@@ -4,6 +4,159 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/collections/adrian-twarog-chatgpt-crash-course.md",
+      "title": "ChatGPT Crash Course",
+      "excerpt": "ChatGPT what it is and how to use Chat GPT. You'll learn about OpenAI new AI tools as well as what ChatGPT is and how to use it. Open AI and tools like DALLE and others will be added to these tutorials!",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/adrian-twarog-chatgpt-crash-course/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/adrian-twarog-chatgpt-crash-course/",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it.md",
+          "title": "What is ChatGPT and How You Can Use It",
+          "excerpt": "What is ChatGPT, and will it change everything? How Chat GPT is AI future... (and I think it's smarter than me). In this video I'll cover exactly how the chatbot created by OpenAI is changing all industries, not just that of development and programming, and how chat gpt will be even making google redundant.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it/",
+          "originalUrl": "https://youtube.com/watch?v=40Kp_fa8vIw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/40Kp_fa8vIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT4M39S",
+          "provider": {
+            "name": "Adrian Twarog",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2022-12-15T11:51:30Z",
+          "heat": 208,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/40Kp_fa8vIw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners.md",
+          "title": "ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners",
+          "excerpt": "This ChatGPT Tutorial is a Crash Course on Chat GPT for Beginners. With the increase in popularity, ChatGPT is still unknown to many people. In this video, I will provide a crash course on different ways to use ChatGPT.  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners/",
+          "originalUrl": "https://youtube.com/watch?v=JTxsNm9IdYU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JTxsNm9IdYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT34M5S",
+          "provider": {
+            "name": "Adrian Twarog",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2022-12-15T11:51:41Z",
+          "heat": 301,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/JTxsNm9IdYU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects.md",
+          "title": "How to use ChatGPT to build Business Ideas, Sites & Personal Projects",
+          "excerpt": "ChatGPT is more than just a language model, it can be used to create websites, businesses and much more. And I would know best, as I created, built, and sold a business using OpenAI platform just this year. So in this video, I’m going to explain how to use ChatGPT and its models so you can do the same.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects/",
+          "originalUrl": "https://youtube.com/watch?v=3aV5-q8vRz8",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3aV5-q8vRz8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT14M47S",
+          "provider": {
+            "name": "Adrian Twarog",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2022-12-15T11:51:52Z",
+          "heat": 210,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/3aV5-q8vRz8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc.md",
+          "title": "Let's Build ChatGPT 2.0 with React JS and OpenAI on your PC!",
+          "excerpt": "ChatGPT clone using the latest React JS and simple HTML and CSS. Built on top of Node JavaScript and Express, this will let you run your own instance of ChatGPT on your own PC!  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai I've put together a easy to understand",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc/",
+          "originalUrl": "https://youtube.com/watch?v=qwM23_kF4v4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qwM23_kF4v4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H2M23S",
+          "provider": {
+            "name": "Adrian Twarog",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2023-01-03T13:00:29Z",
+          "heat": 145,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/qwM23_kF4v4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 252,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/40Kp_fa8vIw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_learning/collections/edureka-artificial-intelligence-tutorial-for-beginners-edureka.md",
       "title": "Artificial Intelligence Tutorial For Beginners | Edureka",
       "excerpt": "This 'Artificial Intelligence Tutorial For Beginners' playlist with help you learn AI from scratch. This playlist also covers concepts of Deep Learning and Tensorflow in detail with examples.",
@@ -388,6 +541,815 @@
       ]
     },
     {
+      "path": "_learning/collections/stanford-university-from-languages-to-information.md",
+      "title": "From Languages to Information | Stanford University",
+      "excerpt": "The online world has a vast array of unstructured information in the form of language and social networks. Learn how to make sense of it and how to interact with humans via language, from answering questions to giving advice!",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information/",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/collections/stanford-university-from-languages-to-information-week-1-basic-text-processing-and-edit-distance-stanford-university.md",
+          "title": "From Languages to Information Week 1: Basic Text Processing and Edit Distance | Stanford University",
+          "excerpt": "This is the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-1-basic-text-processing-and-edit-distance-stanford-university/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-1-basic-text-processing-and-edit-distance-stanford-university/",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "topItems": [
+            {
+              "path": "_learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance.md",
+              "title": "1.1 Regular Expressions | Basic Text Processing and Edit Distance",
+              "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance/",
+              "originalUrl": "https://youtube.com/watch?v=808M7q8QX0E",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/808M7q8QX0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT11M26S",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2018-01-25T18:34:51Z",
+              "heat": 56,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            },
+            {
+              "path": "_learning/videos/stanford-university-12-regular-expression-substitutions.md",
+              "title": "1.2 Regular Expression Substitutions",
+              "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-12-regular-expression-substitutions/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-12-regular-expression-substitutions/",
+              "originalUrl": "https://youtube.com/watch?v=1CSVy9JbbK0",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1CSVy9JbbK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT6M11S",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2021-07-13T20:40:25Z",
+              "heat": 52,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/1CSVy9JbbK0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB4FJzU1UZMjlEH-qNJEKvSfBzDaQ",
+                  "width": 1280,
+                  "height": 720,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            },
+            {
+              "path": "_learning/videos/stanford-university-13-words-and-corpora.md",
+              "title": "1.3 Words and Corpora",
+              "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-13-words-and-corpora/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-13-words-and-corpora/",
+              "originalUrl": "https://youtube.com/watch?v=xsIDTmo1NOg",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xsIDTmo1NOg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT6M26S",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2021-07-13T20:41:16Z",
+              "heat": 54,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/xsIDTmo1NOg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCHm65NEC38H5RR7Nv-3QnJA6DTzg",
+                  "width": 1280,
+                  "height": 720,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            },
+            {
+              "path": "_learning/videos/stanford-university-14-word-tokenization.md",
+              "title": "1.4 Word Tokenization",
+              "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-word-tokenization/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-word-tokenization/",
+              "originalUrl": "https://youtube.com/watch?v=7yFZHf8mzGk",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7yFZHf8mzGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT8M21S",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2021-07-13T20:42:46Z",
+              "heat": 52,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/7yFZHf8mzGk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgQigsMA8=&rs=AOn4CLDKuz0K80JMDaZq1H81ne8sf5P5Cg",
+                  "width": 480,
+                  "height": 360,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            }
+          ],
+          "size": 11,
+          "heat": 64,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "collection",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/collections/stanford-university-from-languages-to-information-week-2-language-modeling-and-spelling-correction-stanford-university.md",
+          "title": "From Languages to Information Week 2: Language Modeling and Spelling Correction | Stanford University",
+          "excerpt": "This is the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-2-language-modeling-and-spelling-correction-stanford-university/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-2-language-modeling-and-spelling-correction-stanford-university/",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "topItems": [
+            {
+              "path": "_learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction.md",
+              "title": "3.1 Introduction to N grams | Language Modeling and Spelling Correction",
+              "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction/",
+              "originalUrl": "https://youtube.com/watch?v=hM49MPmakNI",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hM49MPmakNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT8M42S",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2018-01-25T18:39:27Z",
+              "heat": 54,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            },
+            {
+              "path": "_learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction.md",
+              "title": "3.2 Estimating N gram Probabilities | Language Modeling and Spelling Correction",
+              "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction/",
+              "originalUrl": "https://youtube.com/watch?v=UyC0bBiZY-A",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UyC0bBiZY-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT9M39S",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2018-01-25T18:39:27Z",
+              "heat": 56,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/UyC0bBiZY-A/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            },
+            {
+              "path": "_learning/videos/stanford-university-33-evaluation-and-perplexity.md",
+              "title": "3.3 Evaluation and Perplexity",
+              "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-33-evaluation-and-perplexity/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-33-evaluation-and-perplexity/",
+              "originalUrl": "https://youtube.com/watch?v=B_2bntDYano",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B_2bntDYano\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT12M37S",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2021-07-19T19:29:28Z",
+              "heat": 52,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/B_2bntDYano/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLBfo1Wzg21zL_SfYnBkxP3IMEpXfg",
+                  "width": 1280,
+                  "height": 720,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            },
+            {
+              "path": "_learning/videos/stanford-university-34-generalization-and-zeros-language-modeling-and-spelling-correction.md",
+              "title": "3.4 Generalization and Zeros | Language Modeling and Spelling Correction",
+              "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-34-generalization-and-zeros-language-modeling-and-spelling-correction/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-34-generalization-and-zeros-language-modeling-and-spelling-correction/",
+              "originalUrl": "https://youtube.com/watch?v=XjwVAMWrmrw",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XjwVAMWrmrw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT5M16S",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2018-01-25T18:39:27Z",
+              "heat": 51,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/XjwVAMWrmrw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            }
+          ],
+          "size": 7,
+          "heat": 64,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "collection",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/collections/stanford-university-from-languages-to-information-week-3-text-classification-and-sentiment-analysis-stanford-university.md",
+          "title": "From Languages to Information Week 3: Text Classification and Sentiment Analysis | Stanford University",
+          "excerpt": "This is the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-3-text-classification-and-sentiment-analysis-stanford-university/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-3-text-classification-and-sentiment-analysis-stanford-university/",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "topItems": [
+            {
+              "path": "_learning/videos/stanford-university-51-what-is-text-classification-text-classification-and-sentiment-analysis.md",
+              "title": "5.1 What is Text Classification  | Text Classification and Sentiment Analysis",
+              "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-51-what-is-text-classification-text-classification-and-sentiment-analysis/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-51-what-is-text-classification-text-classification-and-sentiment-analysis/",
+              "originalUrl": "https://youtube.com/watch?v=Y1j_J53k7fo",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y1j_J53k7fo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT8M13S",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2018-01-25T18:41:01Z",
+              "heat": 52,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/Y1j_J53k7fo/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            },
+            {
+              "path": "_learning/videos/stanford-university-naive-bayes-lecture-2-the-naive-bayes-classifier.md",
+              "title": "Naive Bayes Lecture 2 The Naive Bayes Classifier",
+              "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-naive-bayes-lecture-2-the-naive-bayes-classifier/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-naive-bayes-lecture-2-the-naive-bayes-classifier/",
+              "originalUrl": "https://youtube.com/watch?v=OhLosjXM-Fg",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OhLosjXM-Fg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT12M24S",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2021-07-13T22:52:25Z",
+              "heat": 52,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/OhLosjXM-Fg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAuuI6cATT_KMNrvsxUgr8No_ZQOA",
+                  "width": 1280,
+                  "height": 720,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            },
+            {
+              "path": "_learning/videos/stanford-university-naive-bayes-3-learning-in-naive-bayes.md",
+              "title": "Naive Bayes 3 Learning in Naive Bayes",
+              "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-naive-bayes-3-learning-in-naive-bayes/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-naive-bayes-3-learning-in-naive-bayes/",
+              "originalUrl": "https://youtube.com/watch?v=Ge612JZGBMU",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ge612JZGBMU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT6M4S",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2021-07-13T22:53:04Z",
+              "heat": 51,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/Ge612JZGBMU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAfmX2anN9vC-c-QroEwpHrOGBNKA",
+                  "width": 480,
+                  "height": 360,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            },
+            {
+              "path": "_learning/videos/stanford-university-naive-bayes-4-sentiment-and-binary-nb.md",
+              "title": "Naive Bayes 4 Sentiment and Binary NB",
+              "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-naive-bayes-4-sentiment-and-binary-nb/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-naive-bayes-4-sentiment-and-binary-nb/",
+              "originalUrl": "https://youtube.com/watch?v=tjDceq0qH10",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tjDceq0qH10\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT8M14S",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2021-07-13T22:53:27Z",
+              "heat": 55,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/tjDceq0qH10/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCDPFHi5bqut_A0XrQUQbr_ux2p0w",
+                  "width": 480,
+                  "height": 360,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            }
+          ],
+          "size": 8,
+          "heat": 62,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/Y1j_J53k7fo/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "collection",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/collections/stanford-university-from-languages-to-information-week-4-information-retrieval-stanford-university.md",
+          "title": "From Languages to Information Week 4: Information Retrieval | Stanford University",
+          "excerpt": "This is the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-4-information-retrieval-stanford-university/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-4-information-retrieval-stanford-university/",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "topItems": [
+            {
+              "path": "_learning/videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval.md",
+              "title": "7.1 Introduction to Information Retrieval | Information Retrieval",
+              "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval/",
+              "originalUrl": "https://youtube.com/watch?v=kNkCfaH2rxc",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kNkCfaH2rxc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT9M17S",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2018-01-25T18:42:38Z",
+              "heat": 55,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            },
+            {
+              "path": "_learning/videos/stanford-university-72-term-document-incidence-matrices-information-retrieval.md",
+              "title": "7.2 Term Document Incidence Matrices | Information Retrieval",
+              "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-72-term-document-incidence-matrices-information-retrieval/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-72-term-document-incidence-matrices-information-retrieval/",
+              "originalUrl": "https://youtube.com/watch?v=e81nC0LO0A8",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e81nC0LO0A8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT9M",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2018-01-25T18:42:38Z",
+              "heat": 52,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/e81nC0LO0A8/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            },
+            {
+              "path": "_learning/videos/stanford-university-73-the-inverted-index-information-retrieval.md",
+              "title": "7.3 The Inverted Index | Information Retrieval",
+              "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-73-the-inverted-index-information-retrieval/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-73-the-inverted-index-information-retrieval/",
+              "originalUrl": "https://youtube.com/watch?v=Wf6HbY2PQDw",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wf6HbY2PQDw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT10M43S",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2018-01-25T18:42:38Z",
+              "heat": 52,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/Wf6HbY2PQDw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            },
+            {
+              "path": "_learning/videos/stanford-university-74-query-processing-with-the-inverted-index-information-retrieval.md",
+              "title": "7.4 Query Processing with the Inverted Index | Information Retrieval",
+              "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-74-query-processing-with-the-inverted-index-information-retrieval/index.json",
+              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-74-query-processing-with-the-inverted-index-information-retrieval/",
+              "originalUrl": "https://youtube.com/watch?v=5KbynCj7yRQ",
+              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5KbynCj7yRQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+              "length": "PT6M44S",
+              "provider": {
+                "name": "Stanford University",
+                "domain": "stanford.edu",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              },
+              "publishedDateTime": "2018-01-25T18:42:38Z",
+              "heat": 51,
+              "images": [
+                {
+                  "url": "https://i.ytimg.com/vi/5KbynCj7yRQ/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360,
+                  "isCached": true
+                }
+              ],
+              "content": "",
+              "type": "video",
+              "price": "Free",
+              "topics": [
+                "AI",
+                "Natural Language Processing"
+              ]
+            }
+          ],
+          "size": 14,
+          "heat": 62,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "collection",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        }
+      ],
+      "size": 7,
+      "heat": 76,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_learning/collections/tensorflow-natural-language-processing-nlp-zero-to-hero-with-tensorflow.md",
       "title": "Natural Language Processing (NLP) Zero to Hero with TensorFlow",
       "excerpt": "Welcome to Zero to Hero for Natural Language Processing using TensorFlow! If you’re not an expert on AI or ML, don’t worry -- we’re taking the concepts of NLP and teaching them from first principles with our host Laurence Moroney.",
@@ -589,815 +1551,6 @@
         "Google AI",
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/stanford-university-from-languages-to-information.md",
-      "title": "From Languages to Information | Stanford University",
-      "excerpt": "The online world has a vast array of unstructured information in the form of language and social networks. Learn how to make sense of it and how to interact with humans via language, from answering questions to giving advice!",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information/",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/collections/stanford-university-from-languages-to-information-week-1-basic-text-processing-and-edit-distance-stanford-university.md",
-          "title": "From Languages to Information Week 1: Basic Text Processing and Edit Distance | Stanford University",
-          "excerpt": "This is the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-1-basic-text-processing-and-edit-distance-stanford-university/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-1-basic-text-processing-and-edit-distance-stanford-university/",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topItems": [
-            {
-              "path": "_learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance.md",
-              "title": "1.1 Regular Expressions | Basic Text Processing and Edit Distance",
-              "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance/",
-              "originalUrl": "https://youtube.com/watch?v=808M7q8QX0E",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/808M7q8QX0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT11M26S",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2018-01-25T18:34:51Z",
-              "heat": 56,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            },
-            {
-              "path": "_learning/videos/stanford-university-12-regular-expression-substitutions.md",
-              "title": "1.2 Regular Expression Substitutions",
-              "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-12-regular-expression-substitutions/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-12-regular-expression-substitutions/",
-              "originalUrl": "https://youtube.com/watch?v=1CSVy9JbbK0",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1CSVy9JbbK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT6M11S",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2021-07-13T20:40:25Z",
-              "heat": 52,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/1CSVy9JbbK0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB4FJzU1UZMjlEH-qNJEKvSfBzDaQ",
-                  "width": 1280,
-                  "height": 720,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            },
-            {
-              "path": "_learning/videos/stanford-university-13-words-and-corpora.md",
-              "title": "1.3 Words and Corpora",
-              "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-13-words-and-corpora/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-13-words-and-corpora/",
-              "originalUrl": "https://youtube.com/watch?v=xsIDTmo1NOg",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xsIDTmo1NOg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT6M26S",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2021-07-13T20:41:16Z",
-              "heat": 54,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/xsIDTmo1NOg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCHm65NEC38H5RR7Nv-3QnJA6DTzg",
-                  "width": 1280,
-                  "height": 720,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            },
-            {
-              "path": "_learning/videos/stanford-university-14-word-tokenization.md",
-              "title": "1.4 Word Tokenization",
-              "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-word-tokenization/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-word-tokenization/",
-              "originalUrl": "https://youtube.com/watch?v=7yFZHf8mzGk",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7yFZHf8mzGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT8M21S",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2021-07-13T20:42:46Z",
-              "heat": 52,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/7yFZHf8mzGk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgQigsMA8=&rs=AOn4CLDKuz0K80JMDaZq1H81ne8sf5P5Cg",
-                  "width": 480,
-                  "height": 360,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            }
-          ],
-          "size": 11,
-          "heat": 61,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "collection",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/collections/stanford-university-from-languages-to-information-week-2-language-modeling-and-spelling-correction-stanford-university.md",
-          "title": "From Languages to Information Week 2: Language Modeling and Spelling Correction | Stanford University",
-          "excerpt": "This is the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-2-language-modeling-and-spelling-correction-stanford-university/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-2-language-modeling-and-spelling-correction-stanford-university/",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topItems": [
-            {
-              "path": "_learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction.md",
-              "title": "3.1 Introduction to N grams | Language Modeling and Spelling Correction",
-              "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction/",
-              "originalUrl": "https://youtube.com/watch?v=hM49MPmakNI",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hM49MPmakNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT8M42S",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2018-01-25T18:39:27Z",
-              "heat": 54,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            },
-            {
-              "path": "_learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction.md",
-              "title": "3.2 Estimating N gram Probabilities | Language Modeling and Spelling Correction",
-              "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction/",
-              "originalUrl": "https://youtube.com/watch?v=UyC0bBiZY-A",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UyC0bBiZY-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT9M39S",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2018-01-25T18:39:27Z",
-              "heat": 56,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/UyC0bBiZY-A/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            },
-            {
-              "path": "_learning/videos/stanford-university-33-evaluation-and-perplexity.md",
-              "title": "3.3 Evaluation and Perplexity",
-              "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-33-evaluation-and-perplexity/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-33-evaluation-and-perplexity/",
-              "originalUrl": "https://youtube.com/watch?v=B_2bntDYano",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B_2bntDYano\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT12M37S",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2021-07-19T19:29:28Z",
-              "heat": 52,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/B_2bntDYano/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLBfo1Wzg21zL_SfYnBkxP3IMEpXfg",
-                  "width": 1280,
-                  "height": 720,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            },
-            {
-              "path": "_learning/videos/stanford-university-34-generalization-and-zeros-language-modeling-and-spelling-correction.md",
-              "title": "3.4 Generalization and Zeros | Language Modeling and Spelling Correction",
-              "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-34-generalization-and-zeros-language-modeling-and-spelling-correction/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-34-generalization-and-zeros-language-modeling-and-spelling-correction/",
-              "originalUrl": "https://youtube.com/watch?v=XjwVAMWrmrw",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XjwVAMWrmrw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT5M16S",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2018-01-25T18:39:27Z",
-              "heat": 51,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/XjwVAMWrmrw/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            }
-          ],
-          "size": 7,
-          "heat": 61,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "collection",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/collections/stanford-university-from-languages-to-information-week-3-text-classification-and-sentiment-analysis-stanford-university.md",
-          "title": "From Languages to Information Week 3: Text Classification and Sentiment Analysis | Stanford University",
-          "excerpt": "This is the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-3-text-classification-and-sentiment-analysis-stanford-university/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-3-text-classification-and-sentiment-analysis-stanford-university/",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topItems": [
-            {
-              "path": "_learning/videos/stanford-university-51-what-is-text-classification-text-classification-and-sentiment-analysis.md",
-              "title": "5.1 What is Text Classification  | Text Classification and Sentiment Analysis",
-              "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-51-what-is-text-classification-text-classification-and-sentiment-analysis/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-51-what-is-text-classification-text-classification-and-sentiment-analysis/",
-              "originalUrl": "https://youtube.com/watch?v=Y1j_J53k7fo",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y1j_J53k7fo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT8M13S",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2018-01-25T18:41:01Z",
-              "heat": 52,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/Y1j_J53k7fo/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            },
-            {
-              "path": "_learning/videos/stanford-university-naive-bayes-lecture-2-the-naive-bayes-classifier.md",
-              "title": "Naive Bayes Lecture 2 The Naive Bayes Classifier",
-              "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-naive-bayes-lecture-2-the-naive-bayes-classifier/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-naive-bayes-lecture-2-the-naive-bayes-classifier/",
-              "originalUrl": "https://youtube.com/watch?v=OhLosjXM-Fg",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OhLosjXM-Fg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT12M24S",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2021-07-13T22:52:25Z",
-              "heat": 52,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/OhLosjXM-Fg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAuuI6cATT_KMNrvsxUgr8No_ZQOA",
-                  "width": 1280,
-                  "height": 720,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            },
-            {
-              "path": "_learning/videos/stanford-university-naive-bayes-3-learning-in-naive-bayes.md",
-              "title": "Naive Bayes 3 Learning in Naive Bayes",
-              "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-naive-bayes-3-learning-in-naive-bayes/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-naive-bayes-3-learning-in-naive-bayes/",
-              "originalUrl": "https://youtube.com/watch?v=Ge612JZGBMU",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ge612JZGBMU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT6M4S",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2021-07-13T22:53:04Z",
-              "heat": 51,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/Ge612JZGBMU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAfmX2anN9vC-c-QroEwpHrOGBNKA",
-                  "width": 480,
-                  "height": 360,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            },
-            {
-              "path": "_learning/videos/stanford-university-naive-bayes-4-sentiment-and-binary-nb.md",
-              "title": "Naive Bayes 4 Sentiment and Binary NB",
-              "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-naive-bayes-4-sentiment-and-binary-nb/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-naive-bayes-4-sentiment-and-binary-nb/",
-              "originalUrl": "https://youtube.com/watch?v=tjDceq0qH10",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tjDceq0qH10\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT8M14S",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2021-07-13T22:53:27Z",
-              "heat": 55,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/tjDceq0qH10/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCDPFHi5bqut_A0XrQUQbr_ux2p0w",
-                  "width": 480,
-                  "height": 360,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            }
-          ],
-          "size": 8,
-          "heat": 61,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/Y1j_J53k7fo/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "collection",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/collections/stanford-university-from-languages-to-information-week-4-information-retrieval-stanford-university.md",
-          "title": "From Languages to Information Week 4: Information Retrieval | Stanford University",
-          "excerpt": "This is the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-4-information-retrieval-stanford-university/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-4-information-retrieval-stanford-university/",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "topItems": [
-            {
-              "path": "_learning/videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval.md",
-              "title": "7.1 Introduction to Information Retrieval | Information Retrieval",
-              "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval/",
-              "originalUrl": "https://youtube.com/watch?v=kNkCfaH2rxc",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kNkCfaH2rxc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT9M17S",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2018-01-25T18:42:38Z",
-              "heat": 55,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            },
-            {
-              "path": "_learning/videos/stanford-university-72-term-document-incidence-matrices-information-retrieval.md",
-              "title": "7.2 Term Document Incidence Matrices | Information Retrieval",
-              "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-72-term-document-incidence-matrices-information-retrieval/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-72-term-document-incidence-matrices-information-retrieval/",
-              "originalUrl": "https://youtube.com/watch?v=e81nC0LO0A8",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e81nC0LO0A8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT9M",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2018-01-25T18:42:38Z",
-              "heat": 52,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/e81nC0LO0A8/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            },
-            {
-              "path": "_learning/videos/stanford-university-73-the-inverted-index-information-retrieval.md",
-              "title": "7.3 The Inverted Index | Information Retrieval",
-              "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-73-the-inverted-index-information-retrieval/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-73-the-inverted-index-information-retrieval/",
-              "originalUrl": "https://youtube.com/watch?v=Wf6HbY2PQDw",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wf6HbY2PQDw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT10M43S",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2018-01-25T18:42:38Z",
-              "heat": 52,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/Wf6HbY2PQDw/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            },
-            {
-              "path": "_learning/videos/stanford-university-74-query-processing-with-the-inverted-index-information-retrieval.md",
-              "title": "7.4 Query Processing with the Inverted Index | Information Retrieval",
-              "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-              "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-74-query-processing-with-the-inverted-index-information-retrieval/index.json",
-              "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-74-query-processing-with-the-inverted-index-information-retrieval/",
-              "originalUrl": "https://youtube.com/watch?v=5KbynCj7yRQ",
-              "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5KbynCj7yRQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-              "length": "PT6M44S",
-              "provider": {
-                "name": "Stanford University",
-                "domain": "stanford.edu",
-                "images": [
-                  {
-                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                    "width": 50,
-                    "height": 50,
-                    "isCached": false
-                  }
-                ]
-              },
-              "publishedDateTime": "2018-01-25T18:42:38Z",
-              "heat": 51,
-              "images": [
-                {
-                  "url": "https://i.ytimg.com/vi/5KbynCj7yRQ/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360,
-                  "isCached": true
-                }
-              ],
-              "content": "",
-              "type": "video",
-              "price": "Free",
-              "topics": [
-                "AI",
-                "Natural Language Processing"
-              ]
-            }
-          ],
-          "size": 14,
-          "heat": 61,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "collection",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 73,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "collection",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     },
     {
@@ -3959,7 +4112,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/8f/2e6640bc6d11e8b73f2961737adc73/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",

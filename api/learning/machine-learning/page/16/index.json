@@ -4,6 +4,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_learning/courses/pluralsight-building-clustering-models-with-scikit-learn.md",
+      "title": "Building Clustering Models with scikit-learn",
+      "excerpt": "This course covers several important techniques used to implement clustering in scikit-learn, including the K-means, mean-shift and DBScan clustering algorithms, as well as the role of hyperparameter tuning, and performing clustering on image data.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-clustering-models-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-clustering-models-scikit-learn",
+      "length": "2h 33m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-clustering-models-scikit-learn-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Clustering Models with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/courses/pluralsight-building-deep-learning-models-using-pytorch.md",
       "title": "Building Deep Learning Models Using PyTorch",
       "excerpt": "In this course, you will learn to work with PyTorch and all the libraries that it has to offer, from first principles - starting with Torch tensors, dynamic computation graphs, and the autograd library, to compute gradients.",
@@ -558,54 +610,6 @@
           "width": 1280,
           "height": 720,
           "title": "Combining and Shaping Data",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-creating-machine-learning-models.md",
-      "title": "Creating Machine Learning Models",
-      "excerpt": "This course covers the important types of machine learning algorithms, solution techniques based on the specifics of the problem you are trying to solve, as well as the classic machine learning workflow. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-creating-machine-learning-models/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/creating-machine-learning-models",
-      "length": "2h 43m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/creating-machine-learning-models-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Creating Machine Learning Models",
           "isCached": false
         }
       ],

@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: https://i.ytimg.com/vi/8jWKak754VQ/maxresdefault.jpg

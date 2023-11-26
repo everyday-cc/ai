@@ -4,6 +4,384 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners.md",
+      "title": "ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners",
+      "excerpt": "This ChatGPT Tutorial is a Crash Course on Chat GPT for Beginners. With the increase in popularity, ChatGPT is still unknown to many people. In this video, I will provide a crash course on different ways to use ChatGPT.  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners/",
+      "originalUrl": "https://youtube.com/watch?v=JTxsNm9IdYU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JTxsNm9IdYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M5S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-12-15T11:51:41Z",
+      "heat": 301,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JTxsNm9IdYU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/adrian-twarog-chatgpt-crash-course.md",
+      "title": "ChatGPT Crash Course",
+      "excerpt": "ChatGPT what it is and how to use Chat GPT. You'll learn about OpenAI new AI tools as well as what ChatGPT is and how to use it. Open AI and tools like DALLE and others will be added to these tutorials!",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/adrian-twarog-chatgpt-crash-course/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/adrian-twarog-chatgpt-crash-course/",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it.md",
+          "title": "What is ChatGPT and How You Can Use It",
+          "excerpt": "What is ChatGPT, and will it change everything? How Chat GPT is AI future... (and I think it's smarter than me). In this video I'll cover exactly how the chatbot created by OpenAI is changing all industries, not just that of development and programming, and how chat gpt will be even making google redundant.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it/",
+          "originalUrl": "https://youtube.com/watch?v=40Kp_fa8vIw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/40Kp_fa8vIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT4M39S",
+          "provider": {
+            "name": "Adrian Twarog",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2022-12-15T11:51:30Z",
+          "heat": 208,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/40Kp_fa8vIw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners.md",
+          "title": "ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners",
+          "excerpt": "This ChatGPT Tutorial is a Crash Course on Chat GPT for Beginners. With the increase in popularity, ChatGPT is still unknown to many people. In this video, I will provide a crash course on different ways to use ChatGPT.  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners/",
+          "originalUrl": "https://youtube.com/watch?v=JTxsNm9IdYU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JTxsNm9IdYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT34M5S",
+          "provider": {
+            "name": "Adrian Twarog",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2022-12-15T11:51:41Z",
+          "heat": 301,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/JTxsNm9IdYU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects.md",
+          "title": "How to use ChatGPT to build Business Ideas, Sites & Personal Projects",
+          "excerpt": "ChatGPT is more than just a language model, it can be used to create websites, businesses and much more. And I would know best, as I created, built, and sold a business using OpenAI platform just this year. So in this video, I’m going to explain how to use ChatGPT and its models so you can do the same.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects/",
+          "originalUrl": "https://youtube.com/watch?v=3aV5-q8vRz8",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3aV5-q8vRz8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT14M47S",
+          "provider": {
+            "name": "Adrian Twarog",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2022-12-15T11:51:52Z",
+          "heat": 210,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/3aV5-q8vRz8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc.md",
+          "title": "Let's Build ChatGPT 2.0 with React JS and OpenAI on your PC!",
+          "excerpt": "ChatGPT clone using the latest React JS and simple HTML and CSS. Built on top of Node JavaScript and Express, this will let you run your own instance of ChatGPT on your own PC!  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai I've put together a easy to understand",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc/",
+          "originalUrl": "https://youtube.com/watch?v=qwM23_kF4v4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qwM23_kF4v4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H2M23S",
+          "provider": {
+            "name": "Adrian Twarog",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2023-01-03T13:00:29Z",
+          "heat": 145,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/qwM23_kF4v4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 252,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/40Kp_fa8vIw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects.md",
+      "title": "How to use ChatGPT to build Business Ideas, Sites & Personal Projects",
+      "excerpt": "ChatGPT is more than just a language model, it can be used to create websites, businesses and much more. And I would know best, as I created, built, and sold a business using OpenAI platform just this year. So in this video, I’m going to explain how to use ChatGPT and its models so you can do the same.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects/",
+      "originalUrl": "https://youtube.com/watch?v=3aV5-q8vRz8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3aV5-q8vRz8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M47S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-12-15T11:51:52Z",
+      "heat": 210,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3aV5-q8vRz8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it.md",
+      "title": "What is ChatGPT and How You Can Use It",
+      "excerpt": "What is ChatGPT, and will it change everything? How Chat GPT is AI future... (and I think it's smarter than me). In this video I'll cover exactly how the chatbot created by OpenAI is changing all industries, not just that of development and programming, and how chat gpt will be even making google redundant.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it/",
+      "originalUrl": "https://youtube.com/watch?v=40Kp_fa8vIw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/40Kp_fa8vIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M39S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-12-15T11:51:30Z",
+      "heat": 208,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/40Kp_fa8vIw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/adrian-twarog-advanced-chatgpt-guide-how-to-build-your-own-chat-gpt-site.md",
+      "title": "Advanced ChatGPT Guide - How to build your own Chat GPT Site",
+      "excerpt": "Want to build your own ChatGPT or learn the advanced ways to use Chat GPT? This video will be a more advance tutorial about OpenAI and its AI models, how to do prompts, generate content, and finally build an application based on its API.  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-advanced-chatgpt-guide-how-to-build-your-own-chat-gpt-site/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-advanced-chatgpt-guide-how-to-build-your-own-chat-gpt-site/",
+      "originalUrl": "https://youtube.com/watch?v=bB7xkRsEq-g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bB7xkRsEq-g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M9S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2023-01-03T13:00:42Z",
+      "heat": 197,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bB7xkRsEq-g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc.md",
+      "title": "Let's Build ChatGPT 2.0 with React JS and OpenAI on your PC!",
+      "excerpt": "ChatGPT clone using the latest React JS and simple HTML and CSS. Built on top of Node JavaScript and Express, this will let you run your own instance of ChatGPT on your own PC!  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai I've put together a easy to understand",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc/",
+      "originalUrl": "https://youtube.com/watch?v=qwM23_kF4v4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qwM23_kF4v4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M23S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2023-01-03T13:00:29Z",
+      "heat": 145,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qwM23_kF4v4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/adrian-twarog-how-to-use-chatgpt-on-discord-ai-chatbot-tutorial.md",
+      "title": "How to use ChatGPT on Discord - AI Chatbot Tutorial",
+      "excerpt": "I added ChatGPT to Discord. This is possible by creating a Discord Bot and integrating the AI into the API provided by OpenAI and Discord.  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai I've put together a easy to understand book with ~60 pages about OpenAI and",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-how-to-use-chatgpt-on-discord-ai-chatbot-tutorial/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-how-to-use-chatgpt-on-discord-ai-chatbot-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=roMykVsig-A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/roMykVsig-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M35S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2023-01-03T13:00:53Z",
+      "heat": 119,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/roMykVsig-A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-how-chatgpt-works-working-of-chatgpt-in-6-minutes-chatgpt-for-beginners-simplilearn.md",
+      "title": "How ChatGPT Works? | Working of ChatGPT in 6 Minutes | ChatGPT For Beginners | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video by Simplilearn on \"How ChatGPT Works?\" covers the mechanism behind ChatGPT. From this video,",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-chatgpt-works-working-of-chatgpt-in-6-minutes-chatgpt-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-chatgpt-works-working-of-chatgpt-in-6-minutes-chatgpt-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=4qGrteTY1EM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4qGrteTY1EM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M16S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-14T13:24:50Z",
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4qGrteTY1EM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_learning/collections/dotnet-machine-learning-with-mlnet.md",
       "title": "Machine Learning with ML.NET",
       "excerpt": "Welcome to Machine Learning with ML.NET! In this introductory video series we will introduce the concept of Machine Learning, what you can do with various tooling, and how to get started with ML.NET!",
@@ -201,6 +579,240 @@
       ]
     },
     {
+      "path": "_learning/videos/simplilearn-chatgpt-full-course-how-to-use-chatgpt-to-make-money-chat-gpt-for-beginners-simplilearn.md",
+      "title": "🔥 ChatGPT Full Course | How To Use ChatGPT To Make Money | Chat GPT For Beginners | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z ChatGPT, an extraordinary creation of artificial intelligence. Born from the brilliance of OpenAI's",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-chatgpt-full-course-how-to-use-chatgpt-to-make-money-chat-gpt-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-chatgpt-full-course-how-to-use-chatgpt-to-make-money-chat-gpt-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=5DIUHvR_edk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5DIUHvR_edk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9H14M18S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-07-20T11:49:35Z",
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5DIUHvR_edk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-chatgpt-complete-course-2023-chatgpt-full-course-2023-chatgpt-tutorial-simplilearn.md",
+      "title": "🔥 ChatGPT Complete Course 2023 | ChatGPT Full Course 2023 | ChatGPT Tutorial | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  🔥 Purdue Post Graduate Program In AI And Machine Learning: https://www.simplilearn.com/pgp-ai-machine-learning-certification-training-course?utm_campaign=28September2023ChatGPTCompleteCourse2023&utm_medium=Descriptionff&utm_source=youtube",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-chatgpt-complete-course-2023-chatgpt-full-course-2023-chatgpt-tutorial-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-chatgpt-complete-course-2023-chatgpt-full-course-2023-chatgpt-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=FgS7A59nkxw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FgS7A59nkxw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8H5M1S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-09-29T12:28:05Z",
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FgS7A59nkxw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-chatgpt-full-course-for-beginners-2023-how-to-use-chatgpt-for-beginners-2023-simplilearn.md",
+      "title": "🔥 ChatGPT Full Course For Beginners 2023 | How to Use ChatGPT For Beginners 2023 | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z Welcome to ChatGPT full course for beginners 2023! ChatGPT, a  game changer in artificial intelligence.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-chatgpt-full-course-for-beginners-2023-how-to-use-chatgpt-for-beginners-2023-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-chatgpt-full-course-for-beginners-2023-how-to-use-chatgpt-for-beginners-2023-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=SMX2_7F-IcQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SMX2_7F-IcQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8H41M39S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-11-03T10:07:50Z",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SMX2_7F-IcQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-how-to-create-video-using-chatgpt-using-chatgpt-to-make-youtube-videos-simplilearn.md",
+      "title": "How to Create Video Using ChatGPT | Using ChatGPT to Make YouTube Videos | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  This video, \" How to create video using ChatGPT\" by Simplilearn, will take you through 2 different",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-to-create-video-using-chatgpt-using-chatgpt-to-make-youtube-videos-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-to-create-video-using-chatgpt-using-chatgpt-to-make-youtube-videos-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=xjbNU2gCjys",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xjbNU2gCjys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M48S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-25T07:13:40Z",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xjbNU2gCjys/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-can-chatgpt-solve-leetcode-problems-chatgpt-for-coding-chatgpt-for-beginners-simplilearn.md",
+      "title": "Can ChatGPT Solve LeetCode Problems 😱😱? | ChatGPT For Coding | ChatGPT For Beginners | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video on \"Can ChatGPT Solve LeetCode Problems?\" will give you an idea of how ChatGpt can solve",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-can-chatgpt-solve-leetcode-problems-chatgpt-for-coding-chatgpt-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-can-chatgpt-solve-leetcode-problems-chatgpt-for-coding-chatgpt-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=14W6w0sRFXE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/14W6w0sRFXE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H27M7S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-02-15T12:51:16Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/14W6w0sRFXE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-how-to-build-a-website-using-chatgpt-creating-website-using-chat-gpt-simplilearn.md",
+      "title": "How to Build a Website Using ChatGPT | Creating Website Using Chat GPT | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video on \"How to Build a Website Using ChatGPT,\" we will create a Website using ChatGPT. We",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-to-build-a-website-using-chatgpt-creating-website-using-chat-gpt-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-to-build-a-website-using-chatgpt-creating-website-using-chat-gpt-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=IAfKYoyYwcQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IAfKYoyYwcQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M41S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-10T13:50:42Z",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IAfKYoyYwcQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_learning/videos/dotnet-mlnet-introduction-mlnet-2-of-8.md",
       "title": "ML.NET Introduction | ML.NET [2 of 8]",
       "excerpt": "Learn all about what ML.NET is and what you can do with the Framework. You will also see how customers using it, the open source momentum, and a short demo of the experience.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual",
@@ -281,6 +893,162 @@
       ]
     },
     {
+      "path": "_learning/videos/simplilearn-chatgpt-advanced-course-for-2023-chatgpt-complete-course-beginners-to-advanced-simplilearn.md",
+      "title": "🔥 ChatGPT Advanced Course For 2023 | ChatGPT Complete Course Beginners to Advanced | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This ChatGPT Advanced Course For 2023, is complete guide for beginners to advanced level. Let begin",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-chatgpt-advanced-course-for-2023-chatgpt-complete-course-beginners-to-advanced-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-chatgpt-advanced-course-for-2023-chatgpt-complete-course-beginners-to-advanced-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=gtbc3XoCdWk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gtbc3XoCdWk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8H34M51S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-29T11:30:54Z",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gtbc3XoCdWk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-chatgpt-course-for-beginners-2024-how-to-use-chatgpt-effectively-in-2024-simplilearn.md",
+      "title": "🔥 ChatGPT Course For Beginners 2024 | How To Use ChatGPT Effectively In 2024 | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this ChatGPT Course for beginners, we'll cover ChatGPT, GPT-4, and how ChatGPT works. We'll also",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-chatgpt-course-for-beginners-2024-how-to-use-chatgpt-effectively-in-2024-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-chatgpt-course-for-beginners-2024-how-to-use-chatgpt-effectively-in-2024-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=sjxWpMT9lu8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sjxWpMT9lu8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8H5M1S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-10-06T14:27:52Z",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sjxWpMT9lu8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-create-a-telegram-bot-using-chatgpt-telegram-chatbot-using-python-chatgpt-tutorial-simplilearn.md",
+      "title": "Create a Telegram Bot Using ChatGPT | Telegram Chatbot Using Python | ChatGPT  Tutorial |Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This tutorial on Create Telegram Bot using Python and ChatGPT is the guide to creating a telegram",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-create-a-telegram-bot-using-chatgpt-telegram-chatbot-using-python-chatgpt-tutorial-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-create-a-telegram-bot-using-chatgpt-telegram-chatbot-using-python-chatgpt-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=B8N_HyGhZ0U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B8N_HyGhZ0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M52S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-04-13T13:31:33Z",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B8N_HyGhZ0U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-how-to-use-chatgpt-for-web-development-web-development-using-chatgpt-simplilearn.md",
+      "title": "🔥 How To Use ChatGPT For Web Development | Web Development Using ChatGPT | Simplilearn",
+      "excerpt": "🔥Full Stack Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx7i 🔥Full Stack Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugCr 🔥Full Stack Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1ugCu In this video on \"How To Use ChatGPT For Web Development,\" we will explore the features",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-to-use-chatgpt-for-web-development-web-development-using-chatgpt-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-to-use-chatgpt-for-web-development-web-development-using-chatgpt-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=t_i937NYWKk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t_i937NYWKk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-23T06:12:41Z",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/t_i937NYWKk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_learning/videos/dotnet-getting-started-with-mlnet-mlnet-3-of-8.md",
       "title": "Getting started with ML.NET | ML.NET [3 of 8]",
       "excerpt": "Learn how you can get started with ML.NET on Windows, Mac, and Linux using tools (ML.NET Model Builder, ML.NET CLI) or code-first using ML.NET API.   Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19",
@@ -318,6 +1086,240 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-9-ways-to-make-money-online-using-chatgpt-how-to-make-money-online-with-chatgpt-simplilearn.md",
+      "title": "9 Ways to Make Money Online Using ChatGPT | How to Make Money Online With ChatGPT | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  Explore lucrative opportunities to make money online using ChatGPT, leveraging AI-powered chat platforms",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-9-ways-to-make-money-online-using-chatgpt-how-to-make-money-online-with-chatgpt-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-9-ways-to-make-money-online-using-chatgpt-how-to-make-money-online-with-chatgpt-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=26E1LAp4G-g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/26E1LAp4G-g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M6S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-19T12:50:33Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/26E1LAp4G-g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-chat-gpt-for-programming-programming-using-chatgpt-chatgpt-for-beginners-simplilearn.md",
+      "title": "Chat GPT for Programming | Programming Using ChatGPT | ChatGPT For Beginners | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video on \"Chat GPT for Programming\", we will get started with programming using ChatGPT for",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-chat-gpt-for-programming-programming-using-chatgpt-chatgpt-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-chat-gpt-for-programming-programming-using-chatgpt-chatgpt-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=oAWEtFKHOWI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oAWEtFKHOWI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M49S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-23T11:06:50Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oAWEtFKHOWI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-chatgpt-expert-course-for-2023-complete-chatgpt-crash-course-chatgpt-tutorial-simplilearn.md",
+      "title": "🔥 ChatGPT Expert Course For 2023 | Complete ChatGPT Crash Course | ChatGPT Tutorial | Simplilearn",
+      "excerpt": "🔥 Purdue Post Graduate Program In AI And Machine Learning: https://www.simplilearn.com/pgp-ai-machine-learning-certification-training-course?utm_campaign=11August2023ChatGPTExpertCourseFor2023&utm_medium=Descriptionff&utm_source=youtube                🔥 AI & Machine Learning Bootcamp(US Only): https://www.simplilearn.com/ai-machine-learning-bootcamp?utm_campaign=11August2023ChatGPTExpertCourseFor2023&utm_medium=Descriptionff&utm_source=youtube",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-chatgpt-expert-course-for-2023-complete-chatgpt-crash-course-chatgpt-tutorial-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-chatgpt-expert-course-for-2023-complete-chatgpt-crash-course-chatgpt-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=lLI4gjk24UE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lLI4gjk24UE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7H2M19S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-11T10:43:11Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lLI4gjk24UE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-chatgpt-for-beginners-chatgpt-crash-course-2023-chatgpt-tutorial-simplilearn.md",
+      "title": "ChatGPT For Beginners | ChatGPT Crash Course 2023 | ChatGPT Tutorial | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video on ChatGPT for beginners by Simplilearn will make you understand what ChatGPT is and how",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-chatgpt-for-beginners-chatgpt-crash-course-2023-chatgpt-tutorial-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-chatgpt-for-beginners-chatgpt-crash-course-2023-chatgpt-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=nWA6VBTswKU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nWA6VBTswKU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3H41M49S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-08T06:32:08Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nWA6VBTswKU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-how-to-learn-python-fast-with-chatgpt-learning-python-using-chatgpt-learn-python-simplilearn.md",
+      "title": "How to Learn Python Fast With ChatGPT ? | Learning Python Using ChatGPT | Learn Python | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this informative How to Learn Python Fast With ChatGPT video, we'll show you the ultimate way to",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-to-learn-python-fast-with-chatgpt-learning-python-using-chatgpt-learn-python-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-to-learn-python-fast-with-chatgpt-learning-python-using-chatgpt-learn-python-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=8jWKak754VQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8jWKak754VQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M40S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-30T06:20:05Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8jWKak754VQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-top-10-chat-gpt-use-cases-chatgpt-applications-chatgpt-tutorial-for-beginnerssimplilearn.md",
+      "title": "Top 10 Chat GPT Use Cases  | ChatGPT Applications | ChatGPT Tutorial For Beginners|Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video on ChatGPT Usecases, we will explore ChatGPT by OpenAI, which interacts conversationally.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-chat-gpt-use-cases-chatgpt-applications-chatgpt-tutorial-for-beginnerssimplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-chat-gpt-use-cases-chatgpt-applications-chatgpt-tutorial-for-beginnerssimplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=rmJZYRQefPo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rmJZYRQefPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M33S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-17T12:56:54Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rmJZYRQefPo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -423,581 +1425,7 @@
         "AI",
         "Microsoft AI"
       ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-translate-speech-in-real-time-with-azure-cognitive-services.md",
-      "title": "Translate speech in real time with Azure Cognitive Services",
-      "excerpt": "Learn how to translate speech and convert it to text through real-time transcription with the Speech Translation API in Azure Cognitive Services.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/microsoft-learn-translate-speech-in-real-time-with-azure-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/",
-      "length": "0:42",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/convert-speech-to-text-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Translate speech in real time with Azure Cognitive Services",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-bots-with-microsofts-bot-framework-getting-started.md",
-      "title": "Building Bots with Microsoft’s Bot Framework: Getting Started",
-      "excerpt": "This course is an introduction to the Microsoft Bot Framework v4 - a centralized framework that allows you to create, edit and deploy Chatbots quickly and easily. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-bots-with-microsofts-bot-framework-getting-started/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/microsoft-bot-framework-building-bots-getting-started-2019",
-      "length": "3h 27m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Matthew Kruczek",
-            "type": "profile",
-            "name": "Matthew Kruczek"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "Chatbot"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/microsoft-bot-framework-building-bots-getting-started-2019-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Bots with Microsoft’s Bot Framework: Getting Started",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-features-from-text-data-in-microsoft-azure.md",
-      "title": "Building Features from Text Data in Microsoft Azure",
-      "excerpt": "This course covers aspects of building text features for machine learning using Azure Machine Learning Service virtual machines, including tokenization, stopword removal, feature vectorization, and more from natural language processing. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-features-from-text-data-in-microsoft-azure/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/microsoft-azure-building-features-text-data",
-      "length": "1h 54m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Michael Heydt",
-            "type": "profile",
-            "name": "Michael Heydt"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/microsoft-azure-building-features-text-data-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Features from Text Data in Microsoft Azure",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-extracting-meaning-from-natural-language-with-the-language-understanding-service-luis-on-microsoft-azure.md",
-      "title": "Extracting Meaning from Natural Language with the Language Understanding Service (LUIS) on Microsoft Azure",
-      "excerpt": "Extracting Meaning from Natural Language with LUIS will allow you to build apps and bots that are capable to understanding natural human language and being able to act on those commands.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-extracting-meaning-from-natural-language-with-the-language-understanding-service-luis-on-microsoft-azure/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/microsoft-azure-luis-extracting-meaning-natural-language",
-      "length": "42m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Eduardo Freitas",
-            "type": "profile",
-            "name": "Eduardo Freitas"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/audience/generic.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Extracting Meaning from Natural Language with the Language Understanding Service (LUIS) on Microsoft Azure",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-get-answers-in-context-with-semantic-search-in-microsoft-365-devintersection-2019.md",
-      "title": "Get Answers in Context with Semantic Search in Microsoft 365: DEVintersection 2019",
-      "excerpt": "DEVintersection 2019 | Get Answers in Context with Semantic Search in Microsoft 365 | Bill Baer",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-get-answers-in-context-with-semantic-search-in-microsoft-365-devintersection-2019/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/devintersection-azureai-session-22",
-      "length": "48m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "DEVintersection",
-            "type": "profile",
-            "name": "DEVintersection"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/devintersection-azureai-session-22-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Get Answers in Context with Semantic Search in Microsoft 365: DEVintersection 2019",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-microsoft-azure-cognitive-services-bing-spell-check-api.md",
-      "title": "Microsoft Azure Cognitive Services: Bing Spell Check API",
-      "excerpt": "Real time spelling and grammar correction that works across multiple languages can make your app stand out.  Bing Spell Check uses advanced machine learning to perform context-aware spell checking.  Find out how to use it in this course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-microsoft-azure-cognitive-services-bing-spell-check-api/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/microsoft-azure-cognitive-services-bing-spell-check-api",
-      "length": "1h 10m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "James Millar",
-            "type": "profile",
-            "name": "James Millar"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/microsoft-azure-cognitive-services-bing-spell-check-api-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Microsoft Azure Cognitive Services: Bing Spell Check API",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-microsoft-azure-cognitive-services-qna-maker.md",
-      "title": "Microsoft Azure Cognitive Services: QnA Maker",
-      "excerpt": "Use QnA Maker and Azure Bot Service to create an FAQ chat bot that can answer questions using a natural language format. Deploy your bot to the web or other service like Slack, email, and text message. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-microsoft-azure-cognitive-services-qna-maker/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/microsoft-azure-cognitive-services-qna-maker",
-      "length": "36m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Jesse Dietrichson",
-            "type": "profile",
-            "name": "Jesse Dietrichson"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/microsoft-azure-cognitive-services-qna-maker-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Microsoft Azure Cognitive Services: QnA Maker",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dotnet-build-a-ml-model-for-github-issue-classification-mlnet-5-of-8.md",
-      "title": "Build a ML model for GitHub Issue classification | ML.NET [5 of 8]",
-      "excerpt": "In the world of ML.NET there is a high-volume of interaction with GitHub. This video will teach you how to classify incoming GitHub issues into one of the many tags (labels) using a multi-class classification algorithm.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here:",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-github-issue-classification-mlnet-5-of-8/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-github-issue-classification-mlnet-5-of-8/",
-      "originalUrl": "https://youtube.com/watch?v=spPq7PdnmRs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/spPq7PdnmRs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M25S",
-      "provider": {
-        "name": "dotNET",
-        "domain": "dotnet.microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-20T01:45:35Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/spPq7PdnmRs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/dotnet-build-a-ml-model-for-movie-recommendation-mlnet-7-of-8.md",
-      "title": "Build a ML model for Movie Recommendation | ML.NET [7 of 8]",
-      "excerpt": "Following our last video, here are even more ways to use the model builder with ML.NET. In this video, we learn how to recommend movies for users using colloborative filtering based recommendation approach.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-movie-recommendation-mlnet-7-of-8/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-movie-recommendation-mlnet-7-of-8/",
-      "originalUrl": "https://youtube.com/watch?v=f2KIjQCVN0A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f2KIjQCVN0A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M40S",
-      "provider": {
-        "name": "dotNET",
-        "domain": "dotnet.microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-20T02:30:46Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/f2KIjQCVN0A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8.md",
-      "title": "Build a ML model for predicting taxi fares | ML.NET [6 of 8]",
-      "excerpt": "There are tons of different ways to use the model builder with ML.NET. In this video, we learn how to predict taxi fares based on distance traveled, trip time etc. using a regression algorithm.   Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8/",
-      "originalUrl": "https://youtube.com/watch?v=CnmmhxGUgqg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CnmmhxGUgqg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M32S",
-      "provider": {
-        "name": "dotNET",
-        "domain": "dotnet.microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-20T02:22:31Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CnmmhxGUgqg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8.md",
-      "title": "Build a ML model for Sentiment Analysis | ML.NET [4 of 8]",
-      "excerpt": "In this video, we will cover how to build a ML model for sentiment analysis of customer reviews using a binary classification algorithm.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8/",
-      "originalUrl": "https://youtube.com/watch?v=p3kHlpLvWNI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p3kHlpLvWNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M18S",
-      "provider": {
-        "name": "dotNET",
-        "domain": "dotnet.microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-20T01:21:27Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/p3kHlpLvWNI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8.md",
-      "title": "Deep learning with ML.NET: Image Classification | ML.NET [8 of 8]",
-      "excerpt": "Deep learning enables many more scenarios using sound, images, text and other data types. Learn how to build an Image Classification model to classify flowers (daisies, roses etc.).  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8/",
-      "originalUrl": "https://youtube.com/watch?v=C9p38jXKhB0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C9p38jXKhB0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M46S",
-      "provider": {
-        "name": "dotNET",
-        "domain": "dotnet.microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-20T02:40:52Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/C9p38jXKhB0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-azure-machine-learning-tutorial-azure-tutorial-azure-training-edureka.md",
-      "title": "Azure Machine Learning Tutorial | Azure Tutorial | Azure Training | Edureka",
-      "excerpt": "(Microsoft Azure Certification Training: https://www.edureka.co/microsoft-certified-azure-solution-architect-certification-training )  This Edureka \"Azure Machine Learning” tutorial will give you a thorough and insightful overview of Microsoft Azure ML Studio and also help you understand the fundamentals",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-azure-machine-learning-tutorial-azure-tutorial-azure-training-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-azure-machine-learning-tutorial-azure-tutorial-azure-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=nNHSlpJMOJs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nNHSlpJMOJs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M24S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-08T14:04:32Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nNHSlpJMOJs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
     }
-  ]
+  ],
+  "nextPage": 2
 }

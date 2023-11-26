@@ -4,6 +4,369 @@
   "page": 24,
   "value": [
     {
+      "path": "_learning/courses/coursera-structuring-machine-learning-projects.md",
+      "title": "Structuring Machine Learning Projects",
+      "excerpt": "Learn Structuring Machine Learning Projects from deeplearning.ai. You will learn how to build a successful machine learning project. If you aspire to be a technical leader in AI, and know how to set direction for your team's work, this course ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-structuring-machine-learning-projects/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-projects",
+      "length": "7 hours",
+      "ratings": {
+        "count": 33286,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "deeplearning.ai"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f6/53bf90104d11e8b2d89d7efe59d41d/CarouselAds_DL_ML.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Structuring Machine Learning Projects",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-visual-perception-for-self-driving-cars.md",
+      "title": "Visual Perception for Self-Driving Cars",
+      "excerpt": "Learn Visual Perception for Self-Driving Cars from University of Toronto. Welcome to Visual Perception for Self-Driving Cars, the third course in University of Toronto’s Self-Driving Cars Specialization.  This course will introduce you to the ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-visual-perception-for-self-driving-cars/index.json",
+      "webUrl": "https://www.coursera.org/learn/visual-perception-self-driving-cars",
+      "length": "20 hours",
+      "ratings": {
+        "count": 118,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Toronto"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5e/55d590145511e99e65b5a6b6fb8568/Course3.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Visual Perception for Self-Driving Cars",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/courses/edx-deep-learning-with-python-and-pytorch.md",
+      "title": "Deep Learning with Python and PyTorch",
+      "excerpt": "Learn how to use Python and its popular libraries such as NumPy and Pandas, as well as the PyTorch Deep Learning library. You'll then apply them to build Neural Networks and Deep Learning models.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/edx-deep-learning-with-python-and-pytorch/index.json",
+      "webUrl": "https://www.edx.org/course/deep-learning-with-python-and-pytorch",
+      "length": "6 Weeks",
+      "provider": {
+        "name": "edX",
+        "domain": "edx.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edx.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "IBM",
+            "domain": "ibm.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://prod-discovery.edx-cdn.org/media/course/image/17920e6b-e3ed-4819-8116-e48854e62cce-d390fea6c901.small.jpg",
+          "width": 378,
+          "height": 224,
+          "title": "Deep Learning with Python and PyTorch",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/google-developers-machine-learning-crash-course.md",
+      "title": "Machine Learning Crash Course with TensorFlow APIs",
+      "excerpt": "Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/google-developers-machine-learning-crash-course/index.json",
+      "webUrl": "https://developers.google.com/machine-learning/crash-course/",
+      "length": "15 hours",
+      "provider": {
+        "name": "Google Developers",
+        "domain": "developers.google.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/developers.google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://developers.google.com/machine-learning/crash-course/images/mlcc-hero.png",
+          "width": 3288,
+          "height": 1818,
+          "title": "Machine Learning Crash Course with TensorFlow APIs",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/courses/linkedin-learning-artificial-intelligence-foundations-thinking-machines.md",
+      "title": "Artificial Intelligence Foundations: Thinking Machines",
+      "excerpt": "This course will introduce you to some of the key concepts behind artificial intelligence, including the differences between \"strong\" and \"weak\" AI. You'll see how AI has created questions around what it means to be intelligent and how much trust we should put in machines. Instructor Doug Rose explains the different approaches to AI, including machine learning and deep learning, and the practical uses for new AI-enhanced technologies. Plus, learn how to integrate AI with other technology, such as big data, and avoid some common pitfalls associated with programming AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/linkedin-learning-artificial-intelligence-foundations-thinking-machines/index.json",
+      "webUrl": "https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines",
+      "provider": {
+        "name": "LinkedIn Learning",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=hu6OfqGPVBmEWub%2FiNG0pcqyks0%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-nWySt892fZnfofs7XZLSiolQUeSkClgQzdumoRTnmE469LcLmY4Yx3A",
+          "width": 512,
+          "height": 288,
+          "title": "Artificial Intelligence Foundations: Thinking Machines",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$24.99",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/linkedin-learning-machine-learning-and-ai-foundations-decision-trees.md",
+      "title": "Machine Learning and AI Foundations: Decision Trees",
+      "excerpt": "Many data science specialists are looking to pivot toward focusing on machine learning. This course covers the essentials of machine learning, including predictive analytics and working with decision trees. Explore several popular tree algorithms and learn how to use reverse engineering to identify specific variables. Demonstrations of using the IBM SPSS Modeler are included so you can understand how decisions trees work. This course is designed to give you a solid foundation on which to build more advanced data science skills.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/linkedin-learning-machine-learning-and-ai-foundations-decision-trees/index.json",
+      "webUrl": "https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees",
+      "length": "1:16",
+      "provider": {
+        "name": "LinkedIn Learning",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=bM%2FVK%2FaWoKtulsEs9YA3iNBGQWw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kWSyp-dafZXXgesTcZLSio10WeCwGlwMweOitSDfiEo69LcLmY4Yx3A",
+          "width": 512,
+          "height": 288,
+          "title": "Machine Learning and AI Foundations: Decision Trees",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$29.99",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/linkedin-learning-machine-learning-and-ai-foundations-recommendations.md",
+      "title": "Machine Learning and AI Foundations: Recommendations",
+      "excerpt": "This project-based course shows programmers of all skill levels how to use machine learning to build programs that can make recommendations. In this course, Adam Geitgey walks you through a hands-on lab building a recommendation system that is able to suggest similar products to customers based on past products they have reviewed or purchased. The system can also identify which products are similar to each other.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/linkedin-learning-machine-learning-and-ai-foundations-recommendations/index.json",
+      "webUrl": "https://www.linkedin.com/learning/machine-learning-and-ai-foundations-recommendations",
+      "length": "0:58",
+      "provider": {
+        "name": "LinkedIn Learning",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=%2FtL12xbFm9drn%2BYMNJa6loKfeJk%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kXSaq-dWfZXHqecTfZLSiol8ReCsGmAMyf-2rQzngEo69LcLmY4Yx3A",
+          "width": 512,
+          "height": 288,
+          "title": "Machine Learning and AI Foundations: Recommendations",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$44.99",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/linkedin-learning-machine-learning-and-ai-foundations-value-estimations.md",
+      "title": "Machine Learning and AI Foundations: Value Estimations",
+      "excerpt": "Value estimation—one of the most common types of machine learning algorithms—can automatically estimate values by looking at related information. For example, a website can determine how much a house is worth based on the property's location and characteristics. In this project-based course, discover how to use machine learning to build a value estimation system that can deduce the value of a home. Follow Adam Geitgey as he walks through how to use sample data to build a machine learning model, and then use that model in your own programs. Although the project featured in this course focuses on real estate, you can use the same approach to solve any kind of value estimation problem with machine learning.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/linkedin-learning-machine-learning-and-ai-foundations-value-estimations/index.json",
+      "webUrl": "https://www.linkedin.com/learning/machine-learning-and-ai-foundations-value-estimations",
+      "length": "1:4",
+      "provider": {
+        "name": "LinkedIn Learning",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=X9X%2BFV5GrLMXZUW2d5VTCpH0JxU%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kXy2v89GfZXPhfM7bZLSiolQffSsJkw06fuquQzboGo69LcLmY4Yx3A",
+          "width": 512,
+          "height": 288,
+          "title": "Machine Learning and AI Foundations: Value Estimations",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$39.99",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-recognize-specific-voices-with-the-speaker-recognition-apis-in-azure-cognitive-services.md",
       "title": "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services",
       "excerpt": "Learn how to use the Speaker Recognition APIs to identify specific people through their voices.",
@@ -1060,410 +1423,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-your-first-machine-learning-solution.md",
-      "title": "Building Your First Machine Learning Solution",
-      "excerpt": "Machine learning is exciting, yet, it may sound more complicated than it is actually is. This course empowers you with the necessary theory and practice to become confident about how machine learning works by building a hands-on solution.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-your-first-machine-learning-solution/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-machine-learning-solution",
-      "length": "2h 41m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Mohammed Osman",
-            "type": "profile",
-            "name": "Mohammed Osman"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/building-machine-learning-solution-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Your First Machine Learning Solution",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-your-first-pytorch-solution.md",
-      "title": "Building Your First PyTorch Solution",
-      "excerpt": "This course covers the important practical aspects of installing PyTorch from scratch on a variety of different platforms and getting going with classification and regression models. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-your-first-pytorch-solution/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-your-first-pytorch-solution",
-      "length": "2h 24m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/building-your-first-pytorch-solution-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Your First PyTorch Solution",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-your-first-scikit-learn-solution.md",
-      "title": "Building Your First scikit-learn Solution",
-      "excerpt": "This course covers both the why and how of using scikit-learn. You'll delve into scikit-learn’s niche in the ever-growing taxonomy of machine learning libraries, and important aspects of working with scikit-learn estimators and pipelines.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-your-first-scikit-learn-solution/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-first-scikit-learn-solution",
-      "length": "2h 7m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/building-first-scikit-learn-solution-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Your First scikit-learn Solution",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-combining-and-shaping-data.md",
-      "title": "Combining and Shaping Data",
-      "excerpt": "This course covers both conceptual and practical aspects of pulling together from different data sources, with different schemas and orientations, into a cohesive whole using Excel, Python, and various tools available on the Azure cloud platform.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-combining-and-shaping-data/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/combining-shaping-data",
-      "length": "3h 28m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/combining-shaping-data-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Combining and Shaping Data",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-creating-machine-learning-models.md",
-      "title": "Creating Machine Learning Models",
-      "excerpt": "This course covers the important types of machine learning algorithms, solution techniques based on the specifics of the problem you are trying to solve, as well as the classic machine learning workflow. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-creating-machine-learning-models/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/creating-machine-learning-models",
-      "length": "2h 43m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/creating-machine-learning-models-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Creating Machine Learning Models",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-creating-voice-and-chatbots-that-work-everywhere.md",
-      "title": "Creating Voice and Chatbots That Work Everywhere",
-      "excerpt": "With all the options out there, creating a voice and chatbot today can be a daunting decision. In this course, you'll take the stress out of figuring it all out by learning how to build a cross-channel conversational bot that works everywhere.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-creating-voice-and-chatbots-that-work-everywhere/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/creating-voice-chatbots-work-everywhere",
-      "length": "2h 26m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Walter Quesada",
-            "type": "profile",
-            "name": "Walter Quesada"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "Chatbot"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/audience/software-development.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Creating Voice and Chatbots That Work Everywhere",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-deep-learning-instances-and-frameworks-on-aws.md",
-      "title": "Deep Learning Instances and Frameworks on AWS",
-      "excerpt": "Deep learning enables a new level of data analysis, but configuring custom compute resources to gain these insights can be extremely difficult. In this course, Deep Learning Instances and Frameworks on AWS, you will gain the ability to launch deep learning instances on EC2 and ECS. First, you will learn the types of Deep Learning AMIs provided by AWS. Next, you will analyze how to leverage popular deep learning frameworks on these instances. Finally, you will review how to manage and scale your deep learning activities on these instances. When you are finished with this course, you will be able to launch and utilize custom deep learning instances and leverage popular deep learning frameworks.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-deep-learning-instances-and-frameworks-on-aws/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/aws-ami-deep-learning-instances-frameworks",
-      "length": "1h 23m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "David Tucker",
-            "type": "profile",
-            "name": "David Tucker"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/aws-ami-deep-learning-instances-frameworks-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Deep Learning Instances and Frameworks on AWS",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-deploying-pytorch-models-in-production-pytorch-playbook.md",
-      "title": "Deploying PyTorch Models in Production: PyTorch Playbook",
-      "excerpt": "This course covers the important aspects of performing distributed training of PyTorch models, using the multiprocessing, data-parallel, and distributed data-parallel approaches. It also discusses which you can host PyTorch models for prediction.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-deploying-pytorch-models-in-production-pytorch-playbook/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/deploying-pytorch-models",
-      "length": "2h 13m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/deploying-pytorch-models-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Deploying PyTorch Models in Production: PyTorch Playbook",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
       ]
     }
   ],

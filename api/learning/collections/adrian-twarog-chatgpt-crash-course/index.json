@@ -1,0 +1,193 @@
+{
+  "title": "ChatGPT Crash Course",
+  "path": "_learning/collections/adrian-twarog-chatgpt-crash-course.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it.md",
+      "title": "What is ChatGPT and How You Can Use It",
+      "excerpt": "What is ChatGPT, and will it change everything? How Chat GPT is AI future... (and I think it's smarter than me). In this video I'll cover exactly how the chatbot created by OpenAI is changing all industries, not just that of development and programming, and how chat gpt will be even making google redundant.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it/",
+      "originalUrl": "https://youtube.com/watch?v=40Kp_fa8vIw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/40Kp_fa8vIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M39S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-12-15T11:51:30Z",
+      "heat": 208,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/40Kp_fa8vIw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners.md",
+      "title": "ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners",
+      "excerpt": "This ChatGPT Tutorial is a Crash Course on Chat GPT for Beginners. With the increase in popularity, ChatGPT is still unknown to many people. In this video, I will provide a crash course on different ways to use ChatGPT.  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners/",
+      "originalUrl": "https://youtube.com/watch?v=JTxsNm9IdYU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JTxsNm9IdYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M5S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-12-15T11:51:41Z",
+      "heat": 301,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JTxsNm9IdYU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects.md",
+      "title": "How to use ChatGPT to build Business Ideas, Sites & Personal Projects",
+      "excerpt": "ChatGPT is more than just a language model, it can be used to create websites, businesses and much more. And I would know best, as I created, built, and sold a business using OpenAI platform just this year. So in this video, I’m going to explain how to use ChatGPT and its models so you can do the same.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects/",
+      "originalUrl": "https://youtube.com/watch?v=3aV5-q8vRz8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3aV5-q8vRz8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M47S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-12-15T11:51:52Z",
+      "heat": 210,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3aV5-q8vRz8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc.md",
+      "title": "Let's Build ChatGPT 2.0 with React JS and OpenAI on your PC!",
+      "excerpt": "ChatGPT clone using the latest React JS and simple HTML and CSS. Built on top of Node JavaScript and Express, this will let you run your own instance of ChatGPT on your own PC!  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai I've put together a easy to understand",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc/",
+      "originalUrl": "https://youtube.com/watch?v=qwM23_kF4v4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qwM23_kF4v4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M23S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2023-01-03T13:00:29Z",
+      "heat": 145,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qwM23_kF4v4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/adrian-twarog-advanced-chatgpt-guide-how-to-build-your-own-chat-gpt-site.md",
+      "title": "Advanced ChatGPT Guide - How to build your own Chat GPT Site",
+      "excerpt": "Want to build your own ChatGPT or learn the advanced ways to use Chat GPT? This video will be a more advance tutorial about OpenAI and its AI models, how to do prompts, generate content, and finally build an application based on its API.  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-advanced-chatgpt-guide-how-to-build-your-own-chat-gpt-site/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-advanced-chatgpt-guide-how-to-build-your-own-chat-gpt-site/",
+      "originalUrl": "https://youtube.com/watch?v=bB7xkRsEq-g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bB7xkRsEq-g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M9S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2023-01-03T13:00:42Z",
+      "heat": 197,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bB7xkRsEq-g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/adrian-twarog-how-to-use-chatgpt-on-discord-ai-chatbot-tutorial.md",
+      "title": "How to use ChatGPT on Discord - AI Chatbot Tutorial",
+      "excerpt": "I added ChatGPT to Discord. This is possible by creating a Discord Bot and integrating the AI into the API provided by OpenAI and Discord.  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai I've put together a easy to understand book with ~60 pages about OpenAI and",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-how-to-use-chatgpt-on-discord-ai-chatbot-tutorial/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-how-to-use-chatgpt-on-discord-ai-chatbot-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=roMykVsig-A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/roMykVsig-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M35S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2023-01-03T13:00:53Z",
+      "heat": 119,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/roMykVsig-A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    }
+  ]
+}

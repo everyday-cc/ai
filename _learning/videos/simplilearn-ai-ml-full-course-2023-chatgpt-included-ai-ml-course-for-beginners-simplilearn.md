@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: https://i.ytimg.com/vi/poT7ZuXWW2Q/maxresdefault.jpg

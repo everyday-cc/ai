@@ -4,6 +4,664 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/videos/simplilearn-deep-learning-full-course-deep-learning-tutorial-learn-deep-learning-from-scratch-simplilearn.md",
+      "title": "Deep Learning Full Course 🔥 | Deep Learning Tutorial | Learn Deep Learning From Scratch| Simplilearn",
+      "excerpt": "This full course video on Deep Learning covers all the concepts and techniques that will help you become an expert in Deep Learning. First,  you will learn the basics of Deep Learning and understand how to install TensorFlow on Ubuntu. You will get an idea about what is TensorFlow and implement an algorithm",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-full-course-deep-learning-tutorial-learn-deep-learning-from-scratch-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-full-course-deep-learning-tutorial-learn-deep-learning-from-scratch-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=ve-Tj7kUemg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ve-Tj7kUemg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6H12M20S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-16T13:07:43Z",
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ve-Tj7kUemg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-image-classification-using-cnn-deep-learning-projects-machine-learning-tutorial-simplilearn.md",
+      "title": "Image Classification Using CNN | Deep Learning Projects | Machine Learning Tutorial | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video, \"Image Classification using CNN,\" is a project-based video by Simplilearn where you'll",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-image-classification-using-cnn-deep-learning-projects-machine-learning-tutorial-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-image-classification-using-cnn-deep-learning-projects-machine-learning-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=Rmtr9SY-4VQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rmtr9SY-4VQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M56S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-12-09T10:14:25Z",
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Rmtr9SY-4VQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-introduction-to-artificial-intelligence-what-is-ai-artificial-intelligence-tutorial-simplilearn.md",
+      "title": "Introduction To Artificial Intelligence | What Is AI?| Artificial Intelligence Tutorial |Simplilearn",
+      "excerpt": "Artificial Intelligence or AI is the future of technology, and it has already become a reality as companies have started building intelligent systems with the help of AI. In this video, you'll learn what Artificial Intelligence is all about, and how did it emerge. You will also learn about the various",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-introduction-to-artificial-intelligence-what-is-ai-artificial-intelligence-tutorial-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-introduction-to-artificial-intelligence-what-is-ai-artificial-intelligence-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=SSE4M0gcmvE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SSE4M0gcmvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M14S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-14T18:18:15Z",
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SSE4M0gcmvE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-types-of-artificial-intelligence-artificial-intelligence-explained-what-is-ai-simplilearn.md",
+      "title": "Types Of Artificial Intelligence | Artificial Intelligence Explained | What Is AI? |  Simplilearn",
+      "excerpt": "In this video on Artificial Intelligence, we'll learn what Artificial Intelligence is and the different types of Artificial Intelligence. We'll look into the AI types based on capabilities and functionalities with some examples to understand where it can be used.   We will be discussing below types of",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-types-of-artificial-intelligence-artificial-intelligence-explained-what-is-ai-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-types-of-artificial-intelligence-artificial-intelligence-explained-what-is-ai-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=VNz3KGoAhG4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VNz3KGoAhG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M26S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-08-22T13:25:45Z",
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VNz3KGoAhG4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-introducing-convolutional-neural-networks-ml-zero-to-hero-part-3.md",
+      "title": "Introducing convolutional neural networks (ML Zero to Hero - Part 3)",
+      "excerpt": "In part three of Machine Learning Zero to Hero, AI Advocate Laurence Moroney (lmoroney@) discusses convolutional neural networks and why they are so powerful in Computer vision scenarios. A convolution is a filter that passes over an image, processes it, and extracts features that show a commonality",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-introducing-convolutional-neural-networks-ml-zero-to-hero-part-3/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-introducing-convolutional-neural-networks-ml-zero-to-hero-part-3/",
+      "originalUrl": "https://youtube.com/watch?v=x_VrgWTKkiM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x_VrgWTKkiM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M33S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-11T16:10:53Z",
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/x_VrgWTKkiM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/collections/amazon-best-sellers-in-ai-and-machine-learning.md",
+      "title": "Amazon Best Sellers in AI and Machine Learning",
+      "excerpt": "Amazon's most popular books based on sales for AI and Machine Learning.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/amazon-best-sellers-in-ai-and-machine-learning/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/amazon-best-sellers-in-ai-and-machine-learning/",
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/books/amazon-ai-superpowers-china-silicon-valley-and-the-new-world-order.md",
+          "title": "AI Superpowers: China, Silicon Valley, and the New World Order",
+          "excerpt": "Dr. Kai-Fu Lee—one of the world’s most respected experts on AI and China—reveals that China has suddenly caught up to the US at an astonishingly rapid and unexpected pace.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-ai-superpowers-china-silicon-valley-and-the-new-world-order/index.json",
+          "webUrl": "https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/",
+          "ratings": {
+            "count": 562,
+            "average": 4.4
+          },
+          "provider": {
+            "name": "Amazon",
+            "domain": "amazon.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Kai-Fu Lee",
+                "type": "profile",
+                "name": "Kai-Fu Lee"
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/81JjMSKLeLL._AC_UY218_ML3_.jpg",
+              "width": 145,
+              "height": 218,
+              "title": "AI Superpowers: China, Silicon Valley, and the New World Order",
+              "isCached": false
+            }
+          ],
+          "content": "",
+          "type": "book",
+          "price": "$12.99",
+          "topics": [
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/books/amazon-hands-on-machine-learning-with-scikit-learn-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems.md",
+          "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems",
+          "excerpt": "Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-hands-on-machine-learning-with-scikit-learn-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems/index.json",
+          "webUrl": "https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/",
+          "ratings": {
+            "count": 745,
+            "average": 4.4
+          },
+          "provider": {
+            "name": "Amazon",
+            "domain": "amazon.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Aur&amp;eacute;lien G&amp;eacute;ron",
+                "type": "profile",
+                "name": "Aur&amp;eacute;lien G&amp;eacute;ron"
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "tags": [
+            "TensorFlow"
+          ],
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71P4atQpTbL._AC_UY218_ML3_.jpg",
+              "width": 156,
+              "height": 218,
+              "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems",
+              "isCached": false
+            }
+          ],
+          "content": "",
+          "type": "book",
+          "price": "$50.99",
+          "topics": [
+            "AI",
+            "Machine Learning",
+            "Google AI",
+            "TensorFlow"
+          ]
+        },
+        {
+          "path": "_learning/books/amazon-code-the-hidden-language-of-computer-hardware-and-software.md",
+          "title": "Code: The Hidden Language of Computer Hardware and Software",
+          "excerpt": "What do flashlights, the British invasion, black cats, and seesaws have to do with computers? In CODE, they show us the ingenious ways we manipulate language and invent new means of communicating with each other. And through CODE, we see how this ingenuity and our very human compulsion to communicate have driven the technological innovations of the past two centuries. Using everyday objects and familiar language systems such as Braille and Morse code, author Charles Petzold weaves an illuminating narrative for anyone who’s ever wondered about the secret inner life of computers and other smart machines.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-code-the-hidden-language-of-computer-hardware-and-software/index.json",
+          "webUrl": "https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/",
+          "ratings": {
+            "count": 709,
+            "average": 4.7
+          },
+          "provider": {
+            "name": "Amazon",
+            "domain": "amazon.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Charles Petzold",
+                "type": "profile",
+                "name": "Charles Petzold"
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61bA23zSr5L._AC_UY218_ML3_.jpg",
+              "width": 146,
+              "height": 218,
+              "title": "Code: The Hidden Language of Computer Hardware and Software",
+              "isCached": false
+            }
+          ],
+          "content": "",
+          "type": "book",
+          "price": "$21.68",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        },
+        {
+          "path": "_learning/books/amazon-human-compatible-artificial-intelligence-and-the-problem-of-control.md",
+          "title": "Human Compatible: Artificial Intelligence and the Problem of Control",
+          "excerpt": "A leading artificial intelligence researcher lays out a new approach to AI that will enable us to coexist successfully with increasingly intelligent machines",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-human-compatible-artificial-intelligence-and-the-problem-of-control/index.json",
+          "webUrl": "https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616/",
+          "ratings": {
+            "count": 74,
+            "average": 4.7
+          },
+          "provider": {
+            "name": "Amazon",
+            "domain": "amazon.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Stuart Russell",
+                "type": "profile",
+                "name": "Stuart Russell"
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/81WSOFawK1L._AC_UY218_ML3_.jpg",
+              "width": 144,
+              "height": 218,
+              "title": "Human Compatible: Artificial Intelligence and the Problem of Control",
+              "isCached": false
+            }
+          ],
+          "content": "",
+          "type": "book",
+          "price": "$25.20",
+          "topics": [
+            "AI"
+          ]
+        }
+      ],
+      "size": 10,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/81JjMSKLeLL._AC_UY218_ML3_.jpg",
+          "width": 145,
+          "height": 218,
+          "title": "AI Superpowers: China, Silicon Valley, and the New World Order",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/collections/aws-machine-learning-ai-courses-in-pluralsight.md",
+      "title": "AWS Machine Learning / AI courses in Pluralsight",
+      "excerpt": "AWS has a number of machine learning and artificial intelligence services and products that can be used in conjunction with each other to make smart applications. In this path you’ll become familiar with them and see each one in action.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/aws-machine-learning-ai-courses-in-pluralsight/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/aws-machine-learning-ai-courses-in-pluralsight/",
+      "levels": [
+        "Beginner",
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/pluralsight-getting-started-with-amazon-lex.md",
+          "title": "Getting Started with Amazon Lex",
+          "excerpt": "The creation of an interactive and intelligent application is helped by the use of automatic speech recognition (ASR) and natural language understanding (NLU). In Getting Started with Amazon Lex, you will be introduced to the skills required to leverage Amazon Lex to build these user interactions for the applications you create. First, you will learn how to define the intents that the ChatBot will fulfill for the user. Next, you will explore how to create the slots that will gather the required information from your user. Finally, you will discover how to implement Lambda functions that process the information gathered by your ChatBot to complete the desire of your users. When you are finished with this course, you will be prepared to create simple informational bots using Amazon Lex.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-getting-started-with-amazon-lex/index.json",
+          "webUrl": "https://www.pluralsight.com/courses/getting-started-amazon-lex",
+          "length": "1h 57m",
+          "provider": {
+            "name": "Pluralsight",
+            "domain": "pluralsight.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Mike Erickson",
+                "type": "profile",
+                "name": "Mike Erickson"
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pluralsight.imgix.net/course-images/audience/software-development.jpg",
+              "width": 1280,
+              "height": 721,
+              "title": "Getting Started with Amazon Lex",
+              "isCached": false
+            }
+          ],
+          "content": "",
+          "type": "course",
+          "price": "$$",
+          "topics": [
+            "AI",
+            "AWS AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/courses/pluralsight-analyzing-text-on-aws-with-amazon-comprehend.md",
+          "title": "Analyzing Text on AWS with Amazon Comprehend",
+          "excerpt": "At the core of text analysis in the AWS Cloud is a thorough knowledge of Amazon Comprehend. In this course, Analyzing Text on AWS with Amazon Comprehend, you’ll learn how to use the service to extract insights and deep analysis about a given text. First, you’ll discover how the service is structured and common usage patterns for all of its features. Next, you’ll explore more advanced analysis concepts using an asynchronous request pattern. Finally, you’ll see how easy it can be to conduct complex topic modeling analysis. When you’re finished with this course, you’ll have a foundational knowledge of how to use Amazon Comprehend to analyze and understand any document set that will help you as you move forward and understand how to apply machine learning to real world problems.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-analyzing-text-on-aws-with-amazon-comprehend/index.json",
+          "webUrl": "https://www.pluralsight.com/courses/aws-comprehend-analyzing-text",
+          "length": "1h 56m",
+          "provider": {
+            "name": "Pluralsight",
+            "domain": "pluralsight.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Mark Nunnikhoven",
+                "type": "profile",
+                "name": "Mark Nunnikhoven"
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pluralsight.imgix.net/course-images/aws-comprehend-analyzing-text-v1.png",
+              "width": 1280,
+              "height": 720,
+              "title": "Analyzing Text on AWS with Amazon Comprehend",
+              "isCached": false
+            }
+          ],
+          "content": "",
+          "type": "course",
+          "price": "$$",
+          "topics": [
+            "AI",
+            "AWS AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/courses/pluralsight-building-a-voice-enabled-serverless-website-with-aws-polly.md",
+          "title": "Building a Voice-enabled Serverless Website with AWS Polly",
+          "excerpt": "With all the new technology trends like AI, Serverless, and DevOps, tieing everything together can be overwhelming. In this course, you'll not only demystify this process but also see how using voice can save you time and keep your users engaged.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-a-voice-enabled-serverless-website-with-aws-polly/index.json",
+          "webUrl": "https://www.pluralsight.com/courses/aws-comprehend-analyzing-text",
+          "length": "1h 46m",
+          "provider": {
+            "name": "Pluralsight",
+            "domain": "pluralsight.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Ralu Bolovan",
+                "type": "profile",
+                "name": "Ralu Bolovan"
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pluralsight.imgix.net/course-images/aws-polly-voice-enabled-serverless-website-v1.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "Building a Voice-enabled Serverless Website with AWS Polly",
+              "isCached": false
+            }
+          ],
+          "content": "",
+          "type": "course",
+          "price": "$$",
+          "topics": [
+            "AI",
+            "AWS AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/courses/pluralsight-translating-languages-on-aws-with-amazon-translate.md",
+          "title": "Translating Languages on AWS with Amazon Translate",
+          "excerpt": "Translating text at scale is a challenge for many organizations that want to make themselves understood internationally. In this course, Translating Languages on AWS with Amazon Translate, you will gain the ability to leverage Amazon Translate and neural machine translation in your applications. First, you will learn the basic context and benefits of neural machine translation tools. Next, you will discover how to leverage Amazon Translate APIs to scale your translation capabilities. Finally, you will explore how to integrate Amazon Translate with other AWS services such as Amazon Polly and Amazon CloudWatch. When you’re finished with this course, you will have the skills and knowledge of Amazon Translate needed to develop, secure, and monitor your own Amazon Translation applications and remove the restriction of language barriers.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-translating-languages-on-aws-with-amazon-translate/index.json",
+          "webUrl": "https://www.pluralsight.com/courses/aws-translate-text",
+          "length": "2h 31m",
+          "provider": {
+            "name": "Pluralsight",
+            "domain": "pluralsight.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Fernando Medina Corey",
+                "type": "profile",
+                "name": "Fernando Medina Corey"
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pluralsight.imgix.net/course-images/aws-translate-text-v1.png",
+              "width": 1280,
+              "height": 720,
+              "title": "Translating Languages on AWS with Amazon Translate",
+              "isCached": false
+            }
+          ],
+          "content": "",
+          "type": "course",
+          "price": "$$",
+          "topics": [
+            "AI",
+            "AWS AI",
+            "Natural Language Processing"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/audience/software-development.jpg",
+          "width": 1280,
+          "height": 721,
+          "title": "Getting Started with Amazon Lex",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_learning/collections/coursera-advanced-machine-learning-tensorflow-gcp.md",
       "title": "Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization",
       "excerpt": "Learn Advanced Machine Learning with Google Cloud. Build production-ready machine learning models with TensorFlow on Google Cloud Platform.",
@@ -200,7 +858,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/8f/2e6640bc6d11e8b73f2961737adc73/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
@@ -2139,7 +2797,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -2569,282 +3228,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-artificial-intelligence-applications-artificial-intelligence-examples-in-real-life-simplilearn.md",
-      "title": "Artificial Intelligence Applications | Artificial Intelligence Examples In Real Life | Simplilearn",
-      "excerpt": "Artificial Intelligence is no more a buzz; it has become a reality. With companies using artificial intelligence to build intelligent machines, AI has become a revolution in the business sectors. In this video, you'll learn about the Top Artificial Intelligence Applications. You will understand how AI",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-artificial-intelligence-applications-artificial-intelligence-examples-in-real-life-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-artificial-intelligence-applications-artificial-intelligence-examples-in-real-life-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=YhSeTEumjVA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YhSeTEumjVA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M31S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-03T15:12:42Z",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YhSeTEumjVA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-mathematics-for-machine-learning-essential-mathematics-machine-learning-tutorial-simplilearn.md",
-      "title": "Mathematics For Machine Learning | Essential Mathematics - Machine Learning Tutorial | Simplilearn",
-      "excerpt": "Mathematics forms the core of Machine Learning and is one of the prerequisites. This video on Mathematics for Machine Learning will help you understand linear algebra, vectors, and matrices. Then, you will learn about integral calculus, followed by different topics in Statistics for machine learning.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-mathematics-for-machine-learning-essential-mathematics-machine-learning-tutorial-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-mathematics-for-machine-learning-essential-mathematics-machine-learning-tutorial-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=iyxqcS1u5go",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iyxqcS1u5go\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H50M50S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-14T14:42:30Z",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iyxqcS1u5go/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-movie-recommender-system-using-machine-learning-movie-recommender-system-project-simplilearn.md",
-      "title": "Movie Recommender System Using Machine Learning | Movie Recommender System Project | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video on \" Movie Recommender System Using Machine Learning,\" we are going to cover how to",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-movie-recommender-system-using-machine-learning-movie-recommender-system-project-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-movie-recommender-system-using-machine-learning-movie-recommender-system-project-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=lXcO3y_YGOM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lXcO3y_YGOM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59M34S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-27T10:20:54Z",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lXcO3y_YGOM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-text-classification-using-naive-bayes-naive-bayes-algorithm-in-machine-learning-simplilearn.md",
-      "title": "Text Classification Using Naive Bayes | Naive Bayes Algorithm In Machine Learning | Simplilearn",
-      "excerpt": "This video on \"Text Classification Using Naive Bayes\" is a brilliant introductory walk through to the Classification of Text using Naive Bayes Algorithm.  ✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH  ⏩ Check out the Machine Learning tutorial videos: https://bit.ly/3fFR4f4",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-text-classification-using-naive-bayes-naive-bayes-algorithm-in-machine-learning-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-text-classification-using-naive-bayes-naive-bayes-algorithm-in-machine-learning-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=60pqgfT5tZM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/60pqgfT5tZM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M15S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-05T12:19:31Z",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/60pqgfT5tZM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-time-series-forecasting-in-python-time-series-analysis-ml-projects-using-python-simplilearn.md",
-      "title": "Time Series Forecasting In Python | Time Series Analysis | ML Projects Using Python | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video, we are going to cover how to do Time Series Forecasting using python. This video will",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-time-series-forecasting-in-python-time-series-analysis-ml-projects-using-python-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-time-series-forecasting-in-python-time-series-analysis-ml-projects-using-python-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=Ib4sLduEhTs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ib4sLduEhTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-11-19T13:31:39Z",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ib4sLduEhTs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-build-an-image-classifier-ml-zero-to-hero-part-4.md",
-      "title": "Build an image classifier (ML Zero to Hero - Part 4)",
-      "excerpt": "In part four of Machine Learning Zero to Hero, AI Advocate Laurence Moroney (lmoroney@) discusses the build of an image classifier for rock, paper, and scissors. In episode one, we showed a scenario of rock, paper, and scissors; and discussed how difficult it might be to write code to detect and classify",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-build-an-image-classifier-ml-zero-to-hero-part-4/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-build-an-image-classifier-ml-zero-to-hero-part-4/",
-      "originalUrl": "https://youtube.com/watch?v=u2TjZzNuly8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u2TjZzNuly8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M26S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-18T17:00:16Z",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/u2TjZzNuly8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-content-based-filtering-collaborative-filtering-building-recommendation-systems-with-tensorflow.md",
-      "title": "Content-based filtering & collaborative filtering (Building recommendation systems with TensorFlow)",
-      "excerpt": "In this video we will be walking you through the concepts of content-based filtering and collaborative filtering, which are traditional algorithms for recommendation systems but are useful to help us better understand modern recommenders.  Recommendation systems on Google Developers website → https://goo.gle/3yx9XK9",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-content-based-filtering-collaborative-filtering-building-recommendation-systems-with-tensorflow/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-content-based-filtering-collaborative-filtering-building-recommendation-systems-with-tensorflow/",
-      "originalUrl": "https://youtube.com/watch?v=v90un9ALRzw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v90un9ALRzw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M36S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-07-06T08:11:59Z",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/v90un9ALRzw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
       ]
     }
   ],

@@ -43,6 +43,37 @@
       ]
     },
     {
+      "path": "_learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners.md",
+      "title": "ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners",
+      "excerpt": "This ChatGPT Tutorial is a Crash Course on Chat GPT for Beginners. With the increase in popularity, ChatGPT is still unknown to many people. In this video, I will provide a crash course on different ways to use ChatGPT.  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners/",
+      "originalUrl": "https://youtube.com/watch?v=JTxsNm9IdYU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JTxsNm9IdYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT34M5S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-12-15T11:51:41Z",
+      "heat": 301,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JTxsNm9IdYU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_learning/videos/freecodecamporg-no-black-box-machine-learning-course-learn-without-libraries.md",
       "title": "No Black Box Machine Learning Course – Learn Without Libraries",
       "excerpt": "In this No Black Box Machine Learning Course in JavaScript, you will gain a deep understanding of machine learning systems by coding without relying on libraries. This unique approach not only demystifies the inner workings of machine learning but also significantly enhances software development skills.",
@@ -79,6 +110,159 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/collections/adrian-twarog-chatgpt-crash-course.md",
+      "title": "ChatGPT Crash Course",
+      "excerpt": "ChatGPT what it is and how to use Chat GPT. You'll learn about OpenAI new AI tools as well as what ChatGPT is and how to use it. Open AI and tools like DALLE and others will be added to these tutorials!",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/adrian-twarog-chatgpt-crash-course/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/adrian-twarog-chatgpt-crash-course/",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it.md",
+          "title": "What is ChatGPT and How You Can Use It",
+          "excerpt": "What is ChatGPT, and will it change everything? How Chat GPT is AI future... (and I think it's smarter than me). In this video I'll cover exactly how the chatbot created by OpenAI is changing all industries, not just that of development and programming, and how chat gpt will be even making google redundant.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it/",
+          "originalUrl": "https://youtube.com/watch?v=40Kp_fa8vIw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/40Kp_fa8vIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT4M39S",
+          "provider": {
+            "name": "Adrian Twarog",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2022-12-15T11:51:30Z",
+          "heat": 208,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/40Kp_fa8vIw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners.md",
+          "title": "ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners",
+          "excerpt": "This ChatGPT Tutorial is a Crash Course on Chat GPT for Beginners. With the increase in popularity, ChatGPT is still unknown to many people. In this video, I will provide a crash course on different ways to use ChatGPT.  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-chatgpt-tutorial-a-crash-course-on-chat-gpt-for-beginners/",
+          "originalUrl": "https://youtube.com/watch?v=JTxsNm9IdYU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JTxsNm9IdYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT34M5S",
+          "provider": {
+            "name": "Adrian Twarog",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2022-12-15T11:51:41Z",
+          "heat": 301,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/JTxsNm9IdYU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects.md",
+          "title": "How to use ChatGPT to build Business Ideas, Sites & Personal Projects",
+          "excerpt": "ChatGPT is more than just a language model, it can be used to create websites, businesses and much more. And I would know best, as I created, built, and sold a business using OpenAI platform just this year. So in this video, I’m going to explain how to use ChatGPT and its models so you can do the same.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects/",
+          "originalUrl": "https://youtube.com/watch?v=3aV5-q8vRz8",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3aV5-q8vRz8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT14M47S",
+          "provider": {
+            "name": "Adrian Twarog",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2022-12-15T11:51:52Z",
+          "heat": 210,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/3aV5-q8vRz8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc.md",
+          "title": "Let's Build ChatGPT 2.0 with React JS and OpenAI on your PC!",
+          "excerpt": "ChatGPT clone using the latest React JS and simple HTML and CSS. Built on top of Node JavaScript and Express, this will let you run your own instance of ChatGPT on your own PC!  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai I've put together a easy to understand",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc/",
+          "originalUrl": "https://youtube.com/watch?v=qwM23_kF4v4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qwM23_kF4v4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H2M23S",
+          "provider": {
+            "name": "Adrian Twarog",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2023-01-03T13:00:29Z",
+          "heat": 145,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/qwM23_kF4v4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 252,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/40Kp_fa8vIw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -121,6 +305,68 @@
       ]
     },
     {
+      "path": "_learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects.md",
+      "title": "How to use ChatGPT to build Business Ideas, Sites & Personal Projects",
+      "excerpt": "ChatGPT is more than just a language model, it can be used to create websites, businesses and much more. And I would know best, as I created, built, and sold a business using OpenAI platform just this year. So in this video, I’m going to explain how to use ChatGPT and its models so you can do the same.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-how-to-use-chatgpt-to-build-business-ideas-sites-personal-projects/",
+      "originalUrl": "https://youtube.com/watch?v=3aV5-q8vRz8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3aV5-q8vRz8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M47S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-12-15T11:51:52Z",
+      "heat": 210,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3aV5-q8vRz8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it.md",
+      "title": "What is ChatGPT and How You Can Use It",
+      "excerpt": "What is ChatGPT, and will it change everything? How Chat GPT is AI future... (and I think it's smarter than me). In this video I'll cover exactly how the chatbot created by OpenAI is changing all industries, not just that of development and programming, and how chat gpt will be even making google redundant.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-what-is-chatgpt-and-how-you-can-use-it/",
+      "originalUrl": "https://youtube.com/watch?v=40Kp_fa8vIw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/40Kp_fa8vIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M39S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-12-15T11:51:30Z",
+      "heat": 208,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/40Kp_fa8vIw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_learning/videos/simplilearn-machine-learning-projects-for-beginners-2024-machine-learning-projects-with-source-codesimplilearn.md",
       "title": "Machine Learning Projects For Beginners 2024 |Machine Learning Projects With Source Code|Simplilearn",
       "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  Welcome to our channel, where innovation meets intelligence! In today's video, we're thrilled to",
@@ -157,6 +403,37 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/adrian-twarog-advanced-chatgpt-guide-how-to-build-your-own-chat-gpt-site.md",
+      "title": "Advanced ChatGPT Guide - How to build your own Chat GPT Site",
+      "excerpt": "Want to build your own ChatGPT or learn the advanced ways to use Chat GPT? This video will be a more advance tutorial about OpenAI and its AI models, how to do prompts, generate content, and finally build an application based on its API.  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-advanced-chatgpt-guide-how-to-build-your-own-chat-gpt-site/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-advanced-chatgpt-guide-how-to-build-your-own-chat-gpt-site/",
+      "originalUrl": "https://youtube.com/watch?v=bB7xkRsEq-g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bB7xkRsEq-g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M9S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2023-01-03T13:00:42Z",
+      "heat": 197,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bB7xkRsEq-g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -513,6 +790,37 @@
       ]
     },
     {
+      "path": "_learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc.md",
+      "title": "Let's Build ChatGPT 2.0 with React JS and OpenAI on your PC!",
+      "excerpt": "ChatGPT clone using the latest React JS and simple HTML and CSS. Built on top of Node JavaScript and Express, this will let you run your own instance of ChatGPT on your own PC!  ⭐ New - Teach Me OpenAI Digital Book ⭐ https://enhanceui.gumroad.com/l/teach-me-openai I've put together a easy to understand",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/adrian-twarog-lets-build-chatgpt-20-with-react-js-and-openai-on-your-pc/",
+      "originalUrl": "https://youtube.com/watch?v=qwM23_kF4v4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qwM23_kF4v4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M23S",
+      "provider": {
+        "name": "Adrian Twarog",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2023-01-03T13:00:29Z",
+      "heat": 145,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qwM23_kF4v4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_learning/videos/freecodecamporg-how-deep-neural-networks-work-full-course-for-beginners.md",
       "title": "How Deep Neural Networks Work - Full Course for Beginners",
       "excerpt": "Even if you are completely new to neural networks, this course will get you comfortable with the concepts and math behind them.  Neural networks are at the core of what we are calling Artificial Intelligence today. They can seem impenetrable, even mystical, if you are trying to understand them for the",
@@ -538,6 +846,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/dPWYUELwIdM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-ai-course-with-python-learn-artificial-intelligence-with-python-in-10-hours-simplilearn.md",
+      "title": "AI Course With Python | Learn Artificial Intelligence With Python In 10 Hours | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this comprehensive AI Course With Python course, we'll guide you through the foundations of AI,",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-ai-course-with-python-learn-artificial-intelligence-with-python-in-10-hours-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-ai-course-with-python-learn-artificial-intelligence-with-python-in-10-hours-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=26U2PChW2_s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/26U2PChW2_s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11H29M29S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-10-20T06:47:49Z",
+      "heat": 136,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/26U2PChW2_s/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -671,44 +1018,6 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-ai-architect-roadmap-for-2024-how-to-become-an-ai-solution-architect-in-2024-simplilearn.md",
-      "title": "AI Architect Roadmap For 2024 | How To Become An AI Solution Architect In 2024 | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  This video on \"AI Architect Roadmap For 2024\" will explain the skills that one should master to become",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-ai-architect-roadmap-for-2024-how-to-become-an-ai-solution-architect-in-2024-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-ai-architect-roadmap-for-2024-how-to-become-an-ai-solution-architect-in-2024-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=34ZrB8l17p4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/34ZrB8l17p4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M3S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-09-06T11:58:42Z",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/34ZrB8l17p4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/videos/simplilearn-random-forest-algorithm-in-machine-learning-random-forest-explained-simplilearn.md",
       "title": "Random Forest Algorithm In Machine Learning | Random Forest Explained | Simplilearn",
       "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  This Random Forest Algorithm in Machine learninig will explain how the Random Forest algorithm works.In",
@@ -748,77 +1057,94 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-top-5-highest-paying-ai-jobs-2024-high-paying-jobs-in-artificial-intelligence-simplilearn.md",
-      "title": "Top 5 Highest Paying AI Jobs 2024 | High Paying Jobs in Artificial Intelligence | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  🔥 Purdue Post Graduate Program In AI And Machine Learning: https://www.simplilearn.com/pgp-ai-machine-learning-certification-training-course?utm_campaign=28September2023TopHighestPayingAIJobs2024&utm_medium=Descriptionff&utm_source=youtube",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-5-highest-paying-ai-jobs-2024-high-paying-jobs-in-artificial-intelligence-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-5-highest-paying-ai-jobs-2024-high-paying-jobs-in-artificial-intelligence-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=mfaiBHennnA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mfaiBHennnA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M13S",
+      "path": "_learning/courses/coursera-sequence-models-for-time-series-and-natural-language-processing.md",
+      "title": "Sequence Models for Time Series and Natural Language Processing",
+      "excerpt": "This course is an introduction to sequence models and their applications, including an overview of sequence model architectures and how to handle inputs of variable length.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-sequence-models-for-time-series-and-natural-language-processing/index.json",
+      "webUrl": "https://www.coursera.org/learn/sequence-models-tensorflow-gcp",
+      "length": "13 hours",
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
         ]
       },
-      "publishedDateTime": "2023-09-29T06:26:20Z",
-      "heat": 132,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mfaiBHennnA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/8f/2e6640bc6d11e8b73f2961737adc73/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Sequence Models for Time Series and Natural Language Processing",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-machine-learning-with-python-python-machine-learning-full-course-simplilearn.md",
-      "title": "🔥 Machine Learning With Python | Python Machine Learning Full Course | Simplilearn",
-      "excerpt": "🔥 Become An AI & ML Expert Today: https://taplink.cc/simplilearn_ai_ml  This complete Machine Learning with Python video covers all the topics that you need to know to become a master in the field of Machine Learning. It covers all the basics of Machine Learning, the different types of Machine Learning,",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-with-python-python-machine-learning-full-course-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-with-python-python-machine-learning-full-course-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=aUt-iBX4G0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aUt-iBX4G0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9H10M31S",
+      "path": "_learning/courses/pluralsight-creating-machine-learning-models.md",
+      "title": "Creating Machine Learning Models",
+      "excerpt": "This course covers the important types of machine learning algorithms, solution techniques based on the specifics of the problem you are trying to solve, as well as the classic machine learning workflow. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-creating-machine-learning-models/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/creating-machine-learning-models",
+      "length": "2h 43m",
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
         ]
       },
-      "publishedDateTime": "2023-10-16T13:07:48Z",
-      "heat": 131,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/aUt-iBX4G0o/maxresdefault.jpg",
+          "url": "https://pluralsight.imgix.net/course-images/creating-machine-learning-models-v1.png",
           "width": 1280,
           "height": 720,
-          "isCached": true
+          "title": "Creating Machine Learning Models",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "$$",
       "topics": [
         "AI",
         "Machine Learning"
@@ -1088,239 +1414,6 @@
       ],
       "content": "",
       "type": "collection",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka.md",
-      "title": "Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka",
-      "excerpt": "🔥 Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka Machine Learning Full Course video will help you understand and learn Machine Learning Algorithms in detail. This Machine Learning Tutorial is ideal for both beginners",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=GwIo3gDZCVQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GwIo3gDZCVQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9H38M32S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-21T19:13:28Z",
-      "heat": 119,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-artificial-intelligence-the-future-rise-of-ai-elon-musk-bill-gates-sundar-pichaisimplilearn.md",
-      "title": "Artificial Intelligence & the Future - Rise of AI (Elon Musk, Bill Gates, Sundar Pichai)|Simplilearn",
-      "excerpt": "Artificial Intelligence (AI) is currently the hottest buzzword in tech. Here is a video on the role of Artificial Intelligence and its scope in the future. We have put together the best clips on Artificial Intelligence by the most well-known leaders and influencers such as Bill Gates, Tim Cook, Warren",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-artificial-intelligence-the-future-rise-of-ai-elon-musk-bill-gates-sundar-pichaisimplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-artificial-intelligence-the-future-rise-of-ai-elon-musk-bill-gates-sundar-pichaisimplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=wTbrk0suwbg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wTbrk0suwbg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M52S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-26T12:41:51Z",
-      "heat": 117,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wTbrk0suwbg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-what-is-artificial-intelligence-artificial-intelligence-ai-in-10-minutes-edureka.md",
-      "title": "What Is Artificial Intelligence? | Artificial Intelligence (AI) In 10 Minutes | Edureka",
-      "excerpt": "** Machine Learning Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training ** This edureka video on Artificial Intelligence will help you understand the concept of AI and how it is used in the real world to solve complex data driven problems. The following topics are",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-what-is-artificial-intelligence-artificial-intelligence-ai-in-10-minutes-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-what-is-artificial-intelligence-artificial-intelligence-ai-in-10-minutes-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=oV74Najm6Nc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oV74Najm6Nc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M16S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-05-08T13:41:47Z",
-      "heat": 116,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oV74Najm6Nc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-deep-learning-in-5-minutes-what-is-deep-learning-deep-learning-explained-simply-simplilearn.md",
-      "title": "Deep Learning In 5 Minutes | What Is Deep Learning? | Deep Learning Explained Simply | Simplilearn",
-      "excerpt": "This video on \"What is Deep Learning\" provides a fun and simple introduction to its concepts. We learn about where Deep Learning is implemented and move on to how it is different from machine learning and artificial intelligence. We will also look at what neural networks are and how they are trained",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-in-5-minutes-what-is-deep-learning-deep-learning-explained-simply-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-in-5-minutes-what-is-deep-learning-deep-learning-explained-simply-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=6M5VXKLf4D4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6M5VXKLf4D4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M52S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-06-03T13:12:29Z",
-      "heat": 115,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6M5VXKLf4D4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/freecodecamporg-deep-learning-crash-course-for-beginners.md",
-      "title": "Deep Learning Crash Course for Beginners",
-      "excerpt": "Learn the fundamental concepts and terminology of Deep Learning, a sub-branch of Machine Learning. This course is designed for absolute beginners with no experience in programming. You will learn the key ideas behind deep learning without any code.  You'll learn about Neural Networks, Machine Learning",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/freecodecamporg-deep-learning-crash-course-for-beginners/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/freecodecamporg-deep-learning-crash-course-for-beginners/",
-      "originalUrl": "https://youtube.com/watch?v=VyWAvY2CF9c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VyWAvY2CF9c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H25M39S",
-      "provider": {
-        "name": "freeCodeCamp.org",
-        "domain": "freecodecamp.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/freecodecamp.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-07-30T13:30:03Z",
-      "heat": 114,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VyWAvY2CF9c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-chat-gpt-explained-in-5-minutes-what-is-chat-gpt-introduction-to-chat-gpt-simplilearn.md",
-      "title": "Chat GPT Explained in 5 Minutes | What Is Chat GPT ? | Introduction To Chat GPT | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In today's video on ChatGPT explained, we will understand what is chatGPT and how OpenAI was able",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-chat-gpt-explained-in-5-minutes-what-is-chat-gpt-introduction-to-chat-gpt-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-chat-gpt-explained-in-5-minutes-what-is-chat-gpt-introduction-to-chat-gpt-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=3ao7Z8duDXc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3ao7Z8duDXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M12S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-01-24T11:44:39Z",
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3ao7Z8duDXc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
       "topics": [
         "AI"
       ]

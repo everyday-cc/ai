@@ -22,6 +22,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Marketing
+  - Microsoft AI
 
 images:
   - url: https://i.ytimg.com/vi/S2gCNQG1lKk/maxresdefault.jpg

@@ -4,6 +4,45 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/simplilearn-knn-algorithm-in-machine-learning-knn-algorithm-using-python-k-nearest-neighbor-simplilearn.md",
+      "title": "KNN Algorithm In Machine Learning | KNN Algorithm Using Python | K Nearest Neighbor | Simplilearn",
+      "excerpt": "Become An AI & ML Expert Today: https://taplink.cc/simplilearn_ai_ml 🔥AI & Machine Learning Bootcamp(US Only): https://www.simplilearn.com/ai-machine-learning-bootcamp?utm_campaign=KNNInMLMachineLearning&utm_medium=Descriptionff&utm_source=youtube 🔥Professional Certificate Course In AI And Machine",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-knn-algorithm-in-machine-learning-knn-algorithm-using-python-k-nearest-neighbor-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-knn-algorithm-in-machine-learning-knn-algorithm-using-python-k-nearest-neighbor-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=4HKqjENq9OU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4HKqjENq9OU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M43S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-07T09:13:20Z",
+      "heat": 94,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4HKqjENq9OU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/videos/freecodecamporg-scikit-learn-crash-course-machine-learning-library-for-python.md",
       "title": "Scikit-learn Crash Course - Machine Learning Library for Python",
       "excerpt": "Scikit-learn is a free software machine learning library for the Python programming language. Learn how to use it in this crash course.  ✏️ Course created by Vincent D. Warmerdam.  ⭐️ Course Contents ⭐️ ⌨️ (0:00:00) introduction ⌨️ (0:03:08) introducing scikit-learn ⌨️ (0:34:36) preprocessing ⌨️ (0:53:36)",
@@ -1436,45 +1475,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/vNc2z2u_nh0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-object-detection-using-opencv-python-object-detection-opencv-tutorial-simplilearn.md",
-      "title": "Object Detection Using OpenCV Python | Object Detection OpenCV Tutorial | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video on \"Object Detection Using OpenCV Python, \" we will learn how to create an Object detection",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-object-detection-using-opencv-python-object-detection-opencv-tutorial-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-object-detection-using-opencv-python-object-detection-opencv-tutorial-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=luWCJ2pWmhM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/luWCJ2pWmhM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M24S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-03-03T13:27:08Z",
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/luWCJ2pWmhM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
