@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/anthropic-slashes-ai-pricing-amid-risin
 webUrl: "https://venturebeat.com/ai/anthropic-slashes-ai-pricing-amid-rising-competition/"
 type: article
 quality: 67
-heat: 97
+heat: 89
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.crn.com/resources/0287-198542f7c5a1-4c7ca8952b0e-1000/justin-copie-innovative-solutions.jpeg"
         width: 611
         height: 459
-        isCached: true
-  - title: "With OpenAI's future in limbo, its startup customers are looking to jump ship to other AI models offered by rivals Anthropic and Meta"
-    excerpt: "Many startups build on top of OpenAI's models, and are looking at alternatives from Anthropic and Meta in the wake of Sam Altman's ouster."
-    publishedDateTime: 2023-11-21T03:13:00Z
-    webUrl: "https://www.businessinsider.com/openai-startup-customers-considering-anthropic-meta-aimodels-2023-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/6552aa3e385143459e8c5757?width=1200&format=jpeg"
-        width: 1024
-        height: 512
         isCached: true
   - title: "Anthropic updates Claude 2.1 AI chatbot to process bigger files and improve safety"
     excerpt: "Anthropic, an artificial intelligence startup geared toward building trustworthy AI models to rival OpenAI LP’s ChatGPT, today announced an upgrade to its Claude chatbot that advances its core features with significantly improved safety, a much larger context window and a new third-party tool use feature."

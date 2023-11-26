@@ -244,20 +244,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "‘We are a little bit scared’: OpenAI CEO warns of risks of artificial intelligence – The Guardian"
-    excerpt: "Sam Altman stresses need to guard against negative consequences of technology, as company releases new version GPT-4Sam Altman, CEO of OpenAI, the company"
-    publishedDateTime: 2023-11-21T04:35:00Z
-    webUrl: "https://www.inferse.com/801620/we-are-a-little-bit-scared-openai-ceo-warns-of-risks-of-artificial-intelligence-the-guardian/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-11818.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI roundup: OpenAI CEO returns, Stable Video Diffusion, Anthropic…"
     excerpt: "Tweet-Reply Of The Week goes to the wag who wrote “the lengths this man will go to not use Microsoft Teams” in response to the announcement that OpenAI co-founder Sam Altman is returning as CEO days after being ousted and joining Microsoft."
     publishedDateTime: 2023-11-22T08:32:00Z
@@ -482,6 +468,6 @@ related:
       domain: ft.com
     quality: 0
 
-secured: "4NTzZM3/lsehGDJzbvsABE2GtdDHvHngRtj4gN64Myi/+Dt7Tqk7JgF1h4b0yBw8L3Xez3HtA7t82tffrEIJVtanJOtMb7R9gtVa8sv9Rhp8jHVgHi6JebAzzBwrg5TaQvy6X2QpIfh2MZBaAM2P1uLDcuNNec9An08A8OefSpHJp8dZkOgrLO8pD0XJ9fUYlgBogbuxVIelAnMHI8Mm6L791PeQzgXhZ3v6oFBYjNNosH+AnJZItGLF1KwNWhvMPfdT1LCjc5LTKRv3trphcZc7JlNvgs7MRcUI6tihcER0WyQfTQvBbzCD5j+BwYmJncLYsck+dKjc53Zafqx2UXI7zL4KpD1KAFqWBOkweEo=;MeSUf7bq6i6ni0gRuIu8Fw=="
+secured: "MG9N51gjh2juOiYelZrO8/Og7GvvJSHjLgD0hGt4KKVAYj8te2yulst3+hNCrKmEBlUfKL5W9YFBRFoDT3cJg43T3ik5wc0W+IHWEVTGhIkiDAFZs3pdEcymwOtVFW0t1xpHDSx+vDaUbUsxo4Y/EPGoFTyhEFUiT++7emLeb8sxdu7426WqL9cE+7RYCQqgXqrcbS6Q0cL8OcHRxWIspb7sv3zlpmRJhWL0zA6gbNpwWxeVXpQa644FeQfqLdD8nTNq0rKGFb1oJWNEJIJOeaiP5hC3a4v1jhE3PJ5ktTICMpSV+YIyg1imoeY24Wt9+rn/8qvX6IVHoRPK/7BPI8aQY9+6s1yr03q5ui3fgrKrm8+J5LmscvVeRMGz0FcHIqzRRUsq/exe6NUVKYjHc8+yrBorpqKuZH4wksOd/RbT4QUM3xUh+e8KcQ8XrOiJyOjlhrcAButkZTjJvgJ8mmHlHTIAs8vHBP4KIuYxuLYCkNFbqHSOQDyObaqlpC0blWAqKfg1YGdro4PeQipRxA==;8SzY9oQrj45Qp0FFb2wW6A=="
 ---
 

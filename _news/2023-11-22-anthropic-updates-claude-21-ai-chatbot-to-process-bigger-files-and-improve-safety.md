@@ -46,20 +46,6 @@ related:
         width: 611
         height: 459
         isCached: true
-  - title: "With OpenAI's future in limbo, its startup customers are looking to jump ship to other AI models offered by rivals Anthropic and Meta"
-    excerpt: "Many startups build on top of OpenAI's models, and are looking at alternatives from Anthropic and Meta in the wake of Sam Altman's ouster."
-    publishedDateTime: 2023-11-21T03:13:00Z
-    webUrl: "https://www.businessinsider.com/openai-startup-customers-considering-anthropic-meta-aimodels-2023-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/6552aa3e385143459e8c5757?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "Fwie+ebAFIhoYc+GEsBAb6LB84V572MUWgZHj1VYoqNORC9bwAE57ZnRRTpwaQKyy9bwFAlsLFsFeHCEEHgQjdE2NvS+ynWlN5lusn8D2MO5S/2ZjrsQqwNOEB2XO0AbsuG5WAU1J8carKcnsATC51/uce8mollnhazV1NpcochaZk3N8Cc4Dluu12jlKePVjM3AZ+TUzfLhTsfUp34iiH+gA63p8N9eKppKiJAdZRVo2rKtO8eshXc0NxBJdre60k2ZdvNDrR3z+mc4Qtz62Qi1bBSDqZb023uOx77BSudupawxuJD7dA1XzPRzUJg5je+UvjsA21tkSqBKSImEBu7/66Wjtx48dos/jFFIpkBR4z3x0MYBsARccTRRLwjJyzYSmlz01yx2GopT8zQ49ryFLGSEGBHHNotxuMov8IybQSRfb5jeOKzE+5EmUVhnGRXBxjth6ZFqXLRuzYPuWhkaa0yE8Gcxs2o0EVTHjA7QgV+w8ov9AVfkfXPaDaMskNloAbRWPU00QHSwfXhgag==;cehLHiXYEOXZj/tbUcQMGA=="
 ---

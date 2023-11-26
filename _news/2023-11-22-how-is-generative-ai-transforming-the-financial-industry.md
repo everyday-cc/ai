@@ -41,20 +41,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "AI-powered financial technology revolutionising lending"
-    excerpt: "Leading and emerging banks, fintech companies and some of Australia’s most iconic consumer brands are implementing AI-powered technology to revolutionise their customer engagement and lending offerings. Upon pairing this technology with human nous ..."
-    publishedDateTime: 2023-11-21T04:57:00Z
-    webUrl: "https://www.afr.com/companies/professional-services/ai-powered-financial-technology-revolutionising-lending-20231116-p5ekm7"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.4588%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/2cca9ba21a230b745bb4d444cbd064d439f3aeb6"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Artificial intelligence: who are the leaders in fault monitoring AI for the automotive industry?"
     excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is leveraging artificial intelligence (AI) for fault monitoring due to the increasing complexity of vehicles,"
     publishedDateTime: 2023-11-24T12:41:00Z

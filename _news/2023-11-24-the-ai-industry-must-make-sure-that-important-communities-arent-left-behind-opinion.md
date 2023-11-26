@@ -2,23 +2,27 @@
 category: news
 title: "The AI industry must make sure that important communities aren’t left behind | Opinion"
 excerpt: "The age of AI has begun. But as artificial intelligence (AI) continues to scale across industries and functions, it is imperative that marginalized and underrepresented communities are afforded the opportunity to thrive in the age of AI, and not get left behind."
-publishedDateTime: 2023-11-24T10:30:00Z
-originalUrl: "https://www.newsobserver.com/opinion/article282121043.html"
-webUrl: "https://www.newsobserver.com/opinion/article282121043.html"
-ampWebUrl: "https://amp.newsobserver.com/opinion/article282121043.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article282121043.html"
+publishedDateTime: 2023-11-24T12:30:00Z
+originalUrl: "https://www.aol.com/news/ai-industry-must-sure-important-103000190.html"
+webUrl: "https://www.aol.com/news/ai-industry-must-sure-important-103000190.html"
 type: article
 quality: 31
 heat: 31
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://media.zenfs.com/en/aol_charlotte_observer_mcclatchy_259/28755a383c34f5e9104cae08db823dd5"
+    width: 1140
+    height: 760
+    isCached: true
 
 related:
   - title: "Artificial intelligence: who are the leaders in adaptive driver alerting for the automotive industry?"
@@ -78,6 +82,6 @@ related:
         height: 810
         isCached: true
 
-secured: "XFjBGnZkTil8GmJfBpR5AXQa90sBsWEdxqz6tXV2UPj9x+Pij0hK6uSjFEJdmXLPUlom7xykXqIPpozLACcGstpMFXLqoaBThYLQDmITlazz9S2Rn6ASwn9W7Aq8NtcsJ+tiGtj5gC02C8vQhWACF7VWQcJ/W90wCj7MTwQG5NHuInNOFLYJ3SRfpgngum+KxtCQ4Y62LPkDIuzen0hZcBkAtEZ5jojTEqFvMIC8iBsc+9D8sgYrTqLaoIDMk/kn3OLiIe1oal921ecgJmskMBgipOh+Y8WyJPwsxJlhDqVEKgen+TuIT/1tzwyAcWRUNkQtAoiorU4vUkLMWnw3VsbsiLogoSMFluk0C6mV6qUqeconH9FQB8TXTTOz1q9aVs4yL3il9cL8zZ2I7hpACwaeoJccMTEvWjW+DzuCRawJEc936KxqLPNGc/tqH050KnBtm+BShvJ/tImw+dQ2qpv9/dEYPdGxG/jkSIeaHx91j6yOqAN3jLLdv8Nq0/4VUVLK+8SZRXzeOkxfJykzEg==;CvVOH+fXDaD+8iyX12i3WQ=="
+secured: "0DrBgRiUbyekNXbmcwWrqNppo4gcVYCq9xoEERXvDTVgtLtRH7sEVWZvmtuQPsBrdr3T4CPPXBgneLuCuDGiiuxPcp40WuZ4EkgR7+Bp7L/IMsk/r+V5dAGFawZwI1CM+lJKiK0rqziozsep8X0BI3Mt1eVUhD9nYoHTlLjY0ylhmQmYfGh10dNZdHKlwy0X/fCeu4o4rgE5ACyA6r7gebaWDmAZc4rAc4eBbhRQmK6AM2TxE7Nw6mykLCh559pLnaEDbLP+AXvRv5OI3S2hLh+Q0UX4esVAt+IWV5GjJhNGHumwYWzhVCUjt+DWahQ5S5zbWWooSAi2y5bpqLWOjh2BAfbsQt/BMktN4Cd6YRA=;5tvvYJcXAcTHMZiDKmSBQQ=="
 ---
 

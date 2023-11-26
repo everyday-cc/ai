@@ -245,20 +245,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "‘We are a little bit scared’: OpenAI CEO warns of risks of artificial intelligence – The Guardian"
-    excerpt: "Sam Altman stresses need to guard against negative consequences of technology, as company releases new version GPT-4Sam Altman, CEO of OpenAI, the company"
-    publishedDateTime: 2023-11-21T04:35:00Z
-    webUrl: "https://www.inferse.com/801620/we-are-a-little-bit-scared-openai-ceo-warns-of-risks-of-artificial-intelligence-the-guardian/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-11818.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "OpenAI researchers warned board of AI breakthrough"
     excerpt: "Some at OpenAI believe Q* (pronounced Q-Star) could be a breakthrough in the start-up’s search for what’s known as artificial general intelligence (AGI), one of the people said. OpenAI defines AGI as autonomous systems that surpass humans in most economically valuable tasks."
     publishedDateTime: 2023-11-23T04:38:00Z

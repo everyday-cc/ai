@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Geospatial generative AI with Amazon Bedrock and Amazon Location Service"
-excerpt: "Today, geospatial workflows typically consist of loading data, transforming it, and then producing visual insights like maps, text, or charts. Generative AI can automate these tasks through autonomous agents. In this post, we discuss how to use foundation models from Amazon Bedrock to power agents to"
-publishedDateTime: 2023-11-22T14:18:22Z
-originalUrl: "https://aws.amazon.com/blogs/machine-learning/geospatial-generative-ai-with-amazon-bedrock-and-amazon-location-service/"
-webUrl: "https://aws.amazon.com/blogs/machine-learning/geospatial-generative-ai-with-amazon-bedrock-and-amazon-location-service/"
+title: "Tech firm uses a brace of generative AI tools to slash content production times"
+excerpt: "The company, which makes a secure platform for file sharing, file transfers and email, uses a suite of generative AI platforms for everything from email marketing to sales training. Executives estimate they’ve realized 10-fold efficiency improvements while doubling inbound search traffic and generating a record volume of sales leads."
+publishedDateTime: 2023-11-26T01:22:00Z
+originalUrl: "https://siliconangle.com/2023/11/24/tech-firm-uses-brace-generative-ai-tools-slash-content-production-times/"
+webUrl: "https://siliconangle.com/2023/11/24/tech-firm-uses-brace-generative-ai-tools-slash-content-production-times/"
 type: article
-quality: 68
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: AWS
-  domain: aws.amazon.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
+  - Natural Language Processing
   - AI
-  - AWS AI
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ezgif.com-webp-to-jpg-1.jpg"
+    width: 1024
+    height: 764
+    isCached: true
 
 related:
   - title: "Amazon Textract’s new Layout feature introduces efficiencies in general purpose and generative AI document processing tasks"
@@ -51,6 +53,15 @@ related:
         width: 1200
         height: 686
         isCached: true
+  - title: "Geospatial generative AI with Amazon Bedrock and Amazon Location Service"
+    excerpt: "Today, geospatial workflows typically consist of loading data, transforming it, and then producing visual insights like maps, text, or charts. Generative AI can automate these tasks through autonomous agents. In this post, we discuss how to use foundation models from Amazon Bedrock to power agents to"
+    publishedDateTime: 2023-11-22T14:18:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/geospatial-generative-ai-with-amazon-bedrock-and-amazon-location-service/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
   - title: "Adobe Express rolls out new generative AI features – The Verge"
     excerpt: "By Jess Weatherbed, a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and"
     publishedDateTime: 2023-11-26T03:37:00Z
@@ -65,21 +76,7 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tech firm uses a brace of generative AI tools to slash content production times"
-    excerpt: "The company, which makes a secure platform for file sharing, file transfers and email, uses a suite of generative AI platforms for everything from email marketing to sales training. Executives estimate they’ve realized 10-fold efficiency improvements while doubling inbound search traffic and generating a record volume of sales leads."
-    publishedDateTime: 2023-11-26T01:22:00Z
-    webUrl: "https://siliconangle.com/2023/11/24/tech-firm-uses-brace-generative-ai-tools-slash-content-production-times/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ezgif.com-webp-to-jpg-1.jpg"
-        width: 1024
-        height: 764
-        isCached: true
 
-secured: "QAL3zqMERBNU1YURgxihy9sIYIZzzow0iqe3W392iNxRC3VCoWNXn8/2KYdo5kpj7a64S1V7nFzzpx46OE0S+f8Wa1LIWt/piMXP7ZkTM3Oz/JBZevWUqWxRw62q4rCAe2n8Vi1MUAoTk98lU7OVut2Xxn8vmpmnG/oRzM105BrIW/E5gfbNeWK6ZMoUAzktIB4Q+/dlGkCtXsItHqgBjBhBI77fBSznsbmE36ZeXTxuLBFi5H9SpTh4QfzF/wWpExb3Yd5XAzp7/7IBkuWhmdZUMYdB6LQQ5cnsHFh3g4oT3wG/ua5OYqed82M6caPZW4nEsAI4xrFqnSZ7lJRYH4jlg20rY9U/2de9l7T1vlY=;M2wfeIynEmtiFqP5tLT57Q=="
+secured: "S6YoqQfGaCIBJbZUp1e1lhbqQWvMaW+qeWBvbWIiK58Qh2voKjrMFCO6fXC/aIgl+5Vx/ZAPw7QYxLQhvgfVBaaeXz0+whZ3nVDTnnJbcgpsi6lX1VzIhKo6jYL10SWDnrin1wOteXaVp9gfm02QcSyNm1eyBq5ANdvjSHGmivM1n2IEFNyj+gTR/fYqa7pj0T0FAs8rozLYGOB+4Tg0yKFSSYXP4dbFCfRbdjP/52SX5kf0q0aVtDB1vw0Uqg72LUXkBGmX0vXedyB1b84TwWRkj24X6bfIGy0S6MC9xszK7drcICyiydUdPbVQna8oaWUUXBbGsABWAY+PdkaWjE8DD4SK1CXmQhXtDbKH180=;QKmVi4/AKY3aDtrO1jxAhA=="
 ---
 

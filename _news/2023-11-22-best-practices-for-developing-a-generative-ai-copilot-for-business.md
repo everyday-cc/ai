@@ -52,6 +52,34 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 68
+  - title: "Adobe Express rolls out new generative AI features – The Verge"
+    excerpt: "By Jess Weatherbed, a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and"
+    publishedDateTime: 2023-11-26T03:37:00Z
+    webUrl: "https://www.inferse.com/805757/adobe-express-rolls-out-new-generative-ai-features-the-verge/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13819.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tech firm uses a brace of generative AI tools to slash content production times"
+    excerpt: "The company, which makes a secure platform for file sharing, file transfers and email, uses a suite of generative AI platforms for everything from email marketing to sales training. Executives estimate they’ve realized 10-fold efficiency improvements while doubling inbound search traffic and generating a record volume of sales leads."
+    publishedDateTime: 2023-11-26T01:22:00Z
+    webUrl: "https://siliconangle.com/2023/11/24/tech-firm-uses-brace-generative-ai-tools-slash-content-production-times/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ezgif.com-webp-to-jpg-1.jpg"
+        width: 1024
+        height: 764
+        isCached: true
 
 secured: "nvJYzJ2Y4nK5xCAWueZRqItFKTfmbCSshFBKPlkfH7ujpNrF6nkYOSaBpgh9mpSzv9VC70BjHsK8NPnodwlzxqozCjdV5zxLXVfuU+YVj7tv8WCK1sfKWgsFjfDwJ4TGW073TCS18WqxrAywEBH2eSRDO0aTiiCE8OFt7W5/QDipIGPUrbuD00te4qSUttRuz8wysipWismqqmW7PKgRi5A6UoyRXsrbyVdjFNV/ocY5WyBBLUipsqTAfkyX8rURvqptAmYHO5U5i05ZLtDBRtsGKCmKWjMHkG762R0j6SJb0gCd6mgvvzDBQDwkjZ0dEhoQZVoCeqhyFC1FNUha8V2WPBAYQMVAkRP1FcqP67Y=;HhFlpjI5ozeyH2Ibv+ZPfA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna126214"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna126214"
 type: article
 quality: 89
-heat: 419
+heat: 409
 published: true
 
 provider:
@@ -230,20 +230,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "‘We are a little bit scared’: OpenAI CEO warns of risks of artificial intelligence – The Guardian"
-    excerpt: "Sam Altman stresses need to guard against negative consequences of technology, as company releases new version GPT-4Sam Altman, CEO of OpenAI, the company"
-    publishedDateTime: 2023-11-21T04:35:00Z
-    webUrl: "https://www.inferse.com/801620/we-are-a-little-bit-scared-openai-ceo-warns-of-risks-of-artificial-intelligence-the-guardian/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-11818.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AI roundup: OpenAI CEO returns, Stable Video Diffusion, Anthropic…"
     excerpt: "Tweet-Reply Of The Week goes to the wag who wrote “the lengths this man will go to not use Microsoft Teams” in response to the announcement that OpenAI co-founder Sam Altman is returning as CEO days after being ousted and joining Microsoft."
