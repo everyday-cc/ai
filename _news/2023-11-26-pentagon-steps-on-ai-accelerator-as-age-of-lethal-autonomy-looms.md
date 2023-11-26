@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Pentagon steps on AI accelerator as age of lethal autonomy looms"
-    excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"
-    publishedDateTime: 2023-11-25T15:59:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_0773b4937801e7a0573f44b57a9a5942_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons."
     excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"
     publishedDateTime: 2023-11-26T01:18:00Z
@@ -50,6 +34,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pentagon steps on AI accelerator as age of lethal autonomy looms"
+    excerpt: "Artificial intelligence employed by the U.S. military has piloted pint-sized surveillance drones in special operations forces’"
+    publishedDateTime: 2023-11-25T14:48:00Z
+    webUrl: "https://mynorthwest.com/3940672/pentagon-steps-on-ai-accelerator-as-age-of-lethal-autonomy-looms/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 39
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
+        width: 452
+        height: 282
+        isCached: true
   - title: "Pentagon amps up AI program as lethal autonomy looms"
     excerpt: "For years, U.S. military services have continued to increase their use of AI technology, but only in the past decade have they embraced revolutionary advances in artificial intelligence that will fundamentally alter the nature of war."
     publishedDateTime: 2023-11-25T16:42:00Z
@@ -64,6 +62,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Amazon Invites Applications for Free Courses on Artificial Intelligence"
+    excerpt: "Amazon, the US-based internet giant, has announced that it would offer free educational courses on generative AI as part of"
+    publishedDateTime: 2023-11-23T05:41:00Z
+    webUrl: "https://www.dqindia.com/amazon-invites-applications-for-free-courses-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
 
 secured: "EbFNQ0qSNM+N3NuRwQguH93NjCH5Yo/6ygjR8INmW7IkvUDq3mKgaAy12r4sBEeIHs2niLNTg+0z/2i01MrhxZR/2I2DGb4z+Ly9xXz09HA2Q16aVqA37t3WP3rnp5/Hog8XgPCwiCpdf1UqIlxb0v/O3r2d/4NBkCagA/wCJMsYI7ei3CeIy7q/LExxelwdRZI1nIjxsdAbIfhew3Q0v7e06GPTz7VwWgZSn9oM+VnC3WLvfSN0uE1wpbL35TBFR45w+0bWFXW1EFNM0UuUMZ6Veci0d7MkGcEVeABI5hoF1JwKeaBwXdrEA7w2iVsv7+pdqbw6zaaLDzv0+vFQ7mISswp3D5RfDBeupSO4njP37JasVg6WbVOM48yX8/FS19uAMDmvt+dXDWcMWacCuUdwwv2TBDikoFHytbAnYRykv7hDefg00WUAR9R4fKchhLXSlYThROIoVvPfeSImV2A/zaedxjOE6jop9DOV4ouW8ITHbemY3EagZgz3tuUdaf7+yXObVgVlCb+NcCcd3g==;Kn0LC6F5VltCUhD5dQ4BxA=="
 ---

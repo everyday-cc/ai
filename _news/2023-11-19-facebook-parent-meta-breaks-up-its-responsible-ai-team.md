@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Meta AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/107300081-1694615776137-gettyimages-1662740663-AFP_33V44JW.jpeg?v=1698249601"

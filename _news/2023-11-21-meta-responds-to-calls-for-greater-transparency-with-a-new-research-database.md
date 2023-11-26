@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2023/11/21/1083760/meta-transparency-r
 ampWebUrl: "https://www.technologyreview.com/2023/11/21/1083760/meta-transparency-research-database-nick-clegg/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/21/1083760/meta-transparency-research-database-nick-clegg/amp/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Meta AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/research-tools3.jpg?w=3000"

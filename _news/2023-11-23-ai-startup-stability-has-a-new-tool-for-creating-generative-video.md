@@ -32,7 +32,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 49
+    quality: 71
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.29.08-Photo-of-a-person-of-Hispanic-descent-in-a-relaxed-pose-having-a-video-conference-with-an-advanced-looking-robot.-The-laptop-from-which-the-call-is-m-e1700766229577.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "+nfBv8hYaMKWNdA8H2HxckW6aU9uPxfId4exOjW7BIg5lRRBBoxnSTygtcYCqT8JSg2/K4DUcXZw79YHHAGl1ToXS9dwGQ7iEsXgiGqOVb5HdYALXLOBIkMdd53NNLS5RAnNeyGzwW6iaEUNYHjgRgQX0XefdPMIPOyjdL34LZlS8BMNY9FCAFyIS6IWcZHdmywxWILHYItirRLT/R7Z5IJmE+4qaqNgOxbgeOI4vtQK7xOmmH1mJwKtk7EguHiZq2rRFOS2m/yNILTIBK4Ru5cAjCJ8/a69USIhSsxu4VOZ7M/zOeNMuabG3xW7bYrpdgzw0M0GMO1cvTkPeG0rcZLrPumwJJtaCwW6rTg4ro8etQsP4gFbFs5lHufBM4eNBMUDmHqFxiFzp22TvKqTsOw+veF2B8Q2nkdmZ+7TN2ziDzY5ndI5LvqLzNUeV4DzFHgYF1/gDbNB/UCFlNIxFuzw8XctmjB0kuN13Y6SINOFEd8Grr0yzUcgTTdar2iGUNRHoFD8b0jPwaY02pLKiw==;//jZFM5AUnHMH4yW4S3vAw=="
 ---

@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-8059.png"

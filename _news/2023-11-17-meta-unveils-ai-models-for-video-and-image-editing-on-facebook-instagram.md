@@ -5,6 +5,8 @@ excerpt: "Meta Platforms unveiled a suite of AI models designed to revolutionize
 publishedDateTime: 2023-11-17T08:55:00Z
 originalUrl: "https://www.coinspeaker.com/meta-ai-models-video-image-editing/"
 webUrl: "https://www.coinspeaker.com/meta-ai-models-video-image-editing/"
+ampWebUrl: "https://www.coinspeaker.com/meta-ai-models-video-image-editing/amp/"
+cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/meta-ai-models-video-image-editing/amp/"
 type: article
 quality: 17
 heat: -1
@@ -17,6 +19,13 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Meta AI
+
+images:
+  - url: "https://www.coinspeaker.com/wp-content/uploads/2023/11/meta-ai-models-video-image-editing.jpg"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "Meta unveils new AI tools for video asset creation and picture editing"
@@ -29,6 +38,6 @@ related:
       domain: searchengineland.com
     quality: 19
 
-secured: "gXoWrgwjpFSd2giT22QiOnfrDvb9Zwiumx4Y9KYMPOkBBBm1oubwlRe7uZBOcILNWXBnsi6UTVogPQxFqjJwT3fByBvyWD0fkeDCT9WC3zd4rRI7eKoAhXf4Fw8zDfe6Hs8xd9MqzAEhczZfhTPD/W26000sj7qXbIWwiPveo7rM3jDdTgd+oYZVbWT3AG5H87qhRZnjkeAMzdYCoNLXIWMQge6HzaBoNoQhaM8tbYKMy8RBjjvWeQJt71PWXxf1pRRDKUhWdjlwFln7Fwzj6/xaxkGrbaf1lrWeSUKUPre5uvzaTetgRMVgDtRwqKuOoBQ4dV2ONqYAlRhWIfZM5lAVX69TFiT82ox+gO0g9CWpgHNGb2eVs3CiLOCZh3vxCFtpRzVPekepUV/qLBPSpP5uoxRugzq6iKkqW+foBntfU79w33r9TkVGrRl4zYCmQadl5GQvjvQF80xkM+Wq+7RtFTatyPTNeGGsRlAHG7vxYQ67i8Q3kt0ZQKQTWa+QlOR5Ulw0ul5foSDDHUhy0Q==;yrqVXwxVRAXvg4mH6jnv2g=="
+secured: "GWeIxU96jiqvGYoXBKvmNv4opraym7Y0UUOu7OElsPiRgC7Rp2gqbZOSPb/catW35ZqJ445XIFZBstwh7c6OrQemcZ90XOKNW5lN0hljyOXuD8RtJFfObawDR5umNn7WARqsXZ/HUfFlsmr1bGqm5ujFDHwpCWX3UAJOOY5B5rQxSVdC1DP5M80ZPTTuV3Ul80fcwPsvmiDdbRsBzWLBhtDjg7/DJibcIcvQRgTNqj5zqOESEKMqiUQP0SttyHRJ4hqCQomutzYI8kFHSTI79Iciy/7atsZ8DUV6QyKxwOaT/aoa3St8qPl8bR8FrKczDJAZYARCi7DAjq7iaZbnRLCbWK7xQO+dbz1KkdN0YcQ=;zteh8o3sl6XLKMogeG/Cuw=="
 ---
 

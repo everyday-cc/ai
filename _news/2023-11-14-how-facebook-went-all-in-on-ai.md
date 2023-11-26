@@ -5,6 +5,8 @@ excerpt: "Inside Facebook and the Fight to Expose its Harmful Secrets, Jeff Horw
 publishedDateTime: 2023-11-14T12:00:00Z
 originalUrl: "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/"
 webUrl: "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/"
+ampWebUrl: "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/amp/"
 type: article
 
 provider:
@@ -14,7 +16,14 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Meta AI
 
-secured: "uXxtI/zkhPY26aThX9ovD9LNz0pqj68sTHhk7BonSY/dvdMz8A6LkJxAfxq5pA3/zQ7raqM2JQjmF0OrN/ltC+5MkBGOUqF1tdQ8rfAZ/0I5hTu0jr2ggZ71OlnuYgOrus3kQqM5WH98/BVxJTOWccXjq+M9j+x7kN3ytJ6OAtf5D+DNRdsSmQD/K4PTbUAl7Cvlu5X7v+3M5L+JLLOcWtFVO2xXOAH7AO8GtgZGyqR64xJD22oXgA2FTvJE+tZYcb9LikA4hYEe1HfcVc4ZLlFMQz3MFfjXUqpWFWGZSWOsNpVFZVFSPluVXn0ArIjvUAz7KkaLXZrjz22ymcDBpV8hHyoMLpJ6zAwCmlJm//Pk7Ohy9/HEjqw8Aukx31vOJHbHc53HOzRG0wGmhbFrAY0CB4xdRNOl62xFAdMtdaFYiRp6Wa9SkJKtTBvHTgEaCSXx+kxyu8oL1s8Ej+RVrjL6hAkZtdZHzMbwAR/B01Py6Sk0OzjJk7KEHm+iJb3tV2moAJwjUkm7q69fbA89TQ==;CtPxiC2weipU2kpYisxcKw=="
+images:
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/horwitz-cover.jpg?w=3000"
+    width: 3000
+    height: 1688
+    isCached: true
+
+secured: "19vvV9Cd74/uB5v8FkCnkQQ9B8j/ra0rXjksfVdp0aMVYjcELEdl7cZ7GXENjXkNFHoczEM6ej0m6OECMR82JiYZ+zX5ciLKzV6BBKH1nyA6+ZOtiLh+KR6vCe/0vLmsN5Pxl/NsP0pkWWHWFzKuj8/LHQkZ/DWNjGPzR+vMf5KGHyGYCXA4oc1QPJpTM2MeU2L1yTzZx5nAWTT/JsvIKmlHQTCj5cOlLi+TJWzRfoEa4mMoWIwq9mq20nTV89Zfkk0eRlxSVBUGN1kxGYhPoalYxU6VvZp0gWgZ/OBv4rZ8EwaNnKz1lLbmyFhN0uLNgHiuhXHGrs0fFfaYTVKFQxY1BKE3QCtR+0fTkL5P7/I=;4zQFtS+qsu6EvKPd4eDOCQ=="
 ---
 

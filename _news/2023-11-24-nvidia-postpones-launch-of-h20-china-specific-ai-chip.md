@@ -96,6 +96,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Nvidia Triples Revenues on AI Chip Boom: ETFs to Buy"
+    excerpt: "It trades in an average daily volume of 2,000 shares. Global X Robotics & Artificial Intelligence ETF (BOTZ) Global X Robotics & Artificial Intelligence ETF follows the Indxx Global Robotics ..."
+    publishedDateTime: 2023-11-22T17:10:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-triples-revenues-on-ai-chip-boom:-etfs-to-buy"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
   - title: "Exclusive-Nvidia Delays Launch of New China-Focused AI Chip -Sources"
     excerpt: "The H20, L20 and L2 include most of Nvidia's newest features for AI work, but have had some of their computing power measures cut back to comply with new U.S. rules, according to SemiAnalysis' analysis of the chips' specifications."
     publishedDateTime: 2023-11-24T05:53:00Z

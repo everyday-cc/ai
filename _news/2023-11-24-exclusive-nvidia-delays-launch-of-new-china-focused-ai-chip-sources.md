@@ -94,6 +94,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Nvidia Triples Revenues on AI Chip Boom: ETFs to Buy"
+    excerpt: "It trades in an average daily volume of 2,000 shares. Global X Robotics & Artificial Intelligence ETF (BOTZ) Global X Robotics & Artificial Intelligence ETF follows the Indxx Global Robotics ..."
+    publishedDateTime: 2023-11-22T17:10:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-triples-revenues-on-ai-chip-boom:-etfs-to-buy"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
   - title: "Nvidia Delays Launch of AI Chip for China amid Export Compliance Challenges, NVDA Stock 1% Down"
     excerpt: "Nvidia Corp (NASDAQ: NVDA), the California-based AI chip giant, has notified its Chinese customers of a delay in the launch of its new artificial intelligence chip, H20, designed to comply with the latest United States export regulations, Reuters reported Friday, citing two sources familiar with the matter."
     publishedDateTime: 2023-11-24T16:46:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-ac
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: ABC
@@ -27,20 +27,18 @@ images:
 
 related:
   - title: "Pentagon steps on AI accelerator as age of lethal autonomy looms"
-    excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"
-    publishedDateTime: 2023-11-25T15:59:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
+    excerpt: "Artificial intelligence employed by the U.S. military has piloted pint-sized surveillance drones in special operations forces’"
+    publishedDateTime: 2023-11-25T14:48:00Z
+    webUrl: "https://mynorthwest.com/3940672/pentagon-steps-on-ai-accelerator-as-age-of-lethal-autonomy-looms/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 39
     images:
-      - url: "https://s.abcnews.com/images/US/wirestory_0773b4937801e7a0573f44b57a9a5942_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
+        width: 452
+        height: 282
         isCached: true
   - title: "Pentagon amps up AI program as lethal autonomy looms"
     excerpt: "For years, U.S. military services have continued to increase their use of AI technology, but only in the past decade have they embraced revolutionary advances in artificial intelligence that will fundamentally alter the nature of war."
@@ -56,6 +54,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Amazon Invites Applications for Free Courses on Artificial Intelligence"
+    excerpt: "Amazon, the US-based internet giant, has announced that it would offer free educational courses on generative AI as part of"
+    publishedDateTime: 2023-11-23T05:41:00Z
+    webUrl: "https://www.dqindia.com/amazon-invites-applications-for-free-courses-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
   - title: "Pentagon steps on AI accelerator as age of lethal autonomy looms"
     excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"
     publishedDateTime: 2023-11-25T17:26:00Z

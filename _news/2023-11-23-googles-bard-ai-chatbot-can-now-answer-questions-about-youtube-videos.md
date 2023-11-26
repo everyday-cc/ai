@@ -8,7 +8,7 @@ webUrl: "https://techcrunch.com/2023/11/22/googles-bard-ai-chatbot-can-now-answe
 ampWebUrl: "https://techcrunch.com/2023/11/22/googles-bard-ai-chatbot-can-now-answer-questions-about-youtube-videos/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/22/googles-bard-ai-chatbot-can-now-answer-questions-about-youtube-videos/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1246897887.jpg?resize=1200,800"
@@ -40,7 +41,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 91
+    quality: 106
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
@@ -61,6 +62,36 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
         height: 798
+        isCached: true
+  - title: "Microsoft brings ChatGPT AI to Windows 11’s command line, and here’s a closer look"
+    excerpt: "ChatGPT-powered “AI chat” on Windows 11. ChatGPT integration is now available in Terminal (Canary), a new development channel to test experimental features ahead of a wider rollout. With ChatGPT AI Chat in Terminal,"
+    publishedDateTime: 2023-11-24T00:20:00Z
+    webUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/"
+    ampWebUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
+    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
+    type: article
+    provider:
+      name: Windows Latest
+      domain: windowslatest.com
+    quality: 83
+    images:
+      - url: "https://www.windowslatest.com/wp-content/uploads/2023/09/Windows-Terminal-with-AI-on-Windows-11.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "How to Translate Languages with ChatGPT: Bridging Communication Gaps with AI"
+    excerpt: "ChatGPT signifies the dawn of a transformative phase in the realm of AI-powered language translation. Its exceptional proficiency in grasping the nuances of context and generating natural, fluent language across a diverse range of linguistic landscapes ..."
+    publishedDateTime: 2023-11-23T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-translate-languages-with-chatgpt-bridging-communication-gaps-with-ai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 68
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/Translate-Languages-ChatGPT.jpg"
+        width: 1280
+        height: 731
         isCached: true
   - title: "Baidu's AI Chatbot Earnie 4 Is Off To A Good Start, Says Bullish Analyst"
     excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
@@ -138,6 +169,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "OpenAI staff make jokes about CEO drama as they announce new ChatGPT voice feature"
+    excerpt: "In a demo of the new feature, OpenAI’s staff even made jokes about the drama surrounding the artificial intelligence firm, with someone asking ChatGPT: “It’s been a long night for the team, and we’re hungry. How many 16-inch pizzas should I order for 778 people?”"
+    publishedDateTime: 2023-11-22T02:01:00Z
+    webUrl: "https://siliconangle.com/2023/11/21/openai-staff-make-jokes-ceo-drama-announce-new-chatgpt-voice-feature/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ai-generated-8177861_1920.jpg"
+        width: 1920
+        height: 1329
+        isCached: true
   - title: "Baidu's AI Chatbot Ernie 4 Is Off To A Good Start, Says Bullish Analyst"
     excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
     publishedDateTime: 2023-11-22T18:50:00Z
@@ -147,6 +192,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "ChatGPT iPhone App's Voice Chat Feature Now Free to All Users"
+    excerpt: "OpenAI has announced that the voice chats feature in its official ChatGPT app for iPhone and iPad is now available for everyone to use,"
+    publishedDateTime: 2023-11-22T10:38:00Z
+    webUrl: "https://www.macrumors.com/2023/11/22/chatgpt-app-voice-chat-free-to-all/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 41
+    images:
+      - url: "https://images.macrumors.com/t/iBp9BqJv2WpLVJf_ebOZGLh1orw=/2500x/article-new/2023/05/chatgpt-for-iphone-feature.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
   - title: "ChatGPT turns 1: A generative AI status report"
     excerpt: "Nov. 30 will mark one year since ChatGPT’s public debut, and some experts are surprised we're not using AI tools even more."
     publishedDateTime: 2023-11-21T22:39:00Z
@@ -175,19 +234,19 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "OpenAI staff make jokes about CEO drama as they announce new ChatGPT voice feature"
-    excerpt: "In a demo of the new feature, OpenAI’s staff even made jokes about the drama surrounding the artificial intelligence firm, with someone asking ChatGPT: “It’s been a long night for the team, and we’re hungry. How many 16-inch pizzas should I order for 778 people?”"
-    publishedDateTime: 2023-11-22T02:01:00Z
-    webUrl: "https://siliconangle.com/2023/11/21/openai-staff-make-jokes-ceo-drama-announce-new-chatgpt-voice-feature/"
+  - title: "Google is launching its Bard AI chatbot to the public – Business Insider"
+    excerpt: "Google says that you can use Bard to “boost your productivity, accelerate your ideas and fuel your curiosity.” It functions similarly to OpenAI’s ChatGPT: you prompt it with a question or a task – say,"
+    publishedDateTime: 2023-11-24T03:17:00Z
+    webUrl: "https://www.inferse.com/804061/google-is-launching-its-bard-ai-chatbot-to-the-public-business-insider/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
+      name: Inferse
+      domain: inferse.com
+    quality: 38
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ai-generated-8177861_1920.jpg"
-        width: 1920
-        height: 1329
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-12996.png"
+        width: 1200
+        height: 600
         isCached: true
   - title: "How to stop OpenAI from using your ChatGPT chats to train AI in just 3 minutes"
     excerpt: "It’s very easy to stop your ChatGPT chat data from training future models - here’s where you find the hidden privacy setting."
@@ -203,15 +262,6 @@ related:
         width: 3024
         height: 1701
         isCached: true
-  - title: "How to Translate Languages with ChatGPT: Bridging Communication Gaps with AI"
-    excerpt: "ChatGPT signifies the dawn of a transformative phase in the realm of AI-powered language translation. Its exceptional proficiency in grasping the nuances of context and generating natural, fluent language across a diverse range of linguistic landscapes ..."
-    publishedDateTime: 2023-11-23T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-translate-languages-with-chatgpt-bridging-communication-gaps-with-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 31
   - title: "ChatGPT’s Voice Feature Rolled Out For Free For All Users; Here’s How To Use It"
     excerpt: "Besides Voice ChatGPT Has Also Introduced Image Feature For The App. What Does That Mean? It means you can insert an image in the app and converse about it. Eg: You can post a picture of an instrument that's not working and ask ChatGPT to troubleshoot."
     publishedDateTime: 2023-11-22T13:27:00Z
@@ -221,20 +271,6 @@ related:
       name: in.mashable
       domain: mashable.com
     quality: 30
-  - title: "ChatGPT iPhone App's Voice Chat Feature Now Free to All Users"
-    excerpt: "OpenAI has announced that the voice chats feature in its official ChatGPT app for iPhone and iPad is now available for everyone to use,"
-    publishedDateTime: 2023-11-22T10:38:00Z
-    webUrl: "https://www.macrumors.com/2023/11/22/chatgpt-app-voice-chat-free-to-all/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 24
-    images:
-      - url: "https://images.macrumors.com/t/iBp9BqJv2WpLVJf_ebOZGLh1orw=/2500x/article-new/2023/05/chatgpt-for-iphone-feature.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
   - title: "ChatGPT rolls out voice chat feature to all users for free"
     excerpt: "OpenAI has announced that ChatGPT's voice chat feature will now be available to all mobile users for free. The feature, which first debuted back in September alongside image recognition, has only been available to users on the paid subscription plans for the artificial intelligence (AI)-powered chatbot prior."
     publishedDateTime: 2023-11-22T05:39:00Z

@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Pentagon steps on AI accelerator as age of lethal autonomy looms"
-excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"
-publishedDateTime: 2023-11-25T15:59:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
-webUrl: "https://abcnews.go.com/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
+excerpt: "Artificial intelligence employed by the U.S. military has piloted pint-sized surveillance drones in special operations forces’"
+publishedDateTime: 2023-11-25T14:48:00Z
+originalUrl: "https://mynorthwest.com/3940672/pentagon-steps-on-ai-accelerator-as-age-of-lethal-autonomy-looms/"
+webUrl: "https://mynorthwest.com/3940672/pentagon-steps-on-ai-accelerator-as-age-of-lethal-autonomy-looms/"
 type: article
-quality: 57
-heat: 87
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_0773b4937801e7a0573f44b57a9a5942_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
+    width: 452
+    height: 282
     isCached: true
 
 related:
@@ -56,6 +55,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Amazon Invites Applications for Free Courses on Artificial Intelligence"
+    excerpt: "Amazon, the US-based internet giant, has announced that it would offer free educational courses on generative AI as part of"
+    publishedDateTime: 2023-11-23T05:41:00Z
+    webUrl: "https://www.dqindia.com/amazon-invites-applications-for-free-courses-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
   - title: "Pentagon steps on AI accelerator as age of lethal autonomy looms"
     excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"
     publishedDateTime: 2023-11-25T17:26:00Z
@@ -66,6 +74,6 @@ related:
       domain: abcnews.go.com
     quality: 17
 
-secured: "47bUw9LNXE51ZRwJfYUCiYzOA1W542XnEr4d6251LRaRNdzgVknNbxTLev3wqxvsm/zBM96CYFSmfdS6qWu8gAriPual4QnyRDfNvsCVJfSYrOy2AWTGpujVEDE8v/g3DqtBQ6NFsBta90sR8FOJfYWh6zcSzleZblQ0TEm/tHlfmeIVBrPZu1JfiiCX98jWcKU7muEybSEdxqV6raI24Jbfv/LCI9QoEhYn7z9VjybrEpEFjhWfJhgs7seBYz38qveYmpU1O0wJKX36Cp44X+ZwvYtWN/6gEutKefSqE7T2YgPD6z+KTGdC/Yr7vo7Rpn7M+uXlDCjydCssaEygRyALwKw2n6Bcy+J5xAtFutk=;D+9oH9Kn+5HHV56ufHHY+Q=="
+secured: "5xLCB3uRbIfFbZOHhJnzp0iyVZDDUGN63fG/lpYF7bVvD+uWYjBnoV+B3Kp83XTJYFOPWj/cxYfPizYdSbGp1+3SO5ei3enTSmYWme3ZoxEAoTSR5MFBsiAgEXqc4WcGDZMJljF7VNQiSQXeNlLFrTrLW7WT49uSh4GSb7Rt0n07xqKSV2OL0VtvHFYoTTaglZOciNJVvnT51dSiDne0I5ocUON3I1ivcAZY/2a2uwDsd0hVJaAT1O8vJLEDxyZQ/h3JKVGS48gHPvzsHVUd/HHJArS5PJYp2JnOR2lQFeRmCjYV7sKqq0ceiDI7Uc7gJgmai9jhxCFCInko1YVvev+URkV43mTMOJFyhIEDmuw=;HUMUWMlgPScCDqbDCC5a7g=="
 ---
 

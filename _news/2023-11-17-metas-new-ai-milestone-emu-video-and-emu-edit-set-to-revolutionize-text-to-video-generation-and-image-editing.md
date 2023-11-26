@@ -21,6 +21,13 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Meta AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/11/nuneybits_Emu_pop_art_in_the_style_of_andy_warhol_3507708b-3b81-49d9-819f-47d371d88dc9-transformed.png?fit=750%2C600&#038;strip=all"
+    width: 750
+    height: 600
+    isCached: true
 
 related:
   - title: "Text-to-image AI models can be tricked into generating disturbing images"

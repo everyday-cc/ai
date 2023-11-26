@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Meta AI
 
 images:
   - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-7142.png"

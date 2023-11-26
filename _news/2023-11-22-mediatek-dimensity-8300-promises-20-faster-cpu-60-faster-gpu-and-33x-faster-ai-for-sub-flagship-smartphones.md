@@ -33,6 +33,43 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "MediaTek unveils Dimensity 8300 with generative AI capabilities"
+    excerpt: "MediaTek unveils the Dimensity 8300, a powerful and efficient mid-range smartphone chipset with impressive performance and AI capabilities."
+    publishedDateTime: 2023-11-21T10:03:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/21/mediatek-unveils-dimensity-8300-with-generative-ai-capabilities/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 49
+  - title: "MediaTek Dimensity 8300 chipset announced with on-device generative AI capabilities"
+    excerpt: "MediaTek has introduced the Dimensity 8300, a new mid-range smartphone chipset that boasts on-device generative AI capabilities"
+    publishedDateTime: 2023-11-21T08:42:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/smartphones-with-mediatek-dimensity-8300-chipset-launching-by-year-end/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 48
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l5220231121141155.jpeg"
+        width: 1920
+        height: 1079
+        isCached: true
+  - title: "MediaTek Dimensity 8300 Flexes Generative AI Muscle To Arm Wrestle Snapdragon 7 Gen 3"
+    excerpt: "Mediatek is aiming for the premium-oriented midrange smartphone market with the release of the Dimensity 8300 chipset. This new chip uses TSMC’s 2nd generation 4nm process and Arm’s latest v9 CPU architecture."
+    publishedDateTime: 2023-11-21T15:59:00Z
+    webUrl: "https://hothardware.com/news/mediatek-dimensity-8300-to-wrestle-snapdragon-7-gen-3"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 32
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/63142/content/mediatek-dimensity8300-hero.jpg"
+        width: 708
+        height: 398
+        isCached: true
 
 secured: "wPksI6PijFhysJn6qKWUVXbVmMbmzW/GYsUYG7p60C5x+AR+oxXMZghIbSRZEgJ5vymhI9yBWvJkqtkobgcNG/KY7gLrtvjqbwNMBFCejAHs63sFdal3pcHRCl5qMwBiV+aDII6BqZuNogt6qJatx3S6v1//VqxVWPca7nU4LwL2FWgmc6L+KKe0251BWE+xrZDpozhnndf7/Zf76APSUCsA8yJxVOlokCtyrYhAzmvQCDCX/mw1D+K/CwPR4TLwCaDfHvcngSUcaLwfhhPIArL0wvyTPVM5KWfEJCLuVjD+UpK1cNdEvNu536XIFRaRqzidEhV3KDQoU0NFtzuBM8OaywxoNlpx/VisFRccppQT5w90MwWorxRGQNQ1ocj3svonPRZAV01ob3j5gV1/fcHrTkk24IFM/fcOQSZq0zEGAFCpdJA04wwx7Nsun6metfyGqbsNz6P2XWX1KYXeNA4lCQAgr4TpIRenqjrmEd0LAXLPawb+jv0JijscJL1H+R5NvLPnU394krNpmciBsg==;YS+7VCRq52TrMA3Vrt3GgQ=="
 ---

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Mid-range phones will get generative AI thanks to this new chipset"
-    excerpt: "MediaTek has announced the Dimensity 8300 smartphone chipset. This is the first mid-range smartphone chip touting on-device generative AI support. Qualcomm and MediaTek have both announced flagship smartphone processors with support for generative AI features."
-    publishedDateTime: 2023-11-21T07:36:00Z
-    webUrl: "https://www.androidauthority.com/mediatek-dimensity-8300-3386430/"
+  - title: "MediaTek Brings AI Features to New Dimensity 8300 Chip"
+    excerpt: "MediaTek's second-tier mobile processor, the Dimensity 8300, should be able to offer a lot of power while using less battery life."
+    publishedDateTime: 2023-11-21T18:06:00Z
+    webUrl: "https://www.pcmag.com/news/mediatek-brings-ai-features-to-new-dimensity-8300-chip"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
+      name: PC Magazine
+      domain: pcmag.com
     quality: 84
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/03/MediaTek-Dimensity-logo.jpg"
-        width: 1694
-        height: 953
+      - url: "https://i.pcmag.com/imagery/articles/029rRKh0jF40dYQE8P8Ixi6-1.fit_lim.size_1200x630.v1700579299.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "MediaTek unveils Dimensity 8300 with generative AI capabilities"
     excerpt: "MediaTek unveils the Dimensity 8300, a powerful and efficient mid-range smartphone chipset with impressive performance and AI capabilities."
@@ -62,6 +62,15 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "MediaTek Dimensity 8300 promises 20% faster CPU, 60% faster GPU, and 3.3X faster AI for sub-flagship smartphones"
+    excerpt: "MediaTek Dimensity 8300 promises 20% faster CPU, 60% faster GPU, and 3.3X faster AI for sub-flagship smartphones"
+    publishedDateTime: 2023-11-21T18:00:00Z
+    webUrl: "https://liliputing.com/mediatek-dimensity-8300-promises-20-faster-cpu-60-faster-gpu-and-3-3x-faster-ai-for-sub-flagship-smartphones/"
+    type: article
+    provider:
+      name: Liliputing
+      domain: liliputing.com
+    quality: 13
 
 secured: "94PpWNBDaiec33CtntR74UBsaIIxdfiq80CWJOIdY+UE+iZR5CiOh2fRok2w+xKJisd4qugFUQwBEnbqfjJt49mlJwKTNeG/uUR2OgoHTcVEK/eOn90KM138YR/5yLZZ+HegMIadjjYc1V88QaUdSqXxeb47rEDS9r4MSe/H5HxdI/dnvIppTdUse9fjXmDriK/o7B5u/seCw6ftok/5HaGfvFd2EdMTXZhzXKuVKnpIW1Q8g7Ua6D9k/3jgu+z867Psi2W9B6otRk4fwHMJodK+zazhU6+A1d7ydpkI9olDqsZRukJE1q5EHFOJlJVKDKhAtcUUOwhn94wSPws5Db27SfToz1TvIysv0aJo2AY=;zLTnieOOYW5fMkGHoPb9jA=="
 ---

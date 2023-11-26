@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-24T23:51:00Z
 originalUrl: "https://www.inferse.com/804857/chatgpt-net-worth-how-does-chatgpt-make-money-dataconomy/"
 webUrl: "https://www.inferse.com/804857/chatgpt-net-worth-how-does-chatgpt-make-money-dataconomy/"
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13384.png"

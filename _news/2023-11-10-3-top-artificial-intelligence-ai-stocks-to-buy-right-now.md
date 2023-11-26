@@ -18,6 +18,13 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Meta AI
+
+images:
+  - url: "https://g.foolcdn.com/editorial/images/754071/happy-stock-investor-holding-smartphone.jpg"
+    width: 2120
+    height: 1414
+    isCached: true
 
 secured: "+/uOI3IWKbif9lPSTEf0d6X7lwAqhBzb3Kva0rt2Z8yqOhNyr/Z38LnXnrdVL+9fIHxZbMbl4vSsA3WVdmFabMFeRiLvJdU0MMCqd+xIYBLL+IDbP1pNkhV9wnq34KgdzFiaDn0yJVp+t/MxTp5C675StHUDWH4+5sZg6ds3N656gOQbgbFj0U2qswUz+TmE8VjU+4x4tcDR8nf6esdRF2hHqlpSbSIEAkfTPyEHmqLs7UTy/wR0SdZA5u8b2xi0+lMfooaba+J4qGiVaQO4Cs2yaigfTccZLkaGkBZGJ3aalJensevdYr+FHEFYuwZkYK9MClR119YQiz3bLBLfMR3e4XHynF6CfAgM45QXr4I=;XA/8Icn7bW/biE48XCc7zg=="
 ---

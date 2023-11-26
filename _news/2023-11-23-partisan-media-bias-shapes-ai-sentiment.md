@@ -35,7 +35,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://i.insider.com/655d34449c7d23cb3b9e85ad?width=1200&format=jpeg"
         width: 800
@@ -54,6 +54,22 @@ related:
       - url: "https://it-online.co.za/wp-content/uploads/2023/09/Professor-Yudhvir-Seetharam.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Today in AI: Sam Altman as CEO of OpenAI is strategic win for Nadella, What is AGI? and AWS India AI ready initiative to train people"
+    excerpt: "AGI is more of a general term, referring to Artificial Intelligence that has not been trained to excel ... The cloud service provider also earmarked $12 million for AWS Generative AI Scholarship, wherein it will provide Udacity scholarships to more than ..."
+    publishedDateTime: 2023-11-23T09:37:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-sam-altman-as-ceo-of-openai-is-strategic-win-for-nadella-what-is-agi-and-aws-india-ai-ready-initiative-to-train-people-11799571.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-sam-altman-as-ceo-of-openai-is-strategic-win-for-nadella-what-is-agi-and-aws-india-ai-ready-initiative-to-train-people-11799571.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-sam-altman-as-ceo-of-openai-is-strategic-win-for-nadella-what-is-agi-and-aws-india-ai-ready-initiative-to-train-people-11799571.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 43
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "People disagree about the risks and benefits of artificial intelligence"
     excerpt: "NPR's Michel Martin talks to MIT's David Kiron about what it means to develop artificial intelligence tech responsibly — and are boomers or doomers more likely to be right in their AI predictions?"

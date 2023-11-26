@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT Voice now rolling out for free users, not just paid subscribers"
+    excerpt: "Amid all the OpenAI drama, the team has still been doing some work, it seems! The company’s newly-reinstated co-founder"
+    publishedDateTime: 2023-11-22T12:50:00Z
+    webUrl: "https://9to5mac.com/2023/11/22/chatgpt-voice-free/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 56
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/ChatGPT-Voice.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "ChatGPT voice feature now available for all users - What it is and how it works?"
     excerpt: "The rollout of ChatGPT Voice feature comes amid ongoing internal drama over control at OpenAI. Notably, Sam Altman is now set to reclaim the position of CEO at OpenAI."
     publishedDateTime: 2023-11-22T07:51:00Z
@@ -43,15 +57,6 @@ related:
         width: 360
         height: 202
         isCached: true
-  - title: "ChatGPT Voice now rolling out for free users, not just paid subscribers"
-    excerpt: "Amid all the OpenAI drama, the team has still been doing some work, it seems! The company’s newly-reinstated co-founder"
-    publishedDateTime: 2023-11-22T12:50:00Z
-    webUrl: "https://9to5mac.com/2023/11/22/chatgpt-voice-free/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 19
 
 secured: "+6cDs84meeKksZRJyIIiLKKgS8kyclfN69P7XejsL7lUsE0olh7hZGtIBrT1d0P7NZPXm7T1kmxQxcmFHjmiouA+anjR+KBl2O72n6mSZjcF3rGHCRnhhSCnaXZ4Wd+OOzXeACexWenf/tlZG6r6gGkiwT9R/1nPK//GWE2Uzs0H6nbXcFb4iSJVX58RC5j0yMKpQYDkZj2tYbks6qojMnO0vhAf67nsGPdkTgQn26GO5vqm1E/DMyNQFUpQQX7oxCxzN5ODGgYWHjm0l3FnzUvW5mtqP+i9JQxBa/YdDLmJrQu5Rizm0XTRcKH88voa6iVoWzWNQUqNw31PiRja4gkbjuHZ8lN7VmPfE/Za9G8=;g9wmGdjcHD+CCh39uEq9nw=="
 ---

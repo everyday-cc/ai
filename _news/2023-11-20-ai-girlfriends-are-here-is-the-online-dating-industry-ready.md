@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Meta AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/755442/restaurant-date-cheers-wine-happy-couple-smile.jpg"

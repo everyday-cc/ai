@@ -6,9 +6,9 @@ publishedDateTime: 2023-11-23T19:30:00Z
 originalUrl: "https://venturebeat.com/ai/stability-ai-debuts-stable-video-diffusion-models-in-research-preview/"
 webUrl: "https://venturebeat.com/ai/stability-ai-debuts-stable-video-diffusion-models-in-research-preview/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 71
+heat: 81
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +21,13 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Meta AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.29.08-Photo-of-a-person-of-Hispanic-descent-in-a-relaxed-pose-having-a-video-conference-with-an-advanced-looking-robot.-The-laptop-from-which-the-call-is-m-e1700766229577.png?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "AI Startup Stability Has a New Tool For Creating Generative Video"

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/openai-chatgpt-voice
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/openai-chatgpt-voice-feature-now-available-for-all-users-what-it-is-and-how-it-works-2023-11-22-903867"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: India TV
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT Voice now rolling out for free users, not just paid subscribers"
+    excerpt: "Amid all the OpenAI drama, the team has still been doing some work, it seems! The company’s newly-reinstated co-founder"
+    publishedDateTime: 2023-11-22T12:50:00Z
+    webUrl: "https://9to5mac.com/2023/11/22/chatgpt-voice-free/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 56
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/ChatGPT-Voice.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "ETtech Explainer: ChatGPT extends voice feature to free users; here’s how to use it"
     excerpt: "The company collaborated with professional voice actors to create each voice and used Whisper, its open-source speech recognition system, to transcribe spoken words into text."
     publishedDateTime: 2023-11-22T10:41:00Z
@@ -43,15 +57,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "ChatGPT Voice now rolling out for free users, not just paid subscribers"
-    excerpt: "Amid all the OpenAI drama, the team has still been doing some work, it seems! The company’s newly-reinstated co-founder"
-    publishedDateTime: 2023-11-22T12:50:00Z
-    webUrl: "https://9to5mac.com/2023/11/22/chatgpt-voice-free/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 19
 
 secured: "CIWJAYkXioI80xqYNUiVBlaBSLrl54mZ/0SIB9Jg+83wrR+OdoJ1cnJn3rF0Z7yGyGaGAunBjNcfq1vJnWPTLAKD21oD7PqjWh5n4yYL1rjdo29FVaqxHgI69wsJKDcAXysZqkcdvdfA3haeHvD4GIeMoLXBrNTLlsMxH0sIc+iHCTTR0ULkSu10L5mlx2FWGYDM2LCHaGF3vE1iUvDkDP2rNgtBjgt+WyauLsxdT5PNGyRt29N/pMJw2Q3IsxSn7k8cb/1y/dMLePZPVYJR/OtMAndOM9p0CwxBRKjGB49vHStBVIjTNhl/rKu7cuHI9Bclm9bRmYUc/WPFFWYZ0HkbUIhVrs+MAaRx8TbjS88=;cEFlabqDc6DYFjtur7DL6Q=="
 ---

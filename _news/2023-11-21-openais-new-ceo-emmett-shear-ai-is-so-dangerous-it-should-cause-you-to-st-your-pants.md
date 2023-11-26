@@ -18,6 +18,7 @@ topics:
   - AI Hardware
   - AI
   - Facebook AI
+  - Meta AI
 
 images:
   - url: "https://bgr.com/wp-content/uploads/2023/11/rsz_gettyimages-1058682490.jpg?quality=82&strip=all"

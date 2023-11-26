@@ -6,9 +6,9 @@ publishedDateTime: 2023-11-22T12:50:00Z
 originalUrl: "https://9to5mac.com/2023/11/22/chatgpt-voice-free/"
 webUrl: "https://9to5mac.com/2023/11/22/chatgpt-voice-free/"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
   name: 9to5Mac
@@ -17,6 +17,13 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
+
+images:
+  - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/ChatGPT-Voice.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "ChatGPT voice feature now available for all users - What it is and how it works?"
@@ -52,6 +59,6 @@ related:
         height: 450
         isCached: true
 
-secured: "gqH9DHtFeP9ZmKWCG9ia51XDl5+eoiok9yLvlvn5clasgUJXxwjKcUUxoOu02pm69q3hatwujjvckVr69HAhHMam8s/ipEMYI5l3cDaZxqlwQX67/UhJxINwNMacdSgPVNvUVE/i/+uijRvAMRKTGk4bVsS3VWvvqRfOJmgNMd4GWmstLEbg5tLoe3vs5pc0kIyToYTx1xBvQ9AUpPRjrAFrWhOLPENBaasuKQEfy/cfDYee4ABWmrfAQYWMGkCShbYJLf2dnLscXY91pVP4y/eGOJU0gF5OLMRoRx7MkUGdf+qr5THKX+2n8SP/g5qSZNpw2NMBU8Zx38+RP7qP/d3pTUMvIUY7+FobY31EVXvJYTvcSlxp3Wq+YGMx0eWwntd+lZ0fn9IcKVbZr/2yj73M+JeWWHkUXAA4tgu9o285Q2mtAiKmqcE4o2457a5TLsxH9a0ybGzC2ggMT3FgW1hHVR1VrwHHB+nCJlnDyz0KfKb21RuZqpi1Xcf+E4HFq/iw7tbRg9pXx7MtrFFf5A==;dn25ecY1djqCWl2uIGUjxA=="
+secured: "9mdYbUVA8eTozBgtt1RswYF6ebjKq9MxFn9DRuUhW7+RL9rtRSLS/oeCrq+kUQ9BvuYvZHKW+aUHf6N9AdiznNCa/q8T9jEP1bTrGQSU/JUqSGL4UMA7+VPijqvQNpYCJChhZb7QMlmkTWwx8HCnfwzeHBIPWgwain/LmsddYMaO1ysvnvgiBxmoxVWGEcLkiw/h6Qz9IlltZn+6xer69VLNbO0xVLI+0ExZErDOvV43pJmpJxJx4ESGfV0X6/u8ijoA4GojQHTg5srxwHkThJpPBtPLTIYwwfeLu78id3WO6YfirlkNeoXFw8Y8dK8QME22l1wWaswyU9ZoLEmWM4GPvLhaAJiXPgZHr1SR6jc=;QWpvFMApETaziFfYSaePRg=="
 ---
 

@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Meta AI
 
 images:
   - url: "https://techreport.com/wp-content/uploads/2023/11/shutterstock_2297040931.jpg?_t=1700557978"

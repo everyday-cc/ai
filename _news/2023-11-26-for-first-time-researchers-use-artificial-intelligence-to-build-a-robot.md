@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/video/for-first-time-researchers-use-artif
 webUrl: "https://www.cbsnews.com/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/"
 type: article
 quality: 53
-heat: 83
+heat: 85
 published: true
 
 provider:
