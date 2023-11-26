@@ -151,22 +151,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI doomsayers blamed in OpenAI's undoing"
-    excerpt: "OpenAI has gone from ruling the world of artificial intelligence with ChatGPT to chaos, its chief executive ousted seemingly for advancing too fast and too far with the risky technology."
-    publishedDateTime: 2023-11-21T09:09:00Z
-    webUrl: "https://techxplore.com/news/2023-11-ai-doomsayers-blamed-openai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-11-ai-doomsayers-blamed-openai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-doomsayers-blamed-openai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/boardroom-blunders-dro.jpg"
-        width: 1280
-        height: 818
-        isCached: true
   - title: "The Sam Altman saga reveals the need for AI transparency"
     excerpt: "The Altman-OpenAI saga has left many industry observers with a Silicon Valley-style case of whiplash. There’s also a fair measure of uncertainty around this next-gen OpenAI – both in terms of its ongoing stability and its approach to the future growth of AI as a whole."
     publishedDateTime: 2023-11-25T17:00:00Z

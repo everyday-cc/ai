@@ -18,36 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "How AI Camp Is Setting Employers Up For The Next Industrial Revolution"
-    excerpt: "The AI revolution will change what you look for in your future employees, but the education system isn’t giving young people the STEM skills they need."
-    publishedDateTime: 2023-11-21T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65578b6497210c6748431c8a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "How is Generative AI Transforming the Financial Industry?"
-    excerpt: "Explore the transformative power of Generative AI in finance with real-world case studies and expert insights from SFF 2023."
-    publishedDateTime: 2023-11-22T03:43:00Z
-    webUrl: "https://fintechnews.sg/80447/ai/how-is-generative-ai-transforming-the-financial-industry/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 39
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Sumsub-Banner-3.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Artificial intelligence: who are the leaders in fault monitoring AI for the automotive industry?"
     excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is leveraging artificial intelligence (AI) for fault monitoring due to the increasing complexity of vehicles,"
     publishedDateTime: 2023-11-24T12:41:00Z
@@ -62,26 +32,112 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Revolutionizing Creative Industries: PromeAI's Breakthrough in AI-Driven Image Generation"
-    excerpt: "AI Image Generation provides artists and designers with an additional source of inspiration and allows ordinary people who lack drawing skills to embrace creativity. Background Diffusion assists e-commerce businesses in producing visually striking product images,"
-    publishedDateTime: 2023-11-21T13:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/revolutionizing-creative-industries-promeai-s-breakthrough-in-ai-driven-image-generation-1032839110"
+  - title: "The AI industry must make sure that important communities aren’t left behind | Opinion"
+    excerpt: "The age of AI has begun. But as artificial intelligence (AI) continues to scale across industries and functions, it is imperative that marginalized and underrepresented communities are afforded the opportunity to thrive in the age of AI, and not get left behind."
+    publishedDateTime: 2023-11-24T10:30:00Z
+    webUrl: "https://www.newsobserver.com/opinion/article282121043.html"
+    ampWebUrl: "https://amp.newsobserver.com/opinion/article282121043.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article282121043.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-  - title: "Artificial intelligence: who are the leaders in AI in damage estimation for the automotive industry?"
-    excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
-    publishedDateTime: 2023-11-24T02:01:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-ai-in-damage-estimation-automotive/"
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 31
+  - title: "Artificial intelligence: who are the leaders in autonomous lane changing for the automotive industry?"
+    excerpt: "Autonomous lane changing is the ability of a self-driving vehicle to change lanes on its own without any input from the driver or human operator. The technology incorporates sensors, algorithms, and decision-making models to calculate the safest and quickest possible lane change for the vehicle."
+    publishedDateTime: 2023-11-24T02:16:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-lane-changing-automotive/"
     type: article
     provider:
       name: Just Auto
       domain: just-auto.com
-    quality: 37
+    quality: 24
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/AI-in-damage-estimation.jpg"
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_autonomous-lane-changing.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in autonomous vehicle ECUs for the automotive industry?"
+    excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
+    publishedDateTime: 2023-11-24T02:27:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-vehicle-ecus-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_autonomous-vehicle-ECUs.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in adaptive driver alerting for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Activity is driven by technological advancements in artificial intelligence (AI) and machine learning, consu"
+    publishedDateTime: 2023-11-24T01:53:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-adaptive-driver-alerting-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 22
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Adaptive-driver-alerting.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in autonomous on-demand logistics for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Activity is driven by factors such as the growth of e-commerce, the shortage of truck drivers, the rising cost of fuel, the demand for convenient delivery options,"
+    publishedDateTime: 2023-11-24T02:21:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-on-demand-logistics-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_autonomous-on-demand-logistics.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in obstacle detection radar-LiDAR for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Innovation in autonomous vehicles (AVs) is driven by safety, cost, performance, and convenience, and growing importance of technologies such as data processing and fusion,"
+    publishedDateTime: 2023-11-24T13:23:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-obstacle-detection-radar-lidar-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_LiDAR-point-cloud-processing.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in collaborative autonomous driving for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Collaborative autonomous driving (CAD) is driving innovation in the automotive industry due to its potential to improve safety, efficiency,"
+    publishedDateTime: 2023-11-24T12:21:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-collaborative-autonomous-driving-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 18
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_collaborative-autonomous-driving.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Internet of Things: who are the leaders in object sensing radars for the automotive industry?"
+    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over one million patents, there are 300+ innovation areas that will shape the future of the industry."
+    publishedDateTime: 2023-11-24T02:09:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-iot-object-sensing-radars-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 13
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_IoT_object-sensing-radars.jpg"
         width: 1440
         height: 810
         isCached: true

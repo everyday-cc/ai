@@ -150,22 +150,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI doomsayers blamed in OpenAI's undoing"
-    excerpt: "OpenAI has gone from ruling the world of artificial intelligence with ChatGPT to chaos, its chief executive ousted seemingly for advancing too fast and too far with the risky technology."
-    publishedDateTime: 2023-11-21T09:09:00Z
-    webUrl: "https://techxplore.com/news/2023-11-ai-doomsayers-blamed-openai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-11-ai-doomsayers-blamed-openai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-doomsayers-blamed-openai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/boardroom-blunders-dro.jpg"
-        width: 1280
-        height: 818
-        isCached: true
   - title: "AI Startup Cohere’s CEO Slams Effective Altruism in Wake of OpenAI Drama"
     excerpt: "The chief executive officer of artificial intelligence startup Cohere criticized the “self-righteousness” of the effective altruism movement and those overly concerned with th"
     publishedDateTime: 2023-11-24T01:06:00Z

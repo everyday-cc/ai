@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "Artificial intelligence: who are the leaders in AI in damage estimation for the automotive industry?"
+    excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
+    publishedDateTime: 2023-11-24T02:01:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-ai-in-damage-estimation-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 37
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/AI-in-damage-estimation.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "lBWAHjiEZulNqMebFAtOY35WAjSo8RU3OR2a3DDONdzJKseaRp5/L4GjhEsaQiAsue5ePXj+q53g8Y9Znds8aVUVKsvgdf94/4HNE6IFiD5azcCNQLPgVCQlbtGCeC0ZPklHCGRaJCR5nZXZDgUixLbWGHdeKl0JbxrqPJXg6+yKrLpOHQwlPjs7+G7ViedQuFlRaX8hc4knaPJKPCY6Qkq/pKiNnXHV66tiq9TxbCRxkONRdLedNUpH0fRF7ZOv0uBkWRsHebOlNPZjmH8r9cwFfnbadyqTQZV9IMLz8nYP9uSiEErtvAoRXK0xt7T2azPEqvlj3l8AUMfKHgxpmpDAc79Y5pWigtXNAPuekAA=;5vTHoSLNXrAFRZZoYVYR8Q=="
 ---

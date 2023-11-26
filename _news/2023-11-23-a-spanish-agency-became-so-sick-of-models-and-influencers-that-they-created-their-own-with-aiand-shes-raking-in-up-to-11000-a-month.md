@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "\"Taarzan\": Indian Influencer's Review Of Self-Driving Taxi In US Is Viral"
+    excerpt: "Indian chef, Neha Deepak Shah who appeared on MasterChef India Season 4 in 2015 recently shared her experience of booking a self-driving taxi in the US."
+    publishedDateTime: 2023-11-26T10:04:00Z
+    webUrl: "https://www.ndtv.com/offbeat/taarzan-indian-influencers-review-of-self-driving-taxi-in-us-is-viral-4607445"
+    ampWebUrl: "https://www.ndtv.com/offbeat/taarzan-indian-influencers-review-of-self-driving-taxi-in-us-is-viral-4607445/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/offbeat/taarzan-indian-influencers-review-of-self-driving-taxi-in-us-is-viral-4607445/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 43
+    images:
+      - url: "https://c.ndtvimg.com/2023-11/o587ebfo_neha-deepak-shah_625x300_26_November_23.jpeg?ver-20231128.06"
+        width: 335
+        height: 384
+        isCached: true
   - title: "AI is already impacting influencer marketing, according to the CMO of Billion Dollar Boy. Here's how she thinks brands should approach the new tech."
     excerpt: "Becky Owen, the CMO of influencer-marketing firm Billion Dollar Boy, is at the helm of an innovation unit at the company that focuses on AI efforts."
     publishedDateTime: 2023-11-21T13:29:00Z

@@ -96,6 +96,20 @@ related:
         width: 1280
         height: 731
         isCached: true
+  - title: "What startup founders need to know about AI heading into 2024"
+    excerpt: "Now that the OpenAI leadership saga has died down, startup founders building with AI can get back to work building the future. If that's you, TechCrunch+"
+    publishedDateTime: 2023-11-22T23:41:00Z
+    webUrl: "https://techcrunch.com/2023/11/26/what-startup-founders-need-to-know-about-ai-heading-into-2024/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Baidu's AI Chatbot Earnie 4 Is Off To A Good Start, Says Bullish Analyst"
     excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
     publishedDateTime: 2023-11-22T18:11:00Z
@@ -109,38 +123,6 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/11/22/shutterstock_2284768673.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Meta AI chatbot comes to some WhatsApp users; All details"
-    excerpt: "Meta's AI chatbot comes on WhatsApp and offers various services, from customer support to appointment scheduling. In addition, WhatsApp introduced a new feature to simplify access to status updates."
-    publishedDateTime: 2023-11-21T10:10:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/meta-ai-chatbot-comes-to-some-whatsapp-users-all-details-839416"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/meta-ai-chatbot-comes-to-some-whatsapp-users-all-details-839416"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/meta-ai-chatbot-comes-to-some-whatsapp-users-all-details-839416"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/11/21/1401113-whatsapp.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "WhatsApp gets Meta’s new AI chatbot. Here’s how it works"
-    excerpt: "Meta is infusing its AI capabilities to WhatsApp. WhatsApp Beta users on Android can use the new feature, which can be accessed using a new shortcut button, strategically placed in the 'Chats' section"
-    publishedDateTime: 2023-11-21T10:23:00Z
-    webUrl: "https://www.firstpost.com/tech/whatsapp-gets-metas-new-ai-chatbot-heres-how-it-works-13412772.html"
-    ampWebUrl: "https://www.firstpost.com/tech/whatsapp-gets-metas-new-ai-chatbot-heres-how-it-works-13412772.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/whatsapp-gets-metas-new-ai-chatbot-heres-how-it-works-13412772.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 59
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/11/WhatsApp-gets-Metas-new-AI-chatbot.-Heres-how-it-works.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "‘Sound on’: ChatGPT Voice feature now available to all users. Here's how to use"
     excerpt: "while also using the company's proprietary Whisper speech recognition system to transcribe spoken words into text. ChatGPT's new voice capabilities are powered by a new text-to-speech model that OpenAI claims is capable of generating human-like audio from ..."
@@ -156,20 +138,6 @@ related:
     images:
       - url: "https://www.livemint.com/lm-img/img/2023/11/22/1600x900/FILES-US-TECHNOLOGY-AI-ALTMAN-1_1700623250597_1700623286912.jpg"
         width: 1600
-        height: 900
-        isCached: true
-  - title: "NVIDIA wants to use AI chatbots to help build better chips"
-    excerpt: "US software firm NVIDIA is adapting AIs to help its human engineers build better computer chips."
-    publishedDateTime: 2023-11-21T10:00:00Z
-    webUrl: "https://www.newscientist.com/article/2403629-nvidia-wants-to-use-ai-chatbots-to-help-build-better-chips/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/11/20211118/SEI_180495034.jpg"
-        width: 1350
         height: 900
         isCached: true
   - title: "OpenAI staff make jokes about CEO drama as they announce new ChatGPT voice feature"

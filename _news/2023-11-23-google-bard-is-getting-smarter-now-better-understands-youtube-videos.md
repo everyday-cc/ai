@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/google-bard-youtube-understanding
 webUrl: "https://www.androidauthority.com/google-bard-youtube-understanding-3388018/"
 type: article
 quality: 54
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Android Authority
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google Bard can Now Comprehend YouTube Videos and Answer Questions"
+    excerpt: "Bard's \"Extensions\" already linked it with various Google apps, enhancing its ability to provide more personalized responses"
+    publishedDateTime: 2023-11-23T02:19:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/23/google-bard-youtube-video/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 54
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/google-bard-ai-android-phones.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google Bard AI can now watch YouTube videos for you"
     excerpt: "Google has announced that Bard, its ChatGPT competitor, is now able to understand certain aspects of YouTube videos."
     publishedDateTime: 2023-11-22T19:55:00Z

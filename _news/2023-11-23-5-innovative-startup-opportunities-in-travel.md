@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-start
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: Challenges and opportunities"
-    excerpt: "Generative AI is revolutionizing the ways of working of financial institutions and Fintech companies. While rapid advancements in GenAI have opened up new possibilities across various industries, it is the fintech and banking sector that is poised to ..."
-    publishedDateTime: 2023-11-21T09:31:00Z
-    webUrl: "https://www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/"
-    ampWebUrl: "https://www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-generative-ai-challenges-and-opportunities-3313265/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/ai.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AWS's generative AI functions support Taiwan startups innovation"
     excerpt: "The rapid development of artificial intelligence (AI) has changed many aspects of our lives. In particular, the launch of generative AI at the end of 2022 has created a large wave of technological innovation,"
     publishedDateTime: 2023-11-22T07:58:00Z

@@ -57,6 +57,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How is Generative AI Transforming the Financial Industry?"
+    excerpt: "Explore the transformative power of Generative AI in finance with real-world case studies and expert insights from SFF 2023."
+    publishedDateTime: 2023-11-22T03:43:00Z
+    webUrl: "https://fintechnews.sg/80447/ai/how-is-generative-ai-transforming-the-financial-industry/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 39
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Sumsub-Banner-3.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "Q0ajXBmfvKRq9fMLU+lvM6O5bM9KdT46+LIcqYUrIHdwSXCZeLTkN9v4dMhuFDKDQvgAakOs4Z6Cg6Pznqn/xha3pgCoP3/lfKJF4+ISOdYgxnwfDw+7JLZTNLgOg7T/qJllgVTyVE84qInSqKtf8X5vCicTlB0S6SnsVo0e6Ll48X1EIKLIrh2Rc+lsD3Rhz7vWYg+WriZk/X64u08bnwG+W0bP1ACJDQyLOScnxC/ioCfPrJbVQyiOdMuFUgY6aW2X1PP/cfpSi8Akns2hQlBNNZVQhOBdcCA+KI3aHf03DI6yhHDfZRlkTkF+VlWjvtV58TZro34UZJQvnI6qbJ+SA7VlZZU5C03QaxbP6GsGPA5sxXuidkFgojVJqmg+fYuPchDq/a+jKjm+Zt1dFMCLDicHsH4cTE0Vqnko/Xud+GOReMYu8eObVBRvOyBX2dr6WqvA1R8v1Zn1/IN1SXb9xnUfhNbAE5fUNkeaS8uLsQNN/Xys6pIL0ArBKEXSjo1U2xcpEaAuLHioP0uU1Q==;aSyA7+tfmkOxU6olsekwag=="
 ---

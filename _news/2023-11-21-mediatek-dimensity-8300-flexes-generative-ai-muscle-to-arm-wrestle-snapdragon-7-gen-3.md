@@ -39,15 +39,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "MediaTek unveils Dimensity 8300 with generative AI capabilities"
-    excerpt: "MediaTek unveils the Dimensity 8300, a powerful and efficient mid-range smartphone chipset with impressive performance and AI capabilities."
-    publishedDateTime: 2023-11-21T10:03:00Z
-    webUrl: "https://www.gizmochina.com/2023/11/21/mediatek-unveils-dimensity-8300-with-generative-ai-capabilities/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 49
   - title: "MediaTek Dimensity 8300 promises 20% faster CPU, 60% faster GPU, and 3.3X faster AI for sub-flagship smartphones"
     excerpt: "MediaTek Dimensity 8300 promises 20% faster CPU, 60% faster GPU, and 3.3X faster AI for sub-flagship smartphones"
     publishedDateTime: 2023-11-21T18:00:00Z

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-11-20-is-meta-llama-truly-open-source.md",
+      "title": "Is Meta Llama Truly Open Source?",
+      "excerpt": "Explore the authenticity of Meta LLaMA as an open-source LLM, dissecting the criteria and larger implications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/is-meta-llama-truly-open-source/",
+      "originalUrl": "https://www.unite.ai/is-meta-llama-truly-open-source/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2023/11/Is-Metas-Llama-Truly-Open-Source-952x600.jpg",
+          "width": 952,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T12:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-how-to-build-a-successful-talent-management-strategy.md",
       "title": "How to build a successful talent management strategy",
       "excerpt": "Explore how to build a talent management strategy that identifies top talent and cultivates their ability to produce business value.\nThe post How to build a successful talent management strategy appeared first on IBM Blog.\n",
@@ -1114,59 +1157,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-17-moderate-your-amazon-ivs-live-stream-using-amazon-rekognition.md",
-      "title": "Moderate your Amazon IVS live stream using Amazon Rekognition",
-      "excerpt": "Amazon Interactive Video Service (Amazon IVS) is a managed live streaming solution that is designed to provide a quick and straightforward setup to let you build interactive video experiences and handles interactive video content from ingestion to delivery. With the increased usage of live streaming,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-your-amazon-ivs-live-stream-using-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-your-amazon-ivs-live-stream-using-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/11/ml-15283-overall-diagram-1175x630.jpg",
-          "width": 1175,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T16:27:58Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

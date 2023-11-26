@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/mediatek-brings-ai-features-to-new-dime
 webUrl: "https://www.pcmag.com/news/mediatek-brings-ai-features-to-new-dimensity-8300-chip"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek unveils Dimensity 8300 with generative AI capabilities"
-    excerpt: "MediaTek unveils the Dimensity 8300, a powerful and efficient mid-range smartphone chipset with impressive performance and AI capabilities."
-    publishedDateTime: 2023-11-21T10:03:00Z
-    webUrl: "https://www.gizmochina.com/2023/11/21/mediatek-unveils-dimensity-8300-with-generative-ai-capabilities/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 49
   - title: "MediaTek Dimensity 8300 Flexes Generative AI Muscle To Arm Wrestle Snapdragon 7 Gen 3"
     excerpt: "Mediatek is aiming for the premium-oriented midrange smartphone market with the release of the Dimensity 8300 chipset. This new chip uses TSMC’s 2nd generation 4nm process and Arm’s latest v9 CPU architecture."
     publishedDateTime: 2023-11-21T15:59:00Z

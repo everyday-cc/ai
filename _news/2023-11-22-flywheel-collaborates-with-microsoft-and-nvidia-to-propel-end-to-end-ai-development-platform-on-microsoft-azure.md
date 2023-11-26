@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
+excerpt: "The Flywheel platform is integrated with NVIDIA MONAI, part of the NVIDIA AI Enterprise software platform, and Azure Machine Learning Studio for development and deployment of production-grade AI ..."
 publishedDateTime: 2023-11-22T09:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
-webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
+originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
+webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
 type: article
 quality: 29
 heat: -1
@@ -174,20 +174,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft puts Azure Kubernetes Service into high gear"
-    excerpt: "Microsoft has announced another expansion of Azure Kubernetes Service (AKS). The new features focus on centrally managing large volumes of clusters,"
-    publishedDateTime: 2023-11-21T09:32:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/113493/microsoft-puts-azure-kubernetes-service-into-high-gear/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_1196949082.png"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "Informatica deploys Microsoft Azure pod in Canada"
     excerpt: "Informatica says IDMC improves analytics and AI workloads on Azure by ensuring data is high quality and trustworthy. Customers can now access IDMC as an Azure Native Service purchased through the Azure Marketplace. Informatica has customers in more than ..."
     publishedDateTime: 2023-11-24T09:53:00Z
@@ -327,6 +313,6 @@ related:
         height: 280
         isCached: true
 
-secured: "cMSaexdhGNZFq9/iW77972dOsq+d+AXVOk6HBe57SOzmTXCSPrIXwAZ3bF7VETolDLVOnbF8A+KsoF11VnXt4Xexn8DjcRtDBUeeZ4BjkaoPt7BRnmnWp/gdOHkQq7bQBx0JgAjieTbuNQGFhRsNmzyJsRG6IJgKZcGjG44GMaPle1KRFv5dvojmDaa1+iRz9RDezTqZmKBtEX5kvGpofLgV8bqo6c9aq2KbdKDcXGh8K12DrUHZghilebjWUQ4LVS65XW8ww8Ec4jPQti7Jv9SY5kKf86H7vlt4uG/vvTBnPO7rHmyOALpUULRzI0Molth23ZhHas+dJLdzlVxifgovAxBkE91hdH2EHndR0mk=;WJAcYgfpOqEsR/+Il8KUkA=="
+secured: "oOEzmhWUKGv38Y0fbW4+ghsGiAHkfex/zzOvcJGKZG7zqu+AxckO3bwSeC9j9yRFrMrklOJVmnlrvIuWajI298/7uvrVVewJ0B0inrj/nzvGSiGnYnsYIOmiMswtuI1JOXR6CvNKtjROP6ADg7QcdOOBO6wXiCdNBP+DKwQTj7aDl7LxLM/TubCneGVaJNU7EY8c5ZNRFjCtlZoVSLCu2SKno62hFhk4h3EXfQDCplufyjxRJoE3vAZ90B6hGhcjUKKf/Gb67zI2N+Kte3hFj+DYKBfJ7o0wqOOTyDgTvWx3Hf+816Ft2xX+nRvHhnjcdX35sMDtw/2HqNYUIuZo20XPo+NP23G/zCoEbM8Ws2Q=;mKoisy2oBp5ExztY6pBqGg=="
 ---
 

@@ -70,20 +70,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
-    excerpt: "IBM( announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients operationalize and derive value from generative artificial intelligence (AI). As part of this, IBM Consulting aims to deepen and expand its ..."
-    publishedDateTime: 2023-11-21T11:07:00Z
-    webUrl: "https://menafn.com/1107463843/IBM-Expands-Relationship-with-AWS-to-Bring-Generative-AI-Solutions-and-Dedicated-Expertise-to-Clients"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?498821"
-        width: 375
-        height: 250
-        isCached: true
   - title: "The threats of generative AI"
     excerpt: "In case you might have missed it, digital space cowboy Elon Musk made a noteworthy declaration earlier this month in a visit to the United Kingdom. During a meeting with UK Prime Minister Rishi Sunak,"
     publishedDateTime: 2023-11-21T16:11:00Z

@@ -170,20 +170,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft puts Azure Kubernetes Service into high gear"
-    excerpt: "Microsoft has announced another expansion of Azure Kubernetes Service (AKS). The new features focus on centrally managing large volumes of clusters,"
-    publishedDateTime: 2023-11-21T09:32:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/113493/microsoft-puts-azure-kubernetes-service-into-high-gear/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/shutterstock_1196949082.png"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "Informatica deploys Microsoft Azure pod in Canada"
     excerpt: "Informatica says IDMC improves analytics and AI workloads on Azure by ensuring data is high quality and trustworthy. Customers can now access IDMC as an Azure Native Service purchased through the Azure Marketplace. Informatica has customers in more than ..."
     publishedDateTime: 2023-11-24T09:53:00Z
@@ -309,9 +295,9 @@ related:
         height: 510
         isCached: true
   - title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-    excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
+    excerpt: "The Flywheel platform is integrated with NVIDIA MONAI, part of the NVIDIA AI Enterprise software platform, and Azure Machine Learning Studio for development and deployment of production-grade AI ..."
     publishedDateTime: 2023-11-22T09:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
+    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
     type: article
     provider:
       name: Business Wire

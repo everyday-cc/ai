@@ -22,73 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "How AI Camp Is Setting Employers Up For The Next Industrial Revolution"
-    excerpt: "The AI revolution will change what you look for in your future employees, but the education system isn’t giving young people the STEM skills they need."
-    publishedDateTime: 2023-11-21T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
+  - title: "Revolutionizing Fashion and Creativity: MEFLEX Launches as the Premier Fashion AI NFT PlatformPanama City, Panama"
+    excerpt: "MEFLEX introduces a revolutionary platform that empowers users to seamlessly create AI-powered fashion images, sparking new avenues of creativity and self-expression. What sets MEFLEX apart is its cutting-edge image-to-image module,"
+    publishedDateTime: 2023-11-21T23:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/revolutionizing-fashion-and-creativity-meflex-launches-as-the-premier-fashion-ai-nft-platformpanama-city-panama-1032840938"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65578b6497210c6748431c8a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://api.blockchainwire.io/uploads/MKdigiworld/editor_image/46955b30-7139-474b-b1a2-f79cce4de3f3.png"
+        width: 588
+        height: 394
         isCached: true
-  - title: "How is Generative AI Transforming the Financial Industry?"
-    excerpt: "Explore the transformative power of Generative AI in finance with real-world case studies and expert insights from SFF 2023."
-    publishedDateTime: 2023-11-22T03:43:00Z
-    webUrl: "https://fintechnews.sg/80447/ai/how-is-generative-ai-transforming-the-financial-industry/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 39
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Sumsub-Banner-3.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Artificial intelligence: who are the leaders in fault monitoring AI for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is leveraging artificial intelligence (AI) for fault monitoring due to the increasing complexity of vehicles,"
-    publishedDateTime: 2023-11-24T12:41:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-fault-monitoring-ai-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_fault-monitoring-AI.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Artificial intelligence: who are the leaders in AI in damage estimation for the automotive industry?"
-    excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
-    publishedDateTime: 2023-11-24T02:01:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-ai-in-damage-estimation-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 37
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/AI-in-damage-estimation.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Artificial intelligence: who are the leaders in moving obstacle prediction AI for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is advancing moving obstacle prediction AI due to growing demand for autonomous vehicles, advancements in LiDAR and camera sensor technology,"
-    publishedDateTime: 2023-11-24T12:54:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-moving-obstacle-prediction-ai-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 14
 
 secured: "Cav96m09d1VM072+QxFs8k19WiXA2e/aq76UeNCMhNEK70ReHXkjUcSTU7oNGfQLH/UVeOt9PdRXAJGicf3ymnHud5Yk2yoFx2PCUQ06Dp4xWYS2WwOYev5M5VnxD0iLbbWm2SYamVfAHVmAwBJzHRTS/5nyKUSEfzE/8/11HEAKG3LE6msflPZpsQTAnqpmHMx1x7EbxtDN3zcLDlEKBDQ8yYp2hRhBCOYD3SGIoTPzXTfmBMSc46Y6TCkw6RRvUqoo1WPEmnrFWA0zqF1kz6N9+jGOfgoPqRbWKVt7iZfEQ57OqUCuqZUpFV/M1XPsSdjkCec9AI/57rEQsWWicZU7y1skKWMiQDpkseVkNO0=;y0aKHhYVJmfkWre3FF4oGg=="
 ---

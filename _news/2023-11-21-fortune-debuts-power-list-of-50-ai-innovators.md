@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/fortune-debuts-pow
 webUrl: "https://markets.businessinsider.com/news/stocks/fortune-debuts-power-list-of-50-ai-innovators-1032838773"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Fortune 50 AI Innovators (2023): Credits"
-    excerpt: "Reporting by: Joseph Abrams, Lucy Brewster, Paolo Confino, Kinsey Crowley, Sheryl Estrada, Paige Hagy, Jeremy Kahn, Stephen Pastis, Prarthana Prakash, Anne Sraders, and Ben Weiss."
-    publishedDateTime: 2023-11-21T10:30:00Z
-    webUrl: "https://fortune.com/franchise-list-page/fortune-50-ai-innovators-credits-2023/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 67
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2023/11/50-AI-logo.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Educators innovate ways to use Artificial Intelligence"
     excerpt: "Krista Sweckard told those attending the Nov. 8 Johnson County School District 1 board work session that artificial intelligence is the answer."
     publishedDateTime: 2023-11-22T17:29:00Z

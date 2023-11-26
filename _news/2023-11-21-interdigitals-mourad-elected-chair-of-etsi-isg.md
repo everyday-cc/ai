@@ -39,15 +39,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "InterDigital's Alain Mourad Elected Chair of New ETSI Industry Specification Group on Integrated Sensing and Communications (ISAC)"
-    excerpt: "(Nasdaq: IDCC), a mobile and video technology research and development company, today announced that Dr. Alain Mourad, Head of InterDigital’s Wireless Lab Europe, has been elected Chair of the ETSI’s newly developed Industry Specification Group (ISG) on Integrated Sensing and Communication (ISAC)."
-    publishedDateTime: 2023-11-21T09:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-interdigitals-ala-mourad-elected-chair-new-etsi-industry-/2023/11/21/9921656.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "BdlUFaWOPQAwPMGhekMHe9AK9R2Y4bQJAOBL1NOUTgfW+CiQm7FG4G15UJr7EjfWvWG1FKyuZJicn5nuEcbNQM0xq+pO7cTGJmH17GSRKmf8xLkklEJREVqjqmEWBkwLDx+jFWz82Qrs7tbf2YQuHEhwUtUJB+EXwdVdrBXSJIpK+hqzr4azql9+SqCiTq/ArZ4e0VYVDPjc8aML8jIGgiCEtzx2oqrHsWzl0nUrbmiYlwHDIO8894iSDYm5e4oYy+qHuKU5dKCDZbA67V97mW6cnzK9T/eCVoP2DNbPB2KN2F7mQam1WkdTSp7mYdR1ernIrcdj0Mucfn+SNeAsPw07g7PcyzOINnR5aXbjrXZEgjE2tlooml3WqjP9FPeHl0oYqAGbG7e48a/X31I4Ntrb9AfyLsDIjLNHBOV1KZVFSjvmLb19V+vn6O/MaasdxzG5KsxVAd/2ENEMGc18Uw1g3WcfAux/je69E9M6p1MDqFp9H9cDeBehluFFQNtKdrC1a38OssKj47+EG3omRA==;t5CXn8cRsA2983TF4BL64w=="
 ---

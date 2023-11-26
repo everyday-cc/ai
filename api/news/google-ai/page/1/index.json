@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-23-google-bard-can-now-comprehend-youtube-videos-and-answer-questions.md",
+      "title": "Google Bard can Now Comprehend YouTube Videos and Answer Questions",
+      "excerpt": "Bard's \"Extensions\" already linked it with various Google apps, enhancing its ability to provide more personalized responses",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/11/23/google-bard-youtube-video/",
+      "originalUrl": "https://www.gizmochina.com/2023/11/23/google-bard-youtube-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/google-bard-ai-android-phones.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-23T02:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-how-meta-could-benefit-from-the-openai-shakeup.md",
       "title": "How Meta could benefit from the OpenAI shakeup",
       "excerpt": "Meta and Mark Zuckerberg, who had the luxury of watching the OpenAI boardroom drama from the sidelines, could end up indirectly benefiting the most.",
@@ -34,58 +86,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-google-bard-is-getting-smarter-now-better-understands-youtube-videos.md",
-      "title": "Google Bard is getting smarter, now better understands YouTube videos",
-      "excerpt": "The Google Bard AI is getting smarter by now being able to better understand specific information in YouTube video content.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-bard-youtube-understanding-3388018/",
-      "originalUrl": "https://www.androidauthority.com/google-bard-youtube-understanding-3388018/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T16:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

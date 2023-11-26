@@ -24,68 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Camp Is Setting Employers Up For The Next Industrial Revolution"
-    excerpt: "The AI revolution will change what you look for in your future employees, but the education system isn’t giving young people the STEM skills they need."
-    publishedDateTime: 2023-11-21T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
+  - title: "14 Ways AI Can Help Business And Industry Boost Sustainability"
+    excerpt: "Business leaders are starting to think about ways AI can help them with a critical consideration for organizations of all stripes: reducing their carbon footprint."
+    publishedDateTime: 2023-11-22T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65578b6497210c6748431c8a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e31014bea042307fae41e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
         isCached: true
-  - title: "How is Generative AI Transforming the Financial Industry?"
-    excerpt: "Explore the transformative power of Generative AI in finance with real-world case studies and expert insights from SFF 2023."
-    publishedDateTime: 2023-11-22T03:43:00Z
-    webUrl: "https://fintechnews.sg/80447/ai/how-is-generative-ai-transforming-the-financial-industry/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 39
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Sumsub-Banner-3.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Artificial intelligence: who are the leaders in fault monitoring AI for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is leveraging artificial intelligence (AI) for fault monitoring due to the increasing complexity of vehicles,"
-    publishedDateTime: 2023-11-24T12:41:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-fault-monitoring-ai-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_fault-monitoring-AI.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Revolutionizing Creative Industries: PromeAI's Breakthrough in AI-Driven Image Generation"
-    excerpt: "AI Image Generation provides artists and designers with an additional source of inspiration and allows ordinary people who lack drawing skills to embrace creativity. Background Diffusion assists e-commerce businesses in producing visually striking product images,"
-    publishedDateTime: 2023-11-21T13:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/revolutionizing-creative-industries-promeai-s-breakthrough-in-ai-driven-image-generation-1032839110"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-  - title: "Artificial intelligence: who are the leaders in moving obstacle prediction AI for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is advancing moving obstacle prediction AI due to growing demand for autonomous vehicles, advancements in LiDAR and camera sensor technology,"
-    publishedDateTime: 2023-11-24T12:54:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-moving-obstacle-prediction-ai-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 14
 
 secured: "t//UoULYcnR0aVa28Z8WClgr3+9RB07prN4d6BluP1J7KnVCPEA1P6PJT295vDJpD9DvnV6X93CB32GBvNdBQCMe1xD6HYjCQU0rGjO+/rOUTN3S+att1K7s65Cu3gKotsNSroj5SBHGDBg/DtVRLliGdrPjlLC+MNTqdJJs8ya/gm146WZlek0Wk6nkwrZllYeJARRKurH4149uHqHLR+zTyzWeAO7wqjZ7HBC4VU7iSDYZ40WzxHIjz5SZU38B4DABM+a0Jj1gU8UOMrZIfXF4THMGI1aXI6SGgXZyPqIljD6nVTXo104RX7H9YPHwoN3S6jWdR45VMDRbpPBB87/XR1ESWM0JTpE2z1rPg0K+D81Lj/ScjCEZcLMH58zMwm1LLWJiTqdjusVV6dGrSRHmjbF8wpe87zogv6/Soye7MRhuzucAlKnQcbXofL3fkpg9ukaSKlNBF6dp+/oDIyEFiTa66MQHJzxC/dx2FmneyiXo9YbH6NgNYWtyuHDQnl7F+P2iNnACcrhHuQNUqQ==;twLnCso/uofMzW62oSX/bw=="
 ---

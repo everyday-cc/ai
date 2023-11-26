@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/before-deep-learning-a-journey-into-the-pr
 webUrl: "https://techbullion.com/before-deep-learning-a-journey-into-the-pre-2000-era-of-neural-networks/"
 type: article
 quality: 53
-heat: 81
+heat: 77
 published: true
 
 provider:

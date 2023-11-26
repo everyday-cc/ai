@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-10-air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja.md",
+      "title": "Air India becomes world's first airline to adopt AI virtual agent 'Maharaja'",
+      "excerpt": "Air India has become the first airline to deploy a generative AI virtual agent named 'Maharaja', which can answer 6,000 queries in four languages per",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/articleshow/105124807.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/articleshow/105124807.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-105124767,width-1280,height-720,resizemode-4/105124767.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/amp_articleshow/105124807.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/air-india-becomes-worlds-first-airline-to-adopt-ai-virtual-agent-maharaja/amp_articleshow/105124807.cms",
+      "publishedDateTime": "2023-11-10T11:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-this-week-in-xr-open-ai-dev-day-bombshells-aleph-alpha-ai-raises-500-million-xais-grok.md",
       "title": "This Week In XR: Open AI Dev Day Bombshells, Aleph Alpha AI Raises $500 Million, xAI’s Grok",
       "excerpt": "To grok is to deeply understand and empathize. In a post announcing Grok last Saturday, November 4th, the company explains Grok will grok the world in real time with a Large Language Model that includes a real time feed of X as it appears on the X,",
@@ -1330,59 +1373,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-tunnelbear-vpn-review-2023-pricing-ease-of-use-security.md",
-      "title": "TunnelBear VPN Review 2023: Pricing, Ease of Use & Security",
-      "excerpt": "Read our in-depth analysis of TunnelBear VPN, covering its pricing, ease of use, security features, and more. Find out if this is the right VPN for you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/tunnelbear-vpn-review/",
-      "originalUrl": "https://www.techrepublic.com/article/tunnelbear-vpn-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/10/tunnelbear.png",
-          "width": 350,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-28T01:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

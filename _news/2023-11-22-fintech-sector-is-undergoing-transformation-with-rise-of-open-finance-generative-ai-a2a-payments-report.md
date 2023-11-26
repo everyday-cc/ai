@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-un
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/11/23/1600x900/Screenshot_2023-11-23_140037_1700728233989_1700728241385.png"
         width: 1600
         height: 900
+        isCached: true
+  - title: "How is Generative AI Transforming the Financial Industry?"
+    excerpt: "Explore the transformative power of Generative AI in finance with real-world case studies and expert insights from SFF 2023."
+    publishedDateTime: 2023-11-22T03:43:00Z
+    webUrl: "https://fintechnews.sg/80447/ai/how-is-generative-ai-transforming-the-financial-industry/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 39
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Sumsub-Banner-3.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "Fintech Trends Survey: 2024 to Center on Digital Transformation within Finance Departments, AI and Real-Time Payments a Priority"
     excerpt: "AvidXchange, a provider of AP automation software, announced the release of a white paper titled, “2024: Anticipating Tomorrow’s Trends.”"

@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "\"Taarzan\": Indian Influencer's Review Of Self-Driving Taxi In US Is Viral"
+    excerpt: "Indian chef, Neha Deepak Shah who appeared on MasterChef India Season 4 in 2015 recently shared her experience of booking a self-driving taxi in the US."
+    publishedDateTime: 2023-11-26T10:04:00Z
+    webUrl: "https://www.ndtv.com/offbeat/taarzan-indian-influencers-review-of-self-driving-taxi-in-us-is-viral-4607445"
+    ampWebUrl: "https://www.ndtv.com/offbeat/taarzan-indian-influencers-review-of-self-driving-taxi-in-us-is-viral-4607445/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/offbeat/taarzan-indian-influencers-review-of-self-driving-taxi-in-us-is-viral-4607445/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 43
+    images:
+      - url: "https://c.ndtvimg.com/2023-11/o587ebfo_neha-deepak-shah_625x300_26_November_23.jpeg?ver-20231128.06"
+        width: 335
+        height: 384
+        isCached: true
   - title: "Spanish influencer agency designed this AI model after deciding real-life influencers are a pain"
     excerpt: "Meet Aitana Lopez, a gorgeous young influencer from Barcelona who has 122,000 followers on Instagram - even though she's an AI creation."
     publishedDateTime: 2023-11-24T01:11:00Z

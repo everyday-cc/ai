@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google Bard can Now Comprehend YouTube Videos and Answer Questions"
+    excerpt: "Bard's \"Extensions\" already linked it with various Google apps, enhancing its ability to provide more personalized responses"
+    publishedDateTime: 2023-11-23T02:19:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/23/google-bard-youtube-video/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 54
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/google-bard-ai-android-phones.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google Bard is getting smarter, now better understands YouTube videos"
     excerpt: "The Google Bard AI is getting smarter by now being able to better understand specific information in YouTube video content."
     publishedDateTime: 2023-11-22T16:22:00Z
@@ -110,6 +124,6 @@ related:
         height: 1294
         isCached: true
 
-secured: "+BIFosrnsSaaPgxbG3FLgBHwho6Hx5i0gbzvTdbQkK89XoLcRzi8gMArqg3mAi1BgK1lbs6tkjWMwxOZMiQtGM6XUmG8c0FqqF1ivr+TmG+6KbaFYZV40l7u8hZmLKapFXcrSnH0ZdCW9JqhRcq+H1L53NenC9hPfbcVmYy97NvlEPaPpX9vx8HAM94PVvyPwlWlHG+qN0EMQLM6p5g2LAByyJyN8oQvY5CHXi3c/nfNyfdNTYG9dEp3tbGz8lTCqF4+LTaVNu3di0oXi3ZYKnS5Z08J+FqJZ21A7IoWsB1eEu8oGX4mYZVc3gxl7gmW6lYvdMttny67zBCOr3ws7X1Xc+pX8/euETY/DE3y2DA=;QgyqBTBD3eLu2fzFIZK+iw=="
+secured: "+GKW/EsdmQZIec2CNDS3Wv16+FWIZs2VkKAyDhxENN2OTAdaMxUQA+Z6PNncpyYn958tW7vmF6Kssj7VJXT3tAJsYeR5tZbItLhJwSaUn+no0eR9itCeEyOVWWZ4I5etGmnLjzkTus+2wqVgvseALKDmzjjcyJNCN/fhp2YpTHUVRmeDGMaolmUUOq9/kITrYjuNFlvWEYAn5qVETQDhjjWGMX0GUa8HlgOg7srBMLaqdXZKdvYjiJXJ4lgOwpPBIYYG97BwVq6KZc8M/N6acQaXJi3oCXm8oZkqJe4SEiVyqjoq6aUoFF7r3EoayBGBky7g94/V52Uzx3TKkvvQnmnlLKBthVQE1ac73z2OdoaGxbxc41LiA3mIJ8q2ssenmCnHP9RJr1oy1G1gBK7WYoWZi5tBiZZucC6ViEugFAD7wJg9BWZUcUZ5C/rkhgrEw1Qm25juNPNNzZW2U+lA6As/i3R5yZnzbFwGwSrZHJ4A+7FofWDVxcR2kA9TkKU2GEteeydxr+pzFFY6qX5iRw==;flyN5msL8wsvrxjHowmI6g=="
 ---
 

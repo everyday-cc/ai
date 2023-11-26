@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 848
         isCached: true
+  - title: "How is Generative AI Transforming the Financial Industry?"
+    excerpt: "Explore the transformative power of Generative AI in finance with real-world case studies and expert insights from SFF 2023."
+    publishedDateTime: 2023-11-22T03:43:00Z
+    webUrl: "https://fintechnews.sg/80447/ai/how-is-generative-ai-transforming-the-financial-industry/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 39
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Sumsub-Banner-3.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Fintech Trends Survey: 2024 to Center on Digital Transformation within Finance Departments, AI and Real-Time Payments a Priority"
     excerpt: "AvidXchange, a provider of AP automation software, announced the release of a white paper titled, “2024: Anticipating Tomorrow’s Trends.”"
     publishedDateTime: 2023-11-23T15:12:00Z

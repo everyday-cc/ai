@@ -25,68 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Camp Is Setting Employers Up For The Next Industrial Revolution"
-    excerpt: "The AI revolution will change what you look for in your future employees, but the education system isn’t giving young people the STEM skills they need."
-    publishedDateTime: 2023-11-21T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2023/11/21/how-ai-camp-is-setting-employers-up-for-the-next-industrial-revolution/amp/"
+  - title: "Fintech Sector Is Undergoing Transformation with Rise of Open Finance, Generative AI, A2A Payments – Report"
+    excerpt: "The whitepaper found that “the fintech market is undergoing a rapid shift, with the rise of new technologies, such as Open Finance, generative AI and A2A (account-to-account) payments having a major impact on business models.” This is combined with unp ..."
+    publishedDateTime: 2023-11-21T21:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 56
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65578b6497210c6748431c8a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/NYSE-New-York-Fintech-1024x848.jpg"
+        width: 1024
+        height: 848
+        isCached: true
+  - title: "Intuit's AI-Driven Approach: Transforming Fintech Industry with GenOS & Intuit Assist"
+    excerpt: "Saurabh Saxena, Intuit India Site Leader & Vice President, Product Development, shares his insights on Intuit's strategic focus on AI, the transformative impact of GenOS, their newest launch - Intuit Assist,"
+    publishedDateTime: 2023-11-23T08:32:00Z
+    webUrl: "https://www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist-11700727898845.html"
+    ampWebUrl: "https://www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist/amp-11700727898845.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist/amp-11700727898845.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 52
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/11/23/1600x900/Screenshot_2023-11-23_140037_1700728233989_1700728241385.png"
+        width: 1600
         height: 900
         isCached: true
-  - title: "Artificial intelligence: who are the leaders in fault monitoring AI for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is leveraging artificial intelligence (AI) for fault monitoring due to the increasing complexity of vehicles,"
-    publishedDateTime: 2023-11-24T12:41:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-fault-monitoring-ai-automotive/"
+  - title: "Fintech Trends Survey: 2024 to Center on Digital Transformation within Finance Departments, AI and Real-Time Payments a Priority"
+    excerpt: "AvidXchange, a provider of AP automation software, announced the release of a white paper titled, “2024: Anticipating Tomorrow’s Trends.”"
+    publishedDateTime: 2023-11-23T15:12:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/11/216736-fintech-trends-survey-2024-to-center-on-digital-transformation-within-finance-departments-ai-and-real-time-payments-a-priority/"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 25
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_fault-monitoring-AI.jpg"
-        width: 1440
-        height: 810
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/11/Equity-Crowdfunding-in-2023-Webinar-300x250-12.12.23.jpeg"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Revolutionizing Creative Industries: PromeAI's Breakthrough in AI-Driven Image Generation"
-    excerpt: "AI Image Generation provides artists and designers with an additional source of inspiration and allows ordinary people who lack drawing skills to embrace creativity. Background Diffusion assists e-commerce businesses in producing visually striking product images,"
-    publishedDateTime: 2023-11-21T13:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/revolutionizing-creative-industries-promeai-s-breakthrough-in-ai-driven-image-generation-1032839110"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-  - title: "Artificial intelligence: who are the leaders in AI in damage estimation for the automotive industry?"
-    excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
-    publishedDateTime: 2023-11-24T02:01:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-ai-in-damage-estimation-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 37
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/AI-in-damage-estimation.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Artificial intelligence: who are the leaders in moving obstacle prediction AI for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is advancing moving obstacle prediction AI due to growing demand for autonomous vehicles, advancements in LiDAR and camera sensor technology,"
-    publishedDateTime: 2023-11-24T12:54:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-moving-obstacle-prediction-ai-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 14
 
 secured: "9OyxAWAr67yWX6ZBlErUoQ5bDkSl3r4GbkzFcQWNfWNNF3dTnq+8VTdxJglJChIbCmFFpcxqJOJWaMYd0eNqRxs2PTIxADmysDLBQLAl/CeOlGxAXFZ4n6oI/aAzjfAWQplR2RyM5XFeWrnzSjFGzha9VCSiWD/Zxpg0oEzTF8aMDMAYxb0lHXwKRYyB6tO+HbSyEZP477aCtjhOlqE+vYSKWqxOkr0yxF3VpQ5Sg1s8WmCa1FA2mnb1hQDtNwc0V8C7H9543LpkXhexuTc4YVUfeLTZPpPNuhy6JZPJkSGi7lXNfLLgpz9/N2/GRmBlHMau1ZOwM5zFvBsJe8fSS0bMgp6pBU4njCG0vbnGqXY=;hq+4qtIbbsN4G8wa+uoNsA=="
 ---

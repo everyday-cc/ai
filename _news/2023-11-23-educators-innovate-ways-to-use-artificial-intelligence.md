@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fortune 50 AI Innovators (2023): Credits"
-    excerpt: "Reporting by: Joseph Abrams, Lucy Brewster, Paolo Confino, Kinsey Crowley, Sheryl Estrada, Paige Hagy, Jeremy Kahn, Stephen Pastis, Prarthana Prakash, Anne Sraders, and Ben Weiss."
-    publishedDateTime: 2023-11-21T10:30:00Z
-    webUrl: "https://fortune.com/franchise-list-page/fortune-50-ai-innovators-credits-2023/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 67
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2023/11/50-AI-logo.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Fortune Debuts Power List of 50 AI Innovators"
     excerpt: "Fortune editors name the companies leading the way in the AI boomAn essential guide to the companies every executive needs to know in the sector"
     publishedDateTime: 2023-11-21T12:10:00Z

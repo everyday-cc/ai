@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/application-modernization-overview/"
 webUrl: "https://www.ibm.com/blog/application-modernization-overview/"
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1180
     height: 912
     isCached: true
-
-related:
-  - title: "Maximo Application Suite migration and modernization with Red Hat OpenShift on Azure"
-    excerpt: "Walking through recommended options for running MAS on Azure and how the IBM, Red Hat and Microsoft Azure components come together.\nThe post Maximo Application Suite migration and modernization with Red Hat OpenShift on Azure appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-11-21T10:00:00Z
-    webUrl: "https://www.ibm.com/blog/maximo-application-suite-migration-and-modernization-with-red-hat-openshift-on-azure/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 92
 
 secured: "+cNOLiOqtyIetYbJAaYaKEscjNNrIkRxzf9XrECOisZQLqW6GwH6WS88fDP4rupNUTpqacbJOIh+AoZ/aBMK9h8KQeD9lzruU0JUzK1deEJAPKywXGT1A4wogJnQMeqaKrKlyZ1PTd9Gifxc9T81gESaluk/UWortswAGUDYm7OvdJBkuNqn0s3alRAw7jUtIR/X7Siay5LiVfrqqSYH6BQJxlmfYjltS5kLAAt80yBvJhpwYoUI3uRAiCTjDKpfpSkiFF4JUDbbW5iUJXs+z3CABGfBlrNolfvINoI9er1XwAg9h/C05P1CAeBZSeqwj4vW6JmvHigQEfs1OhTcx6tzIv3BM9eAtvJ2v4b7BbU=;JmMN/YCQvicKy/8LmEinBw=="
 ---
