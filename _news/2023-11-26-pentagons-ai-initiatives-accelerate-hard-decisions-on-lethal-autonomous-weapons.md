@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Pentagon’s AI initiatives accelerate hard decisions on lethal autonomous weapons."
-excerpt: "There is little dispute among scientists, industry experts and Pentagon officials that the U.S. will within the next few years have fully autonomous lethal weapons."
-publishedDateTime: 2023-11-25T18:35:00Z
-originalUrl: "https://www.bostonglobe.com/2023/11/25/nation/pentagons-ai-initiatives-accelerate-hard-decisions-lethal-autonomous-weapons/"
-webUrl: "https://www.bostonglobe.com/2023/11/25/nation/pentagons-ai-initiatives-accelerate-hard-decisions-lethal-autonomous-weapons/"
+title: "Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons."
+excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"
+publishedDateTime: 2023-11-26T01:18:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
+webUrl: "https://abcnews.go.com/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
 type: article
-quality: 32
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/hGS3NiaYhAzrG6yhDchE4fiHJzA=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7Y565G2XAMMAXZYLNEAI4G3EVM.jpg"
-    width: 506
-    height: 337
+  - url: "https://s.abcnews.com/images/US/wirestory_0773b4937801e7a0573f44b57a9a5942_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -64,6 +66,6 @@ related:
       domain: abcnews.go.com
     quality: 17
 
-secured: "fg3/6KUaXFSsWsjX5okvPewmFPHW2PPeeE3/a9SIijMp0ocIm8ag12YRnGTFFsw5Rjl+MpjDNebcmk1qg30Sntjs0cUs3MhHarZ2bo6OU07yt3e5PYGNZn+i/bWmOs/hImzQou1LYmyXXO5a5Amz1lHEr3VCaYTRv8K9tvfX1Q4icgs0F4/zAnY0SrOWfFEOM0nACGisJhoxN4AhJ22Tpt9mjnkImGMBnzMCUPiq78tubnNP8uzg0qTrXCsNul5uBe4mHpjyjsUktF1BMQsm7M8+0hyW8ArD1R3DJfkTpUmSB2XU41NLgzSPLudLyRK6nlt/iZ6JZZph4KqTMJ6QYivZJ8iGeqAZ+U9ZnJOp0U60nykr8iTxRvZRTJ3jvjmUeL6eeGLGz3GOgMD0KF2cv4k84Z53qGzF8oy5S6RbH7GVy/IlsTTfLz9/k2YUlYusB5lbHCTpFHge5zXDeCbddcmygCclm+FMscOggP6VhYR7YPy7xQqHRaPyB0oCAj5mDXSn1ssPGyFn2fcL3Sev5Q==;EeCnTe6aagG0cuMFSv9nNA=="
+secured: "zbsDoOu+EGHJCGcfr2cN4UDBqrj0GkA+cO12sVnbs2pQ+23Y+3AcyA5vjCxlqApRkXO7jHI3KT8FHBdMQe2Y9sKt29WzLtOVh6xTyhpVP4TI9wUb52Y6gpDcIc3hETM42CPzfcSLGqNd8zl2T6+DvGVOzQtQ4fmAfcAmB7cS0VH42T6+lQrRu8XO0OFJSjSRzTGSlCkgmANmVbtk7Ts/fAnYRiW56q/7UG8dsCFdFt51gVYLEEt/eyhnZJsob4P1rXbpMZRElOwhYZXthgsoEJAP9crpsouN2ZTy3hg4J8XW68274Ja4hKiOZbnQQAvCJRIQzyfUYnxHAXx18sjObBMHgth2i0bPUwFkhWY8vcs=;yzBaWXZFSnGRIcuwEYUbOA=="
 ---
 

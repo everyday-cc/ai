@@ -67,15 +67,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Cruise woes claim CEO, drive shakeup, but GM still believes in self-driving technology"
-    excerpt: "Dan Ives, managing director and senior equity analyst at Wedbush Securities, said in a statement Vogt's resignation is \"another major black eye for the Cruise franchise and GM. He was the turnaround CEO and instead it’s another debacle.\""
-    publishedDateTime: 2023-11-21T03:01:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2023/11/20/cruise-woes-claim-ceo-drive-shakeup-but-gm-still-touts-self-driving-tech/71654392007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 11
   - title: "Austin launches dashboard to track self-driving vehicle incidents"
     excerpt: "A new dashboard will be used to track self-driving car complaints in Austin as Cruise autonomous vehicles continue to cause incidents."
     publishedDateTime: 2023-11-24T23:21:00Z

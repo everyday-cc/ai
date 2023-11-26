@@ -3,8 +3,8 @@ category: news
 title: "The Unexpected Winner in the Craziest Week in AI"
 excerpt: "Microsoft Chief Executive Satya Nadella made a huge bet on the world’s hottest AI company. After it nearly blew up on him, he now emerges with closer ties to its leader, Sam Altman."
 publishedDateTime: 2023-11-25T01:00:00Z
-originalUrl: "https://www.wsj.com/tech/ai/satya-nadella-microsoft-ceo-ai-openai-altman-85e75531?mod=americas_whatsnews_pos5"
-webUrl: "https://www.wsj.com/tech/ai/satya-nadella-microsoft-ceo-ai-openai-altman-85e75531?mod=americas_whatsnews_pos5"
+originalUrl: "https://www.wsj.com/tech/ai/satya-nadella-microsoft-ceo-ai-openai-altman-85e75531?mod=asia_whatsnews_pos5"
+webUrl: "https://www.wsj.com/tech/ai/satya-nadella-microsoft-ceo-ai-openai-altman-85e75531?mod=asia_whatsnews_pos5"
 type: article
 quality: 67
 heat: 67
@@ -27,6 +27,6 @@ images:
     height: 640
     isCached: true
 
-secured: "VYzjq8blCupvjZhdmtekiBKDDdi0h7uysiP82AgNazTOeabGz1m6DuiXWwK6ZvH7qgsmr5Nx3Vk6Y+R/Fcn0r4byNpSyiq1BKYfqEprhwsFJtDaREUOH++YPJoEBj3X0tbFzWNqlSs57kju6n9jtw2D/SAlaK7H4JeO2sJU4cPQVkA4J8CdyE/9AMT0YrgpCZDpT8coBJBDv3HNlXhlkS3njL7COLeGw4kJLwCBlC5I0leaJNT5J1+HIPszfMUf6H5ud1wtxIIiZspvZwD5uEYoJLqdT8nKM4ShxxZUyTInK/ezNOP5YBsZaSTllbtq0JzFBCNjrz/YKMAHoR4H+TFHt4L6/aTst2eiTT479aRM=;qrKSTk3e6/5muWc2i2Wiyw=="
+secured: "E405LlGltnXHuC51cekOvGeuom3MfAHvITDocIqPKzk2QfyjCYSJYljHi3rvyapUUnnoenoowAOaU7sM+KyNbsNrdyG4ovK0NAG34xDe5siGmBbVIXc43e/ehu33oLH2BFSwU5f3Rav+f4mOXDpQoF4eX6WjW5Uz+zUBUBigURqZqFzLO4HFtJH4zKYXW15XKvKTx4XwnJogBbW5kKE+SPWBdrpjFY6dolstssuwOse2eXlHbBeHf0IgyQbn9BAgPDG9uQTvGol0Me2NXQcQdWA9uiShKy3KXI882ck3MhYGKHUDgmrsSjVV0tsex5lmDPXurGrVWl5um54VLPiZrIRlhjuebvzlvY0ptm3QX1c=;vKJ+SxyzlxyXMb2p5ZY9xA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks/"
 type: article
 quality: 95
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Best practices for developing a generative AI copilot for business"
+    excerpt: "Chris Ackerson, formerly of IBM Watson, is currently the Vice President of Product at AlphaSense, a market intelligence and search platform, where he spearheads the development of AI and ML capabilities to deliver better data and insights to thousands of ..."
+    publishedDateTime: 2023-11-21T18:39:00Z
+    webUrl: "https://techcrunch.com/2023/11/21/best-practices-for-developing-a-generative-ai-copilot-for-business/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1465545513.jpg?resize=1200,686"
+        width: 1200
+        height: 686
+        isCached: true
   - title: "Geospatial generative AI with Amazon Bedrock and Amazon Location Service"
     excerpt: "Today, geospatial workflows typically consist of loading data, transforming it, and then producing visual insights like maps, text, or charts. Generative AI can automate these tasks through autonomous agents. In this post, we discuss how to use foundation models from Amazon Bedrock to power agents to"
     publishedDateTime: 2023-11-22T14:18:22Z

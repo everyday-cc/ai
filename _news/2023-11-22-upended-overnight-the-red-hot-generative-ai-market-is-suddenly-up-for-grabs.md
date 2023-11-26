@@ -24,22 +24,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Meta’s Responsible AI Team Disbanded, Paves the Way for Generative AI Dominance"
-    excerpt: "Meta, the parent company of Facebook and Instagram, has dissolved its Responsible ... projects like the custom silicon unit in its Reality Labs and the Fundamental AI Research department with its AI protein-folding team. Zuckerberg said, “Our single ..."
-    publishedDateTime: 2023-11-21T01:12:00Z
-    webUrl: "https://techreport.com/news/metas-responsible-ai-team-disbanded-paves-the-way-for-generative-ai-dominance/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 35
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/11/shutterstock_2297040931.jpg?_t=1700557978"
-        width: 1000
-        height: 667
-        isCached: true
-
 secured: "q7+dgf6vclIfN24LjnFbgCSv7dEkNKJ23lH/blizsHMZ1dU0aYAtZvK/SWhx9o79tUSF7ImXBV298Mwqn1PPpWuXaN2kI7B65JLDggqkviroJSAvcgkVJBidfB7IJFk6UrsAMI9K1t64sTpRtXZAxYxBFE8x8S8Npd/F+Ksm1YpHAJIWoNEDkUheT5lz4LwlJTAqcyM65vBSxIh0HqI93TcI4PwZc1WWjuUCamJbBst38s/uXQIVMTV2QtUSUkEr49w5qNT3z8Qv386lTTzOJnT6PoFR4izBi16MLrAfN9LaeIAuubEOx9ilt8UKf/5fd4tr1ImE+Ien+xTNDbnIe2iiZd/WQ5CyyHYYQ8ak8YqZQIhepqOQ7eKcFQrgR5MF/Jt0WDa5olL3sEXE2RUvOxveHlOqQFA1t0DVwRq3hAvpmDdkYVtozEibI+wkN2TZoF8n6u+/93cuxfvmFNntTtHwzYT8oJcf2H106ODOlH3F0vyLLmIxIBTKih6aZAqqGbOyqDz5K71QYkMpCVYTbA==;xYGqy65YtGFlaguqv0c/ng=="
 ---
 

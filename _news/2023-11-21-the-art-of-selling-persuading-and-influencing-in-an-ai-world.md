@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -130,20 +130,6 @@ related:
       - url: "https://schoolsweek.co.uk/wp-content/uploads/2023/09/AI-robot-hand-SM.jpg"
         width: 800
         height: 420
-        isCached: true
-  - title: "Navigating tomorrow -The rise of artificial intelligence in leadership"
-    excerpt: "Mumbai: In an era marked by rapid technological advancements, the integration of artificial intelligence (AI) into various facets of our lives is becoming increasingly prevalent. One of the most intriguing and transformative areas where AI is making a significant impact is in the realm of leadership."
-    publishedDateTime: 2023-11-21T02:53:00Z
-    webUrl: "https://www.indiantelevision.com/mam/digital/navigating-tomorrow--the-rise-of-artificial-intelligence-in-leadership-231121"
-    type: article
-    provider:
-      name: Indian Television Dot Com
-      domain: indiantelevision.com
-    quality: 37
-    images:
-      - url: "https://www.indiantelevision.com/sites/default/files/images/tv-images/2023/11/21/53.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Startup Combating AI Threats Pulls In $6M Seed Funding"
     excerpt: "Lasso Security can identify which genAI tools are being used by firms and monitor every employee that uses them & the data they send out."

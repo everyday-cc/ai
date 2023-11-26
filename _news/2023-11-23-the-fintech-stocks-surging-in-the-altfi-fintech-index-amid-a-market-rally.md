@@ -57,6 +57,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Quasar Markets Wins 2023 Benzinga Fintech Award"
+    excerpt: "Quasar Markets' Innovative Fusion of AI, Web3, and Finance Makes Waves at the 2023 Benzinga Fintech AwardsNew York, New York--(Newsfile Corp. -) - Quasar Markets stands out in fintech for its"
+    publishedDateTime: 2023-11-26T01:26:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/35950323/quasar-markets-wins-2023-benzinga-fintech-award"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35950323"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35950323"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Robotic Process Automation in Finance: Streamlining Operations with FinTech"
     excerpt: "Introduction Technological advancements continue to redefine the way financial institutions operate. One such groundbreaking innovation is Robotic Process Automation (RPA), a game-changer that has seamlessly integrated with the financial sector,"
     publishedDateTime: 2023-11-21T14:55:00Z

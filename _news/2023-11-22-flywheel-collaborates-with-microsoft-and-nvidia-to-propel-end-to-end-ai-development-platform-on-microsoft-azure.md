@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-excerpt: "Flywheel announces the launch of its SaaS data management solution on Microsoft Azure, integrated with NVIDIA MONAI."
-publishedDateTime: 2023-11-22T13:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
-webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
+excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
+publishedDateTime: 2023-11-22T09:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
+webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
 type: article
 quality: 29
 heat: -1
@@ -387,6 +387,6 @@ related:
         height: 280
         isCached: true
 
-secured: "VLCgY77oHoGeCiBhFiz0SdSA2ti84hmYVgU4AGt77Z1DoYvtoDHQDf8+24/Ia0Ejt2hcuzPZP0vOQq9mX4uKFtackqCvukrPyiR9xXXVvKsX0QPq6YnchbOdPlTnK0AvTRsHiHsekJnZTMZKgS71Gj2XGw0yN+AsSwSfzh3hfSyUPJg2k11r97/fMvMfM3TDVGog0+Q3Gcs9EpWCePI79NvrzsJlM3MpFWgDB8RzUkLk7DhwiTW9j2Bs81RIHpffuWPwaH/1efnH01JRmpzgj5Trv1bb0ylr2g9VHFo8cjGTMYn90aUlecsAi+4a6VRMDXM2cP6yq7oSQrqU/uonkcR8FnU1Yhf6+QMZrMg4TUMbCqVYWijpVADiZspkyShhPmOMKoJ3ZqXuG/no/r7xnET5yVwzDinVHzyVQFafK0S60WqufzXJ6yllshvuhzY71Ghh/1Bwg2Q+zKLbyYnQxcHWl3tcMduuM7dZoGSOBCy9HGYOp6Ic87woSXibdi5NsuxKGgSOWUHmfvj/DSEncg==;s23rd+qVsQMRNZbwf0eIQw=="
+secured: "jX/NLMHTdKiRWm+vizt4LIxdhAG5FZqkqGf9IrQq6lBAo9HJTJKSDbPgrk1OENGFETgjZgfnHzJ5D/IczwbAnr1EMRxiePehe9HVv9jqyN6cmJaxpbSS1uECemoUvc+LMgYuNVHqlY0vnINnrlvma7ThsaoYYuqA6NZsL1ThGe1CeVNEjKGpgDidSUN3Asy2xA/1CjzX0WdKoOOpdYBMh/AZIt6YcFW9WAKWimV+pSWFTHYeG9fBGakNnd6Ze16Rq/l6Mh0uvBPAtT11xIMmbZOv83Jb4TvhuD5PYPSnjo9WdkWAa0dA7QdFQ0lJ0Ia6azlDqpF4FllKhH8Oxi8Vj0+W+L9vxIukVS+4E0/P4XM=;H2saLqZ/09JcbLTAJyUxqQ=="
 ---
 

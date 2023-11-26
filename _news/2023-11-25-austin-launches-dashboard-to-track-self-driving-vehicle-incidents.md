@@ -75,15 +75,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Cruise woes claim CEO, drive shakeup, but GM still believes in self-driving technology"
-    excerpt: "Dan Ives, managing director and senior equity analyst at Wedbush Securities, said in a statement Vogt's resignation is \"another major black eye for the Cruise franchise and GM. He was the turnaround CEO and instead it’s another debacle.\""
-    publishedDateTime: 2023-11-21T03:01:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2023/11/20/cruise-woes-claim-ceo-drive-shakeup-but-gm-still-touts-self-driving-tech/71654392007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 11
 
 secured: "nJjyjT4BKhIA49UHTtBfA1HRzwM5gipe7QBM4ZEEKMzrmJ9aNSo5yIT6igo6eetD/OLS+ulPQpFJ4xNQRDtdwaEwZ0exPb+cvqcH8CxAx/+dISIEq5hJajF4IjMGmdS62CIpmuIq+7bW5iANW9loNLLR4xQ1yAz2FoHvBABu5gueINAL3Nxr0xtRELk45Chv9MxjkpVtIi46h2u66MhRAlX/fAbjASFynfyTLpMpZFx1xTZibx5giS8/qJkpkpfMeFZ80KN9f0LOviYthnhMMSvwXaluUHnZ6Z6NEW+bVnd23pq7owMrdoalmxSIBiXL7CHz1EFzOCBxqjWmf++aAh5+EmgqpaiQzBZ6NottAMUZfW7pD+8ejgQU0TJPZf9A7JnNRa1RKKeo89i3qO1SpravFMgGu6zQ6TObqfWg/X+OGjpLXe9sBhYA9TUTw3kKJPca52xBnAZKXPVpQdyv20YErS9d+mALJ/2MZehNMSbcBshDbM16LF7op9Gf47k2qUa6AP7PkqC8UKv7TumSsw==;nge7jW16MFsSU8HgiCPlbQ=="
 ---

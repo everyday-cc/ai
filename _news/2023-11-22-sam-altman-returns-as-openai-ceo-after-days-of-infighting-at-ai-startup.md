@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna126214"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna126214"
 type: article
 quality: 89
-heat: 409
+heat: 419
 published: true
 
 provider:
@@ -384,6 +384,20 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/ea3b4ac9c70e1d12060029a7354d2d6f"
         width: 800
         height: 526
+        isCached: true
+  - title: "‘What If Sam Altman Was A Black Woman’ Debate About Bias In AI Engulfs Twitter"
+    excerpt: "Following Sam Altman’s ouster from OpenAI many compared Altman's exit and return to the unceremonious firing of Dr. Timnit Gebru."
+    publishedDateTime: 2023-11-26T02:14:00Z
+    webUrl: "https://www.blackenterprise.com/what-if-altman-black-woman-ai-bias/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 33
+    images:
+      - url: "https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2023/11/Untitled-design2.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "OpenAI's Ctrl+Z on Sam Altman: Firing, rehiring and all the drama around AI startup"
     excerpt: "November 21: Satya Nadella reveals Altman and Brockman will lead a new AI research team at Microsoft. Board member Ilya Sutskever 'regrets' firing Altman. November 22: Sam Altman returns as OpenAI CEO; an initial board set up to appoint a formal board that might comprise Altman, Brockman and a Microsoft representative."

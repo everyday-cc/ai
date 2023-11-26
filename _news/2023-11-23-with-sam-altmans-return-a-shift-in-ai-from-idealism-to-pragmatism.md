@@ -384,6 +384,20 @@ related:
         width: 800
         height: 526
         isCached: true
+  - title: "‘What If Sam Altman Was A Black Woman’ Debate About Bias In AI Engulfs Twitter"
+    excerpt: "Following Sam Altman’s ouster from OpenAI many compared Altman's exit and return to the unceremonious firing of Dr. Timnit Gebru."
+    publishedDateTime: 2023-11-26T02:14:00Z
+    webUrl: "https://www.blackenterprise.com/what-if-altman-black-woman-ai-bias/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 33
+    images:
+      - url: "https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2023/11/Untitled-design2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "OpenAI's Ctrl+Z on Sam Altman: Firing, rehiring and all the drama around AI startup"
     excerpt: "November 21: Satya Nadella reveals Altman and Brockman will lead a new AI research team at Microsoft. Board member Ilya Sutskever 'regrets' firing Altman. November 22: Sam Altman returns as OpenAI CEO; an initial board set up to appoint a formal board that might comprise Altman, Brockman and a Microsoft representative."
     publishedDateTime: 2023-11-22T08:05:00Z
@@ -468,6 +482,6 @@ related:
       domain: ft.com
     quality: 0
 
-secured: "YIoda6HWxz5vt+w4ZTzcvjENOLFO394iKZZniTa4V5k0wnxhivUCvvsJw5uOKqq4Lp+2+SmKBj9wYOMxGGRctUrKxTOGaypbthIZhVA07jnkVCTTXIm7hO+DsaEoXSuigRmcODHJG6k2M7xtnc2iDOmAvqF9fHtRD8vNEv5aPfaaCg7ZsGdE/z5GxEx1MGKTkpIY4ZUqTlVYY3rOpLEUkxF3tgOu9VmFRr/UoOknCposwtaAwBrQwuLJ4OOvlshkysg0gpcrD9oGB3edIMW0IkEW6L+HgzRS7wvQnGayAm12BH+jIwFW7xmC+rgju8XUuTu2hvqLkwkUIwW3W0VDCdt/4fOMnlc8TfOo6C3Ziis=;nSzsRVpeU7PJcAAk6UpcTw=="
+secured: "J3yPtEWACl/pCVVzvoBYJZUK0syw+dvcSI6OYNk0ldI1IBT5t8GK78gLLMNPaJO+n2eeqkU/C17J6WNmGSilsYkSjXVvwtWhKQldmDBKRuXKuBG2idJAmSfPv5umq/4hypqZ1Sa8fGORmfIR/n5+lpKX4M6uqxptyLUaMQ48wfIUpgL3RG0S4Ai43kfqsXzUJ1BBz5kZS0QW8tTG01qbpUo80SQZEkY33NsLAYI68DVNB/Bch/l/QbHgJMRtqWAiozF08zXSaL6W+MDScjpTdwxeBFddD+/6oyo2y/H8Trls33K+TDKaLlPYNXexornyYfdMWE47t7gjiD6xRi5wnTsmGpTgMEGAGjywcrJbh9833DtBDORCu+wXPBxRHAfD42Ixk32tcPrHn8V76wxTJ+3KL1IYCCIwwJt1XFyNRIwnD0zllRLIT+TPNKKsAlRdDNOTb7Uf0x/cfyMS+43n1KvjwX7TkHvzu7VPr+hzLhbtWjdpkt7OUktI9MTfDj+GbxKYWrJqMevQPIyLBonImQ==;sv2uvGez18gOyAE0bDGl8Q=="
 ---
 

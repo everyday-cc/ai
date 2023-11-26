@@ -398,6 +398,20 @@ related:
         width: 800
         height: 526
         isCached: true
+  - title: "‘What If Sam Altman Was A Black Woman’ Debate About Bias In AI Engulfs Twitter"
+    excerpt: "Following Sam Altman’s ouster from OpenAI many compared Altman's exit and return to the unceremonious firing of Dr. Timnit Gebru."
+    publishedDateTime: 2023-11-26T02:14:00Z
+    webUrl: "https://www.blackenterprise.com/what-if-altman-black-woman-ai-bias/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 33
+    images:
+      - url: "https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2023/11/Untitled-design2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "What does Sam Altman’s firing — and quick reinstatement — mean for the future of AI?"
     excerpt: "If you’re just catching up on the OpenAI saga and what’s at stake for the artificial intelligence space as a whole, you’ve come to the right place. Here’s a rundown of what you need to know."
     publishedDateTime: 2023-11-23T15:10:00Z
