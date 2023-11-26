@@ -373,20 +373,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 29
-  - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
-    excerpt: "KKCompany is announcing its participation in the Microsoft startup initiative, \"Highway to 100 Unicorns,\" a startup accelerator program aimed to support startup innovation and strengthen the startup ecosystem in the Asia region."
-    publishedDateTime: 2023-11-21T06:20:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20231121000581"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 27
-    images:
-      - url: "https://images.koreaherald.com/koreaherald/version03/www/images/share.jpg"
-        width: 1600
-        height: 800
-        isCached: true
 
 secured: "IuOIPwzII1o36uMLIRMRCj8Z8HGUjASS7C28AGRoSdiZvCPBPfcG55eFwIcY3bWe8ifr8je9pw70CusXY4n9E8lF5IncArBxopdZm0yJgWK3X94aal09d1ekiWnosYv56WGP7wJbMJ5JiTT+CUEcCVQ8ZYJ/J9jWdtTDFIpLRJLRfpC+ukGGxhmC7LwkKm0c/raJMH/wlCUTiHz5psO/oYFOPHFRhueoPK5Q8T85BDJMmjGk9VSpHWFosWEo2lsSjPCAYoVKvps8im6H3nAFjeWb0QTFelyBTdhXffwnYReHTbBm/rlN9m0YTQl9IeCqtUIWYPAJ2kUCrX7vaRE5m5h3rku4cQzQe6WitXYZUko=;jIkkOz7QW8FYecTW/qJVAg=="
 ---

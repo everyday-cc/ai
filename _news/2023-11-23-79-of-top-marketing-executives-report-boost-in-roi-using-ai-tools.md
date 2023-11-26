@@ -9,7 +9,7 @@ ampWebUrl: "https://www.exchangewire.com/blog/2023/11/23/79-of-top-marketing-exe
 cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/11/23/79-of-top-marketing-executives-report-boost-in-roi-using-ai-tools/?amp"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 300
     height: 300
     isCached: true
+
+related:
+  - title: "Only public confidence stopping us from using AI in marking, says AQA"
+    excerpt: "Artificial intelligence could quality-assure exam markers from “tomorrow morning”, but “public confidence” was holding it back, according to AQA’s chief executive. Colin Hughes said while ChatGPT in particular had attracted a lot of attention, “it may even be materially not very important or interesting” compared with other technologies."
+    publishedDateTime: 2023-11-25T08:50:00Z
+    webUrl: "https://schoolsweek.co.uk/only-public-confidence-stopping-us-from-using-ai-in-marking-says-aqa/"
+    type: article
+    provider:
+      name: Schools Week
+      domain: schoolsweek.co.uk
+    quality: 39
+    images:
+      - url: "https://schoolsweek.co.uk/wp-content/uploads/2023/09/AI-robot-hand-SM.jpg"
+        width: 800
+        height: 420
+        isCached: true
 
 secured: "QJVQfLUShcqRL23RQrXT9Jh00IOj0je8TERklneJTlvidZZ/oNbdczmvXEXqvIyysIPBa64MVRkS7znshIjje1FkPIHKOJEw3U18m6xqYmwX7UXdDyKqptXdyf60Q6qFHqO7zB1CGP6l/ybpFT5QqTtMm2aHiTVoOFz9QKHXdSkbKP9y/7rGrSl3jHML8Zlirs6g3AFHDqiY6JeQx5sJnEwplJxozFqCE5LuZMDx0yKUUqFbIIoLt1qYNnLSM4MQ4d7lN+e5fiV+pH/FwEqimap58lVjVDYZXWeh1KvzvoUeEzEpLPeaDV/mcSoG0Wr8doe5uqZkUR/Ve6yj+I6f0C1BKU5EHJ18sSxZQD3vfvw=;ctE2z8hRkJssfuHCQuU0IA=="
 ---

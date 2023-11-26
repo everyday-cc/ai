@@ -24,136 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "The Art Of Selling, Persuading, And Influencing In An AI World"
-    excerpt: "As we witness a transformative era in trade and collaboration, it is essential for leaders to adapt and thrive in the evolving landscape of sales."
-    publishedDateTime: 2023-11-21T05:47:00Z
-    webUrl: "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/"
-    ampWebUrl: "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/amp/"
+  - title: "This AI-Generated Influencer Can Pull In 10,000 Euros A Month"
+    excerpt: "The thing is, Lopez isn’t real. She’s AI generated. She’s also a successful influencer. She can make up to 10,000 euros a month (more than $10,000), according to the Barcelona design agency that created her and maintains her peppy social media persona."
+    publishedDateTime: 2023-11-24T22:00:00Z
+    webUrl: "https://www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated-influencer-can-pull-in-10000-euros-a-month/"
+    ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated-influencer-can-pull-in-10000-euros-a-month/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated-influencer-can-pull-in-10000-euros-a-month/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655c40d36f6c19838150e0e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1213
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65610e780a47ac89c02b5e9e/0x0.jpg?format=jpg&crop=796,447,x0,y76,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 898
         isCached: true
-  - title: "Fluency and Amazon to work on AI and machine learning"
-    excerpt: "Fluency, the data and technology division of M&C Saatchi Group, has partnered with Amazon Web Services on scaling artificial intelligence, machine learning and generative AI."
-    publishedDateTime: 2023-11-23T11:59:00Z
-    webUrl: "https://www.research-live.com/article/news/fluency-and-amazon-to-work-on-ai-and-machine-learning/id/5119763"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning"
+  - title: "An agency created an AI model who earns up to $11,000 a month because it was tired of influencers 'who have egos'"
+    excerpt: "Aitana López is a Spanish AI model and influencer with 124,000 followers on Instagram. She was created by a Barcelona-based agency."
+    publishedDateTime: 2023-11-24T12:36:00Z
+    webUrl: "https://www.businessinsider.com/ai-influencer-aitana-clueless-agency-tech-spain-2023-11"
+    ampWebUrl: "https://www.businessinsider.com/ai-influencer-aitana-clueless-agency-tech-spain-2023-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-influencer-aitana-clueless-agency-tech-spain-2023-11?amp"
     type: article
     provider:
-      name: research
-      domain: research-live.com
-    quality: 76
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
     images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
-  - title: "The flying, swimming and tunneling robots inspired by nature"
-    excerpt: "Drawing inspiration from birds, fish and even worms, researchers in Europe are developing machines to explore places on Earth that are difficult for people to reach."
-    publishedDateTime: 2023-11-24T15:51:00Z
-    webUrl: "https://techxplore.com/news/2023-11-flying-tunneling-robots-nature.html"
-    ampWebUrl: "https://techxplore.com/news/2023-11-flying-tunneling-robots-nature.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-flying-tunneling-robots-nature.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/the-flying-swimming-an.jpg"
-        width: 2048
-        height: 725
-        isCached: true
-  - title: "Law enforcement using AI to solve crimes, including 2020 Nashville bombing"
-    excerpt: "It was during the quiet early hours of Christmas morning 2020 when a bomb went off, killing the bomber and destroying Second Avenue and Commerce Street. In the initial days and weeks, artificial intelligence played a critical role in the investigation."
-    publishedDateTime: 2023-11-23T09:00:00Z
-    webUrl: "https://www.wkrn.com/news/local-news/law-enforcement-using-ai-to-solve-crimes-including-2020-nashville-bombing/"
-    ampWebUrl: "https://www.wkrn.com/news/local-news/law-enforcement-using-ai-to-solve-crimes-including-2020-nashville-bombing/amp/"
-    cdnAmpWebUrl: "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/news/local-news/law-enforcement-using-ai-to-solve-crimes-including-2020-nashville-bombing/amp/"
-    type: article
-    provider:
-      name: WKRN-TV
-      domain: wkrn.com
-    quality: 55
-    images:
-      - url: "https://www.wkrn.com/wp-content/uploads/sites/73/2021/02/brix.jpg?w=1280"
-        width: 1272
-        height: 718
-        isCached: true
-  - title: "Unraveling the Technical and Ethical Requirements of Artificial Intelligence"
-    excerpt: "In the rapidly evolving landscape of technology, Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and societies. As the influence of AI continues to grow, it becomes imperative to delve into the technical and ethical considerations that underpin its development and deployment."
-    publishedDateTime: 2023-11-23T22:42:00Z
-    webUrl: "https://techbullion.com/unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 53
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Ethics-requirement.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Unlocking The Potential Of AI For Accounting Firms And Clients"
-    excerpt: "In the ever-evolving landscape of finance and law, AI has emerged as a dynamic force reshaping how accounting firms and their clients operate."
-    publishedDateTime: 2023-11-22T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/22/unlocking-the-potential-of-ai-for-accounting-firms-and-clients/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Mastering the art of differentiation: Vital competencies for thriving in the age of artificial intelligence"
-    excerpt: "In this age of AI, mastering these vital competencies not only propels your journey toward professional success but also equips you to unlock the transformative potential of AI, ensuring your prominence and prosperity in an increasingly automated world."
-    publishedDateTime: 2023-11-25T10:15:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 39
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/Untitled-design-2023-11-24T171540.538.jpg"
+      - url: "https://i.insider.com/65607b7e9c7d23cb3b9f5071?width=1200&format=jpeg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Only public confidence stopping us from using AI in marking, says AQA"
-    excerpt: "Artificial intelligence could quality-assure exam markers from “tomorrow morning”, but “public confidence” was holding it back, according to AQA’s chief executive. Colin Hughes said while ChatGPT in particular had attracted a lot of attention, “it may even be materially not very important or interesting” compared with other technologies."
-    publishedDateTime: 2023-11-25T08:50:00Z
-    webUrl: "https://schoolsweek.co.uk/only-public-confidence-stopping-us-from-using-ai-in-marking-says-aqa/"
-    type: article
-    provider:
-      name: Schools Week
-      domain: schoolsweek.co.uk
-    quality: 39
-    images:
-      - url: "https://schoolsweek.co.uk/wp-content/uploads/2023/09/AI-robot-hand-SM.jpg"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "Startup Combating AI Threats Pulls In $6M Seed Funding"
-    excerpt: "Lasso Security can identify which genAI tools are being used by firms and monitor every employee that uses them & the data they send out."
-    publishedDateTime: 2023-11-21T08:37:00Z
-    webUrl: "https://nocamels.com/2023/11/startup-combating-ai-threats-pulls-in-6m-seed-funding/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://nocamels.com/wp-content/uploads/2023/11/lassosecurity-e1700555834640.jpeg"
-        width: 1024
-        height: 590
+        height: 600
         isCached: true
   - title: "AI is already impacting influencer marketing, according to the CMO of Billion Dollar Boy. Here's how she thinks brands should approach the new tech."
     excerpt: "Becky Owen, the CMO of influencer-marketing firm Billion Dollar Boy, is at the helm of an innovation unit at the company that focuses on AI efforts."
@@ -164,15 +65,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 25
-  - title: "Rocketlane Unveils 'AI at Work' Report Showcasing the Impact of Artificial Intelligence on Modern Workplaces Across the Globe"
-    excerpt: "Rocketlane remains at the forefront of empowering businesses to streamline operations and enhance customer experiences through cutting-edge technologies. The 'AI at Work' report is a valuable resource for industry leaders, providing insights into the evolving landscape of AI adoption and its impact on business success."
-    publishedDateTime: 2023-11-21T14:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/21/9921894.htm"
+  - title: "A Spanish agency became so sick of models and influencers that they created their own with AI—and she’s raking in up to $11,000 a month"
+    excerpt: "Aitana, described by her creators as the first Spanish AI model, was so convincing an unnamed famous Latin actor even called the agency the ask her on a date."
+    publishedDateTime: 2023-11-23T16:51:00Z
+    webUrl: "https://www.aol.com/finance/spanish-agency-became-sick-models-145135613.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
+      name: AOL
+      domain: aol.com
+    quality: 7
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/3RPyh9p.sAn3X.CeZSKC5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/3a3d94d64be852e43683eb289b36349c"
+        width: 1199
+        height: 800
+        isCached: true
+  - title: "A Spanish agency became so sick of models and influencers that they created their own with AI—and she’s raking in up to $11,000 a month"
+    excerpt: "Aitana, described by her creators as the first Spanish AI model, was so convincing an unnamed famous Latin actor even called the agency the ask her on a date."
+    publishedDateTime: 2023-11-23T13:51:00Z
+    webUrl: "https://www.aol.com/spanish-agency-became-sick-models-145135613.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 0
 
 secured: "kTvTnYQ8bCWpAqI0XwifK9iTNCjnhDGPDCh2/ojUrNw5PDtW1MFaYGGNmbtcB1JkJKshQZpyCWDDJ2JIPz9mwPZZtSBnsCrCbKay3f70AKMA5ovgUnwJHcY7AWqDTJrFVHOhtCDCo6MVpbd2z8DLR1fjAdkxOzaNYPkZ1tov/VmgsxY3LHxMdO6wnLQCtiJf0zu7X14LjxVitwOHM7RbA19mMx4xSht1XNlWj/daE1b4lQTHI1uYWhYVp8zH5KKrQIMRhyUgwVs1khodDnJS/loBbutOzpTKpY9DWg5pntw7/5wszcOMU4ph3EWw77U9Cge/gpfPWD6leyZy6uUsR47dgrgNC17GQVI7/sKGPk/je7LZTgbmQ6Dn5S7iSYvOlhcQGKLdHViTFiSxWVFaUjbiLdO0hKId3KzYWUelvmuGQzZc65NaoN5/GcMFdtPgQaQEt35Xx/xMPBLWUR5j/bvoniLz5OZIyXtiFcgEkagNhTDHsenUdYNfEIg+94zEsJcz22dBQeIFzlOzn6zSdA==;1g/ND/FfTakCOaQKuD1UGA=="
 ---

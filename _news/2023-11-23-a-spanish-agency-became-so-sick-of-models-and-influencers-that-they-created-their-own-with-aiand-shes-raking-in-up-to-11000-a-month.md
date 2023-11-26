@@ -51,6 +51,29 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI is already impacting influencer marketing, according to the CMO of Billion Dollar Boy. Here's how she thinks brands should approach the new tech."
+    excerpt: "Becky Owen, the CMO of influencer-marketing firm Billion Dollar Boy, is at the helm of an innovation unit at the company that focuses on AI efforts."
+    publishedDateTime: 2023-11-21T13:29:00Z
+    webUrl: "https://www.businessinsider.com/influencer-marketing-firm-billion-dollar-boy-investing-in-ai-2023-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
+  - title: "Spanish influencer agency designed this AI model after deciding real-life influencers are a pain"
+    excerpt: "Meet Aitana Lopez, a gorgeous young influencer from Barcelona who has 122,000 followers on Instagram - even though she's an AI creation."
+    publishedDateTime: 2023-11-24T01:11:00Z
+    webUrl: "https://bgr.com/business/spanish-influencer-agency-designed-this-ai-model-after-deciding-real-life-influencers-are-a-pain/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 24
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/11/Screenshot-2023-11-23-at-10.39.09 AM.jpg?quality=82&strip=all"
+        width: 1242
+        height: 830
+        isCached: true
   - title: "A Spanish agency became so sick of models and influencers that they created their own with AI—and she’s raking in up to $11,000 a month"
     excerpt: "Aitana, described by her creators as the first Spanish AI model, was so convincing an unnamed famous Latin actor even called the agency the ask her on a date."
     publishedDateTime: 2023-11-23T16:51:00Z

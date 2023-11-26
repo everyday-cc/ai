@@ -228,20 +228,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Unleashing the Power of Artificial Intelligence and Machine Learning in Financial Decision-Making"
-    excerpt: "Introduction Traditional decision-making processes are being revolutionized by the integration of cutting-edge technologies. Artificial Intelligence (AI) and Machine Learning (ML) have emerged as formidable tools,"
-    publishedDateTime: 2023-11-21T05:13:00Z
-    webUrl: "https://techbullion.com/unleashing-the-power-of-artificial-intelligence-and-machine-learning-in-financial-decision-making/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 43
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Unleashing-the-Power-of-Artificial-Intelligence-and-Machine-Learning-in-Financial-Decision-Making-1.png"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Nvidia Revenue Rockets On Demand For Powerful Chips"
     excerpt: "Nvidia on Tuesday reported that its revenue more than tripled in the recently ended quarter as companies snapped up chips to power artificial intelligence (AI)."
     publishedDateTime: 2023-11-22T07:00:00Z

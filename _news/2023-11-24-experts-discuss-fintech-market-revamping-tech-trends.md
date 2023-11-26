@@ -87,20 +87,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Top 10 Fintech and Payments Trends in 2024"
-    excerpt: "Juniper Research unveiled today the 10 trends that are set to radically impact the fintech and payments landscape in 2024, included within its latest whitepaper."
-    publishedDateTime: 2023-11-21T06:12:00Z
-    webUrl: "https://fintechnews.ch/fintech/top-10-fintech-and-payments-trends-in-2024/64766/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2023/11/Juniper-Research-Releases-its-Top-10-Fintech-Payments-Trends-for-2024-Amidst-Unprecedented-Technological-Shifts.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "The fintech stocks surging in the AltFi Fintech Index amid a market rally"
     excerpt: "Keep up with the latest in the world of fintech and alternative finance by subscribing to our newsletters. Get the latest headlines, expert insights and reports and be the first to know about upcoming events."
     publishedDateTime: 2023-11-23T05:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-po
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/amp/"
 type: article
 quality: 104
-heat: 384
+heat: 374
 published: true
 
 provider:
@@ -363,20 +363,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 29
-  - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
-    excerpt: "KKCompany is announcing its participation in the Microsoft startup initiative, \"Highway to 100 Unicorns,\" a startup accelerator program aimed to support startup innovation and strengthen the startup ecosystem in the Asia region."
-    publishedDateTime: 2023-11-21T06:20:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20231121000581"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 27
-    images:
-      - url: "https://images.koreaherald.com/koreaherald/version03/www/images/share.jpg"
-        width: 1600
-        height: 800
-        isCached: true
   - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
     excerpt: "We offer our self-developed products and services to both individual users and enterprise customers across Asia, under the brands KKBOX, BlendVision, and Going Cloud. The Company has also earned third-party international certifications including OpenChain ISO/IEC 5230 and ISO 27001."
     publishedDateTime: 2023-11-22T01:43:00Z

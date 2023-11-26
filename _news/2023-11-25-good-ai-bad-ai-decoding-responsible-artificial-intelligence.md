@@ -44,6 +44,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Unlocking The Potential Of AI For Accounting Firms And Clients"
+    excerpt: "In the ever-evolving landscape of finance and law, AI has emerged as a dynamic force reshaping how accounting firms and their clients operate."
+    publishedDateTime: 2023-11-22T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/22/unlocking-the-potential-of-ai-for-accounting-firms-and-clients/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Considering the societal and ethical implications in the development of AI"
     excerpt: "The research of Betty Li Hou, who presented a seminar as part of The New York Academy of Sciences’ Artificial Intelligence (AI) & Society Lecture series, explores the educational, philosophical, sociological,"
     publishedDateTime: 2023-11-21T20:44:00Z

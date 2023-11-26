@@ -22,160 +22,72 @@ topics:
   - AI
 
 related:
-  - title: "The Art Of Selling, Persuading, And Influencing In An AI World"
-    excerpt: "As we witness a transformative era in trade and collaboration, it is essential for leaders to adapt and thrive in the evolving landscape of sales."
-    publishedDateTime: 2023-11-21T05:47:00Z
-    webUrl: "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/"
-    ampWebUrl: "https://www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/soulaimagourani/2023/11/21/the-art-of-selling-persuading-and-influencing-in-an-ai-world/amp/"
+  - title: "Exploring AI: Artificial intelligence’s development and future potential"
+    excerpt: "AI ethics in education is a big deal as well. Nadia Pesch, a senior at Lane Tech, said she’s familiar with classmates using Chat GPT to cheat. “I pretty much had every teacher saying ‘Don’ ..."
+    publishedDateTime: 2023-11-22T00:00:00Z
+    webUrl: "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/"
+    ampWebUrl: "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/"
+    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/"
+    type: article
+    provider:
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 75
+    images:
+      - url: "https://wgntv.com/wp-content/uploads/sites/5/2023/11/snapshot-2023-11-21T213437.632.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Shift To AI: A CEO's Perspective On Future-Proofing Business"
+    excerpt: "CEO and co-founder of Hexact, on a mission to empower businesses of all sizes with AI-driven sidekicks that work in the cloud."
+    publishedDateTime: 2023-11-21T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/the-shift-to-ai-a-ceos-perspective-on-future-proofing-business/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655c40d36f6c19838150e0e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1213
-        height: 900
-        isCached: true
-  - title: "Fluency and Amazon to work on AI and machine learning"
-    excerpt: "Fluency, the data and technology division of M&C Saatchi Group, has partnered with Amazon Web Services on scaling artificial intelligence, machine learning and generative AI."
-    publishedDateTime: 2023-11-23T11:59:00Z
-    webUrl: "https://www.research-live.com/article/news/fluency-and-amazon-to-work-on-ai-and-machine-learning/id/5119763"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 76
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
-  - title: "The flying, swimming and tunneling robots inspired by nature"
-    excerpt: "Drawing inspiration from birds, fish and even worms, researchers in Europe are developing machines to explore places on Earth that are difficult for people to reach."
-    publishedDateTime: 2023-11-24T15:51:00Z
-    webUrl: "https://techxplore.com/news/2023-11-flying-tunneling-robots-nature.html"
-    ampWebUrl: "https://techxplore.com/news/2023-11-flying-tunneling-robots-nature.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-flying-tunneling-robots-nature.amp"
+    quality: 47
+  - title: "Good AI, bad AI: Decoding responsible artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is so hot right now. ChatGPT, DALL-E, and other AI-driven platforms are providing us with completely new ways of working. Generative AI is writing everything from cover letters to campaign strategies and creating impressive images from scratch."
+    publishedDateTime: 2023-11-24T19:17:00Z
+    webUrl: "https://techxplore.com/news/2023-11-good-ai-bad-decoding-responsible.html"
     type: article
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/the-flying-swimming-an.jpg"
-        width: 2048
-        height: 725
-        isCached: true
-  - title: "Law enforcement using AI to solve crimes, including 2020 Nashville bombing"
-    excerpt: "It was during the quiet early hours of Christmas morning 2020 when a bomb went off, killing the bomber and destroying Second Avenue and Commerce Street. In the initial days and weeks, artificial intelligence played a critical role in the investigation."
-    publishedDateTime: 2023-11-23T09:00:00Z
-    webUrl: "https://www.wkrn.com/news/local-news/law-enforcement-using-ai-to-solve-crimes-including-2020-nashville-bombing/"
-    ampWebUrl: "https://www.wkrn.com/news/local-news/law-enforcement-using-ai-to-solve-crimes-including-2020-nashville-bombing/amp/"
-    cdnAmpWebUrl: "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/news/local-news/law-enforcement-using-ai-to-solve-crimes-including-2020-nashville-bombing/amp/"
+    quality: 34
+  - title: "Considering the societal and ethical implications in the development of AI"
+    excerpt: "The research of Betty Li Hou, who presented a seminar as part of The New York Academy of Sciences’ Artificial Intelligence (AI) & Society Lecture series, explores the educational, philosophical, sociological,"
+    publishedDateTime: 2023-11-21T20:44:00Z
+    webUrl: "https://www.nyas.org/news-articles/academy-news/considering-the-societal-and-ethical-implications-in-the-development-of-ai/"
     type: article
     provider:
-      name: WKRN-TV
-      domain: wkrn.com
-    quality: 55
-    images:
-      - url: "https://www.wkrn.com/wp-content/uploads/sites/73/2021/02/brix.jpg?w=1280"
-        width: 1272
-        height: 718
-        isCached: true
-  - title: "Unraveling the Technical and Ethical Requirements of Artificial Intelligence"
-    excerpt: "In the rapidly evolving landscape of technology, Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and societies. As the influence of AI continues to grow, it becomes imperative to delve into the technical and ethical considerations that underpin its development and deployment."
-    publishedDateTime: 2023-11-23T22:42:00Z
-    webUrl: "https://techbullion.com/unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence/"
+      name: New York Academy of Sciences
+      domain: nyas.org
+    quality: 32
+  - title: "Colors-Ai Is Transforming Product Development Through Customer Feedback Analysis"
+    excerpt: "Colors-AI's cutting-edge platform is revolutionizing how businesses harness customer feedback to inform and prioritize product development. <"
+    publishedDateTime: 2023-11-23T00:55:00Z
+    webUrl: "https://menafn.com/1107474457/Colors-Ai-Is-Transforming-Product-Development-Through-Customer-Feedback-Analysis"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 53
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Ethics-requirement.jpg"
-        width: 800
-        height: 400
+      - url: "https://menafn.com/updates/pr/2023-11/22/ZPW_445528e9-4_Image_In_Body.png"
+        width: 545
+        height: 814
         isCached: true
-  - title: "Mastering the art of differentiation: Vital competencies for thriving in the age of artificial intelligence"
-    excerpt: "In this age of AI, mastering these vital competencies not only propels your journey toward professional success but also equips you to unlock the transformative potential of AI, ensuring your prominence and prosperity in an increasingly automated world."
-    publishedDateTime: 2023-11-25T10:15:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/lite/"
+  - title: "The Future of AI: Self-Learning Machines Could Replace Current Artificial Neural Networks"
+    excerpt: "New physics-based self-learning machines could replace the current artificial neural networks and save energy. Artificial intelligence (AI) not only delivers impressive performance but also demands significant energy."
+    publishedDateTime: 2023-11-22T22:14:00Z
+    webUrl: "https://scitechdaily.com/the-future-of-ai-self-learning-machines-could-replace-current-artificial-neural-networks/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 39
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/Untitled-design-2023-11-24T171540.538.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Only public confidence stopping us from using AI in marking, says AQA"
-    excerpt: "Artificial intelligence could quality-assure exam markers from “tomorrow morning”, but “public confidence” was holding it back, according to AQA’s chief executive. Colin Hughes said while ChatGPT in particular had attracted a lot of attention, “it may even be materially not very important or interesting” compared with other technologies."
-    publishedDateTime: 2023-11-25T08:50:00Z
-    webUrl: "https://schoolsweek.co.uk/only-public-confidence-stopping-us-from-using-ai-in-marking-says-aqa/"
-    type: article
-    provider:
-      name: Schools Week
-      domain: schoolsweek.co.uk
-    quality: 39
-    images:
-      - url: "https://schoolsweek.co.uk/wp-content/uploads/2023/09/AI-robot-hand-SM.jpg"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "Startup Combating AI Threats Pulls In $6M Seed Funding"
-    excerpt: "Lasso Security can identify which genAI tools are being used by firms and monitor every employee that uses them & the data they send out."
-    publishedDateTime: 2023-11-21T08:37:00Z
-    webUrl: "https://nocamels.com/2023/11/startup-combating-ai-threats-pulls-in-6m-seed-funding/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://nocamels.com/wp-content/uploads/2023/11/lassosecurity-e1700555834640.jpeg"
-        width: 1024
-        height: 590
-        isCached: true
-  - title: "AI is already impacting influencer marketing, according to the CMO of Billion Dollar Boy. Here's how she thinks brands should approach the new tech."
-    excerpt: "Becky Owen, the CMO of influencer-marketing firm Billion Dollar Boy, is at the helm of an innovation unit at the company that focuses on AI efforts."
-    publishedDateTime: 2023-11-21T13:29:00Z
-    webUrl: "https://www.businessinsider.com/influencer-marketing-firm-billion-dollar-boy-investing-in-ai-2023-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: SciTech Daily
+      domain: scitechdaily.com
     quality: 25
-  - title: "Spanish influencer agency designed this AI model after deciding real-life influencers are a pain"
-    excerpt: "Meet Aitana Lopez, a gorgeous young influencer from Barcelona who has 122,000 followers on Instagram - even though she's an AI creation."
-    publishedDateTime: 2023-11-24T01:11:00Z
-    webUrl: "https://bgr.com/business/spanish-influencer-agency-designed-this-ai-model-after-deciding-real-life-influencers-are-a-pain/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 24
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/11/Screenshot-2023-11-23-at-10.39.09 AM.jpg?quality=82&strip=all"
-        width: 1242
-        height: 830
-        isCached: true
-  - title: "Rocketlane Unveils 'AI at Work' Report Showcasing the Impact of Artificial Intelligence on Modern Workplaces Across the Globe"
-    excerpt: "Rocketlane remains at the forefront of empowering businesses to streamline operations and enhance customer experiences through cutting-edge technologies. The 'AI at Work' report is a valuable resource for industry leaders, providing insights into the evolving landscape of AI adoption and its impact on business success."
-    publishedDateTime: 2023-11-21T14:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/21/9921894.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "cC3rTvsPrBGfUGjglh6/rjmVyoasMlK/28B0yktnrtD2SCDAP5V90oO8iItzUjO98VVNHefsdoF2LDSUi23HgPxQCUB7ORzK92eKG7HXMmei2fYlmDB7mTd4hvb5eNudrqJ7xkLoBJVYc+zRRfJXvn5+3JNq86QxTUoCGqdMtfpHD8furHNb4zg4YMxeLUN2dHJdBktO0DYBBc9ZP4E0jd8PyPN5DY8ZVXM4wlCvB6cBVDUCmiF0I/V+xypKT+q28J617oE3RVW48+MSPPwNh1JY0peGryKKVF0BMnQvUX+XTpy0wsrxF5Nio6dIwBo0GdQcCQhn4GsKvVCG2uggrdaMNBP5EW8moN3cOy8DL6lofuCZCHHBqI/biOhPRPKSkddqB9MI9RLnZMHhOagfCeq1cK94pLSFXuanOnw2EaLEhOWi0vhvXEx0Q0ZXk+mfpzSP8daeoz4zy2zJLpST7YJG6Wc/ugKE3DqNb0IXLvKXU6Me0Pm6bZDQ9+TJkHvgsUZYeFcqFDw2boCjUgzZHg==;la3bCHBd9T4NlfviUecbEQ=="
 ---

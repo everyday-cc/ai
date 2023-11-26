@@ -9,7 +9,7 @@ ampWebUrl: "https://wgntv.com/news/cover-story/exploring-ai-artificial-intellige
 cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/"
 type: article
 quality: 75
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
     excerpt: "CEO and co-founder of Hexact, on a mission to empower businesses of all sizes with AI-driven sidekicks that work in the cloud."
     publishedDateTime: 2023-11-21T14:00:00Z
     webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/the-shift-to-ai-a-ceos-perspective-on-future-proofing-business/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Unlocking The Potential Of AI For Accounting Firms And Clients"
+    excerpt: "In the ever-evolving landscape of finance and law, AI has emerged as a dynamic force reshaping how accounting firms and their clients operate."
+    publishedDateTime: 2023-11-22T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/22/unlocking-the-potential-of-ai-for-accounting-firms-and-clients/"
     type: article
     provider:
       name: Forbes
