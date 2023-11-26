@@ -493,6 +493,67 @@
       ]
     },
     {
+      "path": "_learning/collections/edureka-google-bard-explained-edureka.md",
+      "title": "Google Bard Explained | Edureka",
+      "excerpt": "This Edureka video on 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐆𝐨𝐨𝐠𝐥𝐞 𝐁𝐚𝐫𝐝 will talk about the new experimental language model created by Google called “Bard”. Bard AI is designed on top of Google’s current AI language model, BERT, to understand natural language processing tasks like question answering, sentiment analysis, and language translation (Bidirectional Encoder Representations from Transformers). The  language Model for Dialogue Applications powers Google Bard (LaMDA). It has been introduced on the LaMDA lightweight model.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/edureka-google-bard-explained-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/edureka-google-bard-explained-edureka/",
+      "provider": {
+        "name": "edureka!",
+        "domain": "youtube.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/edureka-what-is-google-bard-google-bard-explained-chatgpt-vs-google-bard-edureka.md",
+          "title": "What is Google Bard | Google Bard Explained | ChatGPT vs Google Bard | Edureka",
+          "excerpt": "This Edureka video on 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐆𝐨𝐨𝐠𝐥𝐞 𝐁𝐚𝐫𝐝 will talk about the new experimental language model created by Google called “Bard”. Bard AI is designed on top of Google’s current AI language model, BERT, to understand natural language processing tasks like question answering, sentiment analysis,",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-what-is-google-bard-google-bard-explained-chatgpt-vs-google-bard-edureka/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-what-is-google-bard-google-bard-explained-chatgpt-vs-google-bard-edureka/",
+          "originalUrl": "https://youtube.com/watch?v=pu4HX94dSoI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pu4HX94dSoI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT4M14S",
+          "provider": {
+            "name": "edureka!",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2023-02-22T13:12:24Z",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/pu4HX94dSoI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI",
+            "Google AI"
+          ]
+        }
+      ],
+      "size": 1,
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pu4HX94dSoI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_learning/videos/edureka-recurrent-neural-networks-rnn-rnn-lstm-deep-learning-tutorial-tensorflow-tutorial-edureka.md",
       "title": "Recurrent Neural Networks (RNN) | RNN LSTM | Deep Learning Tutorial | Tensorflow Tutorial | Edureka",
       "excerpt": "( TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) This Edureka Recurrent Neural Networks tutorial video (Blog: https://goo.gl/4zxMfU) will help you in understanding why we need Recurrent Neural Networks (RNN) and what exactly it is. It also explains few issues with training",
@@ -531,6 +592,38 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-what-is-google-bard-google-bard-explained-chatgpt-vs-google-bard-edureka.md",
+      "title": "What is Google Bard | Google Bard Explained | ChatGPT vs Google Bard | Edureka",
+      "excerpt": "This Edureka video on 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐆𝐨𝐨𝐠𝐥𝐞 𝐁𝐚𝐫𝐝 will talk about the new experimental language model created by Google called “Bard”. Bard AI is designed on top of Google’s current AI language model, BERT, to understand natural language processing tasks like question answering, sentiment analysis,",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-what-is-google-bard-google-bard-explained-chatgpt-vs-google-bard-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-what-is-google-bard-google-bard-explained-chatgpt-vs-google-bard-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=pu4HX94dSoI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pu4HX94dSoI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M14S",
+      "provider": {
+        "name": "edureka!",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2023-02-22T13:12:24Z",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pu4HX94dSoI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Google AI"
       ]
     },
     {
@@ -1133,87 +1226,6 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-deep-cross-network-building-recommendation-systems-with-tensorflow.md",
-      "title": "Deep & Cross Network (Building recommendation systems with TensorFlow)",
-      "excerpt": "In this video, we are going to extend our discussion on Building recommendation systems with TensorFlow to Deep & Cross Network.  Deep cross network using TensorFlow Recommenders → https://goo.gle/37if0T0  DCN V1: Deep & Cross Network for Ad Click Predictions → https://goo.gle/3ftTuiJ  DCN V2: Improved",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-deep-cross-network-building-recommendation-systems-with-tensorflow/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-deep-cross-network-building-recommendation-systems-with-tensorflow/",
-      "originalUrl": "https://youtube.com/watch?v=kUuvRStz7CU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kUuvRStz7CU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M14S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-08-03T16:27:30Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kUuvRStz7CU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-designing-a-neural-network-text-classification-tutorial-pt-2-coding-tensorflow.md",
-      "title": "Designing a neural network | Text Classification Tutorial Pt. 2 (Coding TensorFlow)",
-      "excerpt": "In Part 2, we continue our tutorial on Text Classification, which assigns categories to text documents. In the last episode, we pre-processed the data so it would be ready to train a neural network. But, how do we design the neural network so it can learn from the data we prepared? Find out in this episode",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-designing-a-neural-network-text-classification-tutorial-pt-2-coding-tensorflow/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-designing-a-neural-network-text-classification-tutorial-pt-2-coding-tensorflow/",
-      "originalUrl": "https://youtube.com/watch?v=vPrSca-YjFg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vPrSca-YjFg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M3S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-09-20T18:46:49Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vPrSca-YjFg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
