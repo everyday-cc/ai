@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/debgordon/2023/11/22/will-ai-improve-he
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/debgordon/2023/11/22/will-ai-improve-healthcare-consumers-think-so-new-surveys-show/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/11/iStock-1396801868-scaled.jpg"
         width: 2000
         height: 1334
+        isCached: true
+  - title: "Artificial Intelligence in health care"
+    excerpt: "As we move more into the future, artificial intelligence will make more of an impact in the employment landscape and how businesses operate and hire. The Murfreesboro Police Department released ..."
+    publishedDateTime: 2023-11-23T09:30:00Z
+    webUrl: "https://www.wkrn.com/video/artificial-intelligence-in-health-care/9198927/"
+    type: article
+    provider:
+      name: WKRN-TV
+      domain: wkrn.com
+    quality: 41
+    images:
+      - url: "https://www.wkrn.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
+        width: 396
+        height: 202
         isCached: true
 
 secured: "FF4Xg27EmNteCi4+Y0f5ZomAnQSc0u3Fw89c3i2jAL0d/h9ixHBJLzEAA4wWFJ/xD0scmzFuY3z7x4dZTMKl7SjA9jwga3hp0RuiDwAIXJYI4/DyI8DJVdBMAw9bM9+NkhgqRd4GphvDF9Hrx2GYzooD1WKAyz7Fe0KYgxoug8Szh76W0WQiGLoOQIrSuXdgsTJEcSbqraYI4eL/DBciELcnkPf6FKPP0J542SD9c0Cy47jFf3HxoBVgfa/Yakaxl//e65plehZxv6YJ/6UdczTZaZnt2Kgv16X+LMeBZrlHR1O0wnuRPqv8RlfJaUtuLzXcMlI/h97DzDdFiNKr4YpH6KEQstnO3LohAjYLjH9K+/pMSJP9Ciqrp3nkE0ZwnmzHukkgH7UFod39VbZbXq2e3C9p5Nb792UCgjT6mgXvO5opjbN/xBHRZLlsKKzl4BnqRhPE1WUD7l4woogI0CIIevMAXo5nT5mRDAl1wDti54QRg29aovkjTjN2E7beQVeaVp/wkWuxzqAs3NUlBg==;tI7ks/BLtLSpFS1IlZPi7g=="

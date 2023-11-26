@@ -5,6 +5,8 @@ excerpt: "In broad terms, AGI typically means artificial intelligence that match
 publishedDateTime: 2023-11-16T09:02:00Z
 originalUrl: "https://www.technologyreview.com/2023/11/16/1083498/google-deepmind-what-is-artificial-general-intelligence-agi/"
 webUrl: "https://www.technologyreview.com/2023/11/16/1083498/google-deepmind-what-is-artificial-general-intelligence-agi/"
+ampWebUrl: "https://www.technologyreview.com/2023/11/16/1083498/google-deepmind-what-is-artificial-general-intelligence-agi/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/16/1083498/google-deepmind-what-is-artificial-general-intelligence-agi/amp/"
 type: article
 quality: 15
 heat: -1
@@ -17,6 +19,13 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/stages2.jpg?w=3000"
+    width: 3000
+    height: 1688
+    isCached: true
 
 related:
   - title: "DeepMind Says New Multi-Game AI Is a Step Toward More General Intelligence"
@@ -81,6 +90,6 @@ related:
       domain: analyticsindiamag.com
     quality: 33
 
-secured: "oxCpc930b/lxpXx1E0emG4kCEVgxf7oZgumQ3n5JD9dRz634wNqa0ZuxKDuGco87xPz6VVtcce1QIlWqL6pJ8TafC6OEVISLzJQYcTwleeaKgJbYdSJZ8cm2dGIPZNfzEFOeZKQAQXeO/ynn9xyvEV/azQ/DqWIWT1jmTcPtGv4qOJyv6DhdXj/32uJISuKo7zzlLp+KU+de6CwKgeobpsRTkgjOFHho0gqEsSEKC5w9Bd8n//IKqlrwTwp+SR+sILXsUCLfSavSr9o9KJfZzU9FBdp23ZT2ItzKf5XgJaVG3RExnLo/ey76uXjsG1qmhins+L9Rc7hq9Bo8M88NmDCxGYDFzuX3yTg0O56k038Ab1IsBkMcH/TqwogzQd0V4FjYslXCwsGlDgC4Az7pt4rJcmc35/6vtT3zlN/+wWBwqdw6w8Ftg429hfp3aGbR4GsYs4rHVqul3oKMYRYlFbKdbmodUcBv4cWfL4OmdcDB2+vk3H/faLwDJ/EzpbdzYo9bXZPqXHnLBGM9260GGw==;aIBr7n/mMFZ/xourY0ISlQ=="
+secured: "wKh+oYnrQnuyk6cmxttjn6a4K10ZpcjguQmXuTPdYXDBmaQdETibndBgTwYrZBYq4a2larqxVRNFa0Ylq4VJffwRPA/nFxaMQOZF1NbSs13CVa/JtbfxW3V+rHIWmt99kwW2ZqFnzbKOWZ6xf7RaK5BnVtkjAxXgUA4T6DwRc8D3RnU0ln8+1MwXPN4lCV9ZmE5QWbhHV0gN9ffKVYZKqPMx1wSgHInCMzxYFczg8eIV573M1TfzHAbX7iIIDGGBdUUJAk3Vs/hjRwb+g7pHrwzkvM9YpCNOcqXn1KOSBxwimYtf3YKtlBjzs5lAAJot6mcX4KVPyfHxlbAGe9EDOYvpfH4UrgTfDk/p8Kqak9E=;jZw1pqzCM2/8PQq+rc+tSQ=="
 ---
 

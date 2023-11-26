@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS wants to train 2 million people as AI specialists"
-    excerpt: "AWS wants to train 2 million people as AI specialists by 2025. To this end, Amazon has presented the free AI Ready training program. The program targets"
-    publishedDateTime: 2023-11-21T08:58:00Z
-    webUrl: "https://www.techzine.eu/news/analytics/113485/aws-wants-to-train-2-million-people-as-ai-specialists/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/11/shutterstock_2263545623.jpg"
-        width: 1000
-        height: 543
-        isCached: true
   - title: "AWS to offer free AI training courses to two million people by 2025"
     excerpt: "Amazon Web Services (AWS) has outlined its commitment to providing two million people around the world with access to free artificial intelligence (AI) skills training by 2025, as part of its ongoing work to make it easier for businesses to access the tech expertise they need."
     publishedDateTime: 2023-11-22T09:30:00Z
@@ -49,24 +35,15 @@ related:
         width: 500
         height: 354
         isCached: true
-  - title: "Appen Teams Up with AWS to Drive AI Innovation"
-    excerpt: "Appen Limited (ASX:APX), a leading provider of high-quality data for the AI lifecycle, has selected Amazon Web Services (AWS) as its primary cloud for its AI solutions and innovation. The companies are expanding their relationship with a multi-year agreement as Appen develops new enterprise solutions for AI data sourcing,"
-    publishedDateTime: 2023-11-21T14:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/21/9921922.htm"
+  - title: "Amazon Invites Applications for Free Courses on Artificial Intelligence"
+    excerpt: "Amazon, the US-based internet giant, has announced that it would offer free educational courses on generative AI as part of"
+    publishedDateTime: 2023-11-23T05:41:00Z
+    webUrl: "https://www.dqindia.com/amazon-invites-applications-for-free-courses-on-artificial-intelligence/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-  - title: "Appen Teams Up with AWS to Drive AI Innovation"
-    excerpt: "Appen Limited, a leading provider of high-quality data for the AI lifecycle, has selected Amazon Web Services (AWS) as"
-    publishedDateTime: 2023-11-21T18:25:00Z
-    webUrl: "https://www.datanami.com/this-just-in/appen-teams-up-with-aws-to-drive-ai-innovation/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
 
 secured: "3C4tQLva2ceHnK96fQwEWzHy6atlKBV0aB6KCQcG9I1qG1472Qz+1ARwBn5T/isGycFTkXCYG/zbXF2Y9p3yo0nlMCc1KDU3Zyi6N43w8u0baJKxa37kJ/3gzUPBT/DxFfNpcQ0rQLooVYFf23kB0Sy1zFpPjNaxhpk9mh6ROuN5wcWrOkOmk3MY8k8bJZdt6mghxj/4zkL2eF5vZZc4ubzvuAQaFpJmDDJQjGQ+EV+MKdzydG0bTqiCZK8GxnrO+9jJi5PGWYsas1Qqv7c91XQZQ4hRpdu93yZd6VSKAR2rtqEfXpNR3sF6SQ2ErBBHCVkrteuRwG9NlBCe0UZA8ug3qZ2ib1tl5aShH7SKEKYN4tCq2qLiupKqcJ99Y+dT1SuiRnV2AyOhxCRgDv9hHgGfW2dId9BcslkHeRoggZnZXtWkrxQ1kwK6k7m/GhTs9Rr1cAMx2TsRpIW9dGThEOw1ftPHr6gRENcyyje9pvi4GsXuc8A/EPf/oyMyC416iIfowvRvW3RkC9cCWRF8bg==;8zXvlDBYD8euC9O67bJiFg=="
 ---

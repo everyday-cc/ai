@@ -18,6 +18,7 @@ topics:
   - Facebook AI
   - AI
   - Microsoft AI
+  - Meta AI
 
 images:
   - url: "https://wwwcache.wral.com/asset/business/2023/11/20/21159770/655bab59a2571-media_0e7e5ab51dbe4ef380dce65cf732e02e-DMID1-6100o8wyz-640x480.jpg"

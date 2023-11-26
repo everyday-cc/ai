@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna126214"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna126214"
 type: article
 quality: 89
-heat: 409
+heat: 399
 published: true
 
 provider:
@@ -412,20 +412,6 @@ related:
       - url: "https://www.baltimoresun.com/resizer/RjK_7Wt4EkQqEOhfzWlFXWB7juw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/4PNFMUGA4SWEZ73JASYJCFYHGQ.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "OpenAI in “intense discussions” to contain staff mutiny following Altman’s exit from AI startup"
-    excerpt: "The start-up tech firm behind ChatGPT is in turmoil after its founder Sam Altman was forced to depart the board and as chief executive"
-    publishedDateTime: 2023-11-21T08:47:00Z
-    webUrl: "https://www.businesspost.ie/news/openai-in-intense-discussions-to-contain-staff-mutiny-following-altmans-exit-from-ai-startup/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 25
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=e635a2b7-959a-51fe-bfe1-d6856baa4ea5&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=4499&height=2531&x=1.0E-5&y=0.01311"
-        width: 3000
-        height: 1687
         isCached: true
   - title: "Exclusive-Sam Altman's ouster at OpenAI was precipitated by letter to board about AI breakthrough -sources"
     excerpt: "Ahead of OpenAI CEO Sam Altman’s four days in exile, several staff researchers sent the board of directors a letter warning of a powerful artificial intelligence discovery that they said could threaten humanity,"

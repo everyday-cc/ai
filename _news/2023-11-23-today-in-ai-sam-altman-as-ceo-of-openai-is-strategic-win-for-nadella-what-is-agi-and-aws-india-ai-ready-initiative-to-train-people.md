@@ -43,20 +43,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "The evolution of ethics in an age of AI and big data"
-    excerpt: "Over the past decade, advancements in big data and artificial intelligence (AI) have drastically transformed our world, creating many new opportunities, but also giving rise to many challenges, particularly about ethics."
-    publishedDateTime: 2023-11-21T08:17:00Z
-    webUrl: "https://it-online.co.za/2023/11/21/the-evolution-of-ethics-in-an-age-of-ai-and-big-data/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 54
-    images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/09/Professor-Yudhvir-Seetharam.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Partisan Media Bias Shapes AI Sentiment"
     excerpt: "The study highlights the significant role media plays in shaping public opinion on AI, especially in the context of political discussions and policy-making."
     publishedDateTime: 2023-11-22T21:41:00Z

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial intelligence, sustainability lead data centre trends in 2024"
+    excerpt: "Demand for artificial intelligence (AI) and the pressure to reduce energy consumption, costs, and greenhouse gas emissions loom large over the data centre industry in 2024, predicts digital infrastructure provider Vertiv."
+    publishedDateTime: 2023-11-26T08:05:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-research/artificial-intelligence,-sustainability-lead-data-centre-trends-in-2024.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 52
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/ce32e098a9a3517925dc27eff7ba8a6f_M.jpg"
+        width: 375
+        height: 562
+        isCached: true
   - title: "University of Cambridge launches AI research centre to ensure technology benefits humanity"
     excerpt: "The University of Cambridge said it hoped the institute would minimise AI's risks to humanity. | ITV News Anglia"
     publishedDateTime: 2023-11-22T05:30:00Z

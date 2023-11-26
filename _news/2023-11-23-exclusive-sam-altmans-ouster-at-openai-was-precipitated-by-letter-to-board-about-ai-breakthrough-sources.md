@@ -426,20 +426,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI in “intense discussions” to contain staff mutiny following Altman’s exit from AI startup"
-    excerpt: "The start-up tech firm behind ChatGPT is in turmoil after its founder Sam Altman was forced to depart the board and as chief executive"
-    publishedDateTime: 2023-11-21T08:47:00Z
-    webUrl: "https://www.businesspost.ie/news/openai-in-intense-discussions-to-contain-staff-mutiny-following-altmans-exit-from-ai-startup/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 25
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=e635a2b7-959a-51fe-bfe1-d6856baa4ea5&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=4499&height=2531&x=1.0E-5&y=0.01311"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "OpenAI Researchers Warned the Board of an AI Discovery that Could Threaten Humanity"
     excerpt: "Four days ahead of Sam Altman‘s ouster, several staff researchers wrote a letter to the board of directors warning of a powerful AI discovery, called Project Q*, that they said could threaten humanity. Reuters reported yesterday about it quoting as sources two people familiar with the matter."
     publishedDateTime: 2023-11-23T19:11:00Z

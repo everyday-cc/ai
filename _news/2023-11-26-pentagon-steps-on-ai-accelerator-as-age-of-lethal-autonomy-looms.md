@@ -62,15 +62,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Amazon Invites Applications for Free Courses on Artificial Intelligence"
-    excerpt: "Amazon, the US-based internet giant, has announced that it would offer free educational courses on generative AI as part of"
-    publishedDateTime: 2023-11-23T05:41:00Z
-    webUrl: "https://www.dqindia.com/amazon-invites-applications-for-free-courses-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
 
 secured: "EbFNQ0qSNM+N3NuRwQguH93NjCH5Yo/6ygjR8INmW7IkvUDq3mKgaAy12r4sBEeIHs2niLNTg+0z/2i01MrhxZR/2I2DGb4z+Ly9xXz09HA2Q16aVqA37t3WP3rnp5/Hog8XgPCwiCpdf1UqIlxb0v/O3r2d/4NBkCagA/wCJMsYI7ei3CeIy7q/LExxelwdRZI1nIjxsdAbIfhew3Q0v7e06GPTz7VwWgZSn9oM+VnC3WLvfSN0uE1wpbL35TBFR45w+0bWFXW1EFNM0UuUMZ6Veci0d7MkGcEVeABI5hoF1JwKeaBwXdrEA7w2iVsv7+pdqbw6zaaLDzv0+vFQ7mISswp3D5RfDBeupSO4njP37JasVg6WbVOM48yX8/FS19uAMDmvt+dXDWcMWacCuUdwwv2TBDikoFHytbAnYRykv7hDefg00WUAR9R4fKchhLXSlYThROIoVvPfeSImV2A/zaedxjOE6jop9DOV4ouW8ITHbemY3EagZgz3tuUdaf7+yXObVgVlCb+NcCcd3g==;Kn0LC6F5VltCUhD5dQ4BxA=="
 ---

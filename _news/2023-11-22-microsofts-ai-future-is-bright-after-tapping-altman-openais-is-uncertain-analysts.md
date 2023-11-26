@@ -89,22 +89,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft goes all-in on AI at Ignite"
-    excerpt: "Ignite conference took place last week, and AI was the star of this year's event. AI is the one technology Microsoft seems most excited"
-    publishedDateTime: 2023-11-21T08:36:00Z
-    webUrl: "https://stuff.co.za/2023/11/21/microsoft-goes-all-in-on-ai-at-ignite/"
-    ampWebUrl: "https://stuff.co.za/2023/11/21/microsoft-goes-all-in-on-ai-at-ignite/?amp=1"
-    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/11/21/microsoft-goes-all-in-on-ai-at-ignite/?amp=1"
-    type: article
-    provider:
-      name: stuff.co.za
-      domain: stuff.co.za
-    quality: 74
-    images:
-      - url: "https://stuff.co.za/wp-content/uploads/2023/11/AI-Ignite-23-Header.jpg"
-        width: 1023
-        height: 695
-        isCached: true
   - title: "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU"
     excerpt: "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,"
     publishedDateTime: 2023-11-25T11:06:00Z
@@ -223,20 +207,6 @@ related:
       name: Stratechery
       domain: stratechery.com
     quality: 47
-  - title: "Schneider Electric Drives Generative AI Productivity And Sustainability Solutions By Integrating Microsoft Azure Openai"
-    excerpt: "Schneider Electric customers and employees use GenAI (Generative AI) capabilities which deliver productivity gains and new ways of work"
-    publishedDateTime: 2023-11-21T08:29:00Z
-    webUrl: "https://menafn.com/1107462801/Schneider-Electric-Drives-Generative-AI-Productivity-And-Sustainability-Solutions-By-Integrating-Microsoft-Azure-Openai"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?373546"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Schneider Electric Integrates Microsoft Azure OpenAI for Sustainable Solutions"
     excerpt: "Schneider Electric tapped into its collaboration with Microsoft to integrate Microsoft Azure OpenAI into its operations, utilizing algorithms to generate text, code and diverse content."
     publishedDateTime: 2023-11-21T20:17:00Z
@@ -339,9 +309,9 @@ related:
         height: 510
         isCached: true
   - title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-    excerpt: "Flywheel announces the launch of its SaaS data management solution on Microsoft Azure, integrated with NVIDIA MONAI."
-    publishedDateTime: 2023-11-22T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
+    excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
+    publishedDateTime: 2023-11-22T09:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
     type: article
     provider:
       name: Business Wire

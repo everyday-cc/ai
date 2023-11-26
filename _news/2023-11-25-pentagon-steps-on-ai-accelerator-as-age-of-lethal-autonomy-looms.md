@@ -55,15 +55,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Amazon Invites Applications for Free Courses on Artificial Intelligence"
-    excerpt: "Amazon, the US-based internet giant, has announced that it would offer free educational courses on generative AI as part of"
-    publishedDateTime: 2023-11-23T05:41:00Z
-    webUrl: "https://www.dqindia.com/amazon-invites-applications-for-free-courses-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
   - title: "Pentagon steps on AI accelerator as age of lethal autonomy looms"
     excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"
     publishedDateTime: 2023-11-25T17:26:00Z
@@ -74,6 +65,6 @@ related:
       domain: abcnews.go.com
     quality: 17
 
-secured: "5xLCB3uRbIfFbZOHhJnzp0iyVZDDUGN63fG/lpYF7bVvD+uWYjBnoV+B3Kp83XTJYFOPWj/cxYfPizYdSbGp1+3SO5ei3enTSmYWme3ZoxEAoTSR5MFBsiAgEXqc4WcGDZMJljF7VNQiSQXeNlLFrTrLW7WT49uSh4GSb7Rt0n07xqKSV2OL0VtvHFYoTTaglZOciNJVvnT51dSiDne0I5ocUON3I1ivcAZY/2a2uwDsd0hVJaAT1O8vJLEDxyZQ/h3JKVGS48gHPvzsHVUd/HHJArS5PJYp2JnOR2lQFeRmCjYV7sKqq0ceiDI7Uc7gJgmai9jhxCFCInko1YVvev+URkV43mTMOJFyhIEDmuw=;HUMUWMlgPScCDqbDCC5a7g=="
+secured: "152Z4xJ+83NaOzF1EV+CIsQduCnZ7OV1B2Kue4hQCPTrapKdL5xEYjNYA4mGAztFm++k83ytdMf3dhOeS0gZZL6H7WgXsY6h0e92xvYpCIwX3SJoppdcuDZDetPU35/oi7/aVjJwn+AAmLt5tdGfyDPMX0HjLHnpfypQ9cWLog6F252BwBB9o51dn44g3lMyjQfz43rryYhgLza6W8HhQp0u9A79q4PzVAv4DUQ9YQRQNkBY8BZUgCAWAYEcPxdUvlU71T/I637lN+SAx2frqcPDJovFujBgRbvE9njqT1SN1qKP5A7GawafB2x9oykuMKaPROCsrXXPhLNO0FpYgBPWFsWcOHahxYCCRBX35NsbjCeWeprYrZY88xsmT0vdmRtGdtLYhOZ8BX+ER097Dt4dHtWJATXyrTFlWzDp6mWjG5zgg7JVlp/LJ99URCZFIoFJwcAlMeyRzFdPcBc2pf2TL9khY6x8TT5xGiyPoOIbc0SkENqf92sfyJc3ACIkbsof6+hyLITedoYLd/vAEQ==;+R19ojlD4NPz3pRku0njMw=="
 ---
 

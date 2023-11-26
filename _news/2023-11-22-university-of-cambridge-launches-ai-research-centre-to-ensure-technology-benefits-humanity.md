@@ -55,6 +55,20 @@ related:
         width: 375
         height: 563
         isCached: true
+  - title: "Artificial intelligence, sustainability lead data centre trends in 2024"
+    excerpt: "Demand for artificial intelligence (AI) and the pressure to reduce energy consumption, costs, and greenhouse gas emissions loom large over the data centre industry in 2024, predicts digital infrastructure provider Vertiv."
+    publishedDateTime: 2023-11-26T08:05:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-research/artificial-intelligence,-sustainability-lead-data-centre-trends-in-2024.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 52
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/ce32e098a9a3517925dc27eff7ba8a6f_M.jpg"
+        width: 375
+        height: 562
+        isCached: true
 
 secured: "mYRM4lTGW5xppPYdX+atERExv+92nnAC7Dy+L3rpZ5qn4Yp7d6pxv/QF41V+52taLdB8ZHNpojj/kpgKt0tMO8vcvUlxb0ODEdr7x/E9zgpaU07j9kN/Cm/FF8sHnkW/CFv17Fkq8eb0w2PjtTWoeLWFThwr/0jZAFVTvUk2snVj3QAmOX0AdDsUrfu1dR8BsTrrL5OQ5rjeUl2lXzOrCjD3GqN7OMogVlr/GCzM3cBL1dRmigrgO7qBXCcz3EkxvFTUCsVSGt0L7Stxz3YLyrM6iLc1SwtxMgLLvWJiKqXienJN8JW2bjfNkZSMowNleSV7wDOFyIp2L78/KboJl2JMOOEhwwdy6jfUeZbVkls=;UfLVL85T1J4AhjAo8X2K6A=="
 ---

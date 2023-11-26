@@ -7,7 +7,7 @@ originalUrl: "https://www.djournal.com/news/national/co-founder-of-gms-self-driv
 webUrl: "https://www.djournal.com/news/national/co-founder-of-gms-self-driving-unit-resigns-amid-safety-review/video_2cfb7dcd-9730-52f7-b2f2-e6ef1fce4397.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cruise CEO resigns amid questions over self-driving vehicles"
-    excerpt: "Kyle Vogt has resigned as chief executive officer of Cruise, General Motors' autonomous vehicle unit, as questions build about the safety of self-driving cars."
-    publishedDateTime: 2023-11-21T07:52:00Z
-    webUrl: "https://www.arkansasonline.com/news/2023/nov/21/cruise-ceo-resigns-amid-questions-over-self/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205863245_205859005-d582d0d89bae49de8bece9d4d4536caf_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Founder of GM’s self-driving division resigns amid collisions"
     excerpt: "Kyle Vogt, the founder and CEO of Cruise, General Motors’ self-driving vehicle unit, resigned Sunday following a turbulent period."
     publishedDateTime: 2023-11-21T18:19:00Z
@@ -67,15 +53,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Austin launches dashboard to track self-driving vehicle incidents"
-    excerpt: "A new dashboard will be used to track self-driving car complaints in Austin as Cruise autonomous vehicles continue to cause incidents."
-    publishedDateTime: 2023-11-24T23:21:00Z
-    webUrl: "https://www.mysanantonio.com/news/local/article/cruise-autonomous-vehicles-18512918.php"
-    type: article
-    provider:
-      name: San Antonio Express-News
-      domain: mysanantonio.com
-    quality: 4
 
 secured: "ElFUpXeaTzCnZJ8XZCRYUJ1bVgsbPOj81CFEotmVHVjPp87ZNUE/w2AXEpu/e0xHx9wcSdJ716JqDyP+zrGDmi27zKjBcMppNhwfDUzZZnc4nfnLfpPGLQtDK8Y3uBGYL6//bWB9SsC8SyK3/osQZbIIHbxAPnHc184KbZ7QecK8VJHuG8G8Yi1GHNYMHu346X6NybO4+2hqMKVOyIOLEukKlSq5v6X8foKEYn1ilyIy8h/zInPKuBUhWl6CMUOEZeQMbzEQg3RwaqPZKFRyk/UcUrqxoDDNm0s+LpUjz4wxUbNM4yy2e6cl99Xt/8Xu++XW3m/tIfJvaAOSFQ3V2B4vPbD1w2r/G10JT89wedPYIgEpqFr4uaJRI7LD8Ds1MLYtwwc1kCTS/nEMzU+NvQFWGfCtATT4Z2oXtarfDfEa7DW5EAkZcF/cUsYsJthpuZSH97GAv20c0Fyg10F40wvtKIcMsUNNp0YA02wOM0ZiHalgJKsg+6mB7gv+69GS0zHWLG61ltTwYc2TgPrNEA==;zZjIqT2HFibA7AT9oWRWRA=="
 ---

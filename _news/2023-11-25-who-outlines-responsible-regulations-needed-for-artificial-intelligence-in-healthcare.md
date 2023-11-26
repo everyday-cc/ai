@@ -87,6 +87,20 @@ related:
         width: 358
         height: 238
         isCached: true
+  - title: "Artificial Intelligence in health care"
+    excerpt: "As we move more into the future, artificial intelligence will make more of an impact in the employment landscape and how businesses operate and hire. The Murfreesboro Police Department released ..."
+    publishedDateTime: 2023-11-23T09:30:00Z
+    webUrl: "https://www.wkrn.com/video/artificial-intelligence-in-health-care/9198927/"
+    type: article
+    provider:
+      name: WKRN-TV
+      domain: wkrn.com
+    quality: 41
+    images:
+      - url: "https://www.wkrn.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
+        width: 396
+        height: 202
+        isCached: true
 
 secured: "pKHPxqraA+oY38MONByF6ngdAz7a6ibVpffTf4yhm69rNIZtChSdWvg9K4P2teYEjfeYUqySncXWhFfuSGG6UTKvni/Li4O/lWrZsFwvOt+I0Q57cOFBLHXaKLZqG7Q5VoehDt1FbvZJEkkJtJ9HhMLzaQF19czmP6IBGtgCg9uGh/YyuS15kee9kgtogevJEFlawgDLXF1EBz4iIgBmCIvtJkfLQgY/yXgt0R1IrE9/aWTuV0F4ctKC0fU0HYGgR14fUBK6CVFHZGSSynj3LRhx6Yprz0dqsCctebYxmhnDn8/lin11U2uVmOBNjWh/oY9sDMBENnRlU8P5wopIxvQK0ujoGRT5BH4gMtIqZMhMfL17YsTm+oo3Remb7fCV8SNib/z0bSEqDU8LmLAfkzpESa8CD/yaehzjlFeWknd/NAb97wXXj/rD5f/PVQwCZcScT4c89fWuJGSwjs/8hgOLP7PL8YLCb9YiZm82/vSz4HMHzqNpZ3srvzWmKVVeGzI5lOGYfyCMy7g3Xvcogw==;6S6+a9+F3fgpmdatdshvGg=="
 ---

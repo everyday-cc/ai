@@ -36,15 +36,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "DriveNets Joins Ultra Ethernet Consortium; Commits to Developing Open, Multi-vendor Ethernet Solutions for AI"
-    excerpt: "It improves the performance of large-scale AI workloads regardless of GPU or AI accelerator used, enabling users to build open, multi-vendor AI infrastructures. DriveNets is part of the first group of companies to join the UEC after its founding by members ..."
-    publishedDateTime: 2023-11-21T08:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/n35894458/drivenets-joins-ultra-ethernet-consortium-commits-to-developing-open-multi-vendor-ethernet-solutio"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "/rF8CpL1W4OQ54qdDVUJjXpkl9biUggge9FOzUyt9Fati1pj8kK32DlEtxLK1nIKIXMHkb3thJg4PqTeypFZbINIdJLLoks4xl9sZKydkEGUfiJ8eq27OmIqtrvFiofqIEfSpCJ7gCqdpMIXyjmyZUwyJQd5FXd/ZLIhDFtLs5tDOt970ko2bCl80YlG3s0AodMHPhwPAGTUEwtgdzlDBABqc1Ku6UH1mVhLQIjy0yYyZ5FJkcxGzh0VWNaOnI8VBBS4S6ZoiRHXbOq67bQ7Qm7cpsfXzdoQQv6CqN4Aoz70H7nQJZmatBGAMKMK0W6quKyB+eMRJx63R6VfqtaV9AL0sB/weaezAnx2fh/6ul8=;my3Tc6TKz1zQDKJ4rGmxPw=="
 ---

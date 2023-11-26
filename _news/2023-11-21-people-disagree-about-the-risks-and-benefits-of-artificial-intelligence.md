@@ -34,20 +34,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "The evolution of ethics in an age of AI and big data"
-    excerpt: "Over the past decade, advancements in big data and artificial intelligence (AI) have drastically transformed our world, creating many new opportunities, but also giving rise to many challenges, particularly about ethics."
-    publishedDateTime: 2023-11-21T08:17:00Z
-    webUrl: "https://it-online.co.za/2023/11/21/the-evolution-of-ethics-in-an-age-of-ai-and-big-data/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 54
-    images:
-      - url: "https://it-online.co.za/wp-content/uploads/2023/09/Professor-Yudhvir-Seetharam.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Today in AI: Sam Altman as CEO of OpenAI is strategic win for Nadella, What is AGI? and AWS India AI ready initiative to train people"
     excerpt: "AGI is more of a general term, referring to Artificial Intelligence that has not been trained to excel ... The cloud service provider also earmarked $12 million for AWS Generative AI Scholarship, wherein it will provide Udacity scholarships to more than ..."
     publishedDateTime: 2023-11-23T09:37:00Z

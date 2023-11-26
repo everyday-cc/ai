@@ -48,20 +48,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 49
-  - title: "MediaTek Dimensity 8300 chipset announced with on-device generative AI capabilities"
-    excerpt: "MediaTek has introduced the Dimensity 8300, a new mid-range smartphone chipset that boasts on-device generative AI capabilities"
-    publishedDateTime: 2023-11-21T08:42:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/smartphones-with-mediatek-dimensity-8300-chipset-launching-by-year-end/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 48
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l5220231121141155.jpeg"
-        width: 1920
-        height: 1079
-        isCached: true
   - title: "MediaTek Dimensity 8300 promises 20% faster CPU, 60% faster GPU, and 3.3X faster AI for sub-flagship smartphones"
     excerpt: "MediaTek Dimensity 8300 promises 20% faster CPU, 60% faster GPU, and 3.3X faster AI for sub-flagship smartphones"
     publishedDateTime: 2023-11-21T18:00:00Z
