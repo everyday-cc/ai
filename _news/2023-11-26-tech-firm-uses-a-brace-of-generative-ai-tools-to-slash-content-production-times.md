@@ -25,56 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Textract’s new Layout feature introduces efficiencies in general purpose and generative AI document processing tasks"
-    excerpt: "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from any document or image. AnalyzeDocument Layout is a new feature that allows customers to automatically extract layout elements such as paragraphs, titles, subtitles, headers, footers, and more"
-    publishedDateTime: 2023-11-21T17:24:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks/"
+  - title: "Fintech Sector Is Undergoing Transformation with Rise of Open Finance, Generative AI, A2A Payments – Report"
+    excerpt: "The whitepaper found that “the fintech market is undergoing a rapid shift, with the rise of new technologies, such as Open Finance, generative AI and A2A (account-to-account) payments having a major impact on business models.” This is combined with unp ..."
+    publishedDateTime: 2023-11-21T21:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 95
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 56
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/17/layout-textractor-975x630.jpg"
-        width: 975
-        height: 630
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/NYSE-New-York-Fintech-1024x848.jpg"
+        width: 1024
+        height: 848
         isCached: true
-  - title: "Best practices for developing a generative AI copilot for business"
-    excerpt: "Chris Ackerson, formerly of IBM Watson, is currently the Vice President of Product at AlphaSense, a market intelligence and search platform, where he spearheads the development of AI and ML capabilities to deliver better data and insights to thousands of ..."
-    publishedDateTime: 2023-11-21T18:39:00Z
-    webUrl: "https://techcrunch.com/2023/11/21/best-practices-for-developing-a-generative-ai-copilot-for-business/"
+  - title: "Intuit's AI-Driven Approach: Transforming Fintech Industry with GenOS & Intuit Assist"
+    excerpt: "Saurabh Saxena, Intuit India Site Leader & Vice President, Product Development, shares his insights on Intuit's strategic focus on AI, the transformative impact of GenOS, their newest launch - Intuit Assist,"
+    publishedDateTime: 2023-11-23T08:32:00Z
+    webUrl: "https://www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist-11700727898845.html"
+    ampWebUrl: "https://www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist/amp-11700727898845.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist/amp-11700727898845.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
+      name: Mint
+      domain: livemint.com
+    quality: 52
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1465545513.jpg?resize=1200,686"
-        width: 1200
-        height: 686
+      - url: "https://www.livemint.com/lm-img/img/2023/11/23/1600x900/Screenshot_2023-11-23_140037_1700728233989_1700728241385.png"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Geospatial generative AI with Amazon Bedrock and Amazon Location Service"
-    excerpt: "Today, geospatial workflows typically consist of loading data, transforming it, and then producing visual insights like maps, text, or charts. Generative AI can automate these tasks through autonomous agents. In this post, we discuss how to use foundation models from Amazon Bedrock to power agents to"
-    publishedDateTime: 2023-11-22T14:18:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/geospatial-generative-ai-with-amazon-bedrock-and-amazon-location-service/"
+  - title: "How is Generative AI Transforming the Financial Industry?"
+    excerpt: "Explore the transformative power of Generative AI in finance with real-world case studies and expert insights from SFF 2023."
+    publishedDateTime: 2023-11-22T03:43:00Z
+    webUrl: "https://fintechnews.sg/80447/ai/how-is-generative-ai-transforming-the-financial-industry/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
-  - title: "Adobe Express rolls out new generative AI features – The Verge"
-    excerpt: "By Jess Weatherbed, a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and"
-    publishedDateTime: 2023-11-26T03:37:00Z
-    webUrl: "https://www.inferse.com/805757/adobe-express-rolls-out-new-generative-ai-features-the-verge/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
+      name: Fintech Singapore
+      domain: fintechnews.sg
     quality: 39
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13819.png"
-        width: 1200
-        height: 628
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Sumsub-Banner-3.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Fintech Trends Survey: 2024 to Center on Digital Transformation within Finance Departments, AI and Real-Time Payments a Priority"
+    excerpt: "AvidXchange, a provider of AP automation software, announced the release of a white paper titled, “2024: Anticipating Tomorrow’s Trends.”"
+    publishedDateTime: 2023-11-23T15:12:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/11/216736-fintech-trends-survey-2024-to-center-on-digital-transformation-within-finance-departments-ai-and-real-time-payments-a-priority/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 25
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/11/Equity-Crowdfunding-in-2023-Webinar-300x250-12.12.23.jpeg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "S6YoqQfGaCIBJbZUp1e1lhbqQWvMaW+qeWBvbWIiK58Qh2voKjrMFCO6fXC/aIgl+5Vx/ZAPw7QYxLQhvgfVBaaeXz0+whZ3nVDTnnJbcgpsi6lX1VzIhKo6jYL10SWDnrin1wOteXaVp9gfm02QcSyNm1eyBq5ANdvjSHGmivM1n2IEFNyj+gTR/fYqa7pj0T0FAs8rozLYGOB+4Tg0yKFSSYXP4dbFCfRbdjP/52SX5kf0q0aVtDB1vw0Uqg72LUXkBGmX0vXedyB1b84TwWRkj24X6bfIGy0S6MC9xszK7drcICyiydUdPbVQna8oaWUUXBbGsABWAY+PdkaWjE8DD4SK1CXmQhXtDbKH180=;QKmVi4/AKY3aDtrO1jxAhA=="

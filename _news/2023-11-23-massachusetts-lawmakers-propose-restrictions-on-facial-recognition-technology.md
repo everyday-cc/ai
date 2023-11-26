@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Gardai set to use Facial Recognition Technology to identify those behind Dublin riots"
-    excerpt: "The Justice Minister is to fast forward and expand the scope of new facial recognition technology legislation to include riot and violent disorder"
-    publishedDateTime: 2023-11-26T11:12:00Z
-    webUrl: "https://www.dublinlive.ie/news/dublin-news/gardai-set-use-facial-recognition-28176887"
-    ampWebUrl: "https://www.dublinlive.ie/news/dublin-news/gardai-set-use-facial-recognition-28176887.amp"
-    cdnAmpWebUrl: "https://www-dublinlive-ie.cdn.ampproject.org/c/s/www.dublinlive.ie/news/dublin-news/gardai-set-use-facial-recognition-28176887.amp"
+  - title: "Guardrails needed for police use of facial recognition software in Massachusetts, advocates say"
+    excerpt: "Police would need a warrant to use facial recognition software while investigating serious crimes and state police would be tasked with centralizing all law enforcement searches under legislation supporters argue reduces bias and puts guardrails on the use ..."
+    publishedDateTime: 2023-11-23T11:54:00Z
+    webUrl: "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/"
+    ampWebUrl: "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/amp/"
     type: article
     provider:
-      name: DublinLive
-      domain: dublinlive.ie
-    quality: 67
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 62
     images:
-      - url: "https://i2-prod.dublinlive.ie/incoming/article28176938.ece/ALTERNATES/s1200/0_gardai.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Dublin riots: Gardai set to use AI facial recognition technology to identify those behind unrest"
-    excerpt: "The Justice Minister is to fast forward and expand the scope of new facial recognition technology legislation to include riot and violent disorder."
-    publishedDateTime: 2023-11-26T09:13:00Z
-    webUrl: "https://www.irishmirror.ie/news/irish-news/dublin-riots-gardai-set-use-31530134"
-    ampWebUrl: "https://www.irishmirror.ie/news/irish-news/dublin-riots-gardai-set-use-31530134.amp"
-    cdnAmpWebUrl: "https://www-irishmirror-ie.cdn.ampproject.org/c/s/www.irishmirror.ie/news/irish-news/dublin-riots-gardai-set-use-31530134.amp"
-    type: article
-    provider:
-      name: Irish Daily Mirror
-      domain: irishmirror.ie
-    quality: 61
-    images:
-      - url: "https://i2-prod.irishmirror.ie/incoming/article31515103.ece/ALTERNATES/s1200/1_dublin-unrest.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.bostonherald.com/wp-content/uploads/2019/09/AP_19127788378584.jpg?w=1024&h=671"
+        width: 1024
+        height: 671
         isCached: true
   - title: "Mass. bill would curb police use of facial recognition technology"
     excerpt: "Civil rights activists have criticized the emerging technology for years, pointing to a growing body of research showing the software disproportionately misidentifies people of color."
@@ -70,20 +54,6 @@ related:
       - url: "https://wordpress.wbur.org/wp-content/uploads/2023/11/0225_senate-chamber14-1000x666.jpg"
         width: 1000
         height: 666
-        isCached: true
-  - title: "Facial recognition technology for Gardaí ‘not the solution’ - Ó Ríordáin"
-    excerpt: "Facial recognition technology for Gardaí is “not the solution” to violence and antisocial behaviour in Dublin, Aodháin Ó Riordáin has warned."
-    publishedDateTime: 2023-11-26T14:31:00Z
-    webUrl: "https://www.newstalk.com/news/facial-recognition-technology-for-gardai-not-the-solution-o-riordain-1618151"
-    type: article
-    provider:
-      name: Newstalk
-      domain: newstalk.com
-    quality: 38
-    images:
-      - url: "https://media.radiocms.net/uploads/2023/06/20062647/2F23AER.jpg"
-        width: 1920
-        height: 1198
         isCached: true
 
 secured: "GezjNCdlG8qaPYOjsHyFsff33CfVAGzl3fZF72Hlf2wjEZPbE03EtFFGcwFBy3eo+tV29z6cToDj7A8CLMMBF0UQNPH3tfUUEZy92m/ztIE7/gAf0Ws3jLL06I3AlEodxXOsn4ywxBW5HHCwxI3BbDyjsagkFscNIGgvIeJ5/d6+ArAxcD0WIk5DuToEwocAWcqbgzGWterHxPPNlBjDjAQbqE8wzxvc59B0U51zs91tkCVODdXB/CL+asAGUezMM/wpOYQnSZTPiZ/szrzKkjPSXfuJVC1RIQWuOilktFZGONCgrOY7GxmIi4sYxvDOrteGnLLHI7C5C6v68CSNcLCcEkZ/Q8XABmseWQ5KpsemElWECzHkd7hxv78ophjtXDMmtQ63ZKAey1Fa3Smdn9v9aOHZh09I3glwoqtnlLKZ2RYuur9+fSp+6G+Bv9uhAomc1g2FvK9DdGn5egdmrFlkGGRH+YhNuZVLA1DGr7yX4iYbEHfJtuFsmetvurb8ACZBQloGZNXKJrs0Y1AX8A==;al1WMO2NOiJ8V4l5CUZy+w=="

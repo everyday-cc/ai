@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "World's biggest driverless car race: 'a new type of motor sport with different heroes'"
-    excerpt: "The Abu Dhabi-backed A2RL Autonomous Racing League plans to pit ten driverless cars in wheel-to-wheel battle from next year; the most ambitious AI motor sport plan yet. Its backer reveals more about t"
-    publishedDateTime: 2023-11-21T18:02:00Z
-    webUrl: "https://www.motorsportmagazine.com/articles/single-seaters/the-worlds-biggest-driverless-car-race-a-new-type-of-motor-sport-with-different-heroes/"
-    type: article
-    provider:
-      name: Motor Sport
-      domain: motorsportmagazine.com
-    quality: 31
-    images:
-      - url: "https://motorsportmagazine.b-cdn.net/wp-content/uploads/2023/11/A2RL-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "93/RZ+iYg3r8IF3rpvnzd7XtKnQIqbrymSegBfIc/QPpI9RLHQE5B8DvJVC/uQ7AnDvB1XqhkuBuxq+yuuXBmdK9PvUgmzSgiNKyBq+s19m75jDP/+a7HbPteT8U3FJUEgjSIksEeT185iKYu2Ic0bdAbGle7lwxwVxEUm4TQ2FjV7ARAPvr40Eiw6Dlp+xWA6WeVwiQqXQkc0EiKwGqO8EbZl1ulrzrdsmEiScpeHjC34Ex4Df3SxcWrd/dH4S8lnLSdwFgPF76V7EZHZ6KedJiWJuGUC/G5Kl7gpY8AAalIMKEFDlg9yn+Q7+FQZGaFaumLKC5rDCEWpIKeeHWpFv/f7la1TG9POVWsMyy3J4=;jEBzv1PFIU2BtineJxJBpA=="
 ---

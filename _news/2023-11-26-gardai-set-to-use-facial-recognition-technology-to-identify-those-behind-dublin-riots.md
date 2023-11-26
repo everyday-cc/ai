@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dublinlive.ie/news/dublin-news/gardai-set-use-facial-rec
 cdnAmpWebUrl: "https://www-dublinlive-ie.cdn.ampproject.org/c/s/www.dublinlive.ie/news/dublin-news/gardai-set-use-facial-recognition-28176887.amp"
 type: article
 quality: 67
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: DublinLive
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI facial recognition tech use will be approved by Government 'within weeks'"
+    excerpt: "The Government says it will enable the use of facial recognition technology 'within weeks'. It says this is facilitate the prosecution of offenders for riot and violent disorder, after the violence and looting in Dublin on Thursday night."
+    publishedDateTime: 2023-11-26T17:09:00Z
+    webUrl: "https://www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681"
+    ampWebUrl: "https://www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681.amp"
+    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681.amp"
+    type: article
+    provider:
+      name: buzz.ie
+      domain: buzz.ie
+    quality: 71
+    images:
+      - url: "https://i2-prod.irishmirror.ie/incoming/article31515103.ece/ALTERNATES/s1200/1_dublin-unrest.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Dublin riots: Gardai set to use AI facial recognition technology to identify those behind unrest"
     excerpt: "The Justice Minister is to fast forward and expand the scope of new facial recognition technology legislation to include riot and violent disorder."
     publishedDateTime: 2023-11-26T09:13:00Z
@@ -43,19 +59,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mass. bill would curb police use of facial recognition technology"
-    excerpt: "Civil rights activists have criticized the emerging technology for years, pointing to a growing body of research showing the software disproportionately misidentifies people of color."
-    publishedDateTime: 2023-11-21T23:35:00Z
-    webUrl: "https://www.wbur.org/news/2023/11/21/massachusetts-police-facial-recognition-rules"
+  - title: "New facial recognition technology spy cam plan to nail Dublin rioters to be made law after capital set on fire"
+    excerpt: "NEW facial recognition technology is set to be made law. The spy cam images could be used to prosecute offenders like the Dublin rioters. The Facial Recognition Technology bill will be ready for"
+    publishedDateTime: 2023-11-26T17:29:00Z
+    webUrl: "https://www.thesun.ie/tech/11746833/facial-recognition-spy-cam-plan-dublin-rioters/"
+    ampWebUrl: "https://www.thesun.ie/tech/11746833/facial-recognition-spy-cam-plan-dublin-rioters/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/11746833/facial-recognition-spy-cam-plan-dublin-rioters/amp/"
     type: article
     provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 54
     images:
-      - url: "https://wordpress.wbur.org/wp-content/uploads/2023/11/0225_senate-chamber14-1000x666.jpg"
-        width: 1000
-        height: 666
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/11/riot-op-1.jpg?1701018732&strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Facial recognition technology for Gardaí ‘not the solution’ - Ó Ríordáin"
     excerpt: "Facial recognition technology for Gardaí is “not the solution” to violence and antisocial behaviour in Dublin, Aodháin Ó Riordáin has warned."
@@ -71,21 +89,7 @@ related:
         width: 1920
         height: 1198
         isCached: true
-  - title: "Massachusetts lawmakers propose restrictions on facial recognition technology"
-    excerpt: "The bill would require police to get a warrant to use face biometrics to identify a suspect and inform defendants they were identified through the software."
-    publishedDateTime: 2023-11-22T23:01:00Z
-    webUrl: "https://www.biometricupdate.com/202311/massachusetts-lawmakers-propose-restrictions-on-facial-recognition-technology"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg"
-        width: 2048
-        height: 792
-        isCached: true
 
-secured: "h1d2TYRdTjrTEiRsvC8Q1+G/2ZF4Z8DqbZnrOQhwHABhR9PprI5uII2749e6v4FMoZ8slt+0tgrPQ6Fcl/gqW5tkstqOmO08n3JlgMTBwU4n1qfI3OLtmXRHJJwlW8mqF0TK1TqWAS++KZ8h6FtpJ0G25jwTljmzHGGoFzeBXqiUzD5oRq/B+9s5vDmgNp4+DYMw4LSdhyW5EeglYYI7brfFg65FLZxqV48F9Gdvo9yvJKWFQRebuIJSznjgCGvCInI2tPBHfxWFk0eRswo4sMSsdgyeh2jZKhcNDgabxglZdFqBK/FXLq2KyGhK4PhjDweugMCIZKANtA2Hla1w/HA3EBhdzcvM81VuWarUxEk=;QDjyxRvU/HhNUiVUd1uz7Q=="
+secured: "xtUPupehsGbDUuMwhHjILIa4tnUT6RB7I7ta7rhFgz7YBa2PszivLRJDw7VrvTBmyYKefKLB9eLY0pVVH0vWE8jpile7NoXjJjcckWfNZ7x09931ra9N0LT7VRcS09AWrdk27sqiLbxTaK52ALdqPsHgfjRwTGcTdrM8tJtp6NH6Vgce4WECQoYwMT7cT7LsrH5K0zHjjFMiibcIUTSW+YarjXjRwaC2YwlkfQCjx9OSwZVsD/TPVcZUCZcJsPBJ1FMnmnlvztSkkOTwd3l+kIp0ePlwD03kPMznP9ICmffl2OeUmCDZ3qz10j4oKhyRjWe1pCHxp/kAYabLTsvX3pvSY0C97PKv0+z8MKh7sXc=;VbFJDfGqkdsPyEC8+qlcmg=="
 ---
 

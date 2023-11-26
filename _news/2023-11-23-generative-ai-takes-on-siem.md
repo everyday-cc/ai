@@ -24,6 +24,22 @@ images:
     height: 430
     isCached: true
 
+related:
+  - title: "Adobe Express rolls out new generative AI features – The Verge"
+    excerpt: "By Jess Weatherbed, a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and"
+    publishedDateTime: 2023-11-26T03:37:00Z
+    webUrl: "https://www.inferse.com/805757/adobe-express-rolls-out-new-generative-ai-features-the-verge/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13819.png"
+        width: 1200
+        height: 628
+        isCached: true
+
 secured: "6nMh1KogJkPkCle/ZaPN88QFihDOkq74oz3KJzzWFx+iiy5rStIPHD2kdj7CMwCAEZcoz53W+IkJIqxGENpXZgw58WRGnGskQo4ML918M8WJ4T/M/fJHLob/Emde9idEUVHUs8q7NXhgDcA40yDe/Nnsq1UxHcEdoeK0GOcYFIl/K1avcaPuBORinXXg39R0mD+xlFRQd/xy2mWQZf4S9iWNR7aoT3OJqkuKRPb+T8icKCXri90x2paF48vB6hXCwqRhxqOOWOHrO9uhitIasE10lQgpta5sMZFAInDZifFXepi9DTgYSYhdetTTPX/IwtehO8K4uihiVAnkeVLVhX6fZB3rnCY6gvnieCFb6ptwAzJ7TVQRKV2lJMeADsEL8IwkBtFoyYCvyZWzDYqNqSGlMRBHZOPL2iLbpxjYtXMY2i25A3BY1kUALq8l8Rlxsizx9Pn7eT6wbtY8GKJrcHqVkHlBxDL/sbGIjsZ+zNE7K7uc9Xff5tsCqLv9aY/RIaFGg7XJ3ffug4ewmVdM+w==;rHRQMv3FvgYML/SiuHUZjA=="
 ---
 

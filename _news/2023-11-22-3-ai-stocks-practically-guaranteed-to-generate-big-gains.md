@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/3-ai-stocks-practically-guaranteed
 webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-practically-guaranteed-to-generate-big-gains"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,17 @@ topics:
   - Microsoft AI
   - AI
   - AI Hardware
+
+related:
+  - title: "3 AI Stocks Set to Dominate the Market by 2025"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In a tech-driven era, the ascent of AI continues to reshape industries ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate ..."
+    publishedDateTime: 2023-11-22T09:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-set-to-dominate-the-market-by-2025-1032843469"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "9sIM9Boo9T3TjdYq5E2KzLVXfrUlH+Xt74hufAvQZKspAxffws9jpjpWjGyFSsnaW1XP/u6cYhAl8ZUm2JqPzH5fflhAihk3z9Vi521xXGFkRLylPxcm0FZkLNjeGW5Q31unKADWQm0nyo7ZyhlglgOsH3HdaQ5m7WE2fPQ2/p0vHoXV1SDWpW6paImCjdcGVa420hmeVedEm3lTxOxNRqo3DYOvleWxu5WZJfGVDleOj+H3UJwYCSrCKdL/6AQ1U2ndLgbj1fJYJepbJdKd/+Cn4ZCMWp6l+6v2nj6kUYeK7eRnVNQ6M56ZKo48IFfPNgvg9bTItFn0IBTJLIgmXp2wgyBJ9ZAynRgQhMM7Z4jTANMnRfWHQZxixat6T7a0RUrI6dHaOGVzdJEEfHMLfSSertLA3mmO1F32FVkZIQEiAjs7s3h/a6/Itwfs4H20WVNSXE973mL5SawKjJhhi7K0juHckOjqaCLk+kkClIpjHAf2bvmddUBVlh/NFvNqjgVsUvLyNm6lQ3N9MBpJDA==;MNVH1O6n/mBDs3cxDF6HhQ=="
 ---

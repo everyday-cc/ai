@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/video/for-first-time-researchers-use-artif
 webUrl: "https://www.cbsnews.com/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/"
 type: article
 quality: 53
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use artificial intelligence to find road safety issues in school zones"
-    excerpt: "Researchers at the Resilient Infrastructure and Disaster Response Center (RIDER) are using artificial intelligence and aerial imaging to make Florida's school zones safer."
-    publishedDateTime: 2023-11-21T17:55:00Z
-    webUrl: "https://techxplore.com/news/2023-11-artificial-intelligence-road-safety-issues.html"
-    ampWebUrl: "https://techxplore.com/news/2023-11-artificial-intelligence-road-safety-issues.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-artificial-intelligence-road-safety-issues.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/researchers-use-artifi-2.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "It’s Time to Build AI Weapons"
     excerpt: "The risk of using artificial intelligence in weapons is the one point almost everyone agrees upon. But they are gravely, dangerously wrong."
     publishedDateTime: 2023-11-22T23:34:00Z

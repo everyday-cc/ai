@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Researchers use artificial intelligence to find road safety issues in school zones"
-    excerpt: "Researchers at the Resilient Infrastructure and Disaster Response Center (RIDER) are using artificial intelligence and aerial imaging to make Florida's school zones safer."
-    publishedDateTime: 2023-11-21T17:55:00Z
-    webUrl: "https://techxplore.com/news/2023-11-artificial-intelligence-road-safety-issues.html"
-    ampWebUrl: "https://techxplore.com/news/2023-11-artificial-intelligence-road-safety-issues.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-artificial-intelligence-road-safety-issues.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/researchers-use-artifi-2.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Kerala startup offers AI platform to help market investors do real-time research"
     excerpt: "Nikhil has joined hands with T R Shamsudheen, a first-generation entrepreneur, for his second venture- Algorithma Digitech Private Limited- a fintech company that has its office at the Kerala Startup Mission (KSU) campus in Kalamassery,"
     publishedDateTime: 2023-11-25T05:16:00Z

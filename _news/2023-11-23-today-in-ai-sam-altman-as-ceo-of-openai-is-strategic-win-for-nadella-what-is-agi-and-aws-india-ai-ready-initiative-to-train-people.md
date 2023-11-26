@@ -51,7 +51,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
         width: 600

@@ -243,20 +243,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI Leader Dipping From Record Highs Before Earnings"
-    excerpt: "This is shaping up to be a big report for the company given its lead in the artificial intelligence (AI) space. During yesterday's trading ... There's no set up required either. If you start buying the dividend stocks I show you today..."
-    publishedDateTime: 2023-11-21T18:42:00Z
-    webUrl: "https://www.schaeffersresearch.com/content/analysis/2023/11/21/ai-leader-dipping-from-record-highs-before-earnings"
-    type: article
-    provider:
-      name: SchaeffersResearch.com
-      domain: schaeffersresearch.com
-    quality: 37
-    images:
-      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/logos/bigstock-san-francisco-ca-june-----250312549.jpg?sfvrsn=dcebda06_6"
-        width: 1400
-        height: 1050
-        isCached: true
   - title: "Wipro and NVIDIA Collaborate to Advance Gen AI in Healthcare"
     excerpt: "Wipro Limited, a technology services and consulting company, has announced a collaboration with NVIDIA to accelerate the adoption of generative"
     publishedDateTime: 2023-11-22T04:50:00Z
@@ -293,15 +279,6 @@ related:
       name: AZ Central
       domain: azcentral.com
     quality: 32
-  - title: "Chips Stocks Fall Ahead of Nvidia Earnings"
-    excerpt: "Semiconductor stocks were falling on Tuesday ahead of the latest earnings report from graphics card titan Nvidia. Nvidia shares were down 1.4% to $497.26. The iShares Semiconductor ETF was down 2%. Nvidia stock is up 240% in 2023."
-    publishedDateTime: 2023-11-21T18:01:00Z
-    webUrl: "https://www.barrons.com/livecoverage/stock-market-today-112123/card/chips-stocks-fall-ahead-of-nvidia-earnings-AqB5quRHJ1W1rTiUkjBm"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
 
 secured: "iWVCY/e9tYXeJs2kHxbpwJmWAf+M74R3bz/9lEW9GPfiQ9KwBvxRpLoGlQdSrZ5+T0WZXvTb5wlb996NBBVwY6WkYXJj/6xgB8p103vey52GuUExtHEj4lu+p0Io47cbPSFWgWYEJMXqFMPEzhoQyT7Bvz+13zb5uV10PXXzqmnhPJhVR3ybUE3hW3g19Qcy3v3MGAIKYQQijVIpKzPmC/alAKsAKMgdTW7FtckY2FAGk8anTmhIcwEFYv6QTJlYus4ksE3t2dWjfznE2Shpk0lTpN0ug9ErgY4XtMyoYhsL8yBv3e8pF+Ubd/WmQp/GZocnNHHa+f0uUwB5SsECQoHZwMX9gTGnCuNv0k9xyi+NzaF3cuIT+WGf+ng899nXrab7iDC302h8Mpg+rXSkVxktp+hIVek427LVKLpctrefqItzV8YkPuCh5rwT0KewFJtyH9dqTmncD/P/1tRvIDttny8AdXsuy0WhraQD8UC5A6QJ8cNoS7VYBxqQoVyrq8Fv0hINxr3ZlY53ca7GNQ==;6B+NgYTpGkAxx0LFYbcQlw=="
 ---

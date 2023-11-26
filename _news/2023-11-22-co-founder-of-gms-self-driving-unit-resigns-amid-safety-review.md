@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Founder of GM’s self-driving division resigns amid collisions"
-    excerpt: "Kyle Vogt, the founder and CEO of Cruise, General Motors’ self-driving vehicle unit, resigned Sunday following a turbulent period."
-    publishedDateTime: 2023-11-21T18:19:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/nov/21/founder-gms-self-driving-division-kyle-vogt-resign/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 24
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2018/11/29/general_motors_cruise_management_73747_c0-127-4040-2483_s1200x700.jpg?f041ecf2ef0f1df903051c2acd67b2bff2f7194e"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Vogt resigns as CEO of Cruise following safety questions, recalls of self-driving vehicles"
     excerpt: "Kyle Vogt has resigned as CEO of Cruise, General Motors’ autonomous vehicle unit, as questions build about the safety of self-driving cars. Vogt's decision to step down, announced late Sunday ..."
     publishedDateTime: 2023-11-22T05:18:00Z

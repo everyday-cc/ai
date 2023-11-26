@@ -23,22 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Researchers develop AI-powered model to predict stock market trends"
-    excerpt: "Can artificial intelligence tools help predict stock price movement and volatility? Two South Dakota State University researchers believe so. Kaiqun Fu, assistant professor in SDSU's Department of Electrical Engineering and Computer Science,"
-    publishedDateTime: 2023-11-21T18:02:00Z
-    webUrl: "https://techxplore.com/news/2023-11-ai-powered-stock-trends.html"
-    ampWebUrl: "https://techxplore.com/news/2023-11-ai-powered-stock-trends.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-powered-stock-trends.amp"
+  - title: "3 AI Stocks Practically Guaranteed to Generate Big Gains"
+    excerpt: "The post 3 AI Stocks Practically Guaranteed to Generate Big Gains appeared first on InvestorPlace."
+    publishedDateTime: 2023-11-22T05:17:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-practically-guaranteed-to-generate-big-gains"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/can-artificial-intelli-4.jpg"
-        width: 1020
-        height: 1280
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 51
 
 secured: "wakUFDMVHqrYkp7tTp1VrmGn9ZI737DLjLKi1OlIpYNqt2HOnX9fCJzb/car1X4gRe+w3nudBzgbOjuB3i0PuNQrXjAzZio+cgXHpwB8VjlMD8N41yTQxZzSgbo1WyvxbJ+dZLxmyAtdF4huIYLEaiV67q640IsQZOViDRVoiBxkSbrVfCpl87OZrLJ4rEpAdpQ5lf/aGw0Zmen43lmC/WmmIMrCaP5sWl41SYUSHiw1QXT6GE4PRQS/apEnujG27GFtaoIovP6VucUtaqX28Ewr8AiXbKsiTATXvGhEGUn+aVohy7yyvl44EIhzWcg1TkMtoH4hZT0MTJLDosqyFn+MSHpJd18ryWLtqAkIas8=;CnhvhfoRwuQzEChuw+ffhg=="
 ---

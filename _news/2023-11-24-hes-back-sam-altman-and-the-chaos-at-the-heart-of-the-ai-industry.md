@@ -60,20 +60,6 @@ related:
         width: 1339
         height: 900
         isCached: true
-  - title: "Microsoft's AI Future Is Bright After Tapping Altman, OpenAI's Is Uncertain: Analysts"
-    excerpt: "Microsoft Corp's (NASDAQ: MSFT) hiring of Sam Altman just days after the 38-year-old entrepreneur was fired by OpenAI has inspired analysts to examine the Redmond, Washington-based tech giant's positi"
-    publishedDateTime: 2023-11-21T17:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-ai-future-is-bright-after-tapping-altman-openai-s-is-uncertain-analysts-1032840273"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/11/21/building-1011876_1280.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "OpenAI CEO Sam Altman was seeking funds for a new AI chip company before being fired"
     excerpt: "OpenAI's management drama is becoming increasingly intriguing and tumultuous. The company recently terminated Sam Altman, who served as a board member before his appointment as CEO."
     publishedDateTime: 2023-11-22T19:21:00Z
@@ -167,20 +153,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/11/newspress-collage-89zg4zewa-1700838991849.jpg?quality=75&strip=all&1700821043&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Fired OpenAI CEO Sam Altman joins Microsoft as AI research lead"
-    excerpt: "Sam Altman has been hired by Microsoft to lead its AI research after being fired by OpenAI. The former CEO and board members of the ChatGPT firm was let go last week following a review by the board of directors."
-    publishedDateTime: 2023-11-21T17:45:00Z
-    webUrl: "https://rollingout.com/2023/11/21/ai-ceo-sam-altman-joins-microsoft/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 56
-    images:
-      - url: "https://rollingout.com/wp-content/uploads/2023/11/1679322765cropped3080x2002.jpg"
-        width: 1000
-        height: 650
         isCached: true
   - title: "AI Startup Cohere’s CEO Slams Effective Altruism in Wake of OpenAI Drama"
     excerpt: "The chief executive officer of artificial intelligence startup Cohere criticized the “self-righteousness” of the effective altruism movement and those overly concerned with th"

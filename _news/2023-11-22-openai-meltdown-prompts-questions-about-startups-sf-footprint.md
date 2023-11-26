@@ -50,29 +50,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "OpenAI’s Turmoil Unveiled: The Tech World’s Battle for AI’s Future"
-    excerpt: "The recent upheaval at OpenAI unfolds as a gripping tech-world drama, blending secret board maneuvers, fears of killer A.I."
-    publishedDateTime: 2023-11-21T18:25:00Z
-    webUrl: "https://techstory.in/openais-turmoil-unveiled-the-tech-worlds-battle-for-ais-future/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/04/chatgpt_03.30_main.jpg"
-        width: 845
-        height: 535
-        isCached: true
-  - title: "Artificial Intelligence's rival factions, from Elon Musk to OpenAI – The Washington Post"
-    excerpt: "Inside Silicon Valley’s AI sector, fierce divisions are growing over the impact of a new wave of artificial intelligence: While some argue it’s imperative to"
-    publishedDateTime: 2023-11-21T17:24:00Z
-    webUrl: "https://www.inferse.com/802145/artificial-intelligences-rival-factions-from-elon-musk-to-openai-the-washington-post/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 25
 
 secured: "GNKsjiDnrXStuh1CJqNikp5CyhjgAFslPaQc6MAuy4zBgGSSSbiZHN9ygeE+TvCSOuEyFETctSuSuqjUtM5buSAbS3bUMKG8AP0WmdwxIWFL2GNCKLkumTha4inrnNKrXu4ICEMptEJFS8qDfmfVlSD37LB+n9t+Yah7otMPKp1Mf+nsDwjvK/rsqSoCwXdEdbtYJVNcrXAgPhbyq02ScEiFUAHyxpT60NWE4Z73lZ5qW2nYRdapn+FFRJ82nKF7RcBgNP9+wnIYw9mKwdOGKiQxj9JnehJaUPV0laQKFKCc4EURZFF9xgN2hfuL8KBvtBzTuj66JeEVrkH9EhSKvQa618+M0n6/ExV71ruz0da+xeZYmxf7Hp3dE6tbZLs6VBxF0K2DuP1IcOzc5bu/D3LbFKcfCTnURNd12I5E6Wu7XWZkpsjbji+wcR2iP01UAwR7CwHyWdZ0mirR5su0PAN8dkcTcGBzjS3BYS9vbY11/FIGhmHPtJQAw1Cz69KrnfhmB4gLhQ+GVShwHfIXcQ==;zk6em9rh/BnyjM4JwKnAUw=="
 ---

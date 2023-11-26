@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons."
+    excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"
+    publishedDateTime: 2023-11-26T01:18:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 52
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_0773b4937801e7a0573f44b57a9a5942_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pentagon steps on AI accelerator as age of lethal autonomy looms"
     excerpt: "Artificial intelligence employed by the U.S. military has piloted pint-sized surveillance drones in special operations forces’"
     publishedDateTime: 2023-11-25T14:48:00Z
@@ -45,20 +61,6 @@ related:
       - url: "https://dims.apnews.com/dims4/default/2801d95/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F68%2Fd9%2F0261bc35db3613bf7242dde66991%2Fus-md-military-artificial-intelligence-20231125cr-1920x1080.jpg"
         width: 1440
         height: 810
-        isCached: true
-  - title: "Pentagon’s AI initiatives accelerate hard decisions on lethal autonomous weapons."
-    excerpt: "There is little dispute among scientists, industry experts and Pentagon officials that the U.S. will within the next few years have fully autonomous lethal weapons."
-    publishedDateTime: 2023-11-25T18:35:00Z
-    webUrl: "https://www.bostonglobe.com/2023/11/25/nation/pentagons-ai-initiatives-accelerate-hard-decisions-lethal-autonomous-weapons/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 32
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/hGS3NiaYhAzrG6yhDchE4fiHJzA=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7Y565G2XAMMAXZYLNEAI4G3EVM.jpg"
-        width: 506
-        height: 337
         isCached: true
 
 secured: "EbFNQ0qSNM+N3NuRwQguH93NjCH5Yo/6ygjR8INmW7IkvUDq3mKgaAy12r4sBEeIHs2niLNTg+0z/2i01MrhxZR/2I2DGb4z+Ly9xXz09HA2Q16aVqA37t3WP3rnp5/Hog8XgPCwiCpdf1UqIlxb0v/O3r2d/4NBkCagA/wCJMsYI7ei3CeIy7q/LExxelwdRZI1nIjxsdAbIfhew3Q0v7e06GPTz7VwWgZSn9oM+VnC3WLvfSN0uE1wpbL35TBFR45w+0bWFXW1EFNM0UuUMZ6Veci0d7MkGcEVeABI5hoF1JwKeaBwXdrEA7w2iVsv7+pdqbw6zaaLDzv0+vFQ7mISswp3D5RfDBeupSO4njP37JasVg6WbVOM48yX8/FS19uAMDmvt+dXDWcMWacCuUdwwv2TBDikoFHytbAnYRykv7hDefg00WUAR9R4fKchhLXSlYThROIoVvPfeSImV2A/zaedxjOE6jop9DOV4ouW8ITHbemY3EagZgz3tuUdaf7+yXObVgVlCb+NcCcd3g==;Kn0LC6F5VltCUhD5dQ4BxA=="

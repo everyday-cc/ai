@@ -235,20 +235,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI Leader Dipping From Record Highs Before Earnings"
-    excerpt: "This is shaping up to be a big report for the company given its lead in the artificial intelligence (AI) space. During yesterday's trading ... There's no set up required either. If you start buying the dividend stocks I show you today..."
-    publishedDateTime: 2023-11-21T18:42:00Z
-    webUrl: "https://www.schaeffersresearch.com/content/analysis/2023/11/21/ai-leader-dipping-from-record-highs-before-earnings"
-    type: article
-    provider:
-      name: SchaeffersResearch.com
-      domain: schaeffersresearch.com
-    quality: 37
-    images:
-      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/logos/bigstock-san-francisco-ca-june-----250312549.jpg?sfvrsn=dcebda06_6"
-        width: 1400
-        height: 1050
-        isCached: true
   - title: "Wipro and NVIDIA Collaborate to Advance Gen AI in Healthcare"
     excerpt: "Wipro Limited, a technology services and consulting company, has announced a collaboration with NVIDIA to accelerate the adoption of generative"
     publishedDateTime: 2023-11-22T04:50:00Z
@@ -285,15 +271,6 @@ related:
       name: AZ Central
       domain: azcentral.com
     quality: 32
-  - title: "Chips Stocks Fall Ahead of Nvidia Earnings"
-    excerpt: "Semiconductor stocks were falling on Tuesday ahead of the latest earnings report from graphics card titan Nvidia. Nvidia shares were down 1.4% to $497.26. The iShares Semiconductor ETF was down 2%. Nvidia stock is up 240% in 2023."
-    publishedDateTime: 2023-11-21T18:01:00Z
-    webUrl: "https://www.barrons.com/livecoverage/stock-market-today-112123/card/chips-stocks-fall-ahead-of-nvidia-earnings-AqB5quRHJ1W1rTiUkjBm"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
   - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
     excerpt: "An exchange-traded fund tracking artificial intelligence stocks saw investors pouring money after six straight weeks of outflows, on the backdrop of strong quarterly results by chipmaker Nvidia and rising optimism that U."
     publishedDateTime: 2023-11-24T15:11:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35921762"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35921762"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai’s robot-heavy EV factory in Singapore is fully operational"
-    excerpt: "While a car factory vegetable garden may sound somewhat odd, it actually compliments the Singapore government’s ongoing “ 30 by 30 ” initiative. Due to the region’s rocky geology, Singapore can only utilize about one percent of its land for agriculture—an estimated 90 percent of all food in the area must be imported."
-    publishedDateTime: 2023-11-21T18:15:00Z
-    webUrl: "https://www.popsci.com/technology/hyundai-singapore-factory/"
-    ampWebUrl: "https://www.popsci.com/technology/hyundai-singapore-factory/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/hyundai-singapore-factory/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 74
-    images:
-      - url: "https://www.popsci.com/uploads/2023/11/21/Large-57885-NewHyundaiMotorGroupInnovationCenterSingaporeSettoTransformProductionRDandCustomerExperience-scaled.jpg?auto=webp"
-        width: 2560
-        height: 1710
-        isCached: true
   - title: "Healthcare professionals to get AI training as Singapore continues push towards preventive care"
     excerpt: "Artificial intelligence (AI) algorithms can be run on mammograms to help screen for breast cancer and detect changes in the eye among diabetes patients, for instance."
     publishedDateTime: 2023-11-24T18:52:00Z

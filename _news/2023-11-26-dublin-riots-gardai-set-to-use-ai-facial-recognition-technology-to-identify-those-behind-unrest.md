@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI facial recognition tech use will be approved by Government 'within weeks'"
+    excerpt: "The Government says it will enable the use of facial recognition technology 'within weeks'. It says this is facilitate the prosecution of offenders for riot and violent disorder, after the violence and looting in Dublin on Thursday night."
+    publishedDateTime: 2023-11-26T17:09:00Z
+    webUrl: "https://www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681"
+    ampWebUrl: "https://www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681.amp"
+    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681.amp"
+    type: article
+    provider:
+      name: buzz.ie
+      domain: buzz.ie
+    quality: 71
+    images:
+      - url: "https://i2-prod.irishmirror.ie/incoming/article31515103.ece/ALTERNATES/s1200/1_dublin-unrest.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gardai set to use Facial Recognition Technology to identify those behind Dublin riots"
     excerpt: "The Justice Minister is to fast forward and expand the scope of new facial recognition technology legislation to include riot and violent disorder"
     publishedDateTime: 2023-11-26T11:12:00Z
@@ -43,19 +59,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mass. bill would curb police use of facial recognition technology"
-    excerpt: "Civil rights activists have criticized the emerging technology for years, pointing to a growing body of research showing the software disproportionately misidentifies people of color."
-    publishedDateTime: 2023-11-21T23:35:00Z
-    webUrl: "https://www.wbur.org/news/2023/11/21/massachusetts-police-facial-recognition-rules"
+  - title: "New facial recognition technology spy cam plan to nail Dublin rioters to be made law after capital set on fire"
+    excerpt: "NEW facial recognition technology is set to be made law. The spy cam images could be used to prosecute offenders like the Dublin rioters. The Facial Recognition Technology bill will be ready for"
+    publishedDateTime: 2023-11-26T17:29:00Z
+    webUrl: "https://www.thesun.ie/tech/11746833/facial-recognition-spy-cam-plan-dublin-rioters/"
+    ampWebUrl: "https://www.thesun.ie/tech/11746833/facial-recognition-spy-cam-plan-dublin-rioters/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/11746833/facial-recognition-spy-cam-plan-dublin-rioters/amp/"
     type: article
     provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 54
     images:
-      - url: "https://wordpress.wbur.org/wp-content/uploads/2023/11/0225_senate-chamber14-1000x666.jpg"
-        width: 1000
-        height: 666
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/11/riot-op-1.jpg?1701018732&strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Facial recognition technology for Gardaí ‘not the solution’ - Ó Ríordáin"
     excerpt: "Facial recognition technology for Gardaí is “not the solution” to violence and antisocial behaviour in Dublin, Aodháin Ó Riordáin has warned."
@@ -70,20 +88,6 @@ related:
       - url: "https://media.radiocms.net/uploads/2023/06/20062647/2F23AER.jpg"
         width: 1920
         height: 1198
-        isCached: true
-  - title: "Massachusetts lawmakers propose restrictions on facial recognition technology"
-    excerpt: "The bill would require police to get a warrant to use face biometrics to identify a suspect and inform defendants they were identified through the software."
-    publishedDateTime: 2023-11-22T23:01:00Z
-    webUrl: "https://www.biometricupdate.com/202311/massachusetts-lawmakers-propose-restrictions-on-facial-recognition-technology"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg"
-        width: 2048
-        height: 792
         isCached: true
 
 secured: "oi0sUdD0x4kDbOb71MJXbuhfnKsMW5HUQL0YbHTlq+Dc9uZLlAc49TcHkymeQf2x79W+0VQpTULL0pEk8ANyR41TBayisAF3PXnhsyVzv2V+UrwUSo5IqEa6aEYm0Lqg3x4WS+Gc55gwZgGmFfklrp18dDPh3kNdf7/NY1iIkw+owefSdVSpZBdctWAw8I48G8un5gVGe0emTZIXIBunrKx4e78E9eKJHWQRdHDrQN8iu7qo1NNeZ+1/5+gI0R/Hest2PziAPjKUXasvhN50HlM00HCDGJrT42SLugzzcoWQOddUBw5nGe9QlbQ++vBW5+7gO1FKWIxCim/cs3TqGhmkrw02jg4PLOsTZi5Uq26tL3Dt6HucNzBqiWEPBK5zsaOakN4nqnXQ1RLZwHnXef4mNuKEjzOVeIEeIzlXW48DUyqEloeDHR9gzvgY9nZufb0kPzzfgOJ7eBuemFA2GoxmqNIw+DPAflJLaY38SEId/NftR91qsj0c5oAZS7K7MoJNFS0uX9YZfFb3m6FTbg==;5f9w9QJmycAkrTjYrajIRg=="

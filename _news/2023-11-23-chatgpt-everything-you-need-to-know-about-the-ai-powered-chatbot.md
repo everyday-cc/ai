@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 279
+published: true
 
 provider:
   name: TechCrunch
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ..."
-    publishedDateTime: 2023-11-21T17:50:00Z
-    webUrl: "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Google’s Bard AI chatbot can now answer questions about YouTube videos"
     excerpt: "Google has announced that its Bard AI chatbot can now answer questions about YouTube videos. Although Bard already had the ability to analyze YouTube videos with the launch of the YouTube Extension back in September, the chatbot can now give you specific answers about queries related to the content of a video."
     publishedDateTime: 2023-11-22T19:22:00Z

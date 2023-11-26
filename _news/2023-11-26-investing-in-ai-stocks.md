@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-25T16:52:00Z
 originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"

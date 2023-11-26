@@ -57,6 +57,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Tech firm uses a brace of generative AI tools to slash content production times"
+    excerpt: "The company, which makes a secure platform for file sharing, file transfers and email, uses a suite of generative AI platforms for everything from email marketing to sales training. Executives estimate they’ve realized 10-fold efficiency improvements while doubling inbound search traffic and generating a record volume of sales leads."
+    publishedDateTime: 2023-11-26T01:22:00Z
+    webUrl: "https://siliconangle.com/2023/11/24/tech-firm-uses-brace-generative-ai-tools-slash-content-production-times/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ezgif.com-webp-to-jpg-1.jpg"
+        width: 1024
+        height: 764
+        isCached: true
   - title: "Fintech Trends Survey: 2024 to Center on Digital Transformation within Finance Departments, AI and Real-Time Payments a Priority"
     excerpt: "AvidXchange, a provider of AP automation software, announced the release of a white paper titled, “2024: Anticipating Tomorrow’s Trends.”"
     publishedDateTime: 2023-11-23T15:12:00Z

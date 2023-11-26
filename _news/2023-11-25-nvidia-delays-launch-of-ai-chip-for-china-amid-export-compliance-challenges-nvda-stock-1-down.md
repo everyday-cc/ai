@@ -116,20 +116,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
-  - title: "Wipro joins hands with NVIDIA to integrate generative AI in healthcare"
-    excerpt: "Bengaluru: Leading IT firm Wipro on Tuesday announced a partnership with chip-maker NVIDIA aimed at expediting the integration of generative artificial intelligence (AI) in healthcare enterprises."
-    publishedDateTime: 2023-11-21T18:29:00Z
-    webUrl: "https://www.indiablooms.com/finance-details/19466/wipro-joins-hands-with-nvidia-to-integrate-generative-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 56
-    images:
-      - url: "https://www.indiablooms.com/finance_pic/2023/e61cc3574501054308e28883f55e17c8.jpg"
-        width: 800
-        height: 541
-        isCached: true
   - title: "Wipro Leverages NVIDIA AI to Enhance Healthcare Solutions"
     excerpt: "Wipro and NVIDIA join forces to speed up generative AI adoption for healthcare via AI-driven strategies, products and services."
     publishedDateTime: 2023-11-22T02:57:00Z

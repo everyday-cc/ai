@@ -23,62 +23,43 @@ topics:
   - AWS AI
 
 related:
-  - title: "Amazon Textract’s new Layout feature introduces efficiencies in general purpose and generative AI document processing tasks"
-    excerpt: "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from any document or image. AnalyzeDocument Layout is a new feature that allows customers to automatically extract layout elements such as paragraphs, titles, subtitles, headers, footers, and more"
-    publishedDateTime: 2023-11-21T17:24:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks/"
+  - title: "Automating product description generation with Amazon Bedrock"
+    excerpt: "In today’s ever-evolving world of ecommerce, the influence of a compelling product description cannot be overstated. It can be the decisive factor that turns a potential visitor into a paying customer or sends them clicking off to a competitor’s site. The manual creation of these descriptions across"
+    publishedDateTime: 2023-11-24T17:36:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 95
+    quality: 74
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/17/layout-textractor-975x630.jpg"
-        width: 975
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/24/Picture1-5-2-1101x630.jpg"
+        width: 1101
         height: 630
         isCached: true
-  - title: "Best practices for developing a generative AI copilot for business"
-    excerpt: "Chris Ackerson, formerly of IBM Watson, is currently the Vice President of Product at AlphaSense, a market intelligence and search platform, where he spearheads the development of AI and ML capabilities to deliver better data and insights to thousands of ..."
-    publishedDateTime: 2023-11-21T18:39:00Z
-    webUrl: "https://techcrunch.com/2023/11/21/best-practices-for-developing-a-generative-ai-copilot-for-business/"
+  - title: "How SnapLogic built a text-to-pipeline application with Amazon Bedrock to translate business intent into action"
+    excerpt: "This post was co-written with Greg Benson, Chief Scientist; Aaron Kesler, Sr. Product Manager; and Rich Dill, Enterprise Solutions Architect from SnapLogic. Many customers are building generative AI apps on Amazon Bedrock and Amazon CodeWhisperer to create code artifacts based on natural language. This"
+    publishedDateTime: 2023-11-24T17:28:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-snaplogic-built-a-text-to-pipeline-application-with-amazon-bedrock-to-translate-business-intent-into-action/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1465545513.jpg?resize=1200,686"
-        width: 1200
-        height: 686
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/ML-15431-arch-high-5-1235x630.jpg"
+        width: 1235
+        height: 630
         isCached: true
-  - title: "Adobe Express rolls out new generative AI features – The Verge"
-    excerpt: "By Jess Weatherbed, a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and"
-    publishedDateTime: 2023-11-26T03:37:00Z
-    webUrl: "https://www.inferse.com/805757/adobe-express-rolls-out-new-generative-ai-features-the-verge/"
+  - title: "How to get started with Amazon Bedrock"
+    excerpt: "A step-by-step guide on how to start using Amazon Bedrock models, either through the console or via APIs. Also, how to fine-tune and build custom models."
+    publishedDateTime: 2023-11-22T07:19:00Z
+    webUrl: "https://www.pluralsight.com/resources/blog/data/get-started-amazon-bedrock"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13819.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tech firm uses a brace of generative AI tools to slash content production times"
-    excerpt: "The company, which makes a secure platform for file sharing, file transfers and email, uses a suite of generative AI platforms for everything from email marketing to sales training. Executives estimate they’ve realized 10-fold efficiency improvements while doubling inbound search traffic and generating a record volume of sales leads."
-    publishedDateTime: 2023-11-26T01:22:00Z
-    webUrl: "https://siliconangle.com/2023/11/24/tech-firm-uses-brace-generative-ai-tools-slash-content-production-times/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ezgif.com-webp-to-jpg-1.jpg"
-        width: 1024
-        height: 764
-        isCached: true
+      name: Pluralsight
+      domain: pluralsight.com
+    quality: 4
 
 secured: "QAL3zqMERBNU1YURgxihy9sIYIZzzow0iqe3W392iNxRC3VCoWNXn8/2KYdo5kpj7a64S1V7nFzzpx46OE0S+f8Wa1LIWt/piMXP7ZkTM3Oz/JBZevWUqWxRw62q4rCAe2n8Vi1MUAoTk98lU7OVut2Xxn8vmpmnG/oRzM105BrIW/E5gfbNeWK6ZMoUAzktIB4Q+/dlGkCtXsItHqgBjBhBI77fBSznsbmE36ZeXTxuLBFi5H9SpTh4QfzF/wWpExb3Yd5XAzp7/7IBkuWhmdZUMYdB6LQQ5cnsHFh3g4oT3wG/ua5OYqed82M6caPZW4nEsAI4xrFqnSZ7lJRYH4jlg20rY9U/2de9l7T1vlY=;M2wfeIynEmtiFqP5tLT57Q=="
 ---
