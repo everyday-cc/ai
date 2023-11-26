@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/top-media-people-artificial-intellig
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11?amp"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "People disagree about the risks and benefits of artificial intelligence"
-    excerpt: "NPR's Michel Martin talks to MIT's David Kiron about what it means to develop artificial intelligence tech responsibly — and are boomers or doomers more likely to be right in their AI predictions?"
-    publishedDateTime: 2023-11-21T12:21:00Z
-    webUrl: "https://www.boisestatepublicradio.org/2023-11-21/people-disagree-about-the-risks-and-benefits-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
-    quality: 17
 
 secured: "0TSG+3bDezauENAbPlGRrMY0FyUpWDuoFm6aa/hBAfIGn7yZTANMm5VKFzUPJKpw/mT1JoQhOxyC6aVHr6z4Dy8AagJSZQiard3Gs440ib/NpZNEWdEDAH8t1+uhyAdketzho+ybWONWctuVY6/CJo88LIcMTNST8irZYJj+sWhHnZzyZ064R6L1KeEO0JedMc41zM/TSmBK8cmE92JNZzeQUdhpks/Nj6yG0UkcWAFh+yBuFN2LHNtDKOZ3Y5APx9TvqELqSp7EVCyUB1FuG+F85VvXA/XoXi+gF4wEFXXJBP2/OR4OJkRxyic0GjhxrKzb/JmkJtGeOV6k//G1vo9LalhLqaAvuVRdzot021s=;aJ3BIco+B3dAXC+qlL6O+A=="
 ---

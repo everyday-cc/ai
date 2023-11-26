@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "People disagree about the risks and benefits of artificial intelligence"
-    excerpt: "NPR's Michel Martin talks to MIT's David Kiron about what it means to develop artificial intelligence tech responsibly — and are boomers or doomers more likely to be right in their AI predictions?"
-    publishedDateTime: 2023-11-21T12:21:00Z
-    webUrl: "https://www.boisestatepublicradio.org/2023-11-21/people-disagree-about-the-risks-and-benefits-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
-    quality: 17
 
 secured: "hCrE8T7lqF2ArxhBfmeT86ZIV+WeZM+xzuRg9gpVsIJD8Bz167Q8+EusC8hMfXHebh0cpvMoDFyP4FEjvaJpJRAznjIKo9OmgW3yq7rEHqqO3bz6lE9oszMarJI3QDLVS0py82t14tFIOT5eSiRsR2UJyMeilYkIgyxG+pq6QDJvLR72rZ/FYRFBa8blBE279gqjSYkybngvFhEkLX6YmjtsoXnaXI/5gU7vwXIP7BwHzP8Sunt6k4l0RqDXkHD0BCs+pop1lfqH0oXPC5NYPFmZU20GAeZ7vYsmqd2KJU5HVoyyNfAznF5eKPG19AldA8DFnKZ157OCRqI8HYL/wAw20vbG9LuP+voq99GTIds=;3y53VtnA8OtS+oB6sf2Eww=="
 ---

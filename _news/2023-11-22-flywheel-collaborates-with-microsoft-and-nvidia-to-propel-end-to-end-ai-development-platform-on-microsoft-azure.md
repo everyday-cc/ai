@@ -123,15 +123,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Investing in Generative AI? You Won’t Do Much Better Than Microsoft Stock."
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How did Microsoft (NASDAQ:MSFT) stock earn its membership among the"
-    publishedDateTime: 2023-11-21T11:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/investing-in-generative-ai-you-wont-do-much-better-than-microsoft-stock-1032838858"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Fired OpenAI CEO Sam Altman joins Microsoft as AI research lead"
     excerpt: "Sam Altman has been hired by Microsoft to lead its AI research after being fired by OpenAI. The former CEO and board members of the ChatGPT firm was let go last week following a review by the board of directors."
     publishedDateTime: 2023-11-21T17:45:00Z
@@ -266,15 +257,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "8 AI Projects Microsoft Open-Sourced in 2023"
-    excerpt: "Microsoft did its bit by releasing several AI and machine learning models, projects and libraries all round the year."
-    publishedDateTime: 2023-11-21T13:00:00Z
-    webUrl: "https://analyticsindiamag.com/8-ai-projects-microsoft-open-sourced-in-2023/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
   - title: "OpenAI, Microsoft hit with new author copyright lawsuit over AI training"
     excerpt: "OpenAI and Microsoft were sued on Tuesday over claims that they misused the work of nonfiction authors to train the artificial intelligence models that underlie services like OpenAI's chatbot ChatGPT."
     publishedDateTime: 2023-11-21T22:53:00Z
@@ -313,6 +295,6 @@ related:
         height: 280
         isCached: true
 
-secured: "oOEzmhWUKGv38Y0fbW4+ghsGiAHkfex/zzOvcJGKZG7zqu+AxckO3bwSeC9j9yRFrMrklOJVmnlrvIuWajI298/7uvrVVewJ0B0inrj/nzvGSiGnYnsYIOmiMswtuI1JOXR6CvNKtjROP6ADg7QcdOOBO6wXiCdNBP+DKwQTj7aDl7LxLM/TubCneGVaJNU7EY8c5ZNRFjCtlZoVSLCu2SKno62hFhk4h3EXfQDCplufyjxRJoE3vAZ90B6hGhcjUKKf/Gb67zI2N+Kte3hFj+DYKBfJ7o0wqOOTyDgTvWx3Hf+816Ft2xX+nRvHhnjcdX35sMDtw/2HqNYUIuZo20XPo+NP23G/zCoEbM8Ws2Q=;mKoisy2oBp5ExztY6pBqGg=="
+secured: "Z/vnnarWZq0G+BIhf++QCODuNveRFVk3UU6gBz4LWvJRgd+yYC9cuWhUy0BeXHzFMfxBVVpblvkxmxplESEbTfcjdOEq791TfGe7geb/vjftCEg64Ln1jjMykR8uYjZoxDuExupA5bVX1SpupiLubZpQKnPYhIRwUFl0LorScP8J7t1aJVImjcA5UT0x4AEPoMCNbyTFWRDMWLuMP/+XbAYMU3d3V3SOopRpUt8Qx80d+jtKOvJY0iE1xDW4vi4bRqxNqJFM4B7DzB44wdtqDoaP/pX3WzotOY4edQebfP2oVhSRM206PV/Ijk8ubWZDuGJJHchr9g74LiPqSizqXzZ/FWHEdCG0H6vCZ3Fh8cSwp3wCG1UjQPqWGWjCMsxyv+3cUvtAkmvO2F07wkaJqiBmBeNUIjw90VvUiS4620OUN0RV51Np+vtx494AuJpWlSbisf/6bqsc1CEF8DYqxGkaMSlv1PAxevMF7D6W5mRwv//t5HYfHtcJ2XG9vyKrwBA2GDxBXoS6DrMb+dqj6g==;cvHdZsnd3NuroPURqjw3EA=="
 ---
 

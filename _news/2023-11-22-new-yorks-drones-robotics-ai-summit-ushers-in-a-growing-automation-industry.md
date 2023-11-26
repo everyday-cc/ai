@@ -7,8 +7,8 @@ originalUrl: "https://www.alleywatch.com/2023/11/new-yorks-drones-robotics-ai-su
 webUrl: "https://www.alleywatch.com/2023/11/new-yorks-drones-robotics-ai-summit-ushers-in-a-growing-automation-industry/"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: alleywatch.com
@@ -25,15 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "New York Drones & Robotics AI Summit Heralds Growing Automation Industry"
-    excerpt: "Speakers at the Drones & Robotics AI Summit in New York discussed state and federal support of tech startups, as well as opportunities"
-    publishedDateTime: 2023-11-21T13:00:00Z
-    webUrl: "https://www.therobotreport.com/drones-robotics-ai-summit-new-york-heralds-growing-automation-industry/"
+  - title: "Artificial intelligence: who are the leaders in fault monitoring AI for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is leveraging artificial intelligence (AI) for fault monitoring due to the increasing complexity of vehicles,"
+    publishedDateTime: 2023-11-24T12:41:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-fault-monitoring-ai-automotive/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 78
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_fault-monitoring-AI.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in moving obstacle prediction AI for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is advancing moving obstacle prediction AI due to growing demand for autonomous vehicles, advancements in LiDAR and camera sensor technology,"
+    publishedDateTime: 2023-11-24T12:54:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-moving-obstacle-prediction-ai-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 14
 
 secured: "Qs6uWfxqLBV3YysEWkUu39TONetP6l784wDgZdcoaSk2XpnlAKFHVTbO/n5ZFaOZm+zdkaJO8vE6UIbJ6ee6eY14RPxCbbGbu4lXqwxdPqnUve7Pkia5gVV9EquVF2KzfdUfzS7pVEqg7wAAQ9OhsfbzhoGu+X9BDc2U11dy/AWNRg6x/gpufyr2ZeFhNCnN58ICC8VlMBsgLSu0iPa3xtuxyUcJQ2TtqlRmfcAwWULwKG00iN2162LY33g2gKL2O85M1rEJZCd2clOrmHieh+zC1z65cKGzYYUyMaj6QgNWRNjiWNxYxGy2ZO4339SkMjDvFGH5Ro0+dnR8QBUxkiNMoKf22W69a/zWXH2+XhY=;87udX+S8RZtI/tNKfok8zg=="
 ---

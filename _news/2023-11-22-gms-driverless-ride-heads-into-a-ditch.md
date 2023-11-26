@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Driverless cars immune from traffic tickets in California under current laws"
+    excerpt: "An NBC Bay Area investigation reveals autonomous vehicles in California cannot be cited for moving traffic violations since transportation laws require tickets to be issued to actual “drivers.”"
+    publishedDateTime: 2023-11-23T23:03:00Z
+    webUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/"
+    ampWebUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
+    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
+    type: article
+    provider:
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
+    quality: 56
+    images:
+      - url: "https://media.nbclosangeles.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "World's biggest driverless car race: 'a new type of motor sport with different heroes'"
     excerpt: "The Abu Dhabi-backed A2RL Autonomous Racing League plans to pit ten driverless cars in wheel-to-wheel battle from next year; the most ambitious AI motor sport plan yet. Its backer reveals more about t"
     publishedDateTime: 2023-11-21T18:02:00Z
@@ -52,15 +68,6 @@ related:
       name: Australian Broadcasting Corporation
       domain: abc.net.au
     quality: 19
-  - title: "Driverless cars immune from traffic tickets in California under current laws"
-    excerpt: "An NBC Bay Area investigation reveals autonomous vehicles in California cannot be cited for moving traffic violations since transportation laws require tickets to be issued to actual “drivers.”"
-    publishedDateTime: 2023-11-23T23:03:00Z
-    webUrl: "https://www.nbcbayarea.com/news/local/driverless-cars-traffic-tickets-california-transportation-laws/3379154/"
-    type: article
-    provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 16
 
 secured: "aVjeBcpE6FlqoPVuNRBSiPxgDR4p6vJG5O666SVVxS/shyOUYn/TFwZjH0VDbV7ypjUDgRVWV3be8kbCVLdy+BUnqyY/p2cBCSAHpbNQhZPK+16mM/ahNZ0i9kmWhkraR2I4SdArksQ1QbJ1Iqlm0iepihWlqe2b30llmRxWlgJ1PYeIJhJ4httBfZVV+lC9hfYwICU0rthkYcZaOjgzQVB5md54OrQDXMs1T3luOaV0FFnaiIv3ztjLk+GO7+CQq89cPHCrzyTdsMmYbkY255sasgTaQScumeKxSs7Q1GCwGeeHGmjFDbIyUs3DI9zJwMxySJ/adeGgKiecGpM3eRXip0VxREsVtfLiIjIpkhtuEOsgRslmMD0PzYre15CWJPk8VGKUfeUZ6snVZgaAE9aL3GRkPHXgIXyPhTnehXW2ko4VzI5xIWVNb77FepHi3eMqkhU4XfaTD+2DBvAA0wjse20SFXbOty+w5lJ1rBiSqlythGoBzcjy9mpe5fCoBli3tosqnbcIgJmd6j+gww==;Om6bhSZ8QvytGjjFWAGH3Q=="
 ---

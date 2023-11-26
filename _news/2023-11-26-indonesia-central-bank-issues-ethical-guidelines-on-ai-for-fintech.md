@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216918-indonesia-central-ba
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216918-indonesia-central-bank-issues-ethical-guidelines-on-ai-for-fintech/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/bd64195/2147483647/strip/true/crop/4032x2117+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F0a%2Fc5%2Fae14d712453398b237a3ea9be6ae%2Fimg-5968.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Banking: Transforming Customer Experiences with FinTech"
-    excerpt: "Introduction Artificial Intelligence (AI) has become a revolutionary force in the banking sector, reshaping the way financial institutions operate and interact with their customers. In tandem with Financial Technology (FinTech),"
-    publishedDateTime: 2023-11-21T12:21:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-in-banking-transforming-customer-experiences-with-fintech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 48
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Artificial-Intelligence-in-Banking-Transforming-Customer-Experiences-with-FinTech.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Where to find fintech investment"
     excerpt: "Despite fintech investment in 2023 falling, UK fintechs are still attracting more VC investment than all other EMEA fintechs combined"

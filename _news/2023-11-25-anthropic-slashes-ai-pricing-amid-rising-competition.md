@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/anthropic-slashes-ai-pricing-amid-risin
 webUrl: "https://venturebeat.com/ai/anthropic-slashes-ai-pricing-amid-rising-competition/"
 type: article
 quality: 67
-heat: 88
+heat: 89
 published: true
 
 provider:

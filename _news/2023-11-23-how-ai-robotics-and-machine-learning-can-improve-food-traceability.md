@@ -42,22 +42,6 @@ related:
         width: 1103
         height: 735
         isCached: true
-  - title: "Using AI at the State Capitol to detect guns"
-    excerpt: "Here are five stories you need to know to start your day. It’s almost time for the high school football state finals and at the end of this playoff run, there are just two local teams remaining who will head to Ford Field this weekend: Ubly and Corunna."
-    publishedDateTime: 2023-11-21T12:43:00Z
-    webUrl: "https://www.wnem.com/video/2023/11/21/using-ai-state-capitol-detect-guns/"
-    ampWebUrl: "https://www.wnem.com/video/2023/11/21/using-ai-state-capitol-detect-guns/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wnem-com.cdn.ampproject.org/c/s/www.wnem.com/video/2023/11/21/using-ai-state-capitol-detect-guns/?outputType=amp"
-    type: article
-    provider:
-      name: WNEM-TV
-      domain: wnem.com
-    quality: 57
-    images:
-      - url: "https://gray-wnem-prod.cdn.arcpublishing.com/resizer/bXQTYY3GnDsK5pgXWzXjGsxSNmE=/800x450/smart/filters:quality(70)/do0bihdskp9dy.cloudfront.net/11-21-2023/t_d8fa081dfddb41dea8498d3e7d72a97b_name_file_1280x720_2000_v3_1_.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Using AI to Support Multilingual Students"
     excerpt: "Multilingual learners are frequently expected to learn content through reading articles. However, these articles are often significantly above their reading levels. Fortunately, AI platforms such as Poe can come to their aid."
     publishedDateTime: 2023-11-21T20:00:00Z

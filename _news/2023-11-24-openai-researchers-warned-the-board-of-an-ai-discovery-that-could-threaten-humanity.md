@@ -419,15 +419,6 @@ related:
         width: 800
         height: 537
         isCached: true
-  - title: "OpenAI's meltdown prompts further questions around the future of AI safety surveillance"
-    excerpt: "Abhishek Gupta, Founder and Principal Researcher at the Montreal AI Ethics Institute, said that enterprises need to consider AI safety metrics that go beyond traditional software performance indicators. He explains: Current metrics should encompass a ..."
-    publishedDateTime: 2023-11-21T13:00:00Z
-    webUrl: "https://diginomica.com/openais-meltdown-prompts-further-questions-around-future-ai-safety-surveillance"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 11
   - title: "Live news: News updates from November 22: Sam Altman to return as Open AI CEO, Far-right leader set to come first in Dutch elections"
     excerpt: "Keep abreast of significant corporate, financial and political developments around the world. Stay informed and spot emerging risks and opportunities with independent global reporting, expert commentary and analysis you can trust."
     publishedDateTime: 2023-11-22T23:59:00Z

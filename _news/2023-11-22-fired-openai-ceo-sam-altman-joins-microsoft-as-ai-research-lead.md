@@ -130,15 +130,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Investing in Generative AI? You Won’t Do Much Better Than Microsoft Stock."
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How did Microsoft (NASDAQ:MSFT) stock earn its membership among the"
-    publishedDateTime: 2023-11-21T11:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/investing-in-generative-ai-you-wont-do-much-better-than-microsoft-stock-1032838858"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Microsoft leverages TSMC's one-stop service for in-house developed chip"
     excerpt: "TSMC not only offers advanced process manufacturing but also its advanced packaging for the recently released Microsoft Azure Maia 100 AI accelerator, according to industry sources."
     publishedDateTime: 2023-11-22T01:24:00Z
@@ -259,15 +250,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "8 AI Projects Microsoft Open-Sourced in 2023"
-    excerpt: "Microsoft did its bit by releasing several AI and machine learning models, projects and libraries all round the year."
-    publishedDateTime: 2023-11-21T13:00:00Z
-    webUrl: "https://analyticsindiamag.com/8-ai-projects-microsoft-open-sourced-in-2023/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
   - title: "OpenAI, Microsoft hit with new author copyright lawsuit over AI training"
     excerpt: "OpenAI and Microsoft were sued on Tuesday over claims that they misused the work of nonfiction authors to train the artificial intelligence models that underlie services like OpenAI's chatbot ChatGPT."
     publishedDateTime: 2023-11-21T22:53:00Z

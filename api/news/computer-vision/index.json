@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-26-gardai-set-to-use-facial-recognition-technology-to-identify-those-behind-dublin-riots.md",
+      "title": "Gardai set to use Facial Recognition Technology to identify those behind Dublin riots",
+      "excerpt": "The Justice Minister is to fast forward and expand the scope of new facial recognition technology legislation to include riot and violent disorder",
+      "sourceUrl": null,
+      "webUrl": "https://www.dublinlive.ie/news/dublin-news/gardai-set-use-facial-recognition-28176887",
+      "originalUrl": "https://www.dublinlive.ie/news/dublin-news/gardai-set-use-facial-recognition-28176887",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.dublinlive.ie/incoming/article28176938.ece/ALTERNATES/s1200/0_gardai.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dublinlive.ie/news/dublin-news/gardai-set-use-facial-recognition-28176887.amp",
+      "cdnAmpWebUrl": "https://www-dublinlive-ie.cdn.ampproject.org/c/s/www.dublinlive.ie/news/dublin-news/gardai-set-use-facial-recognition-28176887.amp",
+      "publishedDateTime": "2023-11-26T11:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DublinLive",
+        "domain": "dublinlive.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-25-clearview-ai-tops-40-billion-reference-images-in-facial-recognition-database.md",
       "title": "Clearview AI tops 40 billion reference images in facial recognition database",
       "excerpt": "Clearview AI’s reference database for facial recognition searches has surpassed 40 billion images, double its volume of just 20 months ago.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.biometricupdate.com/202311/clearview-ai-tops-40-billion-reference-images-in-facial-recognition-database",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -31,49 +74,6 @@
       "provider": {
         "name": "Biometric Companies",
         "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say.md",
-      "title": "Guardrails needed for police use of facial recognition software in Massachusetts, advocates say",
-      "excerpt": "Police would need a warrant to use facial recognition software while investigating serious crimes and state police would be tasked with centralizing all law enforcement searches under legislation supporters argue reduces bias and puts guardrails on the use ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/",
-      "originalUrl": "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2019/09/AP_19127788378584.jpg?w=1024&h=671",
-          "width": 1024,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/amp/",
-      "publishedDateTime": "2023-11-23T11:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -427,15 +427,6 @@ related:
       name: IBL News
       domain: iblnews.org
     quality: 13
-  - title: "OpenAI's meltdown prompts further questions around the future of AI safety surveillance"
-    excerpt: "Abhishek Gupta, Founder and Principal Researcher at the Montreal AI Ethics Institute, said that enterprises need to consider AI safety metrics that go beyond traditional software performance indicators. He explains: Current metrics should encompass a ..."
-    publishedDateTime: 2023-11-21T13:00:00Z
-    webUrl: "https://diginomica.com/openais-meltdown-prompts-further-questions-around-future-ai-safety-surveillance"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 11
 
 secured: "jxuyXSZctTxSgKb2DjXV/ljVZw3po/XJk6YqPwEHR5+GGZf/eozFbQWCi6XlTxWmUqw4m8kxrLyYdSbo3YplA1JGUqkaXT1I5+kH9TKad6DP6BDkWwaWypOPParOvKt15W7VzZWto4DLXe34WOCZGt/n8qSYwPBURssVgu7HnvisXl66BjypRVss2SCgMPFCgqv+zbotZu4jQpsss5V2dLYihYmgCP1+bAr1gUzJ92kTWrk5sWM+8kZ/2X0FyR3qqjY9tOEqTGphARwozgnDX5tSOLegV+oOpdXx87ISE10vMwffukoaCoLIc7V3hQfUAJiwcjNuOa7eqBOHhNmt9qqInIlF+2t85MBViD34ISqdXlFAkhjNFdnzWu5v+LiJsanMN8EFLBA84nJYsdJoS/2fnofLrduagEkY731Ch8gjXBqkTbmxnmP2bU94UrMQyf7l4yU/qam5YMfhk3/Gtxrvj1ix9kjlAbzWpzXfV8SMlWvoRJmEeI3jcUY9c6YlpwsL/WdEkGyzY8eZm9UTLg==;WwXRGrWelZzO3nyhPq7dEA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-k
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

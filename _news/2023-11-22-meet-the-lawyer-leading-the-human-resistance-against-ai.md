@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/matthew-butterick-ai-copyright-lawsuit
 webUrl: "https://www.wired.com/story/matthew-butterick-ai-copyright-lawsuits-openai-meta/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Wired
@@ -27,24 +27,6 @@ images:
     width: 1280
     height: 670
     isCached: true
-
-related:
-  - title: "Major Milestone Met in AI-Powered Fight Against Lung Cancer"
-    excerpt: "Global initiative gains significant ground in digitally identifying cancer risk before symptoms even start The quest to eliminate lung cancer ... of a 5-million lung health Artificial Intelligence (AI) commitment. This new proactive initiative casts ..."
-    publishedDateTime: 2023-11-21T11:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35900115/major-milestone-met-in-ai-powered-fight-against-lung-cancer"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35900115"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35900115"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "Rh8QHE8lJ3x9nmpM/XzACyNsv5s0Zxx/kH2hMX3YzS60TVASTqC/sI+kVy/SVND96IMlTrF1Oa1iB3JIMbKgiJgwWhaMuWDJEqQ5Jea4c4gTLEpgypiNG0p9aQvTAQX3JmHISN98szr8GieHxy+0C0uimbcyR541/sWcHqaEHkVf5jVl7V4TZU82Cuj8nmXOd/lJd9+Ev3inW98UE7Lx+8W8FGtrQAJQh9cJmI+QdYwvditKH0w/Pt6mwAlB3J8ip2RYuxOfVagRv+AZl9Aayb47hlBWvOGq47Fdlw4ev938oY/Zup0pqSRzR6wHPiCF8NULDYqaBJSW2sVz1FiTTpcqTng+b6R9dM5zU2do+QlBQ9KoZvCp04AIImTUptcEh5pGeF5YL2im5Jt2FLQvGpGfyzAAubzOcAXzr7C+WkiRKNDaIThnbVF8bXLhv65gm+oXtvOYwPW9fapzQ6DOavUujTploVuWq/o7DBSjPg9+LUORqQ5/wWJWxjGqq2gY+x3Qu4XtT871hFWR1lxnPw==;mVmp4uhOKMohNSG94WoO3Q=="
 ---

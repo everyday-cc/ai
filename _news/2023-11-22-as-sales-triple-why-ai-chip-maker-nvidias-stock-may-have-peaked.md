@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple
 webUrl: "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/"
 type: article
 quality: 81
-heat: 231
+heat: 221
 published: true
 
 provider:
@@ -199,15 +199,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "NVDA Stock Forecast: Do These Recent Updates Make Nvidia a Buy?"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips While Nvidia (NASDAQ:NVDA) may not fit the traditional mold of a retirement"
-    publishedDateTime: 2023-11-21T12:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvda-stock-forecast-do-these-recent-updates-make-nvidia-a-buy-1032838893"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Nvidia fails to satisfy lofty investor expectations for AI boom"
     excerpt: "Nvidia Corp investors gave a cool reaction to its latest quarterly report, which blew past average analysts’ estimates but failed to satisfy the loftier expectations of shareholders who have bet heavily on an artificial intelligence boom."
     publishedDateTime: 2023-11-22T04:51:00Z

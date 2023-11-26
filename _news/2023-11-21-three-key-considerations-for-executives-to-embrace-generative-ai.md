@@ -46,22 +46,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The Next Evolution Of Generative AI Will Provide Specialized Intelligence"
-    excerpt: "Specialized technologies will deliver deeper, more reliable and more valuable insights compared to the general-purpose tools available today."
-    publishedDateTime: 2023-11-21T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/the-next-evolution-of-generative-ai-will-provide-specialized-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/21/the-next-evolution-of-generative-ai-will-provide-specialized-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/21/the-next-evolution-of-generative-ai-will-provide-specialized-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61549381e6d4424cc52c8592/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 811
-        isCached: true
   - title: "Three-quarters of finance executives expect generative AI to replace them"
     excerpt: "NatWest is tapping IBM’s data platform, as well as the IT giant’s Watson AI technology, to create Cora+ as part of its customer support. According recent research from IBM’s Institute for Business Value, over 40% of banking and financial markets ..."
     publishedDateTime: 2023-11-23T10:03:00Z

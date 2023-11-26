@@ -56,20 +56,6 @@ related:
         width: 1032
         height: 580
         isCached: true
-  - title: "Neo4j and AWS team up to enhance generative AI applications with graph database technology"
-    excerpt: "Graph database company Neo4j Inc. said today it’s embarking on a multiyear strategic collaboration with the cloud computing giant Amazon Web Services Inc. to enable enterprises to enhance the capabilities of their generative artificial intelligence models."
-    publishedDateTime: 2023-11-21T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/11/21/neo4j-aws-team-enhance-generative-ai-applications-graph-database-technology/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/image001.png"
-        width: 960
-        height: 540
-        isCached: true
   - title: "The threats of generative AI"
     excerpt: "In case you might have missed it, digital space cowboy Elon Musk made a noteworthy declaration earlier this month in a visit to the United Kingdom. During a meeting with UK Prime Minister Rishi Sunak,"
     publishedDateTime: 2023-11-21T16:11:00Z

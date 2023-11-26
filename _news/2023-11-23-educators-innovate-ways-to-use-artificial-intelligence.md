@@ -7,7 +7,7 @@ originalUrl: "https://trib.com/news/state-regional/education/educators-innovate-
 webUrl: "https://trib.com/news/state-regional/education/educators-innovate-ways-to-use-artificial-intelligence/article_ff563306-887f-11ee-8d25-d316af1efa80.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fortune Debuts Power List of 50 AI Innovators"
-    excerpt: "Fortune editors name the companies leading the way in the AI boomAn essential guide to the companies every executive needs to know in the sector"
-    publishedDateTime: 2023-11-21T12:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fortune-debuts-power-list-of-50-ai-innovators-1032838773"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Educators innovate ways to use Artificial Intelligence"
     excerpt: "When students are programming in Krista Sweckard’s class and their code is coming up with errors, they follow what she calls the rubber duck theory."
     publishedDateTime: 2023-11-22T11:00:00Z
