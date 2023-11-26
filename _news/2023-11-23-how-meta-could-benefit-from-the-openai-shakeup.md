@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/11/22/how-meta-could-benefit-from-the-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/22/how-meta-could-benefit-from-the-openai-shakeup.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "OpenAI meltdown prompts questions about startup’s SF footprint"
-    excerpt: "Could internal turmoil impact the firm’s newly signed sublease for 480K sf of offices at 1455 and 1515 Third Street?"
-    publishedDateTime: 2023-11-21T20:09:00Z
-    webUrl: "https://therealdeal.com/sanfrancisco/2023/11/21/openai-meltdown-prompts-questions-about-firms-sf-footprint/"
-    type: article
-    provider:
-      name: The Real Deal
-      domain: therealdeal.com
-    quality: 17
 
 secured: "NM8WYPve7TBLNN7OKer2jFcWXv4K94oQrFwR+VNmeC9ifJ25mBh3Bn1Ou1ApwnVj/yW7Oni88QMtePBptvWyR8NXhkFAtc0Xz5gIKQs16S7sPZK30LX3tLumywhXxyRatIByU/ovgl7CDH4rkdNCCPioqBu/b1vYntYr1dnoCopAwolwd6kWrqNomAg8OHIFvod5HMz1AwiZeRRplxYiWoV9VY0lRLBco6BTFeYiMTYvFSf92kbrZh0I8aAwQlfwhOfooa+k9EOGwurx6T++kUfV0Ttnn6SLzZdw0GqxYaCi+ijYb5gLloRKSSpPTMn/w+cWaWYezx84s/aVXN+N/Yr3p/UyLuDVq7mDLTWjilWNv+FRxoxNvFQXuEcRvwranz/bC/crPBoeVmw35ymWndLyyhPa2f5smH/cQWATH7uiwsx/yaGTXi8IHj0aynlbWcHL6xdY07JhesRN4Z0U2Xke8baht03L2B1n7nR0oN7HGjgWSm/bql6PpXTcCG2fQepIe+V2N1iDZStqtn4TsA==;p5ZLiDbyiZq1Z2jAu/5CXA=="
 ---

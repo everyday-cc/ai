@@ -60,15 +60,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 34
-  - title: "Considering the societal and ethical implications in the development of AI"
-    excerpt: "The research of Betty Li Hou, who presented a seminar as part of The New York Academy of Sciences’ Artificial Intelligence (AI) & Society Lecture series, explores the educational, philosophical, sociological,"
-    publishedDateTime: 2023-11-21T20:44:00Z
-    webUrl: "https://www.nyas.org/news-articles/academy-news/considering-the-societal-and-ethical-implications-in-the-development-of-ai/"
-    type: article
-    provider:
-      name: New York Academy of Sciences
-      domain: nyas.org
-    quality: 32
   - title: "Colors-Ai Is Transforming Product Development Through Customer Feedback Analysis"
     excerpt: "Colors-AI's cutting-edge platform is revolutionizing how businesses harness customer feedback to inform and prioritize product development. <"
     publishedDateTime: 2023-11-23T00:55:00Z

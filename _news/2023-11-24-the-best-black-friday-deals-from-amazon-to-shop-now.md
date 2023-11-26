@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Your Black Friday observability checklist"
-    excerpt: "A checklist to help you find and implement the best possible observability platform to keep all your applications running bright.\nThe post Your Black Friday observability checklist appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-11-21T22:47:36Z
-    webUrl: "https://www.ibm.com/blog/your-black-friday-observability-checklist/"
+  - title: "Best robot vacuum Black Friday deals: Save on Roomba, Shark, more"
+    excerpt: "With so many robot vacuum deals going on this Black Friday, we've picked out some of our favorite deals for every budget."
+    publishedDateTime: 2023-11-24T18:28:00Z
+    webUrl: "https://www.digitaltrends.com/home/best-robot-vacuum-black-friday-deals-2023/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 49
 
 secured: "JuJfrL8GIuVdz1iXc6mb62jbw3ipdBO0sToVR1WWKo2VRdjayCT6cSE/5FdoT9LXtKv7gJKSaOhr9knvrwW7x7HDaLZQPkhPf79yO5jR6aKSqSmAIyE75Hr0yPf6NUE6PBUlVVfRqsnLLb+pYZXzoTQXJZoK9Gy3OWbk4borAvsfctUPT6KIc/quK3P5WIh3CIUe4J5I0qfFjaQrjniFWBgaz1OxrRSkFJg9mu7rrsuTlzEfzBKl0ZekGAw+oR6gUSMS5UuyHO+Y+NRrOto67/2FcneQKxIJl7WTqHSbKvNuvgS9YpPEXkmGu9SRcbcN3yuoewUMJB0FvQJ6Mb1RQ3BvRhIpZ5JZndRXoUuUOLw=;H7dKWWkmgAgyFzOUlUdx7A=="
 ---

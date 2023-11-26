@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1280
         height: 1588
         isCached: true
-  - title: "Using AI to Support Multilingual Students"
-    excerpt: "Multilingual learners are frequently expected to learn content through reading articles. However, these articles are often significantly above their reading levels. Fortunately, AI platforms such as Poe can come to their aid."
-    publishedDateTime: 2023-11-21T20:00:00Z
-    webUrl: "https://www.edutopia.org/article/using-ai-support-multilingual-students"
-    type: article
-    provider:
-      name: Edutopia
-      domain: edutopia.org
-    quality: 19
 
 secured: "8J0b7EJthSmwPfogDYZFKmY7o/NL2yr8cnC02BEPAJR3ivQy+rYAg9CkCHjEV95la5CuwXa3VKOiWV7PKHo0Z8ryERI4XzNLJiyc+iSbOfFo6XSoodsBi9OosfgYYmUlGtK7z9AWfAR3HO5UmYvITz5yCj14Ldw3vGd/nHPY5EcEECz8XnbV2gELUjHB430LZy/M307Hbkep4n7cmZICiH52ciH6Eo6D6XxcSb6mOTnUjENmtxoYC55M+Qc0mnbirV1wSzWXVuR325snZVUTxmVoUVX/+687whzRcJokDOFnDNxtpgVz/AFW34fca/DPOwwPSMHmLOewq1r0RsTZGxYZp7r+1KmG4wZEdFJLqfs=;E/SMKHAdiszsddsSTpmR0w=="
 ---

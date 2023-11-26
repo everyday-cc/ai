@@ -45,24 +45,6 @@ related:
         width: 971
         height: 492
         isCached: true
-  - title: "Machine Learning with MATLAB and Amazon SageMaker"
-    excerpt: "This post is written in collaboration with Brad Duncan, Rachel Johnson and Richard Alcock from MathWorks. MATLAB  is a popular programming tool for a wide range of applications, such as data processing, parallel computing, automation, simulation, machine learning, and artificial intelligence. It’s heavily"
-    publishedDateTime: 2023-11-21T19:40:27Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-with-matlab-and-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-  - title: "How Amazon Music uses SageMaker with NVIDIA to optimize ML training and inference performance and cost"
-    excerpt: "In the dynamic world of streaming on Amazon Music, every search for a song, podcast, or playlist holds a story, a mood, or a flood of emotions waiting to be unveiled. These searches serve as a gateway to new discoveries, cherished experiences, and lasting memories. The search bar is not just about finding"
-    publishedDateTime: 2023-11-21T19:43:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-music-uses-sagemaker-with-nvidia-to-optimize-ml-training-and-inference-performance-and-cost/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
   - title: "Optimizing costs for Amazon SageMaker Canvas with automatic shutdown of idle apps"
     excerpt: "Amazon SageMaker Canvas is a rich, no-code Machine Learning (ML) and Generative AI workspace that has allowed customers all over the world to more easily adopt ML technologies to solve old and new challenges thanks to its visual, no-code interface. It does so by covering the ML workflow end-to-end: whether"
     publishedDateTime: 2023-11-24T17:30:59Z
@@ -77,15 +59,6 @@ related:
         width: 294
         height: 300
         isCached: true
-  - title: "Text embedding and sentence similarity retrieval at scale with Amazon SageMaker JumpStart"
-    excerpt: "In this post, we demonstrate how to use the SageMaker Python SDK for text embedding and sentence similarity. Sentence similarity involves assessing the likeness between two pieces of text after they are converted into embeddings by the LLM, which is a foundation step for applications like Retrieval Augmented"
-    publishedDateTime: 2023-11-21T19:37:50Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/text-embedding-and-sentence-similarity-retrieval-at-scale-with-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 60
 
 secured: "DqcMFryd8SUgGgXRbZbRlnGISflAvCfCGEtVT5/o99X+gm5aNPH52Csm88/dLf57HsVmH/NeygLuzw32oTtuloyB2s+9NZu9XDgQDlmlvaIMOam3k3W11ZH57QcXafq6hp7mN7iiUb3j0iFLJ6Dq2xJqam8s9zOACPzCXxIyaS8NTn3P19Hrkjt0Hu46dy4alNbIRTIfwTDOnc/Is2sxznsJ38ChSzaFB9SRl25Ofs04msS59xWQRvRk2d9nLiTM0TRHt1jRpoxB/ttQQMBGjkPKfh+wFesRXf5ZNg1In2j/9NlvnnZq3tgxp8+z0W6I5vou/VmNtnDwN9dvd8rfTA1fLwGiIYriCnGuqxlpEwTcaqjwQz5906T2eRNiUZf7KD9cxNRbgt1AMyENQZbhaqxIMnKDGGcHH8qosItebiF4xaa7sfhFQN9s0N8Ng+hj2+VPERPkMvobyffM9bHR8FDF1yRhEzp/Pik2jcXIWBLbsCh9GmV/UoZcaRxvAxXPMrqxw3cuA4UhexZPAPhv8Q==;SOT8sRREKytMRyQfjAN+gw=="
 ---

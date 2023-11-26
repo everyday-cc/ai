@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/great-places-work-ukg-outlines-its-ai-ambitio
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/great-places-work-ukg-outlines-its-ai-ambitions-hr-tech?amp"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1012
     height: 860
     isCached: true
-
-related:
-  - title: "AI-driven technology to revolutionize sports betting via personalized experiences based on patterns, interests"
-    excerpt: "The AI-powered technologies have opened the door for a whole new ... to place wagers on specific outcomes as the game unfolds. SharpLink Gaming is a start-up company that focuses on creating tech solutions for betting, especially internet-based wagering."
-    publishedDateTime: 2023-11-22T12:02:00Z
-    webUrl: "https://www.foxnews.com/sports/ai-driven-technology-revolutionize-sports-betting-personalized-experiences-based-patterns-interests"
-    ampWebUrl: "https://www.foxnews.com/sports/ai-driven-technology-revolutionize-sports-betting-personalized-experiences-based-patterns-interests.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/ai-driven-technology-revolutionize-sports-betting-personalized-experiences-based-patterns-interests.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 67
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/09/1200/675/AP22250513353855.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "OPC8VpuNWu+472Z5y3MShibnmjLYhI5iKmUXk1pJGfpyQ4UtB1MbRK0PAiNP6tvdMM7/ey6LDJytyAI3OdtTkWlciXAnM1Ptszctl/NlhuUHY3UFXE9rfdeUOyhHB/hz8WOXh+5oVPHDutZ2CZrrYAYhCCrgCs1YKPszDOkHFIcmNkwm6FcHyLipLM//ZghJYjaJzO5119Vhx0hAzQU5CUx0V4ZF54bNg0cecJ5nXDmayYAKFrRZEyYckXJOEV+eQbE+QSZVMAoUzrSxSaPgpalZy5g2MQyVhd5/UQNqrGv6QKVEhKepJ2FjQ1EZ12kRCjW5Jx3jJ7+56hiN5VqVcISplp3mMYaMyaw2nswfDTQ=;MMzrZkdIV9eK2Xe33hsMKg=="
 ---

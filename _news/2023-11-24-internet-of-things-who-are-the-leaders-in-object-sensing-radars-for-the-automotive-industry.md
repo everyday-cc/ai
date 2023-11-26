@@ -25,6 +25,31 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence: who are the leaders in fault monitoring AI for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is leveraging artificial intelligence (AI) for fault monitoring due to the increasing complexity of vehicles,"
+    publishedDateTime: 2023-11-24T12:41:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-fault-monitoring-ai-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_fault-monitoring-AI.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "The AI industry must make sure that important communities aren’t left behind | Opinion"
+    excerpt: "The age of AI has begun. But as artificial intelligence (AI) continues to scale across industries and functions, it is imperative that marginalized and underrepresented communities are afforded the opportunity to thrive in the age of AI, and not get left behind."
+    publishedDateTime: 2023-11-24T10:30:00Z
+    webUrl: "https://www.newsobserver.com/opinion/article282121043.html"
+    ampWebUrl: "https://amp.newsobserver.com/opinion/article282121043.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article282121043.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 31
   - title: "Artificial intelligence: who are the leaders in autonomous lane changing for the automotive industry?"
     excerpt: "Autonomous lane changing is the ability of a self-driving vehicle to change lanes on its own without any input from the driver or human operator. The technology incorporates sensors, algorithms, and decision-making models to calculate the safest and quickest possible lane change for the vehicle."
     publishedDateTime: 2023-11-24T02:16:00Z
@@ -53,6 +78,71 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Artificial intelligence: who are the leaders in adaptive driver alerting for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Activity is driven by technological advancements in artificial intelligence (AI) and machine learning, consu"
+    publishedDateTime: 2023-11-24T01:53:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-adaptive-driver-alerting-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 22
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Adaptive-driver-alerting.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in autonomous on-demand logistics for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Activity is driven by factors such as the growth of e-commerce, the shortage of truck drivers, the rising cost of fuel, the demand for convenient delivery options,"
+    publishedDateTime: 2023-11-24T02:21:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-on-demand-logistics-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_autonomous-on-demand-logistics.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in obstacle detection radar-LiDAR for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Innovation in autonomous vehicles (AVs) is driven by safety, cost, performance, and convenience, and growing importance of technologies such as data processing and fusion,"
+    publishedDateTime: 2023-11-24T13:23:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-obstacle-detection-radar-lidar-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_LiDAR-point-cloud-processing.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in collaborative autonomous driving for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Collaborative autonomous driving (CAD) is driving innovation in the automotive industry due to its potential to improve safety, efficiency,"
+    publishedDateTime: 2023-11-24T12:21:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-collaborative-autonomous-driving-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 18
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_collaborative-autonomous-driving.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in moving obstacle prediction AI for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is advancing moving obstacle prediction AI due to growing demand for autonomous vehicles, advancements in LiDAR and camera sensor technology,"
+    publishedDateTime: 2023-11-24T12:54:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-moving-obstacle-prediction-ai-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 14
 
 secured: "EylE+VtFYSJNTk3JV6okprLzQ27SYP+v/EbknbT3BKIVaKkaUrSLkTR2LgJ2uQWLnJJEunyzasqQvIxlNA1TyAsfouFrEvJL2GmlW/qyG5wPyqIEHljkhpiQa4rxHCU7MhR1ReD3RRJ/RAc0KZsg+tLBVxXEHNaOUXRcJr70UllyQnllp2kw3E56ysxUF+cgh38k0TSXUBBPucxDSyv7aaUDThPBxLFbVmspNGjy4ZLQ1PIfa4vjMGewoNd5aVY0id86BqbaKaeC6nv36EWk2xMb2Cj/ivXd/s0uXZ/xkg8aKsndu+YNJ1r0NGdf+PQ9u5AY7245x+v6cw/G7j1dB/Yyf77NtiKFI3cXR7p2OYQxbDlVWrywLAWpqK8xFAVKyEMOVRq+Vc6wVvam9nLmWR36dTf4PO/d4/QEFaqin00+ZpSGRSUABXpu5u30jDgo6xIKnJZQSXgPdAKfsUvuxa6fb+GC/nuT03JhYmT1myFaadVGSLYGuMW+C5ZQFgYmio9MeDgBoiLA0434bUt92A==;Sh0Fm5MrTbaLTC1sCgYbIQ=="
 ---

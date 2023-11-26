@@ -37,20 +37,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "C3 AI brings its C3 Generative AI platform to AWS Marketplace"
-    excerpt: "C3 Generative AI is built to process both structured and unstructured records. C3 Generative AI: AWS Marketplace Edition, the new version of the platform that debuted today, has a narrower focus. It’s designed to help users more easily analyze text stored in files such as Word documents, PowerPoint presentations and webpages."
-    publishedDateTime: 2023-11-21T22:26:00Z
-    webUrl: "https://siliconangle.com/2023/11/21/c3-ai-brings-c3-generative-ai-platform-aws-marketplace/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/unsplash-2.png"
-        width: 1032
-        height: 580
-        isCached: true
   - title: "AWS re:Invent 2023: What to Expect from This Year’s Event"
     excerpt: "Amazon Web Services is all-in on generative AI and the promise it offers as cloud computing continues its transformation journey."
     publishedDateTime: 2023-11-24T14:00:00Z

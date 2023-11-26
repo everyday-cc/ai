@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbclosangeles.com/news/national-international/driverless
 cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM’s driverless ride heads into a ditch"
-    excerpt: "For a while, General Motors' bet on robo-taxi startup Cruise held the promise of creating a serious challenge to electric-car leader Tesla . If there were any question about whether that’s still true,"
-    publishedDateTime: 2023-11-21T20:59:00Z
-    webUrl: "https://www.reuters.com/breakingviews/gms-driverless-ride-heads-into-ditch-2023-11-21/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/lmofop6tmoYtLuPf_X1YuLYYLyk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2RGXNCKQXNNU7JPZZO4UYCKKOM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Isn't it about time we had driverless cars?"
     excerpt: "Driverless cars feel like they've been \"two or three years away\"… for the last 10 years. So why don't we have them yet? What technical and ethical hurdles do we still need to overcome to finally make robots our designated drivers?"
     publishedDateTime: 2023-11-22T14:00:00Z

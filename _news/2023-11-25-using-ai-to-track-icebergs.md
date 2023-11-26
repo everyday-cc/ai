@@ -56,15 +56,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Using AI to Support Multilingual Students"
-    excerpt: "Multilingual learners are frequently expected to learn content through reading articles. However, these articles are often significantly above their reading levels. Fortunately, AI platforms such as Poe can come to their aid."
-    publishedDateTime: 2023-11-21T20:00:00Z
-    webUrl: "https://www.edutopia.org/article/using-ai-support-multilingual-students"
-    type: article
-    provider:
-      name: Edutopia
-      domain: edutopia.org
-    quality: 19
 
 secured: "tnZimHNLT1o9J5cI1JBBoDVXBrBgTzDTqHfYC2+FiOIL8KiGlZGt6orx3k9C4R4YqMRO2DUbRtpkbQfcNdcG/ILAXg57hz7WvZ+kLrjEDN6SWVkTU9khoBVzfLb6gvhMuqvG51GZjM1RixJh0pYNiU+ScMpXAicUq60WX3+jj3yzgQZzQee4TmXMgTDYQezwuM1Kb49JkIRWQL1ifdA+UbjtNnayCxPrql0u5F1G0r2enc9GYsl8HCygbPIKWba3hvdQ/0/EMqrCSYLQXfIRbzf/jF8A4+trZbEgeAxfR5C+Omz0OfxhsJnmJyLdQYxWX11SMALtiijitV+v9IDn0lQmUJYClJFIdi6h+taj3mS/GCYVMB/7yaABx5SjiAQA/LIo6ntIAPGfJw5ybKaCgwG4XHBqO6BPE6i6yP5/xwx7vcDkQY4Zdx9ObUsagJAhYHCQ/f5v6mh2KUAJam0TB/0P+2nCopg9BLM29j39MZcvO54fcd/0mHPslOY/AWbLVrXjQVbvFcn+etddq15bXA==;SxfbKPXSJyQAlETkG5xVVg=="
 ---

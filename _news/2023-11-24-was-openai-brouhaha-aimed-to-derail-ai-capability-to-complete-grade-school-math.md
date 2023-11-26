@@ -184,15 +184,36 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Sam Altman Will Probably Remain AI’s Chief Diplomat"
-    excerpt: "Whether he works at Microsoft, returns to OpenAI, or pursues a third, unknown path, Altman’s power has only been concentrated by the events of the last week."
-    publishedDateTime: 2023-11-21T19:18:00Z
-    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/11/21/sam-altman-likely-to-remain-ais-chief-diplomat/"
+  - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4 – Reuters"
+    excerpt: "The startup OpenAI on Tuesday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage"
+    publishedDateTime: 2023-11-26T20:33:00Z
+    webUrl: "https://www.inferse.com/806227/microsoft-backed-openai-starts-release-of-powerful-ai-known-as-gpt-4-reuters/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: Inferse
+      domain: inferse.com
+    quality: 50
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14044.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "What does Sam Altman's firing — and quick reinstatement — mean for the future of AI?"
+    excerpt: "Altman was removed as CEO Friday in a sudden and mostly unexplained exit that stunned the industry. He was swiftly reinstated days later."
+    publishedDateTime: 2023-11-26T21:34:00Z
+    webUrl: "https://www.kvue.com/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+    ampWebUrl: "https://www.kvue.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 50
+    images:
+      - url: "https://media.kvue.com/assets/CCT/images/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "AI roundup: OpenAI CEO returns, Stable Video Diffusion, Anthropic…"
     excerpt: "Tweet-Reply Of The Week goes to the wag who wrote “the lengths this man will go to not use Microsoft Teams” in response to the announcement that OpenAI co-founder Sam Altman is returning as CEO days after being ousted and joining Microsoft."
     publishedDateTime: 2023-11-22T08:32:00Z

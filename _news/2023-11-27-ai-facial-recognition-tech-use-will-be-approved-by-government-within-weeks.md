@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-3
 cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681.amp"
 type: article
 quality: 71
-heat: 111
+heat: 113
 published: true
 
 provider:
@@ -90,6 +90,6 @@ related:
         height: 1198
         isCached: true
 
-secured: "tKAIRf+1ERYAs4YWWKDkRP2Z1llZGMTzZBLpBl5adWfhJkcQpdeHcPN1HmE9VdQip4Dd4CB4CWd59UT3n7W24KHLhH5PwmTsMOEB14EcrhogoIxcQQjBpDpijrfShxD9xAAFg4adn041TELMTIqwz9rF8U3r2O2bTKaUmjzNmjMGGo6D8qVgPSxEib/Jprph8dlHlbBMkdnONNJmRPv4ToOPsQ94ajpwXRfteIrDv17T3HUscnTYWTw5301mh4r85pN/NHRMbatducHN9nAJtnj9Ygstglq0jSTXBBegNDVBHxt6faqdx+deVG0y0pTz/57aBVC5ZK7MIZ3VZo/yRxhaUF8p4Kx7Idvueis6AG4=;xc2N3FiEMqZvq6ZaLLXn8A=="
+secured: "LXSmYW9ZYiJ1uj8gWtg4CF8QlML519KSuF5t54PCBD75gBVpyRNbKdbYSzNXLxqiYHyOseJOvQwURsTRvmhhz79PWbtfpdrdT9GeVpvqobc0prvZv2kcpck3MwwK3m/dZZ3qzn7kknsdJXiB2g6JFvBnHqnAPPWpR/3+080ylIZ5bDPOzsw1ng4h5m5LDJ9V8njEWvKzWFwds1WJileBOZtx2iGT8CMDVdHXLDZsSVmrR25rI4mzMrm1G/q97CtfQc5HpEBNvZaQ+T2FNz7nGHwRHLNiUxkfiOy4ga8/n7OFeUaEm+e7e6W0Ch7eo9MECIFM+O6fTOlDHele96NvSZyxbuh4FszFhPe/KkC6U/pF1TsnrqZR51EKdWFJfdKPkHmfetHjNrXTMpOgZvhuuaBOxbQhlVjl1LPzDgiv4V0ikVEBhFMECwTRtecmbd0vFBa9gPLPD2vosUnkuhosEsrD4SA2y4ra5fl0KRldLCmTk182dUbCs9d/E7zKvwvZSppyYES5F+Ba4/NyHpyflw==;vCk1rbe8wjbTDiB9uRXIvg=="
 ---
 

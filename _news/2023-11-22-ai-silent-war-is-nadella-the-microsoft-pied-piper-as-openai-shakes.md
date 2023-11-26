@@ -44,15 +44,6 @@ related:
         width: 2633
         height: 1767
         isCached: true
-  - title: "OpenAI meltdown prompts questions about startup’s SF footprint"
-    excerpt: "Could internal turmoil impact the firm’s newly signed sublease for 480K sf of offices at 1455 and 1515 Third Street?"
-    publishedDateTime: 2023-11-21T20:09:00Z
-    webUrl: "https://therealdeal.com/sanfrancisco/2023/11/21/openai-meltdown-prompts-questions-about-firms-sf-footprint/"
-    type: article
-    provider:
-      name: The Real Deal
-      domain: therealdeal.com
-    quality: 17
 
 secured: "RstMMtgUC+8mKbC6ipJVV5q/vshL5i1J15752ZqmEYhKyTGWAdAZbPs+FDCfR8hBVakjBJSwoEVd0QeAWva+ubgtKg/bEIrmxznAY192LMOQYUewi4u/WkRvh0Ozc7EXr1J5xafnIhaQo6FeSsS5wIj7x+rAWmrTyBZgureH2chibyp+Hstm/T8cQwqK55ch8UC8GT7aJIXhVJ9MC9CZPpu8XTKYnTHO5XzqFex9LxrrqkG7s5/NbtmZyzY7P/NG/Ads+Lv4ggTO7raZsKJBLGfBkjWA05php8zAI8k8TV2y3se5LshS8qXPFCwCDxz8nhHunfAuYpo6IgzVN6dnK2OTsS2UpLtYOzXuqEDz+Waha7k3kHXMZLowvKmGOSurDQr1dSB7JpjE17vMOnoGST46Wl7v/QHbSyA/xf6AzIghglvNTLf3sAXEipro/kgyX7qa1P42gTK1T3mBir9XjI5nj+pzx4fa3fgcySiftJRSUPkoL3iNErYe0emM2tbco5qg2jCKLfQGB4pEC6+bAg==;xK5DF99Yi3H2HUT5HU5yMA=="
 ---

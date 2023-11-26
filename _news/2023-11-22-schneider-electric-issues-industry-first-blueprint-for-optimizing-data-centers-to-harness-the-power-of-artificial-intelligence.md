@@ -7,7 +7,7 @@ originalUrl: "https://business-review.eu/tech/schneider-electric-issues-industry
 webUrl: "https://business-review.eu/tech/schneider-electric-issues-industry-first-blueprint-for-optimizing-data-centers-to-harness-the-power-of-artificial-intelligence-254237"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -23,40 +23,6 @@ images:
     width: 720
     height: 378
     isCached: true
-
-related:
-  - title: "Schneider Electric Integrates Microsoft Azure OpenAI for Sustainable Solutions"
-    excerpt: "Schneider Electric tapped into its collaboration with Microsoft to integrate Microsoft Azure OpenAI into its operations, utilizing algorithms to generate text, code and diverse content."
-    publishedDateTime: 2023-11-21T20:17:00Z
-    webUrl: "https://www.iotevolutionworld.com/iot/articles/457794-schneider-electric-integrates-microsoft-azure-openai-sustainable-solutions.htm"
-    type: article
-    provider:
-      name: iotevolutionworld.com
-      domain: iotevolutionworld.com
-    quality: 45
-  - title: "Microsoft, OpenAI sued over alleged unauthorized use of nonfiction authors’ work in AI training"
-    excerpt: "Artificial intelligence startup OpenAI and Microsoft Corp. have been hit with a new lawsuit alleging that the companies violated copyright by using the works of nonfiction authors to train AI models, including OpenAI’s ChatGPT. Julian Sancton ..."
-    publishedDateTime: 2023-11-22T16:10:00Z
-    webUrl: "https://siliconangle.com/2023/11/22/microsoft-openai-sued-alleged-unauthorized-use-nonfiction-authors-work-ai-training/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 42
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/hammer-620011_1280.jpg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "OpenAI, Microsoft hit with new author copyright lawsuit over AI training"
-    excerpt: "OpenAI and Microsoft were sued on Tuesday over claims that they misused the work of nonfiction authors to train the artificial intelligence models that underlie services like OpenAI's chatbot ChatGPT."
-    publishedDateTime: 2023-11-21T22:53:00Z
-    webUrl: "https://www.aol.com/openai-microsoft-hit-author-copyright-205330946.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 33
 
 secured: "RhQP0bANx8ny5aT75GmMY9bcPVHR/RXoPDXYgtGUXieoJEwxX0yjAXXhg7ugc0+LTKdV7FFbZ/2B3pepKbJKtNURtFRApxKZ0uM8yPkO/eh4G8GSBYYdgJT/aoyJUZRTXebzWnW7X1+vXLpgF056/sfywPayg+2VtBfOPVKheXfL6NUrZAva7Bnc7X2gh65KT/8gKX5zJVX5LKaMLf++CNsXUInNqk7nqRWev6kD0waChG+AIRGiZXaH9aS5Ymq/oOmxKZR+AFmmNJw8222DS3naszovQgSoIypnJIZ9+3Hjxq13jLGU0+7UmpqYbPiQ8IHembifODfjkVzB315UB4pS0EGFN+gReEFlwUn353o=;YcqGZbrA+5J/YkOWxnOHsQ=="
 ---

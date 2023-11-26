@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/7-blue-chip-stocks-that-wont-do-yo
 webUrl: "https://www.nasdaq.com/articles/7-blue-chip-stocks-that-wont-do-you-wrong"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "7 Blue-Chip Stocks That Won’t Do You Wrong"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors are barreling toward the end of 2023 – and whoever thought"
+    publishedDateTime: 2023-11-24T11:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-wont-do-you-wrong-1032847711"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "Jb5YJ9bjamhtD2mb+Tp4AxYl9nd9TGKqcIlc5Re3kfY0pszRqQ+f9Xwa96vZRc5PIQiTmq+3v7Qe35jeEHxWvr1/5PZFoHruvcs/Vu8tNcG7lkdMZQ12u9Dib8bpjwquVmKDT79kVkDV3jiktUGAscU78yPjInw73/0JDi+i+rWIttv08Ku98F6OZDhIpI+DyNHTKMGOFFWS3tz24Ei5bgaGJNlF9WOPcVe4WEiEAkFnhNQdYJd8BJZnrlIJWObLqVEfZa/vmTYkz7l1vumHXaXhswE5qY5gcwA3p2gMy6xn32mqfgp7JmjZQRCOPJ+XrMTQHxD0dqBFIswzeNvfZaUxy/u9Rrmiv+tEhrhobsMNMkGwxLJGpKpdvWZMUNHd+mqw3kwvcZHEGySEJLE2ey4BIlV/qcqDbN5dMzOjwlG7URQmKewGH5GzUlw0kn9XEJ3ofCXrUMxVcPE5o8s8yzAHl+GLElnmNRsYcRkehRYs50o0ou1I4hooUwqP2fEf1TzxQt2Zy8qLzMACqoulzQ==;aWo4mJ2qqclalG/6qaKxVQ=="
 ---

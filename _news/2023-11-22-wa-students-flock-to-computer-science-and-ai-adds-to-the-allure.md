@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tech firm uses a brace of generative AI tools to slash content production times"
+    excerpt: "The company, which makes a secure platform for file sharing, file transfers and email, uses a suite of generative AI platforms for everything from email marketing to sales training. Executives estimate they’ve realized 10-fold efficiency improvements while doubling inbound search traffic and generating a record volume of sales leads."
+    publishedDateTime: 2023-11-26T01:22:00Z
+    webUrl: "https://siliconangle.com/2023/11/24/tech-firm-uses-brace-generative-ai-tools-slash-content-production-times/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ezgif.com-webp-to-jpg-1.jpg"
+        width: 1024
+        height: 764
+        isCached: true
 
 secured: "GtGjKfSUJr1OSaOnKsUPpePvj7LgeTTTOwHZ2DAkNRSnec4oVG1Ufn2veVdCSo3gSPifCJo4FDr59FPW8+bQ0FTFN1z0QHYpMREXypFrPlnEQg69vOC4Kk/CCE0x8Uh7sZ3sSSgglkAcdpNml8dIU3jt2j9B7N0HBi5jRMs6SoJQupJ2LFDrND6IZATbqAZOrYMMp5Vv3ZFkYY3nib4LMutQaxY3VME3vSL4ljlEkvOT+YhEH0H8XmJsFH5nvvBZdZSDxzb2Hdcppg/bsP25QeWe0r/VxfS5crz1MvTHrKuY32oJh/vXLtwMuvelhGmOBS/zccwH/B4gyTTwMtOzIvbIoSg+x2P0yl6iIGjCKKzIboEnytpy9n0p1ylGZF1s8Vjx3poNmES4OIBsn0rs/FyfkHfFbssteTchZuNfUum9noj4UmHHT9kDcLJSfja2jBqI8OPSyVrwb1UR5rqj1QW4jBkLUDrAceBYE0TiaIFaBE0Ex+xZ2DwU1JlPyvyl8az9Puw1Yo91rkvkgRu2KQ==;9o5KGwKchhk/kbgJn6g9+Q=="
 ---

@@ -59,33 +59,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Machine Learning with MATLAB and Amazon SageMaker"
-    excerpt: "This post is written in collaboration with Brad Duncan, Rachel Johnson and Richard Alcock from MathWorks. MATLAB  is a popular programming tool for a wide range of applications, such as data processing, parallel computing, automation, simulation, machine learning, and artificial intelligence. It’s heavily"
-    publishedDateTime: 2023-11-21T19:40:27Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-with-matlab-and-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-  - title: "How Amazon Music uses SageMaker with NVIDIA to optimize ML training and inference performance and cost"
-    excerpt: "In the dynamic world of streaming on Amazon Music, every search for a song, podcast, or playlist holds a story, a mood, or a flood of emotions waiting to be unveiled. These searches serve as a gateway to new discoveries, cherished experiences, and lasting memories. The search bar is not just about finding"
-    publishedDateTime: 2023-11-21T19:43:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-music-uses-sagemaker-with-nvidia-to-optimize-ml-training-and-inference-performance-and-cost/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-  - title: "Text embedding and sentence similarity retrieval at scale with Amazon SageMaker JumpStart"
-    excerpt: "In this post, we demonstrate how to use the SageMaker Python SDK for text embedding and sentence similarity. Sentence similarity involves assessing the likeness between two pieces of text after they are converted into embeddings by the LLM, which is a foundation step for applications like Retrieval Augmented"
-    publishedDateTime: 2023-11-21T19:37:50Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/text-embedding-and-sentence-similarity-retrieval-at-scale-with-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 60
 
 secured: "8+NodDQ1ynIEf3aOHLJ9HBc/k//AuDJHEPKHZlMARn/ifXpth6RvtltcL5NCPmHF8XxomZL0+DmnzBRmQ1SbAPtmeat0LXK+7s22PBZI0HxUr8/40jqyVmcc6f+x/qJNkgoozggN7xrsDj0h/LPCI+/sJFG7bCko4av0SZrdW28eqVXTannUQsuN13v5eHKYESpyziGBzlycb+KQEwMN6EOSiZ7oknrSRuIPBX6XgcbLufoXNt9pmjBKrjw5/8hhEHPdp+cPWLusnKs4EnUpxyW1C36BNScFne+Tj4mG9RSwu2GxHq13vk2dZqfluU9tsK17XhTvsxLBL4VIjRoTLa2+j/6IMZBqHK2Zt5pGsbE=;M0EvRONgsB+Sg8FeVxQpzA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/anthropic-slashes-ai-pricing-amid-risin
 webUrl: "https://venturebeat.com/ai/anthropic-slashes-ai-pricing-amid-rising-competition/"
 type: article
 quality: 67
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 611
         height: 459
         isCached: true
-  - title: "Anthropic updates Claude 2.1 AI chatbot to process bigger files and improve safety"
-    excerpt: "Anthropic, an artificial intelligence startup geared toward building trustworthy AI models to rival OpenAI LP’s ChatGPT, today announced an upgrade to its Claude chatbot that advances its core features with significantly improved safety, a much larger context window and a new third-party tool use feature."
-    publishedDateTime: 2023-11-21T19:31:00Z
-    webUrl: "https://siliconangle.com/2023/11/21/anthropic-updates-claude-2-1-ai-chatbot-process-bigger-files-improve-safety/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 11
 
 secured: "aYCx/TWlQdL0f/ZoRhVKYlz+q44+HEF9npOgS8wi+XJBo46/MABGEDrcdPkOZlyjD5Bltisg4nJ7Vuw/oYXJzIF4MzxIcOrwb7z4aVwlShTO/nuIQ9+gsAAIj3ed9uKn3kCIlt9FU2Dqys4of1BxWcjHfJ7TCzc6P+BgCDlJ6eskHcm5HlMrmMkwzGi8Q2svYnBnwfohSa1jDReUqLKDSeKtHwS49z7EDFvaViSP5TO5dHS05ELQZF+yJ+UrvEYKDouRGV9nYRUyUWKCna7SAwxZFP9uKnDlvEfeBJsCf+eQQHd2ZeIRKtxCvUeILgsq7Zooor/BuzycLx3QovZ7NXwLL7QmxS19sJvnccIO94361MGMLBMbFoQUvCbxVq/ZqvvTiDigOq54mlSwIwgsW/AdLx2qWqWD7X5Zj7c3nXXODGatSNzSGiS60QFEiApoHLrQPQRZG8NvFnIjY94ezHENMsLbgeX3Obzn95nnLri5DSAveTE9WMGgy6fEORRRjuLFCd2j0OlcJSTDYIFJgg==;UqlgPS8GV+c1Sr9XldaKLQ=="
 ---

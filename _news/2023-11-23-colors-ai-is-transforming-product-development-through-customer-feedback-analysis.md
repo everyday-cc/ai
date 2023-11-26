@@ -72,15 +72,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 34
-  - title: "Considering the societal and ethical implications in the development of AI"
-    excerpt: "The research of Betty Li Hou, who presented a seminar as part of The New York Academy of Sciences’ Artificial Intelligence (AI) & Society Lecture series, explores the educational, philosophical, sociological,"
-    publishedDateTime: 2023-11-21T20:44:00Z
-    webUrl: "https://www.nyas.org/news-articles/academy-news/considering-the-societal-and-ethical-implications-in-the-development-of-ai/"
-    type: article
-    provider:
-      name: New York Academy of Sciences
-      domain: nyas.org
-    quality: 32
   - title: "The Future of AI: Self-Learning Machines Could Replace Current Artificial Neural Networks"
     excerpt: "New physics-based self-learning machines could replace the current artificial neural networks and save energy. Artificial intelligence (AI) not only delivers impressive performance but also demands significant energy."
     publishedDateTime: 2023-11-22T22:14:00Z

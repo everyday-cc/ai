@@ -138,20 +138,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Nvidia reports record Q3 results driven by surging demand for AI"
-    excerpt: "Are you looking to showcase your brand in front of the brightest minds of the gaming industry? Consider getting a custom GamesBeat sponsorship. Learn more. Nvidia reported record revenue today for its third fiscal quarter of fiscal 2024 (ending October 31,"
-    publishedDateTime: 2023-11-21T22:53:00Z
-    webUrl: "https://venturebeat.com/gaming-business/nvidia-reports-record-q3-results-driven-by-surging-demand-for-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/08/Nvidia-Grace-Hopper-Superchip.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Explained | How NVIDIA's AI gamble has paid off"
     excerpt: "NVIDIA reported a 3x revenue growth, reaching $18.12 billion, with its data centre business soaring 279% to $14.5 billion, constituting 80% of total revenue. The shift from GPU to AI solutions propelled the company's transformation."
     publishedDateTime: 2023-11-22T12:19:00Z
@@ -256,6 +242,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
+  - title: "Nvidia delays launch of new China-focused AI chip"
+    excerpt: "Nvidia has told customers in China it is delaying the launch of a new artificial intelligence chip it designed to comply with US export rules until the first quarter of next year, two sources familiar with the matter said."
+    publishedDateTime: 2023-11-26T19:53:00Z
+    webUrl: "https://www.itnews.com.au/news/nvidia-delays-launch-of-new-china-focused-ai-chip-602800"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 34
   - title: "NVIDIA Crushes Earnings On Monster AI Chip Demand And Big Gains In Gaming"
     excerpt: "NVIDIA has found its golden goose in AI chip design, which contributed heavily to another massive spike in revenue during the company's third quarter of fiscal 2024—it tripled year-over-year to $18.12 billion."
     publishedDateTime: 2023-11-22T13:30:00Z

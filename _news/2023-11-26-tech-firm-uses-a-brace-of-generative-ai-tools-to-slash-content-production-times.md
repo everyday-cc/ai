@@ -25,66 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Sector Is Undergoing Transformation with Rise of Open Finance, Generative AI, A2A Payments – Report"
-    excerpt: "The whitepaper found that “the fintech market is undergoing a rapid shift, with the rise of new technologies, such as Open Finance, generative AI and A2A (account-to-account) payments having a major impact on business models.” This is combined with unp ..."
-    publishedDateTime: 2023-11-21T21:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216577-fintech-sector-is-undergoing-transformation-with-rise-of-open-finance-generative-ai-a2a-payments-report/amp/"
+  - title: "StudentAI.app Sets a New Standard in EdTech with the Launch of Interactive AI Tools for Students and AI Teacher Collaboration"
+    excerpt: "StudentAI.app addresses these critical issues head-on by launching a platform that not only transforms passive learning into an interactive, engaging process but also equips students with sophisticated tools for personal and professional development."
+    publishedDateTime: 2023-11-25T03:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/studentai-app-sets-a-new-standard-in-edtech-with-the-launch-of-interactive-ai-tools-for-students-and-ai-teacher-collaboration-1032848965"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 56
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/NYSE-New-York-Fintech-1024x848.jpg"
-        width: 1024
-        height: 848
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/1700638633530-0.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Intuit's AI-Driven Approach: Transforming Fintech Industry with GenOS & Intuit Assist"
-    excerpt: "Saurabh Saxena, Intuit India Site Leader & Vice President, Product Development, shares his insights on Intuit's strategic focus on AI, the transformative impact of GenOS, their newest launch - Intuit Assist,"
-    publishedDateTime: 2023-11-23T08:32:00Z
-    webUrl: "https://www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist-11700727898845.html"
-    ampWebUrl: "https://www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist/amp-11700727898845.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist/amp-11700727898845.html"
+  - title: "Mastering the art of differentiation: Vital competencies for thriving in the age of artificial intelligence"
+    excerpt: "In this age of AI, mastering these vital competencies not only propels your journey toward professional success but also equips you to unlock the transformative potential of AI, ensuring your prominence and prosperity in an increasingly automated world."
+    publishedDateTime: 2023-11-25T10:15:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/lite/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 52
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/11/23/1600x900/Screenshot_2023-11-23_140037_1700728233989_1700728241385.png"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "How is Generative AI Transforming the Financial Industry?"
-    excerpt: "Explore the transformative power of Generative AI in finance with real-world case studies and expert insights from SFF 2023."
-    publishedDateTime: 2023-11-22T03:43:00Z
-    webUrl: "https://fintechnews.sg/80447/ai/how-is-generative-ai-transforming-the-financial-industry/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
+      name: The Financial Express
+      domain: financialexpress.com
     quality: 39
     images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Sumsub-Banner-3.jpg"
-        width: 300
-        height: 250
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/Untitled-design-2023-11-24T171540.538.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Fintech Trends Survey: 2024 to Center on Digital Transformation within Finance Departments, AI and Real-Time Payments a Priority"
-    excerpt: "AvidXchange, a provider of AP automation software, announced the release of a white paper titled, “2024: Anticipating Tomorrow’s Trends.”"
-    publishedDateTime: 2023-11-23T15:12:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/11/216736-fintech-trends-survey-2024-to-center-on-digital-transformation-within-finance-departments-ai-and-real-time-payments-a-priority/"
+  - title: "WA students flock to computer science, and AI adds to the allure"
+    excerpt: "Despite the pandemic and recent tech layoffs, computer science remains one of the most popular majors in the state."
+    publishedDateTime: 2023-11-22T13:00:00Z
+    webUrl: "https://www.seattletimes.com/education-lab/wa-students-flock-to-computer-science-and-ai-adds-to-the-allure/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 25
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/11/Equity-Crowdfunding-in-2023-Webinar-300x250-12.12.23.jpeg"
-        width: 300
-        height: 250
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "S6YoqQfGaCIBJbZUp1e1lhbqQWvMaW+qeWBvbWIiK58Qh2voKjrMFCO6fXC/aIgl+5Vx/ZAPw7QYxLQhvgfVBaaeXz0+whZ3nVDTnnJbcgpsi6lX1VzIhKo6jYL10SWDnrin1wOteXaVp9gfm02QcSyNm1eyBq5ANdvjSHGmivM1n2IEFNyj+gTR/fYqa7pj0T0FAs8rozLYGOB+4Tg0yKFSSYXP4dbFCfRbdjP/52SX5kf0q0aVtDB1vw0Uqg72LUXkBGmX0vXedyB1b84TwWRkj24X6bfIGy0S6MC9xszK7drcICyiydUdPbVQna8oaWUUXBbGsABWAY+PdkaWjE8DD4SK1CXmQhXtDbKH180=;QKmVi4/AKY3aDtrO1jxAhA=="
 ---

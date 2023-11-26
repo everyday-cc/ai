@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202311/ai
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202311/ais-dystopian-echo-chamber?amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1528
     height: 800
     isCached: true
+
+related:
+  - title: "AI's Dystopian Echo Chamber"
+    excerpt: "The narrative surrounding most of the AI stories you'll read and hear these days is often cloaked in dystopian imagery and fear—a phenomenon that might be inadvertently shaping the very technology it fears."
+    publishedDateTime: 2023-11-26T17:21:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202311/ais-dystopian-echo-chamber"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
 
 secured: "20XLS6uwrQbW/scG9dPpYXDMtr1/R3BdgnnkjptdFLTSh+rZADwaiRu6O4m9t8YcSLvDcgg7W8UCHE5A7jTj25Xjh+sdVTXjF6oreedOWkLuovMGtaSWRCYYm774qUcFCqKcQ3m/Tlr1Ee2mCCvWrO/dfUg/QOOXrYg0XOeVlNdm0zQGxJmnqAJmDUdyNI7vgQzwowhzSDEmxuMvWWr+DweJGuzWToaunoX9rYdVm/Q+XChZ0rEm6GZCT7M4YZUiOpo0tqRNoGwcHBP0i2mv8bTXxHRLqReMunfJw21FUAHtptXM5hD0x7fvTZEahMAGeEWJ2xGg2OY93xkpcdXiAYrZinexcK/PjAESsimRzLI=;IwAWOcO3u08mIiuAmPhMDA=="
 ---

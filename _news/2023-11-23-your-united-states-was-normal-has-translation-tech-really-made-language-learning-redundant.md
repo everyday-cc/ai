@@ -26,22 +26,6 @@ images:
     height: 2160
     isCached: true
 
-related:
-  - title: "'Your United States Was Normal': Has Translation Tech Really Made Language Learning Redundant?"
-    excerpt: "Every day, millions of people start the day by posting a greeting on social media. None of them expect to be arrested for their friendly morning rit"
-    publishedDateTime: 2023-11-21T21:19:00Z
-    webUrl: "https://menafn.com/1107467206/Your-United-States-Was-Normal-Has-Translation-Tech-Really-Made-Language-Learning-Redundant"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 12
-    images:
-      - url: "https://menafn.com/updates/pr/2023-11/21/TC_789e6image_story.jpg"
-        width: 960
-        height: 584
-        isCached: true
-
 secured: "meqKfdR3WQ45jW+hE3WyVRAK8UWLD+/abn87258GJpkz228xyUjLSjLlxMtY2DHjKhIz6v+nIrPAVHqtUpaoRCWCuSn4YKnaUg8QDRsS3zBUuc+3lAjByVWwSNf6pz5nDAWJ/EzUtSzsm1zhw5yMiukpVPi0lW+zLQIiywXovATGERrZI74qsuN2JPvnvLRnAt1+ipPFrQWNg9nZuMclGpN7ZOwTQvWJ1yk6HvVBYv6cm1dEJdAMvREsYjpxoGBdOdEYfSoVjBorhwQevEPIze20TyyIdxLyuz/vUSPHWL1F1QGwOPchrQWygJH0ZnVRx0HYNf6IK+ysXD8ZIug54nBKe4OamPp3Avnh5jrsIubXZ2KzjTld0GxDEirqvKpbzm3YmRTW1lZunqK81TX+W4Ag87gfwfDM+MTzvOMkjUBqZD3LZt8yWh6udaF3+pPqehRDLspBtyENo0jDLsVUcArSy+JBA/Qi5OA0ybwA49tsyg1P2Ac0+X/nmXcLT/Zt+QIQZd85qKW7wEtGv1+Yfg==;sOM4UOl7m+4lYqlM4tlBgw=="
 ---
 

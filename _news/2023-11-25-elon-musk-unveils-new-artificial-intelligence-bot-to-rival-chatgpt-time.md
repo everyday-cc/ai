@@ -161,20 +161,6 @@ related:
         width: 2500
         height: 1406
         isCached: true
-  - title: "ChatGPT turns 1: A generative AI status report"
-    excerpt: "Nov. 30 will mark one year since ChatGPT’s public debut, and some experts are surprised we're not using AI tools even more."
-    publishedDateTime: 2023-11-21T22:39:00Z
-    webUrl: "https://www.marketplace.org/2023/11/21/chatgpt-turns-1-a-generative-ai-status-report/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 39
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2023/11/GettyImages-1753524489-e1700602163153.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "ChatGPT’s Voice Feature Now Available To All Users For Free"
     excerpt: "Capping off a whole week of Succession-level corporate drama, OpenAi is rolling out a new ChatGPT feature to its free"
     publishedDateTime: 2023-11-24T04:00:00Z
@@ -254,15 +240,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Anthropic updates Claude 2.1 AI chatbot to process bigger files and improved safety"
-    excerpt: "Anthropic, an artificial intelligence startup geared toward building trustworthy AI models to rival OpenAI LP’s ChatGPT, today announced an upgrade to its Claude chatbot that advances its core features with significantly improved safety, a much larger context window and a new third-party tool use feature."
-    publishedDateTime: 2023-11-21T19:23:00Z
-    webUrl: "https://siliconangle.com/2023/11/21/anthropic-updates-claude-2-1-ai-chatbot-process-bigger-files-improved-safety/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 11
   - title: "Baidu reveals expectations-beating earnings and touts its new ChatGPT-like AI models, amid leadership chaos at U.S. competitor OpenAI"
     excerpt: "Baidu took an early lead in the race to dominate China's AI sector with the release of ERNIE Bot earlier this year."
     publishedDateTime: 2023-11-22T08:53:00Z

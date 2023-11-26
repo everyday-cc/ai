@@ -43,22 +43,6 @@ related:
         width: 800
         height: 407
         isCached: true
-  - title: "Nvidia's revenue triples as AI chip boom continues"
-    excerpt: "Nvidia called for accelerating revenue growth in the next quarter, even as executives warn that government limits on sales to some countries will hurt results."
-    publishedDateTime: 2023-11-21T21:06:00Z
-    webUrl: "https://www.cnbc.com/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107337398-1700591512473-gettyimages-1662776626-SENATE_AI.jpeg?v=1700591613"
-        width: 5676
-        height: 3784
-        isCached: true
   - title: "Nvidia's AI Chip Glory Gets Dimmed By US Export Curbs"
     excerpt: "However, Nvidia shares dropped as the AI chip leader warned about the damaging impacts of US chip export curbs on its fourth quarter revenue. For the quarter that ended on October 29th, Nvidia reported its revenue grew 206% YoY to $18.12 billion, ..."
     publishedDateTime: 2023-11-22T19:38:00Z
@@ -90,20 +74,6 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2023/11/nvidia-geforce-rtx-4090.jpg"
         width: 1250
         height: 750
-        isCached: true
-  - title: "There’s a generative AI rocket under Nvidia."
-    excerpt: "The company’s Q3 2024 earnings reveal $18.12 billion in revenue for the quarter, with $14.51 billion from its data center business as the world’s AI companies jockey for Nvidia’s chips. That overall revenue number is a 206 percent jump from last year and marks a continuing growth trend for the company."
-    publishedDateTime: 2023-11-21T22:24:00Z
-    webUrl: "https://www.theverge.com/2023/11/21/23971573/theres-a-generative-ai-rocket-under-nvidia"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/izC6fxOO-rWRM98s9kO2VURBg84=/0x0:1923x1080/1923x1080/filters:focal(962x540:963x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25103224/image__6_.png"
-        width: 1923
-        height: 1080
         isCached: true
 
 secured: "/Akpc2wSIO6Rwnc8SECNlB3kWif2d1r/q7RXYv7bZpP+TkCR62QvrhYeZURJCIwg/YNVktraVRhFZ9A5RyuiBS15ENv2HpZe+ExsOYnPMOr2zOhVxNtPpzN0W0cF4an6Ic+NSebWXJSDgJtaG2glSNlIWLijrYNFt/Y7ijnHaVa5XuMj06JaWAxpt+KZ0O/pDNrUsfStfLL8PUGoTbkUk9cy4S/yHIn50mU5uTTPLJ7eOmTBMAHD1vfL0L14xJqAo79Z4Um0A6i6DzbwvDSn+9KKiUGhdljRe+S7Cs+SzesQLKRUUb2tA7BHHUk37KoJzUXhhh6dqB9F69NH/rt60KoGrhPjR23asrjwwfBcQ+z33EWFQ4PwktECfZV25Bqq7bHXx2RxlF9gPz5lWLeId88RyC81FsHYQU/wiwNqG2aVKuuK2xRom039iXzoMHVf6ghceFK6rYfF+Xkp/71rhaAnv3Qbtkxr+gdB86z4bA+fMEy2REaSt3XeI95UiKmUprW+TlAJGOHu4KwQrTlznw==;VQA+T1Y07zk/957ee0AsFA=="

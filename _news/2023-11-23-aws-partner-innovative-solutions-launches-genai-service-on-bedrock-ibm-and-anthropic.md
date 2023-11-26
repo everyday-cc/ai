@@ -40,15 +40,6 @@ related:
         width: 750
         height: 394
         isCached: true
-  - title: "Anthropic updates Claude 2.1 AI chatbot to process bigger files and improve safety"
-    excerpt: "Anthropic, an artificial intelligence startup geared toward building trustworthy AI models to rival OpenAI LP’s ChatGPT, today announced an upgrade to its Claude chatbot that advances its core features with significantly improved safety, a much larger context window and a new third-party tool use feature."
-    publishedDateTime: 2023-11-21T19:31:00Z
-    webUrl: "https://siliconangle.com/2023/11/21/anthropic-updates-claude-2-1-ai-chatbot-process-bigger-files-improve-safety/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 11
 
 secured: "eDHVGoeq+ud+IeKy9+A/ak+1lG2WsLqtZ1jjptVb721CD94IPcBiZ0fj2rAt9tZI1gbaYYqAM2HpLv/2T1T9tlOpswffEFC5TufW1vZ3vH9ZmK8j16UbhxKJI1xUd0fpULkamIRKeghv/yMYVl8vlo3/Z+aQt/lczfe+vsjiQBbVB69XE9J1MKQPHkvZINqsSgBtc6mtMugJ8veI2/cR8Mc3nPj+uvaG9Q77ypvsupldZFgFZlujAgV99hmUFIwWOtjUXUoD58+TOOkrS60+ctiq11tMtBKhOzHYcaSzAKTrdmbaY/92jDYZsKIAZ+izAdb7WfValkL/1NVchIsYuTa6VJ1OFipJLpnNnbGCEyGHymJPvwj6ZOcd0iCirFvuT1SHWU5puPvCvfDUpmue6U+1IvpZDtl3Hdhwy59qDGAuQEJiDPUyuO6D/HuJBNVcsDCkw4+aLt5wNTf9zJl+u1VdgFoPN6Vyb3rINabOqFNaDn6KfcGcunHtXgdrcK/A89pYPVlN8i744J8XT//egA==;55s8noYJ1QeTBcPQxTFJlg=="
 ---
