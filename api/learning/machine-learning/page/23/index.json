@@ -4,193 +4,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_learning/videos/simplilearn-us-election-prediction-2020-latest-us-election-prediction-using-machine-learning-simplilearn.md",
-      "title": "US Election Prediction 2020 Latest | US Election Prediction Using Machine Learning | Simplilearn",
-      "excerpt": "The battle for the 2020 US Presidential election has begun. The Republican nominee Donald Trump and the Democratic nominee Joe Biden are fighting for a place in the White House. In this video, we will analyze the US elections using Twitter Sentiment Analysis in Python. You will understand how to extract",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-us-election-prediction-2020-latest-us-election-prediction-using-machine-learning-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-us-election-prediction-2020-latest-us-election-prediction-using-machine-learning-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=lrMGNr_Ryzc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lrMGNr_Ryzc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M7S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-31T12:31:01Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lrMGNr_Ryzc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-what-is-deep-learning-deep-learning-explained-deep-learning-tutorial-for-beginners-simplilearn.md",
-      "title": "What is Deep Learning | Deep Learning Explained | Deep Learning Tutorial For Beginners | Simplilearn",
-      "excerpt": "This video on \"what is Deep Learning\" will help you understand what is Deep Learning, why do we need Deep Learning, applications of Deep Learning, what is a neural network, what are activation functions, what is gradient descent, neural network prediction from scratch. This video is designed for beginners",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-deep-learning-deep-learning-explained-deep-learning-tutorial-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-deep-learning-deep-learning-explained-deep-learning-tutorial-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=5iXdm36JpU0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5iXdm36JpU0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M26S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-11-17T18:54:48Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5iXdm36JpU0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-what-is-machine-learning-machine-learning-tutorial-machine-learning-basics-simplilearn.md",
-      "title": "What is Machine Learning? | Machine Learning Tutorial | Machine Learning Basics | Simplilearn",
-      "excerpt": "This Machine Learning tutorial video will explain what is Machine Learning and how Machine Learning works. By the end of this tutorial, you will be able to understand the different types of Machine Learning, Machine Learning algorithms and some of the breakthroughs in the Machine Learning industry. You",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-machine-learning-machine-learning-tutorial-machine-learning-basics-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-machine-learning-machine-learning-tutorial-machine-learning-basics-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=7JhjINPwfYQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7JhjINPwfYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M21S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-25T19:49:05Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7JhjINPwfYQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-what-is-supervised-learning-in-machine-learning-machine-learning-for-beginners-simplilearn.md",
-      "title": "What Is Supervised Learning In Machine Learning? | Machine Learning For Beginners | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video on What is Supervised Learning in machine learning will take you through a detailed concept",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-supervised-learning-in-machine-learning-machine-learning-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-supervised-learning-in-machine-learning-machine-learning-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=tJmVf88l_ys",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tJmVf88l_ys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M52S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-07-02T06:28:48Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tJmVf88l_ys/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-differentiable-neural-computer-live.md",
-      "title": "Differentiable Neural Computer (LIVE)",
-      "excerpt": "The Differentiable Neural Computer is an awesome model that DeepMind recently released. It's a memory augmented network that can perform meta-learning (learning to learn). We'll go over it's architecture details and implement it ourselves in Tensorflow.   Code for this video: https://github.com/llSourcell/differentiable_neural_computer",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-differentiable-neural-computer-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-differentiable-neural-computer-live/",
-      "originalUrl": "https://youtube.com/watch?v=r5XKzjTFCZQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r5XKzjTFCZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H3M56S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-10T03:24:38Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r5XKzjTFCZQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_learning/videos/siraj-raval-generative-adversarial-networks-for-style-transfer-live.md",
       "title": "Generative Adversarial Networks for Style Transfer (LIVE)",
       "excerpt": "Generative Adversarial Nets are such a rich topic for exploration, we're going to build one that was released just 2 months ago called the \"DiscoGAN\" that lets us transfer the style between 2 datasets. And I'll be building this using Tensorflow.  Code for this video: https://github.com/llSourcell/GANS-for-style-transfer",
@@ -270,6 +83,68 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PDbXPBwOavc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/siraj-raval-how-to-convert-text-to-images-intro-to-deep-learning-16.md",
+      "title": "How to Convert Text to Images - Intro to Deep Learning #16",
+      "excerpt": "Generative Adversarial Networks are back! We'll use the cutting edge StackGAN architecture to let us generate images from text descriptions alone. This is pretty wild stuff and there is so much room for improvement. The possibilities are endless. I'll go through the architecture, code, and the implications",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-convert-text-to-images-intro-to-deep-learning-16/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-convert-text-to-images-intro-to-deep-learning-16/",
+      "originalUrl": "https://youtube.com/watch?v=gmvRStL_Dag",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gmvRStL_Dag\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M33S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-05-10T03:24:38Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gmvRStL_Dag/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/siraj-raval-how-to-do-linear-regression-using-gradient-descent.md",
+      "title": "How to Do Linear Regression using Gradient Descent",
+      "excerpt": "The point of this is to demonstrate the concept of gradient descent. Gradient descent is the most popular optimization strategy in deep learning, in particular an implementation of it called backpropagation. We are using gradient descent as our optimization strategy for linear regression. We'll draw",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-do-linear-regression-using-gradient-descent/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-do-linear-regression-using-gradient-descent/",
+      "originalUrl": "https://youtube.com/watch?v=XdM6ER7zTLk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XdM6ER7zTLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53M18S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-04-10T23:17:20Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XdM6ER7zTLk/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -377,6 +252,68 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/siraj-raval-how-to-generate-art-intro-to-deep-learning-8.md",
+      "title": "How to Generate Art - Intro to Deep Learning #8",
+      "excerpt": "We're going to learn how to use deep learning to convert an image into the style of an artist that we choose. We'll go over the history of computer generated art, then dive into the details of how this process works and why deep learning does it so well.  Coding challenge for this video: https://github.com/llSourcell/How-to-Generate-Art-Demo",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-generate-art-intro-to-deep-learning-8/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-generate-art-intro-to-deep-learning-8/",
+      "originalUrl": "https://youtube.com/watch?v=Oex0eWoU7AQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Oex0eWoU7AQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M57S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-03-18T08:02:00Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Oex0eWoU7AQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/siraj-raval-how-to-generate-images-intro-to-deep-learning-14.md",
+      "title": "How to Generate Images - Intro to Deep Learning #14",
+      "excerpt": "We're going to build a variational autoencoder capable of generating novel images after being trained on a collection of images. We'll be using handwritten digit images as training data. Then we'll both generate new digits and plot out the learned embeddings. And I introduce Bayesian theory for the first",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-generate-images-intro-to-deep-learning-14/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-generate-images-intro-to-deep-learning-14/",
+      "originalUrl": "https://youtube.com/watch?v=3-UDwk1U77s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3-UDwk1U77s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M48S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-05-10T03:24:38Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3-UDwk1U77s/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -632,6 +569,37 @@
       ]
     },
     {
+      "path": "_learning/videos/siraj-raval-how-to-make-an-image-classifier-intro-to-deep-learning-6.md",
+      "title": "How to Make an Image Classifier - Intro to Deep Learning #6",
+      "excerpt": "We're going to make our own Image Classifier for cats & dogs in 40 lines of Python! First we'll go over the history of image classification, then we'll dive into the concepts behind convolutional networks and why they are so amazing.  Coding challenge for this video: https://github.com/llSourcell/how_to_make_an_image_classifier",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-make-an-image-classifier-intro-to-deep-learning-6/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-make-an-image-classifier-intro-to-deep-learning-6/",
+      "originalUrl": "https://youtube.com/watch?v=cAICT4Al5Ow",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cAICT4Al5Ow\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M45S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-02-27T03:02:50Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cAICT4Al5Ow/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/videos/siraj-raval-how-to-make-data-amazing-intro-to-deep-learning-5.md",
       "title": "How to Make Data Amazing - Intro to Deep Learning #5",
       "excerpt": "In this video, we'll go through data preprocessing steps for 3 different datasets. We'll also go in depth on a dimensionality reduction technique called Principal Component Analysis.  Coding challenge for this video: https://github.com/llSourcell/How_to_Make_Data_Amazing  Charles-David's Winning Code:",
@@ -680,6 +648,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/18adykNGhHU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/siraj-raval-how-to-predict-stock-prices-easily-intro-to-deep-learning-7.md",
+      "title": "How to Predict Stock Prices Easily - Intro to Deep Learning #7",
+      "excerpt": "We're going to predict the closing price of the S&P 500 using a special type of recurrent neural network called an LSTM network. I'll explain why we use recurrent nets for time series data, and why LSTMs boost our network's memory power.   Coding challenge for this video: https://github.com/llSourcell/How-to-Predict-Stock-Prices-Easily-Demo",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-predict-stock-prices-easily-intro-to-deep-learning-7/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-predict-stock-prices-easily-intro-to-deep-learning-7/",
+      "originalUrl": "https://youtube.com/watch?v=ftMq5ps503w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ftMq5ps503w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M58S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-02-27T03:02:50Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ftMq5ps503w/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -917,47 +916,46 @@
       ]
     },
     {
-      "path": "_learning/videos/youtube-data-school-what-is-machine-learning-and-how-does-it-work.md",
-      "title": "What is machine learning, and how does it work?",
-      "excerpt": "Have you heard of machine learning, and you're trying to figure out exactly what that means? I'll give you my definition, provide some examples of machine learning, and explain at a high level how machine learning works.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/youtube-data-school-what-is-machine-learning-and-how-does-it-work/index.json",
-      "webUrl": "https://www.youtube.com/watch?v=elojMnjn4kk",
+      "path": "_learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow.md",
+      "title": "Build a neural network to perform classification | TensorFlow.js (Coding TensorFlow)",
+      "excerpt": "In part 3 of this series on TensorFlow.js, Laurence Moroney (@lmoroney) looks at taking the processed data from part 2, and building a neural network to perform classification with it. You’ll see how to create and stack multiple layers, use these to create a classifier, and then test that classifier",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow/",
+      "originalUrl": "https://youtube.com/watch?v=4vN1tHpCkA0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4vN1tHpCkA0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M45S",
       "provider": {
-        "name": "YouTube",
-        "domain": "youtube.com",
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/youtube.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Data School",
-            "domain": "dataschool.io"
-          }
         ]
       },
+      "publishedDateTime": "2018-08-07T18:46:23Z",
       "heat": 50,
       "images": [
         {
-          "url": "http://i3.ytimg.com/vi/elojMnjn4kk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4vN1tHpCkA0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "title": "What is machine learning, and how does it work?",
-          "isCached": false
+          "isCached": true
         }
       ],
       "content": "",
       "type": "video",
       "price": "Free",
       "topics": [
+        "TensorFlow",
+        "Google AI",
         "AI",
         "Machine Learning"
       ]
     }
-  ]
+  ],
+  "nextPage": 24
 }

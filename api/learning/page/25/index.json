@@ -4,139 +4,29 @@
   "page": 25,
   "value": [
     {
-      "path": "_learning/courses/coursera-advanced-machine-learning-and-signal-processing.md",
-      "title": "Advanced Machine Learning and Signal Processing",
-      "excerpt": "Learn Advanced Machine Learning and Signal Processing from IBM. >>> By enrolling in this course you agree to the End User License Agreement as set out in the FAQ.  Once enrolled you can access the license in the Resources area <<<  This course, ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-advanced-machine-learning-and-signal-processing/index.json",
-      "webUrl": "https://www.coursera.org/learn/advanced-machine-learning-signal-processing",
-      "length": "16 hours",
-      "ratings": {
-        "count": 505,
-        "average": 4.5
-      },
+      "path": "_learning/courses/pluralsight-designing-and-implementing-solutions-using-google-cloud-automl.md",
+      "title": "Designing and Implementing Solutions Using Google Cloud AutoML",
+      "excerpt": "Google Cloud AI offers a wide range of machine learning services. AutoML features cutting-edge technology which uses your training data to find the best model for your use case. In this course, you'll learn to build a custom machine learning model.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-designing-and-implementing-solutions-using-google-cloud-automl/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/google-cloud-automl-designing-implementing-solutions",
+      "length": "1h 41m",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "publishers": [
+        "authors": [
           {
             "path": "",
-            "name": "IBM"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/8a/7607508be611e89f604728676b46b0/IBM_Watson_IoT-_Advanced_Machine_Learning_and_Signal_Processing.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Advanced Machine Learning and Signal Processing",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-ai-capstone-project-with-deep-learning.md",
-      "title": "AI Capstone Project with Deep Learning ",
-      "excerpt": "Learn AI Capstone Project with Deep Learning  from IBM. In this capstone, learners will apply their deep learning knowledge and expertise to a real world challenge.  They will use a library of their choice to develop and test a deep learning ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-ai-capstone-project-with-deep-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/ai-deep-learning-capstone",
-      "length": "11 hours",
-      "ratings": {
-        "count": 76,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "IBM",
-            "domain": "ibm.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/8b/796ecfca974593bf9bcb70580a9a05/AICapstone.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "AI Capstone Project with Deep Learning ",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-ai-for-everyone.md",
-      "title": "AI For Everyone",
-      "excerpt": "Learn AI For Everyone from deeplearning.ai. AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take.   In this course, you ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-ai-for-everyone/index.json",
-      "webUrl": "https://www.coursera.org/learn/ai-for-everyone",
-      "length": "9 hours",
-      "ratings": {
-        "count": 7203,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "deeplearning.ai"
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
           }
         ]
       },
@@ -146,678 +36,45 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b2/65f2d3143d48b29c346332efac1118/AI4ESquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "AI For Everyone",
+          "url": "https://pluralsight.imgix.net/course-images/google-cloud-automl-designing-implementing-solutions-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Designing and Implementing Solutions Using Google Cloud AutoML",
           "isCached": false
         }
       ],
       "content": "",
       "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-an-introduction-to-practical-deep-learning.md",
-      "title": "An Introduction to Practical Deep Learning",
-      "excerpt": "Learn An Introduction to Practical Deep Learning from Intel. This course provides an introduction to Deep Learning, a field that aims to harness the enormous amounts of data that we are surrounded by with artificial neural networks, allowing for ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-an-introduction-to-practical-deep-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/intro-practical-deep-learning",
-      "length": "12 hours",
-      "ratings": {
-        "count": 67,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Intel"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/72/b3a54097ff11e79acebb98a73e7be6/intel_software_blue.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "An Introduction to Practical Deep Learning",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
+      "price": "$$",
       "topics": [
         "AI",
-        "Machine Learning"
+        "Google AI"
       ]
     },
     {
-      "path": "_learning/courses/coursera-applied-ai-with-deeplearning.md",
-      "title": "Applied AI with DeepLearning",
-      "excerpt": "Learn Applied AI with DeepLearning from IBM. >>> By enrolling in this course you agree to the End User License Agreement as set out in the FAQ.  Once enrolled you can access the license in the Resources area <<<  This course, Applied Artificial ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-applied-ai-with-deeplearning/index.json",
-      "webUrl": "https://www.coursera.org/learn/ai",
-      "length": "18 hours",
-      "ratings": {
-        "count": 668,
-        "average": 4.5
-      },
+      "path": "_learning/courses/pluralsight-designing-and-implementing-solutions-using-google-machine-learning-apis.md",
+      "title": "Designing and Implementing Solutions Using Google Machine Learning APIs",
+      "excerpt": "Most organizations wish to harness the power of machine learning (ML) to improve their products, but they may not always have the expertise available in-house. This course shows you how to harness the power of ML for use cases using API calls.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-designing-and-implementing-solutions-using-google-machine-learning-apis/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/google-machine-learning-apis-designing-implementing-solutions",
+      "length": "1h 37m",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "publishers": [
+        "authors": [
           {
             "path": "",
-            "name": "IBM",
-            "domain": "ibm.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/59/4408d08be611e8ae9f27056f38fbe9/Applied_AI_with_Deep_Learning.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Applied AI with DeepLearning",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-applied-machine-learning-in-python.md",
-      "title": "Applied Machine Learning in Python",
-      "excerpt": "Learn Applied Machine Learning in Python from University of Michigan. This course will introduce the learner to applied machine learning, focusing more on the techniques and methods than on the statistics behind these methods. The course will ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-applied-machine-learning-in-python/index.json",
-      "webUrl": "https://www.coursera.org/learn/python-machine-learning",
-      "length": "24 hours",
-      "ratings": {
-        "count": 4322,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of Michigan"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f8/d9a0901e1411e6b4be05fc1f155449/python_datascience_thumbnail_machinelearning_1x1.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Applied Machine Learning in Python",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-applied-social-network-analysis-in-python.md",
-      "title": "Applied Social Network Analysis in Python",
-      "excerpt": "Learn Applied Social Network Analysis in Python from University of Michigan. This course will introduce the learner to network analysis through tutorials using the NetworkX library. The course begins with an understanding of what network analysis ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-applied-social-network-analysis-in-python/index.json",
-      "webUrl": "https://www.coursera.org/learn/python-social-network-analysis",
-      "length": "16 hours",
-      "ratings": {
-        "count": 1451,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of Michigan"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/24/2ca1701e1511e6846dd70314906f93/python_datascience_thumbnail_social_1x1.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Applied Social Network Analysis in Python",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-applying-machine-learning-to-your-data-with-gcp.md",
-      "title": "Applying Machine Learning to your Data with GCP",
-      "excerpt": "Learn Applying Machine Learning to your Data with GCP from Google Cloud. In this module, we define what Machine Learning is and how it can benefit your business. You'll see a few demos of ML in action and learn key ML terms like instances, ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-applying-machine-learning-to-your-data-with-gcp/index.json",
-      "webUrl": "https://www.coursera.org/learn/data-insights-gcp-apply-ml",
-      "length": "7 hours",
-      "ratings": {
-        "count": 381,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/91/6faca0dea311e786ef199d01464c92/course-4_v2.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Applying Machine Learning to your Data with GCP",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-art-and-science-of-machine-learning.md",
-      "title": "Art and Science of Machine Learning",
-      "excerpt": "Learn Art and Science of Machine Learning from Google Cloud. Welcome to the art and science of machine learning. In this data science course you will learn the essential skills of ML intuition, good judgment and experimentation to finely tune and ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-art-and-science-of-machine-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/art-science-ml",
-      "length": "8 hours",
-      "ratings": {
-        "count": 941,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f1/2afc90480611e880aa37659b7d325c/new-ml-on-gcp-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Art and Science of Machine Learning",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-bayesian-methods-for-machine-learning.md",
-      "title": "Bayesian Methods for Machine Learning",
-      "excerpt": "Learn Bayesian Methods for Machine Learning from National Research University Higher School of Economics. People apply Bayesian methods in many areas: from game development to drug discovery. They give superpowers to many machine learning ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-bayesian-methods-for-machine-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/bayesian-methods-in-machine-learning",
-      "length": "39 hours",
-      "ratings": {
-        "count": 439,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "National Research University Higher School of Economics"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/36/c808e08bda11e795c4f57af56b2521/Bayesian-machine-learning2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Bayesian Methods for Machine Learning",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-big-data-applications-machine-learning-at-scale.md",
-      "title": "Big Data Applications: Machine Learning at Scale",
-      "excerpt": "Learn Big Data Applications: Machine Learning at Scale from Yandex. Machine learning is transforming the world around us. To become successful, you’d better know what kinds of problems can be solved with machine learning, and how they can be ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-big-data-applications-machine-learning-at-scale/index.json",
-      "webUrl": "https://www.coursera.org/learn/machine-learning-applications-big-data",
-      "length": "77 hours",
-      "ratings": {
-        "count": 71,
-        "average": 3.8
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Stanford",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5b/7d7220a14611e7bcc3e5d73bb99b6b/Yandex-466_1.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Big Data Applications: Machine Learning at Scale",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-building-ai-applications-with-watson-apis.md",
-      "title": "Building AI Applications with Watson APIs",
-      "excerpt": "Learn Building AI Applications with Watson APIs from IBM. A learner will be able to write an application that leverages multiple Watson AI services (Discovery, Speech to Text, Assistant, and Text to Speech). By the end of the course, they’ll ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-building-ai-applications-with-watson-apis/index.json",
-      "webUrl": "https://www.coursera.org/learn/building-ai-applications",
-      "length": "11 hours",
-      "ratings": {
-        "count": 136,
-        "average": 4.2
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "IBM"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/57/266e8184e74b09b4a2e93348fd8c84/_Building-Chatbots-and-Virtual-Assistants2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Building AI Applications with Watson APIs",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-building-deep-learning-models-with-tensorflow.md",
-      "title": "Building Deep Learning Models with TensorFlow",
-      "excerpt": "Learn Building Deep Learning Models with TensorFlow from IBM. The majority of data in the world is unlabeled and unstructured. Shallow neural networks cannot easily capture relevant structure in, for instance, images, sound, and textual data. ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-building-deep-learning-models-with-tensorflow/index.json",
-      "webUrl": "https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow",
-      "length": "8 hours",
-      "ratings": {
-        "count": 189,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "IBM",
-            "domain": "ibm.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "TensorFlow"
-      ],
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/d8/430999039e4043bde15d7777227a08/Production-Level-Deep-Learning-with-Tensorflow.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Building Deep Learning Models with TensorFlow",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-business-application-of-machine-learning-and-artificial-intelligence-in-healthcare.md",
-      "title": "Business Application of Machine Learning and Artificial Intelligence in Healthcare",
-      "excerpt": "Learn Business Application of Machine Learning and Artificial Intelligence in Healthcare from Northeastern University . The future of healthcare is becoming dependent on our ability to integrate Machine Learning and Artificial Intelligence into ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-business-application-of-machine-learning-and-artificial-intelligence-in-healthcare/index.json",
-      "webUrl": "https://www.coursera.org/learn/artificialintelligence-in-healthcare",
-      "length": "13 hours",
-      "ratings": {
-        "count": 15,
-        "average": 3.7
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Northeastern University"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b4/43a1d0046511e9888e7d53a298ae2a/NEU-Coursera-Icon_Machine-FINAL_1200x1200.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Business Application of Machine Learning and Artificial Intelligence in Healthcare",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-cloud-computing-applications-part-2-big-data-and-applications-in-the-cloud.md",
-      "title": "Cloud Computing Applications, Part 2: Big Data and Applications in the Cloud",
-      "excerpt": "Learn Cloud Computing Applications, Part 2: Big Data and Applications in the Cloud from University of Illinois at Urbana-Champaign. Welcome to the Cloud Computing Applications course, the second part of a two-course series designed to give you a ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-cloud-computing-applications-part-2-big-data-and-applications-in-the-cloud/index.json",
-      "webUrl": "https://www.coursera.org/learn/cloud-applications-part2",
-      "length": "15 hours",
-      "ratings": {
-        "count": 231,
-        "average": 4.2
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of Illinois at Urbana-Champaign"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/d3/1c09b01d2e11e69fcf2d6c6ce4d4b6/cloud_applications_part-2.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Cloud Computing Applications, Part 2: Big Data and Applications in the Cloud",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-code-free-data-science.md",
-      "title": "Code Free Data Science",
-      "excerpt": "Learn Code Free Data Science from University of California San Diego. The Code Free Data Science class is designed for learners seeking to gain or expand their knowledge in the area of Data Science.  Participants will receive the basic training ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-code-free-data-science/index.json",
-      "webUrl": "https://www.coursera.org/learn/code-free-data-science",
-      "length": "17 hours",
-      "ratings": {
-        "count": 15,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of California San Diego"
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
           }
         ]
       },
@@ -827,224 +84,45 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/2c/bca490356f41469c05d572719e79e4/Logo.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Code Free Data Science",
+          "url": "https://pluralsight.imgix.net/course-images/google-machine-learning-apis-designing-implementing-solutions-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Designing and Implementing Solutions Using Google Machine Learning APIs",
           "isCached": false
         }
       ],
       "content": "",
       "type": "course",
-      "price": "Free+",
+      "price": "$$",
       "topics": [
         "AI",
-        "Machine Learning"
+        "Google AI"
       ]
     },
     {
-      "path": "_learning/courses/coursera-control-of-mobile-robots.md",
-      "title": "Control of Mobile Robots",
-      "excerpt": "Learn Control of Mobile Robots from Georgia Institute of Technology. Control of Mobile Robots is a course that focuses on the application of modern control theory to the problem of making robots move around in safe and effective ways. The ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-control-of-mobile-robots/index.json",
-      "webUrl": "https://www.coursera.org/learn/mobile-robot",
-      "length": "21 hours",
-      "ratings": {
-        "count": 1352,
-        "average": 4.8
-      },
+      "path": "_learning/courses/pluralsight-developing-applications-with-aws-rekognition.md",
+      "title": "Developing Applications with AWS Rekognition",
+      "excerpt": "AWS Rekognition provides powerful services for image and video processing. This course, Developing Applications with AWS Rekognition, will demonstrate how these features can be applied to your applications. First, you will cover topics like biometric access based on facial recognition and detection of unsafe content. Next, you will learn how to implement person tracking in security videos and metadata discovery for social media applications. Finally, you will see how other AWS services, like EC2 and Lambda, can work together with Rekognition to build complete applications. When you're finished with this course, you will be ready to use all of the features of Rekognition for image and video processing.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-developing-applications-with-aws-rekognition/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-rekognition-developing-applications",
+      "length": "1h 27m",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "publishers": [
+        "authors": [
           {
             "path": "",
-            "name": "Georgia Institute of Technology"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7e/e8fe7034c111e69ed8b50c8afbcd7c/ControlMobileRobots.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Control of Mobile Robots",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-convolutional-neural-networks-in-tensorflow.md",
-      "title": "Convolutional Neural Networks in TensorFlow",
-      "excerpt": "Learn Convolutional Neural Networks in TensorFlow from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This course is part of the ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-convolutional-neural-networks-in-tensorflow/index.json",
-      "webUrl": "https://www.coursera.org/learn/convolutional-neural-networks-tensorflow",
-      "length": "7 hours",
-      "ratings": {
-        "count": 2716,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "deeplearning.ai",
-            "domain": "deeplearning.ai",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "TensorFlow"
-      ],
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/1e/b9a22461864399a689eb74c7ae1fc6/TFC2SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Convolutional Neural Networks in TensorFlow",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-convolutional-neural-networks.md",
-      "title": "Convolutional Neural Networks",
-      "excerpt": "Learn Convolutional Neural Networks from deeplearning.ai. This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-convolutional-neural-networks/index.json",
-      "webUrl": "https://www.coursera.org/learn/convolutional-neural-networks",
-      "length": "21 hours",
-      "ratings": {
-        "count": 29194,
-        "average": 4.9
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "deeplearning.ai",
-            "domain": "deeplearning.ai",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "TensorFlow"
-      ],
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/2a/5d4810104e11e8a405e7a3b3b97580/CarouselAds_DL_Convolutional.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Convolutional Neural Networks",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-data-driven-astronomy.md",
-      "title": "Data-driven Astronomy",
-      "excerpt": "Learn Data-driven Astronomy from The University of Sydney. Science is undergoing a data explosion, and astronomy is leading the way. Modern telescopes produce terabytes of data per observation, and the simulations required to model our observable ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-data-driven-astronomy/index.json",
-      "webUrl": "https://www.coursera.org/learn/data-driven-astronomy",
-      "length": "22 hours",
-      "ratings": {
-        "count": 490,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "The University of Sydney"
+            "title": "Alan Jones",
+            "type": "profile",
+            "name": "Alan Jones"
           }
         ]
       },
@@ -1054,371 +132,452 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7f/8a57a0bb4111e68a2541483a21c7e6/Createastronomy-_data.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Data-driven Astronomy",
+          "url": "https://pluralsight.imgix.net/course-images/aws-rekognition-developing-applications-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Developing Applications with AWS Rekognition",
           "isCached": false
         }
       ],
       "content": "",
       "type": "course",
-      "price": "Free+",
+      "price": "$$",
       "topics": [
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-data-for-machine-learning.md",
-      "title": "Data for Machine Learning",
-      "excerpt": "Learn Data for Machine Learning from Alberta Machine Intelligence Institute. This course synthesizes everything your have learned in the applied machine learning specialization. You will now walk through a complete machine learning project to ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-data-for-machine-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/data-machine-learning",
-      "length": "4 hours",
-      "ratings": {
-        "count": 8,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Alberta Machine Intelligence Institute"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/0a/2934226fd34d5694390958251cd774/ML-Improving-Machine-Learning_1.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Data for Machine Learning",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-data-pipelines-with-tensorflow-data-services.md",
-      "title": "Data Pipelines with TensorFlow Data Services",
-      "excerpt": "Learn Data Pipelines with TensorFlow Data Services from deeplearning.ai. Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment scenarios ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-data-pipelines-with-tensorflow-data-services/index.json",
-      "webUrl": "https://www.coursera.org/learn/data-pipelines-tensorflow",
-      "length": "13 hours",
-      "ratings": {
-        "count": 55,
-        "average": 3.9
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "deeplearning.ai",
-            "domain": "deeplearning.ai",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "TensorFlow"
-      ],
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/16/6f37ad30ea4653bed72ed095189111/TFS2C3CourseraSquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Data Pipelines with TensorFlow Data Services",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-data-science-ethics.md",
-      "title": "Data Science Ethics",
-      "excerpt": "Learn Data Science Ethics from University of Michigan. What are the ethical considerations regarding the privacy and control of consumer information and big data, especially in the aftermath of recent large-scale data breaches?  This course ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-data-science-ethics/index.json",
-      "webUrl": "https://www.coursera.org/learn/data-science-ethics",
-      "length": "16 hours",
-      "ratings": {
-        "count": 113,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of Michigan"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e5/ac6a308e4c11e79b4d556cfe7c287c/datascienceethics_thumbnail_new_1x1.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Data Science Ethics",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-data-science-in-stratified-healthcare-and-precision-medicine.md",
-      "title": "Data Science in Stratified Healthcare and Precision Medicine",
-      "excerpt": "Learn Data Science in Stratified Healthcare and Precision Medicine from The University of Edinburgh. An increasing volume of data is becoming available in biomedicine and healthcare, from genomic data, to electronic patient records and data ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-data-science-in-stratified-healthcare-and-precision-medicine/index.json",
-      "webUrl": "https://www.coursera.org/learn/datascimed",
-      "length": "18 hours",
-      "ratings": {
-        "count": 87,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "The University of Edinburgh"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/cf/3f67402b7f11e8bff6877a2aed529e/logo_idea3_1.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Data Science in Stratified Healthcare and Precision Medicine",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-deep-learning-for-business.md",
-      "title": "Deep Learning for Business",
-      "excerpt": "Learn Deep Learning for Business from Yonsei University. Your smartphone, smartwatch, and automobile (if it is a newer model) have AI (Artificial Intelligence) inside serving you every day. In the near future, more advanced “self-learning” ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-deep-learning-for-business/index.json",
-      "webUrl": "https://www.coursera.org/learn/deep-learning-business",
-      "length": "8 hours",
-      "ratings": {
-        "count": 345,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Yonsei University"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/cb/1cc110653911e7b20e776f9e77a64f/jmc_thum_DeepLearning.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Deep Learning for Business",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-deep-learning-in-computer-vision.md",
-      "title": "Deep Learning in Computer Vision",
-      "excerpt": "Learn Deep Learning in Computer Vision from National Research University Higher School of Economics. Deep learning added a huge boost to the already rapidly developing field of computer vision. With deep learning, a lot of new applications of ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-deep-learning-in-computer-vision/index.json",
-      "webUrl": "https://www.coursera.org/learn/deep-learning-in-computer-vision",
-      "length": "25 hours",
-      "ratings": {
-        "count": 173,
-        "average": 3.8
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "National Research University Higher School of Economics"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/de/8a87108f2211e7b04e29ba33dce228/Deep-learning-for-computer-vision2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Deep Learning in Computer Vision",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning",
+        "AWS AI",
         "Computer Vision"
       ]
     },
     {
-      "path": "_learning/courses/coursera-deep-neural-networks-with-pytorch.md",
-      "title": "Deep Neural Networks with PyTorch",
-      "excerpt": "Learn Deep Neural Networks with PyTorch from IBM. The course will teach you how to develop deep learning models using  Pytorch. The course will start with Pytorch's  tensors and Automatic differentiation package. Then each section will cover ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-deep-neural-networks-with-pytorch/index.json",
-      "webUrl": "https://www.coursera.org/learn/deep-neural-networks-with-pytorch",
-      "length": "20 hours",
-      "ratings": {
-        "count": 268,
-        "average": 4.4
-      },
+      "path": "_learning/courses/pluralsight-doing-data-science-with-python.md",
+      "title": "Doing Data Science with Python",
+      "excerpt": "This course shows you how to work on an end-to-end data science project including processing data, building &amp; evaluating machine learning model, and exposing the model as an API in a standardized approach using various Python libraries.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-doing-data-science-with-python/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/python-data-science",
+      "length": "6h 25m",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "publishers": [
+        "authors": [
           {
             "path": "",
-            "name": "IBM",
-            "domain": "ibm.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
+            "title": "Abhishek Kumar",
+            "type": "profile",
+            "name": "Abhishek Kumar"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/audience/data-professional.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Doing Data Science with Python",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-employing-ensemble-methods-with-scikit-learn.md",
+      "title": "Employing Ensemble Methods with scikit-learn",
+      "excerpt": "This course covers the theoretical and practical aspects of building ensemble learning solutions in scikit-learn; from random forests built using bagging and pasting to adaptive and gradient boosting and model stacking and hyperparameter tuning. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-employing-ensemble-methods-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/employing-ensemble-methods-scikit-learn",
+      "length": "2h 14m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/employing-ensemble-methods-scikit-learn-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Employing Ensemble Methods with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-expediting-deep-learning-with-transfer-learning-pytorch-playbook.md",
+      "title": "Expediting Deep Learning with Transfer Learning: PyTorch Playbook",
+      "excerpt": "This course covers the important design choices that a data professional must make while leveraging pre-trained models using Transfer Learning. It also covers the implementation aspects of different Transfer Learning approaches in PyTorch. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-expediting-deep-learning-with-transfer-learning-pytorch-playbook/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/expediting-deep-learning-transfer-pytorch-playbook",
+      "length": "1h 46m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/expediting-deep-learning-transfer-pytorch-playbook-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Expediting Deep Learning with Transfer Learning: PyTorch Playbook",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-extracting-meaning-from-natural-language-with-the-language-understanding-service-luis-on-microsoft-azure.md",
+      "title": "Extracting Meaning from Natural Language with the Language Understanding Service (LUIS) on Microsoft Azure",
+      "excerpt": "Extracting Meaning from Natural Language with LUIS will allow you to build apps and bots that are capable to understanding natural human language and being able to act on those commands.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-extracting-meaning-from-natural-language-with-the-language-understanding-service-luis-on-microsoft-azure/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/microsoft-azure-luis-extracting-meaning-natural-language",
+      "length": "42m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Eduardo Freitas",
+            "type": "profile",
+            "name": "Eduardo Freitas"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/audience/generic.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Extracting Meaning from Natural Language with the Language Understanding Service (LUIS) on Microsoft Azure",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-foundations-of-pytorch.md",
+      "title": "Foundations of PyTorch",
+      "excerpt": "This course covers many aspects of building deep learning models in PyTorch, including neurons and neural networks, and how PyTorch uses differential calculus to train such models and create dynamic computation graphs in deep learning.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-foundations-of-pytorch/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/foundations-pytorch",
+      "length": "2h 51m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/foundations-pytorch-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Foundations of PyTorch",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-get-answers-in-context-with-semantic-search-in-microsoft-365-devintersection-2019.md",
+      "title": "Get Answers in Context with Semantic Search in Microsoft 365: DEVintersection 2019",
+      "excerpt": "DEVintersection 2019 | Get Answers in Context with Semantic Search in Microsoft 365 | Bill Baer",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-get-answers-in-context-with-semantic-search-in-microsoft-365-devintersection-2019/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/devintersection-azureai-session-22",
+      "length": "48m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "DEVintersection",
+            "type": "profile",
+            "name": "DEVintersection"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/devintersection-azureai-session-22-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Get Answers in Context with Semantic Search in Microsoft 365: DEVintersection 2019",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-getting-started-with-amazon-lex.md",
+      "title": "Getting Started with Amazon Lex",
+      "excerpt": "The creation of an interactive and intelligent application is helped by the use of automatic speech recognition (ASR) and natural language understanding (NLU). In Getting Started with Amazon Lex, you will be introduced to the skills required to leverage Amazon Lex to build these user interactions for the applications you create. First, you will learn how to define the intents that the ChatBot will fulfill for the user. Next, you will explore how to create the slots that will gather the required information from your user. Finally, you will discover how to implement Lambda functions that process the information gathered by your ChatBot to complete the desire of your users. When you are finished with this course, you will be prepared to create simple informational bots using Amazon Lex.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-getting-started-with-amazon-lex/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/getting-started-amazon-lex",
+      "length": "1h 57m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mike Erickson",
+            "type": "profile",
+            "name": "Mike Erickson"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/audience/software-development.jpg",
+          "width": 1280,
+          "height": 721,
+          "title": "Getting Started with Amazon Lex",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-getting-started-with-natural-language-processing-with-python.md",
+      "title": "Getting Started with Natural Language Processing with Python",
+      "excerpt": "This course is all about taking raw text data and deriving insights and value from it--processing text data using standard techniques in Natural Language Processing and Machine Learning.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-getting-started-with-natural-language-processing-with-python/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/python-natural-language-processing",
+      "length": "1h 43m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Swetha Kolalapudi",
+            "type": "profile",
+            "name": "Swetha Kolalapudi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/python-natural-language-processing-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Getting Started with Natural Language Processing with Python",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-getting-started-with-nlp-deep-learning-using-pytorch-and-fastai.md",
+      "title": "Getting Started with NLP Deep Learning Using PyTorch and fastai",
+      "excerpt": "This course will teach you how to start using fastai library and PyTorch to obtain near-state-of-the-art results with Deep Learning NLP for text classification. It will give you a theoretical background and show how to take models to production.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-getting-started-with-nlp-deep-learning-using-pytorch-and-fastai/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/getting-started-nlp-deep-learning-pytorch-fastai",
+      "length": "2h 13m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Gianni Rosa Gallina",
+            "type": "profile",
+            "name": "Gianni Rosa Gallina"
           }
         ]
       },
@@ -1431,161 +590,47 @@
       ],
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/93/768c25074142cf801a8a4b62e3cfeb/PyTorch.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Deep Neural Networks with PyTorch",
+          "url": "https://pluralsight.imgix.net/course-images/getting-started-nlp-deep-learning-pytorch-fastai-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Getting Started with NLP Deep Learning Using PyTorch and fastai",
           "isCached": false
         }
       ],
       "content": "",
       "type": "course",
-      "price": "Free+",
+      "price": "$$",
       "topics": [
         "AI",
-        "Facebook AI"
+        "Facebook AI",
+        "Machine Learning",
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_learning/courses/coursera-deploying-machine-learning-models.md",
-      "title": "Deploying Machine Learning Models",
-      "excerpt": "Learn Deploying Machine Learning Models from University of California San Diego. In this course we will learn about Recommender Systems (which we will study for the Capstone project), and also look at deployment issues for data products. By the ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-deploying-machine-learning-models/index.json",
-      "webUrl": "https://www.coursera.org/learn/deploying-machine-learning-models",
-      "length": "13 hours",
-      "ratings": {
-        "count": 12,
-        "average": 3.8
-      },
+      "path": "_learning/courses/pluralsight-image-classification-with-pytorch.md",
+      "title": "Image Classification with PyTorch",
+      "excerpt": "This course covers the parts of building enterprise-grade image classification systems like image pre-processing, picking between CNNs and DNNs, calculating output dimensions of CNNs, and leveraging pre-trained models using PyTorch transfer learning.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-image-classification-with-pytorch/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/image-classification-pytorch",
+      "length": "3h 4m",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "publishers": [
+        "authors": [
           {
             "path": "",
-            "name": "University of California San Diego"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5d/2b0180028b11e9aee3cbc96ec33ed9/pexels-photo-533189.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Deploying Machine Learning Models",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-device-based-models-with-tensorflow-lite.md",
-      "title": "Device-based Models with TensorFlow Lite",
-      "excerpt": "Learn Device-based Models with TensorFlow Lite from deeplearning.ai. Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment scenarios and ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-device-based-models-with-tensorflow-lite/index.json",
-      "webUrl": "https://www.coursera.org/learn/device-based-models-tensorflow",
-      "length": "11 hours",
-      "ratings": {
-        "count": 99,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "deeplearning.ai",
-            "domain": "deeplearning.ai",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "TensorFlow"
-      ],
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a2/59d204ec3e40b78a9692b3b33a688f/TFS2C2CourseraSquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Device-based Models with TensorFlow Lite",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-end-to-end-machine-learning-with-tensorflow-on-gcp.md",
-      "title": "End-to-End Machine Learning with TensorFlow on GCP",
-      "excerpt": "Learn End-to-End Machine Learning with TensorFlow on GCP from Google Cloud. In the first course of this specialization, we will recap what was covered in the  Machine Learning with TensorFlow on Google Cloud Platform Specialization ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-end-to-end-machine-learning-with-tensorflow-on-gcp/index.json",
-      "webUrl": "https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp",
-      "length": "11 hours",
-      "ratings": {
-        "count": 1023,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Google Cloud"
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
           }
         ]
       },
@@ -1594,25 +639,883 @@
       ],
       "heat": 50,
       "tags": [
-        "TensorFlow"
+        "PyTorch"
       ],
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/85/1f9930bd3f11e8a00b63e9f285be45/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "End-to-End Machine Learning with TensorFlow on GCP",
+          "url": "https://pluralsight.imgix.net/course-images/image-classification-pytorch-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Image Classification with PyTorch",
           "isCached": false
         }
       ],
       "content": "",
       "type": "course",
-      "price": "Free+",
+      "price": "$$",
       "topics": [
         "AI",
-        "Machine Learning",
-        "Google AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-language-modeling-with-recurrent-neural-networks-in-tensorflow.md",
+      "title": "Language Modeling with Recurrent Neural Networks in TensorFlow",
+      "excerpt": "If you are working with text data using neural networks, RNNs are a natural choice for sequences. This course works through language modeling problems using RNNS - optical character recognition or OCR and generating text using character prediction.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-language-modeling-with-recurrent-neural-networks-in-tensorflow/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/tensorflow-language-modeling-recurrent-neural-networks",
+      "length": "2h 35m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
         "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/tensorflow-language-modeling-recurrent-neural-networks-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Language Modeling with Recurrent Neural Networks in TensorFlow",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-machine-learning-with-xgboost-using-scikit-learn-in-python.md",
+      "title": "Machine Learning with XGBoost Using scikit-learn in Python",
+      "excerpt": "XGBoost is the most winning supervised machine learning approach in competitive modeling on structured datasets. This course will teach you the basics of XGBoost, including basic syntax, functions, and implementing the model in the real world. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-machine-learning-with-xgboost-using-scikit-learn-in-python/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/xgboost-python-scikit-learn-machine-learning",
+      "length": "1h 33m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mike West",
+            "type": "profile",
+            "name": "Mike West"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/xgboost-python-scikit-learn-machine-learning-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Machine Learning with XGBoost Using scikit-learn in Python",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-microsoft-azure-cognitive-services-bing-spell-check-api.md",
+      "title": "Microsoft Azure Cognitive Services: Bing Spell Check API",
+      "excerpt": "Real time spelling and grammar correction that works across multiple languages can make your app stand out.  Bing Spell Check uses advanced machine learning to perform context-aware spell checking.  Find out how to use it in this course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-microsoft-azure-cognitive-services-bing-spell-check-api/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/microsoft-azure-cognitive-services-bing-spell-check-api",
+      "length": "1h 10m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "James Millar",
+            "type": "profile",
+            "name": "James Millar"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/microsoft-azure-cognitive-services-bing-spell-check-api-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Microsoft Azure Cognitive Services: Bing Spell Check API",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-microsoft-azure-cognitive-services-qna-maker.md",
+      "title": "Microsoft Azure Cognitive Services: QnA Maker",
+      "excerpt": "Use QnA Maker and Azure Bot Service to create an FAQ chat bot that can answer questions using a natural language format. Deploy your bot to the web or other service like Slack, email, and text message. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-microsoft-azure-cognitive-services-qna-maker/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/microsoft-azure-cognitive-services-qna-maker",
+      "length": "36m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Jesse Dietrichson",
+            "type": "profile",
+            "name": "Jesse Dietrichson"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/microsoft-azure-cognitive-services-qna-maker-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Microsoft Azure Cognitive Services: QnA Maker",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-model-evaluation-and-selection-using-scikit-learn.md",
+      "title": "Model Evaluation and Selection Using scikit-learn",
+      "excerpt": "Review the techniques and metrics used to evaluate how well your machine learning model performs. You will also learn methods to select the best machine learning model from a set of models that you've built.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-model-evaluation-and-selection-using-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/model-evaluation-selection-scikit-learn",
+      "length": "1h 17m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Pluralsight",
+            "type": "profile",
+            "name": "Pluralsight"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/model-evaluation-selection-scikit-learn-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Model Evaluation and Selection Using scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-natural-language-processing-with-pytorch.md",
+      "title": "Natural Language Processing with PyTorch",
+      "excerpt": "This course covers the use of advanced neural network constructs and architectures, such as recurrent neural networks, word embeddings, and bidirectional RNNs, to solve complex word and language modeling problems using PyTorch. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-natural-language-processing-with-pytorch/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/natural-language-processing-pytorch",
+      "length": "2h 58m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/natural-language-processing-pytorch-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Natural Language Processing with PyTorch",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-preparing-data-for-modeling-with-scikit-learn.md",
+      "title": "Preparing Data for Modeling with scikit-learn",
+      "excerpt": "This course covers important steps in the pre-processing of data, including standardization, normalization, novelty and outlier detection, pre-processing image and text data, as well as explicit kernel approximations such as the RBF and Nystroem methods. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-preparing-data-for-modeling-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/preparing-data-modeling-scikit-learn",
+      "length": "3h 40m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/preparing-data-modeling-scikit-learn-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Preparing Data for Modeling with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-reducing-dimensions-in-data-with-scikit-learn.md",
+      "title": "Reducing Dimensions in Data with scikit-learn",
+      "excerpt": "This course covers a wide range of the important techniques of dimensionality reduction and feature selection available in scikit-learn, allowing model builders to optimize model performance by reducing overfitting, save on model training time and cost, and better visualize the results of machine learning models.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-reducing-dimensions-in-data-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/reducing-dimensions-data-scikit-learn",
+      "length": "2h 29m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/reducing-dimensions-data-scikit-learn-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Reducing Dimensions in Data with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-scaling-scikit-learn-solutions.md",
+      "title": "Scaling scikit-learn Solutions",
+      "excerpt": "This course covers the important considerations for scikit-learn models in improving prediction latency and throughput; specific feature representation and partial learning techniques, as well as implementations of incremental learning, out-of-core learning, and multicore parallelism.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-scaling-scikit-learn-solutions/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/scaling-scikit-learn-solutions",
+      "length": "2h 53m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/scaling-scikit-learn-solutions-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Scaling scikit-learn Solutions",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-sentiment-analysis-with-recurrent-neural-networks-in-tensorflow.md",
+      "title": "Sentiment Analysis with Recurrent Neural Networks in TensorFlow",
+      "excerpt": "Recurrent neural networks (RNNs) are ideal for considering sequences of data. You'll explore how word embeddings are used for sentiment analysis using neural networks. You'll be able to understand and implement word embedding algorithms to generate numeric representations of text, and build a basic classification model. Start learning!",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-sentiment-analysis-with-recurrent-neural-networks-in-tensorflow/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/tensorflow-sentiment-analysis-recurrent-neural-networks",
+      "length": "2h 54m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/audience/data-professional.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Sentiment Analysis with Recurrent Neural Networks in TensorFlow",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-smart-analytics-machine-learning-and-ai-on-gcp.md",
+      "title": "Smart Analytics, Machine Learning, and AI on GCP",
+      "excerpt": "Incorporating machine learning into data pipelines increases the ability of businesses to extract insights from their data. This course covers several ways machine learning can be included in data pipelines on Google Cloud Platform depending on the level of customization required. For little to no customization, this course covers AutoML. For more tailored machine learning capabilities, this course introduces AI Platform Notebooks and BigQuery Machine Learning. Also, this course covers how to productionalize machine learning solutions using Kubeflow. Learners will get hands-on experience building machine learning models on Google Cloud Platform using QwikLabs.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-smart-analytics-machine-learning-and-ai-on-gcp/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/smart-analytics-machine-learning-ai-gcp",
+      "length": "1h 40m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Google Cloud",
+            "type": "profile",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/smart-analytics-machine-learning-ai-gcp-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Smart Analytics, Machine Learning, and AI on GCP",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-style-transfer-with-pytorch.md",
+      "title": "Style Transfer with PyTorch",
+      "excerpt": "This course covers the important aspects of neural style transfer, a technique for transforming images, and discusses Generative Adversarial Networks in order to efficiently create realistic images and videos.\n",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-style-transfer-with-pytorch/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/style-transfer-pytorch",
+      "length": "1h 49m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/style-transfer-pytorch-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Style Transfer with PyTorch",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-summarizing-data-and-deducing-probabilities.md",
+      "title": "Summarizing Data and Deducing Probabilities",
+      "excerpt": "This course covers the most important aspects of exploratory data analysis using different univariate, bivariate, and multivariate statistics from Excel and Python, including the use of Naive Bayes' classifiers and Seaborn to visualize relationships.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-summarizing-data-and-deducing-probabilities/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/summarizing-data-deducing-probabilities",
+      "length": "2h 48m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/summarizing-data-deducing-probabilities-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Summarizing Data and Deducing Probabilities",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-translating-languages-on-aws-with-amazon-translate.md",
+      "title": "Translating Languages on AWS with Amazon Translate",
+      "excerpt": "Translating text at scale is a challenge for many organizations that want to make themselves understood internationally. In this course, Translating Languages on AWS with Amazon Translate, you will gain the ability to leverage Amazon Translate and neural machine translation in your applications. First, you will learn the basic context and benefits of neural machine translation tools. Next, you will discover how to leverage Amazon Translate APIs to scale your translation capabilities. Finally, you will explore how to integrate Amazon Translate with other AWS services such as Amazon Polly and Amazon CloudWatch. When you’re finished with this course, you will have the skills and knowledge of Amazon Translate needed to develop, secure, and monitor your own Amazon Translation applications and remove the restriction of language barriers.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-translating-languages-on-aws-with-amazon-translate/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-translate-text",
+      "length": "2h 31m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Fernando Medina Corey",
+            "type": "profile",
+            "name": "Fernando Medina Corey"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-translate-text-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Translating Languages on AWS with Amazon Translate",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-turning-speech-into-text-on-aws-with-amazon-transcribe.md",
+      "title": "Turning Speech into Text on AWS with Amazon Transcribe",
+      "excerpt": "Digital recorded audio is a useful storage medium, but quickly becomes useless when it needs to be consumed quickly. In this course, Turning Speech into Text on AWS with Amazon Transcribe, you’ll gain the ability to leverage and scale the AWS Transcribe service to convert your recorded speech into flat text data. First, you’ll explore manual runs of transcription jobs. Next, you’ll discover how to scale up the process for higher impact transcriptions across your organization. Finally, you’ll learn how to combine transcription with AWS Translate to add even more flexibility for your global needs. When you’re finished with this course, you’ll have the skills and knowledge to alleviate the need to have people manually listen to and transcribe or translate recorded speech.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-turning-speech-into-text-on-aws-with-amazon-transcribe/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-transcribe-speech-text",
+      "length": "1h 29m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Tom Compagno",
+            "type": "profile",
+            "name": "Tom Compagno"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-transcribe-speech-text-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Turning Speech into Text on AWS with Amazon Transcribe",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-understanding-machine-learning-with-python.md",
+      "title": "Understanding Machine Learning with Python",
+      "excerpt": "Use your data to predict future events with the help of machine learning. This course will walk you through creating a machine learning prediction solution and will introduce Python, the scikit-learn library, and the Jupyter Notebook environment.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-understanding-machine-learning-with-python/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/python-understanding-machine-learning",
+      "length": "1h 53m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Jerry Kurata",
+            "type": "profile",
+            "name": "Jerry Kurata"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/python-understanding-machine-learning-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Understanding Machine Learning with Python",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-using-pytorch-in-the-cloud-pytorch-playbook.md",
+      "title": "Using PyTorch in the Cloud: PyTorch Playbook",
+      "excerpt": "This course covers the important aspects of using PyTorch on Amazon Web Services (AWS), Microsoft Azure, and the Google Cloud Platform (GCP), including the use of cloud-hosted notebooks, deep learning VM instances with GPU support, and PyTorch estimators. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-using-pytorch-in-the-cloud-pytorch-playbook/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/using-pytorch-in-the-cloud-playbook",
+      "length": "2h 21m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/using-pytorch-in-the-cloud-playbook-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Using PyTorch in the Cloud: PyTorch Playbook",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
       ]
     }
   ],

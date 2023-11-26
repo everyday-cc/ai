@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2023-04-16T17:44:29Z",
-      "heat": 217,
+      "heat": 179,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/V_xro1bcAuA/maxresdefault.jpg",
@@ -288,46 +288,6 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-what-is-pytorch-pytorch-in-8-minutes-pytorch-tutorial-for-beginners-simplilearn.md",
-      "title": "What is PyTorch ? | PyTorch in 8 Minutes | PyTorch Tutorial for Beginners | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In today's video on What Is PyTorch?, we will cover what is pytorch and it's tutorial in 7 minutes.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-pytorch-pytorch-in-8-minutes-pytorch-tutorial-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-pytorch-pytorch-in-8-minutes-pytorch-tutorial-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=r2JKV4_zlmM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r2JKV4_zlmM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M29S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-02-06T13:11:15Z",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r2JKV4_zlmM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_learning/videos/freecodecamporg-applied-deep-learning-with-pytorch-full-course.md",
       "title": "Applied Deep Learning with PyTorch - Full Course",
       "excerpt": "In this course you will learn the key concepts behind deep learning and how to apply the concepts to a real-life project using PyTorch and Python.  You'll learn the following: ⌨️ RNNs and LSTMs ⌨️ Sequence Modeling ⌨️ PyTorch ⌨️ Building a Chatbot in PyTorch  ⭐️Requirements ⭐️ ⌨️ Some Basic High School",
@@ -389,7 +349,7 @@
         ]
       },
       "publishedDateTime": "2023-02-20T13:37:29Z",
-      "heat": 53,
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/xJVvFUEFYLg/maxresdefault.jpg",
@@ -408,56 +368,14 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-keras-vs-tensorflow-vs-pytorch-deep-learning-frameworks-comparison-edureka.md",
-      "title": "Keras vs Tensorflow vs PyTorch | Deep Learning Frameworks Comparison | Edureka",
-      "excerpt": "** AI & Deep Learning with Tensorflow Training:  https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video on \"Keras vs TensorFlow vs PyTorch\" will provide you with a crisp comparison among the top three deep learning frameworks. It provides a detailed and comprehensive knowledge",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-keras-vs-tensorflow-vs-pytorch-deep-learning-frameworks-comparison-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-keras-vs-tensorflow-vs-pytorch-deep-learning-frameworks-comparison-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=DmI58jz2i6w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DmI58jz2i6w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M45S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-26T05:34:50Z",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DmI58jz2i6w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "Facebook AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-pytorch-tutorial-for-beginners-deep-learning-with-pytorch-pytorch-installation-simplilearn.md",
-      "title": "PyTorch Tutorial for Beginners | Deep Learning with Pytorch | Pytorch Installation | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  In today's video on Pytorch Tutorial for Beginners, you will learn How To Install PyTorch. This PyTorch",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-pytorch-tutorial-for-beginners-deep-learning-with-pytorch-pytorch-installation-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-pytorch-tutorial-for-beginners-deep-learning-with-pytorch-pytorch-installation-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=4dNmxXl4QvY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4dNmxXl4QvY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M21S",
+      "path": "_learning/videos/simplilearn-what-is-pytorch-pytorch-in-8-minutes-pytorch-tutorial-for-beginners-simplilearn.md",
+      "title": "What is PyTorch ? | PyTorch in 8 Minutes | PyTorch Tutorial for Beginners | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In today's video on What Is PyTorch?, we will cover what is pytorch and it's tutorial in 7 minutes.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-pytorch-pytorch-in-8-minutes-pytorch-tutorial-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-pytorch-pytorch-in-8-minutes-pytorch-tutorial-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=r2JKV4_zlmM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r2JKV4_zlmM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M29S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
@@ -470,173 +388,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-02-14T06:13:49Z",
-      "heat": 52,
+      "publishedDateTime": "2023-02-06T13:11:15Z",
+      "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/4dNmxXl4QvY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-pytorch-python-tutorial-deep-learning-using-pytorch-image-classifier-using-pytorch-edureka.md",
-      "title": "PyTorch Python Tutorial | Deep Learning Using PyTorch | Image Classifier Using PyTorch | Edureka",
-      "excerpt": "( ** Deep Learning Training: https://goo.gl/4it6DE ** ) This Edureka PyTorch Tutorial video (Blog: https://goo.gl/4zxMfU) will help you in understanding various important basics of PyTorch. It also includes a use-case in which we will create an image classifier that will predict the accuracy of an image",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-pytorch-python-tutorial-deep-learning-using-pytorch-image-classifier-using-pytorch-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-pytorch-python-tutorial-deep-learning-using-pytorch-image-classifier-using-pytorch-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=XriwHXfLi6M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XriwHXfLi6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M12S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-09-25T13:41:25Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XriwHXfLi6M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-pytorch-vs-tensorflow-the-force-is-strong-with-which-one-which-one-you-should-learn-edureka.md",
-      "title": "PyTorch vs TensorFlow: The Force Is Strong With Which One? | Which One You Should Learn? | Edureka",
-      "excerpt": "( ** AI & Deep Learning with Tensorflow Training: https://www.edureka.co/ai-deep-learning-with-tensorflow ** ) This Edureka comparison video of \"PyTorch vs TensorFlow\" provides you with a detailed comparison between the top 2 Python Deep Learning Frameworks.  Do subscribe to our channel and hit the bell",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-pytorch-vs-tensorflow-the-force-is-strong-with-which-one-which-one-you-should-learn-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-pytorch-vs-tensorflow-the-force-is-strong-with-which-one-which-one-you-should-learn-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=Mn1AACvK-YI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mn1AACvK-YI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M22S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-10-05T05:28:07Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Mn1AACvK-YI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "Facebook AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-deep-learning-with-pytorch-introduction-to-pytorch-for-deep-learning-pytorch-basics-simplilearn.md",
-      "title": "Deep Learning With Pytorch | Introduction to Pytorch for Deep Learning | Pytorch Basics| Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video by Simplilearn will explain to you *Deep Learning with PyTorch* . This video will cover",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-with-pytorch-introduction-to-pytorch-for-deep-learning-pytorch-basics-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-with-pytorch-introduction-to-pytorch-for-deep-learning-pytorch-basics-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=BQ65aJPb5aM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BQ65aJPb5aM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M23S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-03-15T06:29:33Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BQ65aJPb5aM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-how-to-build-neural-network-in-pytorch-pytorch-tutorial-for-beginners-simplilearn.md",
-      "title": "How to Build Neural Network in Pytorch? | PyTorch Tutorial for Beginners | Simplilearn",
-      "excerpt": "🔥Cyber Security Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx76 🔥Cyber Security Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBy 🔥Cyber Security Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx7J In this video on \"how to build a neural network in PyTorch,\" we'll learn",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-to-build-neural-network-in-pytorch-pytorch-tutorial-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-to-build-neural-network-in-pytorch-pytorch-tutorial-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=2AhiHV7QGVk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2AhiHV7QGVk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H16M53S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-03-06T13:51:09Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2AhiHV7QGVk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/r2JKV4_zlmM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1323,6 +1079,250 @@
       "price": "$$",
       "topics": [
         "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-keras-vs-tensorflow-vs-pytorch-deep-learning-frameworks-comparison-edureka.md",
+      "title": "Keras vs Tensorflow vs PyTorch | Deep Learning Frameworks Comparison | Edureka",
+      "excerpt": "** AI & Deep Learning with Tensorflow Training:  https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video on \"Keras vs TensorFlow vs PyTorch\" will provide you with a crisp comparison among the top three deep learning frameworks. It provides a detailed and comprehensive knowledge",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-keras-vs-tensorflow-vs-pytorch-deep-learning-frameworks-comparison-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-keras-vs-tensorflow-vs-pytorch-deep-learning-frameworks-comparison-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=DmI58jz2i6w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DmI58jz2i6w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M45S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-11-26T05:34:50Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DmI58jz2i6w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-pytorch-python-tutorial-deep-learning-using-pytorch-image-classifier-using-pytorch-edureka.md",
+      "title": "PyTorch Python Tutorial | Deep Learning Using PyTorch | Image Classifier Using PyTorch | Edureka",
+      "excerpt": "( ** Deep Learning Training: https://goo.gl/4it6DE ** ) This Edureka PyTorch Tutorial video (Blog: https://goo.gl/4zxMfU) will help you in understanding various important basics of PyTorch. It also includes a use-case in which we will create an image classifier that will predict the accuracy of an image",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-pytorch-python-tutorial-deep-learning-using-pytorch-image-classifier-using-pytorch-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-pytorch-python-tutorial-deep-learning-using-pytorch-image-classifier-using-pytorch-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=XriwHXfLi6M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XriwHXfLi6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M12S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-09-25T13:41:25Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XriwHXfLi6M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-pytorch-vs-tensorflow-the-force-is-strong-with-which-one-which-one-you-should-learn-edureka.md",
+      "title": "PyTorch vs TensorFlow: The Force Is Strong With Which One? | Which One You Should Learn? | Edureka",
+      "excerpt": "( ** AI & Deep Learning with Tensorflow Training: https://www.edureka.co/ai-deep-learning-with-tensorflow ** ) This Edureka comparison video of \"PyTorch vs TensorFlow\" provides you with a detailed comparison between the top 2 Python Deep Learning Frameworks.  Do subscribe to our channel and hit the bell",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-pytorch-vs-tensorflow-the-force-is-strong-with-which-one-which-one-you-should-learn-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-pytorch-vs-tensorflow-the-force-is-strong-with-which-one-which-one-you-should-learn-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=Mn1AACvK-YI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mn1AACvK-YI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M22S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-10-05T05:28:07Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Mn1AACvK-YI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-deep-learning-with-pytorch-introduction-to-pytorch-for-deep-learning-pytorch-basics-simplilearn.md",
+      "title": "Deep Learning With Pytorch | Introduction to Pytorch for Deep Learning | Pytorch Basics| Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video by Simplilearn will explain to you *Deep Learning with PyTorch* . This video will cover",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-with-pytorch-introduction-to-pytorch-for-deep-learning-pytorch-basics-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-with-pytorch-introduction-to-pytorch-for-deep-learning-pytorch-basics-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=BQ65aJPb5aM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BQ65aJPb5aM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M23S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-15T06:29:33Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BQ65aJPb5aM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-how-to-build-neural-network-in-pytorch-pytorch-tutorial-for-beginners-simplilearn.md",
+      "title": "How to Build Neural Network in Pytorch? | PyTorch Tutorial for Beginners | Simplilearn",
+      "excerpt": "🔥Cyber Security Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx76 🔥Cyber Security Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBy 🔥Cyber Security Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx7J In this video on \"how to build a neural network in PyTorch,\" we'll learn",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-to-build-neural-network-in-pytorch-pytorch-tutorial-for-beginners-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-to-build-neural-network-in-pytorch-pytorch-tutorial-for-beginners-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=2AhiHV7QGVk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2AhiHV7QGVk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H16M53S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-06T13:51:09Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2AhiHV7QGVk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-pytorch-tutorial-for-beginners-deep-learning-with-pytorch-pytorch-installation-simplilearn.md",
+      "title": "PyTorch Tutorial for Beginners | Deep Learning with Pytorch | Pytorch Installation | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  In today's video on Pytorch Tutorial for Beginners, you will learn How To Install PyTorch. This PyTorch",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-pytorch-tutorial-for-beginners-deep-learning-with-pytorch-pytorch-installation-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-pytorch-tutorial-for-beginners-deep-learning-with-pytorch-pytorch-installation-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=4dNmxXl4QvY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4dNmxXl4QvY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M21S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-02-14T06:13:49Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4dNmxXl4QvY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
         "Facebook AI"
       ]
     }

@@ -4,373 +4,14 @@
   "page": 18,
   "value": [
     {
-      "path": "_learning/videos/simplilearn-top-8-ai-ml-projects-8-best-ai-and-ml-ideas-to-make-your-portfolio-stand-out-simplilearn.md",
-      "title": "Top 8 AI ML Projects | 8 Best AI And ML Ideas To Make Your Portfolio Stand Out | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  In this video, \" Top 8 ML/AI Projects\" we will take you through the best ML Projects for your Resume.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-8-ai-ml-projects-8-best-ai-and-ml-ideas-to-make-your-portfolio-stand-out-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-8-ai-ml-projects-8-best-ai-and-ml-ideas-to-make-your-portfolio-stand-out-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=hNNGZQS3NDc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hNNGZQS3NDc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M59S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-30T12:32:14Z",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hNNGZQS3NDc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-top-deep-learning-algorithms-you-should-know-about-deep-learning-algorithms-explained-simplilearn.md",
-      "title": "Top Deep Learning Algorithms You Should Know About | Deep Learning Algorithms Explained |Simplilearn",
-      "excerpt": "Deep Learning algorithms use artificial neural networks to solve complex problems. This video covers the top 10 deep learning algorithms used in the industries. You will learn how these algorithms work and where they can be used. You will also look at the overall view of these neural network structures.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-deep-learning-algorithms-you-should-know-about-deep-learning-algorithms-explained-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-deep-learning-algorithms-you-should-know-about-deep-learning-algorithms-explained-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=dvcbOYR8aZo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dvcbOYR8aZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M38S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-26T12:04:39Z",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dvcbOYR8aZo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-what-is-artificial-intelligence-artificial-intelligence-in-10-minutes-what-is-ai-simplilearn.md",
-      "title": "What is Artificial Intelligence? | Artificial Intelligence in 10 Minutes | What is AI? | Simplilearn",
-      "excerpt": "This Artificial Intelligence video will introduce you to the AI world and give you a short glimpse about AI history. By the end of this video, you will learn what is Artificial intelligence, types of Artificial Intelligence, applications of Artificial Intelligence and future of Artificial Intelligence.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-artificial-intelligence-artificial-intelligence-in-10-minutes-what-is-ai-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-artificial-intelligence-artificial-intelligence-in-10-minutes-what-is-ai-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=15PK38MUEPM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/15PK38MUEPM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M23S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-11T14:05:35Z",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/15PK38MUEPM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-what-is-langchain-langchain-explained-in-14-minutes-langchain-tutorial-simplilearn.md",
-      "title": "What Is LangChain ? | LangChain Explained in 14 Minutes | LangChain Tutorial | Simplilearn",
-      "excerpt": "🔥Full Stack Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx7i 🔥Full Stack Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugCr 🔥Full Stack Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1ugCu In this video on \"What Is LangChain,\" we will cover what LangChain is, why we need",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-langchain-langchain-explained-in-14-minutes-langchain-tutorial-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-langchain-langchain-explained-in-14-minutes-langchain-tutorial-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=1Q47-GXGaPc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1Q47-GXGaPc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M41S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-07-12T06:59:59Z",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1Q47-GXGaPc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-what-is-neural-network-in-machine-learning-neural-network-explained-neural-network-simplilearn.md",
-      "title": "What is Neural Network in Machine Learning | Neural Network Explained | Neural Network | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video by Simplilearn is based on Neural Networks in Machine Learning. This Neural Network in",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-neural-network-in-machine-learning-neural-network-explained-neural-network-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-neural-network-in-machine-learning-neural-network-explained-neural-network-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=JCtMcVW8v7o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JCtMcVW8v7o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H36M42S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-04-21T11:00:49Z",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JCtMcVW8v7o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-what-is-tensorflow-introduction-to-tensorflow-tensorflow-tutorial-for-beginners-simplilearn.md",
-      "title": "What is TensorFlow? | Introduction to TensorFlow | TensorFlow Tutorial for Beginners | Simplilearn",
-      "excerpt": "This TensorFlow tutorial will help you in understanding what exactly is TensorFlow and how it is used in Deep Learning. TensorFlow is a software library developed by Google for the purposes of conducting machine learning and deep neural network research. In this tutorial, you will learn the fundamentals",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-tensorflow-introduction-to-tensorflow-tensorflow-tutorial-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-tensorflow-introduction-to-tensorflow-tensorflow-tutorial-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=E8n_k6HNAgs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E8n_k6HNAgs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H14M25S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-07T09:16:21Z",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/E8n_k6HNAgs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-convert-text-to-images-intro-to-deep-learning-16.md",
-      "title": "How to Convert Text to Images - Intro to Deep Learning #16",
-      "excerpt": "Generative Adversarial Networks are back! We'll use the cutting edge StackGAN architecture to let us generate images from text descriptions alone. This is pretty wild stuff and there is so much room for improvement. The possibilities are endless. I'll go through the architecture, code, and the implications",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-convert-text-to-images-intro-to-deep-learning-16/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-convert-text-to-images-intro-to-deep-learning-16/",
-      "originalUrl": "https://youtube.com/watch?v=gmvRStL_Dag",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gmvRStL_Dag\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M33S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-10T03:24:38Z",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gmvRStL_Dag/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-generate-art-intro-to-deep-learning-8.md",
-      "title": "How to Generate Art - Intro to Deep Learning #8",
-      "excerpt": "We're going to learn how to use deep learning to convert an image into the style of an artist that we choose. We'll go over the history of computer generated art, then dive into the details of how this process works and why deep learning does it so well.  Coding challenge for this video: https://github.com/llSourcell/How-to-Generate-Art-Demo",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-generate-art-intro-to-deep-learning-8/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-generate-art-intro-to-deep-learning-8/",
-      "originalUrl": "https://youtube.com/watch?v=Oex0eWoU7AQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Oex0eWoU7AQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M57S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-03-18T08:02:00Z",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Oex0eWoU7AQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-make-a-language-translator-intro-to-deep-learning-11.md",
-      "title": "How to Make a Language Translator - Intro to Deep Learning #11",
-      "excerpt": "Let's build our own language translator using Tensorflow! We'll go over several translation methods and talk about how Google Translate is able to achieve state of the art performance.   Code for this video: https://github.com/llSourcell/How_to_make_a_language_translator  Ryan's Winning Code: https://github.com/rtlee9/recipe-summarization",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-make-a-language-translator-intro-to-deep-learning-11/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-make-a-language-translator-intro-to-deep-learning-11/",
-      "originalUrl": "https://youtube.com/watch?v=nRBnh4qbPHI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nRBnh4qbPHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M48S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-03-28T05:15:26Z",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nRBnh4qbPHI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-stock-price-prediction.md",
-      "title": "Stock Price Prediction",
-      "excerpt": "Can AI be used in the financial sector? Of course! In fact, finance was one of the pioneering industries that started using AI in the early 80s for market prediction. Since then, major financial firms and hedge funds have adopted AI technologies for everything from portfolio optimization, to credit lending,",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-stock-price-prediction/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-stock-price-prediction/",
-      "originalUrl": "https://youtube.com/watch?v=7vunJlqLZok",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7vunJlqLZok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M19S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-04-29T17:00:30Z",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7vunJlqLZok/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-15-byte-pair-encoding.md",
-      "title": "1.5 Byte Pair Encoding",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-15-byte-pair-encoding/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-15-byte-pair-encoding/",
-      "originalUrl": "https://youtube.com/watch?v=tOMjTCO0htA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tOMjTCO0htA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M38S",
+      "path": "_learning/videos/stanford-university-naive-bayes-3-learning-in-naive-bayes.md",
+      "title": "Naive Bayes 3 Learning in Naive Bayes",
+      "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-naive-bayes-3-learning-in-naive-bayes/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-naive-bayes-3-learning-in-naive-bayes/",
+      "originalUrl": "https://youtube.com/watch?v=Ge612JZGBMU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ge612JZGBMU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M4S",
       "provider": {
         "name": "Stanford University",
         "domain": "stanford.edu",
@@ -383,11 +24,89 @@
           }
         ]
       },
-      "publishedDateTime": "2021-07-13T20:43:09Z",
-      "heat": 52,
+      "publishedDateTime": "2021-07-13T22:53:04Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tOMjTCO0htA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCIrTIXO3bbCJShUTW1urpCnYxc5w",
+          "url": "https://i.ytimg.com/vi/Ge612JZGBMU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAfmX2anN9vC-c-QroEwpHrOGBNKA",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-recommender-systems-1-introduction.md",
+      "title": "Recommender Systems 1 Introduction",
+      "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-1-introduction/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-1-introduction/",
+      "originalUrl": "https://youtube.com/watch?v=4xYYkQxTpEc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4xYYkQxTpEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M2S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-13T23:36:02Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4xYYkQxTpEc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgRygtMA8=&rs=AOn4CLBOum4xzBmPP7YNox8FmQqBVsijDA",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-recommender-systems-2-content-based.md",
+      "title": "Recommender Systems 2 Content Based",
+      "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-2-content-based/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-2-content-based/",
+      "originalUrl": "https://youtube.com/watch?v=4sy2tpzlgg4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4sy2tpzlgg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M50S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-13T23:36:22Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4sy2tpzlgg4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAVgnobwcTYgPDR_skd4MFyxErltw",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -423,7 +142,7 @@
         ]
       },
       "publishedDateTime": "2021-08-03T16:27:30Z",
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kUuvRStz7CU/maxresdefault.jpg",
@@ -439,6 +158,47 @@
         "TensorFlow",
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-designing-a-neural-network-text-classification-tutorial-pt-2-coding-tensorflow.md",
+      "title": "Designing a neural network | Text Classification Tutorial Pt. 2 (Coding TensorFlow)",
+      "excerpt": "In Part 2, we continue our tutorial on Text Classification, which assigns categories to text documents. In the last episode, we pre-processed the data so it would be ready to train a neural network. But, how do we design the neural network so it can learn from the data we prepared? Find out in this episode",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-designing-a-neural-network-text-classification-tutorial-pt-2-coding-tensorflow/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-designing-a-neural-network-text-classification-tutorial-pt-2-coding-tensorflow/",
+      "originalUrl": "https://youtube.com/watch?v=vPrSca-YjFg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vPrSca-YjFg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M3S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-09-20T18:46:49Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vPrSca-YjFg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -463,10 +223,50 @@
         ]
       },
       "publishedDateTime": "2021-08-10T01:33:43Z",
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/0SvrDtnUgV4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-introducing-tensorflow-lite-coding-tensorflow.md",
+      "title": "Introducing TensorFlow Lite (Coding TensorFlow)",
+      "excerpt": "In this episode of Coding TensorFlow, Laurence Moroney, Developer Advocate for TensorFlow at Google, introduces us to TensorFlow Lite and its functions. You'll learn all about the model structure for TensorFlow Lite, and the various tools that are available for you to get your models ready for mobile.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-introducing-tensorflow-lite-coding-tensorflow/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-introducing-tensorflow-lite-coding-tensorflow/",
+      "originalUrl": "https://youtube.com/watch?v=5J72iMSQmy8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5J72iMSQmy8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M4S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-03-28T18:18:42Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5J72iMSQmy8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -503,7 +303,7 @@
         ]
       },
       "publishedDateTime": "2021-07-27T22:03:57Z",
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/RWlLaWMD30M/maxresdefault.jpg",
@@ -543,7 +343,7 @@
         ]
       },
       "publishedDateTime": "2018-09-13T19:05:20Z",
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/BO4g2DRvL6U/maxresdefault.jpg",
@@ -584,7 +384,7 @@
         ]
       },
       "publishedDateTime": "2018-07-23T19:33:05Z",
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/sLtXkU4QjxI/maxresdefault.jpg",
@@ -601,6 +401,126 @@
         "Google AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-solve-your-models-overfitting-and-underfitting-problems-pt2-coding-tensorflow.md",
+      "title": "Solve your model’s overfitting and underfitting problems - Pt.2 (Coding TensorFlow)",
+      "excerpt": "Magnus is back with another episode of Coding TensorFlow! If you followed along with us in Part 1 (→ http://bit.ly/2pXDQ4R) you learned about the difference between model overfitting and underfitting, and how to get the input data ready. In Pt.2, we’ll show you some different models that demonstrate",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-solve-your-models-overfitting-and-underfitting-problems-pt2-coding-tensorflow/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-solve-your-models-overfitting-and-underfitting-problems-pt2-coding-tensorflow/",
+      "originalUrl": "https://youtube.com/watch?v=yxUVu0iN26Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yxUVu0iN26Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M52S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-10-18T17:57:24Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yxUVu0iN26Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-tensorflow-high-level-apis-part-2-going-deep-on-data-and-features.md",
+      "title": "TensorFlow high-level APIs: Part 2 - going deep on data and features",
+      "excerpt": "Welcome to Part 2 of our mini-series on TensorFlow high-level APIs! In this 3 part mini-series, TensorFlow Engineering Manager Karmel Allison runs us through different scenarios using TensorFlow’s high-level APIs.  In this part, Karmel discusses preparing data for machine learning, including using Feature",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-tensorflow-high-level-apis-part-2-going-deep-on-data-and-features/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-tensorflow-high-level-apis-part-2-going-deep-on-data-and-features/",
+      "originalUrl": "https://youtube.com/watch?v=TOP2aLxcuu8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TOP2aLxcuu8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M9S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-12-11T22:23:17Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TOP2aLxcuu8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-tensorflow-lite-for-android-coding-tensorflow.md",
+      "title": "TensorFlow Lite for Android (Coding TensorFlow)",
+      "excerpt": "In this episode of Coding TensorFlow, Laurence Moroney, Developer Advocate for TensorFlow at Google, talks us through how TensorFlow Lite works on Android. You'll see how to deploy a trained model to an Android App, and how you can run inference with it in Java.  “Building TensorFlow on Android” article",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-tensorflow-lite-for-android-coding-tensorflow/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-tensorflow-lite-for-android-coding-tensorflow/",
+      "originalUrl": "https://youtube.com/watch?v=JnhW5tQ_7Vo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JnhW5tQ_7Vo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M6S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-03-28T18:52:45Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JnhW5tQ_7Vo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -625,90 +545,10 @@
         ]
       },
       "publishedDateTime": "2018-07-11T19:15:26Z",
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/pbCExciEbrc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-upgrade-your-existing-code-for-tensorflow-20-coding-tensorflow.md",
-      "title": "Upgrade your existing code for TensorFlow 2.0 (Coding TensorFlow)",
-      "excerpt": "TensorFlow 2.0 is here! With the Keras integration, and Eager Execution enabled by default, 2.0 is all about ease of use, and simplicity. We want to provide both new and experienced developers the tools & APIs needed to build and deploy their machine learning models with speed and precision.  In this",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-upgrade-your-existing-code-for-tensorflow-20-coding-tensorflow/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-upgrade-your-existing-code-for-tensorflow-20-coding-tensorflow/",
-      "originalUrl": "https://youtube.com/watch?v=JmSNUeBG-PQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JmSNUeBG-PQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M17S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T01:29:31Z",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JmSNUeBG-PQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-use-tensorflow-to-classify-clothing-images-coding-tensorflow.md",
-      "title": "Use TensorFlow to classify clothing images (Coding TensorFlow)",
-      "excerpt": "Using ML to classify T-shirts, sandals, and ankle boots? Oh my! In this episode of Coding TensorFlow, Magnus Hyttsten shows you how to train a deep neural network model to classify images of clothing. We are going to use a dataset you may be familiar with called the Fashion MNIST. Through Colab, we will",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-use-tensorflow-to-classify-clothing-images-coding-tensorflow/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-use-tensorflow-to-classify-clothing-images-coding-tensorflow/",
-      "originalUrl": "https://youtube.com/watch?v=FiNglI1wRNk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FiNglI1wRNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M42S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-08-22T15:36:20Z",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FiNglI1wRNk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -745,7 +585,7 @@
         ]
       },
       "publishedDateTime": "2019-07-11T17:38:35Z",
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Mxk4qmO_1B4/maxresdefault.jpg",
@@ -764,31 +604,31 @@
       ]
     },
     {
-      "path": "_learning/videos/dotnet-build-a-ml-model-for-github-issue-classification-mlnet-5-of-8.md",
-      "title": "Build a ML model for GitHub Issue classification | ML.NET [5 of 8]",
-      "excerpt": "In the world of ML.NET there is a high-volume of interaction with GitHub. This video will teach you how to classify incoming GitHub issues into one of the many tags (labels) using a multi-class classification algorithm.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here:",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-github-issue-classification-mlnet-5-of-8/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-github-issue-classification-mlnet-5-of-8/",
-      "originalUrl": "https://youtube.com/watch?v=spPq7PdnmRs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/spPq7PdnmRs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M25S",
+      "path": "_learning/videos/tensorflow-why-do-i-need-metadata-tensorflow-extended.md",
+      "title": "Why do I need metadata? (TensorFlow Extended)",
+      "excerpt": "On today’s episode of TensorFlow Extended hosted by TensorFlow Developer Advocate, Robert Crowe, we’re asking the question, “Why do I need metadata?” Learn more on Episode 3 of the 5 part series on Real World Machine Learning in Production and a preview for Episode 4!  This video is also subtitled in",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-why-do-i-need-metadata-tensorflow-extended/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-why-do-i-need-metadata-tensorflow-extended/",
+      "originalUrl": "https://youtube.com/watch?v=cc1-eocgm1E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cc1-eocgm1E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M31S",
       "provider": {
-        "name": "dotNET",
-        "domain": "dotnet.microsoft.com",
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-09-20T01:45:35Z",
+      "publishedDateTime": "2019-07-29T21:20:38Z",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/spPq7PdnmRs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cc1-eocgm1E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -798,204 +638,107 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
+        "TensorFlow",
+        "Google AI",
+        "AI"
       ]
     },
     {
-      "path": "_learning/videos/dotnet-build-a-ml-model-for-movie-recommendation-mlnet-7-of-8.md",
-      "title": "Build a ML model for Movie Recommendation | ML.NET [7 of 8]",
-      "excerpt": "Following our last video, here are even more ways to use the model builder with ML.NET. In this video, we learn how to recommend movies for users using colloborative filtering based recommendation approach.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-movie-recommendation-mlnet-7-of-8/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-movie-recommendation-mlnet-7-of-8/",
-      "originalUrl": "https://youtube.com/watch?v=f2KIjQCVN0A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f2KIjQCVN0A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M40S",
-      "provider": {
-        "name": "dotNET",
-        "domain": "dotnet.microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-20T02:30:46Z",
-      "heat": 51,
+      "path": "_learning/answers/what-is-amazon-sagemaker.md",
+      "title": "What is Amazon SageMaker?",
+      "excerpt": "Amazon SageMaker enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. It removes the complexity that gets in the way of successfully implementing machine learning across use cases and industries—from running models for real-time fraud detection, to virtually analyzing biological impacts of potential drugs, to predicting stolen-base success in baseball.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/answers/what-is-amazon-sagemaker/index.json",
+      "webUrl": "https://aws.amazon.com/sagemaker/",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/f2KIjQCVN0A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2018/04/24/SageMaker-300x150.jpg",
+          "width": 300,
+          "height": 150,
+          "title": "What is Amazon SageMaker?",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "answer",
       "topics": [
         "AI",
-        "Microsoft AI",
+        "AWS AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8.md",
-      "title": "Build a ML model for predicting taxi fares | ML.NET [6 of 8]",
-      "excerpt": "There are tons of different ways to use the model builder with ML.NET. In this video, we learn how to predict taxi fares based on distance traveled, trip time etc. using a regression algorithm.   Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8/",
-      "originalUrl": "https://youtube.com/watch?v=CnmmhxGUgqg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CnmmhxGUgqg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M32S",
-      "provider": {
-        "name": "dotNET",
-        "domain": "dotnet.microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-20T02:22:31Z",
-      "heat": 51,
+      "path": "_learning/answers/what-is-deepracer.md",
+      "title": "What is DeepRacer?",
+      "excerpt": "AWS DeepRacer is an integrated learning system for users of all levels to learn and explore reinforcement learning and to experiment and build autonomous driving applications. It consists of an AWS Machine Learning service, AWS DeepRacer 1/18th scale RC vehicles, and DeepRacer League for paticipants to compete.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/answers/what-is-deepracer/index.json",
+      "webUrl": "https://aws.amazon.com/deepracer/",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/CnmmhxGUgqg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://pbs.twimg.com/media/DtG-JyRUcAAuYkR.jpg",
+          "width": 726,
+          "height": 555,
+          "title": "What is DeepRacer?",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "answer",
       "topics": [
         "AI",
-        "Microsoft AI",
-        "Machine Learning"
+        "AWS AI",
+        "AI in Autos"
       ]
     },
     {
-      "path": "_learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8.md",
-      "title": "Build a ML model for Sentiment Analysis | ML.NET [4 of 8]",
-      "excerpt": "In this video, we will cover how to build a ML model for sentiment analysis of customer reviews using a binary classification algorithm.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8/",
-      "originalUrl": "https://youtube.com/watch?v=p3kHlpLvWNI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p3kHlpLvWNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M18S",
+      "path": "_learning/answers/what-is-the-difference-between-ai-machine-learning-and-deep-learning.md",
+      "title": "What is the Difference between AI, Machine Learning, and Deep Learning",
+      "excerpt": "AI means getting a computer to mimic human behavior in some way. Machine learning is a subset of AI, and it consists of the techniques that enable computers to figure things out from the data and deliver AI applications. Deep learning, meanwhile, is a subset of machine learning that enables computers to solve more complex problems.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/answers/what-is-the-difference-between-ai-machine-learning-and-deep-learning/index.json",
+      "webUrl": "https://blogs.oracle.com/bigdata/difference-ai-machine-learning-deep-learning",
       "provider": {
-        "name": "dotNET",
-        "domain": "dotnet.microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Oracle",
+        "domain": "oracle.com"
       },
-      "publishedDateTime": "2019-09-20T01:21:27Z",
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/p3kHlpLvWNI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f0499405-1197-4b43-b7c5-40548eeb9f34/File/a764b231617e29a0ad933f667d9db4e6/difference_between_ai__machine_learning__deep_learning.png",
+          "width": 1492,
+          "height": 1012,
+          "title": "What is the Difference between AI, Machine Learning, and Deep Learning",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "answer",
       "topics": [
         "AI",
-        "Microsoft AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8.md",
-      "title": "Deep learning with ML.NET: Image Classification | ML.NET [8 of 8]",
-      "excerpt": "Deep learning enables many more scenarios using sound, images, text and other data types. Learn how to build an Image Classification model to classify flowers (daisies, roses etc.).  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8/",
-      "originalUrl": "https://youtube.com/watch?v=C9p38jXKhB0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C9p38jXKhB0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M46S",
+      "path": "_learning/articles/algorithmia-introduction-machine-learning-developers.md",
+      "title": "Introduction to Machine Learning for Developers",
+      "excerpt": "Developers often hear about leveraging machine learning algorithms in order to build more intelligent applications, but many don’t know where to start.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/algorithmia-introduction-machine-learning-developers/index.json",
+      "webUrl": "https://algorithmia.com/blog/introduction-machine-learning-developers",
       "provider": {
-        "name": "dotNET",
-        "domain": "dotnet.microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "algorithmia.com",
+        "domain": "algorithmia.com"
       },
-      "publishedDateTime": "2019-09-20T02:40:52Z",
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/C9p38jXKhB0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://algorithmia.com/blog/wp-content/uploads/2016/10/machine-learning-introduction-fb1.png",
+          "width": 1400,
+          "height": 715,
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-ai-vs-ml-vs-deep-learning-difference-between-ai-ml-and-dl-ai-ml-training-edureka-rewind.md",
-      "title": "AI vs ML vs Deep Learning | Difference between AI, ML and DL | AI-ML Training | Edureka Rewind",
-      "excerpt": "🔥Edureka  NIT Warangal Post Graduate Program on AI and Machine Learning: https://www.edureka.co/nitw-ai-ml-pgp  This Edureka Machine Learning tutorial on \"AI vs ML vs Deep Learning\" talks about the differences and relationship between AI, Machine Learning and Deep Learning.   🔷🔸🔷🔸𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-ai-vs-ml-vs-deep-learning-difference-between-ai-ml-and-dl-ai-ml-training-edureka-rewind/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-ai-vs-ml-vs-deep-learning-difference-between-ai-ml-and-dl-ai-ml-training-edureka-rewind/",
-      "originalUrl": "https://youtube.com/watch?v=XXr5RnWzskA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XXr5RnWzskA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M18S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-08-15T22:42:42Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XXr5RnWzskA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
+      "type": "article",
       "price": "Free",
       "topics": [
         "AI",
@@ -1003,38 +746,66 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-aiml-facemask-detector-mask-detection-using-opencv-python-data-science-training-edureka.md",
-      "title": "AIML Facemask Detector | Mask Detection Using OpenCV Python | Data Science Training | Edureka",
-      "excerpt": "🔥Data Scientist Masters Program: https://www.edureka.co/masters-program/data-scientist-certification This \"Machine Learning with R\" video by Edureka will help you to understand the core concepts of  Machine Learning followed by hands-on.   Check our complete Data Science playlist here: https://goo.gl/60NJJS",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-aiml-facemask-detector-mask-detection-using-opencv-python-data-science-training-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-aiml-facemask-detector-mask-detection-using-opencv-python-data-science-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=QDH7cwDlixQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QDH7cwDlixQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M59S",
+      "path": "_learning/articles/medium-beginners-guide-to-computer-vision.md",
+      "title": "Beginner’s Guide to Computer Vision",
+      "excerpt": "The phenomenon that makes machines such as computers or mobile phones see the surroundings is known as Computer Vision. Serious work on re-creating a human eye started way back in 50s and since then, we have come a long way. Computer vision has already made its way to our mobile phone via different e-commerce or camera apps.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/medium-beginners-guide-to-computer-vision/index.json",
+      "webUrl": "https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720",
       "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
+        "name": "Medium",
+        "domain": "medium.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/medium.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2021-02-22T16:26:14Z",
-      "heat": 51,
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/QDH7cwDlixQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://miro.medium.com/max/1258/0*f_fh55r2DME5l6T6.jpg",
+          "width": 629,
+          "height": 441,
+          "title": "Beginner’s Guide to Computer Vision",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
+      "type": "article",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_learning/articles/monkeylearn-gentle-guide-to-machine-learning.md",
+      "title": "A Gentle Guide to Machine Learning",
+      "excerpt": "Machine Learning is a subfield within Artificial Intelligence that builds algorithms that allow computers to learn to perform tasks from data instead of being explicitly programmed.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/monkeylearn-gentle-guide-to-machine-learning/index.json",
+      "webUrl": "https://monkeylearn.com/blog/gentle-guide-to-machine-learning/",
+      "provider": {
+        "name": "MonkeyLearn",
+        "domain": "monkeylearn.com"
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://monkeylearn.com/blog/wp-content/uploads/2015/08/guide_to_machine_learning-2_thumb-1.png",
+          "width": 720,
+          "height": 336,
+          "title": "A Gentle Guide to Machine Learning",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "article",
       "price": "Free",
       "topics": [
         "AI",
@@ -1042,38 +813,53 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-best-python-libraries-for-data-science-machine-learning-data-science-python-libraries-edureka.md",
-      "title": "Best Python Libraries For Data Science & Machine Learning | Data Science Python Libraries | Edureka",
-      "excerpt": "** Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training **   This Edureka session will focus on the top Python libraries that you should know to master Data Science and Machine Learning. Here’s a list of topics that are covered in this session:",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-best-python-libraries-for-data-science-machine-learning-data-science-python-libraries-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-best-python-libraries-for-data-science-machine-learning-data-science-python-libraries-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=LepMvJdr2-w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LepMvJdr2-w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M10S",
+      "path": "_learning/articles/r2d3-a-visual-intro-to-machine-learning.md",
+      "title": "A visual introduction to machine learning",
+      "excerpt": "In machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/r2d3-a-visual-intro-to-machine-learning/index.json",
+      "webUrl": "http://www.r2d3.us/visual-intro-to-machine-learning-part-1/",
       "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "r2d3.us",
+        "domain": "r2d3.us"
       },
-      "publishedDateTime": "2019-08-12T13:13:29Z",
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/LepMvJdr2-w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "http://www.r2d3.us/static/pages/decision-trees-part-1/preview-en.png",
+          "width": 1120,
+          "height": 600,
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
+      "type": "article",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/articles/remi-canard-blog-the-machine-learning-cheatsheet.md",
+      "title": "The Machine Learning Cheatsheet",
+      "excerpt": "A simple, concise, 5 page document about the most common machine learning algorithms, focusing on how they work.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/remi-canard-blog-the-machine-learning-cheatsheet/index.json",
+      "webUrl": "https://remicnrd.github.io/the-machine-learning-cheatsheet/",
+      "provider": {
+        "name": "Rémi Canard's blog",
+        "domain": "remicnrd.github.io"
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://remicnrd.github.io/assets/img/cheatsheet-1.jpg",
+          "width": 2342,
+          "height": 1808,
+          "title": "The Machine Learning Cheatsheet",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "article",
       "price": "Free",
       "topics": [
         "AI",
@@ -1081,38 +867,52 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-cancer-detection-using-deep-learning-deep-learning-projects-edureka-dl-rewind-4.md",
-      "title": "Cancer Detection Using Deep Learning | Deep Learning Projects | Edureka | DL Rewind - 4",
-      "excerpt": "🔥Edureka Deep Learning With TensorFlow (𝐔𝐬𝐞 𝐂𝐨𝐝𝐞: 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎): https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka video on 𝐂𝐚𝐧𝐜𝐞𝐫 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐔𝐬𝐢𝐧𝐠 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, will help you understand how to develop models using Convolution Neural Networks.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-cancer-detection-using-deep-learning-deep-learning-projects-edureka-dl-rewind-4/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-cancer-detection-using-deep-learning-deep-learning-projects-edureka-dl-rewind-4/",
-      "originalUrl": "https://youtube.com/watch?v=9LoGPCzk5CA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9LoGPCzk5CA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M27S",
+      "path": "_learning/articles/state-of-ai-report-2019.md",
+      "title": "State of AI Report 2019",
+      "excerpt": "In this report, we set out to capture a snapshot of the exponential progress in AI with a focus on developments in the past 12 months. Consider this report as a compilation of the most interesting things we’ve seen that seeks to trigger an informed conversation about the state of AI and its implication for the future. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/state-of-ai-report-2019/index.json",
+      "webUrl": "https://www.stateof.ai/",
       "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "State of AI",
+        "domain": "stateof.ai"
       },
-      "publishedDateTime": "2021-09-26T17:57:28Z",
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9LoGPCzk5CA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://image.slidesharecdn.com/stateofaireport2019-shared-190625173122/95/state-of-ai-report-2019-1-638.jpg?cb=1562158567",
+          "width": 638,
+          "height": 359,
+          "title": "State of AI Report 2019",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
+      "type": "article",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/articles/towardsdatascience-machine-learning-101-for-dummies-like-me.md",
+      "title": "Machine Learning 101 for Dummies like Me",
+      "excerpt": "The purpose of this article in the 101 for Dummies like Me series is to simplify the definition and understanding of machine learning.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/towardsdatascience-machine-learning-101-for-dummies-like-me/index.json",
+      "webUrl": "https://towardsdatascience.com/machine-learning-101-for-dummies-like-me-bdc6d03e1a38",
+      "provider": {
+        "name": "towardsdatascience.com",
+        "domain": "towardsdatascience.com"
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1400/1*yCrFCAmgOukq6SKrO-dBJw.png",
+          "width": 1400,
+          "height": 715,
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "article",
       "price": "Free",
       "topics": [
         "AI",
@@ -1120,41 +920,181 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-color-old-photographs-using-autoencoders-machine-learning-projects-4-ml-training-edureka.md",
-      "title": "Color Old Photographs Using Autoencoders | Machine Learning Projects - 4 | ML Training | Edureka",
-      "excerpt": "🔥 Edureka Machine Learning Certification training (𝐔𝐬𝐞 𝐂𝐨𝐝𝐞: 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎):  https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka video on '𝐂𝐨𝐥𝐨𝐫 𝐎𝐥𝐝 𝐏𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐬 𝐔𝐬𝐢𝐧𝐠 𝐀𝐮𝐭𝐨𝐞𝐧𝐜𝐨𝐝𝐞𝐫𝐬' will give you an overview of how to",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-color-old-photographs-using-autoencoders-machine-learning-projects-4-ml-training-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-color-old-photographs-using-autoencoders-machine-learning-projects-4-ml-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=lLy0sRmxVvo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lLy0sRmxVvo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M46S",
+      "path": "_learning/articles/vas3k-blog-machine-learning-for-everyone.md",
+      "title": "Machine Learning for Everyone",
+      "excerpt": "A long blog post that explains machine learning in simple terms, with real-world examples and lots of visuals.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/articles/vas3k-blog-machine-learning-for-everyone/index.json",
+      "webUrl": "https://vas3k.com/blog/machine_learning/",
       "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
+        "name": "vas3k blog",
+        "domain": "vas3k.com"
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.vas3k.ru/full/80c.jpg",
+          "width": 1400,
+          "height": 715,
+          "title": "Machine Learning for Everyone",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "price": "Free",
+      "topics": [
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-advances-in-financial-machine-learning.md",
+      "title": "Advances in Financial Machine Learning",
+      "excerpt": "Machine learning (ML) is changing virtually every aspect of our lives. Today ML algorithms accomplish tasks that until recently only expert humans could perform. As it relates to finance, this is the most exciting time to adopt a disruptive technology that will transform how everyone invests for generations. Readers will learn how to structure Big data in a way that is amenable to ML algorithms; how",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-advances-in-financial-machine-learning/index.json",
+      "webUrl": "https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/",
+      "ratings": {
+        "count": 141,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Marcos Lopez de Prado",
+            "type": "profile",
+            "name": "Marcos Lopez de Prado"
+          }
         ]
       },
-      "publishedDateTime": "2021-07-28T13:06:22Z",
-      "heat": 51,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/lLy0sRmxVvo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://m.media-amazon.com/images/I/51A6sUbwG2L._SX329_BO1,204,203,200_.jpg",
+          "width": 331,
+          "height": 499,
+          "title": "Advances in Financial Machine Learning",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "book",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-ai-superpowers-china-silicon-valley-and-the-new-world-order.md",
+      "title": "AI Superpowers: China, Silicon Valley, and the New World Order",
+      "excerpt": "Dr. Kai-Fu Lee—one of the world’s most respected experts on AI and China—reveals that China has suddenly caught up to the US at an astonishingly rapid and unexpected pace.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-ai-superpowers-china-silicon-valley-and-the-new-world-order/index.json",
+      "webUrl": "https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/",
+      "ratings": {
+        "count": 562,
+        "average": 4.4
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Kai-Fu Lee",
+            "type": "profile",
+            "name": "Kai-Fu Lee"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/81JjMSKLeLL._AC_UY218_ML3_.jpg",
+          "width": 145,
+          "height": 218,
+          "title": "AI Superpowers: China, Silicon Valley, and the New World Order",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$12.99",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-an-introduction-to-statistical-learning-with-applications-in-r-springer-texts-in-statistics.md",
+      "title": "An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)",
+      "excerpt": "The book provides an accessible overview of the field of statistical learning, an essential toolset for making sense of the vast and complex data sets that have emerged in fields ranging from biology to finance to marketing to astrophysics in the past twenty years. This book presents some of the most important modeling and prediction techniques, along with relevant applications. Topics include linear regression, classification, resampling methods, shrinkage approaches, tree-based methods, support vector machines, clustering, and more. Color graphics and real-world examples are used to illustrate the methods presented. Since the goal of this textbook is to facilitate the use of these statistical learning techniques by practitioners in science, industry, and other fields, each chapter contains a tutorial on implementing the analyses and methods presented in R, an extremely popular open source statistical software platform.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-an-introduction-to-statistical-learning-with-applications-in-r-springer-texts-in-statistics/index.json",
+      "webUrl": "https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/",
+      "ratings": {
+        "count": 510,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Gareth James",
+            "type": "profile",
+            "name": "Gareth James"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/81HYeeBlGmL._AC_UY218_ML3_.jpg",
+          "width": 145,
+          "height": 218,
+          "title": "An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$57.65",
       "topics": [
         "AI",
+        "Math for AI",
         "Machine Learning"
       ]
     }

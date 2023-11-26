@@ -4,6 +4,162 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/videos/stanford-university-64-learning-sentiment-lexicons-text-classification-and-sentiment-analysis.md",
+      "title": "6.4 Learning Sentiment Lexicons | Text Classification and Sentiment Analysis",
+      "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-64-learning-sentiment-lexicons-text-classification-and-sentiment-analysis/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-64-learning-sentiment-lexicons-text-classification-and-sentiment-analysis/",
+      "originalUrl": "https://youtube.com/watch?v=NDICwHw8_b4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NDICwHw8_b4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M46S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T18:41:01Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NDICwHw8_b4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-65-sentiment-analysis-a-baseline-algorithm-text-classification-and-sentiment-analysis.md",
+      "title": "6.5 Sentiment Analysis  A baseline algorithm | Text Classification and Sentiment Analysis",
+      "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-65-sentiment-analysis-a-baseline-algorithm-text-classification-and-sentiment-analysis/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-65-sentiment-analysis-a-baseline-algorithm-text-classification-and-sentiment-analysis/",
+      "originalUrl": "https://youtube.com/watch?v=6W2L7CcTtrk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6W2L7CcTtrk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M28S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T18:41:01Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6W2L7CcTtrk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-83-term-frequency-weighting-information-retrieval.md",
+      "title": "8.3 Term Frequency Weighting | Information Retrieval",
+      "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-83-term-frequency-weighting-information-retrieval/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-83-term-frequency-weighting-information-retrieval/",
+      "originalUrl": "https://youtube.com/watch?v=9UXM2NXVYY0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9UXM2NXVYY0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T18:42:38Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9UXM2NXVYY0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-92-what-is-relation-extraction-relation-extraction-and-question-answering.md",
+      "title": "9.2 What is Relation Extraction  | Relation Extraction and Question Answering",
+      "excerpt": "This is part of the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-92-what-is-relation-extraction-relation-extraction-and-question-answering/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-92-what-is-relation-extraction-relation-extraction-and-question-answering/",
+      "originalUrl": "https://youtube.com/watch?v=ElwtojgpJoU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ElwtojgpJoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M48S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T18:43:51Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ElwtojgpJoU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_learning/videos/stanford-university-93-using-patterns-to-extract-relations-relation-extraction-and-question-answering.md",
       "title": "9.3 Using Patterns to Extract Relations | Relation Extraction and Question Answering",
       "excerpt": "This is part of the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
@@ -109,162 +265,6 @@
           "url": "https://i.ytimg.com/vi/zXaeW9WuhO0/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-naive-bayes-3-learning-in-naive-bayes.md",
-      "title": "Naive Bayes 3 Learning in Naive Bayes",
-      "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-naive-bayes-3-learning-in-naive-bayes/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-naive-bayes-3-learning-in-naive-bayes/",
-      "originalUrl": "https://youtube.com/watch?v=Ge612JZGBMU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ge612JZGBMU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M4S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-07-13T22:53:04Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ge612JZGBMU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAfmX2anN9vC-c-QroEwpHrOGBNKA",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-recommender-systems-1-introduction.md",
-      "title": "Recommender Systems 1 Introduction",
-      "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-1-introduction/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-1-introduction/",
-      "originalUrl": "https://youtube.com/watch?v=4xYYkQxTpEc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4xYYkQxTpEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M2S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-07-13T23:36:02Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4xYYkQxTpEc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgRygtMA8=&rs=AOn4CLBOum4xzBmPP7YNox8FmQqBVsijDA",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-recommender-systems-2-content-based.md",
-      "title": "Recommender Systems 2 Content Based",
-      "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-2-content-based/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-2-content-based/",
-      "originalUrl": "https://youtube.com/watch?v=4sy2tpzlgg4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4sy2tpzlgg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M50S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-07-13T23:36:22Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4sy2tpzlgg4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAVgnobwcTYgPDR_skd4MFyxErltw",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering.md",
-      "title": "Recommender Systems 3 User User Collaborative Filtering",
-      "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering/",
-      "originalUrl": "https://youtube.com/watch?v=qEur4Xi8dks",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qEur4Xi8dks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M51S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-07-13T23:37:00Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qEur4Xi8dks/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAU5PUZ5pF8cxuMP4-iOHAnON0RVg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],

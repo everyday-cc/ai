@@ -4,45 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/simplilearn-most-advanced-humanoid-robots-future-of-robotics-and-artificial-intelligence-simplilearn.md",
-      "title": "Most Advanced Humanoid Robots | Future Of Robotics And Artificial Intelligence | Simplilearn",
-      "excerpt": "With the rapid advancement of humanoid robots in the market today, we're able to see how our lives have become simpler and easier. In this video let's look at some of the most advanced humanoid robots that are being developed by various companies and organisations.  ✅Subscribe to our Channel to learn",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-most-advanced-humanoid-robots-future-of-robotics-and-artificial-intelligence-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-most-advanced-humanoid-robots-future-of-robotics-and-artificial-intelligence-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=zFikq_cJ4mQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zFikq_cJ4mQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M29S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-11-02T14:30:21Z",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zFikq_cJ4mQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_learning/videos/simplilearn-what-is-robotics-introduction-to-robotics-robotics-explained-simplilearn.md",
       "title": "What is Robotics | Introduction to Robotics | Robotics Explained | Simplilearn",
       "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z Become An AI & ML Expert Today:                   In this video on \"What is Robotics\", we will take",
@@ -64,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2023-07-06T08:28:09Z",
-      "heat": 54,
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/rq_Xl71d3tE/maxresdefault.jpg",
@@ -82,14 +43,14 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-rise-of-robots-and-artificial-intelligence-artificial-intelligence-and-robotics-scope-simplilearn.md",
-      "title": "Rise Of Robots And Artificial Intelligence | Artificial Intelligence And Robotics Scope |Simplilearn",
-      "excerpt": "In this video, we will be looking at the evolution of Robots from its inception to its future expectation. You will be also get an idea how robots are slowly getting more intelligent day by day and becoming part of our everyday life. Now, without further ado, let's jump right in!  ✅Subscribe to our Channel",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-rise-of-robots-and-artificial-intelligence-artificial-intelligence-and-robotics-scope-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-rise-of-robots-and-artificial-intelligence-artificial-intelligence-and-robotics-scope-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=Io-gm1eFsuY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Io-gm1eFsuY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
+      "path": "_learning/videos/simplilearn-most-advanced-humanoid-robots-future-of-robotics-and-artificial-intelligence-simplilearn.md",
+      "title": "Most Advanced Humanoid Robots | Future Of Robotics And Artificial Intelligence | Simplilearn",
+      "excerpt": "With the rapid advancement of humanoid robots in the market today, we're able to see how our lives have become simpler and easier. In this video let's look at some of the most advanced humanoid robots that are being developed by various companies and organisations.  ✅Subscribe to our Channel to learn",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-most-advanced-humanoid-robots-future-of-robotics-and-artificial-intelligence-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-most-advanced-humanoid-robots-future-of-robotics-and-artificial-intelligence-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=zFikq_cJ4mQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zFikq_cJ4mQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M29S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
@@ -102,11 +63,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-16T16:26:33Z",
+      "publishedDateTime": "2020-11-02T14:30:21Z",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Io-gm1eFsuY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zFikq_cJ4mQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -117,46 +78,6 @@
       "price": "Free",
       "topics": [
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-top-10-robotics-project-2024-robotics-projects-for-beginners-robotics-projects-simplilearn.md",
-      "title": "Top 10 Robotics Project 2024 | Robotics Projects for Beginners | Robotics Projects | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z Top 10 Robotics Project 2024 by Simplilearn is dedicated to help aspiring Artificial intelligence",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-robotics-project-2024-robotics-projects-for-beginners-robotics-projects-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-robotics-project-2024-robotics-projects-for-beginners-robotics-projects-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=ivmWzO0i1pI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ivmWzO0i1pI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M19S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-10-19T06:21:32Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ivmWzO0i1pI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
         "AI in Robotics"
       ]
     },
@@ -510,6 +431,85 @@
         "AI",
         "AI in Robotics",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-rise-of-robots-and-artificial-intelligence-artificial-intelligence-and-robotics-scope-simplilearn.md",
+      "title": "Rise Of Robots And Artificial Intelligence | Artificial Intelligence And Robotics Scope |Simplilearn",
+      "excerpt": "In this video, we will be looking at the evolution of Robots from its inception to its future expectation. You will be also get an idea how robots are slowly getting more intelligent day by day and becoming part of our everyday life. Now, without further ado, let's jump right in!  ✅Subscribe to our Channel",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-rise-of-robots-and-artificial-intelligence-artificial-intelligence-and-robotics-scope-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-rise-of-robots-and-artificial-intelligence-artificial-intelligence-and-robotics-scope-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=Io-gm1eFsuY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Io-gm1eFsuY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M55S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-16T16:26:33Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Io-gm1eFsuY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-top-10-robotics-project-2024-robotics-projects-for-beginners-robotics-projects-simplilearn.md",
+      "title": "Top 10 Robotics Project 2024 | Robotics Projects for Beginners | Robotics Projects | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z Top 10 Robotics Project 2024 by Simplilearn is dedicated to help aspiring Artificial intelligence",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-robotics-project-2024-robotics-projects-for-beginners-robotics-projects-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-robotics-project-2024-robotics-projects-for-beginners-robotics-projects-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=ivmWzO0i1pI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ivmWzO0i1pI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M19S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-10-19T06:21:32Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ivmWzO0i1pI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
       ]
     }
   ]

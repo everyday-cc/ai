@@ -4,154 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/videos/simplilearn-tensorflow-tutorial-deep-learning-with-tensorflow-tensorflow-tutorial-for-beginners-simplilearn.md",
-      "title": "TensorFlow Tutorial | Deep Learning with TensorFlow | TensorFlow Tutorial for Beginners |Simplilearn",
-      "excerpt": "This TensorFlow tutorial will help you understand what is Deep Learning and it's libraries, why use TensorFlow, what is TensorFlow, how to build a computational graph, programming using elements in TensorFlow, what are Recurrent Neural Networks along with a use case implementation on TensorFlow. TensorFlow",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-tutorial-deep-learning-with-tensorflow-tensorflow-tutorial-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-tutorial-deep-learning-with-tensorflow-tensorflow-tutorial-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=_NMI8peAmNA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_NMI8peAmNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59M28S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-07T09:16:42Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_NMI8peAmNA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-tensorflow-tutorial-for-beginners-tensorflow-explained-deep-learning-tensorflow-simplilearn.md",
-      "title": "TensorFlow Tutorial For Beginners | TensorFlow Explained | Deep Learning &Tensorflow | Simplilearn",
-      "excerpt": "TensorFlow is a deep learning framework developed by Google to solve intelligent problems. This video on the TensorFlow tutorial will help you understand what TensorFlow is and its various features. You will learn the applications of TensorFlow and how it works. You will get an idea about the architecture",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-tutorial-for-beginners-tensorflow-explained-deep-learning-tensorflow-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-tutorial-for-beginners-tensorflow-explained-deep-learning-tensorflow-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=LP59LkH6tzs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LP59LkH6tzs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H26M22S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-30T11:52:49Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LP59LkH6tzs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-do-style-transfer-with-tensorflow-live.md",
-      "title": "How to Do Style Transfer with Tensorflow (LIVE)",
-      "excerpt": "We're going to learn about all the details of style transfer (especially the math) using just Tensorflow. The goal of this session is for you to understand the details behind how style+content loss is calculated and minimized. We'll also talk about future discoveries.  Code for this video: https://github.com/llSourcell/How_to_do_style_transfer_in_tensorflow",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-do-style-transfer-with-tensorflow-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-do-style-transfer-with-tensorflow-live/",
-      "originalUrl": "https://youtube.com/watch?v=YoBEGQD3LCc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YoBEGQD3LCc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H6M26S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-03-18T08:02:00Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YoBEGQD3LCc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-generate-images-with-tensorflow-live.md",
-      "title": "How to Generate Images with Tensorflow (LIVE)",
-      "excerpt": "We'll build a Variational Autoencoder using Tensorflow to generate images. We'll go through several examples including digit images and pokemon images. VAE's allow us to generate, compress, denoise, and even fuse images together. They are an incredibly powerful tool and we'll go over the implementation",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-generate-images-with-tensorflow-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-generate-images-with-tensorflow-live/",
-      "originalUrl": "https://youtube.com/watch?v=iz-TZOEKXzA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iz-TZOEKXzA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M51S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-10T03:24:38Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iz-TZOEKXzA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
       "path": "_learning/videos/siraj-raval-how-to-make-a-tensorflow-image-classifier-live.md",
       "title": "How to Make a Tensorflow Image Classifier (LIVE)",
       "excerpt": "We're going to build an image classifier using just Tensorflow (no Keras). This will be in depth, the goal for this video is for you to fully understand how a Convolutional Neural Network works. We'll visualize the filters we create along the way as well.  Code for this video: https://github.com/llSourcell/How_to_make_a_tensorflow_image_classifier_LIVE/blob/master/demonotes.ipynb",
@@ -364,6 +216,127 @@
       ]
     },
     {
+      "path": "_learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow.md",
+      "title": "Build a neural network to perform classification | TensorFlow.js (Coding TensorFlow)",
+      "excerpt": "In part 3 of this series on TensorFlow.js, Laurence Moroney (@lmoroney) looks at taking the processed data from part 2, and building a neural network to perform classification with it. You’ll see how to create and stack multiple layers, use these to create a classifier, and then test that classifier",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow/",
+      "originalUrl": "https://youtube.com/watch?v=4vN1tHpCkA0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4vN1tHpCkA0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M45S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-07T18:46:23Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4vN1tHpCkA0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-how-do-tfx-pipelines-work-tensorflow-extended.md",
+      "title": "How do TFX pipelines work? (TensorFlow Extended)",
+      "excerpt": "On today’s episode of TensorFlow Extended hosted by TensorFlow Developer Advocate, Robert Crowe, we’re asking the question, “How do TFX pipelines work?” Learn more on Episode 2 of the 5 part series on Real World Machine Learning in Production.   This video is also subtitled in Chinese, Indonesian, Italian,",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-how-do-tfx-pipelines-work-tensorflow-extended/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-how-do-tfx-pipelines-work-tensorflow-extended/",
+      "originalUrl": "https://youtube.com/watch?v=iVKa8SZQdPI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iVKa8SZQdPI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-19T19:13:54Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iVKa8SZQdPI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-neural-structured-learning-part-1-framework-overview.md",
+      "title": "Neural Structured Learning - Part 1: Framework overview",
+      "excerpt": "In this video series, we’re going to introduce a new learning framework to our developers called Neural Structured Learning. TensorFlow Senior Software Engineer Da-Cheng Juan kicks off this series with the framework overview.  Links: Get started with Neural Structured Learning → https://goo.gle/2sOz6DE",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-neural-structured-learning-part-1-framework-overview/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-neural-structured-learning-part-1-framework-overview/",
+      "originalUrl": "https://youtube.com/watch?v=N_IS3x5wFNI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N_IS3x5wFNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M13S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-01-24T02:26:58Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N_IS3x5wFNI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/videos/tensorflow-neural-structured-learning-part-2-training-with-natural-graphs.md",
       "title": "Neural Structured Learning - Part 2: Training with natural graphs",
       "excerpt": "Welcome to episode 2 of our short series on Neural Structured Learning! In this episode, Software Engineer Arjun Gopalan discusses what natural graphs are and how they can be used to train neural networks.   Graphs are powerful data structures and can be used to represent data that most of us interact",
@@ -429,6 +402,46 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/3RQqTTOY0U0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-neural-structured-learning-part-4-adversarial-learning-for-image-classification.md",
+      "title": "Neural Structured Learning - Part 4: Adversarial learning for image classification",
+      "excerpt": "Welcome to the 4th episode of this Neural Structured Learning series. In this video, we are going to talk about learning with implicit structured signals constructed from adversarial learning.  Guide & Tutorials → https://goo.gle/2SBwQIH  Coding TensorFlow → https://goo.gle/Coding-TensorFlow Subscribe",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-neural-structured-learning-part-4-adversarial-learning-for-image-classification/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-neural-structured-learning-part-4-adversarial-learning-for-image-classification/",
+      "originalUrl": "https://youtube.com/watch?v=Js2WJkhdU7k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Js2WJkhdU7k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M6S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-11T21:00:08Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Js2WJkhdU7k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

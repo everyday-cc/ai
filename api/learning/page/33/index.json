@@ -4,92 +4,14 @@
   "page": 33,
   "value": [
     {
-      "path": "_learning/videos/simplilearn-machine-learning-engineer-salary-roles-and-responsibilities-skills-and-resume-simplilearn.md",
-      "title": "Machine Learning Engineer Salary, Roles And Responsibilities, Skills and Resume | Simplilearn",
-      "excerpt": "This video on \"Machine Learning Engineer Salary, Skills & Resume\" will help you understand who is a Machine Learning engineer, the salary of a Machine Learning engineer, skills required to become a Machine Learning engineer and what a Machine Learning engineer's resume should look like. Machine Learning",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-engineer-salary-roles-and-responsibilities-skills-and-resume-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-engineer-salary-roles-and-responsibilities-skills-and-resume-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=41J0xQ6F2jk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/41J0xQ6F2jk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M44S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-02T13:21:41Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/41J0xQ6F2jk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-machine-learning-projects-machine-learning-applications-machine-learning-training-simplilearn.md",
-      "title": "Machine Learning Projects | Machine Learning Applications | Machine Learning Training | Simplilearn",
-      "excerpt": "In this Machine Learning video, we'll look at the Top 10 Machine Learning Projects that are majorly used in the industries. You'll learn the different algorithms and the models that are required for the projects. This video will also help any Machine Learning enthusiast to get an idea about how these",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-projects-machine-learning-applications-machine-learning-training-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-projects-machine-learning-applications-machine-learning-training-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=ryrIivu4dWA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ryrIivu4dWA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M13S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-22T05:11:14Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ryrIivu4dWA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-machine-learning-steps-machine-learning-basics-machine-learning-tutorial-simplilearn.md",
-      "title": "Machine Learning Steps | Machine Learning Basics | Machine Learning Tutorial | Simplilearn",
-      "excerpt": "This video will help you understand the different steps in Machine Learning. This video will give you a brief insight into What is Machine Learning and the various types of algorithms to chose from. 🔥Free Machine Learning Course: https://www.simplilearn.com/learn-machine-learning-basics-skillup?utm_campaign=MachineLearning&utm_medium=Description&utm_source=youtube",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-steps-machine-learning-basics-machine-learning-tutorial-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-steps-machine-learning-basics-machine-learning-tutorial-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=m7eF5dpEI_o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m7eF5dpEI_o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M34S",
+      "path": "_learning/videos/simplilearn-tensorflow-20-full-course-in-5-hours-tensorflow-tutorial-for-beginners-tensorflow-simplilearn.md",
+      "title": "TensorFlow 2.0 Full Course In 5 Hours | TensorFlow Tutorial For Beginners | TensorFlow | Simplilearn",
+      "excerpt": "This video on TensorFlow Full Couse will help you learn the basics of TensorFlow library and understand the features of TensorFlow. You get an idea about tensors and how TensorFlow performs graphical computations. You will see how to install TensorFlow on Ubuntu and implement machine learning and deep",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-20-full-course-in-5-hours-tensorflow-tutorial-for-beginners-tensorflow-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-20-full-course-in-5-hours-tensorflow-tutorial-for-beginners-tensorflow-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=d9N0IGb5QP0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d9N0IGb5QP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H18M53S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
@@ -102,11 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-03-19T10:12:55Z",
+      "publishedDateTime": "2020-12-17T20:09:04Z",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/m7eF5dpEI_o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/d9N0IGb5QP0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -117,35 +39,37 @@
       "price": "Free",
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-self-driving-cars-the-future-of-autonomous-vehicles-transportation-google-waymo-simplilearn.md",
-      "title": "Self Driving Cars - The Future Of Autonomous Vehicles & Transportation | Google Waymo | Simplilearn",
-      "excerpt": "Self Driving Cars are taking technology to the next level. In this video, we will see how Google successfully launched Waymo. We will also see the drawbacks of non-automated cars and how self-driving cars are advantageous.  We will also see how these cars will change the future. Let's get started and",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-self-driving-cars-the-future-of-autonomous-vehicles-transportation-google-waymo-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-self-driving-cars-the-future-of-autonomous-vehicles-transportation-google-waymo-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=ZXp5PS07ni0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZXp5PS07ni0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M2S",
+      "path": "_learning/videos/simplilearn-tensorflow-and-keras-tutorial-deep-learning-with-tensorflow-keras-deep-learning-simplilearn.md",
+      "title": "TensorFlow And Keras Tutorial | Deep Learning With TensorFlow & Keras  | Deep Learning | Simplilearn",
+      "excerpt": "This video on TensorFlow and Keras tutorial will help you understand Deep Learning frameworks, what is TensorFlow, TensorFlow features and applications, how TensorFlow works, TensorFlow 1.0 vs TensorFlow 2.0, TensorFlow architecture with a demo. Then we will move into understanding what is Keras, models",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-and-keras-tutorial-deep-learning-with-tensorflow-keras-deep-learning-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-and-keras-tutorial-deep-learning-with-tensorflow-keras-deep-learning-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=eK0tvVRMDgw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eK0tvVRMDgw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H38M50S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-11-29T12:29:58Z",
+      "publishedDateTime": "2021-03-04T11:53:13Z",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZXp5PS07ni0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/eK0tvVRMDgw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -156,46 +80,9 @@
       "price": "Free",
       "topics": [
         "AI",
-        "AI in Autos",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-should-we-be-afraid-of-artificial-intelligence-rise-of-artificial-intelligence-simplilearn.md",
-      "title": "Should We Be Afraid Of Artificial Intelligence? | Rise Of Artificial Intelligence | Simplilearn",
-      "excerpt": "Should we be afraid of AI? People are scared of the advancements made in the field of Articial Intelligence. technology is booming very rapidly and various innovations are being made in the field of artificial intelligence. With all these advancements taking us through everyday life, there is a common",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-should-we-be-afraid-of-artificial-intelligence-rise-of-artificial-intelligence-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-should-we-be-afraid-of-artificial-intelligence-rise-of-artificial-intelligence-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=AfUIGC1EvY4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AfUIGC1EvY4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M44S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-11T18:49:36Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AfUIGC1EvY4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {
@@ -224,47 +111,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wMJQ04-AwNo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-tensorflow-explained-simplilearn.md",
-      "title": "TensorFlow In 10 Minutes | TensorFlow Tutorial For Beginners | TensorFlow Explained | Simplilearn",
-      "excerpt": "In this video on TensorFlow, you will be introduced to the basic concepts of TensorFlow. We will start off with a brief about TensorFlow and then move on to an intutive understanding of Tensors, followed by some features of TensorFlow which have made it so popular. Then, we'll take a look at some conpanines",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-tensorflow-explained-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-tensorflow-explained-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=mSsDNGWZ7Ao",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mSsDNGWZ7Ao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M48S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-12-04T17:27:32Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mSsDNGWZ7Ao/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -484,6 +330,120 @@
       ]
     },
     {
+      "path": "_learning/videos/simplilearn-top-10-ai-companies-2024-10-best-ai-companies-in-the-world-ai-companies-for-2024-simplilearn.md",
+      "title": "Top 10 AI Companies 2024 | 10 Best AI Companies In The World | AI Companies For 2024 | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z Top 10 AI Companies 2024 by simplilearn is dedicated to help aspiring AI engineers know about 10 Best",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-ai-companies-2024-10-best-ai-companies-in-the-world-ai-companies-for-2024-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-ai-companies-2024-10-best-ai-companies-in-the-world-ai-companies-for-2024-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=vQPogiX6Yx0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vQPogiX6Yx0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M12S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-09-25T12:35:20Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vQPogiX6Yx0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-top-10-ai-websites-video-editors-should-start-using-simplilearn.md",
+      "title": "🔥 Top 10 AI Websites Video Editors Should Start Using ! 😱😱| Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this interactive video on \"Top 10 AI Websites for Video Editors in 2023\", we will look at some",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-ai-websites-video-editors-should-start-using-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-ai-websites-video-editors-should-start-using-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=j0oJ3sQubHM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j0oJ3sQubHM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M18S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-20T12:26:59Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/j0oJ3sQubHM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-top-10-amazing-websites-you-never-knew-existed-simplilearn.md",
+      "title": "Top 10 Amazing Websites You Never Knew Existed! 😱😱 | Simplilearn",
+      "excerpt": "🔥Become A Full Stack Developer Today (MEAN): https://taplink.cc/simplilearn_softwaredev 🔥Become A Full Stack Developer Today (MERN): https://taplink.cc/simplilearn_softwaredevmern  This video on *Top 10 Amazing Websites You Never Knew Existed!* by Simplilearn will acquaint you with the top 10 crazy",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-amazing-websites-you-never-knew-existed-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-amazing-websites-you-never-knew-existed-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=nxmUigLd7iY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nxmUigLd7iY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M52S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-05T13:41:36Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nxmUigLd7iY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/videos/simplilearn-top-10-artificial-intelligence-technologies-in-2020-ai-technology-2020-simplilearn.md",
       "title": "Top 10 Artificial Intelligence Technologies In 2020 | AI Technology 2020 | Simplilearn",
       "excerpt": "Artificial Intelligence has become the most debated technology of the 21st century and has revolutionized every sector of business. AI is being widely used to minimize human intervention in various tasks. In this YouTube live session, we'll tell you the top 10 AI technologies in 2020 that will have a",
@@ -522,6 +482,239 @@
       ]
     },
     {
+      "path": "_learning/videos/simplilearn-top-10-artificial-intelligence-technologies-in-2021-top-ai-technology-in-2021-simplilearn.md",
+      "title": "Top 10 Artificial Intelligence Technologies In 2021 | Top AI Technology In 2021 | Simplilearn",
+      "excerpt": "In this video, we are bringing to you the top 10 Artificial Intelligence Technologies that are going to impact a numeber of different domains. Artificial Intelligence is rapidly changing numerous things in our day to day lives. It has changed the way we live with innovative technologies and has profoundly",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-artificial-intelligence-technologies-in-2021-top-ai-technology-in-2021-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-artificial-intelligence-technologies-in-2021-top-ai-technology-in-2021-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=MMjVjirQuFM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MMjVjirQuFM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M3S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-12-18T13:44:42Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MMjVjirQuFM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-top-10-companies-hiring-machine-learning-engineer-machine-learning-jobs-ai-and-ml-simplilearn.md",
+      "title": "Top 10 Companies Hiring Machine Learning Engineer | Machine Learning Jobs | AI and ML | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video is based on Top 10 Companies Hiring Machine Learning Engineer, we'll delve into the dynamic",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-companies-hiring-machine-learning-engineer-machine-learning-jobs-ai-and-ml-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-companies-hiring-machine-learning-engineer-machine-learning-jobs-ai-and-ml-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=SfEAe-oLj6E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SfEAe-oLj6E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M41S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-24T07:45:24Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SfEAe-oLj6E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-top-10-machine-learning-algorithms-in-2024-machine-learning-algorithms-ml-engineer-simplilearn.md",
+      "title": "Top 10 Machine Learning Algorithms In 2024 | Machine Learning Algorithms | ML Engineer | Simplilearn",
+      "excerpt": "🔥 Become An AI & ML Expert Today: https://taplink.cc/simplilearn_ai_ml   Dive into the future of Machine Learning with our latest video on the \"Top 10 Machine Learning Algorithms In 2024\"! Discover the cutting-edge algorithms that are reshaping industries and pushing the boundaries of artificial intelligence.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-machine-learning-algorithms-in-2024-machine-learning-algorithms-ml-engineer-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-machine-learning-algorithms-in-2024-machine-learning-algorithms-ml-engineer-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=XqW25wWHLw8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XqW25wWHLw8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M26S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-11-10T11:13:56Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XqW25wWHLw8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-top-10-machine-learning-skills-required-in-2024-ml-skills-for-beginners-2024-simplilearn.md",
+      "title": "🔥 Top 10 Machine Learning Skills Required In 2024 | ML Skills For Beginners 2024 | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video titled \"Top 10 Machine Learning Skills Required in 2024,\" you will acquire a comprehensive",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-machine-learning-skills-required-in-2024-ml-skills-for-beginners-2024-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-machine-learning-skills-required-in-2024-ml-skills-for-beginners-2024-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=Y9eNgJXT-Qc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y9eNgJXT-Qc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M42S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-10-27T07:04:31Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Y9eNgJXT-Qc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-top-10-mind-blowing-ai-tools-for-2023-10-best-ai-tools-for-2023-you-should-know-simplilearn.md",
+      "title": "🔥 Top 10 Mind Blowing AI Tools For 2023 | 10 Best AI Tools For 2023 You Should Know | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  This video, \"Top 10 Mind-Blowing AI Tools For 2023\" by Simplilearn, will take you through the 10",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-mind-blowing-ai-tools-for-2023-10-best-ai-tools-for-2023-you-should-know-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-mind-blowing-ai-tools-for-2023-10-best-ai-tools-for-2023-you-should-know-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=4p00K5_N7dI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4p00K5_N7dI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M3S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-06-02T05:57:18Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4p00K5_N7dI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-top-10-robotics-project-2024-robotics-projects-for-beginners-robotics-projects-simplilearn.md",
+      "title": "Top 10 Robotics Project 2024 | Robotics Projects for Beginners | Robotics Projects | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z Top 10 Robotics Project 2024 by Simplilearn is dedicated to help aspiring Artificial intelligence",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-robotics-project-2024-robotics-projects-for-beginners-robotics-projects-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-robotics-project-2024-robotics-projects-for-beginners-robotics-projects-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=ivmWzO0i1pI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ivmWzO0i1pI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M19S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-10-19T06:21:32Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ivmWzO0i1pI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_learning/videos/simplilearn-top-10-technologies-to-learn-in-2020-trending-technologies-in-2020-simplilearn.md",
       "title": "Top 10 Technologies To Learn In 2020 | Trending Technologies In 2020 | Simplilearn",
       "excerpt": "This \"Top 10 Technologies to learn in 2020\" video will introduce you to all the top 10 popular and trending technologies in the market in 2020. These are the trending technologies that you need to watch out for in order to make a successful career in the year of 2020. Take the first step towards a successful",
@@ -557,6 +750,122 @@
       "price": "Free",
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-top-5-ai-writing-tools-in-2023-5-best-ai-writing-software-you-dont-know-simplilearn.md",
+      "title": "Top 5 AI Writing Tools in 2023 | 5 Best AI Writing Software You Don't Know 🔥🔥 😱😱 | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This tutorial on the Top 5 AI writing tools is focused on the popular AI Tools that will automate",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-5-ai-writing-tools-in-2023-5-best-ai-writing-software-you-dont-know-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-5-ai-writing-tools-in-2023-5-best-ai-writing-software-you-dont-know-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=j9P42OP401k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j9P42OP401k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M57S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-12-29T12:42:37Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/j9P42OP401k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-top-5-highest-paid-job-roles-in-machine-learning-machine-learning-career-2023-simplilearn.md",
+      "title": "🔥 Top 5 Highest Paid Job Roles In Machine Learning | Machine Learning Career 2023 | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  In this video on \" Top 5 Highest Paid Job Roles in Machine Learning,\" we will talk about how the",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-5-highest-paid-job-roles-in-machine-learning-machine-learning-career-2023-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-5-highest-paid-job-roles-in-machine-learning-machine-learning-career-2023-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=IScFj2IviKo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IScFj2IviKo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M8S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-23T12:55:30Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IScFj2IviKo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-top-5-hottest-it-jobs-of-2023-highest-paying-jobs-of-2023-highest-paying-jobs-simplilearn.md",
+      "title": "🔥 Top 5 Hottest IT Jobs Of 2023 | Highest Paying Jobs Of 2023 | Highest Paying Jobs | Simplilearn",
+      "excerpt": "🔥 Become An AI & ML Expert Today: https://taplink.cc/simplilearn_ai_ml  *Explore Data Science Courses by Simplilearn* 🔥 Post Graduate Program In Data Science: https://www.simplilearn.com/post-graduate-program-data-science?utm_campaign=24August2023Top5HighestPayingJobsIn2023&utm_medium=Descriptionff&utm_source=youtube",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-5-hottest-it-jobs-of-2023-highest-paying-jobs-of-2023-highest-paying-jobs-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-5-hottest-it-jobs-of-2023-highest-paying-jobs-of-2023-highest-paying-jobs-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=ODdeM6cgsmM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ODdeM6cgsmM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M4S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-08-24T13:43:39Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ODdeM6cgsmM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -675,14 +984,14 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-us-election-prediction-2020-latest-us-election-prediction-using-machine-learning-simplilearn.md",
-      "title": "US Election Prediction 2020 Latest | US Election Prediction Using Machine Learning | Simplilearn",
-      "excerpt": "The battle for the 2020 US Presidential election has begun. The Republican nominee Donald Trump and the Democratic nominee Joe Biden are fighting for a place in the White House. In this video, we will analyze the US elections using Twitter Sentiment Analysis in Python. You will understand how to extract",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-us-election-prediction-2020-latest-us-election-prediction-using-machine-learning-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-us-election-prediction-2020-latest-us-election-prediction-using-machine-learning-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=lrMGNr_Ryzc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lrMGNr_Ryzc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M7S",
+      "path": "_learning/videos/simplilearn-what-is-artificial-intelligence-artificial-intelligence-in-10-minutes-what-is-ai-simplilearn.md",
+      "title": "What is Artificial Intelligence? | Artificial Intelligence in 10 Minutes | What is AI? | Simplilearn",
+      "excerpt": "This Artificial Intelligence video will introduce you to the AI world and give you a short glimpse about AI history. By the end of this video, you will learn what is Artificial intelligence, types of Artificial Intelligence, applications of Artificial Intelligence and future of Artificial Intelligence.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-artificial-intelligence-artificial-intelligence-in-10-minutes-what-is-ai-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-artificial-intelligence-artificial-intelligence-in-10-minutes-what-is-ai-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=15PK38MUEPM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/15PK38MUEPM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M23S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
@@ -695,11 +1004,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-31T12:31:01Z",
+      "publishedDateTime": "2018-04-11T14:05:35Z",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/lrMGNr_Ryzc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/15PK38MUEPM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -711,6 +1020,82 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-what-is-artificial-intelligence-introduction-to-artificial-intelligence-ai-tutorialsimplilearn.md",
+      "title": "What Is Artificial Intelligence? | Introduction To Artificial Intelligence | AI Tutorial|Simplilearn",
+      "excerpt": "Artificial intelligence is a technique of turning a computer-based robot to work and act like humans. Siri, Alexa, recommendations from companies like Flipkart and Amazon, and self-driving cars like Tesla. All this work is based on AI. There are four types of Artificial Intelligence. It includes Reactive",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-artificial-intelligence-introduction-to-artificial-intelligence-ai-tutorialsimplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-artificial-intelligence-introduction-to-artificial-intelligence-ai-tutorialsimplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=l3GZqhWabXw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l3GZqhWabXw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M8S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-08-08T07:40:28Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l3GZqhWabXw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-what-is-bing-chat-how-to-use-the-new-bingchat-aigpt-4-for-free-simplilearn.md",
+      "title": "What Is Bing Chat? |How to Use the New Bingchat AI|GPT-4 for Free| Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  In this exciting video on What is BingChat, we will explore the ins and outs of BingChat, covering",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-bing-chat-how-to-use-the-new-bingchat-aigpt-4-for-free-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-bing-chat-how-to-use-the-new-bingchat-aigpt-4-for-free-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=m6c3ad4XT30",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m6c3ad4XT30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M10S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-22T12:58:35Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m6c3ad4XT30/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -753,53 +1138,14 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-what-is-machine-learning-machine-learning-tutorial-machine-learning-basics-simplilearn.md",
-      "title": "What is Machine Learning? | Machine Learning Tutorial | Machine Learning Basics | Simplilearn",
-      "excerpt": "This Machine Learning tutorial video will explain what is Machine Learning and how Machine Learning works. By the end of this tutorial, you will be able to understand the different types of Machine Learning, Machine Learning algorithms and some of the breakthroughs in the Machine Learning industry. You",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-machine-learning-machine-learning-tutorial-machine-learning-basics-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-machine-learning-machine-learning-tutorial-machine-learning-basics-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=7JhjINPwfYQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7JhjINPwfYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M21S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-25T19:49:05Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7JhjINPwfYQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-what-is-supervised-learning-in-machine-learning-machine-learning-for-beginners-simplilearn.md",
-      "title": "What Is Supervised Learning In Machine Learning? | Machine Learning For Beginners | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video on What is Supervised Learning in machine learning will take you through a detailed concept",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-supervised-learning-in-machine-learning-machine-learning-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-supervised-learning-in-machine-learning-machine-learning-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=tJmVf88l_ys",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tJmVf88l_ys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M52S",
+      "path": "_learning/videos/simplilearn-what-is-gpt-4-ai-thats-changing-everything-what-to-expect-from-gpt-4-simplilearn.md",
+      "title": "What is GPT 4? | AI That's Changing Everything | What to Expect From Gpt 4? | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video is based on What is GPT 4. Developed by OpenAI, GPT is a state-of-the-art language model",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-gpt-4-ai-thats-changing-everything-what-to-expect-from-gpt-4-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-gpt-4-ai-thats-changing-everything-what-to-expect-from-gpt-4-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=Jrci9On0KZ8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jrci9On0KZ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M32S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
@@ -812,50 +1158,11 @@
           }
         ]
       },
-      "publishedDateTime": "2022-07-02T06:28:48Z",
+      "publishedDateTime": "2023-02-17T06:54:00Z",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tJmVf88l_ys/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-will-chatgpt-and-bard-take-over-seo-is-seo-dead-forever-chatgpt-and-bard-for-seo-simplilearn.md",
-      "title": "Will ChatGPT and Bard Take Over SEO? | Is SEO Dead Forever? | ChatGPT And Bard for SEO | Simplilearn",
-      "excerpt": "🔥Digital Marketing Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1ugCa 🔥Digital Marketing Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugCg 🔥Digital Marketing Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1ugCj   This video, \"Will ChatGPT and Bard Take Over SEO\" by Simplilearn,",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-will-chatgpt-and-bard-take-over-seo-is-seo-dead-forever-chatgpt-and-bard-for-seo-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-will-chatgpt-and-bard-take-over-seo-is-seo-dead-forever-chatgpt-and-bard-for-seo-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=GbqMcHI8_Cw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GbqMcHI8_Cw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M32S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-21T11:42:56Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GbqMcHI8_Cw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Jrci9On0KZ8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -866,257 +1173,6 @@
       "price": "Free",
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-differentiable-neural-computer-live.md",
-      "title": "Differentiable Neural Computer (LIVE)",
-      "excerpt": "The Differentiable Neural Computer is an awesome model that DeepMind recently released. It's a memory augmented network that can perform meta-learning (learning to learn). We'll go over it's architecture details and implement it ourselves in Tensorflow.   Code for this video: https://github.com/llSourcell/differentiable_neural_computer",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-differentiable-neural-computer-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-differentiable-neural-computer-live/",
-      "originalUrl": "https://youtube.com/watch?v=r5XKzjTFCZQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r5XKzjTFCZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H3M56S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-10T03:24:38Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r5XKzjTFCZQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-fraud-prevention.md",
-      "title": "Fraud Prevention",
-      "excerpt": "Can AI be used for fraud prevention? Yes! In this video, we'll go over the history of fraud prevention techniques, then talk about some recent AI startups that are helping business reduce credit card fraud. We'll break down what the different AI models that help with fraud prevention look like (decision",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-fraud-prevention/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-fraud-prevention/",
-      "originalUrl": "https://youtube.com/watch?v=UNgdIkuVC6g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UNgdIkuVC6g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M52S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-04-29T17:01:53Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UNgdIkuVC6g/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-generative-adversarial-networks-for-style-transfer-live.md",
-      "title": "Generative Adversarial Networks for Style Transfer (LIVE)",
-      "excerpt": "Generative Adversarial Nets are such a rich topic for exploration, we're going to build one that was released just 2 months ago called the \"DiscoGAN\" that lets us transfer the style between 2 datasets. And I'll be building this using Tensorflow.  Code for this video: https://github.com/llSourcell/GANS-for-style-transfer",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-generative-adversarial-networks-for-style-transfer-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-generative-adversarial-networks-for-style-transfer-live/",
-      "originalUrl": "https://youtube.com/watch?v=MgdAe-T8obE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MgdAe-T8obE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H3M42S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-10T03:24:38Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MgdAe-T8obE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-generative-adversarial-networks-live.md",
-      "title": "Generative Adversarial Networks (LIVE)",
-      "excerpt": "We're going to build a GAN to generate some images using Tensorflow. This will help you grasp the architecture and intuition behind adversarial approaches to machine learning. We're building a Deep Convolutional GAN to generate MNIST digits.   Code for this video: https://github.com/llSourcell/Generative_Adversarial_networks_LIVE/blob/master/EZGAN.ipynb",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-generative-adversarial-networks-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-generative-adversarial-networks-live/",
-      "originalUrl": "https://youtube.com/watch?v=0VPQHbMvGzg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0VPQHbMvGzg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H4M41S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-10T03:24:38Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0VPQHbMvGzg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-beat-pong-using-policy-gradients-live.md",
-      "title": "How to Beat Pong Using Policy Gradients (LIVE)",
-      "excerpt": "We're going to use the policy gradient technique from reinforcement learning to beat the game of Pong. We'll use OpenAI's Universe as an environment for our agent and I'll go over the process of setting it up as well as the math behind the PG method in detail.  Microphone popping issues end at 11:15",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-beat-pong-using-policy-gradients-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-beat-pong-using-policy-gradients-live/",
-      "originalUrl": "https://youtube.com/watch?v=PDbXPBwOavc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PDbXPBwOavc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M27S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-10T03:24:38Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PDbXPBwOavc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-do-mathematics-easily-intro-to-deep-learning-4.md",
-      "title": "How to Do Mathematics Easily - Intro to Deep Learning #4",
-      "excerpt": "Let's learn about some key math concepts behind deep learning shall we? We'll build a 3 layer neural network and dive into some key concepts that makes deep learning give us such incredible results.  Coding challenge for this video: https://github.com/llSourcell/how_to_do_math_for_deep_learning  Jovian's",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-do-mathematics-easily-intro-to-deep-learning-4/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-do-mathematics-easily-intro-to-deep-learning-4/",
-      "originalUrl": "https://youtube.com/watch?v=N4gDikiec8E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N4gDikiec8E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M51S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-02-05T03:15:46Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/N4gDikiec8E/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-do-sentiment-analysis-intro-to-deep-learning-3.md",
-      "title": "How to Do Sentiment Analysis - Intro to Deep Learning #3",
-      "excerpt": "In this video, we'll use machine learning to help classify emotions! The example we'll use is classifying a movie review as either positive or negative via TF Learn in 20 lines of Python.  Coding Challenge for this video: https://github.com/llSourcell/How_to_do_Sentiment_Analysis  Ludo's winning code:",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-do-sentiment-analysis-intro-to-deep-learning-3/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-do-sentiment-analysis-intro-to-deep-learning-3/",
-      "originalUrl": "https://youtube.com/watch?v=si8zZHkufRY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/si8zZHkufRY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M21S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-02-05T03:15:46Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/si8zZHkufRY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-do-style-transfer-with-tensorflow-live.md",
-      "title": "How to Do Style Transfer with Tensorflow (LIVE)",
-      "excerpt": "We're going to learn about all the details of style transfer (especially the math) using just Tensorflow. The goal of this session is for you to understand the details behind how style+content loss is calculated and minimized. We'll also talk about future discoveries.  Code for this video: https://github.com/llSourcell/How_to_do_style_transfer_in_tensorflow",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-do-style-transfer-with-tensorflow-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-do-style-transfer-with-tensorflow-live/",
-      "originalUrl": "https://youtube.com/watch?v=YoBEGQD3LCc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YoBEGQD3LCc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H6M26S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-03-18T08:02:00Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YoBEGQD3LCc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

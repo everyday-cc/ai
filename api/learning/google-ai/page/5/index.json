@@ -4,129 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/videos/edureka-theano-vs-tensorflow-deep-learning-frameworks-compared-edureka.md",
-      "title": "Theano vs TensorFlow |  Deep Learning Frameworks Compared | Edureka",
-      "excerpt": "** AI & Deep Learning with Tensorflow Training:  https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video will provide you with a crisp comparison between the two Deep Learning Frameworks - Theano and TensorFlow and will help you choose the right one for yourself.  Subscribe to our",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-theano-vs-tensorflow-deep-learning-frameworks-compared-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-theano-vs-tensorflow-deep-learning-frameworks-compared-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=SpZSMvI-keU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SpZSMvI-keU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M45S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-13T04:12:38Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SpZSMvI-keU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-what-are-autoencoders-autoencoders-using-tensorflow-deep-learning-using-tensorflow-edureka.md",
-      "title": "What Are Autoencoders? | Autoencoders Using TensorFlow  | Deep Learning Using TensorFlow | Edureka",
-      "excerpt": "** AI & Deep Learning with Tensorflow Training: https://goo.gl/vDxgi5 ** ) This Edureka tutorial video of \"What are autoencoders\" provides you with a brief introduction about autoencoders and how they compress unsupervised data. You will see the various applications and types of autoencoders used in",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-what-are-autoencoders-autoencoders-using-tensorflow-deep-learning-using-tensorflow-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-what-are-autoencoders-autoencoders-using-tensorflow-deep-learning-using-tensorflow-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=QujriOAtps4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QujriOAtps4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M12S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-10-01T14:02:57Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QujriOAtps4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-deep-learning-tutorial-part-2-tensorflow-object-detection-tensorflow-tutorial-simplilearn.md",
-      "title": "Deep Learning Tutorial - Part 2 | TensorFlow Object Detection | TensorFlow Tutorial | Simplilearn",
-      "excerpt": "This Deep Learning tutorial will take you through the TensorFlow code to perform object detection in an image. You will understand what is object detection API, what are the libraries required for object detection, what is a COCO dataset and at the end, we will implement a code to detect objects in few",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-tutorial-part-2-tensorflow-object-detection-tensorflow-tutorial-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-tutorial-part-2-tensorflow-object-detection-tensorflow-tutorial-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=6EALSPZZagg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6EALSPZZagg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M8S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-07T09:15:48Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6EALSPZZagg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
       "path": "_learning/videos/simplilearn-tensorflow-full-course-tensorflow-tutorial-for-beginners-learn-tensorflow-in-5-hours-simplilearn.md",
       "title": "TensorFlow Full Course | TensorFlow Tutorial For Beginners| Learn TensorFlow In 5 Hours |Simplilearn",
       "excerpt": "This video on TensorFlow will help you learn about Deep Learning with TensorFlow in detail. You will understand the basics of Deep Learning and learn the various applications in Deep Learning. You will get an idea about how to install TensorFlow on Ubuntu, followed by what is TensorFlow, and TensorFlow",
@@ -152,47 +29,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wMJQ04-AwNo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-tensorflow-explained-simplilearn.md",
-      "title": "TensorFlow In 10 Minutes | TensorFlow Tutorial For Beginners | TensorFlow Explained | Simplilearn",
-      "excerpt": "In this video on TensorFlow, you will be introduced to the basic concepts of TensorFlow. We will start off with a brief about TensorFlow and then move on to an intutive understanding of Tensors, followed by some features of TensorFlow which have made it so popular. Then, we'll take a look at some conpanines",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-tensorflow-explained-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-tensorflow-explained-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=mSsDNGWZ7Ao",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mSsDNGWZ7Ao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M48S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-12-04T17:27:32Z",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mSsDNGWZ7Ao/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -651,6 +487,127 @@
       ]
     },
     {
+      "path": "_learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow.md",
+      "title": "Build a neural network to perform classification | TensorFlow.js (Coding TensorFlow)",
+      "excerpt": "In part 3 of this series on TensorFlow.js, Laurence Moroney (@lmoroney) looks at taking the processed data from part 2, and building a neural network to perform classification with it. You’ll see how to create and stack multiple layers, use these to create a classifier, and then test that classifier",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow/",
+      "originalUrl": "https://youtube.com/watch?v=4vN1tHpCkA0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4vN1tHpCkA0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M45S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-07T18:46:23Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4vN1tHpCkA0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-how-do-tfx-pipelines-work-tensorflow-extended.md",
+      "title": "How do TFX pipelines work? (TensorFlow Extended)",
+      "excerpt": "On today’s episode of TensorFlow Extended hosted by TensorFlow Developer Advocate, Robert Crowe, we’re asking the question, “How do TFX pipelines work?” Learn more on Episode 2 of the 5 part series on Real World Machine Learning in Production.   This video is also subtitled in Chinese, Indonesian, Italian,",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-how-do-tfx-pipelines-work-tensorflow-extended/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-how-do-tfx-pipelines-work-tensorflow-extended/",
+      "originalUrl": "https://youtube.com/watch?v=iVKa8SZQdPI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iVKa8SZQdPI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-19T19:13:54Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iVKa8SZQdPI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-neural-structured-learning-part-1-framework-overview.md",
+      "title": "Neural Structured Learning - Part 1: Framework overview",
+      "excerpt": "In this video series, we’re going to introduce a new learning framework to our developers called Neural Structured Learning. TensorFlow Senior Software Engineer Da-Cheng Juan kicks off this series with the framework overview.  Links: Get started with Neural Structured Learning → https://goo.gle/2sOz6DE",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-neural-structured-learning-part-1-framework-overview/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-neural-structured-learning-part-1-framework-overview/",
+      "originalUrl": "https://youtube.com/watch?v=N_IS3x5wFNI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N_IS3x5wFNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M13S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-01-24T02:26:58Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N_IS3x5wFNI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/videos/tensorflow-neural-structured-learning-part-2-training-with-natural-graphs.md",
       "title": "Neural Structured Learning - Part 2: Training with natural graphs",
       "excerpt": "Welcome to episode 2 of our short series on Neural Structured Learning! In this episode, Software Engineer Arjun Gopalan discusses what natural graphs are and how they can be used to train neural networks.   Graphs are powerful data structures and can be used to represent data that most of us interact",
@@ -716,6 +673,46 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/3RQqTTOY0U0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-neural-structured-learning-part-4-adversarial-learning-for-image-classification.md",
+      "title": "Neural Structured Learning - Part 4: Adversarial learning for image classification",
+      "excerpt": "Welcome to the 4th episode of this Neural Structured Learning series. In this video, we are going to talk about learning with implicit structured signals constructed from adversarial learning.  Guide & Tutorials → https://goo.gle/2SBwQIH  Coding TensorFlow → https://goo.gle/Coding-TensorFlow Subscribe",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-neural-structured-learning-part-4-adversarial-learning-for-image-classification/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-neural-structured-learning-part-4-adversarial-learning-for-image-classification/",
+      "originalUrl": "https://youtube.com/watch?v=Js2WJkhdU7k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Js2WJkhdU7k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M6S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-11T21:00:08Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Js2WJkhdU7k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -44,7 +44,7 @@
             ]
           },
           "publishedDateTime": "2018-01-15T06:24:48Z",
-          "heat": 78,
+          "heat": 108,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/4jmsHaJ7xEA/hqdefault.jpg",
@@ -83,7 +83,7 @@
             ]
           },
           "publishedDateTime": "2019-06-02T08:22:52Z",
-          "heat": 160,
+          "heat": 161,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/JMUxmLyrhSk/maxresdefault.jpg",
@@ -160,7 +160,7 @@
             ]
           },
           "publishedDateTime": "2018-01-15T06:24:48Z",
-          "heat": 55,
+          "heat": 58,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/5hNK7-N23eU/hqdefault.jpg",
@@ -179,7 +179,7 @@
         }
       ],
       "size": 53,
-      "heat": 93,
+      "heat": 129,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/4jmsHaJ7xEA/hqdefault.jpg",
@@ -192,203 +192,6 @@
       "type": "collection",
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/edureka-deep-learning-with-tensorflow-videos.md",
-      "title": "Deep Learning With TensorFlow Videos",
-      "excerpt": "This Deep learning With Tensorflow videos playlist will help you to learn the basic concepts of Deep Learning, TensorFlow, the main functions, operations and the execution pipeline.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/edureka-deep-learning-with-tensorflow-videos/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/collections/edureka-deep-learning-with-tensorflow-videos/",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/edureka-deep-learning-full-course-learn-deep-learning-in-6-hours-deep-learning-tutorial-edureka.md",
-          "title": "Deep Learning Full Course - Learn Deep Learning in 6 Hours | Deep Learning Tutorial | Edureka",
-          "excerpt": "** AI & Deep Learning with TensorFlow (Use Code: YOUTUBE20): https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka Deep Learning Full Course video will help you understand and learn Deep Learning & Tensorflow in detail. This Deep Learning Tutorial is ideal for both beginners as well",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-deep-learning-full-course-learn-deep-learning-in-6-hours-deep-learning-tutorial-edureka/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-deep-learning-full-course-learn-deep-learning-in-6-hours-deep-learning-tutorial-edureka/",
-          "originalUrl": "https://youtube.com/watch?v=DooxDIRAkPA",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DooxDIRAkPA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT6H2M26S",
-          "provider": {
-            "name": "Edureka",
-            "domain": "edureka.co",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2019-09-08T08:10:29Z",
-          "heat": 79,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/DooxDIRAkPA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ]
-        },
-        {
-          "path": "_learning/videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka.md",
-          "title": "TensorFlow 2.0 Tutorial for Beginners | Deep Learning with TensorFlow 2.0 | Edureka",
-          "excerpt": "🔥Edureka TensorFlow 2.0 Course: https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka video on \"TensorFlow 2.0 Tutorial For Beginners\" will cover all the fundamentals of TensorFlow and Deep Learning and help you get started with same with a practical implementation. Following pointers",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka/",
-          "originalUrl": "https://youtube.com/watch?v=OHZqmJwj7n4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OHZqmJwj7n4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT48M7S",
-          "provider": {
-            "name": "Edureka",
-            "domain": "edureka.co",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-03-26T12:27:42Z",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/OHZqmJwj7n4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning",
-            "Google AI",
-            "TensorFlow"
-          ]
-        },
-        {
-          "path": "_learning/videos/edureka-what-is-deep-learning-deep-learning-simplified-deep-learning-tutorial-edureka.md",
-          "title": "What is Deep Learning | Deep Learning Simplified | Deep Learning Tutorial | Edureka",
-          "excerpt": "( Tensorflow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) This Edureka \"What is Deep Learning\" video (Blog: https://goo.gl/4zxMfU) will help you to understand about the relationship between Deep Learning, Machine Learning and Artificial Intelligence and how Deep Learning came",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-what-is-deep-learning-deep-learning-simplified-deep-learning-tutorial-edureka/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-what-is-deep-learning-deep-learning-simplified-deep-learning-tutorial-edureka/",
-          "originalUrl": "https://youtube.com/watch?v=dafuAz_CV7Q",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dafuAz_CV7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT27M40S",
-          "provider": {
-            "name": "Edureka",
-            "domain": "edureka.co",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-01-15T06:24:48Z",
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/dafuAz_CV7Q/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ]
-        },
-        {
-          "path": "_learning/videos/edureka-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-deep-learning-tensorflow-edureka.md",
-          "title": "TensorFlow In 10 Minutes | TensorFlow Tutorial For Beginners | Deep Learning & TensorFlow | Edureka",
-          "excerpt": "** AI and Deep-Learning with TensorFlow - https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video provides you with a basic introduction to TensorFlow: The amazing deep learning framework by Google. Below are the topics covered in this video:  1. What is TensorFlow? 2. Companies",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-deep-learning-tensorflow-edureka/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-deep-learning-tensorflow-edureka/",
-          "originalUrl": "https://youtube.com/watch?v=tXVNS-V39A0",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tXVNS-V39A0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT9M1S",
-          "provider": {
-            "name": "Edureka",
-            "domain": "edureka.co",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2019-05-06T13:34:59Z",
-          "heat": 74,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/tXVNS-V39A0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning",
-            "Google AI",
-            "TensorFlow"
-          ]
-        }
-      ],
-      "size": 67,
-      "heat": 88,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DooxDIRAkPA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "collection",
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -432,7 +235,7 @@
             ]
           },
           "publishedDateTime": "2019-01-07T09:11:52Z",
-          "heat": 77,
+          "heat": 88,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/NUXdtN1W1FE/maxresdefault.jpg",
@@ -471,7 +274,7 @@
             ]
           },
           "publishedDateTime": "2019-01-07T09:12:12Z",
-          "heat": 61,
+          "heat": 68,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/XnOAdxOWXWg/maxresdefault.jpg",
@@ -510,7 +313,7 @@
             ]
           },
           "publishedDateTime": "2019-01-07T09:12:35Z",
-          "heat": 67,
+          "heat": 75,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/RmajweUFKvM/maxresdefault.jpg",
@@ -549,7 +352,7 @@
             ]
           },
           "publishedDateTime": "2019-01-07T09:12:59Z",
-          "heat": 66,
+          "heat": 62,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/eM4uJ6XGnSM/maxresdefault.jpg",
@@ -568,203 +371,10 @@
         }
       ],
       "size": 24,
-      "heat": 80,
+      "heat": 90,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/NUXdtN1W1FE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "collection",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/collections/edureka-machine-learning-tutorial-in-python-edureka.md",
-      "title": "Machine Learning Tutorial in Python | Edureka",
-      "excerpt": "This Edureka playlist on 'Machine Learning Tutorial in Python' helps you gain expertise in various types of machine learning algorithms like supervised, unsupervised and reinforcement algorithms. Through this playlist you will be learning the important Machine Learning concepts and its implementation in python programming language.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/edureka-machine-learning-tutorial-in-python-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/collections/edureka-machine-learning-tutorial-in-python-edureka/",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka.md",
-          "title": "Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka",
-          "excerpt": "🔥 Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka Machine Learning Full Course video will help you understand and learn Machine Learning Algorithms in detail. This Machine Learning Tutorial is ideal for both beginners",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka/",
-          "originalUrl": "https://youtube.com/watch?v=GwIo3gDZCVQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GwIo3gDZCVQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT9H38M32S",
-          "provider": {
-            "name": "Edureka",
-            "domain": "edureka.co",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2019-09-21T19:13:28Z",
-          "heat": 157,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ]
-        },
-        {
-          "path": "_learning/videos/edureka-what-is-machine-learning-machine-learning-basics-machine-learning-tutorial-edureka.md",
-          "title": "What is Machine Learning? | Machine Learning Basics | Machine Learning Tutorial | Edureka",
-          "excerpt": "(Data Science Certification: https://www.edureka.co/data-science-r-programming-certification-course ) This Edureka video on \"What is Machine Learning\" (Machine Learning Blog:  https://goo.gl/fe7ykh  ) gives an introduction to Machine Learning and its various types. Below are the topics covered in this",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-what-is-machine-learning-machine-learning-basics-machine-learning-tutorial-edureka/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-what-is-machine-learning-machine-learning-basics-machine-learning-tutorial-edureka/",
-          "originalUrl": "https://youtube.com/watch?v=Pj0neYUp9Tc",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Pj0neYUp9Tc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT17M21S",
-          "provider": {
-            "name": "Edureka",
-            "domain": "edureka.co",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-03-16T14:31:01Z",
-          "heat": 63,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/Pj0neYUp9Tc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ]
-        },
-        {
-          "path": "_learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka.md",
-          "title": "Top 10 Books for Machine Learning in 2021 | Best ML Books for Beginners And Advanced | Edureka",
-          "excerpt": "** Machine Learning Training:  https://www.edureka.co/data-science-python-certification-course ** This Edureka video on 'Top 10 Best Books for Machine Learning in 2021' will help you out if you are someone who loves to study from books. We have suggestions for the best books for beginners to advanced",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka/",
-          "originalUrl": "https://youtube.com/watch?v=AdBKfuYbqu4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AdBKfuYbqu4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT9M6S",
-          "provider": {
-            "name": "Edureka",
-            "domain": "edureka.co",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2019-11-14T14:32:18Z",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/AdBKfuYbqu4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ]
-        },
-        {
-          "path": "_learning/videos/edureka-top-10-applications-of-machine-learning-in-2024-machine-learning-application-examples-edureka.md",
-          "title": "Top 10 Applications of Machine Learning in 2024 | Machine Learning Application Examples | Edureka",
-          "excerpt": "Machine Learning Training with Python: https://www.edureka.co/data-science-python-certification-course This \"Top 10 Applications of Machine Learning in 2024\" video will give you an idea of how vast the machine learning is and how commonly you are using it in your day to day life.   Check out our playlist",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-applications-of-machine-learning-in-2024-machine-learning-application-examples-edureka/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-applications-of-machine-learning-in-2024-machine-learning-application-examples-edureka/",
-          "originalUrl": "https://youtube.com/watch?v=ahRcGObyEZo",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ahRcGObyEZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT13M59S",
-          "provider": {
-            "name": "Edureka",
-            "domain": "edureka.co",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-07-25T13:36:02Z",
-          "heat": 62,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ahRcGObyEZo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ]
-        }
-      ],
-      "size": 104,
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -818,7 +428,7 @@
             ]
           },
           "publishedDateTime": "2020-02-20T17:02:29Z",
-          "heat": 75,
+          "heat": 77,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/fNxaJsNG3-s/maxresdefault.jpg",
@@ -900,7 +510,7 @@
             ]
           },
           "publishedDateTime": "2020-03-03T16:43:59Z",
-          "heat": 61,
+          "heat": 62,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Y_hzMnRXjhI/maxresdefault.jpg",
@@ -941,7 +551,7 @@
             ]
           },
           "publishedDateTime": "2020-04-30T22:12:44Z",
-          "heat": 56,
+          "heat": 57,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/OuYtk9Ymut4/maxresdefault.jpg",
@@ -1041,7 +651,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:34:51Z",
-              "heat": 53,
+              "heat": 56,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
@@ -1080,7 +690,7 @@
                 ]
               },
               "publishedDateTime": "2021-07-13T20:40:25Z",
-              "heat": 51,
+              "heat": 52,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/1CSVy9JbbK0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB4FJzU1UZMjlEH-qNJEKvSfBzDaQ",
@@ -1119,7 +729,7 @@
                 ]
               },
               "publishedDateTime": "2021-07-13T20:41:16Z",
-              "heat": 50,
+              "heat": 54,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/xsIDTmo1NOg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCHm65NEC38H5RR7Nv-3QnJA6DTzg",
@@ -1158,7 +768,7 @@
                 ]
               },
               "publishedDateTime": "2021-07-13T20:42:46Z",
-              "heat": 50,
+              "heat": 52,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/7yFZHf8mzGk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgQigsMA8=&rs=AOn4CLDKuz0K80JMDaZq1H81ne8sf5P5Cg",
@@ -1177,7 +787,7 @@
             }
           ],
           "size": 11,
-          "heat": 60,
+          "heat": 61,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
@@ -1234,7 +844,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:39:27Z",
-              "heat": 51,
+              "heat": 54,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
@@ -1273,7 +883,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:39:27Z",
-              "heat": 51,
+              "heat": 56,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/UyC0bBiZY-A/hqdefault.jpg",
@@ -1312,7 +922,7 @@
                 ]
               },
               "publishedDateTime": "2021-07-19T19:29:28Z",
-              "heat": 50,
+              "heat": 52,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/B_2bntDYano/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLBfo1Wzg21zL_SfYnBkxP3IMEpXfg",
@@ -1351,7 +961,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:39:27Z",
-              "heat": 50,
+              "heat": 51,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/XjwVAMWrmrw/hqdefault.jpg",
@@ -1370,7 +980,7 @@
             }
           ],
           "size": 7,
-          "heat": 60,
+          "heat": 61,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
@@ -1427,7 +1037,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:41:01Z",
-              "heat": 51,
+              "heat": 52,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/Y1j_J53k7fo/hqdefault.jpg",
@@ -1466,7 +1076,7 @@
                 ]
               },
               "publishedDateTime": "2021-07-13T22:52:25Z",
-              "heat": 51,
+              "heat": 52,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/OhLosjXM-Fg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAuuI6cATT_KMNrvsxUgr8No_ZQOA",
@@ -1505,7 +1115,7 @@
                 ]
               },
               "publishedDateTime": "2021-07-13T22:53:04Z",
-              "heat": 50,
+              "heat": 51,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/Ge612JZGBMU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAfmX2anN9vC-c-QroEwpHrOGBNKA",
@@ -1544,7 +1154,7 @@
                 ]
               },
               "publishedDateTime": "2021-07-13T22:53:27Z",
-              "heat": 51,
+              "heat": 55,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/tjDceq0qH10/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCDPFHi5bqut_A0XrQUQbr_ux2p0w",
@@ -1563,7 +1173,7 @@
             }
           ],
           "size": 8,
-          "heat": 60,
+          "heat": 61,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Y1j_J53k7fo/hqdefault.jpg",
@@ -1620,7 +1230,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:42:38Z",
-              "heat": 53,
+              "heat": 55,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
@@ -1659,7 +1269,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:42:38Z",
-              "heat": 51,
+              "heat": 52,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/e81nC0LO0A8/hqdefault.jpg",
@@ -1698,7 +1308,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:42:38Z",
-              "heat": 51,
+              "heat": 52,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/Wf6HbY2PQDw/hqdefault.jpg",
@@ -1756,7 +1366,7 @@
             }
           ],
           "size": 14,
-          "heat": 62,
+          "heat": 61,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
@@ -1774,7 +1384,7 @@
         }
       ],
       "size": 7,
-      "heat": 72,
+      "heat": 73,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
@@ -1788,6 +1398,199 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/collections/edureka-machine-learning-tutorial-in-python-edureka.md",
+      "title": "Machine Learning Tutorial in Python | Edureka",
+      "excerpt": "This Edureka playlist on 'Machine Learning Tutorial in Python' helps you gain expertise in various types of machine learning algorithms like supervised, unsupervised and reinforcement algorithms. Through this playlist you will be learning the important Machine Learning concepts and its implementation in python programming language.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/edureka-machine-learning-tutorial-in-python-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/edureka-machine-learning-tutorial-in-python-edureka/",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka.md",
+          "title": "Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka",
+          "excerpt": "🔥 Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka Machine Learning Full Course video will help you understand and learn Machine Learning Algorithms in detail. This Machine Learning Tutorial is ideal for both beginners",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka/",
+          "originalUrl": "https://youtube.com/watch?v=GwIo3gDZCVQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GwIo3gDZCVQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT9H38M32S",
+          "provider": {
+            "name": "Edureka",
+            "domain": "edureka.co",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2019-09-21T19:13:28Z",
+          "heat": 119,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        },
+        {
+          "path": "_learning/videos/edureka-what-is-machine-learning-machine-learning-basics-machine-learning-tutorial-edureka.md",
+          "title": "What is Machine Learning? | Machine Learning Basics | Machine Learning Tutorial | Edureka",
+          "excerpt": "(Data Science Certification: https://www.edureka.co/data-science-r-programming-certification-course ) This Edureka video on \"What is Machine Learning\" (Machine Learning Blog:  https://goo.gl/fe7ykh  ) gives an introduction to Machine Learning and its various types. Below are the topics covered in this",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-what-is-machine-learning-machine-learning-basics-machine-learning-tutorial-edureka/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-what-is-machine-learning-machine-learning-basics-machine-learning-tutorial-edureka/",
+          "originalUrl": "https://youtube.com/watch?v=Pj0neYUp9Tc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Pj0neYUp9Tc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT17M21S",
+          "provider": {
+            "name": "Edureka",
+            "domain": "edureka.co",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-03-16T14:31:01Z",
+          "heat": 60,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/Pj0neYUp9Tc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        },
+        {
+          "path": "_learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka.md",
+          "title": "Top 10 Books for Machine Learning in 2021 | Best ML Books for Beginners And Advanced | Edureka",
+          "excerpt": "** Machine Learning Training:  https://www.edureka.co/data-science-python-certification-course ** This Edureka video on 'Top 10 Best Books for Machine Learning in 2021' will help you out if you are someone who loves to study from books. We have suggestions for the best books for beginners to advanced",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka/",
+          "originalUrl": "https://youtube.com/watch?v=AdBKfuYbqu4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AdBKfuYbqu4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT9M6S",
+          "provider": {
+            "name": "Edureka",
+            "domain": "edureka.co",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2019-11-14T14:32:18Z",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/AdBKfuYbqu4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        },
+        {
+          "path": "_learning/videos/edureka-top-10-applications-of-machine-learning-in-2024-machine-learning-application-examples-edureka.md",
+          "title": "Top 10 Applications of Machine Learning in 2024 | Machine Learning Application Examples | Edureka",
+          "excerpt": "Machine Learning Training with Python: https://www.edureka.co/data-science-python-certification-course This \"Top 10 Applications of Machine Learning in 2024\" video will give you an idea of how vast the machine learning is and how commonly you are using it in your day to day life.   Check out our playlist",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-applications-of-machine-learning-in-2024-machine-learning-application-examples-edureka/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-applications-of-machine-learning-in-2024-machine-learning-application-examples-edureka/",
+          "originalUrl": "https://youtube.com/watch?v=ahRcGObyEZo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ahRcGObyEZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT13M59S",
+          "provider": {
+            "name": "Edureka",
+            "domain": "edureka.co",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-07-25T13:36:02Z",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/ahRcGObyEZo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        }
+      ],
+      "size": 104,
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1831,7 +1634,7 @@
             ]
           },
           "publishedDateTime": "2021-06-29T16:19:15Z",
-          "heat": 65,
+          "heat": 66,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/BthUPVwA59s/maxresdefault.jpg",
@@ -1871,7 +1674,7 @@
             ]
           },
           "publishedDateTime": "2021-07-06T08:11:59Z",
-          "heat": 58,
+          "heat": 59,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/v90un9ALRzw/maxresdefault.jpg",
@@ -1971,7 +1774,7 @@
         }
       ],
       "size": 49,
-      "heat": 69,
+      "heat": 70,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/BthUPVwA59s/maxresdefault.jpg",
@@ -1989,166 +1792,17 @@
       ]
     },
     {
-      "path": "_learning/collections/futurology-artificial-intelligence-explained-by-futurology.md",
-      "title": "Artificial Intelligence Explained by Futurology",
-      "excerpt": "This playlist is a composition of all videos related to artificial intelligence, from the history of AI to modern machine learning algorithms, artificial super intelligence and more!",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/futurology-artificial-intelligence-explained-by-futurology/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/collections/futurology-artificial-intelligence-explained-by-futurology/",
+      "path": "_learning/collections/edureka-deep-learning-with-tensorflow-videos.md",
+      "title": "Deep Learning With TensorFlow Videos",
+      "excerpt": "This Deep learning With Tensorflow videos playlist will help you to learn the basic concepts of Deep Learning, TensorFlow, the main functions, operations and the execution pipeline.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/edureka-deep-learning-with-tensorflow-videos/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/edureka-deep-learning-with-tensorflow-videos/",
       "provider": {
-        "name": "Futurology",
-        "domain": "youtube.com"
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/futurology-the-history-of-artificial-intelligence-documentary.md",
-          "title": "The History of Artificial Intelligence [Documentary]",
-          "excerpt": "Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   This video is the culmination of documentaries that cover the history and origins of computing-based artificial intelligence.   [0:44-52:22] - The Thinking Machine  [52:22-59:26] - In Their Own Worlds (Claude",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-the-history-of-artificial-intelligence-documentary/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-the-history-of-artificial-intelligence-documentary/",
-          "originalUrl": "https://youtube.com/watch?v=R3YFxF0n8n8",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R3YFxF0n8n8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT2H34M37S",
-          "provider": {
-            "name": "Futurology",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2020-03-22T00:13:43Z",
-          "heat": 111,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/R3YFxF0n8n8/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/videos/futurology-the-ancient-history-of-artificial-intelligence.md",
-          "title": "The Ancient History of Artificial Intelligence",
-          "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   Artificial intelligence has been a topic of growing prominence in the media and mainstream culture since 2015, as well as in the investment world, with start-ups that even mention the word in their business model, gaining massive amounts of funding.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-the-ancient-history-of-artificial-intelligence/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-the-ancient-history-of-artificial-intelligence/",
-          "originalUrl": "https://youtube.com/watch?v=-qnMLjxJZm0",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-qnMLjxJZm0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT14M16S",
-          "provider": {
-            "name": "Futurology",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2020-03-23T02:25:02Z",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/-qnMLjxJZm0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/videos/futurology-the-birth-of-artificial-intelligence.md",
-          "title": "The Birth of Artificial Intelligence",
-          "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the last",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-the-birth-of-artificial-intelligence/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-the-birth-of-artificial-intelligence/",
-          "originalUrl": "https://youtube.com/watch?v=eYmKC0oQtDE",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eYmKC0oQtDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT17M50S",
-          "provider": {
-            "name": "Futurology",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2020-03-23T11:15:37Z",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/eYmKC0oQtDE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/videos/futurology-supervised-machine-learning-explained.md",
-          "title": "Supervised Machine Learning Explained",
-          "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   Artificial intelligence, machine learning – these words lately have been used synonymously – but should they be?   In this third video in our artificial intelligence series and as for the purpose of this machine learning series, I’ll seek to",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-supervised-machine-learning-explained/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-supervised-machine-learning-explained/",
-          "originalUrl": "https://youtube.com/watch?v=zAPmUlBX-Qg",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zAPmUlBX-Qg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT10M23S",
-          "provider": {
-            "name": "Futurology",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2020-03-23T15:54:11Z",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/zAPmUlBX-Qg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/R3YFxF0n8n8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "collection",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/dotnet-machine-learning-with-mlnet.md",
-      "title": "Machine Learning with ML.NET",
-      "excerpt": "Welcome to Machine Learning with ML.NET! In this introductory video series we will introduce the concept of Machine Learning, what you can do with various tooling, and how to get started with ML.NET!",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/dotnet-machine-learning-with-mlnet/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/collections/dotnet-machine-learning-with-mlnet/",
-      "provider": {
-        "name": "dotNET",
-        "domain": "dotnet.microsoft.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -2157,31 +1811,31 @@
       },
       "topItems": [
         {
-          "path": "_learning/videos/dotnet-mlnet-machine-learning-introduction-mlnet-1-of-8.md",
-          "title": "ML.NET - Machine Learning Introduction | ML.NET [1 of 8]",
-          "excerpt": "Welcome to Machine Learning with ML.NET! In this video we will introduce the concept of Machine Learning and what you can do with Machine Learning.   Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-mlnet-machine-learning-introduction-mlnet-1-of-8/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-mlnet-machine-learning-introduction-mlnet-1-of-8/",
-          "originalUrl": "https://youtube.com/watch?v=X0DQjfW09kA",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X0DQjfW09kA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT4M51S",
+          "path": "_learning/videos/edureka-deep-learning-full-course-learn-deep-learning-in-6-hours-deep-learning-tutorial-edureka.md",
+          "title": "Deep Learning Full Course - Learn Deep Learning in 6 Hours | Deep Learning Tutorial | Edureka",
+          "excerpt": "** AI & Deep Learning with TensorFlow (Use Code: YOUTUBE20): https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka Deep Learning Full Course video will help you understand and learn Deep Learning & Tensorflow in detail. This Deep Learning Tutorial is ideal for both beginners as well",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-deep-learning-full-course-learn-deep-learning-in-6-hours-deep-learning-tutorial-edureka/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-deep-learning-full-course-learn-deep-learning-in-6-hours-deep-learning-tutorial-edureka/",
+          "originalUrl": "https://youtube.com/watch?v=DooxDIRAkPA",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DooxDIRAkPA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT6H2M26S",
           "provider": {
-            "name": "dotNET",
-            "domain": "dotnet.microsoft.com",
+            "name": "Edureka",
+            "domain": "edureka.co",
             "images": [
               {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
                 "width": 50,
                 "height": 50,
                 "isCached": false
               }
             ]
           },
-          "publishedDateTime": "2019-09-20T00:48:24Z",
-          "heat": 55,
+          "publishedDateTime": "2019-09-08T08:10:29Z",
+          "heat": 61,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/X0DQjfW09kA/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/DooxDIRAkPA/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
               "isCached": true
@@ -2192,36 +1846,76 @@
           "price": "Free",
           "topics": [
             "AI",
-            "Microsoft AI",
             "Machine Learning"
           ]
         },
         {
-          "path": "_learning/videos/dotnet-mlnet-introduction-mlnet-2-of-8.md",
-          "title": "ML.NET Introduction | ML.NET [2 of 8]",
-          "excerpt": "Learn all about what ML.NET is and what you can do with the Framework. You will also see how customers using it, the open source momentum, and a short demo of the experience.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-mlnet-introduction-mlnet-2-of-8/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-mlnet-introduction-mlnet-2-of-8/",
-          "originalUrl": "https://youtube.com/watch?v=83kEkJEXQnY",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/83kEkJEXQnY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT10M14S",
+          "path": "_learning/videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka.md",
+          "title": "TensorFlow 2.0 Tutorial for Beginners | Deep Learning with TensorFlow 2.0 | Edureka",
+          "excerpt": "🔥Edureka TensorFlow 2.0 Course: https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka video on \"TensorFlow 2.0 Tutorial For Beginners\" will cover all the fundamentals of TensorFlow and Deep Learning and help you get started with same with a practical implementation. Following pointers",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka/",
+          "originalUrl": "https://youtube.com/watch?v=OHZqmJwj7n4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OHZqmJwj7n4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT48M7S",
           "provider": {
-            "name": "dotNET",
-            "domain": "dotnet.microsoft.com",
+            "name": "Edureka",
+            "domain": "edureka.co",
             "images": [
               {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
                 "width": 50,
                 "height": 50,
                 "isCached": false
               }
             ]
           },
-          "publishedDateTime": "2019-09-20T00:56:57Z",
+          "publishedDateTime": "2021-03-26T12:27:42Z",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/OHZqmJwj7n4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning",
+            "Google AI",
+            "TensorFlow"
+          ]
+        },
+        {
+          "path": "_learning/videos/edureka-what-is-deep-learning-deep-learning-simplified-deep-learning-tutorial-edureka.md",
+          "title": "What is Deep Learning | Deep Learning Simplified | Deep Learning Tutorial | Edureka",
+          "excerpt": "( Tensorflow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) This Edureka \"What is Deep Learning\" video (Blog: https://goo.gl/4zxMfU) will help you to understand about the relationship between Deep Learning, Machine Learning and Artificial Intelligence and how Deep Learning came",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-what-is-deep-learning-deep-learning-simplified-deep-learning-tutorial-edureka/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-what-is-deep-learning-deep-learning-simplified-deep-learning-tutorial-edureka/",
+          "originalUrl": "https://youtube.com/watch?v=dafuAz_CV7Q",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dafuAz_CV7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT27M40S",
+          "provider": {
+            "name": "Edureka",
+            "domain": "edureka.co",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-01-15T06:24:48Z",
           "heat": 53,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/83kEkJEXQnY/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/dafuAz_CV7Q/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
               "isCached": true
@@ -2232,232 +1926,37 @@
           "price": "Free",
           "topics": [
             "AI",
-            "Microsoft AI",
             "Machine Learning"
           ]
         },
         {
-          "path": "_learning/videos/dotnet-getting-started-with-mlnet-mlnet-3-of-8.md",
-          "title": "Getting started with ML.NET | ML.NET [3 of 8]",
-          "excerpt": "Learn how you can get started with ML.NET on Windows, Mac, and Linux using tools (ML.NET Model Builder, ML.NET CLI) or code-first using ML.NET API.   Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-getting-started-with-mlnet-mlnet-3-of-8/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-getting-started-with-mlnet-mlnet-3-of-8/",
-          "originalUrl": "https://youtube.com/watch?v=7U14iupLMdk",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7U14iupLMdk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT15M51S",
+          "path": "_learning/videos/edureka-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-deep-learning-tensorflow-edureka.md",
+          "title": "TensorFlow In 10 Minutes | TensorFlow Tutorial For Beginners | Deep Learning & TensorFlow | Edureka",
+          "excerpt": "** AI and Deep-Learning with TensorFlow - https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video provides you with a basic introduction to TensorFlow: The amazing deep learning framework by Google. Below are the topics covered in this video:  1. What is TensorFlow? 2. Companies",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-deep-learning-tensorflow-edureka/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-deep-learning-tensorflow-edureka/",
+          "originalUrl": "https://youtube.com/watch?v=tXVNS-V39A0",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tXVNS-V39A0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT9M1S",
           "provider": {
-            "name": "dotNET",
-            "domain": "dotnet.microsoft.com",
+            "name": "Edureka",
+            "domain": "edureka.co",
             "images": [
               {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
                 "width": 50,
                 "height": 50,
                 "isCached": false
               }
             ]
           },
-          "publishedDateTime": "2019-09-20T01:05:43Z",
-          "heat": 52,
+          "publishedDateTime": "2019-05-06T13:34:59Z",
+          "heat": 54,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/7U14iupLMdk/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/tXVNS-V39A0/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Microsoft AI",
-            "Machine Learning"
-          ]
-        },
-        {
-          "path": "_learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8.md",
-          "title": "Build a ML model for Sentiment Analysis | ML.NET [4 of 8]",
-          "excerpt": "In this video, we will cover how to build a ML model for sentiment analysis of customer reviews using a binary classification algorithm.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8/",
-          "originalUrl": "https://youtube.com/watch?v=p3kHlpLvWNI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p3kHlpLvWNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT7M18S",
-          "provider": {
-            "name": "dotNET",
-            "domain": "dotnet.microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2019-09-20T01:21:27Z",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/p3kHlpLvWNI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Microsoft AI",
-            "Machine Learning"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X0DQjfW09kA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "collection",
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/siraj-raval-intro-to-deep-learning-udacity-nanodegree.md",
-      "title": "Intro to Deep Learning (Udacity Nanodegree)",
-      "excerpt": "Welcome to Intro to Deep Learning! This course is for anyone who wants to become a deep learning engineer. I'll take you from the very basics of deep learning to the bleeding edge over the course of 4 months. In this video, we’ll predict an animal’s body weight given it’s brain weight using linear regression via 10 lines of Python.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/siraj-raval-intro-to-deep-learning-udacity-nanodegree/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/collections/siraj-raval-intro-to-deep-learning-udacity-nanodegree/",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/siraj-raval-how-to-make-a-prediction-intro-to-deep-learning-1.md",
-          "title": "How to Make a Prediction - Intro to Deep Learning #1",
-          "excerpt": "Welcome to Intro to Deep Learning! This course is for anyone who wants to become a deep learning engineer. I'll take you from the very basics of deep learning to the bleeding edge over the course of 4 months. In this video, we’ll predict an animal’s body weight given it’s brain weight using linear regression",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-make-a-prediction-intro-to-deep-learning-1/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-make-a-prediction-intro-to-deep-learning-1/",
-          "originalUrl": "https://youtube.com/watch?v=vOppzHpvTiQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vOppzHpvTiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT7M52S",
-          "provider": {
-            "name": "Siraj Raval",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2017-01-18T07:47:34Z",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/vOppzHpvTiQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ]
-        },
-        {
-          "path": "_learning/videos/siraj-raval-how-to-do-linear-regression-using-gradient-descent.md",
-          "title": "How to Do Linear Regression using Gradient Descent",
-          "excerpt": "The point of this is to demonstrate the concept of gradient descent. Gradient descent is the most popular optimization strategy in deep learning, in particular an implementation of it called backpropagation. We are using gradient descent as our optimization strategy for linear regression. We'll draw",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-do-linear-regression-using-gradient-descent/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-do-linear-regression-using-gradient-descent/",
-          "originalUrl": "https://youtube.com/watch?v=XdM6ER7zTLk",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XdM6ER7zTLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT53M18S",
-          "provider": {
-            "name": "Siraj Raval",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2017-04-10T23:17:20Z",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/XdM6ER7zTLk/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ]
-        },
-        {
-          "path": "_learning/videos/siraj-raval-how-to-make-a-neural-network-intro-to-deep-learning-2.md",
-          "title": "How to Make a Neural Network - Intro to Deep Learning #2",
-          "excerpt": "How do we learn? In this video, I'll discuss our brain's biological neural network, then we'll talk about how an artificial neural network works. We'll create our own single layer feedforward network in Python, demo it, and analyze the implications of our results. This is the 2nd weekly video in my intro",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-make-a-neural-network-intro-to-deep-learning-2/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-make-a-neural-network-intro-to-deep-learning-2/",
-          "originalUrl": "https://youtube.com/watch?v=p69khggr1Jo",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p69khggr1Jo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT9M20S",
-          "provider": {
-            "name": "Siraj Raval",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2017-01-24T18:31:39Z",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/p69khggr1Jo/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ]
-        },
-        {
-          "path": "_learning/videos/siraj-raval-how-to-use-tensorflow-for-classification-live.md",
-          "title": "How to Use Tensorflow for Classification (LIVE)",
-          "excerpt": "In this live session I'll introduce & give an overview of Google's Deep Learning library, Tensorflow. Then we'll use it to build a neural network capable of predicting housing prices, with me explaining every step along the way.  Code for this video: https://github.com/llSourcell/How_to_use_Tensorflow_for_classification-LIVE",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-use-tensorflow-for-classification-live/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-use-tensorflow-for-classification-live/",
-          "originalUrl": "https://youtube.com/watch?v=4urPuRoT1sE",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4urPuRoT1sE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1H1M16S",
-          "provider": {
-            "name": "Siraj Raval",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2017-02-05T03:16:01Z",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/4urPuRoT1sE/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
               "isCached": true
             }
           ],
@@ -2472,13 +1971,13 @@
           ]
         }
       ],
-      "size": 34,
-      "heat": 61,
+      "size": 67,
+      "heat": 64,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/vOppzHpvTiQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/DooxDIRAkPA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -2530,7 +2029,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:34:51Z",
-          "heat": 53,
+          "heat": 56,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
@@ -2569,7 +2068,7 @@
             ]
           },
           "publishedDateTime": "2021-07-13T20:40:25Z",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/1CSVy9JbbK0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB4FJzU1UZMjlEH-qNJEKvSfBzDaQ",
@@ -2608,7 +2107,7 @@
             ]
           },
           "publishedDateTime": "2021-07-13T20:41:16Z",
-          "heat": 50,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/xsIDTmo1NOg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCHm65NEC38H5RR7Nv-3QnJA6DTzg",
@@ -2647,7 +2146,7 @@
             ]
           },
           "publishedDateTime": "2021-07-13T20:42:46Z",
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7yFZHf8mzGk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgQigsMA8=&rs=AOn4CLDKuz0K80JMDaZq1H81ne8sf5P5Cg",
@@ -2666,7 +2165,7 @@
         }
       ],
       "size": 11,
-      "heat": 61,
+      "heat": 64,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
@@ -2723,7 +2222,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:39:27Z",
-          "heat": 51,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
@@ -2762,7 +2261,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:39:27Z",
-          "heat": 51,
+          "heat": 56,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/UyC0bBiZY-A/hqdefault.jpg",
@@ -2801,7 +2300,7 @@
             ]
           },
           "publishedDateTime": "2021-07-19T19:29:28Z",
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/B_2bntDYano/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLBfo1Wzg21zL_SfYnBkxP3IMEpXfg",
@@ -2840,7 +2339,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:39:27Z",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/XjwVAMWrmrw/hqdefault.jpg",
@@ -2859,7 +2358,7 @@
         }
       ],
       "size": 7,
-      "heat": 61,
+      "heat": 64,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
@@ -2873,6 +2372,203 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/collections/dotnet-machine-learning-with-mlnet.md",
+      "title": "Machine Learning with ML.NET",
+      "excerpt": "Welcome to Machine Learning with ML.NET! In this introductory video series we will introduce the concept of Machine Learning, what you can do with various tooling, and how to get started with ML.NET!",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/dotnet-machine-learning-with-mlnet/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/dotnet-machine-learning-with-mlnet/",
+      "provider": {
+        "name": "dotNET",
+        "domain": "dotnet.microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/dotnet-mlnet-machine-learning-introduction-mlnet-1-of-8.md",
+          "title": "ML.NET - Machine Learning Introduction | ML.NET [1 of 8]",
+          "excerpt": "Welcome to Machine Learning with ML.NET! In this video we will introduce the concept of Machine Learning and what you can do with Machine Learning.   Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-mlnet-machine-learning-introduction-mlnet-1-of-8/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-mlnet-machine-learning-introduction-mlnet-1-of-8/",
+          "originalUrl": "https://youtube.com/watch?v=X0DQjfW09kA",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X0DQjfW09kA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT4M51S",
+          "provider": {
+            "name": "dotNET",
+            "domain": "dotnet.microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2019-09-20T00:48:24Z",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/X0DQjfW09kA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI",
+            "Machine Learning"
+          ]
+        },
+        {
+          "path": "_learning/videos/dotnet-mlnet-introduction-mlnet-2-of-8.md",
+          "title": "ML.NET Introduction | ML.NET [2 of 8]",
+          "excerpt": "Learn all about what ML.NET is and what you can do with the Framework. You will also see how customers using it, the open source momentum, and a short demo of the experience.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-mlnet-introduction-mlnet-2-of-8/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-mlnet-introduction-mlnet-2-of-8/",
+          "originalUrl": "https://youtube.com/watch?v=83kEkJEXQnY",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/83kEkJEXQnY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT10M14S",
+          "provider": {
+            "name": "dotNET",
+            "domain": "dotnet.microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2019-09-20T00:56:57Z",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/83kEkJEXQnY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI",
+            "Machine Learning"
+          ]
+        },
+        {
+          "path": "_learning/videos/dotnet-getting-started-with-mlnet-mlnet-3-of-8.md",
+          "title": "Getting started with ML.NET | ML.NET [3 of 8]",
+          "excerpt": "Learn how you can get started with ML.NET on Windows, Mac, and Linux using tools (ML.NET Model Builder, ML.NET CLI) or code-first using ML.NET API.   Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-getting-started-with-mlnet-mlnet-3-of-8/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-getting-started-with-mlnet-mlnet-3-of-8/",
+          "originalUrl": "https://youtube.com/watch?v=7U14iupLMdk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7U14iupLMdk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT15M51S",
+          "provider": {
+            "name": "dotNET",
+            "domain": "dotnet.microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2019-09-20T01:05:43Z",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/7U14iupLMdk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI",
+            "Machine Learning"
+          ]
+        },
+        {
+          "path": "_learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8.md",
+          "title": "Build a ML model for Sentiment Analysis | ML.NET [4 of 8]",
+          "excerpt": "In this video, we will cover how to build a ML model for sentiment analysis of customer reviews using a binary classification algorithm.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8/",
+          "originalUrl": "https://youtube.com/watch?v=p3kHlpLvWNI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p3kHlpLvWNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT7M18S",
+          "provider": {
+            "name": "dotNET",
+            "domain": "dotnet.microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2019-09-20T01:21:27Z",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/p3kHlpLvWNI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Microsoft AI",
+            "Machine Learning"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X0DQjfW09kA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -2916,7 +2612,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:41:01Z",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Y1j_J53k7fo/hqdefault.jpg",
@@ -2955,7 +2651,7 @@
             ]
           },
           "publishedDateTime": "2021-07-13T22:52:25Z",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/OhLosjXM-Fg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAuuI6cATT_KMNrvsxUgr8No_ZQOA",
@@ -2994,7 +2690,7 @@
             ]
           },
           "publishedDateTime": "2021-07-13T22:53:04Z",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Ge612JZGBMU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAfmX2anN9vC-c-QroEwpHrOGBNKA",
@@ -3033,7 +2729,7 @@
             ]
           },
           "publishedDateTime": "2021-07-13T22:53:27Z",
-          "heat": 51,
+          "heat": 55,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/tjDceq0qH10/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCDPFHi5bqut_A0XrQUQbr_ux2p0w",
@@ -3052,7 +2748,7 @@
         }
       ],
       "size": 8,
-      "heat": 61,
+      "heat": 62,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Y1j_J53k7fo/hqdefault.jpg",
@@ -3109,7 +2805,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:42:38Z",
-          "heat": 53,
+          "heat": 55,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
@@ -3148,7 +2844,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:42:38Z",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/e81nC0LO0A8/hqdefault.jpg",
@@ -3187,7 +2883,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:42:38Z",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Wf6HbY2PQDw/hqdefault.jpg",
@@ -3245,7 +2941,7 @@
         }
       ],
       "size": 14,
-      "heat": 61,
+      "heat": 62,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
@@ -3259,6 +2955,348 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university.md",
+      "title": "From Languages to Information Week 7: Recommendation Systems and Vector Semantics | Stanford University",
+      "excerpt": "This is the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university/",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/stanford-university-recommender-systems-1-introduction.md",
+          "title": "Recommender Systems 1 Introduction",
+          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-1-introduction/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-1-introduction/",
+          "originalUrl": "https://youtube.com/watch?v=4xYYkQxTpEc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4xYYkQxTpEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT6M2S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-13T23:36:02Z",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/4xYYkQxTpEc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgRygtMA8=&rs=AOn4CLBOum4xzBmPP7YNox8FmQqBVsijDA",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/videos/stanford-university-recommender-systems-2-content-based.md",
+          "title": "Recommender Systems 2 Content Based",
+          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-2-content-based/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-2-content-based/",
+          "originalUrl": "https://youtube.com/watch?v=4sy2tpzlgg4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4sy2tpzlgg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M50S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-13T23:36:22Z",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/4sy2tpzlgg4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAVgnobwcTYgPDR_skd4MFyxErltw",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering.md",
+          "title": "Recommender Systems 3 User User Collaborative Filtering",
+          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering/",
+          "originalUrl": "https://youtube.com/watch?v=qEur4Xi8dks",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qEur4Xi8dks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT7M51S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-13T23:37:00Z",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/qEur4Xi8dks/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAU5PUZ5pF8cxuMP4-iOHAnON0RVg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/videos/stanford-university-recommender-systems-4-item-item-collaborative-filtering.md",
+          "title": "Recommender Systems 4 Item Item Collaborative Filtering",
+          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-4-item-item-collaborative-filtering/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-4-item-item-collaborative-filtering/",
+          "originalUrl": "https://youtube.com/watch?v=FFi0iPY5fko",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FFi0iPY5fko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT6M53S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-13T23:37:23Z",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/FFi0iPY5fko/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGH8gQCgqMA8=&rs=AOn4CLCfZfAInWdevw0YNcXHXMB4qP2qmA",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4xYYkQxTpEc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgRygtMA8=&rs=AOn4CLBOum4xzBmPP7YNox8FmQqBVsijDA",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/collections/futurology-artificial-intelligence-explained-by-futurology.md",
+      "title": "Artificial Intelligence Explained by Futurology",
+      "excerpt": "This playlist is a composition of all videos related to artificial intelligence, from the history of AI to modern machine learning algorithms, artificial super intelligence and more!",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/futurology-artificial-intelligence-explained-by-futurology/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/futurology-artificial-intelligence-explained-by-futurology/",
+      "provider": {
+        "name": "Futurology",
+        "domain": "youtube.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/futurology-the-history-of-artificial-intelligence-documentary.md",
+          "title": "The History of Artificial Intelligence [Documentary]",
+          "excerpt": "Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   This video is the culmination of documentaries that cover the history and origins of computing-based artificial intelligence.   [0:44-52:22] - The Thinking Machine  [52:22-59:26] - In Their Own Worlds (Claude",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-the-history-of-artificial-intelligence-documentary/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-the-history-of-artificial-intelligence-documentary/",
+          "originalUrl": "https://youtube.com/watch?v=R3YFxF0n8n8",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R3YFxF0n8n8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT2H34M37S",
+          "provider": {
+            "name": "Futurology",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-03-22T00:13:43Z",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/R3YFxF0n8n8/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/futurology-the-ancient-history-of-artificial-intelligence.md",
+          "title": "The Ancient History of Artificial Intelligence",
+          "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   Artificial intelligence has been a topic of growing prominence in the media and mainstream culture since 2015, as well as in the investment world, with start-ups that even mention the word in their business model, gaining massive amounts of funding.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-the-ancient-history-of-artificial-intelligence/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-the-ancient-history-of-artificial-intelligence/",
+          "originalUrl": "https://youtube.com/watch?v=-qnMLjxJZm0",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-qnMLjxJZm0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT14M16S",
+          "provider": {
+            "name": "Futurology",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-03-23T02:25:02Z",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/-qnMLjxJZm0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/futurology-the-birth-of-artificial-intelligence.md",
+          "title": "The Birth of Artificial Intelligence",
+          "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the last",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-the-birth-of-artificial-intelligence/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-the-birth-of-artificial-intelligence/",
+          "originalUrl": "https://youtube.com/watch?v=eYmKC0oQtDE",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eYmKC0oQtDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT17M50S",
+          "provider": {
+            "name": "Futurology",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-03-23T11:15:37Z",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/eYmKC0oQtDE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/futurology-supervised-machine-learning-explained.md",
+          "title": "Supervised Machine Learning Explained",
+          "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   Artificial intelligence, machine learning – these words lately have been used synonymously – but should they be?   In this third video in our artificial intelligence series and as for the purpose of this machine learning series, I’ll seek to",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-supervised-machine-learning-explained/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-supervised-machine-learning-explained/",
+          "originalUrl": "https://youtube.com/watch?v=zAPmUlBX-Qg",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zAPmUlBX-Qg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT10M23S",
+          "provider": {
+            "name": "Futurology",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-03-23T15:54:11Z",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/zAPmUlBX-Qg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R3YFxF0n8n8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "collection",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -4014,7 +4052,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "tags": [
             "TensorFlow"
           ],
@@ -4660,6 +4698,161 @@
       ]
     },
     {
+      "path": "_learning/collections/siraj-raval-intro-to-deep-learning-udacity-nanodegree.md",
+      "title": "Intro to Deep Learning (Udacity Nanodegree)",
+      "excerpt": "Welcome to Intro to Deep Learning! This course is for anyone who wants to become a deep learning engineer. I'll take you from the very basics of deep learning to the bleeding edge over the course of 4 months. In this video, we’ll predict an animal’s body weight given it’s brain weight using linear regression via 10 lines of Python.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/siraj-raval-intro-to-deep-learning-udacity-nanodegree/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/siraj-raval-intro-to-deep-learning-udacity-nanodegree/",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/siraj-raval-how-to-make-a-prediction-intro-to-deep-learning-1.md",
+          "title": "How to Make a Prediction - Intro to Deep Learning #1",
+          "excerpt": "Welcome to Intro to Deep Learning! This course is for anyone who wants to become a deep learning engineer. I'll take you from the very basics of deep learning to the bleeding edge over the course of 4 months. In this video, we’ll predict an animal’s body weight given it’s brain weight using linear regression",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-make-a-prediction-intro-to-deep-learning-1/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-make-a-prediction-intro-to-deep-learning-1/",
+          "originalUrl": "https://youtube.com/watch?v=vOppzHpvTiQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vOppzHpvTiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT7M52S",
+          "provider": {
+            "name": "Siraj Raval",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2017-01-18T07:47:34Z",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/vOppzHpvTiQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        },
+        {
+          "path": "_learning/videos/siraj-raval-how-to-do-linear-regression-using-gradient-descent.md",
+          "title": "How to Do Linear Regression using Gradient Descent",
+          "excerpt": "The point of this is to demonstrate the concept of gradient descent. Gradient descent is the most popular optimization strategy in deep learning, in particular an implementation of it called backpropagation. We are using gradient descent as our optimization strategy for linear regression. We'll draw",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-do-linear-regression-using-gradient-descent/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-do-linear-regression-using-gradient-descent/",
+          "originalUrl": "https://youtube.com/watch?v=XdM6ER7zTLk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XdM6ER7zTLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT53M18S",
+          "provider": {
+            "name": "Siraj Raval",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2017-04-10T23:17:20Z",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/XdM6ER7zTLk/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        },
+        {
+          "path": "_learning/videos/siraj-raval-how-to-make-a-neural-network-intro-to-deep-learning-2.md",
+          "title": "How to Make a Neural Network - Intro to Deep Learning #2",
+          "excerpt": "How do we learn? In this video, I'll discuss our brain's biological neural network, then we'll talk about how an artificial neural network works. We'll create our own single layer feedforward network in Python, demo it, and analyze the implications of our results. This is the 2nd weekly video in my intro",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-make-a-neural-network-intro-to-deep-learning-2/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-make-a-neural-network-intro-to-deep-learning-2/",
+          "originalUrl": "https://youtube.com/watch?v=p69khggr1Jo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p69khggr1Jo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT9M20S",
+          "provider": {
+            "name": "Siraj Raval",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2017-01-24T18:31:39Z",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/p69khggr1Jo/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        },
+        {
+          "path": "_learning/videos/siraj-raval-how-to-use-tensorflow-for-classification-live.md",
+          "title": "How to Use Tensorflow for Classification (LIVE)",
+          "excerpt": "In this live session I'll introduce & give an overview of Google's Deep Learning library, Tensorflow. Then we'll use it to build a neural network capable of predicting housing prices, with me explaining every step along the way.  Code for this video: https://github.com/llSourcell/How_to_use_Tensorflow_for_classification-LIVE",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-use-tensorflow-for-classification-live/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-use-tensorflow-for-classification-live/",
+          "originalUrl": "https://youtube.com/watch?v=4urPuRoT1sE",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4urPuRoT1sE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H1M16S",
+          "provider": {
+            "name": "Siraj Raval",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2017-02-05T03:16:01Z",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/4urPuRoT1sE/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning",
+            "Google AI",
+            "TensorFlow"
+          ]
+        }
+      ],
+      "size": 34,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vOppzHpvTiQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/collections/stanford-university-from-languages-to-information-week-5-relation-extraction-and-question-answering-stanford-university.md",
       "title": "From Languages to Information Week 5: Relation Extraction and Question Answering | Stanford University",
       "excerpt": "This is the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
@@ -4840,199 +5033,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/5SUzf6252_0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "collection",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university.md",
-      "title": "From Languages to Information Week 7: Recommendation Systems and Vector Semantics | Stanford University",
-      "excerpt": "This is the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university/",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/stanford-university-recommender-systems-1-introduction.md",
-          "title": "Recommender Systems 1 Introduction",
-          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-1-introduction/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-1-introduction/",
-          "originalUrl": "https://youtube.com/watch?v=4xYYkQxTpEc",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4xYYkQxTpEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT6M2S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-07-13T23:36:02Z",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/4xYYkQxTpEc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgRygtMA8=&rs=AOn4CLBOum4xzBmPP7YNox8FmQqBVsijDA",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/videos/stanford-university-recommender-systems-2-content-based.md",
-          "title": "Recommender Systems 2 Content Based",
-          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-2-content-based/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-2-content-based/",
-          "originalUrl": "https://youtube.com/watch?v=4sy2tpzlgg4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4sy2tpzlgg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT5M50S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-07-13T23:36:22Z",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/4sy2tpzlgg4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAVgnobwcTYgPDR_skd4MFyxErltw",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering.md",
-          "title": "Recommender Systems 3 User User Collaborative Filtering",
-          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering/",
-          "originalUrl": "https://youtube.com/watch?v=qEur4Xi8dks",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qEur4Xi8dks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT7M51S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-07-13T23:37:00Z",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/qEur4Xi8dks/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAU5PUZ5pF8cxuMP4-iOHAnON0RVg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/videos/stanford-university-recommender-systems-4-item-item-collaborative-filtering.md",
-          "title": "Recommender Systems 4 Item Item Collaborative Filtering",
-          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-4-item-item-collaborative-filtering/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-4-item-item-collaborative-filtering/",
-          "originalUrl": "https://youtube.com/watch?v=FFi0iPY5fko",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FFi0iPY5fko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT6M53S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-07-13T23:37:23Z",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/FFi0iPY5fko/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGH8gQCgqMA8=&rs=AOn4CLCfZfAInWdevw0YNcXHXMB4qP2qmA",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4xYYkQxTpEc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgRygtMA8=&rs=AOn4CLBOum4xzBmPP7YNox8FmQqBVsijDA",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -5866,7 +5866,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:46:05Z",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/29Tx-s0ybiQ/hqdefault.jpg",

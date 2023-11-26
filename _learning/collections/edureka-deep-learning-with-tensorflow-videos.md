@@ -2,7 +2,7 @@
 title: "Deep Learning With TensorFlow Videos"
 excerpt: "This Deep learning With Tensorflow videos playlist will help you to learn the basic concepts of Deep Learning, TensorFlow, the main functions, operations and the execution pipeline."
 type: collection
-heat: 88
+heat: 64
 
 provider:
   name: Edureka

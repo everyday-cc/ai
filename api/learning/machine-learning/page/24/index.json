@@ -1,0 +1,50 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 24,
+  "value": [
+    {
+      "path": "_learning/videos/youtube-data-school-what-is-machine-learning-and-how-does-it-work.md",
+      "title": "What is machine learning, and how does it work?",
+      "excerpt": "Have you heard of machine learning, and you're trying to figure out exactly what that means? I'll give you my definition, provide some examples of machine learning, and explain at a high level how machine learning works.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/youtube-data-school-what-is-machine-learning-and-how-does-it-work/index.json",
+      "webUrl": "https://www.youtube.com/watch?v=elojMnjn4kk",
+      "provider": {
+        "name": "YouTube",
+        "domain": "youtube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/youtube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Data School",
+            "domain": "dataschool.io"
+          }
+        ]
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "http://i3.ytimg.com/vi/elojMnjn4kk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "What is machine learning, and how does it work?",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    }
+  ]
+}

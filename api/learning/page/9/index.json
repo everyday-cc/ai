@@ -4,14 +4,14 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/videos/simplilearn-top-10-machine-learning-projects-for-beginners-machine-learning-course-2023-simplilearn.md",
-      "title": "🔥 Top 10 Machine Learning Projects For Beginners | Machine Learning Course 2023 | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  In this video on\" Top 10 Machine Learning Projects in Beginners\" we will take you through the best",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-machine-learning-projects-for-beginners-machine-learning-course-2023-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-machine-learning-projects-for-beginners-machine-learning-course-2023-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=CEWGcWLTfsg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CEWGcWLTfsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8H27M40S",
+      "path": "_learning/videos/simplilearn-introduction-to-hidden-markov-model-hmm-pattern-recognition-machine-learning-simplilearn.md",
+      "title": "Introduction to Hidden Markov Model | HMM | Pattern Recognition | Machine Learning | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  This video, \"Introduction To Hidden Markov Model\" by Simplilearn, will take you through the concept",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-introduction-to-hidden-markov-model-hmm-pattern-recognition-machine-learning-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-introduction-to-hidden-markov-model-hmm-pattern-recognition-machine-learning-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=qIJwZEl1uoI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qIJwZEl1uoI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M53S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
@@ -24,11 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-08-18T09:11:54Z",
-      "heat": 59,
+      "publishedDateTime": "2023-06-10T09:15:55Z",
+      "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/CEWGcWLTfsg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qIJwZEl1uoI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -43,31 +43,31 @@
       ]
     },
     {
-      "path": "_learning/videos/tensorflow-saving-and-loading-models-coding-tensorflow.md",
-      "title": "Saving and Loading Models (Coding TensorFlow)",
-      "excerpt": "Training models can take a very long time, and you definitely don’t want to have to retrain everything over a single mishap. Make sure you listen to Magnus as he explains the importance of saving and loading models so you won’t end up losing your valuable training time. Follow along in this episode of",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-saving-and-loading-models-coding-tensorflow/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-saving-and-loading-models-coding-tensorflow/",
-      "originalUrl": "https://youtube.com/watch?v=HxtBIwfy0kM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HxtBIwfy0kM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M53S",
+      "path": "_learning/videos/simplilearn-k-means-clustering-algorithm-k-means-in-python-machine-learning-algorithms-simplilearn.md",
+      "title": "K Means Clustering Algorithm | K Means In Python | Machine Learning Algorithms |Simplilearn",
+      "excerpt": "This K Means clustering algorithm tutorial video will take you through machine learning basics, types of clustering algorithms, what is K Means clustering, how does K Means clustering work with examples along with a demo in python on K-Means clustering - color compression. This Machine Learning algorithm",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-k-means-clustering-algorithm-k-means-in-python-machine-learning-algorithms-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-k-means-clustering-algorithm-k-means-in-python-machine-learning-algorithms-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=Xvwt7y2jf5E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xvwt7y2jf5E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT50M17S",
       "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-10-25T18:21:01Z",
-      "heat": 59,
+      "publishedDateTime": "2019-01-07T09:14:04Z",
+      "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/HxtBIwfy0kM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Xvwt7y2jf5E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -77,37 +77,113 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "TensorFlow",
-        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-keras-image-classification-tutorial-image-classification-using-deep-learning-simplilearn.md",
+      "title": "Keras Image Classification Tutorial | Image Classification Using Deep Learning | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video on Keras Image Classification Tutorial covers the basics of image classification and how",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-keras-image-classification-tutorial-image-classification-using-deep-learning-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-keras-image-classification-tutorial-image-classification-using-deep-learning-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=LKMi8Daf2ts",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LKMi8Daf2ts\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M48S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-11-24T06:44:13Z",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LKMi8Daf2ts/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-keras-sequential-model-explained-keras-sequential-model-example-keras-tutorial-simplilearn.md",
+      "title": "Keras Sequential Model Explained | Keras Sequential Model Example | Keras Tutorial | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video, Keras Sequential Model Explained, we will talk in depth about sequential models in",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-keras-sequential-model-explained-keras-sequential-model-example-keras-tutorial-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-keras-sequential-model-explained-keras-sequential-model-example-keras-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=8uC-WT1LYnU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8uC-WT1LYnU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M13S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-08-13T07:24:27Z",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8uC-WT1LYnU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
         "AI"
       ]
     },
     {
-      "path": "_learning/videos/edureka-principal-component-analysis-in-python-basics-of-principle-component-analysis-explained-edureka.md",
-      "title": "Principal Component Analysis in Python | Basics of Principle Component Analysis Explained | Edureka",
-      "excerpt": "** Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training ** This Edureka session on Principal Component Analysis (PCA) will help you understand the concepts behind dimensionality reduction and how PCA can be used to deal with high dimensional",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-principal-component-analysis-in-python-basics-of-principle-component-analysis-explained-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-principal-component-analysis-in-python-basics-of-principle-component-analysis-explained-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=n7npKX5zIWI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n7npKX5zIWI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M12S",
+      "path": "_learning/videos/simplilearn-recurrent-neural-network-rnn-tutorial-rnn-lstm-tutorial-deep-learning-tutorial-simplilearn.md",
+      "title": "Recurrent Neural Network (RNN) Tutorial | RNN LSTM Tutorial | Deep Learning Tutorial | Simplilearn",
+      "excerpt": "This Recurrent Neural Network tutorial will help you understand what is a neural network, what are the popular neural networks, why we need recurrent neural network, what is a recurrent neural network, how does a RNN work, what is vanishing and exploding gradient problem, what is LSTM and you will also",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-recurrent-neural-network-rnn-tutorial-rnn-lstm-tutorial-deep-learning-tutorial-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-recurrent-neural-network-rnn-tutorial-rnn-lstm-tutorial-deep-learning-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=lWkFhVq9-nc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lWkFhVq9-nc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT59M21S",
       "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-10-04T05:26:30Z",
-      "heat": 58,
+      "publishedDateTime": "2019-01-07T09:17:59Z",
+      "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/n7npKX5zIWI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lWkFhVq9-nc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -122,31 +198,31 @@
       ]
     },
     {
-      "path": "_learning/videos/freecodecamporg-tensorflow-20-crash-course.md",
-      "title": "TensorFlow 2.0 Crash Course",
-      "excerpt": "Learn how to use TensorFlow 2.0 in this crash course for beginners. This course will demonstrate how to create neural networks with Python and TensorFlow 2.0.   If you want a more comprehensive TensorFlow 2.0 course, check out this 7 hour course: https://youtu.be/tPYj3fFJGjk  🎥 Course created by Tech",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/freecodecamporg-tensorflow-20-crash-course/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/freecodecamporg-tensorflow-20-crash-course/",
-      "originalUrl": "https://youtube.com/watch?v=6g4O5UOH304",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6g4O5UOH304\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H13M17S",
+      "path": "_learning/videos/simplilearn-tensorflow-20-tutorial-for-beginners-tensorflow-demo-deep-learning-tensorflow-simplilearn.md",
+      "title": "TensorFlow 2.0 Tutorial For Beginners | TensorFlow Demo | Deep Learning & TensorFlow | Simplilearn",
+      "excerpt": "TensorFlow is one of the most commonly used frameworks for deep learning. This TensorFlow 2.0 Tutorial covers everything from basics to advanced. You will learn what TensorFlow is, and the different applications of TensorFlow. You will understand about tensors and how a computational graph works. You",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-20-tutorial-for-beginners-tensorflow-demo-deep-learning-tensorflow-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-20-tutorial-for-beginners-tensorflow-demo-deep-learning-tensorflow-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=QPDsEtUK_D4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QPDsEtUK_D4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H26M37S",
       "provider": {
-        "name": "freeCodeCamp.org",
-        "domain": "freecodecamp.org",
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/freecodecamp.org-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-02-08T12:29:22Z",
-      "heat": 58,
+      "publishedDateTime": "2020-07-27T13:23:30Z",
+      "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6g4O5UOH304/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/QPDsEtUK_D4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -163,14 +239,14 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-10-best-ai-tools-for-digital-marketing-top-10-digital-marketing-ai-tools-2023-simplilearn.md",
-      "title": "🔥 10 Best AI Tools for Digital Marketing | Top 10 Digital Marketing AI Tools 2023 | Simplilearn",
-      "excerpt": "🔥Digital Marketing Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1ugCa 🔥Digital Marketing Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugCg 🔥Digital Marketing Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1ugCj  This video on *10 Best AI Tools For Digital Marketing* we will",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-10-best-ai-tools-for-digital-marketing-top-10-digital-marketing-ai-tools-2023-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-10-best-ai-tools-for-digital-marketing-top-10-digital-marketing-ai-tools-2023-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=E9aI8LyTXGQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E9aI8LyTXGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M44S",
+      "path": "_learning/videos/simplilearn-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-tensorflow-explained-simplilearn.md",
+      "title": "TensorFlow In 10 Minutes | TensorFlow Tutorial For Beginners | TensorFlow Explained | Simplilearn",
+      "excerpt": "In this video on TensorFlow, you will be introduced to the basic concepts of TensorFlow. We will start off with a brief about TensorFlow and then move on to an intutive understanding of Tensors, followed by some features of TensorFlow which have made it so popular. Then, we'll take a look at some conpanines",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-tensorflow-explained-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-tensorflow-explained-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=mSsDNGWZ7Ao",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mSsDNGWZ7Ao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M48S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
@@ -183,11 +259,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-06-18T08:08:17Z",
-      "heat": 58,
+      "publishedDateTime": "2020-12-04T17:27:32Z",
+      "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/E9aI8LyTXGQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mSsDNGWZ7Ao/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -198,18 +274,20 @@
       "price": "Free",
       "topics": [
         "AI",
-        "AI in Marketing"
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-ai-roadmap-2024-roadmap-to-learn-ai-in-2024-ai-learning-path-for-beginners-simplilearn.md",
-      "title": "🔥 AI Roadmap 2024 | Roadmap To Learn AI In 2024 | AI Learning Path for Beginners | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this AI Roadmap 2024 video, we're diving deep into the exciting world of AI with our \"AI Roadmap",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-ai-roadmap-2024-roadmap-to-learn-ai-in-2024-ai-learning-path-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-ai-roadmap-2024-roadmap-to-learn-ai-in-2024-ai-learning-path-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=Pg8DFa7i5SQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Pg8DFa7i5SQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M40S",
+      "path": "_learning/videos/simplilearn-top-4-ai-certifications-2024-4-best-ai-certifications-for-2024-simplilearn.md",
+      "title": "🔥 Top 4 AI Certifications 2024 | 4 Best AI Certifications For 2024 | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z Become An AI & ML Expert Today:    🔥 Purdue Post Graduate Program In AI And Machine Learning: https://www.simplilearn.com/pgp-ai-machine-learning-certification-training-course?utm_campaign=15Sep2023AICertifications2024&utm_medium=Descriptionff&utm_source=youtube",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-4-ai-certifications-2024-4-best-ai-certifications-for-2024-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-4-ai-certifications-2024-4-best-ai-certifications-for-2024-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=ZDZSjG4_rAQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZDZSjG4_rAQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M35S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
@@ -222,11 +300,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-09-15T12:33:35Z",
-      "heat": 58,
+      "publishedDateTime": "2023-09-15T12:27:54Z",
+      "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Pg8DFa7i5SQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZDZSjG4_rAQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -240,171 +318,14 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-chatgpt-for-digital-marketing-2023-chatgpt-course-for-digital-marketing-simplilearn.md",
-      "title": "🔥 ChatGPT For Digital Marketing 2023 | ChatGPT Course For Digital Marketing | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z 🔥Become Digital Marketing Expert Today: https://taplink.cc/simplilearn_c_digital_mkt  This chatgpt",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-chatgpt-for-digital-marketing-2023-chatgpt-course-for-digital-marketing-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-chatgpt-for-digital-marketing-2023-chatgpt-course-for-digital-marketing-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=S2gCNQG1lKk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S2gCNQG1lKk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H16M25S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-08-23T11:42:41Z",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/S2gCNQG1lKk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-image-classification-using-cnn-deep-learning-projects-machine-learning-tutorial-simplilearn.md",
-      "title": "Image Classification Using CNN | Deep Learning Projects | Machine Learning Tutorial | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video, \"Image Classification using CNN,\" is a project-based video by Simplilearn where you'll",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-image-classification-using-cnn-deep-learning-projects-machine-learning-tutorial-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-image-classification-using-cnn-deep-learning-projects-machine-learning-tutorial-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=Rmtr9SY-4VQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rmtr9SY-4VQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M56S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-12-09T10:14:25Z",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Rmtr9SY-4VQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-machine-learning-crash-course-for-beginners-machine-learning-course-with-projects-simplilearn.md",
-      "title": "🔥 Machine Learning Crash Course For Beginners | Machine Learning Course With Projects | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  ✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH  ⏩ Check",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-crash-course-for-beginners-machine-learning-course-with-projects-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-crash-course-for-beginners-machine-learning-course-with-projects-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=LK-2V2L-38o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LK-2V2L-38o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5H27M52S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-09-08T11:09:41Z",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LK-2V2L-38o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-machine-learning-full-course-2023-machine-learning-course-for-beginners-simplilearn.md",
-      "title": "🔥 Machine Learning Full Course 2023 | Machine Learning Course for Beginners | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this \"Machine Learning Full Course 2023\" video by Simplilearn, We will begin with the fundamentals",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-full-course-2023-machine-learning-course-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-full-course-2023-machine-learning-course-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=rnEEHT9-c5I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rnEEHT9-c5I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11H34M2S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-04-11T11:18:04Z",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rnEEHT9-c5I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-machine-learning-in-5-minutes-machine-learning-introduction-what-is-machine-learning-simplilearn.md",
-      "title": "Machine Learning In 5 Minutes | Machine Learning Introduction |What Is Machine Learning |Simplilearn",
-      "excerpt": "This Machine Learning basics video will help you understand what is Machine Learning, what are the types of Machine Learning, what is Supervised & Unsupervised Machine Learning, what is Reinforcement Learning and will also explain how Machine Learning is being used in various businesses. Machine learning",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-in-5-minutes-machine-learning-introduction-what-is-machine-learning-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-in-5-minutes-machine-learning-introduction-what-is-machine-learning-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=-DEL6SVRPw0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-DEL6SVRPw0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M38S",
+      "path": "_learning/videos/simplilearn-what-is-machine-learning-what-is-machine-learning-and-how-does-it-work-simplilearn.md",
+      "title": "What Is Machine Learning? | What Is Machine Learning And How Does It Work? | Simplilearn",
+      "excerpt": "This Machine Learning tutorial will help you understand what is Machine Learning, Artificial Intelligence vs Machine Learning vs Deep Learning, how does Machine Learning work, types of Machine Learning, Machine Learning pre-requisites and applications of Machine Learning. Machine learning is a core sub-area",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-machine-learning-what-is-machine-learning-and-how-does-it-work-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-machine-learning-what-is-machine-learning-and-how-does-it-work-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=HgBpFaATdoA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HgBpFaATdoA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M17S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
@@ -417,11 +338,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-02-19T15:11:04Z",
-      "heat": 58,
+      "publishedDateTime": "2018-10-18T11:16:41Z",
+      "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-DEL6SVRPw0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HgBpFaATdoA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -436,33 +357,33 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-machine-learning-interview-questions-and-answers-data-science-interview-questions-simplilearn.md",
-      "title": "Machine Learning Interview Questions And Answers | Data Science Interview Questions | Simplilearn",
-      "excerpt": "This Machine Learning Interview Questions And Answers video will help you prepare for Data Science and Machine learning interviews. This video is ideal for both beginners as well as professionals who are appearing for Machine Learning or Data Science interviews. Learn what are the most important Machine",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-interview-questions-and-answers-data-science-interview-questions-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-interview-questions-and-answers-data-science-interview-questions-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=hB1CTizqGFk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hB1CTizqGFk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H13M4S",
+      "path": "_learning/videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval.md",
+      "title": "7.1 Introduction to Information Retrieval | Information Retrieval",
+      "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval/",
+      "originalUrl": "https://youtube.com/watch?v=kNkCfaH2rxc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kNkCfaH2rxc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M17S",
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Stanford University",
+        "domain": "stanford.edu",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T09:15:13Z",
-      "heat": 58,
+      "publishedDateTime": "2018-01-25T18:42:38Z",
+      "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hB1CTizqGFk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -471,37 +392,37 @@
       "price": "Free",
       "topics": [
         "AI",
-        "Machine Learning"
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-machine-learning-interview-questions-answers-machine-learning-interview-preparation-simplilearn.md",
-      "title": "Machine Learning Interview Questions & Answers | Machine Learning Interview Preparation |Simplilearn",
-      "excerpt": "This Machine Learning Interview Questions And Answers video will help you prepare for Data Science and Machine learning interviews. This video is ideal for both beginners as well as professionals who are appearing for Machine Learning or Data Science interviews. Learn what are the most important Machine",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-interview-questions-answers-machine-learning-interview-preparation-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-interview-questions-answers-machine-learning-interview-preparation-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=hB1CTizqGFk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hB1CTizqGFk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H13M4S",
+      "path": "_learning/videos/stanford-university-naive-bayes-4-sentiment-and-binary-nb.md",
+      "title": "Naive Bayes 4 Sentiment and Binary NB",
+      "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-naive-bayes-4-sentiment-and-binary-nb/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-naive-bayes-4-sentiment-and-binary-nb/",
+      "originalUrl": "https://youtube.com/watch?v=tjDceq0qH10",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tjDceq0qH10\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M14S",
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Stanford University",
+        "domain": "stanford.edu",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T09:15:13Z",
-      "heat": 58,
+      "publishedDateTime": "2021-07-13T22:53:27Z",
+      "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hB1CTizqGFk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/tjDceq0qH10/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCDPFHi5bqut_A0XrQUQbr_ux2p0w",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -510,191 +431,76 @@
       "price": "Free",
       "topics": [
         "AI",
-        "Machine Learning"
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-machine-learning-roadmap-2023-how-to-become-ml-expert-ml-roadmap-2023-simplilearn.md",
-      "title": "🔥 Machine Learning Roadmap 2023 | How to Become ML Expert? | ML Roadmap 2023 | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video on \"Machine Learning Roadmap for 2023\" offers a comprehensive guide to becoming an ML engineer.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-roadmap-2023-how-to-become-ml-expert-ml-roadmap-2023-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-roadmap-2023-how-to-become-ml-expert-ml-roadmap-2023-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=8ztYMp5fW8A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8ztYMp5fW8A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M58S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-05-30T05:46:53Z",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8ztYMp5fW8A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-machine-learning-roadmap-2024-machine-learning-career-path-2024-simplilearn.md",
-      "title": "🔥 Machine Learning Roadmap 2024 | Machine Learning Career Path 2024 | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video on \"Machine Learning Roadmap for 2024\" offers a comprehensive guide to becoming an ML engineer.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-roadmap-2024-machine-learning-career-path-2024-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-roadmap-2024-machine-learning-career-path-2024-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=JVg8d2smoiQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JVg8d2smoiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M27S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-10-06T14:42:57Z",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JVg8d2smoiQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-mathematics-for-machine-learning-essential-mathematics-machine-learning-tutorial-simplilearn.md",
-      "title": "Mathematics For Machine Learning | Essential Mathematics - Machine Learning Tutorial | Simplilearn",
-      "excerpt": "Mathematics forms the core of Machine Learning and is one of the prerequisites. This video on Mathematics for Machine Learning will help you understand linear algebra, vectors, and matrices. Then, you will learn about integral calculus, followed by different topics in Statistics for machine learning.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-mathematics-for-machine-learning-essential-mathematics-machine-learning-tutorial-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-mathematics-for-machine-learning-essential-mathematics-machine-learning-tutorial-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=iyxqcS1u5go",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iyxqcS1u5go\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H50M50S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-14T14:42:30Z",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iyxqcS1u5go/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-top-10-ai-companies-for-2022-top-artificial-intelligence-companies-to-watch-in-2022-simplilearn.md",
-      "title": "Top 10 AI Companies For 2022 | Top Artificial Intelligence Companies To Watch In 2022 | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video by Simplilearn is based on the Top 10 AI Companies For 2022. In this video, we will unravel",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-ai-companies-for-2022-top-artificial-intelligence-companies-to-watch-in-2022-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-ai-companies-for-2022-top-artificial-intelligence-companies-to-watch-in-2022-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=EEq6gHRnwJM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EEq6gHRnwJM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M59S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-12-24T12:33:27Z",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EEq6gHRnwJM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-content-based-filtering-collaborative-filtering-building-recommendation-systems-with-tensorflow.md",
-      "title": "Content-based filtering & collaborative filtering (Building recommendation systems with TensorFlow)",
-      "excerpt": "In this video we will be walking you through the concepts of content-based filtering and collaborative filtering, which are traditional algorithms for recommendation systems but are useful to help us better understand modern recommenders.  Recommendation systems on Google Developers website → https://goo.gle/3yx9XK9",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-content-based-filtering-collaborative-filtering-building-recommendation-systems-with-tensorflow/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-content-based-filtering-collaborative-filtering-building-recommendation-systems-with-tensorflow/",
-      "originalUrl": "https://youtube.com/watch?v=v90un9ALRzw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v90un9ALRzw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M36S",
+      "path": "_learning/videos/tensorflow-build-a-deep-neural-network-in-4-mins-with-tensorflow-in-colab.md",
+      "title": "Build a deep neural network in 4 mins with TensorFlow in Colab",
+      "excerpt": "Google Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the Cloud. In this episode of Coding TensorFlow, Laurence shows us how to code, test, and train neural networks right in your browser, without having to worry about installing any kind of runtime. Watch",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-build-a-deep-neural-network-in-4-mins-with-tensorflow-in-colab/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-build-a-deep-neural-network-in-4-mins-with-tensorflow-in-colab/",
+      "originalUrl": "https://youtube.com/watch?v=_VTtrSDHPwU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_VTtrSDHPwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M54S",
       "provider": {
         "name": "TensorFlow",
         "domain": "tensorflow.org",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2021-07-06T08:11:59Z",
-      "heat": 58,
+      "publishedDateTime": "2019-02-13T00:19:56Z",
+      "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/v90un9ALRzw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_VTtrSDHPwU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-get-started-with-using-tensorflow-to-solve-for-regression-problems-coding-tensorflow.md",
+      "title": "Get started with using TensorFlow to solve for regression problems (Coding TensorFlow)",
+      "excerpt": "You often have to solve for regression problems when training your machine learning models. In this episode of Coding TensorFlow, Developer Advocate Robert Crowe discusses how to build and train a TensorFlow model using Keras, where you are looking for the model to solve for a single numerical result",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-get-started-with-using-tensorflow-to-solve-for-regression-problems-coding-tensorflow/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-get-started-with-using-tensorflow-to-solve-for-regression-problems-coding-tensorflow/",
+      "originalUrl": "https://youtube.com/watch?v=-vHQub0NXI4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-vHQub0NXI4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M39S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-03-01T23:46:39Z",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-vHQub0NXI4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -731,7 +537,7 @@
         ]
       },
       "publishedDateTime": "2019-02-06T00:18:14Z",
-      "heat": 58,
+      "heat": 55,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PitcORQSjNM/maxresdefault.jpg",
@@ -750,14 +556,55 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-boosting-machine-learning-tutorial-adaptive-boosting-gradient-boosting-xgboost-edureka.md",
-      "title": "Boosting Machine Learning Tutorial | Adaptive Boosting, Gradient Boosting, XGBoost | Edureka",
-      "excerpt": "** Machine Learning Certification Training using Python: https://www.edureka.co/python ** This Edureka session will help you understand all about Boosting Machine Learning and boosting algorithms and how they can be implemented to increase the efficiency of Machine Learning models. The following topics",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-boosting-machine-learning-tutorial-adaptive-boosting-gradient-boosting-xgboost-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-boosting-machine-learning-tutorial-adaptive-boosting-gradient-boosting-xgboost-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=kho6oANGu_A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kho6oANGu_A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M18S",
+      "path": "_learning/videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6.md",
+      "title": "Training an AI to create poetry (NLP Zero to Hero - Part 6)",
+      "excerpt": "Through this series so far you’ve been learning the basics of NLP using TensorFlow. You saw how to tokenize and then sequence text, preparing it to train neural networks. You saw how sentiment in text can be represented with embeddings, and how the semantics of text over long stretches might be learned",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6/",
+      "originalUrl": "https://youtube.com/watch?v=ZMudJXhsUpY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZMudJXhsUpY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M5S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-14T23:05:17Z",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZMudJXhsUpY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-artificial-intelligence-tutorial-for-beginners-artificial-intelligence-explained-edureka.md",
+      "title": "Artificial Intelligence Tutorial for Beginners | Artificial Intelligence Explained | Edureka",
+      "excerpt": "** Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training ** This Edureka video on \"Artificial Intelligence Tutorial\" will provide you with a detailed and comprehensive knowledge of Artificial Intelligence and also give you real-life examples",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-artificial-intelligence-tutorial-for-beginners-artificial-intelligence-explained-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-artificial-intelligence-tutorial-for-beginners-artificial-intelligence-explained-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=WZVAfLreIwM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WZVAfLreIwM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M5S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -770,11 +617,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-27T14:15:57Z",
-      "heat": 57,
+      "publishedDateTime": "2019-06-06T05:37:50Z",
+      "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/kho6oANGu_A/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WZVAfLreIwM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -789,14 +636,53 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-gpt-3-explained-what-is-gpt-3-openai-gpt-3-gpt-3-tutorial-gpt-3-demo-edureka.md",
-      "title": "GPT-3 Explained | What is GPT-3 | OpenAI GPT-3 | GPT 3 Tutorial | GPT 3 Demo | Edureka",
-      "excerpt": "🔥Edureka Deep Learning Training - TensorFlow Certification:-  https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka video on the \"GPT-3 Explained\" will help you understand why and what is GPT 3 Language Model, followed by its Use cases and limitations. Following Pointers are covered in",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-gpt-3-explained-what-is-gpt-3-openai-gpt-3-gpt-3-tutorial-gpt-3-demo-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-gpt-3-explained-what-is-gpt-3-openai-gpt-3-gpt-3-tutorial-gpt-3-demo-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=OWBEJ3E38RA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OWBEJ3E38RA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M44S",
+      "path": "_learning/videos/edureka-deep-learning-interview-questions-and-answers-ai-deep-learning-interview-questions-edureka.md",
+      "title": "Deep Learning Interview Questions and Answers | AI & Deep Learning Interview Questions | Edureka",
+      "excerpt": "** AI and Deep-Learning with TensorFlow - https://www.edureka.co/ai-deep-learning-with-tensorflow ** This video covers most of the hottest deep learning interview questions and answers. It also provides you with an understanding process of Deep Learning and the various aspects of it.  PG in Artificial",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-deep-learning-interview-questions-and-answers-ai-deep-learning-interview-questions-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-deep-learning-interview-questions-and-answers-ai-deep-learning-interview-questions-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=HGXlFG_Rz4E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HGXlFG_Rz4E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M42S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-04-19T14:09:06Z",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HGXlFG_Rz4E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-feature-selection-in-machine-learning-feature-selection-techniques-with-examples-edureka.md",
+      "title": "Feature selection in Machine Learning | Feature Selection Techniques with Examples | Edureka",
+      "excerpt": "🔥Edureka Data Scientist Course  Master Program  https://www.edureka.co/masters-program/data-scientist-certification (Use Code \"𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎\") This Edureka tutorial explains the 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐒𝐞𝐥𝐞𝐜𝐭𝐢𝐨𝐧 𝐢𝐧 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, Various techniques used for feature selection",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-feature-selection-in-machine-learning-feature-selection-techniques-with-examples-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-feature-selection-in-machine-learning-feature-selection-techniques-with-examples-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=eciABhWBiUc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eciABhWBiUc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M32S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -809,11 +695,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-01-16T10:06:34Z",
-      "heat": 57,
+      "publishedDateTime": "2022-03-23T08:47:22Z",
+      "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/OWBEJ3E38RA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/eciABhWBiUc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -828,14 +714,14 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-python-seaborn-tutorial-data-visualization-in-python-using-seaborn-edureka.md",
-      "title": "Python Seaborn Tutorial | Data Visualization in Python Using Seaborn | Edureka",
-      "excerpt": "** Python Certification Training: https://www.edureka.co/data-science-python-certification-course **  This Edureka video on  'Python Seaborn Tutorial' is to educate you about data visualizations using Seaborn in Python. Below are the topics covered in this video:    Introduction to Seaborn Seaborn vs",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-python-seaborn-tutorial-data-visualization-in-python-using-seaborn-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-python-seaborn-tutorial-data-visualization-in-python-using-seaborn-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=TLdXM0A7SR8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TLdXM0A7SR8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M41S",
+      "path": "_learning/videos/edureka-machine-learning-basics-what-is-machine-learning-introduction-to-machine-learning-edureka.md",
+      "title": "Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning | Edureka",
+      "excerpt": "*** Machine Learning Certification Training - https://www.edureka.co/machine-learning-certification-training *** This Video covers the Basics of Machine Learning. It will explain why machine learning came to existence and how it solved major problems. This video also describes the various types of Machine",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-machine-learning-basics-what-is-machine-learning-introduction-to-machine-learning-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-machine-learning-basics-what-is-machine-learning-introduction-to-machine-learning-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=hjh1ikznScg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hjh1ikznScg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M14S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -848,11 +734,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-07-11T05:23:35Z",
-      "heat": 57,
+      "publishedDateTime": "2019-04-01T05:28:14Z",
+      "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/TLdXM0A7SR8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hjh1ikznScg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -867,53 +753,14 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-reinforcement-learning-tutorial-reinforcement-learning-example-using-python-edureka.md",
-      "title": "Reinforcement Learning Tutorial | Reinforcement Learning Example Using Python | Edureka",
-      "excerpt": "** Python Data Science Training: https://www.edureka.co/data-science-python-certification-course ** In this video on “Reinforcement Learning Tutorial” you will get an in-depth understanding about how reinforcement learning is used in the real world. I’ll be covering the following topics in this session:",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-reinforcement-learning-tutorial-reinforcement-learning-example-using-python-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-reinforcement-learning-tutorial-reinforcement-learning-example-using-python-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=LzaWrmKL1Z4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LzaWrmKL1Z4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M13S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-10T05:33:45Z",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LzaWrmKL1Z4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-top-10-reasons-to-learn-data-science-in-2024-why-data-science-data-science-training-edureka.md",
-      "title": "Top 10 Reasons to Learn Data Science in 2024 | Why Data Science? | Data Science Training | Edureka",
-      "excerpt": "** Data Science Training with R : https://www.edureka.co/data-science-r-programming-certification-course ** ** Data Science Training with Python: https://www.edureka.co/python-programming-certification-training ** This Edureka video on \"Top 10 reasons to learn Data Science in 2024\" will give you enough",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-reasons-to-learn-data-science-in-2024-why-data-science-data-science-training-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-reasons-to-learn-data-science-in-2024-why-data-science-data-science-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=qOraDpY3Ta0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qOraDpY3Ta0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M22S",
+      "path": "_learning/videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka.md",
+      "title": "TensorFlow 2.0 Tutorial for Beginners | Deep Learning with TensorFlow 2.0 | Edureka",
+      "excerpt": "🔥Edureka TensorFlow 2.0 Course: https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka video on \"TensorFlow 2.0 Tutorial For Beginners\" will cover all the fundamentals of TensorFlow and Deep Learning and help you get started with same with a practical implementation. Following pointers",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=OHZqmJwj7n4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OHZqmJwj7n4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M7S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -926,11 +773,11 @@
           }
         ]
       },
-      "publishedDateTime": "2018-05-13T12:47:12Z",
-      "heat": 57,
+      "publishedDateTime": "2021-03-26T12:27:42Z",
+      "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qOraDpY3Ta0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OHZqmJwj7n4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -941,18 +788,61 @@
       "price": "Free",
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {
-      "path": "_learning/videos/freecodecamporg-deep-reinforcement-learning-in-python-tutorial-a-course-on-how-to-implement-deep-learning-papers.md",
-      "title": "Deep Reinforcement Learning in Python Tutorial - A Course on How to Implement Deep Learning Papers",
-      "excerpt": "In this intermediate deep learning tutorial, you will learn how to go from reading a paper on deep deterministic policy gradients to implementing the concepts in Tensorflow. This process can be applied to any deep learning paper, not just deep reinforcement learning.  In the second part, you will learn",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/freecodecamporg-deep-reinforcement-learning-in-python-tutorial-a-course-on-how-to-implement-deep-learning-papers/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/freecodecamporg-deep-reinforcement-learning-in-python-tutorial-a-course-on-how-to-implement-deep-learning-papers/",
-      "originalUrl": "https://youtube.com/watch?v=GJJc1t0rtSU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GJJc1t0rtSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H57M11S",
+      "path": "_learning/videos/edureka-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-deep-learning-tensorflow-edureka.md",
+      "title": "TensorFlow In 10 Minutes | TensorFlow Tutorial For Beginners | Deep Learning & TensorFlow | Edureka",
+      "excerpt": "** AI and Deep-Learning with TensorFlow - https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video provides you with a basic introduction to TensorFlow: The amazing deep learning framework by Google. Below are the topics covered in this video:  1. What is TensorFlow? 2. Companies",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-deep-learning-tensorflow-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-deep-learning-tensorflow-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=tXVNS-V39A0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tXVNS-V39A0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M1S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-05-06T13:34:59Z",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tXVNS-V39A0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/freecodecamporg-applied-deep-learning-with-pytorch-full-course.md",
+      "title": "Applied Deep Learning with PyTorch - Full Course",
+      "excerpt": "In this course you will learn the key concepts behind deep learning and how to apply the concepts to a real-life project using PyTorch and Python.  You'll learn the following: ⌨️ RNNs and LSTMs ⌨️ Sequence Modeling ⌨️ PyTorch ⌨️ Building a Chatbot in PyTorch  ⭐️Requirements ⭐️ ⌨️ Some Basic High School",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/freecodecamporg-applied-deep-learning-with-pytorch-full-course/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/freecodecamporg-applied-deep-learning-with-pytorch-full-course/",
+      "originalUrl": "https://youtube.com/watch?v=CNuI8OWsppg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CNuI8OWsppg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5H40M4S",
       "provider": {
         "name": "freeCodeCamp.org",
         "domain": "freecodecamp.org",
@@ -965,11 +855,204 @@
           }
         ]
       },
-      "publishedDateTime": "2019-07-16T14:18:52Z",
-      "heat": 57,
+      "publishedDateTime": "2019-02-07T19:28:59Z",
+      "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/GJJc1t0rtSU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CNuI8OWsppg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/freecodecamporg-natural-language-processing-with-tensorflow-2-beginners-course.md",
+      "title": "Natural Language Processing with TensorFlow 2 - Beginner's Course",
+      "excerpt": "This course is a practical introduction to natural language processing with TensorFlow 2.0. In this tutorial you will go from having zero knowledge to writing an artificial intelligence that can compose Shakespearean prose.  No prior experience with deep learning is required, though it is always helpful",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/freecodecamporg-natural-language-processing-with-tensorflow-2-beginners-course/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/freecodecamporg-natural-language-processing-with-tensorflow-2-beginners-course/",
+      "originalUrl": "https://youtube.com/watch?v=B2q5cRJvqI8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B2q5cRJvqI8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H35M44S",
+      "provider": {
+        "name": "freeCodeCamp.org",
+        "domain": "freecodecamp.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/freecodecamp.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-08T12:28:10Z",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B2q5cRJvqI8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/freecodecamporg-tensorflow-20-crash-course.md",
+      "title": "TensorFlow 2.0 Crash Course",
+      "excerpt": "Learn how to use TensorFlow 2.0 in this crash course for beginners. This course will demonstrate how to create neural networks with Python and TensorFlow 2.0.   If you want a more comprehensive TensorFlow 2.0 course, check out this 7 hour course: https://youtu.be/tPYj3fFJGjk  🎥 Course created by Tech",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/freecodecamporg-tensorflow-20-crash-course/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/freecodecamporg-tensorflow-20-crash-course/",
+      "originalUrl": "https://youtube.com/watch?v=6g4O5UOH304",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6g4O5UOH304\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H13M17S",
+      "provider": {
+        "name": "freeCodeCamp.org",
+        "domain": "freecodecamp.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/freecodecamp.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-08T12:29:22Z",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6g4O5UOH304/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/futurology-how-convolutional-neural-networks-work-cnns-explained-visualized.md",
+      "title": "How Convolutional Neural Networks Work (CNNs Explained & Visualized)",
+      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://offset.earthone.io/   [Interactive",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-how-convolutional-neural-networks-work-cnns-explained-visualized/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-how-convolutional-neural-networks-work-cnns-explained-visualized/",
+      "originalUrl": "https://youtube.com/watch?v=pj9-rr1wDhM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pj9-rr1wDhM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M47S",
+      "provider": {
+        "name": "Futurology",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-11-09T16:26:46Z",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pj9-rr1wDhM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-ai-in-cybersecurity-using-ai-in-cybersecurity-how-ai-can-be-used-in-cyber-security-simplilearn.md",
+      "title": "AI In Cybersecurity | Using AI In Cybersecurity | How AI Can Be Used in Cyber Security | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z in this video on \"AI in Cybersecurity\" we will discuss how AI is helping cybersecurity industry to",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-ai-in-cybersecurity-using-ai-in-cybersecurity-how-ai-can-be-used-in-cyber-security-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-ai-in-cybersecurity-using-ai-in-cybersecurity-how-ai-can-be-used-in-cyber-security-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=GqVGS-y8YnY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GqVGS-y8YnY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M2S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-09-01T09:43:20Z",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GqVGS-y8YnY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-logistic-regression-in-r-logistic-regression-in-r-example-data-science-algorithms-simplilearn.md",
+      "title": "Logistic Regression in R | Logistic Regression in R Example | Data Science Algorithms | Simplilearn",
+      "excerpt": "This \"Logistic Regression in R\" video will help you understand what is a regression, why regression, types of regression, why logistic regression, what is logistic regression and at the end, you will also see a use case implementation using logistic regression. Regression is a statistical relationship",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-logistic-regression-in-r-logistic-regression-in-r-example-data-science-algorithms-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-logistic-regression-in-r-logistic-regression-in-r-example-data-science-algorithms-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=XycruVLySDg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XycruVLySDg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M31S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-07T09:12:24Z",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XycruVLySDg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -984,14 +1067,14 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-ai-architect-roadmap-for-2024-how-to-become-an-ai-solution-architect-in-2024-simplilearn.md",
-      "title": "AI Architect Roadmap For 2024 | How To Become An AI Solution Architect In 2024 | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  This video on \"AI Architect Roadmap For 2024\" will explain the skills that one should master to become",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-ai-architect-roadmap-for-2024-how-to-become-an-ai-solution-architect-in-2024-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-ai-architect-roadmap-for-2024-how-to-become-an-ai-solution-architect-in-2024-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=34ZrB8l17p4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/34ZrB8l17p4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M3S",
+      "path": "_learning/videos/simplilearn-machine-learning-roadmap-2023-how-to-become-ml-expert-ml-roadmap-2023-simplilearn.md",
+      "title": "🔥 Machine Learning Roadmap 2023 | How to Become ML Expert? | ML Roadmap 2023 | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video on \"Machine Learning Roadmap for 2023\" offers a comprehensive guide to becoming an ML engineer.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-roadmap-2023-how-to-become-ml-expert-ml-roadmap-2023-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-roadmap-2023-how-to-become-ml-expert-ml-roadmap-2023-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=8ztYMp5fW8A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8ztYMp5fW8A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M58S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
@@ -1004,125 +1087,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-09-06T11:58:42Z",
-      "heat": 57,
+      "publishedDateTime": "2023-05-30T05:46:53Z",
+      "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/34ZrB8l17p4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-artificial-intelligence-applications-2021artificial-intelligence-examples-in-real-life-simplilearn.md",
-      "title": "Artificial Intelligence Applications 2021|Artificial Intelligence Examples In Real Life |Simplilearn",
-      "excerpt": "🔥Free Artificial Intelligence Course: https://www.simplilearn.com/learn-ai-basics-skillup?utm_campaign=AI&utm_medium=DescriptionFirstFold&utm_source=youtube Artificial Intelligence is no more a buzz; it has become a reality. With companies using artificial intelligence to build intelligent machines,",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-artificial-intelligence-applications-2021artificial-intelligence-examples-in-real-life-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-artificial-intelligence-applications-2021artificial-intelligence-examples-in-real-life-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=YhSeTEumjVA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YhSeTEumjVA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M31S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-03T15:12:42Z",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YhSeTEumjVA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-create-a-telegram-bot-using-chatgpt-telegram-chatbot-using-python-chatgpt-tutorial-simplilearn.md",
-      "title": "Create a Telegram Bot Using ChatGPT | Telegram Chatbot Using Python | ChatGPT  Tutorial |Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This tutorial on Create Telegram Bot using Python and ChatGPT is the guide to creating a telegram",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-create-a-telegram-bot-using-chatgpt-telegram-chatbot-using-python-chatgpt-tutorial-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-create-a-telegram-bot-using-chatgpt-telegram-chatbot-using-python-chatgpt-tutorial-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=B8N_HyGhZ0U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B8N_HyGhZ0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M52S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-04-13T13:31:33Z",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B8N_HyGhZ0U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-gaussian-mixture-model-gaussian-mixture-model-in-machine-learning-gmm-explained-simplilearn.md",
-      "title": "Gaussian Mixture Model | Gaussian Mixture Model in Machine Learning | GMM Explained | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  In this video on \" Gaussian Mixture Model,\" we will explain the Gaussian mixture model in machine",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-gaussian-mixture-model-gaussian-mixture-model-in-machine-learning-gmm-explained-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-gaussian-mixture-model-gaussian-mixture-model-in-machine-learning-gmm-explained-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=FNcYRLjc5T4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FNcYRLjc5T4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M36S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-07-13T06:23:47Z",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FNcYRLjc5T4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8ztYMp5fW8A/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1137,14 +1106,53 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-how-to-use-chatgpt-for-web-development-web-development-using-chatgpt-simplilearn.md",
-      "title": "🔥 How To Use ChatGPT For Web Development | Web Development Using ChatGPT | Simplilearn",
-      "excerpt": "🔥Full Stack Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx7i 🔥Full Stack Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugCr 🔥Full Stack Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1ugCu In this video on \"How To Use ChatGPT For Web Development,\" we will explore the features",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-to-use-chatgpt-for-web-development-web-development-using-chatgpt-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-to-use-chatgpt-for-web-development-web-development-using-chatgpt-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=t_i937NYWKk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t_i937NYWKk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M",
+      "path": "_learning/videos/simplilearn-machine-learning-tutorial-part-1-machine-learning-tutorial-for-beginners-part-1-simplilearn.md",
+      "title": "Machine Learning Tutorial Part - 1 | Machine Learning Tutorial For Beginners  Part - 1 | Simplilearn",
+      "excerpt": "This Machine Learning tutorial will help you understand why Machine Learning came into picture, what is Machine Learning, types of Machine Learning, Machine Learning algorithms with a detailed explanation on linear regression, decision tree & support vector machine and at the end you will also see a",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-tutorial-part-1-machine-learning-tutorial-for-beginners-part-1-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-tutorial-part-1-machine-learning-tutorial-for-beginners-part-1-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=DWsJc1xnOZo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DWsJc1xnOZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M40S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-07T09:09:00Z",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DWsJc1xnOZo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-market-basket-analysis-using-association-mining-rule-machine-learning-projects-2022-simplilearn.md",
+      "title": "Market Basket Analysis Using Association Mining Rule | Machine Learning Projects 2022 | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video, we are going to cover how to do market basket analysis using Python. This video will",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-market-basket-analysis-using-association-mining-rule-machine-learning-projects-2022-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-market-basket-analysis-using-association-mining-rule-machine-learning-projects-2022-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=aqsa-gO_aq4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aqsa-gO_aq4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M58S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
@@ -1157,11 +1165,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-05-23T06:12:41Z",
-      "heat": 57,
+      "publishedDateTime": "2022-10-29T13:36:17Z",
+      "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/t_i937NYWKk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aqsa-gO_aq4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1171,7 +1179,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

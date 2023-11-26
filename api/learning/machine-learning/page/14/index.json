@@ -4,304 +4,104 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/videos/futurology-what-is-machine-learning-machine-learning-explained.md",
-      "title": "What Is Machine Learning (Machine Learning Explained)",
-      "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   In the past few videos in this series, we have delved quite deep into the field of machine learning, discussing both supervised and unsupervised learning.   The focus of this video then is to consolidate many of the topics we’ve discussed in",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-what-is-machine-learning-machine-learning-explained/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-what-is-machine-learning-machine-learning-explained/",
-      "originalUrl": "https://youtube.com/watch?v=E2IAhfD1WYM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E2IAhfD1WYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M50S",
-      "provider": {
-        "name": "Futurology",
-        "domain": "youtube.com"
+      "path": "_learning/courses/coursera-deploying-machine-learning-models.md",
+      "title": "Deploying Machine Learning Models",
+      "excerpt": "Learn Deploying Machine Learning Models from University of California San Diego. In this course we will learn about Recommender Systems (which we will study for the Capstone project), and also look at deployment issues for data products. By the ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-deploying-machine-learning-models/index.json",
+      "webUrl": "https://www.coursera.org/learn/deploying-machine-learning-models",
+      "length": "13 hours",
+      "ratings": {
+        "count": 12,
+        "average": 3.8
       },
-      "publishedDateTime": "2020-03-24T01:59:04Z",
-      "heat": 51,
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of California San Diego"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/E2IAhfD1WYM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5d/2b0180028b11e9aee3cbc96ec33ed9/pexels-photo-533189.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Deploying Machine Learning Models",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-5-best-courses-to-learn-machine-learning-top-5-ml-courses-for-beginners-simplilearn.md",
-      "title": "🔥 5 Best Courses to Learn Machine Learning | Top 5 ML Courses For Beginners | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  Are you interested in learning Machine Learning but not sure where to start? Look no further! In",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-5-best-courses-to-learn-machine-learning-top-5-ml-courses-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-5-best-courses-to-learn-machine-learning-top-5-ml-courses-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=ySzN19PupNQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ySzN19PupNQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M51S",
+      "path": "_learning/courses/coursera-end-to-end-machine-learning-with-tensorflow-on-gcp.md",
+      "title": "End-to-End Machine Learning with TensorFlow on GCP",
+      "excerpt": "Learn End-to-End Machine Learning with TensorFlow on GCP from Google Cloud. In the first course of this specialization, we will recap what was covered in the  Machine Learning with TensorFlow on Google Cloud Platform Specialization ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-end-to-end-machine-learning-with-tensorflow-on-gcp/index.json",
+      "webUrl": "https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp",
+      "length": "11 hours",
+      "ratings": {
+        "count": 1023,
+        "average": 4.5
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ]
-      },
-      "publishedDateTime": "2023-05-08T13:22:04Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ySzN19PupNQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-a-brief-history-of-machine-learning-machine-learning-for-beginners-simplilearn.md",
-      "title": "A Brief History Of Machine Learning | Machine Learning For Beginners | Simplilearn",
-      "excerpt": "Ever wondered how your favorite technology, or the one you're working on came to be? What and how it changed over the years? These are some of the questions our new series, FlashbackFriday answers.  Today, we'll be delving into the history and important milestones of the Machine Learning  If you are",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-a-brief-history-of-machine-learning-machine-learning-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-a-brief-history-of-machine-learning-machine-learning-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=lY1SELMvoVs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lY1SELMvoVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M33S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
+        ],
+        "publishers": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
+            "path": "",
+            "name": "Google Cloud"
           }
         ]
       },
-      "publishedDateTime": "2019-09-19T09:08:54Z",
-      "heat": 51,
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/lY1SELMvoVs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/85/1f9930bd3f11e8a00b63e9f285be45/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "End-to-End Machine Learning with TensorFlow on GCP",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-artificial-intelligence-and-deep-learning-full-course-artificial-intelligence-course-simplilearn.md",
-      "title": "Artificial Intelligence And Deep Learning Full Course | Artificial Intelligence Course | Simplilearn",
-      "excerpt": "This video on Artificial Intelligence and Deep Learning full course will help us understand the basics of artificial intelligence and Deep Learning and the different algorithms used to build AI models.  🔥FREE AI Course: https://www.simplilearn.com/learn-ai-basics-skillup?utm_campaign=AIAndDLFullCourse&utm_medium=Description&utm_source=youtube",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-artificial-intelligence-and-deep-learning-full-course-artificial-intelligence-course-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-artificial-intelligence-and-deep-learning-full-course-artificial-intelligence-course-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=anTjbDH6y-Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/anTjbDH6y-Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9H9M49S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-22T09:46:40Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/anTjbDH6y-Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-best-machine-learning-bootcamp-for-2023-machine-learning-bootcamp-for-beginners-simplilearn.md",
-      "title": "🔥 Best Machine Learning Bootcamp For 2023 | Machine Learning Bootcamp For Beginners | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z The \"Best Machine Learning Bootcamp For 2023\" offered by Simplilearn is the ultimate program for individuals",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-best-machine-learning-bootcamp-for-2023-machine-learning-bootcamp-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-best-machine-learning-bootcamp-for-2023-machine-learning-bootcamp-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=7Io1VdngvbY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Io1VdngvbY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M17S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-07-07T11:55:44Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7Io1VdngvbY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-deep-learning-basics-tutorial-deep-learning-fundamentals-deep-learning-training-simplilearn.md",
-      "title": "Deep Learning Basics Tutorial | Deep Learning Fundamentals | Deep Learning Training | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  The \"Deep Learning Basics Tutorial\" provides a comprehensive overview of the fundamental principles",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-basics-tutorial-deep-learning-fundamentals-deep-learning-training-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-basics-tutorial-deep-learning-fundamentals-deep-learning-training-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=iLJWqJp8S6E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iLJWqJp8S6E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H26M17S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-20T10:28:10Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iLJWqJp8S6E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-deep-learning-interview-questions-and-answers-ai-deep-learning-interview-questions-simplilearn.md",
-      "title": "Deep Learning Interview Questions And Answers | AI & Deep Learning Interview Questions | Simplilearn",
-      "excerpt": "This Deep Learning interview questions and answers video will help you prepare for Deep Learning interviews. This video is ideal for both beginners as well as professionals who are appearing for Deep Learning, Machine Learning or Data Science interviews. Learn what are the most important Deep Learning",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-interview-questions-and-answers-ai-deep-learning-interview-questions-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-interview-questions-and-answers-ai-deep-learning-interview-questions-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=JYMKEM5c7PU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JYMKEM5c7PU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M15S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-07T09:18:22Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JYMKEM5c7PU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-deep-learning-tutorial-deep-learning-tensorflow-deep-learning-with-neural-networks-simplilearn.md",
-      "title": "Deep Learning Tutorial | Deep Learning TensorFlow | Deep Learning With Neural Networks | Simplilearn",
-      "excerpt": "This Deep Learning tutorial will help you in understanding what is Deep Learning, why do we need Deep learning, what is neural network, applications of Deep Learning, what is perceptron, implementing logic gates using perceptron, types of neural networks. At the end of the video, you will get introduced",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-tutorial-deep-learning-tensorflow-deep-learning-with-neural-networks-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-tutorial-deep-learning-tensorflow-deep-learning-with-neural-networks-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=skf35x1lNV4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/skf35x1lNV4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M51S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-07T09:15:39Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/skf35x1lNV4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning",
@@ -310,865 +110,1451 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-deep-learning-tutorial-for-beginners-deep-learning-basics-deep-learning-course-simplilearn.md",
-      "title": "Deep Learning Tutorial For Beginners | Deep Learning Basics | Deep Learning Course | Simplilearn",
-      "excerpt": "Deep Learning is widely used in the field of AI and Data Science. This video on Deep Learning will help you understand what is Deep Learning and why we need Deep learning and neural networks. You will learn the applications of Deep Learning and the types of neural networks. Finally, you'll learn about",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-tutorial-for-beginners-deep-learning-basics-deep-learning-course-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-tutorial-for-beginners-deep-learning-basics-deep-learning-course-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=qeD_CtR-OcU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qeD_CtR-OcU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H21M56S",
+      "path": "_learning/courses/coursera-feature-engineering.md",
+      "title": "Feature Engineering",
+      "excerpt": "Learn Feature Engineering from Google Cloud. Want to know how you can improve the accuracy of your machine learning models? What about how to find which data columns make the most useful features? Welcome to Feature Engineering on Google Cloud ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-feature-engineering/index.json",
+      "webUrl": "https://www.coursera.org/learn/feature-engineering",
+      "length": "11 hours",
+      "ratings": {
+        "count": 1178,
+        "average": 4.5
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
         ]
       },
-      "publishedDateTime": "2020-09-30T12:45:13Z",
-      "heat": 51,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qeD_CtR-OcU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/0d/974060480611e897b4a91da37aa47d/new-ml-on-gcp-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Feature Engineering",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-deep-learning-with-python-deep-learning-python-tutorial-deep-learning-for-beginners-simplilearn.md",
-      "title": "Deep Learning With Python | Deep Learning Python Tutorial | Deep Learning for Beginners |Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video on \"Deep Learning With Python\", we will do a hands-on lab demo on flower recognition",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-with-python-deep-learning-python-tutorial-deep-learning-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-with-python-deep-learning-python-tutorial-deep-learning-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=FCZwcWHk3Ms",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FCZwcWHk3Ms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H14M21S",
+      "path": "_learning/courses/coursera-foundations-of-data-science-k-means-clustering-in-python.md",
+      "title": "Foundations of Data Science: K-Means Clustering in Python",
+      "excerpt": "Learn Foundations of Data Science: K-Means Clustering in Python from University of London, Goldsmiths, University of London. Organisations all around the world are using data to predict behaviours and extract valuable real-world insights to ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-foundations-of-data-science-k-means-clustering-in-python/index.json",
+      "webUrl": "https://www.coursera.org/learn/data-science-k-means-clustering-python",
+      "length": "26 hours",
+      "ratings": {
+        "count": 33,
+        "average": 4.7
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Goldsmiths, University of London"
+          }
         ]
       },
-      "publishedDateTime": "2023-03-17T13:24:47Z",
-      "heat": 51,
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/FCZwcWHk3Ms/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e4/9969c017f011e9ab95e949bb9aab53/iStock-897683944---crop.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Foundations of Data Science: K-Means Clustering in Python",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-deep-learning-with-python-deep-learning-tutorial-for-beginners-learn-deep-learning-simplilearn.md",
-      "title": "Deep Learning With Python | Deep Learning Tutorial For Beginners | Learn Deep Learning | Simplilearn",
-      "excerpt": "This Deep Learning with Python tutorial will help you understand what is deep learning, applications of deep learning, what is a neural network, biological versus artificial neural networks, activation functions, cost function, how neural networks work, and what gradient descent is. Finally, we'll code",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-with-python-deep-learning-tutorial-for-beginners-learn-deep-learning-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-with-python-deep-learning-tutorial-for-beginners-learn-deep-learning-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=QATEjfH4DsI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QATEjfH4DsI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M6S",
+      "path": "_learning/courses/coursera-foundations-of-mining-non-structured-medical-data.md",
+      "title": "Foundations of mining non-structured medical data",
+      "excerpt": "Learn Foundations of mining non-structured medical data from EIT Digital . The goal of this course is to understand the foundations of Big Data and the data that is being generated in the health domain and how the use of technology would help to ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-foundations-of-mining-non-structured-medical-data/index.json",
+      "webUrl": "https://www.coursera.org/learn/mining-medical-data",
+      "length": "14 hours",
+      "ratings": {
+        "count": 7,
+        "average": 4.0
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "EIT Digital"
+          }
         ]
       },
-      "publishedDateTime": "2020-08-20T08:38:31Z",
-      "heat": 51,
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/QATEjfH4DsI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/eb/54f8202eb611e898ecd96c87a3aeae/logo-curso.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Foundations of mining non-structured medical data",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-deep-learning-with-pytorch-introduction-to-pytorch-for-deep-learning-pytorch-basics-simplilearn.md",
-      "title": "Deep Learning With Pytorch | Introduction to Pytorch for Deep Learning | Pytorch Basics| Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video by Simplilearn will explain to you *Deep Learning with PyTorch* . This video will cover",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-with-pytorch-introduction-to-pytorch-for-deep-learning-pytorch-basics-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-with-pytorch-introduction-to-pytorch-for-deep-learning-pytorch-basics-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=BQ65aJPb5aM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BQ65aJPb5aM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M23S",
+      "path": "_learning/courses/coursera-fundamentals-of-machine-learning-in-finance.md",
+      "title": "Fundamentals of Machine Learning in Finance",
+      "excerpt": "Learn Fundamentals of Machine Learning in Finance from New York University Tandon School of Engineering. The course aims at helping students to be able to solve practical ML-amenable problems that they may encounter in real life that include: (1) ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-fundamentals-of-machine-learning-in-finance/index.json",
+      "webUrl": "https://www.coursera.org/learn/fundamentals-machine-learning-in-finance",
+      "length": "16 hours",
+      "ratings": {
+        "count": 197,
+        "average": 3.8
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ]
-      },
-      "publishedDateTime": "2023-03-15T06:29:33Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BQ65aJPb5aM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-free-deep-learning-course-with-certificate-deep-learning-course-for-beginners-simplilearn.md",
-      "title": "🔥FREE Deep Learning Course With Certificate | Deep Learning Course For Beginners | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z To learn more about Deep Learning, subscribe to our YouTube channel: https://www.youtube.com/user/Simplilearn?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-free-deep-learning-course-with-certificate-deep-learning-course-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-free-deep-learning-course-with-certificate-deep-learning-course-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=BY1KOyuHf_U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BY1KOyuHf_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M35S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
+        ],
+        "publishers": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
+            "path": "",
+            "name": "New York University Tandon School of Engineering"
           }
         ]
       },
-      "publishedDateTime": "2021-11-03T05:25:31Z",
-      "heat": 51,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/BY1KOyuHf_U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/eb/0f2dd05d1f11e89522759bcdc70bc2/Supervised-learning-in-Finance.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Fundamentals of Machine Learning in Finance",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-free-deep-learning-with-keras-course-deep-learning-tutorial-skillup-simplilearn.md",
-      "title": "🔥Free Deep Learning With Keras Course | Deep Learning Tutorial | Skillup | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z 🔥Enroll for Free Online Course to Learn Deep Learning with Keras: https://www.simplilearn.com/learn-keras-for-beginners-free-course-skillup?utm_campaign=DeepLearningWithKerasIntro&utm_medium=DescriptionFF&utm_source=youtube",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-free-deep-learning-with-keras-course-deep-learning-tutorial-skillup-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-free-deep-learning-with-keras-course-deep-learning-tutorial-skillup-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=dOV2hpwUak4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dOV2hpwUak4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M36S",
+      "path": "_learning/courses/coursera-getting-started-with-ai-using-ibm-watson.md",
+      "title": "Getting Started with AI using IBM Watson",
+      "excerpt": "Learn Getting Started with AI using IBM Watson from IBM. In this course you will learn how to quickly and easily get started with Artificial Intelligence using IBM Watson. You will understand how Watson works, become familiar with its use cases ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-getting-started-with-ai-using-ibm-watson/index.json",
+      "webUrl": "https://www.coursera.org/learn/ai-with-ibm-watson",
+      "length": "8 hours",
+      "ratings": {
+        "count": 551,
+        "average": 4.5
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "IBM"
+          }
         ]
       },
-      "publishedDateTime": "2022-03-22T12:17:26Z",
-      "heat": 51,
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/dOV2hpwUak4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/29/07ae5499f74eee87afacb368314936/WatsonAI-Avatar.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Getting Started with AI using IBM Watson",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-free-machine-learning-algorithms-course-with-certificate-machine-learning-skillup-simplilearn.md",
-      "title": "🔥Free Machine Learning Algorithms Course with Certificate | Machine Learning | Skillup | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video, you'll learn how to get certified in machine learning algorithms for free. Simplilearn's",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-free-machine-learning-algorithms-course-with-certificate-machine-learning-skillup-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-free-machine-learning-algorithms-course-with-certificate-machine-learning-skillup-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=tXA786jJIh4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tXA786jJIh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M26S",
+      "path": "_learning/courses/coursera-getting-started-with-aws-machine-learning.md",
+      "title": "Getting Started with AWS Machine Learning",
+      "excerpt": "Learn Getting Started with AWS Machine Learning from Amazon Web Services. Machine learning (ML) is one of the fastest growing areas in technology and a highly sought after skillset in today’s job market. The World Economic Forum states the growth ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-getting-started-with-aws-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/aws-machine-learning",
+      "length": "10 hours",
+      "ratings": {
+        "count": 183,
+        "average": 4.3
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Amazon Web Services"
+          }
         ]
       },
-      "publishedDateTime": "2022-03-04T14:27:47Z",
-      "heat": 51,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tXA786jJIh4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/4c/a2b3d72eae428b9022a328718d978e/MachineLearning-02.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Getting Started with AWS Machine Learning",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-google-cloud-platform-big-data-and-machine-learning-fundamentals.md",
+      "title": "Google Cloud Platform Big Data and Machine Learning Fundamentals",
+      "excerpt": "Learn Google Cloud Platform Big Data and Machine Learning Fundamentals from Google Cloud. This 2-week accelerated on-demand course introduces participants to the Big Data and Machine Learning capabilities of Google Cloud Platform (GCP). It ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-google-cloud-platform-big-data-and-machine-learning-fundamentals/index.json",
+      "webUrl": "https://www.coursera.org/learn/gcp-big-data-ml-fundamentals",
+      "length": "13 hours",
+      "ratings": {
+        "count": 7816,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/28/b66a50593d11e79e47c94609bf0c0b/BD-and-ML-Fundamentals-v3.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Google Cloud Platform Big Data and Machine Learning Fundamentals",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-free-opencv-course-for-beginners-opencv-course-free-skillup-simplilearn.md",
-      "title": "🔥Free OpenCV Course For Beginners | OpenCV Course Free | SkillUp | Simplilearn",
-      "excerpt": "*Note: 1+ Years of Work Experience Recommended to Sign up for Below Programs⬇️ 🔥Enroll for Free Online Course to Learn OpenCV with Python: https://www.simplilearn.com/free-opencv-training-course-skillup?utm_campaign=FreeLearnOpenCVCourseForBeginners&utm_medium=Description&utm_source=youtube  About Simplilearn",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-free-opencv-course-for-beginners-opencv-course-free-skillup-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-free-opencv-course-for-beginners-opencv-course-free-skillup-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=NBWBCwGE45E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NBWBCwGE45E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M39S",
+      "path": "_learning/courses/coursera-guided-tour-of-machine-learning-in-finance.md",
+      "title": "Guided Tour of Machine Learning in Finance",
+      "excerpt": "Learn Guided Tour of Machine Learning in Finance from New York University Tandon School of Engineering. This course aims at providing an introductory and broad overview of the field of ML with the focus on applications on Finance. Supervised ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-guided-tour-of-machine-learning-in-finance/index.json",
+      "webUrl": "https://www.coursera.org/learn/guided-tour-machine-learning-finance",
+      "length": "21 hours",
+      "ratings": {
+        "count": 410,
+        "average": 3.8
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "New York University Tandon School of Engineering"
+          }
         ]
       },
-      "publishedDateTime": "2022-04-29T11:39:05Z",
-      "heat": 51,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/NBWBCwGE45E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/9b/c1b1b05d1c11e88be577e07ffecb19/Guided-Tour-of-Machine-Learning-in-Finance.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Guided Tour of Machine Learning in Finance",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-how-does-netflix-work-how-netflix-uses-machine-learning-machine-learning-use-cases-simplilearn.md",
-      "title": "How Does Netflix Work? | How Netflix Uses Machine Learning | Machine Learning Use Cases |Simplilearn",
-      "excerpt": "In this video, we will see how Netflix grew, and we will look into how Netflix works. Netflix uses various machine learning algorithms to decide its content and to make a personalized recommendation list. Machine learning and Big data analytics contribute primarily to how Netflix works. Let's get started",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-does-netflix-work-how-netflix-uses-machine-learning-machine-learning-use-cases-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-does-netflix-work-how-netflix-uses-machine-learning-machine-learning-use-cases-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=SBFFarEfmEs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SBFFarEfmEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M20S",
+      "path": "_learning/courses/coursera-how-google-does-machine-learning.md",
+      "title": "How Google does Machine Learning",
+      "excerpt": "Learn How Google does Machine Learning from Google Cloud. What is machine learning, and what kinds of problems can it solve? Google thinks about machine learning slightly differently -- of being about logic, rather than just data. We talk about ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-how-google-does-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/google-machine-learning",
+      "length": "10 hours",
+      "ratings": {
+        "count": 4407,
+        "average": 4.6
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
         ]
       },
-      "publishedDateTime": "2019-11-12T13:17:10Z",
-      "heat": 51,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/SBFFarEfmEs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5e/5c506015cc11e89638a9d3cc15d317/new-ml-on-gcp-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "How Google does Machine Learning",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-how-to-become-a-machine-learning-engineer-how-to-learn-machine-learning-simplilearn.md",
-      "title": "How to Become A Machine Learning Engineer | How To Learn Machine Learning | Simplilearn",
-      "excerpt": "This video on \"How to become a Machine Learning Engineer\" will explain the skills that one should master to become successful in his Machine Learning career. This video will also explain about the job opportunities in Machine Learning industry along with the Machine Learning and Artificial Intelligence",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-to-become-a-machine-learning-engineer-how-to-learn-machine-learning-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-to-become-a-machine-learning-engineer-how-to-learn-machine-learning-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=-5hEYRt8JE0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-5hEYRt8JE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M44S",
+      "path": "_learning/courses/coursera-how-to-win-a-data-science-competition-learn-from-top-kagglers.md",
+      "title": "How to Win a Data Science Competition: Learn from Top Kagglers",
+      "excerpt": "Learn How to Win a Data Science Competition: Learn from Top Kagglers from National Research University Higher School of Economics. If you want to break into competitive data science, then this course is for you! Participating in predictive ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-how-to-win-a-data-science-competition-learn-from-top-kagglers/index.json",
+      "webUrl": "https://www.coursera.org/learn/competitive-data-science",
+      "length": "48 hours",
+      "ratings": {
+        "count": 735,
+        "average": 4.7
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "National Research University Higher School of Economics"
+          }
         ]
       },
-      "publishedDateTime": "2018-09-03T14:53:32Z",
-      "heat": 51,
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-5hEYRt8JE0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/90/7df840ad9011e788128bc3971f6593/How-to-win-a-Kaggle-competition2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "How to Win a Data Science Competition: Learn from Top Kagglers",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-how-to-build-neural-network-in-pytorch-pytorch-tutorial-for-beginners-simplilearn.md",
-      "title": "How to Build Neural Network in Pytorch? | PyTorch Tutorial for Beginners | Simplilearn",
-      "excerpt": "🔥Cyber Security Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx76 🔥Cyber Security Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBy 🔥Cyber Security Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx7J In this video on \"how to build a neural network in PyTorch,\" we'll learn",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-to-build-neural-network-in-pytorch-pytorch-tutorial-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-to-build-neural-network-in-pytorch-pytorch-tutorial-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=2AhiHV7QGVk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2AhiHV7QGVk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H16M53S",
+      "path": "_learning/courses/coursera-intro-to-tensorflow.md",
+      "title": "Intro to TensorFlow",
+      "excerpt": "Learn Intro to TensorFlow from Google Cloud. We introduce low-level TensorFlow and work our way through the necessary concepts and APIs so as to be able to write distributed machine learning models. Given a TensorFlow model, we explain how to ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-intro-to-tensorflow/index.json",
+      "webUrl": "https://www.coursera.org/learn/intro-tensorflow",
+      "length": "10 hours",
+      "ratings": {
+        "count": 1992,
+        "average": 4.5
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ]
-      },
-      "publishedDateTime": "2023-03-06T13:51:09Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2AhiHV7QGVk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-introduction-to-machine-learning-machine-learning-basics-for-beginners-ml-basics-simplilearn.md",
-      "title": "Introduction To Machine Learning | Machine Learning Basics for Beginners | ML Basics | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z Machine Learning is a trending topic nowadays. This Introduction to Machine Learning video will help",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-introduction-to-machine-learning-machine-learning-basics-for-beginners-ml-basics-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-introduction-to-machine-learning-machine-learning-basics-for-beginners-ml-basics-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=xU2L8Lr-huw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xU2L8Lr-huw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M56S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
+        ],
+        "publishers": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
+            "path": "",
+            "name": "Google Cloud"
           }
         ]
       },
-      "publishedDateTime": "2022-06-15T08:39:53Z",
-      "heat": 51,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/xU2L8Lr-huw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a8/c5509017f511e8841b697778604607/new-ml-on-gcp-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Intro to TensorFlow",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-k-means-clustering-algorithm-k-means-example-in-python-machine-learning-algorithms-simplilearn.md",
-      "title": "K Means Clustering Algorithm | K Means Example in Python | Machine Learning Algorithms | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z K Means Clustering Algorithm tutorial video by simplilearn focuses on helping the aspiring machine",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-k-means-clustering-algorithm-k-means-example-in-python-machine-learning-algorithms-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-k-means-clustering-algorithm-k-means-example-in-python-machine-learning-algorithms-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=BSRsXi-gvms",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BSRsXi-gvms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT50M23S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-10-28T07:37:04Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BSRsXi-gvms/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-keras-tutorial-for-beginners-learn-keras-from-scratch-keras-for-deep-learning-simplilearn.md",
-      "title": "Keras Tutorial For Beginners | Learn Keras From Scratch | Keras For Deep Learning | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z ✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH  ⏩ Check",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-keras-tutorial-for-beginners-learn-keras-from-scratch-keras-for-deep-learning-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-keras-tutorial-for-beginners-learn-keras-from-scratch-keras-for-deep-learning-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=sBqocv9TbSQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sBqocv9TbSQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H59M27S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-12-28T11:26:52Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sBqocv9TbSQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-machine-learning-and-deep-learning-interview-questions-ai-ml-and-deep-learning-simplilearn.md",
-      "title": "🔥 Machine Learning and Deep Learning Interview Questions | AI ML and Deep Learning | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video on Machine Learning and Deep Learning Interview Questions covers top most asked questions",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-and-deep-learning-interview-questions-ai-ml-and-deep-learning-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-and-deep-learning-interview-questions-ai-ml-and-deep-learning-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=UxjU1ONe73Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UxjU1ONe73Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H54S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-02T13:49:51Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UxjU1ONe73Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-machine-learning-crash-course-in-4-hours-machine-learning-tutorial-for-beginners-simplilearn.md",
-      "title": "Machine Learning Crash Course In 4 Hours | Machine Learning Tutorial For Beginners | Simplilearn",
-      "excerpt": "Machine Learning is the most debated technology of the 21st century. In this machine learning crash course, you will learn about the basics of machine learning and the various applications of machine learning. You will understand the different machine learning algorithms with hands-on demo in Python",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-crash-course-in-4-hours-machine-learning-tutorial-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-crash-course-in-4-hours-machine-learning-tutorial-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=NOJOYcmyDhM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NOJOYcmyDhM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H59M54S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-07-23T14:03:49Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NOJOYcmyDhM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-machine-learning-for-absolute-beginners-2020-machine-learning-tutorial-for-beginners-simplilearn.md",
-      "title": "Machine Learning For Absolute Beginners 2020 | Machine Learning Tutorial For Beginners | Simplilearn",
-      "excerpt": "This Machine Learning tutorial video is designed for beginners to learn Machine Learning from scratch. You will learn, what is Machine Learning, why Machine Learning is so important in our lives, what is Machine Learning, the various types of Machine Learning (Supervised, Unsupervised and Reinforcement",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-for-absolute-beginners-2020-machine-learning-tutorial-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-for-absolute-beginners-2020-machine-learning-tutorial-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=oxvtR803RhE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oxvtR803RhE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M17S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-31T12:16:02Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oxvtR803RhE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-machine-learning-free-online-course-machine-learning-course-with-certificate-simplilearn.md",
-      "title": "Machine Learning 🔥FREE Online Course | Machine Learning Course With Certificate | Simplilearn",
-      "excerpt": "Become An AI & ML Expert Today: https://taplink.cc/simplilearn_ai_ml 🔥Enroll for Free Machine Learning Course & Get Your Completion Certificate: https://www.simplilearn.com/learn-machine-learning-basics-skillup?utm_campaign=MachineLearningSkillupIntro&utm_medium=Description&utm_source=youtube  This",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-free-online-course-machine-learning-course-with-certificate-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-free-online-course-machine-learning-course-with-certificate-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=ic_haE7R7k0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ic_haE7R7k0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M53S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-09-24T12:48:59Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ic_haE7R7k0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-machine-learning-tutorial-part-2-machine-learning-tutorial-for-beginners-part-2-simplilearn.md",
-      "title": "Machine Learning Tutorial Part - 2 | Machine Learning Tutorial For Beginners Part - 2 | Simplilearn",
-      "excerpt": "This Machine Learning tutorial will help you understand what is clustering, K-Means clustering, flowchart to understand K-Means clustering along with demo showing clustering of cars into brands, what is logistic regression, logistic regression curve, sigmoid function and a demo on how to classify a tumor",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-tutorial-part-2-machine-learning-tutorial-for-beginners-part-2-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-tutorial-part-2-machine-learning-tutorial-for-beginners-part-2-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=_Wkx_447zBM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Wkx_447zBM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M13S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-07T09:09:42Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_Wkx_447zBM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-neural-network-in-artificial-intelligence-neural-network-explained-neural-network-simplilearn.md",
-      "title": "Neural Network In Artificial Intelligence | Neural Network Explained | Neural Network | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z Neural Network in artificial intelligence by simplilearn is a tutorial based on the fundamentals of",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-neural-network-in-artificial-intelligence-neural-network-explained-neural-network-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-neural-network-in-artificial-intelligence-neural-network-explained-neural-network-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=7CbI_D7CizE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7CbI_D7CizE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M57S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-01-03T07:52:08Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7CbI_D7CizE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-neural-network-tutorial-artificial-neural-network-tutorial-deep-learning-tutorial-simplilearn.md",
-      "title": "Neural Network Tutorial | Artificial Neural Network Tutorial | Deep Learning Tutorial | Simplilearn",
-      "excerpt": "This Neural Network tutorial will help you understand what is a neural network, how a neural network works, what can the neural network do, types of neural network and a usecase implementation on how to classify between photos of dogs and cats. Deep Learning uses advanced computing power and special",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-neural-network-tutorial-artificial-neural-network-tutorial-deep-learning-tutorial-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-neural-network-tutorial-artificial-neural-network-tutorial-deep-learning-tutorial-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=ysVOhBGykxs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ysVOhBGykxs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53M55S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-07T09:16:11Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ysVOhBGykxs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-object-detection-using-tensorflow-tensorflow-tutorial-for-beginners-deep-learning-simplilearn.md",
-      "title": "Object Detection Using Tensorflow | TensorFlow Tutorial For Beginners | Deep Learning | Simplilearn",
-      "excerpt": "TensorFlow is a popular deep learning library for building neural network models. In this video, you will learn how about the TensorFlow object detection API. It is widely used to detect objects in images as well as videos. You will learn the functions and methods available in TensorFlow to create object",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-object-detection-using-tensorflow-tensorflow-tutorial-for-beginners-deep-learning-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-object-detection-using-tensorflow-tensorflow-tutorial-for-beginners-deep-learning-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=Bc8YdsC9Wkg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bc8YdsC9Wkg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H21M55S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-28T19:52:08Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Bc8YdsC9Wkg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning",
         "Google AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-introduction-to-applied-machine-learning.md",
+      "title": "Introduction to Applied Machine Learning",
+      "excerpt": "Learn Introduction to Applied Machine Learning from Alberta Machine Intelligence Institute. This course is for professionals who have heard the buzz around machine learning and want to apply machine learning to data analysis and automation. ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-introduction-to-applied-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-applied",
+      "length": "8 hours",
+      "ratings": {
+        "count": 95,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Stanford",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/bd/5ffa7dc5044d0faf48167516ba55f1/ML-Intro-to-Machine-Learning_1.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Introduction to Applied Machine Learning",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-introduction-to-deep-learning-neural-networks-with-keras.md",
+      "title": "Introduction to Deep Learning & Neural Networks with Keras",
+      "excerpt": "Learn Introduction to Deep Learning & Neural Networks with Keras from IBM. Looking to start a career in Deep Learning? Look no further. This course will introduce you to the field of deep learning and help you answer many questions that people ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-introduction-to-deep-learning-neural-networks-with-keras/index.json",
+      "webUrl": "https://www.coursera.org/learn/introduction-to-deep-learning-with-keras",
+      "length": "9 hours",
+      "ratings": {
+        "count": 344,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "IBM",
+            "domain": "ibm.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "Keras"
+      ],
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/25/015d50594c4e74b6e2099114a37905/Brain-under-layers-of-circuit-boards.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Introduction to Deep Learning &amp; Neural Networks with Keras",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-introduction-to-deep-learning.md",
+      "title": "Introduction to Deep Learning",
+      "excerpt": "Learn Introduction to Deep Learning from National Research University Higher School of Economics. The goal of this course is to give learners basic understanding of modern neural networks and their applications in computer vision and natural ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-introduction-to-deep-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/intro-to-deep-learning",
+      "length": "36 hours",
+      "ratings": {
+        "count": 1192,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "National Research University Higher School of Economics"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/30/4d89508f2111e7be561d79af9860d8/Introduction-to-deep-learning2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Introduction to Deep Learning",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-introduction-to-machine-learning.md",
+      "title": "Introduction to Machine Learning",
+      "excerpt": "Learn Introduction to Machine Learning from Duke University. This course will provide you a foundational understanding of machine learning models (logistic regression, multilayer perceptrons, convolutional neural networks, natural language ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-introduction-to-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-duke",
+      "length": "15 hours",
+      "ratings": {
+        "count": 155,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Duke University"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/8f/7afa60cbe911e8a233973e775a70ad/machine-learning-3.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Introduction to Machine Learning",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning.md",
+      "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+      "excerpt": "Learn Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/introduction-tensorflow",
+      "length": "9 hours",
+      "ratings": {
+        "count": 6138,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "deeplearning.ai",
+            "domain": "deeplearning.ai",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/84/01ea39d1be4ab0aab85911baba4786/TFC1SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-launching-into-machine-learning.md",
+      "title": "Launching into Machine Learning",
+      "excerpt": "Learn Launching into Machine Learning from Google Cloud. Starting from a history of machine learning, we discuss why neural networks today perform so well in a variety of data science problems. We then discuss how to set up a supervised learning ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-launching-into-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/launching-machine-learning",
+      "length": "7 hours",
+      "ratings": {
+        "count": 3078,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a8/c5509017f511e8841b697778604607/new-ml-on-gcp-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Launching into Machine Learning",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-leveraging-unstructured-data-with-cloud-dataproc-on-google-cloud-platform.md",
+      "title": "Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform",
+      "excerpt": "Learn Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform from Google Cloud. This 1-week, accelerated course builds upon previous courses in the Data Engineering on Google Cloud Platform specialization. Through a combination ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-leveraging-unstructured-data-with-cloud-dataproc-on-google-cloud-platform/index.json",
+      "webUrl": "https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp",
+      "length": "9 hours",
+      "ratings": {
+        "count": 3968,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a4/8304e0593811e7af1c57a4dfe97731/Dataproc.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-algorithms-supervised-learning-tip-to-tail.md",
+      "title": "Machine Learning Algorithms: Supervised Learning Tip to Tail",
+      "excerpt": "Learn Machine Learning Algorithms: Supervised Learning Tip to Tail from Alberta Machine Intelligence Institute. This course takes you from understanding the fundamentals of a machine learning project. Learners will understand and implement ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-algorithms-supervised-learning-tip-to-tail/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-classification-algorithms",
+      "length": "11 hours",
+      "ratings": {
+        "count": 31,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Alberta Machine Intelligence Institute"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7e/3d961d3f3947fb9cac508a4f4ca41a/ML-Supervised-Learning-Tip-to-Tail_1.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning Algorithms: Supervised Learning Tip to Tail",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-classification.md",
+      "title": "Machine Learning: Classification",
+      "excerpt": "Learn Machine Learning: Classification from University of Washington. Case Studies: Analyzing Sentiment & Loan Default Prediction  In our case study on analyzing sentiment, you will create models that predict a class (positive/negative sentiment) ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-classification/index.json",
+      "webUrl": "https://www.coursera.org/learn/ml-classification",
+      "length": "42 hours",
+      "ratings": {
+        "count": 2918,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Washington"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b1/37a1a04d0011e59bd777c2a1ef6a6e/gears-818461_1280.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning: Classification",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-clustering-amp-retrieval.md",
+      "title": "Machine Learning: Clustering &amp; Retrieval",
+      "excerpt": "Learn Machine Learning: Clustering & Retrieval from University of Washington. Case Studies: Finding Similar Documents  A reader is interested in a specific news article and you want to find similar articles to recommend.  What is the right notion ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-clustering-amp-retrieval/index.json",
+      "webUrl": "https://www.coursera.org/learn/ml-clustering-and-retrieval",
+      "length": "48 hours",
+      "ratings": {
+        "count": 1792,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Washington"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/80/907e004d0011e5aa3207874406679c/gears-818461_1280.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning: Clustering &amp; Retrieval",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-for-all.md",
+      "title": "Machine Learning for All",
+      "excerpt": "Learn Machine Learning for All from University of London. Machine Learning, often called Artificial Intelligence or AI, is one of the most exciting areas of technology at the moment. We see daily news stories that herald new breakthroughs in ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-for-all/index.json",
+      "webUrl": "https://www.coursera.org/learn/uol-machine-learning-for-all",
+      "length": "13 hours",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of London"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b5/8cd52cec40414c86470014b8042ecf/3657_UoL_Online-BSc-Computer-Science-Programme_MOOC-Icons_How-Comps-Work_05.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning for All",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-for-business-professionals.md",
+      "title": "Machine Learning for Business Professionals",
+      "excerpt": "Learn Machine Learning for Business Professionals from Google Cloud. This course is intended to be an introduction to machine learning for non-technical business professionals. There is a lot of hype around machine learning and many people are ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-for-business-professionals/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-business-professionals",
+      "length": "17 hours",
+      "ratings": {
+        "count": 174,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/dc/baa94699e3438ca23e8be683f83591/machine-learning-business_icon.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning for Business Professionals",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-for-data-analysis.md",
+      "title": "Machine Learning for Data Analysis",
+      "excerpt": "Learn Machine Learning for Data Analysis from Wesleyan University. Are you interested in predicting future outcomes using your data? This course helps you do just that! Machine learning is the process of developing, testing, and applying ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-for-data-analysis/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-data-analysis",
+      "length": "12 hours",
+      "ratings": {
+        "count": 235,
+        "average": 4.2
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Wesleyan University"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5d/58ff4036f111e589be778d9d098112/big-dataG.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning for Data Analysis",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-foundations-a-case-study-approach.md",
+      "title": "Machine Learning Foundations: A Case Study Approach",
+      "excerpt": "Learn Machine Learning Foundations: A Case Study Approach from University of Washington. Do you have data and wonder what it can tell you?  Do you need a deeper understanding of the core ways in which machine learning can improve your business?  ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-foundations-a-case-study-approach/index.json",
+      "webUrl": "https://www.coursera.org/learn/ml-foundations",
+      "length": "24 hours",
+      "ratings": {
+        "count": 9090,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Washington"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e4/3283d04d0111e5970145eef7ee0b59/gears-818461_1280.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning Foundations: A Case Study Approach",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-regression.md",
+      "title": "Machine Learning: Regression",
+      "excerpt": "Learn Machine Learning: Regression from University of Washington. Case Study - Predicting Housing Prices  In our first case study, predicting house prices, you will create models that predict a continuous value (price) from input features (square ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-regression/index.json",
+      "webUrl": "https://www.coursera.org/learn/ml-regression",
+      "length": "36 hours",
+      "ratings": {
+        "count": 4454,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Washington"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ce/a819904d0011e5831033199a566ffe/gears-818461_1280.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning: Regression",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-using-sas-viya.md",
+      "title": "Machine Learning Using SAS Viya",
+      "excerpt": "Learn Machine Learning Using SAS Viya from SAS. This course covers the theoretical foundation for different techniques associated with supervised machine learning models. In addition, a business case study is defined to guide participants through ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-using-sas-viya/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-sas",
+      "length": "24 hours",
+      "ratings": {
+        "count": 31,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "SAS"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/1a/730436497042c2ada6a641eb4abf95/89066_iconImage_EducationCoursera_orange.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning Using SAS Viya",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-with-big-data.md",
+      "title": "Machine Learning With Big Data",
+      "excerpt": "Learn Machine Learning With Big Data from University of California San Diego. Want to make sense of the volumes of data you have collected?  Need to incorporate data-driven decisions into your process?  This course provides an overview of machine ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-with-big-data/index.json",
+      "webUrl": "https://www.coursera.org/learn/big-data-machine-learning",
+      "length": "16 hours",
+      "ratings": {
+        "count": 1408,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of California San Diego"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7d/5f9a504d0911e5aa3207874406679c/big-data-_2_.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning With Big Data",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

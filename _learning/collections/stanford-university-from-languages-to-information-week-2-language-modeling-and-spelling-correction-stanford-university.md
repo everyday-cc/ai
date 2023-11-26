@@ -2,7 +2,7 @@
 title: "From Languages to Information Week 2: Language Modeling and Spelling Correction | Stanford University"
 excerpt: "This is the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course"
 type: collection
-heat: 61
+heat: 64
 
 provider:
   name: Stanford University

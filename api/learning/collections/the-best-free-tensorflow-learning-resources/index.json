@@ -318,7 +318,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 130,
+      "heat": 50,
       "tags": [
         "TensorFlow"
       ],

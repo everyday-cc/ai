@@ -4,217 +4,14 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/videos/edureka-recurrent-neural-networks-rnn-rnn-lstm-deep-learning-tutorial-tensorflow-tutorial-edureka.md",
-      "title": "Recurrent Neural Networks (RNN) | RNN LSTM | Deep Learning Tutorial | Tensorflow Tutorial | Edureka",
-      "excerpt": "( TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) This Edureka Recurrent Neural Networks tutorial video (Blog: https://goo.gl/4zxMfU) will help you in understanding why we need Recurrent Neural Networks (RNN) and what exactly it is. It also explains few issues with training",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-recurrent-neural-networks-rnn-rnn-lstm-deep-learning-tutorial-tensorflow-tutorial-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-recurrent-neural-networks-rnn-rnn-lstm-deep-learning-tutorial-tensorflow-tutorial-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=y7qrilE-Zlc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y7qrilE-Zlc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M35S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-05-17T14:15:21Z",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/y7qrilE-Zlc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-scikit-learn-tutorial-machine-learning-with-python-python-for-data-science-training-edureka.md",
-      "title": "Scikit Learn Tutorial | Machine Learning with Python | Python for Data Science Training | Edureka",
-      "excerpt": "Python Certification Training for Data Science : https://www.edureka.co/python-programming-certification-training This Edureka video on \"Scikit-learn Tutorial\" introduces you to machine learning in Python. It will also takes you through regression and clustering techniques along with a demo on SVM classification",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-scikit-learn-tutorial-machine-learning-with-python-python-for-data-science-training-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-scikit-learn-tutorial-machine-learning-with-python-python-for-data-science-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=bwZ3Qiuj3i8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bwZ3Qiuj3i8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT37M8S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-18T12:26:59Z",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bwZ3Qiuj3i8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-tensorflow-full-course-learn-tensorflow-in-3-hours-tensorflow-tutorial-for-beginners-edureka.md",
-      "title": "TensorFlow Full Course | Learn TensorFlow in 3 Hours | TensorFlow Tutorial For Beginners | Edureka",
-      "excerpt": "** TensorFlow Training (Use Code: YOUTUBE20): https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka TensorFlow Full Course video is a complete guide to Deep Learning using TensorFlow. It covers in-depth knowledge about Deep Leaning, Tensorflow & Neural Networks. Below are the topics",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-tensorflow-full-course-learn-tensorflow-in-3-hours-tensorflow-tutorial-for-beginners-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-tensorflow-full-course-learn-tensorflow-in-3-hours-tensorflow-tutorial-for-beginners-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=DFKHh7_zzJc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DFKHh7_zzJc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H11M41S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-20T18:36:39Z",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DFKHh7_zzJc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/freecodecamporg-applied-deep-learning-with-pytorch-full-course.md",
-      "title": "Applied Deep Learning with PyTorch - Full Course",
-      "excerpt": "In this course you will learn the key concepts behind deep learning and how to apply the concepts to a real-life project using PyTorch and Python.  You'll learn the following: ⌨️ RNNs and LSTMs ⌨️ Sequence Modeling ⌨️ PyTorch ⌨️ Building a Chatbot in PyTorch  ⭐️Requirements ⭐️ ⌨️ Some Basic High School",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/freecodecamporg-applied-deep-learning-with-pytorch-full-course/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/freecodecamporg-applied-deep-learning-with-pytorch-full-course/",
-      "originalUrl": "https://youtube.com/watch?v=CNuI8OWsppg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CNuI8OWsppg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5H40M4S",
-      "provider": {
-        "name": "freeCodeCamp.org",
-        "domain": "freecodecamp.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/freecodecamp.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-07T19:28:59Z",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CNuI8OWsppg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/freecodecamporg-natural-language-processing-with-tensorflow-2-beginners-course.md",
-      "title": "Natural Language Processing with TensorFlow 2 - Beginner's Course",
-      "excerpt": "This course is a practical introduction to natural language processing with TensorFlow 2.0. In this tutorial you will go from having zero knowledge to writing an artificial intelligence that can compose Shakespearean prose.  No prior experience with deep learning is required, though it is always helpful",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/freecodecamporg-natural-language-processing-with-tensorflow-2-beginners-course/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/freecodecamporg-natural-language-processing-with-tensorflow-2-beginners-course/",
-      "originalUrl": "https://youtube.com/watch?v=B2q5cRJvqI8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B2q5cRJvqI8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H35M44S",
-      "provider": {
-        "name": "freeCodeCamp.org",
-        "domain": "freecodecamp.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/freecodecamp.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-02-08T12:28:10Z",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B2q5cRJvqI8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-backpropagation-and-gradient-descent-in-neural-networks-neural-network-tutorial-simplilearn.md",
-      "title": "Backpropagation And Gradient Descent In Neural Networks | Neural Network Tutorial | Simplilearn",
-      "excerpt": "This video on backpropagation and gradient descent will cover the basics of how backpropagation and gradient descent plays a role in training neural networks - using an example on how to recognize the handwritten digits using a neural network. After predicting the results, you will see how to train the",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-backpropagation-and-gradient-descent-in-neural-networks-neural-network-tutorial-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-backpropagation-and-gradient-descent-in-neural-networks-neural-network-tutorial-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=odlgtjXduVg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/odlgtjXduVg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M39S",
+      "path": "_learning/videos/simplilearn-time-series-analysis-1-time-series-in-excel-time-series-forecasting-data-sciencesimplilearn.md",
+      "title": "Time Series Analysis - 1 | Time Series in Excel | Time Series Forecasting | Data Science|Simplilearn",
+      "excerpt": "This Time Series Analysis (Part-1) tutorial will help you understand what is time series, why time series, components of time series, when not to use time series, why does a time series have to be stationary, how to make a time series stationary and at the end, you will also see a use case where we will",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-time-series-analysis-1-time-series-in-excel-time-series-forecasting-data-sciencesimplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-time-series-analysis-1-time-series-in-excel-time-series-forecasting-data-sciencesimplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=gj4L2isnOf8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gj4L2isnOf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M49S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
@@ -227,11 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-04T12:51:40Z",
-      "heat": 54,
+      "publishedDateTime": "2019-01-07T09:14:37Z",
+      "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/odlgtjXduVg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gj4L2isnOf8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -246,53 +43,14 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-decision-tree-in-r-decision-tree-algorithm-data-science-tutorial-machine-learning-simplilearn.md",
-      "title": "Decision Tree In R | Decision Tree Algorithm | Data Science Tutorial | Machine Learning |Simplilearn",
-      "excerpt": "This Decision Tree in R tutorial video will help you understand what is decision tree, what problems can be solved using decision trees, how does a decision tree work and you will also see a use case implementation in which we do survival prediction using R. Decision tree is one of the most popular Machine",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-decision-tree-in-r-decision-tree-algorithm-data-science-tutorial-machine-learning-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-decision-tree-in-r-decision-tree-algorithm-data-science-tutorial-machine-learning-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=HmEPCEXn-ZM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HmEPCEXn-ZM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT46M21S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-07T09:12:47Z",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HmEPCEXn-ZM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-deep-learning-roadmap-2024-deep-learning-career-path-2024-simplilearn.md",
-      "title": "🔥 Deep Learning Roadmap 2024 | Deep Learning Career Path 2024 | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video on \"Deep Learning Roadmap for 2024\" offers a comprehensive guide to becoming a DL engineer.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-roadmap-2024-deep-learning-career-path-2024-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-roadmap-2024-deep-learning-career-path-2024-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=OQUUQCaT9ec",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OQUUQCaT9ec\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M9S",
+      "path": "_learning/videos/simplilearn-top-8-deep-learning-project-ideas-deep-learning-applications-machine-learning-simplilearn.md",
+      "title": "Top 8 Deep Learning Project Ideas | Deep Learning Applications | Machine Learning | Simplilearn",
+      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z https://taplink.cc/simplilearn_ai_ml   Top 8 Deep Learning Project Ideas* for beginners, by simplilearn,",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-8-deep-learning-project-ideas-deep-learning-applications-machine-learning-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-8-deep-learning-project-ideas-deep-learning-applications-machine-learning-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=f09B2Dr9y-Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f09B2Dr9y-Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M28S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
@@ -305,206 +63,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-10-11T10:48:54Z",
-      "heat": 54,
+      "publishedDateTime": "2022-12-08T10:14:08Z",
+      "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/OQUUQCaT9ec/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-fifa-world-cup-2022-final-prediction-using-python-python-projects-for-beginners-simplilearn.md",
-      "title": "FIFA World Cup 2022 Final Prediction Using Python | Python Projects For Beginners | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  In this video, \"FIFA world cup 2022 Final Prediction using python* we will predict the winner of",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-fifa-world-cup-2022-final-prediction-using-python-python-projects-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-fifa-world-cup-2022-final-prediction-using-python-python-projects-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=wZBytdnGUxc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wZBytdnGUxc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H33M3S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-12-13T12:25:07Z",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wZBytdnGUxc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-machine-learning-engineer-course-learn-machine-learning-machine-learning-tutorial-simplilearn.md",
-      "title": "Machine Learning Engineer Course | Learn Machine Learning | Machine Learning Tutorial | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video on Machine Learning Engineer Course covers all the important skills that will help you",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-engineer-course-learn-machine-learning-machine-learning-tutorial-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-engineer-course-learn-machine-learning-machine-learning-tutorial-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=6U4y8k4iMm8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6U4y8k4iMm8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9H28M59S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-07-09T06:56:15Z",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6U4y8k4iMm8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-machine-learning-roadmap-2023-machine-learning-roadmap-for-beginners-ml-roadmap-simplilearn.md",
-      "title": "Machine Learning Roadmap 2023 | Machine Learning Roadmap for Beginners | ML Roadmap | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video, we are going to discuss *Machine Learning Roadmap 2023* which contains topics to be",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-roadmap-2023-machine-learning-roadmap-for-beginners-ml-roadmap-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-roadmap-2023-machine-learning-roadmap-for-beginners-ml-roadmap-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=npLSMMVtPdc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/npLSMMVtPdc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M25S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-01-11T07:08:02Z",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/npLSMMVtPdc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-mask-detection-using-python-face-mask-detection-using-opencv-python-simplilearn.md",
-      "title": "Mask Detection Using Python | Face Mask Detection Using OpenCV Python | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video, we are going to cover how to create a mask detection system using OpenCV Python. This",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-mask-detection-using-python-face-mask-detection-using-opencv-python-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-mask-detection-using-python-face-mask-detection-using-opencv-python-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=PVM0XZk_ulM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PVM0XZk_ulM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M2S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-10-23T12:29:42Z",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PVM0XZk_ulM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-support-vector-machine-in-r-svm-algorithm-example-data-science-with-r-tutorial-simplilearn.md",
-      "title": "Support Vector Machine in R | SVM Algorithm Example | Data Science With R Tutorial | Simplilearn",
-      "excerpt": "This Support Vector Machine in R tutorial video will help you understand what is Machine Learning, what is classification, what is Support Vector Machine (SVM), what is SVM kernel and you will also see a use case in which we will classify horses and mules from a given data set using SVM algorithm. SVM",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-support-vector-machine-in-r-svm-algorithm-example-data-science-with-r-tutorial-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-support-vector-machine-in-r-svm-algorithm-example-data-science-with-r-tutorial-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=QkAmOb1AMrY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QkAmOb1AMrY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M3S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-07T09:13:41Z",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QkAmOb1AMrY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/f09B2Dr9y-Y/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -540,121 +103,12 @@
         ]
       },
       "publishedDateTime": "2022-05-10T07:01:14Z",
-      "heat": 54,
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/sPZeuiViku8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-what-is-machine-learning-what-is-machine-learning-and-how-does-it-work-simplilearn.md",
-      "title": "What Is Machine Learning? | What Is Machine Learning And How Does It Work? | Simplilearn",
-      "excerpt": "This Machine Learning tutorial will help you understand what is Machine Learning, Artificial Intelligence vs Machine Learning vs Deep Learning, how does Machine Learning work, types of Machine Learning, Machine Learning pre-requisites and applications of Machine Learning. Machine learning is a core sub-area",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-what-is-machine-learning-what-is-machine-learning-and-how-does-it-work-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-what-is-machine-learning-what-is-machine-learning-and-how-does-it-work-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=HgBpFaATdoA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HgBpFaATdoA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M17S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-10-18T11:16:41Z",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HgBpFaATdoA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-whatsapp-group-chat-analysis-using-python-machine-learning-projects-2023-simplilearn.md",
-      "title": "Whatsapp Group Chat Analysis Using Python | Machine Learning Projects 2023 | Simplilearn",
-      "excerpt": "https://taplink.cc/simplilearn_ai_ml    In this video on Whatsapp Group Chat Analysis, we will go through how we can do chat analysis of group chat data using machine learning and python. In this video, we will learn different functions and libraries of python.    00:00 Whatsapp Group Chat Analysis 01:00",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-whatsapp-group-chat-analysis-using-python-machine-learning-projects-2023-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-whatsapp-group-chat-analysis-using-python-machine-learning-projects-2023-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=SbX2-o5w5pY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SbX2-o5w5pY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M52S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-01-27T12:40:28Z",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SbX2-o5w5pY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-predict-stock-prices-easily-intro-to-deep-learning-7.md",
-      "title": "How to Predict Stock Prices Easily - Intro to Deep Learning #7",
-      "excerpt": "We're going to predict the closing price of the S&P 500 using a special type of recurrent neural network called an LSTM network. I'll explain why we use recurrent nets for time series data, and why LSTMs boost our network's memory power.   Coding challenge for this video: https://github.com/llSourcell/How-to-Predict-Stock-Prices-Easily-Demo",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-predict-stock-prices-easily-intro-to-deep-learning-7/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-predict-stock-prices-easily-intro-to-deep-learning-7/",
-      "originalUrl": "https://youtube.com/watch?v=ftMq5ps503w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ftMq5ps503w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M58S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-02-27T03:02:50Z",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ftMq5ps503w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],
@@ -688,7 +142,7 @@
         ]
       },
       "publishedDateTime": "2019-02-21T23:58:45Z",
-      "heat": 54,
+      "heat": 52,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/tCYSce6l8gA/maxresdefault.jpg",
@@ -708,14 +162,14 @@
       ]
     },
     {
-      "path": "_learning/videos/dotnet-mlnet-introduction-mlnet-2-of-8.md",
-      "title": "ML.NET Introduction | ML.NET [2 of 8]",
-      "excerpt": "Learn all about what ML.NET is and what you can do with the Framework. You will also see how customers using it, the open source momentum, and a short demo of the experience.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-mlnet-introduction-mlnet-2-of-8/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-mlnet-introduction-mlnet-2-of-8/",
-      "originalUrl": "https://youtube.com/watch?v=83kEkJEXQnY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/83kEkJEXQnY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M14S",
+      "path": "_learning/videos/dotnet-getting-started-with-mlnet-mlnet-3-of-8.md",
+      "title": "Getting started with ML.NET | ML.NET [3 of 8]",
+      "excerpt": "Learn how you can get started with ML.NET on Windows, Mac, and Linux using tools (ML.NET Model Builder, ML.NET CLI) or code-first using ML.NET API.   Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-getting-started-with-mlnet-mlnet-3-of-8/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-getting-started-with-mlnet-mlnet-3-of-8/",
+      "originalUrl": "https://youtube.com/watch?v=7U14iupLMdk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7U14iupLMdk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M51S",
       "provider": {
         "name": "dotNET",
         "domain": "dotnet.microsoft.com",
@@ -728,11 +182,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-09-20T00:56:57Z",
-      "heat": 53,
+      "publishedDateTime": "2019-09-20T01:05:43Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/83kEkJEXQnY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7U14iupLMdk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -748,92 +202,14 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-ai-roadmap-for-2021-learn-ai-artificial-intelligence-careers-data-science-training-edureka.md",
-      "title": "AI Roadmap For 2021 | Learn AI | Artificial Intelligence Careers | Data Science Training | Edureka",
-      "excerpt": "🔥Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka video on \"AI Roadmap For 2021” will provide you with comprehensive and detailed knowledge on the artificial intelligence roadmap based on career, skills, and job roles.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-ai-roadmap-for-2021-learn-ai-artificial-intelligence-careers-data-science-training-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-ai-roadmap-for-2021-learn-ai-artificial-intelligence-careers-data-science-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=bZwpXEgG0to",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bZwpXEgG0to\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M41S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-23T12:50:47Z",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bZwpXEgG0to/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-analyzing-recent-covid-19-trends-using-python-covid-19-data-analysis-python-training-edureka.md",
-      "title": "Analyzing Recent COVID-19 Trends Using Python | COVID-19 Data Analysis | Python Training | Edureka",
-      "excerpt": "🔥Data Scientist Masters Program: https://www.edureka.co/masters-program/data-scientist-certification This Edureka video on \"Analyzing Recent COVID-19 Trends using Python\", will help you understand how to, collect,  pre-process, and visualize raw data so as to derive insights from it. Following topics",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-analyzing-recent-covid-19-trends-using-python-covid-19-data-analysis-python-training-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-analyzing-recent-covid-19-trends-using-python-covid-19-data-analysis-python-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=3ZacJ9zRVOU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3ZacJ9zRVOU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H4M17S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-24T10:05:47Z",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3ZacJ9zRVOU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-artificial-intelligence-tutorial-for-beginners-artificial-intelligence-explained-edureka.md",
-      "title": "Artificial Intelligence Tutorial for Beginners | Artificial Intelligence Explained | Edureka",
-      "excerpt": "** Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training ** This Edureka video on \"Artificial Intelligence Tutorial\" will provide you with a detailed and comprehensive knowledge of Artificial Intelligence and also give you real-life examples",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-artificial-intelligence-tutorial-for-beginners-artificial-intelligence-explained-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-artificial-intelligence-tutorial-for-beginners-artificial-intelligence-explained-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=WZVAfLreIwM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WZVAfLreIwM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M5S",
+      "path": "_learning/videos/edureka-artificial-neural-network-tutorial-deep-learning-with-neural-networks-edureka.md",
+      "title": "Artificial Neural Network Tutorial | Deep Learning With Neural Networks | Edureka",
+      "excerpt": "( TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) This Edureka \"Neural Network Tutorial\" video (Blog: https://goo.gl/4zxMfU) will help you to understand the basics of Neural Networks and how to use it for deep learning. It explains Single layer and Multi layer Perceptron",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-artificial-neural-network-tutorial-deep-learning-with-neural-networks-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-artificial-neural-network-tutorial-deep-learning-with-neural-networks-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=fv6Qll3laUU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fv6Qll3laUU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M40S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -846,11 +222,50 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-06T05:37:50Z",
-      "heat": 53,
+      "publishedDateTime": "2018-05-17T14:15:09Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/WZVAfLreIwM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/fv6Qll3laUU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-bias-variance-in-machine-learning-bias-variance-trade-off-machine-learning-training-edureka.md",
+      "title": "Bias-Variance In Machine Learning | Bias Variance Trade Off | Machine Learning Training | Edureka",
+      "excerpt": "** Machine Learning Certification Training: https://www.edureka.co/machine-learning-certification-training  ** This Edureka video on 'Bias Variance In Machine Learning' covers the concept of bias and variance in a machine learning model and how it affects the performance of the model. Following are the",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-bias-variance-in-machine-learning-bias-variance-trade-off-machine-learning-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-bias-variance-in-machine-learning-bias-variance-trade-off-machine-learning-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=Yl8vbEcWxOc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yl8vbEcWxOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M11S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-01-16T04:18:41Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Yl8vbEcWxOc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -886,7 +301,7 @@
         ]
       },
       "publishedDateTime": "2021-08-03T14:19:43Z",
-      "heat": 53,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wZzz9xS5J4k/maxresdefault.jpg",
@@ -904,14 +319,14 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-climate-change-prediction-using-time-series-analysis-python-projects-python-training-edureka.md",
-      "title": "Climate Change Prediction Using Time Series Analysis | Python Projects | Python Training | Edureka",
-      "excerpt": "🔥Edureka Data Science Master Program: https://www.edureka.co/masters-program/data-scientist-certification This Edureka video on \" Climate Change Visualization ” will provide you with a comprehensive and detailed understanding of what is time series analysis and how to apply it to time series data to",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-climate-change-prediction-using-time-series-analysis-python-projects-python-training-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-climate-change-prediction-using-time-series-analysis-python-projects-python-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=ilw2AnNsbIc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ilw2AnNsbIc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M2S",
+      "path": "_learning/videos/edureka-covid-detection-using-deep-learning-covid-detection-with-x-rays-deep-learning-training-edureka.md",
+      "title": "COVID Detection Using Deep Learning | COVID Detection With X-Rays | Deep Learning Training | Edureka",
+      "excerpt": "🔥 Deep Learning Training - TensorFlow Certification(𝐔𝐬𝐞 𝐂𝐨𝐝𝐞: 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎): https://www.edureka.co/ai-deep-learning-with-tensorflow 🔹You can find the code here : https://bit.ly/33WkmSl 🔹 This Edureka video on \"𝐂𝐎𝐕𝐈𝐃 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐔𝐬𝐢𝐧𝐠 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 \" will",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-covid-detection-using-deep-learning-covid-detection-with-x-rays-deep-learning-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-covid-detection-using-deep-learning-covid-detection-with-x-rays-deep-learning-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=OFF2iW73wZg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OFF2iW73wZg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M14S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -924,11 +339,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-03-16T09:01:16Z",
-      "heat": 53,
+      "publishedDateTime": "2021-05-04T12:44:01Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ilw2AnNsbIc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OFF2iW73wZg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -943,31 +358,70 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-how-to-upgrade-your-career-in-2018-career-guidance-and-counselling-for-2018-edurekain.md",
-      "title": "How to Upgrade your Career in 2018 | Career Guidance and Counselling for 2018 | @edurekaIN",
-      "excerpt": "** Edureka Skill Report: http://bit.ly/2Jea6Im ** As the phrase goes \"Change is the Only Constant\" - Technology, business methods, analytics are all changing at a supersonic speed. Yet switching careers is daunting.   Edureka Online Training With 24x7 Lifetime Support : https://www.edureka.co  How do",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-how-to-upgrade-your-career-in-2018-career-guidance-and-counselling-for-2018-edurekain/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-how-to-upgrade-your-career-in-2018-career-guidance-and-counselling-for-2018-edurekain/",
-      "originalUrl": "https://youtube.com/watch?v=AlgJ4qNEPaM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AlgJ4qNEPaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M24S",
+      "path": "_learning/videos/edureka-cross-validation-in-machine-learning-ml-fundamentals-machine-learning-tutorial-edureka.md",
+      "title": "Cross-Validation In Machine Learning | ML Fundamentals | Machine Learning Tutorial | Edureka",
+      "excerpt": "*** Machine Learning Certification Training: https://www.edureka.co/machine-learning-certification-training  *** This Edureka Video on 'Cross-Validation In Machine Learning' covers A brief introduction to Cross-Validation with its various types, limitations, and applications. Following are the topics",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-cross-validation-in-machine-learning-ml-fundamentals-machine-learning-tutorial-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-cross-validation-in-machine-learning-ml-fundamentals-machine-learning-tutorial-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=QupMZFeyETM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QupMZFeyETM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M30S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2017-12-27T15:42:57Z",
-      "heat": 53,
+      "publishedDateTime": "2020-01-06T04:22:38Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AlgJ4qNEPaM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/QupMZFeyETM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-deep-learning-tutorial-deep-learning-tutorial-for-beginners-neural-networks-edureka.md",
+      "title": "Deep Learning Tutorial | Deep Learning Tutorial for Beginners | Neural Networks | Edureka",
+      "excerpt": "( Deep Learning Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) This Edureka \"Deep Learning Tutorial\" video (Blog: https://goo.gl/4zxMfU) will help you to understand about Deep Learning concepts in detail with multiple examples using TensorFlow. This Deep Learning tutorial is ideal",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-deep-learning-tutorial-deep-learning-tutorial-for-beginners-neural-networks-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-deep-learning-tutorial-deep-learning-tutorial-for-beginners-neural-networks-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=nl_4WFHQ4LU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nl_4WFHQ4LU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H24M2S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-15T06:24:48Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nl_4WFHQ4LU/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -982,14 +436,14 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-lstm-explained-what-is-lstm-deep-learning-training-edureka.md",
-      "title": "LSTM Explained | What Is LSTM | Deep Learning Training | Edureka",
-      "excerpt": "🔥Edureka Tensorflow Training: https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka LSTM Explained video will help you in understanding why we need Recurrent Neural Networks (RNN) and what exactly it is. It also explains few issues with training a Recurrent Neural Network and how to overcome",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-lstm-explained-what-is-lstm-deep-learning-training-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-lstm-explained-what-is-lstm-deep-learning-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=zD13uQIgac8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zD13uQIgac8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT55M27S",
+      "path": "_learning/videos/edureka-emoji-prediction-using-lstm-machine-learning-projects-3-machine-learning-training-edureka.md",
+      "title": "Emoji Prediction using LSTM | Machine Learning Projects 3 | Machine Learning Training | Edureka",
+      "excerpt": "🔥 Edureka Machine Learning Certification training (𝐔𝐬𝐞 𝐂𝐨𝐝𝐞: 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎) :  https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka video on '𝐄𝐦𝐨𝐣𝐢 𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧 𝐮𝐬𝐢𝐧𝐠 𝐋𝐒𝐓𝐌' will help you predict emojis using LSTM. Following pointers",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-emoji-prediction-using-lstm-machine-learning-projects-3-machine-learning-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-emoji-prediction-using-lstm-machine-learning-projects-3-machine-learning-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=Obo-7dvmTQI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Obo-7dvmTQI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT33M54S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -1002,11 +456,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-04-09T07:19:30Z",
-      "heat": 53,
+      "publishedDateTime": "2021-07-25T16:01:54Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/zD13uQIgac8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Obo-7dvmTQI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1021,14 +475,14 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-machine-learning-with-python-full-course-in-6-hours-python-for-machine-learning-tutorial-edureka.md",
-      "title": "Machine Learning with Python Full Course in 6 Hours | Python for Machine Learning Tutorial | Edureka",
-      "excerpt": "🔥 Edureka Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka Machine Learning with Python Full Course video will help you understand and learn the fundamentals of Machine Learning. This Machine Learning Tutorial is ideal",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-machine-learning-with-python-full-course-in-6-hours-python-for-machine-learning-tutorial-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-machine-learning-with-python-full-course-in-6-hours-python-for-machine-learning-tutorial-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=0D-PCtUJInE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0D-PCtUJInE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5H44M27S",
+      "path": "_learning/videos/edureka-generate-images-using-dc-gan-generative-adversarial-networks-machine-learning-projects-6edureka.md",
+      "title": "Generate Images Using DC-GAN | Generative Adversarial Networks | Machine Learning Projects 6|Edureka",
+      "excerpt": "🔥 Edureka Machine Learning Certification training (Use Code: YOUTUBE20) :  https://www.edureka.co/masters-program/machine-learning-engineer-training  This Edureka video on 'Generate Images Using DC-Gan's' will give you an overview of Generate Images Using DC-Gan's using Machine Learning and will help",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-generate-images-using-dc-gan-generative-adversarial-networks-machine-learning-projects-6edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-generate-images-using-dc-gan-generative-adversarial-networks-machine-learning-projects-6edureka/",
+      "originalUrl": "https://youtube.com/watch?v=Tv1hNM3B3ig",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tv1hNM3B3ig\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M53S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -1041,11 +495,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-09T12:31:00Z",
-      "heat": 53,
+      "publishedDateTime": "2021-07-30T16:19:33Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0D-PCtUJInE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Tv1hNM3B3ig/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1060,14 +514,14 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-q-learning-explained-reinforcement-learning-using-python-q-learning-in-ai-edureka.md",
-      "title": "Q Learning Explained | Reinforcement Learning Using Python | Q Learning in AI | Edureka",
-      "excerpt": "** Python Data Science Training: https://www.edureka.co/python-programming-certification-training ** This Edureka video on \"Q Learning Explained\" will provide you with a detailed and comprehensive knowledge of Q-Learning and also the various aspects of Q-Learning.   Python Tutorial Playlist: https://goo.gl/WsBpKe",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-q-learning-explained-reinforcement-learning-using-python-q-learning-in-ai-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-q-learning-explained-reinforcement-learning-using-python-q-learning-in-ai-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=DhdUlDIAG7Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DhdUlDIAG7Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M13S",
+      "path": "_learning/videos/edureka-hill-climbing-algorithm-hill-climbing-in-artificial-intelligence-data-science-tutorial-edureka.md",
+      "title": "Hill Climbing Algorithm | Hill Climbing in Artificial Intelligence | Data Science Tutorial | Edureka",
+      "excerpt": "* Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training * Hill Climbing is an Algorithm is one that will find you the best possible solution to your problem in the most reasonable period of time! This tutorial is a complete breakdown of the",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-hill-climbing-algorithm-hill-climbing-in-artificial-intelligence-data-science-tutorial-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-hill-climbing-algorithm-hill-climbing-in-artificial-intelligence-data-science-tutorial-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=_ThdIOA9Lbk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_ThdIOA9Lbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M32S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -1080,11 +534,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-12T05:44:51Z",
-      "heat": 53,
+      "publishedDateTime": "2019-12-31T04:37:45Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/DhdUlDIAG7Y/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_ThdIOA9Lbk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1099,31 +553,31 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka.md",
-      "title": "Top 10 Books for Machine Learning in 2021 | Best ML Books for Beginners And Advanced | Edureka",
-      "excerpt": "** Machine Learning Training:  https://www.edureka.co/data-science-python-certification-course ** This Edureka video on 'Top 10 Best Books for Machine Learning in 2021' will help you out if you are someone who loves to study from books. We have suggestions for the best books for beginners to advanced",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=AdBKfuYbqu4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AdBKfuYbqu4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M6S",
+      "path": "_learning/videos/edureka-how-netflix-uses-python-netflix-and-python-python-applications-edureka.md",
+      "title": "How Netflix uses Python | Netflix and Python | Python Applications | Edureka",
+      "excerpt": "** Python Certification Training: https://www.edureka.co/data-science-python-certification-course **  This Edureka video on  'How Netflix uses Python' is to educate you as to how this media giant makes use of Python for its success. Below are the topics covered in this video:    Introduction to Netflix",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-how-netflix-uses-python-netflix-and-python-python-applications-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-how-netflix-uses-python-netflix-and-python-python-applications-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=onFobjvGgZI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/onFobjvGgZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M47S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-11-14T14:32:18Z",
-      "heat": 53,
+      "publishedDateTime": "2019-06-24T14:33:22Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AdBKfuYbqu4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/onFobjvGgZI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1138,14 +592,490 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-top-10-reasons-to-learn-data-science-in-2021-why-data-science-data-science-training-edureka.md",
-      "title": "Top 10 Reasons to Learn Data Science in 2021 | Why Data Science? | Data Science Training | Edureka",
-      "excerpt": "** Data Science Training with R : https://www.edureka.co/data-science-r-programming-certification-course ** ** Data Science Training with Python: https://www.edureka.co/python-programming-certification-training ** This Edureka video on \"Top 10 reasons to learn Data Science in 2021\" will give you enough",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-reasons-to-learn-data-science-in-2021-why-data-science-data-science-training-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-reasons-to-learn-data-science-in-2021-why-data-science-data-science-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=qOraDpY3Ta0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qOraDpY3Ta0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M22S",
+      "path": "_learning/videos/edureka-how-to-become-a-machine-learning-engineer-machine-learning-engineer-salary-edureka.md",
+      "title": "How To Become A Machine Learning Engineer? | Machine Learning Engineer Salary | Edureka",
+      "excerpt": "** Machine Learning Master's Program: https://www.edureka.co/masters-program/machine-learning-engineer-training ** This Edureka live session on \"How to become a Machine Learning Engineer\" covers all the basic aspects of becoming a certified Machine Learning Engineer. It establishes the concepts like",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-how-to-become-a-machine-learning-engineer-machine-learning-engineer-salary-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-how-to-become-a-machine-learning-engineer-machine-learning-engineer-salary-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=cA_94ewJloI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cA_94ewJloI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M44S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-12-04T11:45:55Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cA_94ewJloI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-how-to-select-the-correct-predictive-modeling-technique-machine-learning-training-edureka.md",
+      "title": "How to Select the Correct Predictive Modeling Technique | Machine Learning Training | Edureka",
+      "excerpt": "🔥Edureka Machine Learning Certification Training: https://www.edureka.co/machine-learning-certification-training This Edureka video on 'Selecting The Correct Predictive Modeling Technique' covers the various deciding factors to choose the correct predictive modeling technique. Following are the topics",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-how-to-select-the-correct-predictive-modeling-technique-machine-learning-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-how-to-select-the-correct-predictive-modeling-technique-machine-learning-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=1xw915rbyG4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1xw915rbyG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M7S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-01T10:02:13Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1xw915rbyG4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-introduction-to-tensorflow-20-tensorflow-20-features-and-changes-edureka.md",
+      "title": "Introduction to Tensorflow 2.0 | Tensorflow 2.0 Features and Changes | Edureka",
+      "excerpt": "** AI and Deep Learning with TensorFlow - https://www.edureka.co/ai-deep-learning-with-tensorflow ** This video will provide you with a short and summarized knowledge of tensorflow 2.0 alpha, what all changes have been made and how is it better from the previous version.   0:55 TensorFlow 2.0 1:50 Shortcomings/Problems",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-introduction-to-tensorflow-20-tensorflow-20-features-and-changes-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-introduction-to-tensorflow-20-tensorflow-20-features-and-changes-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=3O-5DuqKaRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3O-5DuqKaRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M51S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-04-08T05:41:09Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3O-5DuqKaRo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-jupyter-notebook-tutorial-introduction-to-jupyter-notebook-python-training-edureka.md",
+      "title": "Jupyter Notebook Tutorial | Introduction to Jupyter Notebook | Python Training | Edureka",
+      "excerpt": "🔥 Python Certification Training: https://www.edureka.co/python-programming-certification-training  This video on Jupyter Notebook provides you with detailed and comprehensive knowledge of one of the most important tool, Jupyter Notebook. It covers the installation and usage of the notebook, by explaining",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-jupyter-notebook-tutorial-introduction-to-jupyter-notebook-python-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-jupyter-notebook-tutorial-introduction-to-jupyter-notebook-python-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=fiQTb7-rCPo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fiQTb7-rCPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M17S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-03-25T14:15:18Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fiQTb7-rCPo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-python-certification-data-science-with-python-certification-python-online-training-edureka.md",
+      "title": "Python Certification | Data Science with Python Certification | Python Online Training | Edureka",
+      "excerpt": "🔵 Python for Data Science Training : https://www.edureka.co/data-science-python-certification-course This Edureka video on \"Python Certification\" will give you a complete insight of Python Certification, how to crack it and hands-on knowledge on various real-time projects offered by Edureka Python Certification",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-python-certification-data-science-with-python-certification-python-online-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-python-certification-data-science-with-python-certification-python-online-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=rwuXmw5hxOU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwuXmw5hxOU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M6S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-12-25T17:20:07Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rwuXmw5hxOU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-python-programming-language-interesting-facts-you-need-to-know-python-training-edureka.md",
+      "title": "Python Programming Language: Interesting Facts You Need To Know | Python Training | Edureka",
+      "excerpt": "** Python Certification Training: https://www.edureka.co/data-science-python-certification-course **   Meet Python, a friendly programming language and get to know interesting facts about it. This is a short story about Python as a trending language.  #python #pythonlanguage #pythononlinetraining  Check",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-python-programming-language-interesting-facts-you-need-to-know-python-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-python-programming-language-interesting-facts-you-need-to-know-python-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=sn4eOEfaYRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sn4eOEfaYRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M6S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-10-07T09:46:00Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sn4eOEfaYRo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-python-projects-for-beginners-python-projects-examples-python-tutorial-edureka.md",
+      "title": "Python Projects For Beginners | Python Projects Examples | Python Tutorial | Edureka",
+      "excerpt": "🔵 Edureka Python Certification Training: https://www.edureka.co/python-programming-certification-training This Edureka video on Python Projects will help you establish a foothold on Python by helping you assess and obtain skills which are used to design, develop and analyze projects built in Python.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-python-projects-for-beginners-python-projects-examples-python-tutorial-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-python-projects-for-beginners-python-projects-examples-python-tutorial-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=NKVOjPHfiSA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NKVOjPHfiSA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M16S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-14T15:13:41Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NKVOjPHfiSA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-restricted-boltzmann-machine-neural-network-tutorial-deep-learning-tutorial-edureka.md",
+      "title": "Restricted Boltzmann Machine | Neural Network Tutorial | Deep Learning Tutorial | Edureka",
+      "excerpt": "** AI & Deep Learning with Tensorflow Training:  https://www.edureka.co/ai-deep-learning-with-tensorflow  ** This Edureka video on \"Restricted Boltzmann Machine\" will provide you with a detailed and comprehensive knowledge of Restricted Boltzmann Machines, also known as RBM. You will also get to know",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-restricted-boltzmann-machine-neural-network-tutorial-deep-learning-tutorial-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-restricted-boltzmann-machine-neural-network-tutorial-deep-learning-tutorial-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=i64KpxyaLpo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i64KpxyaLpo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M12S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-10-18T05:47:58Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/i64KpxyaLpo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-stock-prediction-using-machine-learning-and-python-machine-learning-training-edureka.md",
+      "title": "Stock Prediction using Machine Learning and Python | Machine Learning Training | Edureka",
+      "excerpt": "🔥NIT Warangal Post Graduate Program in AI & Machine Learning with Edureka: https://www.edureka.co/nitw-ai-ml-pgp This Edureka \"Stock Prediction using Machine Learning\" takes you through the basic process of predicting the trends of stock prices using machine learning architecture of LSTM while also",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-stock-prediction-using-machine-learning-and-python-machine-learning-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-stock-prediction-using-machine-learning-and-python-machine-learning-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=lncoLfue_Y4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lncoLfue_Y4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M5S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-24T08:09:16Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lncoLfue_Y4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-tensorflow-full-course-learn-tensorflow-in-3-hours-tensorflow-tutorial-for-beginners-edureka.md",
+      "title": "TensorFlow Full Course | Learn TensorFlow in 3 Hours | TensorFlow Tutorial For Beginners | Edureka",
+      "excerpt": "** TensorFlow Training (Use Code: YOUTUBE20): https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka TensorFlow Full Course video is a complete guide to Deep Learning using TensorFlow. It covers in-depth knowledge about Deep Leaning, Tensorflow & Neural Networks. Below are the topics",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-tensorflow-full-course-learn-tensorflow-in-3-hours-tensorflow-tutorial-for-beginners-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-tensorflow-full-course-learn-tensorflow-in-3-hours-tensorflow-tutorial-for-beginners-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=DFKHh7_zzJc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DFKHh7_zzJc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3H11M41S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-04-20T18:36:39Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DFKHh7_zzJc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-tensorflow-object-detection-realtime-object-detection-with-tensorflow-tensorflow-python-edureka.md",
+      "title": "TensorFlow Object Detection | Realtime Object Detection with TensorFlow | TensorFlow Python |Edureka",
+      "excerpt": "** AI & Deep Learning Using TensorFlow - https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video will provide you with a detailed and comprehensive knowledge of TensorFlow Object detection and how it works. It will also provide you with the details on how to use Tensorflow to detect",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-tensorflow-object-detection-realtime-object-detection-with-tensorflow-tensorflow-python-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-tensorflow-object-detection-realtime-object-detection-with-tensorflow-tensorflow-python-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=wh7_etX91ls",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wh7_etX91ls\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M16S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-06T15:40:30Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wh7_etX91ls/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-tensorflow-tutorial-deep-learning-using-tensorflow-tensorflow-tutorial-python-edureka.md",
+      "title": "TensorFlow Tutorial | Deep Learning Using TensorFlow | TensorFlow Tutorial Python | Edureka",
+      "excerpt": "** Flat 20% Off (Use Code: YOUTUBE) TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka TensorFlow Tutorial video (Blog: https://goo.gl/4zxMfU) will help you in understanding various important basics of TensorFlow. It also includes a use-case in which we will",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-tensorflow-tutorial-deep-learning-using-tensorflow-tensorflow-tutorial-python-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-tensorflow-tutorial-deep-learning-using-tensorflow-tensorflow-tutorial-python-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=yX8KuPZCAMo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yX8KuPZCAMo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M57S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-15T06:24:48Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yX8KuPZCAMo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-top-10-applications-of-machine-learning-in-2024-machine-learning-application-examples-edureka.md",
+      "title": "Top 10 Applications of Machine Learning in 2024 | Machine Learning Application Examples | Edureka",
+      "excerpt": "Machine Learning Training with Python: https://www.edureka.co/data-science-python-certification-course This \"Top 10 Applications of Machine Learning in 2024\" video will give you an idea of how vast the machine learning is and how commonly you are using it in your day to day life.   Check out our playlist",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-applications-of-machine-learning-in-2024-machine-learning-application-examples-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-applications-of-machine-learning-in-2024-machine-learning-application-examples-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=ahRcGObyEZo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ahRcGObyEZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M59S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -1158,11 +1088,90 @@
           }
         ]
       },
-      "publishedDateTime": "2018-05-13T12:47:12Z",
-      "heat": 53,
+      "publishedDateTime": "2018-07-25T13:36:02Z",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qOraDpY3Ta0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ahRcGObyEZo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-transformers-neural-networks-explained-nlp-with-deep-learning-deep-learning-course-edureka.md",
+      "title": "Transformers Neural Networks Explained | NLP with Deep Learning | Deep Learning Course | Edureka",
+      "excerpt": "🔥Edureka Tensorflow Training (Use Code \"𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎\"):  https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka \"𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫𝐬 𝐍𝐞𝐮𝐫𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 𝐄𝐱𝐩𝐥𝐚𝐢𝐧𝐞𝐝\" video will help you in understanding why we need Transformers and what exactly it is. It also",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-transformers-neural-networks-explained-nlp-with-deep-learning-deep-learning-course-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-transformers-neural-networks-explained-nlp-with-deep-learning-deep-learning-course-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=BK9C98J-JHw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BK9C98J-JHw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M1S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-05-21T11:02:12Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BK9C98J-JHw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-twitter-sentiment-analysis-sentiment-analysis-in-python-using-tweepy-and-textblob-edureka.md",
+      "title": "Twitter Sentiment Analysis | Sentiment Analysis In Python Using Tweepy and Textblob | Edureka",
+      "excerpt": "( Machine Learning Training with Python: https://www.edureka.co/python ) Basics of Sentiment Analysis (First Part): https://goo.gl/wsXipF  This video on Twitter Sentiment Analysis using Python will help you fetch your tweets to Python and perform Sentiment Analysis on it. Stay tuned for more videos on",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-twitter-sentiment-analysis-sentiment-analysis-in-python-using-tweepy-and-textblob-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-twitter-sentiment-analysis-sentiment-analysis-in-python-using-tweepy-and-textblob-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=27P268Q7pE0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/27P268Q7pE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M39S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-10T06:00:06Z",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/27P268Q7pE0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

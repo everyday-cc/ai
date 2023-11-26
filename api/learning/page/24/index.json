@@ -4,32 +4,21 @@
   "page": 24,
   "value": [
     {
-      "path": "_learning/books/amazon-linear-algebra-step-by-step.md",
-      "title": "Linear Algebra: Step by Step",
-      "excerpt": "Linear algebra is a fundamental area of mathematics, and is arguably the most powerful mathematical tool ever developed. It is a core topic of study within fields as diverse as: business, economics, engineering, physics, computer science, ecology, sociology, demography and genetics.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-linear-algebra-step-by-step/index.json",
-      "webUrl": "https://www.amazon.com/Linear-Algebra-Step-Kuldeep-Singh-ebook/dp/B016WNBNGI/",
-      "ratings": {
-        "count": 132,
-        "average": 4.8
-      },
+      "path": "_learning/courses/microsoft-learn-recognize-specific-voices-with-the-speaker-recognition-apis-in-azure-cognitive-services.md",
+      "title": "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services",
+      "excerpt": "Learn how to use the Speaker Recognition APIs to identify specific people through their voices.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/microsoft-learn-recognize-specific-voices-with-the-speaker-recognition-apis-in-azure-cognitive-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-voices-with-speaker-recognition/",
+      "length": "0:52",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Kuldeep Singh",
-            "type": "profile",
-            "name": "Kuldeep Singh"
           }
         ]
       },
@@ -39,50 +28,37 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/71dfHU9VTEL._AC_UY218_ML3_.jpg",
-          "width": 168,
-          "height": 218,
-          "title": "Linear Algebra: Step by Step",
+          "url": "https://docs.microsoft.com/en-us/learn/achievements/data-ai/recognize-voices-with-speaker-recognition-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services",
           "isCached": false
         }
       ],
       "content": "",
-      "type": "book",
-      "price": "$37.72",
+      "type": "course",
+      "price": "Free",
       "topics": [
         "AI",
-        "Math for AI",
-        "Machine Learning",
-        "Google AI"
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_learning/books/amazon-machine-learning-mathematics-study-deep-learning-through-data-science.md",
-      "title": "Machine Learning Mathematics: Study Deep Learning Through Data Science",
-      "excerpt": "Master the World of Machine Learning – Even if You’re a Complete Beginner.  Are you an aspiring entrepreneur? Or are you an amateur software developer looking for a break in the world of machine learning? Then this is the book for you.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-machine-learning-mathematics-study-deep-learning-through-data-science/index.json",
-      "webUrl": "https://www.amazon.com/Machine-Learning-Mathematics-Artificial-Intelligence-ebook/dp/B07Z413J9J/",
-      "ratings": {
-        "count": 25,
-        "average": 4.5
-      },
+      "path": "_learning/courses/microsoft-learn-translate-speech-in-real-time-with-azure-cognitive-services.md",
+      "title": "Translate speech in real time with Azure Cognitive Services",
+      "excerpt": "Learn how to translate speech and convert it to text through real-time transcription with the Speech Translation API in Azure Cognitive Services.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/microsoft-learn-translate-speech-in-real-time-with-azure-cognitive-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/",
+      "length": "0:42",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Samuel Hack",
-            "type": "profile",
-            "name": "Samuel Hack"
           }
         ]
       },
@@ -92,627 +68,36 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/91jusWlaXVL._AC_UY218_ML3_.jpg",
-          "width": 145,
-          "height": 218,
-          "title": "Machine Learning Mathematics: Study Deep Learning Through Data Science. How to Build Artificial Intelligence Through Concepts of Statistics, Algorithms, Analysis and Data Mining",
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/convert-speech-to-text-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Translate speech in real time with Azure Cognitive Services",
           "isCached": false
         }
       ],
       "content": "",
-      "type": "book",
-      "price": "$19.38",
+      "type": "course",
       "topics": [
         "AI",
-        "Machine Learning",
-        "Math for AI"
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_learning/books/amazon-machine-learning-the-absolute-complete-beginners-guide-to-learn-and-understand-machine-learning-from-beginners-intermediate-advanced-to-expert-concepts.md",
-      "title": "Machine Learning: The Absolute Complete Beginner’s Guide to Learn and Understand Machine Learning From Beginners, Intermediate, Advanced, To Expert Concepts",
-      "excerpt": "In this book, you find out types of machine learning techniques, models, and algorithms that can help achieve results for your company. This data helps each business and technical leaders find out how to use machine learning to anticipate and predict the future.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-machine-learning-the-absolute-complete-beginners-guide-to-learn-and-understand-machine-learning-from-beginners-intermediate-advanced-to-expert-concepts/index.json",
-      "webUrl": "https://www.amazon.com/Machine-Learning-Beginners-Understand-Intermediate-ebook/dp/B07RHG1WGF/",
-      "ratings": {
-        "count": 12,
-        "average": 3.5
-      },
+      "path": "_learning/courses/mit-deep-learning-for-self-driving-cars.md",
+      "title": "MIT 6.S094: Deep Learning for Self-Driving Cars",
+      "excerpt": "This class is an introduction to the practice of deep learning through the applied theme of building a self-driving car. It is open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/mit-deep-learning-for-self-driving-cars/index.json",
+      "webUrl": "https://selfdrivingcars.mit.edu/",
+      "length": "2 weeks",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "MIT",
+        "domain": "mit.edu",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Steven Samelson",
-            "type": "profile",
-            "name": "Steven Samelson"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced",
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/81xbTFIyCmL._AC_UY218_ML3_.jpg",
-          "width": 136,
-          "height": 218,
-          "title": "Machine Learning: The Absolute Complete Beginner’s Guide to Learn and Understand Machine Learning From Beginners, Intermediate, Advanced, To Expert Concepts",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$18.59",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-machine-learning-with-r-expert-techniques-for-predictive-modeling-3rd-edition.md",
-      "title": "Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition",
-      "excerpt": "Third edition of the bestselling, widely acclaimed R machine learning book, updated and improved for R 3.6 and beyond",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-machine-learning-with-r-expert-techniques-for-predictive-modeling-3rd-edition/index.json",
-      "webUrl": "https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1788295862/",
-      "ratings": {
-        "count": 41,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Brett Lantz",
-            "type": "profile",
-            "name": "Brett Lantz"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/71FSR2wHzhL._AC_UY218_ML3_.jpg",
-          "width": 177,
-          "height": 218,
-          "title": "Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$35.99",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-multiple-view-geometry-in-computer-vision.md",
-      "title": "Multiple View Geometry in Computer Vision",
-      "excerpt": "A basic problem in computer vision is to understand the structure of a real world scene. This book covers relevant geometric principles and how to represent objects algebraically so they can be computed and applied. Recent major developments in the theory and practice of scene reconstruction are described in detail in a unified framework. Richard Hartley and Andrew Zisserman provide comprehensive background material and explain how to apply the methods and implement the algorithms. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-multiple-view-geometry-in-computer-vision/index.json",
-      "webUrl": "https://www.amazon.com/Multiple-View-Geometry-Computer-Vision/dp/0521540518/",
-      "ratings": {
-        "count": 38,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Richard Hartley",
-            "type": "profile",
-            "name": "Richard Hartley"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/61OZ9p95mqL._AC_UY218_ML3_.jpg",
-          "width": 152,
-          "height": 218,
-          "title": "Multiple View Geometry in Computer Vision",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$92.19",
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-numsense-data-science-for-the-layman-no-math-added.md",
-      "title": "Numsense! Data Science for the Layman: No Math Added",
-      "excerpt": "This book has been written in layman's terms as a gentle introduction to data science and its algorithms. Each algorithm has its own dedicated chapter that explains how it works, and shows an example of a real-world application. To help you grasp key concepts, we stick to intuitive explanations and visuals. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-numsense-data-science-for-the-layman-no-math-added/index.json",
-      "webUrl": "https://www.amazon.com/Numsense-Data-Science-Layman-Added-ebook/dp/B01N29ZEM6/",
-      "ratings": {
-        "count": 154,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Annalyn Ng",
-            "type": "profile",
-            "name": "Annalyn Ng"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/71IWFmZDhcL._AC_UY218_ML3_.jpg",
-          "width": 160,
-          "height": 218,
-          "title": "Numsense! Data Science for the Layman: No Math Added",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$27.54",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-opencv-with-python-blueprints.md",
-      "title": "OpenCV with Python Blueprints",
-      "excerpt": "Design and develop advanced computer vision projects using OpenCV with Python",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-opencv-with-python-blueprints/index.json",
-      "webUrl": "https://www.amazon.com/OpenCV-Python-Blueprints-Michael-Beyeler/dp/1785282697/",
-      "ratings": {
-        "count": 14,
-        "average": 3.9
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Michael Beyeler",
-            "type": "profile",
-            "name": "Michael Beyeler"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/51aUGE1GaZL._AC_UY218_ML3_.jpg",
-          "width": 177,
-          "height": 218,
-          "title": "OpenCV with Python Blueprints",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$37.49",
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-our-final-invention-artificial-intelligence-and-the-end-of-the-human-era.md",
-      "title": "Our Final Invention: Artificial Intelligence and the End of the Human Era",
-      "excerpt": "In as little as a decade, artificial intelligence could match and then surpass human intelligence. Corporations and government agencies around the world are pouring billions into achieving AI's Holy Grail―human-level intelligence. Once AI has attained it, scientists argue, it will have survival drives much like our own. We may be forced to compete with a rival more cunning, more powerful, and more alien than we can imagine.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-our-final-invention-artificial-intelligence-and-the-end-of-the-human-era/index.json",
-      "webUrl": "https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/1250058783/",
-      "ratings": {
-        "count": 467,
-        "average": 4.1
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "James Barrat",
-            "type": "profile",
-            "name": "James Barrat"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/41ozMLdzJHL._AC_UY218_ML3_.jpg",
-          "width": 146,
-          "height": 218,
-          "title": "Our Final Invention: Artificial Intelligence and the End of the Human Era",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$10.88",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-pattern-recognition-and-machine-learning-information-science-and-statistics.md",
-      "title": "Pattern Recognition and Machine Learning (Information Science and Statistics)",
-      "excerpt": "This is the first textbook on pattern recognition to present the Bayesian viewpoint. The book presents approximate inference algorithms that permit fast approximate answers in situations where exact answers are not feasible. It uses graphical models to describe probability distributions when no other books apply graphical models to machine learning. No previous knowledge of pattern recognition or machine learning concepts is assumed. Familiarity with multivariate calculus and basic linear algebra is required, and some experience in the use of probabilities would be helpful though not essential as the book includes a self-contained introduction to basic probability theory.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-pattern-recognition-and-machine-learning-information-science-and-statistics/index.json",
-      "webUrl": "https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/",
-      "ratings": {
-        "count": 324,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Christopher M. Bishop",
-            "type": "profile",
-            "name": "Christopher M. Bishop"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate",
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/61FKyOeM7KL._AC_UY218_ML3_.jpg",
-          "width": 161,
-          "height": 218,
-          "title": "Pattern Recognition and Machine Learning (Information Science and Statistics)",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$50.76",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-practical-automated-machine-learning-on-azure-using-azure-machine-learning-to-quickly-build-ai-solutions.md",
-      "title": "Practical Automated Machine Learning on Azure: Using Azure Machine Learning to Quickly Build AI Solutions",
-      "excerpt": "Develop smart applications without spending days and weeks building machine-learning models. With this practical book, you’ll learn how to apply Automated Machine Learning, a process that uses machine learning to help people build machine learning models. Deepak Mukunthu, Parashar Shah, and Wee Hyong Tok provide a mix of technical depth, hands-on examples, and case studies that show how customers are solving real-world problems with this technology.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-practical-automated-machine-learning-on-azure-using-azure-machine-learning-to-quickly-build-ai-solutions/index.json",
-      "webUrl": "https://www.amazon.com/Practical-Automated-Machine-Learning-Azure/dp/149205559X/",
-      "ratings": {
-        "count": 3,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Deepak Mukunthu",
-            "type": "profile",
-            "name": "Deepak Mukunthu"
-          },
-          {
-            "path": "",
-            "title": "Parashar Shah",
-            "type": "profile",
-            "name": "Parashar Shah"
-          },
-          {
-            "path": "",
-            "title": "Wee Hyong Tok",
-            "type": "profile",
-            "name": "Wee Hyong Tok"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/81-SGy1qqGL._AC_UY218_ML3_.jpg",
-          "width": 166,
-          "height": 218,
-          "title": "Practical Automated Machine Learning on Azure: Using Azure Machine Learning to Quickly Build AI Solutions",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$44.65",
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-practical-statistics-for-data-scientists-50-essential-concepts.md",
-      "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
-      "excerpt": "Statistical methods are a key part of data science, yet very few data scientists have any formal statistics training. Courses and books on basic statistics rarely cover the topic from a data science perspective. This practical guide explains how to apply various statistical methods to data science, tells you how to avoid their misuse, and gives you advice on what's important and what's not.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-practical-statistics-for-data-scientists-50-essential-concepts/index.json",
-      "webUrl": "https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/",
-      "ratings": {
-        "count": 173,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Peter Bruce",
-            "type": "profile",
-            "name": "Peter Bruce"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/91-41U+btKL._AC_UY218_ML3_.jpg",
-          "width": 166,
-          "height": 218,
-          "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$28.40",
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-practical-time-series-analysis-prediction-with-statistics-and-machine-learning.md",
-      "title": "Practical Time Series Analysis: Prediction with Statistics and Machine Learning",
-      "excerpt": "Time series data analysis is increasingly important due to the massive production of such data through the internet of things, the digitalization of healthcare, and the rise of smart cities. As continuous monitoring and data collection become more common, the need for competent time series analysis with both statistical and machine learning techniques will increase.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-practical-time-series-analysis-prediction-with-statistics-and-machine-learning/index.json",
-      "webUrl": "https://www.amazon.com/Practical-Time-Analysis-Prediction-Statistics/dp/1492041653/",
-      "ratings": {
-        "count": 24,
-        "average": 3.9
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Aileen Nielsen",
-            "type": "profile",
-            "name": "Aileen Nielsen"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/91vNT0C2lrL._AC_UY218_ML3_.jpg",
-          "width": 166,
-          "height": 218,
-          "title": "Practical Time Series Analysis: Prediction with Statistics and Machine Learning",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$42.99",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-prediction-machines-the-simple-economics-of-artificial-intelligence.md",
-      "title": "Prediction Machines: The Simple Economics of Artificial Intelligence",
-      "excerpt": "Artificial intelligence does the seemingly impossible, magically bringing machines to life--driving cars, trading stocks, and teaching children. But facing the sea change that AI will bring can be paralyzing. How should companies set strategies, governments design policies, and people plan their lives for a world so different from what we know? In the face of such uncertainty, many analysts either cower in fear or predict an impossibly sunny future.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-prediction-machines-the-simple-economics-of-artificial-intelligence/index.json",
-      "webUrl": "https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670/",
-      "ratings": {
-        "count": 184,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Ajay Agrawal",
-            "type": "profile",
-            "name": "Ajay Agrawal"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/41qb3jwhk-L._AC_UY218_ML3_.jpg",
-          "width": 145,
-          "height": 218,
-          "title": "Prediction Machines: The Simple Economics of Artificial Intelligence",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$18.39",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-predictive-analytics-the-power-to-predict-who-will-click-buy-lie-or-die.md",
-      "title": "Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die",
-      "excerpt": "An introduction for everyone. In this rich, fascinating — surprisingly accessible — introduction, leading expert Eric Siegel reveals how predictive analytics (aka machine learning) works, and how it affects everyone every day. Rather than a “how to” for hands-on techies, the book serves lay readers and experts alike by covering new case studies and the latest state-of-the-art techniques.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-predictive-analytics-the-power-to-predict-who-will-click-buy-lie-or-die/index.json",
-      "webUrl": "https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1119145678/",
-      "ratings": {
-        "count": 211,
-        "average": 4.0
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Eric Siegel",
-            "type": "profile",
-            "name": "Eric Siegel"
           }
         ]
       },
@@ -723,100 +108,38 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/51JX7J+2QeL._AC_UY218_ML3_.jpg",
-          "width": 145,
-          "height": 218,
-          "title": "Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die",
+          "url": "https://i.ytimg.com/vi_webp/O5xeyoRL95U/hqdefault.webp",
+          "width": 480,
+          "height": 360,
+          "title": "MIT 6.S094: Deep Learning for Self-Driving Cars",
           "isCached": false
         }
       ],
       "content": "",
-      "type": "book",
-      "price": "$19.99",
+      "type": "course",
+      "price": "Free",
       "topics": [
         "AI",
+        "AI in Autos",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-programming-computer-vision-with-python-tools-and-algorithms-for-analyzing-images.md",
-      "title": "Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images",
-      "excerpt": "If you want a basic understanding of computer vision’s underlying theory and algorithms, this hands-on introduction is the ideal place to start. You’ll learn techniques for object recognition, 3D reconstruction, stereo imaging, augmented reality, and other computer vision applications as you follow clear examples written in Python.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-programming-computer-vision-with-python-tools-and-algorithms-for-analyzing-images/index.json",
-      "webUrl": "https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549/",
-      "ratings": {
-        "count": 34,
-        "average": 3.9
-      },
+      "path": "_learning/courses/mit-linear-algebra.md",
+      "title": "Linear Algebra",
+      "excerpt": "This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/mit-linear-algebra/index.json",
+      "webUrl": "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/",
+      "length": "10 weeks",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "MIT",
+        "domain": "mit.edu",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Jan Erik Solem",
-            "type": "profile",
-            "name": "Jan Erik Solem"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/712sPsQBu1L._AC_UY218_ML3_.jpg",
-          "width": 164,
-          "height": 218,
-          "title": "Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$38.66",
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-r-for-data-science-import-tidy-transform-visualize-and-model-data.md",
-      "title": "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",
-      "excerpt": "Learn how to use R to turn raw data into insight, knowledge, and understanding. This book introduces you to R, RStudio, and the tidyverse, a collection of R packages designed to work together to make data science fast, fluent, and fun. Suitable for readers with no previous programming experience, R for Data Science is designed to get you doing data science as quickly as possible.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-r-for-data-science-import-tidy-transform-visualize-and-model-data/index.json",
-      "webUrl": "https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/",
-      "ratings": {
-        "count": 386,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Hadley Wickham",
-            "type": "profile",
-            "name": "Hadley Wickham"
           }
         ]
       },
@@ -826,313 +149,65 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/71PFVFcIXnL._AC_UY218_ML3_.jpg",
-          "width": 134,
-          "height": 218,
-          "title": "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",
+          "url": "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/instructor-insights/an-interview-with-gilbert-strang-on-teaching-linear-algebra/18.06.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Linear Algebra",
           "isCached": false
         }
       ],
       "content": "",
-      "type": "book",
-      "price": "$38.79",
+      "type": "course",
       "topics": [
         "AI",
-        "Machine Learning"
+        "Math for AI"
       ]
     },
     {
-      "path": "_learning/books/amazon-statistical-learning-with-sparsity-the-lasso-and-generalizations-chapman-amp-hallcrc-monographs-on-statistics-and-applied-probability.md",
-      "title": "Statistical Learning with Sparsity: The Lasso and Generalizations (Chapman & Hall/CRC Monographs on Statistics and Applied Probability)",
-      "excerpt": "A sparse statistical model has only a small number of nonzero parameters or weights; therefore, it is much easier to estimate and interpret than a dense model. Statistical Learning with Sparsity: The Lasso and Generalizations presents methods that exploit sparsity to help recover the underlying signal in a set of data.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-statistical-learning-with-sparsity-the-lasso-and-generalizations-chapman-amp-hallcrc-monographs-on-statistics-and-applied-probability/index.json",
-      "webUrl": "https://www.amazon.com/Statistical-Learning-Sparsity-Generalizations-Probability/dp/1498712169/",
-      "ratings": {
-        "count": 11,
-        "average": 4.8
-      },
+      "path": "_learning/courses/oxford-deep-learning-for-natural-language-processing-2017.md",
+      "title": "Oxford Deep NLP 2017 course",
+      "excerpt": "This is an advanced course on natural language processing. Automatically processing natural language inputs and producing language outputs is a key component of Artificial General Intelligence. The ambiguities and noise inherent in human communication render traditional symbolic AI techniques ineffective for representing and analysing language data. Recently statistical techniques based on neural networks have achieved a number of remarkable successes in natural language processing leading to a great deal of commercial and academic interest in the field",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/oxford-deep-learning-for-natural-language-processing-2017/index.json",
+      "webUrl": "https://github.com/oxford-cs-deepnlp-2017/lectures",
+      "length": "3 months",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Trevor Hastie",
-            "type": "profile",
-            "name": "Trevor Hastie"
-          }
-        ]
+        "name": "Oxford",
+        "domain": "ox.ac.uk"
       },
       "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/51Q6p6XXw3L._AC_UY218_ML3_.jpg",
-          "width": 142,
-          "height": 218,
-          "title": "Statistical Learning with Sparsity: The Lasso and Generalizations (Chapman & Hall/CRC Monographs on Statistics and Applied Probability)",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$83.05",
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-superintelligence-paths-dangers-strategies.md",
-      "title": "Superintelligence: Paths, Dangers, Strategies",
-      "excerpt": "Superintelligence asks the questions: What happens when machines surpass humans in general intelligence? Will artificial agents save or destroy us? Nick Bostrom lays the foundation for understanding the future of humanity and intelligent life.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-superintelligence-paths-dangers-strategies/index.json",
-      "webUrl": "https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/",
-      "ratings": {
-        "count": 862,
-        "average": 4.1
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Nick Bostrom",
-            "type": "profile",
-            "name": "Nick Bostrom"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/81NHfj5hhgL._AC_UY218_ML3_.jpg",
-          "width": 143,
-          "height": 218,
-          "title": "Superintelligence: Paths, Dangers, Strategies",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$9.99",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-the-book-of-why-the-new-science-of-cause-and-effect.md",
-      "title": "The Book of Why: The New Science of Cause and Effect",
-      "excerpt": "A Turing Award-winning computer scientist and statistician shows how understanding causality has revolutionized science and will revolutionize artificial intelligence",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-book-of-why-the-new-science-of-cause-and-effect/index.json",
-      "webUrl": "https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/",
-      "ratings": {
-        "count": 295,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Judea Pearl",
-            "type": "profile",
-            "name": "Judea Pearl"
-          },
-          {
-            "path": "",
-            "title": "Dana Mackenzie",
-            "type": "profile",
-            "name": "Dana Mackenzie"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/41GY4+3eAyL._AC_UY218_ML3_.jpg",
-          "width": 119,
-          "height": 218,
-          "title": "The Book of Why: The New Science of Cause and Effect",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$19.16",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-the-driver-in-the-driverless-car-how-your-technology-choices-create-the-future.md",
-      "title": "The Driver in the Driverless Car: How Your Technology Choices Create the Future",
-      "excerpt": "Tech experts Vivek Wadhwa and Alex Salkever describe dozens of astonishing technological advances in this fascinating and thought-provoking book, which asks what kind of future lies ahead—Star Trek or Mad Max?",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-driver-in-the-driverless-car-how-your-technology-choices-create-the-future/index.json",
-      "webUrl": "https://www.amazon.com/Driver-Driverless-Car-Technology-Choices-ebook/dp/B07PM8QWP9/",
-      "ratings": {
-        "count": 47,
-        "average": 4.2
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Vivek Wadhwa",
-            "type": "profile",
-            "name": "Vivek Wadhwa"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/71V1qmWUoFL._AC_UY218_ML3_.jpg",
-          "width": 141,
-          "height": 218,
-          "title": "The Driver in the Driverless Car: How Your Technology Choices Create the Future",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$11.99",
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-the-elements-of-statistical-learning-data-mining-inference-and-prediction-second-edition-springer-series-in-statistics.md",
-      "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",
-      "excerpt": "This book describes the important ideas in a variety of fields such as medicine, biology, finance, and marketing in a common conceptual framework. While the approach is statistical, the emphasis is on concepts rather than mathematics. Many examples are given, with a liberal use of colour graphics. It is a valuable resource for statisticians and anyone interested in data mining in science or industry. The book's coverage is broad, from supervised learning (prediction) to unsupervised learning. The many topics include neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-elements-of-statistical-learning-data-mining-inference-and-prediction-second-edition-springer-series-in-statistics/index.json",
-      "webUrl": "https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/",
-      "ratings": {
-        "count": 325,
-        "average": 4.2
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Trevor Hastie",
-            "type": "profile",
-            "name": "Trevor Hastie"
-          },
-          {
-            "path": "",
-            "title": "Robert Tibshirani",
-            "type": "profile",
-            "name": "Robert Tibshirani"
-          },
-          {
-            "path": "",
-            "title": "Jerome Friedman",
-            "type": "profile",
-            "name": "Jerome Friedman"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate",
         "Advanced"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/41aQrQaPseL._AC_UY218_ML3_.jpg",
-          "width": 145,
-          "height": 218,
-          "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",
+          "url": "https://pbs.twimg.com/profile_images/1055770897091649536/1qDq-m41_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Oxford University",
           "isCached": false
         }
       ],
       "content": "",
-      "type": "book",
-      "price": "$62.93",
+      "type": "course",
+      "price": "Free",
       "topics": [
         "AI",
-        "Machine Learning",
-        "Math for AI"
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_learning/books/amazon-the-hundred-page-machine-learning-book.md",
-      "title": "The Hundred-Page Machine Learning Book",
-      "excerpt": "Everything you really need to know in Machine Learning in a hundred pages.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-hundred-page-machine-learning-book/index.json",
-      "webUrl": "https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X/",
-      "ratings": {
-        "count": 326,
-        "average": 4.6
-      },
+      "path": "_learning/courses/pluralsight-analyzing-text-on-aws-with-amazon-comprehend.md",
+      "title": "Analyzing Text on AWS with Amazon Comprehend",
+      "excerpt": "At the core of text analysis in the AWS Cloud is a thorough knowledge of Amazon Comprehend. In this course, Analyzing Text on AWS with Amazon Comprehend, you’ll learn how to use the service to extract insights and deep analysis about a given text. First, you’ll discover how the service is structured and common usage patterns for all of its features. Next, you’ll explore more advanced analysis concepts using an asynchronous request pattern. Finally, you’ll see how easy it can be to conduct complex topic modeling analysis. When you’re finished with this course, you’ll have a foundational knowledge of how to use Amazon Comprehend to analyze and understand any document set that will help you as you move forward and understand how to apply machine learning to real world problems.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-analyzing-text-on-aws-with-amazon-comprehend/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-comprehend-analyzing-text",
+      "length": "1h 56m",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1141,9 +216,9 @@
         "authors": [
           {
             "path": "",
-            "title": "Andriy Burkov",
+            "title": "Mark Nunnikhoven",
             "type": "profile",
-            "name": "Andriy Burkov"
+            "name": "Mark Nunnikhoven"
           }
         ]
       },
@@ -1153,38 +228,35 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/41hnD5LLz5L._AC_UY218_ML3_.jpg",
-          "width": 177,
-          "height": 218,
-          "title": "The Hundred-Page Machine Learning Book",
+          "url": "https://pluralsight.imgix.net/course-images/aws-comprehend-analyzing-text-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Analyzing Text on AWS with Amazon Comprehend",
           "isCached": false
         }
       ],
       "content": "",
-      "type": "book",
-      "price": "$31.03",
+      "type": "course",
+      "price": "$$",
       "topics": [
         "AI",
-        "Machine Learning",
-        "Google AI"
+        "AWS AI",
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_learning/books/amazon-the-industries-of-the-future.md",
-      "title": "The Industries of the Future",
-      "excerpt": "The New York Times bestseller, from leading innovation expert Alec Ross, a “fascinating vision” (Forbes) of what’s next for the world and how to navigate the changes the future will bring.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-industries-of-the-future/index.json",
-      "webUrl": "https://www.amazon.com/Industries-Future-Alec-Ross/dp/1476753660/",
-      "ratings": {
-        "count": 514,
-        "average": 4.4
-      },
+      "path": "_learning/courses/pluralsight-applying-machine-learning-to-your-data-with-gcp.md",
+      "title": "Applying Machine Learning to your Data with GCP",
+      "excerpt": "Want to know how to query and process petabytes of data in seconds? Curious about data analysis that scales automatically as your data grows? Welcome to the Data Insights course! This accelerated online course teaches participants how to derive insights through data analysis and visualization using the Google Cloud Platform. The course features interactive scenarios and hands-on labs where participants explore, mine, load, visualize, and extract insights from diverse Google BigQuery datasets. The course covers data loading, querying, schema modeling, optimizing performance, query pricing,  and data visualization.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-applying-machine-learning-to-your-data-with-gcp/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/applying-machine-learning-data-gcp",
+      "length": "2h 52m",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1193,60 +265,9 @@
         "authors": [
           {
             "path": "",
-            "title": "Alec Ross",
+            "title": "Google Cloud",
             "type": "profile",
-            "name": "Alec Ross"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/71s-MrcZOTL._AC_UY218_ML3_.jpg",
-          "width": 143,
-          "height": 218,
-          "title": "The Industries of the Future",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$10.00",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazonmachine-learning-for-absolute-beginners-a-plain-english-introduction-machine-learning-from-scratch.md",
-      "title": "Machine Learning For Absolute Beginners: A Plain English Introduction (Machine Learning From Scratch)",
-      "excerpt": "Ready to crank up a virtual server and smash through petabytes of data? Want to add 'Machine Learning' to your LinkedIn profile? Well, hold on there...Before you embark on your epic journey into the world of machine learning, there is some theory and statistical principles to march through first.  This book has been written and designed for absolute beginners. This means plain-English explanations and no coding experience required. Where core algorithms are introduced, clear explanations and visual examples are added to make it easy and engaging to follow along at home.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazonmachine-learning-for-absolute-beginners-a-plain-english-introduction-machine-learning-from-scratch/index.json",
-      "webUrl": "https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction/dp/1549617214/",
-      "ratings": {
-        "count": 198,
-        "average": 4.4
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Oliver Theobald",
-            "type": "profile",
-            "name": "Oliver Theobald"
+            "name": "Google Cloud"
           }
         ]
       },
@@ -1256,402 +277,46 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/61k3cuvIl9L._AC_UY218_ML3_.jpg",
-          "width": 145,
-          "height": 218,
-          "title": "Machine Learning For Absolute Beginners: A Plain English Introduction (Machine Learning From Scratch)",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "book",
-      "price": "$13.32",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/manning-machine-learning-with-r-tidyverse-and-mlr.md",
-      "title": "Machine Learning with R, tidyverse, and mlr",
-      "excerpt": "Early access book that provides basics of machine learning and using R programming language.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/manning-machine-learning-with-r-tidyverse-and-mlr/index.json",
-      "webUrl": "https://www.manning.com/books/machine-learning-with-r-tidyverse-and-mlr",
-      "provider": {
-        "name": "Manning",
-        "domain": "manning.com"
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://images.manning.com/720/960/resize/book/d/f6ea29a-3695-4ba3-804f-3db01327a7f7/Rhys-ML-MEAP-HI.png",
-          "width": 720,
-          "height": 903,
-          "title": "Machine Learning with R, tidyverse, and mlr",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university.md",
-      "title": "From Languages to Information Week 8: PageRank | Stanford University",
-      "excerpt": "This is the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university/",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering.md",
-          "title": "14   1   Anchor Text | Relation Extraction and Question Answering",
-          "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering/",
-          "originalUrl": "https://youtube.com/watch?v=-rfVrRAgzHM",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-rfVrRAgzHM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M40S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-01-25T18:46:05Z",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/-rfVrRAgzHM/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering.md",
-          "title": "14   2   PageRank Overview and Markov Chains | Relation Extraction and Question Answering",
-          "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering/",
-          "originalUrl": "https://youtube.com/watch?v=29Tx-s0ybiQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/29Tx-s0ybiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT12M11S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-01-25T18:46:05Z",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/29Tx-s0ybiQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering.md",
-          "title": "14   3   Computing PageRank | Relation Extraction and Question Answering",
-          "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering/",
-          "originalUrl": "https://youtube.com/watch?v=TlVs9nMyZyQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TlVs9nMyZyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT8M10S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-01-25T18:46:05Z",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/TlVs9nMyZyQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-rfVrRAgzHM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "collection",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-a-crash-course-in-data-science.md",
-      "title": "A Crash Course in Data Science",
-      "excerpt": "Learn A Crash Course in Data Science from Johns Hopkins University. By now you have definitely heard about data science and big data. In this one-week class, we will provide a crash course in what these terms mean and how they play a role in ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-a-crash-course-in-data-science/index.json",
-      "webUrl": "https://www.coursera.org/learn/data-science-course",
-      "length": "5 hours",
-      "ratings": {
-        "count": 5201,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Johns Hopkins University"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f0/399ec045ea11e5ba8e4bc295fed462/9990024683_955f8f043b_h.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "A Crash Course in Data Science",
+          "url": "https://pluralsight.imgix.net/course-images/applying-machine-learning-data-gcp-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Applying Machine Learning to your Data with GCP",
           "isCached": false
         }
       ],
       "content": "",
       "type": "course",
-      "price": "Free+",
+      "price": "$$",
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Google AI"
       ]
     },
     {
-      "path": "_learning/courses/coursera-addressing-large-hadron-collider-challenges-by-machine-learning.md",
-      "title": "Addressing Large Hadron Collider Challenges by Machine Learning",
-      "excerpt": "Learn Addressing Large Hadron Collider Challenges by Machine Learning from National Research University Higher School of Economics. The Large Hadron Collider (LHC) is the largest data generation machine for the time being. It doesn’t produce the ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-addressing-large-hadron-collider-challenges-by-machine-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/hadron-collider-machine-learning",
-      "length": "19 hours",
-      "ratings": {
-        "count": 45,
-        "average": 4.5
-      },
+      "path": "_learning/courses/pluralsight-architecting-production-ready-ml-models-using-google-cloud-ml-engine.md",
+      "title": "Architecting Production-ready ML Models Using Google Cloud ML Engine",
+      "excerpt": "This course covers Cloud ML Engine, a powerful service that supports distributed training and evaluation for models built in TensorFlow, Scikit-learn and XGBoost. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-architecting-production-ready-ml-models-using-google-cloud-ml-engine/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/google-ml-engine-architecting-production-ready-models",
+      "length": "2h 12m",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "publishers": [
+        "authors": [
           {
             "path": "",
-            "name": "National Research University Higher School of Economics"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/58/773690b06611e7a6c2e3b47ae99c55/LCH_ML2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Addressing Large Hadron Collider Challenges by Machine Learning",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-advanced-data-science-capstone.md",
-      "title": "Advanced Data Science Capstone",
-      "excerpt": "Learn Advanced Data Science Capstone from IBM. This project completer has proven a deep understanding on massive parallel data processing, data exploration and visualization, advanced machine learning and deep learning and how to apply his ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-advanced-data-science-capstone/index.json",
-      "webUrl": "https://www.coursera.org/learn/advanced-data-science-capstone",
-      "length": "10 hours",
-      "ratings": {
-        "count": 199,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "IBM",
-            "domain": "ibm.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b0/b87e208be611e89f604728676b46b0/Advanced_Data_Science_Capstone.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Advanced Data Science Capstone",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-advanced-deployment-scenarios-with-tensorflow.md",
-      "title": "Advanced Deployment Scenarios with TensorFlow",
-      "excerpt": "Learn Advanced Deployment Scenarios with TensorFlow from deeplearning.ai. Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-advanced-deployment-scenarios-with-tensorflow/index.json",
-      "webUrl": "https://www.coursera.org/learn/advanced-deployment-scenarios-tensorflow",
-      "length": "9 hours",
-      "ratings": {
-        "count": 40,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "deeplearning.ai",
-            "domain": "deeplearning.ai",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
+            "title": "Vitthal Srinivasan",
+            "type": "profile",
+            "name": "Vitthal Srinivasan"
           }
         ]
       },
@@ -1660,24 +325,1145 @@
       ],
       "heat": 50,
       "tags": [
+        "scikit-learn",
+        "Python",
         "TensorFlow"
       ],
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/c7/c372f1915c434cbb08e84046521aa5/TFS2C4CourseraSquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Advanced Deployment Scenarios with TensorFlow",
+          "url": "https://pluralsight.imgix.net/course-images/google-ml-engine-architecting-production-ready-models-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Architecting Production-ready ML Models Using Google Cloud ML Engine",
           "isCached": false
         }
       ],
       "content": "",
       "type": "course",
-      "price": "Free+",
+      "price": "$$",
       "topics": [
         "AI",
-        "Google AI",
-        "TensorFlow"
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-build-train-and-deploy-machine-learning-models-with-aws-sagemaker.md",
+      "title": "Build, Train, and Deploy Machine Learning Models with AWS SageMaker",
+      "excerpt": "A fully managed machine learning service is a great place to start if you want to quickly get machine learning into your applications. In this course, Build, Train, and Deploy Machine Learning Models with AWS SageMaker, you will gain the ability to create machine learning models in AWS SageMaker and to integrate them into your applications. First, you’ll learn the basics and how to set up SageMaker. Next, you’ll discover how to build, train, and deploy models applied to Image Classification for breast cancer detection and how to integrate them into a REST API. Finally, you will even discover how to manage security and scalability in AWS SageMaker. When you’re finished with this course, you will have a foundational understanding of AWS SageMaker that will help you immensely as you move forward to create your own machine-learning-enabled applications applied to different real-life scenarios.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-build-train-and-deploy-machine-learning-models-with-aws-sagemaker/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-sagemaker-machine-learning-models",
+      "length": "2h 40m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Jorge Vasquez",
+            "type": "profile",
+            "name": "Jorge Vasquez"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-sagemaker-machine-learning-models-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Build, Train, and Deploy Machine Learning Models with AWS SageMaker",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-a-voice-enabled-serverless-website-with-aws-polly.md",
+      "title": "Building a Voice-enabled Serverless Website with AWS Polly",
+      "excerpt": "With all the new technology trends like AI, Serverless, and DevOps, tieing everything together can be overwhelming. In this course, you'll not only demystify this process but also see how using voice can save you time and keep your users engaged.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-a-voice-enabled-serverless-website-with-aws-polly/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-comprehend-analyzing-text",
+      "length": "1h 46m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Ralu Bolovan",
+            "type": "profile",
+            "name": "Ralu Bolovan"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-polly-voice-enabled-serverless-website-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building a Voice-enabled Serverless Website with AWS Polly",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-bots-with-microsofts-bot-framework-getting-started.md",
+      "title": "Building Bots with Microsoft’s Bot Framework: Getting Started",
+      "excerpt": "This course is an introduction to the Microsoft Bot Framework v4 - a centralized framework that allows you to create, edit and deploy Chatbots quickly and easily. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-bots-with-microsofts-bot-framework-getting-started/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/microsoft-bot-framework-building-bots-getting-started-2019",
+      "length": "3h 27m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Matthew Kruczek",
+            "type": "profile",
+            "name": "Matthew Kruczek"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "Chatbot"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/microsoft-bot-framework-building-bots-getting-started-2019-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Bots with Microsoft’s Bot Framework: Getting Started",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-classification-models-with-scikit-learn.md",
+      "title": "Building Classification Models with scikit-learn",
+      "excerpt": "This course covers several important techniques used to implement classification in scikit-learn, starting with logistic regression, moving on to Discriminant Analysis, Naive Bayes and the use of Decision Trees, and then even more advanced techniques such as Support Vector Classification and Stochastic Gradient Descent Classification.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-classification-models-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-classification-models-scikit-learn",
+      "length": "2h 33m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-classification-models-scikit-learn-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Classification Models with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-clustering-models-with-scikit-learn.md",
+      "title": "Building Clustering Models with scikit-learn",
+      "excerpt": "This course covers several important techniques used to implement clustering in scikit-learn, including the K-means, mean-shift and DBScan clustering algorithms, as well as the role of hyperparameter tuning, and performing clustering on image data.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-clustering-models-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-clustering-models-scikit-learn",
+      "length": "2h 33m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-clustering-models-scikit-learn-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Clustering Models with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-deep-learning-models-using-pytorch.md",
+      "title": "Building Deep Learning Models Using PyTorch",
+      "excerpt": "In this course, you will learn to work with PyTorch and all the libraries that it has to offer, from first principles - starting with Torch tensors, dynamic computation graphs, and the autograd library, to compute gradients.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-deep-learning-models-using-pytorch/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/pytorch-building-deep-learning-models",
+      "length": "3h 18m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/pytorch-building-deep-learning-models-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Deep Learning Models Using PyTorch",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-features-from-numeric-data.md",
+      "title": "Building Features from Numeric Data",
+      "excerpt": "This course exhaustively covers data preprocessing techniques and transforms available in scikit-learn, allowing the construction of highly optimized features that are scaled, normalized and transformed in mathematically sound ways to fully harness the power of machine learning techniques. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-features-from-numeric-data/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-features-numeric-data",
+      "length": "2h 25m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-features-numeric-data-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Features from Numeric Data",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-features-from-text-data-in-microsoft-azure.md",
+      "title": "Building Features from Text Data in Microsoft Azure",
+      "excerpt": "This course covers aspects of building text features for machine learning using Azure Machine Learning Service virtual machines, including tokenization, stopword removal, feature vectorization, and more from natural language processing. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-features-from-text-data-in-microsoft-azure/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/microsoft-azure-building-features-text-data",
+      "length": "1h 54m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Michael Heydt",
+            "type": "profile",
+            "name": "Michael Heydt"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/microsoft-azure-building-features-text-data-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Features from Text Data in Microsoft Azure",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-features-from-text-data.md",
+      "title": "Building Features from Text Data",
+      "excerpt": "This course covers aspects of extracting information from text documents and constructing classification models including feature vectorization, locality-sensitive hashing, stopword removal, lemmatization, and more from natural language processing. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-features-from-text-data/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-features-text-data",
+      "length": "2h 36m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-features-text-data-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Features from Text Data",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-image-processing-applications-using-scikit-image.md",
+      "title": "Building Image Processing Applications Using scikit-image",
+      "excerpt": "In this course, you'll explore the scikit-image Python library which allows you to apply sophisticated image processing techniques to images and to quickly extract important insights or pre-process images for input to machine learning models.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-image-processing-applications-using-scikit-image/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/scikit-image-building-image-processing-applications",
+      "length": "1h 49m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/scikit-image-building-image-processing-applications-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Image Processing Applications Using scikit-image",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-machine-learning-models-in-python-with-scikit-learn.md",
+      "title": "Building Machine Learning Models in Python with scikit-learn",
+      "excerpt": "Scikit-learn is one of the most popular ML libraries in Python. Use libraries specialized regression models such as Lasso and Ridge to build and train your ML models.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-machine-learning-models-in-python-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models",
+      "length": "3h 13m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/python-scikit-learn-building-machine-learning-models-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Machine Learning Models in Python with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-neural-networks-with-scikit-learn.md",
+      "title": "Building Neural Networks with scikit-learn",
+      "excerpt": "This course covers all the important aspects of support currently available in scikit-learn for the construction and training of neural networks, including the perceptron, MLPClassifier, and MLPRegressor, as well as Restricted Boltzmann Machines. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-neural-networks-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-neural-networks-scikit-learn",
+      "length": "1h 55m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-neural-networks-scikit-learn-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Neural Networks with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-regression-models-with-scikit-learn.md",
+      "title": "Building Regression Models with scikit-learn",
+      "excerpt": "This course covers important techniques such as ordinary least squares regression, moving on to lasso, ridge, and Elastic Net, and advanced techniques such as Support Vector Regression and Stochastic Gradient Descent Regression.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-regression-models-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-regression-models-scikit-learn",
+      "length": "2h 42m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-regression-models-scikit-learn-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Regression Models with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-sentiment-analysis-systems-in-python.md",
+      "title": "Building Sentiment Analysis Systems in Python",
+      "excerpt": "Sentiment Analysis has become increasingly important as more opinions are expressed online, in unstructured form. This course covers rule-based and ML-based approaches to extracting sentiment from opinions, including VADER, Sentiwordnet, and more.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-sentiment-analysis-systems-in-python/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-sentiment-analysis-systems-python",
+      "length": "2h 31m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Vitthal Srinivasan",
+            "type": "profile",
+            "name": "Vitthal Srinivasan"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-sentiment-analysis-systems-python-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Sentiment Analysis Systems in Python",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-your-first-machine-learning-solution.md",
+      "title": "Building Your First Machine Learning Solution",
+      "excerpt": "Machine learning is exciting, yet, it may sound more complicated than it is actually is. This course empowers you with the necessary theory and practice to become confident about how machine learning works by building a hands-on solution.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-your-first-machine-learning-solution/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-machine-learning-solution",
+      "length": "2h 41m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mohammed Osman",
+            "type": "profile",
+            "name": "Mohammed Osman"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-machine-learning-solution-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Your First Machine Learning Solution",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-your-first-pytorch-solution.md",
+      "title": "Building Your First PyTorch Solution",
+      "excerpt": "This course covers the important practical aspects of installing PyTorch from scratch on a variety of different platforms and getting going with classification and regression models. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-your-first-pytorch-solution/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-your-first-pytorch-solution",
+      "length": "2h 24m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-your-first-pytorch-solution-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Your First PyTorch Solution",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-your-first-scikit-learn-solution.md",
+      "title": "Building Your First scikit-learn Solution",
+      "excerpt": "This course covers both the why and how of using scikit-learn. You'll delve into scikit-learn’s niche in the ever-growing taxonomy of machine learning libraries, and important aspects of working with scikit-learn estimators and pipelines.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-your-first-scikit-learn-solution/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-first-scikit-learn-solution",
+      "length": "2h 7m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-first-scikit-learn-solution-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Your First scikit-learn Solution",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-combining-and-shaping-data.md",
+      "title": "Combining and Shaping Data",
+      "excerpt": "This course covers both conceptual and practical aspects of pulling together from different data sources, with different schemas and orientations, into a cohesive whole using Excel, Python, and various tools available on the Azure cloud platform.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-combining-and-shaping-data/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/combining-shaping-data",
+      "length": "3h 28m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/combining-shaping-data-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Combining and Shaping Data",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-creating-machine-learning-models.md",
+      "title": "Creating Machine Learning Models",
+      "excerpt": "This course covers the important types of machine learning algorithms, solution techniques based on the specifics of the problem you are trying to solve, as well as the classic machine learning workflow. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-creating-machine-learning-models/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/creating-machine-learning-models",
+      "length": "2h 43m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/creating-machine-learning-models-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Creating Machine Learning Models",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-creating-voice-and-chatbots-that-work-everywhere.md",
+      "title": "Creating Voice and Chatbots That Work Everywhere",
+      "excerpt": "With all the options out there, creating a voice and chatbot today can be a daunting decision. In this course, you'll take the stress out of figuring it all out by learning how to build a cross-channel conversational bot that works everywhere.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-creating-voice-and-chatbots-that-work-everywhere/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/creating-voice-chatbots-work-everywhere",
+      "length": "2h 26m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Walter Quesada",
+            "type": "profile",
+            "name": "Walter Quesada"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "Chatbot"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/audience/software-development.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Creating Voice and Chatbots That Work Everywhere",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-deep-learning-instances-and-frameworks-on-aws.md",
+      "title": "Deep Learning Instances and Frameworks on AWS",
+      "excerpt": "Deep learning enables a new level of data analysis, but configuring custom compute resources to gain these insights can be extremely difficult. In this course, Deep Learning Instances and Frameworks on AWS, you will gain the ability to launch deep learning instances on EC2 and ECS. First, you will learn the types of Deep Learning AMIs provided by AWS. Next, you will analyze how to leverage popular deep learning frameworks on these instances. Finally, you will review how to manage and scale your deep learning activities on these instances. When you are finished with this course, you will be able to launch and utilize custom deep learning instances and leverage popular deep learning frameworks.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-deep-learning-instances-and-frameworks-on-aws/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-ami-deep-learning-instances-frameworks",
+      "length": "1h 23m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "David Tucker",
+            "type": "profile",
+            "name": "David Tucker"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-ami-deep-learning-instances-frameworks-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Deep Learning Instances and Frameworks on AWS",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-deploying-pytorch-models-in-production-pytorch-playbook.md",
+      "title": "Deploying PyTorch Models in Production: PyTorch Playbook",
+      "excerpt": "This course covers the important aspects of performing distributed training of PyTorch models, using the multiprocessing, data-parallel, and distributed data-parallel approaches. It also discusses which you can host PyTorch models for prediction.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-deploying-pytorch-models-in-production-pytorch-playbook/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/deploying-pytorch-models",
+      "length": "2h 13m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/deploying-pytorch-models-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Deploying PyTorch Models in Production: PyTorch Playbook",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
       ]
     }
   ],

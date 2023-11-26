@@ -25,50 +25,10 @@
         ]
       },
       "publishedDateTime": "2023-11-20T10:21:07Z",
-      "heat": 179,
+      "heat": 155,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/tNIT8wwYHGc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-nlp-machine-learning-course-2023-learn-nlp-from-scratch-in-8-hours-simplilearn.md",
-      "title": "🔥 NLP Machine Learning Course 2023 | Learn NLP From Scratch In 8 Hours | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video on the \"NLP Machine Learning Course 2023\" video cover all the topics you need to know to",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-nlp-machine-learning-course-2023-learn-nlp-from-scratch-in-8-hours-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-nlp-machine-learning-course-2023-learn-nlp-from-scratch-in-8-hours-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=FeDQMhfJnL4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FeDQMhfJnL4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8H8M4S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-11-09T10:55:04Z",
-      "heat": 103,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FeDQMhfJnL4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -145,7 +105,7 @@
         ]
       },
       "publishedDateTime": "2020-02-20T17:02:29Z",
-      "heat": 75,
+      "heat": 77,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fNxaJsNG3-s/maxresdefault.jpg",
@@ -205,7 +165,7 @@
             ]
           },
           "publishedDateTime": "2020-02-20T17:02:29Z",
-          "heat": 75,
+          "heat": 77,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/fNxaJsNG3-s/maxresdefault.jpg",
@@ -287,7 +247,7 @@
             ]
           },
           "publishedDateTime": "2020-03-03T16:43:59Z",
-          "heat": 61,
+          "heat": 62,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Y_hzMnRXjhI/maxresdefault.jpg",
@@ -328,7 +288,7 @@
             ]
           },
           "publishedDateTime": "2020-04-30T22:12:44Z",
-          "heat": 56,
+          "heat": 57,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/OuYtk9Ymut4/maxresdefault.jpg",
@@ -428,7 +388,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:34:51Z",
-              "heat": 53,
+              "heat": 56,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
@@ -467,7 +427,7 @@
                 ]
               },
               "publishedDateTime": "2021-07-13T20:40:25Z",
-              "heat": 51,
+              "heat": 52,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/1CSVy9JbbK0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB4FJzU1UZMjlEH-qNJEKvSfBzDaQ",
@@ -506,7 +466,7 @@
                 ]
               },
               "publishedDateTime": "2021-07-13T20:41:16Z",
-              "heat": 50,
+              "heat": 54,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/xsIDTmo1NOg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCHm65NEC38H5RR7Nv-3QnJA6DTzg",
@@ -545,7 +505,7 @@
                 ]
               },
               "publishedDateTime": "2021-07-13T20:42:46Z",
-              "heat": 50,
+              "heat": 52,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/7yFZHf8mzGk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgQigsMA8=&rs=AOn4CLDKuz0K80JMDaZq1H81ne8sf5P5Cg",
@@ -564,7 +524,7 @@
             }
           ],
           "size": 11,
-          "heat": 60,
+          "heat": 61,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
@@ -621,7 +581,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:39:27Z",
-              "heat": 51,
+              "heat": 54,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
@@ -660,7 +620,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:39:27Z",
-              "heat": 51,
+              "heat": 56,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/UyC0bBiZY-A/hqdefault.jpg",
@@ -699,7 +659,7 @@
                 ]
               },
               "publishedDateTime": "2021-07-19T19:29:28Z",
-              "heat": 50,
+              "heat": 52,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/B_2bntDYano/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLBfo1Wzg21zL_SfYnBkxP3IMEpXfg",
@@ -738,7 +698,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:39:27Z",
-              "heat": 50,
+              "heat": 51,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/XjwVAMWrmrw/hqdefault.jpg",
@@ -757,7 +717,7 @@
             }
           ],
           "size": 7,
-          "heat": 60,
+          "heat": 61,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
@@ -814,7 +774,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:41:01Z",
-              "heat": 51,
+              "heat": 52,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/Y1j_J53k7fo/hqdefault.jpg",
@@ -853,7 +813,7 @@
                 ]
               },
               "publishedDateTime": "2021-07-13T22:52:25Z",
-              "heat": 51,
+              "heat": 52,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/OhLosjXM-Fg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAuuI6cATT_KMNrvsxUgr8No_ZQOA",
@@ -892,7 +852,7 @@
                 ]
               },
               "publishedDateTime": "2021-07-13T22:53:04Z",
-              "heat": 50,
+              "heat": 51,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/Ge612JZGBMU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAfmX2anN9vC-c-QroEwpHrOGBNKA",
@@ -931,7 +891,7 @@
                 ]
               },
               "publishedDateTime": "2021-07-13T22:53:27Z",
-              "heat": 51,
+              "heat": 55,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/tjDceq0qH10/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCDPFHi5bqut_A0XrQUQbr_ux2p0w",
@@ -950,7 +910,7 @@
             }
           ],
           "size": 8,
-          "heat": 60,
+          "heat": 61,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Y1j_J53k7fo/hqdefault.jpg",
@@ -1007,7 +967,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:42:38Z",
-              "heat": 53,
+              "heat": 55,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
@@ -1046,7 +1006,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:42:38Z",
-              "heat": 51,
+              "heat": 52,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/e81nC0LO0A8/hqdefault.jpg",
@@ -1085,7 +1045,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T18:42:38Z",
-              "heat": 51,
+              "heat": 52,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/Wf6HbY2PQDw/hqdefault.jpg",
@@ -1143,7 +1103,7 @@
             }
           ],
           "size": 14,
-          "heat": 62,
+          "heat": 61,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
@@ -1161,7 +1121,7 @@
         }
       ],
       "size": 7,
-      "heat": 72,
+      "heat": 73,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
@@ -1178,14 +1138,14 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-nlp-roadmap-2024-how-to-become-a-nlp-engineer-roadmap-for-nlp-engineer-simplilearn.md",
-      "title": "NLP Roadmap 2024 | How To Become A NLP Engineer | Roadmap for NLP Engineer | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video on \"NLP Roadmap 2024,\" we will discuss the path you can follow to become an NLP engineer.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-nlp-roadmap-2024-how-to-become-a-nlp-engineer-roadmap-for-nlp-engineer-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-nlp-roadmap-2024-how-to-become-a-nlp-engineer-roadmap-for-nlp-engineer-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=kUIh3elunAo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kUIh3elunAo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M30S",
+      "path": "_learning/videos/simplilearn-natural-language-processing-in-10-minutes-nlp-tutorial-for-beginners-nlp-training-simplilearn.md",
+      "title": "Natural Language Processing In 10 Minutes | NLP Tutorial For Beginners | NLP Training | Simplilearn",
+      "excerpt": "Natural Language Processing is a popular application of Artificial Intelligence. This video on NLP in 10 minutes will make you understand why we need NLP and what NLP is. You will get an idea about NPL Pipelines and the basic processes involved in text parsing. Finally, we will talk about some real world",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-natural-language-processing-in-10-minutes-nlp-tutorial-for-beginners-nlp-training-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-natural-language-processing-in-10-minutes-nlp-tutorial-for-beginners-nlp-training-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=6I-Alfkr5K4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6I-Alfkr5K4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M44S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
@@ -1198,50 +1158,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-11-03T11:48:23Z",
-      "heat": 72,
+      "publishedDateTime": "2020-12-10T14:44:04Z",
+      "heat": 67,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/kUIh3elunAo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-deep-learning-nlp-course-2023-nlp-deep-learning-tutorial-2023-simplilearn.md",
-      "title": "🔥 Deep Learning NLP Course 2023 | NLP Deep Learning Tutorial 2023 | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video, \"Deep Learning NLP Course 2023,\" by Simplilearn, will take you through the basics of Deep",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-nlp-course-2023-nlp-deep-learning-tutorial-2023-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-nlp-course-2023-nlp-deep-learning-tutorial-2023-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=0Ooa3sXxc8U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0Ooa3sXxc8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11H11M16S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-10-30T14:44:45Z",
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0Ooa3sXxc8U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6I-Alfkr5K4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1253,47 +1174,6 @@
       "topics": [
         "AI",
         "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-sequencing-turning-sentences-into-data-nlp-zero-to-hero-part-2.md",
-      "title": "Sequencing - Turning sentences into data (NLP Zero to Hero - Part 2)",
-      "excerpt": "Welcome to Zero to Hero for Natural Language Processing using TensorFlow! If you’re not an expert on AI or ML, don’t worry -- we’re taking the concepts of NLP and teaching them from first principles with our host Laurence Moroney (@lmoroney).  In the last video you learned about how to tokenize words",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-sequencing-turning-sentences-into-data-nlp-zero-to-hero-part-2/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-sequencing-turning-sentences-into-data-nlp-zero-to-hero-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=r9QjkdSJZ2g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r9QjkdSJZ2g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M26S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-02-25T17:20:04Z",
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r9QjkdSJZ2g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
         "Natural Language Processing"
       ]
     },
@@ -1338,7 +1218,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:34:51Z",
-          "heat": 53,
+          "heat": 56,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
@@ -1377,7 +1257,7 @@
             ]
           },
           "publishedDateTime": "2021-07-13T20:40:25Z",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/1CSVy9JbbK0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB4FJzU1UZMjlEH-qNJEKvSfBzDaQ",
@@ -1416,7 +1296,7 @@
             ]
           },
           "publishedDateTime": "2021-07-13T20:41:16Z",
-          "heat": 50,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/xsIDTmo1NOg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCHm65NEC38H5RR7Nv-3QnJA6DTzg",
@@ -1455,7 +1335,7 @@
             ]
           },
           "publishedDateTime": "2021-07-13T20:42:46Z",
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7yFZHf8mzGk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgQigsMA8=&rs=AOn4CLDKuz0K80JMDaZq1H81ne8sf5P5Cg",
@@ -1474,7 +1354,7 @@
         }
       ],
       "size": 11,
-      "heat": 61,
+      "heat": 64,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
@@ -1531,7 +1411,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:39:27Z",
-          "heat": 51,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
@@ -1570,7 +1450,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:39:27Z",
-          "heat": 51,
+          "heat": 56,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/UyC0bBiZY-A/hqdefault.jpg",
@@ -1609,7 +1489,7 @@
             ]
           },
           "publishedDateTime": "2021-07-19T19:29:28Z",
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/B_2bntDYano/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLBfo1Wzg21zL_SfYnBkxP3IMEpXfg",
@@ -1648,7 +1528,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:39:27Z",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/XjwVAMWrmrw/hqdefault.jpg",
@@ -1667,7 +1547,7 @@
         }
       ],
       "size": 7,
-      "heat": 61,
+      "heat": 64,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
@@ -1724,7 +1604,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:41:01Z",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Y1j_J53k7fo/hqdefault.jpg",
@@ -1763,7 +1643,7 @@
             ]
           },
           "publishedDateTime": "2021-07-13T22:52:25Z",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/OhLosjXM-Fg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAuuI6cATT_KMNrvsxUgr8No_ZQOA",
@@ -1802,7 +1682,7 @@
             ]
           },
           "publishedDateTime": "2021-07-13T22:53:04Z",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Ge612JZGBMU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAfmX2anN9vC-c-QroEwpHrOGBNKA",
@@ -1841,7 +1721,7 @@
             ]
           },
           "publishedDateTime": "2021-07-13T22:53:27Z",
-          "heat": 51,
+          "heat": 55,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/tjDceq0qH10/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCDPFHi5bqut_A0XrQUQbr_ux2p0w",
@@ -1860,7 +1740,7 @@
         }
       ],
       "size": 8,
-      "heat": 61,
+      "heat": 62,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Y1j_J53k7fo/hqdefault.jpg",
@@ -1917,7 +1797,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:42:38Z",
-          "heat": 53,
+          "heat": 55,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
@@ -1956,7 +1836,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:42:38Z",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/e81nC0LO0A8/hqdefault.jpg",
@@ -1995,7 +1875,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T18:42:38Z",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Wf6HbY2PQDw/hqdefault.jpg",
@@ -2053,7 +1933,7 @@
         }
       ],
       "size": 14,
-      "heat": 61,
+      "heat": 62,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
@@ -2065,6 +1945,240 @@
       "content": "",
       "type": "collection",
       "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university.md",
+      "title": "From Languages to Information Week 7: Recommendation Systems and Vector Semantics | Stanford University",
+      "excerpt": "This is the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university/",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/stanford-university-recommender-systems-1-introduction.md",
+          "title": "Recommender Systems 1 Introduction",
+          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-1-introduction/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-1-introduction/",
+          "originalUrl": "https://youtube.com/watch?v=4xYYkQxTpEc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4xYYkQxTpEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT6M2S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-13T23:36:02Z",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/4xYYkQxTpEc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgRygtMA8=&rs=AOn4CLBOum4xzBmPP7YNox8FmQqBVsijDA",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/videos/stanford-university-recommender-systems-2-content-based.md",
+          "title": "Recommender Systems 2 Content Based",
+          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-2-content-based/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-2-content-based/",
+          "originalUrl": "https://youtube.com/watch?v=4sy2tpzlgg4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4sy2tpzlgg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M50S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-13T23:36:22Z",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/4sy2tpzlgg4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAVgnobwcTYgPDR_skd4MFyxErltw",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering.md",
+          "title": "Recommender Systems 3 User User Collaborative Filtering",
+          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering/",
+          "originalUrl": "https://youtube.com/watch?v=qEur4Xi8dks",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qEur4Xi8dks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT7M51S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-13T23:37:00Z",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/qEur4Xi8dks/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAU5PUZ5pF8cxuMP4-iOHAnON0RVg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/videos/stanford-university-recommender-systems-4-item-item-collaborative-filtering.md",
+          "title": "Recommender Systems 4 Item Item Collaborative Filtering",
+          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-4-item-item-collaborative-filtering/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-4-item-item-collaborative-filtering/",
+          "originalUrl": "https://youtube.com/watch?v=FFi0iPY5fko",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FFi0iPY5fko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT6M53S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-07-13T23:37:23Z",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/FFi0iPY5fko/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGH8gQCgqMA8=&rs=AOn4CLCfZfAInWdevw0YNcXHXMB4qP2qmA",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4xYYkQxTpEc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgRygtMA8=&rs=AOn4CLBOum4xzBmPP7YNox8FmQqBVsijDA",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-sequencing-turning-sentences-into-data-nlp-zero-to-hero-part-2.md",
+      "title": "Sequencing - Turning sentences into data (NLP Zero to Hero - Part 2)",
+      "excerpt": "Welcome to Zero to Hero for Natural Language Processing using TensorFlow! If you’re not an expert on AI or ML, don’t worry -- we’re taking the concepts of NLP and teaching them from first principles with our host Laurence Moroney (@lmoroney).  In the last video you learned about how to tokenize words",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-sequencing-turning-sentences-into-data-nlp-zero-to-hero-part-2/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-sequencing-turning-sentences-into-data-nlp-zero-to-hero-part-2/",
+      "originalUrl": "https://youtube.com/watch?v=r9QjkdSJZ2g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r9QjkdSJZ2g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M26S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-25T17:20:04Z",
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r9QjkdSJZ2g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
         "AI",
         "Natural Language Processing"
       ]
@@ -2091,7 +2205,7 @@
         ]
       },
       "publishedDateTime": "2020-03-03T16:43:59Z",
-      "heat": 61,
+      "heat": 62,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Y_hzMnRXjhI/maxresdefault.jpg",
@@ -2304,224 +2418,31 @@
       ]
     },
     {
-      "path": "_learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university.md",
-      "title": "From Languages to Information Week 7: Recommendation Systems and Vector Semantics | Stanford University",
-      "excerpt": "This is the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university/",
+      "path": "_learning/videos/tensorflow-ml-with-recurrent-neural-networks-nlp-zero-to-hero-part-4.md",
+      "title": "ML with Recurrent Neural Networks (NLP Zero to Hero - Part 4)",
+      "excerpt": "Welcome to this episode in Natural Language Processing Zero to Hero with TensorFlow. In the previous videos in this series you saw how to tokenize text, and use sequences of tokens to train a neural network. In the next videos we’ll look at how neural networks can generate text and even write poetry,",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-ml-with-recurrent-neural-networks-nlp-zero-to-hero-part-4/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-ml-with-recurrent-neural-networks-nlp-zero-to-hero-part-4/",
+      "originalUrl": "https://youtube.com/watch?v=OuYtk9Ymut4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OuYtk9Ymut4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M59S",
       "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "topItems": [
-        {
-          "path": "_learning/videos/stanford-university-recommender-systems-1-introduction.md",
-          "title": "Recommender Systems 1 Introduction",
-          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-1-introduction/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-1-introduction/",
-          "originalUrl": "https://youtube.com/watch?v=4xYYkQxTpEc",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4xYYkQxTpEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT6M2S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-07-13T23:36:02Z",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/4xYYkQxTpEc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgRygtMA8=&rs=AOn4CLBOum4xzBmPP7YNox8FmQqBVsijDA",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/videos/stanford-university-recommender-systems-2-content-based.md",
-          "title": "Recommender Systems 2 Content Based",
-          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-2-content-based/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-2-content-based/",
-          "originalUrl": "https://youtube.com/watch?v=4sy2tpzlgg4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4sy2tpzlgg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT5M50S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-07-13T23:36:22Z",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/4sy2tpzlgg4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAVgnobwcTYgPDR_skd4MFyxErltw",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering.md",
-          "title": "Recommender Systems 3 User User Collaborative Filtering",
-          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-3-user-user-collaborative-filtering/",
-          "originalUrl": "https://youtube.com/watch?v=qEur4Xi8dks",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qEur4Xi8dks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT7M51S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-07-13T23:37:00Z",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/qEur4Xi8dks/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAU5PUZ5pF8cxuMP4-iOHAnON0RVg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/videos/stanford-university-recommender-systems-4-item-item-collaborative-filtering.md",
-          "title": "Recommender Systems 4 Item Item Collaborative Filtering",
-          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-recommender-systems-4-item-item-collaborative-filtering/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-recommender-systems-4-item-item-collaborative-filtering/",
-          "originalUrl": "https://youtube.com/watch?v=FFi0iPY5fko",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FFi0iPY5fko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT6M53S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-07-13T23:37:23Z",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/FFi0iPY5fko/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGH8gQCgqMA8=&rs=AOn4CLCfZfAInWdevw0YNcXHXMB4qP2qmA",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4xYYkQxTpEc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgRygtMA8=&rs=AOn4CLBOum4xzBmPP7YNox8FmQqBVsijDA",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "collection",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-nlp-engineer-salary-2023-how-much-do-nlp-engineers-make-ai-careers-2023-simplilearn.md",
-      "title": "NLP Engineer Salary 2023 | How Much Do NLP Engineers Make? | AI Careers 2023 | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video on NLP Engineer Salary will take you through who an NLP Engineers is, what are the roles",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-nlp-engineer-salary-2023-how-much-do-nlp-engineers-make-ai-careers-2023-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-nlp-engineer-salary-2023-how-much-do-nlp-engineers-make-ai-careers-2023-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=f29GlpFKvzA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f29GlpFKvzA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M48S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-08-25T11:37:01Z",
+      "publishedDateTime": "2020-04-30T22:12:44Z",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/f29GlpFKvzA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OuYtk9Ymut4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -2531,8 +2452,11 @@
       "type": "video",
       "price": "Free",
       "topics": [
+        "TensorFlow",
+        "Google AI",
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "Machine Learning"
       ]
     },
     {
@@ -2575,33 +2499,33 @@
       ]
     },
     {
-      "path": "_learning/videos/tensorflow-ml-with-recurrent-neural-networks-nlp-zero-to-hero-part-4.md",
-      "title": "ML with Recurrent Neural Networks (NLP Zero to Hero - Part 4)",
-      "excerpt": "Welcome to this episode in Natural Language Processing Zero to Hero with TensorFlow. In the previous videos in this series you saw how to tokenize text, and use sequences of tokens to train a neural network. In the next videos we’ll look at how neural networks can generate text and even write poetry,",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-ml-with-recurrent-neural-networks-nlp-zero-to-hero-part-4/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-ml-with-recurrent-neural-networks-nlp-zero-to-hero-part-4/",
-      "originalUrl": "https://youtube.com/watch?v=OuYtk9Ymut4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OuYtk9Ymut4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M59S",
+      "path": "_learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance.md",
+      "title": "1.1 Regular Expressions | Basic Text Processing and Edit Distance",
+      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance/",
+      "originalUrl": "https://youtube.com/watch?v=808M7q8QX0E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/808M7q8QX0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M26S",
       "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
+        "name": "Stanford University",
+        "domain": "stanford.edu",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-04-30T22:12:44Z",
+      "publishedDateTime": "2018-01-25T18:34:51Z",
       "heat": 56,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/OuYtk9Ymut4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -2609,82 +2533,38 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6.md",
-      "title": "Training an AI to create poetry (NLP Zero to Hero - Part 6)",
-      "excerpt": "Through this series so far you’ve been learning the basics of NLP using TensorFlow. You saw how to tokenize and then sequence text, preparing it to train neural networks. You saw how sentiment in text can be represented with embeddings, and how the semantics of text over long stretches might be learned",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6/",
-      "originalUrl": "https://youtube.com/watch?v=ZMudJXhsUpY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZMudJXhsUpY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M5S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-14T23:05:17Z",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZMudJXhsUpY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
         "AI",
         "Natural Language Processing"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-natural-language-processing-in-10-minutes-nlp-tutorial-for-beginners-nlp-training-simplilearn.md",
-      "title": "Natural Language Processing In 10 Minutes | NLP Tutorial For Beginners | NLP Training | Simplilearn",
-      "excerpt": "Natural Language Processing is a popular application of Artificial Intelligence. This video on NLP in 10 minutes will make you understand why we need NLP and what NLP is. You will get an idea about NPL Pipelines and the basic processes involved in text parsing. Finally, we will talk about some real world",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-natural-language-processing-in-10-minutes-nlp-tutorial-for-beginners-nlp-training-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-natural-language-processing-in-10-minutes-nlp-tutorial-for-beginners-nlp-training-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=6I-Alfkr5K4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6I-Alfkr5K4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M44S",
+      "path": "_learning/videos/stanford-university-15-byte-pair-encoding.md",
+      "title": "1.5 Byte Pair Encoding",
+      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-15-byte-pair-encoding/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-15-byte-pair-encoding/",
+      "originalUrl": "https://youtube.com/watch?v=tOMjTCO0htA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tOMjTCO0htA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M38S",
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Stanford University",
+        "domain": "stanford.edu",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-12-10T14:44:04Z",
-      "heat": 55,
+      "publishedDateTime": "2021-07-13T20:43:09Z",
+      "heat": 56,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6I-Alfkr5K4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/tOMjTCO0htA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCIrTIXO3bbCJShUTW1urpCnYxc5w",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -2693,7 +2573,45 @@
       "price": "Free",
       "topics": [
         "AI",
-        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction.md",
+      "title": "3.2 Estimating N gram Probabilities | Language Modeling and Spelling Correction",
+      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction/",
+      "originalUrl": "https://youtube.com/watch?v=UyC0bBiZY-A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UyC0bBiZY-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M39S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T18:39:27Z",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UyC0bBiZY-A/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
         "Natural Language Processing"
       ]
     },
@@ -2719,10 +2637,129 @@
         ]
       },
       "publishedDateTime": "2020-05-06T21:51:19Z",
-      "heat": 55,
+      "heat": 56,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/A9QVYOBjZdY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval.md",
+      "title": "7.1 Introduction to Information Retrieval | Information Retrieval",
+      "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval/",
+      "originalUrl": "https://youtube.com/watch?v=kNkCfaH2rxc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kNkCfaH2rxc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M17S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T18:42:38Z",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-naive-bayes-4-sentiment-and-binary-nb.md",
+      "title": "Naive Bayes 4 Sentiment and Binary NB",
+      "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-naive-bayes-4-sentiment-and-binary-nb/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-naive-bayes-4-sentiment-and-binary-nb/",
+      "originalUrl": "https://youtube.com/watch?v=tjDceq0qH10",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tjDceq0qH10\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M14S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-13T22:53:27Z",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tjDceq0qH10/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCDPFHi5bqut_A0XrQUQbr_ux2p0w",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6.md",
+      "title": "Training an AI to create poetry (NLP Zero to Hero - Part 6)",
+      "excerpt": "Through this series so far you’ve been learning the basics of NLP using TensorFlow. You saw how to tokenize and then sequence text, preparing it to train neural networks. You saw how sentiment in text can be represented with embeddings, and how the semantics of text over long stretches might be learned",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6/",
+      "originalUrl": "https://youtube.com/watch?v=ZMudJXhsUpY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZMudJXhsUpY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M5S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-14T23:05:17Z",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZMudJXhsUpY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -2781,31 +2818,31 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-nlp-engineer-roadmap-for-2023-how-to-become-nlp-engineer-roadmap-for-nlp-engineer-simplilearn.md",
-      "title": "NLP Engineer Roadmap For 2023 | How To Become NLP Engineer | Roadmap for NLP Engineer | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video on \"NLP Engineer Roadmap For 2023\" we will discuss the path you can follow to become",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-nlp-engineer-roadmap-for-2023-how-to-become-nlp-engineer-roadmap-for-nlp-engineer-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-nlp-engineer-roadmap-for-2023-how-to-become-nlp-engineer-roadmap-for-nlp-engineer-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=pZTziHZpJ9c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pZTziHZpJ9c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M12S",
+      "path": "_learning/videos/stanford-university-13-words-and-corpora.md",
+      "title": "1.3 Words and Corpora",
+      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-13-words-and-corpora/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-13-words-and-corpora/",
+      "originalUrl": "https://youtube.com/watch?v=xsIDTmo1NOg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xsIDTmo1NOg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M26S",
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Stanford University",
+        "domain": "stanford.edu",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-08-18T12:14:07Z",
+      "publishedDateTime": "2021-07-13T20:41:16Z",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/pZTziHZpJ9c/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xsIDTmo1NOg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCHm65NEC38H5RR7Nv-3QnJA6DTzg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -2820,31 +2857,70 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-transformers-neural-networks-explained-nlp-with-deep-learning-deep-learning-course-edureka.md",
-      "title": "Transformers Neural Networks Explained | NLP with Deep Learning | Deep Learning Course | Edureka",
-      "excerpt": "🔥Edureka Tensorflow Training (Use Code \"𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎\"):  https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka \"𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫𝐬 𝐍𝐞𝐮𝐫𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 𝐄𝐱𝐩𝐥𝐚𝐢𝐧𝐞𝐝\" video will help you in understanding why we need Transformers and what exactly it is. It also",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-transformers-neural-networks-explained-nlp-with-deep-learning-deep-learning-course-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-transformers-neural-networks-explained-nlp-with-deep-learning-deep-learning-course-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=BK9C98J-JHw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BK9C98J-JHw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M1S",
+      "path": "_learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction.md",
+      "title": "3.1 Introduction to N grams | Language Modeling and Spelling Correction",
+      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction/",
+      "originalUrl": "https://youtube.com/watch?v=hM49MPmakNI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hM49MPmakNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M42S",
       "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
+        "name": "Stanford University",
+        "domain": "stanford.edu",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2021-05-21T11:02:12Z",
-      "heat": 53,
+      "publishedDateTime": "2018-01-25T18:39:27Z",
+      "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/BK9C98J-JHw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-45-more-on-sentiment-classification.md",
+      "title": "4.5 More on Sentiment Classification",
+      "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-45-more-on-sentiment-classification/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-45-more-on-sentiment-classification/",
+      "originalUrl": "https://youtube.com/watch?v=B36xM0YJayA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B36xM0YJayA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M15S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-13T22:53:49Z",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B36xM0YJayA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLD01-bYNCVIupR0IQnVCWVdco-ljQ",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -2855,7 +2931,45 @@
       "price": "Free",
       "topics": [
         "AI",
-        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-57-precision-recall-and-the-f-measure-text-classification-and-sentiment-analysis.md",
+      "title": "5.7 Precision, Recall, and the F measure | Text Classification and Sentiment Analysis",
+      "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-57-precision-recall-and-the-f-measure-text-classification-and-sentiment-analysis/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-57-precision-recall-and-the-f-measure-text-classification-and-sentiment-analysis/",
+      "originalUrl": "https://youtube.com/watch?v=mjOgb4T7yyo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mjOgb4T7yyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M17S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T18:41:01Z",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mjOgb4T7yyo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
         "Natural Language Processing"
       ]
     },
@@ -2900,14 +3014,14 @@
       ]
     },
     {
-      "path": "_learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance.md",
-      "title": "1.1 Regular Expressions | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=808M7q8QX0E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/808M7q8QX0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M26S",
+      "path": "_learning/videos/stanford-university-58-text-classification-evaluation-text-classification-and-sentiment-analysis.md",
+      "title": "5.8 Text Classification  Evaluation | Text Classification and Sentiment Analysis",
+      "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-58-text-classification-evaluation-text-classification-and-sentiment-analysis/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-58-text-classification-evaluation-text-classification-and-sentiment-analysis/",
+      "originalUrl": "https://youtube.com/watch?v=NjhVTN19JDI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NjhVTN19JDI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M18S",
       "provider": {
         "name": "Stanford University",
         "domain": "stanford.edu",
@@ -2920,129 +3034,11 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T18:34:51Z",
+      "publishedDateTime": "2018-01-25T18:41:01Z",
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval.md",
-      "title": "7.1 Introduction to Information Retrieval | Information Retrieval",
-      "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-71-introduction-to-information-retrieval-information-retrieval/",
-      "originalUrl": "https://youtube.com/watch?v=kNkCfaH2rxc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kNkCfaH2rxc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M17S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T18:42:38Z",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-stemming-and-lemmatization-tutorial-natural-language-processing-nlp-with-python-edureka.md",
-      "title": "Stemming And Lemmatization Tutorial | Natural Language Processing (NLP) With Python | Edureka",
-      "excerpt": "( **Natural Language Processing Using Python: - https://www.edureka.co/python-natural-language-processing-course **  ) This video will provide you with a detailed and comprehensive knowledge of the two important aspects of Natural Language Processing ie. Stemming and Lemmatization. It will also provide",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-stemming-and-lemmatization-tutorial-natural-language-processing-nlp-with-python-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-stemming-and-lemmatization-tutorial-natural-language-processing-nlp-with-python-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=p1ccbR2P_xA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p1ccbR2P_xA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M45S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-29T05:21:30Z",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/p1ccbR2P_xA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-15-byte-pair-encoding.md",
-      "title": "1.5 Byte Pair Encoding",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-15-byte-pair-encoding/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-15-byte-pair-encoding/",
-      "originalUrl": "https://youtube.com/watch?v=tOMjTCO0htA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tOMjTCO0htA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M38S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-07-13T20:43:09Z",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tOMjTCO0htA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCIrTIXO3bbCJShUTW1urpCnYxc5w",
+          "url": "https://i.ytimg.com/vi/NjhVTN19JDI/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true

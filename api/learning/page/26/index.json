@@ -4,81 +4,21 @@
   "page": 26,
   "value": [
     {
-      "path": "_learning/courses/coursera-feature-engineering.md",
-      "title": "Feature Engineering",
-      "excerpt": "Learn Feature Engineering from Google Cloud. Want to know how you can improve the accuracy of your machine learning models? What about how to find which data columns make the most useful features? Welcome to Feature Engineering on Google Cloud ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-feature-engineering/index.json",
-      "webUrl": "https://www.coursera.org/learn/feature-engineering",
-      "length": "11 hours",
-      "ratings": {
-        "count": 1178,
-        "average": 4.5
-      },
+      "path": "_learning/courses/pytorch-deep-learning-with-pytorch-a-60-minute-blitz.md",
+      "title": "Deep Learning with PyTorch: A 60 Minute Blitz",
+      "excerpt": "Understand PyTorch’s Tensor library and neural networks at a high level. Train a small neural network to classify images",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pytorch-deep-learning-with-pytorch-a-60-minute-blitz/index.json",
+      "webUrl": "https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html",
+      "length": "1 hour",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
+        "name": "pytorch.org",
+        "domain": "pytorch.org",
+        "authors": [
           {
             "path": "",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/0d/974060480611e897b4a91da37aa47d/new-ml-on-gcp-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Feature Engineering",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-foundations-of-data-science-k-means-clustering-in-python.md",
-      "title": "Foundations of Data Science: K-Means Clustering in Python",
-      "excerpt": "Learn Foundations of Data Science: K-Means Clustering in Python from University of London, Goldsmiths, University of London. Organisations all around the world are using data to predict behaviours and extract valuable real-world insights to ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-foundations-of-data-science-k-means-clustering-in-python/index.json",
-      "webUrl": "https://www.coursera.org/learn/data-science-k-means-clustering-python",
-      "length": "26 hours",
-      "ratings": {
-        "count": 33,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Goldsmiths, University of London"
+            "title": "Soumith Chintala",
+            "type": "profile",
+            "name": "Soumith Chintala"
           }
         ]
       },
@@ -86,400 +26,50 @@
         "Beginner"
       ],
       "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e4/9969c017f011e9ab95e949bb9aab53/iStock-897683944---crop.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "url": "https://pytorch.org/tutorials/_images/pytorch-logo-flat.png",
           "width": 400,
-          "height": 400,
-          "title": "Foundations of Data Science: K-Means Clustering in Python",
+          "height": 280,
+          "title": "Deep Learning with PyTorch: A 60 Minute Blitz",
           "isCached": false
         }
       ],
       "content": "",
       "type": "course",
-      "price": "Free+",
+      "price": "Free",
       "topics": [
         "AI",
-        "Machine Learning"
+        "Facebook AI"
       ]
     },
     {
-      "path": "_learning/courses/coursera-foundations-of-mining-non-structured-medical-data.md",
-      "title": "Foundations of mining non-structured medical data",
-      "excerpt": "Learn Foundations of mining non-structured medical data from EIT Digital . The goal of this course is to understand the foundations of Big Data and the data that is being generated in the health domain and how the use of technology would help to ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-foundations-of-mining-non-structured-medical-data/index.json",
-      "webUrl": "https://www.coursera.org/learn/mining-medical-data",
-      "length": "14 hours",
-      "ratings": {
-        "count": 7,
-        "average": 4.0
-      },
+      "path": "_learning/courses/udacity-artificial-intelligence-for-robotics.md",
+      "title": "Artificial Intelligence for Robotics",
+      "excerpt": "Learn how to program all the major systems of a robotic car. Topics include planning, search, localization, tracking, and control.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/udacity-artificial-intelligence-for-robotics/index.json",
+      "webUrl": "https://classroom.udacity.com/courses/cs373",
+      "length": "2 Months",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Udacity",
+        "domain": "udacity.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/udacity.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "publishers": [
+        "authors": [
           {
             "path": "",
-            "name": "EIT Digital"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/eb/54f8202eb611e898ecd96c87a3aeae/logo-curso.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Foundations of mining non-structured medical data",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-fundamentals-of-machine-learning-in-finance.md",
-      "title": "Fundamentals of Machine Learning in Finance",
-      "excerpt": "Learn Fundamentals of Machine Learning in Finance from New York University Tandon School of Engineering. The course aims at helping students to be able to solve practical ML-amenable problems that they may encounter in real life that include: (1) ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-fundamentals-of-machine-learning-in-finance/index.json",
-      "webUrl": "https://www.coursera.org/learn/fundamentals-machine-learning-in-finance",
-      "length": "16 hours",
-      "ratings": {
-        "count": 197,
-        "average": 3.8
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "New York University Tandon School of Engineering"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/eb/0f2dd05d1f11e89522759bcdc70bc2/Supervised-learning-in-Finance.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Fundamentals of Machine Learning in Finance",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-getting-started-with-ai-using-ibm-watson.md",
-      "title": "Getting Started with AI using IBM Watson",
-      "excerpt": "Learn Getting Started with AI using IBM Watson from IBM. In this course you will learn how to quickly and easily get started with Artificial Intelligence using IBM Watson. You will understand how Watson works, become familiar with its use cases ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-getting-started-with-ai-using-ibm-watson/index.json",
-      "webUrl": "https://www.coursera.org/learn/ai-with-ibm-watson",
-      "length": "8 hours",
-      "ratings": {
-        "count": 551,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "IBM"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/29/07ae5499f74eee87afacb368314936/WatsonAI-Avatar.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Getting Started with AI using IBM Watson",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-getting-started-with-aws-machine-learning.md",
-      "title": "Getting Started with AWS Machine Learning",
-      "excerpt": "Learn Getting Started with AWS Machine Learning from Amazon Web Services. Machine learning (ML) is one of the fastest growing areas in technology and a highly sought after skillset in today’s job market. The World Economic Forum states the growth ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-getting-started-with-aws-machine-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/aws-machine-learning",
-      "length": "10 hours",
-      "ratings": {
-        "count": 183,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Amazon Web Services"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/4c/a2b3d72eae428b9022a328718d978e/MachineLearning-02.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Getting Started with AWS Machine Learning",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-google-cloud-platform-big-data-and-machine-learning-fundamentals.md",
-      "title": "Google Cloud Platform Big Data and Machine Learning Fundamentals",
-      "excerpt": "Learn Google Cloud Platform Big Data and Machine Learning Fundamentals from Google Cloud. This 2-week accelerated on-demand course introduces participants to the Big Data and Machine Learning capabilities of Google Cloud Platform (GCP). It ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-google-cloud-platform-big-data-and-machine-learning-fundamentals/index.json",
-      "webUrl": "https://www.coursera.org/learn/gcp-big-data-ml-fundamentals",
-      "length": "13 hours",
-      "ratings": {
-        "count": 7816,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/28/b66a50593d11e79e47c94609bf0c0b/BD-and-ML-Fundamentals-v3.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Google Cloud Platform Big Data and Machine Learning Fundamentals",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-guided-tour-of-machine-learning-in-finance.md",
-      "title": "Guided Tour of Machine Learning in Finance",
-      "excerpt": "Learn Guided Tour of Machine Learning in Finance from New York University Tandon School of Engineering. This course aims at providing an introductory and broad overview of the field of ML with the focus on applications on Finance. Supervised ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-guided-tour-of-machine-learning-in-finance/index.json",
-      "webUrl": "https://www.coursera.org/learn/guided-tour-machine-learning-finance",
-      "length": "21 hours",
-      "ratings": {
-        "count": 410,
-        "average": 3.8
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "New York University Tandon School of Engineering"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/9b/c1b1b05d1c11e88be577e07ffecb19/Guided-Tour-of-Machine-Learning-in-Finance.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Guided Tour of Machine Learning in Finance",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-how-google-does-machine-learning.md",
-      "title": "How Google does Machine Learning",
-      "excerpt": "Learn How Google does Machine Learning from Google Cloud. What is machine learning, and what kinds of problems can it solve? Google thinks about machine learning slightly differently -- of being about logic, rather than just data. We talk about ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-how-google-does-machine-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/google-machine-learning",
-      "length": "10 hours",
-      "ratings": {
-        "count": 4407,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5e/5c506015cc11e89638a9d3cc15d317/new-ml-on-gcp-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "How Google does Machine Learning",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-how-to-win-a-data-science-competition-learn-from-top-kagglers.md",
-      "title": "How to Win a Data Science Competition: Learn from Top Kagglers",
-      "excerpt": "Learn How to Win a Data Science Competition: Learn from Top Kagglers from National Research University Higher School of Economics. If you want to break into competitive data science, then this course is for you! Participating in predictive ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-how-to-win-a-data-science-competition-learn-from-top-kagglers/index.json",
-      "webUrl": "https://www.coursera.org/learn/competitive-data-science",
-      "length": "48 hours",
-      "ratings": {
-        "count": 735,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "National Research University Higher School of Economics"
+            "title": "Sebastian Thrun",
+            "type": "profile",
+            "name": "Sebastian Thrun"
           }
         ]
       },
@@ -489,38 +79,35 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/90/7df840ad9011e788128bc3971f6593/How-to-win-a-Kaggle-competition2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "How to Win a Data Science Competition: Learn from Top Kagglers",
+          "url": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs373_thumbnail.jpg",
+          "width": 436,
+          "height": 268,
+          "title": "Artificial Intelligence for Robotics",
           "isCached": false
         }
       ],
       "content": "",
       "type": "course",
-      "price": "Free+",
+      "price": "Free",
       "topics": [
         "AI",
-        "Machine Learning"
+        "AI in Robotics",
+        "AI in Autos"
       ]
     },
     {
-      "path": "_learning/courses/coursera-image-understanding-with-tensorflow-on-gcp.md",
-      "title": "Image Understanding with TensorFlow on GCP",
-      "excerpt": "Learn Image Understanding with TensorFlow on GCP from Google Cloud. This is the third course of the Advanced Machine Learning on GCP specialization. In this course, We will take a look at different strategies for building an image classifier ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-image-understanding-with-tensorflow-on-gcp/index.json",
-      "webUrl": "https://www.coursera.org/learn/image-understanding-tensorflow-gcp",
-      "length": "12 hours",
-      "ratings": {
-        "count": 341,
-        "average": 4.6
-      },
+      "path": "_learning/courses/udacity-intro-to-deep-learning-with-pytorch.md",
+      "title": "Intro to Deep Learning with PyTorch",
+      "excerpt": "In this course, you’ll learn the basics of deep learning, and build your own deep neural networks using PyTorch. You’ll get practical experience with PyTorch through coding exercises and projects implementing state-of-the-art AI applications such as style transfer and text generation.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/udacity-intro-to-deep-learning-with-pytorch/index.json",
+      "webUrl": "https://classroom.udacity.com/courses/ud188",
+      "length": "2 Months",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Udacity",
+        "domain": "udacity.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/udacity.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -529,7 +116,7 @@
         "publishers": [
           {
             "path": "",
-            "name": "Google Cloud"
+            "name": "Facebook AI"
           }
         ]
       },
@@ -538,179 +125,55 @@
       ],
       "heat": 50,
       "tags": [
-        "TensorFlow"
+        "PyTorch"
       ],
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a4/99eae0bd3f11e88d1bdf247fdfe9da/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Image Understanding with TensorFlow on GCP",
+          "url": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud188_thumbnail.jpg",
+          "width": 280,
+          "height": 240,
+          "title": "Intro to Deep Learning with PyTorch",
           "isCached": false
         }
       ],
       "content": "",
       "type": "course",
-      "price": "Free+",
+      "price": "Free",
       "topics": [
         "AI",
-        "Google AI",
-        "TensorFlow"
+        "Facebook AI"
       ]
     },
     {
-      "path": "_learning/courses/coursera-improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization.md",
-      "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
-      "excerpt": "Learn Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization from deeplearning.ai. This course will teach you the \"magic\" of getting deep learning to work well. Rather than the deep learning process being a black ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization/index.json",
-      "webUrl": "https://www.coursera.org/learn/deep-neural-network",
-      "length": "15 hours",
-      "ratings": {
-        "count": 43991,
-        "average": 4.9
-      },
+      "path": "_learning/courses/udacity-intro-to-machine-learning.md",
+      "title": "Intro to Machine Learning",
+      "excerpt": "This class will teach you the end-to-end process of investigating data through a machine learning lens, and you'll apply what you've learned to a real-world data set.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/udacity-intro-to-machine-learning/index.json",
+      "webUrl": "https://classroom.udacity.com/courses/cs271",
+      "length": "10 Weeks",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Udacity",
+        "domain": "udacity.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/udacity.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "publishers": [
+        "authors": [
           {
             "path": "",
-            "name": "deeplearning.ai",
-            "domain": "deeplearning.ai",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "TensorFlow"
-      ],
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/13/668720104e11e8a36507b34cf4fa75/CarouselAds_DL_Tuning.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-intro-to-tensorflow.md",
-      "title": "Intro to TensorFlow",
-      "excerpt": "Learn Intro to TensorFlow from Google Cloud. We introduce low-level TensorFlow and work our way through the necessary concepts and APIs so as to be able to write distributed machine learning models. Given a TensorFlow model, we explain how to ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-intro-to-tensorflow/index.json",
-      "webUrl": "https://www.coursera.org/learn/intro-tensorflow",
-      "length": "10 hours",
-      "ratings": {
-        "count": 1992,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
+            "title": "Katie Malone",
+            "type": "profile",
+            "name": "Katie Malone"
+          },
           {
             "path": "",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "TensorFlow"
-      ],
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a8/c5509017f511e8841b697778604607/new-ml-on-gcp-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Intro to TensorFlow",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-introduction-to-applied-machine-learning.md",
-      "title": "Introduction to Applied Machine Learning",
-      "excerpt": "Learn Introduction to Applied Machine Learning from Alberta Machine Intelligence Institute. This course is for professionals who have heard the buzz around machine learning and want to apply machine learning to data analysis and automation. ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-introduction-to-applied-machine-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/machine-learning-applied",
-      "length": "8 hours",
-      "ratings": {
-        "count": 95,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Stanford",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
+            "title": "Sebastian Thrun",
+            "type": "profile",
+            "name": "Sebastian Thrun"
           }
         ]
       },
@@ -720,407 +183,946 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/bd/5ffa7dc5044d0faf48167516ba55f1/ML-Intro-to-Machine-Learning_1.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Introduction to Applied Machine Learning",
+          "url": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud120_thumbnail.jpg",
+          "width": 300,
+          "height": 184,
+          "title": "Intro to Machine Learning",
           "isCached": false
         }
       ],
       "content": "",
       "type": "course",
-      "price": "Free+",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/coursera-introduction-to-artificial-intelligence-ai.md",
-      "title": "Introduction to Artificial Intelligence (AI)",
-      "excerpt": "Learn Introduction to Artificial Intelligence (AI) from IBM. In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-introduction-to-artificial-intelligence-ai/index.json",
-      "webUrl": "https://www.coursera.org/learn/introduction-to-ai",
-      "length": "9 hours",
-      "ratings": {
-        "count": 1178,
-        "average": 4.7
-      },
+      "path": "_learning/courses/udacity-introduction-to-computer-vision.md",
+      "title": "Introduction to Computer Vision",
+      "excerpt": "This course provides an introduction to computer vision including fundamentals of image formation, camera imaging geometry, feature detection and matching, multiview geometry including stereo, motion estimation and tracking, and classification. We’ll develop basic methods for applications that include finding known models in images, depth recovery from stereo, camera calibration, image stabilization, automated alignment (e.g. panoramas), tracking, and action recognition. We focus less on the machine learning aspect of CV as that is really classification theory best learned in an ML course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/udacity-introduction-to-computer-vision/index.json",
+      "webUrl": "https://classroom.udacity.com/courses/ud810",
+      "length": "4 Months",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Udacity",
+        "domain": "udacity.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/udacity.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "publishers": [
+        "authors": [
           {
             "path": "",
-            "name": "IBM",
-            "domain": "ibm.com",
-            "images": [
-              {
-                "url": "/assets/images/organizations/ibm.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
+            "title": "Aaron Bobick",
+            "type": "profile",
+            "name": "Aaron Bobick"
+          },
+          {
+            "path": "",
+            "title": "Irfan Essa",
+            "type": "profile",
+            "name": "Irfan Essa"
+          },
+          {
+            "path": "",
+            "title": "Arpan Chakraborty",
+            "type": "profile",
+            "name": "Arpan Chakraborty"
           }
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f7/9812f978144ce8ac721727bc516cb0/Intro-to-AI-Naimo.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Introduction to Artificial Intelligence (AI)",
+          "url": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud810_thumbnail.jpg",
+          "width": 300,
+          "height": 184,
+          "title": "Introduction to Computer Vision",
           "isCached": false
         }
       ],
       "content": "",
       "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-introduction-to-computer-vision-with-watson-and-opencv.md",
-      "title": "Introduction to Computer Vision with Watson and OpenCV",
-      "excerpt": "Learn Introduction to Computer Vision with Watson and OpenCV from IBM. Computer Vision is one of the most exciting fields in Machine Learning and AI. It has applications in many industries such as self-driving cars, robotics, augmented reality, ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-introduction-to-computer-vision-with-watson-and-opencv/index.json",
-      "webUrl": "https://www.coursera.org/learn/introduction-computer-vision-watson-opencv",
-      "length": "14 hours",
-      "ratings": {
-        "count": 293,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "IBM",
-            "domain": "ibm.com",
-            "images": [
-              {
-                "url": "/assets/images/organizations/ibm.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ea/c905977976478d866469a141228118/ComputerVision532x532.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Introduction to Computer Vision with Watson and OpenCV",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
+      "price": "Free",
       "topics": [
         "AI",
         "Computer Vision"
       ]
     },
     {
-      "path": "_learning/courses/coursera-introduction-to-deep-learning-neural-networks-with-keras.md",
-      "title": "Introduction to Deep Learning & Neural Networks with Keras",
-      "excerpt": "Learn Introduction to Deep Learning & Neural Networks with Keras from IBM. Looking to start a career in Deep Learning? Look no further. This course will introduce you to the field of deep learning and help you answer many questions that people ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-introduction-to-deep-learning-neural-networks-with-keras/index.json",
-      "webUrl": "https://www.coursera.org/learn/introduction-to-deep-learning-with-keras",
-      "length": "9 hours",
-      "ratings": {
-        "count": 344,
-        "average": 4.7
-      },
+      "path": "_learning/courses/udemy-pytorch-for-deep-learning-with-python-bootcamp.md",
+      "title": "PyTorch for Deep Learning with Python Bootcamp",
+      "excerpt": "Learn how to create state of the art neural networks for deep learning with Facebook's PyTorch Deep Learning library!",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/udemy-pytorch-for-deep-learning-with-python-bootcamp/index.json",
+      "webUrl": "https://www.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/",
+      "length": "17 hours",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Udemy",
+        "domain": "udemy.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/udemy.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "publishers": [
+        "authors": [
           {
             "path": "",
-            "name": "IBM",
-            "domain": "ibm.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
+            "title": "Jose Portilla",
+            "type": "profile",
+            "name": "Jose Portilla"
           }
         ]
       },
       "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "Keras"
-      ],
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/25/015d50594c4e74b6e2099114a37905/Brain-under-layers-of-circuit-boards.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Introduction to Deep Learning &amp; Neural Networks with Keras",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-introduction-to-deep-learning.md",
-      "title": "Introduction to Deep Learning",
-      "excerpt": "Learn Introduction to Deep Learning from National Research University Higher School of Economics. The goal of this course is to give learners basic understanding of modern neural networks and their applications in computer vision and natural ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-introduction-to-deep-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/intro-to-deep-learning",
-      "length": "36 hours",
-      "ratings": {
-        "count": 1192,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "National Research University Higher School of Economics"
-          }
-        ]
-      },
-      "levels": [
+        "Intermediate",
         "Advanced"
       ],
       "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/30/4d89508f2111e7be561d79af9860d8/Introduction-to-deep-learning2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Introduction to Deep Learning",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-introduction-to-machine-learning.md",
-      "title": "Introduction to Machine Learning",
-      "excerpt": "Learn Introduction to Machine Learning from Duke University. This course will provide you a foundational understanding of machine learning models (logistic regression, multilayer perceptrons, convolutional neural networks, natural language ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-introduction-to-machine-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/machine-learning-duke",
-      "length": "15 hours",
-      "ratings": {
-        "count": 155,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Duke University"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/8f/7afa60cbe911e8a233973e775a70ad/machine-learning-3.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Introduction to Machine Learning",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-introduction-to-self-driving-cars.md",
-      "title": "Introduction to Self-Driving Cars",
-      "excerpt": "Learn Introduction to Self-Driving Cars from University of Toronto. Welcome to Introduction to Self-Driving Cars, the first course in University of Toronto’s Self-Driving Cars Specialization.   This course will introduce you to the terminology, ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-introduction-to-self-driving-cars/index.json",
-      "webUrl": "https://www.coursera.org/learn/intro-self-driving-cars",
-      "length": "26 hours",
-      "ratings": {
-        "count": 525,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of Toronto"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/21/a6dc70145511e99e7a6de68fdc7932/Course1.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Introduction to Self-Driving Cars",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning.md",
-      "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
-      "excerpt": "Learn Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/introduction-tensorflow",
-      "length": "9 hours",
-      "ratings": {
-        "count": 6138,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "deeplearning.ai",
-            "domain": "deeplearning.ai",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
       "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://i.udemycdn.com/course/240x135/2373814_6e99_2.jpg",
+          "width": 240,
+          "height": 135,
+          "title": "PyTorch for Deep Learning with Python Bootcamp",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/youtube-hvass-lab-tensorflow-tutorials.md",
+      "title": "TensorFlow Tutorials",
+      "excerpt": "A nice step-by-step illustration of TensorFlow and Google Convolutional Neural Network (CNN) Inception model.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/youtube-hvass-lab-tensorflow-tutorials/index.json",
+      "webUrl": "https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ",
+      "length": "2 days",
+      "provider": {
+        "name": "Hvass Labs",
+        "domain": "hvass-labs.org"
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "http://i3.ytimg.com/vi/er8RQZoX3yk/maxresdefault.jpg",
+          "width": 839,
+          "height": 472,
+          "title": "TensorFlow Tutorials",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Google AI",
         "TensorFlow"
-      ],
+      ]
+    },
+    {
+      "path": "_learning/videos/dotnet-build-a-ml-model-for-github-issue-classification-mlnet-5-of-8.md",
+      "title": "Build a ML model for GitHub Issue classification | ML.NET [5 of 8]",
+      "excerpt": "In the world of ML.NET there is a high-volume of interaction with GitHub. This video will teach you how to classify incoming GitHub issues into one of the many tags (labels) using a multi-class classification algorithm.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here:",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-github-issue-classification-mlnet-5-of-8/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-github-issue-classification-mlnet-5-of-8/",
+      "originalUrl": "https://youtube.com/watch?v=spPq7PdnmRs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/spPq7PdnmRs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M25S",
+      "provider": {
+        "name": "dotNET",
+        "domain": "dotnet.microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-20T01:45:35Z",
+      "heat": 50,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/84/01ea39d1be4ab0aab85911baba4786/TFC1SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/spPq7PdnmRs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "",
-      "type": "course",
-      "price": "Free+",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/dotnet-build-a-ml-model-for-movie-recommendation-mlnet-7-of-8.md",
+      "title": "Build a ML model for Movie Recommendation | ML.NET [7 of 8]",
+      "excerpt": "Following our last video, here are even more ways to use the model builder with ML.NET. In this video, we learn how to recommend movies for users using colloborative filtering based recommendation approach.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-movie-recommendation-mlnet-7-of-8/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-movie-recommendation-mlnet-7-of-8/",
+      "originalUrl": "https://youtube.com/watch?v=f2KIjQCVN0A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f2KIjQCVN0A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M40S",
+      "provider": {
+        "name": "dotNET",
+        "domain": "dotnet.microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-20T02:30:46Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/f2KIjQCVN0A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8.md",
+      "title": "Build a ML model for predicting taxi fares | ML.NET [6 of 8]",
+      "excerpt": "There are tons of different ways to use the model builder with ML.NET. In this video, we learn how to predict taxi fares based on distance traveled, trip time etc. using a regression algorithm.   Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8/",
+      "originalUrl": "https://youtube.com/watch?v=CnmmhxGUgqg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CnmmhxGUgqg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M32S",
+      "provider": {
+        "name": "dotNET",
+        "domain": "dotnet.microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-20T02:22:31Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CnmmhxGUgqg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8.md",
+      "title": "Build a ML model for Sentiment Analysis | ML.NET [4 of 8]",
+      "excerpt": "In this video, we will cover how to build a ML model for sentiment analysis of customer reviews using a binary classification algorithm.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8/",
+      "originalUrl": "https://youtube.com/watch?v=p3kHlpLvWNI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p3kHlpLvWNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M18S",
+      "provider": {
+        "name": "dotNET",
+        "domain": "dotnet.microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-20T01:21:27Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/p3kHlpLvWNI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8.md",
+      "title": "Deep learning with ML.NET: Image Classification | ML.NET [8 of 8]",
+      "excerpt": "Deep learning enables many more scenarios using sound, images, text and other data types. Learn how to build an Image Classification model to classify flowers (daisies, roses etc.).  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8/",
+      "originalUrl": "https://youtube.com/watch?v=C9p38jXKhB0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C9p38jXKhB0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M46S",
+      "provider": {
+        "name": "dotNET",
+        "domain": "dotnet.microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-20T02:40:52Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/C9p38jXKhB0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-10-must-have-machine-learning-engineer-skills-that-will-get-you-hired-ml-engineer-skills-edureka.md",
+      "title": "10 Must Have Machine Learning Engineer Skills That Will Get You Hired | ML Engineer Skills | Edureka",
+      "excerpt": "** Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training ** This video will provide you with a Crisp Knowledge of the skills required to become a Machine Learning Engineer. It covers the Technical as well as the Non-Technical skills.  Check",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-10-must-have-machine-learning-engineer-skills-that-will-get-you-hired-ml-engineer-skills-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-10-must-have-machine-learning-engineer-skills-that-will-get-you-hired-ml-engineer-skills-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=Dml0gMJxwWI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Dml0gMJxwWI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M41S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-12-20T13:43:15Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Dml0gMJxwWI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-ai-in-space-science-future-of-artificial-intelligence-artificial-intelligence-training-edureka.md",
+      "title": "AI in Space Science | Future of Artificial Intelligence | Artificial Intelligence Training | Edureka",
+      "excerpt": "🔥Edureka PGP in AI & ML: https://www.edureka.co/post-graduate/machine-learning-and-ai This Edureka video gives you a brief overview of AI and how it has been exponentially impacting space science. In this quick guide, the following topics will be covered:  What is AI? Existing Feats In Space Science",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-ai-in-space-science-future-of-artificial-intelligence-artificial-intelligence-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-ai-in-space-science-future-of-artificial-intelligence-artificial-intelligence-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=Y2vMNCNM4_c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y2vMNCNM4_c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M32S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-24T13:45:11Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Y2vMNCNM4_c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-ai-roadmap-for-2021-learn-ai-artificial-intelligence-careers-data-science-training-edureka.md",
+      "title": "AI Roadmap For 2021 | Learn AI | Artificial Intelligence Careers | Data Science Training | Edureka",
+      "excerpt": "🔥Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka video on \"AI Roadmap For 2021” will provide you with comprehensive and detailed knowledge on the artificial intelligence roadmap based on career, skills, and job roles.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-ai-roadmap-for-2021-learn-ai-artificial-intelligence-careers-data-science-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-ai-roadmap-for-2021-learn-ai-artificial-intelligence-careers-data-science-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=bZwpXEgG0to",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bZwpXEgG0to\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M41S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-23T12:50:47Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bZwpXEgG0to/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-ai-roadmap-for-2021-learn-ai-artificial-intelligence-careers-edureka-rewind.md",
+      "title": "AI Roadmap For 2021 | Learn AI | Artificial Intelligence Careers | Edureka Rewind",
+      "excerpt": "🔥Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka video on \"AI Roadmap For 2021” will provide you with comprehensive and detailed knowledge on the artificial intelligence roadmap based on career, skills, and job roles.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-ai-roadmap-for-2021-learn-ai-artificial-intelligence-careers-edureka-rewind/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-ai-roadmap-for-2021-learn-ai-artificial-intelligence-careers-edureka-rewind/",
+      "originalUrl": "https://youtube.com/watch?v=FgzDw23vPDg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FgzDw23vPDg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M22S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-08-07T22:20:35Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FgzDw23vPDg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-ai-tutorial-for-beginners-ai-training-edureka-deep-learning-rewind-3.md",
+      "title": "AI Tutorial For Beginners | AI Training | Edureka | Deep Learning Rewind - 3",
+      "excerpt": "🔥 Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training  This Edureka video on \"Artificial Intelligence\" will provide you with a comprehensive and detailed knowledge of Artificial Intelligence concepts with hands-on examples.  Check our",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-ai-tutorial-for-beginners-ai-training-edureka-deep-learning-rewind-3/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-ai-tutorial-for-beginners-ai-training-edureka-deep-learning-rewind-3/",
+      "originalUrl": "https://youtube.com/watch?v=QrrJ21UlTmI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QrrJ21UlTmI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M37S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-09-17T09:47:41Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QrrJ21UlTmI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-ai-tutorial-for-beginners-ai-training-edureka-deep-learning-rewind-4.md",
+      "title": "AI Tutorial For Beginners | AI Training | Edureka | Deep Learning Rewind - 4",
+      "excerpt": "🔥 Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training  This Edureka video on \"Artificial Intelligence\" will provide you with a comprehensive and detailed knowledge of Artificial Intelligence concepts with hands-on examples.  Check our",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-ai-tutorial-for-beginners-ai-training-edureka-deep-learning-rewind-4/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-ai-tutorial-for-beginners-ai-training-edureka-deep-learning-rewind-4/",
+      "originalUrl": "https://youtube.com/watch?v=M54YSCB1q5w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M54YSCB1q5w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M37S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-09-22T08:33:33Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M54YSCB1q5w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-ai-vs-ml-vs-deep-learning-difference-between-ai-ml-and-dl-ai-ml-training-edureka-rewind.md",
+      "title": "AI vs ML vs Deep Learning | Difference between AI, ML and DL | AI-ML Training | Edureka Rewind",
+      "excerpt": "🔥Edureka  NIT Warangal Post Graduate Program on AI and Machine Learning: https://www.edureka.co/nitw-ai-ml-pgp  This Edureka Machine Learning tutorial on \"AI vs ML vs Deep Learning\" talks about the differences and relationship between AI, Machine Learning and Deep Learning.   🔷🔸🔷🔸𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-ai-vs-ml-vs-deep-learning-difference-between-ai-ml-and-dl-ai-ml-training-edureka-rewind/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-ai-vs-ml-vs-deep-learning-difference-between-ai-ml-and-dl-ai-ml-training-edureka-rewind/",
+      "originalUrl": "https://youtube.com/watch?v=XXr5RnWzskA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XXr5RnWzskA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT47M18S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-08-15T22:42:42Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XXr5RnWzskA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-aiml-facemask-detector-mask-detection-using-opencv-python-data-science-training-edureka.md",
+      "title": "AIML Facemask Detector | Mask Detection Using OpenCV Python | Data Science Training | Edureka",
+      "excerpt": "🔥Data Scientist Masters Program: https://www.edureka.co/masters-program/data-scientist-certification This \"Machine Learning with R\" video by Edureka will help you to understand the core concepts of  Machine Learning followed by hands-on.   Check our complete Data Science playlist here: https://goo.gl/60NJJS",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-aiml-facemask-detector-mask-detection-using-opencv-python-data-science-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-aiml-facemask-detector-mask-detection-using-opencv-python-data-science-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=QDH7cwDlixQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QDH7cwDlixQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M59S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-22T16:26:14Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QDH7cwDlixQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-analyzing-recent-covid-19-trends-using-python-covid-19-data-analysis-python-training-edureka.md",
+      "title": "Analyzing Recent COVID-19 Trends Using Python | COVID-19 Data Analysis | Python Training | Edureka",
+      "excerpt": "🔥Data Scientist Masters Program: https://www.edureka.co/masters-program/data-scientist-certification This Edureka video on \"Analyzing Recent COVID-19 Trends using Python\", will help you understand how to, collect,  pre-process, and visualize raw data so as to derive insights from it. Following topics",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-analyzing-recent-covid-19-trends-using-python-covid-19-data-analysis-python-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-analyzing-recent-covid-19-trends-using-python-covid-19-data-analysis-python-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=3ZacJ9zRVOU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3ZacJ9zRVOU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H4M17S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-24T10:05:47Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3ZacJ9zRVOU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-artificial-intelligence-tutorial-for-beginners-edureka-deep-learning-rewind-3.md",
+      "title": "Artificial Intelligence Tutorial for beginners | Edureka | Deep Learning Rewind - 3",
+      "excerpt": "🔥Edureka Tensorflow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka video on \"Artificial Intelligence Tutorial\" will provide you with a detailed and comprehensive knowledge of Artificial Intelligence and also give you real-life examples where AI is being used and the",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-artificial-intelligence-tutorial-for-beginners-edureka-deep-learning-rewind-3/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-artificial-intelligence-tutorial-for-beginners-edureka-deep-learning-rewind-3/",
+      "originalUrl": "https://youtube.com/watch?v=oB1-27Qk4sU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oB1-27Qk4sU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M37S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-08-11T20:02:15Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oB1-27Qk4sU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-azure-machine-learning-tutorial-azure-tutorial-azure-training-edureka.md",
+      "title": "Azure Machine Learning Tutorial | Azure Tutorial | Azure Training | Edureka",
+      "excerpt": "(Microsoft Azure Certification Training: https://www.edureka.co/microsoft-certified-azure-solution-architect-certification-training )  This Edureka \"Azure Machine Learning” tutorial will give you a thorough and insightful overview of Microsoft Azure ML Studio and also help you understand the fundamentals",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-azure-machine-learning-tutorial-azure-tutorial-azure-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-azure-machine-learning-tutorial-azure-tutorial-azure-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=nNHSlpJMOJs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nNHSlpJMOJs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M24S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-11-08T14:04:32Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nNHSlpJMOJs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-backpropagation-and-gradient-descent-tutorial-deep-learning-tutorial-part-2-edureka.md",
+      "title": "Backpropagation And Gradient Descent Tutorial | Deep Learning Tutorial - Part 2 | Edureka",
+      "excerpt": "TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow    Part - 1 Introduction to Neural Networks: https://www.youtube.com/watch?v=WLxI4D01nj8 This Edureka video on \"Backpropagation and Gradient Descent Tutorial\" is part 2 of the neural network series. It will provide you with",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-backpropagation-and-gradient-descent-tutorial-deep-learning-tutorial-part-2-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-backpropagation-and-gradient-descent-tutorial-deep-learning-tutorial-part-2-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=Dws9Zveu9ug",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Dws9Zveu9ug\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M11S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-09-04T11:29:11Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Dws9Zveu9ug/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-best-python-libraries-for-data-science-machine-learning-data-science-python-libraries-edureka.md",
+      "title": "Best Python Libraries For Data Science & Machine Learning | Data Science Python Libraries | Edureka",
+      "excerpt": "** Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training **   This Edureka session will focus on the top Python libraries that you should know to master Data Science and Machine Learning. Here’s a list of topics that are covered in this session:",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-best-python-libraries-for-data-science-machine-learning-data-science-python-libraries-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-best-python-libraries-for-data-science-machine-learning-data-science-python-libraries-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=LepMvJdr2-w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LepMvJdr2-w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M10S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-12T13:13:29Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LepMvJdr2-w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-cancer-detection-using-deep-learning-deep-learning-projects-edureka-dl-rewind-4.md",
+      "title": "Cancer Detection Using Deep Learning | Deep Learning Projects | Edureka | DL Rewind - 4",
+      "excerpt": "🔥Edureka Deep Learning With TensorFlow (𝐔𝐬𝐞 𝐂𝐨𝐝𝐞: 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎): https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka video on 𝐂𝐚𝐧𝐜𝐞𝐫 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐔𝐬𝐢𝐧𝐠 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, will help you understand how to develop models using Convolution Neural Networks.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-cancer-detection-using-deep-learning-deep-learning-projects-edureka-dl-rewind-4/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-cancer-detection-using-deep-learning-deep-learning-projects-edureka-dl-rewind-4/",
+      "originalUrl": "https://youtube.com/watch?v=9LoGPCzk5CA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9LoGPCzk5CA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M27S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-09-26T17:57:28Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9LoGPCzk5CA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-classifying-hand-written-digits-using-tensorflow-deep-learning-tutorial-part-3-edureka.md",
+      "title": "Classifying Hand Written Digits Using TensorFlow |  Deep Learning Tutorial: Part -3  | Edureka",
+      "excerpt": "(TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow) Part - 1 Introduction to Neural Networks: https://www.youtube.com/watch?v=WLxI4D01nj8 Part - 2 Backpropagation and Stochastic Gradient Descent: https://www.youtube.com/watch?v=Dws9Zveu9ug This video is the final part of the",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-classifying-hand-written-digits-using-tensorflow-deep-learning-tutorial-part-3-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-classifying-hand-written-digits-using-tensorflow-deep-learning-tutorial-part-3-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=ljDYxK4D4os",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ljDYxK4D4os\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M31S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-27T13:39:35Z",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ljDYxK4D4os/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning",
@@ -1129,455 +1131,117 @@
       ]
     },
     {
-      "path": "_learning/courses/coursera-launching-into-machine-learning.md",
-      "title": "Launching into Machine Learning",
-      "excerpt": "Learn Launching into Machine Learning from Google Cloud. Starting from a history of machine learning, we discuss why neural networks today perform so well in a variety of data science problems. We then discuss how to set up a supervised learning ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-launching-into-machine-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/launching-machine-learning",
-      "length": "7 hours",
-      "ratings": {
-        "count": 3078,
-        "average": 4.6
-      },
+      "path": "_learning/videos/edureka-climate-change-prediction-using-time-series-python-projects-edureka-deep-learning-rewind-5.md",
+      "title": "Climate Change Prediction using Time Series | Python Projects | Edureka | Deep Learning Rewind - 5",
+      "excerpt": "🔥Edureka Data Science Master Program: https://www.edureka.co/masters-program/data-scientist-certification This Edureka video on \" Climate Change Visualization ” will provide you with a comprehensive and detailed understanding of what is time series analysis and how to apply it to time series data to",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-climate-change-prediction-using-time-series-python-projects-edureka-deep-learning-rewind-5/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-climate-change-prediction-using-time-series-python-projects-edureka-deep-learning-rewind-5/",
+      "originalUrl": "https://youtube.com/watch?v=HhHAnNZTdTw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HhHAnNZTdTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M45S",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Google Cloud"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
+      "publishedDateTime": "2021-09-22T08:36:08Z",
       "heat": 50,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a8/c5509017f511e8841b697778604607/new-ml-on-gcp-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Launching into Machine Learning",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/HhHAnNZTdTw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "",
-      "type": "course",
-      "price": "Free+",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/coursera-leveraging-unstructured-data-with-cloud-dataproc-on-google-cloud-platform.md",
-      "title": "Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform",
-      "excerpt": "Learn Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform from Google Cloud. This 1-week, accelerated course builds upon previous courses in the Data Engineering on Google Cloud Platform specialization. Through a combination ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-leveraging-unstructured-data-with-cloud-dataproc-on-google-cloud-platform/index.json",
-      "webUrl": "https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp",
-      "length": "9 hours",
-      "ratings": {
-        "count": 3968,
-        "average": 4.6
-      },
+      "path": "_learning/videos/edureka-clustering-algorithms-data-science-algorithms-edureka-ml-rewind-3.md",
+      "title": "Clustering Algorithms | Data Science Algorithms | Edureka | ML Rewind - 3",
+      "excerpt": "🔥Machine Learning Training with Python: https://www.edureka.co/machine-learning-certification-training This Edureka video on \"Clustering Algorithms\" will help you understand the various aspects of clustering using K Means in Python.  🔴Subscribe to our channel to get video updates. Hit the subscribe",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-clustering-algorithms-data-science-algorithms-edureka-ml-rewind-3/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-clustering-algorithms-data-science-algorithms-edureka-ml-rewind-3/",
+      "originalUrl": "https://youtube.com/watch?v=7Syfdi6z-d8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Syfdi6z-d8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M27S",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Google Cloud"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
+      "publishedDateTime": "2021-09-14T05:09:56Z",
       "heat": 50,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a4/8304e0593811e7af1c57a4dfe97731/Dataproc.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/7Syfdi6z-d8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "",
-      "type": "course",
-      "price": "Free+",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/coursera-machine-learning-algorithms-supervised-learning-tip-to-tail.md",
-      "title": "Machine Learning Algorithms: Supervised Learning Tip to Tail",
-      "excerpt": "Learn Machine Learning Algorithms: Supervised Learning Tip to Tail from Alberta Machine Intelligence Institute. This course takes you from understanding the fundamentals of a machine learning project. Learners will understand and implement ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-algorithms-supervised-learning-tip-to-tail/index.json",
-      "webUrl": "https://www.coursera.org/learn/machine-learning-classification-algorithms",
-      "length": "11 hours",
-      "ratings": {
-        "count": 31,
-        "average": 4.8
-      },
+      "path": "_learning/videos/edureka-color-old-photographs-using-autoencoders-machine-learning-projects-4-ml-training-edureka.md",
+      "title": "Color Old Photographs Using Autoencoders | Machine Learning Projects - 4 | ML Training | Edureka",
+      "excerpt": "🔥 Edureka Machine Learning Certification training (𝐔𝐬𝐞 𝐂𝐨𝐝𝐞: 𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎):  https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka video on '𝐂𝐨𝐥𝐨𝐫 𝐎𝐥𝐝 𝐏𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐬 𝐔𝐬𝐢𝐧𝐠 𝐀𝐮𝐭𝐨𝐞𝐧𝐜𝐨𝐝𝐞𝐫𝐬' will give you an overview of how to",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-color-old-photographs-using-autoencoders-machine-learning-projects-4-ml-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-color-old-photographs-using-autoencoders-machine-learning-projects-4-ml-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=lLy0sRmxVvo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lLy0sRmxVvo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT35M46S",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Alberta Machine Intelligence Institute"
-          }
         ]
       },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
+      "publishedDateTime": "2021-07-28T13:06:22Z",
       "heat": 50,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7e/3d961d3f3947fb9cac508a4f4ca41a/ML-Supervised-Learning-Tip-to-Tail_1.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Machine Learning Algorithms: Supervised Learning Tip to Tail",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/lLy0sRmxVvo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-machine-learning-classification.md",
-      "title": "Machine Learning: Classification",
-      "excerpt": "Learn Machine Learning: Classification from University of Washington. Case Studies: Analyzing Sentiment & Loan Default Prediction  In our case study on analyzing sentiment, you will create models that predict a class (positive/negative sentiment) ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-classification/index.json",
-      "webUrl": "https://www.coursera.org/learn/ml-classification",
-      "length": "42 hours",
-      "ratings": {
-        "count": 2918,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of Washington"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b1/37a1a04d0011e59bd777c2a1ef6a6e/gears-818461_1280.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Machine Learning: Classification",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-machine-learning-clustering-amp-retrieval.md",
-      "title": "Machine Learning: Clustering &amp; Retrieval",
-      "excerpt": "Learn Machine Learning: Clustering & Retrieval from University of Washington. Case Studies: Finding Similar Documents  A reader is interested in a specific news article and you want to find similar articles to recommend.  What is the right notion ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-clustering-amp-retrieval/index.json",
-      "webUrl": "https://www.coursera.org/learn/ml-clustering-and-retrieval",
-      "length": "48 hours",
-      "ratings": {
-        "count": 1792,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of Washington"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/80/907e004d0011e5aa3207874406679c/gears-818461_1280.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Machine Learning: Clustering &amp; Retrieval",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-machine-learning-for-all.md",
-      "title": "Machine Learning for All",
-      "excerpt": "Learn Machine Learning for All from University of London. Machine Learning, often called Artificial Intelligence or AI, is one of the most exciting areas of technology at the moment. We see daily news stories that herald new breakthroughs in ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-for-all/index.json",
-      "webUrl": "https://www.coursera.org/learn/uol-machine-learning-for-all",
-      "length": "13 hours",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of London"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b5/8cd52cec40414c86470014b8042ecf/3657_UoL_Online-BSc-Computer-Science-Programme_MOOC-Icons_How-Comps-Work_05.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Machine Learning for All",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-machine-learning-for-business-professionals.md",
-      "title": "Machine Learning for Business Professionals",
-      "excerpt": "Learn Machine Learning for Business Professionals from Google Cloud. This course is intended to be an introduction to machine learning for non-technical business professionals. There is a lot of hype around machine learning and many people are ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-for-business-professionals/index.json",
-      "webUrl": "https://www.coursera.org/learn/machine-learning-business-professionals",
-      "length": "17 hours",
-      "ratings": {
-        "count": 174,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/dc/baa94699e3438ca23e8be683f83591/machine-learning-business_icon.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Machine Learning for Business Professionals",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-machine-learning-for-data-analysis.md",
-      "title": "Machine Learning for Data Analysis",
-      "excerpt": "Learn Machine Learning for Data Analysis from Wesleyan University. Are you interested in predicting future outcomes using your data? This course helps you do just that! Machine learning is the process of developing, testing, and applying ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-for-data-analysis/index.json",
-      "webUrl": "https://www.coursera.org/learn/machine-learning-data-analysis",
-      "length": "12 hours",
-      "ratings": {
-        "count": 235,
-        "average": 4.2
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Wesleyan University"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5d/58ff4036f111e589be778d9d098112/big-dataG.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Machine Learning for Data Analysis",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-machine-learning-foundations-a-case-study-approach.md",
-      "title": "Machine Learning Foundations: A Case Study Approach",
-      "excerpt": "Learn Machine Learning Foundations: A Case Study Approach from University of Washington. Do you have data and wonder what it can tell you?  Do you need a deeper understanding of the core ways in which machine learning can improve your business?  ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-machine-learning-foundations-a-case-study-approach/index.json",
-      "webUrl": "https://www.coursera.org/learn/ml-foundations",
-      "length": "24 hours",
-      "ratings": {
-        "count": 9090,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of Washington"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e4/3283d04d0111e5970145eef7ee0b59/gears-818461_1280.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Machine Learning Foundations: A Case Study Approach",
-          "isCached": false
-        }
-      ],
-      "content": "",
-      "type": "course",
-      "price": "Free+",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"

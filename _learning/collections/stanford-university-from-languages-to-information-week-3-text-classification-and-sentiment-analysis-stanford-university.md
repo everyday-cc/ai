@@ -2,7 +2,7 @@
 title: "From Languages to Information Week 3: Text Classification and Sentiment Analysis | Stanford University"
 excerpt: "This is the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course"
 type: collection
-heat: 61
+heat: 62
 
 provider:
   name: Stanford University

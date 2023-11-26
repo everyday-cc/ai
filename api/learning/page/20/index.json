@@ -4,1129 +4,1685 @@
   "page": 20,
   "value": [
     {
-      "path": "_learning/videos/futurology-how-computers-learn-neural-networks-explained-gradient-descent-backpropagation.md",
-      "title": "How Computers Learn | Neural Networks Explained (Gradient Descent & Backpropagation)",
-      "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   In the last video in this series, we went through an intuitive example, starting from scratch and layer-by-layer hand-building a neural network that can classify patterns in an input image.   The focus of this video then will continue right were",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-how-computers-learn-neural-networks-explained-gradient-descent-backpropagation/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-how-computers-learn-neural-networks-explained-gradient-descent-backpropagation/",
-      "originalUrl": "https://youtube.com/watch?v=mb7bG9ABOLU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mb7bG9ABOLU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M35S",
-      "provider": {
-        "name": "Futurology",
-        "domain": "youtube.com"
+      "path": "_learning/books/amazon-prediction-machines-the-simple-economics-of-artificial-intelligence.md",
+      "title": "Prediction Machines: The Simple Economics of Artificial Intelligence",
+      "excerpt": "Artificial intelligence does the seemingly impossible, magically bringing machines to life--driving cars, trading stocks, and teaching children. But facing the sea change that AI will bring can be paralyzing. How should companies set strategies, governments design policies, and people plan their lives for a world so different from what we know? In the face of such uncertainty, many analysts either cower in fear or predict an impossibly sunny future.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-prediction-machines-the-simple-economics-of-artificial-intelligence/index.json",
+      "webUrl": "https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670/",
+      "ratings": {
+        "count": 184,
+        "average": 4.5
       },
-      "publishedDateTime": "2020-10-16T19:41:27Z",
-      "heat": 51,
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Ajay Agrawal",
+            "type": "profile",
+            "name": "Ajay Agrawal"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mb7bG9ABOLU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://m.media-amazon.com/images/I/41qb3jwhk-L._AC_UY218_ML3_.jpg",
+          "width": 145,
+          "height": 218,
+          "title": "Prediction Machines: The Simple Economics of Artificial Intelligence",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "book",
+      "price": "$18.39",
       "topics": [
         "AI"
       ]
     },
     {
-      "path": "_learning/videos/futurology-how-to-make-a-neural-network-neural-networks-explained.md",
-      "title": "How To Make A Neural Network (Neural Networks Explained)",
-      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the last",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-how-to-make-a-neural-network-neural-networks-explained/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-how-to-make-a-neural-network-neural-networks-explained/",
-      "originalUrl": "https://youtube.com/watch?v=wieryfWkOl0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wieryfWkOl0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M37S",
-      "provider": {
-        "name": "Futurology",
-        "domain": "youtube.com"
+      "path": "_learning/books/amazon-predictive-analytics-the-power-to-predict-who-will-click-buy-lie-or-die.md",
+      "title": "Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die",
+      "excerpt": "An introduction for everyone. In this rich, fascinating — surprisingly accessible — introduction, leading expert Eric Siegel reveals how predictive analytics (aka machine learning) works, and how it affects everyone every day. Rather than a “how to” for hands-on techies, the book serves lay readers and experts alike by covering new case studies and the latest state-of-the-art techniques.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-predictive-analytics-the-power-to-predict-who-will-click-buy-lie-or-die/index.json",
+      "webUrl": "https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1119145678/",
+      "ratings": {
+        "count": 211,
+        "average": 4.0
       },
-      "publishedDateTime": "2020-07-19T14:14:15Z",
-      "heat": 51,
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Eric Siegel",
+            "type": "profile",
+            "name": "Eric Siegel"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wieryfWkOl0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://m.media-amazon.com/images/I/51JX7J+2QeL._AC_UY218_ML3_.jpg",
+          "width": 145,
+          "height": 218,
+          "title": "Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "book",
+      "price": "$19.99",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/futurology-supervised-machine-learning-explained.md",
-      "title": "Supervised Machine Learning Explained",
-      "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   Artificial intelligence, machine learning – these words lately have been used synonymously – but should they be?   In this third video in our artificial intelligence series and as for the purpose of this machine learning series, I’ll seek to",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-supervised-machine-learning-explained/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-supervised-machine-learning-explained/",
-      "originalUrl": "https://youtube.com/watch?v=zAPmUlBX-Qg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zAPmUlBX-Qg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M23S",
-      "provider": {
-        "name": "Futurology",
-        "domain": "youtube.com"
+      "path": "_learning/books/amazon-programming-computer-vision-with-python-tools-and-algorithms-for-analyzing-images.md",
+      "title": "Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images",
+      "excerpt": "If you want a basic understanding of computer vision’s underlying theory and algorithms, this hands-on introduction is the ideal place to start. You’ll learn techniques for object recognition, 3D reconstruction, stereo imaging, augmented reality, and other computer vision applications as you follow clear examples written in Python.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-programming-computer-vision-with-python-tools-and-algorithms-for-analyzing-images/index.json",
+      "webUrl": "https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549/",
+      "ratings": {
+        "count": 34,
+        "average": 3.9
       },
-      "publishedDateTime": "2020-03-23T15:54:11Z",
-      "heat": 51,
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Jan Erik Solem",
+            "type": "profile",
+            "name": "Jan Erik Solem"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/zAPmUlBX-Qg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://m.media-amazon.com/images/I/712sPsQBu1L._AC_UY218_ML3_.jpg",
+          "width": 164,
+          "height": 218,
+          "title": "Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "book",
+      "price": "$38.66",
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-r-for-data-science-import-tidy-transform-visualize-and-model-data.md",
+      "title": "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",
+      "excerpt": "Learn how to use R to turn raw data into insight, knowledge, and understanding. This book introduces you to R, RStudio, and the tidyverse, a collection of R packages designed to work together to make data science fast, fluent, and fun. Suitable for readers with no previous programming experience, R for Data Science is designed to get you doing data science as quickly as possible.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-r-for-data-science-import-tidy-transform-visualize-and-model-data/index.json",
+      "webUrl": "https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/",
+      "ratings": {
+        "count": 386,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Hadley Wickham",
+            "type": "profile",
+            "name": "Hadley Wickham"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/71PFVFcIXnL._AC_UY218_ML3_.jpg",
+          "width": 134,
+          "height": 218,
+          "title": "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$38.79",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/futurology-unsupervised-machine-learning-explained.md",
-      "title": "Unsupervised Machine Learning Explained",
-      "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   In the last video in this series, we started on a quest to clear up the misconceptions between artificial intelligence and machine learning, beginning with discussing supervised learning, an essential foundational building block in understanding",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-unsupervised-machine-learning-explained/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-unsupervised-machine-learning-explained/",
-      "originalUrl": "https://youtube.com/watch?v=-OEgiMH5aok",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-OEgiMH5aok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M19S",
-      "provider": {
-        "name": "Futurology",
-        "domain": "youtube.com"
+      "path": "_learning/books/amazon-statistical-learning-with-sparsity-the-lasso-and-generalizations-chapman-amp-hallcrc-monographs-on-statistics-and-applied-probability.md",
+      "title": "Statistical Learning with Sparsity: The Lasso and Generalizations (Chapman & Hall/CRC Monographs on Statistics and Applied Probability)",
+      "excerpt": "A sparse statistical model has only a small number of nonzero parameters or weights; therefore, it is much easier to estimate and interpret than a dense model. Statistical Learning with Sparsity: The Lasso and Generalizations presents methods that exploit sparsity to help recover the underlying signal in a set of data.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-statistical-learning-with-sparsity-the-lasso-and-generalizations-chapman-amp-hallcrc-monographs-on-statistics-and-applied-probability/index.json",
+      "webUrl": "https://www.amazon.com/Statistical-Learning-Sparsity-Generalizations-Probability/dp/1498712169/",
+      "ratings": {
+        "count": 11,
+        "average": 4.8
       },
-      "publishedDateTime": "2020-03-23T22:11:51Z",
-      "heat": 51,
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Trevor Hastie",
+            "type": "profile",
+            "name": "Trevor Hastie"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-OEgiMH5aok/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://m.media-amazon.com/images/I/51Q6p6XXw3L._AC_UY218_ML3_.jpg",
+          "width": 142,
+          "height": 218,
+          "title": "Statistical Learning with Sparsity: The Lasso and Generalizations (Chapman & Hall/CRC Monographs on Statistics and Applied Probability)",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "book",
+      "price": "$83.05",
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-superintelligence-paths-dangers-strategies.md",
+      "title": "Superintelligence: Paths, Dangers, Strategies",
+      "excerpt": "Superintelligence asks the questions: What happens when machines surpass humans in general intelligence? Will artificial agents save or destroy us? Nick Bostrom lays the foundation for understanding the future of humanity and intelligent life.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-superintelligence-paths-dangers-strategies/index.json",
+      "webUrl": "https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/",
+      "ratings": {
+        "count": 862,
+        "average": 4.1
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Nick Bostrom",
+            "type": "profile",
+            "name": "Nick Bostrom"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/81NHfj5hhgL._AC_UY218_ML3_.jpg",
+          "width": 143,
+          "height": 218,
+          "title": "Superintelligence: Paths, Dangers, Strategies",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$9.99",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/futurology-what-is-machine-learning-machine-learning-explained.md",
-      "title": "What Is Machine Learning (Machine Learning Explained)",
-      "excerpt": "Visit Our Parent Company EarthOne ➤ https://earthone.io/   In the past few videos in this series, we have delved quite deep into the field of machine learning, discussing both supervised and unsupervised learning.   The focus of this video then is to consolidate many of the topics we’ve discussed in",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-what-is-machine-learning-machine-learning-explained/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-what-is-machine-learning-machine-learning-explained/",
-      "originalUrl": "https://youtube.com/watch?v=E2IAhfD1WYM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E2IAhfD1WYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M50S",
-      "provider": {
-        "name": "Futurology",
-        "domain": "youtube.com"
+      "path": "_learning/books/amazon-the-book-of-why-the-new-science-of-cause-and-effect.md",
+      "title": "The Book of Why: The New Science of Cause and Effect",
+      "excerpt": "A Turing Award-winning computer scientist and statistician shows how understanding causality has revolutionized science and will revolutionize artificial intelligence",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-book-of-why-the-new-science-of-cause-and-effect/index.json",
+      "webUrl": "https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/",
+      "ratings": {
+        "count": 295,
+        "average": 4.3
       },
-      "publishedDateTime": "2020-03-24T01:59:04Z",
-      "heat": 51,
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Judea Pearl",
+            "type": "profile",
+            "name": "Judea Pearl"
+          },
+          {
+            "path": "",
+            "title": "Dana Mackenzie",
+            "type": "profile",
+            "name": "Dana Mackenzie"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/E2IAhfD1WYM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://m.media-amazon.com/images/I/41GY4+3eAyL._AC_UY218_ML3_.jpg",
+          "width": 119,
+          "height": 218,
+          "title": "The Book of Why: The New Science of Cause and Effect",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "book",
+      "price": "$19.16",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-5-best-courses-to-learn-machine-learning-top-5-ml-courses-for-beginners-simplilearn.md",
-      "title": "🔥 5 Best Courses to Learn Machine Learning | Top 5 ML Courses For Beginners | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  Are you interested in learning Machine Learning but not sure where to start? Look no further! In",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-5-best-courses-to-learn-machine-learning-top-5-ml-courses-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-5-best-courses-to-learn-machine-learning-top-5-ml-courses-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=ySzN19PupNQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ySzN19PupNQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M51S",
+      "path": "_learning/books/amazon-the-driver-in-the-driverless-car-how-your-technology-choices-create-the-future.md",
+      "title": "The Driver in the Driverless Car: How Your Technology Choices Create the Future",
+      "excerpt": "Tech experts Vivek Wadhwa and Alex Salkever describe dozens of astonishing technological advances in this fascinating and thought-provoking book, which asks what kind of future lies ahead—Star Trek or Mad Max?",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-driver-in-the-driverless-car-how-your-technology-choices-create-the-future/index.json",
+      "webUrl": "https://www.amazon.com/Driver-Driverless-Car-Technology-Choices-ebook/dp/B07PM8QWP9/",
+      "ratings": {
+        "count": 47,
+        "average": 4.2
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Amazon",
+        "domain": "amazon.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Vivek Wadhwa",
+            "type": "profile",
+            "name": "Vivek Wadhwa"
+          }
         ]
       },
-      "publishedDateTime": "2023-05-08T13:22:04Z",
-      "heat": 51,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ySzN19PupNQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://m.media-amazon.com/images/I/71V1qmWUoFL._AC_UY218_ML3_.jpg",
+          "width": 141,
+          "height": 218,
+          "title": "The Driver in the Driverless Car: How Your Technology Choices Create the Future",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "book",
+      "price": "$11.99",
       "topics": [
         "AI",
-        "Machine Learning"
+        "AI in Autos"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-a-brief-history-of-machine-learning-machine-learning-for-beginners-simplilearn.md",
-      "title": "A Brief History Of Machine Learning | Machine Learning For Beginners | Simplilearn",
-      "excerpt": "Ever wondered how your favorite technology, or the one you're working on came to be? What and how it changed over the years? These are some of the questions our new series, FlashbackFriday answers.  Today, we'll be delving into the history and important milestones of the Machine Learning  If you are",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-a-brief-history-of-machine-learning-machine-learning-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-a-brief-history-of-machine-learning-machine-learning-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=lY1SELMvoVs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lY1SELMvoVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M33S",
+      "path": "_learning/books/amazon-the-elements-of-statistical-learning-data-mining-inference-and-prediction-second-edition-springer-series-in-statistics.md",
+      "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",
+      "excerpt": "This book describes the important ideas in a variety of fields such as medicine, biology, finance, and marketing in a common conceptual framework. While the approach is statistical, the emphasis is on concepts rather than mathematics. Many examples are given, with a liberal use of colour graphics. It is a valuable resource for statisticians and anyone interested in data mining in science or industry. The book's coverage is broad, from supervised learning (prediction) to unsupervised learning. The many topics include neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-elements-of-statistical-learning-data-mining-inference-and-prediction-second-edition-springer-series-in-statistics/index.json",
+      "webUrl": "https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/",
+      "ratings": {
+        "count": 325,
+        "average": 4.2
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Amazon",
+        "domain": "amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ]
-      },
-      "publishedDateTime": "2019-09-19T09:08:54Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lY1SELMvoVs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-artificial-intelligence-and-deep-learning-full-course-artificial-intelligence-course-simplilearn.md",
-      "title": "Artificial Intelligence And Deep Learning Full Course | Artificial Intelligence Course | Simplilearn",
-      "excerpt": "This video on Artificial Intelligence and Deep Learning full course will help us understand the basics of artificial intelligence and Deep Learning and the different algorithms used to build AI models.  🔥FREE AI Course: https://www.simplilearn.com/learn-ai-basics-skillup?utm_campaign=AIAndDLFullCourse&utm_medium=Description&utm_source=youtube",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-artificial-intelligence-and-deep-learning-full-course-artificial-intelligence-course-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-artificial-intelligence-and-deep-learning-full-course-artificial-intelligence-course-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=anTjbDH6y-Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/anTjbDH6y-Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9H9M49S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
+        ],
+        "authors": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
+            "path": "",
+            "title": "Trevor Hastie",
+            "type": "profile",
+            "name": "Trevor Hastie"
+          },
+          {
+            "path": "",
+            "title": "Robert Tibshirani",
+            "type": "profile",
+            "name": "Robert Tibshirani"
+          },
+          {
+            "path": "",
+            "title": "Jerome Friedman",
+            "type": "profile",
+            "name": "Jerome Friedman"
           }
         ]
       },
-      "publishedDateTime": "2021-03-22T09:46:40Z",
-      "heat": 51,
+      "levels": [
+        "Intermediate",
+        "Advanced"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/anTjbDH6y-Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://m.media-amazon.com/images/I/41aQrQaPseL._AC_UY218_ML3_.jpg",
+          "width": 145,
+          "height": 218,
+          "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-artificial-intelligence-engineer-masters-program-by-simplilearn-enroll-now-simplilearn.md",
-      "title": "Artificial Intelligence Engineer Master's Program By Simplilearn | Enroll Now | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z Accelerate your career with this Artificial Intelligence Course in conjunction with IBM. Industry-relevant",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-artificial-intelligence-engineer-masters-program-by-simplilearn-enroll-now-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-artificial-intelligence-engineer-masters-program-by-simplilearn-enroll-now-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=Xq_M6oXKiAk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xq_M6oXKiAk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M39S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-10-21T12:29:54Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Xq_M6oXKiAk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-artificial-intelligence-future-of-ai-bill-gates-sundar-pichai-jack-ma-simplilearn.md",
-      "title": "Artificial Intelligence | Future Of AI - Bill Gates, Sundar Pichai, Jack Ma | Simplilearn",
-      "excerpt": "Artificial Intelligence (AI) is currently the hottest buzzword in tech. We have put together the best clips on Artificial Intelligence by the most well known leaders and influencers such as Bill Gates, Tim Cook, Elon Musk, Sundar Pichai, and Jeff Bezos. AI is predicted to increase economic growth by",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-artificial-intelligence-future-of-ai-bill-gates-sundar-pichai-jack-ma-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-artificial-intelligence-future-of-ai-bill-gates-sundar-pichai-jack-ma-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=bZP4VXpCk6A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bZP4VXpCk6A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M22S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-22T07:39:04Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bZP4VXpCk6A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-best-machine-learning-bootcamp-for-2023-machine-learning-bootcamp-for-beginners-simplilearn.md",
-      "title": "🔥 Best Machine Learning Bootcamp For 2023 | Machine Learning Bootcamp For Beginners | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z The \"Best Machine Learning Bootcamp For 2023\" offered by Simplilearn is the ultimate program for individuals",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-best-machine-learning-bootcamp-for-2023-machine-learning-bootcamp-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-best-machine-learning-bootcamp-for-2023-machine-learning-bootcamp-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=7Io1VdngvbY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Io1VdngvbY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M17S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-07-07T11:55:44Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7Io1VdngvbY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-bing-vs-bard-vs-chatgpt-comparison-is-chatgpt-still-the-best-among-all-simplilearn.md",
-      "title": "Bing vs Bard vs ChatGPT : Comparison | Is ChatGPT Still The Best Among All? | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  This video on Bing vs Bard vs ChatGPT: Comparison by Simplilearn will help you understand the evolution",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-bing-vs-bard-vs-chatgpt-comparison-is-chatgpt-still-the-best-among-all-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-bing-vs-bard-vs-chatgpt-comparison-is-chatgpt-still-the-best-among-all-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=UsNzjiP-ZY0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UsNzjiP-ZY0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M1S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-05-16T07:13:31Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UsNzjiP-ZY0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-build-a-game-using-python-and-chatgpt-tic-tac-toe-snake-game-simplilearn.md",
-      "title": "🔴 Build a Game using Python and ChatGPT | Tic-Tac-Toe | Snake Game | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  In this video on \" Build a Game Using Python and ChatGpt\", we will learn how to make a tic-tac-toe",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-build-a-game-using-python-and-chatgpt-tic-tac-toe-snake-game-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-build-a-game-using-python-and-chatgpt-tic-tac-toe-snake-game-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=_T6MiVNAvzE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_T6MiVNAvzE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M6S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-05-26T13:35:24Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_T6MiVNAvzE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-deep-learning-basics-tutorial-deep-learning-fundamentals-deep-learning-training-simplilearn.md",
-      "title": "Deep Learning Basics Tutorial | Deep Learning Fundamentals | Deep Learning Training | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z  The \"Deep Learning Basics Tutorial\" provides a comprehensive overview of the fundamental principles",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-basics-tutorial-deep-learning-fundamentals-deep-learning-training-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-basics-tutorial-deep-learning-fundamentals-deep-learning-training-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=iLJWqJp8S6E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iLJWqJp8S6E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H26M17S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-06-20T10:28:10Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iLJWqJp8S6E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-deep-learning-interview-questions-and-answers-ai-deep-learning-interview-questions-simplilearn.md",
-      "title": "Deep Learning Interview Questions And Answers | AI & Deep Learning Interview Questions | Simplilearn",
-      "excerpt": "This Deep Learning interview questions and answers video will help you prepare for Deep Learning interviews. This video is ideal for both beginners as well as professionals who are appearing for Deep Learning, Machine Learning or Data Science interviews. Learn what are the most important Deep Learning",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-interview-questions-and-answers-ai-deep-learning-interview-questions-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-interview-questions-and-answers-ai-deep-learning-interview-questions-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=JYMKEM5c7PU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JYMKEM5c7PU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT45M15S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-07T09:18:22Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JYMKEM5c7PU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-deep-learning-tutorial-deep-learning-tensorflow-deep-learning-with-neural-networks-simplilearn.md",
-      "title": "Deep Learning Tutorial | Deep Learning TensorFlow | Deep Learning With Neural Networks | Simplilearn",
-      "excerpt": "This Deep Learning tutorial will help you in understanding what is Deep Learning, why do we need Deep learning, what is neural network, applications of Deep Learning, what is perceptron, implementing logic gates using perceptron, types of neural networks. At the end of the video, you will get introduced",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-tutorial-deep-learning-tensorflow-deep-learning-with-neural-networks-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-tutorial-deep-learning-tensorflow-deep-learning-with-neural-networks-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=skf35x1lNV4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/skf35x1lNV4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H10M51S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-07T09:15:39Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/skf35x1lNV4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "book",
+      "price": "$62.93",
       "topics": [
         "AI",
         "Machine Learning",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-the-hundred-page-machine-learning-book.md",
+      "title": "The Hundred-Page Machine Learning Book",
+      "excerpt": "Everything you really need to know in Machine Learning in a hundred pages.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-hundred-page-machine-learning-book/index.json",
+      "webUrl": "https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X/",
+      "ratings": {
+        "count": 326,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Andriy Burkov",
+            "type": "profile",
+            "name": "Andriy Burkov"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41hnD5LLz5L._AC_UY218_ML3_.jpg",
+          "width": 177,
+          "height": 218,
+          "title": "The Hundred-Page Machine Learning Book",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$31.03",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-the-industries-of-the-future.md",
+      "title": "The Industries of the Future",
+      "excerpt": "The New York Times bestseller, from leading innovation expert Alec Ross, a “fascinating vision” (Forbes) of what’s next for the world and how to navigate the changes the future will bring.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-industries-of-the-future/index.json",
+      "webUrl": "https://www.amazon.com/Industries-Future-Alec-Ross/dp/1476753660/",
+      "ratings": {
+        "count": 514,
+        "average": 4.4
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Alec Ross",
+            "type": "profile",
+            "name": "Alec Ross"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/71s-MrcZOTL._AC_UY218_ML3_.jpg",
+          "width": 143,
+          "height": 218,
+          "title": "The Industries of the Future",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$10.00",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazonmachine-learning-for-absolute-beginners-a-plain-english-introduction-machine-learning-from-scratch.md",
+      "title": "Machine Learning For Absolute Beginners: A Plain English Introduction (Machine Learning From Scratch)",
+      "excerpt": "Ready to crank up a virtual server and smash through petabytes of data? Want to add 'Machine Learning' to your LinkedIn profile? Well, hold on there...Before you embark on your epic journey into the world of machine learning, there is some theory and statistical principles to march through first.  This book has been written and designed for absolute beginners. This means plain-English explanations and no coding experience required. Where core algorithms are introduced, clear explanations and visual examples are added to make it easy and engaging to follow along at home.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazonmachine-learning-for-absolute-beginners-a-plain-english-introduction-machine-learning-from-scratch/index.json",
+      "webUrl": "https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction/dp/1549617214/",
+      "ratings": {
+        "count": 198,
+        "average": 4.4
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Oliver Theobald",
+            "type": "profile",
+            "name": "Oliver Theobald"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/61k3cuvIl9L._AC_UY218_ML3_.jpg",
+          "width": 145,
+          "height": 218,
+          "title": "Machine Learning For Absolute Beginners: A Plain English Introduction (Machine Learning From Scratch)",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "book",
+      "price": "$13.32",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/manning-machine-learning-with-r-tidyverse-and-mlr.md",
+      "title": "Machine Learning with R, tidyverse, and mlr",
+      "excerpt": "Early access book that provides basics of machine learning and using R programming language.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/manning-machine-learning-with-r-tidyverse-and-mlr/index.json",
+      "webUrl": "https://www.manning.com/books/machine-learning-with-r-tidyverse-and-mlr",
+      "provider": {
+        "name": "Manning",
+        "domain": "manning.com"
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://images.manning.com/720/960/resize/book/d/f6ea29a-3695-4ba3-804f-3db01327a7f7/Rhys-ML-MEAP-HI.png",
+          "width": 720,
+          "height": 903,
+          "title": "Machine Learning with R, tidyverse, and mlr",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university.md",
+      "title": "From Languages to Information Week 8: PageRank | Stanford University",
+      "excerpt": "This is the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university/",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering.md",
+          "title": "14   1   Anchor Text | Relation Extraction and Question Answering",
+          "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering/",
+          "originalUrl": "https://youtube.com/watch?v=-rfVrRAgzHM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-rfVrRAgzHM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M40S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-01-25T18:46:05Z",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/-rfVrRAgzHM/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering.md",
+          "title": "14   2   PageRank Overview and Markov Chains | Relation Extraction and Question Answering",
+          "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering/",
+          "originalUrl": "https://youtube.com/watch?v=29Tx-s0ybiQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/29Tx-s0ybiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT12M11S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-01-25T18:46:05Z",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/29Tx-s0ybiQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering.md",
+          "title": "14   3   Computing PageRank | Relation Extraction and Question Answering",
+          "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering/",
+          "originalUrl": "https://youtube.com/watch?v=TlVs9nMyZyQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TlVs9nMyZyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT8M10S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-01-25T18:46:05Z",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/TlVs9nMyZyQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-rfVrRAgzHM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-a-crash-course-in-data-science.md",
+      "title": "A Crash Course in Data Science",
+      "excerpt": "Learn A Crash Course in Data Science from Johns Hopkins University. By now you have definitely heard about data science and big data. In this one-week class, we will provide a crash course in what these terms mean and how they play a role in ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-a-crash-course-in-data-science/index.json",
+      "webUrl": "https://www.coursera.org/learn/data-science-course",
+      "length": "5 hours",
+      "ratings": {
+        "count": 5201,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Johns Hopkins University"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f0/399ec045ea11e5ba8e4bc295fed462/9990024683_955f8f043b_h.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "A Crash Course in Data Science",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-addressing-large-hadron-collider-challenges-by-machine-learning.md",
+      "title": "Addressing Large Hadron Collider Challenges by Machine Learning",
+      "excerpt": "Learn Addressing Large Hadron Collider Challenges by Machine Learning from National Research University Higher School of Economics. The Large Hadron Collider (LHC) is the largest data generation machine for the time being. It doesn’t produce the ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-addressing-large-hadron-collider-challenges-by-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/hadron-collider-machine-learning",
+      "length": "19 hours",
+      "ratings": {
+        "count": 45,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "National Research University Higher School of Economics"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/58/773690b06611e7a6c2e3b47ae99c55/LCH_ML2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Addressing Large Hadron Collider Challenges by Machine Learning",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-advanced-data-science-capstone.md",
+      "title": "Advanced Data Science Capstone",
+      "excerpt": "Learn Advanced Data Science Capstone from IBM. This project completer has proven a deep understanding on massive parallel data processing, data exploration and visualization, advanced machine learning and deep learning and how to apply his ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-advanced-data-science-capstone/index.json",
+      "webUrl": "https://www.coursera.org/learn/advanced-data-science-capstone",
+      "length": "10 hours",
+      "ratings": {
+        "count": 199,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "IBM",
+            "domain": "ibm.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b0/b87e208be611e89f604728676b46b0/Advanced_Data_Science_Capstone.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Advanced Data Science Capstone",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-advanced-deployment-scenarios-with-tensorflow.md",
+      "title": "Advanced Deployment Scenarios with TensorFlow",
+      "excerpt": "Learn Advanced Deployment Scenarios with TensorFlow from deeplearning.ai. Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-advanced-deployment-scenarios-with-tensorflow/index.json",
+      "webUrl": "https://www.coursera.org/learn/advanced-deployment-scenarios-tensorflow",
+      "length": "9 hours",
+      "ratings": {
+        "count": 40,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "deeplearning.ai",
+            "domain": "deeplearning.ai",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/c7/c372f1915c434cbb08e84046521aa5/TFS2C4CourseraSquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Advanced Deployment Scenarios with TensorFlow",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
         "Google AI",
         "TensorFlow"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-deep-learning-tutorial-for-beginners-deep-learning-basics-deep-learning-course-simplilearn.md",
-      "title": "Deep Learning Tutorial For Beginners | Deep Learning Basics | Deep Learning Course | Simplilearn",
-      "excerpt": "Deep Learning is widely used in the field of AI and Data Science. This video on Deep Learning will help you understand what is Deep Learning and why we need Deep learning and neural networks. You will learn the applications of Deep Learning and the types of neural networks. Finally, you'll learn about",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-tutorial-for-beginners-deep-learning-basics-deep-learning-course-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-tutorial-for-beginners-deep-learning-basics-deep-learning-course-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=qeD_CtR-OcU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qeD_CtR-OcU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H21M56S",
+      "path": "_learning/courses/coursera-advanced-machine-learning-and-signal-processing.md",
+      "title": "Advanced Machine Learning and Signal Processing",
+      "excerpt": "Learn Advanced Machine Learning and Signal Processing from IBM. >>> By enrolling in this course you agree to the End User License Agreement as set out in the FAQ.  Once enrolled you can access the license in the Resources area <<<  This course, ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-advanced-machine-learning-and-signal-processing/index.json",
+      "webUrl": "https://www.coursera.org/learn/advanced-machine-learning-signal-processing",
+      "length": "16 hours",
+      "ratings": {
+        "count": 505,
+        "average": 4.5
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "IBM"
+          }
         ]
       },
-      "publishedDateTime": "2020-09-30T12:45:13Z",
-      "heat": 51,
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qeD_CtR-OcU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/8a/7607508be611e89f604728676b46b0/IBM_Watson_IoT-_Advanced_Machine_Learning_and_Signal_Processing.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Advanced Machine Learning and Signal Processing",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-deep-learning-with-python-deep-learning-python-tutorial-deep-learning-for-beginners-simplilearn.md",
-      "title": "Deep Learning With Python | Deep Learning Python Tutorial | Deep Learning for Beginners |Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video on \"Deep Learning With Python\", we will do a hands-on lab demo on flower recognition",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-with-python-deep-learning-python-tutorial-deep-learning-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-with-python-deep-learning-python-tutorial-deep-learning-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=FCZwcWHk3Ms",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FCZwcWHk3Ms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H14M21S",
+      "path": "_learning/courses/coursera-ai-capstone-project-with-deep-learning.md",
+      "title": "AI Capstone Project with Deep Learning ",
+      "excerpt": "Learn AI Capstone Project with Deep Learning  from IBM. In this capstone, learners will apply their deep learning knowledge and expertise to a real world challenge.  They will use a library of their choice to develop and test a deep learning ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-ai-capstone-project-with-deep-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/ai-deep-learning-capstone",
+      "length": "11 hours",
+      "ratings": {
+        "count": 76,
+        "average": 4.3
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ]
-      },
-      "publishedDateTime": "2023-03-17T13:24:47Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FCZwcWHk3Ms/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-deep-learning-with-python-deep-learning-tutorial-for-beginners-learn-deep-learning-simplilearn.md",
-      "title": "Deep Learning With Python | Deep Learning Tutorial For Beginners | Learn Deep Learning | Simplilearn",
-      "excerpt": "This Deep Learning with Python tutorial will help you understand what is deep learning, applications of deep learning, what is a neural network, biological versus artificial neural networks, activation functions, cost function, how neural networks work, and what gradient descent is. Finally, we'll code",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-with-python-deep-learning-tutorial-for-beginners-learn-deep-learning-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-with-python-deep-learning-tutorial-for-beginners-learn-deep-learning-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=QATEjfH4DsI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QATEjfH4DsI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M6S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
+        ],
+        "publishers": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
+            "path": "",
+            "name": "IBM",
+            "domain": "ibm.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
           }
         ]
       },
-      "publishedDateTime": "2020-08-20T08:38:31Z",
-      "heat": 51,
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/QATEjfH4DsI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/8b/796ecfca974593bf9bcb70580a9a05/AICapstone.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "AI Capstone Project with Deep Learning ",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-deep-learning-with-pytorch-introduction-to-pytorch-for-deep-learning-pytorch-basics-simplilearn.md",
-      "title": "Deep Learning With Pytorch | Introduction to Pytorch for Deep Learning | Pytorch Basics| Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z This video by Simplilearn will explain to you *Deep Learning with PyTorch* . This video will cover",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-with-pytorch-introduction-to-pytorch-for-deep-learning-pytorch-basics-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-with-pytorch-introduction-to-pytorch-for-deep-learning-pytorch-basics-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=BQ65aJPb5aM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BQ65aJPb5aM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M23S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-03-15T06:29:33Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BQ65aJPb5aM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-earn-up-to-106658-artificial-intelligence-scope-2023-top-ai-masters-program-simplilearn.md",
-      "title": "🔥 Earn Up To $106,658 | Artificial Intelligence Scope 2023 | Top AI Masters Program | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z ✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH   🔥 Artificial",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-earn-up-to-106658-artificial-intelligence-scope-2023-top-ai-masters-program-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-earn-up-to-106658-artificial-intelligence-scope-2023-top-ai-masters-program-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=vDZKPwypkro",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vDZKPwypkro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M17S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-04-17T13:21:29Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vDZKPwypkro/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-free-deep-learning-course-with-certificate-deep-learning-course-for-beginners-simplilearn.md",
-      "title": "🔥FREE Deep Learning Course With Certificate | Deep Learning Course For Beginners | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z To learn more about Deep Learning, subscribe to our YouTube channel: https://www.youtube.com/user/Simplilearn?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-free-deep-learning-course-with-certificate-deep-learning-course-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-free-deep-learning-course-with-certificate-deep-learning-course-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=BY1KOyuHf_U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BY1KOyuHf_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M35S",
+      "path": "_learning/courses/coursera-ai-for-everyone.md",
+      "title": "AI For Everyone",
+      "excerpt": "Learn AI For Everyone from deeplearning.ai. AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take.   In this course, you ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-ai-for-everyone/index.json",
+      "webUrl": "https://www.coursera.org/learn/ai-for-everyone",
+      "length": "9 hours",
+      "ratings": {
+        "count": 7203,
+        "average": 4.8
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ]
-      },
-      "publishedDateTime": "2021-11-03T05:25:31Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BY1KOyuHf_U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-free-deep-learning-with-keras-course-deep-learning-tutorial-skillup-simplilearn.md",
-      "title": "🔥Free Deep Learning With Keras Course | Deep Learning Tutorial | Skillup | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z 🔥Enroll for Free Online Course to Learn Deep Learning with Keras: https://www.simplilearn.com/learn-keras-for-beginners-free-course-skillup?utm_campaign=DeepLearningWithKerasIntro&utm_medium=DescriptionFF&utm_source=youtube",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-free-deep-learning-with-keras-course-deep-learning-tutorial-skillup-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-free-deep-learning-with-keras-course-deep-learning-tutorial-skillup-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=dOV2hpwUak4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dOV2hpwUak4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M36S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
+        ],
+        "publishers": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
+            "path": "",
+            "name": "deeplearning.ai"
           }
         ]
       },
-      "publishedDateTime": "2022-03-22T12:17:26Z",
-      "heat": 51,
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/dOV2hpwUak4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b2/65f2d3143d48b29c346332efac1118/AI4ESquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "AI For Everyone",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-free-image-recognition-basics-course-for-beginners-with-certificate-skillup-simplilearn.md",
-      "title": "🔥 FREE Image Recognition Basics Course For Beginners With Certificate | SkillUp | Simplilearn",
-      "excerpt": "This video on Image recognition Basics course For beginners by skillup from simplilearn is focused on enlightening the viewers who are aspiring data scientists, AI, and ML engineers about the wide spectrum of opportunities they have in their respective domains and how skillup by simplilearn could help",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-free-image-recognition-basics-course-for-beginners-with-certificate-skillup-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-free-image-recognition-basics-course-for-beginners-with-certificate-skillup-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=nome_cO7HDU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nome_cO7HDU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M30S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-07-20T05:13:31Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nome_cO7HDU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-free-machine-learning-algorithms-course-with-certificate-machine-learning-skillup-simplilearn.md",
-      "title": "🔥Free Machine Learning Algorithms Course with Certificate | Machine Learning | Skillup | Simplilearn",
-      "excerpt": "🔥AI/ML Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx6v 🔥AI/ML Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBG 🔥AI/ML Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx6z In this video, you'll learn how to get certified in machine learning algorithms for free. Simplilearn's",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-free-machine-learning-algorithms-course-with-certificate-machine-learning-skillup-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-free-machine-learning-algorithms-course-with-certificate-machine-learning-skillup-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=tXA786jJIh4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tXA786jJIh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M26S",
+      "path": "_learning/courses/coursera-an-introduction-to-practical-deep-learning.md",
+      "title": "An Introduction to Practical Deep Learning",
+      "excerpt": "Learn An Introduction to Practical Deep Learning from Intel. This course provides an introduction to Deep Learning, a field that aims to harness the enormous amounts of data that we are surrounded by with artificial neural networks, allowing for ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-an-introduction-to-practical-deep-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/intro-practical-deep-learning",
+      "length": "12 hours",
+      "ratings": {
+        "count": 67,
+        "average": 4.3
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Intel"
+          }
         ]
       },
-      "publishedDateTime": "2022-03-04T14:27:47Z",
-      "heat": 51,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tXA786jJIh4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/72/b3a54097ff11e79acebb98a73e7be6/intel_software_blue.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "An Introduction to Practical Deep Learning",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-free-opencv-course-for-beginners-opencv-course-free-skillup-simplilearn.md",
-      "title": "🔥Free OpenCV Course For Beginners | OpenCV Course Free | SkillUp | Simplilearn",
-      "excerpt": "*Note: 1+ Years of Work Experience Recommended to Sign up for Below Programs⬇️ 🔥Enroll for Free Online Course to Learn OpenCV with Python: https://www.simplilearn.com/free-opencv-training-course-skillup?utm_campaign=FreeLearnOpenCVCourseForBeginners&utm_medium=Description&utm_source=youtube  About Simplilearn",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-free-opencv-course-for-beginners-opencv-course-free-skillup-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-free-opencv-course-for-beginners-opencv-course-free-skillup-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=NBWBCwGE45E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NBWBCwGE45E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M39S",
+      "path": "_learning/courses/coursera-applied-ai-with-deeplearning.md",
+      "title": "Applied AI with DeepLearning",
+      "excerpt": "Learn Applied AI with DeepLearning from IBM. >>> By enrolling in this course you agree to the End User License Agreement as set out in the FAQ.  Once enrolled you can access the license in the Resources area <<<  This course, Applied Artificial ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-applied-ai-with-deeplearning/index.json",
+      "webUrl": "https://www.coursera.org/learn/ai",
+      "length": "18 hours",
+      "ratings": {
+        "count": 668,
+        "average": 4.5
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "IBM",
+            "domain": "ibm.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
         ]
       },
-      "publishedDateTime": "2022-04-29T11:39:05Z",
-      "heat": 51,
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/NBWBCwGE45E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/59/4408d08be611e8ae9f27056f38fbe9/Applied_AI_with_Deep_Learning.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Applied AI with DeepLearning",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-gpt-3-tutorial-gpt-3-explained-what-is-gpt-3generative-pre-trained-transformer-3-simplilearn.md",
-      "title": "GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn",
-      "excerpt": "The field of Artificial Intelligence is rapidly growing, and GPT-3 has been making the news for a few days now. In this video, you will learn about OpenAI's latest language model, i.e., GPT-3. You will understand the specifications of GPT-3 and the different datasets that were used to build this model.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-gpt-3-tutorial-gpt-3-explained-what-is-gpt-3generative-pre-trained-transformer-3-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-gpt-3-tutorial-gpt-3-explained-what-is-gpt-3generative-pre-trained-transformer-3-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=pT9-a3lT1Ak",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pT9-a3lT1Ak\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M6S",
+      "path": "_learning/courses/coursera-applied-machine-learning-in-python.md",
+      "title": "Applied Machine Learning in Python",
+      "excerpt": "Learn Applied Machine Learning in Python from University of Michigan. This course will introduce the learner to applied machine learning, focusing more on the techniques and methods than on the statistics behind these methods. The course will ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-applied-machine-learning-in-python/index.json",
+      "webUrl": "https://www.coursera.org/learn/python-machine-learning",
+      "length": "24 hours",
+      "ratings": {
+        "count": 4322,
+        "average": 4.6
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ]
-      },
-      "publishedDateTime": "2020-08-10T14:28:10Z",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pT9-a3lT1Ak/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-how-does-netflix-work-how-netflix-uses-machine-learning-machine-learning-use-cases-simplilearn.md",
-      "title": "How Does Netflix Work? | How Netflix Uses Machine Learning | Machine Learning Use Cases |Simplilearn",
-      "excerpt": "In this video, we will see how Netflix grew, and we will look into how Netflix works. Netflix uses various machine learning algorithms to decide its content and to make a personalized recommendation list. Machine learning and Big data analytics contribute primarily to how Netflix works. Let's get started",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-does-netflix-work-how-netflix-uses-machine-learning-machine-learning-use-cases-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-does-netflix-work-how-netflix-uses-machine-learning-machine-learning-use-cases-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=SBFFarEfmEs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SBFFarEfmEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M20S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
+        ],
+        "publishers": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
+            "path": "",
+            "name": "University of Michigan"
           }
         ]
       },
-      "publishedDateTime": "2019-11-12T13:17:10Z",
-      "heat": 51,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/SBFFarEfmEs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f8/d9a0901e1411e6b4be05fc1f155449/python_datascience_thumbnail_machinelearning_1x1.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Applied Machine Learning in Python",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-how-to-become-a-machine-learning-engineer-how-to-learn-machine-learning-simplilearn.md",
-      "title": "How to Become A Machine Learning Engineer | How To Learn Machine Learning | Simplilearn",
-      "excerpt": "This video on \"How to become a Machine Learning Engineer\" will explain the skills that one should master to become successful in his Machine Learning career. This video will also explain about the job opportunities in Machine Learning industry along with the Machine Learning and Artificial Intelligence",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-to-become-a-machine-learning-engineer-how-to-learn-machine-learning-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-to-become-a-machine-learning-engineer-how-to-learn-machine-learning-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=-5hEYRt8JE0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-5hEYRt8JE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M44S",
+      "path": "_learning/courses/coursera-applied-social-network-analysis-in-python.md",
+      "title": "Applied Social Network Analysis in Python",
+      "excerpt": "Learn Applied Social Network Analysis in Python from University of Michigan. This course will introduce the learner to network analysis through tutorials using the NetworkX library. The course begins with an understanding of what network analysis ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-applied-social-network-analysis-in-python/index.json",
+      "webUrl": "https://www.coursera.org/learn/python-social-network-analysis",
+      "length": "16 hours",
+      "ratings": {
+        "count": 1451,
+        "average": 4.6
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Michigan"
+          }
         ]
       },
-      "publishedDateTime": "2018-09-03T14:53:32Z",
-      "heat": 51,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-5hEYRt8JE0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/24/2ca1701e1511e6846dd70314906f93/python_datascience_thumbnail_social_1x1.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Applied Social Network Analysis in Python",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-how-to-build-neural-network-in-pytorch-pytorch-tutorial-for-beginners-simplilearn.md",
-      "title": "How to Build Neural Network in Pytorch? | PyTorch Tutorial for Beginners | Simplilearn",
-      "excerpt": "🔥Cyber Security Course for 3-8 Yrs Work Exp: https://l.linklyhq.com/l/1tx76 🔥Cyber Security Course for 0-3 Yrs Work Exp: https://l.linklyhq.com/l/1ugBy 🔥Cyber Security Course for 8+ Yrs Work Exp: https://l.linklyhq.com/l/1tx7J In this video on \"how to build a neural network in PyTorch,\" we'll learn",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-how-to-build-neural-network-in-pytorch-pytorch-tutorial-for-beginners-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-how-to-build-neural-network-in-pytorch-pytorch-tutorial-for-beginners-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=2AhiHV7QGVk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2AhiHV7QGVk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H16M53S",
+      "path": "_learning/courses/coursera-applying-machine-learning-to-your-data-with-gcp.md",
+      "title": "Applying Machine Learning to your Data with GCP",
+      "excerpt": "Learn Applying Machine Learning to your Data with GCP from Google Cloud. In this module, we define what Machine Learning is and how it can benefit your business. You'll see a few demos of ML in action and learn key ML terms like instances, ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-applying-machine-learning-to-your-data-with-gcp/index.json",
+      "webUrl": "https://www.coursera.org/learn/data-insights-gcp-apply-ml",
+      "length": "7 hours",
+      "ratings": {
+        "count": 381,
+        "average": 4.7
+      },
       "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
+        "name": "Coursera",
+        "domain": "coursera.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
         ]
       },
-      "publishedDateTime": "2023-03-06T13:51:09Z",
-      "heat": 51,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2AhiHV7QGVk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/91/6faca0dea311e786ef199d01464c92/course-4_v2.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Applying Machine Learning to your Data with GCP",
+          "isCached": false
         }
       ],
       "content": "",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
-        "Machine Learning",
-        "Facebook AI"
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-art-and-science-of-machine-learning.md",
+      "title": "Art and Science of Machine Learning",
+      "excerpt": "Learn Art and Science of Machine Learning from Google Cloud. Welcome to the art and science of machine learning. In this data science course you will learn the essential skills of ML intuition, good judgment and experimentation to finely tune and ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-art-and-science-of-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/art-science-ml",
+      "length": "8 hours",
+      "ratings": {
+        "count": 941,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f1/2afc90480611e880aa37659b7d325c/new-ml-on-gcp-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Art and Science of Machine Learning",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-bayesian-methods-for-machine-learning.md",
+      "title": "Bayesian Methods for Machine Learning",
+      "excerpt": "Learn Bayesian Methods for Machine Learning from National Research University Higher School of Economics. People apply Bayesian methods in many areas: from game development to drug discovery. They give superpowers to many machine learning ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-bayesian-methods-for-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/bayesian-methods-in-machine-learning",
+      "length": "39 hours",
+      "ratings": {
+        "count": 439,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "National Research University Higher School of Economics"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/36/c808e08bda11e795c4f57af56b2521/Bayesian-machine-learning2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Bayesian Methods for Machine Learning",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-big-data-applications-machine-learning-at-scale.md",
+      "title": "Big Data Applications: Machine Learning at Scale",
+      "excerpt": "Learn Big Data Applications: Machine Learning at Scale from Yandex. Machine learning is transforming the world around us. To become successful, you’d better know what kinds of problems can be solved with machine learning, and how they can be ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-big-data-applications-machine-learning-at-scale/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-applications-big-data",
+      "length": "77 hours",
+      "ratings": {
+        "count": 71,
+        "average": 3.8
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Stanford",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5b/7d7220a14611e7bcc3e5d73bb99b6b/Yandex-466_1.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Big Data Applications: Machine Learning at Scale",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-browser-based-models-with-tensorflowjs.md",
+      "title": "Browser-based Models with TensorFlow.js",
+      "excerpt": "Learn Browser-based Models with TensorFlow.js from deeplearning.ai. Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment scenarios and ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-browser-based-models-with-tensorflowjs/index.json",
+      "webUrl": "https://www.coursera.org/learn/browser-based-models-tensorflow",
+      "length": "13 hours",
+      "ratings": {
+        "count": 202,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "deeplearning.ai",
+            "domain": "deeplearning.ai",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ae/645d13953d4181bd191b155704af41/TFS2C1CourseraSquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Browser-based Models with TensorFlow.js",
+          "isCached": false
+        }
+      ],
+      "content": "",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow"
       ]
     }
   ],
