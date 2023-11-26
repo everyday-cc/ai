@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/sports/fox-sports-expands-google-cloud-partn
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search.amp"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Eviden and Microsoft Collaborate to Help Customers Take Advantage of the Microsoft Cloud and Generative AI"
+    excerpt: "Eviden, the Atos Group business leading in digital, cloud, big data, and security, is collaborating with Microsoft to help"
+    publishedDateTime: 2023-11-22T19:30:00Z
+    webUrl: "https://www.datanami.com/this-just-in/eviden-and-microsoft-collaborate-to-help-customers-take-advantage-of-the-microsoft-cloud-and-generative-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 36
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/11/eviden-microsoft-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "BP Says It's Expanding Use of Generative AI"
     excerpt: "“The service uses artificial intelligence and natural language processing to automate a variety of daily tasks such as writing emails and managing inboxes,” BP noted in the release. “By using the capabilities of copilot for Microsoft 365, BP can help ..."
     publishedDateTime: 2023-11-22T10:01:00Z

@@ -2,6 +2,126 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-11-18-european-regulation-on-artificial-intelligence-threatened-by-stalled-negotiations.md",
+      "title": "European regulation on artificial intelligence threatened by stalled negotiations",
+      "excerpt": "A wind of panic is blowing over the AI Act. Negotiations on the draft European regulation on artificial intelligence (AI) have been very tense since MEPs walked out of a meeting with member-state ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lemonde.fr/en/economy/article/2023/11/18/artificial-intelligence-european-regulation-threatened-by-stalled-negotiations_6265152_19.html",
+      "originalUrl": "https://www.lemonde.fr/en/economy/article/2023/11/18/artificial-intelligence-european-regulation-threatened-by-stalled-negotiations_6265152_19.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Monde.fr",
+        "domain": "lemonde.fr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-18-corpus-christi-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains.md",
+      "title": "Corpus Christi Health Update: Poor Cognitive Function Tied to Poor Sleep. Doctor Explains",
+      "excerpt": "Dr. Puja Uppal says, \"Sharp brains need good rest!\"Doctor's Expert Insights About Poor Cognitive Function & Your Sleep Health in TexasKnow this: \"Here's the thing, we know",
+      "sourceUrl": null,
+      "webUrl": "https://kdhnews.com/news/texas/corpus-christi-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_b0c71ec5-a0ce-5a87-8442-3dfce6e226ec.html",
+      "originalUrl": "https://kdhnews.com/news/texas/corpus-christi-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_b0c71ec5-a0ce-5a87-8442-3dfce6e226ec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-17T22:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Killeen Daily Herald",
+        "domain": "kdhnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-18-basler-and-siemens-join-forces-to-enhance-machine-vision-and-factory-automation-capabilities.md",
+      "title": "Basler and Siemens Join Forces to Enhance Machine Vision and Factory Automation Capabilities",
+      "excerpt": "Basler AG, a leading provider of advanced computer vision products, is excited to announce its new partnership with the technology company Siemens, an innovation leader in automation and digitalization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/november-2023/basler-siemens-machine-vision-factory-automation? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/november-2023/basler-siemens-machine-vision-factory-automation? Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/57420807-7481-4515-a59b-cc445dd39f4d/Basler-news-Nov-17-2023-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-17T20:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-17-moderate-your-amazon-ivs-live-stream-using-amazon-rekognition.md",
       "title": "Moderate your Amazon IVS live stream using Amazon Rekognition",
       "excerpt": "Amazon Interactive Video Service (Amazon IVS) is a managed live streaming solution that is designed to provide a quick and straightforward setup to let you build interactive video experiences and handles interactive video content from ingestion to delivery. With the increased usage of live streaming,",
@@ -985,108 +1105,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-artificial-intelligence-an-opportunity-or-a-risk.md",
-      "title": "Artificial Intelligence: An Opportunity Or A Risk?",
-      "excerpt": "The original read: \"Berset still has to fix it.\" What artificial intelligence produces can be funny, sometimes even bizarre. However, it gets serious when a so-called chatbot suddenly advises a man to commit suicide or a self-driving car causes an accident.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107436957/Artificial-Intelligence-An-Opportunity-Or-A-Risk",
-      "originalUrl": "https://menafn.com/1107436957/Artificial-Intelligence-An-Opportunity-Or-A-Risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T09:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-vroozi-introduces-vroozi-ai-natural-language-processing-assistant-that-accelerates-spend-management-and-invoice-payments-for-all.md",
-      "title": "Vroozi Introduces Vroozi AI: Natural Language Processing Assistant that Accelerates Spend Management and Invoice Payments for All",
-      "excerpt": "The virtual assistant reflects the company’s continued investment in AI capabilities with the goal of streamlining the procure-to-pay process from intake to automated invoice processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231116457912/en/Vroozi-Introduces-Vroozi-AI-Natural-Language-Processing-Assistant-that-Accelerates-Spend-Management-and-Invoice-Payments-for-All",
-      "originalUrl": "https://www.businesswire.com/news/home/20231116457912/en/Vroozi-Introduces-Vroozi-AI-Natural-Language-Processing-Assistant-that-Accelerates-Spend-Management-and-Invoice-Payments-for-All",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T09:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-the-trends-of-2023-artificial-intelligence.md",
-      "title": "The trends of 2023: artificial intelligence",
-      "excerpt": "Grigory Mindlin, general manager for broadcast at disguise, says that the dawn of AI is bringing new sorts of discussions into the broadcast industry… and that doesn’t have to be a bad thing! What industry trends have particularly stood out for you in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/artificial-intelligence/the-trends-of-2023-artificial-intelligence",
-      "originalUrl": "https://www.tvbeurope.com/artificial-intelligence/the-trends-of-2023-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T06:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

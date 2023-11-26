@@ -30,15 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Best Cyber Monday deals 2023: 50+ sales from Amazon, Best Buy, Walmart, Target"
-    excerpt: "If you're looking for a bargain this November, you're not the only one. Amazon has already posted a sneak peak for its upcoming 'Cyber Weekend' sale so we've already got a decent picture of what's ..."
-    publishedDateTime: 2023-11-21T16:52:00Z
+  - title: "Best Cyber Monday deals 2023: 90+ sales from Amazon, Best Buy, Walmart, Dell"
+    excerpt: "Cheapest AirPods: If you're looking to grab today's cheapest AirPods deal, Amazon has the best-selling AirPods 2 on sale for $79. That's a match for the lowest price yet and fantastic value for a ..."
+    publishedDateTime: 2023-11-24T18:35:00Z
     webUrl: "https://www.techradar.com/cyber-monday/best-cyber-monday-deals"
     type: article
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 67
+    quality: 68
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/ARr35zMXd5NMsbknoeP8jR-1200-80.jpg"
         width: 1200

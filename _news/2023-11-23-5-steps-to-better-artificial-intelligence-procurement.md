@@ -25,17 +25,6 @@ images:
     height: 682
     isCached: true
 
-related:
-  - title: "When It Comes to AI Models, Bigger Isn’t Always Better"
-    excerpt: "Artificial intelligence models are getting bigger, along with the data sets used to train them. But scaling down could solve some big AI problems"
-    publishedDateTime: 2023-11-21T14:45:00Z
-    webUrl: "https://www.scientificamerican.com/article/when-it-comes-to-ai-models-bigger-isnt-always-better/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 17
-
 secured: "eP8/VnLAVXbBk8Hkdk5f13+016jBCez2BOI7mE7c0x2EEUKtLU8Jz56go2vIO0H1mtDYcmiLCw0QtEC1o9pgzSJfdnCdNZlrfL2tQqQr3FVtIQRyESpRbuM3uxoNEEU3pBi9UQUoho262NHPY7u+6T9Wi5uoGmZJ2NDGOXecyGOBSn0PwtvC0yRqQX0w3d/qP8f60dC5b47r7E2ICW/vX44K42m974WqhsD9T8RT6UzA2Teft9qpxozkwB3hy8RKyQovzd9ugQqJfs/OjLwkpAXudmYJbh57jk2k8XCjPfRRjv53mLG9/uK4f7mqrPh9S4UxGgJ0eiPjCwBsuZDQaL4IZhw/n3HgdZOslgAEhVZbHWZzFaniGN1Xl/wyLSLTCoEDUTlRzwC9NK+1b43VuUvQTakB1XvhVr2gIjlq3USFhrHjcNpX8vBO7elsJ9cC3A4TEJ07CFZ+Ij5sfpCJO3BqCH25QRzhnz61Nx/7UjlnYuuEJsJ0eIs/QeC2aQxJQhNF8u7HdOw1k4KQprlIsw==;58KWDgmUcURTxwNOlkol8w=="
 ---
 

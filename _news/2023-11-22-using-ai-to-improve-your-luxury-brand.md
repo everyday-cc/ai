@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://www.automation.com/getmedia/682bf491-966a-43d0-af15-f52f9bba87fc/TM-robotics-feature-Nov-22-2023-web.png?width=500&height=313&ext=.png"
         width: 500
         height: 313
+        isCached: true
+  - title: "Using AI to track icebergs"
+    excerpt: "Researchers are using a new AI tool to detect icebergs in the Southern Ocean. This is the first step in being able to track the complete life cycle of most icebergs across Antarctica from satellite data."
+    publishedDateTime: 2023-11-24T18:33:00Z
+    webUrl: "https://phys.org/news/2023-11-ai-track-icebergs.html"
+    ampWebUrl: "https://phys.org/news/2023-11-ai-track-icebergs.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-ai-track-icebergs.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/using-ai-to-track-iceb.jpg"
+        width: 1280
+        height: 1588
         isCached: true
   - title: "Using AI to Support Multilingual Students"
     excerpt: "Multilingual learners are frequently expected to learn content through reading articles. However, these articles are often significantly above their reading levels. Fortunately, AI platforms such as Poe can come to their aid."

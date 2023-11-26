@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-10-11-huawei-baidu-and-alibabas-mapping-service-help-china-set-standards-for-autonomous-driving-road-infrastructure.md",
+      "title": "Huawei, Baidu and Alibaba’s mapping service help China set standards for autonomous driving road infrastructure",
+      "excerpt": "China’s ambitious self-driving vehicle goals face roadblocks ... including search engine and AI giant Baidu’s robotaxi fleets located in designated areas in cities such as Beijing, Wuhan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/article/3237483/huawei-baidu-and-alibabas-mapping-service-help-china-set-standards-autonomous-driving-road",
+      "originalUrl": "https://www.scmp.com/tech/article/3237483/huawei-baidu-and-alibabas-mapping-service-help-china-set-standards-autonomous-driving-road",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/10/b635bee1-cd50-4243-a8cb-931489901464_30636dbb.jpg?itok=DZEsF6_n&v=1696944979",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/article/3237483/huawei-baidu-and-alibabas-mapping-service-help-china-set-standards-autonomous-driving-road",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3237483/huawei-baidu-and-alibabas-mapping-service-help-china-set-standards-autonomous-driving-road",
+      "publishedDateTime": "2023-10-11T12:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions.md",
+      "title": "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions",
+      "excerpt": "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions SHANGHAI (Reuters) - Self-driving truck startup Plus has split its Chinese and U.S. operations and struck a deal in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2023-10-11/exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-10-11/exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T04:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-new-jersey-establishes-artificial-intelligence-task-force.md",
       "title": "New Jersey Establishes Artificial Intelligence Task Force",
       "excerpt": "Gov. Phil Murphy signed an executive order Tuesday charging the task force with studying artificial intelligence and recommending government actions to support ethical use of the rapidly evolving technology.",

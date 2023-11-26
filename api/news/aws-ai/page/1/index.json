@@ -55,6 +55,59 @@
       ]
     },
     {
+      "path": "_news/2023-11-25-best-cyber-monday-deals-2023-90-sales-from-amazon-best-buy-walmart-dell.md",
+      "title": "Best Cyber Monday deals 2023: 90+ sales from Amazon, Best Buy, Walmart, Dell",
+      "excerpt": "Cheapest AirPods: If you're looking to grab today's cheapest AirPods deal, Amazon has the best-selling AirPods 2 on sale for $79. That's a match for the lowest price yet and fantastic value for a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/cyber-monday/best-cyber-monday-deals",
+      "originalUrl": "https://www.techradar.com/cyber-monday/best-cyber-monday-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ARr35zMXd5NMsbknoeP8jR-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-24T18:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-accelerating-aiml-development-at-bmw-group-with-amazon-sagemaker-studio.md",
       "title": "Accelerating AI/ML development at BMW Group with Amazon SageMaker Studio",
       "excerpt": "This post is co-written with Marc Neumann, Amor Steinberg and Marinus Krommenhoek from BMW Group. The BMW Group – headquartered in Munich, Germany – is driven by 149,000 employees worldwide and manufactures in over 30 production and assembly facilities across 15 countries. Today, the BMW Group is the",
@@ -264,7 +317,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1230,6 +1283,40 @@
       ]
     },
     {
+      "path": "_news/2023-11-14-starting-holiday-shopping-early-use-amazons-buy-with-prime-to-score-benefits.md",
+      "title": "Starting holiday shopping early? Use Amazon's Buy with Prime to score benefits.",
+      "excerpt": "Amazon is extending its Prime benefits to users interested in shopping on a retailer's website but getting Prime benefits through an expanded program. Amazon’s Buy with Prime launched earlier ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/retail/2023/11/14/amazon-buy-with-prime-expands/71487256007/",
+      "originalUrl": "https://www.usatoday.com/story/money/retail/2023/11/14/amazon-buy-with-prime-expands/71487256007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-the-21-weirdest-most-hilarious-things-you-can-buy-on-amazon.md",
       "title": "The 21 Weirdest, Most Hilarious Things You Can Buy on Amazon",
       "excerpt": "Amazon is your go-to site for almost everything. Between the Amazon products you use every day and the perfect Amazon Prime gifts for everyone on your list, how could it not be? It’s smart ...",
@@ -1259,83 +1346,6 @@
       "provider": {
         "name": "Reader's Digest",
         "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-amazon-black-friday-2023-best-early-deals-and-upcoming-sale-dates.md",
-      "title": "Amazon Black Friday 2023: Best Early Deals and Upcoming Sale Dates",
-      "excerpt": "If you're looking to stock up on movies, you can save a heap of cash right now at Amazon. Amazon has officially announced its Black Friday sale will begin on Friday, November 17 and run through ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ign.com/articles/amazon-black-friday-2023",
-      "originalUrl": "https://www.ign.com/articles/amazon-black-friday-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T23:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-solarwinds-showcases-latest-observability-enhancements-at-aws-reinvent-2023.md",
-      "title": "SolarWinds Showcases Latest Observability Enhancements At AWS re:Invent 2023",
-      "excerpt": "SolarWinds Highlights How SaaS Observability Solution Helps Customers Accelerate Their Cloud Journeys SolarWinds (NYSE:SWI), a leading provider of simple, powerful, secure observability and IT management software,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b35745693/solarwinds-showcases-latest-observability-enhancements-at-aws-re-invent-2023",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b35745693/solarwinds-showcases-latest-observability-enhancements-at-aws-re-invent-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35745693",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35745693",
-      "publishedDateTime": "2023-11-13T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

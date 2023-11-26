@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-ear
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
 type: article
 quality: 91
-heat: 321
+heat: 301
 published: true
 
 provider:
@@ -198,15 +198,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Genentech, NVIDIA Enter Into Strategic AI Research Collaboration"
-    excerpt: "Tuesday announced a multi-year strategic research collaboration with NVIDIA that couples Genentech's artificial intelligence (AI) capabilities, extensive biological and molecular datasets, and research expertise with NVIDIA's world-leading accelerated computing capabilities and AI to speed up drug discovery and development."
-    publishedDateTime: 2023-11-21T16:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/genentech-nvidia-enter-into-strategic-ai-research-collaboration-1032840044"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Wipro To Bring Generative AI To Healthcare Insurance Companies Using NVIDIA AI Enterprise"
     excerpt: "Wipro announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI"
     publishedDateTime: 2023-11-24T10:43:00Z
@@ -317,15 +308,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
-  - title: "Nvidia earnings in focus as AI hype translates to profit surge, record stock price"
-    excerpt: "Nvidia is expected to report Q3 sales nearly tripled amid as demand for AI-related chips surged. But new limits on exports to China could blunt its forecasts."
-    publishedDateTime: 2023-11-21T15:29:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-earnings-in-focus-as-ai-hype-translates-to-record-highs-profit-surge"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 11
 
 secured: "oPfI6WW91P0rHb/It6WWFZlFrLy+SqNL3w9Jm7k81/Tp0b7Bs1mRCLdJ/IFNqmuqnm/X4yhGDTUgZMReAkvdx8PyET9UFlrXCctd1x7Kj8BEp6y0Sp3rYVKZpqIb/x1OWJe1CKkWwgLxY6bodpLYFXHivT/6rC18kUIiYSbL+Yty9uDtCP8MFOaQUfAbzds99enBpeu8m3MmVHU5FOK7nixW5w/MsEJ+xu5pv2SZI0HuMItD3Q74xdUCxHCV8CeK1UHh9pOuobrdhOMR3lUwpoZHjABCjY/EzuHEvaiAfqZmxH7/6iehjP9UwMI3x0NR6ubYuZjv7W8GEIul8+FWWd1WApLn+JNX3CclPiTkj/9tAua0fTJq2L9EwI1B8GeQfYR0KUrBaFKnd0h50VpvI8BOI1gHvaeOqH4gOSLUQs3WfpkSTAwy+WXPzB39A+QEO1qokhiQ93MZFq8FlOFb8X/iktY94VmuDdZTlpq92f2RY8f/AbBzBubO3K3M7qZCJRwzX6df7iTvKZgKL2LQrw==;2SZbnyvRh0OhUqOaImBVWQ=="
 ---

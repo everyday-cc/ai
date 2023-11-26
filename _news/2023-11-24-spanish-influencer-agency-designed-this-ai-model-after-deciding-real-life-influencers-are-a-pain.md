@@ -72,15 +72,6 @@ related:
         width: 335
         height: 384
         isCached: true
-  - title: "AI is already impacting influencer marketing, according to the CMO of Billion Dollar Boy. Here's how she thinks brands should approach the new tech."
-    excerpt: "Becky Owen, the CMO of influencer-marketing firm Billion Dollar Boy, is at the helm of an innovation unit at the company that focuses on AI efforts."
-    publishedDateTime: 2023-11-21T13:29:00Z
-    webUrl: "https://www.businessinsider.com/influencer-marketing-firm-billion-dollar-boy-investing-in-ai-2023-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
   - title: "A Spanish agency became so sick of models and influencers that they created their own with AI—and she’s raking in up to $11,000 a month"
     excerpt: "Aitana, described by her creators as the first Spanish AI model, was so convincing an unnamed famous Latin actor even called the agency the ask her on a date."
     publishedDateTime: 2023-11-23T16:51:00Z

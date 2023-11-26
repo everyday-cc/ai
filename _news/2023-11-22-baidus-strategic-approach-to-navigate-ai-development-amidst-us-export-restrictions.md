@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2023/11/22/baidu-us-ai-development-rest
 webUrl: "https://www.gizmochina.com/2023/11/22/baidu-us-ai-development-restriction/"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Gizmochina
@@ -27,6 +27,17 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Baidu beats revenue estimates, navigates AI Chip challenges amidst U.S. export curbs"
+    excerpt: "In third-quarter performance, Baidu, reported a 6% increase in revenue to 34.45 billion yuan, surpassing analysts' expectations."
+    publishedDateTime: 2023-11-23T20:09:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/23/baidu-beats-revenue-estimates-navigates-ai-chip-challenges-amidst-u-s-export-curbs/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 57
 
 secured: "PL27KgbjMEpXjDfu31CcKjQfR3BydIViljnJBtBt7fitxNh4+03DvZBWaqzEGISeHrPL6WH8XMIlT9hsBg5jEUPFPzPxmY79bavzGrIXizpE5XxRd88kxbEWLvxC/FL9JqAt0tJf05zfH9eaa296uEbzLS1Mhi04AXKO70UnKPY1H5itlZ/aw23ZNNY9hpi6T2+2U6r1lWolDnyk3rSQBMAP+uimfWu/GBBK+cZqGUKpnf48cs4MeSR30UpXTw9rVAChlR9k5anvwxIZHiixwhUpFw0mq9rdNPv+zFA9bynTqB1MlGCvjBAJ5EKximm1le6fQAbZk0EEwrwwaXcqBGhbu4RKCWDIc8fLinJyZ3s=;/0wMjNeQZYhY8RT+9JWfEg=="
 ---

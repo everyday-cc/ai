@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Eviden and Microsoft Collaborate to Help Customers Take Advantage of the Microsoft Cloud and Generative AI"
+    excerpt: "Eviden, the Atos Group business leading in digital, cloud, big data, and security, is collaborating with Microsoft to help"
+    publishedDateTime: 2023-11-22T19:30:00Z
+    webUrl: "https://www.datanami.com/this-just-in/eviden-and-microsoft-collaborate-to-help-customers-take-advantage-of-the-microsoft-cloud-and-generative-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 36
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/11/eviden-microsoft-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "CNG//TXtjMhW9kSwoR3a5z4bDUEEGW+srbk2uZlh2SNIng+bbaZUddLkOY7fPIHK6EFuI/NjAWZOK+Ym4gEp2CjXeoceB9PAVAAiQ8BBKfeBBQ1JQBn840npchR6sUDWFQP3GSrzUpRI49fl5FGirtaAkHJaBPzz5OX6pRS+Y0wMxqxevObez75mmbVKqW8trhxbJWfB0DoNm0ooYt+I9a9bqNy5gaAeZa5xOF4yvn3G49jFhPsTER6UoVQ3HoA3RF9OOHjNAvJbqHQUmw1vOujOaPaMettDrap+jiAw+fi5x5ruJtTxj0p7CaYEjBTTPKFgIMd9LLC5yUyxT/DzTZZg5JE4AtTg4+6tJDdrQ2GkM9ByASNlNNw+feuEigcxAIxfsMrm6jxwK8IPQg69roeo5HZzNaJC2DEooycADkNpOs9tP0dVsqNR1oWcPl3fS4uxFlMEc3jpBmkcKOnUGlgJQkOplC8zlziAedVXG527eti2vgmQ+wRrdcZwJ1BgjwScL/DBgkyI+obn0/F3Ug==;SZAF++kp/kzn9FfRQ4Bstg=="
 ---

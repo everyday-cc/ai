@@ -26,22 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI, Investing.com Aims To Be The Bloomberg Of Retail Investing"
-    excerpt: "By bringing the cost of producing the information down, artificial intelligence may help put professional-quality research in reach of retail investors around the world."
-    publishedDateTime: 2023-11-21T16:56:00Z
-    webUrl: "https://www.forbes.com/sites/elizabethmacbride/2023/11/21/using-ai-investingcom-aims-to-be-the-bloomberg-of-retail-investing/"
-    ampWebUrl: "https://www.forbes.com/sites/elizabethmacbride/2023/11/21/using-ai-investingcom-aims-to-be-the-bloomberg-of-retail-investing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elizabethmacbride/2023/11/21/using-ai-investingcom-aims-to-be-the-bloomberg-of-retail-investing/amp/"
+  - title: "Using AI To Improve Your Luxury Brand"
+    excerpt: "More than a trend, AI is a powerful tool that can amplify every aspect of luxury service, from operational efficiency to client engagement."
+    publishedDateTime: 2023-11-22T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655cef0bf9d3775f98b64d75/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655d0db30245b747da8222b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1103
+        height: 735
         isCached: true
+  - title: "How AI, Robotics and Machine Learning Can Improve Food Traceability"
+    excerpt: "Advanced artificial intelligence (AI), robotics and machine learning technologies can help manufacturers improve food traceability, ensure the safety of their products and build trust with customers."
+    publishedDateTime: 2023-11-22T16:41:00Z
+    webUrl: "https://www.automation.com/en-us/articles/november-2023/ai-robotics-machine-learning-food-traceability"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 86
+    images:
+      - url: "https://www.automation.com/getmedia/682bf491-966a-43d0-af15-f52f9bba87fc/TM-robotics-feature-Nov-22-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "Using AI to Support Multilingual Students"
+    excerpt: "Multilingual learners are frequently expected to learn content through reading articles. However, these articles are often significantly above their reading levels. Fortunately, AI platforms such as Poe can come to their aid."
+    publishedDateTime: 2023-11-21T20:00:00Z
+    webUrl: "https://www.edutopia.org/article/using-ai-support-multilingual-students"
+    type: article
+    provider:
+      name: Edutopia
+      domain: edutopia.org
+    quality: 19
 
 secured: "tnZimHNLT1o9J5cI1JBBoDVXBrBgTzDTqHfYC2+FiOIL8KiGlZGt6orx3k9C4R4YqMRO2DUbRtpkbQfcNdcG/ILAXg57hz7WvZ+kLrjEDN6SWVkTU9khoBVzfLb6gvhMuqvG51GZjM1RixJh0pYNiU+ScMpXAicUq60WX3+jj3yzgQZzQee4TmXMgTDYQezwuM1Kb49JkIRWQL1ifdA+UbjtNnayCxPrql0u5F1G0r2enc9GYsl8HCygbPIKWba3hvdQ/0/EMqrCSYLQXfIRbzf/jF8A4+trZbEgeAxfR5C+Omz0OfxhsJnmJyLdQYxWX11SMALtiijitV+v9IDn0lQmUJYClJFIdi6h+taj3mS/GCYVMB/7yaABx5SjiAQA/LIo6ntIAPGfJw5ybKaCgwG4XHBqO6BPE6i6yP5/xwx7vcDkQY4Zdx9ObUsagJAhYHCQ/f5v6mh2KUAJam0TB/0P+2nCopg9BLM29j39MZcvO54fcd/0mHPslOY/AWbLVrXjQVbvFcn+etddq15bXA==;SxfbKPXSJyQAlETkG5xVVg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/studentai-app-sets
 webUrl: "https://markets.businessinsider.com/news/stocks/studentai-app-sets-a-new-standard-in-edtech-with-the-launch-of-interactive-ai-tools-for-students-and-ai-teacher-collaboration-1032848965"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -28,15 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "The new Insta360 Ace and Ace Pro are coming for GoPro's lunch with AI tools"
-    excerpt: "Insta360 has launched the new Ace and Ace Pro action cameras, with flip-up displays and several AI editing tools that let them stand apart."
-    publishedDateTime: 2023-11-21T13:30:00Z
-    webUrl: "https://www.androidauthority.com/insta360-ace-pro-action-camera-3387616/"
+  - title: "Mastering the art of differentiation: Vital competencies for thriving in the age of artificial intelligence"
+    excerpt: "In this age of AI, mastering these vital competencies not only propels your journey toward professional success but also equips you to unlock the transformative potential of AI, ensuring your prominence and prosperity in an increasingly automated world."
+    publishedDateTime: 2023-11-25T10:15:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/lite/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 47
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 39
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/Untitled-design-2023-11-24T171540.538.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "WA students flock to computer science, and AI adds to the allure"
+    excerpt: "Despite the pandemic and recent tech layoffs, computer science remains one of the most popular majors in the state."
+    publishedDateTime: 2023-11-22T13:00:00Z
+    webUrl: "https://www.seattletimes.com/education-lab/wa-students-flock-to-computer-science-and-ai-adds-to-the-allure/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "z+zqNC/7/i1rMGV0jSiZ4y/uONtNHNBDtn9bbBZ51Kh74dbxQy3BjP3YAVbJHqgGAt5r2qfOs/hVS9jcygu6qvIRHevjbcKHigoOkZWRITULUVKwntp1uhs6B0wvLuPE/T+qCmF9OoL+IBm1x4ooXiXcPauB2Mwkcq2M6fII9HxdBmrlxZByRqKVp55NcJog7TFDjdbBErVmCVCrwgiORsL/hyf75NMPb519ffp6Qha4J2SZIJTPzJn99YEaXresocOgQLvRQosEcx+M8JU9xtr2COPM4f/2Gq0x6CRBfACqP8MJWcvvZshXiqeKF1qLSmIl8TEOPiTfum7Mxzy1dFy28mZgGgWzl5zJIiM6JFH6PuxyExKa+WRfTkl6umUF3zr/tf0Dl2xqK8sfuJS3CRuaUazotMjkaFhgTZDt+LepjJRV4O4MhcX18PjBsKIwo8416p3WTtFZcl1Q9KF3U+wE1UR1pKS5O5KXdCH6G3w3w7tKofB2LlJsztwSkQjXDvs30tlsN424ePpKcrVamw==;bYrEfaqfXfKYENdliTPtBA=="
 ---

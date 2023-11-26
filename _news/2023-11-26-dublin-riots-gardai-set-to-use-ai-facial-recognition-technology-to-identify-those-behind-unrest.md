@@ -57,6 +57,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Facial recognition technology for Gardaí ‘not the solution’ - Ó Ríordáin"
+    excerpt: "Facial recognition technology for Gardaí is “not the solution” to violence and antisocial behaviour in Dublin, Aodháin Ó Riordáin has warned."
+    publishedDateTime: 2023-11-26T14:31:00Z
+    webUrl: "https://www.newstalk.com/news/facial-recognition-technology-for-gardai-not-the-solution-o-riordain-1618151"
+    type: article
+    provider:
+      name: Newstalk
+      domain: newstalk.com
+    quality: 38
+    images:
+      - url: "https://media.radiocms.net/uploads/2023/06/20062647/2F23AER.jpg"
+        width: 1920
+        height: 1198
+        isCached: true
   - title: "Massachusetts lawmakers propose restrictions on facial recognition technology"
     excerpt: "The bill would require police to get a warrant to use face biometrics to identify a suspect and inform defendants they were identified through the software."
     publishedDateTime: 2023-11-22T23:01:00Z

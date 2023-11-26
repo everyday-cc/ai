@@ -73,20 +73,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Robotic Process Automation in Finance: Streamlining Operations with FinTech"
-    excerpt: "Introduction Technological advancements continue to redefine the way financial institutions operate. One such groundbreaking innovation is Robotic Process Automation (RPA), a game-changer that has seamlessly integrated with the financial sector,"
-    publishedDateTime: 2023-11-21T14:55:00Z
-    webUrl: "https://techbullion.com/robotic-process-automation-in-finance-streamlining-operations-with-fintech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Robotic-Process-Automation-in-Finance-Streamlining-Operations-with-FinTech.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Experts Discuss Fintech Market Revamping Tech Trends"
     excerpt: "( MENAFN - The Peninsula) Joel Johnson | The Peninsula"
     publishedDateTime: 2023-11-24T10:54:00Z
@@ -115,15 +101,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "PKKFF Tenet Fintech Group Inc."
-    excerpt: "Tenet Fintech Group Inc., through its subsidiaries, provides various analytics and AI-based services to small-and-medium businesses and financial institutions. It offers Business Hub, a global ..."
-    publishedDateTime: 2023-11-21T15:53:00Z
-    webUrl: "https://seekingalpha.com/symbol/PKKFF"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "Ew5MTWI/tlWk2BpxgeV22884Fkac3so7+VJZyPFskYpLsTbG0146IkmwWHnyYLMJlZveH7T1FU1u6walxZh4qy1k7oijMoEC3saTPasM4YvLeADmjzeRedqaqt4WzEfE4GIPg4vCPsBYCR79ODmla1WenR8s3/p++ublisjKnRR/wuoKv+MnpHaA+gJ2jRCruKfL1kxsUgUWiIdM+6s0XnDQmglwn74/lGQpYqR0HdXRf3tQYSrncOHm9K9HHIl3SLRvNhwaNS97STtuY6ZDtPUYLSaTY2J/7YPQ7vjq7BaRPBixbjoPo8FV7/1xZZot08ZTtfetbDJlV+/rjB/QQxUA6C6i2Vvojq/DJWFN3jliPO0P5PEYB/pyc3ZaH4gj4Sco7OZ8VRN9SM7Wwu82UzIGdLaIk/ORlXeNFBYZuMw69Uc9ErJ72r9o9VuMJdpZlOMu//zLYgZREc/qum2PzVgyFSYI7cuAJIWx76vIxJSC+ieP/2gP2qPtjt5nlf4vCN3YX81grkwtx3G46UA+lw==;X9fH1SCmPGOGEW0/pcDTdA=="
 ---

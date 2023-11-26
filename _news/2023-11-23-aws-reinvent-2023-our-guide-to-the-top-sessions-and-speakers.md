@@ -37,15 +37,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Amazon AWS Starts Free Generative AI Courses That Can Make Your Tech Career Future-Proof"
-    excerpt: "TBH corporations need more AI-skilled workers than before and if you aren't one, you will have to upskill or settle for an off-the-grid job. With massive gaps in academia, there's only one way to get an existing workforce equipped with adequate skills in AI. An AI-skilled worker can get 47% more salary too."
-    publishedDateTime: 2023-11-21T13:22:00Z
-    webUrl: "https://in.mashable.com/tech/64289/amazon-aws-starts-free-generative-ai-courses-that-can-make-your-tech-career-future-proof"
-    type: article
-    provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 55
   - title: "C3 AI brings its C3 Generative AI platform to AWS Marketplace"
     excerpt: "C3 Generative AI is built to process both structured and unstructured records. C3 Generative AI: AWS Marketplace Edition, the new version of the platform that debuted today, has a narrower focus. It’s designed to help users more easily analyze text stored in files such as Word documents, PowerPoint presentations and webpages."
     publishedDateTime: 2023-11-21T22:26:00Z
@@ -60,20 +51,6 @@ related:
         width: 1032
         height: 580
         isCached: true
-  - title: "The threats of generative AI"
-    excerpt: "In case you might have missed it, digital space cowboy Elon Musk made a noteworthy declaration earlier this month in a visit to the United Kingdom. During a meeting with UK Prime Minister Rishi Sunak,"
-    publishedDateTime: 2023-11-21T16:11:00Z
-    webUrl: "https://www.timesgazette.com/2023/11/21/the-threats-of-generative-ai/"
-    type: article
-    provider:
-      name: The Times-Gazette
-      domain: timesgazette.com
-    quality: 39
-    images:
-      - url: "https://www.timesgazette.com/wp-content/uploads/2023/11/132301601_web1_Sims-Bill-mug.jpg"
-        width: 723
-        height: 1068
-        isCached: true
   - title: "AWS re:Invent 2023: What to Expect from This Year’s Event"
     excerpt: "Amazon Web Services is all-in on generative AI and the promise it offers as cloud computing continues its transformation journey."
     publishedDateTime: 2023-11-24T14:00:00Z
@@ -83,15 +60,6 @@ related:
       name: BizTech
       domain: biztechmagazine.com
     quality: 19
-  - title: "Neo4j Signs Strategic Collaboration Agreement with AWS to Enhance Generative AI Results While Addressing AI Hallucinations"
-    excerpt: "Reduced Hallucinations: Neo4j with Langchain and Amazon Bedrock can now work together using Retrieval Augmented Generation (RAG) to create virtual assistants grounded in enterprise knowledge. This helps customers by reducing hallucinations and providing more accurate, transparent, and explainable results."
-    publishedDateTime: 2023-11-21T16:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-neo4j-signs-strategic-collaboration-agreement-with-aws-enhance-/2023/11/21/9921925.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
 
 secured: "Y9JCqBRJrAgeDZDfLS/5B09gbGmJ1UIdLD0USA3tzzCEdwknunJC6wzXM5hAPVWijG5KJqzVWouHEknMqjmvgnFLU39BNPLQHWujrOcNnJSNk1H9dugm6rYJbp/HmUJD8Vp58Y1uEmS0BaonzQowDytfmCg/p5qLEbSUkpwVclEWDfdf93rO1EhEb+8e8xF1SLh1z+uej4tKaaSMLe9K6tChlXsfN/TNSIkQE7/jPkzFXUuNeMfp4ThvFmw9zD4kJ4Cpd/MkWwxRSrNxcGFK3y5+CS75xykqkVLmam/THLmDE/iV5cOjzI1ZFhGi0sav5FWwFtgFaFJSnk5isB1ebRY5VlSoigyjEJyhkFoYDYw=;vlmyjqLMLgJuyuoVzw/xgA=="
 ---

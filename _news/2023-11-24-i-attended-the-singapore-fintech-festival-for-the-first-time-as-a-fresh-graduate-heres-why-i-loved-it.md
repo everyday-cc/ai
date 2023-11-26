@@ -73,20 +73,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Robotic Process Automation in Finance: Streamlining Operations with FinTech"
-    excerpt: "Introduction Technological advancements continue to redefine the way financial institutions operate. One such groundbreaking innovation is Robotic Process Automation (RPA), a game-changer that has seamlessly integrated with the financial sector,"
-    publishedDateTime: 2023-11-21T14:55:00Z
-    webUrl: "https://techbullion.com/robotic-process-automation-in-finance-streamlining-operations-with-fintech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Robotic-Process-Automation-in-Finance-Streamlining-Operations-with-FinTech.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Experts Discuss Fintech Market Revamping Tech Trends"
     excerpt: "( MENAFN - The Peninsula) Joel Johnson | The Peninsula"
     publishedDateTime: 2023-11-24T10:54:00Z
@@ -115,15 +101,6 @@ related:
         width: 5799
         height: 3664
         isCached: true
-  - title: "PKKFF Tenet Fintech Group Inc."
-    excerpt: "Tenet Fintech Group Inc., through its subsidiaries, provides various analytics and AI-based services to small-and-medium businesses and financial institutions. It offers Business Hub, a global ..."
-    publishedDateTime: 2023-11-21T15:53:00Z
-    webUrl: "https://seekingalpha.com/symbol/PKKFF"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "9wJF75o5SwAPOPGXLVybB/Yptpsfz9SMc0z/URzDmF8BoAwL59rQLt3K0cADIXBJsxa4vyY5A0GPPoCwF186lH5UJb5nj4y5yI2YiRT9nr7CJ3r9qaQYXZRxMudq3wLGGtr1q0T6G89FoFGtWSSH6krTXni7qA4iGCwy9MxhIdtbG1FC7u7hwPzRHxrVhJS4NunxWK2EwVRTFkL4kzzxsTWbQa17AjTkopfAY8txKEnip1d4TsXDhmuBbHAPG2Hufd4SDYx5QCRWP58kNojXp/Er5UZNImlgRLU3hKozP8/BrGAVP2VYB69yQD4P8OM/e3sdCCP9doZyTZI0mf2p4CDPLE67iSVyeIJPJAt6FNE=;r/BHn574KrSoXZnBSejB2Q=="
 ---

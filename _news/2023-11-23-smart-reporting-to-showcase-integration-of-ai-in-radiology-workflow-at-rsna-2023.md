@@ -28,15 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "Rocketlane Unveils 'AI at Work' Report Showcasing the Impact of Artificial Intelligence on Modern Workplaces Across the Globe"
-    excerpt: "Rocketlane remains at the forefront of empowering businesses to streamline operations and enhance customer experiences through cutting-edge technologies. The 'AI at Work' report is a valuable resource for industry leaders, providing insights into the evolving landscape of AI adoption and its impact on business success."
-    publishedDateTime: 2023-11-21T14:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/21/9921894.htm"
+  - title: "GE HealthCare Showcases More Than 40 Innovations, Including AI-Enabled Imaging Technology Solutions Designed for Precision Care at RSNA23"
+    excerpt: "GE HealthCare (Nasdaq: GEHC) will highlight more than 40 innovations, including several key artificial intelligence (AI)-enabled technologies within the Imaging, Ultrasound, and digital space at the Radiological Society of North America's (RSNA) 2023 Annual Meeting taking place Nov."
+    publishedDateTime: 2023-11-26T14:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ge-healthcare-showcases-more-than-40-innovations-including-/2023/11/26/9923072.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 5
+    quality: 21
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "zutAg1nkc/AE+5fndgkvU3xTfQl3z/oVf8GVfVDVB/VgaFS579Q2u9e2YD08l+73g3PCPkD0iN1RiEExR8tqKmcE02Rwu3Oav22Ed2oxqJazcZ2ctgAKdWfls8/3wdq2OWRYihqhow89CDq4t2imuSiMPWALBDx0Sc/Oh8fSz3ogEpfoMfI326C67FKc7eLc4BMLYb7Sbb49XF1forV7pwJDcTbT2+hglpk2Q/eEVAVs5159C6vnB38gaRQNJTq8WP8QofM9ZK9xqN747XuN3rCGm1L4DUTKHSUCftEMvuxW5m+yFFNOU6OxGr0h00q5+av7+Brk5psjkayN6BB2zPukBY2+wKkIKJJ8Ggpc6d3km1BxQMsGd9X8sJwZ9KswIpC6vqWz9FaiBxh8GkGDslJtb1j6wNVgFEcsnU2/D/JBYNZnyMhKaJQ3n+KWmjA26UUTXniF5ypQPW4ggTo9WnY5VIwY7Bh2/yPFR8HZIwxszs+r65wKaz4rWpzxl9AI6ITMNd/JVh0bKj7bNs7j+w==;f8G5MnxFl7oFhrmNCFPPTQ=="
 ---

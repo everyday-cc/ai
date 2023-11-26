@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons."
-excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"
-publishedDateTime: 2023-11-26T01:18:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
-webUrl: "https://abcnews.go.com/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
+title: "Pentagon’s AI initiatives accelerate hard decisions on lethal autonomous weapons."
+excerpt: "There is little dispute among scientists, industry experts and Pentagon officials that the U.S. will within the next few years have fully autonomous lethal weapons."
+publishedDateTime: 2023-11-25T18:35:00Z
+originalUrl: "https://www.bostonglobe.com/2023/11/25/nation/pentagons-ai-initiatives-accelerate-hard-decisions-lethal-autonomous-weapons/"
+webUrl: "https://www.bostonglobe.com/2023/11/25/nation/pentagons-ai-initiatives-accelerate-hard-decisions-lethal-autonomous-weapons/"
 type: article
-quality: 52
-heat: 82
-published: true
+quality: 32
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_0773b4937801e7a0573f44b57a9a5942_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/hGS3NiaYhAzrG6yhDchE4fiHJzA=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7Y565G2XAMMAXZYLNEAI4G3EVM.jpg"
+    width: 506
+    height: 337
     isCached: true
 
 related:
@@ -64,6 +62,6 @@ related:
       domain: abcnews.go.com
     quality: 17
 
-secured: "4qc9tjcZOI1vu1/vxH/Y1kwTM7SPX2VfQKqnYw9yc8I3FLTBjtSCypjufioM1blFcBuVEBN3Xi8wSFx9Uk9SrkbCwvTtxwvZ6jOE2osqnkKOa990/32KF6J4f026lOhnMr3CxDf6NF6jkSIfzX9yxV3LLVfrZcw6wLTt8FMsPbMZ1a7nk25mcbh3xV5geRIbUEd0FnF/sx9vP1lezqp/DjGE8FBkQ1lKqjfNeK+TDPtWPFL0ygF6eP0y7mIttoDghfPUlL5aLdtp1p3cwFK4vRN/aF3Dxdy6iwtw61oAtRxNPyVCq6llMmO+9j/8K+Q2v6LyNBIeG3pccrJEz4irPkEIzAtGqTTwz5vfdNnwKym8cMJbBnx2DIeGuBp+xZ2/rKNNn2UTmTRTedp40ZnnZFs11zMQG08oJypLydjmlmFls6f4o+2dTFPu4mzMsRjhZiR6AxkyKektyRytbgd+XURR2+s7WwWspmiqNYJUkdwkYR9C82X+24zyK12wEL3D6+fhei0EUD1l6lXj9gXTWw==;aTo88Qtvm/lXmgldJ+vlTw=="
+secured: "S8n19YI3f+EUojI+FuPpHRfqmh0weXS5sb+uAAFVIIqiqqj8yJUrdkmbDAfsvgoWQq1AEcpvwqi4fkRdEtxshtFj1xGwjT7OQQQL19Lc7Wn2EJklMWLQZEA1fHATpvd01fBE29sAdgf9szvpjPVF/sjggUQe70OGtbbYPFYmddWg3CAGkj9wUIb2/NBs0VhoEa3yBPQmq7BTYFgTbfZDUNlfp16sN/CCoe9cKO9pUcNYE84yc/947mzhrsH5UfmgF7FMxcTZBrTJvU6grF/Nb7ZiwLaXzH8ztCd1gB9drEoEqVwd9/vF0Pez3qCX/HQqUJl7Zhe5ZmGGgBD38ip5Ul0bk37wu3GH3ukb08ATzjk=;Ru9Yk2KT65wdqxZs+oJZyQ=="
 ---
 

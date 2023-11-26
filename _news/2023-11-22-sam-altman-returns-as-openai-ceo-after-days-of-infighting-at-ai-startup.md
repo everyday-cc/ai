@@ -43,6 +43,20 @@ related:
         width: 1339
         height: 900
         isCached: true
+  - title: "Microsoft's AI Future Is Bright After Tapping Altman, OpenAI's Is Uncertain: Analysts"
+    excerpt: "Microsoft Corp's (NASDAQ: MSFT) hiring of Sam Altman just days after the 38-year-old entrepreneur was fired by OpenAI has inspired analysts to examine the Redmond, Washington-based tech giant's positi"
+    publishedDateTime: 2023-11-21T17:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-ai-future-is-bright-after-tapping-altman-openai-s-is-uncertain-analysts-1032840273"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/11/21/building-1011876_1280.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "OpenAI CEO Sam Altman was seeking funds for a new AI chip company before being fired"
     excerpt: "OpenAI's management drama is becoming increasingly intriguing and tumultuous. The company recently terminated Sam Altman, who served as a board member before his appointment as CEO."
     publishedDateTime: 2023-11-22T19:21:00Z
@@ -105,20 +119,6 @@ related:
         width: 4500
         height: 3001
         isCached: true
-  - title: "The Sam Altman Saga: Is AI the Place to 'Move Fast and Break Things'?"
-    excerpt: "The OpenAI board was reportedly not happy with the former CEO's plan to profit from its powerful AI. But this is Silicon Valley. Is it possible to develop ethical AI and still make billions?"
-    publishedDateTime: 2023-11-21T16:07:00Z
-    webUrl: "https://www.pcmag.com/opinions/the-sam-altman-saga-is-ai-the-place-to-move-fast-and-break-things"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05Irm0QKmV9nQHGPgyLAhNx-4.fit_lim.size_1200x630.v1700520536.jpg"
-        width: 1121
-        height: 630
-        isCached: true
   - title: "Thursday briefing: What the meltdown at OpenAI means for the future of artificial intelligence"
     excerpt: "Why Sam Altman was fired as the company’s CEO, why he was rehired – and what it all means for the field"
     publishedDateTime: 2023-11-23T05:53:00Z
@@ -150,6 +150,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/11/newspress-collage-89zg4zewa-1700838991849.jpg?quality=75&strip=all&1700821043&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Fired OpenAI CEO Sam Altman joins Microsoft as AI research lead"
+    excerpt: "Sam Altman has been hired by Microsoft to lead its AI research after being fired by OpenAI. The former CEO and board members of the ChatGPT firm was let go last week following a review by the board of directors."
+    publishedDateTime: 2023-11-21T17:45:00Z
+    webUrl: "https://rollingout.com/2023/11/21/ai-ceo-sam-altman-joins-microsoft/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 56
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2023/11/1679322765cropped3080x2002.jpg"
+        width: 1000
+        height: 650
         isCached: true
   - title: "AI Startup Cohere’s CEO Slams Effective Altruism in Wake of OpenAI Drama"
     excerpt: "The chief executive officer of artificial intelligence startup Cohere criticized the “self-righteousness” of the effective altruism movement and those overly concerned with th"
@@ -206,15 +220,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Generative AI startup AI21 Labs raises cash in the midst of OpenAI chaos"
-    excerpt: "One AI startup’s undoing is another’s opportunity. Case in point: today, AI21 Labs, a company developing generative AI products along the lines of OpenAI’s GPT-4 and ChatGPT, closed a $53 million extension to its previously-announced Series C funding ..."
-    publishedDateTime: 2023-11-21T14:00:00Z
-    webUrl: "https://techcrunch.com/2023/11/21/generative-ai-startup-ai21-labs-raises-cash-in-the-midst-of-openai-chaos/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
   - title: "AI roundup: OpenAI CEO returns, Stable Video Diffusion, Anthropic…"
     excerpt: "Tweet-Reply Of The Week goes to the wag who wrote “the lengths this man will go to not use Microsoft Teams” in response to the announcement that OpenAI co-founder Sam Altman is returning as CEO days after being ousted and joining Microsoft."
     publishedDateTime: 2023-11-22T08:32:00Z
@@ -256,20 +261,6 @@ related:
       - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/41365508796aff005913473394bf365c"
         width: 1200
         height: 800
-        isCached: true
-  - title: "OpenAI turmoil puts some B.C. AI start-ups' technologies at risk"
-    excerpt: "\"Dozens and dozens\" of B.C. companies could also be impacted if uncertainty spirals out of control at OpenAI, Rob Goehring, CEO at Wisr AI and the founding chair of BC Tech’s AI C-Council told BIV this afternoon."
-    publishedDateTime: 2023-11-21T16:30:00Z
-    webUrl: "https://www.princegeorgecitizen.com/technology/openai-turmoil-puts-some-bc-ai-start-ups-technologies-at-risk-7861725"
-    type: article
-    provider:
-      name: The Prince George Citizen
-      domain: princegeorgecitizen.com
-    quality: 37
-    images:
-      - url: "https://www.vmcdn.ca/f/files/biv/ashishanand-22.jpg;w=938;h=527;mode=crop"
-        width: 938
-        height: 527
         isCached: true
   - title: "With Sam Altman’s return, a shift in AI from idealism to pragmatism"
     excerpt: "In fact, the Open AI saga marks the start of a new, more grown-up phase for the AI industry. For Open AI, Mr Altman’s triumphant return may supercharge its ambitions. For Microsoft, which stood by Mr Altman in his hour of need,"
@@ -394,6 +385,20 @@ related:
     quality: 30
     images:
       - url: "https://www.baltimoresun.com/resizer/RjK_7Wt4EkQqEOhfzWlFXWB7juw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/4PNFMUGA4SWEZ73JASYJCFYHGQ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "He’s back: Sam Altman and the chaos at the heart of the AI industry – Full Story podcast"
+    excerpt: "The CEO of OpenAI was sacked and then rehired days later, after staff threatened to follow him. But what does this corporate drama tell us about the future of artificial intelligence? Blake Montgomery"
+    publishedDateTime: 2023-11-26T13:00:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2023/nov/27/sam-altman-openai-ceo-saga-chatgpt-return-full-story-podcast"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 28
+    images:
+      - url: "https://i.guim.co.uk/img/media/d4876b120477fefa6ed3e124024779fef07ef007/0_179_5392_3235/master/5392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=559d5e62748369e30e0945579cfc36ec"
         width: 1200
         height: 630
         isCached: true

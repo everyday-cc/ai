@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons."
-    excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"
-    publishedDateTime: 2023-11-26T01:18:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 52
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_0773b4937801e7a0573f44b57a9a5942_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Pentagon steps on AI accelerator as age of lethal autonomy looms"
     excerpt: "Artificial intelligence employed by the U.S. military has piloted pint-sized surveillance drones in special operations forces’"
     publishedDateTime: 2023-11-25T14:48:00Z
@@ -53,6 +37,20 @@ related:
       - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
         width: 452
         height: 282
+        isCached: true
+  - title: "Pentagon’s AI initiatives accelerate hard decisions on lethal autonomous weapons."
+    excerpt: "There is little dispute among scientists, industry experts and Pentagon officials that the U.S. will within the next few years have fully autonomous lethal weapons."
+    publishedDateTime: 2023-11-25T18:35:00Z
+    webUrl: "https://www.bostonglobe.com/2023/11/25/nation/pentagons-ai-initiatives-accelerate-hard-decisions-lethal-autonomous-weapons/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 32
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/hGS3NiaYhAzrG6yhDchE4fiHJzA=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7Y565G2XAMMAXZYLNEAI4G3EVM.jpg"
+        width: 506
+        height: 337
         isCached: true
   - title: "Pentagon steps on AI accelerator as age of lethal autonomy looms"
     excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"

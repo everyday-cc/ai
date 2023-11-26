@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "P.G. Chambers speech pathologist wins national recognition"
-    excerpt: "HANOVER TWP. - Jennifer Jacobs, a senior speech language pathologist at P.G. Chambers School in Cedar Knolls, has been selected as the National Association of Private Special Education Centers’ (NAPSE"
-    publishedDateTime: 2023-11-24T16:10:00Z
-    webUrl: "https://www.newjerseyhills.com/hanover_eagle/news/p-g-chambers-speech-pathologist-wins-national-recognition/article_b8103216-8ae2-11ee-a6a2-fff1998e5465.html"
-    type: article
-    provider:
-      name: New Jersey Hills
-      domain: newjerseyhills.com
-    quality: 4
-
 secured: "QzqGmOi25UVV8BD6Qc+IAUJ7bSlZtIFP0FgKKf2pyEJpM99qB3DJFU691X2iKIUJS1r04QacTrt0kzf6/J3RClj9Tajs+M7f+2fmpF4Hm6h7E6R+Ka93/2+IXJvuYPcGMOWdPuXL/k6LyZKqw2Tg8EfPY41TknNSDu4+2UYz+mNcmVyim0Cd8N7YhFttzXOQI4N6oXleAtYtrHsZEza1lIskPMFdpF4yKc9Zt1EdoViDcfot5F9gM/woWi3YMWPTkbe6bXA8V5rHaR/Hzi6xsYGpQFheBd1/lGbcgiywxpdnNlR0Egb3x8XGwQAm1nu4snxnOzvd/7A8WPlcjfIgXnUYWUi4rygKAmj5hEpnm5E=;RkdNzpMGKCXJjfLNbvUoiQ=="
 ---
 

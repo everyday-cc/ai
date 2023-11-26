@@ -19,175 +19,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft- An AI Powerhouse To Reckon With In The Future"
-    excerpt: "In doing so, Microsoft became an even greater force to reckon with Microsoft now could have less reason to lean on OpenAI for future AI breakthroughs and advanced"
-    publishedDateTime: 2023-11-21T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/"
-    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655be7de4854a016a0b983ac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Microsoft Azure Confidential VMs Will Roll Out This December"
-    excerpt: "The partnership with Intel allows for hardware-enforced security and confidentiality on 4th Gen Xeon processors."
-    publishedDateTime: 2023-11-21T18:24:00Z
-    webUrl: "https://www.techrepublic.com/article/azure-confidential-vms-public-preview/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/tr_20231121-azure-confidential-vms-public-preview.jpg"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Microsoft’s AI Fate Isn’t Entirely in Its Hands: WSJ’s Dan Gallagher"
-    excerpt: "OpenAI developed the key generative artificial-intelligence technology that helped give Microsoft a healthy lead in the biggest tech race in years. After OpenAI’s board ousted co-founder and CEO Sam Altman on Friday and his weekend efforts to return to the company fell apart,"
-    publishedDateTime: 2023-11-21T16:30:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-11-21-2023/card/microsoft-s-ai-fate-isn-t-entirely-in-its-hands-wsj-s-dan-gallagher-ZNSsTWIeKNo6MxWY6fb7"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-785590/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Microsoft's AI Future Is Bright After Tapping Altman, OpenAI's Is Uncertain: Analysts"
-    excerpt: "Microsoft Corp's (NASDAQ: MSFT) hiring of Sam Altman just days after the 38-year-old entrepreneur was fired by OpenAI has inspired analysts to examine the Redmond, Washington-based tech giant's positi"
-    publishedDateTime: 2023-11-21T17:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-ai-future-is-bright-after-tapping-altman-openai-s-is-uncertain-analysts-1032840273"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/11/21/building-1011876_1280.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "AI silent war, is Nadella the Microsoft pied piper as OpenAI shakes"
-    excerpt: "Referred to as one of the most remarkable acqui-hires this year, Microsoft CEO Satya Nadella appears to have roped in some reputational credit for Microsoft."
-    publishedDateTime: 2023-11-22T06:25:00Z
-    webUrl: "https://memeburn.com/2023/11/ai-silent-war-is-nadella-the-microsoft-pied-piper-as-openai-shakes/"
-    ampWebUrl: "https://memeburn.com/2023/11/ai-silent-war-is-nadella-the-microsoft-pied-piper-as-openai-shakes/?amp=1"
-    cdnAmpWebUrl: "https://memeburn-com.cdn.ampproject.org/c/s/memeburn.com/2023/11/ai-silent-war-is-nadella-the-microsoft-pied-piper-as-openai-shakes/?amp=1"
-    type: article
-    provider:
-      name: Memeburn
-      domain: memeburn.com
-    quality: 76
-    images:
-      - url: "https://s5.cdn.memeburn.com/wp-content/uploads/2020/01/microsoft-edge-chromium-stock-1.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU"
-    excerpt: "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,"
-    publishedDateTime: 2023-11-25T11:06:00Z
-    webUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 74
-    images:
-      - url: "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
-    excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
-    publishedDateTime: 2023-11-25T10:38:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 68
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Fired OpenAI CEO Sam Altman joins Microsoft as AI research lead"
-    excerpt: "Sam Altman has been hired by Microsoft to lead its AI research after being fired by OpenAI. The former CEO and board members of the ChatGPT firm was let go last week following a review by the board of directors."
-    publishedDateTime: 2023-11-21T17:45:00Z
-    webUrl: "https://rollingout.com/2023/11/21/ai-ceo-sam-altman-joins-microsoft/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 56
-    images:
-      - url: "https://rollingout.com/wp-content/uploads/2023/11/1679322765cropped3080x2002.jpg"
-        width: 1000
-        height: 650
-        isCached: true
-  - title: "Microsoft leverages TSMC's one-stop service for in-house developed chip"
-    excerpt: "TSMC not only offers advanced process manufacturing but also its advanced packaging for the recently released Microsoft Azure Maia 100 AI accelerator, according to industry sources."
-    publishedDateTime: 2023-11-22T01:24:00Z
-    webUrl: "https://www.digitimes.com/news/a20231121PD215/microsoft-tsmc-ai-accelerator-5nm.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 56
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231121pd215_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "How Microsoft's hiring of OpenAI's Altman could reshape AI development"
-    excerpt: "Following a dramatic departure of two key leaders from ChatGPT-maker OpenAI, Microsoft, a major investor in the startup, ended up a winner."
-    publishedDateTime: 2023-11-21T14:49:00Z
-    webUrl: "https://www.securityinfowatch.com/industry-news/news/53078830/how-microsofts-hiring-of-openais-altman-could-reshape-ai-development"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 54
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/11/655cbe74654e4c001d57cb5a-gettyimages1483272785.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Informatica deploys Microsoft Azure pod in Canada"
-    excerpt: "Informatica says IDMC improves analytics and AI workloads on Azure by ensuring data is high quality and trustworthy. Customers can now access IDMC as an Azure Native Service purchased through the Azure Marketplace. Informatica has customers in more than ..."
-    publishedDateTime: 2023-11-24T09:53:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/informatica-deploys-microsoft-azure-pod-in-canada/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/1637699511013.2e16d0ba.fill-1200x630.jpg"
-        width: 450
-        height: 237
-        isCached: true
-  - title: "The OpenAI Saga Continues, Microsoft’s New Chips, Microsoft’s AI Platform Hedge"
-    excerpt: "More updates on the OpenAI saga, including the problematic board. Then, Microsoft unveils new chips, and is creating an AI platform that looks a lot like Microsoft’s other platforms."
-    publishedDateTime: 2023-11-21T14:25:00Z
-    webUrl: "https://stratechery.com/2023/the-openai-saga-continues-microsofts-new-chips-microsofts-ai-platform-hedge/"
-    type: article
-    provider:
-      name: Stratechery
-      domain: stratechery.com
-    quality: 47
   - title: "Schneider Electric Integrates Microsoft Azure OpenAI for Sustainable Solutions"
     excerpt: "Schneider Electric tapped into its collaboration with Microsoft to integrate Microsoft Azure OpenAI into its operations, utilizing algorithms to generate text, code and diverse content."
     publishedDateTime: 2023-11-21T20:17:00Z
@@ -197,20 +28,6 @@ related:
       name: iotevolutionworld.com
       domain: iotevolutionworld.com
     quality: 45
-  - title: "Microsoft Q4 Earnings Call: Over One Billion Bing AI Chat Sessions – Search Engine Journal"
-    excerpt: "We’ve gathered insights from 13 of the top PPC marketing experts who know what’s coming, what you should pay attention to, and what to avoid.In this"
-    publishedDateTime: 2023-11-22T00:09:00Z
-    webUrl: "https://www.inferse.com/802422/microsoft-q4-earnings-call-over-one-billion-bing-ai-chat-sessions-search-engine-journal/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 44
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-12208-1920x1075.png"
-        width: 1920
-        height: 1075
-        isCached: true
   - title: "Microsoft, OpenAI sued over alleged unauthorized use of nonfiction authors’ work in AI training"
     excerpt: "Artificial intelligence startup OpenAI and Microsoft Corp. have been hit with a new lawsuit alleging that the companies violated copyright by using the works of nonfiction authors to train AI models, including OpenAI’s ChatGPT. Julian Sancton ..."
     publishedDateTime: 2023-11-22T16:10:00Z
@@ -225,74 +42,19 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "I think Microsoft Azure “Eagle” is probably the most important tech news of 2023 that you haven't heard of — here's why"
-    excerpt: "The 1,123,200-core Eagle is fitted powered by the Intel Xeon Platinum 8480C 48C CPU alongside 14,400 Nvidia H100 GPUs, alongside Nvidia InfiniBand NDR technology, which increases AI and HPC performance. The Azure Cobalt CPU, based on the Arm Neoverse CSS ..."
-    publishedDateTime: 2023-11-23T20:32:00Z
-    webUrl: "https://www.techradar.com/pro/i-think-microsoft-azure-eagle-is-probably-the-most-important-tech-news-of-2023-that-you-havent-heard-of-heres-why"
+  - title: "Schneider Electric Issues Industry-First Blueprint for Optimizing Data Centers to Harness the Power of Artificial Intelligence"
+    excerpt: "Tech - Schneider Electric, the leader in the digital transformation of energy management and automation, today announced the launch of an industry-first guide to"
+    publishedDateTime: 2023-11-22T12:43:00Z
+    webUrl: "https://business-review.eu/tech/schneider-electric-issues-industry-first-blueprint-for-optimizing-data-centers-to-harness-the-power-of-artificial-intelligence-254237"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 40
-  - title: "Microsoft Girds to Dominate Cloud-Based AI Services"
-    excerpt: "Launching its own server CPUs and AI chips to fortify the Azure cloud, Microsoft takes shots at all their potential competitors while offering more options to their"
-    publishedDateTime: 2023-11-22T14:18:00Z
-    webUrl: "https://www.datacenterfrontier.com/cloud/article/33015357/microsoft-girds-to-dominate-cloud-based-ai-services"
-    type: article
-    provider:
-      name: datacenterfrontier.com
-      domain: datacenterfrontier.com
-    quality: 36
-  - title: "Eviden and Microsoft Collaborate to Help Customers Take Advantage of the Microsoft Cloud and Generative AI"
-    excerpt: "Eviden, the Atos Group business leading in digital, cloud, big data, and security, is collaborating with Microsoft to help"
-    publishedDateTime: 2023-11-22T19:30:00Z
-    webUrl: "https://www.datanami.com/this-just-in/eviden-and-microsoft-collaborate-to-help-customers-take-advantage-of-the-microsoft-cloud-and-generative-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 36
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 11
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/11/eviden-microsoft-300x300.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Flywheel and Microsoft collaborate to unlock powerful data insights in medical imaging"
-    excerpt: "Healthcare breakthroughs have long-standing barriers when it comes to unlocking the powerful insights trapped in medical imaging data."
-    publishedDateTime: 2023-11-23T16:58:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2023/11/23/flywheel-and-microsoft-collaborate-to-unlock-powerful-data"
-    type: article
-    provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 31
-    images:
-      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/publications/pharmaceutical-science/outsourcing-pharma.com/article/2023/11/23/flywheel-and-microsoft-collaborate-to-unlock-powerful-data/16962507-2-eng-GB/Flywheel-and-Microsoft-collaborate-to-unlock-powerful-data.jpg"
-        width: 725
-        height: 510
-        isCached: true
-  - title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-    excerpt: "The Flywheel platform is integrated with NVIDIA MONAI, part of the NVIDIA AI Enterprise software platform, and Azure Machine Learning Studio for development and deployment of production-grade AI ..."
-    publishedDateTime: 2023-11-22T09:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 29
-  - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
-    excerpt: "We offer our self-developed products and services to both individual users and enterprise customers across Asia, under the brands KKBOX, BlendVision, and Going Cloud. The Company has also earned third-party international certifications including OpenChain ISO/IEC 5230 and ISO 27001."
-    publishedDateTime: 2023-11-22T01:43:00Z
-    webUrl: "https://www.digitimes.com/biz/news.asp?feed=3601"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 27
-    images:
-      - url: "https://img.digitimes.com/ad/en_20231113_asasemiconductor_bigbutton.jpg"
-        width: 336
-        height: 280
+      - url: "https://business-review.eu/wp-content/uploads/2023/11/Schneider-Electric.jpeg"
+        width: 720
+        height: 378
         isCached: true
 
 secured: "vye4nJJgY/c9j6e2npmlOJeQVumMHirexQ3kOGTXgec/O4RJboHnV8UmIO/1ZNhNd0csis4cfBG6IGJP7lBF0cxMZeK5MuG8CesgZFrr4GWhvsATdRnJMfnsue3IcXIJf/G9++hyfdxTZG92uW2YpEsSVYPpzxq5fx3/3N60leO7BL+9mxEp/v6p0/tTJev1B4hlFukS/09VZUyW5HVSfPoYw5yC2gL34jErYlp2ome4JsZ5SVUuPQwZ5aqSRfjQan2v6nEOE6uX/zNOy+GHJ6asLkzQB7BDc44Qdh3Lz48LzZDxSe9C+WvQkJvP3Wvj/S4ECbuocbwwL8WQ/6g433E9NcoqWEC4DPa1507GDd12J1PgiWYbYOIkjXEthWSfTRHfbo/88UmpePkEzwFCzWEAj6Uc6hlhvlvWcDxwFlUXWu4+xxUaHUngZ4N1FGL+H803OGrqu8N6XYbx56G0N0K5GH5QveekD5Dpc/ZVbqCfGIqdL4cJfAWpUtAhM/cbhdp4kpvjF0go/qsgAl/AQg==;uFskUcFYdJoQPsLbWr4+CA=="

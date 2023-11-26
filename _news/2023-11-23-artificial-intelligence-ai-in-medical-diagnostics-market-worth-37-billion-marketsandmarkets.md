@@ -53,15 +53,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Global Data Center GPU Market Analysis Report 2023-2028 with Case Studies from NVIDIA, Imagination Technologies and Mobica, Realtek, Intel and Google - ResearchAndMarkets.com"
-    excerpt: "The \"Global Data Center GPU Market by Deployment Type (Cloud, On-premise), Function (Training, Inference), End-user (Cloud Service Providers, Enterprises, Government) and Region (North America, Europe,"
-    publishedDateTime: 2023-11-21T16:22:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231121212113/en/Global-Data-Center-GPU-Market-Analysis-Report-2023-2028-with-Case-Studies-from-NVIDIA-Imagination-Technologies-and-Mobica-Realtek-Intel-and-Google---ResearchAndMarkets.com/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "tv6iljn7pJfoYiBUK1AP8RAH3tkf10wITAMIxSyVr+KMgnfhLgqvdiWZUsL2scn6uPh9MlYDm77Pay5jQHfFQvixSHIm6ce9ThZRvMxT1ciHQM7fB3wlWRBJN4VAgCEzkbb3KId4tbq3ynMXleAlUDK3ppBwjGwkb5+u4r9h+esUujUBUdtTMMaAQsuAbKUcqyaOlVjM+OgTdJ9NqwiSyOTirIq7N63pWiB59m0aH+CIcfveEWxwVe1GbBEcMlqVL2je1OHFFXF+IfishGxsoRoW2TxjGhRGa1ka3mICkOXIEmGyZlKsAx/s+H39fB4dsMtQZJInUKGgRvgw0zw0byobyBImmF00tYtcOHlZ1gw=;nqSFWmOPMABbOaXmgtuJPw=="
 ---

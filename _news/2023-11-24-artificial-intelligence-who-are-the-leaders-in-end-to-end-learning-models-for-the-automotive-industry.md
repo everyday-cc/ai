@@ -48,6 +48,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "The future of machine learning: Trends to watch in 2024"
+    excerpt: "As we move into 2024, the spotlight turns to multimodal AI models, which represent a leap in sophistication by processing and interpreting diverse data types, including text, images, and sound, to deliver more nuanced and human-like decisions."
+    publishedDateTime: 2023-11-26T13:08:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-the-future-of-machine-learning-trends-to-watch-in-2024-3318212/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 19
 
 secured: "6MMTFU4mCkJlcAiDhTtjWzxPQGMC6RaBufXKZ6EFQL/V6LfB7nFg6ITUFw9gmwcd/G2CzPAxyHAvsp1H7Kshx6Q7w2bcg7CetX/uhtHS9q1yGaHaEVIg5TDCE9k6CsfHhG8egpTCKZoZWKO8OOa8T7ukwWGGT/d4d332MgN3Xz2bMxSyNa1biabFjIpniQB/DZhZvhGLJCM4oXBqNWO0osW1NmnebZImMLaLfU+W6Us34JpdpIpdffmeRUa0UacYBMHYo50nbrel2wf3BBpbLYGJeZWm8X+SsZvRbwzorue3+LxLwmixgtLaw1qaCfkwqgKxCGy2P1nobNIT97VSrSC/SAfCU9hlZOaGymyoiXvtwVxSP7YibkxI15ykOiHaKG6KxOIRCFOm6mHFWBjKKc6TfJLldcRttGoRipG6D7HDp/GXPzcL0UfqB6clEoFvt4/O4nPUMRUZulEOuz4r+qHNKsqaga7yalNRrvDPTSoeD4TWUvWVSmZ1dZtoNEOKkoYDEvuUCe8PgeyAoQAhVA==;Th+9hWEpe2qFvCuQ/PsLJA=="
 ---

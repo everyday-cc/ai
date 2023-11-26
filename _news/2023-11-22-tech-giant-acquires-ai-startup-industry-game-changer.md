@@ -54,6 +54,20 @@ related:
         width: 1280
         height: 852
         isCached: true
+  - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
+    excerpt: "We offer our self-developed products and services to both individual users and enterprise customers across Asia, under the brands KKBOX, BlendVision, and Going Cloud. The Company has also earned third-party international certifications including OpenChain ISO/IEC 5230 and ISO 27001."
+    publishedDateTime: 2023-11-22T01:43:00Z
+    webUrl: "https://www.digitimes.com/biz/news.asp?feed=3601"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 27
+    images:
+      - url: "https://img.digitimes.com/ad/en_20231113_asasemiconductor_bigbutton.jpg"
+        width: 336
+        height: 280
+        isCached: true
 
 secured: "nH7CylAvgyCV4BIulw+4jGpjLlKlQ8t1VUfS3D6KFfccSoBJHaal3M8XxQNLpy3Rs1CHS0Bf+5cLxG20ZzE2qleSk/bblNe7VCZL//8K+2qycbkHU1NvwHnRVw1r/k2IjPo2HVmkrgiZuYXkrNR+e6vWqjCJx6eV/SC2O++aAt0fvJcNUJs4PhfYiqIsL+J1AYhdcakguP5q50J92G5T19QVMHpsEZF+EuRvLRP7dZ4HcJJqXItxORQ1ZAiPY+vOmIaeVKSMYnio7LKIRnZTDJ71QTCmugIS3uyxeCgR051IPvoQ4rPiIP/EEhIrw0PuU1kQ7TgtqFh/o5mBmRu0IDaSW1kuJtI1C73A3brv4W4WV/ZY9wFOm4sqHhEPKHEkZCM4llhTf2ZqMW+tmme7VEC396WVss4RUbqq381Ze/uyf0zIGA0rRd7Z+7gObI/zvhk/NjFrt5AsUQSY2Nazk1UsUIxeiO2cuOMpUYuIYiKAUCOgKLsdboqcx4Bnm68tsEj3JS+3o7BBYQQMSYTKYQ==;NBvb5ltFcMyf21eqyim8Ng=="
 ---

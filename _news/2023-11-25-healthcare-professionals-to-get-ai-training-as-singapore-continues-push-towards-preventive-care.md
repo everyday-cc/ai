@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hyundai’s robot-heavy EV factory in Singapore is fully operational"
+    excerpt: "While a car factory vegetable garden may sound somewhat odd, it actually compliments the Singapore government’s ongoing “ 30 by 30 ” initiative. Due to the region’s rocky geology, Singapore can only utilize about one percent of its land for agriculture—an estimated 90 percent of all food in the area must be imported."
+    publishedDateTime: 2023-11-21T18:15:00Z
+    webUrl: "https://www.popsci.com/technology/hyundai-singapore-factory/"
+    ampWebUrl: "https://www.popsci.com/technology/hyundai-singapore-factory/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/hyundai-singapore-factory/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 74
+    images:
+      - url: "https://www.popsci.com/uploads/2023/11/21/Large-57885-NewHyundaiMotorGroupInnovationCenterSingaporeSettoTransformProductionRDandCustomerExperience-scaled.jpg?auto=webp"
+        width: 2560
+        height: 1710
+        isCached: true
   - title: "Hyundai Unveils Robot-Operated EV Plant in Singapore"
     excerpt: "After beating General Motors and Ford in US electric vehicle (EV) sales in Q3, Hyundai Motor Group plans to keep its momentum going in the market.Hyundai officially launched its new"
     publishedDateTime: 2023-11-22T16:50:00Z

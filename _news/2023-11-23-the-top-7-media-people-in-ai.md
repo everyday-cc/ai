@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/top-media-people-artificial-intellig
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11?amp"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Investing in AI Stocks"
+    excerpt: "The launch of ChatGPT has set off a boom in artificial intelligence ... including automated clinical documentation in healthcare to reduce paperwork and administrative needs."
+    publishedDateTime: 2023-11-25T16:52:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Today in AI: Sam Altman as CEO of OpenAI is strategic win for Nadella, What is AGI? and AWS India AI ready initiative to train people"
     excerpt: "AGI is more of a general term, referring to Artificial Intelligence that has not been trained to excel ... The cloud service provider also earmarked $12 million for AWS Generative AI Scholarship, wherein it will provide Udacity scholarships to more than ..."
     publishedDateTime: 2023-11-23T09:37:00Z

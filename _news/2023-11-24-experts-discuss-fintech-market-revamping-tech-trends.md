@@ -73,20 +73,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Robotic Process Automation in Finance: Streamlining Operations with FinTech"
-    excerpt: "Introduction Technological advancements continue to redefine the way financial institutions operate. One such groundbreaking innovation is Robotic Process Automation (RPA), a game-changer that has seamlessly integrated with the financial sector,"
-    publishedDateTime: 2023-11-21T14:55:00Z
-    webUrl: "https://techbullion.com/robotic-process-automation-in-finance-streamlining-operations-with-fintech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Robotic-Process-Automation-in-Finance-Streamlining-Operations-with-FinTech.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "The fintech stocks surging in the AltFi Fintech Index amid a market rally"
     excerpt: "Keep up with the latest in the world of fintech and alternative finance by subscribing to our newsletters. Get the latest headlines, expert insights and reports and be the first to know about upcoming events."
     publishedDateTime: 2023-11-23T05:30:00Z
@@ -115,15 +101,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "PKKFF Tenet Fintech Group Inc."
-    excerpt: "Tenet Fintech Group Inc., through its subsidiaries, provides various analytics and AI-based services to small-and-medium businesses and financial institutions. It offers Business Hub, a global ..."
-    publishedDateTime: 2023-11-21T15:53:00Z
-    webUrl: "https://seekingalpha.com/symbol/PKKFF"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "hGQPTy3CcM3GSPHoNPDL1xRkk0Sh+82Z8E1uFQ74iC2elI7PAFVCn+i0P+YCkEGr1iZwN3X7TXXBGVjurqYWw/ESr9S6vI45KYBagHGpc998Ozb+3kQdvvaNkP/dKLnBl38IM4b4wb4hxPv6oxI9Qavq2I4XiLlc2alwVmSeyUl4uFf/PokwF5TaX1FUsIKrcMclTuh41EPbDesX6jivhFZ/xfSrAHlA8v04kaA9qpGxVhn/st3kYLkDClRDV7FeIpjwnUtMACeTx9CBOzHsLVUk4yvV365WC2jsiEZS520wwUaa9e+lJ4S+eXtM8LPIHMq2xopaiyVSLHdMUOqXb8DWzYHYKEDb2aV6NaGHwj8=;mruUg08dy0X68/7d5aC5MQ=="
 ---

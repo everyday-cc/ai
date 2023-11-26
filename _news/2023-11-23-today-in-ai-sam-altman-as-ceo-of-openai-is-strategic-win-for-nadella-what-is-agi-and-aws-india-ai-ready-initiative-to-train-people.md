@@ -43,6 +43,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Investing in AI Stocks"
+    excerpt: "The launch of ChatGPT has set off a boom in artificial intelligence ... including automated clinical documentation in healthcare to reduce paperwork and administrative needs."
+    publishedDateTime: 2023-11-25T16:52:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Partisan Media Bias Shapes AI Sentiment"
     excerpt: "The study highlights the significant role media plays in shaping public opinion on AI, especially in the context of political discussions and policy-making."
     publishedDateTime: 2023-11-22T21:41:00Z

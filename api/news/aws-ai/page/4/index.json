@@ -2,6 +2,75 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-17-liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability.md",
+      "title": "LiveRamp Announces Identity Integration with AWS Entity Resolution to Increase Marketing Interoperability",
+      "excerpt": "It supports and enhances cross-channel media measurement workflows in AWS data lakes, media collaboration in AWS Clean Room collaborations, and artificial intelligence (AI) model development with Amazon SageMaker. RampID also helps brand marketers enrich ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/17/9899936.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/17/9899936.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T12:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-coresite-accelerates-aws-direct-connect-hosted-connections-on-the-open-cloud-exchange.md",
+      "title": "CoreSite Accelerates AWS Direct Connect Hosted Connections on the Open Cloud Exchange",
+      "excerpt": "CoreSite, a leading hybrid IT solutions provider and subsidiary of American Tower Corporation (NYSE: AMT) (“American Tower”), announced it will launch",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231016742177/en/CoreSite-Accelerates-AWS-Direct-Connect-Hosted-Connections-on-the-Open-Cloud-Exchange®",
+      "originalUrl": "https://www.businesswire.com/news/home/20231016742177/en/CoreSite-Accelerates-AWS-Direct-Connect-Hosted-Connections-on-the-Open-Cloud-Exchange®",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-15-does-amazons-artificial-intelligence-ai-investment-make-it-a-buy.md",
       "title": "Does Amazon's Artificial Intelligence (AI) Investment Make It a Buy?",
       "excerpt": "Anthropic specializes in generative AI, which can be deployed, for instance, for customer service, as an AI assistant, or for help with coding. Essentially, Anthropic has a tool kit that helps its clients develop AI models that suit their needs. Anthropic rolled out AI assistant Claude in March.",

@@ -59,20 +59,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Robotic Process Automation in Finance: Streamlining Operations with FinTech"
-    excerpt: "Introduction Technological advancements continue to redefine the way financial institutions operate. One such groundbreaking innovation is Robotic Process Automation (RPA), a game-changer that has seamlessly integrated with the financial sector,"
-    publishedDateTime: 2023-11-21T14:55:00Z
-    webUrl: "https://techbullion.com/robotic-process-automation-in-finance-streamlining-operations-with-fintech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Robotic-Process-Automation-in-Finance-Streamlining-Operations-with-FinTech.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Experts Discuss Fintech Market Revamping Tech Trends"
     excerpt: "( MENAFN - The Peninsula) Joel Johnson | The Peninsula"
     publishedDateTime: 2023-11-24T10:54:00Z
@@ -115,15 +101,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "PKKFF Tenet Fintech Group Inc."
-    excerpt: "Tenet Fintech Group Inc., through its subsidiaries, provides various analytics and AI-based services to small-and-medium businesses and financial institutions. It offers Business Hub, a global ..."
-    publishedDateTime: 2023-11-21T15:53:00Z
-    webUrl: "https://seekingalpha.com/symbol/PKKFF"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "vcbCjGT/qY3QpkhSVSjdHJZBf2iSDJ7E//hzVTAFdtoBbc/i1KV5VPxqpwelnWdia7P6a+xpqFwyejH01LXuuFtcvltLORPj6O+M8nP2rroe8yXsnI/gnXglkHQbeO2ua4+R/UTG6FwnGUryeuiF62/dg+Z+D83hvjb807Fux1L870iv9DfvFQ6l1yDrEpAc0/RLrDyRmcni9Zl+zFLHRwF4wSVUU2CEx8utq8W/HO3B8WLm+rA3OGVrmWQXuA0yPAVJpDYTJFHDMg5Z8BfzheifHm0eJMPfohB+INA2/jaVAqiVxu32j/noEF4zxBiaK03pNJcUlk6lZ+8Nj2W/JKsjkSjAvlPUaKeqor5jmyw=;UdXO9bhrK6Ql+FapVQmUwg=="
 ---

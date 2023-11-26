@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated-influencer-can-pull-in-10000-euros-a-month/amp/"
 type: article
 quality: 87
-heat: 150
+heat: 139
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 335
         height: 384
         isCached: true
-  - title: "AI is already impacting influencer marketing, according to the CMO of Billion Dollar Boy. Here's how she thinks brands should approach the new tech."
-    excerpt: "Becky Owen, the CMO of influencer-marketing firm Billion Dollar Boy, is at the helm of an innovation unit at the company that focuses on AI efforts."
-    publishedDateTime: 2023-11-21T13:29:00Z
-    webUrl: "https://www.businessinsider.com/influencer-marketing-firm-billion-dollar-boy-investing-in-ai-2023-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
   - title: "Spanish influencer agency designed this AI model after deciding real-life influencers are a pain"
     excerpt: "Meet Aitana Lopez, a gorgeous young influencer from Barcelona who has 122,000 followers on Instagram - even though she's an AI creation."
     publishedDateTime: 2023-11-24T01:11:00Z

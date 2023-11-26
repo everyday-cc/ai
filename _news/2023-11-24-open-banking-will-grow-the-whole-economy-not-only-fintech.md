@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 141
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Robotic Process Automation in Finance: Streamlining Operations with FinTech"
-    excerpt: "Introduction Technological advancements continue to redefine the way financial institutions operate. One such groundbreaking innovation is Robotic Process Automation (RPA), a game-changer that has seamlessly integrated with the financial sector,"
-    publishedDateTime: 2023-11-21T14:55:00Z
-    webUrl: "https://techbullion.com/robotic-process-automation-in-finance-streamlining-operations-with-fintech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Robotic-Process-Automation-in-Finance-Streamlining-Operations-with-FinTech.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Experts Discuss Fintech Market Revamping Tech Trends"
     excerpt: "( MENAFN - The Peninsula) Joel Johnson | The Peninsula"
     publishedDateTime: 2023-11-24T10:54:00Z
@@ -119,15 +105,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "PKKFF Tenet Fintech Group Inc."
-    excerpt: "Tenet Fintech Group Inc., through its subsidiaries, provides various analytics and AI-based services to small-and-medium businesses and financial institutions. It offers Business Hub, a global ..."
-    publishedDateTime: 2023-11-21T15:53:00Z
-    webUrl: "https://seekingalpha.com/symbol/PKKFF"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "AxRzmLg+Fu7ul7gLTnFR5H8Nl04kAEBndZRyOkyMNZbxIUqrirsTvq7g8VZNaFXNVCU0inmfE1mauvOG3nG96x9Jrqx7wsjUh+A4qtI4gBk9USZDUqWvIKWuhFewav5X7zDWkK0UbqAwdIg2pHLln7WoYSRwfg4vziFvtQPzipfRtX2UXX76Zog9FasPtd5J0Ii4axrCfqD2U1RNtc+dH5hk+U2xjP+8ARthy6HxI3xL1bJAmPEccPB4c0YDFZoX3W1Y3TvgCoa6UylzXEpI5a98jR6e4XuAk3PdBFAKk0YQawblMTBvZoXfzOtHJyx10API2r5VFjovcgUTs4WwIkVXLJSZhtpxctQDrazGglOckw6h8tOvHlQ9KMKgj5HdgYsRrtZr3co1EaAXmc5IO+4ZhorVaa8aQt2IU+4RZk/l4ZpXSY3HcRmaVP47LvdZonaLVQWc0zBepgziKnpytw098j8z/tiiFc4oJ3kpSRC86XQRKZ+BVQ+Npt+DF9sFLnCxdh82jQaOdRaXiiKzqg==;rXcDNvdnOfNNjLAlZ9VdKQ=="
 ---

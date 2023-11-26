@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://epe.brightspotcdn.com/dims4/default/32c09bb/2147483647/strip/true/crop/3000x2006+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2Fdd%2F2d%2Fe84d750c411b8d86b81e946c33df%2Fai-sel-1634086519.jpg"

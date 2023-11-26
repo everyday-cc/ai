@@ -42,36 +42,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Three Key Considerations For Executives To Embrace Generative AI"
-    excerpt: "As organizations tap into the potential benefits of generative AI, they may likely introduce a new host of significant risks."
-    publishedDateTime: 2023-11-21T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/11/21/three-key-considerations-for-executives-to-embrace-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655b7028270e328a1af78250/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "O’Reilly “Generative AI in the Enterprise” 2023 Report"
-    excerpt: "In an era marked by rapid technological evolution, the landscape of artificial intelligence is undergoing a monumental shift, spearheaded by the advent and integration of generative AI. O'Reilly, a leading beacon in technology and business learning,"
-    publishedDateTime: 2023-11-21T16:32:00Z
-    webUrl: "https://www.unite.ai/oreilly-generative-ai-in-the-enterprise-2023-report/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/11/9d68dfbf-055b-4873-845c-ab4b4963221b-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "VB8XaowdsBJgUflaTn1hoQz2hS715O/UzMv6lK6Wuj2NiX5DNoi8PJdEvQI17ILSHL+oPe3pSAs4a7FRaTagFh5ui+CQcDDuVP1S89w95WKmcW6eALc0t0bvG6J2DuD8zZXycy0RnIGEFJo4kfgu1zouBkje1I9vkA/drR/CGxMaArHXo7BRpWMJVJ5Dpx0mvZvsO5PiWhoBXzmNokkymuG8YaiCts7wWTI3h4t5+l+Z+4x/fL11kh3Db6G5ykr2SSueabTTNYJ35g1RwBQZdqemxMZbpE5STZKGULR8F9YTkfiEEY3YOkXCNNEGic0WpfhlaILCso+/FtrfUfmIUKxkUcGzUz9OTsCQJwOZnFOGGqV5TXMoVnEUZC6hFfBP82HFktwgaunTBKmd9Ktt7jSqya+8tn90H5dJhgl5Y4uyYGdVGhF8jNZ7UXOAgBaUhDUZm/mu+ssF6m/BHpptoXQ28KaW0qkZBE07NuQS7BZEA1lfGu5UvNgpjqGqdUcER9d0ZGIUdWqLpRO4m/S6mA==;p04nhwlhmei4h0QvAizKAg=="
 ---

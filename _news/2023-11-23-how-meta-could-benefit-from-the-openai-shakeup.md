@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "How the OpenAI fiasco could bolster Meta and the ‘open AI’ movement"
-    excerpt: "And on a company level, Meta is doing all it can to encourage collaboration and “openness,” recently partnering with Hugging Face to launch a new startup accelerator designed to spur adoption of open source AI models. But OpenAI was — up until last ..."
-    publishedDateTime: 2023-11-21T16:13:00Z
-    webUrl: "https://techcrunch.com/2023/11/21/how-the-openai-fiasco-could-bolster-meta-and-the-open-ai-movement/"
-    ampWebUrl: "https://techcrunch.com/2023/11/21/how-the-openai-fiasco-could-bolster-meta-and-the-open-ai-movement/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/21/how-the-openai-fiasco-could-bolster-meta-and-the-open-ai-movement/amp/"
+  - title: "AI silent war, is Nadella the Microsoft pied piper as OpenAI shakes"
+    excerpt: "Referred to as one of the most remarkable acqui-hires this year, Microsoft CEO Satya Nadella appears to have roped in some reputational credit for Microsoft."
+    publishedDateTime: 2023-11-22T06:25:00Z
+    webUrl: "https://memeburn.com/2023/11/ai-silent-war-is-nadella-the-microsoft-pied-piper-as-openai-shakes/"
+    ampWebUrl: "https://memeburn.com/2023/11/ai-silent-war-is-nadella-the-microsoft-pied-piper-as-openai-shakes/?amp=1"
+    cdnAmpWebUrl: "https://memeburn-com.cdn.ampproject.org/c/s/memeburn.com/2023/11/ai-silent-war-is-nadella-the-microsoft-pied-piper-as-openai-shakes/?amp=1"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Memeburn
+      domain: memeburn.com
+    quality: 76
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1247646075-e1700575788127.jpg?resize=1200,676"
-        width: 1200
-        height: 676
+      - url: "https://s5.cdn.memeburn.com/wp-content/uploads/2020/01/microsoft-edge-chromium-stock-1.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "OpenAI’s Turmoil Unveiled: The Tech World’s Battle for AI’s Future"
     excerpt: "The recent upheaval at OpenAI unfolds as a gripping tech-world drama, blending secret board maneuvers, fears of killer A.I."

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-24-the-rise-of-artificial-intelligence-ai-in-online-casinos.md",
+      "title": "The rise of Artificial Intelligence (AI) in Online casinos",
+      "excerpt": "Online casinos, and even physical gambling establishments, are an example of one of the many industries that have benefited greatly from artificial intelligence (AI); from in the form of customized AI dealers to improved and sophisticated customer service bots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/",
+      "originalUrl": "https://www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chiangraitimes.com/wp-content/uploads/2023/08/Mobile-app-download-banner-ad-Made-with-PosterMyWall-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/?amp=1",
+      "cdnAmpWebUrl": "https://www-chiangraitimes-com.cdn.ampproject.org/c/s/www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/?amp=1",
+      "publishedDateTime": "2023-11-24T09:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chiangrai Times",
+        "domain": "chiangraitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-71-of-employers-may-be-left-behind-in-the-generative-ai-race.md",
       "title": "71% Of Employers May Be Left Behind In The Generative AI Race",
       "excerpt": "Skills Index report from BTG (Business Talent Group) unearthed some striking data about generative AI and its integration in today's workplace.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -597,7 +640,7 @@
       "originalUrl": "https://www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -998,7 +1041,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1051,7 +1094,7 @@
       "originalUrl": "https://www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1195,57 +1238,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-winning-the-cloud-game-phoning-the-right-friend-to-answer-the-cloud-optimization-question.md",
-      "title": "Winning the cloud game: Phoning the right friend to answer the cloud optimization question",
-      "excerpt": "By embracing new technologies, organizations improve efficiency, enhance customer experience and remain competitive.\nThe post Winning the cloud game: Phoning the right friend to answer the cloud optimization question appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/winning-the-cloud-game-phoning-the-right-friend-to-answer-the-cloud-optimization-question/",
-      "originalUrl": "https://www.ibm.com/blog/winning-the-cloud-game-phoning-the-right-friend-to-answer-the-cloud-optimization-question/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/11/90aeeede-ffda-4f77-8bd18923788d72bd.blog-lead-space-40x21-1-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T19:24:33Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],
