@@ -112,20 +112,6 @@ related:
         width: 4500
         height: 3001
         isCached: true
-  - title: "OpenAI’s board: From AI safety to mutiny | The AI Beat"
-    excerpt: "In one head-spinning weekend, OpenAI's nonprofit board went from serious about AI safety to watching employees get ready to mount a mutiny."
-    publishedDateTime: 2023-11-20T23:18:00Z
-    webUrl: "https://venturebeat.com/ai/openais-board-from-ai-safety-to-mutiny-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/11/DALL·E-2023-11-20-10.22.17-A-dramatic-scene-on-an-18th-century-sailing-ship-capturing-the-essence-of-a-mutiny-like-in-the-story-of-Mutiny-on-the-Bounty.-The-ship-is-set-again.png?w=1200&strip=all"
-        width: 1199
-        height: 685
-        isCached: true
   - title: "The Sam Altman Saga: Is AI the Place to 'Move Fast and Break Things'?"
     excerpt: "The OpenAI board was reportedly not happy with the former CEO's plan to profit from its powerful AI. But this is Silicon Valley. Is it possible to develop ethical AI and still make billions?"
     publishedDateTime: 2023-11-21T16:07:00Z
@@ -321,6 +307,20 @@ related:
       - url: "https://www.vmcdn.ca/f/files/biv/ashishanand-22.jpg;w=938;h=527;mode=crop"
         width: 938
         height: 527
+        isCached: true
+  - title: "With Sam Altman’s return, a shift in AI from idealism to pragmatism"
+    excerpt: "In fact, the Open AI saga marks the start of a new, more grown-up phase for the AI industry. For Open AI, Mr Altman’s triumphant return may supercharge its ambitions. For Microsoft, which stood by Mr Altman in his hour of need,"
+    publishedDateTime: 2023-11-23T15:08:00Z
+    webUrl: "https://www.economist.com/business/2023/11/23/sam-altmans-return-marks-a-new-phase-for-openai"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 37
+    images:
+      - url: "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20231125_WBC479.png"
+        width: 608
+        height: 740
         isCached: true
   - title: "He’s back: Sam Altman and the chaos at the heart of the AI industry"
     excerpt: "The CEO of OpenAI was sacked and then rehired days later, after staff threatened to follow him. But what does this corporate drama tell us about the future of AI? Blake Montgomery explains"

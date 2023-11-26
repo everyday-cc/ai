@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/large-language-model-LLM-generative-AI-chat-gpt-peopleimagescom-adobe.jpg"
         width: 1200
         height: 400
-        isCached: true
-  - title: "Bank, fintech leaders weigh in on the pros and cons of generative AI"
-    excerpt: "New iterations of tools powered by advanced artificial intelligence will aid banks in generating new value for customers, but the lack of regulatory guidance in this area hinders deeper adoption of the technology,"
-    publishedDateTime: 2023-11-21T23:05:00Z
-    webUrl: "https://www.americanbanker.com/news/bank-fintech-leaders-weigh-in-on-the-pros-and-cons-of-generative-ai"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 54
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/bd64195/2147483647/strip/true/crop/4032x2117+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F0a%2Fc5%2Fae14d712453398b237a3ea9be6ae%2Fimg-5968.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "O’Reilly “Generative AI in the Enterprise” 2023 Report"
     excerpt: "In an era marked by rapid technological evolution, the landscape of artificial intelligence is undergoing a monumental shift, spearheaded by the advent and integration of generative AI. O'Reilly, a leading beacon in technology and business learning,"

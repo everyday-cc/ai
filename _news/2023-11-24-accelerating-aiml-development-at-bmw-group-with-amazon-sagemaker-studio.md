@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/"
 type: article
 quality: 120
-heat: 174
+heat: 170
 published: true
 
 provider:

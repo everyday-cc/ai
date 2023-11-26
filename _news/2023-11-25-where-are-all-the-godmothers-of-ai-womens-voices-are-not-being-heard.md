@@ -3,11 +3,13 @@ category: news
 title: "Where are all the ‘godmothers’ of AI? Women’s voices are not being heard"
 excerpt: "Amid the coverage of Sam Altman returning to the helm of OpenAI, women are being written out of the future of AI"
 publishedDateTime: 2023-11-25T07:59:00Z
-originalUrl: "https://www.theguardian.com/global-development/2023/nov/25/where-are-godmothers-of-ai-womens-voices-not-heard-in-tech-sam-altman-openai?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/global-development/2023/nov/25/where-are-godmothers-of-ai-womens-voices-not-heard-in-tech-sam-altman-openai?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/global-development/2023/nov/25/where-are-godmothers-of-ai-womens-voices-not-heard-in-tech-sam-altman-openai"
+webUrl: "https://www.theguardian.com/global-development/2023/nov/25/where-are-godmothers-of-ai-womens-voices-not-heard-in-tech-sam-altman-openai"
+ampWebUrl: "https://amp.theguardian.com/global-development/2023/nov/25/where-are-godmothers-of-ai-womens-voices-not-heard-in-tech-sam-altman-openai"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2023/nov/25/where-are-godmothers-of-ai-womens-voices-not-heard-in-tech-sam-altman-openai"
 type: article
-quality: 16
-heat: 16
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI
 
-secured: "Ya7GTrtaPgGZzwULCnkRzcDZp6MC05ZTFyML+ayfbW5XRzfvM11KFLGtljTQtCjhL1xEywl3dZuSJVoXD8q8AUL+71Vx+vwPXM/7D594ibCzwzYGgnWSkBphYJ6DNLg8ec7eBriIaoHlkBhsuTkxu6fju7gnQpZq3Ol1q37N9v08D/JBxfMncEemkPSh2ee2qq8JxdwRNWqEmghQ9+YZCW1/CFUEJr3G7i9rKi2Dk625a3Ev/WRWG5motJrcEFPP7hx4fHpBOwT+uIyQEhnzvYvObbs/531QQVFsLpY3pwYgYvTVc3BpTqQJlNAuTV6K06pbawupwr97udEpZlI/qLFrSLm6E9bCcAhwiFCwG7rzYlrlQ91U0xEdb317wqkpD4Ig/0UIMdZzMbIVdegD0CCKYocP9pbu8vcwx4igVpdpgBu1zJdBFUb3qArag2qapb8ZuuPp7sfD5gn05Ry0HysTNfVT7p2gzOLQU6wZ70gBO//MKLInTXiPjmbqDPO5LjRKBvkQ+qf9x2Wukx5DFw==;f0x+sfh99q8jPS51NvIpuw=="
+images:
+  - url: "https://i.guim.co.uk/img/media/461cfa75ad31953282b5c682d616426ed2ea71a1/0_0_5055_3370/master/5055.jpg?width=620&quality=85&auto=format&fit=max&s=e95e07db9e112dd98d7270df62da5c24"
+    width: 620
+    height: 413
+    isCached: true
+
+secured: "wOnfr4LfWaPFosa2ZGXPFOe3HAmetNvBNVKshw4lIKtXHxVkt/1edO8tiN4HPkNGT6HIeQUo3XB9F/mUC1nmPzFbuWmSnLKJ1jFSHhGZUoMj9FYvcN76Ia1YEb7S2bdwL/FZpxaolf8grELIMJyeBEIgNM3B4u8jjU+Af8xBMyxylBBO1cPuwBr2jsCofLE0rJ7KEEE36Qly0KWd0SwKZ3qU1PvoghJFEim4XIK6VB+q8/CdUWf6xUJKcN1/ZWguTC9K8OtcrNECfinSHPJy5bCkdxuYToPmF9zI9jzghevCiwYxyLPK5KMFAASgnJ+LDzGALbr5znO5VPJi52Tufs1l+V40s0oehKQcHog3Kus=;8Zu0uxqtvWbnwNl4lcMdjA=="
 ---
 

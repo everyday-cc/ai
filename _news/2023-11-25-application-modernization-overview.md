@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/application-modernization-overview/"
 webUrl: "https://www.ibm.com/blog/application-modernization-overview/"
 type: article
 quality: 102
-heat: 112
+heat: 114
 published: true
 
 provider:

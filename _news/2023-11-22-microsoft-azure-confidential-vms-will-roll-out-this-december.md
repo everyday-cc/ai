@@ -151,20 +151,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Watch CNBC's Special Report: Satya Nadella and the Future of AI"
-    excerpt: "CNBC's Jon Fortt hosts a CNBC special report covering the latest out of the AI space including OpenAI's leadership turmoil, CNBC's interview with Microsoft CEO Satya Nadella, discussions with current players in the AI space and more."
-    publishedDateTime: 2023-11-21T00:46:00Z
-    webUrl: "https://www.cnbc.com/video/2023/11/20/watch-cnbcs-special-report-satya-nadella-and-the-future-of-ai.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 67
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107336950-1700533755Special-FULL-112023.jpg?v=1700533754&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Investing in Generative AI? You Won’t Do Much Better Than Microsoft Stock."
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips How did Microsoft (NASDAQ:MSFT) stock earn its membership among the"
     publishedDateTime: 2023-11-21T11:45:00Z
@@ -276,20 +262,6 @@ related:
       name: iotevolutionworld.com
       domain: iotevolutionworld.com
     quality: 45
-  - title: "Sam Altman, ex OpenAI founder and CEO now at Microsoft to run new advanced AI intelligence team"
-    excerpt: "Microsoft has hired Sam Altman, where he will lead a new advanced artificial intelligence team, after OpenAI terminated him, then tried to rehire him."
-    publishedDateTime: 2023-11-20T23:56:00Z
-    webUrl: "https://www.tweaktown.com/news/94458/sam-altman-ex-openai-founder-and-ceo-now-at-microsoft-to-run-new-advanced-ai-intelligence-team/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 44
-    images:
-      - url: "https://static.tweaktown.com/news/9/4/94458_904_sam-altman-ex-openai-founder-and-ceo-now-at-microsoft_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "Microsoft Q4 Earnings Call: Over One Billion Bing AI Chat Sessions – Search Engine Journal"
     excerpt: "We’ve gathered insights from 13 of the top PPC marketing experts who know what’s coming, what you should pay attention to, and what to avoid.In this"
     publishedDateTime: 2023-11-22T00:09:00Z
@@ -383,9 +355,9 @@ related:
         height: 510
         isCached: true
   - title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-    excerpt: "MINNEAPOLIS--(BUSINESS WIRE)--Flywheel, a leading medical imaging artificial intelligence (AI) development platform, today announced the launch of its software-as-a-service (SaaS) data management solution on Microsoft Azure. The Flywheel platform is ..."
-    publishedDateTime: 2023-11-22T09:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/"
+    excerpt: "Flywheel announces the launch of its SaaS data management solution on Microsoft Azure, integrated with NVIDIA MONAI."
+    publishedDateTime: 2023-11-22T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
     type: article
     provider:
       name: Business Wire
