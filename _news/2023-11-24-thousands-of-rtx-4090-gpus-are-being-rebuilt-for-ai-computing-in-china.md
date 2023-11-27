@@ -9,8 +9,8 @@ ampWebUrl: "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/"
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Beebom
@@ -27,65 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s GeForce GPUs are selling well, but its AI GPU sales are ridiculous"
-    excerpt: "Most Ars readers still probably know Nvidia best for its decades-old GeForce graphics cards for gaming PCs, but these days Nvidia's server GPU business makes GeForce look like a hobby project."
-    publishedDateTime: 2023-11-22T19:51:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/"
-    ampWebUrl: "https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/amp/"
+  - title: "From GPUs to NPUs: Evolution of AI hardware in smartphones"
+    excerpt: "Dedicated AI hardware was necessary to advance beyond the GPU. The solution that emerged was the Neural Processing Unit or NPU – a microprocessor developed specifically for neural network machine learning. In a nutshell, an NPU’s speciality is crunching numbers for machine learning models."
+    publishedDateTime: 2023-11-24T11:41:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/gpu-npu-role-ai-smartphones-9040864/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/gpu-npu-role-ai-smartphones-9040864/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/gpu-npu-role-ai-smartphones-9040864/lite/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 119
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/11/nvidia-ai-gpu-800x407.jpeg"
-        width: 800
-        height: 407
+      - url: "https://images.indianexpress.com/2023/11/cpu-gpu-npu-featured.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Nvidia's AI Chip Glory Gets Dimmed By US Export Curbs"
-    excerpt: "However, Nvidia shares dropped as the AI chip leader warned about the damaging impacts of US chip export curbs on its fourth quarter revenue. For the quarter that ended on October 29th, Nvidia reported its revenue grew 206% YoY to $18.12 billion, ..."
-    publishedDateTime: 2023-11-22T19:38:00Z
-    webUrl: "https://www.benzinga.com/23/11/35923680/nvidias-ai-chip-glory-gets-dimmed-by-us-export-curbs"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35923680"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35923680"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 76
-    images:
-      - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-futuristic-innovation-technology-remix_2.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "NVIDIA delays new H20 AI GPU shipments in to China, first chip designed after US sanctions"
-    excerpt: "NVIDIA's first AI GPU designed to comply with US export rules into China -- the H20 AI GPU -- has been delayed from December, to Feb/March 2024."
-    publishedDateTime: 2023-11-27T00:57:00Z
-    webUrl: "https://www.tweaktown.com/news/94577/nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions/index.html"
+  - title: "RTX 4090 dismantled in China, blower style cooler added, sold as Al GPU instead"
+    excerpt: "Chinese companies are ripping apart GeForce RTX 4090 graphics cards, turning them into AI accelerators, and making some serious money out of it."
+    publishedDateTime: 2023-11-24T01:11:00Z
+    webUrl: "https://www.tweaktown.com/news/94549/rtx-4090-dismantled-in-china-blower-style-cooler-added-sold-as-al-gpu-instead/index.html"
     type: article
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 59
+    quality: 35
     images:
-      - url: "https://static.tweaktown.com/news/9/4/94577_502_nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions_full.png"
+      - url: "https://static.tweaktown.com/news/9/4/94549_901_rtx-4090-dismantled-in-china-blower-style-cooler-added-sold-as-al-gpu-instead_full.jpg"
         width: 1500
-        height: 836
-        isCached: true
-  - title: "Chinese factories disassemble Nvidia gaming GPUs to make AI accelerators"
-    excerpt: "In this vacuum, and amid a GPU demand surge thanks to AI, Chinese manufacturers have sprung up to convert remaining RTX 4090s for server use. The companies disassemble the graphics cards, desolder the GPU and memory components, and then reassemble them on ..."
-    publishedDateTime: 2023-11-27T00:01:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/chinese-factories-disassemble-nvidia-gaming-gpus-to-make-ai-accelerators/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 53
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/geforce-ada-4090-web-og-1200x630.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+        height: 751
         isCached: true
 
 secured: "gLoiu/6oweARxyEaVz05A8eDrsCyO5cjaXkAQBwRK/dVqYaw37uIWO4jO0OsxHS61HRCNOOgnw9qTpmitXE6R2449WXdToWtkpo8E99MV/7umR8iqlWkUB94H0YC/sk6U6HuSH6s8em0MvnO8x4pRC+fv7PFhGtR8E2QWxdfF3Tn3YrX1ujYmguf5s3nfID6SSbczusmWyyGrVZTHdT5VYmjKPDY5mqgRu8yfEn+U8q/KRJ831EMXMieetxcVIsOXbbagLgAVJ0vZKn4Z15NhriqhHUi32dB6YEfZzDTVSrptsDExeyoVKmLnbPjVGIpFU6x/iInt5f2OEJubueFx1VD6KpTnfsZBVEmn6GCaeNo8N8/bDc0bIz3NnQF7cEGj0yNX0AMtCJlS63Yg0t7oIKG9HiRGHFXX9bpyXhuUiXLZ6FIvIFznvdGLQtQYed+s/UXbD7rydTFFG4w3XfOJzy8nD+HkNUXxPT3P0bWq0XbkSjVLkWZQ2EaMLGwzAaRTrErIVtr4ZMsJ08jWQEcpg==;gp3pE/5Rkz/4EEpqzHR1aw=="

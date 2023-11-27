@@ -59,6 +59,33 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Boost inference performance for LLMs with new Amazon SageMaker containers"
+    excerpt: "Today, Amazon SageMaker launches a new version (0.25.0) of Large Model Inference (LMI) Deep Learning Containers (DLCs) and adds support for NVIDIA’s TensorRT-LLM Library. With these upgrades, you can effortlessly access state-of-the-art tooling to optimize large language models (LLMs) on SageMaker and"
+    publishedDateTime: 2023-11-27T20:06:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/boost-inference-performance-for-llms-with-new-amazon-sagemaker-containers/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+  - title: "Democratize ML on Salesforce Data Cloud with no-code Amazon SageMaker Canvas"
+    excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. This is the third post in a series discussing the integration of Salesforce Data Cloud and Amazon SageMaker. In Part 1 and Part 2, we show how the Salesforce Data Cloud and Einstein Studio integration with SageMaker"
+    publishedDateTime: 2023-11-27T17:03:34Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/democratize-ml-on-salesforce-data-cloud-with-no-code-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+  - title: "Simplify data prep for generative AI with Amazon SageMaker Data Wrangler"
+    excerpt: "Generative artificial intelligence (generative AI) models have demonstrated impressive capabilities in generating high-quality text, images, and other content. However, these models require massive amounts of clean, structured training data to reach their full potential. Most real-world data exists in"
+    publishedDateTime: 2023-11-27T19:49:58Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplify-data-prep-for-gen-ai-with-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
 
 secured: "8+NodDQ1ynIEf3aOHLJ9HBc/k//AuDJHEPKHZlMARn/ifXpth6RvtltcL5NCPmHF8XxomZL0+DmnzBRmQ1SbAPtmeat0LXK+7s22PBZI0HxUr8/40jqyVmcc6f+x/qJNkgoozggN7xrsDj0h/LPCI+/sJFG7bCko4av0SZrdW28eqVXTannUQsuN13v5eHKYESpyziGBzlycb+KQEwMN6EOSiZ7oknrSRuIPBX6XgcbLufoXNt9pmjBKrjw5/8hhEHPdp+cPWLusnKs4EnUpxyW1C36BNScFne+Tj4mG9RSwu2GxHq13vk2dZqfluU9tsK17XhTvsxLBL4VIjRoTLa2+j/6IMZBqHK2Zt5pGsbE=;M0EvRONgsB+Sg8FeVxQpzA=="
 ---

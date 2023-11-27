@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-th
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: enterprisetalk
@@ -27,80 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Your guide to generative AI and ML at AWS re:Invent 2023"
-    excerpt: "Yes, the AWS re:Invent season is upon us and as always, the place to be is Las Vegas! You marked your calendars, you booked your hotel, and you even purchased the airfare. Now all you need is some guidance on generative AI and machine learning (ML) sessions to attend at this twelfth edition of re:Invent."
-    publishedDateTime: 2023-11-22T22:47:25Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 121
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/featured-images-ML-16024-1120x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Generative AI Takes Center Stage At AWS Re:Invent"
-    excerpt: "Amazon revealed new generative AI capabilities for Amazon Detective and Amazon Inspector at AWS re:Invent 2023."
-    publishedDateTime: 2023-11-27T15:23:00Z
-    webUrl: "https://www.forbes.com/sites/tonybradley/2023/11/27/generative-ai-takes-center-stage-at-aws-reinvent/"
-    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/11/27/generative-ai-takes-center-stage-at-aws-reinvent/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/11/27/generative-ai-takes-center-stage-at-aws-reinvent/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6564b3caa2f7513e30cdb0a1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "AWS re:Invent grabs the spotlight, with cloud, cybersecurity and AI in a business focus"
-    excerpt: "Invent conference opens in Las Vegas this week, AWS will make the case that it, too, has a leading role in the transformation that lies at the nexus of artificial intelligence, cloud computing and cybersecurity."
-    publishedDateTime: 2023-11-27T15:12:00Z
-    webUrl: "https://www.itbusiness.ca/news/aws-reinvent-grabs-the-spotlight-with-cloud-cybersecurity-and-ai-in-a-business-focus/126676"
-    ampWebUrl: "https://www.itbusiness.ca/news/aws-reinvent-grabs-the-spotlight-with-cloud-cybersecurity-and-ai-in-a-business-focus/126676?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/aws-reinvent-grabs-the-spotlight-with-cloud-cybersecurity-and-ai-in-a-business-focus/126676?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 66
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2023/11/Chess-scaled1.jpg"
-        width: 1500
-        height: 2000
-        isCached: true
-  - title: "IBM and AWS expand partnership to accelerate generative AI adoption in Africa"
-    excerpt: "IBM announced an expansion of its partnership with Amazon Web Services (AWS) to help more clients operationalise and derive value from generative artificial intelligence (AI). As part of this expansion,"
-    publishedDateTime: 2023-11-27T15:34:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/852/244136.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 51
-    images:
-      - url: "https://biz-file.com/c/2311/720377-1200x624.jpg?3"
-        width: 1200
-        height: 624
-        isCached: true
-  - title: "A re:Invent exclusive: AWS CEO Adam Selipsky to reveal a new generative AI stack"
-    excerpt: "As the rush to generative artificial intelligence only gains more momentum every day, Amazon Web Services Inc. Chief Executive Adam Selipsky think there’s one core capability to ensure it fulfills its promise: adaptability."
-    publishedDateTime: 2023-11-27T06:10:00Z
-    webUrl: "https://siliconangle.com/2023/11/27/reinvent-exclusive-aws-ceo-adam-selipsky-reveal-new-generative-ai-stack/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/aws-adam-selipsky-copy.png"
-        width: 1245
-        height: 700
-        isCached: true
   - title: "Clarity AI and AWS Advance Sustainable Investing at Scale"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Clarity AI, a leading technology c"
     publishedDateTime: 2023-11-27T05:01:00Z
@@ -110,20 +36,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 34
-  - title: "What to expect at AWS re:Invent: A summary from an exclusive preview with CEO Selipsky"
-    excerpt: "In an exclusive one-on-one interview, Amazon Web Services Inc. Chief Executive Adam Selipsky provided a preview of what to expect at AWS re:Invent this week in Las Vegas, in particular AWS’ cloud plans amid the rapid rise of generative artificial intelligence."
-    publishedDateTime: 2023-11-27T06:31:00Z
-    webUrl: "https://siliconangle.com/2023/11/27/expect-aws-reinvent-summary-exclusive-preview-ceo-selipsky/"
+  - title: "Clarity AI taps AWS for sustainable investing at scale"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Clarity AI, a leading technology company that delivers environmental and social insights to ensure that companies and consumers invest and purchase sustainably,"
+    publishedDateTime: 2023-11-27T18:47:00Z
+    webUrl: "https://www.finextra.com/pressarticle/98937/clarity-ai-taps-aws-for-sustainable-investing-at-scale"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/awsreinvent2021-floor-1.jpg"
-        width: 4896
-        height: 3672
-        isCached: true
+      name: Finextra
+      domain: finextra.com
+    quality: 34
   - title: "The Very Group selects AWS to transform the shopping experience with generative AI"
     excerpt: "The Very Group (‘Very’), a leading UK online retailer, today announced an expanded collaboration with Amazon Web Services (AWS) to accelerate"
     publishedDateTime: 2023-11-27T09:16:00Z
@@ -133,33 +54,6 @@ related:
       name: FashionUnited
       domain: fashionunited.uk
     quality: 28
-  - title: "AWS re:Invent 2023: Our guide to the top sessions and speakers"
-    excerpt: "AWS Machine Learning Hero Kesha Williams breaks down the top keynotes and cloud content to look for at AWS re:Invent 2023, including generative AI and data updates."
-    publishedDateTime: 2023-11-22T22:38:00Z
-    webUrl: "https://www.pluralsight.com/resources/blog/cloud/aws-reinvent-2023-guide"
-    type: article
-    provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 19
-  - title: "AWS re:Invent 2023: What to Expect from This Year’s Event"
-    excerpt: "Amazon Web Services is all-in on generative AI and the promise it offers as cloud computing continues its transformation journey."
-    publishedDateTime: 2023-11-24T14:00:00Z
-    webUrl: "https://biztechmagazine.com/article/2023/11/aws-reinvent-2023-what-expect-years-event"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 19
-  - title: "Couchbase Unveils Capella Columnar Service at AWS re:Invent"
-    excerpt: "Couchbase Inc., a cloud database platform company, announces today its new Capella Columnar service on Amazon Web Services (AWS) at AWS re:Invent 2023, in Las Vegas. Capella Columnar enables organizations to harness real-time analytics to build more adaptive artificial intelligence (AI)-powered applications."
-    publishedDateTime: 2023-11-27T14:02:00Z
-    webUrl: "https://channelvisionmag.com/couchbase-unveils-capella-columnar-service-at-aws-reinvent/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 19
 
 secured: "EQtOCkXlYE01mAzdGnLyocF1ctMsBmYSPedypoOpJSogFvMJyHCthcv6smCDoywdqcqv4YRuZNQTjstV/SPHyC+QHD4Im+X6v3u8tFIGTimlqEGqvUjG1Kr+7M/Bzy9HgrWQ5dss7pB6LxWmEfhdi+gsgWa+fTiFLH2AK83IE0Zm+t5bkcp46RYRAwlsQ+opbM1bQFisnkfWeJ0RVf5WUJruvVjcC6fTg19A54zlPfbV2ssNRg2KWA4Gurs6UxGOkGfqQUqulkH9UQoQ96mQFL7Swux/Y/31vesDBruNC5k4uG/wOmjTCslAtg6hh30LoT9vv0ZAXAOncDTlujCyRaofvN73/JHmj89r6rT9begdy7hjm5XxvidsVdC+8Q/ZqDDsy9j+K08vyXhkvidSr+LUTOmJx+g40rIERFijjNwr8sFG786p+8s9U0bM8jTMOW5M9MhWa9FBi1MPRQHVUMJB7gB3MFSNof88Es1ohxqcVu4UQGoBLjqVLufA8XaZXVs1sGShK+L6iy5sLs8kag==;F8YR6P5/W6xz/5xqfLSwOQ=="
 ---

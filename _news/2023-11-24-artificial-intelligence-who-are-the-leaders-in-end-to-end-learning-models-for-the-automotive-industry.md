@@ -48,22 +48,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Causal reasoning meets visual representation learning: A prospective study"
-    excerpt: "With the emergence of huge amounts of heterogeneous multi-modal data—including images, videos, texts/languages, audios, and multi-sensor data—deep learning-based methods have shown promising performance for various computer vision and machine learning tasks,"
-    publishedDateTime: 2023-11-22T21:23:00Z
-    webUrl: "https://techxplore.com/news/2023-11-causal-visual-representation-prospective.html"
-    ampWebUrl: "https://techxplore.com/news/2023-11-causal-visual-representation-prospective.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-causal-visual-representation-prospective.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 42
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/causal-reasoning-meets.jpg"
-        width: 1491
-        height: 510
-        isCached: true
   - title: "The future of machine learning: Trends to watch in 2024"
     excerpt: "As we move into 2024, the spotlight turns to multimodal AI models, which represent a leap in sophistication by processing and interpreting diverse data types, including text, images, and sound, to deliver more nuanced and human-like decisions."
     publishedDateTime: 2023-11-26T13:08:00Z

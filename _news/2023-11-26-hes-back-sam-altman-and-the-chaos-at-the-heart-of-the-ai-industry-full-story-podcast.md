@@ -44,20 +44,6 @@ related:
         width: 1339
         height: 900
         isCached: true
-  - title: "OpenAI CEO Sam Altman was seeking funds for a new AI chip company before being fired"
-    excerpt: "OpenAI's management drama is becoming increasingly intriguing and tumultuous. The company recently terminated Sam Altman, who served as a board member before his appointment as CEO."
-    publishedDateTime: 2023-11-22T19:21:00Z
-    webUrl: "https://www.techspot.com/news/100931-openai-ceo-sam-altman-seeking-funds-new-ai.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 77
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-22-image-12.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Sam Altman's ouster at OpenAI precipitated by letter to board about AI breakthrough, sources tell Reuters"
     excerpt: "The previously unreported letter and AI algorithm was a catalyst that caused the board to ... progress on Q*, which some internally believe could be a breakthrough in the startup's search for superintelligence, also known as artificial general intelligence ..."
     publishedDateTime: 2023-11-22T23:09:00Z
@@ -205,20 +191,6 @@ related:
       - url: "https://www.baltimoresun.com/resizer/RjK_7Wt4EkQqEOhfzWlFXWB7juw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/4PNFMUGA4SWEZ73JASYJCFYHGQ.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Exclusive-Sam Altman's ouster at OpenAI was precipitated by letter to board about AI breakthrough -sources"
-    excerpt: "Ahead of OpenAI CEO Sam Altman’s four days in exile, several staff researchers sent the board of directors a letter warning of a powerful artificial intelligence discovery that they said could threaten humanity,"
-    publishedDateTime: 2023-11-22T22:44:00Z
-    webUrl: "https://www.aol.com/exclusive-sam-altmans-ouster-openai-224405531.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/aa80f66a4ef0373baf1603f910b5e11e"
-        width: 800
-        height: 537
         isCached: true
   - title: "Live news: News updates from November 22: Sam Altman to return as Open AI CEO, Far-right leader set to come first in Dutch elections"
     excerpt: "Keep abreast of significant corporate, financial and political developments around the world. Stay informed and spot emerging risks and opportunities with independent global reporting, expert commentary and analysis you can trust."

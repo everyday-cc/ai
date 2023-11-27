@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T17:39:00Z
 originalUrl: "https://www.bizjournals.com/washington/news/2023/11/27/ai-jobs-silicon-valley.html"
 webUrl: "https://www.bizjournals.com/washington/news/2023/11/27/ai-jobs-silicon-valley.html"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: The Business Journals

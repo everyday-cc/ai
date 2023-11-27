@@ -39,6 +39,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Automotive Robotics Market Size is Expected to Reach USD 17,207 Million Growing at a CAGR of 13.15% by 2030: Straits Research"
+    excerpt: "Automation is delegating previously human-performed tasks to machines to increase productivity, reduce human error, and facilitate the organization of"
+    publishedDateTime: 2023-11-27T16:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35964830/automotive-robotics-market-size-is-expected-to-reach-usd-17-207-million-growing-at-a-cagr-of-13-15"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
   - title: "Global Artificial Ventilation and Anaesthesia Masks Industry Projects 5.0% CAGR, Scaling to US$3.9 Billion in 2032 | FMI"
     excerpt: "In 2021, the Global Artificial Ventilation and Anaesthesia Masks Industry was on track to reach a valuation of US$ 2.3 billion. Anticipated Market Growth: By the end of 2032, the market for artificial ventilation and anaesthesia masks is expected to soar to approximately US$ 3."
     publishedDateTime: 2023-11-23T13:16:00Z

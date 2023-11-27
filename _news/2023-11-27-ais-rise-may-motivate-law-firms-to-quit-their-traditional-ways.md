@@ -7,7 +7,7 @@ originalUrl: "https://news.bloomberglaw.com/us-law-week/ais-rise-may-motivate-la
 webUrl: "https://news.bloomberglaw.com/us-law-week/ais-rise-may-motivate-law-firms-to-quit-their-traditional-ways"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1920
     height: 740
     isCached: true
-
-related:
-  - title: "Educators innovate ways to use Artificial Intelligence"
-    excerpt: "Krista Sweckard told those attending the Nov. 8 Johnson County School District 1 board work session that artificial intelligence is the answer."
-    publishedDateTime: 2023-11-22T17:29:00Z
-    webUrl: "https://trib.com/news/state-regional/education/educators-innovate-ways-to-use-artificial-intelligence/article_ff563306-887f-11ee-8d25-d316af1efa80.html"
-    type: article
-    provider:
-      name: Casper Star-Tribune
-      domain: trib.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/f/f5/ff563306-887f-11ee-8d25-d316af1efa80/655e45a6c0b91.preview.jpg?crop=1010%2C530%2C0%2C94&resize=1010%2C530&order=crop%2Cresize"
-        width: 1010
-        height: 530
-        isCached: true
 
 secured: "EWosx4DFqn6wmLkpnOYCP+ZJXSRG27yf1k4wlSoWbopJNzeK5fAp4PjMNzTrARrmhvp+lMvBEcVhdRT4rVKC3Ps/7/tOzPFVt4EsbL4bde643arwNljco1ZhVs4yHP/9fPjivz1RkzPyWybY9C8jGmP+odpyaYHBmPruteYgnIYhVXtwnBjqrR6KEjv0ILvJ13m/+pflt7HPuJYi3R5IpnwUSo4T76LdCu73+gGLTqKOSNFRylw8BqxjmyQcalzaJn5XzPbshKxn2rhd9S6iMubsDVXQfsGl31mFAhYVEuTHDB7f/mb4S8cRgo6m4Kxis8poeC3rHEV/YNW7Fptja1ztD9CO20yjw2GmTbpkVVU=;/lKonLRrRfbtXc0+o5HW5w=="
 ---

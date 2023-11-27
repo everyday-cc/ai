@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T16:57:00Z
 originalUrl: "https://theconversation.com/how-ai-sees-the-world-what-happened-when-we-trained-a-deep-learning-model-to-identify-poverty-217586"
 webUrl: "https://theconversation.com/how-ai-sees-the-world-what-happened-when-we-trained-a-deep-learning-model-to-identify-poverty-217586"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: The Conversation

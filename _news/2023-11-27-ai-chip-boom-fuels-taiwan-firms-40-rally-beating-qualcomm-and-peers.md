@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bnnbloomberg.ca/ai-chip-boom-fuels-taiwan-firm-s-40-rall
 cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/ai-chip-boom-fuels-taiwan-firm-s-40-rally-beating-qualcomm-and-peers-1.2003756.amp.html"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
     provider:
       name: Business Standard
       domain: business-standard.com
+    quality: 34
+  - title: "AI chip boom fuels MediaTek’s 40% rally, beating Qualcomm and peers"
+    excerpt: "A FIVE-MONTH rally in MediaTek looks set to extend as booming demand for smartphones and a promising new AI chip brighten the company’s outlook. Read more at The Business Times."
+    publishedDateTime: 2023-11-27T16:31:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ai-chip-boom-fuels-mediateks-40-rally-beating-qualcomm-and"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
     quality: 34
 
 secured: "S0JhMfGpzshe5m8Vn1ZcMdCRmfy98MCoy2URpKF2sIMC3N1canA6A0o8F7fUWcaf8qB4weF+HjCVYZdW9vEmrOg+WHCO7T3Nu875BKj2XHK7s7aeUU9zT+ZNRbXd6UUjUykWKNClC+QojV0GbWm0djB93rRnY5iu78U8JHzDmH9hvoeueBwsEHCFkgZQMbwCaEu70VBPA6iVklp94NIBz0ToIeAxUOiGxUhAprs5r56ALdEJ/oYvsbZM1zbxQWw6EmdMsQjVbY5pgJobxp5vZ9Ko4mYb5tLUz7Pm6R3X99K+n/OzgxCws2eEugas3ZdGkptt1EW5Nrt9GPbI/AWAFTTpetWDEfN+Vdz+WuUgbgA=;a0E3x5wHqlzVnXVq5Hex4A=="

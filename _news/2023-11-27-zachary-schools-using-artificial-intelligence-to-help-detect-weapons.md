@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T00:01:00Z
 originalUrl: "https://www.theadvocate.com/baton_rouge/news/communities/zachary/zachary-schools-using-artificial-intelligence-to-help-detect-weapons/article_55aec67e-87e4-11ee-a4bd-b7b126e24383.html"
 webUrl: "https://www.theadvocate.com/baton_rouge/news/communities/zachary/zachary-schools-using-artificial-intelligence-to-help-detect-weapons/article_55aec67e-87e4-11ee-a4bd-b7b126e24383.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Advocate

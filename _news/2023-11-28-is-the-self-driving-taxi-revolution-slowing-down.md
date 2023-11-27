@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T17:00:00Z
 originalUrl: "https://oilprice.com/Energy/Energy-General/Is-the-Self-Driving-Taxi-Revolution-Slowing-Down.html"
 webUrl: "https://oilprice.com/Energy/Energy-General/Is-the-Self-Driving-Taxi-Revolution-Slowing-Down.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Crude Oil Prices

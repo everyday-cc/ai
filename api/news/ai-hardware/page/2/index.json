@@ -2,6 +2,170 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-14-nvidia-announces-new-h200-gpu-for-high-speed-data-processing-and-ai-model-training.md",
+      "title": "Nvidia Announces New H200 GPU for High-Speed Data Processing and AI Model Training",
+      "excerpt": "Nvidia has unveiled the H200 chips, which is a significant improvement from H100, and is expected to be available from Q2 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/nvidia-h200-gpu-data-ai/",
+      "originalUrl": "https://www.coinspeaker.com/nvidia-h200-gpu-data-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T07:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-nvidia-announces-h200-ai-gpu-up-to-141gb-of-hbm3e-memory-with-48tbsec-bandwidth.md",
+      "title": "NVIDIA announces H200 AI GPU: up to 141GB of HBM3e memory with 4.8TB/sec bandwidth",
+      "excerpt": "NVIDIA announces its new H200 Hopper GPU with the world's fastest HBM3e memory from Micron, will power the new Exaflop Jupiter supercomputer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/94339/nvidia-announces-h200-ai-gpu-up-to-141gb-of-hbm3e-memory-with-4-8tb-sec-bandwidth/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/94339/nvidia-announces-h200-ai-gpu-up-to-141gb-of-hbm3e-memory-with-4-8tb-sec-bandwidth/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T00:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-as-h100-ai-gpu.md",
+      "title": "NVIDIA officially teases next-gen B100 Blackwell GPU: over 4x as fast as H100 AI GPU",
+      "excerpt": "NVIDIA promises perpetual innovation and perpetual performance leaps with a sneak peek at its next-gen B100 Blackwell GPU in GPT-3 175B inference perf.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/94338/nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-h100-ai/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/94338/nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-h100-ai/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/4/94338_110_nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-h100-ai_full.jpg",
+          "width": 1500,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T23:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-nvidia-introduces-the-h200-an-ai-crunching-monster-gpu-that-may-speed-up-chatgpt.md",
+      "title": "Nvidia introduces the H200, an AI-crunching monster GPU that may speed up ChatGPT",
+      "excerpt": "According to Nvidia, the H200 is the first GPU to offer HBM3e memory. Thanks to HBM3e, the H200 offers 141GB of memory and 4.8 terabytes per second bandwidth, which Nvidia says is 2.4 times the memory bandwidth of the Nvidia A100 released in 2020. (Despite the A100's age, it's still in high demand due to shortages of more powerful chips.)",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/nvidia_h200_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/amp/",
+      "publishedDateTime": "2023-11-13T21:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-nvidias-h200-gpu-is-a-milestone-in-ai-technology.md",
       "title": "Nvidia’s H200 GPU is a Milestone in AI Technology",
       "excerpt": "In a significant leap forward for artificial intelligence and computing, Nvidia has unveiled the H200 GPU, marking a new era in the field of generative AI. This cutting-edge graphics processing unit emerges as an upgrade to its predecessor,",
@@ -1123,170 +1287,6 @@
       "provider": {
         "name": "TweakTown",
         "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-media-alert-brainchip-hosts-sustainable-cities-using-smart-efficient-ai-workshop-at-hacksterio-impact-summit-2023.md",
-      "title": "Media Alert: BrainChip Hosts 'Sustainable Cities Using Smart Efficient AI' Workshop at Hackster.io Impact Summit 2023",
-      "excerpt": "Todd Vierra, Vice President Customer Engagement at BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, will lead a workshop entitled \"Sustainable Cities Using Smart Efficient AI\" at the Hackster.io Impact Summit 2023 November 15.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-media-alert-brainchip-hosts-sustainable-cities-using-smart-/2023/10/30/9907816.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-media-alert-brainchip-hosts-sustainable-cities-using-smart-/2023/10/30/9907816.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T21:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-zerorisc-raises-5m-to-deliver-commercial-opentitan-based-cloud-security-for-chips.md",
-      "title": "ZeroRISC raises $5M to deliver commercial OpenTitan-based cloud security for chips",
-      "excerpt": "ZeroRISC has raised $5 million in seed funding to deliver its first commercial OpenTitan-based cloud security service for silicon chips.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/zerorisc-raises-5m-to-deliver-commercial-opentitan-based-cloud-security-for-chips/",
-      "originalUrl": "https://venturebeat.com/ai/zerorisc-raises-5m-to-deliver-commercial-opentitan-based-cloud-security-for-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-intel-is-counting-on-ai-inference-to-save-the-xeon-cpu.md",
-      "title": "Intel Is Counting On AI Inference To Save The Xeon CPU",
-      "excerpt": "There is little question that generative AI as well as other kinds of machine learning are going to augment applications in every industry and in every part of the application stack in the coming years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/10/30/intel-is-counting-on-ai-inference-to-save-the-xeon-cpu/",
-      "originalUrl": "https://www.nextplatform.com/2023/10/30/intel-is-counting-on-ai-inference-to-save-the-xeon-cpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2023/07/intel-xeon-xp-logo.jpg",
-          "width": 765,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/10/30/intel-is-counting-on-ai-inference-to-save-the-xeon-cpu/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/10/30/intel-is-counting-on-ai-inference-to-save-the-xeon-cpu/amp/",
-      "publishedDateTime": "2023-10-30T14:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-crypto-billionaires-nonprofit-buys-500-million-of-ai-data-center-chips.md",
-      "title": "Crypto billionaire's nonprofit buys $500 million of AI data center chips",
-      "excerpt": "A nonprofit organization funded by cryptocurrency billionaire Jed McCaleb bought roughly $500 million of Nvidia advanced chips and plans to lease computing capacity to companies for artificial intelligence projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/crypto-billionaires-nonprofit-buys-500-million-ai-data-center-chips-3883676",
-      "originalUrl": "https://www.channelnewsasia.com/business/crypto-billionaires-nonprofit-buys-500-million-ai-data-center-chips-3883676",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--Q8hbpKM3--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-30t140531z_1_lynxmpej9t0gx_rtroptp_3_nvidia-microsoft-ai-cloud.jpg?itok=zq3XEe3q",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T14:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
         "images": null,
         "publishers": null,
         "authors": null

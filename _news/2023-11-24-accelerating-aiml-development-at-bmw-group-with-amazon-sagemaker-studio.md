@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/"
 type: article
 quality: 120
-heat: 140
+heat: 170
 published: true
 
 provider:
@@ -60,6 +60,33 @@ related:
         width: 294
         height: 300
         isCached: true
+  - title: "Boost inference performance for LLMs with new Amazon SageMaker containers"
+    excerpt: "Today, Amazon SageMaker launches a new version (0.25.0) of Large Model Inference (LMI) Deep Learning Containers (DLCs) and adds support for NVIDIA’s TensorRT-LLM Library. With these upgrades, you can effortlessly access state-of-the-art tooling to optimize large language models (LLMs) on SageMaker and"
+    publishedDateTime: 2023-11-27T20:06:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/boost-inference-performance-for-llms-with-new-amazon-sagemaker-containers/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+  - title: "Democratize ML on Salesforce Data Cloud with no-code Amazon SageMaker Canvas"
+    excerpt: "This post is co-authored by Daryl Martis, Director of Product, Salesforce Einstein AI. This is the third post in a series discussing the integration of Salesforce Data Cloud and Amazon SageMaker. In Part 1 and Part 2, we show how the Salesforce Data Cloud and Einstein Studio integration with SageMaker"
+    publishedDateTime: 2023-11-27T17:03:34Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/democratize-ml-on-salesforce-data-cloud-with-no-code-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+  - title: "Simplify data prep for generative AI with Amazon SageMaker Data Wrangler"
+    excerpt: "Generative artificial intelligence (generative AI) models have demonstrated impressive capabilities in generating high-quality text, images, and other content. However, these models require massive amounts of clean, structured training data to reach their full potential. Most real-world data exists in"
+    publishedDateTime: 2023-11-27T19:49:58Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplify-data-prep-for-gen-ai-with-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
 
 secured: "rLTRuGTEXL+LHFcbdgAlX/dm5TGDOeOyxqT5mnyTzcSjXK0KBNdOXztIiMB4bmGl2RUtnc35gybHBOB7JUb5O5IR022SAq9+kTXO80GOlI9+XvVQfBDSApEslDXQKZkmt80Y47KykTmfb5x0kpIUw6WHdpoS+ZIn/I1xclF33boCDuEkk605ZHwL6omwKOqnCf0KBQiQ3fsN1S35cEDgMCnHFy2i7hwiz6I7N3Motjr4kA0uFeW+A6jecf/AMrWrnxO2Btm6G85oIJ4rFrORocta/V9joWyc1HToiD0+zZHw6l00u9DZg6qyNJ8l48bTgpBefRsp9adBvVmMskxZ44Dd9gEbdN86zTNhFqZOEU0=;RZ028P80S1/JaAPE3eiLBg=="
 ---

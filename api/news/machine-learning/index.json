@@ -62,7 +62,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -115,7 +115,7 @@
       "originalUrl": "https://techbullion.com/before-deep-learning-a-journey-into-the-pre-2000-era-of-neural-networks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -670,7 +670,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T00:00:00Z",
+      "publishedDateTime": "2023-11-17T09:28:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Nanowerk",

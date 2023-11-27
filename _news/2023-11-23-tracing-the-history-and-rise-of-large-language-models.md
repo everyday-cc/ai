@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Making large language models relevant to an organization"
+    excerpt: "and a host of other natural language processing use cases. One example of such a use case is a voice assistant designed using an LLM. The dataset changes hands in the following manner (human ..."
+    publishedDateTime: 2023-11-25T04:22:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/data-science-vibes/making-large-language-models-relevant-to-an-organization/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 4
+
 secured: "yxwcy1wZSCa4J2ym7DbwmmP1BSg4iRl5mgq7wCNaRxx6DOE9esGN13Z9xaDUnKeC7r6v1jyX5fjHxs/pCptKzB4E0tqLXy91xHaFOkGakT7dHY8CJxjyvc9tmTRN4hXUp6AIrkeYsPgSXyF6TKZ13XqQtd1lTwNnlDy4MapCfc5vL72A1gjZmSG9hygOdyxF+qDOJ9Vpr/WtA9hZOC9O6tSKbELfelvf6DCMvAVwczPOpsoXsYzMd8zGX7ElA4NHvzWX68VlF4lOOPHgubCg+0WXUfqSWa0LRVLpVeZbA4yWmD7jnjYF+kPcBVSMW+3Akss5YXsvP3Zle4SyMSPkxI3H6tiT2uSYhsbSOCC97OqvdZ0J7aOVXZbHW7TcmfZitvXHiYPHycFbY63rUd0jihphzbHSPWqDYNBKnoMyQtuWwz+o6jwxV0TVmZ7SzHB3qXXrpp5E0G0KJHFrhz9a9WwWf8Xguc+uSFPnm7UZHI+Yyc9GfhHViTHYovXfkaiXQQm7QTV+7Tha+TMBQkPWuw==;FgNq9/pivs1mIha9Sbyp3Q=="
 ---
 

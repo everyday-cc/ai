@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ..."
-    publishedDateTime: 2023-11-22T19:02:00Z
-    webUrl: "https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Google’s Bard AI chatbot can now answer questions about YouTube videos"
-    excerpt: "Google has announced that its Bard AI chatbot can now answer questions about YouTube videos. Although Bard already had the ability to analyze YouTube videos with the launch of the YouTube Extension back in September, the chatbot can now give you specific answers about queries related to the content of a video."
-    publishedDateTime: 2023-11-22T19:22:00Z
-    webUrl: "https://techcrunch.com/2023/11/22/googles-bard-ai-chatbot-can-now-answer-questions-about-youtube-videos/"
-    ampWebUrl: "https://techcrunch.com/2023/11/22/googles-bard-ai-chatbot-can-now-answer-questions-about-youtube-videos/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/22/googles-bard-ai-chatbot-can-now-answer-questions-about-youtube-videos/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1246897887.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft brings ChatGPT AI to Windows 11’s command line, and here’s a closer look"
     excerpt: "ChatGPT-powered “AI chat” on Windows 11. ChatGPT integration is now available in Terminal (Canary), a new development channel to test experimental features ahead of a wider rollout. With ChatGPT AI Chat in Terminal,"
     publishedDateTime: 2023-11-24T00:20:00Z
@@ -74,19 +42,35 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "What startup founders need to know about AI heading into 2024"
-    excerpt: "Now that the OpenAI leadership saga has died down, startup founders building with AI can get back to work building the future. If that's you, TechCrunch+"
-    publishedDateTime: 2023-11-22T23:41:00Z
-    webUrl: "https://techcrunch.com/2023/11/26/what-startup-founders-need-to-know-about-ai-heading-into-2024/"
+  - title: "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU"
+    excerpt: "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,"
+    publishedDateTime: 2023-11-25T11:06:00Z
+    webUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
+      name: InfoQ
+      domain: infoq.com
+    quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?resize=1200,800"
+      - url: "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg"
         width: 1200
-        height: 800
+        height: 630
+        isCached: true
+  - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
+    excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
+    publishedDateTime: 2023-11-25T10:38:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 68
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Microsoft Adds ChatGPT AI To Windows 11's Command Line, But There's A Catch"
     excerpt: "ChatGPT's AI capabilities in the Windows Terminal can come in handy for explaining errors, generating commands and providing recommendations."
@@ -102,80 +86,48 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Baidu's AI Chatbot Earnie 4 Is Off To A Good Start, Says Bullish Analyst"
-    excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
-    publishedDateTime: 2023-11-22T18:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-s-ai-chatbot-earnie-4-is-off-to-a-good-start-says-bullish-analyst-1032843810"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/11/22/shutterstock_2284768673.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Baidu's AI Chatbot Ernie 4 Is Off To A Good Start, Says Bullish Analyst"
-    excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
-    publishedDateTime: 2023-11-22T18:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-s-ai-chatbot-earnie-4-is-off-to-a-good-start-says-bullish-analyst-1032843810"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "ChatGPT’s Voice Feature Now Available To All Users For Free"
-    excerpt: "Capping off a whole week of Succession-level corporate drama, OpenAi is rolling out a new ChatGPT feature to its free"
-    publishedDateTime: 2023-11-24T04:00:00Z
-    webUrl: "https://www.lowyat.net/2023/311539/chatgpt-voice-free/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 39
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2023/11/chatgpt-voice-1.jpg"
-        width: 1400
-        height: 1050
-        isCached: true
-  - title: "Google is launching its Bard AI chatbot to the public – Business Insider"
-    excerpt: "Google says that you can use Bard to “boost your productivity, accelerate your ideas and fuel your curiosity.” It functions similarly to OpenAI’s ChatGPT: you prompt it with a question or a task – say,"
-    publishedDateTime: 2023-11-24T03:17:00Z
-    webUrl: "https://www.inferse.com/804061/google-is-launching-its-bard-ai-chatbot-to-the-public-business-insider/"
+  - title: "Microsoft’s AI-powered Bing is coming for Google’s Bard-infused … – Vox.com"
+    excerpt: "Google bookended Microsoft’s big AI search announcement with underwhelming AI news of its own.Microsoft has officially taken the lead in the race"
+    publishedDateTime: 2023-11-27T15:22:00Z
+    webUrl: "https://www.inferse.com/806674/microsofts-ai-powered-bing-is-coming-for-googles-bard-infused-vox-com/"
     type: article
     provider:
       name: Inferse
       domain: inferse.com
-    quality: 38
+    quality: 54
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-12996.png"
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14258.png"
         width: 1200
-        height: 600
+        height: 628
         isCached: true
-  - title: "How to stop OpenAI from using your ChatGPT chats to train AI in just 3 minutes"
-    excerpt: "It’s very easy to stop your ChatGPT chat data from training future models - here’s where you find the hidden privacy setting."
-    publishedDateTime: 2023-11-22T19:02:00Z
-    webUrl: "https://bgr.com/tech/how-to-stop-openai-from-using-your-chatgpt-chats-to-train-ai-in-just-3-minutes/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 33
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/chat-gpt-open-ai.jpg?quality=82&strip=all"
-        width: 3024
-        height: 1701
-        isCached: true
-  - title: "Google Bard vs OpenAI ChatGPT: Which chatbot is better and why? – Lifestyle Asia Singapore"
-    excerpt: "Looks like there soon might be a battle of the AI chatbots. Recently, Google announced its AI Chatbot Bard, which will be direct competition for Open"
-    publishedDateTime: 2023-11-27T14:00:00Z
-    webUrl: "https://www.inferse.com/806644/google-bard-vs-openai-chatgpt-which-chatbot-is-better-and-why-lifestyle-asia-singapore/"
+  - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4 – Reuters"
+    excerpt: "The startup OpenAI on Tuesday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage"
+    publishedDateTime: 2023-11-26T20:33:00Z
+    webUrl: "https://www.inferse.com/806227/microsoft-backed-openai-starts-release-of-powerful-ai-known-as-gpt-4-reuters/"
     type: article
     provider:
       name: Inferse
       domain: inferse.com
-    quality: 26
+    quality: 50
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14044.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Flywheel and Microsoft collaborate to unlock powerful data insights in medical imaging"
+    excerpt: "Healthcare breakthroughs have long-standing barriers when it comes to unlocking the powerful insights trapped in medical imaging data."
+    publishedDateTime: 2023-11-23T16:58:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2023/11/23/flywheel-and-microsoft-collaborate-to-unlock-powerful-data"
+    type: article
+    provider:
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 31
+    images:
+      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/publications/pharmaceutical-science/outsourcing-pharma.com/article/2023/11/23/flywheel-and-microsoft-collaborate-to-unlock-powerful-data/16962507-2-eng-GB/Flywheel-and-Microsoft-collaborate-to-unlock-powerful-data.jpg"
+        width: 725
+        height: 510
+        isCached: true
   - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
     excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"
     publishedDateTime: 2023-11-24T20:22:00Z

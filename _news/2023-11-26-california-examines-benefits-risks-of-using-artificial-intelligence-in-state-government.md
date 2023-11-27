@@ -49,6 +49,15 @@ related:
       name: Los Angeles Times
       domain: latimes.com
     quality: 19
+  - title: "California Weighs Pros and Cons of AI in Government"
+    excerpt: "A new report analyzes how artificial technology could be used in stage government without risking data privacy, misinformation, equity or bias. Gov. Gavin Newsom called the report an important first step."
+    publishedDateTime: 2023-11-27T22:47:00Z
+    webUrl: "https://www.governing.com/security/california-weighs-pros-and-cons-of-ai-in-government"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 19
 
 secured: "gnmueO8Iyoi/EER0v9sBot453In3xqTsiTe40LvGgm6sKsfW4azIw9SJaWGghUlL1+du1zYuYpbrjzbvp5IgHhn1Ng6z1Dnzxqvb1wzuK68Lt92tc2t72EmFx7DMcuWdiWvjh6NFBt1hxF9NFvndHPDFQRBu/2mDJ3WGO9JhvNuTIWzCzz1CbdV2xbbBvRh6a/+KBduNtDxk656UQHilucU6xv2ribBiPw3NXquIngORMiF1TTRgA6ysOaFEuxKu5vtsALFcpSXWnHAZ3/otOCFljmD2IaPxUvLdN73mMkqbu3HOW3cvVhhev35uC7f6ew5xE88bJSf43w/dZQXms31EFTrj9ajr8MljCKyJxGU=;I10vBCGPMhuscr3gdqnE5w=="
 ---

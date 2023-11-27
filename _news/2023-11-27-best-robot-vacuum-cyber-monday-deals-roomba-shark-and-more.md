@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/?amp"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 49
+  - title: "eufy robot vacuums have deep discounts for Cyber Monday 2023"
+    excerpt: "To start things off, we have one of my favorite new upper-mid-range robot vacuum models ... a self-empty station that holds up to 45 days of debris, laser navigation, AI-assisted mapping, and more. This model retails for $650, but it’s on sale for ..."
+    publishedDateTime: 2023-11-27T09:25:00Z
+    webUrl: "https://bgr.com/deals/eufy-robot-vacuumdeals-for-cyber-monday/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 19
 
 secured: "PTmrCVWjFndqmBwbs/cec7JCjE7KLHCtL80UEyEQEPMgLP/4bNdSAMWQ73O3VQWAU2lX51TKd5gMIAOwmT/oJzqzfC5DRvMz+lKl22O71BsJrDIWrJ8Ve4DMePdtYLmidMkh8yJeca8dHI+JZSh7HL6o35mi55H6C4coeK9y15m9YHELVHtJTL7IP3nPzeHClAwwRMk/dbP8GYiC7CbWaHbX9FL/3KQ7HlNhXNS6Qlo1M6XpNBdd657PfzDnMvHhpcF+x657ctOB4Ohn+8S5oOEqF2Q8F9ejHqXTkrcDu5Q1DjmnM8ZJkpK0q7iaon0px0PeiZYFjymHDnJPM+Sdjs4GphOFkiXDOJUIUhh5GN1fpATUmKmGrJ+lDjY7HQifZKzVBZWmQs7VmrG6kCrZ+hO6GkfTJh95H55/YCwkf/r7L3TWgsSY+EgtJkjcHfQNj9xhAY71Xjgvw+0ll12tjA7/miIx67jb6qv2vmTIEZTdO6JkjbvCgtIi0vrPksrxchSEqpgn8suXQF2uaAjHLg==;sGnXqiCONuxBfoETf+tA4Q=="
 ---

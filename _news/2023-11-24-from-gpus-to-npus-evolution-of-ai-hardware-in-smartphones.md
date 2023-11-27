@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/gp
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/gpu-npu-role-ai-smartphones-9040864/lite/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing AI Work With New Hardware Structures"
-    excerpt: "Basically speaking, the processes are done in memory, rather than by sending the relevant data through a processor. The hardware setup involves the use of machines called analog to digital converters, which is pretty much what it sounds like."
-    publishedDateTime: 2023-11-23T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/11/23/revolutionizing-ai-work-with-new-hardware-structures/"
+  - title: "Thousands of RTX 4090 GPUs Are Being Rebuilt for AI Computing in China"
+    excerpt: "In China, Nvidia's RTX 4090 is being repurposed in the thousands. The GPU components are taken out, and put in a new PCB and cooler design!"
+    publishedDateTime: 2023-11-24T05:12:00Z
+    webUrl: "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/"
+    ampWebUrl: "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: Beebom
+      domain: beebom.com
+    quality: 74
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/11/nvidia-geforce-rtx-4090.jpg"
+        width: 1250
+        height: 750
+        isCached: true
+  - title: "RTX 4090 dismantled in China, blower style cooler added, sold as Al GPU instead"
+    excerpt: "Chinese companies are ripping apart GeForce RTX 4090 graphics cards, turning them into AI accelerators, and making some serious money out of it."
+    publishedDateTime: 2023-11-24T01:11:00Z
+    webUrl: "https://www.tweaktown.com/news/94549/rtx-4090-dismantled-in-china-blower-style-cooler-added-sold-as-al-gpu-instead/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 35
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94549_901_rtx-4090-dismantled-in-china-blower-style-cooler-added-sold-as-al-gpu-instead_full.jpg"
+        width: 1500
+        height: 751
+        isCached: true
 
 secured: "mDSa8LU/E3AKXxPGPoKktbSpVfjE0EHFMDow8BiQ+2Wz0Gl9YVyagM9PKjkUI2hfiyfuSxn5xCR6yaJFqBHR/l/eWkQPOFVc5QDRV9ONd0O552ihkKob5TM++e/6FC0cHJMXW8rQWxlN+XA4kLAqDUeUsMcwqme3lup5oAuFHDaN/4GSsbqQ/QhRWN8QUS7jCkBhD/kdFJwWJCDKjhFWXYSjllOIYMgzCbCbph3EiNqiaKoELG4JL6++tT+Rs7bskduvq0bkWBE4xpRHVicOLWYwpdq4vnNU3acLKwqK/u4o5BgRLaY8KvOIErT/t0FYZRhvsAaUUaAg6+mUw5FZGHTREPoj1Ejt6tMyiBQ0C3o=;y+C0yroKgvelm6+mQ7G5Kg=="
 ---

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Automotive Robotics Market Size is Expected to Reach USD 17,207 Million Growing at a CAGR of 13.15% by 2030: Straits Research"
+    excerpt: "Automation is delegating previously human-performed tasks to machines to increase productivity, reduce human error, and facilitate the organization of"
+    publishedDateTime: 2023-11-27T16:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35964830/automotive-robotics-market-size-is-expected-to-reach-usd-17-207-million-growing-at-a-cagr-of-13-15"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
   - title: "Embedded Smart Cameras Market Eyes a Robust 34.2% CAGR Journey to US$ 1,24,725.1 Million by 2033"
     excerpt: "The embedded smart cameras market is poised for remarkable growth, with a projected (CAGR) of 34.2% expected between 2023 and 2033. This surge in growth is anticipated to culminate in a substantial market value,"
     publishedDateTime: 2023-11-24T01:26:00Z

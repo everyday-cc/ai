@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "2023 Artificial Intelligence Regulation: An Update from a Senior FTC Official"
-    excerpt: "Michael Atleson, a senior attorney for the Federal Trade Commission (FTC), joined Holland & Knight for a recent question-and-answer webinar presentation on artificial intelligence (AI) regulation. This Holland & Knight alert provides a number of key ..."
-    publishedDateTime: 2023-11-22T18:59:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/2023-artificial-intelligence-regulation-1329571/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 36
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14849_2738.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Digital advocacy group criticizes current scope of the EU AI Act"
     excerpt: "In an open letter signed by members of Digital Europe, the group warned that over-regulation of the AI industry could negatively impact the region’s ability to become a global leader in the technology."
     publishedDateTime: 2023-11-24T09:23:00Z

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -55,21 +55,21 @@
       ]
     },
     {
-      "path": "_news/2023-11-25-microsoft-debuts-custom-chips-for-cloud-and-ai-azure-maia-ai-accelerator-and-azure-cobalt-cpu.md",
-      "title": "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU",
-      "excerpt": "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,",
+      "path": "_news/2023-11-24-microsoft-brings-chatgpt-ai-to-windows-11s-command-line-and-heres-a-closer-look.md",
+      "title": "Microsoft brings ChatGPT AI to Windows 11’s command line, and here’s a closer look",
+      "excerpt": "ChatGPT-powered “AI chat” on Windows 11. ChatGPT integration is now available in Terminal (Canary), a new development channel to test experimental features ahead of a wider rollout. With ChatGPT AI Chat in Terminal,",
       "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/",
-      "originalUrl": "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/",
+      "webUrl": "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/",
+      "originalUrl": "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 173,
       "tags": null,
       "images": [
         {
-          "url": "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.windowslatest.com/wp-content/uploads/2023/09/Windows-Terminal-with-AI-on-Windows-11.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,13 +77,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-25T11:06:00Z",
+      "ampWebUrl": "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/",
+      "cdnAmpWebUrl": "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/",
+      "publishedDateTime": "2023-11-24T00:20:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
+        "name": "Windows Latest",
+        "domain": "windowslatest.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -94,8 +94,7 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {

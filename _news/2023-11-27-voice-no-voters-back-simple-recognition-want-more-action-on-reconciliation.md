@@ -41,6 +41,24 @@ related:
         width: 1180
         height: 912
         isCached: true
+  - title: "Precisely Expands AWS Mainframe Modernization Data Replication With Support for IBM i Systems"
+    excerpt: "Precisely, a global leader in data integrity, today announced at AWS re:Invent 2023 that it is working with Amazon Web Services (AWS) to expand AWS Mainframe Modernization Data Replication with Precisely. Customers will now have a capability to replicate IBM i series data to the AWS Cloud in near real-time."
+    publishedDateTime: 2023-11-27T14:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/27/9923406.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 23
+  - title: "Precisely Expands AWS Mainframe Modernization Data Replication With Support for IBM i Systems"
+    excerpt: "Precisely, a global leader in data integrity, announces expansion of AWS Mainframe Modernization Data Replication with support for IBM i systems."
+    publishedDateTime: 2023-11-27T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231127246416/en/Precisely-Expands-AWS-Mainframe-Modernization-Data-Replication-With-Support-for-IBM-i-Systems"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 23
 
 secured: "nDnUvOIdB41lLNgcPDmcZY52tQdc5TO2O6e2Le2ylz4fzqEpki+Peu8NfU26ZiBeAcCmKUZsKjGOLJhPNfuLtas5p07+mWoHTPPgQ059tPSHl1OU/+kG0AxdqNW+SMGBTjMcHqFVzGLxGZ46Q1arCONHDP5A5zr04NzNxSpgvcbUeHGZd2KlomiB340DgocxVOkuuBWPZHCTOEEZfR27Lh+YnlyEERsvgCaVVh7ojKNi1eGjQXaNIebYvO4qP5ach0MXi1ljJlhssyaEZ5tFfun1WQp/sXX1K4OWt2TSsITS50q97bAcR+NTHtQXWF6AUtxM67wdMqt1kmKEv2mZ9kueV59kbHktOyDiFUQPFeiY1f22uE0pfTs2UupRwZpTAFn1sCS+twewJtqzwTFWyAZjdmTgSBcGOHgqJAd10x6ZlfTI9nEXwMbReBfxCnzVSR4/LHC/xzWba7Movg3IgIa0vG0GFkEw1hFGSE782jFtP9OR+6oWzokkUnv7hTHbvBv2Bpc2nakwvxH1i3zVIQ==;0HNo8kO9EDuQafMyofUX5w=="
 ---

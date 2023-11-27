@@ -192,6 +192,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "NVIDIA delays new H20 AI GPU shipments in to China, first chip designed after US sanctions"
+    excerpt: "NVIDIA's first AI GPU designed to comply with US export rules into China -- the H20 AI GPU -- has been delayed from December, to Feb/March 2024."
+    publishedDateTime: 2023-11-27T00:57:00Z
+    webUrl: "https://www.tweaktown.com/news/94577/nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94577_502_nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions_full.png"
+        width: 1500
+        height: 836
+        isCached: true
   - title: "NVIDIA postpones launch of H20 China-specific AI chip"
     excerpt: "NVIDIA has informed its Chinese customers about a delay in the launch of its new artificial intelligence (AI) chip, the H20, until early next year"
     publishedDateTime: 2023-11-24T09:24:00Z
@@ -220,6 +234,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Chinese factories disassemble Nvidia gaming GPUs to make AI accelerators"
+    excerpt: "In this vacuum, and amid a GPU demand surge thanks to AI, Chinese manufacturers have sprung up to convert remaining RTX 4090s for server use. The companies disassemble the graphics cards, desolder the GPU and memory components, and then reassemble them on ..."
+    publishedDateTime: 2023-11-27T00:01:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/chinese-factories-disassemble-nvidia-gaming-gpus-to-make-ai-accelerators/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 53
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/geforce-ada-4090-web-og-1200x630.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia delays AI chip designed for China: ‘Nvidia has demand without China’"
     excerpt: "Nvidia delays an AI chip it specifically designed for China. Wedbush analyst Bryson says Nvidia has demand without China."
     publishedDateTime: 2023-11-24T14:52:00Z
@@ -233,6 +261,29 @@ related:
       - url: "https://invezz.com/wp-content/uploads/2023/02/161973057-m1-1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Nvidia faces setback as the launch of China-focused AI Chip, H20, delayed amid integration challenges"
+    excerpt: "Nvidia, the California-based AI chip giant, has announced a delay in the launch of its highly anticipated China-focused AI chip, H20."
+    publishedDateTime: 2023-11-27T19:10:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/27/nvidia-faces-setback-as-the-launch-of-china-focused-ai-chip-h20-delayed-amid-integration-challenges/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 49
+  - title: "Nvidia earnings: 3 reasons this artificial intelligence (AI) stock is still a buy"
+    excerpt: "Nvidia's bottom line also increased sharply, with net income jumping 12-fold to $9.2 billion due to rising sales of its high-margin computer hardware. With limited competition, Nvidia isn't under much pressure to lower prices to keep its 80% market share in AI chips."
+    publishedDateTime: 2023-11-27T22:51:00Z
+    webUrl: "https://www.fool.com.au/2023/11/28/nvidia-earnings-3-reasons-this-artificial-intelligence-ai-stock-is-still-a-buy-usfeed/"
+    type: article
+    provider:
+      name: Motley Fool Australia
+      domain: fool.com.au
+    quality: 47
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F756020%2Fnvda_sankey_q32024.png&w=700"
+        width: 700
+        height: 699
         isCached: true
   - title: "Wipro To Bring Generative AI To Healthcare Insurance Companies Using NVIDIA AI Enterprise"
     excerpt: "Wipro announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI"
@@ -289,6 +340,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/NVIDIA-MONAI-medical-imaging-AI.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Nvidia revenues soar amid hyperscaler AI rush"
+    excerpt: "The chipmaker's products underpin the AI services at the center of an enterprise adoption wave, but research and development are still underway."
+    publishedDateTime: 2023-11-27T21:35:00Z
+    webUrl: "https://www.ciodive.com/news/Nvidia-revenue-growth-spikes-hyperscaler-AI-rush/700752/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/tVw2nHB2Ssuz9fEkfD1t3AZcgAx-GQVeXKFKCMVIM_M/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzOTkyMzg5MTMuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
   - title: "Nvidia’s Record Performance and Leadership in AI Drive Buy Rating and Optimistic Growth Forecast"
     excerpt: "Analyst Cody Acree of Benchmark Co. reiterated a Buy rating on Nvidia (NVDA – Research Report), with a price target of ... The rapid adoption of Generative AI and Large Language Models by major consumer internet companies and cloud service providers ..."

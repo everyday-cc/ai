@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T13:29:00Z
 originalUrl: "https://www.computerworld.com/article/3711440/6-issues-for-autonomous-vehicles-and-any-apple-car.html"
 webUrl: "https://www.computerworld.com/article/3711440/6-issues-for-autonomous-vehicles-and-any-apple-car.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Computerworld

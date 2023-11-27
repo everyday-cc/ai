@@ -78,6 +78,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 12
+  - title: "Where Australians stand on Indigenous issues after the Voice referendum"
+    excerpt: "A major survey on voters' attitudes after the Voice to Parliament referendum is being released, and the results may seem contradictory."
+    publishedDateTime: 2023-11-27T11:01:00Z
+    webUrl: "https://www.sbs.com.au/news/article/what-voters-are-saying-after-the-voice/ahitt3n0d"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 4
   - title: "Voters still back giving Indigenous Australians a say in policy that affects them despite voice result: survey"
     excerpt: "ANU research reports 61% of voters would have backed constitutional recognition, though Indigenous groups have consistently rejected it as symbolic"
     publishedDateTime: 2023-11-27T12:59:00Z

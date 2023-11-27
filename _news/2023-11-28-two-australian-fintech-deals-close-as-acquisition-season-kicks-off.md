@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T18:01:00Z
 originalUrl: "https://www.afr.com/technology/two-australian-fintech-deals-close-as-acquisition-season-kicks-off-20231124-p5emnx"
 webUrl: "https://www.afr.com/technology/two-australian-fintech-deals-close-as-acquisition-season-kicks-off-20231124-p5emnx"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: The Australian Financial Review
@@ -14,6 +17,24 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Ag Autonomy Kicks Up Dust As Acquisition Deals Accelerate"
+    excerpt: "Modern farming faces an intense labor shortage. AgTech providers are rolling out impressive autonomous tech. What are the intersections with on-road autonomy?"
+    publishedDateTime: 2023-11-25T17:58:00Z
+    webUrl: "https://www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate/"
+    ampWebUrl: "https://www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6562312e45d060b1e7ce8a13/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
 
 secured: "x5dd+q0O65/zEdCSq/dUVYAjCg134tNleHpcISIi5B7AzoyG9sqloWBKmLkWW25ODcLwvIeNqLtPhEtgcaG9ZSANkGrDxy66NbxGMyI5mJ5W5oaJVglTIzhL8dHx7HCbri95PAqFfno52/nLxBTPsUs0tjYsIOFOM/vmWlcRkn0eZSr4+ehJzgZxtIRbrig/E7T3q5PJhXzbJs85trOFVXsh/jHfu4qFOE14nHU45MxYnDVyGFovKJ83YzXJjbJgcjNPjzMOTrRHRnJTkT3Q+8mV3YKrPtISmM5xsHBO2ONzzrIJtTsYiCyYPzugUzesiVhdhaPkP0Hiwn9OlS7R38+JpYyuJ17CzKsBP9k8ssLDI8mxo03UMH55Wpm/1vNI94o79Ba1TPyLoG0bjUvKKOhmKrVdlUfzj5v8zlmRt8sx4y0xbj2QV2kNYXN/mYwwi2s63jTMBDZM8eQChyzhHuXt3NWlhLhms31ACL290hvKAsaxWAD+H42p9Gz80VcjX3dsDA9CGl6I5+maozBJDw==;E5o6LOSV1c1WQy6Cbcks4Q=="
 ---

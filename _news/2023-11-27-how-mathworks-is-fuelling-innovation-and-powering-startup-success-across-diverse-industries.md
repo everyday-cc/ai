@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/2023/11/mathworks-innovation-powering-startu
 webUrl: "https://yourstory.com/2023/11/mathworks-innovation-powering-startup"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "5 Innovative Startup Opportunities In Travel"
-    excerpt: "In this article we dive into five areas where startups are identifying gaps in the travel market, leveraging technology to enhance travel experiences, and catering to the increasing demand for authenticity and personalization in travel."
-    publishedDateTime: 2023-11-22T21:48:00Z
-    webUrl: "https://www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/"
-    ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/amp/"
+  - title: "Targeting smart surveillance opportunities, Linker Vision ready to show latest solution at CES and MWC 2024"
+    excerpt: "With significant increases in chip computing power and the rapid evolution of algorithms, AI is widely applied in various areas such as autonomous driving, smart transportation, smart manufacturing, smart cities,"
+    publishedDateTime: 2023-11-27T03:04:00Z
+    webUrl: "https://www.digitimes.com/news/a20231127PR200.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
+      name: Digi Times
+      domain: digitimes.com
+    quality: 6
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655e77162a7db00c98c43d80/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1518
-        height: 900
+      - url: "https://img.digitimes.com/newsshow/20231127pr200_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "How OPPO uses robotics and AI to innovate in the smartphone space"
-    excerpt: "OPPO hosted a \"Tech Insider\" event for journalists and creators that shows how the brand develops innovative tech through robotics and AI."
-    publishedDateTime: 2023-11-26T11:37:00Z
-    webUrl: "https://www.ungeek.ph/2023/11/how-oppo-uses-robotics-and-ai-to-innovate-in-the-smartphone-space/"
-    type: article
-    provider:
-      name: ungeek
-      domain: ungeek.ph
-    quality: 49
 
 secured: "Mrn7Euy5lFuA289dzS/e0gfRLEOpFkObwxQboX7SQAzV0cRbeyCDZ49FqMdn6zUoeI9Wjh0eLwz27M8yQ9mBLHkAI5Lfm16eaV8u3dmT3JGjMsS8+6m0FqRESL8Mmd46FRmhBY7NhLs57k5qu2iiwyoeBQkfIhxH1KfrBMNXaczV2cr5VFftUKlYkcZO2PxGw5eIwsYr3sG3YDTR19+7XQwahGpfvWyxWwYWSiVnalFz/MbSA0mUd4fdtU3foawFDmJt55O6q9SishQdQTbbi9Xg2LKd2HhueXB7qf4/cabGFzXqxaUonSk98XGuVYVLKbsTE870FFtHKYkv1mhI1u8gtG5eqhJ7H2nCPiqyoK231WLeNL+KW0zafX6KYmupvvv4mE/BR1ZpMuZY45dMiVji5NfgqScsBKdW+bBPeXn/ziiGg1NmAQelxMrT5R/Vqlle0thmy6RdJQPUhpeoSGizAirM6uG0cqTUwmGXoSrBQoNm5LUo8Bt9xUFr2MKpnmDMGm7k4Cm5PCj78IXJDA==;fLkN6VQEMEO2tCBqQRkoqg=="
 ---

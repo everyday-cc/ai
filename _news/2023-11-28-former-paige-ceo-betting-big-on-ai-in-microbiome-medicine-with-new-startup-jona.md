@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T16:10:00Z
 originalUrl: "https://www.fiercehealthcare.com/health-tech/former-paige-ceo-betting-big-microbiome-medicine-new-home-testing-startup"
 webUrl: "https://www.fiercehealthcare.com/health-tech/former-paige-ceo-betting-big-microbiome-medicine-new-home-testing-startup"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Fierce Healthcare

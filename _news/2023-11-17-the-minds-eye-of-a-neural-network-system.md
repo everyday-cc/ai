@@ -15,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "C4t9rIcs9zlvJEf9Vc7F3X951kclTe9MeR9tG52RmnlXaO/8mwXeQ7FjGRxQ0MjCCIkeFInylhX61F/3r0g7BCn625DNIswCDEG5jhnU1tphLKpbmkkfTI6mm7bzVCBZyFYl7NSghhvO7Qjbzkw7FAaPYwbLx6hTe+CrK0GYUouUUF2IOvA9CabVK8TQpaF2/CRgWPQfyxiwrJAq0duIkGOW3KzMKeq2BOMiQ8DdWQN7mg2NkuA+X3r+k4w9ccMhyd64CHmA0fVOL4TriI8gSyZTbBTAh2EtI76aoJL4Xgnsgw0uu7Fgz69sp+D2+eCGGW1xt7NZF5OaXtpcfQ3VdbS7gvSh7tB6C2e4XVtAUGM=;wVPeyxqV9TxEJUbI+I6InA=="
+images:
+  - url: "https://www.nanowerk.com/news2/robotics/id64066_1.jpg"
+    width: 800
+    height: 450
+    isCached: true
+
+secured: "vis1Z6vxIWR+Pz+zAnWMZ5/67rnlgd6YOMbn6JVWEO63sdXVFmojca8A/UG78geKnNFfbGBl7Bc41boxuohxZ1QQI7C6OaM/jBXe3Dz4Q9/nDBHkFq9eK8xnQ6uALmHmufARWZDChCxxbTDijuX0yIKKWUejLJUiuF0qc8CspSYPiZDjhEvut/9InE9h/5XNI5a3uvS8fdzH8gNt3j5YX2NWa8w3SxmMru2EsoBrztdxWPzc3NKVZbNc3vyZgiRH5Dwym3V9DVMzv9rdAFY1fhaYjV6KeGX0gijriptUOWL+WLK9FOhgDV7vFpMzhWJQrbnkViBrP/ULB2OASlmF0rcZTl7PiQ6Iwhaf6bKGF0Y=;X5vURynkW9Gn1SWTgXfrRA=="
 ---
 

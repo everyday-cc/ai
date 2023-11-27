@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T05:30:00Z
 originalUrl: "https://wtop.com/business-finance/2023/11/artificial-intelligence-can-polish-up-a-resume-but-only-so-much/"
 webUrl: "https://wtop.com/business-finance/2023/11/artificial-intelligence-can-polish-up-a-resume-but-only-so-much/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: WTOP News
@@ -14,6 +17,6 @@ provider:
 topics:
   - AI
 
-secured: "r5rvP7DWsNTiGALJsYJ5dwlzDcGzekIHxq3K9Oxu2+Nz1FLre7bNpjBBjdTuie0z90tfbF51A5s2rJKZ0zoPNZgcFiMN3GJwAefd9czqdf3bk09d0TGh3fqu08bW5gyTIeGoIYarJxaOYtCYxyF0zHK9uOS41vIGSu1+WSu3jk+mXEWuoby0BQx0e3GoYeQpKkH1gt95dMYPJ31AZfTSbniAdT9hRu/UWu0fV3RED8daZPtBMAO5cKWYPb7lALxBXy0vwpZfX/sMHOSrV0dtr0PZkAWPfbcxGdJmTBrkpUMK/mf//OKnyEwqc7VXAnnVYZET5ZDfiKmAXFRRf5QziDkPNmb0rsd8OzUgAOeiP2Q=;swa65sSGfWNF7ikpq9uAjA=="
+secured: "NQQJf+8LJh1OozAlZx1SQsidGAV6H9LgEqs/Q8wTTEfTVPAoWpokjyCGTWjD26U553cgwCIB74KF5scmefohau0FfHM9YOtyQkz6blwUZrzSOVQXisd56d9HMo2KQaec1v+SHPc6/xrRVKUO8dydQP+EuV8O6lko89a9d8zFpqDCmVJ9Ydu6aXfK8T2TeHW6fz8ggPTISPhCL570WgHm89UUh6sxYjX6mcBsUS+9zxL/g3crSRnPYqJrFVFNywg7m+Xxd8p9xI2QM2qMIRbXEpIccLvLOdb4Kjw8pehuGi5UmyDlJSJREtU0jWVRsi52sNyKOPNbyWlLVYCYOOpxAp4B6zXE4GjbmezSV2st4u9iEdNWpp4J/c85U/x49ZT53Q64FLUti2XbfgsvMZ0+CuQLg649vvAkO8seK5h1qcS4g11Mx7azb2SsYN0UH3/GLK+OgNXSpNshzHfdeS81oC1rOUhiroWpWglRnnqRnUQPxBB+WbxcHmMl85lVFKn+uNRhWzXj5Hs9tI/es+jthg==;y70W7FJgCvV4iiHMBNDcuQ=="
 ---
 

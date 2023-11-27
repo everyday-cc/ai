@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google Bard AI can now watch YouTube videos for you"
-    excerpt: "Google has announced that Bard, its ChatGPT competitor, is now able to understand certain aspects of YouTube videos."
-    publishedDateTime: 2023-11-22T19:55:00Z
-    webUrl: "https://bgr.com/tech/google-bard-ai-can-now-watch-youtube-videos-for-you/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/09/google-bard-gmail-maps-flights-youtube-integration-1.jpg?quality=82&strip=all"
-        width: 1600
-        height: 804
-        isCached: true
   - title: "Google’s Bard AI to Revolutionize Your YouTube Experience"
     excerpt: "Google's Bard AI will now be able to extract valuable information from videos without having the users hit the pause button."
     publishedDateTime: 2023-11-23T11:33:00Z
@@ -97,34 +83,15 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Google Bard’s Latest Update Enhances Understanding Of YouTube Videos"
-    excerpt: "Google Bard expands its capabilities with YouTube video understanding. I put this new feature to the test – does it live up to expectations?"
-    publishedDateTime: 2023-11-22T21:07:00Z
-    webUrl: "https://www.searchenginejournal.com/google-bards-latest-update-enhances-understanding-of-youtube-videos/502053/"
+  - title: "Too Lazy To Watch YouTube Videos? Google Bard Can Now Do It For You And Answer Your Questions"
+    excerpt: "Google Bard has received a new update that adds the ability to ask questions about YouTube videos. Google is rolling out this feature as a YouTube extension within Bard. What Happened: Alphabet ..."
+    publishedDateTime: 2023-11-26T00:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/too-lazy-to-watch-youtube-videos-google-bard-can-now-do-it-for-you-and-answer-your"
     type: article
     provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 24
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/11/google-bard-understanding-youtube-videos-update-655e58f431834-sej.jpg"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Google expands Bard’s YouTube integration"
-    excerpt: "Google integrated the chatbot with YouTube in September. That update introduced the ability to search for videos through Bard’s natural language interface. Thanks to the expanded integration rolled out this week, users can now also have the chatbot answer questions about a clip’s contents."
-    publishedDateTime: 2023-11-22T22:42:00Z
-    webUrl: "https://siliconangle.com/2023/11/22/google-expands-bards-youtube-integration/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/Bard.png"
-        width: 931
-        height: 522
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 23
 
 secured: "1FnZzJvLY9H8saGtr8ggZKfeddM/ryaGeozRSoWCyAEBa1C2qn1PN6GgEYg1Q7pCnNfrVzcVgXp0MYU4PvQpAfvsI/4e34dcf9Pe0EV9MYoNcKXS6wGVTvD0xNIAMVNipULDuWPRV/NSlQdT91NYtXX7oF9jnwh4u11Ph1LwFtFB6RSmFekl08oQYBjiLGcwvVl82F5cYhxdHErlVD10JRT9O/UgS4N1DQ7HVLs+Qa46WKUqEwXTlF7hyVbXb34HM1/Oz5mfXlp7Y1PyemT/unBzBfy9BiH9fN5ZRR3QOt/wCglcCSwExm4sDxs8JSDuemfINxwacL+TF/CduAySSLPzE0V3ZUuM4aGcSfemUXA=;spWDuWBa6lzU2Y8w/gr35g=="
 ---

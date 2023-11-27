@@ -9,7 +9,7 @@ ampWebUrl: "https://www.steelguru.com/amp/story/steel/revolutionizing-steel-mill
 cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/steel/revolutionizing-steel-mill-operations-with-ai-vision"
 type: article
 quality: 59
-heat: 79
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Revolutionizing AI Work With New Hardware Structures"
+    excerpt: "Basically speaking, the processes are done in memory, rather than by sending the relevant data through a processor. The hardware setup involves the use of machines called analog to digital converters, which is pretty much what it sounds like."
+    publishedDateTime: 2023-11-23T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/11/23/revolutionizing-ai-work-with-new-hardware-structures/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Saving corals with artificial intelligence"
     excerpt: "Australian Taryn Foster has spent her whole life exploring the coral reefs in Western Australia. As a result, she has witnessed the damage caused by climate change. With her company Coral Maker, she now wants to take up the fight for corals - with artificial intelligence (AI) and robotics."
     publishedDateTime: 2023-11-23T06:20:00Z
@@ -41,6 +50,24 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Schneider Electric utilises Generative AI to revolutionise operations"
+    excerpt: "Schneider Electric, an expert in the digital transformation of energy management and automation, is leveraging Generative Artificial Intelligence (GenAI) by incorporating Microsoft Azure OpenAI to tra"
+    publishedDateTime: 2023-11-27T16:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35964540/schneider-electric-utilises-generative-ai-to-revolutionise-operations"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
+  - title: "Kyndryl Signs Multi-Year Strategic Collaboration Agreement with AWS to Accelerate Customer Adoption of Generative AI Solutions"
+    excerpt: "NYSE:KD) Kyndryl Signs Multi-Year Strategic Collaboration Agreement with AWS to Accelerate Customer Adoption of Generative AI Solutions"
+    publishedDateTime: 2023-11-27T22:40:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/11/27/kyndryl-signs-multi-year-strategic-collaboration-agreement-with-aws-to"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 6
   - title: "Market Leaders Collaborate with Synopsys to Realize Gains of Generative AI Across Synopsys.ai Full EDA Stack"
     excerpt: "Synopsys, a pioneer in AI-driven EDA, aims to revolutionize the industry with generative AI capabilities, starting with Synopsys.ai Copilot, across the Synopsys.ai suite, building on its AI-driven optimization and data analytics solutions."
     publishedDateTime: 2023-11-27T14:35:00Z

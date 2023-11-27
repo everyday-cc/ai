@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T17:58:00Z
 originalUrl: "https://www.npr.org/2023/11/27/1215372795/merriam-webster-word-of-the-year-2023-authentic"
 webUrl: "https://www.npr.org/2023/11/27/1215372795/merriam-webster-word-of-the-year-2023-authentic"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: NPR

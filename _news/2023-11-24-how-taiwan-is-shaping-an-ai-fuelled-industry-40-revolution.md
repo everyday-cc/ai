@@ -62,6 +62,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 34
+  - title: "AI chip boom fuels MediaTek’s 40% rally, beating Qualcomm and peers"
+    excerpt: "A FIVE-MONTH rally in MediaTek looks set to extend as booming demand for smartphones and a promising new AI chip brighten the company’s outlook. Read more at The Business Times."
+    publishedDateTime: 2023-11-27T16:31:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ai-chip-boom-fuels-mediateks-40-rally-beating-qualcomm-and"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 34
 
 secured: "s4CMmeCDY56w1dp8ArvRIBrcgr8ovUJGuVR5rQFCPku14y5lmyBbAHorzpC0quh81QAwZU3WKlVKit6vKg5FU1/nDZQeeyvusH68ewDu6Gabt7/iTLh+7PsO0dJ96QBiqv/Cx+PLCqB234JMg8qPFDPIqPvjmTe34WXVj4bryAWWyEBJhuUJDbCi2DmpKgZ6Bxiefde7yOZtrlf9dRvkx6CsHQMciUbQecyhdpmA2+TBUa0/q6XEILbsbQuh0xDuw/n1q5iDQjtGP1ZVM3islaRt1Q0BVRFKLsbgp5oKGuzhdldgoztreFpSY5P2KKLttj+hs3Z5K0UsdK8iRz2ZqfraNWgPmc7rHdKkxFNgv8xub1MrQPasWM96WlrlzwXcNTl73CL+k319uaKjcy3zxRnNj9VpjPZZU7zxOr1RsvjQdjDiiuRC/97r1N1qRJZPiqkMPylr0ZBDfox25xuv8+aNFmJuW8CKwpd8CD+PySt0qzAkm2dGySs/g3iWCs8Mcavm1qURuKkmc/yAAV+FCw==;Curna/9f4JjZ5eYEA+pRPw=="
 ---

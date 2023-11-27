@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-11-24-stability-ai-debuts-stable-video-diffusion-models-in-research-preview.md",
-      "title": "Stability AI debuts Stable Video Diffusion models in research preview",
-      "excerpt": "Stability AI has announced the release of Stable Video Diffusion to mark its entry into the much-sought video generation space. Available for research purposes only, Stable Video Diffusion (SVD) includes two state-of-the-art AI models – SVD and SVD-XT ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/stability-ai-debuts-stable-video-diffusion-models-in-research-preview/",
-      "originalUrl": "https://venturebeat.com/ai/stability-ai-debuts-stable-video-diffusion-models-in-research-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.29.08-Photo-of-a-person-of-Hispanic-descent-in-a-relaxed-pose-having-a-video-conference-with-an-advanced-looking-robot.-The-laptop-from-which-the-call-is-m-e1700766229577.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-23T19:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-21-llast-llama-back-at-home-bringing-an-end-to-the-trios-traipse.md",
       "title": "Llast Llama back at home, bringing an end to the trio's traipse",
       "excerpt": "Lluka and Todd were captured and returned home by professional livestock wranglers and volunteers on Nov. 16 but Llewis evaded capture until this morning. His evasive manoeuvres have included, but were not limited to, army crawling under a catch pen.",

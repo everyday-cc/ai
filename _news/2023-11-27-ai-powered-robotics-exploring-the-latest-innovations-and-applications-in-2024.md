@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/ai-powered-robotics-exploring-the-latest-i
 webUrl: "https://techbullion.com/ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024/"
 type: article
 quality: 67
-heat: 107
+heat: 147
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "How OPPO uses robotics and AI to innovate in the smartphone space"
+    excerpt: "OPPO hosted a \"Tech Insider\" event for journalists and creators that shows how the brand develops innovative tech through robotics and AI."
+    publishedDateTime: 2023-11-26T11:37:00Z
+    webUrl: "https://www.ungeek.ph/2023/11/how-oppo-uses-robotics-and-ai-to-innovate-in-the-smartphone-space/"
+    type: article
+    provider:
+      name: ungeek
+      domain: ungeek.ph
+    quality: 49
   - title: "Artificial Intelligence in the 90s: A Decade of Innovation and Challenges"
     excerpt: "Introduction: The 1990s marked a pivotal era for the development of Artificial Intelligence (AI), witnessing both unprecedented innovation and formidable challenges. As technology advanced, researchers and enthusiasts alike grappled with the possibilities and limitations of AI."
     publishedDateTime: 2023-11-24T11:53:00Z
@@ -82,6 +91,33 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Selina Zhang's ArTreeficial, AI-Driven Solution to Pest Management, Featured in XYZ Media's \"Next Generation Innovators\""
+    excerpt: "Founded in 2018, XYZ Media stands at the forefront of integrating educational initiatives with technological innovation, driving market trends, and shaping the digital landscape. XYZ Media is dedicated to spotlighting the achievements of tomorrow's leaders driving change."
+    publishedDateTime: 2023-11-27T20:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/selina-zhangs-artreeficial-aidriven-solution-to-pest-management-featured-in-xyz-medias-next-generation-innovators-1032852520"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
+  - title: "FTC votes to streamline investigations into AI products"
+    excerpt: "In a 3-0 vote, the Federal Trade Commission approved a resolution that will let agency staff issue certain demands when investigating artificial intelligence-based services and products for potential market violations."
+    publishedDateTime: 2023-11-27T20:05:00Z
+    webUrl: "https://www.govexec.com/management/2023/11/ftc-votes-streamline-investigations-ai-products/392281/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 19
+  - title: "The Evolution of Best Communication: Unveiling the Power of AI Text-to-Speech"
+    excerpt: "Introduction In an era dominated by technological advancements, artificial intelligence (AI) continues to reshape the landscape of various industries, offering innovative solutions that were once deemed impossible."
+    publishedDateTime: 2023-11-27T14:41:00Z
+    webUrl: "https://techbullion.com/the-evolution-of-best-communication-unveiling-the-power-of-ai-text-to-speech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 16
 
 secured: "9mBpCGZM4GwgSgbwPapvCThpF/Ze0xAsxkoV/lOu5OSsgejTo/sdNSHAgnPMVeWMEPvf0GHlgZOqa03xYFAsnxAwZV9ENzfr7CfWzA0dYj4WoNLvlaBiK1UHhS4AsqZLdXagbhoTLQSnGDA3WBMxDBWJveP2AjV5wBfm+LmJCB/IeYKuPvhcZIMmCMkB5RKOOCVtFrM4kFV76CY41AgAmLox4s+GUADzLheM/sh0LdKF7rxURW/3AJBmvemF18stE/iRQYxXBF8a5Dc3VCDdoWY93B7qJVoU/0t7Clq9xAi5CGyOO3yIAu5foj3L4aFUKmpG9YhmkNlqxrEsswO+95m4Pjv08YL3Q17ZR/k4Oy/zxnAP3MJ3w798F1KiCbXJEf5jf2GqL6Za/YYOayPsGzwx6ysbZqn2BlK2RANRk9KKFRBFPslHoEkSwhrydNmC2tk//2TcfIkScmIWcFej9ItYTjRG8riEU5Q0uG8HK4+ZQMimGInnwfnVDnYHI3dRhJmdrlFW4lCVE5wJ8I27Nw==;3VW+/5D9K/J7N6wheqSnYg=="
 ---

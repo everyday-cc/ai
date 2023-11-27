@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-k
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "Two Australian fintech deals close as acquisition season kicks off"
+    excerpt: "An expected wave of merger and acquisition activity in Australia’s technology scene is picking up momentum with the closure of two deals in the fintech sector ... it is looking to incorporate generative AI into its platform. Mr Stivala and fellow ..."
+    publishedDateTime: 2023-11-27T18:01:00Z
+    webUrl: "https://www.afr.com/technology/two-australian-fintech-deals-close-as-acquisition-season-kicks-off-20231124-p5emnx"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 4
 
 secured: "Ksj+hlBbu9/3CZUsqgw4EkQmuiA1F5lwZs0+XumhIn/ICy+qlyIfw/dwD2yzPfgI3sou8XsmYJ4Kg3QX4HtAW+AgKSGpm4HKxbirjE4Z+pMm0da5r8NW3+jmTnulZBJqpexs0DjhE29y7vRbOWjs0W7oMUDOdC/DoZga3w4Zj+SVDtUz9/TosSAnT2ZCJooX3dROmOcolztBQskp8mDdr9CaedkzPThYBumChi8hRuQmeWjIPT5px9duLg7nXQfGIE6PMIF1oGOiSeWaL0mseAxb3rngewHLASkT+34oeCzS6KcU12DJbcS3ZUqHyRG7w68ChyRcGB/xY/oGe4IBVApwiP6uxIFWGveE3liKvxA4Im3DMOWzdIj1Rxj/c62agXtnnVPigcqB8vLBZ0j1YmZLnEOffYEG/dztBsrX5eE0N9UOjw+E3v3Csf6S7deBlnR7DHUplXOLuqXLhaYqK81uESO9APhqaVstCUAvZA4RO06vX8VrTZ9oyStQXUQXKyRkuiwqTKukwyK1TD/vFQ==;AJ/Vb7rbVyaW41ikJ4gIvw=="
 ---

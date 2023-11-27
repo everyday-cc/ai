@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/11/26/1083841/finding-value-in
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/amp/"
 type: article
 quality: 57
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Generative AI Takes on SIEM"
-    excerpt: "The modernized QRadar SIEM offering will become part of the QRadar Suite, originally launched in April 2023, which brings IBM's EDR, XDR, SOAR and SIEM offerings and a new log management tool onto a common platform designed to give SOC analysts a unified interface and controls."
-    publishedDateTime: 2023-11-22T20:00:00Z
-    webUrl: "https://www.darkreading.com/emerging-tech/generative-ai-takes-on-siem"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc53d6965d9f963bf/64789b9b6159dba6643b4668/robot_at_laptop-Dariusz_Banaszuk-alamy.jpg"
-        width: 646
-        height: 430
-        isCached: true
   - title: "Governor’s Office issues initial generative artificial intelligence report on Tuesday"
     excerpt: "On Tuesday, the Governor's Office released a report about the emerging possibilities and potential pitfalls of generative artificial intelligence."
     publishedDateTime: 2023-11-24T01:43:00Z
@@ -84,15 +70,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "AI Startup Stability Has a New Tool For Creating Generative Videos"
-    excerpt: "Startup Stability is taking generative AI up a notch. While the technology has been used largely for photos and voice replications, Stability is making waves with a new tool for advanced AI-generated videos."
-    publishedDateTime: 2023-11-22T17:25:00Z
-    webUrl: "https://hypebeast.com/2023/11/ai-startup-stability-generative-video-tool"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 17
 
 secured: "hwmpjq6KgmTtSUxO6b2RcBh1xvoAncf83R53cHRP4jxsWG3ytafkdzZg3SjG7V8uqCkOoUSxjWk681Z45P0NUhL0cG2op3nCG/ZtjoyrTt9sBqJLvFwE53nHCjt6o+lopHBCS22oD0V0FZW4ZULFHCBU5KDYbu86Xu8ULAR2nW49RHDNu4MtdUW+BeEr1sF0pOJgfF1mWtkRMc4dTIzQmyv53O9T9abxZkFCCIKIs3KP+rvXqHSpIMh9mIpMJ+3afc8aHCbF8LN35798YWQuXk67UQmFNtGHgn45jKjUX7pQ47EQggzkPgbxL5LttrnBH1+hdCkEnpiR0pakIVXZIUGmhT2L6z1zSvVqVVBxreRazE1rxgZ/UjylcFaUiVspB3IVlbb9pRbjyJHfVjVnJfgw+P1hCz5FjwNdyuVNKau1WhE/4ntsDYvir/1DQnzamlODuPUt9X0HeFVSrKZvidZH7f0DcaiSPcy4oqVvwz/VxwFndFsi5EGUczgx6uA60uN3nwEofrWaJ8aLlpFHBA==;2zw+sdT0dcrxgafxm0QteQ=="
 ---

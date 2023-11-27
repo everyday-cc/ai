@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-28-groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years.md",
+      "title": "Groq Says It Can Deploy 1 Million AI Inference Chips In Two Years",
+      "excerpt": "If you are looking for an alternative to Nvidia GPUs for AI inference – and who isn’t these days with generative AI being the hottest thing since a volcanic eruption – then you might want to give Groq a call.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/11/27/groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years/",
+      "originalUrl": "https://www.nextplatform.com/2023/11/27/groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2020/09/GroqMain.jpg",
+          "width": 1065,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/11/27/groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/27/groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years/amp/",
+      "publishedDateTime": "2023-11-27T21:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-new-stable-video-diffusion-ai-model-can-animate-any-still-image.md",
+      "title": "New “Stable Video Diffusion” AI model can animate any still image",
+      "excerpt": "On Tuesday, Stability AI released Stable Video Diffusion, a new free AI research tool that can turn any still image into a short video—with mixed results. It's an open-weights preview of two AI models that use a technique called image-to-video, and it can run locally on a machine with an Nvidia GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/svd_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/amp/",
+      "publishedDateTime": "2023-11-27T20:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-opinion-nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth.md",
+      "title": "Opinion: Nvidia looks poised to lead AI — but there’s one big question about its growth",
+      "excerpt": "The driver of this growth is its data center segment, responsible for the GPU (graphics processing units) and chips that have been powering high-performance computing...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-747436/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77",
+      "publishedDateTime": "2023-11-27T20:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-27-ai-chip-boom-fuels-taiwan-firms-40-rally-beating-qualcomm-and-peers.md",
       "title": "AI Chip Boom Fuels Taiwan Firm’s 40% Rally, Beating Qualcomm and Peers",
       "excerpt": "A five-month rally in MediaTek Inc. looks set to extend as booming demand for smartphones and a promising new AI chip brighten the outlook.",
@@ -10,7 +157,7 @@
       "originalUrl": "https://www.bnnbloomberg.ca/ai-chip-boom-fuels-taiwan-firm-s-40-rally-beating-qualcomm-and-peers-1.2003756",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -42,50 +189,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-25-microsoft-debuts-custom-chips-for-cloud-and-ai-azure-maia-ai-accelerator-and-azure-cobalt-cpu.md",
-      "title": "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU",
-      "excerpt": "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/",
-      "originalUrl": "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-25T11:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -149,7 +252,7 @@
       "originalUrl": "https://www.techspot.com/news/100955-nvidia-shares-fall-after-new-china-focused-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 354,
       "tags": null,
       "images": [
         {
@@ -236,6 +339,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-24-thousands-of-rtx-4090-gpus-are-being-rebuilt-for-ai-computing-in-china.md",
+      "title": "Thousands of RTX 4090 GPUs Are Being Rebuilt for AI Computing in China",
+      "excerpt": "In China, Nvidia's RTX 4090 is being repurposed in the thousands. The GPU components are taken out, and put in a new PCB and cooler design!",
+      "sourceUrl": null,
+      "webUrl": "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/",
+      "originalUrl": "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beebom.com/wp-content/uploads/2023/11/nvidia-geforce-rtx-4090.jpg",
+          "width": 1250,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/",
+      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/",
+      "publishedDateTime": "2023-11-24T05:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beebom",
+        "domain": "beebom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc.md",
       "title": "Intel Talks Expansion, Meteor Lake And The Importance Of AI On The PC.",
       "excerpt": "Intel's new Fab 34 manufacturing facility in Ireland is where its Meteor Lake next generation processors will be made. The facility is hugely important",
@@ -275,6 +421,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-artificial-intelligence-are-ai-chips-different-from-traditional-processors.md",
+      "title": "Artificial Intelligence: Are AI chips different from traditional processors",
+      "excerpt": "AI chips executes numerous calculations parallelly, exhibiting remarkable speed and efficiency advantage over CPUs",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
+      "originalUrl": "https://www.business-standard.com/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.business-standard.com/amp/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
+      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
+      "publishedDateTime": "2023-11-23T04:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1243,170 +1423,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-nvidia-announces-new-h200-gpu-for-high-speed-data-processing-and-ai-model-training.md",
-      "title": "Nvidia Announces New H200 GPU for High-Speed Data Processing and AI Model Training",
-      "excerpt": "Nvidia has unveiled the H200 chips, which is a significant improvement from H100, and is expected to be available from Q2 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coinspeaker.com/nvidia-h200-gpu-data-ai/",
-      "originalUrl": "https://www.coinspeaker.com/nvidia-h200-gpu-data-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T07:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "coinspeaker",
-        "domain": "coinspeaker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-nvidia-announces-h200-ai-gpu-up-to-141gb-of-hbm3e-memory-with-48tbsec-bandwidth.md",
-      "title": "NVIDIA announces H200 AI GPU: up to 141GB of HBM3e memory with 4.8TB/sec bandwidth",
-      "excerpt": "NVIDIA announces its new H200 Hopper GPU with the world's fastest HBM3e memory from Micron, will power the new Exaflop Jupiter supercomputer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/94339/nvidia-announces-h200-ai-gpu-up-to-141gb-of-hbm3e-memory-with-4-8tb-sec-bandwidth/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/94339/nvidia-announces-h200-ai-gpu-up-to-141gb-of-hbm3e-memory-with-4-8tb-sec-bandwidth/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T00:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-as-h100-ai-gpu.md",
-      "title": "NVIDIA officially teases next-gen B100 Blackwell GPU: over 4x as fast as H100 AI GPU",
-      "excerpt": "NVIDIA promises perpetual innovation and perpetual performance leaps with a sneak peek at its next-gen B100 Blackwell GPU in GPT-3 175B inference perf.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/94338/nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-h100-ai/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/94338/nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-h100-ai/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/4/94338_110_nvidia-officially-teases-next-gen-b100-blackwell-gpu-over-4x-as-fast-h100-ai_full.jpg",
-          "width": 1500,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T23:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-nvidia-introduces-the-h200-an-ai-crunching-monster-gpu-that-may-speed-up-chatgpt.md",
-      "title": "Nvidia introduces the H200, an AI-crunching monster GPU that may speed up ChatGPT",
-      "excerpt": "According to Nvidia, the H200 is the first GPU to offer HBM3e memory. Thanks to HBM3e, the H200 offers 141GB of memory and 4.8 terabytes per second bandwidth, which Nvidia says is 2.4 times the memory bandwidth of the Nvidia A100 released in 2020. (Despite the A100's age, it's still in high demand due to shortages of more powerful chips.)",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/nvidia_h200_hero_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/amp/",
-      "publishedDateTime": "2023-11-13T21:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

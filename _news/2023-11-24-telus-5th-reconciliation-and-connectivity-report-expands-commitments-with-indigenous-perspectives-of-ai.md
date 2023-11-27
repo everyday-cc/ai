@@ -24,6 +24,17 @@ images:
     height: 408
     isCached: true
 
+related:
+  - title: "Telus expands Indigenous reconciliation commitments to include AI"
+    excerpt: "Telus Communications last week released its fifth annual Indigenous Reconciliation and Connectivity Report, which includes a new commitment to incorporate Indigenous perspectives into the telecom’s artificial intelligence (AI) and data ethics strategy."
+    publishedDateTime: 2023-11-27T17:13:00Z
+    webUrl: "https://cartt.ca/telus-expands-indigenous-reconciliation-commitments-to-include-ai/"
+    type: article
+    provider:
+      name: Cartt
+      domain: cartt.ca
+    quality: 19
+
 secured: "WFmpme7vJArY2pWTk9FTL9AP7bX/Re/HbrdaEgxmzB6z4RyZDDXub2Z/5nbJ9r/22+ca6XYYXJD//T3Jv38Ze+5iCdgX/fIhfXnWagpGsTJzWNpj6BadcreZCq60MTwVqHYefPqtuopkwoxT5tqOg1Z31Wkte/rkWXH87JMDovwKK5oiVwjhR61UbxUHO6E4GVLopP/wuE7cySs062F5o/NHcwTIT1Ovp4NdtA7RJz/VxldwhKkWkPGW4bHfRNH1EXs8J2PZc9jH1IRa2bSq8ieyo7FYw34SsvciRzaxGKYz3P6Q9/oZFOvCEHK44733xpH19dhPKMMFrMithVpw74rFQY1mXKVuPL3129vR8Sw=;BTjk4nJYpA6UEU/R8NOR3A=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T18:02:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/metanovas-wins-loreal-big-bang-future-new-product-research-x-artificial-intelligence-crossdomain-championship-1032852227"
 webUrl: "https://markets.businessinsider.com/news/stocks/metanovas-wins-loreal-big-bang-future-new-product-research-x-artificial-intelligence-crossdomain-championship-1032852227"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: Business Insider

@@ -39,6 +39,15 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "How OPPO uses robotics and AI to innovate in the smartphone space"
+    excerpt: "OPPO hosted a \"Tech Insider\" event for journalists and creators that shows how the brand develops innovative tech through robotics and AI."
+    publishedDateTime: 2023-11-26T11:37:00Z
+    webUrl: "https://www.ungeek.ph/2023/11/how-oppo-uses-robotics-and-ai-to-innovate-in-the-smartphone-space/"
+    type: article
+    provider:
+      name: ungeek
+      domain: ungeek.ph
+    quality: 49
   - title: "Artificial Intelligence in the 90s: A Decade of Innovation and Challenges"
     excerpt: "Introduction: The 1990s marked a pivotal era for the development of Artificial Intelligence (AI), witnessing both unprecedented innovation and formidable challenges. As technology advanced, researchers and enthusiasts alike grappled with the possibilities and limitations of AI."
     publishedDateTime: 2023-11-24T11:53:00Z
@@ -81,6 +90,33 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Selina Zhang's ArTreeficial, AI-Driven Solution to Pest Management, Featured in XYZ Media's \"Next Generation Innovators\""
+    excerpt: "Founded in 2018, XYZ Media stands at the forefront of integrating educational initiatives with technological innovation, driving market trends, and shaping the digital landscape. XYZ Media is dedicated to spotlighting the achievements of tomorrow's leaders driving change."
+    publishedDateTime: 2023-11-27T20:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/selina-zhangs-artreeficial-aidriven-solution-to-pest-management-featured-in-xyz-medias-next-generation-innovators-1032852520"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
+  - title: "FTC votes to streamline investigations into AI products"
+    excerpt: "In a 3-0 vote, the Federal Trade Commission approved a resolution that will let agency staff issue certain demands when investigating artificial intelligence-based services and products for potential market violations."
+    publishedDateTime: 2023-11-27T20:05:00Z
+    webUrl: "https://www.govexec.com/management/2023/11/ftc-votes-streamline-investigations-ai-products/392281/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 19
+  - title: "The Evolution of Best Communication: Unveiling the Power of AI Text-to-Speech"
+    excerpt: "Introduction In an era dominated by technological advancements, artificial intelligence (AI) continues to reshape the landscape of various industries, offering innovative solutions that were once deemed impossible."
+    publishedDateTime: 2023-11-27T14:41:00Z
+    webUrl: "https://techbullion.com/the-evolution-of-best-communication-unveiling-the-power-of-ai-text-to-speech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 16
 
 secured: "tsryY4bPQvIZVu8UaSL8DwTn1ws5baoWsp0+9K4Av8SsBr8K3F5pYeLT9ikl/FwAZCPWWKM5U/NBZzVsZ9xsIw7nI5+EOc1X0zQkyfN1dLa/TcQGXY0AGme9bf7eNH2+EC38RQ0VwRQ/lFoHvle874id7ew50qDVJUy5wwFNvCfeNusJCY9pfSo/n+HRcddKXCGL4w9eaNgZmYlFipQR7tQBCUOdeyLk9FEcbGvAlbdtcQb2Hy+WxVJY/3I5S/1OaFKeGhq9rT6LfhgVIsnsf+8EckPOrPhmlZT/gkIhxxZdWk/gHDsBEpYBWj8vIqRZqdnAHpqsOLopB8RlEJbeQKgB/t0eUuGjb2ZdoSxViYE/588l87EF9f7w7uo2i0CyTcmAzINmPNSoUVBhHBEMS35hrMz2YL2GSeNxWt20C0DQbG6PPneQgZ2h5KPh+CMi3duPB70px8kJ3Z2+RPk3xVHchDsVytFWR+JXp+npKnILvjrL9JctSTcjweh5yMiwLfpYSz0osQrQzAlsBMuAYA==;ObUVRg3EiPc8b9AIG6QD8Q=="
 ---

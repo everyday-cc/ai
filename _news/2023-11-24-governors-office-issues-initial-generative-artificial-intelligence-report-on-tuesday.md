@@ -72,29 +72,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Generative AI Takes on SIEM"
-    excerpt: "The modernized QRadar SIEM offering will become part of the QRadar Suite, originally launched in April 2023, which brings IBM's EDR, XDR, SOAR and SIEM offerings and a new log management tool onto a common platform designed to give SOC analysts a unified interface and controls."
-    publishedDateTime: 2023-11-22T20:00:00Z
-    webUrl: "https://www.darkreading.com/emerging-tech/generative-ai-takes-on-siem"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc53d6965d9f963bf/64789b9b6159dba6643b4668/robot_at_laptop-Dariusz_Banaszuk-alamy.jpg"
-        width: 646
-        height: 430
-        isCached: true
-  - title: "AI Startup Stability Has a New Tool For Creating Generative Videos"
-    excerpt: "Startup Stability is taking generative AI up a notch. While the technology has been used largely for photos and voice replications, Stability is making waves with a new tool for advanced AI-generated videos."
-    publishedDateTime: 2023-11-22T17:25:00Z
-    webUrl: "https://hypebeast.com/2023/11/ai-startup-stability-generative-video-tool"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 17
 
 secured: "bjzTPh1sbU+xpgol+qGWIM1Y2pPTTidE4YkWFn2+nc+ir9eRA7Qt+7Q5bz0baEDiVWbL1Jekc4TujI5iHf2DGyD9IBIMOs8ruAV0F0HlxFI2Sd8GH31LkVlKjvpHMRf8tlSD5uht/2y45/uL7VefeBp0/OxArFz7loLVH6sXJghrZeMUCDCwDrDxSyM+XSnTXiawgPuW6LWIXqFOUNfi91xwaOz+PikvdydGPguI5Dx4DFJ6RRalXW2SkBrGnTFuFwsuHWTfm8VcnfxK5FAUFKO+0Rk19DDudWO97afWu0/iQBDifef1Q+J80+F6fJy9hV2bwS8TTce15htNrnJ3S0ZjVKrIMi/0EZ/TxTuUhSCADdaw/uwOjrTANNLTDl/U38H6DlXDc3SDI6I3BMswfcLBMZPCjDeah9dBJkdhOXSKT5pMHXKOc6sRLNZrTqjQaSlTwVSeQe8s6qKCa+H4oDGXP56e/IILFFuNIcTpGqJ9A9kW3+L2Q5GmvdneByC6rbBrmrzr70BiVO7FiBiePg==;rG6roSu1lALIGgexL/qKlA=="
 ---

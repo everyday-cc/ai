@@ -2,6 +2,314 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-26-drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai.md",
+      "title": "Drive hyper-personalized customer experiences with Amazon Personalize and generative AI",
+      "excerpt": "Today, we are excited to announce three launches that will help you enhance personalized customer experiences using Amazon Personalize and generative AI. Whether you’re looking for a managed solution or build your own, you can use these new capabilities to power your journey. Amazon Personalize is a",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-26T19:41:05Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-ai-facial-recognition-tech-use-will-be-approved-by-government-within-weeks.md",
+      "title": "AI facial recognition tech use will be approved by Government 'within weeks'",
+      "excerpt": "The Government says it will enable the use of facial recognition technology 'within weeks'. It says this is facilitate the prosecution of offenders for riot and violent disorder, after the violence and looting in Dublin on Thursday night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681",
+      "originalUrl": "https://www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.irishmirror.ie/incoming/article31515103.ece/ALTERNATES/s1200/1_dublin-unrest.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681.amp",
+      "cdnAmpWebUrl": "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681.amp",
+      "publishedDateTime": "2023-11-26T17:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "buzz.ie",
+        "domain": "buzz.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-26-western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin.md",
+      "title": "Western monopoly in AI 'dangerous, and unacceptable', says Russia's Vladimir Putin",
+      "excerpt": "During his more than two decades in power, Putin has overseen a multi-pronged crackdown on the opposition and civil society groups, and promoted “traditional values” to counter purported Western influence — policies that have become even more oppressive after he sent troops into Ukraine in February 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/11/26/1600x900/artificial_intelligence_1698542010139_1700960383653.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
+      "publishedDateTime": "2023-11-26T12:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-26-want-a-job-in-ai-advice-from-the-founder-of-the-ladders.md",
+      "title": "Want A Job In AI? Advice From The Founder Of The Ladders",
+      "excerpt": "One of the fastest growing career fields is AI. To understand how to break into the field, I sought insight from the founder of The Ladders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/11/26/want-a-job-in-ai-advice-from-the-founder-of-the-ladders/",
+      "originalUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/11/26/want-a-job-in-ai-advice-from-the-founder-of-the-ladders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65470abbbdee2debeb036233/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/11/26/want-a-job-in-ai-advice-from-the-founder-of-the-ladders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2023/11/26/want-a-job-in-ai-advice-from-the-founder-of-the-ladders/amp/",
+      "publishedDateTime": "2023-11-26T08:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-26-six-predictions-show-how-ai-will-transform-the-future-of-work.md",
+      "title": "Six predictions show how AI will transform the future of work",
+      "excerpt": "But this will change with widespread use of AI in the workplace, as we start to see AI replace much of the mundane, repetitive work that we have long measured as productivity inputs. “In the next year, businesses will transform the way they measure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/six-predictions-show-how-ai-will-transform-the-future-of-work-cwdvz88j",
+      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/six-predictions-show-how-ai-will-transform-the-future-of-work-cwdvz88j",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NTdlNzBiZWItZmNlYi00/13/1464561575.jpeg?f=3%3A2",
+          "width": 759,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/six-predictions-show-how-ai-will-transform-the-future-of-work-cwdvz88j?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/six-predictions-show-how-ai-will-transform-the-future-of-work-cwdvz88j?amp=1",
+      "publishedDateTime": "2023-11-26T06:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-26-lg-unesco-partner-to-promote-ai-ethics.md",
+      "title": "LG, UNESCO partner to promote AI ethics",
+      "excerpt": "LG AI Research, LG Group's artificial intelligence think tank, said Sunday it has signed a letter of intent with UNESCO in Seoul to jointly foster knowledge and awareness of the ethics of AI. LG highlighted the agreement as the first of its kind,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20231126000092",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20231126000092",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F11%2F26%2F20231126000089_0.jpg",
+          "width": 630,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20231126000092",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20231126000092",
+      "publishedDateTime": "2023-11-26T05:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-26-for-first-time-researchers-use-artificial-intelligence-to-build-a-robot.md",
+      "title": "For first time, researchers use artificial intelligence to build a robot",
+      "excerpt": "A team of researchers at Northwestern University say they have developed the first artificial intelligence program that has built a robot. They say what the robot can do isn't the main point, but it's what this breakthrough could mean for the future of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/",
+      "originalUrl": "https://www.cbsnews.com/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/26/097fc25d-9740-482c-a7f7-585384471371/thumbnail/1200x630/1f6a4051781ebb7c07542a511e850d61/cbsn-fusion-for-first-time-researchers-use-artificial-intelligence-to-build-a-robot-thumbnail-2479090-640x360.jpg?v=5659e73acd91751548aa89950cf015b0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-26T02:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-11-26-pentagons-ai-initiatives-accelerate-hard-decisions-on-lethal-autonomous-weapons.md",
       "title": "Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons.",
       "excerpt": "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in",
@@ -10,7 +318,7 @@
       "originalUrl": "https://abcnews.go.com/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -96,7 +404,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -149,7 +457,7 @@
       "originalUrl": "https://www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -236,50 +544,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-25-microsoft-debuts-custom-chips-for-cloud-and-ai-azure-maia-ai-accelerator-and-azure-cobalt-cpu.md",
-      "title": "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU",
-      "excerpt": "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/",
-      "originalUrl": "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-25T11:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-11-25-the-future-of-ai-is-at-the-edge-cloudflare-leads-the-way.md",
       "title": "The Future Of AI Is At The Edge: Cloudflare Leads The Way",
       "excerpt": "Cloudflare is one of the first CDN and edge network providers to enhance its edge network with AI capabilities through GPU-powered Workers AI, vector database and an AI Gateway for AI deployment management. Partnering with tech giants like Meta and Microsoft, it is offering a wide model catalog and ONNX Runtime optimization.",
@@ -340,7 +604,7 @@
       "originalUrl": "https://www.ibm.com/blog/application-modernization-overview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -486,7 +750,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -591,7 +855,7 @@
       "originalUrl": "https://www.techspot.com/news/100955-nvidia-shares-fall-after-new-china-focused-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 354,
       "tags": null,
       "images": [
         {
@@ -643,7 +907,7 @@
       "originalUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -780,7 +1044,7 @@
       "originalUrl": "https://www.forbes.com/sites/simonconstable/2023/11/24/ai-wizard-sam-altman-shows-what-real-leadership-is-his-bosses-were-clueless/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -914,280 +1178,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-before-deep-learning-a-journey-into-the-pre-2000-era-of-neural-networks.md",
-      "title": "Before Deep Learning: A Journey into the Pre-2000 Era of Neural Networks",
-      "excerpt": "Introduction The roots of deep learning stretch far beyond the current buzz. Before the advent of deep learning, the realm of neural networks had already started to take shape, laying the foundation for the sophisticated models we have today.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/before-deep-learning-a-journey-into-the-pre-2000-era-of-neural-networks/",
-      "originalUrl": "https://techbullion.com/before-deep-learning-a-journey-into-the-pre-2000-era-of-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/11/Before-Deep-Learning-A-Journey-into-the-Pre-2000-Era-of-Neural-Networks-1.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-24T11:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence.md",
-      "title": "His AI'ness: Godfather of self-driving cars to restart his church to worship artificial intelligence",
-      "excerpt": "Anthony Levandowski, one of the most important figures in self-driving cars, who co-founded Google's self-driving venture, is restarting a church dedicated to AI. Called Way of the Future, the church",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/tech/his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence-13427512.html",
-      "originalUrl": "https://www.firstpost.com/tech/his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence-13427512.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2023/11/His-AIness-Godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/tech/his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence-13427512.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence-13427512.html/amp",
-      "publishedDateTime": "2023-11-24T11:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-how-ai-is-transforming-leasing-security-and-resident-services.md",
-      "title": "How AI Is Transforming Leasing, Security And Resident Services",
-      "excerpt": "Check out Benzinga's favorite private market real estate offerings and start collecting your share of the rental income. From leasing and security to enhanced resident services, artificial intelligence (AI) can help property managers improve their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/real-estate/23/11/35941423/how-ai-is-transforming-leasing-security-and-resident-services",
-      "originalUrl": "https://www.benzinga.com/real-estate/23/11/35941423/how-ai-is-transforming-leasing-security-and-resident-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Business-People-And-Humanoid-Ai-Robot-Si.jpeg?width=1200&height=800&fit=crop",
-          "width": 834,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35941423",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35941423",
-      "publishedDateTime": "2023-11-24T11:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-71-of-employers-may-be-left-behind-in-the-generative-ai-race.md",
-      "title": "71% Of Employers May Be Left Behind In The Generative AI Race",
-      "excerpt": "Skills Index report from BTG (Business Talent Group) unearthed some striking data about generative AI and its integration in today's workplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/",
-      "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655e33d6e2d96a58f8c668eb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/amp/",
-      "publishedDateTime": "2023-11-24T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-fox-sports-expands-google-cloud-partnership-generative-ai-to-automate-archived-sports-video-search.md",
-      "title": "FOX Sports expands Google Cloud partnership, generative AI to automate archived sports video search",
-      "excerpt": "The old way of searching through countless hours of archived sports footage is going out the window, as FOX Sports and Google Cloud take their partnership to the next level.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search",
-      "originalUrl": "https://www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/11/1200/675/Google-Cloud.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search.amp",
-      "publishedDateTime": "2023-11-24T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-how-nigerias-10mg-pharma-is-simplifying-access-to-medication-using-ai.md",
-      "title": "How Nigeria’s 10mg Pharma is simplifying access to medication using AI",
-      "excerpt": "Nigerian startup 10mg Pharma is using AI-driven code trees to simplify access to low-interest credits and low-cost medications for healthcare providers in Africa.",
-      "sourceUrl": null,
-      "webUrl": "https://disrupt-africa.com/2023/11/24/how-nigerias-10mg-pharma-is-simplifying-access-to-medication-using-ai/",
-      "originalUrl": "https://disrupt-africa.com/2023/11/24/how-nigerias-10mg-pharma-is-simplifying-access-to-medication-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://disrupt-africa.com/wp-content/uploads/2023/11/10mg-Pharma.jpg",
-          "width": 946,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://disrupt-africa.com/2023/11/24/how-nigerias-10mg-pharma-is-simplifying-access-to-medication-using-ai/",
-      "cdnAmpWebUrl": "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/11/24/how-nigerias-10mg-pharma-is-simplifying-access-to-medication-using-ai/",
-      "publishedDateTime": "2023-11-24T05:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "disrupt-africa",
-        "domain": "disrupt-africa.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

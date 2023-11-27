@@ -49,6 +49,15 @@ related:
         width: 480
         height: 299
         isCached: true
+  - title: "California Weighs Pros and Cons of AI in Government"
+    excerpt: "A new report analyzes how artificial technology could be used in stage government without risking data privacy, misinformation, equity or bias. Gov. Gavin Newsom called the report an important first step."
+    publishedDateTime: 2023-11-27T22:47:00Z
+    webUrl: "https://www.governing.com/security/california-weighs-pros-and-cons-of-ai-in-government"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 19
 
 secured: "sC0FWwcFzSHxss86HVWqisdnesNNVMf8URCaqamCbVnkkYyXynRX0XuypKmePA00O+bitm/r5nYNH1MdJ0R2UQe0tWtvvNJsMEsq37CBQRTzsIY0cZV7Zu/zXXm3BkUJF69Z7Ip4l0y+l+HvNb+G3xpsrVAORYziNHy6WbpVSbgkDNRtbDdVutdweFBwRUtkbgVt97rLs36U9NwcQaIbPjGjpfodp9XkKdZ7T/iLOFeTiEQ/hZzfTebm10zY7AcETREXAQzF34xhqDAMmsGrYi4YdfOIlHklxtv+lMfn6ERI5UmeVN0w22hRD7wSefadqJt4ObCdjpBtbqPOrJ0OFOuGqToWvoj7KHZoRMBpJV+/1ec22fGxI1xUDg0/iuNzuocxm3oA8Ui1RTLB9ldKqY40eFDO0aIv/TKHP4Kho7ByNeTP6CX8BD7XOM3cscwUmHVQFApsWbiJxPqi3ckSRpGyQK7NqOq+caYWlr2SvPTyRexCGY6y7cxp9OM6um6GBB16s+Pp8vsxn3zgFJ3WRQ==;N6bUNZBIldiBCInn7rVnww=="
 ---

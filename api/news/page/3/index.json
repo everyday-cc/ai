@@ -2,6 +2,280 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-24-before-deep-learning-a-journey-into-the-pre-2000-era-of-neural-networks.md",
+      "title": "Before Deep Learning: A Journey into the Pre-2000 Era of Neural Networks",
+      "excerpt": "Introduction The roots of deep learning stretch far beyond the current buzz. Before the advent of deep learning, the realm of neural networks had already started to take shape, laying the foundation for the sophisticated models we have today.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/before-deep-learning-a-journey-into-the-pre-2000-era-of-neural-networks/",
+      "originalUrl": "https://techbullion.com/before-deep-learning-a-journey-into-the-pre-2000-era-of-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/11/Before-Deep-Learning-A-Journey-into-the-Pre-2000-Era-of-Neural-Networks-1.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-24T11:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-24-his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence.md",
+      "title": "His AI'ness: Godfather of self-driving cars to restart his church to worship artificial intelligence",
+      "excerpt": "Anthony Levandowski, one of the most important figures in self-driving cars, who co-founded Google's self-driving venture, is restarting a church dedicated to AI. Called Way of the Future, the church",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/tech/his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence-13427512.html",
+      "originalUrl": "https://www.firstpost.com/tech/his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence-13427512.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/11/His-AIness-Godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/tech/his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence-13427512.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/his-ainess-godfather-of-self-driving-cars-to-restart-his-church-to-worship-artificial-intelligence-13427512.html/amp",
+      "publishedDateTime": "2023-11-24T11:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-24-71-of-employers-may-be-left-behind-in-the-generative-ai-race.md",
+      "title": "71% Of Employers May Be Left Behind In The Generative AI Race",
+      "excerpt": "Skills Index report from BTG (Business Talent Group) unearthed some striking data about generative AI and its integration in today's workplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/",
+      "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655e33d6e2d96a58f8c668eb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/amp/",
+      "publishedDateTime": "2023-11-24T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-24-fox-sports-expands-google-cloud-partnership-generative-ai-to-automate-archived-sports-video-search.md",
+      "title": "FOX Sports expands Google Cloud partnership, generative AI to automate archived sports video search",
+      "excerpt": "The old way of searching through countless hours of archived sports footage is going out the window, as FOX Sports and Google Cloud take their partnership to the next level.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search",
+      "originalUrl": "https://www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/11/1200/675/Google-Cloud.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search.amp",
+      "publishedDateTime": "2023-11-24T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-24-how-nigerias-10mg-pharma-is-simplifying-access-to-medication-using-ai.md",
+      "title": "How Nigeria’s 10mg Pharma is simplifying access to medication using AI",
+      "excerpt": "Nigerian startup 10mg Pharma is using AI-driven code trees to simplify access to low-interest credits and low-cost medications for healthcare providers in Africa.",
+      "sourceUrl": null,
+      "webUrl": "https://disrupt-africa.com/2023/11/24/how-nigerias-10mg-pharma-is-simplifying-access-to-medication-using-ai/",
+      "originalUrl": "https://disrupt-africa.com/2023/11/24/how-nigerias-10mg-pharma-is-simplifying-access-to-medication-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://disrupt-africa.com/wp-content/uploads/2023/11/10mg-Pharma.jpg",
+          "width": 946,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://disrupt-africa.com/2023/11/24/how-nigerias-10mg-pharma-is-simplifying-access-to-medication-using-ai/",
+      "cdnAmpWebUrl": "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/11/24/how-nigerias-10mg-pharma-is-simplifying-access-to-medication-using-ai/",
+      "publishedDateTime": "2023-11-24T05:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "disrupt-africa",
+        "domain": "disrupt-africa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-24-thousands-of-rtx-4090-gpus-are-being-rebuilt-for-ai-computing-in-china.md",
+      "title": "Thousands of RTX 4090 GPUs Are Being Rebuilt for AI Computing in China",
+      "excerpt": "In China, Nvidia's RTX 4090 is being repurposed in the thousands. The GPU components are taken out, and put in a new PCB and cooler design!",
+      "sourceUrl": null,
+      "webUrl": "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/",
+      "originalUrl": "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beebom.com/wp-content/uploads/2023/11/nvidia-geforce-rtx-4090.jpg",
+          "width": 1250,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/",
+      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/",
+      "publishedDateTime": "2023-11-24T05:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beebom",
+        "domain": "beebom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-how-to-apply-natural-language-processing-to-cybersecurity.md",
       "title": "How to apply natural language processing to cybersecurity",
       "excerpt": "Here’s the exciting part — natural language processing (NLP) is stepping onto the scene. This innovative technology enhances traditional cybersecurity methods, offering intelligent data analysis and threat identification. As digital interactions evolve ...",
@@ -54,6 +328,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-24-microsoft-brings-chatgpt-ai-to-windows-11s-command-line-and-heres-a-closer-look.md",
+      "title": "Microsoft brings ChatGPT AI to Windows 11’s command line, and here’s a closer look",
+      "excerpt": "ChatGPT-powered “AI chat” on Windows 11. ChatGPT integration is now available in Terminal (Canary), a new development channel to test experimental features ahead of a wider rollout. With ChatGPT AI Chat in Terminal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/",
+      "originalUrl": "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowslatest.com/wp-content/uploads/2023/09/Windows-Terminal-with-AI-on-Windows-11.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/",
+      "cdnAmpWebUrl": "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/",
+      "publishedDateTime": "2023-11-24T00:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Latest",
+        "domain": "windowslatest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-driverless-cars-immune-from-traffic-tickets-in-california-under-current-laws.md",
       "title": "Driverless cars immune from traffic tickets in California under current laws",
       "excerpt": "An NBC Bay Area investigation reveals autonomous vehicles in California cannot be cited for moving traffic violations since transportation laws require tickets to be issued to actual “drivers.”",
@@ -62,7 +379,7 @@
       "originalUrl": "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -141,59 +458,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-24-stability-ai-debuts-stable-video-diffusion-models-in-research-preview.md",
-      "title": "Stability AI debuts Stable Video Diffusion models in research preview",
-      "excerpt": "Stability AI has announced the release of Stable Video Diffusion to mark its entry into the much-sought video generation space. Available for research purposes only, Stable Video Diffusion (SVD) includes two state-of-the-art AI models – SVD and SVD-XT ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/stability-ai-debuts-stable-video-diffusion-models-in-research-preview/",
-      "originalUrl": "https://venturebeat.com/ai/stability-ai-debuts-stable-video-diffusion-models-in-research-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.29.08-Photo-of-a-person-of-Hispanic-descent-in-a-relaxed-pose-having-a-video-conference-with-an-advanced-looking-robot.-The-laptop-from-which-the-call-is-m-e1700766229577.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-23T19:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-24-businesses-tech-groups-warn-eu-against-over-regulating-ai-foundation-models.md",
       "title": "Businesses, tech groups warn EU against over-regulating AI foundation models",
       "excerpt": "Businesses and tech groups on Thursday warned the European Union against over-regulating artificial intelligence systems known as foundation models in upcoming AI rules as this could kill nascent start-ups or drive them out of the region.",
@@ -202,7 +466,7 @@
       "originalUrl": "https://www.reuters.com/technology/businesses-tech-groups-warn-eu-against-over-regulating-ai-foundation-models-2023-11-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -245,6 +509,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-24-googles-deepmind-ai-can-make-better-weather-forecasts-than-supercomputers.md",
+      "title": "Google's DeepMind AI can make better weather forecasts than supercomputers",
+      "excerpt": "DeepMind's new machine learning algorithm takes less than a minute to make its forecasts and can run on a desktop. But it won't replace traditional forecasts anytime soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.space.com/google-deepmind-ai-weather-forecasts-artificial-intelligence",
+      "originalUrl": "https://www.space.com/google-deepmind-ai-weather-forecasts-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3vmfhoLHduNWUsmYkCBMWW-1200-80.jpg",
+          "width": 970,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-23T17:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Space.com",
+        "domain": "space.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-formula-one-trials-ai-to-tackle-track-limits-breaches.md",
       "title": "Formula One trials AI to tackle track limits breaches",
       "excerpt": "The AI will sort out the genuine breaches ... violations at turn six was \"completely unsatisfactory\" and a solution needed to be found before the start of next season. Tim Malyon, the FIA's head of remote operations and deputy race director, said the ...",
@@ -253,7 +560,7 @@
       "originalUrl": "https://www.reuters.com/sports/motor-sports/formula-one-trials-ai-tackle-track-limits-breaches-2023-11-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -338,49 +645,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say.md",
-      "title": "Guardrails needed for police use of facial recognition software in Massachusetts, advocates say",
-      "excerpt": "Police would need a warrant to use facial recognition software while investigating serious crimes and state police would be tasked with centralizing all law enforcement searches under legislation supporters argue reduces bias and puts guardrails on the use ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/",
-      "originalUrl": "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2019/09/AP_19127788378584.jpg?w=1024&h=671",
-          "width": 1024,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/amp/",
-      "publishedDateTime": "2023-11-23T11:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -523,6 +787,40 @@
       ]
     },
     {
+      "path": "_news/2023-11-23-artificial-intelligence-are-ai-chips-different-from-traditional-processors.md",
+      "title": "Artificial Intelligence: Are AI chips different from traditional processors",
+      "excerpt": "AI chips executes numerous calculations parallelly, exhibiting remarkable speed and efficiency advantage over CPUs",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
+      "originalUrl": "https://www.business-standard.com/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.business-standard.com/amp/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
+      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
+      "publishedDateTime": "2023-11-23T04:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-will-ai-improve-healthcare-consumers-think-so-new-surveys-show.md",
       "title": "Will AI Improve Healthcare? Consumers Think So, New Surveys Show",
       "excerpt": "With AI dominating headlines, new surveys show that despite some caution, many consumers are optimistic about AI's potential to transform healthcare for the better.",
@@ -583,7 +881,7 @@
       "originalUrl": "https://www.cnbc.com/2023/11/22/how-meta-could-benefit-from-the-openai-shakeup.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -884,361 +1182,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-nvidias-geforce-gpus-are-selling-well-but-its-ai-gpu-sales-are-ridiculous.md",
-      "title": "Nvidia’s GeForce GPUs are selling well, but its AI GPU sales are ridiculous",
-      "excerpt": "Most Ars readers still probably know Nvidia best for its decades-old GeForce graphics cards for gaming PCs, but these days Nvidia's server GPU business makes GeForce look like a hobby project.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/nvidia-ai-gpu-800x407.jpeg",
-          "width": 800,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/amp/",
-      "publishedDateTime": "2023-11-22T19:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-winning-the-cloud-game-phoning-the-right-friend-to-answer-the-cloud-optimization-question.md",
-      "title": "Winning the cloud game: Phoning the right friend to answer the cloud optimization question",
-      "excerpt": "By embracing new technologies, organizations improve efficiency, enhance customer experience and remain competitive.\nThe post Winning the cloud game: Phoning the right friend to answer the cloud optimization question appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/winning-the-cloud-game-phoning-the-right-friend-to-answer-the-cloud-optimization-question/",
-      "originalUrl": "https://www.ibm.com/blog/winning-the-cloud-game-phoning-the-right-friend-to-answer-the-cloud-optimization-question/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/11/90aeeede-ffda-4f77-8bd18923788d72bd.blog-lead-space-40x21-1-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T19:24:33Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/",
-      "originalUrl": "https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
-      "publishedDateTime": "2023-11-22T19:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-why-ponyais-autonomous-driving-progress-is-bad-for-tesla-tsla-stock.md",
-      "title": "Why Pony.ai’s Autonomous Driving Progress Is Bad for Tesla (TSLA) Stock",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The future of autonomous driving (AD) is quickly taking shape. Pony.ai, one of",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/why-pony-ais-autonomous-driving-progress-is-bad-for-tesla-tsla-stock-1032843921",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/why-pony-ais-autonomous-driving-progress-is-bad-for-tesla-tsla-stock-1032843921",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T18:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-14-ways-ai-can-help-business-and-industry-boost-sustainability.md",
-      "title": "14 Ways AI Can Help Business And Industry Boost Sustainability",
-      "excerpt": "Business leaders are starting to think about ways AI can help them with a critical consideration for organizations of all stripes: reducing their carbon footprint.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655e31014bea042307fae41e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/amp/",
-      "publishedDateTime": "2023-11-22T17:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-adobe-reportedly-acquires-text-to-video-ai-platform-rephrase.md",
-      "title": "Adobe reportedly acquires text-to-video AI platform Rephrase",
-      "excerpt": "With the acquisition, the product capabilities and a majority of the Rephrase team will go to Adobe, building the company’s efforts for generative AI videos.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video-ai-platform-rephrase/",
-      "originalUrl": "https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video-ai-platform-rephrase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.37.16-Photo-of-a-person-of-Hispanic-descent-engrossed-in-a-video-chat-with-a-futuristic-robot-on-the-laptop.-The-laptop-creates-a-mild-illusion-of-echoing--e1700668881535.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T17:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-nvidia-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand.md",
-      "title": "Nvidia Q3 Earnings Explode On Surging Data Center AI And Gaming Demand",
-      "excerpt": "There’s no stopping Nvidia from this level of growth for the foreseeable future. The company continues to execute like a finely tuned machine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/",
-      "publishedDateTime": "2023-11-22T16:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

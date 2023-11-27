@@ -10,7 +10,7 @@
       "originalUrl": "https://techbullion.com/ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -54,7 +54,7 @@
       "originalUrl": "https://www.steelguru.com/steel/revolutionizing-steel-mill-operations-with-ai-vision",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -226,7 +226,7 @@
       "originalUrl": "https://www.reuters.com/sports/motor-sports/formula-one-trials-ai-tackle-track-limits-breaches-2023-11-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -267,49 +267,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say.md",
-      "title": "Guardrails needed for police use of facial recognition software in Massachusetts, advocates say",
-      "excerpt": "Police would need a warrant to use facial recognition software while investigating serious crimes and state police would be tasked with centralizing all law enforcement searches under legislation supporters argue reduces bias and puts guardrails on the use ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/",
-      "originalUrl": "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2019/09/AP_19127788378584.jpg?w=1024&h=671",
-          "width": 1024,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/amp/",
-      "publishedDateTime": "2023-11-23T11:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1328,6 +1285,59 @@
         "AI",
         "AI in Finance",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-07-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/6/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/11/6/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 271,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
+      "publishedDateTime": "2023-11-07T00:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

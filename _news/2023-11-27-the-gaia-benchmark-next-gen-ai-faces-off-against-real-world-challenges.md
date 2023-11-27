@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T09:43:00Z
 originalUrl: "https://venturebeat.com/ai/the-gaia-benchmark-next-gen-ai-faces-off-against-real-world-challenges/"
 webUrl: "https://venturebeat.com/ai/the-gaia-benchmark-next-gen-ai-faces-off-against-real-world-challenges/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

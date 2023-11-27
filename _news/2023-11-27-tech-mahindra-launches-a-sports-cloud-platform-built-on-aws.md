@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/tech-mahindra-
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/tech-mahindra-launches-a-sports-cloud-platform-built-on-aws-hvmlx4ym?amp=1"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Zawya
@@ -27,36 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "HDFC Securities launches mobile trading app HDFC SKY on AWS cloud"
-    excerpt: "With AWS, HDFC Securities is expected to reduce its annual IT infrastructure and management costs by up to 50 per cent as compared to using on-premises infrastructure."
-    publishedDateTime: 2023-11-27T14:57:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/hdfc-securities-launches-mobile-trading-app-hdfc-sky-on-aws-cloud-11817561.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/hdfc-securities-launches-mobile-trading-app-hdfc-sky-on-aws-cloud-11817561.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/hdfc-securities-launches-mobile-trading-app-hdfc-sky-on-aws-cloud-11817561.html/amp"
+  - title: "Tech Mahindra to build sports cloud platform on AWS"
+    excerpt: "The platform will build next-generation digital capabilities for sports organisations and deliver immersive sports experiences worldwide."
+    publishedDateTime: 2023-11-27T10:18:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/tech-mahindra-to-build-sports-cloud-platform-on-aws/articleshow/105533334.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/tech-mahindra-to-build-sports-cloud-platform-on-aws/amp_articleshow/105533334.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tech-mahindra-to-build-sports-cloud-platform-on-aws/amp_articleshow/105533334.cms"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/02/HDFC-Ltd6.jpg"
-        width: 1280
-        height: 719
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-52192,msid-105533330/oct-26-2.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "HDFC Securities Launches Mobile Trading App on AWS"
-    excerpt: "HDFC Securities, one of Indias leading investment service providers, has launched its new mobile trading app, HDFC SKY, on AWS. With AWS, HDFC Securities is expected to reduce its annual IT infrastructure and management costs by up to 50%."
-    publishedDateTime: 2023-11-27T14:46:00Z
-    webUrl: "https://www.goodreturns.in/news/hdfc-securities-launches-mobile-trading-app-on-aws-gen-1314615.html"
+  - title: "Tech Mahindra Launches AI, ML, Analytics and AR/VR -Powered Sports Tech Platform Built on AWS"
+    excerpt: "Tech Mahindra has collaborated with Amazon Web Services (AWS) to build a sports cloud platform. The offering focuses on building next-generation digit"
+    publishedDateTime: 2023-11-27T17:19:00Z
+    webUrl: "https://www.indianweb2.com/2023/11/tech-mahindra-launches-ai-ml-analytics.html"
     type: article
     provider:
-      name: Goodreturns
-      domain: goodreturns.in
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 40
+  - title: "Tech Mahindra, AWS join hands to build a sports cloud platform"
+    excerpt: "Tech Mahindra on Monday announced it has collaborated with Amazon Web Services (AWS) to build a sports cloud platform."
+    publishedDateTime: 2023-11-27T11:21:00Z
+    webUrl: "https://www.thehansindia.com/business/tech-mahindra-aws-join-hands-to-build-a-sports-cloud-platform-840732"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
     quality: 39
     images:
-      - url: "https://www.goodreturns.in/img/2023/11/hdfc-securities-launches-mobile-trading-app-on-aws-ft-20231127201501.jpg"
+      - url: "https://assets.thehansindia.com/h-upload/2023/11/27/1402713-tech.jpg"
         width: 1200
-        height: 675
+        height: 720
         isCached: true
+  - title: "HDFC Securities launches mobile trading app HDFC SKY on AWS cloud"
+    excerpt: "Amazon Web Services (AWS) on Monday said HDFC Securities, which is among the leading investment service providers in India, has launched its mobile trading app, HDFC SKY on the AWS cloud."
+    publishedDateTime: 2023-11-27T15:09:00Z
+    webUrl: "https://www.business-standard.com/companies/news/hdfc-securities-launches-mobile-trading-app-hdfc-sky-on-aws-cloud-123112700976_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 19
+  - title: "Tech Mahindra Launches A Sports Cloud Platform Built On AWS To Provide An Immersive Fan Experience Globally, Powered By AI, ML, Analytics, And AR/VR"
+    excerpt: "To provide personalized fan experiences while offering data-driven insights to sports enthusiasts and organizations worldwide. Dubai: Tech"
+    publishedDateTime: 2023-11-27T18:12:00Z
+    webUrl: "https://menafn.com/1107491189/Tech-Mahindra-Launches-A-Sports-Cloud-Platform-Built-On-AWS-To-Provide-An-Immersive-Fan-Experience-Globally-Powered-By-AI-ML-Analytics-And-ARVR"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 12
 
 secured: "Yw3vgbDNDBfaE7BExpa292nRQqXC2f5nzGBs7YTg8kbEOLTMnzV/cmoI35qtj0qZr3qA03nYwGy/42P/jMzZkM7oYz3oLA5ltR9wlxsk0qQnDZb8nNgAdQsTPaeGadvYxgmAhOljsO14mhGte49lsTYbK4ogBN0tEBRDGkv40s2js+V30htaZliWHdbj5ZanOssX0Y0bySdvuaZQr24bN7HNRtZ2yHK77tv3GJ8N8frz1Mjo3bxe63KQpAzBrx9oKqOmdBFKtsMfPmC4yAbrlN/r8/6UHa7xBVtxhhUPLTgkkELxPnXsk0eX635A6b7nwwK+LmjLaP0yivxagLaQB39CwXEbD5uYCXHdrwRaZmnfX+GmKydbWYpofk7BSnYahnWG2YAtQJG6ivDqh6bFk+28KzI+sli51r/nmHeUSeBbuNwEHf1BorikgUW8YLpHUEIeZs6NEX526OZIiuNxdmBE/dhjtt8qxw4dFZp7n/xCsXw2he25Hee1U4tJbIAFz3auYsBmdYQk0pXd+6ffuA==;98FPexhk8jHhUVHjmIPBFw=="
 ---

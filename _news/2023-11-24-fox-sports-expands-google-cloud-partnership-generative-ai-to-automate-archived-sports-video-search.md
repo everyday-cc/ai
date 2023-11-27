@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/sports/fox-sports-expands-google-cloud-partn
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search.amp"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Tech Leaders Collaborate On Generative AI For Accelerated Chip Design"
+    excerpt: "Collaborative tools can offer engineers guidance on everything from design tools to EDA workflows, and it can provide quick analysis of results."
+    publishedDateTime: 2023-11-27T19:23:00Z
+    webUrl: "https://www.forbes.com/sites/marcochiappetta/2023/11/27/tech-leaders-collaborate-on-generative-ai-for-accelerated-chip-design/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
 
 secured: "j5DtlPw9jxczN8pifcogaGDGzcWQOezPm+dtUceFsHi/ANZ/G6i9zwC7WceeuIQUIqDmqnWfmhuUkYuAMEbnh4k5yYYjq0R+X5v41e29bmnmu7nOY9ZBCTW3wsU0S0PhsWRuCxePHjZq3WbAkaMTM9l+pJ4xES+UMz2F689dr/hSvmXUbP25t/E2CCqZyqXGWi6U0MjqcWbvoHxEmjBUIgpCzDxDeO5ytkBD/2rCLTy/39j38joy6v1egRfncLRaYH8/cij/BgENaDl0ZBgCCiT+ZqYfzjQIl/J6adqSB4BHf9+wgV1+9Z7rvLcJgfbvBPZ1ZCgEXw5nMQjWtbpH3TBH2iuXbmBivUk0i9pdCJeFTPr/pRrxnvpi1eAuHHcAWIH/5Mxlmi3sS8u9zjpENZKcOwBYojgWEhx5A/v3tOPDfVdfCjJa3QjH5sCCg8eG5LwIQnGCKUlkUssxOOjL802U/cyJafF4MmdDXS9LKQXJZzECWE8dGf/QnwyhkEt4g2Bi2AlWw3V94YmQ3YuKcQ==;xLO8eqvzwn6LqF5RzKnWdA=="
 ---

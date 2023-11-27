@@ -39,6 +39,31 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "New framework for using AI in health care considers medical knowledge, practices, procedures, values"
+    excerpt: "Health care organizations are looking to artificial intelligence (AI) tools to improve patient care, but their translation into clinical settings has been inconsistent, in part because evaluating AI in health care remains challenging."
+    publishedDateTime: 2023-11-27T22:06:00Z
+    webUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-system.jpg"
+        width: 1920
+        height: 1372
+        isCached: true
+  - title: "Hyundai Unveils Robot-Operated EV Plant in Singapore"
+    excerpt: "After beating General Motors and Ford in US electric vehicle (EV) sales in Q3, Hyundai Motor Group plans to keep its momentum going in the market."
+    publishedDateTime: 2023-11-27T17:55:00Z
+    webUrl: "https://www.automation.com/en-us/articles/november-2023/hyundai-robot-operated-ev-plant-singapore"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 34
 
 secured: "6JWdF5NUDPXQ0z/Gr5L8MivRb0ECeLq10Pz5WxDgG2aMhoM3qS0sG95svfe+wS7VWeBr7QVGWRZFVYuMNztYvcqnsd6icSEvYkfbG+T3oiEzjJhAxKQq8ZLBqX2vsYs5esiK2ku9vC4RmxszaLJYnGtzF8DG/J6DSfohGn7DQSUjdBGdV32BaijcsZbukiYJNu/A+9Ejk9dc6OiSOqg6Kd9KH0v7A48SSIWR0Rgr/0+lowk4hh2e6yhu8fbK3SwX32X+TSHN4tIUuBaJ6i+ruwmJ7L+Mo91nJQQLTqhLNRkAey/WJamGqgUMSpPPH/FV28vlpgjd+XCUCxJ4bbEdzHSz4+Y77yOU7BONBloGtLtslaGDv95r9Sj05tcBO0aGgUrYIatvFR45g+BfH/XPxeKwnqZ8nR+FCNf/MioXkNXXzRXANbt19AqQ8E6R9jj1c3YKzYSjbaoN9hwEWk9iuBxaPjS5nyVqKTTQSqBaAx214VP0Vp/+rBzlqqwVb7JtcwmHJGXPbnXIurz9vxArzQ==;SGaWZG61d5xwMt5fNHftmA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/stability-ai-debuts-stable-video-diffus
 webUrl: "https://venturebeat.com/ai/stability-ai-debuts-stable-video-diffusion-models-in-research-preview/"
 type: article
 quality: 71
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,6 +28,33 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "New “Stable Video Diffusion” AI model can animate any still image"
+    excerpt: "On Tuesday, Stability AI released Stable Video Diffusion, a new free AI research tool that can turn any still image into a short video—with mixed results. It's an open-weights preview of two AI models that use a technique called image-to-video, and it can run locally on a machine with an Nvidia GPU."
+    publishedDateTime: 2023-11-27T20:27:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/11/svd_hero_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Stability AI releases Stable Video Diffusion, which turns pictures into short videos"
+    excerpt: "On Tuesday, Stability AI released Stable Video Diffusion, a new free AI research tool that can turn any still image into a short video—with mixed results. It's an open-weights preview of two AI models that use a technique called image-to-video, and it can run locally on a machine with an Nvidia GPU."
+    publishedDateTime: 2023-11-27T20:27:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 42
 
 secured: "/EVb2kYBRR9YifKRxSFJC9+7YfR3GSZh2qnWa+lI4jATzs9TLPzVeK+cSQpHY5pyUdR7a9HhHW6Hyv8wsQLMof6ZQnalk7iWWSp0e7NC1E6ze8zURT7S1EJuCYLFWrOGAzUO2pW3nm8GmTwUysma1jLElcRiQ1Y8tlkRw5S9XuZvqx4DHrMpAfm3YqkGhRIxHXXdj1wi/8VW/ocfHQbREraNTI9pZKu6aX/1RfDrNSDLzjBiv59YCQAvabKgklbeYMhszxtdd7py5RO8pKPKkzcAl8DI8rpsiWt9xxoirUwyReRvKlxpbrbMNZmpQF32QUxCB7dRTZ1RSQnZRZxOPedUw5Nh3sq4E+r8N6ZZwdM=;IIDMEFxfWW3ZiLpvaFN6mA=="
 ---

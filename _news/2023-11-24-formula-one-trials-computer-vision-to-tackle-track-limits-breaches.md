@@ -33,6 +33,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Using AI to track icebergs"
+    excerpt: "Researchers are using a new AI tool to detect icebergs in the Southern Ocean. This is the first step in being able to track the complete life cycle of most icebergs across Antarctica from satellite data."
+    publishedDateTime: 2023-11-24T18:33:00Z
+    webUrl: "https://phys.org/news/2023-11-ai-track-icebergs.html"
+    ampWebUrl: "https://phys.org/news/2023-11-ai-track-icebergs.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-ai-track-icebergs.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/using-ai-to-track-iceb.jpg"
+        width: 1280
+        height: 1588
+        isCached: true
 
 secured: "iPP9oO0HDJ2vq+svUVRCmrC83vel8tQxcCg5BHn/Ij8KPiL7gPFCVh+Bjn047KEzYVeKAyxEUIJY6Wuyv5IXk8cGDvCaZdhBA8B76CzOa+AMIz6b73qwZcSNnlThCHWPtZs1uUNKk8SD6WYliH3HGBIbUw8rdoYkqXJ5SWpukH9F4RD17sB+ZnTW8Tmjf5YO9XZGDk8s1s4hvnfIOg1ybutvQWukJPLs4NVwWzFhcgI00wPZ5j8ouHMnvphaSKkNghqwm8Hfmi/i6L+CDSrsPGdSLTjvgVMUSe4HgyCpQCn+yZoT4wD0R+KccKmElXVEal3saAkskoRNmi3CRKIBIHjG/TF6NOwy878ESywy9sDSx9RH4uJnLtoAI3xLOcJWBkqNDTPE/tGJJ+c6/ShuNM9IxwKpodJFDBCQiIKAKdWzPg6q85pFcwLGGAf42ZuwVaetrqGrnNG7Zi407P+V4xFDCrigVv1G7/Yh32vWnOHLI50cXwsRAZDb4M22wdTVCD4y4e7pJPpK8pgzLOy40g==;IoTDxiNRr261DZib1fZbDQ=="
 ---

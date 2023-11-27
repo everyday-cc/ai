@@ -2,6 +2,207 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-10-11-energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge.md",
+      "title": "Energy Dept. funded JetCool nets $17M to disrupt chip cooling as AI workloads surge",
+      "excerpt": "JetCool's technology is enabling 30% faster processing while reducing energy consumption by 50% and water usage by 90% over air cooling.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/ideogram-6-e1697035989840.jpeg?w=1200&strip=all",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T15:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-ai-industry-set-to-use-as-much-energy-as-countries-like-sweden-or-the-netherlands-study-finds.md",
+      "title": "AI industry set to use as much energy as countries like Sweden or the Netherlands, study finds",
+      "excerpt": "AI comes with a huge carbon footprint and its development could see the industry's energy consumption match levels of an entire country by 2027, a study has found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10",
+      "originalUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/652693676561dd877e775fdd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp",
+      "publishedDateTime": "2023-10-11T13:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-amd-to-acquire-nodai-to-boost-open-source-ai-software-capabilities.md",
+      "title": "AMD to acquire Nod.ai to boost open source AI software capabilities",
+      "excerpt": "“The acquisition of Nod.ai is expected to significantly enhance our ability to provide AI customers with open software that allows them to easily deploy highly performant AI models tuned for AMD hardware,” Vamsi Boppana, senior vice president of Artificial Intelligence Group at AMD, said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.html",
+      "originalUrl": "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/01/amd-ces-stage_1-2-100936569-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 1004,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html",
+      "publishedDateTime": "2023-10-11T11:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential.md",
+      "title": "Bank Of America Identifies 6 Global AI Stocks As 'Hidden Gems' With Great Potential",
+      "excerpt": "Bank of America has highlighted five global stocks poised to profit as the application of artificial intelligence (AI) continues to burgeon. The bank projects significant growth potential for “end-device AI,” a deviation from the current server-based systems.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/ai_shutter_0.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T07:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-china-may-have-access-to-powerful-ai-chips-because-of-partnership-with-saudi-arabia-claims-report.md",
       "title": "China may have access to powerful AI chips because of partnership with Saudi Arabia, claims report",
       "excerpt": "China may be skirting US-imposed tech sanctions through its partnership with Saudi Arabia. China has partnered up with Saudi Arabia to help them create a localised Artificial Intelligence and Machine",

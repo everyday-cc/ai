@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T17:54:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/globant-introduces-converge-ai-limitless-disruption-its-annual-tech-trends-event-providing-groundbreaking-insights-for-business-reinvention-1032852200"
 webUrl: "https://markets.businessinsider.com/news/stocks/globant-introduces-converge-ai-limitless-disruption-its-annual-tech-trends-event-providing-groundbreaking-insights-for-business-reinvention-1032852200"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Business Insider

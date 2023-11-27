@@ -124,6 +124,22 @@ related:
         width: 650
         height: 412
         isCached: true
+  - title: "Seeing 3D images through the eyes of AI"
+    excerpt: "Image recognition technology has come a long way since 2012 when a group of computer scientists at the University of Toronto created a convolutional neural network (CNN)—dubbed \"AlexNet\" after its creator Alex Krizhevsky—that correctly identified images much better than others."
+    publishedDateTime: 2023-11-27T21:46:00Z
+    webUrl: "https://techxplore.com/news/2023-11-3d-images-eyes-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2023-11-3d-images-eyes-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-3d-images-eyes-ai.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/seeing-3d-images-throu-1.jpg"
+        width: 1280
+        height: 843
+        isCached: true
   - title: "Numerous Law Firms Flock Under FirmPilot AI’s Banner Seeking its Sophisticated AI Marketing Solutions"
     excerpt: "FirmPilot AI is a premier American AI law firm marketing platform capable of thoroughly and rapidly analyzing popular trends, competitor"
     publishedDateTime: 2023-11-25T17:03:00Z
@@ -151,20 +167,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Worth $3.7 billion | MarketsandMarkets"
-    excerpt: "Mayo Clinic (US) and GE HealthCare (US) collaborated on research and product development programs to better equip clinicians and help diagnose and treat medical conditions.\"The application of"
-    publishedDateTime: 2023-11-22T22:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35926972/artificial-intelligence-ai-in-medical-diagnostics-market-worth-3-7-billion-marketsandmarkets"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "The Future of AI and Outdoor Maintenance Technology"
     excerpt: "An expert in autonomous mowing discusses why robotic mowing can improve efficiencies, reduce dependency on human labor and eliminate waste."
     publishedDateTime: 2023-11-24T08:42:00Z
@@ -193,6 +195,15 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "The rise of AI is fueling a seamless technology evolution called ambient computing. Here's what that could mean for us."
+    excerpt: "The rapid rise of AI is fueling a seamless technology evolution called ambient computing. It has the ability to act as our digital sixth sense."
+    publishedDateTime: 2023-11-27T18:13:00Z
+    webUrl: "https://www.businessinsider.com/sc/how-arm-is-taking-leading-role-rise-of-ambient-computing"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
 
 secured: "g7lVS5OkZc9KiiNX/ln8Y0403hoVCmv0vkDDwZp6r2AIiY99aXiKiMn2Ugh14q6PyeypT/eEf/EBhaeCa8xEldkdXPBepjr3//JfMMUmWBymOxxUnewEzx8RqMxXAN6aFLwaQbJdf+guY70JlqKfS/ClVSglgYGC7Q5v9AX2dxy7zaQBQa2Lw4OolegOPb78w9ZoFAjOfnmDhJTHuamJFFFX6KrRrdq28LhUlgciwWw8aDX3W/5SLc8PkIXXTs8UI/iWujAA8ZlYWrd3X1DxHB7TJEu4z6dmlr4FSKltGry4I1A1WTaymrOyIw/LVM0pk+HnuplRWLxOQE1Sh5MDlRLC+P+kThBCzUxWbxERg0666iKIESWldwcBgZ5klEcRwC7J3vs+wl/Nx0dY/w3yuMIl0IRLOwscOEXuoe39UZL+4atHgMMkS5RJRxj/aTz5vRm8hOBlWxbkna79dmfKIPWGjGXrPNHOhahSBg8ejGxRVkytgphNECm7UohQmObesVANG6B/HwjV0H8kHwYwhw==;OPmrVDYA9yMmGroeI+lDOw=="
 ---

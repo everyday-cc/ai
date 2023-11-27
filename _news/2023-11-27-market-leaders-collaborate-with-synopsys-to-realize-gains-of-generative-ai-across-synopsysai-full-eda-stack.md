@@ -35,6 +35,15 @@ related:
         width: 564
         height: 327
         isCached: true
+  - title: "Revolutionizing AI Work With New Hardware Structures"
+    excerpt: "Basically speaking, the processes are done in memory, rather than by sending the relevant data through a processor. The hardware setup involves the use of machines called analog to digital converters, which is pretty much what it sounds like."
+    publishedDateTime: 2023-11-23T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/11/23/revolutionizing-ai-work-with-new-hardware-structures/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Saving corals with artificial intelligence"
     excerpt: "Australian Taryn Foster has spent her whole life exploring the coral reefs in Western Australia. As a result, she has witnessed the damage caused by climate change. With her company Coral Maker, she now wants to take up the fight for corals - with artificial intelligence (AI) and robotics."
     publishedDateTime: 2023-11-23T06:20:00Z
@@ -49,6 +58,24 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Schneider Electric utilises Generative AI to revolutionise operations"
+    excerpt: "Schneider Electric, an expert in the digital transformation of energy management and automation, is leveraging Generative Artificial Intelligence (GenAI) by incorporating Microsoft Azure OpenAI to tra"
+    publishedDateTime: 2023-11-27T16:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35964540/schneider-electric-utilises-generative-ai-to-revolutionise-operations"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
+  - title: "Kyndryl Signs Multi-Year Strategic Collaboration Agreement with AWS to Accelerate Customer Adoption of Generative AI Solutions"
+    excerpt: "NYSE:KD) Kyndryl Signs Multi-Year Strategic Collaboration Agreement with AWS to Accelerate Customer Adoption of Generative AI Solutions"
+    publishedDateTime: 2023-11-27T22:40:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/11/27/kyndryl-signs-multi-year-strategic-collaboration-agreement-with-aws-to"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 6
 
 secured: "WFYoZw3sJ96wCEzh16eOa0GbHgNJ/5s6K33vZh+iEV+1u8REqHnXzonzP9aU17NbNmYBLAzKcFXdtPU02QzfBDwDrLR6oIKbUze/Oya9BXhsUGsoCv4t3bR9sDEytk16Qlp1BFSuRQzGdvHvjkJ/C1aUqpcoE1DpOM+5yswbJVxOGzAQyAisuch64tP0jFFJC/2EQzpRo4avBi9zWkk6jmVU4XpipKf3SoBDOol5c+2iWhXipxIrY9tBIpVz8AQD+oW2muPxsMthQVutm5AoRkU8wveSIxE7iwjiMxpkPfZ2SVtOTeFRV2VSFVQKBp0vZtsrKJ4SnfYKw7SyOy+sXbQ/cv6yha+tMOypzKKaA2qfLV9iPb7Y5Xgto31x20AUVh6kmyZOeBi8/toBDWf7KgRvLMTcjwoTD+9Sy4VBpPaFQlE3I2na6L4MrrBbr7V9hSqIkUnSvOoX3b5Oh3nGET4E9hdcpYjSqIsQYIZP0PJNY9FtSgPbA8P91HxapPtf2qOC6tr++SSe4xg5f8KkgQ==;fMf+yPH5E3mGZthfwrEA2g=="
 ---

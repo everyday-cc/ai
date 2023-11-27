@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police
 cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/amp/"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Boston Herald
@@ -25,22 +25,6 @@ images:
     width: 1024
     height: 671
     isCached: true
-
-related:
-  - title: "Massachusetts lawmakers propose restrictions on facial recognition technology"
-    excerpt: "The bill would require police to get a warrant to use face biometrics to identify a suspect and inform defendants they were identified through the software."
-    publishedDateTime: 2023-11-22T23:01:00Z
-    webUrl: "https://www.biometricupdate.com/202311/massachusetts-lawmakers-propose-restrictions-on-facial-recognition-technology"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg"
-        width: 2048
-        height: 792
-        isCached: true
 
 secured: "wOebjl0wY0Bm4UQABJOQneyp7KzyK1PmLDkaspb15gwX6y7ik0CQn2prOdS6Qko0Wm20bNWxnMaJPnkOKsQ2O+ngJliD87Y0hBRIaKaXxhxBcKfjvls6Al94+5EdT6PFjnxKadvcOWYP4iFCJSdoHabWSAtC4l0W71pnFvl9GK+z/ojiyvNj1tuQ8gfvk026/7/xkAldYay0vSr5v8XtsRKowyzUJT9sEbBuSMuhahglgAn/PK1IQ/Tugt/GsGAZKYH6bZPt0S2GgXxXTUwwOJvFJLW/xODCGYqtat+d0col7Of8o8mBkvQtPSaG6D1bvJMFfTOEyH6yUci4HWFM7oiDHE9M3TvBNX+VpmFk2qNK9bxdQbcF1CYc99Wg+09aK3hY1uwLNf5emZAW+toj3WbwQFfBWheSBt4vcgqEO3FaZPia9v/qWWc6xqbsUfWdQbnjUPU0c2cO4Vb/KS7Yq0urdlekdi/N/a4JYRAljsAhHfI8YVwlBcNDVt/X9HeZjdgMTi6kb3KI3HZsearuGA==;kVr9qZSXC95xya4rRb3gLA=="
 ---

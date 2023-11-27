@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/23/11/27/new-multi-national-ai-sec
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "4 key takeaways from new global AI security guidelines"
+    excerpt: "AI security guidelines developed by the United States' Cybersecurity ... SiliconAngle reports that Israel-based large language model security startup Lasso Security has landed a $6 million investment as part of a seed funding round, which will be allocated ..."
+    publishedDateTime: 2023-11-27T00:01:00Z
+    webUrl: "https://www.scmagazine.com/news/4-key-takeaways-from-new-global-ai-security-guidelines"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 54
+    images:
+      - url: "https://files.scmagazine.com/wp-content/uploads/2023/11/1127_artificial_intelligence.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Global Effort to Safeguard Artificial Intelligence with New Security Guidelines"
     excerpt: "In a significant step towards ensuring the safety of artificial intelligence (AI) technologies, a group of 18 countries recently came together to establish guidelines to protect AI models from security breaches."
     publishedDateTime: 2023-11-27T08:54:00Z
@@ -40,6 +54,20 @@ related:
       - url: "https://f1.econotimes.com/2023/11/sna0u7ztkj_th_1024x0.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Cross-government cybersecurity best practices announced for safer AI development"
+    excerpt: "The guidelines are broken down into four key areas within the AI system development lifecycle: secure design, secure development, secure deployment, and secure operation and maintenance. These cover the waterfront, including threat modeling, supply chain security, protecting AI and model infrastructure, and updating AI models."
+    publishedDateTime: 2023-11-27T20:15:00Z
+    webUrl: "https://siliconangle.com/2023/11/27/cross-government-cybersecurity-best-practices-announced-safer-ai-development/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/a-2729794_1280.png"
+        width: 1280
+        height: 1092
         isCached: true
 
 secured: "5QMVt/DadPX+cYHvVn9K2kHdFjJybuYUx5s03qLu6UspBtNcfCAG/n7fFzhqIF1L9a5hpq+leKl7r+RXU2B+Vg/y1W8RtWiptq5AVQZil3dSD4VQj+QtuzrD4vEbTG/OQznmDPkZ+g6JYzDpQnjFl75ZeXLG/4hod1uE4qFkGCkxZGcK3SraAaOHMrcRkddOr4bQiIiZ8XJLM74+6LUS6E2aiQ1d1rpKFmRt331Elhd9R1+tdRC62/WtbynRmMGmdTFk0V5YqS/3m00tWjjwNMOnA74hgaHU7MUBIGgTwsgm4aDSKn+AltD1nSiG0xJQeGgYzQLJ7zMiPt73G+TVczNpq/I11jWtBtosjIbvuGo=;OfJC5kGQJUCQ8XHS/FCHZg=="

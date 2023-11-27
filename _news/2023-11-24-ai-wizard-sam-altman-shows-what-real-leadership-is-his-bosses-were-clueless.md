@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/simonconstable/2023/11/24/ai-wizard-sam
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonconstable/2023/11/24/ai-wizard-sam-altman-shows-what-real-leadership-is-his-bosses-were-clueless/amp/"
 type: article
 quality: 84
-heat: 224
+heat: 204
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI CEO Sam Altman was seeking funds for a new AI chip company before being fired"
-    excerpt: "OpenAI's management drama is becoming increasingly intriguing and tumultuous. The company recently terminated Sam Altman, who served as a board member before his appointment as CEO."
-    publishedDateTime: 2023-11-22T19:21:00Z
-    webUrl: "https://www.techspot.com/news/100931-openai-ceo-sam-altman-seeking-funds-new-ai.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 77
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-22-image-12.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Sam Altman's ouster at OpenAI precipitated by letter to board about AI breakthrough, sources tell Reuters"
     excerpt: "The previously unreported letter and AI algorithm was a catalyst that caused the board to ... progress on Q*, which some internally believe could be a breakthrough in the startup's search for superintelligence, also known as artificial general intelligence ..."
     publishedDateTime: 2023-11-22T23:09:00Z
@@ -205,20 +191,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/d4876b120477fefa6ed3e124024779fef07ef007/0_179_5392_3235/master/5392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=559d5e62748369e30e0945579cfc36ec"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Exclusive-Sam Altman's ouster at OpenAI was precipitated by letter to board about AI breakthrough -sources"
-    excerpt: "Ahead of OpenAI CEO Sam Altman’s four days in exile, several staff researchers sent the board of directors a letter warning of a powerful artificial intelligence discovery that they said could threaten humanity,"
-    publishedDateTime: 2023-11-22T22:44:00Z
-    webUrl: "https://www.aol.com/exclusive-sam-altmans-ouster-openai-224405531.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/aa80f66a4ef0373baf1603f910b5e11e"
-        width: 800
-        height: 537
         isCached: true
   - title: "Live news: News updates from November 22: Sam Altman to return as Open AI CEO, Far-right leader set to come first in Dutch elections"
     excerpt: "Keep abreast of significant corporate, financial and political developments around the world. Stay informed and spot emerging risks and opportunities with independent global reporting, expert commentary and analysis you can trust."

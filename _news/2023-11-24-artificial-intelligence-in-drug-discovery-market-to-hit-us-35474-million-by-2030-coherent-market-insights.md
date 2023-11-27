@@ -26,22 +26,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "Artificial Intelligence (AI) in Genomics Market to Surpass US$ 19.72 Billion by 2030 - Coherent Market Insights"
-    excerpt: "Key Trends and Analysis of the Global Artificial Intelligence (AI) in Genomics Market:"
-    publishedDateTime: 2023-11-22T20:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/22/9922628.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/902389/Coherent_Market_Insights_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
 secured: "c9iyvRGCIyPMQctaYME0In6NqFo4+S3PVUIofJ2RoSeVUGf0OpufOdBttDXbebXGKyhC8UHweEu0LhbocNRZP+pO90svC6NfDX7H8tYrc6/wPWHxymDY9bwCwbPnur/oXarRmjTY/m+aE5WrepsUs5uF4DjuHky82KeFo/YYJh9EhPD0xdelrPMGTdCXi5dwsM9d8oUPcvPZergNN0JrFgEcJsd2qtLUl/aoKOwd7dvFTEPpqC1k3tzX6AAgmb5RLrMy29YUSa8tyOTK6q8XmJ7NqadIvs487ND/oG91vLWeByH09Dkld9tXqoYF2YOvHLQjlqP2bkX6XRkJLTInY2mElpO39N/WYaJpFBuCq1Q=;LkosLw8LfpDbLCWnIh8KIA=="
 ---
 

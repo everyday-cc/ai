@@ -7,8 +7,8 @@ originalUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/
 webUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/"
 type: article
 quality: 74
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: InfoQ
@@ -26,6 +26,66 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft brings ChatGPT AI to Windows 11’s command line, and here’s a closer look"
+    excerpt: "ChatGPT-powered “AI chat” on Windows 11. ChatGPT integration is now available in Terminal (Canary), a new development channel to test experimental features ahead of a wider rollout. With ChatGPT AI Chat in Terminal,"
+    publishedDateTime: 2023-11-24T00:20:00Z
+    webUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/"
+    ampWebUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
+    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
+    type: article
+    provider:
+      name: Windows Latest
+      domain: windowslatest.com
+    quality: 83
+    images:
+      - url: "https://www.windowslatest.com/wp-content/uploads/2023/09/Windows-Terminal-with-AI-on-Windows-11.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "How to Translate Languages with ChatGPT: Bridging Communication Gaps with AI"
+    excerpt: "ChatGPT signifies the dawn of a transformative phase in the realm of AI-powered language translation. Its exceptional proficiency in grasping the nuances of context and generating natural, fluent language across a diverse range of linguistic landscapes ..."
+    publishedDateTime: 2023-11-23T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-translate-languages-with-chatgpt-bridging-communication-gaps-with-ai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 68
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/Translate-Languages-ChatGPT.jpg"
+        width: 1280
+        height: 731
+        isCached: true
+  - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
+    excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
+    publishedDateTime: 2023-11-25T10:38:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 68
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Microsoft Adds ChatGPT AI To Windows 11's Command Line, But There's A Catch"
+    excerpt: "ChatGPT's AI capabilities in the Windows Terminal can come in handy for explaining errors, generating commands and providing recommendations."
+    publishedDateTime: 2023-11-27T07:43:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-adds-chatgpt-ai-windows-11s-command-line-theres-catch-1721824"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 67
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1717654/chatgpt.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Microsoft’s AI-powered Bing is coming for Google’s Bard-infused … – Vox.com"
     excerpt: "Google bookended Microsoft’s big AI search announcement with underwhelming AI news of its own.Microsoft has officially taken the lead in the race"
     publishedDateTime: 2023-11-27T15:22:00Z
@@ -40,29 +100,57 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Eviden and Microsoft Collaborate to Help Customers Take Advantage of the Microsoft Cloud and Generative AI"
-    excerpt: "Eviden, the Atos Group business leading in digital, cloud, big data, and security, is collaborating with Microsoft to help"
-    publishedDateTime: 2023-11-22T19:30:00Z
-    webUrl: "https://www.datanami.com/this-just-in/eviden-and-microsoft-collaborate-to-help-customers-take-advantage-of-the-microsoft-cloud-and-generative-ai/"
+  - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4 – Reuters"
+    excerpt: "The startup OpenAI on Tuesday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage"
+    publishedDateTime: 2023-11-26T20:33:00Z
+    webUrl: "https://www.inferse.com/806227/microsoft-backed-openai-starts-release-of-powerful-ai-known-as-gpt-4-reuters/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 36
+      name: Inferse
+      domain: inferse.com
+    quality: 50
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/11/eviden-microsoft-300x300.png"
-        width: 300
-        height: 300
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14044.png"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Good AI, bad AI: Decoding responsible artificial intelligence"
-    excerpt: "Artificial intelligence (AI) is so hot right now. ChatGPT, DALL-E, and other AI-driven platforms are providing us with completely new ways of working. Generative AI is writing everything from cover letters to campaign strategies and creating impressive images from scratch."
-    publishedDateTime: 2023-11-24T19:17:00Z
-    webUrl: "https://techxplore.com/news/2023-11-good-ai-bad-decoding-responsible.html"
+  - title: "Flywheel and Microsoft collaborate to unlock powerful data insights in medical imaging"
+    excerpt: "Healthcare breakthroughs have long-standing barriers when it comes to unlocking the powerful insights trapped in medical imaging data."
+    publishedDateTime: 2023-11-23T16:58:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2023/11/23/flywheel-and-microsoft-collaborate-to-unlock-powerful-data"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 34
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 31
+    images:
+      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/publications/pharmaceutical-science/outsourcing-pharma.com/article/2023/11/23/flywheel-and-microsoft-collaborate-to-unlock-powerful-data/16962507-2-eng-GB/Flywheel-and-Microsoft-collaborate-to-unlock-powerful-data.jpg"
+        width: 725
+        height: 510
+        isCached: true
+  - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
+    excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"
+    publishedDateTime: 2023-11-24T20:22:00Z
+    webUrl: "https://www.inferse.com/804736/elon-musk-unveils-new-artificial-intelligence-bot-to-rival-chatgpt-time/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 16
+  - title: "ChatGPT gained 1 million users in under a week. Here’s why the AI chatbot is primed to disrupt search as we know it – Fortune"
+    excerpt: "We are all used to entering search queries online and getting relevant links in response. But what if you could get an instant answer from a robot? And what"
+    publishedDateTime: 2023-11-24T08:11:00Z
+    webUrl: "https://www.inferse.com/804258/chatgpt-gained-1-million-users-in-under-a-week-heres-why-the-ai-chatbot-is-primed-to-disrupt-search-as-we-know-it-fortune/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 12
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13093.png"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "iV2xyLpZvbyaYsuzDuFNJcgaaSlVkJl+ShUFFHQ3O2zgCN+qV6TesKfnA5WJrou6Qn/pPf9xor0GoBFl3le1iToIUkRXG8LkfCk88U+L/v2KMqr4Pu8nIpkl5qPT0MIp+y6112DvNW8uWj8Gl2hcJ5OzFo6sTFphk2HLjfL2uTXZZMixbd016R5n0AxlnYtyp5eRls8T4Qb93yYrrOgpIlUmhxBc4NHtJ2JiKOVNXTZNnobrSsp34XcTpbyJcUomlyjbMyGJjojLW8obahmAcseT/Nrg2xbtrijnXS/065OiYsPjNMvqjyU1dsNItwYfFymHBsv8LEUQLm2Fc2pmTeO8uJce0BpSIHUaG0xSt2Kes4kizb5UU+OxhK4DQWmlFLDVef1ggNn3BtXn7VzcdQa8Ooi37jWTseeEZ4Ie0NmCyWV5vQd99HO272mBnxvA+XDmoXh2BGXJaBYYZttmb1Vw9J62xH+89qN9+RSixTfOADObyJwL68JDbH2k/4iejcH7yU0Kqrkikf3JqGhYCQ==;Gl7klvqQxVGJPJrLI8nlCw=="
 ---

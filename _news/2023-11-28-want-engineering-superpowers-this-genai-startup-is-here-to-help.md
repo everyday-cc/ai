@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T16:45:00Z
 originalUrl: "https://thenextweb.com/news/engineering-superpowers-genai-startup"
 webUrl: "https://thenextweb.com/news/engineering-superpowers-genai-startup"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: The Next Web

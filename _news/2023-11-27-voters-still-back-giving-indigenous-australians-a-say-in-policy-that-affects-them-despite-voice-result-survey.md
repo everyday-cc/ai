@@ -90,6 +90,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 12
+  - title: "Where Australians stand on Indigenous issues after the Voice referendum"
+    excerpt: "A major survey on voters' attitudes after the Voice to Parliament referendum is being released, and the results may seem contradictory."
+    publishedDateTime: 2023-11-27T11:01:00Z
+    webUrl: "https://www.sbs.com.au/news/article/what-voters-are-saying-after-the-voice/ahitt3n0d"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 4
 
 secured: "V1OP4umKK6Ay6EAbT/5mALkrTG0ApgGLElEoMnw0DM8zxdeQShYaFlIt4sdQKchU6/uDNTMCqSG+JgbWq1VSAw63DoeJz03cv4SKBol9xfFuHg6s7hBsKzLaK3Aa67SvZ4s2t5zpf/x102Lj1WrgqgjVSLHIXPCCfcOM6o3HbCH7C2TizvldyqGwwoeqknafaGr6gKy3UuXjkJTggsy1sq25EcqZFADxITD6JLZ0QgCbT1/xWN5XWL2d467FV6cAGF/gIijbe4OWYsJ6WA54sRXlkKAVUEKgFjDyw6BdyZdEuelksIeDve5gNllRd1+YmjGJHwpsd3uTk/D2Le8lqmAQvP2Q2gzTdFjA9WA8YKuYK2/0qPvhSs3MGtbgdDmk58gdZBd2TIuLUPyXMEUjX0+8vFVyPStKe37BxTp6PfFn4/7wCzg0XPHJe22aUXvZ1qXdMOqj8feqp5Pbq4ZR7WHbrHZjh3NHrrlMod8gfxbG69ZC2jHQ/Y1vQ/TpsYfzj7f/W9bbb1j5hoqsBxMzxg==;VOgkt/KkvghHTWQSsDF/Kg=="
 ---

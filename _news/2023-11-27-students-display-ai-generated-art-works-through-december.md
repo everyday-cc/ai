@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T13:26:00Z
 originalUrl: "https://augustafreepress.com/news/students-display-ai-generated-art-works-through-december/"
 webUrl: "https://augustafreepress.com/news/students-display-ai-generated-art-works-through-december/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Augusta Free Press

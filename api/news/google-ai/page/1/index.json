@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-24-googles-deepmind-ai-can-make-better-weather-forecasts-than-supercomputers.md",
+      "title": "Google's DeepMind AI can make better weather forecasts than supercomputers",
+      "excerpt": "DeepMind's new machine learning algorithm takes less than a minute to make its forecasts and can run on a desktop. But it won't replace traditional forecasts anytime soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.space.com/google-deepmind-ai-weather-forecasts-artificial-intelligence",
+      "originalUrl": "https://www.space.com/google-deepmind-ai-weather-forecasts-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3vmfhoLHduNWUsmYkCBMWW-1200-80.jpg",
+          "width": 970,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-23T17:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Space.com",
+        "domain": "space.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-how-meta-could-benefit-from-the-openai-shakeup.md",
       "title": "How Meta could benefit from the OpenAI shakeup",
       "excerpt": "Meta and Mark Zuckerberg, who had the luxury of watching the OpenAI boardroom drama from the sidelines, could end up indirectly benefiting the most.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.cnbc.com/2023/11/22/how-meta-could-benefit-from-the-openai-shakeup.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1302,60 +1345,6 @@
         "TensorFlow",
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit.md",
-      "title": "The UK Lists Top Nightmare AI Scenarios Ahead of Its Big Tech Summit",
-      "excerpt": "Ahead of a global summit on how to keep artificial intelligence from doing harm, a UK government report warns that the tech could be used to help create bioweapons, or escape human control altogether.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/",
-      "originalUrl": "https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6539900d34195a696cda346b/191:100/w_1280,c_limit/AI-biz-GettyImages-582780248.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T22:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google Bard AI can now watch YouTube videos for you"
-    excerpt: "Google has announced that Bard, its ChatGPT competitor, is now able to understand certain aspects of YouTube videos."
-    publishedDateTime: 2023-11-22T19:55:00Z
-    webUrl: "https://bgr.com/tech/google-bard-ai-can-now-watch-youtube-videos-for-you/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/09/google-bard-gmail-maps-flights-youtube-integration-1.jpg?quality=82&strip=all"
-        width: 1600
-        height: 804
-        isCached: true
   - title: "Google Bard gets the ability to understand YouTube videos"
     excerpt: "For example, recently Google announced that its AI chatbot Bard now offers a deeper analysis of YouTube video content, which could be very useful to some people. In all clarity, Bard’s ability to analyze YouTube videos is not new. It stems from a previous September update ."
     publishedDateTime: 2023-11-23T15:36:00Z
@@ -82,20 +68,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2023/11/Google-Bard-Extensions-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Google Bard’s Latest Update Enhances Understanding Of YouTube Videos"
-    excerpt: "Google Bard expands its capabilities with YouTube video understanding. I put this new feature to the test – does it live up to expectations?"
-    publishedDateTime: 2023-11-22T21:07:00Z
-    webUrl: "https://www.searchenginejournal.com/google-bards-latest-update-enhances-understanding-of-youtube-videos/502053/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 24
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/11/google-bard-understanding-youtube-videos-update-655e58f431834-sej.jpg"
-        width: 3000
-        height: 1688
         isCached: true
   - title: "Google Expands Bard's Understanding Of YouTube Videos"
     excerpt: "Google Bard gets a new YouTube extension to make it smarter than before. Wikimedia Commons Google has updated Bard's YouTube extension, making its widely popular AI-powered chatbot smarter than ..."
@@ -111,20 +83,15 @@ related:
         width: 2048
         height: 1294
         isCached: true
-  - title: "Google expands Bard’s YouTube integration"
-    excerpt: "Google integrated the chatbot with YouTube in September. That update introduced the ability to search for videos through Bard’s natural language interface. Thanks to the expanded integration rolled out this week, users can now also have the chatbot answer questions about a clip’s contents."
-    publishedDateTime: 2023-11-22T22:42:00Z
-    webUrl: "https://siliconangle.com/2023/11/22/google-expands-bards-youtube-integration/"
+  - title: "Too Lazy To Watch YouTube Videos? Google Bard Can Now Do It For You And Answer Your Questions"
+    excerpt: "Google Bard has received a new update that adds the ability to ask questions about YouTube videos. Google is rolling out this feature as a YouTube extension within Bard. What Happened: Alphabet ..."
+    publishedDateTime: 2023-11-26T00:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/too-lazy-to-watch-youtube-videos-google-bard-can-now-do-it-for-you-and-answer-your"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/Bard.png"
-        width: 931
-        height: 522
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 23
 
 secured: "kGbU+8sQ1ooax8RuDj6BnPEmp7Ial8PfnCi2uHeMHn4q9YgT3VpWbZtcc4MYpVwaJ91LUi8d/bwNLSFN2UeQGyVpLLdVdxVSW9NUbt9n9d9OtN23itizoXg6711S2PMaLoXScF1buHOUasCQgrHTSsDPMpLoPqVTY6V2ccTdfpUGU3IBT6KS4WK///5n3gU+8/2y19f4obOSnyuyyC+eriKrAuDdxWig8SzOBOiVEqhCu17PTYyWdxVQcFEhuaOiB9UtaPPVdl5YjCvU0n/n82cRIAvHZZgj5OYuGxfRrZuWKA6NdZCHBhNIlErCyxCXgd8bMpa4loCMaRdbXa3cBxdmnU/loukkgNJkAGEt1DKq50HD/uefQsmz9WdXQs+J9nnsZuQyUfAURBDHhgxePHMoEvD3DDsEy/46H3TeuMZwF0n/1QXv0Tw5oLR5srX+tmMUP7g3NLZ8guN2TPVbbvq5sZvstQVU3a8kmTwPTnJ2aXTo8r1mMelOMfm68gz+M2hrybNinbbr4okvNk+u8A==;Ke+gVg7bhQiWSIa3/TZQKg=="
 ---

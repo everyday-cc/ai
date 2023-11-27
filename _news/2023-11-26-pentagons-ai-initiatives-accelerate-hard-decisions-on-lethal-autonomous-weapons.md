@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-ac
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
 type: article
 quality: 52
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 17
+  - title: "Pentagon’s AI initiatives accelerate hard decisions on lethal autonomous weapons."
+    excerpt: "\"The Department of Defense is struggling to adopt the AI developments from the last machine-learning breakthrough,\" said Gregory Allen, a former top Pentagon AI official now at the Center for Strategic and International Studies think tank."
+    publishedDateTime: 2023-11-27T18:44:00Z
+    webUrl: "https://sentinelcolorado.com/uncategorized/pentagons-ai-initiatives-accelerate-hard-decisions-on-lethal-autonomous-weapons/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 14
 
 secured: "F1Qffwha36ulY4+0NeEah3r91+VMUeCIpIaSIF1ewJk63alCADI9eV75WVHQyX+luNGyqa4dmWfpGgjeA1fNMZkqnqd8IGAckqln2Fl0qqme6/EpqOjHNZ7uR4NxNULti595NlNZbQMFRWIXk3Lk6zdGmMsE0yMOnqW9YvOD2RUGJQWE7u82PU15jLojMW/NsOOwOCX/6T/tsY75+YFKhH0nPcNluoEzFOZkqT6HyCb8BGzhs6LFXMXFqbPETpdFyhJVld3BZihLJo1BIC+VBMVA2L9X3fWA3zD85lzZrj30vvPiofC/2ZZ0nyEbl5bu+7r/UuyFYMIBXyJ93RSQSJ06tRc9wcLt43PH1lzHjODljYyIl/yvTbb/wOFkb0pCWhDNxnlFVJhUNPVuzt3962ikK5GM5VvhgR6OtLKMC2ccBNTB0zh5Ce0B4+MPXP1W8udEMa+ceKGzMczv26VtPRpA6DnUUsaxXyfZVgdZayNw1b7jOKjHBSVIgArxxBS83hDpuie2zauRjy5Q3IKaPg==;Zh++Kd4wX9CDWpwlfrmG8w=="
 ---

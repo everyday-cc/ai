@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-15-whylabs-announces-strategic-collaboration-agreement-with-aws-to-accelerate-responsible-generative-ai-adoption.md",
+      "title": "WhyLabs Announces Strategic Collaboration Agreement with AWS to Accelerate Responsible Generative AI Adoption",
+      "excerpt": "WhyLabs, Inc., the AI Observability company, today announced a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to help enterpri",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231114399174/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231114399174/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-mufg-signs-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation.md",
+      "title": "MUFG Signs Multiyear Global Agreement With AWS to Accelerate Digital Transformation",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), today announced that Mitsubishi UFJ Financial Group (MUFG), Japan’s largest financial",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231114720773/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231114720773/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-quantiphi-signs-strategic-collaboration-agreement-with-aws-to-leverage-generative-ai-capabilities.md",
+      "title": "Quantiphi Signs Strategic Collaboration Agreement With AWS to Leverage Generative AI Capabilities",
+      "excerpt": "Premier Tier Services Partner, announced today that it has signed a Strategic Collaboration Agreement (SCA) with",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/n35782058/quantiphi-signs-strategic-collaboration-agreement-with-aws-to-leverage-generative-ai-capabilities",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/n35782058/quantiphi-signs-strategic-collaboration-agreement-with-aws-to-leverage-generative-ai-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T15:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-mufg-inks-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation.md",
       "title": "MUFG Inks Multiyear Global Agreement With AWS To Accelerate Digital Transformation",
       "excerpt": "Amazon Web Services or AWS, an Amazon.com company (AMZN), announced Tuesday that Japanese financial services provider Mitsubishi UFJ",
@@ -1153,117 +1255,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-5-best-internet-of-things-iot-stocks-to-buy.md",
-      "title": "5 Best Internet-of-Things (IoT) Stocks to Buy",
-      "excerpt": "and artificial intelligence. AWS IoT, short for Amazon Web Services Internet of Things, is a platform provided by Amazon Web Services for the purpose of gathering and analyzing data originating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-internet-of-things-iot-stocks-to-buy-1213058/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-internet-of-things-iot-stocks-to-buy-1213058/4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/10/14192633/RCI-insidermonkey-1697325990577.jpg",
-          "width": 1456,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T12:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-aws-in-orbit-series-premieres-on-the-t-minus-space-daily-podcast.md",
-      "title": "AWS in Orbit series premieres on the T-Minus Space Daily podcast",
-      "excerpt": "AWS in Orbit episode 1 is available today through the T-Minus Space Daily podcast on all major podcast platforms and at space.n2k.com/podcasts/t-minus. Episode Two, November 18, 2023: \"Securing the space frontier with AI cybersecurity solutions\" with special guest Buffy Wajvoda, Sr. Solutions Architect at AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aws-orbit-series-premieres-the-t-minus-space-/2023/10/31/9908042.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-orbit-series-premieres-the-t-minus-space-/2023/10/31/9908042.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T11:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-lt-technology-services-accelerates-transition-to-smart-vehicles-with-generative-ai-on-aws.md",
-      "title": "L&T Technology Services Accelerates Transition to Smart Vehicles with Generative AI on AWS",
-      "excerpt": "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International",
-      "sourceUrl": null,
-      "webUrl": "https://netindia123.com/articles/showdetails.asp?id=4134762&n_date=20231031&cat=Business",
-      "originalUrl": "https://netindia123.com/articles/showdetails.asp?id=4134762&n_date=20231031&cat=Business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T07:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Net India 123",
-        "domain": "netindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

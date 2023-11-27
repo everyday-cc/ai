@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbclosangeles.com/news/national-international/driverless
 cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
     provider:
       name: Los Angeles Times
       domain: latimes.com
+    quality: 19
+  - title: "California Weighs Pros and Cons of AI in Government"
+    excerpt: "A new report analyzes how artificial technology could be used in stage government without risking data privacy, misinformation, equity or bias. Gov. Gavin Newsom called the report an important first step."
+    publishedDateTime: 2023-11-27T22:47:00Z
+    webUrl: "https://www.governing.com/security/california-weighs-pros-and-cons-of-ai-in-government"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
     quality: 19
 
 secured: "2vQ+Q4sfHzG5CDhvMcoFRFJopIEP0y3BEnuM6SNF0tRZiOxIcrVdDh2kgQpxEq1PGdtLEPyUA6ON1u1ixux1iWnM+p4njmEWfvcV208FQ6VBwNEPm5ZDfQkFSkwAeNJbq4u/+j63JI+dWtBn2686zVmqoP5gxmduYVjbDXuVW0U4zJizbKZ185nu5yzKLC5nkLR/DEbPbgfk2gzQqdninEkUUt1Wsbu232U7y4K7e7uxaQzofdNiFS5GJZK0OR6Ze38j329dgLw9miTZMVV4/p2pp778FubGOyKJEIPIM1YuJdkDf0nnTy2QB/s2tmrA+NFAa7/yxeW/k1gmgPYYLaO9+JxFTITOVu+C5aHs59Yc2zWl7qIr02pIxNOg0SkTN2UKmyA/h/2Mh3FBzMLllyOI3Q3hyM7TNhAtqpywW+mK9IFxtD11nJ78aM76SMFWstPv6IE4XeCIXZeVjKCEO/zjXJAT22wdK2SHBzB3gXbd1EDks8GF8sLEHtlsClunRSv2cgSVed0al6DZ4BgUXg==;ICPPIxO+DBAeobqnubwoEw=="

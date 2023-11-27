@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T16:24:00Z
 originalUrl: "https://www.inferse.com/806711/google-bard-gets-a-new-function-will-now-add-images-to-its-responses-mint/"
 webUrl: "https://www.inferse.com/806711/google-bard-gets-a-new-function-will-now-add-images-to-its-responses-mint/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Inferse

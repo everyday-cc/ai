@@ -7,7 +7,7 @@ originalUrl: "https://www.physiciansweekly.com/modeling-global-monkeypox-infecti
 webUrl: "https://www.physiciansweekly.com/modeling-global-monkeypox-infection-spread-data-a-comparative-study-of-time-series-regression-and-machine-learning-models/"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 300
     height: 284
     isCached: true
+
+related:
+  - title: "DeepMind’s DiLoCo Revolutionizes Language Model Training with 500× Less Communication"
+    excerpt: "Language models have demonstrated exceptional performance across various real-world applications. However, at contemporary scales, the conventional training method employing standard backpropagation introduces formidable engineering and infrastructure challenges."
+    publishedDateTime: 2023-11-27T20:12:00Z
+    webUrl: "https://syncedreview.com/2023/11/27/deepminds-diloco-revolutionizes-language-model-training-with-500x-less-communication/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 27
 
 secured: "3YUlrQWIjr/A8VBGnwp9itXUGrGkLWW8f2POR/QLDiDJ9K9cxkX/j9bZ1YEA7EQmKHiS9SrJi+DGO13oMDDy2x6I0oE7jHA0Ll1Z0wK8GxdgRWcRGaDLRoxey45pqPCXbuVoy0RPrpUGNfSKW1tn1qsZUhmMWQdtvt2bIIggVqs0NExkGJandvXDbCgLwl5VgEArCNqnZNa0okZeULc2b/jwlzZjhDW5TUFRfYG205xosSMuETq9l0TAXntsAD8u3Cz660zK9m3ZIC9i2hZJjEPT65eikEN8YM1ZDcodPziN3qMfK3kE31RsC3O8LHzyDvXzm6wm3SNoDtjYLCDqrCz8MvMxqhUZfFHOYRIEIYw=;dwuKCyX64ifgsEXDH3j7Ow=="
 ---

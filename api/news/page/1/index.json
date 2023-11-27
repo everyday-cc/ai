@@ -2,6 +2,238 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-28-groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years.md",
+      "title": "Groq Says It Can Deploy 1 Million AI Inference Chips In Two Years",
+      "excerpt": "If you are looking for an alternative to Nvidia GPUs for AI inference – and who isn’t these days with generative AI being the hottest thing since a volcanic eruption – then you might want to give Groq a call.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/11/27/groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years/",
+      "originalUrl": "https://www.nextplatform.com/2023/11/27/groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2020/09/GroqMain.jpg",
+          "width": 1065,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/11/27/groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/27/groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years/amp/",
+      "publishedDateTime": "2023-11-27T21:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-new-stable-video-diffusion-ai-model-can-animate-any-still-image.md",
+      "title": "New “Stable Video Diffusion” AI model can animate any still image",
+      "excerpt": "On Tuesday, Stability AI released Stable Video Diffusion, a new free AI research tool that can turn any still image into a short video—with mixed results. It's an open-weights preview of two AI models that use a technique called image-to-video, and it can run locally on a machine with an Nvidia GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/svd_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/amp/",
+      "publishedDateTime": "2023-11-27T20:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-opinion-nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth.md",
+      "title": "Opinion: Nvidia looks poised to lead AI — but there’s one big question about its growth",
+      "excerpt": "The driver of this growth is its data center segment, responsible for the GPU (graphics processing units) and chips that have been powering high-performance computing...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-747436/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77",
+      "publishedDateTime": "2023-11-27T20:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-clarity-ai-and-aws-advance-their-sustainable-investing.md",
+      "title": "Clarity AI and AWS Advance their Sustainable Investing",
+      "excerpt": "AWS announced that Clarity AI is now available on AWS. The Clarity AI platform will analyze massive data points for investors.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/11/Clarity-AI-and-AWS-Advance-their-Sustainable-Investing.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/amp/",
+      "publishedDateTime": "2023-11-27T16:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-children-making-ai-generated-child-abuse-images-says-charity.md",
+      "title": "Children making AI-generated child abuse images, says charity",
+      "excerpt": "Children are making indecent images of other children using artificial intelligence (AI) image generators, according to a UK charity. The UK Safer Internet Centre (UKSIC) said it had received \"a small number of reports\" from schools but called for action now before the problem grew.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/technology-67521226",
+      "originalUrl": "https://www.bbc.co.uk/news/technology-67521226",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/36A6/production/_131809931_mediaitem131809929.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/technology-67521226.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67521226.amp",
+      "publishedDateTime": "2023-11-27T16:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-27-aws-ai-services-enhanced-with-fm-powered-capabilities.md",
       "title": "AWS AI services enhanced with FM-powered capabilities",
       "excerpt": "Artificial intelligence (AI) continues to transform how we do business and serve our customers. AWS offers a range of pre-trained AI services that provide ready-to-use intelligence for your applications. In this post, we explore the new AI service capabilities and how they are enhanced using foundation",
@@ -54,21 +286,21 @@
       ]
     },
     {
-      "path": "_news/2023-11-27-hdfc-securities-launches-mobile-trading-app-hdfc-sky-on-aws-cloud.md",
-      "title": "HDFC Securities launches mobile trading app HDFC SKY on AWS cloud",
-      "excerpt": "With AWS, HDFC Securities is expected to reduce its annual IT infrastructure and management costs by up to 50 per cent as compared to using on-premises infrastructure.",
+      "path": "_news/2023-11-27-privacera-ai-governance-integrates-with-aws-on-foundational-model-security.md",
+      "title": "Privacera AI Governance Integrates with AWS on Foundational Model Security",
+      "excerpt": "Last month, Privacera announced the General Availability of Privacera AI Governance (PAIG), one of the industry's first comprehensive AI data governance solutions. Visit Privacera's website to request a demo on PAIG or to learn about generative AI Governance.",
       "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/hdfc-securities-launches-mobile-trading-app-hdfc-sky-on-aws-cloud-11817561.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/hdfc-securities-launches-mobile-trading-app-hdfc-sky-on-aws-cloud-11817561.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates-with-aws-foundational-model-/2023/11/27/9923370.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates-with-aws-foundational-model-/2023/11/27/9923370.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/02/HDFC-Ltd6.jpg",
-          "width": 1280,
-          "height": 719,
+          "url": "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg",
+          "width": 266,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,13 +308,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/hdfc-securities-launches-mobile-trading-app-hdfc-sky-on-aws-cloud-11817561.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/hdfc-securities-launches-mobile-trading-app-hdfc-sky-on-aws-cloud-11817561.html/amp",
-      "publishedDateTime": "2023-11-27T14:57:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T15:45:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -93,7 +325,53 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-ibm-watsonx-ai-and-data-platform-security-solutions-and-consulting-services-for-generative-ai-to-be-showcased-at-aws-reinvent.md",
+      "title": "IBM watsonx AI and data platform, security solutions and consulting services for generative AI to be showcased at AWS re:Invent",
+      "excerpt": "During AWS re:Invent, IBM will be unveiling several exciting pieces of news about our fast-growing partnerships.\nThe post IBM watsonx AI and data platform, security solutions and consulting services for generative AI to be showcased at AWS re:Invent appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 240,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security",
+        "AWS AI"
       ]
     },
     {
@@ -105,7 +383,7 @@
       "originalUrl": "https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -200,7 +478,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/27/the-rise-of-artificial-intelligence-in-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -252,7 +530,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/what-to-know-about-ai-enabled-digital-twins-in-manufacturing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -303,7 +581,7 @@
       "originalUrl": "https://techbullion.com/ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -336,6 +614,49 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-tech-mahindra-launches-a-sports-cloud-platform-built-on-aws.md",
+      "title": "Tech Mahindra launches a sports cloud platform Built on AWS",
+      "excerpt": "Dubai: Tech Mahindra, a leading provider of digital transformation, consulting and business re-engineering services and solutions, announced it has collaborated with Amazon Web Services (AWS) to build a sports cloud platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/tech-mahindra-launches-a-sports-cloud-platform-built-on-aws-hvmlx4ym",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/tech-mahindra-launches-a-sports-cloud-platform-built-on-aws-hvmlx4ym",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NDE3NGY1ZGQtZjcwYi00/0/1-jpg.jpeg?f=3%3A2",
+          "width": 899,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/tech-mahindra-launches-a-sports-cloud-platform-built-on-aws-hvmlx4ym?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/tech-mahindra-launches-a-sports-cloud-platform-built-on-aws-hvmlx4ym?amp=1",
+      "publishedDateTime": "2023-11-27T11:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -399,7 +720,7 @@
       "originalUrl": "https://www.bnnbloomberg.ca/ai-chip-boom-fuels-taiwan-firm-s-40-rally-beating-qualcomm-and-peers-1.2003756",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -484,7 +805,7 @@
       "originalUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -588,7 +909,7 @@
       "originalUrl": "https://www.steelguru.com/steel/revolutionizing-steel-mill-operations-with-ai-vision",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -674,7 +995,7 @@
       "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -777,7 +1098,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -851,314 +1172,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai.md",
-      "title": "Drive hyper-personalized customer experiences with Amazon Personalize and generative AI",
-      "excerpt": "Today, we are excited to announce three launches that will help you enhance personalized customer experiences using Amazon Personalize and generative AI. Whether you’re looking for a managed solution or build your own, you can use these new capabilities to power your journey. Amazon Personalize is a",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-26T19:41:05Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-ai-facial-recognition-tech-use-will-be-approved-by-government-within-weeks.md",
-      "title": "AI facial recognition tech use will be approved by Government 'within weeks'",
-      "excerpt": "The Government says it will enable the use of facial recognition technology 'within weeks'. It says this is facilitate the prosecution of offenders for riot and violent disorder, after the violence and looting in Dublin on Thursday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681",
-      "originalUrl": "https://www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.irishmirror.ie/incoming/article31515103.ece/ALTERNATES/s1200/1_dublin-unrest.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681.amp",
-      "cdnAmpWebUrl": "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681.amp",
-      "publishedDateTime": "2023-11-26T17:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "buzz.ie",
-        "domain": "buzz.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin.md",
-      "title": "Western monopoly in AI 'dangerous, and unacceptable', says Russia's Vladimir Putin",
-      "excerpt": "During his more than two decades in power, Putin has overseen a multi-pronged crackdown on the opposition and civil society groups, and promoted “traditional values” to counter purported Western influence — policies that have become even more oppressive after he sent troops into Ukraine in February 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/11/26/1600x900/artificial_intelligence_1698542010139_1700960383653.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
-      "publishedDateTime": "2023-11-26T12:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-want-a-job-in-ai-advice-from-the-founder-of-the-ladders.md",
-      "title": "Want A Job In AI? Advice From The Founder Of The Ladders",
-      "excerpt": "One of the fastest growing career fields is AI. To understand how to break into the field, I sought insight from the founder of The Ladders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/11/26/want-a-job-in-ai-advice-from-the-founder-of-the-ladders/",
-      "originalUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/11/26/want-a-job-in-ai-advice-from-the-founder-of-the-ladders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65470abbbdee2debeb036233/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 900,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/11/26/want-a-job-in-ai-advice-from-the-founder-of-the-ladders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2023/11/26/want-a-job-in-ai-advice-from-the-founder-of-the-ladders/amp/",
-      "publishedDateTime": "2023-11-26T08:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-six-predictions-show-how-ai-will-transform-the-future-of-work.md",
-      "title": "Six predictions show how AI will transform the future of work",
-      "excerpt": "But this will change with widespread use of AI in the workplace, as we start to see AI replace much of the mundane, repetitive work that we have long measured as productivity inputs. “In the next year, businesses will transform the way they measure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/six-predictions-show-how-ai-will-transform-the-future-of-work-cwdvz88j",
-      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/six-predictions-show-how-ai-will-transform-the-future-of-work-cwdvz88j",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NTdlNzBiZWItZmNlYi00/13/1464561575.jpeg?f=3%3A2",
-          "width": 759,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/six-predictions-show-how-ai-will-transform-the-future-of-work-cwdvz88j?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/six-predictions-show-how-ai-will-transform-the-future-of-work-cwdvz88j?amp=1",
-      "publishedDateTime": "2023-11-26T06:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-lg-unesco-partner-to-promote-ai-ethics.md",
-      "title": "LG, UNESCO partner to promote AI ethics",
-      "excerpt": "LG AI Research, LG Group's artificial intelligence think tank, said Sunday it has signed a letter of intent with UNESCO in Seoul to jointly foster knowledge and awareness of the ethics of AI. LG highlighted the agreement as the first of its kind,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20231126000092",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20231126000092",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F11%2F26%2F20231126000089_0.jpg",
-          "width": 630,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20231126000092",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20231126000092",
-      "publishedDateTime": "2023-11-26T05:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-for-first-time-researchers-use-artificial-intelligence-to-build-a-robot.md",
-      "title": "For first time, researchers use artificial intelligence to build a robot",
-      "excerpt": "A team of researchers at Northwestern University say they have developed the first artificial intelligence program that has built a robot. They say what the robot can do isn't the main point, but it's what this breakthrough could mean for the future of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/",
-      "originalUrl": "https://www.cbsnews.com/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/26/097fc25d-9740-482c-a7f7-585384471371/thumbnail/1200x630/1f6a4051781ebb7c07542a511e850d61/cbsn-fusion-for-first-time-researchers-use-artificial-intelligence-to-build-a-robot-thumbnail-2479090-640x360.jpg?v=5659e73acd91751548aa89950cf015b0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-26T02:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

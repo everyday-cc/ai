@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T17:26:00Z
 originalUrl: "https://www.forbes.com/sites/johnkoetsier/2023/11/27/men-2x-more-likely-to-use-generative-ai-than-women-report/"
 webUrl: "https://www.forbes.com/sites/johnkoetsier/2023/11/27/men-2x-more-likely-to-use-generative-ai-than-women-report/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

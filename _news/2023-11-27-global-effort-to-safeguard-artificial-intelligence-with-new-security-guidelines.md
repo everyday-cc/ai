@@ -41,6 +41,34 @@ related:
         width: 1200
         height: 768
         isCached: true
+  - title: "4 key takeaways from new global AI security guidelines"
+    excerpt: "AI security guidelines developed by the United States' Cybersecurity ... SiliconAngle reports that Israel-based large language model security startup Lasso Security has landed a $6 million investment as part of a seed funding round, which will be allocated ..."
+    publishedDateTime: 2023-11-27T00:01:00Z
+    webUrl: "https://www.scmagazine.com/news/4-key-takeaways-from-new-global-ai-security-guidelines"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 54
+    images:
+      - url: "https://files.scmagazine.com/wp-content/uploads/2023/11/1127_artificial_intelligence.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Cross-government cybersecurity best practices announced for safer AI development"
+    excerpt: "The guidelines are broken down into four key areas within the AI system development lifecycle: secure design, secure development, secure deployment, and secure operation and maintenance. These cover the waterfront, including threat modeling, supply chain security, protecting AI and model infrastructure, and updating AI models."
+    publishedDateTime: 2023-11-27T20:15:00Z
+    webUrl: "https://siliconangle.com/2023/11/27/cross-government-cybersecurity-best-practices-announced-safer-ai-development/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/a-2729794_1280.png"
+        width: 1280
+        height: 1092
+        isCached: true
 
 secured: "PxK/CBeEjF6ipY+sFj6Dq10KTt18v1dJY4tnf3wC5KKlbCRsugyaPl8usPlZXvX38QwvuEvw1rT5tgSu2ttIhq2x7/FJNwNk20FDfnw/LXfPpvYv/615fm2P2cUetR37HUmV+DHnmSDmm9UA8LeX6s1N9qh/b/TpM0S82svRhIViL7B0gBXgNfpf6d5T01ixefQDNE0SIQEewj+7n/Zgu4KWGqUbFRkT0Fc1yDNFX2r1wo+IkFHlLQbXCbiXQxrYw8QrBgjbFsIfNVzEE1cPTCfLA8pWTrI4oJYxXMbZ4dgz/mxIDvAoVuUoTVLvJEILG6kFCUjEKEx5nIrp9bziaHlVFYxCTmC5ChbhcGERySLw1B/KWSrdBsfv8QyQQKnwkh9edN89RlIgYxXTX9KzCClM4GVAYWYMqYKL6v8wC5mdKG3qNyxW1LB045769XTsGEHwMR4b9jPp//1AHjgXdiy6IRHZs3W3GpdsALdklNAwM+Rjts+snikdmVRPyRmzKYspfb+KgcD+477NJVQkeg==;mNx6aJuhDlwQ1gwnLbj4Rg=="
 ---

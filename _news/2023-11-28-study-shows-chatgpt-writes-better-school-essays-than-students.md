@@ -6,6 +6,9 @@ publishedDateTime: 2023-11-27T17:43:00Z
 originalUrl: "https://techxplore.com/news/2023-11-chatgpt-school-essays-students.html"
 webUrl: "https://techxplore.com/news/2023-11-chatgpt-school-essays-students.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: techxplore

@@ -56,20 +56,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Generative AI Takes on SIEM"
-    excerpt: "The modernized QRadar SIEM offering will become part of the QRadar Suite, originally launched in April 2023, which brings IBM's EDR, XDR, SOAR and SIEM offerings and a new log management tool onto a common platform designed to give SOC analysts a unified interface and controls."
-    publishedDateTime: 2023-11-22T20:00:00Z
-    webUrl: "https://www.darkreading.com/emerging-tech/generative-ai-takes-on-siem"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc53d6965d9f963bf/64789b9b6159dba6643b4668/robot_at_laptop-Dariusz_Banaszuk-alamy.jpg"
-        width: 646
-        height: 430
-        isCached: true
   - title: "Governor’s Office issues initial generative artificial intelligence report on Tuesday"
     excerpt: "On Tuesday, the Governor's Office released a report about the emerging possibilities and potential pitfalls of generative artificial intelligence."
     publishedDateTime: 2023-11-24T01:43:00Z
@@ -84,15 +70,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "AI Startup Stability Has a New Tool For Creating Generative Videos"
-    excerpt: "Startup Stability is taking generative AI up a notch. While the technology has been used largely for photos and voice replications, Stability is making waves with a new tool for advanced AI-generated videos."
-    publishedDateTime: 2023-11-22T17:25:00Z
-    webUrl: "https://hypebeast.com/2023/11/ai-startup-stability-generative-video-tool"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 17
 
 secured: "Dl5LghBunndHOX1z5KeJhvnoTUqfrgxRAAnKOeJ2vvTO6t7r6y8KQD2tinhl/UBj9wL4GzrImqZIKV1mU7Wd3S71RmeoPcuAgVirmKE91LtggZkNLeIzRpdBQ8fY2qtZHZXz/IZFDTINPZiMCq79uLIoGFHaC0v7issUxxnhhakj22BXA+APb19pXKbSmU1d45ZLqlFliUjcvxhwmVDDoE6JI97KAJHs4tpYcQ6LiJB6l3M49wIiWA7N5w4zAkN56OaKe7dZn84BmGXX0Iextm7zVNbjKdeEcF5swXCBYuWGsNsv4SJsWIAeFJgWLlYd/p6SvQve2Jok33yqZYTAHqBCZZ4SIJi/gzfVhTvjuXzhjpk1+6vCQhPSBuCYJArKPGWPpAu85i44PuQjBhMQYYnElZ8xmgUVjj1uJSpw4vRmiQQO6SJtqmJpm2Wu2zdb8y+K6r7umMPtPEuqQiacgUFlbJ8ZIhpOjo2Dd3/JvK6VNaBHy+B4X1PecQqvC9OOnZgnWisJkC68OUpiUGgSZw==;at/3fEPxdpXNWz6C82yvDA=="
 ---

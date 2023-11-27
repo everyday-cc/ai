@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/sports/motor-sports/formula-one-trials-ai-
 webUrl: "https://www.reuters.com/sports/motor-sports/formula-one-trials-ai-tackle-track-limits-breaches-2023-11-23/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Using AI to track icebergs"
+    excerpt: "Researchers are using a new AI tool to detect icebergs in the Southern Ocean. This is the first step in being able to track the complete life cycle of most icebergs across Antarctica from satellite data."
+    publishedDateTime: 2023-11-24T18:33:00Z
+    webUrl: "https://phys.org/news/2023-11-ai-track-icebergs.html"
+    ampWebUrl: "https://phys.org/news/2023-11-ai-track-icebergs.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-ai-track-icebergs.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/using-ai-to-track-iceb.jpg"
+        width: 1280
+        height: 1588
+        isCached: true
   - title: "Formula One trials computer vision to tackle track limits breaches"
     excerpt: "Formula One's governing body is trialling computer vision technology to tackle track limits breaches at this weekend's season-ending Abu Dhabi Grand Prix. The Paris-based FIA said the technology uses shape analysis to work out the number of pixels going past the track edge."
     publishedDateTime: 2023-11-23T20:13:00Z

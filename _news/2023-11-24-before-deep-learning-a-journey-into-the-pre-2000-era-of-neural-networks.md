@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/before-deep-learning-a-journey-into-the-pr
 webUrl: "https://techbullion.com/before-deep-learning-a-journey-into-the-pre-2000-era-of-neural-networks/"
 type: article
 quality: 53
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -38,22 +38,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/11/vitaly-sacred-7Rhal4dap78-unsplash.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Causal reasoning meets visual representation learning: A prospective study"
-    excerpt: "With the emergence of huge amounts of heterogeneous multi-modal data—including images, videos, texts/languages, audios, and multi-sensor data—deep learning-based methods have shown promising performance for various computer vision and machine learning tasks,"
-    publishedDateTime: 2023-11-22T21:23:00Z
-    webUrl: "https://techxplore.com/news/2023-11-causal-visual-representation-prospective.html"
-    ampWebUrl: "https://techxplore.com/news/2023-11-causal-visual-representation-prospective.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-causal-visual-representation-prospective.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 42
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/causal-reasoning-meets.jpg"
-        width: 1491
-        height: 510
         isCached: true
   - title: "The future of machine learning: Trends to watch in 2024"
     excerpt: "As we move into 2024, the spotlight turns to multimodal AI models, which represent a leap in sophistication by processing and interpreting diverse data types, including text, images, and sound, to deliver more nuanced and human-like decisions."

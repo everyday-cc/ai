@@ -99,6 +99,15 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 19
+  - title: "Pentagon’s AI initiatives accelerate hard decisions on lethal autonomous weapons."
+    excerpt: "\"The Department of Defense is struggling to adopt the AI developments from the last machine-learning breakthrough,\" said Gregory Allen, a former top Pentagon AI official now at the Center for Strategic and International Studies think tank."
+    publishedDateTime: 2023-11-27T18:44:00Z
+    webUrl: "https://sentinelcolorado.com/uncategorized/pentagons-ai-initiatives-accelerate-hard-decisions-on-lethal-autonomous-weapons/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 14
 
 secured: "EbFNQ0qSNM+N3NuRwQguH93NjCH5Yo/6ygjR8INmW7IkvUDq3mKgaAy12r4sBEeIHs2niLNTg+0z/2i01MrhxZR/2I2DGb4z+Ly9xXz09HA2Q16aVqA37t3WP3rnp5/Hog8XgPCwiCpdf1UqIlxb0v/O3r2d/4NBkCagA/wCJMsYI7ei3CeIy7q/LExxelwdRZI1nIjxsdAbIfhew3Q0v7e06GPTz7VwWgZSn9oM+VnC3WLvfSN0uE1wpbL35TBFR45w+0bWFXW1EFNM0UuUMZ6Veci0d7MkGcEVeABI5hoF1JwKeaBwXdrEA7w2iVsv7+pdqbw6zaaLDzv0+vFQ7mISswp3D5RfDBeupSO4njP37JasVg6WbVOM48yX8/FS19uAMDmvt+dXDWcMWacCuUdwwv2TBDikoFHytbAnYRykv7hDefg00WUAR9R4fKchhLXSlYThROIoVvPfeSImV2A/zaedxjOE6jop9DOV4ouW8ITHbemY3EagZgz3tuUdaf7+yXObVgVlCb+NcCcd3g==;Kn0LC6F5VltCUhD5dQ4BxA=="
 ---

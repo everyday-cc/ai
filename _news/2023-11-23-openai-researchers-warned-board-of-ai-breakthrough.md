@@ -89,6 +89,24 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "This week in AI: The OpenAI debacle shows the perils of going commercial"
+    excerpt: "So until an AI can do it for you, here’s a handy roundup of recent stories in the world of machine learning, along with notable research ... much of Microsoft’s investment in OpenAI is in the form of Azure cloud credits, and the threat of withholding ..."
+    publishedDateTime: 2023-11-27T20:46:00Z
+    webUrl: "https://techcrunch.com/2023/11/27/this-week-in-ai-the-openai-debacle-shows-the-perils-of-going-commercial/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 48
+  - title: "Contrary to reports, OpenAI probably isn’t building humanity-threatening AI"
+    excerpt: "OpenAI is reportedly working on a project to improve AI reasoning. But contrary to some reports, it's no cause for alarm."
+    publishedDateTime: 2023-11-27T18:58:00Z
+    webUrl: "https://techcrunch.com/2023/11/27/contrary-to-reports-openai-probably-isnt-building-humanity-threatening-ai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 45
   - title: "OpenAI researchers warned of powerful AI discovery before company chaos"
     excerpt: "Some staff at ChatGPT creator believe breakthrough relates to startup’s search for what’s known as artificial general intelligence (AGI)"
     publishedDateTime: 2023-11-23T12:39:00Z
