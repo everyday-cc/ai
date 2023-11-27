@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-ear
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/"
 type: article
 quality: 91
-heat: 261
+heat: 251
 published: true
 
 provider:
@@ -183,20 +183,6 @@ related:
       - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG2FYxGdd4iyCv3Ind4m3LSaPOA8yDjaypLKRtn_DVLR6oxoUm_u72jA_sZc5l_pq0KGji5-fZopwzH-HFRC0vG8rKvDuXicK2V6lRNv2c9dFE8D_RO5vNLCP4n-er_PbCMo5TDChOaB_Qebkq_RqyGYh13RQ6k-f9zvA35b0OtvcF0eTHA-xizi3JNMM/s16000/20231124_161022_0000.png"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Nvidia Revenue Rockets On Demand For Powerful Chips"
-    excerpt: "Nvidia on Tuesday reported that its revenue more than tripled in the recently ended quarter as companies snapped up chips to power artificial intelligence (AI)."
-    publishedDateTime: 2023-11-22T07:00:00Z
-    webUrl: "https://www.latintimes.com/nvidia-revenue-rockets-demand-powerful-chips-549085"
-    type: article
-    provider:
-      name: Latin Times
-      domain: latintimes.com
-    quality: 39
-    images:
-      - url: "https://d.latintimes.com/en/full/547992/nvidia.jpg"
-        width: 768
-        height: 530
         isCached: true
   - title: "How is artificial intelligence impacting data center design?"
     excerpt: "As AI is reshaping how we interact with machines and the world around us, the design of data centers needs to adapt to this fast-changing landscape. So, Page pairs expert thinking with high-performing solutions to meet the needs of rapidly advancing technologies."

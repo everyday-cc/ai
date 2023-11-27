@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35941423"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35941423"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 545
         height: 814
         isCached: true
-  - title: "How digital transformation is reshaping auditing"
-    excerpt: "Digital innovation offers unique insights throughout the audit process, enabling auditors to offer increased value and efficiency in a demanding economy. The second 2023 SAICA Audit Reform Webcast, held in August and chaired by SAICA executive for audit and assurance Thandokuhle Myoli,"
-    publishedDateTime: 2023-11-22T06:53:00Z
-    webUrl: "https://it-online.co.za/2023/11/22/how-digital-transformation-is-reshaping-auditing/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 4
 
 secured: "EiOhuhvVpvznwrNEitqd8RQkAJUrFy62O9qtLsIwoXlZ05us5gaqGZZvCKBtOJM5cD+vZnnV3nsnYC4hmMkrnt+g8zzGf9qjgQm21u8DYtfZcDIyheH1mmI/vUamqMGUOfKvNAghzmqlk4EIc94kkkubsmUzPbIPHUQvlfjgajELxoEB2ZSepGkAcgxYa+BeQOyT2OUrw0aSyu6ywsO+MzJO6wsyAIqgFt0cjP4eblOjlQAbTjgqAvZtditUDwi391B1onSkYYu/wVfH5dfb65UX6sxdtBCbc+s40B2QNvKlzyxzvV2Ey+pCuzhvpDJmPrY1LkamrJHZTRDOx8bzuPoQdgTOybFKbBxT0ULSXnk=;wTNRyfPXmNoXf+fvaXohNQ=="
 ---

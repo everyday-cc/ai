@@ -9,7 +9,7 @@ ampWebUrl: "https://ukhumanrightsblog.com/2023/11/23/is-an-artificial-neural-net
 cdnAmpWebUrl: "https://ukhumanrightsblog-com.cdn.ampproject.org/c/s/ukhumanrightsblog.com/2023/11/23/is-an-artificial-neural-network-a-computer-programme-ineligible-for-patent-protection/amp/"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 512
     height: 512
     isCached: true
-
-related:
-  - title: "IBM to invest in new AI skills training programme to boost global workforce"
-    excerpt: "IBM is to invest in a new training programme to help boost skills in artificial intelligence over the next three years, targetting 2 million learners globally by the end of 2026."
-    publishedDateTime: 2023-11-22T06:40:00Z
-    webUrl: "https://www.irishtimes.com/business/2023/11/22/ibm-to-invest-in-new-ai-skills-training-programme-to-boost-global-workforce/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/resizer/FGB2ED421HfYJ7P76OcjVzVolbg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/3ZBASASNP36FZTZP62FSBOCRD4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "SHm+s3oUJuDzckz1JNPggYZ20lHHyZieoDs2vdSAd4r7ip1jsxV7In3ROWZ+rU0FDFYT+2TW69xnCj0vAmwfM8R5B+/8t7Rh8eKOvNrbqownuP6/SErkIIaelofX6657SbXK4kJ3xBmy+Eg2P+1how58zZROlL/Fzfh5Bz04QS6Y+QZjm3tCiJ8DDPWbzapjmhfbn5dz8WdDY6sT6lnljsnmncHqHOu6jJFTy7EadvnCS4cf365Za2ihWL2Kji2KZTFWlHaVFPnqr9FNhaG10I4V/WF7m6HuazxYJJOBQddLj7W6JBr/7kbPlrRHuw0mgCUmN42qLz01XhBMdnX8EZJSWp02OmaGVhJRdAxLqU/qI16kydDJu5xbUh4IxakZie/bZkP/r1Dy/1A1ChJOjSJjB425IIoyPidrujoaIC0kkuWWxkUb/hlcZM82Hz6MSdCquFUY/ZrrZZoLqaTMqiQ3bm7dwPaJnBlJli6ffyAYD5JjnD7I6oLn9Ar70SuY/oki92TKTE6JszcdKm/SOA==;SIf38k5R22+S/Amr5UcqJA=="
 ---

@@ -42,6 +42,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Generative AI offers companies and their employees more effective ways of working"
+    excerpt: "PwC has extended its collaboration with Microsoft with the launch of its new PwC generative artificial intelligence (AI) business centre. Enabled by Microsoft technology, the PwC generative AI Business Centre will help organisations to achieve returns on their investments in a safe and secure way."
+    publishedDateTime: 2023-11-27T05:00:00Z
+    webUrl: "https://www.irishtimes.com/sponsored/2023/11/27/generative-ai-offers-companies-and-their-employees-more-effective-ways-of-working/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 34
+    images:
+      - url: "https://www.irishtimes.com/resizer/mWHzY1BQTp9TJXGICrlYzbjR4uw=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/OYVRG7IKVFAPDI4RCFGBZ2X324.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "VB8XaowdsBJgUflaTn1hoQz2hS715O/UzMv6lK6Wuj2NiX5DNoi8PJdEvQI17ILSHL+oPe3pSAs4a7FRaTagFh5ui+CQcDDuVP1S89w95WKmcW6eALc0t0bvG6J2DuD8zZXycy0RnIGEFJo4kfgu1zouBkje1I9vkA/drR/CGxMaArHXo7BRpWMJVJ5Dpx0mvZvsO5PiWhoBXzmNokkymuG8YaiCts7wWTI3h4t5+l+Z+4x/fL11kh3Db6G5ykr2SSueabTTNYJ35g1RwBQZdqemxMZbpE5STZKGULR8F9YTkfiEEY3YOkXCNNEGic0WpfhlaILCso+/FtrfUfmIUKxkUcGzUz9OTsCQJwOZnFOGGqV5TXMoVnEUZC6hFfBP82HFktwgaunTBKmd9Ktt7jSqya+8tn90H5dJhgl5Y4uyYGdVGhF8jNZ7UXOAgBaUhDUZm/mu+ssF6m/BHpptoXQ28KaW0qkZBE07NuQS7BZEA1lfGu5UvNgpjqGqdUcER9d0ZGIUdWqLpRO4m/S6mA==;p04nhwlhmei4h0QvAizKAg=="
 ---

@@ -33,6 +33,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Clarity AI and AWS Advance Sustainable Investing at Scale"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Clarity AI, a leading technology c"
+    publishedDateTime: 2023-11-27T05:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231126075357/en/Clarity-AI-and-AWS-Advance-Sustainable-Investing-at-Scale"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
   - title: "AWS re:Invent 2023: Our guide to the top sessions and speakers"
     excerpt: "AWS Machine Learning Hero Kesha Williams breaks down the top keynotes and cloud content to look for at AWS re:Invent 2023, including generative AI and data updates."
     publishedDateTime: 2023-11-22T22:38:00Z

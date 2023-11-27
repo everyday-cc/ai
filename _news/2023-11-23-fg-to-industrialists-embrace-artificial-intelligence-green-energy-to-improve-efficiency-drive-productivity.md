@@ -26,22 +26,6 @@ images:
     height: 570
     isCached: true
 
-related:
-  - title: "Is it possible to prioritise AI safety as much as innovation in a for-profit industry?"
-    excerpt: "As AI becomes one of the most competitive technologies in the ... with lower energy demand and with the built in ethics and safety systems to help them scale safely. There is also the aspect of giving the economy, culture and governance time to adapt ..."
-    publishedDateTime: 2023-11-22T05:33:00Z
-    webUrl: "https://www.campaignasia.com/article/is-it-possible-to-prioritise-ai-safety-as-much-as-innovation-in-a-for-profit-indu/492903"
-    type: article
-    provider:
-      name: Campaign Asia
-      domain: campaignasia.com
-    quality: 31
-    images:
-      - url: "https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2fcontent%2fAI+innovation+US.jpg&h=630&w=1200&q=75&v=20170226&c=1"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "r5FIDpoNxS41IIhpCOXIx4CDSIGmJwCAM/2wHrFUfIhhSfVY8OToDTKTMbZTVMfmAyPbQjdwkarR9pUma6+a443rqJWNBegt/MBeuxCng9kvDqRhkVeUEJbWsgBVx8zlC2tQRlaV9Mf37s8Aw3O/PWoDNPmJyZSBcZ6jSGsV6yXEhdFzKP+RDb5GDKr/G1YokURAd7QV4VMgmlwJka3L1DbiCKQrvmNAxVTOEbZkIaY2XVhgnEVvErPc4aQPHEqIZY+G65MKiIH19lXQp3OG2uD9wpVscBW9o98nBR9TJXEpg86LNCLzFIranKVD0DyGGWhHeI2M5k4WDfvOGyW+XZQfcrMTAYqtXGfANi7IIFI+PPHg+oQ36Dz6pavlgq5H8su7JvnS2mYnffrLZSJ4ajhjefmjlHrBaGYzXFbdH/Qvyoi6yHrVbipz15zNofTtpq8cHalKnBrd2kttgvhiMsy9PDOJRzsI6+slEwcIoHiDfxPN379OU3o2uAyuq1KzVCzu45F/vYDsJxoAajywhA==;iT6PVRIZL0vVtNIZlvJ8Zg=="
 ---
 

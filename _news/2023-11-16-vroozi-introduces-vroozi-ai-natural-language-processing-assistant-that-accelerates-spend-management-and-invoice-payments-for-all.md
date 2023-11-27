@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Vroozi Introduces Vroozi AI: Natural Language Processing Assistant that Accelerates Spend Management and Invoice Payments for All"
-excerpt: "The virtual assistant reflects the company’s continued investment in AI capabilities with the goal of streamlining the procure-to-pay process from intake to automated invoice processing."
-publishedDateTime: 2023-11-16T09:05:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231116457912/en/Vroozi-Introduces-Vroozi-AI-Natural-Language-Processing-Assistant-that-Accelerates-Spend-Management-and-Invoice-Payments-for-All"
-webUrl: "https://www.businesswire.com/news/home/20231116457912/en/Vroozi-Introduces-Vroozi-AI-Natural-Language-Processing-Assistant-that-Accelerates-Spend-Management-and-Invoice-Payments-for-All"
+excerpt: "Vroozi, the intelligent procure-to-pay platform, today announces its new virtual AI assistant that will accompany users throughout the Vroozi application to enable more effective ordering within the platform."
+publishedDateTime: 2023-11-16T13:03:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/vroozi-introduces-vroozi-ai-natural-language-processing-assistant-that-accelerates-spend-management-and-invoice-payments/article_7ff1a958-5377-5dd3-a104-bb3404db7169.html"
+webUrl: "https://www.bakersfield.com/ap/news/vroozi-introduces-vroozi-ai-natural-language-processing-assistant-that-accelerates-spend-management-and-invoice-payments/article_7ff1a958-5377-5dd3-a104-bb3404db7169.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "LeQExOW4V+mvSxKp6f3KKbMckd8P8ULsxxHy2lGzUGpyEQ84PRqQI7aACRjBSNPmC9UqKiAaY8husTzsA3dbOrVuBXVZH/BhQh48zpnnhg8dbDhyC4BnPeAnJRJiRBlIbjoMnSgT3e/R/tsQDD56xhGr6cJ39rM3JUi/5KqdGeGl/xl3jlfIcejr82GMyrzQIJzdHP2VTU3RbCDM64pDOYRP4Wy1epBAVOAHnpFUZQu0ZbkERgLP7RPI9tymaWiGgaUfK0apDw1uuUIBHle07EJdrydtBe8JBqvKuFr1y9jit+aeJwLm+nxsYEYW3swW2im7RsgH3D0LRJuWwrqQFMBIvNy3Amnonh+pvWiMWt4=;NKf2cW04XddFSObsHk4Ibg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/d/14/d1401004-03dd-5993-aec6-bae6690a2f51/655629395068a.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize"
+    width: 1194
+    height: 627
+    isCached: true
+
+secured: "UTtHXPw0Ee4jUga/sgl1tlcbw3h2sAeYn7J5m79jKRLe3br6c/4h55owEdT5Teyws2WaSuqj2cNmKHQ5smq8RPu+W1/Sybz1F/kicFiaXIGhZTBPX1WSxddI6Zdf5hamSyGFJ1TuM3ScEmxJrnC2zdpXHbJaCK1X9ETNk00xKHY6urUPVq0iB0/tPHX6MWBdqo5iqghEM5iwlN7oeqlEsdiVMG6Vzampic5y4ImRwNNskvFBpLegyMIiwX0sh8KPJYDzkyhE1ZlVEyUScPfN5Ly3otkdDNCde3hb3J3Wd8DBX4CITEYu7947q/LtWFoRBbxFdwpnLRK+f9rmCUEpUU/+AETRLCq+OaEs4f7BLWs=;qJiLUX7tBE6F4PtBHAxrSQ=="
 ---
 

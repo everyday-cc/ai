@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7g2jnJvDLZn"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2jnJvDLZn"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://itwire.com/media/k2/items/cache/ce32e098a9a3517925dc27eff7ba8a6f_M.jpg"
         width: 375
         height: 562
-        isCached: true
-  - title: "University of Cambridge launches AI research centre to ensure technology benefits humanity"
-    excerpt: "The University of Cambridge said it hoped the institute would minimise AI's risks to humanity. | ITV News Anglia"
-    publishedDateTime: 2023-11-22T05:30:00Z
-    webUrl: "https://www.itv.com/news/anglia/2023-11-22/new-research-launched-at-university-to-ensure-ai-benefits-humanity"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 29
-    images:
-      - url: "https://images.ctfassets.net/pjshm78m9jt4/II04T5Tj3ErJKGFWmdaz5/e580b5cf43e0fb09906e7d8d2e9c0d93/University_of_Cambridge.new.01.png?fm=jpg&fit=fill&w=1600&h=900&q=80"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "Qumep3O48GpjJ810VZSAOK9rz16Lr2LOXy9xXUrp9fRymRnhUqRsuYjCeTpyYiO1mwLNvWASCVDZUX4hMJmmlGi7lDnNxfnGRc8lUl480aJnrrmskjLXhS589ERk2GqBnFKE2m1ve/fPQM73yewQLKhFaWKyOMjaGOtvF6CwtCorjLNMsmYb3aHyEso1zeLojqTI0ozw8pNikHxLnkWrjmAO2BqHD7TfnPanVwfK8eShSwH3GbsxrIHzTv3ClZQc4FfSbopBIKx/+q3isgMuYEcaXHJ4Tg9mhdyjbMBDX91t+mkYHdFdhCZ4/p5JI3hmZdxr2fsKMqPMvyr5pWCZkqFh7RmI5ykZEf3loi241WE=;+jXGYaWsDw/RHr37v+q8pw=="

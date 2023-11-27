@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna126214"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna126214"
 type: article
 quality: 89
-heat: 379
+heat: 369
 published: true
 
 provider:
@@ -168,22 +168,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2023/11/24/1600x900/UK-GOMEZ-8_1700787630959_1700787649517.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "ChatGPT-maker OpenAI says ousted CEO Sam Altman to return with new board just days after previous one fired him"
-    excerpt: "ChatGPT-maker OpenAI says ousted CEO Sam Altman to return with new board just days after previous one fired him"
-    publishedDateTime: 2023-11-22T06:53:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/chatgpt-maker-openai-ousted-ceo-sam-altman-return-105087523"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/chatgpt-maker-openai-ousted-ceo-sam-altman-return-105087523"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/chatgpt-maker-openai-ousted-ceo-sam-altman-return-105087523"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 54
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
         isCached: true
   - title: "Was OpenAI Brouhaha Aimed To Derail AI Capability To Complete Grade School Math?"
     excerpt: "It is being reported that a group of staff researchers at OpenAI conveyed their concerns to the board of directors"

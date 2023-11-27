@@ -41,6 +41,20 @@ related:
         width: 1518
         height: 900
         isCached: true
+  - title: "How MathWorks is fuelling innovation and powering startup success across diverse industries"
+    excerpt: "Empowering startups with MathWorks tools! 🌐 As a pioneer in mathematical computing software, MathWorks is driving innovation across diverse sectors. 💡From EVs to aerospace, healthcare, and industrial automation,"
+    publishedDateTime: 2023-11-27T06:31:00Z
+    webUrl: "https://yourstory.com/2023/11/mathworks-innovation-powering-startup"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 14
+    images:
+      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imagea36f-1700624577181.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "tDWQ9qF4XHdCeaoOlkEMIzv53we5eQn0BhxMtH9+IHeBptboNQFuLELaxzQGL+wYi6tqaKF1GZz/oVMYKfOpv+tNJJrS/DjBqnAqETqsHEcYjCzpdbkBOw1WW7XcFyVs6Vs7aVF72ScN2/Sur4Xo7ACktQzDCKG1pmTpiosjcJPT93f4hVKqNi8uJYjX7PJliuGSSxD2AZImbCg9fmTkIb9xV+m8UUMbEnkkr9HpB/F492ShVkAJZyyw2dM7yW7QCJ4Lj4663Z1AfVqwcxz6yYCVXjhx4G6IhBi0yr/ciw3QX4tpBIERAablLA37sw08Fkws8sxo7AhQvCT5tUiMN/aYwge6wUfs8JrddfIjS53WoIFjL7iCNx8mXLvhE5oRTMt5Hh0YiwwoTFgUwb+RWJH7eIKtipdtEKYQi46AD58EGDruzsES6S9/1/30xfHM+mUnd4THPM9VOWB2ngQiZwn8cGCpSURAAKyhWPQnlw2gXBYvg42OHUcbWSOo6MsQg5ewfJ5mCPbv0PagfX1d6A==;i6eMy6WkyEiQcOsFiT4RJg=="
 ---

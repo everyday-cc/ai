@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/24/71-of-employers-may-be-left-behind-in-the-generative-ai-race/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/large-language-model-LLM-generative-AI-chat-gpt-peopleimagescom-adobe.jpg"
         width: 1200
         height: 400
+        isCached: true
+  - title: "Generative AI offers companies and their employees more effective ways of working"
+    excerpt: "PwC has extended its collaboration with Microsoft with the launch of its new PwC generative artificial intelligence (AI) business centre. Enabled by Microsoft technology, the PwC generative AI Business Centre will help organisations to achieve returns on their investments in a safe and secure way."
+    publishedDateTime: 2023-11-27T05:00:00Z
+    webUrl: "https://www.irishtimes.com/sponsored/2023/11/27/generative-ai-offers-companies-and-their-employees-more-effective-ways-of-working/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 34
+    images:
+      - url: "https://www.irishtimes.com/resizer/mWHzY1BQTp9TJXGICrlYzbjR4uw=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/OYVRG7IKVFAPDI4RCFGBZ2X324.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "uQV+fY36nE4z60R4WGeHTPCL3pQFCbb85c4S0X7Yh35wpO1+v/sQlpkzjd1I0MXXqoka90ObKXSkODWEEMrg2ppPqBgybp3BwGq/FCOVGJkPqbReVP9Wh8YYVCeP14iyvWzWks7OJEMtOVa6VAIQkzMJYY8CRfZ5CyBq9JxnFMJVkXL1j1X1CartpujepLeCgmyEGqid/UjutsBio+JT7hOg42fAAHhpukyUcf7ls5TkRTiGbS/bdmiFJaHZyRnQt0ecWKYUaaBElkn7If+uUNIBiURmTPhDQuz+XB3cpEEFCACsbH5wKgYdLKkAFI5tbYVfEfGeI1+BkUBQhLkmRXZr7U2sLw+1DKRXXCA5cqEpVHdJ80hfm1xyPjEHyaAHvSvo6B+6j612k9e4o06bwxnm7h/hu7Ox051+nIKPu8xxU3RTZQOYwMPIUPf/w+7/CJQTJLFinJmddmi3wUyiREQ3XZ7XkXtkdM6KT7mUyxflNTpi318OUVrYuwcBXjKl3yW2lyt1pq9I5aXksaneQw==;pPFnDj7W+Nf4sbqrdmTcyQ=="

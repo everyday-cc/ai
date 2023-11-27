@@ -54,20 +54,6 @@ related:
         width: 375
         height: 563
         isCached: true
-  - title: "University of Cambridge launches AI research centre to ensure technology benefits humanity"
-    excerpt: "The University of Cambridge said it hoped the institute would minimise AI's risks to humanity. | ITV News Anglia"
-    publishedDateTime: 2023-11-22T05:30:00Z
-    webUrl: "https://www.itv.com/news/anglia/2023-11-22/new-research-launched-at-university-to-ensure-ai-benefits-humanity"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 29
-    images:
-      - url: "https://images.ctfassets.net/pjshm78m9jt4/II04T5Tj3ErJKGFWmdaz5/e580b5cf43e0fb09906e7d8d2e9c0d93/University_of_Cambridge.new.01.png?fm=jpg&fit=fill&w=1600&h=900&q=80"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "ViSJeebxIZcsKkSnCVhSX3qDszk6uT6ngIAqpJMo3K82OqJKxWsvBscapcCHH0Ffczv/5T5FDbDeZoxN7+D888pui5rwMZyEkuCNas6LISU3U/4ohgenHvduBd4edkFnlTrF4EZ8HWFCLCk9NQTlQyuLvuW0zYA0zzv6zy2F5yMqPTMTz/YxBziW+Q5BRwz+gfBb35J0ZXxHwnQwVWX25B9uvpbzZOPUuoY103aobdQUS6EB6ymqqrKDVeKZC3e7tqY33QDfe6S+whjvDhbhag47Yo+iJOAnfhQP17ohCxaC8b8O4sfKs/D//l4+S+T1t+YmCxTVeiIAHJz46fxbbvu2Eb16ttc1ZZgky0ArdQw=;aaYf8L5vMZLh9HfRrGxCug=="
 ---

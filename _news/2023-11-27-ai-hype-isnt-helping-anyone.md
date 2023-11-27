@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711382/ai-hype-isnt-helping-anyon
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711382/ai-hype-isnt-helping-anyone.amp.html"
 type: article
 quality: 87
-heat: 89
+heat: 90
 published: true
 
 provider:

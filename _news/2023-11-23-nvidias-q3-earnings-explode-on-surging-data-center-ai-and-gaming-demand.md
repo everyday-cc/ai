@@ -184,20 +184,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Nvidia Revenue Rockets On Demand For Powerful Chips"
-    excerpt: "Nvidia on Tuesday reported that its revenue more than tripled in the recently ended quarter as companies snapped up chips to power artificial intelligence (AI)."
-    publishedDateTime: 2023-11-22T07:00:00Z
-    webUrl: "https://www.latintimes.com/nvidia-revenue-rockets-demand-powerful-chips-549085"
-    type: article
-    provider:
-      name: Latin Times
-      domain: latintimes.com
-    quality: 39
-    images:
-      - url: "https://d.latintimes.com/en/full/547992/nvidia.jpg"
-        width: 768
-        height: 530
-        isCached: true
   - title: "How is artificial intelligence impacting data center design?"
     excerpt: "As AI is reshaping how we interact with machines and the world around us, the design of data centers needs to adapt to this fast-changing landscape. So, Page pairs expert thinking with high-performing solutions to meet the needs of rapidly advancing technologies."
     publishedDateTime: 2023-11-22T23:30:00Z

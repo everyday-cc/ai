@@ -46,6 +46,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "True Corp reveals charter for ethical AI adoption in Thailand"
+    excerpt: "Thai telco True Corporation has unveiled its strategy for sustainable artificial intelligence (AI) adoption that includes new guidelines for ethical usage of the technology in Thailand."
+    publishedDateTime: 2023-11-27T05:19:00Z
+    webUrl: "https://developingtelecoms.com/telecom-business/operator-news/15855-true-corp-reveals-charter-for-ethical-ai-adoption-in-thailand.html"
+    type: article
+    provider:
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
+    quality: 34
   - title: "The Next Big Thing: Unveiling the Hottest Technologies to Watch in 2024"
     excerpt: "In the ever-evolving landscape of technology, the quest for the next big thing is a perpetual journey. As we approach the threshold of 2024, the anticipation for groundbreaking innovations reaches new heights."
     publishedDateTime: 2023-11-23T16:01:00Z

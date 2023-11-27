@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 89
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -179,20 +179,6 @@ related:
       name: in.mashable
       domain: mashable.com
     quality: 30
-  - title: "ChatGPT rolls out voice chat feature to all users for free"
-    excerpt: "OpenAI has announced that ChatGPT's voice chat feature will now be available to all mobile users for free. The feature, which first debuted back in September alongside image recognition, has only been available to users on the paid subscription plans for the artificial intelligence (AI)-powered chatbot prior."
-    publishedDateTime: 2023-11-22T05:39:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/11/22/chatgpt-rolls-out-voice-chat-feature-to-all-users-for-free"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/11/22/2401236.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
     excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"
     publishedDateTime: 2023-11-24T20:22:00Z

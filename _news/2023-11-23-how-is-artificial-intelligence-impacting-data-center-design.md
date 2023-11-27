@@ -193,20 +193,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Nvidia Revenue Rockets On Demand For Powerful Chips"
-    excerpt: "Nvidia on Tuesday reported that its revenue more than tripled in the recently ended quarter as companies snapped up chips to power artificial intelligence (AI)."
-    publishedDateTime: 2023-11-22T07:00:00Z
-    webUrl: "https://www.latintimes.com/nvidia-revenue-rockets-demand-powerful-chips-549085"
-    type: article
-    provider:
-      name: Latin Times
-      domain: latintimes.com
-    quality: 39
-    images:
-      - url: "https://d.latintimes.com/en/full/547992/nvidia.jpg"
-        width: 768
-        height: 530
-        isCached: true
   - title: "Nvidia’s Record Performance and Leadership in AI Drive Buy Rating and Optimistic Growth Forecast"
     excerpt: "Analyst Cody Acree of Benchmark Co. reiterated a Buy rating on Nvidia (NVDA – Research Report), with a price target of ... The rapid adoption of Generative AI and Large Language Models by major consumer internet companies and cloud service providers ..."
     publishedDateTime: 2023-11-23T02:17:00Z

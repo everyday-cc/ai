@@ -72,15 +72,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "How digital transformation is reshaping auditing"
-    excerpt: "Digital innovation offers unique insights throughout the audit process, enabling auditors to offer increased value and efficiency in a demanding economy. The second 2023 SAICA Audit Reform Webcast, held in August and chaired by SAICA executive for audit and assurance Thandokuhle Myoli,"
-    publishedDateTime: 2023-11-22T06:53:00Z
-    webUrl: "https://it-online.co.za/2023/11/22/how-digital-transformation-is-reshaping-auditing/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 4
 
 secured: "8rPkBQwt/xMgu2YGhgpTW0TuA6R8qsSvh5HZvT8cFXe7m0+pPHvxbugY/D/ex5m/gDae1i7BKagz+1wqfO0o6FOkHeLSfwdUamg19UszZkVG9EddjQ1JkwdSUsBs+cPXvgHPRlyY/PtvWRNwiJuHIl+6J4g00WNhZVZOinzgiQEg6Z8fidj0Tn0Zj3+VWusTA1Zybt7j5oXuauXXtg0UB+DXa1bwp/sMUp1Od6F4y46fnLMNbTP4WrneQOR1DGOw+Knxxf21MJDNzACqm4nJgFocAyXO5+7u99ewqWMW2CBJuxhKfAmq7utg+r91/Jr2WjMpDW8Z/5UO7FRlMoJDzSjNqEH9+cTBZx3DKG+IkfA=;zIO149UtzfgWUK1x/iQt5g=="
 ---

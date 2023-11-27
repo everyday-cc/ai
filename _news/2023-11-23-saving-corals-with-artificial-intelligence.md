@@ -7,7 +7,7 @@ originalUrl: "https://www.sbs.com.au/language/german/en/podcast-episode/mit-kuns
 webUrl: "https://www.sbs.com.au/language/german/en/podcast-episode/mit-kunstlicher-intelligenz-korallen-retten/cbdi08fi5"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Revolutionizing Steel Mill Operations with AI Vision"
+    excerpt: "Synopsis: Primetals Technologies pioneers AI-driven computer vision to detect strip cross cracks, reducing downtime and equipment damage at thyssenkrupp Hohenli"
+    publishedDateTime: 2023-11-27T05:50:00Z
+    webUrl: "https://www.steelguru.com/steel/revolutionizing-steel-mill-operations-with-ai-vision"
+    ampWebUrl: "https://www.steelguru.com/amp/story/steel/revolutionizing-steel-mill-operations-with-ai-vision"
+    cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/steel/revolutionizing-steel-mill-operations-with-ai-vision"
+    type: article
+    provider:
+      name: Steel News
+      domain: steelguru.com
+    quality: 59
+    images:
+      - url: "https://gumlet.assettype.com/steelguru%2F2023-11%2F2729572e-f360-450c-9e29-a4b25a32723a%2FThyssenkrupp.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true"
+        width: 564
+        height: 327
+        isCached: true
 
 secured: "TlyBcQLRdqwM3rXk+eIRHm1Aqj4K8yqlACDMOvXL9EHDdUXNcEUikOH0A4DtgTd2CNT+nz4GSIjS7MfYNDEC/Hac7OitEB/lYkkFmRjKxCIPFg6/KTQIv2fuRfeyiim2fOu//xW14byb/A143nwhINgGduAc+b1VwaoVl18by0pwczgiTFj+UrN49ZIhvx+8XEJEZG2UWBivECfhUXxfJ9/oKGOblrp33Xgu+ZVmfxa/7ig4K2MUORwIprm1gZ04V5WIAk7XyFfsOzd9cfm6LPLDgwFdLYdZRtC2cGdCdWnNc0IAc5Bt4b5nC8WwGgUNIELdQ4y433RrK4d97GRHyvuTD7BZ5hQuKG5MjVurQucAv12y6YkpgKQS/DCD5eaV0MJCjUDeR8bCje8JnJImSf/at2A7ZWP041Wjf2t/uWF86NJit3XCpP2Ttexh6Hswyv3FX5GzA6SJOuleMIzNPicmJyicz4GBwo8z2Sm5nvvcVG1tSIu0yFBEMRXVht0V8+XyFJui0NU5CvPNg16hSw==;JN+hH5I7KHuD8OdDiZKR2Q=="
 ---

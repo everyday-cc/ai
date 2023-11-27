@@ -1,0 +1,61 @@
+---
+category: news
+title: "How MathWorks is fuelling innovation and powering startup success across diverse industries"
+excerpt: "Empowering startups with MathWorks tools! 🌐 As a pioneer in mathematical computing software, MathWorks is driving innovation across diverse sectors. 💡From EVs to aerospace, healthcare, and industrial automation,"
+publishedDateTime: 2023-11-27T06:31:00Z
+originalUrl: "https://yourstory.com/2023/11/mathworks-innovation-powering-startup"
+webUrl: "https://yourstory.com/2023/11/mathworks-innovation-powering-startup"
+type: article
+quality: 14
+heat: -1
+published: false
+
+provider:
+  name: Your Story
+  domain: yourstory.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imagea36f-1700624577181.jpg?fm=png&auto=format"
+    width: 800
+    height: 400
+    isCached: true
+
+related:
+  - title: "5 Innovative Startup Opportunities In Travel"
+    excerpt: "In this article we dive into five areas where startups are identifying gaps in the travel market, leveraging technology to enhance travel experiences, and catering to the increasing demand for authenticity and personalization in travel."
+    publishedDateTime: 2023-11-22T21:48:00Z
+    webUrl: "https://www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/"
+    ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655e77162a7db00c98c43d80/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1518
+        height: 900
+        isCached: true
+  - title: "AWS's generative AI functions support Taiwan startups innovation"
+    excerpt: "The rapid development of artificial intelligence (AI) has changed many aspects of our lives. In particular, the launch of generative AI at the end of 2022 has created a large wave of technological innovation,"
+    publishedDateTime: 2023-11-22T07:58:00Z
+    webUrl: "https://www.digitimes.com/news/a20231122PR204/ai-aws-generative-ai-news-highlights.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231122pr204_files/1_2b.jpg"
+        width: 1280
+        height: 852
+        isCached: true
+
+secured: "O+3+vKQcjzorDbezFvm5uIUdCixAGg+x1sHLhOzHyOrrjCp0OX8C23VoEMUAArO/VVG6wRNoKdu25C/diJ4XIW5mcLmmdSomUHLm41T/NKZsLvuSSHBoUfXBJgjG9/e5A6B4nCLJduhDGCTj36k2KG1ikLsMp9vhqngWKQfM/xt0xqXE/1w/fzkw6IJUAUbgaK5Hm2tcYlr6xmScdX1cdAqgPUnMg42OhnRuRnbKJDGmHhd4MjFRc8gH2bkgAFEewZvsKlWLS89GR9qqzxwR8IbiB9mVj+Ni640SRU4beYw0Nda7YpDFZmv1RwVEWAeCpm0PRR2kfq8rZdJj3ZRCky19oxNX55l+pQ5feyq1xr8=;2zXxd0ke79zBclIwQM2zng=="
+---
+

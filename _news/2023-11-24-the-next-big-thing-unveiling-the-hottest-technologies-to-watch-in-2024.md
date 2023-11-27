@@ -48,6 +48,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "True Corp reveals charter for ethical AI adoption in Thailand"
+    excerpt: "Thai telco True Corporation has unveiled its strategy for sustainable artificial intelligence (AI) adoption that includes new guidelines for ethical usage of the technology in Thailand."
+    publishedDateTime: 2023-11-27T05:19:00Z
+    webUrl: "https://developingtelecoms.com/telecom-business/operator-news/15855-true-corp-reveals-charter-for-ethical-ai-adoption-in-thailand.html"
+    type: article
+    provider:
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
+    quality: 34
   - title: "TELUS expands reconciliation commitments to include AI in 5th annual TELUS Indigenous Reconciliation & Connectivity Report"
     excerpt: "detailing how the company is on track or exceeding its reconciliation commitments and announcing a new goal to incorporate Indigenous perspectives into its data ethics and artificial intelligence (AI) strategy. The 2023 report features artwork by ..."
     publishedDateTime: 2023-11-23T11:13:00Z

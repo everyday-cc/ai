@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-start
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20231122pr204_files/1_2b.jpg"
         width: 1280
         height: 852
+        isCached: true
+  - title: "How MathWorks is fuelling innovation and powering startup success across diverse industries"
+    excerpt: "Empowering startups with MathWorks tools! 🌐 As a pioneer in mathematical computing software, MathWorks is driving innovation across diverse sectors. 💡From EVs to aerospace, healthcare, and industrial automation,"
+    publishedDateTime: 2023-11-27T06:31:00Z
+    webUrl: "https://yourstory.com/2023/11/mathworks-innovation-powering-startup"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 14
+    images:
+      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imagea36f-1700624577181.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "Y6p6pmL80kUELX2nR80mCvvta1AMGcKkrDDkMTga9LZBqUxK/ZbOCkg6wVHrn/TKLXyprZgEVexpV0dY8ldJv2gmpu0pFk44bH0+t3NaYMjf5R5+dXoVEIjnncny2qkhIRMZdxk0Ckee2LYZP2kdSi0cewJleWjtOQTuLG1v/t5B/E6LT9gJm9knD8qwdjSa4ZTIHdqedABsPzT0tMFN/Uog3/hDWa4veHeb/DM1Fb2lvNoK6tj/2MdNVYPyTB/1IYKH/kBAx7d+g3s/bwDI5j5LeVtNdw6AdWGilSmfP/WzKpijVkRx9936md3Utn3cwGPnUx058o4HEWOucwKIH/Zrhp2jWcNAmWPP8e3GtWs=;7tfAeDkBlR2vNCqyijVV2A=="
