@@ -107,6 +107,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Self-driving cars stay stuck in the slow lane"
+    excerpt: "Would you trust a self-driving car with your safety? If the idea of getting into a car with no steering wheel makes you feel distinctly nervous, then you’re probably not alone."
+    publishedDateTime: 2023-11-23T11:03:00Z
+    webUrl: "https://www.businesspost.ie/article/self-driving-cars-stay-stuck-in-the-slow-lane/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 24
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=e3b544bd-b5d6-52f1-b76f-ffddb1e3bf11&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=4500&height=2531&x=1.0E-5&y=0.07865"
+        width: 3000
+        height: 1687
+        isCached: true
 
 secured: "1Y68NcXWD+tD4fbUzubYII8A+tNMy/zUhbX8h0HbDS5wbxDTV+se+9tRfWMVQmriJFRoC2pWevUmtXC7Cfvy6KKswDqI4ZT6qVksnQNSsPmzPg59YGwrlz2C5SD7cyawKHiVwjqdbEKEqZPyab9SVHLf6p4aS/YnDQ3uyCNuZ9BTEeEZEUUNbxICTDG3mlvE3B5xawl/k12OoNYQEQieVHzp+oEyAAQTwPniGGyCVaJ0Ug1tRqXRyuoL5DJISVUZ3rAjGf6NImeC1uoTnvxIzR6gvLJItXSUvHgo8RxgdvHqJm6tXv9au/hUAKvTn7gUrm7OyxenTxqPridf4fXAoRENBOIbdgT/e/jvJKeSJvABPnuW1TllB75Sg8zHXA1BMBtNPzCBTcPWdeWR/nzhuvgtEEwaCKxOlvA4I3C+erxlGf3L092otnKSDSPZ0lLkg4JzfaDuefh5QybN3wMwrORIxTdfoVhIccf9wepKhP7TMfzXHnsMmMk7GOwsbSsG7Dw76TYbiwaRCfYips+ngw==;/AFkOLh9bpE1N0WL4n1nLw=="
 ---

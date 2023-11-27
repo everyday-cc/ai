@@ -39,6 +39,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Unlocking The Potential Of AI For Accounting Firms And Clients"
+    excerpt: "In the ever-evolving landscape of finance and law, AI has emerged as a dynamic force reshaping how accounting firms and their clients operate."
+    publishedDateTime: 2023-11-22T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/22/unlocking-the-potential-of-ai-for-accounting-firms-and-clients/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "TELUS expands reconciliation commitments to include AI in 5th annual TELUS Indigenous Reconciliation & Connectivity Report"
     excerpt: "detailing how the company is on track or exceeding its reconciliation commitments and announcing a new goal to incorporate Indigenous perspectives into its data ethics and artificial intelligence (AI) strategy. The 2023 report features artwork by ..."
     publishedDateTime: 2023-11-23T11:13:00Z

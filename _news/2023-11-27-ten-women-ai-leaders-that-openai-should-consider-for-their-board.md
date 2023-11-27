@@ -1,20 +1,22 @@
 ---
 category: news
-title: "He’s back: Sam Altman and the chaos at the heart of the AI industry – Full Story podcast"
-excerpt: "The CEO of OpenAI was sacked and then rehired days later, after staff threatened to follow him. But what does this corporate drama tell us about the future of artificial intelligence? Blake Montgomery"
-publishedDateTime: 2023-11-26T13:00:00Z
-originalUrl: "https://www.theguardian.com/australia-news/audio/2023/nov/27/sam-altman-openai-ceo-saga-chatgpt-return-full-story-podcast"
-webUrl: "https://www.theguardian.com/australia-news/audio/2023/nov/27/sam-altman-openai-ceo-saga-chatgpt-return-full-story-podcast"
+title: "Ten Women AI Leaders That OpenAI Should Consider For Their Board"
+excerpt: "After the recent whirlwind of changes at OpenAI, their board is suddenly composed solely of men. These are ten board director recommendations for OpenAI to consider."
+publishedDateTime: 2023-11-27T00:51:00Z
+originalUrl: "https://www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/"
+webUrl: "https://www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/"
+ampWebUrl: "https://www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/amp/"
 type: article
-quality: 28
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,9 +24,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i.guim.co.uk/img/media/d4876b120477fefa6ed3e124024779fef07ef007/0_179_5392_3235/master/5392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=559d5e62748369e30e0945579cfc36ec"
-    width: 1200
-    height: 630
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6563e518a61147fd4ec019ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1600
+    height: 640
     isCached: true
 
 related:
@@ -43,22 +45,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-08/230828-sam-altman-se-146p-e2b224.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Ten Women AI Leaders That OpenAI Should Consider For Their Board"
-    excerpt: "After the recent whirlwind of changes at OpenAI, their board is suddenly composed solely of men. These are ten board director recommendations for OpenAI to consider."
-    publishedDateTime: 2023-11-27T00:51:00Z
-    webUrl: "https://www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/"
-    ampWebUrl: "https://www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6563e518a61147fd4ec019ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 640
         isCached: true
   - title: "AI Wizard Sam Altman Shows What Real Leadership Is. His Bosses Were Clueless"
     excerpt: "A lot happened to artificial intelligence pioneer wizard Sam Altman, recently. But for me mostly it demonstrated how his bosses knew little about leadership. First let’s recap the basics of what happened over the past few days. First, Altman was a cofounder of OpenAI, a leading company in the development of advanced artificial intelligence."
@@ -414,6 +400,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "He’s back: Sam Altman and the chaos at the heart of the AI industry – Full Story podcast"
+    excerpt: "The CEO of OpenAI was sacked and then rehired days later, after staff threatened to follow him. But what does this corporate drama tell us about the future of artificial intelligence? Blake Montgomery"
+    publishedDateTime: 2023-11-26T13:00:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2023/nov/27/sam-altman-openai-ceo-saga-chatgpt-return-full-story-podcast"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 28
+    images:
+      - url: "https://i.guim.co.uk/img/media/d4876b120477fefa6ed3e124024779fef07ef007/0_179_5392_3235/master/5392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=559d5e62748369e30e0945579cfc36ec"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Exclusive-Sam Altman's ouster at OpenAI was precipitated by letter to board about AI breakthrough -sources"
     excerpt: "Ahead of OpenAI CEO Sam Altman’s four days in exile, several staff researchers sent the board of directors a letter warning of a powerful artificial intelligence discovery that they said could threaten humanity,"
     publishedDateTime: 2023-11-22T22:44:00Z
@@ -447,6 +447,6 @@ related:
       domain: ft.com
     quality: 0
 
-secured: "9CHXpITN7BZ1TmRojA6sFit+qWv6wx6E/PZ4ciRvFcSWrVxFlNNuK7rK/iKYQhokgUDcHM/O4Yrv28/K2ZPLLG1Qq+/aJPzmL/v6KGb1yDrBpRTr+7tSOabezAF5OcHLur23rBSjoA1jA1/Ff+JfzFZCbl5d9XOHwKFUZxtQqVMjfwdOi/w9D32TYBb8p3TZQzl70Z588sTH8ZFH+YiGVDiydGey675mHP862lb3KiBgOzgrZsR+m19fVt+JQIfQsl9Gbuc6Y2hwfsPSGNhuejU6FWYRvuJqmj4Ny8IHQEGctJJEdN8Ge6KKQHvxKjuCMTNQzbhGX34jQELaAvX9EXIQ7JPCIxTjF04S4P1VRxKlaX3WbPTpwIRQc2Bkn16svCqJIZGmHF9Jz2js3ycOKNqiNI5QeCpuoBaMMUdKlKnC4bmtWFa5fi8LTGrCRUdsv7u6aLrUO/uh0qFAzvSL5rxB9/KLCqB37ooYzdcwyLdu7QE8CqVsJbSvCDI7didb5Pfse8d5IpOzhyVHadR9aw==;0OO+Ps63oDIpTGrrKnEO/w=="
+secured: "UPUQAUeCpNAKGfkgVOz3a95xdxRMhuOZI8l2PRTP2M6d2/TkcNfXylpnipuOy0U8PSUQzQC1cam9Ny81yfqPu6a2iFBeWDvawQhVRi7Mf/XghB8Hkf4DmrT1kA4BVKLRPoFlzapVCa4G9H9fqfmLp5BxLpHXUdxvD71+Db5+p9na1+WEZ/uv4QCAam+oXc8t3yzsO7oo8KhzI3DmRAClk9pz9YFGHrZWw4sdUvi8iZhJMo8J+1qvBIu9ZQQAP1kAHgYq0zrGD+Rsa0Pai0BddKtMNuFoDfw7dZEjq1MR+B7Lad0RevmB4tBe4bkTss17gVWUW40LtmRp7iRKv6JB4ogjAxRaqvGExnglvWwgLxg=;IkxP4EGD8ogrb8jbVHxdMA=="
 ---
 

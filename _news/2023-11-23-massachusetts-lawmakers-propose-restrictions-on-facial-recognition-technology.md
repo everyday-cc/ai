@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 671
         isCached: true
-  - title: "Mass. bill would curb police use of facial recognition technology"
-    excerpt: "Civil rights activists have criticized the emerging technology for years, pointing to a growing body of research showing the software disproportionately misidentifies people of color."
-    publishedDateTime: 2023-11-21T23:35:00Z
-    webUrl: "https://www.wbur.org/news/2023/11/21/massachusetts-police-facial-recognition-rules"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
-    images:
-      - url: "https://wordpress.wbur.org/wp-content/uploads/2023/11/0225_senate-chamber14-1000x666.jpg"
-        width: 1000
-        height: 666
-        isCached: true
 
 secured: "GezjNCdlG8qaPYOjsHyFsff33CfVAGzl3fZF72Hlf2wjEZPbE03EtFFGcwFBy3eo+tV29z6cToDj7A8CLMMBF0UQNPH3tfUUEZy92m/ztIE7/gAf0Ws3jLL06I3AlEodxXOsn4ywxBW5HHCwxI3BbDyjsagkFscNIGgvIeJ5/d6+ArAxcD0WIk5DuToEwocAWcqbgzGWterHxPPNlBjDjAQbqE8wzxvc59B0U51zs91tkCVODdXB/CL+asAGUezMM/wpOYQnSZTPiZ/szrzKkjPSXfuJVC1RIQWuOilktFZGONCgrOY7GxmIi4sYxvDOrteGnLLHI7C5C6v68CSNcLCcEkZ/Q8XABmseWQ5KpsemElWECzHkd7hxv78ophjtXDMmtQ63ZKAey1Fa3Smdn9v9aOHZh09I3glwoqtnlLKZ2RYuur9+fSp+6G+Bv9uhAomc1g2FvK9DdGn5egdmrFlkGGRH+YhNuZVLA1DGr7yX4iYbEHfJtuFsmetvurb8ACZBQloGZNXKJrs0Y1AX8A==;al1WMO2NOiJ8V4l5CUZy+w=="
 ---

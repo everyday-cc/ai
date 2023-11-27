@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-start
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20231122pr204_files/1_2b.jpg"
         width: 1280
         height: 852
-        isCached: true
-  - title: "Tech Giant Acquires AI Startup: Industry Game Changer"
-    excerpt: "Startup’s Focus: Artificial Intelligence and Machine Learning Technologies The startup is focused on artificial intelligence (AI) and machine learning technologies and has already gained recognition in the industry for its inventive and groundbreaking ..."
-    publishedDateTime: 2023-11-22T00:00:00Z
-    webUrl: "https://www.dmnews.com/tech-giant-acquires-ai-startup-industry-game-changer/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 37
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/11/marketing-strategy-2.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
     excerpt: "We offer our self-developed products and services to both individual users and enterprise customers across Asia, under the brands KKBOX, BlendVision, and Going Cloud. The Company has also earned third-party international certifications including OpenChain ISO/IEC 5230 and ISO 27001."

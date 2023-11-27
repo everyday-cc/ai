@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Nvidia's AI Chip Glory Gets Dimmed By US Export Curbs"
-excerpt: "However, Nvidia shares dropped as the AI chip leader warned about the damaging impacts of US chip export curbs on its fourth quarter revenue. For the quarter that ended on October 29th, Nvidia reported its revenue grew 206% YoY to $18.12 billion, ..."
-publishedDateTime: 2023-11-22T19:38:00Z
-originalUrl: "https://www.benzinga.com/23/11/35923680/nvidias-ai-chip-glory-gets-dimmed-by-us-export-curbs"
-webUrl: "https://www.benzinga.com/23/11/35923680/nvidias-ai-chip-glory-gets-dimmed-by-us-export-curbs"
-ampWebUrl: "https://www.benzinga.com/amp/content/35923680"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35923680"
+title: "NVIDIA delays new H20 AI GPU shipments in to China, first chip designed after US sanctions"
+excerpt: "NVIDIA's first AI GPU designed to comply with US export rules into China -- the H20 AI GPU -- has been delayed from December, to Feb/March 2024."
+publishedDateTime: 2023-11-27T00:57:00Z
+originalUrl: "https://www.tweaktown.com/news/94577/nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions/index.html"
+webUrl: "https://www.tweaktown.com/news/94577/nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions/index.html"
 type: article
-quality: 76
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TweakTown
+  domain: tweaktown.com
 
 topics:
   - AI Hardware
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-futuristic-innovation-technology-remix_2.jpg?width=1200&height=800&fit=crop"
-    width: 1200
-    height: 800
+  - url: "https://static.tweaktown.com/news/9/4/94577_502_nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions_full.png"
+    width: 1500
+    height: 836
     isCached: true
 
 related:
@@ -43,6 +40,22 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/11/nvidia-ai-gpu-800x407.jpeg"
         width: 800
         height: 407
+        isCached: true
+  - title: "Nvidia's AI Chip Glory Gets Dimmed By US Export Curbs"
+    excerpt: "However, Nvidia shares dropped as the AI chip leader warned about the damaging impacts of US chip export curbs on its fourth quarter revenue. For the quarter that ended on October 29th, Nvidia reported its revenue grew 206% YoY to $18.12 billion, ..."
+    publishedDateTime: 2023-11-22T19:38:00Z
+    webUrl: "https://www.benzinga.com/23/11/35923680/nvidias-ai-chip-glory-gets-dimmed-by-us-export-curbs"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35923680"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35923680"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 76
+    images:
+      - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-futuristic-innovation-technology-remix_2.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Thousands of RTX 4090 GPUs Are Being Rebuilt for AI Computing in China"
     excerpt: "In China, Nvidia's RTX 4090 is being repurposed in the thousands. The GPU components are taken out, and put in a new PCB and cooler design!"
@@ -76,21 +89,7 @@ related:
         width: 748
         height: 511
         isCached: true
-  - title: "NVIDIA delays new H20 AI GPU shipments in to China, first chip designed after US sanctions"
-    excerpt: "NVIDIA's first AI GPU designed to comply with US export rules into China -- the H20 AI GPU -- has been delayed from December, to Feb/March 2024."
-    publishedDateTime: 2023-11-27T00:57:00Z
-    webUrl: "https://www.tweaktown.com/news/94577/nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
-    images:
-      - url: "https://static.tweaktown.com/news/9/4/94577_502_nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions_full.png"
-        width: 1500
-        height: 836
-        isCached: true
 
-secured: "wRqRqzTyESvsAx3L7d4M7iDWQqTCpiR7pKzH/virTMd814vcg8NTWNIszi52+Fq2l/043Li9wPPjTpOJyZIuwyEBPGhj5yoQoZW4sDauBg0akoXshJbNdq01e5H8NgNiiCLuElddgJtZW/rrd6VGxAlvzvXZaVtgA2NlOB2TFglwhRjcu+7Ho3Qgr4zJVE5l/MeB6Zwj/04S+swT7dnyBGgGRiE8dNmQkAP/jCFKrXsfnZP8m9GiQl3FL3AStYdadBctrubE7RTfv0GEWP3V1aeD2KVvGTZ+K3HmO3V1qkT5vEWHTUALTYVZ1Do6dNSsQ9fLmDupWtRyQGBRdQpp+olUQyPsxI1aUVTIkrGW0LdXfow5ENzGSWKEgNmoSGSS6Lf6N2UT8Y2pn2OheYPIV3pTnTzoqJ7fRNmd5UqiY/blgzuGJ/e0Wp6lTxIkCAiFVOFmbDxu6TETn/ogsrM5XDeo101Qcw2bte+Yr9vzKYB3FvlfUOMGJLqQd4zp6bIlWysyUrQgk1SP1LaYaNxwhg==;ZUGH5KLar+s7NQUQKfThag=="
+secured: "1gUerR8pIbritgCJqQ8tKTDl9hynzBDMkP77yw7zzNfOUgfZ7qYBsKgzUKomDc/8qPqJZIXtRrsWOpFUYpMWP2yi+zQsLqMuq7BKJKg1vfZs2XnPy/I5N4BJDjmaZ9FvfbXCElIoC6JGLtzGxGc5fj7WgWtqB0xi6kXg/SwksigQHIBbV9Laxn8eUYj267U2qZU+TnzLfeda+6a+BigrOw0PUTWCUjeZIqaw7DiYM4A5/T8OR1Xmh41+wgI0RUa5Uxm/FiONdTMEtseuF4sV2FtcduHkK/d+yHs7Rm43/I6fjwgJGRdGF6asGaWYsOn0a9dGjBeqrqY1VD22x4IlM+7Z+CGTL/sAkkaH+9olRus=;DEfVKLbxgZdBtJOIx9bSOA=="
 ---
 

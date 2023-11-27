@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bostonherald.com/2023/11/23/guardrails-needed-for-police
 cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/11/23/guardrails-needed-for-police-use-of-facial-recognition-software-in-massachusetts-advocates-say/amp/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mass. bill would curb police use of facial recognition technology"
-    excerpt: "Civil rights activists have criticized the emerging technology for years, pointing to a growing body of research showing the software disproportionately misidentifies people of color."
-    publishedDateTime: 2023-11-21T23:35:00Z
-    webUrl: "https://www.wbur.org/news/2023/11/21/massachusetts-police-facial-recognition-rules"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
-    images:
-      - url: "https://wordpress.wbur.org/wp-content/uploads/2023/11/0225_senate-chamber14-1000x666.jpg"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "Massachusetts lawmakers propose restrictions on facial recognition technology"
     excerpt: "The bill would require police to get a warrant to use face biometrics to identify a suspect and inform defendants they were identified through the software."
     publishedDateTime: 2023-11-22T23:01:00Z

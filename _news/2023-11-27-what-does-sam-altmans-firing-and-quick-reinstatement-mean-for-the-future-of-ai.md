@@ -2,25 +2,25 @@
 category: news
 title: "What does Sam Altman's firing — and quick reinstatement — mean for the future of AI?"
 excerpt: "Altman was removed as CEO Friday in a sudden and mostly unexplained exit that stunned the industry. He was swiftly reinstated days later."
-publishedDateTime: 2023-11-26T21:34:00Z
-originalUrl: "https://www.kvue.com/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
-webUrl: "https://www.kvue.com/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
-ampWebUrl: "https://www.kvue.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
-cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+publishedDateTime: 2023-11-26T22:10:00Z
+originalUrl: "https://www.ktvb.com/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+webUrl: "https://www.ktvb.com/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+ampWebUrl: "https://www.ktvb.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+cdnAmpWebUrl: "https://www-ktvb-com.cdn.ampproject.org/c/s/www.ktvb.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
 type: article
 quality: 50
 heat: -1
 published: false
 
 provider:
-  name: KVUE
-  domain: kvue.com
+  name: KTVB
+  domain: ktvb.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media.kvue.com/assets/CCT/images/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804_1140x641.jpg"
+  - url: "https://media.ktvb.com/assets/CCT/images/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -41,6 +41,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-08/230828-sam-altman-se-146p-e2b224.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Ten Women AI Leaders That OpenAI Should Consider For Their Board"
+    excerpt: "After the recent whirlwind of changes at OpenAI, their board is suddenly composed solely of men. These are ten board director recommendations for OpenAI to consider."
+    publishedDateTime: 2023-11-27T00:51:00Z
+    webUrl: "https://www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/"
+    ampWebUrl: "https://www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6563e518a61147fd4ec019ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 640
         isCached: true
   - title: "AI Wizard Sam Altman Shows What Real Leadership Is. His Bosses Were Clueless"
     excerpt: "A lot happened to artificial intelligence pioneer wizard Sam Altman, recently. But for me mostly it demonstrated how his bosses knew little about leadership. First let’s recap the basics of what happened over the past few days. First, Altman was a cofounder of OpenAI, a leading company in the development of advanced artificial intelligence."
@@ -427,6 +443,6 @@ related:
       domain: ft.com
     quality: 0
 
-secured: "Yax7JttFklxVyIzY/SWYkqqoHYW+2nMGl2/zwBbjXYXXSAMhvB13/OZN15GXZIlvuIuQjO+z9HlrOpJO8bgxRoTo6zfSaDIkzLIwE2ArsweRg0Zbcuxv34729xe2YJjaNVCchSeUwd3TBiJHS768otTHqbrdTV7ydkyE0dc22D3B8/WSmz3f1E7YPfkvUHzoCRDTwMptISJXFK7EZeJIUgpecTYe6lT2jQEOn3PA36oFE9I+w/Vc5k/LOK2p2U0NcOd3OF/67RKS1JOAsysnR7SaJC47UsY3XcyCw+0zWXX2pjcVnEh8Z1s+7miQD85M9ZbXfjxvRHeCTaK9zz6UBJoO/jl+EBuEVVuouXe2CJw=;iUGVz/SDZPvDfdBLp9Tz5A=="
+secured: "xomyYClr7Ke+E9UWUUk0xx9lKYdPeWhNg2gYiKcNCW9QjlqJpxfEyCobxuDs09Y2qbsgC+QPirYFBt3sj7sTKQmE/7T3Axm0AnHkTvnTCMl8EukjVlP3VM8RTpehPb3jUD4ukcjb7Tn+3XKDi6joORtw/+ZfOwhhuZCZa9vi9IUZCbTJvlVaIAayQIYWvHv/Aav5KsOer21R/6Cliv07yWVCOwb4lLSeUKuVxfzF7fh69CarXxvA9cNbsQad2k5TOeVNDrqe4Sq4AnzgQXELAC2gJz+mvJISn4zrEAml/mObL6ULkGJexiSNSeFhr+teMMUdNPs8O4ynXS2ThXu4xuLMsABUFYohQdvGe3MeU2I=;WSfzZ/CekL4wbJKgOyv4UA=="
 ---
 

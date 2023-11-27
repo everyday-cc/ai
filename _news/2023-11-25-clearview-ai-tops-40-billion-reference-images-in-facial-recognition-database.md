@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202311/clearview-ai-tops-40-billio
 webUrl: "https://www.biometricupdate.com/202311/clearview-ai-tops-40-billion-reference-images-in-facial-recognition-database"
 type: article
 quality: 51
-heat: 74
+heat: 71
 published: true
 
 provider:

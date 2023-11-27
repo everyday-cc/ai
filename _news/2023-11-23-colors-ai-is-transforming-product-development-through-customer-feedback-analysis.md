@@ -24,63 +24,63 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring AI: Artificial intelligence’s development and future potential"
-    excerpt: "AI ethics in education is a big deal as well. Nadia Pesch, a senior at Lane Tech, said she’s familiar with classmates using Chat GPT to cheat. “I pretty much had every teacher saying ‘Don’ ..."
-    publishedDateTime: 2023-11-22T00:00:00Z
-    webUrl: "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/"
-    ampWebUrl: "https://wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/"
-    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/cover-story/exploring-ai-artificial-intelligences-development-and-future-potential/amp/"
+  - title: "How AI Is Transforming Leasing, Security And Resident Services"
+    excerpt: "Check out Benzinga's favorite private market real estate offerings and start collecting your share of the rental income. From leasing and security to enhanced resident services, artificial intelligence (AI) can help property managers improve their ..."
+    publishedDateTime: 2023-11-24T11:01:00Z
+    webUrl: "https://www.benzinga.com/real-estate/23/11/35941423/how-ai-is-transforming-leasing-security-and-resident-services"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35941423"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35941423"
     type: article
     provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 75
-    images:
-      - url: "https://wgntv.com/wp-content/uploads/sites/5/2023/11/snapshot-2023-11-21T213437.632.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU"
-    excerpt: "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,"
-    publishedDateTime: 2023-11-25T11:06:00Z
-    webUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 74
     images:
-      - url: "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Business-People-And-Humanoid-Ai-Robot-Si.jpeg?width=1200&height=800&fit=crop"
+        width: 834
+        height: 556
         isCached: true
-  - title: "Unlocking The Potential Of AI For Accounting Firms And Clients"
-    excerpt: "In the ever-evolving landscape of finance and law, AI has emerged as a dynamic force reshaping how accounting firms and their clients operate."
-    publishedDateTime: 2023-11-22T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/22/unlocking-the-potential-of-ai-for-accounting-firms-and-clients/"
+  - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
+    excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
+    publishedDateTime: 2023-11-25T10:38:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Good AI, bad AI: Decoding responsible artificial intelligence"
-    excerpt: "Artificial intelligence (AI) is so hot right now. ChatGPT, DALL-E, and other AI-driven platforms are providing us with completely new ways of working. Generative AI is writing everything from cover letters to campaign strategies and creating impressive images from scratch."
-    publishedDateTime: 2023-11-24T19:17:00Z
-    webUrl: "https://techxplore.com/news/2023-11-good-ai-bad-decoding-responsible.html"
+      name: This Day
+      domain: thisdaylive.com
+    quality: 68
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Four ways AI is making the power grid faster and more resilient"
+    excerpt: "From predicting EV charge times to pinpointing areas of high wildfire risk, AI is transforming our energy network."
+    publishedDateTime: 2023-11-22T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/"
+    ampWebUrl: "https://www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 34
-  - title: "The Future of AI: Self-Learning Machines Could Replace Current Artificial Neural Networks"
-    excerpt: "New physics-based self-learning machines could replace the current artificial neural networks and save energy. Artificial intelligence (AI) not only delivers impressive performance but also demands significant energy."
-    publishedDateTime: 2023-11-22T22:14:00Z
-    webUrl: "https://scitechdaily.com/the-future-of-ai-self-learning-machines-could-replace-current-artificial-neural-networks/"
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/smart-grid.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "How digital transformation is reshaping auditing"
+    excerpt: "Digital innovation offers unique insights throughout the audit process, enabling auditors to offer increased value and efficiency in a demanding economy. The second 2023 SAICA Audit Reform Webcast, held in August and chaired by SAICA executive for audit and assurance Thandokuhle Myoli,"
+    publishedDateTime: 2023-11-22T06:53:00Z
+    webUrl: "https://it-online.co.za/2023/11/22/how-digital-transformation-is-reshaping-auditing/"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 25
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 4
 
 secured: "8rPkBQwt/xMgu2YGhgpTW0TuA6R8qsSvh5HZvT8cFXe7m0+pPHvxbugY/D/ex5m/gDae1i7BKagz+1wqfO0o6FOkHeLSfwdUamg19UszZkVG9EddjQ1JkwdSUsBs+cPXvgHPRlyY/PtvWRNwiJuHIl+6J4g00WNhZVZOinzgiQEg6Z8fidj0Tn0Zj3+VWusTA1Zybt7j5oXuauXXtg0UB+DXa1bwp/sMUp1Od6F4y46fnLMNbTP4WrneQOR1DGOw+Knxxf21MJDNzACqm4nJgFocAyXO5+7u99ewqWMW2CBJuxhKfAmq7utg+r91/Jr2WjMpDW8Z/5UO7FRlMoJDzSjNqEH9+cTBZx3DKG+IkfA=;zIO149UtzfgWUK1x/iQt5g=="
 ---

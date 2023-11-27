@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 852
         isCached: true
-  - title: "Tech Giant Acquires AI Startup: Industry Game Changer"
-    excerpt: "Startup’s Focus: Artificial Intelligence and Machine Learning Technologies The startup is focused on artificial intelligence (AI) and machine learning technologies and has already gained recognition in the industry for its inventive and groundbreaking ..."
-    publishedDateTime: 2023-11-22T00:00:00Z
-    webUrl: "https://www.dmnews.com/tech-giant-acquires-ai-startup-industry-game-changer/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 37
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/11/marketing-strategy-2.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "IuOIPwzII1o36uMLIRMRCj8Z8HGUjASS7C28AGRoSdiZvCPBPfcG55eFwIcY3bWe8ifr8je9pw70CusXY4n9E8lF5IncArBxopdZm0yJgWK3X94aal09d1ekiWnosYv56WGP7wJbMJ5JiTT+CUEcCVQ8ZYJ/J9jWdtTDFIpLRJLRfpC+ukGGxhmC7LwkKm0c/raJMH/wlCUTiHz5psO/oYFOPHFRhueoPK5Q8T85BDJMmjGk9VSpHWFosWEo2lsSjPCAYoVKvps8im6H3nAFjeWb0QTFelyBTdhXffwnYReHTbBm/rlN9m0YTQl9IeCqtUIWYPAJ2kUCrX7vaRE5m5h3rku4cQzQe6WitXYZUko=;jIkkOz7QW8FYecTW/qJVAg=="
 ---

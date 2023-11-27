@@ -75,6 +75,20 @@ related:
         width: 748
         height: 511
         isCached: true
+  - title: "NVIDIA delays new H20 AI GPU shipments in to China, first chip designed after US sanctions"
+    excerpt: "NVIDIA's first AI GPU designed to comply with US export rules into China -- the H20 AI GPU -- has been delayed from December, to Feb/March 2024."
+    publishedDateTime: 2023-11-27T00:57:00Z
+    webUrl: "https://www.tweaktown.com/news/94577/nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://static.tweaktown.com/news/9/4/94577_502_nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions_full.png"
+        width: 1500
+        height: 836
+        isCached: true
 
 secured: "gLoiu/6oweARxyEaVz05A8eDrsCyO5cjaXkAQBwRK/dVqYaw37uIWO4jO0OsxHS61HRCNOOgnw9qTpmitXE6R2449WXdToWtkpo8E99MV/7umR8iqlWkUB94H0YC/sk6U6HuSH6s8em0MvnO8x4pRC+fv7PFhGtR8E2QWxdfF3Tn3YrX1ujYmguf5s3nfID6SSbczusmWyyGrVZTHdT5VYmjKPDY5mqgRu8yfEn+U8q/KRJ831EMXMieetxcVIsOXbbagLgAVJ0vZKn4Z15NhriqhHUi32dB6YEfZzDTVSrptsDExeyoVKmLnbPjVGIpFU6x/iInt5f2OEJubueFx1VD6KpTnfsZBVEmn6GCaeNo8N8/bDc0bIz3NnQF7cEGj0yNX0AMtCJlS63Yg0t7oIKG9HiRGHFXX9bpyXhuUiXLZ6FIvIFznvdGLQtQYed+s/UXbD7rydTFFG4w3XfOJzy8nD+HkNUXxPT3P0bWq0XbkSjVLkWZQ2EaMLGwzAaRTrErIVtr4ZMsJ08jWQEcpg==;gp3pE/5Rkz/4EEpqzHR1aw=="
 ---

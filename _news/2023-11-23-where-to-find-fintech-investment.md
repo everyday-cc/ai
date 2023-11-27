@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 1457
         isCached: true
-  - title: "Bank, fintech leaders weigh in on the pros and cons of generative AI"
-    excerpt: "New iterations of tools powered by advanced artificial intelligence will aid banks in generating new value for customers, but the lack of regulatory guidance in this area hinders deeper adoption of the technology,"
-    publishedDateTime: 2023-11-21T23:05:00Z
-    webUrl: "https://www.americanbanker.com/news/bank-fintech-leaders-weigh-in-on-the-pros-and-cons-of-generative-ai"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 54
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/bd64195/2147483647/strip/true/crop/4032x2117+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F0a%2Fc5%2Fae14d712453398b237a3ea9be6ae%2Fimg-5968.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "yCPz5A0t3TxU+C4Ldc/KIQDCEy6PAyBNanEkhCqNw7F52T15T7r//09rMpvZPhgH19CtmWamHwc2TlgvhY8bSL14iN/Lqqhbfs+tDiV4+bH+fqh427DWn7FHhL8hWgMypWerUdleg37JotUR6JSjH0zvvpDjWj8NiXNb2zi+YjDk2WDiP/wGe0QNg0K+RiR2biYhUM/ebP7Lq2Bw/sCyUOCJ8bPV240ClU0AZSgInjTSXdDtNQVXqXrb7bbfi0DhU5h/Mr5naOeeL9jnMDZkVScNz/V2bJ+k9AyTiPpWO7bDxuKQGFnWfDkoVxguz+r0ZM45kL7Dd7OkOedhqszQuwVistC4FZZBKp3wW6fcBlw=;PKDNixYKJ5h/qKkm6JbeVQ=="
 ---
