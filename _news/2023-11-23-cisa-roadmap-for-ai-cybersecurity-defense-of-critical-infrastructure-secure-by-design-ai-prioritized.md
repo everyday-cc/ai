@@ -47,6 +47,20 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Artificial Intelligence and Cybersecurity: Safeguarding the Digital Landscape in 2024"
+    excerpt: "Introduction: In the dynamic and ever-evolving realm of cybersecurity, the integration of Artificial Intelligence (AI) has become a game-changer. Additionally, as we step into 2024, the fusion of AI and cybersecurity promises to revolutionize how organizations protect their digital assets."
+    publishedDateTime: 2023-11-27T10:50:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-and-cybersecurity-safeguarding-the-digital-landscape-in-2024/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 30
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Artificial-Intelligence-and-Cybersecurity-Safeguarding-the-Digital-Landscape-in-2024.jpg"
+        width: 650
+        height: 450
+        isCached: true
 
 secured: "Ss5Ev4Ymg5tETFq5IaYkSC8eDJl+3kLMlyL56fjAjGJno+RNAp60+u0uLok/zaq5GSB2KaV6TVtB6VoonKJCwyqAo5x2Fez7yrmw8GZQHJyreDpAFY02d/eh5DSftL6gzs8lgMYwxhovOP4+hx4vHLJrJ6v9BcyjlxQkUoOGfV39OcmqsYE5w4iDwUpaBy+LeGsYLmDvkBkr33W36O6WRZOiRmP1Z2dd49z7PY5rDH4c/0hJNihaRbr63HbV8uEszXrMbwbqhVTJAAIt8kMn3kmiZlMtgk3pQ+G44MVisNqhqiJh5oK+xGJ0uC/vwcUkhJ7ldaBKx56pvuYRtUpD2K0GMtxLOvAoU4Pwgs/QYZ7yH4YbpJrdSP+yjuY7IOVBk0j0lj+Uo7KbMCXgEHfNIf+Rb2h0eOdhLuYvspjRih45dlOAcxj4L2E1L1LRWmNQHNGuSerybEmleoWpLlJZcR9s9AwA4JyD3JzTwyML+pduP53zkHfHv3csJ5gEBXlEfm6mAdHdkTd6F3hZi8IwGg==;lEJ1DvyUG7cwDyaifRrTeg=="
 ---

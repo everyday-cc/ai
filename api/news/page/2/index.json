@@ -293,7 +293,7 @@
       "originalUrl": "https://techbullion.com/before-deep-learning-a-journey-into-the-pre-2000-era-of-neural-networks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -379,7 +379,7 @@
       "originalUrl": "https://www.benzinga.com/real-estate/23/11/35941423/how-ai-is-transforming-leasing-security-and-resident-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -517,7 +517,7 @@
       "originalUrl": "https://www.foxnews.com/sports/fox-sports-expands-google-cloud-partnership-generative-ai-automate-archived-sports-video-search",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -610,7 +610,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-to-apply-natural-language-processing-to-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -701,6 +701,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-24-driverless-cars-immune-from-traffic-tickets-in-california-under-current-laws.md",
+      "title": "Driverless cars immune from traffic tickets in California under current laws",
+      "excerpt": "An NBC Bay Area investigation reveals autonomous vehicles in California cannot be cited for moving traffic violations since transportation laws require tickets to be issued to actual “drivers.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/",
+      "originalUrl": "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbclosangeles.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1",
+      "publishedDateTime": "2023-11-23T23:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Los Angeles",
+        "domain": "nbclosangeles.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1138,49 +1181,6 @@
         "Facebook AI",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-ai-sustainability-to-shape-data-centre-trends-in-2024.md",
-      "title": "AI, sustainability to shape data centre trends in 2024",
-      "excerpt": "Vertiv forecasts a strong focus on AI-enablement and energy management in the global data centre industry, heading into 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/wbrpO7g2jnJvDLZn",
-      "originalUrl": "https://www.itweb.co.za/content/wbrpO7g2jnJvDLZn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/11/Giordano-Albertazzi-2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/wbrpO7g2jnJvDLZn",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2jnJvDLZn",
-      "publishedDateTime": "2023-11-23T10:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

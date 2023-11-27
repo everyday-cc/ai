@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/sports/ai-driven-technology-revolutionize-sp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/ai-driven-technology-revolutionize-sports-betting-personalized-experiences-based-patterns-interests.amp"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Fox News
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Great places to work - UKG outlines its AI ambitions for HR tech"
-    excerpt: "At UKG’s recent Aspire conference, CEO Chris Todd focused on the theme of great places to work, saying employees need a haven to thrive at work more than ever. He unveiled a new mission statement: To inspire every organization to become a great place to work through technology built for all."
-    publishedDateTime: 2023-11-22T10:22:00Z
-    webUrl: "https://diginomica.com/great-places-work-ukg-outlines-its-ai-ambitions-hr-tech"
-    ampWebUrl: "https://diginomica.com/great-places-work-ukg-outlines-its-ai-ambitions-hr-tech?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/great-places-work-ukg-outlines-its-ai-ambitions-hr-tech?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-11/Screenshot%202023-11-22%20at%2010.19.39.png"
-        width: 1012
-        height: 860
-        isCached: true
 
 secured: "cKCXTf4Fl0xNzCtKowTYUtRVfZfBPENSnHRXMTZMazF3E3K3X0dWK2eHHUusGkbpy86AyMbeff25PKuW4mpUSqOjECTZlxrwrA30I3yJhbmvM4rAjZKvspZf0VbCUUDswCQYTJLAojOvL15bmC9FEPXv18sEXbiwSzgyV298z6qrvjxTDijI69QjalstVJm5TnDsja9u1zS3sUUOE4lyOIfqYJMbi/zMQdquAGcvZH56pnlt78+nXEzhqir1JnbEYfk44YQVA2psTS2BtJJy2Be2SXQ5GPiphRcejhMJF3TwyfT8UAxaGWxfUmrUrhFekjSSNZJTHUTaUc4Fxxo8hxOuaKyEq2t7PnsWKmr8MGI=;hXqSrSJZbGETtHf3u9LfJw=="
 ---

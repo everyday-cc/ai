@@ -61,6 +61,15 @@ related:
         width: 4896
         height: 3672
         isCached: true
+  - title: "The Very Group selects AWS to transform the shopping experience with generative AI"
+    excerpt: "“We are proud to be selected by The Very Group to create innovative retail solutions using AI. Using Amazon SageMaker, Very is already leveraging machine learning to transform its business operations. Incorporating new generative AI capabilities like ..."
+    publishedDateTime: 2023-11-27T00:01:00Z
+    webUrl: "https://retailtimes.co.uk/the-very-group-selects-aws-to-transform-the-shopping-experience-with-generative-ai/"
+    type: article
+    provider:
+      name: Retail Times
+      domain: retailtimes.co.uk
+    quality: 28
   - title: "AWS re:Invent 2023: Our guide to the top sessions and speakers"
     excerpt: "AWS Machine Learning Hero Kesha Williams breaks down the top keynotes and cloud content to look for at AWS re:Invent 2023, including generative AI and data updates."
     publishedDateTime: 2023-11-22T22:38:00Z

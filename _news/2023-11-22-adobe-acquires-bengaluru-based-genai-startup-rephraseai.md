@@ -54,17 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Adobe Acquires Bengaluru-Based AI Video Creation Platform Rephrase.ai"
-    excerpt: "This is Adobe’s first acquisition in the Indian startup ecosystem and also its first acquisition of a generative AI startup Following the acquisition, a majority of Rephrase.ai's team members will join Adobe and the former’s investors will likely get a ..."
-    publishedDateTime: 2023-11-22T10:58:00Z
-    webUrl: "https://inc42.com/buzz/adobe-acquires-bengaluru-based-ai-video-creation-platform-rephrase-ai/"
-    ampWebUrl: "https://inc42.com/buzz/adobe-acquires-bengaluru-based-ai-video-creation-platform-rephrase-ai/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/adobe-acquires-bengaluru-based-ai-video-creation-platform-rephrase-ai/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 37
   - title: "Adobe's Rephrase.ai Acquisition Marks Strategic Entry into Indian Startup"
     excerpt: "Adobe's Rephrase.ai Acquisition Marks Strategic Entry into Indian Startup - Adobe, headquartered in San Jose, has completed its first acquisition of an Indian tech startup by"
     publishedDateTime: 2023-11-23T05:57:00Z

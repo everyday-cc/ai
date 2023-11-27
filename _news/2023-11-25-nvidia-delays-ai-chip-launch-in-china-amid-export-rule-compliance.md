@@ -167,6 +167,20 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Today in AI: Digital India Act to combat ill effects, AI now a \"short-term risk\" for investors, Nvidia delays launch of China-focused chip"
+    excerpt: "The aim of the Digital India Act (DIA) 2023 is to deal with the ill effects of artificial intelligence (AI) and it will succeed the current IT Act, Minister of State for Electronics and IT Rajeev Chandrasekhar said on Friday."
+    publishedDateTime: 2023-11-27T09:18:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-digital-india-act-to-combat-ill-effects-ai-now-a-short-term-risk-for-investors-nvidia-delays-launch-of-china-focused-chip-11816421.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 20
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image-770x433.jpg"
+        width: 770
+        height: 433
+        isCached: true
 
 secured: "3ADzH8TjlLxtzStFMKtVWzd3mMg6opzzwfg4GexYzw+5U0ZSxgDBKnPMEJsbB++hNw7ASDu5nxKjqooNAAz4z5PG7TijFAN5I8WmWMvpSAMImajqTAqzq8NIEIL1EchVqBRkeUmrNUURzp2LBoFduoiKYLJbIpd7WmFQQaJdOH7zhe89imOrqyaqH2e+41xofls7tKIxLl8AYSGB/yNhRtP9v9vp5fvvR3Zh9wjeCgbOJSDb3Gwh6XVI9Z0UVTcjylBAg3dOXQaXvunN8qSj774q+sZ+v6kZCY9jyeE9AQPLB0z9kM3Lw17RI6lHb0DgsJ1ah4J0LTkqlNTLdiK/hlikRhr9jo0eCn1kF4yniHjwlWZO6gIxos3O1qLOVtL0z2OEWbXFdLDgwBgUfeQGXwj0ZS3fnwCKRLCzTNCWxXyown5WDqoOyKupitrf8mFcKPzOV3/9P6kSXWVtvQtx3nZbode0wPpKWivBO6ysqxcqgsCMMSoOz1aVmpVQU+lfhoWjRndP7Ak1EsZPgngRyA==;oBHjWDMviJoi2F7ElW7hqg=="
 ---

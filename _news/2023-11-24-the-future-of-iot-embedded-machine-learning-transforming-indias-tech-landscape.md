@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/the-future-of-iot-embedded-machine-learning-transforming-indias-tech-landscape/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1256
     height: 1299
     isCached: true
+
+related:
+  - title: "AI in Healthcare 2024: Transforming Patient Care with Innovative Technologies"
+    excerpt: "Introduction: Artificial Intelligence (AI) has emerged as a powerful force in reshaping the landscape of healthcare. As we delve into 2024, the integration of AI in healthcare promises groundbreaking transformations,"
+    publishedDateTime: 2023-11-27T08:45:00Z
+    webUrl: "https://techbullion.com/ai-in-healthcare-2024-transforming-patient-care-with-innovative-technologies/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 51
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-in-Healthcare-2024-Transforming-Patient-Care-with-Innovative-Technologies.jpg"
+        width: 650
+        height: 450
+        isCached: true
 
 secured: "c35CcRVFUnticA9wxbeXIAZYJA9XBbjNiJw1erJlcEgnLOf67xZEYJE9txs579bBMUMo8i2Nu3v8R1woZhZWgklGkcMz5LhplgQ83rwY/RfUnbwZHja3qupt8rEMVoRbyLNBihARtFiZULf1cJXIJcgAO5K606YeDd971bgVO5Km5caUSJb2Roy9KHYn+DNpGKdStMWKEO9R0cEbSWSFX02+fVgB9R2JEmIC3+nw6NPD0PaJvk1z22AmMKlMaghJiw1VZ/jmDyytayGJXM2uXAtGEqRzcbvConprHwZB+kkdQ2ajW8RiFN810scgAowvpHwSTTzR0LwujoRLaadG5dRi0z83Bf8Z65SsbxYrPAkKdQrRiRNUZc9luBKppxpo1Wp8hSFfuzYHitMVURcHZtaccAnm3lskHKPYHsaLNpw/zP4XBDCuzSp6Ga/L0NyxsHYN8VPp+Pd7WUdZNcZSUYL3SxCEzmo7En5dhloyV+ipyuJ/6Nr+Q5ZAlRTbUAzKJN8D3NIJiLhq/mRia6jX5Q==;KxdXaHjdkaJqUkV6y67bfA=="
 ---

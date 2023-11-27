@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbclosangeles.com/news/national-international/driverless
 cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: NBC Los Angeles
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "California examines benefits, risks of using artificial intelligence in state government"
+    excerpt: "Generative AI could help quickly translate government materials into multiple languages, analyze tax claims to detect fraud, summarize public comments and answer questions about state services. Still,"
+    publishedDateTime: 2023-11-25T19:28:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2023-11-25/california-benefits-risks-artificial-intelligence-12163210.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 28
+    images:
+      - url: "https://www.stripes.com/incoming/v107ul-us-news-calif-ai-government-use-dmt.jpg/alternates/LANDSCAPE_480/US-NEWS-CALIF-AI-GOVERNMENT-USE-DMT.jpg"
+        width: 480
+        height: 299
+        isCached: true
   - title: "Isn't it about time we had driverless cars?"
     excerpt: "Driverless cars feel like they've been \"two or three years away\"… for the last 10 years. So why don't we have them yet? What technical and ethical hurdles do we still need to overcome to finally make robots our designated drivers?"
     publishedDateTime: 2023-11-22T14:00:00Z

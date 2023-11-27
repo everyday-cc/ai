@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
-excerpt: "The Flywheel platform is integrated with NVIDIA MONAI, part of the NVIDIA AI Enterprise software platform, and Azure Machine Learning Studio for development and deployment of production-grade AI ..."
-publishedDateTime: 2023-11-22T09:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
-webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure/"
+excerpt: "Flywheel announces the launch of its SaaS data management solution on Microsoft Azure, integrated with NVIDIA MONAI."
+publishedDateTime: 2023-11-22T13:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure"
 type: article
 quality: 29
 heat: -1
@@ -66,6 +66,6 @@ related:
       domain: techxplore.com
     quality: 34
 
-secured: "Z/vnnarWZq0G+BIhf++QCODuNveRFVk3UU6gBz4LWvJRgd+yYC9cuWhUy0BeXHzFMfxBVVpblvkxmxplESEbTfcjdOEq791TfGe7geb/vjftCEg64Ln1jjMykR8uYjZoxDuExupA5bVX1SpupiLubZpQKnPYhIRwUFl0LorScP8J7t1aJVImjcA5UT0x4AEPoMCNbyTFWRDMWLuMP/+XbAYMU3d3V3SOopRpUt8Qx80d+jtKOvJY0iE1xDW4vi4bRqxNqJFM4B7DzB44wdtqDoaP/pX3WzotOY4edQebfP2oVhSRM206PV/Ijk8ubWZDuGJJHchr9g74LiPqSizqXzZ/FWHEdCG0H6vCZ3Fh8cSwp3wCG1UjQPqWGWjCMsxyv+3cUvtAkmvO2F07wkaJqiBmBeNUIjw90VvUiS4620OUN0RV51Np+vtx494AuJpWlSbisf/6bqsc1CEF8DYqxGkaMSlv1PAxevMF7D6W5mRwv//t5HYfHtcJ2XG9vyKrwBA2GDxBXoS6DrMb+dqj6g==;cvHdZsnd3NuroPURqjw3EA=="
+secured: "UwPq35WHq+X7AAnvzzNsQQ0ET2RcdbU9i5m5rWYttax5z1cNGl73Hzrl7q2ozsF+lxf7fwBClScC6IIWJM3caGHSDvNanU8Mk2Q5tLNQYmSpW6AUOctR4mxLZxnmIwG3lE+4dsMyp915M2tmD5w7JiBtVC0qzy/iyo41uIv6LeubR31AUV94fVzjJc/t/m12g7fEHrbtlLAWXZRcd9AqeniiagJNIhN7RiHP6tUmkwRUWR34MIXLY5uSZZSak2T/kaqubWeW0257mXZcJoNHhaIpZcgI+qc4w0/noqI+l/1bIA9NxLATRzjHwjkG/lAW35euCtDMiVJ0gtX39SIGiJYP3SUU/UbJEwKAD4Ja6OjpesHOhKFRVdF2itwzV+uBo6jGQLGCmp8ZPZKTdq4QjaJLxrAzmDZJFSiRpXnsgMKCqxQetqYI8l+Cwfel2d5LW2TZdoDe/oP5iYnF09pAVagb1sbv/0kPfAQ5LntoTxKU4jfXukFOnAfSCDoNivm9i9LDb3HtC7LMLAZaI3559A==;GKTbl5HDOfyfAVWUyYv04w=="
 ---
 

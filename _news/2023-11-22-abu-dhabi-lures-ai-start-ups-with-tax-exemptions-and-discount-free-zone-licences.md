@@ -7,7 +7,7 @@ originalUrl: "https://www.arabianbusiness.com/industries/technology/abu-dhabi-lu
 webUrl: "https://www.arabianbusiness.com/industries/technology/abu-dhabi-lures-ai-start-ups-with-tax-exemptions-and-discount-free-zone-licences"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "For Dhs12,000 a year, AI-focused startups can start operations in Masdar City"
-    excerpt: "The Zone is offering 50 per cent off on registration, licensing, and leasing fees in honour of COP28. In addition to 100 per cent foreign ownership, and 100 per cent income tax exemptions, Masdar City Free Zone offers an environment designed to help AI companies thrive."
-    publishedDateTime: 2023-11-22T10:20:00Z
-    webUrl: "https://www.gulftoday.ae/business/2023/11/22/for-dhs12-000-a-year-ai-focused-startups-can-start-operations-in-masdar-city"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 34
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/11/22/masdar-city-11.ashx?h=450&w=750&hash=29D33A53D53DBE58D8CFC288BBA81D6D"
-        width: 750
-        height: 450
-        isCached: true
 
 secured: "E1z2IWjKpFGLKRc1kQISrCYe58VRqpT2Ae/cpCgzhCTIx8EsNIfr7zF0cBVCSLMv8l7hgCLa422cyyrPpTz4AcXeCTaEL/dCS8DBWkd1gJaB+QoM6pJZtv0mTgb9FTPpbRKlRmyxcKXVq9o4Dr34aezi2tTVNI0Tx2NrXBvFCTCRGcFZCv9sAx3jXbdvEsIXyFX3qvvajb4XAAVRPydESQ91yKS15A44ljwF1UjFwQoq/G4HthfsImBzCpVchQ8K1jQDXuOTQPgSMPPGqcnlnW0vqc/NsUJ3naReToQpg+XYpfCW3l41x9ock5/OwHBZP/e4toa1ieYcZU6jOv5xsb48qRtoCOK2omULml1Aqp4xIVTl7UFs+4KSRIeCsm4/5IGp5b0UTmVjDCa5/JjJLJ0s+d0NRLdgwiIMISRTquq/ijPLcv/pF9co44spXCqnlL7MB1GHetqi88qINIpRoB6IgwGNLokgtavViHm2b1ecq51jBxnK+y/Iu63Ga2qGmHdIibpAEf44ySI1Ae7mJw==;ThGZH2f55pxZvqxOeage/A=="
 ---

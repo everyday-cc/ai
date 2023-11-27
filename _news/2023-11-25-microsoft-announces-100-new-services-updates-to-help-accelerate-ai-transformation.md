@@ -43,22 +43,6 @@ related:
         width: 834
         height: 556
         isCached: true
-  - title: "Four ways AI is making the power grid faster and more resilient"
-    excerpt: "From predicting EV charge times to pinpointing areas of high wildfire risk, AI is transforming our energy network."
-    publishedDateTime: 2023-11-22T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/"
-    ampWebUrl: "https://www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/smart-grid.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Colors-Ai Is Transforming Product Development Through Customer Feedback Analysis"
     excerpt: "Colors-AI's cutting-edge platform is revolutionizing how businesses harness customer feedback to inform and prioritize product development. <"
     publishedDateTime: 2023-11-23T00:55:00Z

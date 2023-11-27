@@ -2,6 +2,110 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-11-10-ghost-now-openai-backed-claims-llms-will-overcome-self-driving-setbacks-but-experts-are-skeptical.md",
+      "title": "Ghost, now OpenAI-backed, claims LLMs will overcome self-driving setbacks — but experts are skeptical",
+      "excerpt": "It’s not hyperbolic to say that the self-driving car industry is facing a reckoning. Just this week, Cruise recalled its entire fleet of autonomous cars after a grisly accident involving a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/09/ghost-now-openai-backed-claims-llms-will-overcome-self-driving-setbacks-but-experts-are-skeptical/",
+      "originalUrl": "https://techcrunch.com/2023/11/09/ghost-now-openai-backed-claims-llms-will-overcome-self-driving-setbacks-but-experts-are-skeptical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/63601ea88ad98c2b9489d284_Ghost-autonomy-01-1.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/09/ghost-now-openai-backed-claims-llms-will-overcome-self-driving-setbacks-but-experts-are-skeptical/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/09/ghost-now-openai-backed-claims-llms-will-overcome-self-driving-setbacks-but-experts-are-skeptical/amp/",
+      "publishedDateTime": "2023-11-09T20:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-10-meta-will-require-political-advertisers-to-disclose-when-they-use-ai.md",
+      "title": "Meta Will Require Political Advertisers To Disclose When They Use AI",
+      "excerpt": "Meta vowed to remove content that violates its policies, whether it was created by AI or a person, and said its independent fact-checking partners will review and rate viral misinformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petersuciu/2023/11/09/meta-will-require-political-advertisers-to-disclose-when-they-use-ai/",
+      "originalUrl": "https://www.forbes.com/sites/petersuciu/2023/11/09/meta-will-require-political-advertisers-to-disclose-when-they-use-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654d2696b140537bbfa4a692/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petersuciu/2023/11/09/meta-will-require-political-advertisers-to-disclose-when-they-use-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/11/09/meta-will-require-political-advertisers-to-disclose-when-they-use-ai/amp/",
+      "publishedDateTime": "2023-11-09T18:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-deep-learning-based-system-paves-the-way-for-efficient-battery-health-assessment.md",
       "title": "Deep learning-based system paves the way for efficient battery health assessment",
       "excerpt": "As the electric vehicle market continues to surge, the assessment of used batteries has become increasingly crucial. A team of researchers, led by Professor Donghyuk Kim and Professor Yunseok Choi in the School of Energy and Chemical Engineering at UNIST,",
@@ -1107,75 +1211,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-us-patent-law-hinders-life-saving-cancer-therapy-development.md",
-      "title": "US Patent Law Hinders Life-Saving Cancer Therapy Development",
-      "excerpt": "New York Law School’s Shahrokh Falati says US patent laws are limiting advancement of life-saving cancer therapies, and that Congress should abolish Supreme Court-created exceptions to written law.",
-      "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/us-law-week/us-patent-law-hinders-life-saving-cancer-therapy-development",
-      "originalUrl": "https://news.bloomberglaw.com/us-law-week/us-patent-law-hinders-life-saving-cancer-therapy-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T09:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.bloomberglaw",
-        "domain": "bloomberglaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-medcerts-combines-conversational-ai-generative-ai-and-natural-language-processing-for-a-revolutionary-new-ai-addition-to-online-healthcare.md",
-      "title": "MedCerts Combines Conversational AI, Generative AI, and Natural Language Processing For a Revolutionary New AI Addition To Online Healthcare Training",
-      "excerpt": "By combining Conversational AI, Generative AI, and Natural Language Processing (NLP), MedCerts gives learners realistic patient scenarios that are customized in each and every interaction without duplication within an End-to-End (E2E) platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231109758687/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231109758687/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

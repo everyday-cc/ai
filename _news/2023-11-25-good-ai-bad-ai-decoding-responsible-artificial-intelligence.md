@@ -56,6 +56,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
+    excerpt: "Flywheel announces the launch of its SaaS data management solution on Microsoft Azure, integrated with NVIDIA MONAI."
+    publishedDateTime: 2023-11-22T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 29
 
 secured: "03tBt+oFZckdIDvI0X9GySvfW6+ucM+FNv4OCpalMmMRB3Vz3fFfmbkJVSDZRFS4RvXDNGWPyM9ze8e3BJoxNCqLFRYAQDdDnNKC4JTcbQIvoGKMMCIfvnLzRtxuoykS7oJ8VEEb9LKqfqbYlJ76iUeBo8MaJ9n/QctsE6wrHCGiHaz44HKXdmv8aVBRCfWAujGeSOkPiDALiZUOQCwFMLX5slq4FnJun5g8SpDUQ8nUqDjBWdR4qWnc11ZmVX7yE/6N2yVOxDjOwQM9mnaxJimC3KL2J3y6WY2lA1gv1OrvHq7dSee4DCm5L5ooHlpHePdc9IrUmvjGCywi8d5TRhZ099LMs2TvJPLY/BtXShg=;xiyfdvH7CKsre71Qe4ctWA=="
 ---

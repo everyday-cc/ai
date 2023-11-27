@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple
 webUrl: "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/"
 type: article
 quality: 81
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -170,6 +170,20 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
         width: 1500
         height: 800
+        isCached: true
+  - title: "Today in AI: Digital India Act to combat ill effects, AI now a \"short-term risk\" for investors, Nvidia delays launch of China-focused chip"
+    excerpt: "The aim of the Digital India Act (DIA) 2023 is to deal with the ill effects of artificial intelligence (AI) and it will succeed the current IT Act, Minister of State for Electronics and IT Rajeev Chandrasekhar said on Friday."
+    publishedDateTime: 2023-11-27T09:18:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-digital-india-act-to-combat-ill-effects-ai-now-a-short-term-risk-for-investors-nvidia-delays-launch-of-china-focused-chip-11816421.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 20
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image-770x433.jpg"
+        width: 770
+        height: 433
         isCached: true
 
 secured: "Uz4w/iluunR/OQWOl/Cj/tXtUvwCRl+ERLaBr40x4eVDe7quC3b8yHRj6RI5kUsZmqT66ZIkVM+lBnb/BIt9BHCQmhKCywjbMPPfSew0gWvHaICZpUQ5Snr7ZdnWHEP5TvYp/Pwo9/9I9Cfj0g3lHIBlrx8WYu9y64TM5tN8wdEaqIyZ1+xTxTDoDzdbl9cJmyDw9S0L+wlQllkz00OVjVvHRs2JjEBu4wOC5N8IyFKs7V1Kslk+wCT91W5Ic4i5DgdRPqzbqIh8fF43sCbtStSL9VaXS4E7IZAaYDqE1sugFJA3NPQFniYisivruBV6uihUdtlCCUWlVoo4yFDikv7zGiB1FapbSsBHRf9oC4EwVRzCMlE8xecZuj92DNmmoiaEdL1VN6P59MPH/jty9pjFv9qjA9W09mzYYagoBdiQYHfb8/okMvPRRuw7gg39Nnt802D5dV5R5/RQiG+l3RVKvPtNG/8nRso/4VvVRmC30YDFXyBU8cIt/bO2MY4nuYKnzuOw5dW9Ny5OWuXSlw==;kGWLT4yvK9y8QCaWE0Bz0A=="

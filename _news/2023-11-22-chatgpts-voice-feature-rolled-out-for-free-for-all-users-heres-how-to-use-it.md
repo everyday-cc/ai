@@ -132,20 +132,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "ChatGPT iPhone App's Voice Chat Feature Now Free to All Users"
-    excerpt: "OpenAI has announced that the voice chats feature in its official ChatGPT app for iPhone and iPad is now available for everyone to use,"
-    publishedDateTime: 2023-11-22T10:38:00Z
-    webUrl: "https://www.macrumors.com/2023/11/22/chatgpt-app-voice-chat-free-to-all/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 41
-    images:
-      - url: "https://images.macrumors.com/t/iBp9BqJv2WpLVJf_ebOZGLh1orw=/2500x/article-new/2023/05/chatgpt-for-iphone-feature.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
   - title: "ChatGPT’s Voice Feature Now Available To All Users For Free"
     excerpt: "Capping off a whole week of Succession-level corporate drama, OpenAi is rolling out a new ChatGPT feature to its free"
     publishedDateTime: 2023-11-24T04:00:00Z

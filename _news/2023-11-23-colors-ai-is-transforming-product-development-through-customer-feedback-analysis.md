@@ -56,22 +56,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Four ways AI is making the power grid faster and more resilient"
-    excerpt: "From predicting EV charge times to pinpointing areas of high wildfire risk, AI is transforming our energy network."
-    publishedDateTime: 2023-11-22T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/"
-    ampWebUrl: "https://www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/22/1083792/ai-power-grid-improvement/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/smart-grid.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
 
 secured: "8rPkBQwt/xMgu2YGhgpTW0TuA6R8qsSvh5HZvT8cFXe7m0+pPHvxbugY/D/ex5m/gDae1i7BKagz+1wqfO0o6FOkHeLSfwdUamg19UszZkVG9EddjQ1JkwdSUsBs+cPXvgHPRlyY/PtvWRNwiJuHIl+6J4g00WNhZVZOinzgiQEg6Z8fidj0Tn0Zj3+VWusTA1Zybt7j5oXuauXXtg0UB+DXa1bwp/sMUp1Od6F4y46fnLMNbTP4WrneQOR1DGOw+Knxxf21MJDNzACqm4nJgFocAyXO5+7u99ewqWMW2CBJuxhKfAmq7utg+r91/Jr2WjMpDW8Z/5UO7FRlMoJDzSjNqEH9+cTBZx3DKG+IkfA=;zIO149UtzfgWUK1x/iQt5g=="
 ---

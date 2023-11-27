@@ -62,6 +62,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 34
+  - title: "The Very Group selects AWS to transform the shopping experience with generative AI"
+    excerpt: "“We are proud to be selected by The Very Group to create innovative retail solutions using AI. Using Amazon SageMaker, Very is already leveraging machine learning to transform its business operations. Incorporating new generative AI capabilities like ..."
+    publishedDateTime: 2023-11-27T00:01:00Z
+    webUrl: "https://retailtimes.co.uk/the-very-group-selects-aws-to-transform-the-shopping-experience-with-generative-ai/"
+    type: article
+    provider:
+      name: Retail Times
+      domain: retailtimes.co.uk
+    quality: 28
   - title: "AWS re:Invent 2023: Our guide to the top sessions and speakers"
     excerpt: "AWS Machine Learning Hero Kesha Williams breaks down the top keynotes and cloud content to look for at AWS re:Invent 2023, including generative AI and data updates."
     publishedDateTime: 2023-11-22T22:38:00Z
@@ -81,6 +90,6 @@ related:
       domain: biztechmagazine.com
     quality: 19
 
-secured: "VNP0CdbgGvf9J5RALwVfLF6k2m+kRP/Gydfn8LOZ4j8N4P2ihNjyXlrBFRY0haiFi/1Gx7unoEf62pNXB+6B6qKL1qx6XnVBxQV6T5tR8UhPYmhaKjuGhdLcbNeVCUWly9AYzO7GyQE4RJcoG5Y0mamGQ/Ys7ZACHljnu6oomidMALHMeEuSiu+veyX7PJ5quOiLSHsFhawv16CmGIIzQGI2WtqtoGB/Dwv1pre8S+i/VNs5hA2ZRVzF4JtxU6ESet1S7DPUemmKBTn2zaoONje8l8KAlfx8rSNoLfy/zndpLiK0KyRVMc/WXLbWHh6vj7ZNga+MKCvBXOEzoBHP4jdDQ3zG4ERaQrCtX51waXM=;NSi43Te/88csQ5QZSBIw+g=="
+secured: "xKOoDteJlz4sbvm4+P8846yDhDyQG/kA5Br4qjTxo0GYm9dvO9LAfoz8fltS7oW27byC60B6FysmcMbgzedcrzrz+Np3oQsYCWja0pnoDWAiPP4FKlvykDH9Wst7BjHTnsczytXtikzpRtblIAVTBwG+3vICfXgT4s5bmwKl4mpWT2NXDu2NC6U6DknT+Uj2NIbFrVGnAyLjjDJX9BhtEDi0YNBd9X7ySPdPyhsuwS4MryfUXkRjii4Nrf6zO6hPEKPejKDAvrD5XVRE1Rzr66i9pGdHyRQsX3TAngkwVwhsEkNWDMtm4QZADmU42+Et2yFRjMtzVP2CmQs12Ws91XjnNGtp9QJMKEUdLuWfc4o/vLVRuF3aWyw8CKUuuNCAtK/1h9btfG3QskIMbSr2YB/ox2T4fydGk/JR+sCkSd/0pcztQKYOrvk4VMXObzwsCmPJgJIVxBAQoRaNQc3jwJxJZu+jGR1vSeR7rlMFx86ykZVVBxfhCdaaaqPb0SkfMuk2NZAsv9xcj2JmDkIDTg==;h56sROAfPGd8rvM8lOK+Ig=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.exchangewire.com/blog/2023/11/23/79-of-top-marketing-exe
 cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/11/23/79-of-top-marketing-executives-report-boost-in-roi-using-ai-tools/?amp"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Using AI to track icebergs"
+    excerpt: "Researchers are using a new AI tool to detect icebergs in the Southern Ocean. This is the first step in being able to track the complete life cycle of most icebergs across Antarctica from satellite data."
+    publishedDateTime: 2023-11-24T18:33:00Z
+    webUrl: "https://phys.org/news/2023-11-ai-track-icebergs.html"
+    ampWebUrl: "https://phys.org/news/2023-11-ai-track-icebergs.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-ai-track-icebergs.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/using-ai-to-track-iceb.jpg"
+        width: 1280
+        height: 1588
+        isCached: true
   - title: "Only public confidence stopping us from using AI in marking, says AQA"
     excerpt: "Artificial intelligence could quality-assure exam markers from “tomorrow morning”, but “public confidence” was holding it back, according to AQA’s chief executive. Colin Hughes said while ChatGPT in particular had attracted a lot of attention, “it may even be materially not very important or interesting” compared with other technologies."
     publishedDateTime: 2023-11-25T08:50:00Z

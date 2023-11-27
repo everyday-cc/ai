@@ -7,7 +7,7 @@ originalUrl: "https://9to5mac.com/2023/11/22/chatgpt-voice-free/"
 webUrl: "https://9to5mac.com/2023/11/22/chatgpt-voice-free/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "ETtech Explainer: ChatGPT extends voice feature to free users; here’s how to use it"
-    excerpt: "The company collaborated with professional voice actors to create each voice and used Whisper, its open-source speech recognition system, to transcribe spoken words into text."
-    publishedDateTime: 2023-11-22T10:41:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-chatgpt-extends-voice-feature-to-free-users-heres-how-to-use-it/articleshow/105415604.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/ettech-explainer-chatgpt-extends-voice-feature-to-free-users-heres-how-to-use-it/amp_articleshow/105415604.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ettech-explainer-chatgpt-extends-voice-feature-to-free-users-heres-how-to-use-it/amp_articleshow/105415604.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 53
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-23280,msid-105415569/the-chatgpt.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "FT00adDW2t/FU2AmJCT47GmZLndG/lSHnpaYgLmzt1CWc45aTkPg5gh3LDZM8h6nMZivuvLcGuI5wtEeGzmUErH+u+HVRV6DOk++xPIWX72u0FRapPUy0uyLbz0DN9IoRrWxF1nk5M+utiN2fBYhjgWTBbWO2UTfeoigtFWgiGp3sRUBjm6ERH+eHiHYufyWqwRAQXbObso9+oIHsH3ibct6z9iXkRByS3cqzzDTrrK2NcS9Nz6iWsIffnVFePDLq2R707UCqEtslvF4VLL51iXyrEK9CJ81tmXySKTSenJ70Ul6qqTs6lJqlA8uLSrPyAxMsfj8n9jPUW3MZeQ6jg/HebTx5fuNvEzREvzFh8iNv9VOxAcapBM9uuq/RbrZB3orLOL2DSi85XYGeJWCAC7a63TLVRU9Mxo5EOA6yK77izzWNDWSkMuecQZcBQOyew7i2+ALi1eIXNWsVPNA2RPxOR6K+iWEcy7c4FjQq1+bffGocnzmspJ3ehFF10/N0mOa0ovLnO69RJ0buXpt4g==;iFCYPmPO/y37StZBSIGkWg=="
 ---

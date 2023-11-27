@@ -138,20 +138,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "ChatGPT iPhone App's Voice Chat Feature Now Free to All Users"
-    excerpt: "OpenAI has announced that the voice chats feature in its official ChatGPT app for iPhone and iPad is now available for everyone to use,"
-    publishedDateTime: 2023-11-22T10:38:00Z
-    webUrl: "https://www.macrumors.com/2023/11/22/chatgpt-app-voice-chat-free-to-all/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 41
-    images:
-      - url: "https://images.macrumors.com/t/iBp9BqJv2WpLVJf_ebOZGLh1orw=/2500x/article-new/2023/05/chatgpt-for-iphone-feature.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
   - title: "Google is launching its Bard AI chatbot to the public – Business Insider"
     excerpt: "Google says that you can use Bard to “boost your productivity, accelerate your ideas and fuel your curiosity.” It functions similarly to OpenAI’s ChatGPT: you prompt it with a question or a task – say,"
     publishedDateTime: 2023-11-24T03:17:00Z

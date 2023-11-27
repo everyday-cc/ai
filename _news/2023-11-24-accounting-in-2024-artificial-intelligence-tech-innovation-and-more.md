@@ -32,7 +32,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 27
+    quality: 29
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/11/The-Evolution-of-Artificial-Intelligence-in-2024-A-Roadmap-for-Advancements-and-Breakthroughs.jpg"
         width: 650

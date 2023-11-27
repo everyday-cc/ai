@@ -1,27 +1,29 @@
 ---
 category: news
 title: "HOPPR Launches Groundbreaking Foundation Model for Medical Imaging"
-excerpt: "HOPPR developed its foundation model exclusively on AWS using Amazon SageMaker, with plans to utilize AWS HealthImaging, Amazon Bedrock, and other services for data storage, inferencing, and model development in the future as it's scaled. Working together, the companies aim to address key obstacles to optimal AI use in medical imaging:"
-publishedDateTime: 2023-11-26T13:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-hoppr-launches-groundbreaking-foundation-model-medical-imaging-/2023/11/26/9923067.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-hoppr-launches-groundbreaking-foundation-model-medical-imaging-/2023/11/26/9923067.htm"
+excerpt: "Health2047's newest portfolio company unveils first-of-its-kind medical imaging AI platform powered by Amazon Web Services; early partners include RadNet and Rad AI CHICAGO, Nov. 26, 2023 /PRNewswire/ -- Today,"
+publishedDateTime: 2023-11-26T12:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/11/n35951170/hoppr-launches-groundbreaking-foundation-model-for-medical-imaging"
+webUrl: "https://www.benzinga.com/pressreleases/23/11/n35951170/hoppr-launches-groundbreaking-foundation-model-for-medical-imaging"
+ampWebUrl: "https://www.benzinga.com/amp/content/35951170"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35951170"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2214248/HOPPR_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 1441
         isCached: true
 
-secured: "5bzoLKli/h5OkUafAB8qzRQqbjDPPv9b75Oju1H55gitr1msSJ+U8FSE7w62KbEWtQsOXVU+/tNsSbBzq9faE9iNU7ypDgUqLbquZeZrontNBKvvEbA1p03FxUHb39Xo5fz3t2eWXtvrIyqarW/gPPQQhMmOsjA+F8zS9CRNMNxvmZ87hVi4DNBlmkli22TBF5ZcDrnWfPzor1FKWUHRFdHJz5oDdr/z3I3LhYbWtZdIJfT7gQIuc/uuA+d3w4vLd65uwCgmdd3LwNGmlXjohy0OufHfkyZh44th66rCu6p+pgmzJjiIsWZij+CVrtrxt5cJ+0eqM1ABudNUvlj8yq2rjbZSYZlvyKQPlBWkuUk=;52D1UtCxEIo4cqOBAnhf9Q=="
+secured: "POl4GJluibrG633tb0TyMP22BExXW9bLP6qeOF8iTiGubKFmi9MayU+rCX6KVawWokdTNtmFwilKspOB5IOfxqpJV/chDjfKGTReypOemTuMgp//1zTQ0aP0etRA66Yjw03qT730ojEkYm727a7VEPHbGAhXl5T2itWby6xXfZJgoGVZbbWqk0MGP6uOygWJn/hXNnamp2C1ctx7iBWLoE4kGF3kYlYdVHiV+gbdc/pSTiZU/mlChN7ueJAwrAK325wrlBqZRPGMBAcE8DC5tOATwlWyrDfGkDeRmq6FxVPVcjE4QZFqgW0Lp0hlIkQuceLWlBDg4KnZJ5m/l5xEZ+P0EZVFGAeYk/Yb848IiDE=;i1j/z4fVH/kG0iyg6AOBZQ=="
 ---
 

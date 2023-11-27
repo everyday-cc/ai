@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/
 webUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/"
 type: article
 quality: 74
-heat: 104
+heat: 116
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 34
+  - title: "Flywheel Collaborates with Microsoft and NVIDIA to Propel End-to-End AI Development Platform on Microsoft Azure"
+    excerpt: "Flywheel announces the launch of its SaaS data management solution on Microsoft Azure, integrated with NVIDIA MONAI."
+    publishedDateTime: 2023-11-22T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231121373437/en/Flywheel-Collaborates-with-Microsoft-and-NVIDIA-to-Propel-End-to-End-AI-Development-Platform-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 29
 
 secured: "iV2xyLpZvbyaYsuzDuFNJcgaaSlVkJl+ShUFFHQ3O2zgCN+qV6TesKfnA5WJrou6Qn/pPf9xor0GoBFl3le1iToIUkRXG8LkfCk88U+L/v2KMqr4Pu8nIpkl5qPT0MIp+y6112DvNW8uWj8Gl2hcJ5OzFo6sTFphk2HLjfL2uTXZZMixbd016R5n0AxlnYtyp5eRls8T4Qb93yYrrOgpIlUmhxBc4NHtJ2JiKOVNXTZNnobrSsp34XcTpbyJcUomlyjbMyGJjojLW8obahmAcseT/Nrg2xbtrijnXS/065OiYsPjNMvqjyU1dsNItwYfFymHBsv8LEUQLm2Fc2pmTeO8uJce0BpSIHUaG0xSt2Kes4kizb5UU+OxhK4DQWmlFLDVef1ggNn3BtXn7VzcdQa8Ooi37jWTseeEZ4Ie0NmCyWV5vQd99HO272mBnxvA+XDmoXh2BGXJaBYYZttmb1Vw9J62xH+89qN9+RSixTfOADObyJwL68JDbH2k/4iejcH7yU0Kqrkikf3JqGhYCQ==;Gl7klvqQxVGJPJrLI8nlCw=="
 ---

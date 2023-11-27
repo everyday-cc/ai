@@ -135,20 +135,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Morning Bid: AI buzzes but market shrugs at Nvidia beat"
-    excerpt: "While many investors have been thrall to the AI boom all year, the 240% year-to-date surge in Nvidia (NVDA.O) has stolen the show as AI excitement sent demand for its high-end chips soaring. Remarkably, Nvidia managed to vault the sky-high bar for quarterly earnings, revenue and projections yet again in its latest update overnight."
-    publishedDateTime: 2023-11-22T10:01:00Z
-    webUrl: "https://www.reuters.com/markets/us/global-markets-view-usa-2023-11-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/olsenkQFIkM8i-kVq7lc2NN5NT4=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L42CT5JZ7VLKZDL3XOVLCAD3IE.jpg"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Explained | How NVIDIA's AI gamble has paid off"
     excerpt: "NVIDIA reported a 3x revenue growth, reaching $18.12 billion, with its data centre business soaring 279% to $14.5 billion, constituting 80% of total revenue. The shift from GPU to AI solutions propelled the company's transformation."
     publishedDateTime: 2023-11-22T12:19:00Z
