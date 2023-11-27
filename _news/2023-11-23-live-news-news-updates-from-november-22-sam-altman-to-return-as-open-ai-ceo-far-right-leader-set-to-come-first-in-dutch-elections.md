@@ -220,20 +220,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "AI roundup: OpenAI CEO returns, Stable Video Diffusion, Anthropic…"
-    excerpt: "Tweet-Reply Of The Week goes to the wag who wrote “the lengths this man will go to not use Microsoft Teams” in response to the announcement that OpenAI co-founder Sam Altman is returning as CEO days after being ousted and joining Microsoft."
-    publishedDateTime: 2023-11-22T08:32:00Z
-    webUrl: "https://musically.com/2023/11/22/ai-roundup-openai-ceo-returns-stable-video-diffusion-anthropic/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 41
-    images:
-      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2023/10/AI-artificial-intelligence-generic-4x3-1.png?fit=1200%2C900&#038;ssl=1"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "OpenAI researchers warned board of AI breakthrough"
     excerpt: "Some at OpenAI believe Q* (pronounced Q-Star) could be a breakthrough in the start-up’s search for what’s known as artificial general intelligence (AGI), one of the people said. OpenAI defines AGI as autonomous systems that surpass humans in most economically valuable tasks."
     publishedDateTime: 2023-11-23T04:38:00Z
@@ -359,20 +345,6 @@ related:
       - url: "https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2023/11/Untitled-design2.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "OpenAI's Ctrl+Z on Sam Altman: Firing, rehiring and all the drama around AI startup"
-    excerpt: "November 21: Satya Nadella reveals Altman and Brockman will lead a new AI research team at Microsoft. Board member Ilya Sutskever 'regrets' firing Altman. November 22: Sam Altman returns as OpenAI CEO; an initial board set up to appoint a formal board that might comprise Altman, Brockman and a Microsoft representative."
-    publishedDateTime: 2023-11-22T08:05:00Z
-    webUrl: "https://www.theweek.in/web-stories/current-affairs/2023/11/22/openai-saga-explained-all-the-drama-around-firing-and-rehiring-of-sam-altman.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 31
-    images:
-      - url: "https://www.theweek.in/content/dam/week/web-stories/current-affairs/images/2023/11/22/Sam.jpg"
-        width: 760
-        height: 443
         isCached: true
   - title: "What does Sam Altman’s firing — and quick reinstatement — mean for the future of AI?"
     excerpt: "If you’re just catching up on the OpenAI saga and what’s at stake for the artificial intelligence space as a whole, you’ve come to the right place. Here’s a rundown of what you need to know."

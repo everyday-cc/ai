@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-sel
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "UK broadcasters testing to deliver “total campaign” reporting; Judge rules Tesla was aware of defective self-driving tech"
+    excerpt: "UK broadcasters testing to deliver “total campaign” reporting; Judge rules Tesla was aware of defective self-driving tech; India to regulate deepfakes The UK’s biggest commercial TV broadcasters, Channel 4,"
+    publishedDateTime: 2023-11-27T08:00:00Z
+    webUrl: "https://www.exchangewire.com/blog/2023/11/27/uk-broadcasters-testing-to-deliver-total-campaign-reporting-judge-rules-tesla-was-aware-of-defective-self-driving-tech/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2023/11/27/uk-broadcasters-testing-to-deliver-total-campaign-reporting-judge-rules-tesla-was-aware-of-defective-self-driving-tech/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/11/27/uk-broadcasters-testing-to-deliver-total-campaign-reporting-judge-rules-tesla-was-aware-of-defective-self-driving-tech/?amp"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 49
+    images:
+      - url: "https://www.exchangewire.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Tesla starts releasing to employees FSD v12 – a critical update to self-driving effort"
     excerpt: "Tesla has started releasing to employees its FSD v12 update, which is apparently critical to Tesla’s achieving its self-driving"
     publishedDateTime: 2023-11-24T19:14:00Z

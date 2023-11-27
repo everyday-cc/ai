@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Adds ChatGPT AI To Windows 11's Command Line, But There's A Catch"
+    excerpt: "ChatGPT's AI capabilities in the Windows Terminal can come in handy for explaining errors, generating commands and providing recommendations."
+    publishedDateTime: 2023-11-27T07:43:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-adds-chatgpt-ai-windows-11s-command-line-theres-catch-1721824"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 67
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1717654/chatgpt.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Baidu's AI Chatbot Earnie 4 Is Off To A Good Start, Says Bullish Analyst"
     excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
     publishedDateTime: 2023-11-22T18:11:00Z
@@ -202,15 +216,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Baidu reveals expectations-beating earnings and touts its new ChatGPT-like AI models, amid leadership chaos at U.S. competitor OpenAI"
-    excerpt: "Baidu took an early lead in the race to dominate China's AI sector with the release of ERNIE Bot earlier this year."
-    publishedDateTime: 2023-11-22T08:53:00Z
-    webUrl: "https://www.aol.com/baidu-reveals-expectations-beating-earnings-095341977.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 0
 
 secured: "HWTeGwY/ovXCeMJo1pRYZ6ibfC3owLNs33T8RwN/VlHx0tkZBiUMzEKGpjNFW5bt3+M54ZVz/riVpn6xLIRqEnxDQQykSHTINH0nnmANzqQwAFb7J8HWA3Q65AJA14Yq1hKUJOpZGVbkFbpmEI3eZFMPfFfA9AwWSaVKZ/gfQLgYbXMXUOyOHrh/OEeTdO1udRuuDfawdv6sWCjR+VAnmjb+pnSl7qRxwO3IHgBFXplpeMipKa6U9uka6hh/Pz7VOwdwhXMLm+WrJ3ydnqV9Jdy/Tklm3+sRaacVXIyqchdIpTdSujVjM4OsG9NPbARMBU10r/S8jvF1aso9beGjWVf3r4u5bsyeMNExEjnfw5o=;sTPsOtaUi2Qz9GoXxRIiSg=="
 ---

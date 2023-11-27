@@ -193,6 +193,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
+    excerpt: "The Global X Robotics & Artificial Intelligence ETF received $35.5 million in net inflows in the week ending on Wednesday, its strongest since June earlier this year, according to Lipper data."
+    publishedDateTime: 2023-11-24T05:11:00Z
+    webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/15956a8a29bc3c93c3b3f2c772ea148e"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Nvidia’s Record Performance and Leadership in AI Drive Buy Rating and Optimistic Growth Forecast"
     excerpt: "Analyst Cody Acree of Benchmark Co. reiterated a Buy rating on Nvidia (NVDA – Research Report), with a price target of ... The rapid adoption of Generative AI and Large Language Models by major consumer internet companies and cloud service providers ..."
     publishedDateTime: 2023-11-23T02:17:00Z
@@ -229,15 +243,6 @@ related:
       name: AZ Central
       domain: azcentral.com
     quality: 32
-  - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
-    excerpt: "An exchange-traded fund tracking artificial intelligence stocks saw investors pouring money after six straight weeks of outflows, on the backdrop of strong quarterly results by chipmaker Nvidia and rising optimism that U."
-    publishedDateTime: 2023-11-24T15:11:00Z
-    webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
 
 secured: "ZWM53qa2H2udP1SGccb3zNQhQGY5dn6jcjfOcooBO+dYjkwEwDB/tv0nXNpLIjAgi3cG0r+TLClk8oHctFm4m9uaN270l+mygMZaH6xERIrU/dvCvEZR2Hh2g28/rOOFtN+PntfsVDmWP3WFIoLRsaXuSk4anh1pveOrJvWadrbUHdCRddYZws/SyHRoPTMGGrumMkM9VWahhkiILA4+uf8FTEp5eIE1Ek1VP/5V3nejd4yiMXCDiaC4Onu1XHQBqNstM2mS96wFPhm20xAvXU3y1L/742eCxlm93f8fx5WsJOi2XzKVr6Umb7GSsxGA9vMckmqjqiOiEo91VsE4vcH9+DRntwCVVqYGAFSC8hyxkI98s3pLrEiBo3B9eOliYFarznSq7ZnpKW8u710zXVklBu9jVZ/a7dvR3tzaUXkVx7/gMcKGyXKF3ktT4Rl/ylKNl0e7nbqcV/lk4hAnizwqs+9lqWaoISr7RZhO6qqSFTEdtWkLHeuDoC6G5NB7mjBrU6DWsHQefTLIQDYQjw==;9kd1fepgsaM1ou0AefQ2cw=="
 ---

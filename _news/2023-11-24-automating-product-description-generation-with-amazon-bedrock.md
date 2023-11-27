@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-product-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1235
         height: 630
         isCached: true
-  - title: "How to get started with Amazon Bedrock"
-    excerpt: "A step-by-step guide on how to start using Amazon Bedrock models, either through the console or via APIs. Also, how to fine-tune and build custom models."
-    publishedDateTime: 2023-11-22T07:19:00Z
-    webUrl: "https://www.pluralsight.com/resources/blog/data/get-started-amazon-bedrock"
-    type: article
-    provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 4
 
 secured: "4suwKY7I0VxAi9Q2+wXXImomzKRCjXAOc2E5mE9xSxOhOsTAByoLxUtV3sjBNWg1T4Yjvgxr+2okHW9G4O6zTYXHpXiK0FTUfmgLOHKrACxrT3nFlSxhCm8IIMat/Wduon/KbtFTyI9j+Y4j5ZsoN7VLmf34H9fVuNFwW+zibkrBzrrrkO2njXhuT8RUI5wVwcfMp+mHx71cyn5eKrX0GcCuPMGLwauO1qI7fhfwwar7Wep3ehk77jkoTulgbqXpWup+nMJZcv3EQvrd/mC8VSZ4pNkC4Fs0GC8X9x/t3uJk3Sg3DzTO1j+Cz9tA+sxonyGjZsz/BhLqwfmqkSzaY+U2CB7+roDpSPLA+3dPBfI=;Vtc0jAYo3y45Y/bO6BQ/wQ=="
 ---

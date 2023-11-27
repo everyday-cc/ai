@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Best robot vacuum Black Friday deals: Save on Roomba, Shark, more"
-    excerpt: "With so many robot vacuum deals going on this Black Friday, we've picked out some of our favorite deals for every budget."
-    publishedDateTime: 2023-11-24T18:28:00Z
-    webUrl: "https://www.digitaltrends.com/home/best-robot-vacuum-black-friday-deals-2023/"
+  - title: "Black Friday: Here’s how cybercriminals are using AI to scam consumers"
+    excerpt: "Tips to protect shoppers from cybercriminals particularly during Black Friday (and its different variants) and Cyber Monday sales"
+    publishedDateTime: 2023-11-24T03:54:00Z
+    webUrl: "https://gulfbusiness.com/black-friday-how-cybercriminals-use-ai-to-scam/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 49
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 39
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/11/Cybercriminals-are-using-AI-to-scam-Black-Friday-Cyber-Monday-shoppers-GettyImages-157027870.jpg"
+        width: 800
+        height: 439
+        isCached: true
 
 secured: "JuJfrL8GIuVdz1iXc6mb62jbw3ipdBO0sToVR1WWKo2VRdjayCT6cSE/5FdoT9LXtKv7gJKSaOhr9knvrwW7x7HDaLZQPkhPf79yO5jR6aKSqSmAIyE75Hr0yPf6NUE6PBUlVVfRqsnLLb+pYZXzoTQXJZoK9Gy3OWbk4borAvsfctUPT6KIc/quK3P5WIh3CIUe4J5I0qfFjaQrjniFWBgaz1OxrRSkFJg9mu7rrsuTlzEfzBKl0ZekGAw+oR6gUSMS5UuyHO+Y+NRrOto67/2FcneQKxIJl7WTqHSbKvNuvgS9YpPEXkmGu9SRcbcN3yuoewUMJB0FvQJ6Mb1RQ3BvRhIpZ5JZndRXoUuUOLw=;H7dKWWkmgAgyFzOUlUdx7A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/the-future-of-iot-embedded-machine-learning-transforming-indias-tech-landscape/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1256
     height: 1299
     isCached: true
-
-related:
-  - title: "Rocket Learning using advanced AI to reform early childhood education in India"
-    excerpt: "In a bid to reform early childhood education (ECE) in India, non-profit Rocket Learning is empowering anganwadis and low-income households to provide high-quality early childhood education to children"
-    publishedDateTime: 2023-11-23T12:53:00Z
-    webUrl: "https://www.morungexpress.com/rocket-learning-using-advanced-ai-to-reform-early-childhood-education-in-india"
-    type: article
-    provider:
-      name: The Morung Express
-      domain: morungexpress.com
-    quality: 52
-    images:
-      - url: "https://morungexpress.com/uploads/2023/11/17115069_1700568977_23778094_1700568977_202311213086712.jpg"
-        width: 535
-        height: 445
-        isCached: true
 
 secured: "c35CcRVFUnticA9wxbeXIAZYJA9XBbjNiJw1erJlcEgnLOf67xZEYJE9txs579bBMUMo8i2Nu3v8R1woZhZWgklGkcMz5LhplgQ83rwY/RfUnbwZHja3qupt8rEMVoRbyLNBihARtFiZULf1cJXIJcgAO5K606YeDd971bgVO5Km5caUSJb2Roy9KHYn+DNpGKdStMWKEO9R0cEbSWSFX02+fVgB9R2JEmIC3+nw6NPD0PaJvk1z22AmMKlMaghJiw1VZ/jmDyytayGJXM2uXAtGEqRzcbvConprHwZB+kkdQ2ajW8RiFN810scgAowvpHwSTTzR0LwujoRLaadG5dRi0z83Bf8Z65SsbxYrPAkKdQrRiRNUZc9luBKppxpo1Wp8hSFfuzYHitMVURcHZtaccAnm3lskHKPYHsaLNpw/zP4XBDCuzSp6Ga/L0NyxsHYN8VPp+Pd7WUdZNcZSUYL3SxCEzmo7En5dhloyV+ipyuJ/6Nr+Q5ZAlRTbUAzKJN8D3NIJiLhq/mRia6jX5Q==;KxdXaHjdkaJqUkV6y67bfA=="
 ---

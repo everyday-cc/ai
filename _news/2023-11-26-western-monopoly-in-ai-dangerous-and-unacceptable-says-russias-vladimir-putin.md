@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Vladimir Putin warns ‘alien’ artificial intelligence cancelling Russian culture"
+    excerpt: "Russian president Vladimir Putin speaks during an artificial intelligence conference in Moscow (Picture: Getty) Vladimir Putin is poised to approve an ‘ambitious’ Russian strategy for the development of artificial intelligence (AI),"
+    publishedDateTime: 2023-11-27T07:48:00Z
+    webUrl: "https://metro.co.uk/2023/11/27/vladimir-putin-warns-alien-ai-cancelling-russian-culture-19884148/"
+    ampWebUrl: "https://metro.co.uk/2023/11/27/vladimir-putin-warns-alien-ai-cancelling-russian-culture-19884148/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/11/27/vladimir-putin-warns-alien-ai-cancelling-russian-culture-19884148/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 53
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2023/11/GettyImages-1771036808.jpg?quality=90&strip=all&zoom=1&resize=594%2C395"
+        width: 594
+        height: 395
+        isCached: true
 
 secured: "ogKznb/DJd5zC/czV0elM5Ck0/PpoS5MsVCwxc0n14gh4kRyH26CmvOdnYkYEkVV1/fV9XG/ux2Y1S70ErczMbNsdGq8gaB7387KThICwLKtxy78ZdS4+ZOP+nw6XChQvkI7d7ZEdtDv5YcYQF6AK3X+CT8VdEHts5vF7sXyZzkpm+mc+0VZ/CMS28QqV3PY58bl0BLF0taR7iBBFp/I6Gxe0n86hz1dbbajFoQB+n4cUPVUZ3u/Eu3tum/6IQjhEeNWb7o0tVQ9RoAeMUCuqrfHD6RXN/QkZmfHPNSS5DZwu0/nbqedhgVMc8i+y+thejhtoRay4Z+6FJ029RdQqC2xRJpJ+cVimgDyVQzretI=;QSDbKwbNqZIWmZ6ecBGT2Q=="
 ---

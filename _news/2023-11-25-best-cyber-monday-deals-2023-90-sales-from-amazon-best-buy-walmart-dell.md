@@ -7,8 +7,8 @@ originalUrl: "https://www.techradar.com/cyber-monday/best-cyber-monday-deals"
 webUrl: "https://www.techradar.com/cyber-monday/best-cyber-monday-deals"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRadar
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Best robot vacuum Cyber Monday deals: Roomba, Shark, and more"
+    excerpt: "With so many robot vacuum deals going on this Cyber Monday, we've picked out some of our favorite deals for every budget."
+    publishedDateTime: 2023-11-27T07:31:00Z
+    webUrl: "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/"
+    ampWebUrl: "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/09/Digital-Trends-Best-Cyber-Monday-Robot-Vacuum-Deals.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Best Cyber Monday deals 2023: 75+ sales from Walmart, Amazon, Best Buy, and more"
     excerpt: "Our expert team of bargain hunters have been incredibly busy rounding up all the best deals ahead of Cyber Monday right here from well-known retailers like Amazon, Walmart, and Best Buy."
     publishedDateTime: 2023-11-24T18:35:00Z
@@ -44,6 +60,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Best robot vacuum Black Friday deals: Save on Roomba, Shark, more"
+    excerpt: "With so many robot vacuum deals going on this Black Friday, we've picked out some of our favorite deals for every budget."
+    publishedDateTime: 2023-11-24T18:28:00Z
+    webUrl: "https://www.digitaltrends.com/home/best-robot-vacuum-black-friday-deals-2023/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 49
 
 secured: "CVKh4t4omzhqe80tQqagXiYQrTZPj8BtNZdyb4epVokwmlrsvP3qKcuZhri4WyIyVoIJe5+7IxHflRx9vJCMOWGXiNSbHaYpVTYhDdCMpJrqI4DUbBal+Ncy6Ur1B9CgoEkmXoFRLLKM/JfI9EvtlHZuwUkN0m5xg5eBOhc665VYatnTNf9kYFN+6ui/VUs/YQAMYORTqsM0djpJNpfim3ZtkpcKQsDGccAnhQvhPMSp4d9Ff0v2igjB3pB5ZdFrxwQLazNpplZJcK0tfovBy/CPJATSlL9x+Up3Mo/b0vE5VX3bawg6ZSxo7a6m2H6lzWlUUX1OuyQPY239/GLmJhAb+/s29yzvKVsIp6FmEpU=;d8jFmU82WQLLKpKykxqy5A=="
 ---

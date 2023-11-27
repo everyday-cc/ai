@@ -41,21 +41,7 @@ related:
         width: 1518
         height: 900
         isCached: true
-  - title: "AWS's generative AI functions support Taiwan startups innovation"
-    excerpt: "The rapid development of artificial intelligence (AI) has changed many aspects of our lives. In particular, the launch of generative AI at the end of 2022 has created a large wave of technological innovation,"
-    publishedDateTime: 2023-11-22T07:58:00Z
-    webUrl: "https://www.digitimes.com/news/a20231122PR204/ai-aws-generative-ai-news-highlights.html&chid=9"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231122pr204_files/1_2b.jpg"
-        width: 1280
-        height: 852
-        isCached: true
 
-secured: "O+3+vKQcjzorDbezFvm5uIUdCixAGg+x1sHLhOzHyOrrjCp0OX8C23VoEMUAArO/VVG6wRNoKdu25C/diJ4XIW5mcLmmdSomUHLm41T/NKZsLvuSSHBoUfXBJgjG9/e5A6B4nCLJduhDGCTj36k2KG1ikLsMp9vhqngWKQfM/xt0xqXE/1w/fzkw6IJUAUbgaK5Hm2tcYlr6xmScdX1cdAqgPUnMg42OhnRuRnbKJDGmHhd4MjFRc8gH2bkgAFEewZvsKlWLS89GR9qqzxwR8IbiB9mVj+Ni640SRU4beYw0Nda7YpDFZmv1RwVEWAeCpm0PRR2kfq8rZdJj3ZRCky19oxNX55l+pQ5feyq1xr8=;2zXxd0ke79zBclIwQM2zng=="
+secured: "Mrn7Euy5lFuA289dzS/e0gfRLEOpFkObwxQboX7SQAzV0cRbeyCDZ49FqMdn6zUoeI9Wjh0eLwz27M8yQ9mBLHkAI5Lfm16eaV8u3dmT3JGjMsS8+6m0FqRESL8Mmd46FRmhBY7NhLs57k5qu2iiwyoeBQkfIhxH1KfrBMNXaczV2cr5VFftUKlYkcZO2PxGw5eIwsYr3sG3YDTR19+7XQwahGpfvWyxWwYWSiVnalFz/MbSA0mUd4fdtU3foawFDmJt55O6q9SishQdQTbbi9Xg2LKd2HhueXB7qf4/cabGFzXqxaUonSk98XGuVYVLKbsTE870FFtHKYkv1mhI1u8gtG5eqhJ7H2nCPiqyoK231WLeNL+KW0zafX6KYmupvvv4mE/BR1ZpMuZY45dMiVji5NfgqScsBKdW+bBPeXn/ziiGg1NmAQelxMrT5R/Vqlle0thmy6RdJQPUhpeoSGizAirM6uG0cqTUwmGXoSrBQoNm5LUo8Bt9xUFr2MKpnmDMGm7k4Cm5PCj78IXJDA==;fLkN6VQEMEO2tCBqQRkoqg=="
 ---
 

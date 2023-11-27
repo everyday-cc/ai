@@ -33,6 +33,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "A re:Invent exclusive: AWS CEO Adam Selipsky to reveal a new generative AI stack"
+    excerpt: "As the rush to generative artificial intelligence only gains more momentum every day, Amazon Web Services Inc. Chief Executive Adam Selipsky think there’s one core capability to ensure it fulfills its promise: adaptability."
+    publishedDateTime: 2023-11-27T06:10:00Z
+    webUrl: "https://siliconangle.com/2023/11/27/reinvent-exclusive-aws-ceo-adam-selipsky-reveal-new-generative-ai-stack/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/aws-adam-selipsky-copy.png"
+        width: 1245
+        height: 700
+        isCached: true
   - title: "Clarity AI and AWS Advance Sustainable Investing at Scale"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Clarity AI, a leading technology c"
     publishedDateTime: 2023-11-27T05:01:00Z
@@ -42,6 +56,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 34
+  - title: "What to expect at AWS re:Invent: A summary from an exclusive preview with CEO Selipsky"
+    excerpt: "In an exclusive one-on-one interview, Amazon Web Services Inc. Chief Executive Adam Selipsky provided a preview of what to expect at AWS re:Invent this week in Las Vegas, in particular AWS’ cloud plans amid the rapid rise of generative artificial intelligence."
+    publishedDateTime: 2023-11-27T06:31:00Z
+    webUrl: "https://siliconangle.com/2023/11/27/expect-aws-reinvent-summary-exclusive-preview-ceo-selipsky/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/awsreinvent2021-floor-1.jpg"
+        width: 4896
+        height: 3672
+        isCached: true
   - title: "AWS re:Invent 2023: Our guide to the top sessions and speakers"
     excerpt: "AWS Machine Learning Hero Kesha Williams breaks down the top keynotes and cloud content to look for at AWS re:Invent 2023, including generative AI and data updates."
     publishedDateTime: 2023-11-22T22:38:00Z

@@ -205,6 +205,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
+    excerpt: "The Global X Robotics & Artificial Intelligence ETF received $35.5 million in net inflows in the week ending on Wednesday, its strongest since June earlier this year, according to Lipper data."
+    publishedDateTime: 2023-11-24T05:11:00Z
+    webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/15956a8a29bc3c93c3b3f2c772ea148e"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Nvidia delays launch of new China-focused AI chip"
     excerpt: "Nvidia has told customers in China it is delaying the launch of a new artificial intelligence chip it designed to comply with US export rules until the first quarter of next year, two sources familiar with the matter said."
     publishedDateTime: 2023-11-26T19:53:00Z
@@ -232,15 +246,6 @@ related:
       name: AZ Central
       domain: azcentral.com
     quality: 32
-  - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
-    excerpt: "An exchange-traded fund tracking artificial intelligence stocks saw investors pouring money after six straight weeks of outflows, on the backdrop of strong quarterly results by chipmaker Nvidia and rising optimism that U."
-    publishedDateTime: 2023-11-24T15:11:00Z
-    webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
 
 secured: "70tDf5iJWFLb2H+qDaWjFvOIlOhYndt0KKjMifz8kJmMESnxFoBtXky7eFXuGn5x/mVfwNaTfv60mofNsaHOmEPHH7+aARX1X9v1rzx2+4ipAayMl5TW7V9lUORXrnpODoKv+7DR3RFLahNqbExojcjCA8D92UFjJ9FD9p26DJddYgXq8j9BPxN2TEeDLJW9j9hzWrUA5yceRYiSoGD7yS7nwi6VyAaNw0or5enC6DaB5E0t7aBQyGHycxMoDQhKPj72AfTcNvRh17BdQGlJp9Rk7rCV3HauiXxIAmteY8dWRUXaVCWxPkNCyIA733cm/V+ucfMX/m1RXLd1IVqAlJ6HZdMswx+jpNI6cwd3JI4=;CHhBGYU/jtYsMux5GUiogw=="
 ---

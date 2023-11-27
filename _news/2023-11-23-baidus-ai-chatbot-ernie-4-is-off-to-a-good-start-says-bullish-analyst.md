@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Adds ChatGPT AI To Windows 11's Command Line, But There's A Catch"
+    excerpt: "ChatGPT's AI capabilities in the Windows Terminal can come in handy for explaining errors, generating commands and providing recommendations."
+    publishedDateTime: 2023-11-27T07:43:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-adds-chatgpt-ai-windows-11s-command-line-theres-catch-1721824"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 67
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1717654/chatgpt.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Baidu's AI Chatbot Earnie 4 Is Off To A Good Start, Says Bullish Analyst"
     excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
     publishedDateTime: 2023-11-22T18:11:00Z
@@ -200,15 +214,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Baidu reveals expectations-beating earnings and touts its new ChatGPT-like AI models, amid leadership chaos at U.S. competitor OpenAI"
-    excerpt: "Baidu took an early lead in the race to dominate China's AI sector with the release of ERNIE Bot earlier this year."
-    publishedDateTime: 2023-11-22T08:53:00Z
-    webUrl: "https://www.aol.com/baidu-reveals-expectations-beating-earnings-095341977.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 0
 
 secured: "DJ+/RRGqtAxSP2siVCPe0IfNEfgUgXnYyeGmaM4ULbj8GypBtW2Q1+Fd72tBB6tRbpswib64nitdAefLMQLyp9qY4UNkm+JKiQcyOW9dZxz9EAgIvczoWqgqbq5HS7cG4Vt+bbR/EvvFq3ryH5eWE45YmIO2uonZfi3tgeUhdpXUJKhN7PV+WeVDJpMiwedHxrWiP0ualg4dCzWh1cqAjYW3IArKb2fv/MapHSnYnWRLWEDKJTqBGJd3PJqMZVuGadxcMXBqrMJrGQKuX4pjVN6+WyNPMOqtryX/yBVyNK/u5vbB4p4xi5/joQ0YAoT7zeiyBprewjjh5R0PiY5I1F1HqSSjkfdNb5gsDOwAVEz3nn6iT2PJaBimt1fT9unpHJWis/JvZtg56P9JY3gU8+XCkglPjlUI98So9xJ8O7O63RWocjXewbaWLcL1/SlGxRKH2ov2slrqzoGF9QLWVdlK4OocwtPn1BXDTZdY/WAIkgXpe0rb6+audpc0F5Ny4958DlifpbzViN51W1GtQA==;aTpI5uzbaP7ozUGKFfsbVA=="
 ---

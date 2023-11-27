@@ -18,10 +18,10 @@ topics:
   - AI
 
 related:
-  - title: "AI Startup Investments Surge in 2023"
-    excerpt: "Explore 2023's AI investment surge, with key startups like OpenAI, Hugging Face, and Anthropic thriving amidst major tech firms' backing."
-    publishedDateTime: 2023-11-22T16:14:00Z
-    webUrl: "https://www.techopedia.com/ai-startup-investments-surge-in-2023"
+  - title: "Bitcoin Avage Ai Review – Legit Crypto Trading Platform?"
+    excerpt: "Bitcoin Avage Ai is a crypto trading platform promising to connect investors to trustworthy brokers. Is it true?"
+    publishedDateTime: 2023-11-23T17:43:00Z
+    webUrl: "https://www.techopedia.com/cryptocurrency/robots/bitcoin-avage-ai-review"
     type: article
     provider:
       name: Techopedia

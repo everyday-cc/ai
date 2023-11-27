@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "The Evolution of AI Generative Models: From GANs to Transformers"
-    excerpt: "Introduction Artificial Intelligence (AI) has undergone a revolutionary transformation in recent years, particularly in the realm of generative models. From the groundbreaking Generative Adversarial Networks (GANs) to the highly sophisticated Transformers,"
-    publishedDateTime: 2023-11-22T07:26:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-ai-generative-models-from-gans-to-transformers/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/The-Evolution-of-AI-Generative-Models-From-GANs-to-Transformers.jpg"
-        width: 600
-        height: 450
-        isCached: true
-
 secured: "TvkmPaBoxcRBr7BZNWGSl9v5c7SxxBClStRf40UBdRyDD3Va6J2JcEZWku3+DGACEiIdGvWUPatzCKdE+ABES5aNI1foTinHw4H2JXz49J+JHVUnGKJv9j0JHwUyGFT0ruRwv5oTyzLQ9Re2RsdfK3vrNZuebPYTVbWEEVN0ONoXWgUpmxdaCJ5SgNbhuXQYdApomprz3iHxT9QoBhIsrQyhi8AaqL1M2/NsZBURZ8hgdUDGiZS9ZaTy/lkFw0cOssNaNTZyHpdbPmTyZV0anfb6ZnoXKtkpbNSPLlSB5ZdnAKYZVsMdc/+he5hUqA60AYJ/j/L2trxf0FYnkSC4v1LUu4j23oX6Hfd5/3p6NgBiXEV9d6bZ2ZNSv0eTox2Ka8lHrHfUBCCDFrEIWAxhJobnXHqrwEh9NplcjvJq516JNE1unhKjWu2HwIyN9UdgNv7CycQCPbLiADgCgjrRgWhmxj0UmBnITcBGsdga93jFd80insvBBtiCrvzj4t0hbBkS9qOx5DcnX/Wsrmj3sw==;0yseWxmXAihtXeR8IYljaQ=="
 ---
 

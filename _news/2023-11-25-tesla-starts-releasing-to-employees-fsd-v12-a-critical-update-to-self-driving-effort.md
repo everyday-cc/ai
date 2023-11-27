@@ -39,6 +39,22 @@ related:
         width: 2250
         height: 1265
         isCached: true
+  - title: "UK broadcasters testing to deliver “total campaign” reporting; Judge rules Tesla was aware of defective self-driving tech"
+    excerpt: "UK broadcasters testing to deliver “total campaign” reporting; Judge rules Tesla was aware of defective self-driving tech; India to regulate deepfakes The UK’s biggest commercial TV broadcasters, Channel 4,"
+    publishedDateTime: 2023-11-27T08:00:00Z
+    webUrl: "https://www.exchangewire.com/blog/2023/11/27/uk-broadcasters-testing-to-deliver-total-campaign-reporting-judge-rules-tesla-was-aware-of-defective-self-driving-tech/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2023/11/27/uk-broadcasters-testing-to-deliver-total-campaign-reporting-judge-rules-tesla-was-aware-of-defective-self-driving-tech/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/11/27/uk-broadcasters-testing-to-deliver-total-campaign-reporting-judge-rules-tesla-was-aware-of-defective-self-driving-tech/?amp"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 49
+    images:
+      - url: "https://www.exchangewire.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Austin launches new dashboard to track incidents involving self-driving vehicles"
     excerpt: "AUSTIN, Texas — While Cruise vehicles remain on the streets of Austin with someone in the driver's seat, other companies are still testing their self-driving cars in the city. As a result, Austin's Downtown Commission says they now have a new dashboard ..."
     publishedDateTime: 2023-11-23T22:44:00Z
