@@ -62,6 +62,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Artificial intelligence informing Pentagon’s use of autonomous weapons"
+    excerpt: "Artificial intelligence employed by the U.S. military has piloted pint-sized surveillance drones in special operations forces’ missions and helped Ukraine in its war against Rus"
+    publishedDateTime: 2023-11-27T00:43:00Z
+    webUrl: "https://www.columbian.com/news/2023/nov/26/artificial-intelligence-informing-pentagons-use-of-autonomous-weapons/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 37
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/11/Military_AIs_Challenge_87677-daaa3.jpg"
+        width: 899
+        height: 599
+        isCached: true
 
 secured: "EbFNQ0qSNM+N3NuRwQguH93NjCH5Yo/6ygjR8INmW7IkvUDq3mKgaAy12r4sBEeIHs2niLNTg+0z/2i01MrhxZR/2I2DGb4z+Ly9xXz09HA2Q16aVqA37t3WP3rnp5/Hog8XgPCwiCpdf1UqIlxb0v/O3r2d/4NBkCagA/wCJMsYI7ei3CeIy7q/LExxelwdRZI1nIjxsdAbIfhew3Q0v7e06GPTz7VwWgZSn9oM+VnC3WLvfSN0uE1wpbL35TBFR45w+0bWFXW1EFNM0UuUMZ6Veci0d7MkGcEVeABI5hoF1JwKeaBwXdrEA7w2iVsv7+pdqbw6zaaLDzv0+vFQ7mISswp3D5RfDBeupSO4njP37JasVg6WbVOM48yX8/FS19uAMDmvt+dXDWcMWacCuUdwwv2TBDikoFHytbAnYRykv7hDefg00WUAR9R4fKchhLXSlYThROIoVvPfeSImV2A/zaedxjOE6jop9DOV4ouW8ITHbemY3EagZgz3tuUdaf7+yXObVgVlCb+NcCcd3g==;Kn0LC6F5VltCUhD5dQ4BxA=="
 ---

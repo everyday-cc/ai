@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2023/11/23/global-educational-robots-marke
 webUrl: "https://www.fmiblog.com/2023/11/23/global-educational-robots-market-expected-to-reach-5-billion-by-2032/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cyber Security in Robotics Market Surges Ahead with a Striking Projected Value of US$ 11.6 Billion by 2033"
-    excerpt: "The Cyber security in robotics market is poised for substantial growth, with a consistent Compound Annual Growth Rate (CAGR) of 11.7% expected during the forecasted period. In 2023, the market is projected to generate revenues of approximately US$ 3."
-    publishedDateTime: 2023-11-22T02:18:00Z
-    webUrl: "https://www.fmiblog.com/2023/11/22/cyber-security-in-robotics-market-surges-ahead-with-a-striking-projected-value-of-us-11-6-billion-by-2033/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 53
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/11/Cyber-Security-in-Robotics-Market.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Embedded Smart Cameras Market Eyes a Robust 34.2% CAGR Journey to US$ 1,24,725.1 Million by 2033"
     excerpt: "The embedded smart cameras market is poised for remarkable growth, with a projected (CAGR) of 34.2% expected between 2023 and 2033. This surge in growth is anticipated to culminate in a substantial market value,"
     publishedDateTime: 2023-11-24T01:26:00Z
@@ -53,6 +39,15 @@ related:
         width: 1000
         height: 392
         isCached: true
+  - title: "Global Artificial Ventilation and Anaesthesia Masks Industry Projects 5.0% CAGR, Scaling to US$3.9 Billion in 2032 | FMI"
+    excerpt: "In 2021, the Global Artificial Ventilation and Anaesthesia Masks Industry was on track to reach a valuation of US$ 2.3 billion. Anticipated Market Growth: By the end of 2032, the market for artificial ventilation and anaesthesia masks is expected to soar to approximately US$ 3."
+    publishedDateTime: 2023-11-23T13:16:00Z
+    webUrl: "https://www.fmiblog.com/2023/11/23/global-artificial-ventilation-and-anaesthesia-masks-industry-projects-5-0-cagr-scaling-to-us3-9-billion-in-2032-fmi/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "j5/sHrFbBEzfGztaStY0w964JI4UDe4DKYHH5YG6VrB3OdFDhuKInY8lvLdTjJ6jr5SiVgJH/S/HLg7DthSoa7Z3xuSmPT8BRAlI4Cqm3cmNbpila+DeW+JGLRc7NBBsIAv5GNjmUL1RZtl7Rz13pKco9kN+lZim4L70JgKZwbAMrg4tBC/avZ6y1g7YDSeMOfBpK/iE3/+5T03VlaA9FXjRxG6w4gzuivWdQ3XsOTge7RWcyK/u8WnNxHKksOa0MyPL4I/RBuIBYsGjtdP+MvUkR+PP0lZIbZ8sYfqXv29CkWHed0SMpbTpJqEhk/8xPpc0gs3AcN7ZFLfQJxsAA8B5+uqYgaDr6n1WN/T+53snltM/z3w72DwSAN6XXssRgdPDQskXvpovzwkWIn8S5gxUbTNMsnijfQSNggi9JZ5mWlKIJVWgjmGF4jHFZBM0ofxRly5QBxHofY+ZjNE8IIqPM+/9NlKDeYU4SrNM6SAgHnFw6jahP1OZcKoBSGchhuJkkCBFBX29NULiEUA9gg==;4Pkz54vDO6Ko98emNK4D3g=="
 ---

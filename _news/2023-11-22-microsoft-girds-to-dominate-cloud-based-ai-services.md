@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft leverages TSMC's one-stop service for in-house developed chip"
-    excerpt: "TSMC not only offers advanced process manufacturing but also its advanced packaging for the recently released Microsoft Azure Maia 100 AI accelerator, according to industry sources."
-    publishedDateTime: 2023-11-22T01:24:00Z
-    webUrl: "https://www.digitimes.com/news/a20231121PD215/microsoft-tsmc-ai-accelerator-5nm.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 56
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231121pd215_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Eviden and Microsoft Collaborate to Help Customers Take Advantage of the Microsoft Cloud and Generative AI"
     excerpt: "Eviden, the Atos Group business leading in digital, cloud, big data, and security, is collaborating with Microsoft to help"
     publishedDateTime: 2023-11-22T19:30:00Z

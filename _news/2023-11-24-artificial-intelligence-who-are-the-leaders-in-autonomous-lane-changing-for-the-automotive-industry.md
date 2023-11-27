@@ -41,15 +41,18 @@ related:
         isCached: true
   - title: "The AI industry must make sure that important communities aren’t left behind | Opinion"
     excerpt: "The age of AI has begun. But as artificial intelligence (AI) continues to scale across industries and functions, it is imperative that marginalized and underrepresented communities are afforded the opportunity to thrive in the age of AI, and not get left behind."
-    publishedDateTime: 2023-11-24T10:30:00Z
-    webUrl: "https://www.newsobserver.com/opinion/article282121043.html"
-    ampWebUrl: "https://amp.newsobserver.com/opinion/article282121043.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article282121043.html"
+    publishedDateTime: 2023-11-24T12:30:00Z
+    webUrl: "https://www.aol.com/news/ai-industry-must-sure-important-103000190.html"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
+      name: AOL
+      domain: aol.com
     quality: 31
+    images:
+      - url: "https://media.zenfs.com/en/aol_charlotte_observer_mcclatchy_259/28755a383c34f5e9104cae08db823dd5"
+        width: 1140
+        height: 760
+        isCached: true
   - title: "Artificial intelligence: who are the leaders in autonomous vehicle ECUs for the automotive industry?"
     excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
     publishedDateTime: 2023-11-24T02:27:00Z

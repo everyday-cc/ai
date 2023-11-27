@@ -25,22 +25,73 @@ images:
     isCached: true
 
 related:
-  - title: "Intuit's AI-Driven Approach: Transforming Fintech Industry with GenOS & Intuit Assist"
-    excerpt: "Saurabh Saxena, Intuit India Site Leader & Vice President, Product Development, shares his insights on Intuit's strategic focus on AI, the transformative impact of GenOS, their newest launch - Intuit Assist,"
-    publishedDateTime: 2023-11-23T08:32:00Z
-    webUrl: "https://www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist-11700727898845.html"
-    ampWebUrl: "https://www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist/amp-11700727898845.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/intuits-ai-driven-approach-transforming-fintech-industry-with-genos-intuit-assist/amp-11700727898845.html"
+  - title: "Finding value in generative AI for financial services"
+    excerpt: "Financial services firms have started to adopt generative AI, but hurdles lie in their path toward generating income from the new technology."
+    publishedDateTime: 2023-11-27T01:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/"
+    ampWebUrl: "https://www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 52
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/11/23/1600x900/Screenshot_2023-11-23_140037_1700728233989_1700728241385.png"
-        width: 1600
-        height: 900
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/UBS-web-ready-5.png"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "How generative AI can give companies a competitive edge"
+    excerpt: "Hasit Trivedi is the CTO of digital technologies and global head of AI at Tech Mahindra. Generative artificial intelligence (AI) is poised to lead the next level of growth and unv"
+    publishedDateTime: 2023-11-27T02:04:00Z
+    webUrl: "https://www.wamda.com/2023/11/generative-ai-companies-competitive-edge"
+    type: article
+    provider:
+      name: wamda
+      domain: wamda.com
+    quality: 41
+    images:
+      - url: "https://cdn.wamda.com/feature-images/bea41bf41903664.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Generative AI Takes on SIEM"
+    excerpt: "The modernized QRadar SIEM offering will become part of the QRadar Suite, originally launched in April 2023, which brings IBM's EDR, XDR, SOAR and SIEM offerings and a new log management tool onto a common platform designed to give SOC analysts a unified interface and controls."
+    publishedDateTime: 2023-11-22T20:00:00Z
+    webUrl: "https://www.darkreading.com/emerging-tech/generative-ai-takes-on-siem"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc53d6965d9f963bf/64789b9b6159dba6643b4668/robot_at_laptop-Dariusz_Banaszuk-alamy.jpg"
+        width: 646
+        height: 430
+        isCached: true
+  - title: "Governor’s Office issues initial generative artificial intelligence report on Tuesday"
+    excerpt: "On Tuesday, the Governor's Office released a report about the emerging possibilities and potential pitfalls of generative artificial intelligence."
+    publishedDateTime: 2023-11-24T01:43:00Z
+    webUrl: "https://keyt.com/news/california/2023/11/23/governors-office-issues-initial-generative-artificial-intelligence-report-on-tuesday/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 34
+    images:
+      - url: "https://keyt.b-cdn.net/2023/02/Seal_of_the_Governor_of_California.png"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "AI Startup Stability Has a New Tool For Creating Generative Videos"
+    excerpt: "Startup Stability is taking generative AI up a notch. While the technology has been used largely for photos and voice replications, Stability is making waves with a new tool for advanced AI-generated videos."
+    publishedDateTime: 2023-11-22T17:25:00Z
+    webUrl: "https://hypebeast.com/2023/11/ai-startup-stability-generative-video-tool"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 17
 
 secured: "9OyxAWAr67yWX6ZBlErUoQ5bDkSl3r4GbkzFcQWNfWNNF3dTnq+8VTdxJglJChIbCmFFpcxqJOJWaMYd0eNqRxs2PTIxADmysDLBQLAl/CeOlGxAXFZ4n6oI/aAzjfAWQplR2RyM5XFeWrnzSjFGzha9VCSiWD/Zxpg0oEzTF8aMDMAYxb0lHXwKRYyB6tO+HbSyEZP477aCtjhOlqE+vYSKWqxOkr0yxF3VpQ5Sg1s8WmCa1FA2mnb1hQDtNwc0V8C7H9543LpkXhexuTc4YVUfeLTZPpPNuhy6JZPJkSGi7lXNfLLgpz9/N2/GRmBlHMau1ZOwM5zFvBsJe8fSS0bMgp6pBU4njCG0vbnGqXY=;hq+4qtIbbsN4G8wa+uoNsA=="
 ---

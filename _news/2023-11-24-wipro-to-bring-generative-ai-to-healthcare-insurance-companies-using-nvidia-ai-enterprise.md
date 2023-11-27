@@ -165,20 +165,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Nvidia Triples Revenue As AI Chip Demand Stays Strong"
-    excerpt: "Nvidia tripled revenue in its third quarter from a year ago, a sign that demand for its AI chips and systems is still strong."
-    publishedDateTime: 2023-11-22T01:48:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-triples-revenue-as-ai-chip-demand-stays-strong"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0284-18d84313338b-88a6346e8803-1000/nvidia-2.jpeg"
-        width: 1500
-        height: 1128
-        isCached: true
   - title: "Nvidia delays AI chip designed for China: ‘Nvidia has demand without China’"
     excerpt: "Nvidia delays an AI chip it specifically designed for China. Wedbush analyst Bryson says Nvidia has demand without China."
     publishedDateTime: 2023-11-24T14:52:00Z

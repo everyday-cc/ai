@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Microsoft AI
 
 secured: "XiW6Kndtqtb4D2/OOf+cO4q1pvvu7i1WqVyYo2MoLXXj+rnSz0IzQ136tO3Bovh+iJOPv1CHgXKOPmnXDsT/3Dxh35iCk9yHIasltKWEaPO0qpzVVQqGpEsK6oAxJmzkrgir5+ChgtapcSShUNP1B6dqxkibCMOn80+j69YkFb5SErkW1jCEWpIcqfZ1cBz1c5p/8MQuCKRhUscS8azm/hCPwHFKcrlKup4Y6xaDuSJo+L4TG81hI/mtzJAjAuYtltOeANLiTXOG1RcoDOoFuNIS+XWZP1GRywHduSv14RRIQmh1Z7sMDDIs0zWot7EqqXIBguAApc7JXu+B/mOtoZ29mFAZL4ImxkfucsN/Ybo=;9cHO2fKWxHPp1ALfxSd79A=="
 ---

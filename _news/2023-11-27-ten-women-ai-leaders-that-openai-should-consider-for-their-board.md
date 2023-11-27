@@ -218,17 +218,17 @@ related:
         isCached: true
   - title: "What does Sam Altman's firing — and quick reinstatement — mean for the future of AI?"
     excerpt: "Altman was removed as CEO Friday in a sudden and mostly unexplained exit that stunned the industry. He was swiftly reinstated days later."
-    publishedDateTime: 2023-11-26T22:10:00Z
-    webUrl: "https://www.ktvb.com/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
-    ampWebUrl: "https://www.ktvb.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
-    cdnAmpWebUrl: "https://www-ktvb-com.cdn.ampproject.org/c/s/www.ktvb.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+    publishedDateTime: 2023-11-27T01:35:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
     type: article
     provider:
-      name: KTVB
-      domain: ktvb.com
+      name: WHAS11 News
+      domain: whas11.com
     quality: 50
     images:
-      - url: "https://media.ktvb.com/assets/CCT/images/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804_1140x641.jpg"
+      - url: "https://media.whas11.com/assets/CCT/images/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -447,6 +447,6 @@ related:
       domain: ft.com
     quality: 0
 
-secured: "UPUQAUeCpNAKGfkgVOz3a95xdxRMhuOZI8l2PRTP2M6d2/TkcNfXylpnipuOy0U8PSUQzQC1cam9Ny81yfqPu6a2iFBeWDvawQhVRi7Mf/XghB8Hkf4DmrT1kA4BVKLRPoFlzapVCa4G9H9fqfmLp5BxLpHXUdxvD71+Db5+p9na1+WEZ/uv4QCAam+oXc8t3yzsO7oo8KhzI3DmRAClk9pz9YFGHrZWw4sdUvi8iZhJMo8J+1qvBIu9ZQQAP1kAHgYq0zrGD+Rsa0Pai0BddKtMNuFoDfw7dZEjq1MR+B7Lad0RevmB4tBe4bkTss17gVWUW40LtmRp7iRKv6JB4ogjAxRaqvGExnglvWwgLxg=;IkxP4EGD8ogrb8jbVHxdMA=="
+secured: "0ImDRxxdnD8iXKGizKflWdD0PVaWcT4X/ULD+P+CdHvwRIjXhrgkrhTRhrvI0/jTMOcpnrUjgmojwIO/51PtZSQ6qjT1OAATk70YC98Du49NXP1seOneyGCWJ3tp/Hlp5e2TQRPy7GQAAJ7CmwrACnkFs8Dmf0c0cuTatgmrfh8g60ermDHxAM+ii05GKO6wApE84f7E+Gk1wGX0/xMr3VRveCOz22qE+yNxJ9YSeSwMrBYtoVCVA8nX7/CWnYHDQVmxTm8jtUBFFrx0I+3NDJpjWweYQCqSiyXGphNLgaQ2B1CDuwKOnDo5syt8XXz5rhNnzNFg2pttSAUNXbQ5wbsLVYwy+K1pYSjItUrq/J3EBVtTy0kAgMb+xA9mZjh1kdIl1WPO76lbSZqV/WboISQn4cTw6bcIik74feXxFmD6ZY1++8Mc+eVMXAPCgbycTGO/Cb3RDhh1Prb6c5j/fDXoLHfDv0v/mKnXOIZMNNqUIBKj8KtnVaP9PaXmo0uhq4697ULbmBscrgWIIFs0hw==;gAPaCsf6ZKoKCTGOBZExYA=="
 ---
 

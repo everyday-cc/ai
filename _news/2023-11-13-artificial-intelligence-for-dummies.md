@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial intelligence for dummies"
-excerpt: "There has been great progress in narrow forms of artificial intelligence, like self-driving vehicles and automated legal systems, but the only threat they pose, if any, is to jobs. The “large ..."
-publishedDateTime: 2023-11-13T15:16:00Z
-originalUrl: "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/"
-webUrl: "https://www.bangordailynews.com/2023/11/13/opinion/artificial-intelligence-dummies/"
+excerpt: "Musk, never at a loss for words, opined that AI is an “existential threat” because human beings for the first time are faced with something “that is going to be far more intelligent than us.” It was a jamboree of the trite and the portentous."
+publishedDateTime: 2023-11-13T14:18:00Z
+originalUrl: "https://www.bangordailynews.com/2023/11/13/opinion/opinion-contributor/artificial-intelligence-dummies/"
+webUrl: "https://www.bangordailynews.com/2023/11/13/opinion/opinion-contributor/artificial-intelligence-dummies/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 800
     isCached: true
 
-secured: "FzIp5tMhvRGmRiWV6LyR/l9gcsNjHPTY4XjAn+7F94SfCWOF2kUMN1wd2aAA2fI4zXpc4Wx2nnUJ/gfRuXdLAJtx5d0fHVfQ/N3XB1Reb/7xrKsH1JcYMEJY2WtHxaH3VOrWAOaaTXJM00Z+IBQNgIbTsV1JXUQNuD9S20n4M/UyiqLg1u0jQNio95TGy7poVIMQOH5N4aA9arXfwbR7VlruoRfPym37rAHNnZ4dcF7JDchkuro3tEOjM3iYuaz4ZR4oyu0FiLQb39fqzXnpi3QHR8H5kE0ABiTR74MF/ceteVTszdJoKr1lM1lzzhV/o6tdaETqS4sZUYD40hcCc3eJW3ZmJe7iAoDV+c4M27Q=;fN+CYePe6l0OQ4uodUqw8w=="
+secured: "POF3Oji9iKzr9Ijxe+mDLLE9Xt0Tkp7iV+xPHfeG6y4aqC6Yo8sDJl459qkMM08mIocydZZSXFil1lvKvVDQX46tqOYyxcFrFsYOQjCzvTIosGQpsBUkSu/pB9Gs7YjrC6+1NRY/P7KX3O0CcsXGfSgho7T3VWVpif1CP0xWyHo1DyGBhx9jVv8arp7PjR7qKgAcWKANNMZMQUUkgOxltgMhG3Y1iTRTqx4riJ1tL5+TmNG6tODj2iTeIhy2WaGNl7QTcaL347oC6UDfibgYh4RNt5/kcxvyn094wVy8Id2K5jl3dusxnVN4+kzltI6AJg1L1SAKDJ37mqeVbhk0J5uzYaOXxvoV1tbC1xVM4KI=;AgOlCDXQWE/w7i3bITTntA=="
 ---
 

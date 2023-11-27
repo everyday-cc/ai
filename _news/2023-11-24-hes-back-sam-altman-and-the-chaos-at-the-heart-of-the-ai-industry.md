@@ -232,17 +232,17 @@ related:
         isCached: true
   - title: "What does Sam Altman's firing — and quick reinstatement — mean for the future of AI?"
     excerpt: "Altman was removed as CEO Friday in a sudden and mostly unexplained exit that stunned the industry. He was swiftly reinstated days later."
-    publishedDateTime: 2023-11-26T22:10:00Z
-    webUrl: "https://www.ktvb.com/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
-    ampWebUrl: "https://www.ktvb.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
-    cdnAmpWebUrl: "https://www-ktvb-com.cdn.ampproject.org/c/s/www.ktvb.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+    publishedDateTime: 2023-11-27T01:35:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
     type: article
     provider:
-      name: KTVB
-      domain: ktvb.com
+      name: WHAS11 News
+      domain: whas11.com
     quality: 50
     images:
-      - url: "https://media.ktvb.com/assets/CCT/images/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804_1140x641.jpg"
+      - url: "https://media.whas11.com/assets/CCT/images/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

@@ -117,20 +117,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "OpenAI staff make jokes about CEO drama as they announce new ChatGPT voice feature"
-    excerpt: "In a demo of the new feature, OpenAI’s staff even made jokes about the drama surrounding the artificial intelligence firm, with someone asking ChatGPT: “It’s been a long night for the team, and we’re hungry. How many 16-inch pizzas should I order for 778 people?”"
-    publishedDateTime: 2023-11-22T02:01:00Z
-    webUrl: "https://siliconangle.com/2023/11/21/openai-staff-make-jokes-ceo-drama-announce-new-chatgpt-voice-feature/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ai-generated-8177861_1920.jpg"
-        width: 1920
-        height: 1329
-        isCached: true
   - title: "Baidu's AI Chatbot Ernie 4 Is Off To A Good Start, Says Bullish Analyst"
     excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."
     publishedDateTime: 2023-11-22T18:50:00Z

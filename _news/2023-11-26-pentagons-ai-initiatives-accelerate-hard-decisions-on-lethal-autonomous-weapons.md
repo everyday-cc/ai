@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-ac
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
 type: article
 quality: 52
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://dims.apnews.com/dims4/default/2801d95/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F68%2Fd9%2F0261bc35db3613bf7242dde66991%2Fus-md-military-artificial-intelligence-20231125cr-1920x1080.jpg"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Artificial intelligence informing Pentagon’s use of autonomous weapons"
+    excerpt: "Artificial intelligence employed by the U.S. military has piloted pint-sized surveillance drones in special operations forces’ missions and helped Ukraine in its war against Rus"
+    publishedDateTime: 2023-11-27T00:43:00Z
+    webUrl: "https://www.columbian.com/news/2023/nov/26/artificial-intelligence-informing-pentagons-use-of-autonomous-weapons/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 37
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/11/Military_AIs_Challenge_87677-daaa3.jpg"
+        width: 899
+        height: 599
         isCached: true
   - title: "Pentagon steps on AI accelerator as age of lethal autonomy looms"
     excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"

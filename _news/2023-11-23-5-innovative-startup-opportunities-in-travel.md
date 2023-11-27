@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-start
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20231122pr204_files/1_2b.jpg"
         width: 1280
         height: 852
-        isCached: true
-  - title: "KKCompany Technologies joins Microsoft startup initiative and advances AI-powered cloud streaming solutions in Southeast Asia"
-    excerpt: "We offer our self-developed products and services to both individual users and enterprise customers across Asia, under the brands KKBOX, BlendVision, and Going Cloud. The Company has also earned third-party international certifications including OpenChain ISO/IEC 5230 and ISO 27001."
-    publishedDateTime: 2023-11-22T01:43:00Z
-    webUrl: "https://www.digitimes.com/biz/news.asp?feed=3601"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 27
-    images:
-      - url: "https://img.digitimes.com/ad/en_20231113_asasemiconductor_bigbutton.jpg"
-        width: 336
-        height: 280
         isCached: true
 
 secured: "Y6p6pmL80kUELX2nR80mCvvta1AMGcKkrDDkMTga9LZBqUxK/ZbOCkg6wVHrn/TKLXyprZgEVexpV0dY8ldJv2gmpu0pFk44bH0+t3NaYMjf5R5+dXoVEIjnncny2qkhIRMZdxk0Ckee2LYZP2kdSi0cewJleWjtOQTuLG1v/t5B/E6LT9gJm9knD8qwdjSa4ZTIHdqedABsPzT0tMFN/Uog3/hDWa4veHeb/DM1Fb2lvNoK6tj/2MdNVYPyTB/1IYKH/kBAx7d+g3s/bwDI5j5LeVtNdw6AdWGilSmfP/WzKpijVkRx9936md3Utn3cwGPnUx058o4HEWOucwKIH/Zrhp2jWcNAmWPP8e3GtWs=;7tfAeDkBlR2vNCqyijVV2A=="

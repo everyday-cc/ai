@@ -2,25 +2,25 @@
 category: news
 title: "What does Sam Altman's firing — and quick reinstatement — mean for the future of AI?"
 excerpt: "Altman was removed as CEO Friday in a sudden and mostly unexplained exit that stunned the industry. He was swiftly reinstated days later."
-publishedDateTime: 2023-11-26T22:10:00Z
-originalUrl: "https://www.ktvb.com/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
-webUrl: "https://www.ktvb.com/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
-ampWebUrl: "https://www.ktvb.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
-cdnAmpWebUrl: "https://www-ktvb-com.cdn.ampproject.org/c/s/www.ktvb.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+publishedDateTime: 2023-11-27T01:35:00Z
+originalUrl: "https://www.whas11.com/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+webUrl: "https://www.whas11.com/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
+cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/sam-altman-open-ai-firing-reinstatement-what-it-means/507-311a67f0-599b-48d9-9dee-cfce75b8e27a"
 type: article
 quality: 50
 heat: -1
 published: false
 
 provider:
-  name: KTVB
-  domain: ktvb.com
+  name: WHAS11 News
+  domain: whas11.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media.ktvb.com/assets/CCT/images/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804_1140x641.jpg"
+  - url: "https://media.whas11.com/assets/CCT/images/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -443,6 +443,6 @@ related:
       domain: ft.com
     quality: 0
 
-secured: "xomyYClr7Ke+E9UWUUk0xx9lKYdPeWhNg2gYiKcNCW9QjlqJpxfEyCobxuDs09Y2qbsgC+QPirYFBt3sj7sTKQmE/7T3Axm0AnHkTvnTCMl8EukjVlP3VM8RTpehPb3jUD4ukcjb7Tn+3XKDi6joORtw/+ZfOwhhuZCZa9vi9IUZCbTJvlVaIAayQIYWvHv/Aav5KsOer21R/6Cliv07yWVCOwb4lLSeUKuVxfzF7fh69CarXxvA9cNbsQad2k5TOeVNDrqe4Sq4AnzgQXELAC2gJz+mvJISn4zrEAml/mObL6ULkGJexiSNSeFhr+teMMUdNPs8O4ynXS2ThXu4xuLMsABUFYohQdvGe3MeU2I=;WSfzZ/CekL4wbJKgOyv4UA=="
+secured: "pN3ZOmW+1iwYrmJvGA8sGVhjlV0DgX+qa9CBif7Z99s6wAMe1Kn4WqpHD8SUOFnB7mpq4a+z0le/PGLsjFXhn1wciO4cZfinP4xWypOe7foR95REzF2AYnHh0BdGVsmQd4TIwsy/ssKN9H+xdWm8WJe65+bOX9JpLenzwKaNxe+vrHfYtAaafOLchj70O80/OhifL2EcLMwaPVPI0g52+qqCfZGI2hwOF01uc4GFZarsxqtcBcb0emgtCMKqf1O3/eqiTGlvePp/njzYcrTzVzF07/ZZeTyXVrvrKeVG3bOY3qeT+H6PCeyOC1mpXevFJfKHNJaPEU5vdKimDFHxhjMZXeQulIGJbH3fEQRMsAU=;4M1DZU0dXtiMvBxd3/HIdA=="
 ---
 

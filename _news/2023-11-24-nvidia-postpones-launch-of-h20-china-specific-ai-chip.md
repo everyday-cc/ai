@@ -130,20 +130,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Wipro Leverages NVIDIA AI to Enhance Healthcare Solutions"
-    excerpt: "Wipro and NVIDIA join forces to speed up generative AI adoption for healthcare via AI-driven strategies, products and services."
-    publishedDateTime: 2023-11-22T02:57:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/33966-wipro-leverages-nvidia-ai-to-enhance-healthcare-solutions"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 56
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/02dd3a6401840cd05dc8ec7ecf9feb85.jpg?t=20231122_025418"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Nvidia Delays AI Chip Launch in China Amid Export Rule Compliance"
     excerpt: "Nvidia has informed its Chinese customers of a delay in the launch of its anticipated artificial intelligence (AI) chip, the H20."
     publishedDateTime: 2023-11-25T05:59:00Z

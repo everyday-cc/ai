@@ -128,20 +128,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "OpenAI staff make jokes about CEO drama as they announce new ChatGPT voice feature"
-    excerpt: "In a demo of the new feature, OpenAI’s staff even made jokes about the drama surrounding the artificial intelligence firm, with someone asking ChatGPT: “It’s been a long night for the team, and we’re hungry. How many 16-inch pizzas should I order for 778 people?”"
-    publishedDateTime: 2023-11-22T02:01:00Z
-    webUrl: "https://siliconangle.com/2023/11/21/openai-staff-make-jokes-ceo-drama-announce-new-chatgpt-voice-feature/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ai-generated-8177861_1920.jpg"
-        width: 1920
-        height: 1329
-        isCached: true
   - title: "ChatGPT iPhone App's Voice Chat Feature Now Free to All Users"
     excerpt: "OpenAI has announced that the voice chats feature in its official ChatGPT app for iPhone and iPad is now available for everyone to use,"
     publishedDateTime: 2023-11-22T10:38:00Z

@@ -2,29 +2,23 @@
 category: news
 title: "Driverless cars immune from traffic tickets in California under current laws"
 excerpt: "An NBC Bay Area investigation reveals autonomous vehicles in California cannot be cited for moving traffic violations since transportation laws require tickets to be issued to actual “drivers.”"
-publishedDateTime: 2023-11-23T23:03:00Z
-originalUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/"
-webUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/"
-ampWebUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
-cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
+publishedDateTime: 2023-11-24T07:03:00Z
+originalUrl: "https://www.nbcsandiego.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3363784/"
+webUrl: "https://www.nbcsandiego.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3363784/"
+ampWebUrl: "https://www.nbcsandiego.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3363784/?amp=1"
+cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3363784/?amp=1"
 type: article
-quality: 56
-heat: 66
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: NBC Los Angeles
-  domain: nbclosangeles.com
+  name: NBC 7 San Diego
+  domain: nbcsandiego.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://media.nbclosangeles.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Isn't it about time we had driverless cars?"
@@ -37,6 +31,6 @@ related:
       domain: abc.net.au
     quality: 19
 
-secured: "Qjyzerk0YjhR89RBKzmvre5irCbmOTUKGAzfXouNnPrcwa5tieFq1AePYWvVMS46NSICsZ1qhjG/oNiU59DhwH8gJn3YgyoZiLHeBZYjBTQFbkGnWV2UcHFZ48vjHpiFpvuegnY88QPHrbPzIvJndMfzwQ0nUQrm3HIemuASOqcbRoaeA0FWFfCTtQjvv+vjCt7kplmzPzWxsRXZoS+0AYyR0xgwNzJ0P9rmj7a6OcPNUwmp8qJHqPkvQ8VM91lgOU/c+TWVu3gZQpfCnh03gus6vdLgcgJJKo088eTzMXAxV1TSZnBsQHGyDVpp7cKVKIWsSL4ZRiZyDMcgTv5/vOSWHRCNPh6djM8UAYlSyQ3y7w2sohME+0H34Y6RPKYh2jl3jlQ59G29QLy7NtdPhd5MxxNeVfe7NETBKDhdLVfOTkkrfB0Set3GzytjTWs60u8r8Gm7clUZ1ct2PXjCBE33+2PRWqYsnaUizVxJ0LBVrOziUNHwpOeRKqygTyA8kibwzDUisofxCA8vFW8jyw==;QYR0HYs/m/JJ+JjchppL6A=="
+secured: "AB/fRp6xS5zZbr1ybkgddBQSqie6XxB1MnmqMjkDyZYLE3SYSkVXiDnncJFby2/FFQHBq0lhZKFMtyorn2ZIJPMqaFl0D9Rh2WkTl8g1dHmyAEaUg/E30vZyKJfUsP1PUrVpeTsAcb4tI3e0+YyUMDM+2BfH0QkOBHErKqZh745p6upO2RcjrvQykhuKUj4gqIWjefc0v1q1ts/psAbC1p6jmU4Uv4PD3Fx7jVosypGeQ0RSH5zoRi8Sa+0WtNqbPz8ZtU7hqens68ie+zD6hM+c74GdAY/xqpIfsT0+kWCJpHlpn6wQoRcoNXY/brxCNXY2fGEwRCLr61UNUmpww0V7yARLit+Os42hY8fobsE50w7FgpD8vTebw56YUcE+6fPddcu1QWpGn3UsfsPG2WdchA0kEny0Xyq9tfvM8Cbok+h35kwhxQizI0X1Fmnn4Dsi30C6lYF3gFdvhgvmSuQ0eJtM93eHwm16T4Iqmg7I3L47Ao0NSDm8rO6INrCa8vPXKcgqXYu+XWY6XRSN6Q==;KLMZ/Oab0Qmc+0UKBOI8qA=="
 ---
 

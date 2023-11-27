@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-3
 cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681.amp"
 type: article
 quality: 71
-heat: 113
+heat: 114
 published: true
 
 provider:

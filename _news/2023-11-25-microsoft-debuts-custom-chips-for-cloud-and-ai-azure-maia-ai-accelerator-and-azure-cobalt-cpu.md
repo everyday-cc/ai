@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/
 webUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft leverages TSMC's one-stop service for in-house developed chip"
-    excerpt: "TSMC not only offers advanced process manufacturing but also its advanced packaging for the recently released Microsoft Azure Maia 100 AI accelerator, according to industry sources."
-    publishedDateTime: 2023-11-22T01:24:00Z
-    webUrl: "https://www.digitimes.com/news/a20231121PD215/microsoft-tsmc-ai-accelerator-5nm.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 56
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231121pd215_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Microsoft Girds to Dominate Cloud-Based AI Services"
     excerpt: "Launching its own server CPUs and AI chips to fortify the Azure cloud, Microsoft takes shots at all their potential competitors while offering more options to their"
     publishedDateTime: 2023-11-22T14:18:00Z

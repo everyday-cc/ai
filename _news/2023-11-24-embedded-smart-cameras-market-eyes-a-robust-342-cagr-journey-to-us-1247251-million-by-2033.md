@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cyber Security in Robotics Market Surges Ahead with a Striking Projected Value of US$ 11.6 Billion by 2033"
-    excerpt: "The Cyber security in robotics market is poised for substantial growth, with a consistent Compound Annual Growth Rate (CAGR) of 11.7% expected during the forecasted period. In 2023, the market is projected to generate revenues of approximately US$ 3."
-    publishedDateTime: 2023-11-22T02:18:00Z
-    webUrl: "https://www.fmiblog.com/2023/11/22/cyber-security-in-robotics-market-surges-ahead-with-a-striking-projected-value-of-us-11-6-billion-by-2033/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 53
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/11/Cyber-Security-in-Robotics-Market.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Global Educational Robots Market Expected to Reach $5 Billion by 2032"
     excerpt: "The global educational robots market is poised for remarkable growth, with projections indicating a substantial increase in market value over the next decade. According to the latest report by Future Market Insights (FMI),"
     publishedDateTime: 2023-11-23T12:17:00Z
@@ -53,6 +39,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Global Artificial Ventilation and Anaesthesia Masks Industry Projects 5.0% CAGR, Scaling to US$3.9 Billion in 2032 | FMI"
+    excerpt: "In 2021, the Global Artificial Ventilation and Anaesthesia Masks Industry was on track to reach a valuation of US$ 2.3 billion. Anticipated Market Growth: By the end of 2032, the market for artificial ventilation and anaesthesia masks is expected to soar to approximately US$ 3."
+    publishedDateTime: 2023-11-23T13:16:00Z
+    webUrl: "https://www.fmiblog.com/2023/11/23/global-artificial-ventilation-and-anaesthesia-masks-industry-projects-5-0-cagr-scaling-to-us3-9-billion-in-2032-fmi/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "WkjuKdrWjCcCK+btBivX73MAPvcvS0HQsAwPCOrdE3+2QH7kxpgYFl9BbQuefonZRPu3J8yhQ+4v/XEM5Oq/H/xbyGAiiKC8YAZEZRFRUMw3NM2wrVsErqhnLwREAJl3T6YG4lqSKISHmeCK+bDW24BoWbdg11Ac3aI291MCQ70/AfE0TEMjRCeUnsDhfHj6c7Mu8TG5IOKnckfBwciJXdrnGg3dr27g6r73+y2kLaqDEukmUN1YzybTxGmKMARJqnwz4YgEIPt42bnUUxyIwSGOhlhLsIdnX7arjtu+7nbtC2Fv6uCYbe2j7WfIKsgxjBjlTiDJNc3aWs2RoMEXBlRf/Xye9OW2R0E/Hq3oWy07duu0GT+VrJmydPhN8n3Y8KFAGARPCzoXFeFEg2E4qVQTD4xKPi1FR2gXCYMu7O6v7V7eMhs7hoWXTyFctbYhVgw7cLYQPDm+QbZBnDJI0pSDOYlZ+fOh4Ct/f5uLl3/gJv7bhcEnNisu/eUFCdBDQIQ0962ATwCox8boPA1wqw==;WCGjGdVZL6K/x8LDRl1jgA=="
 ---
