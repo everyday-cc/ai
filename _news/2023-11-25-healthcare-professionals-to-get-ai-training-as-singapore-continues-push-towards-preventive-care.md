@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/singapore/artificial-intelligence-
 webUrl: "https://www.channelnewsasia.com/singapore/artificial-intelligence-healthcare-singhealth-ai-singapore-3943526"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai Unveils Robot-Operated EV Plant in Singapore"
-    excerpt: "After beating General Motors and Ford in US electric vehicle (EV) sales in Q3, Hyundai Motor Group plans to keep its momentum going in the market.Hyundai officially launched its new"
-    publishedDateTime: 2023-11-22T16:50:00Z
-    webUrl: "https://www.benzinga.com/content/35921762/hyundai-unveils-robot-operated-ev-plant-in-singapore"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35921762"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35921762"
+  - title: "Navigating Healthcare Challenges: Artificial Intelligence Emerges As Crucial Ally In Patient Care"
+    excerpt: "AI tools enable medical professionals to identify patients at risk of developing certain diseases, facilitating earlier intervention and personalized care. These tools not only assist in"
+    publishedDateTime: 2023-11-27T08:55:00Z
+    webUrl: "https://thelogicalindian.com/trending/ai-in-healthcare-revolutionizing-patient-care-for-a-healthier-future-41484"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
+      name: The Logical Indian
+      domain: thelogicalindian.com
+    quality: 41
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://thelogicalindian.com/h-upload/2023/11/27/234486-tli-13.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "gU9gW5O7rIC1q15KAZwem1+3vXVdngC3U+UDNctAi3XNWg/2ZoGNp5ahC564VcNqXAAPo/OIrMrxdUiwMFVWlAtmQStR+WBnM7oul2LJh+tP7EbEsotK/215kKo1nHP0IZWRK5Mb+OoHvjKo6y7yAGgUdoredklSzxPjV24lCMRHhdKeqn5vIRlRQJY7lzAlFeS9pI/gcBAfC94tCcrSi0HXFWv6UHXoYrsjuvHR6bdXfFiCjfc0fkqrd2erZiLoUWIxvhy3/c+XITLsn68Dz4wUJtnHFu6w2yEyfducJs7rTzkY+4nZb6wsjLm29rYUMuawUuYplhTWJjqwbz+BKZ7KhdeJsEzFV4ozmcy/2iI=;LJQFcyj+lClLJgvI7YAQ/g=="

@@ -69,6 +69,20 @@ related:
         width: 899
         height: 599
         isCached: true
+  - title: "Pentagon's AI Initiatives Accelerate Hard Decisions on Lethal Autonomous Weapons"
+    excerpt: "The Longshot, an air-launched unmanned aircraft that General Atomics is developing with the Defense Advanced Research Project Agency for use in tandem with piloted Air Force jets, is displayed at the Air & Space Forces Association Air, Space & Cyber Conference, Wednesday, Sept. 13, 2023 in Oxon Hill, Md."
+    publishedDateTime: 2023-11-27T15:41:00Z
+    webUrl: "https://www.manufacturing.net/laws-regulations/news/22880077/pentagons-ai-initiatives-accelerate-hard-decisions-on-lethal-autonomous-weapons"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 34
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/11/pentagon.6564b62011ed4.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C459%2C5063%2C2848&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon Invites Applications for Free Courses on Artificial Intelligence"
     excerpt: "Amazon, the US-based internet giant, has announced that it would offer free educational courses on generative AI as part of"
     publishedDateTime: 2023-11-23T05:41:00Z

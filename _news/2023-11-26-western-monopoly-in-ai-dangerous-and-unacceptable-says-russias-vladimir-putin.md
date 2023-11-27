@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Hindustan Times Tech
@@ -42,6 +42,20 @@ related:
       - url: "https://metro.co.uk/wp-content/uploads/2023/11/GettyImages-1771036808.jpg?quality=90&strip=all&zoom=1&resize=594%2C395"
         width: 594
         height: 395
+        isCached: true
+  - title: "Putin: West dominating AI industry, Russia must step up"
+    excerpt: "President Vladimir Putin said that the West had a “dangerous” monopoly over artificial intelligence and Russia needed to rival “biased” Western chatbots with its own technology."
+    publishedDateTime: 2023-11-27T16:06:00Z
+    webUrl: "https://interestingengineering.com/culture/putin-west-dominating-ai-industry-russia-must-step-up"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/11/27/image/jpeg/7DGD9w05UB9DvtonUzPZemlhWUC1C0p6lfpNHePo.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "ogKznb/DJd5zC/czV0elM5Ck0/PpoS5MsVCwxc0n14gh4kRyH26CmvOdnYkYEkVV1/fV9XG/ux2Y1S70ErczMbNsdGq8gaB7387KThICwLKtxy78ZdS4+ZOP+nw6XChQvkI7d7ZEdtDv5YcYQF6AK3X+CT8VdEHts5vF7sXyZzkpm+mc+0VZ/CMS28QqV3PY58bl0BLF0taR7iBBFp/I6Gxe0n86hz1dbbajFoQB+n4cUPVUZ3u/Eu3tum/6IQjhEeNWb7o0tVQ9RoAeMUCuqrfHD6RXN/QkZmfHPNSS5DZwu0/nbqedhgVMc8i+y+thejhtoRay4Z+6FJ029RdQqC2xRJpJ+cVimgDyVQzretI=;QSDbKwbNqZIWmZ6ecBGT2Q=="

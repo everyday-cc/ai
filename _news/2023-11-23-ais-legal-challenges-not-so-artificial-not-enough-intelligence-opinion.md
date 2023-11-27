@@ -7,7 +7,7 @@ originalUrl: "https://www.sun-sentinel.com/2023/11/23/ais-legal-challenges-not-s
 webUrl: "https://www.sun-sentinel.com/2023/11/23/ais-legal-challenges-not-so-artificial-not-enough-intelligence-opinion/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,20 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating Healthcare Challenges: Artificial Intelligence Emerges As Crucial Ally In Patient Care"
-    excerpt: "AI tools enable medical professionals to identify patients at risk of developing certain diseases, facilitating earlier intervention and personalized care. These tools not only assist in"
-    publishedDateTime: 2023-11-27T08:55:00Z
-    webUrl: "https://thelogicalindian.com/trending/ai-in-healthcare-revolutionizing-patient-care-for-a-healthier-future-41484"
+  - title: "Absence of dedicated legal framework a challenge for AI regulations"
+    excerpt: "In recent years, India has seen a surge in Artificial Intelligence (AI) adoption, transforming its technological landscape. As a global IT hub, India leverages AI for innovation and economic growth. In business and manufacturing,"
+    publishedDateTime: 2023-11-25T14:06:00Z
+    webUrl: "https://www.canindia.com/absence-of-dedicated-legal-framework-a-challenge-for-ai-regulations-4/"
     type: article
     provider:
-      name: The Logical Indian
-      domain: thelogicalindian.com
-    quality: 41
-    images:
-      - url: "https://thelogicalindian.com/h-upload/2023/11/27/234486-tli-13.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Canindia.com
+      domain: canindia.com
+    quality: 19
+  - title: "Absence of dedicated legal framework a challenge for AI regulations"
+    excerpt: "In recent years, India has seen a surge in Artificial Intelligence (AI) adoption, transforming its technological landscape. As a global IT hub, India leverages AI for innovation and economic growth. In business and manufacturing,"
+    publishedDateTime: 2023-11-25T20:06:00Z
+    webUrl: "https://www.canindia.com/absence-of-dedicated-legal-framework-a-challenge-for-ai-regulations-9/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 19
 
 secured: "5GJy+B2CfU1865k6DMakxfSLop5Xu2MtLyrl08V3DVnWnCh3x3n7pMgCIqObyj4CKRi6RUD/WYHJXoFIKSS8XcS1nDVXkacMD9vXb1VF23xozOxSykLj+pXeUigXZug5V4MDccfGsH3JwVPx8UHq+BkPAX/gIgnXXJEDzYf0U2qYxtrSwZBlcGWbsAn6emUHvhkHHT4ZS5EQ3CjfLEB0xLbfNCrUxKLh4D7cbkk7fcT6VQ8/671pvTMGHiQVTi8fGCAjoKdel9xGKqgIyPtPWePQyJ17892LL9+ZyKrHvTNtOamID+YPT99QUJyi6iF6MfzhaSRFvkh5FgBNDvNSPACCmIjIbvM2wTApxCP6f6Lf8g52uhTe2pjgv+R5HzgWsa4XKCzEFkX6v8dzrRFlVXLVqh7Q7YSqM/TJtjYdhXbjy/DeHVt8l3KypgVRsH0jL3dbRhtFRZwJsNdu3NB4J7m/2FvEN3VnMSl8qDQv2gDEmpAVWLFYeqGaKFf5RPfoyeXhgCh5tAFw3Ke53i2j0Q==;ya0f5SuxeEo8m3wKXH6GWQ=="
 ---

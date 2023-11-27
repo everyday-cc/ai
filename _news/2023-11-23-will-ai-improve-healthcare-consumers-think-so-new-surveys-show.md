@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/debgordon/2023/11/22/will-ai-improve-he
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/debgordon/2023/11/22/will-ai-improve-healthcare-consumers-think-so-new-surveys-show/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
         width: 396
         height: 202
         isCached: true
+  - title: "AI to take center stage in healthcare in 2024"
+    excerpt: "Even more change is on the horizon and 2024 is likely to bring significant transformation to the healthcare industry. Changes will be characterized by the rapid explosion of artificial intelligence and its integration across the healthcare ecosystem, unlocking the potential to improve healthcare delivery and patient outcomes."
+    publishedDateTime: 2023-11-27T14:43:00Z
+    webUrl: "https://www.healthcaredive.com/spons/ai-to-take-center-stage-in-healthcare-in-2024/700098/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 34
 
 secured: "FF4Xg27EmNteCi4+Y0f5ZomAnQSc0u3Fw89c3i2jAL0d/h9ixHBJLzEAA4wWFJ/xD0scmzFuY3z7x4dZTMKl7SjA9jwga3hp0RuiDwAIXJYI4/DyI8DJVdBMAw9bM9+NkhgqRd4GphvDF9Hrx2GYzooD1WKAyz7Fe0KYgxoug8Szh76W0WQiGLoOQIrSuXdgsTJEcSbqraYI4eL/DBciELcnkPf6FKPP0J542SD9c0Cy47jFf3HxoBVgfa/Yakaxl//e65plehZxv6YJ/6UdczTZaZnt2Kgv16X+LMeBZrlHR1O0wnuRPqv8RlfJaUtuLzXcMlI/h97DzDdFiNKr4YpH6KEQstnO3LohAjYLjH9K+/pMSJP9Ciqrp3nkE0ZwnmzHukkgH7UFod39VbZbXq2e3C9p5Nb792UCgjT6mgXvO5opjbN/xBHRZLlsKKzl4BnqRhPE1WUD7l4woogI0CIIevMAXo5nT5mRDAl1wDti54QRg29aovkjTjN2E7beQVeaVp/wkWuxzqAs3NUlBg==;tI7ks/BLtLSpFS1IlZPi7g=="
 ---

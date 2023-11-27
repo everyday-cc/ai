@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/27/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/11/27/the-rise-of-artificial-intelligence-in-marketing/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -130,6 +130,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "The Role Of AI In The Changing Landscape Of QA"
+    excerpt: "The use of AI as a strategic business tool can bring significant benefits, yet there are organizational and ethical challenges, especially in quality assurance (QA)."
+    publishedDateTime: 2023-11-27T14:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/27/the-role-of-ai-in-the-changing-landscape-of-qa/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Three Ways To Encourage The Safe And Effective Use Of AI"
+    excerpt: "While we still learn and experiment with AI, following these three steps can help you lead your organization to first use AI with integrity and confidence."
+    publishedDateTime: 2023-11-27T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/three-ways-to-encourage-the-safe-and-effective-use-of-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Worth $3.7 billion | MarketsandMarkets"
     excerpt: "Mayo Clinic (US) and GE HealthCare (US) collaborated on research and product development programs to better equip clinicians and help diagnose and treat medical conditions.\"The application of"
     publishedDateTime: 2023-11-22T22:25:00Z
@@ -143,20 +161,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "Eden Prairie's Starkey hopes to expand markets with AI hearing aids"
-    excerpt: "The only one of the \"Big Five\" hearing aid makers based in the U.S. has seen a good year with the introduction of the new Genesis devices after a sluggish 2022."
-    publishedDateTime: 2023-11-22T14:30:00Z
-    webUrl: "https://www.startribune.com/eden-prairie-starkey-hearing-technologies-hopes-to-expand-markets-with-ai-hearing-aids/600321731/"
-    type: article
-    provider:
-      name: Star Tribune
-      domain: startribune.com
-    quality: 39
-    images:
-      - url: "https://chorus.stimg.co/25102762/merlin_72473769.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
         isCached: true
   - title: "The Future of AI and Outdoor Maintenance Technology"
     excerpt: "An expert in autonomous mowing discusses why robotic mowing can improve efficiencies, reduce dependency on human labor and eliminate waste."
@@ -196,6 +200,6 @@ related:
       domain: seattletimes.com
     quality: 17
 
-secured: "lJMa/0l7hMVrrnMXYAyKQDAbtod/VBK/KlAFLSf+NCsAQAEv6iFF0iPSSk2LK2rDZRncKeohcyCxz6mncSQY698jpoujujB3nxG7ooYlKRBJo/e5Gbb+8ZEAwfUhnxbq5XIaVrDuCu6Tdkc5L4H7sY1AvCJojyxjhzmcPTEFIkG9Az58CjwTjA+8fgtpylhMwrkjBD7revbDJQp1hPYOHlgJp55EknqcfglTiNSXb82eQZIfew3sXong/hEtgTOXbD+eVsP3aFpiTSKGXL0grOZN8PcaBYE9fPwu41EaoExL9AdBsyArXmN7sbQ1H333Kl7ATRTm3MCtB/4WK3JyWV+DKoQr/b+ijNpT7b9psUI=;ZGN1JB+oBLq1BlEbspGjvw=="
+secured: "tXBUoKS5eLdemz83snXKo4w+9BhnHkIUba/8AZ7mw2dtTDa9INLUqv9H68wFkHuVtDtvQdUeYIKd+BZHdBuDqD2nYI+F/c2pZSS5facf2xKUAfBnJRz1xPeyalJ9OI99arZuv71nuBNBweKs0XuLsQkUs/6ZuhYV/BkRLiEhawNgILF/6rr3kvqOFeVG/2EYD/jHQSDp54D0TDjDcSwoHRpyggPzILB1necdEYCk0ThgSJHwBxrxUDk+lH15JBwZ2LQDCAbIWWVWBkonSOrsTPZv38HuwMlvBQLzbXG0pcIkgUaycfHfrEW3bdAJJ3WDfSP71otNH2z8XPP/bTDIApx8Je2gxuR3a/VirFQKv2h64V4BQDYJdzr49zJ/r0bClaQv5B9iDoZLGwggP/w074Rq0FBaZbhqSlzCGACT73t8bPQ+K98DGKWN/YsvkIftpsaTPSSmjvslhs2Jud44FU3vWMk+1JkB/X6MCMQjUPXtxHD/01Knd5nVDJ0YPJxFXl8zD61c7s0Dv1h44mD3nw==;3tKCNsg0SG1w1zbbS+idGA=="
 ---
 

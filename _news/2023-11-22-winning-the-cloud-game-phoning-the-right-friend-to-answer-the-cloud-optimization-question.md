@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/winning-the-cloud-game-phoning-the-right-
 webUrl: "https://www.ibm.com/blog/winning-the-cloud-game-phoning-the-right-friend-to-answer-the-cloud-optimization-question/"
 type: article
 quality: 92
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 2400
     height: 1260
     isCached: true
-
-related:
-  - title: "Playing The Long Game: Making AI Development More Transparent"
-    excerpt: "The competitive nature of AI developments has incentivized companies to move quickly and shroud their efforts in secrecy as AI continues to get more advanced. While playing things close to the vest is understandable (after all, each company wants to build AI solutions that are unique to them), it also creates major information gaps in the industry."
-    publishedDateTime: 2023-11-22T15:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/playing-the-long-game-making-ai-development-more-transparent/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dbb92acf0ab1302db1ea3f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
 
 secured: "AORVtL7eomUL8TD3+Zc+CriTSuEC5SLdA9X0BC0tcf+8Jcj91yrYkmnTibbQfX9m1FT0RPrJ1jojm2FjzZ4yzi74gJ/36amlzz0+ouTbcRXjo83KiuuV0+KQ+Oc5dHR+QypMgx5xWkcbgs5SXWK5vXktgHJKouxnzXoD92goPbuUcWJ/Iw/TxdFSYNTowh0a8YBUUn/LgXDuH4ihuSOc40YdbXmchc9KD2dvQZxyWZahMTLyiLJJLar29Pdd/gy7770xfB3V5uZU2z24zekvCLMOaBlKhxtiunisBgm13t4Ehqt8PwjA9xnIR7xIz2QR2Q/4hm2Sqx6DHBQ3K/3SEhbue7iqEkRgzvZMXl0bliA=;utkd3sYL1rMUskEtSHLIDQ=="
 ---

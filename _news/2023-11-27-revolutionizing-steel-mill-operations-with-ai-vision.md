@@ -9,8 +9,8 @@ ampWebUrl: "https://www.steelguru.com/amp/story/steel/revolutionizing-steel-mill
 cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/steel/revolutionizing-steel-mill-operations-with-ai-vision"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Steel News
@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Market Leaders Collaborate with Synopsys to Realize Gains of Generative AI Across Synopsys.ai Full EDA Stack"
+    excerpt: "Synopsys, a pioneer in AI-driven EDA, aims to revolutionize the industry with generative AI capabilities, starting with Synopsys.ai Copilot, across the Synopsys.ai suite, building on its AI-driven optimization and data analytics solutions."
+    publishedDateTime: 2023-11-27T14:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/27/9923421.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "M+w6Q/Y9L2HM/CqPTYrA8dshtcBAraQ6jvv7zrjHxXyl9ppWMsgzyQOzkZSc6+Xievka4TdfyXwXYTfEK5oVM0XrHeOdZZijPDmK5P3bje/Rk9yUSTVzNuxn75ig1iw0bh5b0u0+vCbxDawJBcieLh+RjbGZegU5UWrSbPMdQVFmBAgB6fH6+pAgDtxhWoWE94BvAdhotkIBHHkq6XhjRKqD7mzq3wYF2rBTw41YPiBUFf1soogbN69kjj/pj/UVAmZTAXu4HqWWGqfarLXrEuKf5hmZfrYXChQZSRIlRm2D2N/WQnn8y8BcubUTcyTdZC1vzg2G/McPEwvx5c+s1e1KvMCk+bbcMgj4Fju9fJK2G3uUU4XLzMuoPDb/u0ToypsqUT0MzKB1Pv05eTmpUsAvDIDJq5kcwVBomm+J6fBy0UtEuydEo5Q4yfrv6ajJdyjYcWk0T0Pe6fyE2PD3XUlWqYYGmeuRryX6ktd5TqtJ7UpamkaEZeKwJXocSVE5awOFu2QVLrhyAhZS8cXZIQ==;WCHjejs1kcOxJv8PqlkOPQ=="
 ---

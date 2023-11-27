@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-brand-loyalty-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-brand-loyalty-by-recommending-actions-to-your-users-with-amazon-personalize-next-best-action/"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
   - AWS AI
+
+related:
+  - title: "Drive hyper-personalized customer experiences with Amazon Personalize and generative AI"
+    excerpt: "Today, we are excited to announce three launches that will help you enhance personalized customer experiences using Amazon Personalize and generative AI. Whether you’re looking for a managed solution or build your own, you can use these new capabilities to power your journey. Amazon Personalize is a"
+    publishedDateTime: 2023-11-26T19:41:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 76
 
 secured: "a9gCgYntJn61ZtsqMs+WpRP82O4AOe8tWT7+irHm+pht1QDK8Qol+XizStMxiaDioazy5KV71pympGOjDRvaUh5pqgix27IuZdOKuadXzzmWgrjc8XWak9bqPUJ0tb4Dwj+23F1p1U6s9/syRGtLP+TfAC+UJY7jLvOPwW7WIT5cpIpJ/Y4bHcL/dJ0VHSy9U4Z9BBg3FII/qjyHz80ajZAI7ojSRJU8YF5Fc9PLdLEsP+Gx9bLopo6BQB/7w5T96cbwHaiL8JWBh3+E+LSe1lGyAShhCiHLchRKa6C7VkiyPfOOrC3c0mfYleG0PWfJv4alYwUw735E+HdD9BGOKlhgV6viF6rY6G6WxtjRlgI=;sKVLMKofIvxbCiIMPuCmVg=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://medcitynews.com/2023/11/amazon-ai-technology-healthcare/"
 webUrl: "https://medcitynews.com/2023/11/amazon-ai-technology-healthcare/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: MedCity News
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "MCRA Announces Launch of Integrated AI & Imaging Center"
+    excerpt: "Led by Former FDA Imaging Experts MCRA AI & Imaging Center is the first and only integrated solution covering Medical Device product lifecycle"
+    publishedDateTime: 2023-11-27T14:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mcra-announces-launch-of-integrated-ai-imaging-center-1032851417"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "HOPPR Launches Groundbreaking Foundation Model for Medical Imaging"
     excerpt: "Health2047's newest portfolio company unveils first-of-its-kind medical imaging AI platform powered by Amazon Web Services; early partners include RadNet and Rad AI CHICAGO, Nov. 26, 2023 /PRNewswire/ -- Today,"
     publishedDateTime: 2023-11-26T12:00:00Z

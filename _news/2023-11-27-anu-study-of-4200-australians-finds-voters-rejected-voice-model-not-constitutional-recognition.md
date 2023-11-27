@@ -77,6 +77,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Voters still back giving Indigenous Australians a say in policy that affects them despite voice result: survey"
+    excerpt: "ANU research reports 61% of voters would have backed constitutional recognition, though Indigenous groups have consistently rejected it as symbolic"
+    publishedDateTime: 2023-11-27T12:59:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/nov/28/voice-referendum-australia-voters-back-indigenous-constitutional-recognition"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 0
 
 secured: "KiXOzCfL/0jVkGB8H2xtSUdVFedUVQ3YrS7BpqFSDjFw/QnryFqNzQ3Ch9iIna3fB6cK+vRX9MBZ/azDReFgyr58g41cwnG+Gq9fIKnupQwvgUOffQs4rCV06lcfJ/CUf5LtdtNR6qc7pds6oBpTSiw5XfFmTySzXor3GzTicY+n1lfY3Ffhtw5WQ2hEG9A8/dIikMJG944qFSLRYE9lUf9z9XtSRbQUzS/hiO3lzUy2DdMnQRO9zrtpjAM3K7NaMiyZXSwtTDBKgCX4CEIhu+KQzKadwlTo58a55YEiijUIUivUPgcNpmk8OwdpQkTG4iUbCORkFXU6fEpMEL/9XKHSdFH1XIwbKIu84QSRvWobc5NV0ZI/skYiNviE4Q4+DICznGEFzrJ08ABKzjIQXNNjyb2GgP49Na/iTmFvIP02VO7viq+m01ZrJrIQtNBKEM0moLHo8VMM9AfDzLUOTwGCoepmf7bC6fukeXiU24kM9H8qnKaIWg1tQEdUpaidiCAZvERLfPH7z8bG/VvlQg==;flXeN/O4R9e9el5kU5jx6Q=="
 ---

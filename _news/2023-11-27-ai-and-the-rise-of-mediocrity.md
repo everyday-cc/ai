@@ -129,6 +129,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "The Role Of AI In The Changing Landscape Of QA"
+    excerpt: "The use of AI as a strategic business tool can bring significant benefits, yet there are organizational and ethical challenges, especially in quality assurance (QA)."
+    publishedDateTime: 2023-11-27T14:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/27/the-role-of-ai-in-the-changing-landscape-of-qa/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Three Ways To Encourage The Safe And Effective Use Of AI"
+    excerpt: "While we still learn and experiment with AI, following these three steps can help you lead your organization to first use AI with integrity and confidence."
+    publishedDateTime: 2023-11-27T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/three-ways-to-encourage-the-safe-and-effective-use-of-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Worth $3.7 billion | MarketsandMarkets"
     excerpt: "Mayo Clinic (US) and GE HealthCare (US) collaborated on research and product development programs to better equip clinicians and help diagnose and treat medical conditions.\"The application of"
     publishedDateTime: 2023-11-22T22:25:00Z
@@ -142,20 +160,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "Eden Prairie's Starkey hopes to expand markets with AI hearing aids"
-    excerpt: "The only one of the \"Big Five\" hearing aid makers based in the U.S. has seen a good year with the introduction of the new Genesis devices after a sluggish 2022."
-    publishedDateTime: 2023-11-22T14:30:00Z
-    webUrl: "https://www.startribune.com/eden-prairie-starkey-hearing-technologies-hopes-to-expand-markets-with-ai-hearing-aids/600321731/"
-    type: article
-    provider:
-      name: Star Tribune
-      domain: startribune.com
-    quality: 39
-    images:
-      - url: "https://chorus.stimg.co/25102762/merlin_72473769.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
         isCached: true
   - title: "The Future of AI and Outdoor Maintenance Technology"
     excerpt: "An expert in autonomous mowing discusses why robotic mowing can improve efficiencies, reduce dependency on human labor and eliminate waste."
@@ -195,6 +199,6 @@ related:
       domain: seattletimes.com
     quality: 17
 
-secured: "VOI4GZKvg7SX6x/ksrQUTXOmBGvPs84twzgrL07212bmYaWpkalqBdbmE0kHBo8Bxe3ZgeoRjxd7CZFBpBmnRk/5kj44AP4bS3PCx9ag7rkjV+pk0KUzPs6obtqAaSYiDGXocetqZqn58JN6kektzf7QJlwy4pIiOMpLDMuppffaKfphfOILnQPlSvuLXYXTSCBhjcQGwkuLxDxmhguFj9Yz4SLrMjsvDapC6qAbO02Cokuu0TTJMXqXA+KcvH5gdQ1Zvn4mc8tmG/ht+qf0g/DUxyz5vtBxekuNTUJ4Q2NZik3peS2/leCxC3deY4Kk+k5xXEjsxRt8jRwpNn0AQ1XNpTYb4uN2AhUI4/23pfw=;PULqNe52x4gv6/kmPi1INQ=="
+secured: "BCuPCx999ozOCNdKPGmjoy6M77TLUbij3liBCZQ0hAGPrEeYngRckjebzeHMNgYmlFQFu4xtRm+s8QBpZr4qVIw76oBf04gpkBgwd1n2j8JWEWPQ3fFM0Lo1ryZJPDBYaWTY3sa2+O+0btN1hsFr687HT8ge29wqR6vwAfZABnqHolbCIQc22vyqvhS9o8FiE5FYcZSZC4Tba9QvhkpjLnn+5IUMQx6Aety+bLrE5pY96bCPXZSeGX2FR2b2nyKwbeoa58EIdEAiVaFISEx4Mju3xO6HG/bbhcdxWhksC4PMgV6ukYSc8n2S+GoY8mq9Otzjbag39+VT3D9V80yuGrvfZbsz2z8pAnDw9Git1+vJDRDPzXW+WOPZg1KEzcV3LPGlPHZVPFFUbSG8Y5AewO4rDjA9Z/RoR2KLsN7Z0t5gY/8y26NAI+KDjAXxyn4yjLKiiynXVfGdbDuYJQ0Zzky/4xvdaUxvTCI1WkLxo/bre9ilSyZUOr6l4GSlw3pO4mPUj4mZleSMMy6XYqwDhA==;YKMkUx6luNsVDw473yXNYA=="
 ---
 

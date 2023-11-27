@@ -24,59 +24,59 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe reportedly acquires text-to-video AI platform Rephrase"
-    excerpt: "With the acquisition, the product capabilities and a majority of the Rephrase team will go to Adobe, building the company’s efforts for generative AI videos."
-    publishedDateTime: 2023-11-22T17:03:00Z
-    webUrl: "https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video-ai-platform-rephrase/"
+  - title: "Google may invest $4 million in Indian AI startup Corover.ai"
+    excerpt: "Corover is in the process of developing a Large Language Model (LLM) called BharatGPT. It is said to be able to support over 12 Indian languages| Digital News"
+    publishedDateTime: 2023-11-27T07:53:00Z
+    webUrl: "https://bestmediainfo.com/2023/11/google-may-invest-4-million-in-indian-ai-startup-corover-ai"
+    ampWebUrl: "https://bestmediainfo.com/amp/2023/11/google-may-invest-4-million-in-indian-ai-startup-corover-ai"
+    cdnAmpWebUrl: "https://bestmediainfo-com.cdn.ampproject.org/c/s/bestmediainfo.com/amp/2023/11/google-may-invest-4-million-in-indian-ai-startup-corover-ai"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: Best Media
+      domain: bestmediainfo.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.37.16-Photo-of-a-person-of-Hispanic-descent-engrossed-in-a-video-chat-with-a-futuristic-robot-on-the-laptop.-The-laptop-creates-a-mild-illusion-of-echoing--e1700668881535.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://bestmediainfo.com/uploads/2023/11/1701071255.Google-Corover.jpg"
+        width: 620
+        height: 350
         isCached: true
-  - title: "Adobe buys Indian generative AI startup Rephrase.ai: What makes the deal important"
-    excerpt: "Adobe has acquired Rephrase.ai, a Bengaluru-based startup that runs an AI-powered video creation platform. The deal will allow Adobe to integrate Rephrase's technology with its Creative Cloud video-editing platform, enhancing its offerings. Rephrase.ai ..."
-    publishedDateTime: 2023-11-23T01:37:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/adobe-buys-indian-generative-ai-startup-rephrase-ai-what-makes-the-deal-important/articleshow/105425071.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/adobe-buys-indian-generative-ai-startup-rephrase-ai-what-makes-the-deal-important/amp_articleshow/105425071.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/adobe-buys-indian-generative-ai-startup-rephrase-ai-what-makes-the-deal-important/amp_articleshow/105425071.cms"
+  - title: "Rocket Learning using advanced AI to reform early childhood education in India"
+    excerpt: "In a bid to reform early childhood education (ECE) in India, non-profit Rocket Learning is empowering anganwadis and low-income households to provide high-quality early childhood education to children"
+    publishedDateTime: 2023-11-23T12:53:00Z
+    webUrl: "https://www.morungexpress.com/rocket-learning-using-advanced-ai-to-reform-early-childhood-education-in-india"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 51
+      name: The Morung Express
+      domain: morungexpress.com
+    quality: 52
     images:
-      - url: "https://static.toiimg.com/thumb/msid-105425070,width-1280,height-720,resizemode-4/105425070.jpg"
-        width: 1280
-        height: 720
+      - url: "https://morungexpress.com/uploads/2023/11/17115069_1700568977_23778094_1700568977_202311213086712.jpg"
+        width: 535
+        height: 445
         isCached: true
-  - title: "Adobe acquires Bengaluru-based GenAI startup Rephrase.ai"
-    excerpt: "In its first acquisition of an Indian tech startup, San Jose-based software giant Adobe has bought Rephrase.ai, a Bengaluru-based AI company that provides video creation technology. The value of the deal hasn't been disclosed."
-    publishedDateTime: 2023-11-22T13:42:00Z
-    webUrl: "https://yourstory.com/2023/11/adobe-to-acquire-blore-based-tech-startup-rephrase"
+  - title: "Google To Invest in Bengaluru based Generative AI Startup CoRover.ai"
+    excerpt: "Search giant Google is on verge of investing close to $4 million in Bengaluru based conversational & generative artificial intelligence startup Corove"
+    publishedDateTime: 2023-11-27T07:19:00Z
+    webUrl: "https://www.indianweb2.com/2023/11/google-to-invest-in-bengaluru-based.html"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
+      name: indianweb2.com
+      domain: indianweb2.com
     quality: 37
     images:
-      - url: "https://images.yourstory.com/cs/2/9dcea4f0645711ebb0265b80588e9ad2/shutterstock716579470-1673975373064.jpg?fm=png&auto=format"
-        width: 2223
-        height: 1334
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPFaJJTEFajL5wM3OT_UqB8iLdbzzPaK5pwKZtEO8vUTDzbnm-OP6XtsuwAeoLSBLGk_pd7jgaJlI2uG7iwmrpRo-LT1KI4Kjpks-sBR1av_v7HmxkVdjQPqnYgKUwnOLVcnqublCSdNXPmXzl8wrB-wROesc5bprAZ2-597IlIYiy7Qxi9jefEI0mGJc/s16000/20231127_124130_0000.png"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Adobe acquires Bengaluru-based AI startup Rephrase.ai"
-    excerpt: "The acquisition will also include absorbing majority of Rephrase.ai’s employees. The founders too will be working closely with the software company going ahead."
-    publishedDateTime: 2023-11-22T14:34:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/startup/adobe-acquires-bengaluru-based-ai-startup-rephrase-ai-11792951.html"
+  - title: "AI firm BRAIIN Holdings forays into India, plans to invest $100 million"
+    excerpt: "Through several synergistic acquisitions, the company's market capitalization increased from $215 million to $572 million over the past six months"
+    publishedDateTime: 2023-11-26T12:30:00Z
+    webUrl: "https://www.business-standard.com/companies/news/ai-firm-braiin-holdings-forays-into-india-plans-to-invest-100-million-123112600640_1.html"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 17
+      name: Business Standard
+      domain: business-standard.com
+    quality: 19
 
 secured: "qkB/pXmE6PFfk7k6VQre3LQFx7M0CSfHqH9LmzKaVpUUTp7avwUAPQ93AIV45wsaAbCMLHXa8eIbOYuSe4NjUbhvnREk58AIHvbO/idcOJHVG/GPNN0vEdobpqyBUmjJxhWp+P694YsThcSsdiMdoIPwuNuzQz/+KLkzahmDVfbWw/HLDJpvuNy7XP2gjoA/VVO13DYBzTQ//q4NrCUq6rUXo+ZH8gDjVWsuS/2WznHBrvihefegPynceJcV2KI0R66CAnHlwoYpSL1yy2DrJwp4aqj7XqTHPh6P44OA6BRaVAqmUQTp64ApM8q5MabIPCu0bM+485niyoLve45mtTVGY6dR7IL0yiw5xTxfGEw=;h6zrRKuqXHUijt8Xi9tFHQ=="
 ---

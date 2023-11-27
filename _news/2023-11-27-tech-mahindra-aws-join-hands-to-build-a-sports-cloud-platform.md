@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Mahindra launches a sports cloud platform Built on AWS"
-    excerpt: "Dubai: Tech Mahindra, a leading provider of digital transformation, consulting and business re-engineering services and solutions, announced it has collaborated with Amazon Web Services (AWS) to build a sports cloud platform."
-    publishedDateTime: 2023-11-27T11:32:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/tech-mahindra-launches-a-sports-cloud-platform-built-on-aws-hvmlx4ym"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/tech-mahindra-launches-a-sports-cloud-platform-built-on-aws-hvmlx4ym?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/tech-mahindra-launches-a-sports-cloud-platform-built-on-aws-hvmlx4ym?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NDE3NGY1ZGQtZjcwYi00/0/1-jpg.jpeg?f=3%3A2"
-        width: 899
-        height: 599
-        isCached: true
   - title: "Tech Mahindra to build sports cloud platform on AWS"
     excerpt: "The platform will build next-generation digital capabilities for sports organisations and deliver immersive sports experiences worldwide."
     publishedDateTime: 2023-11-27T10:18:00Z
@@ -58,6 +42,6 @@ related:
         height: 450
         isCached: true
 
-secured: "lAN9Xks+GjyMYK8xyXvhhTcQPfQNPp063t+3AD4jrs3u9cuxQZ31W+23X3ijYDnnbqzRfmkNVhyNwpSzk0x9hOEgPgM1tSbyAqWja0gz3XAyirUquG0TGc+1Oy6D8oYAD7xyXVxoatR4LEWROa0VNvKDvl2/TL79yaMXY1bkBDFGcsECm8jJZi9aL68mKZC7j35yZFVRSUb5p/PNjFuHb9QanOQGC+yZATfEjTAs1KH+nYA0TRmwKYW1vOKcmpDPwcG0Vrr98Q/PthZqTDNoiaD2qQTjzsaxKWj4rdoGS1sqhsc1saeRdbpwPlsnLpxbm302Y6eXfnkESsuWRYKnW/1TGX5OAWv1HaShZZWA7fA=;VUWGUYM+haVq5k3AVmYJBw=="
+secured: "LSeMTXDo+SLkVm985zbuF4FN+YRuIpT2GSDTJAOebuHYhHWwOn6OxPRAlY3hQbkxCVK1v307WmvlaPXIaDnxmQ2HjzGKKVEpqtuu6DdUH9slBEgAITckikfx4XNGLrlzaHGtAwbrOYiXvCQ82kueH9MCPt863RaTpmA1dg+bXu/j+BE7IU5JAjjzVAdaDI/a1WOXPSflPpeDIZFIMO1QDgGfdH0FOBowBCW8IFoC/ZwQtWYF+Lq8Wa4scY4DrVrBdtgMsV5HYQJma7x9B+DpQ/yty9Mg0juKkm0PBkFnHkC6eQlq+TEu5RQRGT2e8EPqsAcsMHfZo9imJjaWnT/qHNDJaU3e80gMuekwuaf1pg0jPbUTXzDt5wxlwVvs7h1ckuRvgyDSphCXmXgmQ18uliLWD5zZRagrCzzoV7DDiJTzmMG4CSKZ1aiWlJwdVoG/48cENY8LEPprgEStW/ytEBGOf3LAP1AAgkpXVgzBxVZ55N/3/2v4GL3/MThP00FHX5Rbq3S4bGKtb5q3S1hwuQ==;wJDhD4pLQVJqOqdVUr+KcA=="
 ---
 

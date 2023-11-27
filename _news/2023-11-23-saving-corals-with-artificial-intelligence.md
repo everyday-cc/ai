@@ -41,6 +41,15 @@ related:
         width: 564
         height: 327
         isCached: true
+  - title: "Market Leaders Collaborate with Synopsys to Realize Gains of Generative AI Across Synopsys.ai Full EDA Stack"
+    excerpt: "Synopsys, a pioneer in AI-driven EDA, aims to revolutionize the industry with generative AI capabilities, starting with Synopsys.ai Copilot, across the Synopsys.ai suite, building on its AI-driven optimization and data analytics solutions."
+    publishedDateTime: 2023-11-27T14:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/27/9923421.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "TlyBcQLRdqwM3rXk+eIRHm1Aqj4K8yqlACDMOvXL9EHDdUXNcEUikOH0A4DtgTd2CNT+nz4GSIjS7MfYNDEC/Hac7OitEB/lYkkFmRjKxCIPFg6/KTQIv2fuRfeyiim2fOu//xW14byb/A143nwhINgGduAc+b1VwaoVl18by0pwczgiTFj+UrN49ZIhvx+8XEJEZG2UWBivECfhUXxfJ9/oKGOblrp33Xgu+ZVmfxa/7ig4K2MUORwIprm1gZ04V5WIAk7XyFfsOzd9cfm6LPLDgwFdLYdZRtC2cGdCdWnNc0IAc5Bt4b5nC8WwGgUNIELdQ4y433RrK4d97GRHyvuTD7BZ5hQuKG5MjVurQucAv12y6YkpgKQS/DCD5eaV0MJCjUDeR8bCje8JnJImSf/at2A7ZWP041Wjf2t/uWF86NJit3XCpP2Ttexh6Hswyv3FX5GzA6SJOuleMIzNPicmJyicz4GBwo8z2Sm5nvvcVG1tSIu0yFBEMRXVht0V8+XyFJui0NU5CvPNg16hSw==;JN+hH5I7KHuD8OdDiZKR2Q=="
 ---

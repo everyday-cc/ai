@@ -41,14 +41,14 @@ related:
         width: 480
         height: 299
         isCached: true
-  - title: "Isn't it about time we had driverless cars?"
-    excerpt: "Driverless cars feel like they've been \"two or three years away\"… for the last 10 years. So why don't we have them yet? What technical and ethical hurdles do we still need to overcome to finally make robots our designated drivers?"
-    publishedDateTime: 2023-11-22T14:00:00Z
-    webUrl: "https://www.abc.net.au/listen/programs/quick-smart/isn-t-it-about-time-we-had-driverless-cars-/103134864"
+  - title: "California explores how to put AI to work in state government"
+    excerpt: "A new report outlines the benefits and risks of generative AI as California looks to develop guidelines for the evolving technology."
+    publishedDateTime: 2023-11-27T14:30:00Z
+    webUrl: "https://www.latimes.com/california/newsletter/2023-11-27/california-explores-how-to-put-ai-to-work-in-state-government-essential-california"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 19
 
 secured: "2vQ+Q4sfHzG5CDhvMcoFRFJopIEP0y3BEnuM6SNF0tRZiOxIcrVdDh2kgQpxEq1PGdtLEPyUA6ON1u1ixux1iWnM+p4njmEWfvcV208FQ6VBwNEPm5ZDfQkFSkwAeNJbq4u/+j63JI+dWtBn2686zVmqoP5gxmduYVjbDXuVW0U4zJizbKZ185nu5yzKLC5nkLR/DEbPbgfk2gzQqdninEkUUt1Wsbu232U7y4K7e7uxaQzofdNiFS5GJZK0OR6Ze38j329dgLw9miTZMVV4/p2pp778FubGOyKJEIPIM1YuJdkDf0nnTy2QB/s2tmrA+NFAa7/yxeW/k1gmgPYYLaO9+JxFTITOVu+C5aHs59Yc2zWl7qIr02pIxNOg0SkTN2UKmyA/h/2Mh3FBzMLllyOI3Q3hyM7TNhAtqpywW+mK9IFxtD11nJ78aM76SMFWstPv6IE4XeCIXZeVjKCEO/zjXJAT22wdK2SHBzB3gXbd1EDks8GF8sLEHtlsClunRSv2cgSVed0al6DZ4BgUXg==;ICPPIxO+DBAeobqnubwoEw=="

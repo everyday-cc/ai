@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google Bard is getting smarter, now better understands YouTube videos"
-    excerpt: "The Google Bard AI is getting smarter by now being able to better understand specific information in YouTube video content."
-    publishedDateTime: 2023-11-22T16:22:00Z
-    webUrl: "https://www.androidauthority.com/google-bard-youtube-understanding-3388018/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 54
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google’s Bard AI to Revolutionize Your YouTube Experience"
     excerpt: "Google's Bard AI will now be able to extract valuable information from videos without having the users hit the pause button."
     publishedDateTime: 2023-11-23T11:33:00Z

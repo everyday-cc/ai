@@ -1,29 +1,23 @@
 ---
 category: news
-title: "ANU Research Suggests Referendum Confined To Indigenous Recognition Might Have Passed"
-excerpt: "More than six in ten people (61.7%) said they would definitely or probably have voted for a referendum on recognition. In the Voice referendum more than six in ten people voted no. Despite the resounding defeat of the referendum, the survey found strong ..."
-publishedDateTime: 2023-11-27T06:12:00Z
-originalUrl: "https://menafn.com/1107489826/ANU-Research-Suggests-Referendum-Confined-To-Indigenous-Recognition-Might-Have-Passed"
-webUrl: "https://menafn.com/1107489826/ANU-Research-Suggests-Referendum-Confined-To-Indigenous-Recognition-Might-Have-Passed"
+title: "ANU research suggests referendum confined to Indigenous recognition might have passed"
+excerpt: "A survey released by the Australian National University has reinforced that October’s referendum might have passed if it had been confined to constitutional recognition of Indigenous Australians."
+publishedDateTime: 2023-11-27T11:01:00Z
+originalUrl: "https://theconversation.com/anu-research-suggests-referendum-confined-to-indigenous-recognition-might-have-passed-218601"
+webUrl: "https://theconversation.com/anu-research-suggests-referendum-confined-to-indigenous-recognition-might-have-passed-218601"
 type: article
-quality: 17
-heat: 17
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2023-11/27/TC_00665image_story.jpg"
-    width: 960
-    height: 640
-    isCached: true
-
-secured: "xLyHxXfwoQ2MJQ9J8YREIYho7lcE+bunOZdLwr+5T/RzrND46tT7mB2GwGkmwERsIWFmpzcaRyxB60ICx+njtAHJ8pzKMJyuRDeM/p7A+5tjujkP2qRgOvHMHMDUX69cMVWN7G6YPd6lWiQljSAcv0EXFtySo8bGr9z69lNzNInNz5dJcU7Y7QqsW2fe8YK5u2oD3kLgIp4cS4yf6g0ENmfg2iuzy3QVt8ft6ikcFHXbT6loo/o4wrrzN6M8GpTcU5EjZkjPfqvlJAA1v6qBL4QvlRbb279xS2jL7CRILsj2X/3tHYq39toKgZn/LNJt+RQrfr8zxDXzrp4G3kUdKIENh3HuZtlRWSs2lwtB+ns=;yC7bXKBgnk1LcpU/+Eps7w=="
+secured: "srJ402Npn0/FdAm0wmoD3oHj0xgdn0yu0PCUm9rXO90fgzA4nCdHTJns7z20UwORjbRJ2KRImn16JQj51GNfWUdjHqwvxjum8oVc7zUxLD3BuZ3GIHiWMCYRJg8ghxeOQTLaFKQzC1g8ts+a1Mh+i/NEi1sYThWyVOessSp9PXkQmxNVQmlbXG+iWuj7+UtNpuSfwlolrHGI2eVWuiWqHUE+B35vpEM6G4OSpfZLRCIniTxcWmeyUJRBkT5xhCp0FmwPb0mHv3KEwtFknaE8IMHwcwblLG2exUp9ZiYSkMT2kFe/mIxr2JvFv440H7WIiKk0cmeO4j9mMu154XoQcHgtRjJNnlFwVUY0Dn/XIgoixl8XNxBZdXpAhcq/f+mj+25L9SL7mnoArZsHEuiASEKpBpmfEiTfYInMfpmSlqdMWabFXsZkkV4BLnyU55ad0j2g2zv6tkO/XmzJBjeUZq/F35C1TSx30/5FRUdDIlTQoASqi3WDF7GlNWZQ5Ln1t214qNCEZ7iS1xQwR3R6WQ==;G3abfCZeRfohRUZC+zKC8w=="
 ---
 

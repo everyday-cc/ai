@@ -41,6 +41,15 @@ related:
         width: 1518
         height: 900
         isCached: true
+  - title: "How OPPO uses robotics and AI to innovate in the smartphone space"
+    excerpt: "OPPO hosted a \"Tech Insider\" event for journalists and creators that shows how the brand develops innovative tech through robotics and AI."
+    publishedDateTime: 2023-11-26T11:37:00Z
+    webUrl: "https://www.ungeek.ph/2023/11/how-oppo-uses-robotics-and-ai-to-innovate-in-the-smartphone-space/"
+    type: article
+    provider:
+      name: ungeek
+      domain: ungeek.ph
+    quality: 49
 
 secured: "Mrn7Euy5lFuA289dzS/e0gfRLEOpFkObwxQboX7SQAzV0cRbeyCDZ49FqMdn6zUoeI9Wjh0eLwz27M8yQ9mBLHkAI5Lfm16eaV8u3dmT3JGjMsS8+6m0FqRESL8Mmd46FRmhBY7NhLs57k5qu2iiwyoeBQkfIhxH1KfrBMNXaczV2cr5VFftUKlYkcZO2PxGw5eIwsYr3sG3YDTR19+7XQwahGpfvWyxWwYWSiVnalFz/MbSA0mUd4fdtU3foawFDmJt55O6q9SishQdQTbbi9Xg2LKd2HhueXB7qf4/cabGFzXqxaUonSk98XGuVYVLKbsTE870FFtHKYkv1mhI1u8gtG5eqhJ7H2nCPiqyoK231WLeNL+KW0zafX6KYmupvvv4mE/BR1ZpMuZY45dMiVji5NfgqScsBKdW+bBPeXn/ziiGg1NmAQelxMrT5R/Vqlle0thmy6RdJQPUhpeoSGizAirM6uG0cqTUwmGXoSrBQoNm5LUo8Bt9xUFr2MKpnmDMGm7k4Cm5PCj78IXJDA==;fLkN6VQEMEO2tCBqQRkoqg=="
 ---

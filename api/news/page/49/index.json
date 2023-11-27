@@ -2,6 +2,263 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-10-18-why-everyone-has-a-role-in-creating-ai-ethics-standards-intetics-ceo-and-president-for-forbes-technology-council.md",
+      "title": "Why Everyone Has a Role in Creating AI Ethics Standards: Intetics CEO and President for Forbes Technology Council",
+      "excerpt": "Their goal is to strike a balance between fostering innovation and safeguarding citizens, addressing concerns related to privacy, security and AI ethics. As AI steadily integrates into our daily ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/g35286587/why-everyone-has-a-role-in-creating-ai-ethics-standards-intetics-ceo-and-president-for-forbes-tech",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/g35286587/why-everyone-has-a-role-in-creating-ai-ethics-standards-intetics-ceo-and-president-for-forbes-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35286587",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35286587",
+      "publishedDateTime": "2023-10-18T04:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-revolutionizing-web-metas-ai-takeover.md",
+      "title": "Revolutionizing Web: Meta's AI Takeover",
+      "excerpt": "Andreessen helped in 1993 to write Mosaic, the base code for the Netscape web browser. After Netscape was acquired in 1998 by AOL for $4.3 billion, Andreessen and his partner Ben Horowitz became noted angel investors in the San Francisco bay area. Their namesake venture capital firm was officially founded in 2009.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/",
+      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646e94a03689a199465f411d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1201,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/amp/",
+      "publishedDateTime": "2023-10-18T01:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-hive-digital-is-now-a-nvidia-csp-partner-and-announces-gpu-grants-for-open-source-ai-developers.md",
+      "title": "HIVE Digital is Now a NVIDIA CSP Partner and Announces GPU Grants for Open-Source AI Developers",
+      "excerpt": "HIVE Executive Chairman Frank Holmes commented, \"This contest is our way of supporting the AI community. We want to better understand what AI developers need from their cloud providers. At the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/hive-digital-is-now-a-nvidia-csp-partner-and-announces-gpu-grants-for-open-source-ai",
+      "originalUrl": "https://www.nasdaq.com/press-release/hive-digital-is-now-a-nvidia-csp-partner-and-announces-gpu-grants-for-open-source-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T01:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-ai-industrial-robotics-apac.md",
+      "title": "AI Industrial Robotics - APAC",
+      "excerpt": "The market size in the AI Industrial Robotics market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market volume ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/apac",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/apac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T00:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-ai-service-robotics-apac.md",
+      "title": "AI Service Robotics - APAC",
+      "excerpt": "The market size in the AI Service Robotics market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market volume of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/apac",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/apac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T00:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-natural-language-processing-apac.md",
+      "title": "Natural Language Processing - APAC",
+      "excerpt": "The market size in the Natural Language Processing market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/apac",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/apac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T00:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-baidu-launches-new-llm-ernie-40-that-turns-one-person-into-an-ai-marketing-team.md",
       "title": "Baidu launches new LLM ERNIE 4.0 that turns one person into ‘an AI marketing team’",
       "excerpt": "In live demos, Li showcased ERNIE Bot's prowess in understanding complicated and jumbled human requests and responding to them.",
@@ -885,289 +1142,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-how-foundation-models-can-help-make-steel-and-cement-production-more-sustainable.md",
-      "title": "How foundation models can help make steel and cement production more sustainable",
-      "excerpt": "Foundation models make AI more scalable by consolidating the cost and effort of model training by up to 70%. \nThe post How foundation models can help make steel and cement production more sustainable appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-foundation-models-can-help-make-steel-and-cement-production-more-sustainable/",
-      "originalUrl": "https://www.ibm.com/blog/how-foundation-models-can-help-make-steel-and-cement-production-more-sustainable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T17:33:23Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day.md",
-      "title": "New Era Of Artificial Intelligence (AI) Grips World's Imagination As GITEX Global 2023 Enters 2Nd Day",
-      "excerpt": "Pony, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al Olama, UAE Mini",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107260661/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day",
-      "originalUrl": "https://menafn.com/1107260661/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?206925",
-          "width": 345,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T17:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-your-ai-experiments-will-fail-if-you-dont-focus-on-this-special-ingredient.md",
-      "title": "Your AI experiments will fail if you don't focus on this special ingredient",
-      "excerpt": "Recognizing the game-changing impact of AI is just the start. Your data innovations will flop if you take success for granted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/your-ai-experiments-will-fail-if-you-dont-focus-on-this-special-ingredient/",
-      "originalUrl": "https://www.zdnet.com/article/your-ai-experiments-will-fail-if-you-dont-focus-on-this-special-ingredient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5153e71a477d8cd905328851cc84de49447d2cc1/2023/10/17/e1cfb7c8-a08f-4ace-a170-8c248e166243/datas-gettyimages-1300497464.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/your-ai-experiments-will-fail-if-you-dont-focus-on-this-special-ingredient/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/your-ai-experiments-will-fail-if-you-dont-focus-on-this-special-ingredient/",
-      "publishedDateTime": "2023-10-17T17:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-an-ai-nightmare-has-arrived-for-twitter-and-the-fbi.md",
-      "title": "An AI Nightmare Has Arrived for Twitter — And the FBI",
-      "excerpt": "So-called “revenge porn,” explicit material obtained by hacking or shared in confidence with someone who makes it available to others without the subject’s consent, is hardly a novel crime among adolescents. But this time, the images were startlingly different. Though they looked realistic, they had been created with a generative AI program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rollingstone.com/culture/culture-features/ai-explicit-material-twitter-big-tech-1234855484/",
-      "originalUrl": "https://www.rollingstone.com/culture/culture-features/ai-explicit-material-twitter-big-tech-1234855484/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rollingstone.com/wp-content/uploads/2023/10/AI-image-moderation-internet.jpg?w=1600&h=900&crop=1",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.rollingstone.com/culture/culture-features/ai-explicit-material-twitter-big-tech-1234855484/amp/",
-      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/ai-explicit-material-twitter-big-tech-1234855484/amp/",
-      "publishedDateTime": "2023-10-17T16:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rolling Stone",
-        "domain": "rollingstone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-tesla-releases-new-video-of-self-driving-software.md",
-      "title": "Tesla releases new video of self-driving software",
-      "excerpt": "Tesla has released a new video demonstration of its latest self-driving software following Elon Musk’s underwhelming livestream. A few",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/10/17/tesla-releases-new-video-self-driving-software/",
-      "originalUrl": "https://electrek.co/2023/10/17/tesla-releases-new-video-self-driving-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/10/Tesla-FSD-Beta-official-demo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T16:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise.md",
-      "title": "Federal regulators open investigation into GM self-driving car subsidiary Cruise",
-      "excerpt": "This preliminary investigation will determine the scope and severity of the potential problem, the agency said, noting that it may include causal factors that may relate to the automated driving system’s driving policies and performance around pedestrians.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/",
-      "originalUrl": "https://techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/20210407_BaxTowner_Cruise_CamA_DOWNTOWN_706512.jpg?resize=1200,804",
-          "width": 1200,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/amp/",
-      "publishedDateTime": "2023-10-17T15:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

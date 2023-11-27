@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-start
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/11/22/5-innovative-startup-opportunities-in-travel/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "How OPPO uses robotics and AI to innovate in the smartphone space"
+    excerpt: "OPPO hosted a \"Tech Insider\" event for journalists and creators that shows how the brand develops innovative tech through robotics and AI."
+    publishedDateTime: 2023-11-26T11:37:00Z
+    webUrl: "https://www.ungeek.ph/2023/11/how-oppo-uses-robotics-and-ai-to-innovate-in-the-smartphone-space/"
+    type: article
+    provider:
+      name: ungeek
+      domain: ungeek.ph
+    quality: 49
   - title: "How MathWorks is fuelling innovation and powering startup success across diverse industries"
     excerpt: "Empowering startups with MathWorks tools! 🌐 As a pioneer in mathematical computing software, MathWorks is driving innovation across diverse sectors. 💡From EVs to aerospace, healthcare, and industrial automation,"
     publishedDateTime: 2023-11-27T06:31:00Z

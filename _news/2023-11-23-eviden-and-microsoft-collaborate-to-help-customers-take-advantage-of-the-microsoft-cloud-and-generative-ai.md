@@ -39,15 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Girds to Dominate Cloud-Based AI Services"
-    excerpt: "Launching its own server CPUs and AI chips to fortify the Azure cloud, Microsoft takes shots at all their potential competitors while offering more options to their"
-    publishedDateTime: 2023-11-22T14:18:00Z
-    webUrl: "https://www.datacenterfrontier.com/cloud/article/33015357/microsoft-girds-to-dominate-cloud-based-ai-services"
+  - title: "Microsoft’s AI-powered Bing is coming for Google’s Bard-infused … – Vox.com"
+    excerpt: "Google bookended Microsoft’s big AI search announcement with underwhelming AI news of its own.Microsoft has officially taken the lead in the race"
+    publishedDateTime: 2023-11-27T15:22:00Z
+    webUrl: "https://www.inferse.com/806674/microsofts-ai-powered-bing-is-coming-for-googles-bard-infused-vox-com/"
     type: article
     provider:
-      name: datacenterfrontier.com
-      domain: datacenterfrontier.com
-    quality: 36
+      name: Inferse
+      domain: inferse.com
+    quality: 54
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14258.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Good AI, bad AI: Decoding responsible artificial intelligence"
     excerpt: "Artificial intelligence (AI) is so hot right now. ChatGPT, DALL-E, and other AI-driven platforms are providing us with completely new ways of working. Generative AI is writing everything from cover letters to campaign strategies and creating impressive images from scratch."
     publishedDateTime: 2023-11-24T19:17:00Z

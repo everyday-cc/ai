@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/stability-ai-debuts-stable-video-diffus
 webUrl: "https://venturebeat.com/ai/stability-ai-debuts-stable-video-diffusion-models-in-research-preview/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "AI Startup Stability Has a New Tool For Creating Generative Video"
-    excerpt: "Startup Stability is taking generative AI up a notch. While the technology has been used largely for photos and voice replications, Stability is making waves with a new tool for advanced AI-generated videos. The feature is called Stable Video Diffusion and ..."
-    publishedDateTime: 2023-11-22T16:46:00Z
-    webUrl: "https://hypebeast.com/2023/11/ai-startup-stability-generative-video-tool"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 37
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F11%2Fsupreme-fall-winter-2023-week-14-release-list-drop-00.jpg?w=720&cbr=1&q=90&fit=max"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "/EVb2kYBRR9YifKRxSFJC9+7YfR3GSZh2qnWa+lI4jATzs9TLPzVeK+cSQpHY5pyUdR7a9HhHW6Hyv8wsQLMof6ZQnalk7iWWSp0e7NC1E6ze8zURT7S1EJuCYLFWrOGAzUO2pW3nm8GmTwUysma1jLElcRiQ1Y8tlkRw5S9XuZvqx4DHrMpAfm3YqkGhRIxHXXdj1wi/8VW/ocfHQbREraNTI9pZKu6aX/1RfDrNSDLzjBiv59YCQAvabKgklbeYMhszxtdd7py5RO8pKPKkzcAl8DI8rpsiWt9xxoirUwyReRvKlxpbrbMNZmpQF32QUxCB7dRTZ1RSQnZRZxOPedUw5Nh3sq4E+r8N6ZZwdM=;IIDMEFxfWW3ZiLpvaFN6mA=="
 ---

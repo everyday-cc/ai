@@ -89,6 +89,15 @@ related:
         width: 396
         height: 202
         isCached: true
+  - title: "AI to take center stage in healthcare in 2024"
+    excerpt: "Even more change is on the horizon and 2024 is likely to bring significant transformation to the healthcare industry. Changes will be characterized by the rapid explosion of artificial intelligence and its integration across the healthcare ecosystem, unlocking the potential to improve healthcare delivery and patient outcomes."
+    publishedDateTime: 2023-11-27T14:43:00Z
+    webUrl: "https://www.healthcaredive.com/spons/ai-to-take-center-stage-in-healthcare-in-2024/700098/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 34
 
 secured: "/GB2ICzEQ2nzKchfl7l+LP8NA+a+jX3V7jgoBs8qih6gqrLXulzR5xkF1u8/nJRInWfhVElFEt5z7ziXkv0I/ESQKh33PnuPB9GgmvgHpgQ3YNiFJt/6SA2mvRPhpV/bxaqpj+giwOYX90yVRX+PWblKaCXDb1XlA6eHr2GTnVrhqSiJ0bpOq1oUwOkspLlfeVF3CtgK79gbnNVv9HFyJjq1sWGaIJYy/ZF1bSUyfhldHpZVfl/D/5kN0acByiI+M7oYAcv3eQtcxCv6ZKHeHOuQhbNWzTaQxgjUE/eWNC2CXQtYplF77L2DLl6JR6uBUvH7Mn3NkvEAgcWSmqWk3cIdTsbuOmMHciFjyg8gZBfnbuJDAyTUVJV/LX6Cg8eqKzVWV0KzFL1kcgxCoYwiyGiGjjymImaCJQnvRqjN8ipLJ0uJYenzr6yP4p5IInBcvY1RCjUPZz1zN+IyAdGmK0hzcW5G6M51zBli3AijFhcAKHTdr58V5jyyoC2Cbm0wrHMfAVnsnKocpExWSLT9zA==;WFG9txvKGWOOxJ9WWjk6sQ=="
 ---

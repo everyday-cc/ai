@@ -7,7 +7,7 @@ originalUrl: "https://thelogicalindian.com/trending/ai-in-healthcare-revolutioni
 webUrl: "https://thelogicalindian.com/trending/ai-in-healthcare-revolutionizing-patient-care-for-a-healthier-future-41484"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s legal challenges: Not so artificial, not enough intelligence | Opinion"
-    excerpt: "The use of generative AI like ChatGPT by businesses is full of pitfalls, writes attorney and Tripp Scott law firm COO Paul Lopez, from violation of intellectual property rights to AI simply making"
-    publishedDateTime: 2023-11-23T08:30:00Z
-    webUrl: "https://www.sun-sentinel.com/2023/11/23/ais-legal-challenges-not-so-artificial-not-enough-intelligence-opinion/"
+  - title: "Healthcare professionals to get AI training as Singapore continues push towards preventive care"
+    excerpt: "Artificial intelligence (AI) algorithms can be run on mammograms to help screen for breast cancer and detect changes in the eye among diabetes patients, for instance."
+    publishedDateTime: 2023-11-24T18:52:00Z
+    webUrl: "https://www.channelnewsasia.com/singapore/artificial-intelligence-healthcare-singhealth-ai-singapore-3943526"
     type: article
     provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 37
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 44
     images:
-      - url: "https://www.sun-sentinel.com/wp-content/uploads/2023/07/OpenAI_FTC_Investigation_62692.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--Xn_oHPQ7--/c_crop,h_767,w_1364,x_0,y_1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2022/10/10/istock-1140691167.jpg?itok=TSyeBcja"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "6JWdF5NUDPXQ0z/Gr5L8MivRb0ECeLq10Pz5WxDgG2aMhoM3qS0sG95svfe+wS7VWeBr7QVGWRZFVYuMNztYvcqnsd6icSEvYkfbG+T3oiEzjJhAxKQq8ZLBqX2vsYs5esiK2ku9vC4RmxszaLJYnGtzF8DG/J6DSfohGn7DQSUjdBGdV32BaijcsZbukiYJNu/A+9Ejk9dc6OiSOqg6Kd9KH0v7A48SSIWR0Rgr/0+lowk4hh2e6yhu8fbK3SwX32X+TSHN4tIUuBaJ6i+ruwmJ7L+Mo91nJQQLTqhLNRkAey/WJamGqgUMSpPPH/FV28vlpgjd+XCUCxJ4bbEdzHSz4+Y77yOU7BONBloGtLtslaGDv95r9Sj05tcBO0aGgUrYIatvFR45g+BfH/XPxeKwnqZ8nR+FCNf/MioXkNXXzRXANbt19AqQ8E6R9jj1c3YKzYSjbaoN9hwEWk9iuBxaPjS5nyVqKTTQSqBaAx214VP0Vp/+rBzlqqwVb7JtcwmHJGXPbnXIurz9vxArzQ==;SGaWZG61d5xwMt5fNHftmA=="

@@ -62,22 +62,6 @@ related:
         width: 1600
         height: 640
         isCached: true
-  - title: "The OpenAI meltdown will only accelerate the artificial intelligence race"
-    excerpt: "Optimists and ‘doomers’ are fighting over the direction of AI research – and those who want speed may have won this round"
-    publishedDateTime: 2023-11-22T16:37:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/nov/22/openai-chatgpt-artificial-general-intelligence-race-acceleration"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 71
-    images:
-      - url: "https://i.guim.co.uk/img/media/d12a7c1f184baf181c112396b8fb18251adfef30/0_527_4772_2865/master/4772.jpg?width=620&quality=85&auto=format&fit=max&s=2b17ea177f30c94ed0803376811924be"
-        width: 620
-        height: 372
-        isCached: true
   - title: "AI Startup Cohere’s CEO Slams Effective Altruism in Wake of OpenAI Drama"
     excerpt: "The chief executive officer of artificial intelligence startup Cohere criticized the “self-righteousness” of the effective altruism movement and those overly concerned with th"
     publishedDateTime: 2023-11-24T01:06:00Z

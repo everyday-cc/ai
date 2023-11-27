@@ -10,7 +10,7 @@
       "originalUrl": "https://www.bnnbloomberg.ca/ai-chip-boom-fuels-taiwan-firm-s-40-rally-beating-qualcomm-and-peers-1.2003756",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -141,6 +141,58 @@
       ]
     },
     {
+      "path": "_news/2023-11-25-nvidia-shares-fall-after-china-ai-chip-is-delayed.md",
+      "title": "Nvidia shares fall after China AI chip is delayed",
+      "excerpt": "Citing two sources familiar with the matter, Reuters writes that the delayed chip is the H20, the most powerful of three AI-focused products Nvidia has developed",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/100955-nvidia-shares-fall-after-new-china-focused-ai.html",
+      "originalUrl": "https://www.techspot.com/news/100955-nvidia-shares-fall-after-new-china-focused-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-24-image-18.jpg",
+          "width": 4686,
+          "height": 2661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-24T17:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-ai-drives-chip-sector-recovery.md",
       "title": "AI drives chip sector recovery",
       "excerpt": "The growing demand for AI applications has made a visible impact on the semiconductor sectorGlobal semiconductor sector revenues have grown for two",
@@ -244,7 +296,7 @@
       "originalUrl": "https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1355,40 +1407,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-nvidias-h200-gpu-is-a-milestone-in-ai-technology.md",
-      "title": "Nvidia’s H200 GPU is a Milestone in AI Technology",
-      "excerpt": "In a significant leap forward for artificial intelligence and computing, Nvidia has unveiled the H200 GPU, marking a new era in the field of generative AI. This cutting-edge graphics processing unit emerges as an upgrade to its predecessor,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/nvidias-h200-gpu-is-a-milestone-in-ai-technology/",
-      "originalUrl": "https://www.unite.ai/nvidias-h200-gpu-is-a-milestone-in-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T20:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

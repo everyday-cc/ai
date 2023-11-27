@@ -2,6 +2,264 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-10-27-cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide.md",
+      "title": "Cruise, GM’s robotaxi service, suspends all driverless operations nationwide",
+      "excerpt": "The California Department of Motor Vehicles revoked the license for Cruise, which recently began transporting passengers throughout San Francisco, this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/",
+      "originalUrl": "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/4oAIyjh_qTZ6jYSNDVYNzSiiShc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/A76YDPE6SNE2BHVQMV5X3VKYRE.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2023/10/27/cruise-gms-robotaxi-service-suspends-all-driverless-operations-nationwide/?outputType=amp",
+      "publishedDateTime": "2023-10-27T15:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC29",
+        "domain": "nbc29.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-geely-and-baidu-in-challenge-to-tesla-launch-autonomous-ev.md",
+      "title": "Geely and Baidu, in challenge to Tesla, launch autonomous EV",
+      "excerpt": "The Jiyue 01, the first EV from a Geely-Baidu joint venture, is equipped with Baidu’s Apollo platform, which has been in development for 10 years and used on driverless vehicles since 2016.",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/cars-concepts/geely-and-baidu-challenge-tesla-launch-autonomous-ev",
+      "originalUrl": "https://europe.autonews.com/cars-concepts/geely-and-baidu-challenge-tesla-launch-autonomous-ev",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T15:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-artificial-intelligence-robots-market-to-cross-usd-11969-billion-by-2030-owing-to-rising-demand-for-personalized-customer-experiences.md",
+      "title": "Artificial Intelligence Robots Market to Cross USD 119.69 Billion by 2030 owing to Rising Demand for Personalized Customer Experiences",
+      "excerpt": "The Artificial Intelligence Robots Market, as stated in the SNS Insider report, was valued at USD 9.96 billion in 2022. It is projected to attain a value of USD 119.69 billion by 2030, indicating a substantial compound annual growth rate (CAGR) of 36.45% ...",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2023/10/27/artificial-intelligence-robots-market-to-cross-usd-119-69-billion-by-2030-owing-to-rising-demand-for-personalized-customer-experiences/",
+      "originalUrl": "https://ipsnews.net/business/2023/10/27/artificial-intelligence-robots-market-to-cross-usd-119-69-billion-by-2030-owing-to-rising-demand-for-personalized-customer-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T14:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-openai-assembles-team-of-experts-to-fight-catastrophic-ai-risks-including-nuclear-war.md",
+      "title": "OpenAI assembles team of experts to fight 'catastrophic' AI risks - including nuclear war",
+      "excerpt": "Also: Google expands bug bounty program to include rewards for AI attack scenarios",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/openai-assembles-team-of-experts-to-fight-catastrophic-ai-risks-including-nuclear-war/",
+      "originalUrl": "https://www.zdnet.com/article/openai-assembles-team-of-experts-to-fight-catastrophic-ai-risks-including-nuclear-war/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/10f4f32351c78c3f40531c8e5c121d03662d90fd/2023/10/27/592eb986-c6fa-47fe-a735-d509e751ebdd/gettyimages-1288727526.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T14:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust.md",
+      "title": "Cruise Halts All Self-Driving Taxi Operations to 'Rebuild Public Trust'",
+      "excerpt": "We think it’s the right thing to do during a period when we need to be extra vigilant when it comes to risk,' Cruise says after California's DMV suspended the company's self-driving permit.",
+      "sourceUrl": null,
+      "webUrl": "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust",
+      "originalUrl": "https://au.pcmag.com/cars-auto/102335/cruise-halts-all-self-driving-taxi-operations-to-rebuild-public-trust",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/c/cruise-hal/cruise-halts-all-self-driving-taxi-operations-to-rebuild-pub_fkz4.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-27-from-astro-boy-to-pluto-the-history-of-the-greatest-robot-on-earth.md",
+      "title": "From Astro Boy to Pluto: The History of “The Greatest Robot on Earth”",
+      "excerpt": "While Astro Boy was a worldwide hit and contains many well-loved stories, one stands above the others: “The Greatest Robot on Earth.” After being published in the manga, it has been adapted into every anime adaptation of the original story.",
+      "sourceUrl": null,
+      "webUrl": "https://www.animenewsnetwork.com/feature/2023-10-27/from-astro-boy-to-pluto-the-history-of-the-greatest-robot-on-earth/.203470",
+      "originalUrl": "https://www.animenewsnetwork.com/feature/2023-10-27/from-astro-boy-to-pluto-the-history-of-the-greatest-robot-on-earth/.203470",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ9/cms/feature/203470/pluto-anime.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-27T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Anime News Network",
+        "domain": "animenewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-27-generative-ai-in-real-estate-emphasizing-whats-human-in-housing.md",
       "title": "Generative AI In Real Estate: Emphasizing What’s Human In Housing",
       "excerpt": "Here are a few ways generative AI can enhance the housing industry from a resources and processes perspective.",
@@ -826,264 +1084,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-aws-revenue-growth-stabilizes-with-a-boost-from-generative-ai-led-services.md",
-      "title": "AWS revenue growth stabilizes with a boost from generative AI-led services",
-      "excerpt": "Competitors, however, are catching up fast with twice the revenue growth rate as AWS tries to defend its position as the largest public cloud provider. Credit: ThomasAFink / Shutterstock AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/657374/aws-revenue-growth-stabilizes-with-a-boost-from-generative-ai-led-services.html",
-      "originalUrl": "https://www.cio.com/article/657374/aws-revenue-growth-stabilizes-with-a-boost-from-generative-ai-led-services.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2023/10/shutterstock_editorial_2329866433.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/657374/aws-revenue-growth-stabilizes-with-a-boost-from-generative-ai-led-services.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/657374/aws-revenue-growth-stabilizes-with-a-boost-from-generative-ai-led-services.html/amp/",
-      "publishedDateTime": "2023-10-26T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development.md",
-      "title": "Microsoft, Rockwell Automation to bring Gen AI to robotics development",
-      "excerpt": "The companies will add Microsoft's Azure OpenAI Service into FactoryTalk Design Studio to accelerate time-to-market for their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development/",
-      "originalUrl": "https://www.therobotreport.com/microsoft-rockwell-automation-to-bring-gen-ai-to-robotics-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 346,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/microsoft-rockwell-collaboration.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T23:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-adobes-balakrishnan-new-ai-tools-in-express-lower-barriers-for-next-gen-users.md",
-      "title": "Adobe’s Balakrishnan: New AI Tools In Express Lower Barriers For Next-Gen Users",
-      "excerpt": "In an exclusive one-on-one interview conducted at MAX, Govind Balakrishnan, senior vice president for Adobe Express and Digital Media Services, reveals how the company is prioritizing seamless integration of AI creativity tools across its apps suite to strengthen human creativity and collaboration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/10/26/adobes-balakrishnan-new-ai-tools-in-express-lower-barriers-for-next-gen-users/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/10/26/adobes-balakrishnan-new-ai-tools-in-express-lower-barriers-for-next-gen-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652cdcea410613da2e073b51/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1510,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/10/26/adobes-balakrishnan-new-ai-tools-in-express-lower-barriers-for-next-gen-users/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/10/26/adobes-balakrishnan-new-ai-tools-in-express-lower-barriers-for-next-gen-users/amp/",
-      "publishedDateTime": "2023-10-26T23:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-amazons-cloud-group-becomes-more-profitable-but-misses-on-top-line.md",
-      "title": "Amazon's cloud group becomes more profitable but misses on top line",
-      "excerpt": "During the quarter Amazon agreed to a big investment in artificial intelligence startup Anthropic ... declined to say that growth from AWS growth has bottomed. \"I wouldn't quite characterize ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/10/26/aws-q3-earnings-report-2023.html",
-      "originalUrl": "https://www.cnbc.com/2023/10/26/aws-q3-earnings-report-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T22:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise-application-modernization.md",
-      "title": "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization",
-      "excerpt": "Designed to accelerate development while maintaining the principles of trust, security, and compliance, the product leverages generative AI based on IBM's Granite foundation models for code ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise/article_3bd5a147-d22c-5897-b291-8d7efa848b07.html",
-      "originalUrl": "https://www.victoriaadvocate.com/ibm-launches-watsonx-code-assistant-delivers-generative-ai-powered-code-generation-capabilities-built-for-enterprise/article_3bd5a147-d22c-5897-b291-8d7efa848b07.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T21:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-the-blind-use-of-ai-in-health-care-can-lead-to-invisible-discrimination.md",
-      "title": "The blind use of AI in health care can lead to invisible discrimination",
-      "excerpt": "Artificial intelligence can help health care systems under pressure allocate limited resources, but also lead to more unequal access. This is demonstrated by a research collaboration between the University of Copenhagen,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/ai.jpg",
-          "width": 1920,
-          "height": 1636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-ai-health-invisible-discrimination.amp",
-      "publishedDateTime": "2023-10-26T20:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

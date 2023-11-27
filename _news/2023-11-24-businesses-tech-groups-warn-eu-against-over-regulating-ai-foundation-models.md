@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/businesses-tech-groups-warn-eu-
 webUrl: "https://www.reuters.com/technology/businesses-tech-groups-warn-eu-against-over-regulating-ai-foundation-models-2023-11-23/"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Testing Artificial Intelligence Regulation"
+    excerpt: "8. EU AI Act: first regulation on artificial intelligence. 9. Jobin, A., Ienca, M. & Vayena, E. The global landscape of AI ethics guidelines. Nat Mach Intell. 1, 389–399 (2019). 10. BBC News. Alexa tells 10-year-old girl to touch live plug with penny."
+    publishedDateTime: 2023-11-27T00:01:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/decisions-in-context/202311/testing-artificial-intelligence-regulation"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/decisions-in-context/202311/testing-artificial-intelligence-regulation?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/decisions-in-context/202311/testing-artificial-intelligence-regulation?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 61
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-11/anh-tuan-to-KgiXRaqYVpM-unsplash.jpg?itok=d2flEFmx"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "2023 Artificial Intelligence Regulation: An Update from a Senior FTC Official"
     excerpt: "Michael Atleson, a senior attorney for the Federal Trade Commission (FTC), joined Holland & Knight for a recent question-and-answer webinar presentation on artificial intelligence (AI) regulation. This Holland & Knight alert provides a number of key ..."
     publishedDateTime: 2023-11-22T18:59:00Z

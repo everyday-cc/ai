@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/information-tech/tech-mahindra-to-b
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tech-mahindra-to-build-sports-cloud-platform-on-aws/amp_articleshow/105533334.cms"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Mahindra launches a sports cloud platform Built on AWS"
-    excerpt: "Dubai: Tech Mahindra, a leading provider of digital transformation, consulting and business re-engineering services and solutions, announced it has collaborated with Amazon Web Services (AWS) to build a sports cloud platform."
-    publishedDateTime: 2023-11-27T11:32:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/tech-mahindra-launches-a-sports-cloud-platform-built-on-aws-hvmlx4ym"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/tech-mahindra-launches-a-sports-cloud-platform-built-on-aws-hvmlx4ym?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/tech-mahindra-launches-a-sports-cloud-platform-built-on-aws-hvmlx4ym?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NDE3NGY1ZGQtZjcwYi00/0/1-jpg.jpeg?f=3%3A2"
-        width: 899
-        height: 599
-        isCached: true
   - title: "Tech Mahindra, AWS join hands to build a sports cloud platform"
     excerpt: "Tech Mahindra on Monday announced it has collaborated with Amazon Web Services (AWS) to build a sports cloud platform."
     publishedDateTime: 2023-11-27T11:21:00Z

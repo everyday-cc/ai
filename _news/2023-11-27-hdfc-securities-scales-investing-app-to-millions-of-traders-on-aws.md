@@ -7,7 +7,7 @@ originalUrl: "https://technuter.com/breaking-news/hdfc-securities-scales-investi
 webUrl: "https://technuter.com/breaking-news/hdfc-securities-scales-investing-app-to-millions-of-traders-on-aws.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,45 @@ images:
     width: 277
     height: 239
     isCached: true
+
+related:
+  - title: "AWS AI services enhanced with FM-powered capabilities"
+    excerpt: "Artificial intelligence (AI) continues to transform how we do business and serve our customers. AWS offers a range of pre-trained AI services that provide ready-to-use intelligence for your applications. In this post, we explore the new AI service capabilities and how they are enhanced using foundation"
+    publishedDateTime: 2023-11-27T16:03:39Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-ai-services-enhanced-with-fm-powered-capabilities/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/ML-15745-image003.jpg"
+        width: 594
+        height: 506
+        isCached: true
+  - title: "Elevate your self-service assistants with new generative AI features in Amazon Lex"
+    excerpt: "In this post, we talk about how generative AI is changing the conversational AI industry by providing new customer and bot builder experiences, and the new features in Amazon Lex that take advantage of these advances. As the demand for conversational AI continues to grow, developers are seeking ways"
+    publishedDateTime: 2023-11-27T04:26:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/elevate-your-self-service-assistants-with-new-generative-ai-features-in-amazon-lex/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 98
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/ML-15275-image003-945x630.jpg"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "AI-assisted Credit Checks to Enhance Mia-Platform’s Embedded Finance Offering"
+    excerpt: "Mia-Platform, the end-to-end platform builder, has announced a new partnership with Genio Diligence, a specialist provider of due diligence services to credit institutions and credit brokers. The partnership will see Genio Diligence’s AI solution for preventing credit-related risks made available to developers operating in the embedded finance sector,"
+    publishedDateTime: 2023-11-27T13:19:00Z
+    webUrl: "https://financialit.net/news/paas/ai-assisted-credit-checks-enhance-mia-platforms-embedded-finance-offering"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 31
 
 secured: "h/AGQImBfj9ds0Jh1eZSTm3th6HxxbQNuQwrZGCdqBkpQ92USz7b1SEHFczLtcghReGLBWLyiMvvLWOJoz39msCMlHdATFTQqGWrQcoyfmAoiJCUTPXr5qLuWQGv5lzSPFhzbH6p6WT9aNL9RJ1Vfe2fkXTnRfcSIC1KVPZGYhiBv0T7LuulzAylNMxRaLOwom4PZeRNFD1qC+iNc0VnLc9ilsbvIvtq0AYCu3hzbArlFBLp6/qBIpiTPFKmUqvUlHYXceYTeqEOJwxC5UIyg1zocy1vfqBHueN92QubrUaTNXrNhTOI62pThr+hs5/L/LxaSYHq2udWVPDwfbDR2Vj3DvdUQQ3rd4FFtMQ0Kis=;qHjVeSZ/dIY6YWdKHWLI7A=="
 ---

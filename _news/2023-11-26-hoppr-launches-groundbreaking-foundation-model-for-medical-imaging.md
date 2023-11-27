@@ -41,6 +41,15 @@ related:
         width: 2560
         height: 1441
         isCached: true
+  - title: "MCRA Announces Launch of Integrated AI & Imaging Center"
+    excerpt: "Led by Former FDA Imaging Experts MCRA AI & Imaging Center is the first and only integrated solution covering Medical Device product lifecycle"
+    publishedDateTime: 2023-11-27T14:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mcra-announces-launch-of-integrated-ai-imaging-center-1032851417"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "POl4GJluibrG633tb0TyMP22BExXW9bLP6qeOF8iTiGubKFmi9MayU+rCX6KVawWokdTNtmFwilKspOB5IOfxqpJV/chDjfKGTReypOemTuMgp//1zTQ0aP0etRA66Yjw03qT730ojEkYm727a7VEPHbGAhXl5T2itWby6xXfZJgoGVZbbWqk0MGP6uOygWJn/hXNnamp2C1ctx7iBWLoE4kGF3kYlYdVHiV+gbdc/pSTiZU/mlChN7ueJAwrAK325wrlBqZRPGMBAcE8DC5tOATwlWyrDfGkDeRmq6FxVPVcjE4QZFqgW0Lp0hlIkQuceLWlBDg4KnZJ5m/l5xEZ+P0EZVFGAeYk/Yb848IiDE=;i1j/z4fVH/kG0iyg6AOBZQ=="
 ---

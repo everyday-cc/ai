@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-product-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/ML-15431-arch-high-5-1235x630.jpg"
         width: 1235
         height: 630
+        isCached: true
+  - title: "LaunchDarkly Collaborates with AWS to Generate Product Experiments Using Amazon Bedrock"
+    excerpt: "Unreliable experimentation practices are riddled with complex processes, and long testing cycles that keep product development disconnected from measuring value. Combining the capabilities of LaunchDarkly’s Product Experimentation platform with generative AI provides a customer-focused,"
+    publishedDateTime: 2023-11-27T16:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/27/9923349.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "4suwKY7I0VxAi9Q2+wXXImomzKRCjXAOc2E5mE9xSxOhOsTAByoLxUtV3sjBNWg1T4Yjvgxr+2okHW9G4O6zTYXHpXiK0FTUfmgLOHKrACxrT3nFlSxhCm8IIMat/Wduon/KbtFTyI9j+Y4j5ZsoN7VLmf34H9fVuNFwW+zibkrBzrrrkO2njXhuT8RUI5wVwcfMp+mHx71cyn5eKrX0GcCuPMGLwauO1qI7fhfwwar7Wep3ehk77jkoTulgbqXpWup+nMJZcv3EQvrd/mC8VSZ4pNkC4Fs0GC8X9x/t3uJk3Sg3DzTO1j+Cz9tA+sxonyGjZsz/BhLqwfmqkSzaY+U2CB7+roDpSPLA+3dPBfI=;Vtc0jAYo3y45Y/bO6BQ/wQ=="

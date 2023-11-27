@@ -73,22 +73,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Self-driving trucks will soon have their own lane on Texas 130. Will other highways follow?"
-    excerpt: "The Texas Department of Transportation announced it will be creating a smart freight corridor near Austin, in partnership with startup Cavnue."
-    publishedDateTime: 2023-11-22T14:08:00Z
-    webUrl: "https://www.aol.com/self-driving-trucks-soon-own-120825886.html"
-    ampWebUrl: "https://www.aol.com/amphtml/self-driving-trucks-soon-own-120825886.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/self-driving-trucks-soon-own-120825886.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
-    images:
-      - url: "https://media.zenfs.com/en/aol_gannett_aggregated_707/8abd3391305190f5b974a9dc2a81de55"
-        width: 952
-        height: 636
-        isCached: true
 
 secured: "GDtWeJOiiuMKNYtWFXOCKQf9IMJ1W9EqnDU6cDH3t7LE+u1vvAT4rLqgdb3EF9ZGGwpvqeaUyXC7yrCBUe7vHQ5wiQfBibWrFiSXxWIDDHFN4k9skietO6pQrOcfa6qqOr8E66NL3/ddn2XIxsxI+fsL/q0lHm7YZOjVI6AIs1QKr0OGHKQoy7KC0hbsCIlCWym8PqhcTG7mPLn4kfnIUr6vji7hrIqvM444AeYFAUH4Qd1uDb26dwNmxosQ3SyEOc/oHuFQgsc1b+OySzdlv7+59D0/hqIDpyGgfBaw5YwmvBrGeP6qVZVt6RKxsewrS1s+GHs9m8chcpJvlxMfur1x0E1oglq7V4W2lb0azA8=;hSUQc+NZuL92ULfz48BT6A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.philstar.com/business/2023/11/24/2313723/it-bpm-sector
 webUrl: "https://www.philstar.com/business/2023/11/24/2313723/it-bpm-sector-banking-ai-boost-productivity"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Beyond Productivity: The AI Outlook For Tax, Legal And Risk Professionals"
-    excerpt: "It’s been just one year since GenAI mania hijacked the news cycle and set in motion a tidal wave of rampant speculation about our work lives changing forever."
-    publishedDateTime: 2023-11-22T16:02:00Z
-    webUrl: "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/"
-    ampWebUrl: "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/amp/"
+  - title: "Tech firm uses a brace of generative AI tools to slash content production times"
+    excerpt: "The company, which makes a secure platform for file sharing, file transfers and email, uses a suite of generative AI platforms for everything from email marketing to sales training. Executives estimate they’ve realized 10-fold efficiency improvements while doubling inbound search traffic and generating a record volume of sales leads."
+    publishedDateTime: 2023-11-26T01:22:00Z
+    webUrl: "https://siliconangle.com/2023/11/24/tech-firm-uses-brace-generative-ai-tools-slash-content-production-times/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655e255ba2159086d774f253/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
-        height: 900
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ezgif.com-webp-to-jpg-1.jpg"
+        width: 1024
+        height: 764
         isCached: true
 
 secured: "4wTxKgPpF217pA0khBV14k0ab7TfhRcNvcDokXjibnmTYS07KwyBABDs6uhYYXUYw9d7mtvO4NFwhcXniv4bwWECpR6NGOrqwX+VYzbHdzWphcp0RLpNTMQAv1WZ2Pit0sILibh7ffTxLA6tlD4ru9QmGkINqOoZwkjdYvTEr4vMJW6v1IAJyDQrhRWk4roPISS91wnbi10l5wEH5pMePXGcG5IWipkG74nEqhSYR4u+xjLSbWFxqeYV1sNQa2vyNcvR/0rkl3H9tZ/p6AgHY8i4ScHy71rVAsgE2oEZ0M90x3kBFktNES6Jyt91eDazyNR+Ql/UvA4itfRfIeiyvGme9g0K24pTMDyT3Yj4/B4=;0Xlxiau/gAJW20Cx9Wzzzg=="

@@ -35,13 +35,13 @@ related:
     provider:
       name: IBM
       domain: ibm.com
-    quality: 102
+    quality: 104
     images:
       - url: "https://www.ibm.com/blog/wp-content/uploads/2023/11/Screenshot-2023-11-22-at-12.03.16%E2%80%AFPM.png"
         width: 1180
         height: 912
         isCached: true
 
-secured: "J5l778qtkfo6rDgARjM8VnVWmdeUUet8JQLAHIt2q66vogM1DvPRXuMS9FWnbz88ocOfhKDzlEhN0mxvuAsEPJaH7tEOvcJzRmiy96fIB4O7RkyC7k60XMRbIVYcp+NUVlswjo9tzimkjbvF0DEt2LZHMmV0tc+y2bO/P9X6gtU+9Y6bCTtw7eKHpAyYmWC+PiXZ1hB0i0XNqTJhYBRgh+iUgyxFrOZRwsMSCRHcamHDknYPp1FGetolFN2OMMkJMSF5E7wGvyrEuc3n2kJTMyVLkHnUzzcJjmy4gCjDrAe74Dpybm0CYWEmx05GhwgFKTGlevnZn5mlK1g0z9LYpza1dOV642f/O6WFnsY8IG0=;/YyDR3HqoDHIQFRS2M5e4w=="
+secured: "nDnUvOIdB41lLNgcPDmcZY52tQdc5TO2O6e2Le2ylz4fzqEpki+Peu8NfU26ZiBeAcCmKUZsKjGOLJhPNfuLtas5p07+mWoHTPPgQ059tPSHl1OU/+kG0AxdqNW+SMGBTjMcHqFVzGLxGZ46Q1arCONHDP5A5zr04NzNxSpgvcbUeHGZd2KlomiB340DgocxVOkuuBWPZHCTOEEZfR27Lh+YnlyEERsvgCaVVh7ojKNi1eGjQXaNIebYvO4qP5ach0MXi1ljJlhssyaEZ5tFfun1WQp/sXX1K4OWt2TSsITS50q97bAcR+NTHtQXWF6AUtxM67wdMqt1kmKEv2mZ9kueV59kbHktOyDiFUQPFeiY1f22uE0pfTs2UupRwZpTAFn1sCS+twewJtqzwTFWyAZjdmTgSBcGOHgqJAd10x6ZlfTI9nEXwMbReBfxCnzVSR4/LHC/xzWba7Movg3IgIa0vG0GFkEw1hFGSE782jFtP9OR+6oWzokkUnv7hTHbvBv2Bpc2nakwvxH1i3zVIQ==;0HNo8kO9EDuQafMyofUX5w=="
 ---
 

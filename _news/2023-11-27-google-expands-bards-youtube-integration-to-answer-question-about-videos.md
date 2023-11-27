@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/amp/"
 type: article
 quality: 73
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/google-bard-ai-android-phones.png"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Google Bard is getting smarter, now better understands YouTube videos"
-    excerpt: "The Google Bard AI is getting smarter by now being able to better understand specific information in YouTube video content."
-    publishedDateTime: 2023-11-22T16:22:00Z
-    webUrl: "https://www.androidauthority.com/google-bard-youtube-understanding-3388018/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 54
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-1.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Google Bard AI can now watch YouTube videos for you"
     excerpt: "Google has announced that Bard, its ChatGPT competitor, is now able to understand certain aspects of YouTube videos."

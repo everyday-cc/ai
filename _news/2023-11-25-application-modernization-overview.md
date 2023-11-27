@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-25T00:00:00Z
 originalUrl: "https://www.ibm.com/blog/application-modernization-overview/"
 webUrl: "https://www.ibm.com/blog/application-modernization-overview/"
 type: article
-quality: 102
-heat: 112
+quality: 104
+heat: 114
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - IBM AI
+  - AI
 
 images:
   - url: "https://www.ibm.com/blog/wp-content/uploads/2023/11/Screenshot-2023-11-22-at-12.03.16%E2%80%AFPM.png"

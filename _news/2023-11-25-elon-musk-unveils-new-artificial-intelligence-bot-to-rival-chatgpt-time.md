@@ -173,15 +173,15 @@ related:
         width: 3024
         height: 1701
         isCached: true
-  - title: "ChatGPT’s Voice Feature Rolled Out For Free For All Users; Here’s How To Use It"
-    excerpt: "Besides Voice ChatGPT Has Also Introduced Image Feature For The App. What Does That Mean? It means you can insert an image in the app and converse about it. Eg: You can post a picture of an instrument that's not working and ask ChatGPT to troubleshoot."
-    publishedDateTime: 2023-11-22T13:27:00Z
-    webUrl: "https://in.mashable.com/tech/64369/chatgpts-voice-feature-rolled-out-for-free-for-all-users-heres-how-to-use-it"
+  - title: "Google Bard vs OpenAI ChatGPT: Which chatbot is better and why? – Lifestyle Asia Singapore"
+    excerpt: "Looks like there soon might be a battle of the AI chatbots. Recently, Google announced its AI Chatbot Bard, which will be direct competition for Open"
+    publishedDateTime: 2023-11-27T14:00:00Z
+    webUrl: "https://www.inferse.com/806644/google-bard-vs-openai-chatgpt-which-chatbot-is-better-and-why-lifestyle-asia-singapore/"
     type: article
     provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 30
+      name: Inferse
+      domain: inferse.com
+    quality: 26
   - title: "ChatGPT gained 1 million users in under a week. Here’s why the AI chatbot is primed to disrupt search as we know it – Fortune"
     excerpt: "We are all used to entering search queries online and getting relevant links in response. But what if you could get an instant answer from a robot? And what"
     publishedDateTime: 2023-11-24T08:11:00Z

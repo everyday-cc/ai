@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/beyond-efficiency-unleashing-business-transformation-through-generative-ais-hidden-potential/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -93,6 +93,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-26-western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin.md",
+      "title": "Western monopoly in AI 'dangerous, and unacceptable', says Russia's Vladimir Putin",
+      "excerpt": "During his more than two decades in power, Putin has overseen a multi-pronged crackdown on the opposition and civil society groups, and promoted “traditional values” to counter purported Western influence — policies that have become even more oppressive after he sent troops into Ukraine in February 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/11/26/1600x900/artificial_intelligence_1698542010139_1700960383653.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
+      "publishedDateTime": "2023-11-26T12:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1348,58 +1391,6 @@
         "name": "Barron's",
         "domain": "barrons.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-elon-musk-says-ai-will-take-jobs-away-heres-why-that-wont-happen.md",
-      "title": "Elon Musk Says AI Will Take Jobs Away. Here’s Why That Won’t Happen",
-      "excerpt": "What does the future of work look like a hundred years from now? Will AI really eliminate the need for jobs? Here's what you need to know as the market evolves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/",
-      "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6548b81fd31405fdb2b23724/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1463,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/11/06/inside-elon-musks-future-of-work-there-is-none-thanks-to-ai/amp/",
-      "publishedDateTime": "2023-11-06T09:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -44,6 +44,20 @@ related:
         width: 1101
         height: 630
         isCached: true
+  - title: "LaunchDarkly Collaborates with AWS to Generate Product Experiments Using Amazon Bedrock"
+    excerpt: "Unreliable experimentation practices are riddled with complex processes, and long testing cycles that keep product development disconnected from measuring value. Combining the capabilities of LaunchDarkly’s Product Experimentation platform with generative AI provides a customer-focused,"
+    publishedDateTime: 2023-11-27T16:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/27/9923349.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "3fBu8k7lQTrzlYfglxcInnRdmHZU1dylikyMYWal4ezDJNrrPWuo1eO3Xs/fbkOvzoyFiG29m7uCnGlswwcLM8ruua6WnIwIYJJjPF2OTkGSs/YbJQQA5KCNw7hrKJq7GY7G7HRpbKQPTKe96guFOxVD1kuowY/PAI10WE4f9QKEm30gfWL9BWzhnv/ImOPILrk7knSETagISxYTWNGDFzYycc1UxUWafsI3mTS/w3HmfO/fSPzCe3xzdYrYxmd8YeqgBg/vZNNHhlwb33ZvjgI+Pzig8tOPngzK8SsIp0VEtqrSc0mSGKLgr+T0bdaLN+Zd8agl2l8sDoR7NV8wy2pw3DKo+XtT2ONHHVi0p6I=;3SkFf9ad1m2+y2PpJkJhoA=="
 ---

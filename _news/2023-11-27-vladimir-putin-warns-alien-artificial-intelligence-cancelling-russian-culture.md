@@ -42,6 +42,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Putin: West dominating AI industry, Russia must step up"
+    excerpt: "President Vladimir Putin said that the West had a “dangerous” monopoly over artificial intelligence and Russia needed to rival “biased” Western chatbots with its own technology."
+    publishedDateTime: 2023-11-27T16:06:00Z
+    webUrl: "https://interestingengineering.com/culture/putin-west-dominating-ai-industry-russia-must-step-up"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/11/27/image/jpeg/7DGD9w05UB9DvtonUzPZemlhWUC1C0p6lfpNHePo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "VzYbLYp/TjSCHibAu+p+buu0vkZotp2jxuySUVcOTu6wSPjHUDabQdOMAoe/c63+ts4uZEQF7yTl2g6OaAatZnw3DqQrQ89TBVe4X6KpP8NbtC7KC1YiaVJg3C7hzmpnHN9L2MiP8/nk4/dHmoZaZfMkBcYGSY9dmyU/kQQWXtS/szelLhAdHEaknLJ2qUQdK0j7cOXagbXU7U+wnC/87k1rEW2HDDo7JOXcQBV0FdqgE3V6fRg9KGaudH9921rbYOsCLJ4cKII5QCcUhecRRgnRUcICDZDezoG3TUbTWv2RYsz8u5MoEV0fL/3eOiA/6u/BmHhhPwC3pSnx33oXncBuNskc2yrnX9lM3IhNnTg=;SyxxzsNXXH4z8adDdhx8hg=="
 ---

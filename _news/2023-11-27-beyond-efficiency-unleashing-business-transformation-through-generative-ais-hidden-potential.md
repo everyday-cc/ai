@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/beyond-eff
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/27/beyond-efficiency-unleashing-business-transformation-through-generative-ais-hidden-potential/amp/"
 type: article
 quality: 77
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     height: 900
     isCached: true
 
-secured: "lnTOlOGB4Fvu2Yywe2twGD0Fzi6eQCeEKuF+rDCBnUt7UUzbxnCRArwR/Nf/WYKcykCfrZcZpqasg4GaQlhaK717XZpYG4RnNBgfpYaCqSTbhSG0jpj0VhGxVKX3S3zM8hwm0OcyE/a0Gn9mMWLnK/lDUYf5jCMjmb3SGP0sueQcCBwZuIMeeNsH3WcTsmTQc9FIaKndSqD8cqoNmt4OAcXTaHkpbos6m7STavz2UfHY8IdFcLGxzcLR/Pk7joFQM8KiJ7kzhtUJ3Adzoly7dWTqRGCbZFfBp6Eknz2iSobNJvdzhJw8kT8r7PnJbA/Akyj4Xd2dfMcEsC2D91LGJ1ZPG+dKGweFv2mHqpszApU=;gwdHFMxQHVXviHnkLSf87w=="
+related:
+  - title: "Accelerating generative AI adoption through an interconnected and open ecosystem"
+    excerpt: "As well, VMware and Intel are working together to allow customers to use their existing general-purpose infrastructure and open-source software to simplify building and deploying AI models. Every industry needs standards, ethics and fair regulations for ..."
+    publishedDateTime: 2023-11-27T14:20:00Z
+    webUrl: "https://venturebeat.com/ai/accelerating-generative-ai-adoption-through-an-interconnected-and-open-ecosystem/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 44
+
+secured: "bCj2QjXx9W11Ib5FleMWyZhTxp92u6ix3xvCYtUSSoxMiGo5cAqrwAzlBti6l5SLkdolVM4+hEjMUAA0dlMnXDkjowqK3zfnHP+CSoDRWEKYQb1bn/DwHEGCHoO6jYrnLObzXaJmPG1dWNuikT4TMAycbQxR5hK1p23eL0OJlAqcjpJfGuPB2lNw0dr8kEPXJtEVZ8nQDyiKvPobSoLCqrwZvUOBhmtcRZNX4TyKv1rGojEO4pES2ShOpT4K18CwauR/+dnd1xp43WZn8PAUP4X5oqzNe9lrVAhafOApgKZ7dVcLcfD7Oo4l3zUBBWp3aE24yxJ7WaDYkzWgShzCyl1gXxhh6jVFqUBRkdnMx1qUO7rEmV2GqRimEglMpfwFpfTQTUkgBiL1MZZmhTJoJsVRp0y/aUe/zOII4D+IfmGuioWwBkA3XFQuGlm1Vv40jvfh0hEEkz/QKqCbUP7nvoRCAy0Gnp2vDLsmBkqwau5FT3/0l56kweAUUqPrqr69Eo0QO1NLLlnVV8aZQj3HMA==;MPFUaN9v7NnvH9jUF7QcAw=="
 ---
 
