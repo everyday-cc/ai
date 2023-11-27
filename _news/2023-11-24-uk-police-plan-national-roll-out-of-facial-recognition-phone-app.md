@@ -19,47 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Māori bias ignored in facial recognition roll out"
-    excerpt: "A Māori computer scientist says government moves to ramp up the use of facial recognition and other biometric information should send alarm bells through Māori and other non-white communities. Overseas studies have shown a clear bias against black people especially,"
-    publishedDateTime: 2023-11-22T12:01:00Z
-    webUrl: "https://waateanews.com/2023/11/23/maori-bias-ignored-in-facial-recognition-roll-out/"
+  - title: "Apple's iPhone 16 to Ditch Touch ID in Favor of Face Recognition"
+    excerpt: "Apple's iPhone 16 bids adieu to Touch ID, with reports suggesting a permanent shift away from the iconic fingerprint authentication. The iPhone 16 lineup is expected to fully embrace Face ID, marking the culmination of Apple's move towards facial recognition technology."
+    publishedDateTime: 2023-11-24T10:00:00Z
+    webUrl: "https://www.technobezz.com/news/apple-s-i-phone-16-to-ditch-touch-id-in-favor-of-face-recognition/"
     type: article
     provider:
-      name: Waatea
-      domain: waateanews.com
+      name: Technobezz.com
+      domain: technobezz.com
     quality: 39
     images:
-      - url: "https://waateanews.com/wp-content/uploads/2023/11/mntBLOCKSTORAGEhomemasternews_importersrcfacial-recognition-getty-images.jpg_1_Pub.jpg"
-        width: 850
-        height: 435
-        isCached: true
-  - title: "Māori being used as 'guinea pigs' for facial recognition tech - ethicist"
-    excerpt: "Māori technology ethicist Dr Karaitiana Taiuru says there is \"mountains\" of international research pointing to these systems being racist and Māori beneficiaries were being used as guinea pigs."
-    publishedDateTime: 2023-11-22T23:08:00Z
-    webUrl: "https://www.rnz.co.nz/news/national/503073/maori-being-used-as-guinea-pigs-for-facial-recognition-tech-ethicist"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 38
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--Ts-6LrAC--/t_tohu-badge-facebook/v1644342382/4MLMFO4_copyright_image_245147"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Māori being used as ‘guinea pigs’ for facial recognition tech - ethicist"
-    excerpt: "A Māori technology ethicist says the government is allowing tech companies to use Māori as guinea pigs for facial recognition technology. A Māori Reference Group at the Ministry of Social Development (MSD) said this was okay because the Identity Check technology would gradually improve."
-    publishedDateTime: 2023-11-23T17:31:00Z
-    webUrl: "https://www.nzherald.co.nz/kahu/maori-being-used-as-guinea-pigs-for-facial-recognition-tech-ethicist/L3UKTI5AT5BT7NFJD4CTAZJQOA/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 38
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/1U4hnuSwrwO5MHzRd6JtkPJfxCI=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/3THUA6J3VRB5NLK67XOO7KJUEE.jfif"
-        width: 1200
-        height: 675
+      - url: "https://www.technobezz.com/_next/image/?url=https%3A%2F%2Fcdn.technobezz.com%2Fc%2Fbog_44d91b51d4%2Fbog_44d91b51d4.avif&w=3840&q=75"
+        width: 296
+        height: 439
         isCached: true
 
 secured: "UQjRcwMiefv89KeioHLEH5lgRzlVFWgO8Azvn6FswUqjlSNS0O6hf5ID4Gxyf9+KD3nD99kPFtmE9WdpdPTqU2Od8f/suoqrFG8CnACE2MoGOqWHbzAxGzRfY80LWtqxhj9ONt/yzAWG/M9BtaYLrYb7SJh3kLcLcdwQpvTxQl2kX5U1nzU1IQBZ/E5SwL7vKQv28aVA+KhDPuHEnIn0crNPTP2v4CGJgxVXIyOVmnSvrYYFtpkXIah2gaZpyPRO758JsGLQr0CZxefWCVnSmYVlNtfXoiAqp2md/7SsVaP7RcdT0flKTwDIGSecFKcTnH7j0YO67+XYbAcRopxOhkUC20XgchsmQkw1HJ9w3drgZw6GLtnrvbDizeOTKOix65uL8IYSbBma46xByHL170TXNkNOQcpoQuqGwqtj6gNGJLdoc4NazckTegtnpWa8D4TJW1WE/3XTUtz1ya2ANSjCKKMwL1xrneT1CRW+70BiYwRAPLHJUQ2uEfDlOhLKVo846A0KQ0xx2yR6WFylfA==;0SVZhBn9x5u2EAC7uYkHbQ=="

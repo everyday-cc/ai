@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in the 90s: A Decade of Innovation and Challenges"
-    excerpt: "Introduction: The 1990s marked a pivotal era for the development of Artificial Intelligence (AI), witnessing both unprecedented innovation and formidable challenges. As technology advanced, researchers and enthusiasts alike grappled with the possibilities and limitations of AI."
-    publishedDateTime: 2023-11-24T11:53:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-in-the-90s-a-decade-of-innovation-and-challenges/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 38
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Artificial-Intelligence-in-the-90s-A-Decade-of-Innovation-and-Challenges.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "AI’s legal challenges: Not so artificial, not enough intelligence | Opinion"
     excerpt: "The use of generative AI like ChatGPT by businesses is full of pitfalls, writes attorney and Tripp Scott law firm COO Paul Lopez, from violation of intellectual property rights to AI simply making"
     publishedDateTime: 2023-11-23T08:30:00Z
@@ -54,6 +40,6 @@ related:
         height: 682
         isCached: true
 
-secured: "KBHphNc3NVl/jKanl1QjV9GR5DqSne5sTq0kd7UEJ3YuLMqp4LazBo+pf5oE+US2eSXjVPvsv/rBoVNfagFeSYqDBF+aMQtC0hjk1kUz7Iy453Kb/e5ZCrAnzcxvYJBDjYbylvvc0Gmz/z52WPdHARaMV1r2uFHMjdCK9i33IpLaBlUleUrkdXeZuNQvsiba+cLVctYCkcNIDE9A92Xz0eML1KlRdzgvx6lBCe9hOYF3O1AsTpYXdK4noTL/Ae9mGvUtHQzKh8qqrJmZsq9czSXqPDhdYpksN4fumy9nDJQAdZdDaOdjY1aLS6R8OYhbzxNcNcyDjnuNBMPkxa0LYde3D2ouzDhZ6x1TpT+PKTQ=;DO8z+YmZr7PBfQKgFSnsog=="
+secured: "6JWdF5NUDPXQ0z/Gr5L8MivRb0ECeLq10Pz5WxDgG2aMhoM3qS0sG95svfe+wS7VWeBr7QVGWRZFVYuMNztYvcqnsd6icSEvYkfbG+T3oiEzjJhAxKQq8ZLBqX2vsYs5esiK2ku9vC4RmxszaLJYnGtzF8DG/J6DSfohGn7DQSUjdBGdV32BaijcsZbukiYJNu/A+9Ejk9dc6OiSOqg6Kd9KH0v7A48SSIWR0Rgr/0+lowk4hh2e6yhu8fbK3SwX32X+TSHN4tIUuBaJ6i+ruwmJ7L+Mo91nJQQLTqhLNRkAey/WJamGqgUMSpPPH/FV28vlpgjd+XCUCxJ4bbEdzHSz4+Y77yOU7BONBloGtLtslaGDv95r9Sj05tcBO0aGgUrYIatvFR45g+BfH/XPxeKwnqZ8nR+FCNf/MioXkNXXzRXANbt19AqQ8E6R9jj1c3YKzYSjbaoN9hwEWk9iuBxaPjS5nyVqKTTQSqBaAx214VP0Vp/+rBzlqqwVb7JtcwmHJGXPbnXIurz9vxArzQ==;SGaWZG61d5xwMt5fNHftmA=="
 ---
 

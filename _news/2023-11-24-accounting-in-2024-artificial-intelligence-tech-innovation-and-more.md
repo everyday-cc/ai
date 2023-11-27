@@ -7,7 +7,7 @@ originalUrl: "https://www.accountingtoday.com/opinion/accounting-in-2024-artific
 webUrl: "https://www.accountingtoday.com/opinion/accounting-in-2024-artificial-intelligence-tech-innovation-and-more"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,48 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Powered Robotics: Exploring the Latest Innovations and Applications in 2024"
+    excerpt: "Introduction: In the fast-paced landscape of technology, artificial intelligence (AI) continues to revolutionize industries, and the field of robotics is no exception. Furthermore, as we delve into the year 2024,"
+    publishedDateTime: 2023-11-27T11:36:00Z
+    webUrl: "https://techbullion.com/ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 67
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-Powered-Robotics-Exploring-the-Latest-Innovations-and-Applications-in-2024.jpg"
+        width: 650
+        height: 450
+        isCached: true
+  - title: "AI in Healthcare 2024: Transforming Patient Care with Innovative Technologies"
+    excerpt: "Introduction: Artificial Intelligence (AI) has emerged as a powerful force in reshaping the landscape of healthcare. As we delve into 2024, the integration of AI in healthcare promises groundbreaking transformations,"
+    publishedDateTime: 2023-11-27T08:45:00Z
+    webUrl: "https://techbullion.com/ai-in-healthcare-2024-transforming-patient-care-with-innovative-technologies/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 51
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-in-Healthcare-2024-Transforming-Patient-Care-with-Innovative-Technologies.jpg"
+        width: 650
+        height: 450
+        isCached: true
+  - title: "Artificial Intelligence in the 90s: A Decade of Innovation and Challenges"
+    excerpt: "Introduction: The 1990s marked a pivotal era for the development of Artificial Intelligence (AI), witnessing both unprecedented innovation and formidable challenges. As technology advanced, researchers and enthusiasts alike grappled with the possibilities and limitations of AI."
+    publishedDateTime: 2023-11-24T11:53:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-in-the-90s-a-decade-of-innovation-and-challenges/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 38
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Artificial-Intelligence-in-the-90s-A-Decade-of-Innovation-and-Challenges.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "The Evolution of Artificial Intelligence in 2024: A Roadmap for Advancements and Breakthroughs"
     excerpt: "Introduction: Artificial Intelligence (AI) stands at the forefront of technological innovation, continuously pushing boundaries and reshaping industries. Furthermore, as we venture into 2024, the landscape of AI promises to evolve at an unprecedented pace,"
     publishedDateTime: 2023-11-27T08:03:00Z
@@ -32,7 +74,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 29
+    quality: 31
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/11/The-Evolution-of-Artificial-Intelligence-in-2024-A-Roadmap-for-Advancements-and-Breakthroughs.jpg"
         width: 650

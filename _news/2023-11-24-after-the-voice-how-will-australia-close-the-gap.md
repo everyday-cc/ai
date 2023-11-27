@@ -67,6 +67,17 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "ANU study of 4200 Australians finds voters rejected voice model, not constitutional recognition"
+    excerpt: "The “largest and most comprehensive survey” on the Indigenous voice to parliament has found the model put by the Albanese government was a key reason the referendum failed amid widespread support for a broader definition of constitutional recognition."
+    publishedDateTime: 2023-11-27T11:05:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/anu-study-of-4200-australians-finds-voters-rejected-voice-model-not-constitutional-recognition/news-story/5cbe2e3dfbef3dbe221fe6e6842696c4"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/anu-study-of-4200-australians-finds-voters-rejected-voice-model-not-constitutional-recognition/news-story/5cbe2e3dfbef3dbe221fe6e6842696c4?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/anu-study-of-4200-australians-finds-voters-rejected-voice-model-not-constitutional-recognition/news-story/5cbe2e3dfbef3dbe221fe6e6842696c4?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 12
 
 secured: "vtXmbgUs2EIsvGDuekSX0/CRr9WdrPwHsJK5jorCqvISjjF5h/duQELBDApw5gAAO5QKRToh2BZlytlAiW9tEJF+ObO4+SJZtGf37NYCddwZ8LzGTBQAnTjFQwpk3DdfWIL25GRAcQv9bDPcOqw8kEmH7AhAgmpsXhz9i3SKH3ip+1aC257Qx8onJt2yszlOpbclESmtrNXdBmY8vGuT6tlyKiInthVYmAMmsCPPgXsJeBMAWvqxFaPYXgqvCwI8OeXyzvGW6YPSO+FKi96rYkT5ezCWBZKG7MLKfY8hXvW30wqpN+5e1RUlV1CqvpzPhPZIc4N0V0Di+n/68mgSEoOpWBkIGlnl2b/Y1Pvr6Unk8i0J0NheYx9UcpcDtCgxJFnEPhAy2yrBKA/Iu4EtmZp6hCs0EX+d7np8FoAjiaRQoyKICLbFNfBiOG0USCe3TrDhVln0W7Vn0O1jHtWyfJm0r4Wk+5jaFsODRxMzxSSlUBoJu7O90xNDdL5wpUDECwjc+UG0A0QDKofvzQOqvA==;tQn1s+X2TkkcLtwI9QtM5g=="
 ---

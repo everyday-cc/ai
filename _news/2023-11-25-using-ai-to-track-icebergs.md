@@ -26,35 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "79% of Top Marketing Executives Report Boost in ROI Using AI Tools"
-    excerpt: "85% of marketing executives are confident in AI tools 64% plan to use them more in their marketing campaigns 71% of marketing executives express concern over the ethics of using AI tools Building on this success, 64% plan to integrate more tools into their ..."
-    publishedDateTime: 2023-11-23T00:00:00Z
-    webUrl: "https://www.exchangewire.com/blog/2023/11/23/79-of-top-marketing-executives-report-boost-in-roi-using-ai-tools/"
-    ampWebUrl: "https://www.exchangewire.com/blog/2023/11/23/79-of-top-marketing-executives-report-boost-in-roi-using-ai-tools/?amp"
-    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/11/23/79-of-top-marketing-executives-report-boost-in-roi-using-ai-tools/?amp"
+  - title: "How AI Is Transforming Leasing, Security And Resident Services"
+    excerpt: "Check out Benzinga's favorite private market real estate offerings and start collecting your share of the rental income. From leasing and security to enhanced resident services, artificial intelligence (AI) can help property managers improve their ..."
+    publishedDateTime: 2023-11-24T11:01:00Z
+    webUrl: "https://www.benzinga.com/real-estate/23/11/35941423/how-ai-is-transforming-leasing-security-and-resident-services"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35941423"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35941423"
     type: article
     provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 76
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
     images:
-      - url: "https://www.exchangewire.com/wp-content/uploads/2023/11/Gustav-Westman-BrightBid-CEO-300x300.jpg"
-        width: 300
-        height: 300
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Business-People-And-Humanoid-Ai-Robot-Si.jpeg?width=1200&height=800&fit=crop"
+        width: 834
+        height: 556
         isCached: true
-  - title: "Only public confidence stopping us from using AI in marking, says AQA"
-    excerpt: "Artificial intelligence could quality-assure exam markers from “tomorrow morning”, but “public confidence” was holding it back, according to AQA’s chief executive. Colin Hughes said while ChatGPT in particular had attracted a lot of attention, “it may even be materially not very important or interesting” compared with other technologies."
-    publishedDateTime: 2023-11-25T08:50:00Z
-    webUrl: "https://schoolsweek.co.uk/only-public-confidence-stopping-us-from-using-ai-in-marking-says-aqa/"
+  - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
+    excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
+    publishedDateTime: 2023-11-25T10:38:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
     type: article
     provider:
-      name: Schools Week
-      domain: schoolsweek.co.uk
-    quality: 39
+      name: This Day
+      domain: thisdaylive.com
+    quality: 68
     images:
-      - url: "https://schoolsweek.co.uk/wp-content/uploads/2023/09/AI-robot-hand-SM.jpg"
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
         width: 800
-        height: 420
+        height: 450
+        isCached: true
+  - title: "Colors-Ai Is Transforming Product Development Through Customer Feedback Analysis"
+    excerpt: "Colors-AI's cutting-edge platform is revolutionizing how businesses harness customer feedback to inform and prioritize product development. <"
+    publishedDateTime: 2023-11-23T00:55:00Z
+    webUrl: "https://menafn.com/1107474457/Colors-Ai-Is-Transforming-Product-Development-Through-Customer-Feedback-Analysis"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-11/22/ZPW_445528e9-4_Image_In_Body.png"
+        width: 545
+        height: 814
         isCached: true
 
 secured: "tnZimHNLT1o9J5cI1JBBoDVXBrBgTzDTqHfYC2+FiOIL8KiGlZGt6orx3k9C4R4YqMRO2DUbRtpkbQfcNdcG/ILAXg57hz7WvZ+kLrjEDN6SWVkTU9khoBVzfLb6gvhMuqvG51GZjM1RixJh0pYNiU+ScMpXAicUq60WX3+jj3yzgQZzQee4TmXMgTDYQezwuM1Kb49JkIRWQL1ifdA+UbjtNnayCxPrql0u5F1G0r2enc9GYsl8HCygbPIKWba3hvdQ/0/EMqrCSYLQXfIRbzf/jF8A4+trZbEgeAxfR5C+Omz0OfxhsJnmJyLdQYxWX11SMALtiijitV+v9IDn0lQmUJYClJFIdi6h+taj3mS/GCYVMB/7yaABx5SjiAQA/LIo6ntIAPGfJw5ybKaCgwG4XHBqO6BPE6i6yP5/xwx7vcDkQY4Zdx9ObUsagJAhYHCQ/f5v6mh2KUAJam0TB/0P+2nCopg9BLM29j39MZcvO54fcd/0mHPslOY/AWbLVrXjQVbvFcn+etddq15bXA==;SxfbKPXSJyQAlETkG5xVVg=="

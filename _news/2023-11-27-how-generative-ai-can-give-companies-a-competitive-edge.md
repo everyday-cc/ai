@@ -54,15 +54,6 @@ related:
         width: 1024
         height: 764
         isCached: true
-  - title: "How will cloud democratize generative AI?"
-    excerpt: "This article explores the role of the cloud in democratizing generative AI to everyone from startups to large enterprises."
-    publishedDateTime: 2023-11-22T11:54:00Z
-    webUrl: "https://www.embedded.com/how-will-cloud-democratize-generative-ai/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 19
 
 secured: "YXwKZ87YNW/Qcfi7xwu4R/ond5vQCE9XYZ1c/Bs2IERWmgEg30r0Hue6+nQt1Pl4rqZ7i4LFZIs2IsHjwQ1/YjcaJQUZaO4nGZAoV5k0q5alkSnSi+2ElO97tWl2JCV8BRT2Ef3Xal2QcJoXO9BN5EvxFn33kXBKLlr0Se4JtIl9HGUGm7DOyX0flwflaPpaxIb7d1uumVOSy+YiWuUU6pqK2m5uD2FFMlLvVpkCIuOq6LT1vMulpESXLcUUAL53K7kMNxE2V7x6VZZkko35FYruw3PkgKEl+1QQIu8GvXe6SLsX8K3Yp2m7DDobnXO27arOkQePAhWijoM7NOLoemW8UMRll5BeeMl09zR51RdOukbtIO/gA0huuJ8eaWdAHCySKPSsTeDPUOaqTpRC6pAkDGkTO9enIqQrMdgnq1Tu7vBJQKvEmkfJc9hoR0xeVMdHEJh3+qi9c1c6Tm7CpV1TZk7BEqMVkhm256SK7orMvJRSbvmsoSKxWJz3EDVvtTSefXDeD2Ibh/gXSJFUfA==;r5G9sRYun8IeYIwO1crGNA=="
 ---

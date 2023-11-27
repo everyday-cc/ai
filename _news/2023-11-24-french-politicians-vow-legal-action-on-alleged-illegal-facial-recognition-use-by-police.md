@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "‘It’s a major deterrent’ - Government hoping to fast-track facial recognition"
+    excerpt: "Legislation to introduce facial recognition technology for Gardaí is due to be approved “very shortly”, according to one Minister"
+    publishedDateTime: 2023-11-27T11:25:00Z
+    webUrl: "https://www.newstalk.com/news/its-a-major-deterrent-government-hoping-to-fast-track-facial-recognition-1618309"
+    type: article
+    provider:
+      name: Newstalk
+      domain: newstalk.com
+    quality: 36
+    images:
+      - url: "https://media.radiocms.net/uploads/2023/11/23221859/Dublin-City-Riots-14_90693614.jpg"
+        width: 1920
+        height: 1329
+        isCached: true
 
 secured: "gixETHADPKAz/dZ4D1NWIxSE8O1an3SMOJOf/qSfoOkXKkUxoK5+0S/TphCUoBZ4lX4zx3WSbugNGZEdvkFFp9FFXLO9fntyo8nnn5/hq8uB19XhgcAnuqkkGwoDEDbn52rE5Z2sAPnQhXsvHiZntMO9hBJFNORhLf7vGU4T9pPPjN9tFfXrH/RiGT1CFzaPN0iCOOzasptkc/abGvmRKCskBCn2VwdNo9AkCHK61UxiYPsrcSZctD/0+D7zSCAHTNlDnScI4O4ZcVL5GgXqOJ8bINpUP/EPBswg2ueGxqnR6RcM8vdu0pCNs+VwvecEVmFEvmlbr30jO7EY2kfMr8TePW0Y+ywWLNhK61lXzXxvEL5E8AmHXqx48E0lBzgJL/sOA5/3tPIh/WJNRHMq3Pq/Tcx38ZeF7oh5eEEiLNL1iERu3hMt30sONG3EP5RDdOHG/ow7e124kAgQ6NHnEq0tqDiP9arpFRiz6vFgfQp37ETBKoozVml7k1JD/IF1b9lOoM+Euv3BvGeWoDEVXw==;Zh1WRQ2NdmLqSaIJL7bEtA=="
 ---

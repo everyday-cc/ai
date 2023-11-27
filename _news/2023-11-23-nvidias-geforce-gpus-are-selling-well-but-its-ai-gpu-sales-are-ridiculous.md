@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/amp/"
 type: article
 quality: 119
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/4/94577_502_nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions_full.png"
         width: 1500
         height: 836
+        isCached: true
+  - title: "Chinese factories disassemble Nvidia gaming GPUs to make AI accelerators"
+    excerpt: "In this vacuum, and amid a GPU demand surge thanks to AI, Chinese manufacturers have sprung up to convert remaining RTX 4090s for server use. The companies disassemble the graphics cards, desolder the GPU and memory components, and then reassemble them on ..."
+    publishedDateTime: 2023-11-27T00:01:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/chinese-factories-disassemble-nvidia-gaming-gpus-to-make-ai-accelerators/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 53
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/geforce-ada-4090-web-og-1200x630.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "YevzDRmiccyAF20ENrcWNAtkmjGWHtWw/+2HmcwjNyPJ/LdSfojMN/JEgRkZXlPKWxhOSc3IQp4/u2iz3wwDEgbzBBFqkrlmnnuK8kUdbhpwF6TAbR7vHLllzVqiXRFQ/rCHxQ7YlYm+5mKz6PSj/9mDH/Mtvc47+iUrv/O4RmS6XF7ztHW+ilgaPPieEUQhUbg8ravHt8QKaF40hDYtmYyjKjSYjszzjNHQ/LQ8Coc9cEMa3o7sZQO/HcIDnradbnTCCj4AbDFQyeDym2c7r98rQEpR6lvD+9KxlGUK836KShKkf5uwJLNrTCQLD9wp/gfhbygmxkWQE6xDZaozbdNmbG/Ig5ISAY3/vfOAieV3aSYEzSPpUUnDhyCJjeBdydzCWNNVivowjiapiyeFtknwfC+VXb7YBm4bytTMKASY6w9sHk5krFb/IjOByFs2ukg1VEMN3GftazQkU1XmRME3W7gyNX7tVM9dDjqFXUG2/EjZOkI687OU67UXfDG0EoykY9xCJKFJSQImbxSLtg==;3cncpllGOtM2x3CL1oxfvw=="

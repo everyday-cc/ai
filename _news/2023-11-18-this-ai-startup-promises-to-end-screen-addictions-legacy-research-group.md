@@ -17,7 +17,14 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Meta AI
 
-secured: "gmRtCYMxZfBvtV4yP+cHuANPCW6TjYGqTmaSsXcypmqn1Qr4Et2yu/Pq+m7CJlU0nhIog/v7cOWP8Tk0VKc9HqojrLx4xkztq4I7l6FWSyoKWkK+Mfftvnoe1f8BJ5Gei6wCdH/JOQMnmjqsiHUcxCjDAFGMdv78pdGwXNX3Le1AsoLSogZFaW2HHoCzZZ6/5og26l0pZNlsZvULOlbvOzHuju9lGSuqSenyQ2EiVpnGLBc5EPvH2vkd9nqZ3rTSU+V7t9WPRR6gsofJIGFHXtwjSHyat1hYLrUvM5hzsnVT1dnZl6Skw4phGfZUq+QFeoePCfSk+ibsxIXUMJVjNRX/gTGQxl8lI4lkmsRL7LrN7CkaJfWzCOXTU1uT2Yp7BbZExFe17kSSEqsJQP/vkbc4X891bT5cF7zcu1nGVv4wzdj9dOiAwozkLZAqLuOShn11Y40ZMvWofG6WLDqsPETTE9u5JGhuW/4SZgHxLvR1I4v/6YrBtnNZQGjlgDsl2DJ+jPkKFk3DHos8LmBEyQ==;laAgjW8N4uJS1OM/v8jKww=="
+images:
+  - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-10505.png"
+    width: 550
+    height: 367
+    isCached: true
+
+secured: "uT32YAfdR2J2DaVEkuZGv/PUlqGvk5akYKel3XBpZpRJSId918gk6ciWe3li4PbtCqG4GknOykD0q/EGciair3OY6Efd92SDpqiQY9IjqXdFjjFAVOyoiZNbwBFVCL2ZpFWK14Cn5Y192Rib4Oc/aVRuCd+1Sz/NGaGSgTiXt9+rS+Tp6JTJ9mQ+bJjeHn+Vx5LBWihzhd4PCIWF7sSn7R9KciboVDZfdbg8AfqK2P/BNVahiFvtJIREB2FNzDm0/D1p8w/cVqyJw/n52y9RMCnnyqv3XqkTvh9t9IZDOYG8iGLAS/At3Qgka5CCRKJ7SbZ9I/+FDjzfGeM5FLFsFhsTm0B+YDQObOoDcKPZ+4c=;rRj9klqqjKUNPEmYUudO6w=="
 ---
 

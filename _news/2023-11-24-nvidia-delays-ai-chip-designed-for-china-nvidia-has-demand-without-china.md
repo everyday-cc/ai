@@ -135,22 +135,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Explained | How NVIDIA's AI gamble has paid off"
-    excerpt: "NVIDIA reported a 3x revenue growth, reaching $18.12 billion, with its data centre business soaring 279% to $14.5 billion, constituting 80% of total revenue. The shift from GPU to AI solutions propelled the company's transformation."
-    publishedDateTime: 2023-11-22T12:19:00Z
-    webUrl: "https://www.cnbctv18.com/technology/explained-how-nvidia-ai-gamble-has-paid-off-18385011.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/explained-how-nvidia-ai-gamble-has-paid-off-18385011.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/explained-how-nvidia-ai-gamble-has-paid-off-18385011.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 59
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/nvidia-1019x573.png"
-        width: 1019
-        height: 573
-        isCached: true
   - title: "Wipro To Bring Generative AI To Healthcare Insurance Companies Using NVIDIA AI Enterprise"
     excerpt: "Wipro announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI"
     publishedDateTime: 2023-11-24T10:43:00Z
@@ -192,6 +176,20 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/15956a8a29bc3c93c3b3f2c772ea148e"
         width: 800
         height: 533
+        isCached: true
+  - title: "MONAI medical imaging AI cloud service introduced by NVIDIA"
+    excerpt: "NVIDIA has recently announced the availability of a new hosted cloud service making medical imaging AI analysis and comparison even easier"
+    publishedDateTime: 2023-11-27T11:14:00Z
+    webUrl: "https://www.geeky-gadgets.com/monai-medical-imaging-ai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/NVIDIA-MONAI-medical-imaging-AI.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Nvidia’s Record Performance and Leadership in AI Drive Buy Rating and Optimistic Growth Forecast"
     excerpt: "Analyst Cody Acree of Benchmark Co. reiterated a Buy rating on Nvidia (NVDA – Research Report), with a price target of ... The rapid adoption of Generative AI and Large Language Models by major consumer internet companies and cloud service providers ..."

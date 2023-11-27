@@ -37,15 +37,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Unlocking The Potential Of AI For Accounting Firms And Clients"
-    excerpt: "In the ever-evolving landscape of finance and law, AI has emerged as a dynamic force reshaping how accounting firms and their clients operate."
-    publishedDateTime: 2023-11-22T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/22/unlocking-the-potential-of-ai-for-accounting-firms-and-clients/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "True Corp reveals charter for ethical AI adoption in Thailand"
     excerpt: "Thai telco True Corporation has unveiled its strategy for sustainable artificial intelligence (AI) adoption that includes new guidelines for ethical usage of the technology in Thailand."
     publishedDateTime: 2023-11-27T05:19:00Z

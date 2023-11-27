@@ -7,7 +7,7 @@ originalUrl: "https://www.rnz.co.nz/news/national/503073/maori-being-used-as-gui
 webUrl: "https://www.rnz.co.nz/news/national/503073/maori-being-used-as-guinea-pigs-for-facial-recognition-tech-ethicist"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Māori bias ignored in facial recognition roll out"
-    excerpt: "A Māori computer scientist says government moves to ramp up the use of facial recognition and other biometric information should send alarm bells through Māori and other non-white communities. Overseas studies have shown a clear bias against black people especially,"
-    publishedDateTime: 2023-11-22T12:01:00Z
-    webUrl: "https://waateanews.com/2023/11/23/maori-bias-ignored-in-facial-recognition-roll-out/"
-    type: article
-    provider:
-      name: Waatea
-      domain: waateanews.com
-    quality: 39
-    images:
-      - url: "https://waateanews.com/wp-content/uploads/2023/11/mntBLOCKSTORAGEhomemasternews_importersrcfacial-recognition-getty-images.jpg_1_Pub.jpg"
-        width: 850
-        height: 435
-        isCached: true
   - title: "Māori being used as ‘guinea pigs’ for facial recognition tech - ethicist"
     excerpt: "A Māori technology ethicist says the government is allowing tech companies to use Māori as guinea pigs for facial recognition technology. A Māori Reference Group at the Ministry of Social Development (MSD) said this was okay because the Identity Check technology would gradually improve."
     publishedDateTime: 2023-11-23T17:31:00Z
@@ -53,15 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "UK police plan national roll-out of facial-recognition phone app"
-    excerpt: "UK police chiefs announce plans to further expand police use of facial-recognition technology through a nationwide roll-out of mobile-based tools and massive increases in retrospective facial-recognition use,"
-    publishedDateTime: 2023-11-24T07:30:00Z
-    webUrl: "https://www.computerweekly.com/news/366560813/UK-police-plan-national-roll-out-of-facial-recognition-phone-app"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 4
 
 secured: "QxVNlw0weoGZr4IhLRsLE1vjDFI4ZAMQSZdy5/DLkHAfbF3N9zB/N5e2gD0+3jObX4RDehXERShVwzVuGQ0fEsN7dFdRbhRLRV77qALDb5YMQXoRy8COhPRwBYo+kv4P+ZT+7Td7fGhdQQXMZw9YsOH/NzVr17NKz+6yH/Bbwuv7Xs47z62ZqUaWWYM6q2F9wPIBL1B+70HnfP0V60mNyf4oT3Kjn1SjMZhmx48l87L6WnwlLyuQgIgK6DnF6N25/k2pdCoqUXVhWwc89osu6XTQpzDSRqLkfKKn1RyUtUnR1rohRChuOS1YsKnKe7JmrMgrLXY7PavmWehTIE1D7DOYcMYue9BCOWETd8PCbzG8LUHYKrSIwp/cvx9vgt+JEOsbeka/tRpCNlHDWi1wo6bbrbzvueFx9S4qbLwG3gfQOPWNrGbsHnbq6BN1pfqL/HKVWB6eiw59y6psnq8mBs7WZvafQXXR/lu56X6uhFdEanVuE3RRxvJk4U0vfzD6IwknCFL1AQ0tAzp61+C/uw==;dnvai52vfNG7cihNH85EuQ=="
 ---

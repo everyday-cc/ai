@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/businesses-tech-groups-warn-eu-
 webUrl: "https://www.reuters.com/technology/businesses-tech-groups-warn-eu-against-over-regulating-ai-foundation-models-2023-11-23/"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Reuters
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Independent Industry Self-Regulation: A Path Forward For Governing Artificial Intelligence?"
-    excerpt: "Industry self-regulation through agreed-upon voluntary standards and guidelines should be part of the mix from the very start, especially when it comes to AI."
-    publishedDateTime: 2023-11-22T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655cccefaa7306673434cb37/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "2023 Artificial Intelligence Regulation: An Update from a Senior FTC Official"
     excerpt: "Michael Atleson, a senior attorney for the Federal Trade Commission (FTC), joined Holland & Knight for a recent question-and-answer webinar presentation on artificial intelligence (AI) regulation. This Holland & Knight alert provides a number of key ..."
     publishedDateTime: 2023-11-22T18:59:00Z
@@ -58,6 +42,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Digital advocacy group criticizes current scope of the EU AI Act"
+    excerpt: "In an open letter signed by members of Digital Europe, the group warned that over-regulation of the AI industry could negatively impact the region’s ability to become a global leader in the technology."
+    publishedDateTime: 2023-11-24T09:23:00Z
+    webUrl: "https://www.computerworld.com/article/3711381/digital-advocacy-group-criticizes-current-scope-of-the-eu-ai-act.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 17
 
 secured: "0KFGGdFDcUUYkl3omQjaS4asoPV2CtAe8Q9yFMo+WiHwjyKB2OffhVkhsdiOUazxx5kwEDu4LqSBaRcXF2QGfYe3WqVtFSBjqOFn+OD1tRZDqxXGLxdL4TLwEj0yNIZBShNYVXYlANZRqfryHcT6XLOx4u1JqTWyO1g2Jx1A+vjF8XH14v1I8iRa4LMb0tyuGW4YnVjGuDfMCsVU2yOycDXaLR+qZiFJehusjNvfGgIfJnpkeBJjXnRWAk0jDMdcbWpY0Jqe5NBn3AWgA33Sm66xvu2jM1S48rxbBy3zZeAAIhL9zG7BgIaosphv0uqm33SQAQV5tGBZVR4O7dUzcrJu1b/Lz5INXpXWwx5akG9VrYUkEw9kSfnzwvFMnkVYQprZKJrZyGP8AA81UYXi3TD380Rr/o/GxX2zRill2Zp6/WBTdEKALQfw8IAQ/K0aJzQX6KxAFTcZrmPzsbqxQ4PkDZTDWMrVp/umU5g09p8g90BcAa3vLnvoUV6rvxoRaONhyyiF+uzCzJEAzo6U8w==;LNQAgYggUoEU1P14K7lpzg=="
 ---

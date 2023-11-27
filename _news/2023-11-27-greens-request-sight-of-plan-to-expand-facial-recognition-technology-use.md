@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "‘It’s a major deterrent’ - Government hoping to fast-track facial recognition"
+    excerpt: "Legislation to introduce facial recognition technology for Gardaí is due to be approved “very shortly”, according to one Minister"
+    publishedDateTime: 2023-11-27T11:25:00Z
+    webUrl: "https://www.newstalk.com/news/its-a-major-deterrent-government-hoping-to-fast-track-facial-recognition-1618309"
+    type: article
+    provider:
+      name: Newstalk
+      domain: newstalk.com
+    quality: 36
+    images:
+      - url: "https://media.radiocms.net/uploads/2023/11/23221859/Dublin-City-Riots-14_90693614.jpg"
+        width: 1920
+        height: 1329
+        isCached: true
   - title: "French politicians vow legal action on alleged illegal facial recognition use by police"
     excerpt: "Left-wing populist party La France Insoumise are calling for a parliamentary commission of inquiry to be set up to dig into the matter."
     publishedDateTime: 2023-11-23T16:46:00Z

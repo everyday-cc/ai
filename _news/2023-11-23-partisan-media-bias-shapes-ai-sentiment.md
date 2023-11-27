@@ -7,7 +7,7 @@ originalUrl: "https://neurosciencenews.com/partisan-bias-ai-25248/"
 webUrl: "https://neurosciencenews.com/partisan-bias-ai-25248/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,54 +23,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "The top 7 media people in AI"
-    excerpt: "Joy Buolamwini, Algorithmic Justice League Dr. Buolamwini's research found that major tech companies' AI-driven facial recognition tools ... largely due to information they saw on sites like Facebook, Carlton was inspired to study technology and society."
-    publishedDateTime: 2023-11-23T10:45:00Z
-    webUrl: "https://www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11"
-    ampWebUrl: "https://www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/655d34449c7d23cb3b9e85ad?width=1200&format=jpeg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Investing in AI Stocks"
-    excerpt: "The launch of ChatGPT has set off a boom in artificial intelligence ... including automated clinical documentation in healthcare to reduce paperwork and administrative needs."
-    publishedDateTime: 2023-11-25T16:52:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Today in AI: Sam Altman as CEO of OpenAI is strategic win for Nadella, What is AGI? and AWS India AI ready initiative to train people"
-    excerpt: "AGI is more of a general term, referring to Artificial Intelligence that has not been trained to excel ... The cloud service provider also earmarked $12 million for AWS Generative AI Scholarship, wherein it will provide Udacity scholarships to more than ..."
-    publishedDateTime: 2023-11-23T09:37:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-sam-altman-as-ceo-of-openai-is-strategic-win-for-nadella-what-is-agi-and-aws-india-ai-ready-initiative-to-train-people-11799571.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-sam-altman-as-ceo-of-openai-is-strategic-win-for-nadella-what-is-agi-and-aws-india-ai-ready-initiative-to-train-people-11799571.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-sam-altman-as-ceo-of-openai-is-strategic-win-for-nadella-what-is-agi-and-aws-india-ai-ready-initiative-to-train-people-11799571.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 43
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "0Spt5eiJF9VKGGHa3MNZ2CyTWQHk1WcCrzFce+jpkf5jFkHKNzEKK3uzgOmh6tYsGoz7OM6583M/cMz7dUjgLDxOmoey1yFhfFzsj0Rv3bIsfjbrv++5dE14DeuZQVsgkIWnEZ4s5eFvLlvVgkNqg8Ga0LSOTRNWopET2rkZsGK1scK59liqvCF+ptZLJtFqP6h6OJ7Ymr4ms0ZUP0kXEU+9yQwrxmAUKX1c2tKboatTlPYaO7dl1aFiFZEn2VDHep0807g8orogBKBN5VP7vx9skiy2Nnkmma21GVYYPrcJQ1dzr4Zzyad2pNkNg+oXfv+dP+eVEYeIxqa/q0ZozJZadXAp+o7xrDJImRAD2EzmoeN0alZHyy7iiMKniULTi4Gp/IL3Y+EgKT4J97tVra/7IqM5el2RmQoErZXt2tCWOI5hstjqbG0nBZNjMpapIlo8bL6umL0uvogQoFsXA+stNgsN1lkohvEjFDOzyHw+GzMM2u/OATbK3ymP7kaixymF8OoqG+Pg5/jMjPAKHQ==;agmQrClBLnX7G21v9uKcJg=="
 ---

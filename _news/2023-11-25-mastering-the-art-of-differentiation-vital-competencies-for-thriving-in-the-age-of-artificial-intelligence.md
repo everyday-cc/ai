@@ -40,15 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "WA students flock to computer science, and AI adds to the allure"
-    excerpt: "Despite the pandemic and recent tech layoffs, computer science remains one of the most popular majors in the state."
-    publishedDateTime: 2023-11-22T13:00:00Z
-    webUrl: "https://www.seattletimes.com/education-lab/wa-students-flock-to-computer-science-and-ai-adds-to-the-allure/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "DHkPV28Ke1EW8gIZIh81A9+CkYSSMMv2DbiDnKU17xDFKCVgomKve6CNYm8CNJW9eTjaOByM6QzPYhBprBmUgp4piBBIrOHhoaYqL4y8MtjBe298joScWmlvR9VU5t9RFp7NuR7i5gLm4y78P/cDqZDqyGpE9I5waxmgmSqoPJuK1oKpOEAUfIwGmwOSj/FUzWgCElUPUiMldVDyXc+RgQtml/nvfstKN62UcUwLUqYy9eBtyrTw3LiLPcMlhp99E9GfgAN1MRvJsor3WCYKp2SqzAvpA0w+LGmw7j4tUfQeFyz64aDXfUJ6HP3ZxXZX16oggmWpVuSDcbmtj+p13lMQk2g6ieczygoOaE2L2Cs=;r2INbk7IuRcFAwW0rnZd8g=="
 ---

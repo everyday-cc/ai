@@ -89,6 +89,20 @@ related:
         width: 748
         height: 511
         isCached: true
+  - title: "Chinese factories disassemble Nvidia gaming GPUs to make AI accelerators"
+    excerpt: "In this vacuum, and amid a GPU demand surge thanks to AI, Chinese manufacturers have sprung up to convert remaining RTX 4090s for server use. The companies disassemble the graphics cards, desolder the GPU and memory components, and then reassemble them on ..."
+    publishedDateTime: 2023-11-27T00:01:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/chinese-factories-disassemble-nvidia-gaming-gpus-to-make-ai-accelerators/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 53
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/geforce-ada-4090-web-og-1200x630.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "os51gjLE0qMeI6MA2G1hreCnsQK4jDx8n8hmo4QtnxBJ62BiIOAVpNZqWWp0wTpkOxKSzJEZO399U8oNV81OycZfAqbSAldg1+geyS7Sy8zh71lyqb0ZVSbJ34RNaDSShPFVJ/tq2In6jj4ADMgPaV/asia5+5Z5GZ5wS0smcX9P7j+94/jTh6udhV2y41BW2vBXg80ZEcSi3o9g19Cdo2CkLEJWxVMkIfgZXfSNECqWyv3Vhq/gMdFw9L0r8tcUrUBSAvzHqCpH1gLVfXE6UHg8Q5EzLGVaE4RG/EpflgeTpPKnZpzT7nEhD/IyCh0ZNqnAkFYMXgFPAfr+hz3sMOMKqHWHk1Xcr2PZHMs/zexw9tYcQwK2fkTM5+UXylUvRjVWOG860HywpH9AIzFUm9C9Kgr253L3a+uEVxlKVHs+EHq+mnB+T5hycpFKBxvxfflmKou7tldFQEYtUnIy8pk2pphnfLlHixAhP918h0pntrZmwDjVNARGGiM6BtlbThECnStJhg1ZoYRfA3A4bg==;GxCoRCo35qWEImP02hz8mw=="
 ---

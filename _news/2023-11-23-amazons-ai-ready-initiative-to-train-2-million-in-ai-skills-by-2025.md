@@ -20,17 +20,6 @@ topics:
   - AWS AI
   - AI
 
-related:
-  - title: "U Receives $100 Million for Responsible AI Initiative"
-    excerpt: "The University of Utah recently received a $100 million investment for a new initiative on responsible artificial intelligence."
-    publishedDateTime: 2023-11-22T13:00:00Z
-    webUrl: "https://dailyutahchronicle.com/2023/11/22/responsible-ai-initiative/"
-    type: article
-    provider:
-      name: Daily Utah Chronicle
-      domain: dailyutahchronicle.com
-    quality: 19
-
 secured: "3C4tQLva2ceHnK96fQwEWzHy6atlKBV0aB6KCQcG9I1qG1472Qz+1ARwBn5T/isGycFTkXCYG/zbXF2Y9p3yo0nlMCc1KDU3Zyi6N43w8u0baJKxa37kJ/3gzUPBT/DxFfNpcQ0rQLooVYFf23kB0Sy1zFpPjNaxhpk9mh6ROuN5wcWrOkOmk3MY8k8bJZdt6mghxj/4zkL2eF5vZZc4ubzvuAQaFpJmDDJQjGQ+EV+MKdzydG0bTqiCZK8GxnrO+9jJi5PGWYsas1Qqv7c91XQZQ4hRpdu93yZd6VSKAR2rtqEfXpNR3sF6SQ2ErBBHCVkrteuRwG9NlBCe0UZA8ug3qZ2ib1tl5aShH7SKEKYN4tCq2qLiupKqcJ99Y+dT1SuiRnV2AyOhxCRgDv9hHgGfW2dId9BcslkHeRoggZnZXtWkrxQ1kwK6k7m/GhTs9Rr1cAMx2TsRpIW9dGThEOw1ftPHr6gRENcyyje9pvi4GsXuc8A/EPf/oyMyC416iIfowvRvW3RkC9cCWRF8bg==;8zXvlDBYD8euC9O67bJiFg=="
 ---
 

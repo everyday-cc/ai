@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in the 90s: A Decade of Innovation and Challenges"
-    excerpt: "Introduction: The 1990s marked a pivotal era for the development of Artificial Intelligence (AI), witnessing both unprecedented innovation and formidable challenges. As technology advanced, researchers and enthusiasts alike grappled with the possibilities and limitations of AI."
-    publishedDateTime: 2023-11-24T11:53:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-in-the-90s-a-decade-of-innovation-and-challenges/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 38
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Artificial-Intelligence-in-the-90s-A-Decade-of-Innovation-and-Challenges.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "5GJy+B2CfU1865k6DMakxfSLop5Xu2MtLyrl08V3DVnWnCh3x3n7pMgCIqObyj4CKRi6RUD/WYHJXoFIKSS8XcS1nDVXkacMD9vXb1VF23xozOxSykLj+pXeUigXZug5V4MDccfGsH3JwVPx8UHq+BkPAX/gIgnXXJEDzYf0U2qYxtrSwZBlcGWbsAn6emUHvhkHHT4ZS5EQ3CjfLEB0xLbfNCrUxKLh4D7cbkk7fcT6VQ8/671pvTMGHiQVTi8fGCAjoKdel9xGKqgIyPtPWePQyJ17892LL9+ZyKrHvTNtOamID+YPT99QUJyi6iF6MfzhaSRFvkh5FgBNDvNSPACCmIjIbvM2wTApxCP6f6Lf8g52uhTe2pjgv+R5HzgWsa4XKCzEFkX6v8dzrRFlVXLVqh7Q7YSqM/TJtjYdhXbjy/DeHVt8l3KypgVRsH0jL3dbRhtFRZwJsNdu3NB4J7m/2FvEN3VnMSl8qDQv2gDEmpAVWLFYeqGaKFf5RPfoyeXhgCh5tAFw3Ke53i2j0Q==;ya0f5SuxeEo8m3wKXH6GWQ=="
 ---

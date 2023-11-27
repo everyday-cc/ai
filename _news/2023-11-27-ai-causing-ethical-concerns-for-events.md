@@ -39,15 +39,6 @@ related:
         width: 540
         height: 360
         isCached: true
-  - title: "17 Ways To Leverage AI For Enhanced HR Governance"
-    excerpt: "HR can ethically use AI to enhance organizational governance by deploying transparent algorithms for talent acquisition, thereby reducing bias and fostering diversity."
-    publishedDateTime: 2023-11-22T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/11/22/17-ways-to-leverage-ai-for-enhanced-hr-governance/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "dL7Q1ESE9cXnzgrDOhKd6QKPwif4p7mpZ29WDPwdBFRtgR9wiqOUwuQhyV/XVatNyRdDYASey6YW6iTrkosJYN4lIvPGfuT0HbopSyJ1Zu5J3qI6LAj/53qykY/0/blO86joNZStwFVjr1Lmv2chX6AzhWbUkNWJX7ok56PvD2MO7++9iilNacMuu1H9B9oD+tH3LSf/y9xPPh47vudXw/21ciMNzbpvb8ZrcGZme0jNlm41kvY/BIJK67hScd+HQEpeRSt4hQtx1MiQQDLj0Z9/Iqo0t96MhO54wQK6GLsZN4c852XeXvIYtiBkp16U0ASyb80fd6zExazhKATw/hJDgnHRMJDbSnUVYDt37Po=;VN0Sa0rtQNx/vDTHL1VLOQ=="
 ---
