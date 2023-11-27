@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-06-ai-and-machine-learning-key-drivers-of-technology-trends-in-2024.md",
+      "title": "AI and Machine Learning: Key Drivers of Technology Trends in 2024",
+      "excerpt": "In the rapidly evolving landscape of technology, 2024 promises to be a year that will bring about transformative changes and innovative breakthroughs. At the forefront of these advancements are Artificial Intelligence (AI) and Machine Learning (ML).",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/ai-and-machine-learning-key-drivers-of-technology-trends-in-2024/",
+      "originalUrl": "https://techbullion.com/ai-and-machine-learning-key-drivers-of-technology-trends-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/11/Untitled-design-20.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-06T09:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-11-04-unmasking-artificial-intelligence-the-battle-for-ethical-innovation-and-accountability.md",
       "title": "Unmasking Artificial Intelligence: The Battle for Ethical Innovation and Accountability",
       "excerpt": "Bias and Fairness: AI algorithms can inadvertently perpetuate bias, discrimination, and unfairness. They learn from historical data, which may contain biases, and replicate those biases in their decision-making processes. This bias can manifest in areas like hiring practices, lending decisions, and criminal justice.",
@@ -1415,50 +1459,6 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-evaluating-social-and-ethical-risks-from-generative-ai.md",
-      "title": "Evaluating social and ethical risks from generative AI",
-      "excerpt": "Generative AI systems are already being used to write books, create graphic designs, assist medical practitioners, and are becoming increasingly capable. To ensure these systems are developed and deployed responsibly requires carefully evaluating the potential ethical and social risks they may pose.In",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-from-generative-ai",
-      "originalUrl": "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-from-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
         "AI Ethics"
       ]
     }

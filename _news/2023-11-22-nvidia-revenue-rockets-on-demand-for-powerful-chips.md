@@ -207,15 +207,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Wipro and NVIDIA Collaborate to Advance Gen AI in Healthcare"
-    excerpt: "Wipro Limited, a technology services and consulting company, has announced a collaboration with NVIDIA to accelerate the adoption of generative"
-    publishedDateTime: 2023-11-22T04:50:00Z
-    webUrl: "https://www.dqindia.com/wipro-and-nvidia-collaborate-to-advance-gen-ai-in-healthcare/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 36
   - title: "Nvidia’s Record Performance and Leadership in AI Drive Buy Rating and Optimistic Growth Forecast"
     excerpt: "Analyst Cody Acree of Benchmark Co. reiterated a Buy rating on Nvidia (NVDA – Research Report), with a price target of ... The rapid adoption of Generative AI and Large Language Models by major consumer internet companies and cloud service providers ..."
     publishedDateTime: 2023-11-23T02:17:00Z

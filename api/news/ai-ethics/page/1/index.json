@@ -10,7 +10,7 @@
       "originalUrl": "https://www.koreaherald.com/view.php?ud=20231126000092",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -53,7 +53,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/11/216918-indonesia-central-bank-issues-ethical-guidelines-on-ai-for-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -86,6 +86,49 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-11-24-ais-ethical-governance-emphasized.md",
+      "title": "AI's ethical governance emphasized",
+      "excerpt": "Artificial intelligence presents not only enormous opportunities for humanity but also unpredictable risks and challenges, Chinese officials said on Friday, as they emphasized the need of rules and ethical standards to ensure that AI does not pose a threat to humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202311/24/WS65608ee8a31090682a5effc4.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202311/24/WS65608ee8a31090682a5effc4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202311/24/65608ee8a3109068cb007f47.jpeg",
+          "width": 540,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-24T12:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1350,50 +1393,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-06-ai-and-machine-learning-key-drivers-of-technology-trends-in-2024.md",
-      "title": "AI and Machine Learning: Key Drivers of Technology Trends in 2024",
-      "excerpt": "In the rapidly evolving landscape of technology, 2024 promises to be a year that will bring about transformative changes and innovative breakthroughs. At the forefront of these advancements are Artificial Intelligence (AI) and Machine Learning (ML).",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/ai-and-machine-learning-key-drivers-of-technology-trends-in-2024/",
-      "originalUrl": "https://techbullion.com/ai-and-machine-learning-key-drivers-of-technology-trends-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/11/Untitled-design-20.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-06T09:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

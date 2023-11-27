@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-11-23-google-bard-can-now-comprehend-youtube-videos-and-answer-questions.md",
-      "title": "Google Bard can Now Comprehend YouTube Videos and Answer Questions",
-      "excerpt": "Bard's \"Extensions\" already linked it with various Google apps, enhancing its ability to provide more personalized responses",
+      "path": "_news/2023-11-27-google-expands-bards-youtube-integration-to-answer-question-about-videos.md",
+      "title": "Google Expands Bard’s YouTube Integration To Answer Question About Videos",
+      "excerpt": "In a recent update shared by Google, Bard AI expanded its understanding of YouTube videos. Google’s generative AI LLM is now equipped to respond to specific inquiries directly related to the content of a video, allowing users to ask Bard questions about a certain video. It can also summarize a video simply by inputing the YouTube URL.",
       "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/11/23/google-bard-youtube-video/",
-      "originalUrl": "https://www.gizmochina.com/2023/11/23/google-bard-youtube-video/",
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 153,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/google-bard-ai-android-phones.png",
-          "width": 1280,
-          "height": 720,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6178d7b303a0829f4c4813b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-23T02:19:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/amp/",
+      "publishedDateTime": "2023-11-27T03:18:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

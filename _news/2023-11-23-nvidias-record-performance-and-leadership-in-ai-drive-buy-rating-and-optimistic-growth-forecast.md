@@ -219,15 +219,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Wipro and NVIDIA Collaborate to Advance Gen AI in Healthcare"
-    excerpt: "Wipro Limited, a technology services and consulting company, has announced a collaboration with NVIDIA to accelerate the adoption of generative"
-    publishedDateTime: 2023-11-22T04:50:00Z
-    webUrl: "https://www.dqindia.com/wipro-and-nvidia-collaborate-to-advance-gen-ai-in-healthcare/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 36
   - title: "Nvidia delays launch of new China-focused AI chip"
     excerpt: "Nvidia has told customers in China it is delaying the launch of a new artificial intelligence chip it designed to comply with US export rules until the first quarter of next year, two sources familiar with the matter said."
     publishedDateTime: 2023-11-26T19:53:00Z

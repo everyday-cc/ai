@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/11/216918-indonesia-central-ba
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216918-indonesia-central-bank-issues-ethical-guidelines-on-ai-for-fintech/amp/"
 type: article
 quality: 91
-heat: 102
+heat: 101
 published: true
 
 provider:

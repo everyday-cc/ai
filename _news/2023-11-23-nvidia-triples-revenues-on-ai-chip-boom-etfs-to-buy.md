@@ -167,15 +167,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Nvidia fails to satisfy lofty investor expectations for AI boom"
-    excerpt: "Nvidia Corp investors gave a cool reaction to its latest quarterly report, which blew past average analysts’ estimates but failed to satisfy the loftier expectations of shareholders who have bet heavily on an artificial intelligence boom."
-    publishedDateTime: 2023-11-22T04:51:00Z
-    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/nvidia-fails-satisfy-lofty-investor-expectations-ai-boom"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
 
 secured: "ZFePTMCyP7GAaA0rKwdM+g6U4CP4KcoN2oYeW2NI5Qc9/1QZ/8jyDqgnOlqgdOjRtXjeSwosem2EVi57MwwiY02vSJlgHMteg2W/zZ3K19rzLh2xxoE+P54qTG6X1fyWF4PiIb1+stncw/dcjoIS6ppztwLKefFqq7Xus+5IvEEhQvBPQV5SjqrpBq2hI5rL11XB/6YTR0LSttXFdXRnLcRK9IUqsOFJ1I1oBD1G0frvofCSfaY5WhTmy/4nCprqBp6tDlEhUYpKVJzWdAUSh0cwDV9Y8SFUK+kmLKdZscX3IwMuSeZb4cL9+BJAJo/WZGgIiMV4fmTs+Sy7Bc08/lEJyG35MdCoZpq8mNopVpg=;Eb74ltJhMnwwssz61SX9TQ=="
 ---

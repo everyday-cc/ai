@@ -2,6 +2,162 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-11-08-azure-sets-a-scale-record-in-large-language-model-training.md",
+      "title": "Azure sets a scale record in large language model training",
+      "excerpt": "Customers need reliable and performant infrastructure to bring the most sophisticated AI use cases to market in record time. Our objective is to build state-of-the-art infrastructure and meet these demands. The latest MLPerf™ 3.1 Training results1 are a testament to our unwavering commitment to building",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/azure-sets-a-scale-record-in-large-language-model-training/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/azure-sets-a-scale-record-in-large-language-model-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/11/MSC17_dataCenter_020.jpg",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup.md",
+      "title": "Tech Moves: Seattle marketing vet lands at IonQ; Microsoft principal researcher joins startup",
+      "excerpt": "Margaret Arakawa, a longtime Seattle-area marketing leader, joined IonQ as chief marketing officer. Arakawa was",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup/",
+      "originalUrl": "https://www.geekwire.com/2023/tech-moves-seattle-marketing-vet-lands-at-ionq-microsoft-principal-researcher-joins-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/11/IONQ-SQUARE-HEADSHOTS_0000s_0012_Margaret-Arakawa-DSC_8061.jpeg",
+          "width": 288,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T16:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-ai-speculation-dominates-cloud-native-conference.md",
+      "title": "AI Speculation Dominates Cloud Native Conference",
+      "excerpt": "While talk of AI overshadowed other topics during the first day of KubeCon NA, customers and vendors alike are focused on more practical matters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/",
+      "originalUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654baf04eb3ddcc2d1029c73/0x0.jpg?format=jpg&crop=1454,818,x0,y75,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2023/11/08/ai-speculation-dominates-cloud-native-conference/amp/",
+      "publishedDateTime": "2023-11-08T16:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-gm-to-update-cruise-software-so-self-driving-cars-stop-if-a-pedestrian-is-pinned-underneath.md",
       "title": "GM to update Cruise software so self-driving cars stop if a pedestrian is pinned underneath",
       "excerpt": "A Cruise self-driving car dragged a pedestrian in October. Cruise says an update should keep the cars stationary if a similar incident occurs.",
@@ -1042,151 +1198,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund.md",
-      "title": "IBM Continues AI Push With $500M Enterprise AI Venture Fund",
-      "excerpt": "IBM has unveiled a $500 million venture fund to invest in AI companies, ranging from early-stage startups to high-growth enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651cb4a382d94a88ea799277/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/amp/",
-      "publishedDateTime": "2023-11-08T05:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-ai-summit-a-start-but-global-agreement-a-distant-hope.md",
-      "title": "AI summit a start but global agreement a distant hope",
-      "excerpt": "The UK has also diverged from the EU by proposing light-touch approach to AI regulation, in contrast to Europe's AI Act, which is close to being finalised and will bind developers of what are deemed \"high risk\" applications to stricter controls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investing.com/news/world-news/ai-summit-a-start-but-global-agreement-a-distant-hope-3222617",
-      "originalUrl": "https://www.investing.com/news/world-news/ai-summit-a-start-but-global-agreement-a-distant-hope-3222617",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/news/world_news_3_69x52._800x533_L_1419494235.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.investing.com/news/world-news/ai-summit-a-start-but-global-agreement-a-distant-hope-3222617?ampMode=1",
-      "cdnAmpWebUrl": "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/world-news/ai-summit-a-start-but-global-agreement-a-distant-hope-3222617?ampMode=1",
-      "publishedDateTime": "2023-11-08T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-ftc-takes-shots-at-ai-in-rare-filing-to-us-copyright-office.md",
-      "title": "FTC takes shots at AI in rare filing to US Copyright Office",
-      "excerpt": "Critics are accusing the FTC of overstepping its bounds and ultimately undermining the long-held legal doctrine of Fair Use.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ftc-takes-shots-at-ai-in-rare-filing-to-us-copyright-office/",
-      "originalUrl": "https://venturebeat.com/ai/ftc-takes-shots-at-ai-in-rare-filing-to-us-copyright-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/11/cfr0z3n_vector_art_line_art_flat_illustration_dramatic_angle_si_6500c01e-6e48-4b29-b8fa-df9f7d44a111.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T02:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

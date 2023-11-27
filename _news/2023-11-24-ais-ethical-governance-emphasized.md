@@ -7,8 +7,8 @@ originalUrl: "https://global.chinadaily.com.cn/a/202311/24/WS65608ee8a31090682a5
 webUrl: "https://global.chinadaily.com.cn/a/202311/24/WS65608ee8a31090682a5effc4.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: 中国日报网
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI causing ethical concerns for events"
+    excerpt: "The ethics of using artificial intelligence in event organising is a concern for 63 per cent of associations, according to a new white paper."
+    publishedDateTime: 2023-11-27T03:42:00Z
+    webUrl: "https://www.spicenews.com.au/spice-news/ai-causing-ethical-concerns-for-events/"
+    type: article
+    provider:
+      name: Spice News
+      domain: spicenews.com.au
+    quality: 54
+    images:
+      - url: "https://www.spicenews.com.au/wp-content/uploads/2023/11/artificialintelligence.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "17 Ways To Leverage AI For Enhanced HR Governance"
     excerpt: "HR can ethically use AI to enhance organizational governance by deploying transparent algorithms for talent acquisition, thereby reducing bias and fostering diversity."
     publishedDateTime: 2023-11-22T12:15:00Z

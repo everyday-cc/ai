@@ -2,6 +2,102 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-11-17-the-ai-driven-banking-surge-info-tech-releases-new-research-on-the-future-of-small-and-midsize-institutions.md",
+      "title": "The AI-Driven Banking Surge: Info-Tech Releases New Research on the Future of Small and Midsize Institutions",
+      "excerpt": "Info-Tech Research Group's latest findings highlight how AI's transformative role in the banking industry will position banks for greater efficiency and service excellence through enhanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-ai-driven-banking-surge-info-tech-releases-new-research-on-the-future-of-small-and-midsize-institutions-1032829105",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-ai-driven-banking-surge-info-tech-releases-new-research-on-the-future-of-small-and-midsize-institutions-1032829105",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2279503/Info_Tech_Research_Group_The_AI_Driven_Banking_Surge__Info_Tech.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-16T20:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-17-ai-ethics-essentials-lawsuit-over-ai-denial-of-healthcare.md",
+      "title": "AI Ethics Essentials: Lawsuit Over AI Denial of Healthcare",
+      "excerpt": "UnitedHealthcare has been sued for the alleged wrongful denial of extended care claims for elderly patients through the use of an artificial intelligence (AI) algorithm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/douglaslaney/2023/11/16/ai-ethics-essentials-lawsuit-over-ai-denial-of-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/douglaslaney/2023/11/16/ai-ethics-essentials-lawsuit-over-ai-denial-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-16T20:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-11-17-self-driving-car-company-cruise-pauses-even-more-operations-as-it-aims-to-rebuild-trust.md",
       "title": "Self-driving car company Cruise pauses even more operations as it aims to rebuild trust",
       "excerpt": "Cruise has also been the subject of a federal probe from the National Highway Traffic and Safety Administration examining if the self-driving vehicles are using appropriate precautions around ...",
@@ -954,102 +1050,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-new-deep-learning-ai-tool-helps-ecologists-monitor-rare-birds-through-their-songs.md",
-      "title": "New deep learning AI tool helps ecologists monitor rare birds through their songs",
-      "excerpt": "Researchers have developed a new deep learning AI tool that generates life-like birdsongs to train bird identification tools, helping ecologists to monitor rare species in the wild.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/11/231115113302.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/11/231115113302.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T22:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-holy-chips-microsofts-new-ai-silicon-will-power-its-chatty-assistants.md",
-      "title": "Holy chips! Microsoft’s new AI silicon will power its chatty assistants",
-      "excerpt": "Amid chip shortages that have driven up the prices of highly sought-after Nvidia AI GPUs, several companies have been designing or considering designing their own AI accelerator chips, including Amazon, OpenAI, IBM, and AMD. Microsoft also felt the need to make a custom silicon to push its own services to the fore.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/azure_maia_100_chip_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/microsoft-launches-custom-chips-to-accelerate-its-plans-for-ai-domination/amp/",
-      "publishedDateTime": "2023-11-15T21:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

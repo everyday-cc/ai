@@ -1103,6 +1103,50 @@
       ]
     },
     {
+      "path": "_news/2023-11-14-3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023.md",
+      "title": "3 Machine Learning Stocks You’ll Regret Not Buying Soon: November 2023",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning is revolutionizing industries from healthcare to",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035?op=1",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035?op=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T03:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-nvidia-introduces-the-h200-an-ai-crunching-monster-gpu-that-may-speed-up-chatgpt.md",
       "title": "Nvidia introduces the H200, an AI-crunching monster GPU that may speed up ChatGPT",
       "excerpt": "According to Nvidia, the H200 is the first GPU to offer HBM3e memory. Thanks to HBM3e, the H200 offers 141GB of memory and 4.8 terabytes per second bandwidth, which Nvidia says is 2.4 times the memory bandwidth of the Nvidia A100 released in 2020. (Despite the A100's age, it's still in high demand due to shortages of more powerful chips.)",
@@ -1328,49 +1372,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-microsoft-celebrates-cognitive-services-milestones-with-new-ai-capabilities.md",
-      "title": "Microsoft celebrates Cognitive Services milestones with new AI capabilities",
-      "excerpt": "Value stream management involves people in the organization to examine workflows and other processes to ensure they are deriving the maximum value from their efforts while eliminating waste — of ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
-      "originalUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T16:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

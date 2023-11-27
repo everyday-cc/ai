@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/11/26/1083841/finding-value-in
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/amp/"
 type: article
 quality: 57
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: MIT Technology Review
@@ -26,72 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "How generative AI can give companies a competitive edge"
-    excerpt: "Hasit Trivedi is the CTO of digital technologies and global head of AI at Tech Mahindra. Generative artificial intelligence (AI) is poised to lead the next level of growth and unv"
-    publishedDateTime: 2023-11-27T02:04:00Z
-    webUrl: "https://www.wamda.com/2023/11/generative-ai-companies-competitive-edge"
+  - title: "Elevate your self-service assistants with new generative AI features in Amazon Lex"
+    excerpt: "In this post, we talk about how generative AI is changing the conversational AI industry by providing new customer and bot builder experiences, and the new features in Amazon Lex that take advantage of these advances. As the demand for conversational AI continues to grow, developers are seeking ways"
+    publishedDateTime: 2023-11-27T04:26:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/elevate-your-self-service-assistants-with-new-generative-ai-features-in-amazon-lex/"
     type: article
     provider:
-      name: wamda
-      domain: wamda.com
-    quality: 41
+      name: AWS
+      domain: aws.amazon.com
+    quality: 98
     images:
-      - url: "https://cdn.wamda.com/feature-images/bea41bf41903664.jpg"
-        width: 900
-        height: 500
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/ML-15275-image003-945x630.jpg"
+        width: 945
+        height: 630
         isCached: true
-  - title: "How is Generative AI Transforming the Financial Industry?"
-    excerpt: "Explore the transformative power of Generative AI in finance with real-world case studies and expert insights from SFF 2023."
-    publishedDateTime: 2023-11-22T03:43:00Z
-    webUrl: "https://fintechnews.sg/80447/ai/how-is-generative-ai-transforming-the-financial-industry/"
+  - title: "Drive hyper-personalized customer experiences with Amazon Personalize and generative AI"
+    excerpt: "Today, we are excited to announce three launches that will help you enhance personalized customer experiences using Amazon Personalize and generative AI. Whether you’re looking for a managed solution or build your own, you can use these new capabilities to power your journey. Amazon Personalize is a"
+    publishedDateTime: 2023-11-26T19:41:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
+      name: AWS
+      domain: aws.amazon.com
+    quality: 76
+  - title: "Geospatial generative AI with Amazon Bedrock and Amazon Location Service"
+    excerpt: "Today, geospatial workflows typically consist of loading data, transforming it, and then producing visual insights like maps, text, or charts. Generative AI can automate these tasks through autonomous agents. In this post, we discuss how to use foundation models from Amazon Bedrock to power agents to"
+    publishedDateTime: 2023-11-22T14:18:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/geospatial-generative-ai-with-amazon-bedrock-and-amazon-location-service/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
+  - title: "Adobe Express rolls out new generative AI features – The Verge"
+    excerpt: "By Jess Weatherbed, a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and"
+    publishedDateTime: 2023-11-26T03:37:00Z
+    webUrl: "https://www.inferse.com/805757/adobe-express-rolls-out-new-generative-ai-features-the-verge/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
     quality: 39
     images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Sumsub-Banner-3.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Generative AI Takes on SIEM"
-    excerpt: "The modernized QRadar SIEM offering will become part of the QRadar Suite, originally launched in April 2023, which brings IBM's EDR, XDR, SOAR and SIEM offerings and a new log management tool onto a common platform designed to give SOC analysts a unified interface and controls."
-    publishedDateTime: 2023-11-22T20:00:00Z
-    webUrl: "https://www.darkreading.com/emerging-tech/generative-ai-takes-on-siem"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc53d6965d9f963bf/64789b9b6159dba6643b4668/robot_at_laptop-Dariusz_Banaszuk-alamy.jpg"
-        width: 646
-        height: 430
-        isCached: true
-  - title: "Governor’s Office issues initial generative artificial intelligence report on Tuesday"
-    excerpt: "On Tuesday, the Governor's Office released a report about the emerging possibilities and potential pitfalls of generative artificial intelligence."
-    publishedDateTime: 2023-11-24T01:43:00Z
-    webUrl: "https://keyt.com/news/california/2023/11/23/governors-office-issues-initial-generative-artificial-intelligence-report-on-tuesday/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 34
-    images:
-      - url: "https://keyt.b-cdn.net/2023/02/Seal_of_the_Governor_of_California.png"
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13819.png"
         width: 1200
-        height: 1200
+        height: 628
         isCached: true
-  - title: "AI Startup Stability Has a New Tool For Creating Generative Videos"
-    excerpt: "Startup Stability is taking generative AI up a notch. While the technology has been used largely for photos and voice replications, Stability is making waves with a new tool for advanced AI-generated videos."
-    publishedDateTime: 2023-11-22T17:25:00Z
-    webUrl: "https://hypebeast.com/2023/11/ai-startup-stability-generative-video-tool"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 17
 
-secured: "qCIrG1tVszO6mMsLG6aEKyXJKxE6odBWNkdCSTNU0JDAIRjgOwoLzZ6iaoG9CwacZH6fO0rw0hqlN6wE2Upe4krVEg+5Lzd37TxLv8k5fegu7/O57wdxDCtpqlxNd+KtpntZxsrbhQ74ZMUs+3NFPizcK7sAaGe+Q6V6amMSvHvIwQyqf5F9Hi8FSrbLAYRodmzQ0cq+pAjmsL2HI3ooh/TwYTIiuUNX6jwJJa6CXgkPxRjdVj3lNbjobXNxuWABrP8prUIaUu7KyeaySCnyw9at6OrzDGReKSgjVwbZPuoiN4KfZLhmGWy9Alrmz8DUAbJor7pUD1JEa1z5D8caSeSwYfoYqw2zv6MOalwAWZE=;G/I8JV5vP2b0ATGdQKsWCQ=="
+secured: "hwmpjq6KgmTtSUxO6b2RcBh1xvoAncf83R53cHRP4jxsWG3ytafkdzZg3SjG7V8uqCkOoUSxjWk681Z45P0NUhL0cG2op3nCG/ZtjoyrTt9sBqJLvFwE53nHCjt6o+lopHBCS22oD0V0FZW4ZULFHCBU5KDYbu86Xu8ULAR2nW49RHDNu4MtdUW+BeEr1sF0pOJgfF1mWtkRMc4dTIzQmyv53O9T9abxZkFCCIKIs3KP+rvXqHSpIMh9mIpMJ+3afc8aHCbF8LN35798YWQuXk67UQmFNtGHgn45jKjUX7pQ47EQggzkPgbxL5LttrnBH1+hdCkEnpiR0pakIVXZIUGmhT2L6z1zSvVqVVBxreRazE1rxgZ/UjylcFaUiVspB3IVlbb9pRbjyJHfVjVnJfgw+P1hCz5FjwNdyuVNKau1WhE/4ntsDYvir/1DQnzamlODuPUt9X0HeFVSrKZvidZH7f0DcaiSPcy4oqVvwz/VxwFndFsi5EGUczgx6uA60uN3nwEofrWaJ8aLlpFHBA==;2zw+sdT0dcrxgafxm0QteQ=="
 ---
 

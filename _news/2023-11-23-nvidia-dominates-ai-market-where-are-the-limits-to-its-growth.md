@@ -167,15 +167,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 39
-  - title: "Nvidia fails to satisfy lofty investor expectations for AI boom"
-    excerpt: "Nvidia Corp investors gave a cool reaction to its latest quarterly report, which blew past average analysts’ estimates but failed to satisfy the loftier expectations of shareholders who have bet heavily on an artificial intelligence boom."
-    publishedDateTime: 2023-11-22T04:51:00Z
-    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/nvidia-fails-satisfy-lofty-investor-expectations-ai-boom"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
 
 secured: "rubd+vD7vZDyzWwbCnL9vISQDaBlXXgTQAHGXS71cjYXpw1PANuFEgY7819trBx+WYzBcX/OwUdOCX6DY8VLkKIvb+pZpu9hE8VFRTKLhDIu6uj70uQccA9ve2MZWYchSm2KFM/T1oIdhlayoRtk06bTYBqtke+xDCsoX+KknC15ilRdvfMmK3d0Qi8kLgcyPlI+kiInkKagQum3u0NlN58i0X+NIKpbJCLuzOvhAAdG+R28QGmlaWEMO8aX282Ac1ozJdYqFpAxTjCIoEMzodyHb0FczhF2L3wzWWZr3E2/i32jZbjZdbfi5imt8no673ZApFoVqhH2HgVoPWz3X0OfYN2nZBqeRxSn/WLcT+8=;nqWQ4B/whuSkjQLFhSKk/w=="
 ---

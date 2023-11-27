@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-27-elevate-your-self-service-assistants-with-new-generative-ai-features-in-amazon-lex.md",
+      "title": "Elevate your self-service assistants with new generative AI features in Amazon Lex",
+      "excerpt": "In this post, we talk about how generative AI is changing the conversational AI industry by providing new customer and bot builder experiences, and the new features in Amazon Lex that take advantage of these advances. As the demand for conversational AI continues to grow, developers are seeking ways",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/elevate-your-self-service-assistants-with-new-generative-ai-features-in-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/elevate-your-self-service-assistants-with-new-generative-ai-features-in-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/ML-15275-image003-945x630.jpg",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T04:26:40Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-google-expands-bards-youtube-integration-to-answer-question-about-videos.md",
+      "title": "Google Expands Bard’s YouTube Integration To Answer Question About Videos",
+      "excerpt": "In a recent update shared by Google, Bard AI expanded its understanding of YouTube videos. Google’s generative AI LLM is now equipped to respond to specific inquiries directly related to the content of a video, allowing users to ask Bard questions about a certain video. It can also summarize a video simply by inputing the YouTube URL.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6178d7b303a0829f4c4813b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/amp/",
+      "publishedDateTime": "2023-11-27T03:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-27-ai-hype-isnt-helping-anyone.md",
       "title": "AI hype isn’t helping anyone",
       "excerpt": "We've got real issues with AI, and security is top of the list. Prompt injecting allows hackers to trick your private LLM, and that's a serious problem.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.infoworld.com/article/3711382/ai-hype-isnt-helping-anyone.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -50,91 +154,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-finding-value-in-generative-ai-for-financial-services.md",
-      "title": "Finding value in generative AI for financial services",
-      "excerpt": "Financial services firms have started to adopt generative AI, but hurdles lie in their path toward generating income from the new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/",
-      "originalUrl": "https://www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/11/UBS-web-ready-5.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/amp/",
-      "publishedDateTime": "2023-11-27T01:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai.md",
-      "title": "Drive hyper-personalized customer experiences with Amazon Personalize and generative AI",
-      "excerpt": "Today, we are excited to announce three launches that will help you enhance personalized customer experiences using Amazon Personalize and generative AI. Whether you’re looking for a managed solution or build your own, you can use these new capabilities to power your journey. Amazon Personalize is a",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-26T19:41:05Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -282,7 +301,7 @@
       "originalUrl": "https://www.koreaherald.com/view.php?ud=20231126000092",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -368,7 +387,7 @@
       "originalUrl": "https://abcnews.go.com/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -410,7 +429,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/11/216918-indonesia-central-bank-issues-ethical-guidelines-on-ai-for-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -507,7 +526,7 @@
       "originalUrl": "https://www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -957,7 +976,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {

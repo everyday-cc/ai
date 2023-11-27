@@ -21,15 +21,20 @@ topics:
 related:
   - title: "Driverless cars immune from traffic tickets in California under current laws"
     excerpt: "An NBC Bay Area investigation reveals autonomous vehicles in California cannot be cited for moving traffic violations since transportation laws require tickets to be issued to actual “drivers.”"
-    publishedDateTime: 2023-11-24T07:03:00Z
-    webUrl: "https://www.nbcsandiego.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3363784/"
-    ampWebUrl: "https://www.nbcsandiego.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3363784/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3363784/?amp=1"
+    publishedDateTime: 2023-11-23T23:03:00Z
+    webUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/"
+    ampWebUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
+    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
     type: article
     provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
-    quality: 36
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
+    quality: 56
+    images:
+      - url: "https://media.nbclosangeles.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "93/RZ+iYg3r8IF3rpvnzd7XtKnQIqbrymSegBfIc/QPpI9RLHQE5B8DvJVC/uQ7AnDvB1XqhkuBuxq+yuuXBmdK9PvUgmzSgiNKyBq+s19m75jDP/+a7HbPteT8U3FJUEgjSIksEeT185iKYu2Ic0bdAbGle7lwxwVxEUm4TQ2FjV7ARAPvr40Eiw6Dlp+xWA6WeVwiQqXQkc0EiKwGqO8EbZl1ulrzrdsmEiScpeHjC34Ex4Df3SxcWrd/dH4S8lnLSdwFgPF76V7EZHZ6KedJiWJuGUC/G5Kl7gpY8AAalIMKEFDlg9yn+Q7+FQZGaFaumLKC5rDCEWpIKeeHWpFv/f7la1TG9POVWsMyy3J4=;jEBzv1PFIU2BtineJxJBpA=="
 ---

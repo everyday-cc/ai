@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 89
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -104,22 +104,6 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/11/22/shutterstock_2284768673.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "‘Sound on’: ChatGPT Voice feature now available to all users. Here's how to use"
-    excerpt: "while also using the company's proprietary Whisper speech recognition system to transcribe spoken words into text. ChatGPT's new voice capabilities are powered by a new text-to-speech model that OpenAI claims is capable of generating human-like audio from ..."
-    publishedDateTime: 2023-11-22T04:12:00Z
-    webUrl: "https://www.livemint.com/ai/artificial-intelligence/sound-on-chatgpt-voice-feature-now-available-to-all-users-heres-how-to-use-openai-sam-altman-11700623193758.html"
-    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/sound-on-chatgpt-voice-feature-now-available-to-all-users-heres-how-to-use-openai-sam-altman/amp-11700623193758.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/sound-on-chatgpt-voice-feature-now-available-to-all-users-heres-how-to-use-openai-sam-altman/amp-11700623193758.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 55
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/11/22/1600x900/FILES-US-TECHNOLOGY-AI-ALTMAN-1_1700623250597_1700623286912.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Baidu's AI Chatbot Ernie 4 Is Off To A Good Start, Says Bullish Analyst"
     excerpt: "Shares of Baidu Inc (NASDAQ: BIDU) were climbing in early trading on Wednesday after the company reported strong third-quarter results."

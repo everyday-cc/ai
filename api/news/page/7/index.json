@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-11-20-lost-time-for-no-reason-how-driverless-taxis-are-stressing-cities.md",
+      "title": "‘Lost Time for No Reason’: How Driverless Taxis Are Stressing Cities",
+      "excerpt": "In San Francisco and Austin, Texas, where passengers can hail self-driving vehicles, the cars have added to the workloads of city employees. By Yiwen Lu Reporting from San Francisco Around 2 a.m ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/11/20/technology/driverless-taxis-cars-cities.html",
+      "originalUrl": "https://www.nytimes.com/2023/11/20/technology/driverless-taxis-cars-cities.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/11/02/multimedia/DRIVERLESS-CITY-kjgm/DRIVERLESS-CITY-kjgm-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-thanks-to-ai-robots-are-aware-of-their-surroundings.md",
       "title": "Thanks to AI, Robots Are Aware of Their Surroundings",
       "excerpt": "Now we’re looking at machine learning and AI algorithms that teach the robot new tasks ... Not a lot the companies are doing that yet, but a lot of start-ups are developing it.” Robots have taken over manufacturing and warehouses.",
@@ -482,6 +534,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-18-accurately-assessing-liquidity-with-explainable-machine-learning-models.md",
+      "title": "Accurately assessing liquidity with explainable machine learning models",
+      "excerpt": "Bloomberg is set to release further empirical metrics, at the end of this year, to bolster its liquidity models’ explainability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/professional/blog/leveraging-machine-learning-to-bolster-liquidity-models/",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/leveraging-machine-learning-to-bolster-liquidity-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-17T18:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1038,102 +1133,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-17-the-ai-driven-banking-surge-info-tech-releases-new-research-on-the-future-of-small-and-midsize-institutions.md",
-      "title": "The AI-Driven Banking Surge: Info-Tech Releases New Research on the Future of Small and Midsize Institutions",
-      "excerpt": "Info-Tech Research Group's latest findings highlight how AI's transformative role in the banking industry will position banks for greater efficiency and service excellence through enhanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-ai-driven-banking-surge-info-tech-releases-new-research-on-the-future-of-small-and-midsize-institutions-1032829105",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-ai-driven-banking-surge-info-tech-releases-new-research-on-the-future-of-small-and-midsize-institutions-1032829105",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2279503/Info_Tech_Research_Group_The_AI_Driven_Banking_Surge__Info_Tech.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T20:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-17-ai-ethics-essentials-lawsuit-over-ai-denial-of-healthcare.md",
-      "title": "AI Ethics Essentials: Lawsuit Over AI Denial of Healthcare",
-      "excerpt": "UnitedHealthcare has been sued for the alleged wrongful denial of extended care claims for elderly patients through the use of an artificial intelligence (AI) algorithm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/douglaslaney/2023/11/16/ai-ethics-essentials-lawsuit-over-ai-denial-of-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/douglaslaney/2023/11/16/ai-ethics-essentials-lawsuit-over-ai-denial-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T20:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

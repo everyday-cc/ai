@@ -91,22 +91,6 @@ related:
         width: 952
         height: 636
         isCached: true
-  - title: "Trucking's future, or technology gone too far? ABC13 gets inside look at Texas self-driving trucks"
-    excerpt: "Has technology gone too far? Self-driving big rigs are already on the road in Texas and safety remains a top concern. Here are experts' take on the future of trucking."
-    publishedDateTime: 2023-11-22T03:35:00Z
-    webUrl: "https://abc13.com/self-driving-vehicles-texas-driverless-trucks-aurora-innovation-ai/14089903/"
-    ampWebUrl: "https://abc13.com/amp/self-driving-vehicles-texas-driverless-trucks-aurora-innovation-ai/14089903/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/self-driving-vehicles-texas-driverless-trucks-aurora-innovation-ai/14089903/"
-    type: article
-    provider:
-      name: abc13
-      domain: abc13.com
-    quality: 30
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/14090204_112123-ktrk-driverless-trucks-desi-TUES-img.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Self-driving cars stay stuck in the slow lane"
     excerpt: "Would you trust a self-driving car with your safety? If the idea of getting into a car with no steering wheel makes you feel distinctly nervous, then you’re probably not alone."
     publishedDateTime: 2023-11-23T11:03:00Z

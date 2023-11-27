@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tech firm uses a brace of generative AI tools to slash content production times"
-    excerpt: "The company, which makes a secure platform for file sharing, file transfers and email, uses a suite of generative AI platforms for everything from email marketing to sales training. Executives estimate they’ve realized 10-fold efficiency improvements while doubling inbound search traffic and generating a record volume of sales leads."
-    publishedDateTime: 2023-11-26T01:22:00Z
-    webUrl: "https://siliconangle.com/2023/11/24/tech-firm-uses-brace-generative-ai-tools-slash-content-production-times/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ezgif.com-webp-to-jpg-1.jpg"
-        width: 1024
-        height: 764
-        isCached: true
   - title: "WA students flock to computer science, and AI adds to the allure"
     excerpt: "Despite the pandemic and recent tech layoffs, computer science remains one of the most popular majors in the state."
     publishedDateTime: 2023-11-22T13:00:00Z

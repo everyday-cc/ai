@@ -2,6 +2,74 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-11-15-mufg-signs-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation.md",
+      "title": "MUFG Signs Multiyear Global Agreement With AWS to Accelerate Digital Transformation",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), today announced that Mitsubishi UFJ Financial Group (MUFG), Japan’s largest financial",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231114720773/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231114720773/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-google-graphcast-uses-ai-and-machine-learning-to-predict-weather.md",
+      "title": "Google GraphCast uses AI and machine learning to predict weather",
+      "excerpt": "Google DeepMind has created a new model called GraphCast that could help improve how we predict weather forecasts.",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/google-graphcast-uses-ai-and-machine-learning-to-predict-weather/",
+      "originalUrl": "https://bgr.com/tech/google-graphcast-uses-ai-and-machine-learning-to-predict-weather/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T17:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-airbnb-acquires-stealth-ai-startup-founded-by-a-creator-of-siri.md",
       "title": "Airbnb acquires stealth AI startup founded by a creator of Siri",
       "excerpt": "Airbnb (Nasdaq: ABNB) has acquired a 12-person AI startup, GamePlanner.AI, in order to use its team to flesh out and expand its AI-related services, the company announced Tuesday. According to CNBC, the deal was worth $200 million.",
@@ -871,84 +939,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-how-facebook-went-all-in-on-ai.md",
-      "title": "How Facebook went all in on AI",
-      "excerpt": "Inside Facebook and the Fight to Expose its Harmful Secrets, Jeff Horwitz reveals how the company came to rely on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/",
-      "originalUrl": "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/11/horwitz-cover.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/14/1083336/how-facebook-went-all-in-on-ai/amp/",
-      "publishedDateTime": "2023-11-14T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-the-squishy-robot-that-walks-the-pros-and-cons-of-ai-seeing-things-that-we-dont.md",
-      "title": "The Squishy Robot That Walks: The Pros and Cons of AI Seeing Things That We Don’t",
-      "excerpt": "An AI built a robot that can walk in a way we can't comprehend. This is a genie in a box that poses incredible opportunities — and risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techopedia.com/the-squishy-robot-that-walks-the-pros-and-cons-of-ai-seeing-things-that-we-dont",
-      "originalUrl": "https://www.techopedia.com/the-squishy-robot-that-walks-the-pros-and-cons-of-ai-seeing-things-that-we-dont",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T10:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techopedia",
-        "domain": "techopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple
 webUrl: "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/"
 type: article
 quality: 81
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -171,15 +171,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Nvidia fails to satisfy lofty investor expectations for AI boom"
-    excerpt: "Nvidia Corp investors gave a cool reaction to its latest quarterly report, which blew past average analysts’ estimates but failed to satisfy the loftier expectations of shareholders who have bet heavily on an artificial intelligence boom."
-    publishedDateTime: 2023-11-22T04:51:00Z
-    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/nvidia-fails-satisfy-lofty-investor-expectations-ai-boom"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
 
 secured: "Uz4w/iluunR/OQWOl/Cj/tXtUvwCRl+ERLaBr40x4eVDe7quC3b8yHRj6RI5kUsZmqT66ZIkVM+lBnb/BIt9BHCQmhKCywjbMPPfSew0gWvHaICZpUQ5Snr7ZdnWHEP5TvYp/Pwo9/9I9Cfj0g3lHIBlrx8WYu9y64TM5tN8wdEaqIyZ1+xTxTDoDzdbl9cJmyDw9S0L+wlQllkz00OVjVvHRs2JjEBu4wOC5N8IyFKs7V1Kslk+wCT91W5Ic4i5DgdRPqzbqIh8fF43sCbtStSL9VaXS4E7IZAaYDqE1sugFJA3NPQFniYisivruBV6uihUdtlCCUWlVoo4yFDikv7zGiB1FapbSsBHRf9oC4EwVRzCMlE8xecZuj92DNmmoiaEdL1VN6P59MPH/jty9pjFv9qjA9W09mzYYagoBdiQYHfb8/okMvPRRuw7gg39Nnt802D5dV5R5/RQiG+l3RVKvPtNG/8nRso/4VvVRmC30YDFXyBU8cIt/bO2MY4nuYKnzuOw5dW9Ny5OWuXSlw==;kGWLT4yvK9y8QCaWE0Bz0A=="
 ---

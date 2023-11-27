@@ -36,6 +36,20 @@ related:
         width: 540
         height: 360
         isCached: true
+  - title: "AI causing ethical concerns for events"
+    excerpt: "The ethics of using artificial intelligence in event organising is a concern for 63 per cent of associations, according to a new white paper."
+    publishedDateTime: 2023-11-27T03:42:00Z
+    webUrl: "https://www.spicenews.com.au/spice-news/ai-causing-ethical-concerns-for-events/"
+    type: article
+    provider:
+      name: Spice News
+      domain: spicenews.com.au
+    quality: 54
+    images:
+      - url: "https://www.spicenews.com.au/wp-content/uploads/2023/11/artificialintelligence.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "ZKxTnqiI6uXDS/8zxugphjzdkNXnZWpBoU3bgNV0ILE3odbkFDaq2crM0Ipm6ZcXWwD2Qn2wgCLPf2Yzh50j8IW/vvIdFwmedZ9XDd/wLkaKHkmD31X3T7J0l/DWyQSmTqrF7Kowqj6/X1t9lxIyTBr+bBTCozx3WQaOa3Dngv1aEcZ2tiqjfSTGg73slscm7yIfTvn7VZNL9Q1oqfELatmuj+/JeFO6xPNO+Rq7N/cRCZ5SN8XDwp5sdjL41+p2AfKcxlksRq4AlSb3m78JOeo2MiXkw1620J+HR2oaHRtvj2VrHhto01EtJFW8LntpqpMn1k0spH//DHG3M5rozZ2ioBBkognBwsEkOI7lqTyuNbFKQn4Ki7IBYB5Ca+35GSZCFkpqOi82woVHVt2runaku6UdAxiCaavRjtqYxyKHUY1vrVBL4QLJwEBp/pIfVJsp8QALgAadBGSaOldQ0OA5o3RZxrQDn6Upb18J88NFAcf7+29Nh20TBmKYhFnWGOyxashNQG8aTXEYPVSEMQ==;U+y8h9o2iByHMbfBTX8lJA=="
 ---

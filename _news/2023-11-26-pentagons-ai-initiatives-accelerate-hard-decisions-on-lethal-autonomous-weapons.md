@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-ac
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
 type: article
 quality: 52
-heat: 93
+heat: 92
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-product-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1235
         height: 630
         isCached: true
-  - title: "Geospatial generative AI with Amazon Bedrock and Amazon Location Service"
-    excerpt: "Today, geospatial workflows typically consist of loading data, transforming it, and then producing visual insights like maps, text, or charts. Generative AI can automate these tasks through autonomous agents. In this post, we discuss how to use foundation models from Amazon Bedrock to power agents to"
-    publishedDateTime: 2023-11-22T14:18:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/geospatial-generative-ai-with-amazon-bedrock-and-amazon-location-service/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
   - title: "How to get started with Amazon Bedrock"
     excerpt: "A step-by-step guide on how to start using Amazon Bedrock models, either through the console or via APIs. Also, how to fine-tune and build custom models."
     publishedDateTime: 2023-11-22T07:19:00Z

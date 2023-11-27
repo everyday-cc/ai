@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-31-advisor-addresses-intl-conference-on-artificial-intelligence-machine-learning.md",
+      "title": "Advisor addresses Intl Conference on Artificial Intelligence, Machine Learning",
+      "excerpt": "Advisor to Lieutenant Governor, Rajeev Rai Bhatnagar today addressed two-day International Conference on Artificial Intelligence, Machine Learning, and Intelligent Systems (ICAIMLIS) at Islamic University of Science and Technology (IUST) here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyexcelsior.com/advisor-addresses-intl-conference-on-artificial-intelligence-machine-learning/",
+      "originalUrl": "https://www.dailyexcelsior.com/advisor-addresses-intl-conference-on-artificial-intelligence-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T22:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Excelsior",
+        "domain": "dailyexcelsior.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-iust-hosts-intl-conference-on-ai-machine-learning-and-intelligent-systems.md",
       "title": "IUST hosts int’l conference on AI, Machine Learning and Intelligent Systems",
       "excerpt": "A two-day International Conference on Artificial Intelligence, Machine Learning, and Intelligent Systems (ICAIMLIS) was today inaugurated at Islamic University of Science and Technology (IUST). Shri Rajeev Rai Bhatnagar,",
@@ -1269,40 +1303,6 @@
       "provider": {
         "name": "itsecuritywire",
         "domain": "itsecuritywire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-jp-morgan-pulls-plug-on-deep-learning-model-for-fx-algos.md",
-      "title": "JP Morgan pulls plug on deep learning model for FX algos",
-      "excerpt": "JP Morgan has phased out a model that leverages machine learning technology for foreign exchange algorithmic execution, citing issues with data interpretation and the complexity involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fx-markets.com/tech-and-data/7949034/jp-morgan-pulls-plug-on-deep-learning-model-for-fx-algos",
-      "originalUrl": "https://www.fx-markets.com/tech-and-data/7949034/jp-morgan-pulls-plug-on-deep-learning-model-for-fx-algos",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T17:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fx-markets",
-        "domain": "fx-markets.com",
         "images": null,
         "publishers": null,
         "authors": null

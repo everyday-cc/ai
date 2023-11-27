@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-30-navigating-the-shadows-a-strategic-approach-to-managing-dark-data.md",
+      "title": "Navigating The Shadows: A Strategic Approach To Managing Dark Data",
+      "excerpt": "With continuous advancements in AI and machine learning enabling more sophisticated and nuanced approaches, the future of data management and analysis is promising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/navigating-the-shadows-a-strategic-approach-to-managing-dark-data/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/navigating-the-shadows-a-strategic-approach-to-managing-dark-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64cac1652b11847ee7a5d57e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/navigating-the-shadows-a-strategic-approach-to-managing-dark-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/30/navigating-the-shadows-a-strategic-approach-to-managing-dark-data/amp/",
+      "publishedDateTime": "2023-10-30T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-30-the-clouds-cant-afford-to-forget-developers.md",
+      "title": "The clouds can’t afford to forget developers",
+      "excerpt": "In the rush to AI, vendors should remember that developers have a lot of clout with IT spending. Helping developers will translate to growth at the bottom line.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.html",
+      "originalUrl": "https://www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/19/09/it_professionals_programmers_engineers_developers_in_a_modern_workspace_by_gorodenkoff_shutterstock_1798108843_creative_digital-only_2400x1600-100913014-large-100947393-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.amp.html",
+      "publishedDateTime": "2023-10-30T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-30-microsoft-azure-vs-amazon-web-services-cloud-comparison.md",
       "title": "Microsoft Azure vs. Amazon Web Services: Cloud Comparison",
       "excerpt": "Amazon Web Services and Microsoft Azure are two of the leading cloud-based infrastructure as a service (IaaS) providers. In the past decade, both companies have created a broad range of flexible, stable and profitable services. But which one is right for ...",
@@ -1260,83 +1365,6 @@
       "provider": {
         "name": "The Tech Report",
         "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-altoida-to-present-poster-presentations-highlighting-augmented-reality-based-cognitive-assessment-at-ctad-2023.md",
-      "title": "Altoida to Present Poster Presentations Highlighting Augmented Reality-Based Cognitive Assessment at CTAD 2023",
-      "excerpt": "Altoida, a pioneer in developing digital biomarkers of neurological disease using augmented reality and machine learning, announced today it will be presenting poster presentations at the 16th Annual Clinical Trials on Alzheimer’s Disease (CTAD) conference,",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/altoida-to-present-poster-presentations-highlighting-augmented-reality-based-cognitive-assessment-at-ctad-2023/article_8168016c-3293-55f4-9c13-a2793c96cf17.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/altoida-to-present-poster-presentations-highlighting-augmented-reality-based-cognitive-assessment-at-ctad-2023/article_8168016c-3293-55f4-9c13-a2793c96cf17.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T12:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-nexus-cognitive-and-cloudera-announce-strategic-partnership-for-managed-services-for-data-at-scale.md",
-      "title": "Nexus Cognitive and Cloudera Announce Strategic Partnership for Managed Services for Data at Scale",
-      "excerpt": "Andy Moller, SVP of Channels and Alliances at Cloudera, re-iterated, \"Nexus Cognitive focused efforts on catering to a diverse range of industries, including financial services, healthcare ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60402525-nexus-cognitive-and-cloudera-announce-strategic-partnership-for-managed-services-for-data-at-scale-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60402525-nexus-cognitive-and-cloudera-announce-strategic-partnership-for-managed-services-for-data-at-scale-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T16:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
         "images": null,
         "publishers": null,
         "authors": null

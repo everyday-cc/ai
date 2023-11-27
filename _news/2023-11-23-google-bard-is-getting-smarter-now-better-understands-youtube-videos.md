@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Expands Bard’s YouTube Integration To Answer Question About Videos"
+    excerpt: "In a recent update shared by Google, Bard AI expanded its understanding of YouTube videos. Google’s generative AI LLM is now equipped to respond to specific inquiries directly related to the content of a video, allowing users to ask Bard questions about a certain video. It can also summarize a video simply by inputing the YouTube URL."
+    publishedDateTime: 2023-11-27T03:18:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6178d7b303a0829f4c4813b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
   - title: "Google Bard can Now Comprehend YouTube Videos and Answer Questions"
     excerpt: "Bard's \"Extensions\" already linked it with various Google apps, enhancing its ability to provide more personalized responses"
     publishedDateTime: 2023-11-23T02:19:00Z

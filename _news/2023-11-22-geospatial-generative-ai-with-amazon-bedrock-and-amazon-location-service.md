@@ -23,43 +23,59 @@ topics:
   - AWS AI
 
 related:
-  - title: "Automating product description generation with Amazon Bedrock"
-    excerpt: "In today’s ever-evolving world of ecommerce, the influence of a compelling product description cannot be overstated. It can be the decisive factor that turns a potential visitor into a paying customer or sends them clicking off to a competitor’s site. The manual creation of these descriptions across"
-    publishedDateTime: 2023-11-24T17:36:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/"
+  - title: "Elevate your self-service assistants with new generative AI features in Amazon Lex"
+    excerpt: "In this post, we talk about how generative AI is changing the conversational AI industry by providing new customer and bot builder experiences, and the new features in Amazon Lex that take advantage of these advances. As the demand for conversational AI continues to grow, developers are seeking ways"
+    publishedDateTime: 2023-11-27T04:26:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/elevate-your-self-service-assistants-with-new-generative-ai-features-in-amazon-lex/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 74
+    quality: 98
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/24/Picture1-5-2-1101x630.jpg"
-        width: 1101
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/ML-15275-image003-945x630.jpg"
+        width: 945
         height: 630
         isCached: true
-  - title: "How SnapLogic built a text-to-pipeline application with Amazon Bedrock to translate business intent into action"
-    excerpt: "This post was co-written with Greg Benson, Chief Scientist; Aaron Kesler, Sr. Product Manager; and Rich Dill, Enterprise Solutions Architect from SnapLogic. Many customers are building generative AI apps on Amazon Bedrock and Amazon CodeWhisperer to create code artifacts based on natural language. This"
-    publishedDateTime: 2023-11-24T17:28:12Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-snaplogic-built-a-text-to-pipeline-application-with-amazon-bedrock-to-translate-business-intent-into-action/"
+  - title: "Drive hyper-personalized customer experiences with Amazon Personalize and generative AI"
+    excerpt: "Today, we are excited to announce three launches that will help you enhance personalized customer experiences using Amazon Personalize and generative AI. Whether you’re looking for a managed solution or build your own, you can use these new capabilities to power your journey. Amazon Personalize is a"
+    publishedDateTime: 2023-11-26T19:41:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 71
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/ML-15431-arch-high-5-1235x630.jpg"
-        width: 1235
-        height: 630
-        isCached: true
-  - title: "How to get started with Amazon Bedrock"
-    excerpt: "A step-by-step guide on how to start using Amazon Bedrock models, either through the console or via APIs. Also, how to fine-tune and build custom models."
-    publishedDateTime: 2023-11-22T07:19:00Z
-    webUrl: "https://www.pluralsight.com/resources/blog/data/get-started-amazon-bedrock"
+    quality: 76
+  - title: "Finding value in generative AI for financial services"
+    excerpt: "Financial services firms have started to adopt generative AI, but hurdles lie in their path toward generating income from the new technology."
+    publishedDateTime: 2023-11-27T01:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/"
+    ampWebUrl: "https://www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/amp/"
     type: article
     provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 4
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/UBS-web-ready-5.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Adobe Express rolls out new generative AI features – The Verge"
+    excerpt: "By Jess Weatherbed, a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and"
+    publishedDateTime: 2023-11-26T03:37:00Z
+    webUrl: "https://www.inferse.com/805757/adobe-express-rolls-out-new-generative-ai-features-the-verge/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13819.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "QAL3zqMERBNU1YURgxihy9sIYIZzzow0iqe3W392iNxRC3VCoWNXn8/2KYdo5kpj7a64S1V7nFzzpx46OE0S+f8Wa1LIWt/piMXP7ZkTM3Oz/JBZevWUqWxRw62q4rCAe2n8Vi1MUAoTk98lU7OVut2Xxn8vmpmnG/oRzM105BrIW/E5gfbNeWK6ZMoUAzktIB4Q+/dlGkCtXsItHqgBjBhBI77fBSznsbmE36ZeXTxuLBFi5H9SpTh4QfzF/wWpExb3Yd5XAzp7/7IBkuWhmdZUMYdB6LQQ5cnsHFh3g4oT3wG/ua5OYqed82M6caPZW4nEsAI4xrFqnSZ7lJRYH4jlg20rY9U/2de9l7T1vlY=;M2wfeIynEmtiFqP5tLT57Q=="
 ---

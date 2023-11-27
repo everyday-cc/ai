@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-24-ais-ethical-governance-emphasized.md",
+      "title": "AI's ethical governance emphasized",
+      "excerpt": "Artificial intelligence presents not only enormous opportunities for humanity but also unpredictable risks and challenges, Chinese officials said on Friday, as they emphasized the need of rules and ethical standards to ensure that AI does not pose a threat to humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202311/24/WS65608ee8a31090682a5effc4.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202311/24/WS65608ee8a31090682a5effc4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202311/24/65608ee8a3109068cb007f47.jpeg",
+          "width": 540,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-24T12:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-putin-to-approve-new-ai-strategy-calls-for-boost-to-supercomputers.md",
       "title": "Putin to approve new AI strategy, calls for boost to supercomputers",
       "excerpt": "President Vladimir Putin said on Friday that he would soon approve a new version of Russia's strategy for Artificial Intelligence development, and called for a significant increase in the expansion of supercomputers.",
@@ -947,58 +990,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-google-bard-can-now-comprehend-youtube-videos-and-answer-questions.md",
-      "title": "Google Bard can Now Comprehend YouTube Videos and Answer Questions",
-      "excerpt": "Bard's \"Extensions\" already linked it with various Google apps, enhancing its ability to provide more personalized responses",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/11/23/google-bard-youtube-video/",
-      "originalUrl": "https://www.gizmochina.com/2023/11/23/google-bard-youtube-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/google-bard-ai-android-phones.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-23T02:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     },

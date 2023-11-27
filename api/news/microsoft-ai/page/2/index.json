@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-11-microsoft-celebrates-cognitive-services-milestones-with-new-ai-capabilities.md",
+      "title": "Microsoft celebrates Cognitive Services milestones with new AI capabilities",
+      "excerpt": "Value stream management involves people in the organization to examine workflows and other processes to ensure they are deriving the maximum value from their efforts while eliminating waste — of ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
+      "originalUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T16:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive.md",
       "title": "Cognitive Technology Education Services, Inc. Unveils Revolutionary Gamified IT Learning App, \"CognITive\"",
       "excerpt": "DAYTON, Ohio, Nov. 10, 2023 /PRNewswire/ -- Cognitive Technology Education Services, Inc., a pioneering company in the field of technology education, is thrilled to announce the upcoming launch of ...",
@@ -683,6 +726,50 @@
       ]
     },
     {
+      "path": "_news/2023-11-07-ebpf-kubernetes-security-tool-tetragon-improves-performance-and-stability.md",
+      "title": "eBPF Kubernetes Security Tool Tetragon Improves Performance and Stability",
+      "excerpt": "In this episode, Thomas Betts talks with Pamela Fox, a cloud advocate in Python at Microsoft. They discuss several ChatGPT sample apps that Pamela helps maintain. These include a very popular integration of ChatGPT with Azure OpenAI and Cognitive Search ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/11/kubernetes-ebpf-tetragon/",
+      "originalUrl": "https://www.infoq.com/news/2023/11/kubernetes-ebpf-tetragon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2023/11/kubernetes-ebpf-tetragon/en/headerimage/generatedHeaderImage-1699319190795.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-07T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-11-07-microsoft-ceo-nadella-uses-surprise-appearance-at-openai-event-to-lure-developers-to-azure-cloud.md",
       "title": "Microsoft CEO Nadella uses surprise appearance at OpenAI event to lure developers to Azure cloud",
       "excerpt": "At OpenAI's developer event in San Francisco, Microsoft CEO Satya Nadella told the audience that his company's cloud is the best place for them to build",
@@ -1267,111 +1354,6 @@
         "name": "News Medical",
         "domain": "news-medical.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-navigating-the-shadows-a-strategic-approach-to-managing-dark-data.md",
-      "title": "Navigating The Shadows: A Strategic Approach To Managing Dark Data",
-      "excerpt": "With continuous advancements in AI and machine learning enabling more sophisticated and nuanced approaches, the future of data management and analysis is promising.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/navigating-the-shadows-a-strategic-approach-to-managing-dark-data/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/navigating-the-shadows-a-strategic-approach-to-managing-dark-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64cac1652b11847ee7a5d57e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/30/navigating-the-shadows-a-strategic-approach-to-managing-dark-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/30/navigating-the-shadows-a-strategic-approach-to-managing-dark-data/amp/",
-      "publishedDateTime": "2023-10-30T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-the-clouds-cant-afford-to-forget-developers.md",
-      "title": "The clouds can’t afford to forget developers",
-      "excerpt": "In the rush to AI, vendors should remember that developers have a lot of clout with IT spending. Helping developers will translate to growth at the bottom line.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.html",
-      "originalUrl": "https://www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/19/09/it_professionals_programmers_engineers_developers_in_a_modern_workspace_by_gorodenkoff_shutterstock_1798108843_creative_digital-only_2400x1600-100913014-large-100947393-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3709552/the-clouds-cant-afford-to-forget-developers.amp.html",
-      "publishedDateTime": "2023-10-30T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
