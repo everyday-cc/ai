@@ -9,7 +9,7 @@ ampWebUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai
 cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
 type: article
 quality: 83
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/10/0-microsoft-copilot-100946694-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 675
+        isCached: true
+  - title: "6 Alternatives To ChatGPT"
+    excerpt: "In the short 12 months since its launch, generative AI platform ChatGPT has become the most widely recognised AI language model. According to a recent Forb"
+    publishedDateTime: 2023-11-28T10:28:00Z
+    webUrl: "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/11/image1-4.jpg"
+        width: 1999
+        height: 1232
         isCached: true
   - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
     excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."

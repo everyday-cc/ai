@@ -2,6 +2,144 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-11-16-azure-gets-new-nvidia-service-for-developing-custom-genai-apps.md",
+      "title": "Azure gets new Nvidia service for developing custom GenAI apps",
+      "excerpt": "Announced at Microsoft Ignite 2023 this week, the new service is called Nvidia AI Foundry, and it gives businesses a collection of “commercially viable” GenAI foundation models, developed by Nvidia and third parties, they can customise using Nvidia’s NeMo framework and tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/azure-gets-new-nvidia-service-for-developing-custom-genai-apps-602431",
+      "originalUrl": "https://www.crn.com.au/news/azure-gets-new-nvidia-service-for-developing-custom-genai-apps-602431",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_chatbot.jpg",
+          "width": 690,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-16T03:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-16-talking-points-how-concerned-should-we-be-over-artificial-intelligence.md",
+      "title": "Talking Points: How concerned should we be over artificial intelligence?",
+      "excerpt": "MINNEAPOLIS— In a world of artificial intelligence, many are asking \"What's real?\" Or \"What's fake?\" Or \"What our information is being used for?\" Now more than ever, it's worth taking a look at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
+      "originalUrl": "https://www.cbsnews.com/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/30/b0af8181-af32-490a-ab05-fbbf97de4c12/thumbnail/1200x630/1a6cd3d5d08f273ce42312cb6cdb5d1b/ai.jpg?v=5659e73acd91751548aa89950cf015b0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/minnesota/news/artificial-intelligence-ai-concerns-political-ads-deepfakes-medical-breakthroughs/",
+      "publishedDateTime": "2023-11-16T02:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-16-amazon-from-aws-to-retail-stores-and-more-the-company-that-jeff-bezos-built.md",
+      "title": "Amazon: From AWS to retail stores and more, the company that Jeff Bezos built",
+      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Amazon is a massive tech company that provides e-commerce, cloud, streaming, and digital advertising services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon",
+      "originalUrl": "https://www.businessinsider.com/amazon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6555d7b54ca513d8242a5c43?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/amazon?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon?amp",
+      "publishedDateTime": "2023-11-16T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-16-aws-introduces-amazon-linux-2023-runtime-for-lambda.md",
       "title": "AWS Introduces Amazon Linux 2023 Runtime for Lambda",
       "excerpt": "In this episode, Thomas Betts talks with Pamela Fox, a cloud advocate in Python at Microsoft. They discuss several ChatGPT sample apps that Pamela helps maintain. These include a very popular integration of ChatGPT with Azure OpenAI and Cognitive Search ...",
@@ -968,144 +1106,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-weka-partners-with-applied-digital-to-supercharge-its-gpu-cloud-for-generative-ai-customers.md",
-      "title": "WEKA Partners with Applied Digital to Supercharge Its GPU Cloud for Generative AI Customers",
-      "excerpt": "Applied Digital is developing a turnkey offering that allows enterprise customers to purchase and use GPU resources on-demand, at scale, across its data centers for AI model training and inference ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20231115sf65626/weka-partners-with-applied-digital-to-supercharge-its-gpu-cloud-for-generative-ai-customers",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20231115sf65626/weka-partners-with-applied-digital-to-supercharge-its-gpu-cloud-for-generative-ai-customers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2273775/WEKA_Applied_Digital_announcement.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-tencent-to-seek-domestic-ai-training-chip-supplies-after-latest-us-curbs.md",
-      "title": "Tencent to seek domestic AI training chip supplies after latest US curbs",
-      "excerpt": "By Josh Ye HONG KONG (Reuters) -Chinese tech group Tencent Holdings said on Wednesday it will look for domestic sources for AI training chips",
-      "sourceUrl": null,
-      "webUrl": "https://wsau.com/2023/11/15/tencent-to-seek-domestic-ai-training-chip-supplies-after-latest-us-curbs/",
-      "originalUrl": "https://wsau.com/2023/11/15/tencent-to-seek-domestic-ai-training-chip-supplies-after-latest-us-curbs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-11/15/2023-11-15T142500Z_1_LYNXMPEJAE0NA_RTROPTP_3_CHINA-TECH-AI.JPG",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T13:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSAY",
-        "domain": "wsau.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-mit-ibm-watson-ai-lab-researchers-train-computers-to-understand-dynamic-events.md",
-      "title": "MIT-IBM Watson AI Lab researchers train computers to understand dynamic events",
-      "excerpt": "Researchers from the MIT-IBM Watson AI Lab want to make computers more “human.” The researchers are currently working on a project that will help computers understand and recognize dynamic events.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/mit-ibm-watson-ai-lab-researches-train-computers-understand-dynamic-events/",
-      "originalUrl": "https://sdtimes.com/ai/mit-ibm-watson-ai-lab-researches-train-computers-understand-dynamic-events/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/04/MIT-Moments-Time-01_0.jpg",
-          "width": 639,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T12:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

@@ -46,20 +46,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Three-quarters of finance executives expect generative AI to replace them"
-    excerpt: "NatWest is tapping IBM’s data platform, as well as the IT giant’s Watson AI technology, to create Cora+ as part of its customer support. According recent research from IBM’s Institute for Business Value, over 40% of banking and financial markets ..."
-    publishedDateTime: 2023-11-23T10:03:00Z
-    webUrl: "https://www.computerweekly.com/news/366560698/Three-quarters-of-finance-executives-expect-generative-AI-to-replace-them"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 55
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/large-language-model-LLM-generative-AI-chat-gpt-peopleimagescom-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Generative AI offers companies and their employees more effective ways of working"
     excerpt: "PwC has extended its collaboration with Microsoft with the launch of its new PwC generative artificial intelligence (AI) business centre. Enabled by Microsoft technology, the PwC generative AI Business Centre will help organisations to achieve returns on their investments in a safe and secure way."
     publishedDateTime: 2023-11-27T05:00:00Z

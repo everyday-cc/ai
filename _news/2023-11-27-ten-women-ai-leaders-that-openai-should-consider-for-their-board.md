@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/amp/"
 type: article
 quality: 87
-heat: 217
+heat: 207
 published: true
 
 provider:
@@ -179,20 +179,6 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03700-4/d41586-023-03700-4_26348126.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "OpenAI Researchers Reportedly Warned the Board About Possible Artificial Intelligence ‘Breakthrough’ That ‘Could Threaten Humanity’"
-    excerpt: "Staff researchers wrote to the board to warn them of a powerful artificial intelligence discovery that they believed could threaten humanity, as per the sources of the report. This letter and the supposed AI algorithm are believed to be key developments ..."
-    publishedDateTime: 2023-11-23T10:29:00Z
-    webUrl: "https://in.ign.com/tech/198227/news/openai-researchers-reportedly-warned-the-board-about-possible-artificial-intelligence-breakthrough"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 22
-    images:
-      - url: "https://sm.ign.com/t/ign_in/news/s/sam-altman/sam-altman-set-to-return-as-ceo-of-openai-in-dramatic-revers_x3c9.1200.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "OpenAI Researchers Warned the Board of an AI Discovery that Could Threaten Humanity"
     excerpt: "Four days ahead of Sam Altman‘s ouster, several staff researchers wrote a letter to the board of directors warning of a powerful AI discovery, called Project Q*, that they said could threaten humanity. Reuters reported yesterday about it quoting as sources two people familiar with the matter."

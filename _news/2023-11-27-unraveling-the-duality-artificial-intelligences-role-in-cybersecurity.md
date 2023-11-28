@@ -76,15 +76,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "CISA Roadmap for AI Cybersecurity: Defense of Critical Infrastructure, “Secure by Design” AI Prioritized"
-    excerpt: "CISA has released a roadmap establishing four overarching broad goals, with five more specific lines of effort that appear to indicate concrete immediate priorities. Defensive AI cybersecurity measures and plans for critical infrastructure adoption are repeating themes."
-    publishedDateTime: 2023-11-23T11:00:00Z
-    webUrl: "https://www.cpomagazine.com/cyber-security/cisa-roadmap-for-ai-cybersecurity-defense-of-critical-infrastructure-secure-by-design-ai-prioritized/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 2
 
 secured: "YuKB0a8OfJBWQ2xLNuX8B8xBnzjChnZ6re3hdv86YjMjjiLr4NMe4mxAycwbdDD6uK5uKsWqkK0Sqrm4DaNJlPTwNk7G/bYPzi8HDsccC3F4oEkX4bBvtVngiPUXaUulvzHnrcgLUpO1GJ/iDgKglyqqExZx33SMViPSjjO4A4GIFBj7No5Pbxb6qA0U/Ut5F2BJ1PylQ7AB/A/im5EHNiPfR619YDsgcD7gsPHe42jfxeucxZt3oiOuE+ezYu9tzgVM03o9hOqQGTPj8DRK5sisPKRchIRDu9isEal7/UINmN0jztuTvErVEgIbZH1n4Ghpgx+app3tYL7HC/FvKv4iLjGun4NoM3c7T1s1A2ZOhHJWtGuxwto8IVRUABPkYDlpsa4iu3Av5WqTHdBsXKRkaJx3BOJqVdfGzJOsAQ2EzBSssyQMWid5oILvOsT3TejRBaJLAft3QPhKcXGCshgkpBCDPMPirJmEITXDOyZ1CgrcVyrRa8+ziS9DzakzlCJ4zIO8dbers36huh1Hpg==;gLsMwwq/qutEweTMk5meIg=="
 ---

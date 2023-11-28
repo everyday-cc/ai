@@ -28,75 +28,36 @@ images:
     isCached: true
 
 related:
-  - title: "The top 7 media people in AI"
-    excerpt: "Joy Buolamwini, Algorithmic Justice League Dr. Buolamwini's research found that major tech companies' AI-driven facial recognition tools ... largely due to information they saw on sites like Facebook, Carlton was inspired to study technology and society."
-    publishedDateTime: 2023-11-23T10:45:00Z
-    webUrl: "https://www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11"
-    ampWebUrl: "https://www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11?amp"
+  - title: "What The Fight At Universities Reveals About The Future Of AI and Society"
+    excerpt: "The trouble at universities is a mirror of the trouble in society. AI can make it worse or fix it, depending on our collective choices."
+    publishedDateTime: 2023-11-24T16:31:00Z
+    webUrl: "https://www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-at-universities-reveals-about-the-future-of-ai-and-society/"
+    ampWebUrl: "https://www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-at-universities-reveals-about-the-future-of-ai-and-society/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-at-universities-reveals-about-the-future-of-ai-and-society/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://i.insider.com/655d34449c7d23cb3b9e85ad?width=1200&format=jpeg"
-        width: 800
-        height: 400
+      - url: "https://imageio.forbes.com/specials-images/imageserve/656082929c619314f8c602ee/0x0.jpg?format=jpg&crop=3000,1686,x0,y155,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
         isCached: true
-  - title: "Investing in AI Stocks"
-    excerpt: "The launch of ChatGPT has set off a boom in artificial intelligence ... including automated clinical documentation in healthcare to reduce paperwork and administrative needs."
-    publishedDateTime: 2023-11-25T16:52:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
+  - title: "What Universal Music Group really thinks about generative AI and copyright law…"
+    excerpt: "MBW has digested UMG's revelatory 99-page submission to the US Copyright Office on generative AI. Here's what we've discovered."
+    publishedDateTime: 2023-11-23T18:48:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/what-universal-music-group-really-thinks-about-generative-ai-and-copyright-law/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 33
     images:
-      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.musicbusinessworldwide.com/files/2023/11/MBW-REACTS_face-JKBX.jpg"
+        width: 1358
+        height: 768
         isCached: true
-  - title: "Today in AI: Sam Altman as CEO of OpenAI is strategic win for Nadella, What is AGI? and AWS India AI ready initiative to train people"
-    excerpt: "AGI is more of a general term, referring to Artificial Intelligence that has not been trained to excel ... The cloud service provider also earmarked $12 million for AWS Generative AI Scholarship, wherein it will provide Udacity scholarships to more than ..."
-    publishedDateTime: 2023-11-23T09:37:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-sam-altman-as-ceo-of-openai-is-strategic-win-for-nadella-what-is-agi-and-aws-india-ai-ready-initiative-to-train-people-11799571.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-sam-altman-as-ceo-of-openai-is-strategic-win-for-nadella-what-is-agi-and-aws-india-ai-ready-initiative-to-train-people-11799571.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-sam-altman-as-ceo-of-openai-is-strategic-win-for-nadella-what-is-agi-and-aws-india-ai-ready-initiative-to-train-people-11799571.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 43
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "MONAI medical imaging AI cloud service introduced by NVIDIA"
-    excerpt: "NVIDIA has recently announced the availability of a new hosted cloud service making medical imaging AI analysis and comparison even easier"
-    publishedDateTime: 2023-11-27T11:14:00Z
-    webUrl: "https://www.geeky-gadgets.com/monai-medical-imaging-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/NVIDIA-MONAI-medical-imaging-AI.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "6 Ways AI Allows People To Work Multiple Jobs at the Same Time"
-    excerpt: "Many of the predictions around the rise of artificial intelligence -- specifically \"generative\" AI like ChatGPT -- have bordered on doomsday, at least for the job market. Goldman Sachs, for"
-    publishedDateTime: 2023-11-27T18:00:00Z
-    webUrl: "https://www.aol.com/finance/6-ways-ai-allows-people-160023502.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
 
 secured: "BCuPCx999ozOCNdKPGmjoy6M77TLUbij3liBCZQ0hAGPrEeYngRckjebzeHMNgYmlFQFu4xtRm+s8QBpZr4qVIw76oBf04gpkBgwd1n2j8JWEWPQ3fFM0Lo1ryZJPDBYaWTY3sa2+O+0btN1hsFr687HT8ge29wqR6vwAfZABnqHolbCIQc22vyqvhS9o8FiE5FYcZSZC4Tba9QvhkpjLnn+5IUMQx6Aety+bLrE5pY96bCPXZSeGX2FR2b2nyKwbeoa58EIdEAiVaFISEx4Mju3xO6HG/bbhcdxWhksC4PMgV6ukYSc8n2S+GoY8mq9Otzjbag39+VT3D9V80yuGrvfZbsz2z8pAnDw9Git1+vJDRDPzXW+WOPZg1KEzcV3LPGlPHZVPFFUbSG8Y5AewO4rDjA9Z/RoR2KLsN7Z0t5gY/8y26NAI+KDjAXxyn4yjLKiiynXVfGdbDuYJQ0Zzky/4xvdaUxvTCI1WkLxo/bre9ilSyZUOr6l4GSlw3pO4mPUj4mZleSMMy6XYqwDhA==;YKMkUx6luNsVDw473yXNYA=="
 ---

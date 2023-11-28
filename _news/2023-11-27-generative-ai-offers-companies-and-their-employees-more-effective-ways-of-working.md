@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Three-quarters of finance executives expect generative AI to replace them"
-    excerpt: "NatWest is tapping IBM’s data platform, as well as the IT giant’s Watson AI technology, to create Cora+ as part of its customer support. According recent research from IBM’s Institute for Business Value, over 40% of banking and financial markets ..."
-    publishedDateTime: 2023-11-23T10:03:00Z
-    webUrl: "https://www.computerweekly.com/news/366560698/Three-quarters-of-finance-executives-expect-generative-AI-to-replace-them"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 55
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/large-language-model-LLM-generative-AI-chat-gpt-peopleimagescom-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
 
 secured: "owSh4I3zEFSyrHcA3ggFWZCleeEI5CI7wwZe26eqwzpVqyLiP6Qbb+XdPlhyjmImTc+ywrBnwXdAqdnAo0inguk2ELUYIFPZ5tQ/iNSvNI59a4XjUG5AZK2nRpUFqLR7PWfFDVF/oOZWjCAsz/ZBeUmxAq5Usf1Cde7R4iJqRWgxX0MpfUdc5Y+gCm7VmfnQ8vmGqHXWOkLLVwY5zfEDjYARcThIvhX0EwOU2tr4BisNh2Wg9ezyxc64TKfRETgZtJAwf1JlkkxeSd9dupl098qwL8Lv6NqPXXpKtOh4rIkC+jMCf/b2F+O+J75WU0dH3qzF/WwNlb6/9eQHn74aKfJulhpJd8eXfJXL+SVjyG0=;o7y/SNIzOaSXmcrG9wu0gQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -97,20 +97,6 @@ related:
       - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/11/iStock-1396801868-scaled.jpg"
         width: 2000
         height: 1334
-        isCached: true
-  - title: "Artificial Intelligence in health care"
-    excerpt: "As we move more into the future, artificial intelligence will make more of an impact in the employment landscape and how businesses operate and hire. The Murfreesboro Police Department released ..."
-    publishedDateTime: 2023-11-23T09:30:00Z
-    webUrl: "https://www.wkrn.com/video/artificial-intelligence-in-health-care/9198927/"
-    type: article
-    provider:
-      name: WKRN-TV
-      domain: wkrn.com
-    quality: 41
-    images:
-      - url: "https://www.wkrn.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-        width: 396
-        height: 202
         isCached: true
   - title: "AI expert: 'It’s the age of AI right now in health care'"
     excerpt: "During a routine visit with the medical oncologist, a cancer patient brings up a new symptom that could be a side effect of cancer treatment."

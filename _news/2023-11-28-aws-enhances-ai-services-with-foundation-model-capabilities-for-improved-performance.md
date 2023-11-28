@@ -53,6 +53,22 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "AWS Announces Three Serverless Innovations to Help Customers Analyze and Manage Data at Any Scale"
+    excerpt: "AWS is also releasing a new Amazon Redshift Serverless capability that uses artificial intelligence (AI) to predict workloads and automatically scale and optimize resources to help customers meet their price-performance targets. These announcements build ..."
+    publishedDateTime: 2023-11-27T23:51:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35971971/aws-announces-three-serverless-innovations-to-help-customers-analyze-and-manage-data-at-any-scale"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35971971"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35971971"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "AWS enhances AI services with foundational model capabilities for improved performance"
     excerpt: "Amazon Web Services Inc. today announced a range of new artificial intelligence service capabilities that are ... Amazon’s automatic speech recognition service, is said by AWS to deliver significant accuracy improvement between 20% and 50% across most ..."
     publishedDateTime: 2023-11-28T01:09:00Z

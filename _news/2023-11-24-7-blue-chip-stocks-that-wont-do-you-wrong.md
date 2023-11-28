@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks
 webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-wont-do-you-wrong-1032847711"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "7 Blue-Chip Stocks That Won’t Do You Wrong"
-    excerpt: "After all, blue-chip stocks represent companies that are at the top of their fields. These companies have a track record of doing well,"
-    publishedDateTime: 2023-11-26T01:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/7-blue-chip-stocks-that-wont-do-you-wrong"
+  - title: "3 Robotics Stocks That Could Be Multibaggers in the Making"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The robotics sector is rapidly expanding, promising transformative potential"
+    publishedDateTime: 2023-11-28T10:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-1032853990"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-  - title: "3 Top-Rated AI Stocks That Analysts Are Loving Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) makes people’s lives easier. And"
-    publishedDateTime: 2023-11-28T01:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-top-rated-ai-stocks-that-analysts-are-loving-now-1032852835"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "3 Machine Learning Stocks That Could Be Multibaggers in the Making"
+    excerpt: "As technology advances, more and more specific areas are appearing within the sector, specialized in specific tasks, such as data analysis, artificial intelligence (AI) and machine learning. The last category, by the way, is completely indispensable for ..."
+    publishedDateTime: 2023-11-27T13:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-that-could-be-multibaggers-in-the-making-1032852480"
     type: article
     provider:
       name: Business Insider

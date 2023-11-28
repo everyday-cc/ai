@@ -185,20 +185,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "OpenAI Researchers Reportedly Warned the Board About Possible Artificial Intelligence ‘Breakthrough’ That ‘Could Threaten Humanity’"
-    excerpt: "Staff researchers wrote to the board to warn them of a powerful artificial intelligence discovery that they believed could threaten humanity, as per the sources of the report. This letter and the supposed AI algorithm are believed to be key developments ..."
-    publishedDateTime: 2023-11-23T10:29:00Z
-    webUrl: "https://in.ign.com/tech/198227/news/openai-researchers-reportedly-warned-the-board-about-possible-artificial-intelligence-breakthrough"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 22
-    images:
-      - url: "https://sm.ign.com/t/ign_in/news/s/sam-altman/sam-altman-set-to-return-as-ceo-of-openai-in-dramatic-revers_x3c9.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "BEfcqNWLZn19yn9E1ydb7izxHJEWV1FtbJ1Z2x4cBSyRDseFR0I01dAdbmY8yt/bGTuBPFqu/90eCpgotIlYS0OuQBfAS3wBqimFhY2kwXKfCjAwJzU+dBBzAO7qGHPeuBzOL1v/NCcSG1eZ8cywRO4bwesrl0nUcTgp1ofQPTs0c3rQRFZXmS2g7EGAHO+ir8/u1AWqXLnw6KguU9GMjtDkrGghtBj8x4EY9CJ9RGoUq9nBr+sNhnRJfcA+3BDvTbKgerB8Y3/7GkiGnj17mh/mbjl/2Gma2QCDVAdTRtDf9qIm4Zxw7iS+W4KrYt5ffQmUhhxX0YmhrpowRVF/9we9Hb8IId2DuK81D5AEUHWIZZW6asI8MedlgifK+EDPz0PcxAyoZGoAPfDUWSWx1bBlaSGxy05gDtdvNEDrDg7mvmuh+2NxyMDvfdxwpGE9ykGUuuI2WOXss9SMoTjULE9h3KvrcxkKyUwfzmlIe+k/4etw/QKS66FkT1eVJ5pwuNnsCXbjeD2bwwewB/7X/g==;GhYzKP5XJ8nAIsujqQYbSA=="
 ---

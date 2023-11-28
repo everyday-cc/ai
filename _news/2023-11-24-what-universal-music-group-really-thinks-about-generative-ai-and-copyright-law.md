@@ -40,6 +40,20 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "AI and the Rise of Mediocrity"
+    excerpt: "Read More: Pausing AI Developments Isn't Enough. We Need to Shut it All Down"
+    publishedDateTime: 2023-11-27T12:00:00Z
+    webUrl: "https://time.com/6337835/ai-mediocrity-essay/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/11/ai-mediocrity-sameness-illustration.jpg?quality=85"
+        width: 1847
+        height: 1623
+        isCached: true
 
 secured: "TKGiWKVZFSSHqJ1Bn6bMCeV5iOXb+tUNn4uCsuluMs2m7z3wnCXzxz0vjzkLomV46thLqAYGYJDgARnbChWyzPIrHGA9PjvWntQzH3wYuCAHpa2XROZVk4P8pwIL6GdsE3d1nPetLhGiqT4OZD5Rd3K50dZzaOMw43g081nfMmOTFTLPU2Wlkepv8cRENJNA5VF4bMvqQ1LSaZlDK5dO75DhfEYfLjQJWBT9CsXjxtg7EgiTcbuFM7e94GDVFhoJIDRkj+IcfN+it0VAccA0lg78/L4wBBMJC47iCMIW2+b6cBuQ7AusikkcbQYaDQnFFq+tHtoIIQ2StUSW3eIDlF0rEp60gZvPSFxAwYMF8NM=;oX4tacyZ9KmV4TJpL6cTTw=="
 ---

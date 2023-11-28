@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-14-3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023.md",
+      "title": "3 Machine Learning Stocks You’ll Regret Not Buying Soon: November 2023",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning is revolutionizing industries from healthcare to",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035?op=1",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023-1032815035?op=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T03:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-28-day-mortality-predicted-by-machine-learning-in-patients-with-crc.md",
       "title": "28-Day Mortality Predicted by Machine Learning in Patients With CRC",
       "excerpt": "Critically ill older patients with colorectal cancer (CRC) had their 28-day mortality predicted using machine learning algorithms.",
@@ -1158,42 +1202,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-zeroone-achieves-aws-machine-learning-competency-leading-the-mena-region.md",
-      "title": "Zero&One achieves AWS machine learning competency, leading the MENA region",
-      "excerpt": "This remarkable achievement underscores Zero&One's leadership in harnessing the transformative potential of cloud technology, empowering businesses to unlock new opportunities, enhance operational efficiency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/zero-and-one-achieves-aws-machine-learning-competency-leading-the-mena-region-quwh74gh",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/zero-and-one-achieves-aws-machine-learning-competency-leading-the-mena-region-quwh74gh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T12:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

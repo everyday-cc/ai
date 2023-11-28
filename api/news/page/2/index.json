@@ -2,6 +2,196 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-27-best-robot-vacuum-cyber-monday-deals-roomba-shark-and-more.md",
+      "title": "Best robot vacuum Cyber Monday deals: Roomba, Shark, and more",
+      "excerpt": "With so many robot vacuum deals going on this Cyber Monday, we've picked out some of our favorite deals for every budget.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/",
+      "originalUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/09/Digital-Trends-Best-Cyber-Monday-Robot-Vacuum-Deals.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/?amp",
+      "publishedDateTime": "2023-11-27T07:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-the-10-most-in-demand-skills-in-2024.md",
+      "title": "The 10 Most In-Demand Skills In 2024",
+      "excerpt": "Discover the top 10 skills that will dominate the job market in 2024, and learn why these skills are not just essential for future success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6564411aae52b0d21bf9dacd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/amp/",
+      "publishedDateTime": "2023-11-27T06:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-revolutionizing-steel-mill-operations-with-ai-vision.md",
+      "title": "Revolutionizing Steel Mill Operations with AI Vision",
+      "excerpt": "Synopsis: Primetals Technologies pioneers AI-driven computer vision to detect strip cross cracks, reducing downtime and equipment damage at thyssenkrupp Hohenli",
+      "sourceUrl": null,
+      "webUrl": "https://www.steelguru.com/steel/revolutionizing-steel-mill-operations-with-ai-vision",
+      "originalUrl": "https://www.steelguru.com/steel/revolutionizing-steel-mill-operations-with-ai-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/steelguru%2F2023-11%2F2729572e-f360-450c-9e29-a4b25a32723a%2FThyssenkrupp.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
+          "width": 564,
+          "height": 327,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.steelguru.com/amp/story/steel/revolutionizing-steel-mill-operations-with-ai-vision",
+      "cdnAmpWebUrl": "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/steel/revolutionizing-steel-mill-operations-with-ai-vision",
+      "publishedDateTime": "2023-11-27T05:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Steel News",
+        "domain": "steelguru.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-ai-powered-robot-figures-out-how-to-make-oxygen-on-mars.md",
+      "title": "AI-Powered Robot Figures Out How to Make Oxygen on Mars",
+      "excerpt": "A new study recently published in Nature Synthesis details the steps taken for the aforementioned robot to come up with a process to make oxygen out of materials readily available on Mars. Using meteorites scientists think come from the Red Planet, the \"robotic chemist\" has able to create the primary element necessary for human life.",
+      "sourceUrl": null,
+      "webUrl": "https://comicbook.com/irl/news/mars-oxygen-created-ai-robot-study/",
+      "originalUrl": "https://comicbook.com/irl/news/mars-oxygen-created-ai-robot-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2023/02/28/4b1b5e2a-4ba6-49e2-a0b8-b0b56dca730e/wendys-sign.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/irl/amp/news/mars-oxygen-created-ai-robot-study/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/mars-oxygen-created-ai-robot-study/",
+      "publishedDateTime": "2023-11-27T04:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-27-google-expands-bards-youtube-integration-to-answer-question-about-videos.md",
       "title": "Google Expands Bard’s YouTube Integration To Answer Question About Videos",
       "excerpt": "In a recent update shared by Google, Bard AI expanded its understanding of YouTube videos. Google’s generative AI LLM is now equipped to respond to specific inquiries directly related to the content of a video, allowing users to ask Bard questions about a certain video. It can also summarize a video simply by inputing the YouTube URL.",
@@ -155,7 +345,7 @@
       "originalUrl": "https://www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -556,7 +746,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/11/216918-indonesia-central-bank-issues-ethical-guidelines-on-ai-for-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -600,7 +790,7 @@
       "originalUrl": "https://www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -947,49 +1137,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-25-clearview-ai-tops-40-billion-reference-images-in-facial-recognition-database.md",
-      "title": "Clearview AI tops 40 billion reference images in facial recognition database",
-      "excerpt": "Clearview AI’s reference database for facial recognition searches has surpassed 40 billion images, double its volume of just 20 months ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202311/clearview-ai-tops-40-billion-reference-images-in-facial-recognition-database",
-      "originalUrl": "https://www.biometricupdate.com/202311/clearview-ai-tops-40-billion-reference-images-in-facial-recognition-database",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/04/04171202/shutterstock_2164724765-scaled.jpg",
-          "width": 2048,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-24T21:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-24-accelerating-aiml-development-at-bmw-group-with-amazon-sagemaker-studio.md",
       "title": "Accelerating AI/ML development at BMW Group with Amazon SageMaker Studio",
       "excerpt": "This post is co-written with Marc Neumann, Amor Steinberg and Marinus Krommenhoek from BMW Group. The BMW Group – headquartered in Munich, Germany – is driven by 149,000 employees worldwide and manufactures in over 30 production and assembly facilities across 15 countries. Today, the BMW Group is the",
@@ -1040,153 +1187,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-24-automating-product-description-generation-with-amazon-bedrock.md",
-      "title": "Automating product description generation with Amazon Bedrock",
-      "excerpt": "In today’s ever-evolving world of ecommerce, the influence of a compelling product description cannot be overstated. It can be the decisive factor that turns a potential visitor into a paying customer or sends them clicking off to a competitor’s site. The manual creation of these descriptions across",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/24/Picture1-5-2-1101x630.jpg",
-          "width": 1101,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-24T17:36:10Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-25-nvidia-shares-fall-after-china-ai-chip-is-delayed.md",
-      "title": "Nvidia shares fall after China AI chip is delayed",
-      "excerpt": "Citing two sources familiar with the matter, Reuters writes that the delayed chip is the H20, the most powerful of three AI-focused products Nvidia has developed",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/100955-nvidia-shares-fall-after-new-china-focused-ai.html",
-      "originalUrl": "https://www.techspot.com/news/100955-nvidia-shares-fall-after-new-china-focused-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-24-image-18.jpg",
-          "width": 4686,
-          "height": 2661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-24T17:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-25-tesla-preparing-to-launch-full-self-driving-beta-in-china.md",
-      "title": "Tesla Preparing To Launch “Full Self-Driving” Beta In China",
-      "excerpt": "A new report suggests that Tesla will launch the FSD Beta in China with the release of version 12 of the software",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/",
-      "originalUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2023/11/Tesla-China.jpg",
-          "width": 2250,
-          "height": 1265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/11/tesla-preparing-to-launch-full-self-driving-beta-in-china/amp/",
-      "publishedDateTime": "2023-11-24T16:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

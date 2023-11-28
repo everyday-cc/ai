@@ -23,19 +23,10 @@ topics:
   - AI
 
 related:
-  - title: "7 Blue-Chip Stocks That Won’t Do You Wrong"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors are barreling toward the end of 2023 – and whoever thought"
-    publishedDateTime: 2023-11-24T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-wont-do-you-wrong-1032847711"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "7 Blue-Chip Stocks That Won’t Do You Wrong"
-    excerpt: "After all, blue-chip stocks represent companies that are at the top of their fields. These companies have a track record of doing well,"
-    publishedDateTime: 2023-11-26T01:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/7-blue-chip-stocks-that-wont-do-you-wrong"
+  - title: "Top AI Stocks To Buy Right Now? 2 To Watch"
+    excerpt: "Investing in AI stocks offers potential for significant growth, given the technology’s expanding role in the global economy. However, it’s important to understand the risks involved. AI is a complex and evolving field, making it vital for investors to stay informed about industry trends and company-specific developments."
+    publishedDateTime: 2023-11-24T14:46:00Z
+    webUrl: "https://www.nasdaq.com/articles/top-ai-stocks-to-buy-right-now-2-to-watch"
     type: article
     provider:
       name: Nasdaq

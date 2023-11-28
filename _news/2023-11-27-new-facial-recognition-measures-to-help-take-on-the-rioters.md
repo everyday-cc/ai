@@ -7,7 +7,7 @@ originalUrl: "https://extra.ie/2023/11/27/news/irish-news/facial-recognition-mea
 webUrl: "https://extra.ie/2023/11/27/news/irish-news/facial-recognition-measures-rioters"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,48 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "Greens request sight of plan to expand facial recognition technology use"
-    excerpt: "The Green Party has said it wants to see the detail of a proposed expansion of the use of facial recognition technology (FRT) being mooted in the wake of unrest in Dublin city centre last week."
-    publishedDateTime: 2023-11-27T05:59:00Z
-    webUrl: "https://www.irishtimes.com/ireland/2023/11/27/greens-request-sight-of-plan-to-expand-facial-recognition-technology-use/"
+  - title: "Clear will upgrade to facial recognition for airport security"
+    excerpt: "The Clear registered-travel program will begin using facial recognition technology at its airport security lanes over the course of 2024."
+    publishedDateTime: 2023-11-28T05:00:00Z
+    webUrl: "https://www.travelweekly.com/Travel-News/Airline-News/clear-to-upgrade-to-facial-recognition"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 38
+      name: Travel Weekly
+      domain: travelweekly.com
+    quality: 71
     images:
-      - url: "https://www.irishtimes.com/resizer/7S2UsrSZ6BxAblskpwTciM7hwBg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/7C7QMESN6QFAENLVWHCTVBEMZQ.jpg"
+      - url: "https://ik.imgkit.net/3vlqs5axxjf/TW/uploadedImages/Art/2023/1204/T1204CLEAR_C.jpg?tr=w-1200%2Cfo-auto"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "‘It’s a major deterrent’ - Government hoping to fast-track facial recognition"
-    excerpt: "Legislation to introduce facial recognition technology for Gardaí is due to be approved “very shortly”, according to one Minister"
-    publishedDateTime: 2023-11-27T11:25:00Z
-    webUrl: "https://www.newstalk.com/news/its-a-major-deterrent-government-hoping-to-fast-track-facial-recognition-1618309"
-    type: article
-    provider:
-      name: Newstalk
-      domain: newstalk.com
-    quality: 36
-    images:
-      - url: "https://media.radiocms.net/uploads/2023/11/23221859/Dublin-City-Riots-14_90693614.jpg"
-        width: 1920
-        height: 1329
-        isCached: true
-  - title: "French politicians vow legal action on alleged illegal facial recognition use by police"
-    excerpt: "Left-wing populist party La France Insoumise are calling for a parliamentary commission of inquiry to be set up to dig into the matter."
-    publishedDateTime: 2023-11-23T16:46:00Z
-    webUrl: "https://www.biometricupdate.com/202311/french-politicians-vow-legal-action-on-alleged-illegal-facial-recognition-use-by-police"
+  - title: "Clearview AI tops 40 billion reference images in facial recognition database"
+    excerpt: "Clearview AI’s reference database for facial recognition searches has surpassed 40 billion images, double its volume of just 20 months ago."
+    publishedDateTime: 2023-11-24T21:14:00Z
+    webUrl: "https://www.biometricupdate.com/202311/clearview-ai-tops-40-billion-reference-images-in-facial-recognition-database"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 31
+    quality: 51
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/04/04171202/shutterstock_2164724765-scaled.jpg"
         width: 2048
-        height: 1365
+        height: 1152
         isCached: true
+  - title: "Tesla EVs Will Use Facial Recognition for Personalized Settings and Safety Decisions"
+    excerpt: "Tesla cabin cameras will become more helpful if Tesla's recent patent is implemented in production vehicles. Tesla plans to use facial recognition"
+    publishedDateTime: 2023-11-28T10:25:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-evs-will-use-facial-recognition-for-personalized-settings-and-safety-decisions-225208.html"
+    type: article
+    provider:
+      name: autoevolution
+      domain: autoevolution.com
+    quality: 49
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-evs-will-use-facial-recognition-for-personalized-settings-and-safety-decisions-225208_1.jpeg"
+        width: 2550
+        height: 1700
+        isCached: true
+  - title: "Clearview AI tops 40B reference images in facial recognition database"
+    excerpt: "Clearview AI’s reference database for facial recognition searches has surpassed 40 billion images, double its volume of just 20 months ago."
+    publishedDateTime: 2023-11-24T19:23:00Z
+    webUrl: "https://www.biometricupdate.com/202311/clearview-ai-tops-40b-reference-images-in-facial-recognition-database"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+  - title: "European port deploys facial recognition to tackle drug trade"
+    excerpt: "The first visitor screening system using facial recognition technology has been introduced to a Belgian terminal to combat the surge in drug smuggling at Europe’s biggest ports."
+    publishedDateTime: 2023-11-23T13:23:00Z
+    webUrl: "https://www.tradewindsnews.com/technology/european-port-deploys-facial-recognition-to-tackle-drug-trade/2-1-1559540"
+    type: article
+    provider:
+      name: TradeWinds
+      domain: tradewindsnews.com
+    quality: 19
 
 secured: "Sl1wW0wlWOCfnH/7W2ptg9a2Xf8zHqGnDjfnzoqKeDfDsSOv6FdUCUhV347s7wyZtX1FIVWmgQg/zrGq/0m0gWznUr5sLhtN2HYSB0xsWLZ5+DdSsEfp9/l7YdgaYZEjz5aUrn5xyNgnYX57bQIXPCuwzdwYi3FW5xueWG3L8v2haKGd2jik0jlfItGPxNokgDXBZIJt0sb3OgUonWMYJfq5/AAPgQKkukY/bK2lKNDLGLkAgBhS2DgzjBgkgvQXN7cgKx/fZNP1w4JzCzTzyQK9q9IRsA7zAVHffN9KOpXW11VtoZEuH6JnEYNDgrcZYJsjqom11TQBvkZuiBLaVAacsyrlpf2u3aM3UXZAbpo=;ucYsh+eqWqHWodSWrkVihA=="
 ---

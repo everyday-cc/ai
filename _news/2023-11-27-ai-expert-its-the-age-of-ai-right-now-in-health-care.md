@@ -108,20 +108,6 @@ related:
         width: 2000
         height: 1334
         isCached: true
-  - title: "Artificial Intelligence in health care"
-    excerpt: "As we move more into the future, artificial intelligence will make more of an impact in the employment landscape and how businesses operate and hire. The Murfreesboro Police Department released ..."
-    publishedDateTime: 2023-11-23T09:30:00Z
-    webUrl: "https://www.wkrn.com/video/artificial-intelligence-in-health-care/9198927/"
-    type: article
-    provider:
-      name: WKRN-TV
-      domain: wkrn.com
-    quality: 41
-    images:
-      - url: "https://www.wkrn.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-        width: 396
-        height: 202
-        isCached: true
   - title: "IU experts speak on the role AI plays in the health care system"
     excerpt: "Artificial intelligence continues to play a huge role in the health care industry. Experts speak on the benefits and drawbacks the tech may have."
     publishedDateTime: 2023-11-27T00:23:00Z

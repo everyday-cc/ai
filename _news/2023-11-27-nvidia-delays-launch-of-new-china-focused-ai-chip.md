@@ -284,20 +284,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Nvidia dominates AI market, where are the limits to its growth?"
-    excerpt: "Nvidia again presented quarterly results last Tuesday that were above experts' expectations. Still, investors are wondering whether the company's"
-    publishedDateTime: 2023-11-23T10:43:00Z
-    webUrl: "https://www.techzine.eu/news/devices/113601/nvidia-dominates-ai-market-where-are-the-limits-to-its-growth/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
     excerpt: "The Global X Robotics & Artificial Intelligence ETF received $35.5 million in net inflows in the week ending on Wednesday, its strongest since June earlier this year, according to Lipper data."
     publishedDateTime: 2023-11-24T05:11:00Z
@@ -311,6 +297,20 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/15956a8a29bc3c93c3b3f2c772ea148e"
         width: 800
         height: 533
+        isCached: true
+  - title: "MONAI medical imaging AI cloud service introduced by NVIDIA"
+    excerpt: "NVIDIA has recently announced the availability of a new hosted cloud service making medical imaging AI analysis and comparison even easier"
+    publishedDateTime: 2023-11-27T11:14:00Z
+    webUrl: "https://www.geeky-gadgets.com/monai-medical-imaging-ai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/NVIDIA-MONAI-medical-imaging-AI.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Nvidia revenues soar amid hyperscaler AI rush"
     excerpt: "The chipmaker's products underpin the AI services at the center of an enterprise adoption wave, but research and development are still underway."

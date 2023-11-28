@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-28-3-robotics-stocks-that-could-be-multibaggers-in-the-making.md",
+      "title": "3 Robotics Stocks That Could Be Multibaggers in the Making",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The robotics sector is rapidly expanding, promising transformative potential",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-1032853990",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-1032853990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T10:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-28-new-method-uses-crowdsourced-feedback-to-help-train-robots.md",
       "title": "New method uses crowdsourced feedback to help train robots",
       "excerpt": "A new technique enables an AI agent to be guided by data crowdsourced asynchronously from nonexpert human users as it learns to complete a task through reinforcement learning. The method trains the robot faster and better than other approaches.",
@@ -1242,49 +1285,6 @@
       "provider": {
         "name": "WESA",
         "domain": "wesa.fm",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup.md",
-      "title": "Sharechat co-founders raise $3 million from India Quotient, Elevation Capital for robotics startup",
-      "excerpt": "P.S. If you're as passionate about robotics as we are, reach out, connect, and let's build something extraordinary together.” The round comes at a time when internet startups are struggling to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/09/Artificial-Intelligence.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html/amp",
-      "publishedDateTime": "2023-11-13T22:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null

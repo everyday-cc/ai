@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Artificial intelligence: an opportunity or a risk?"
-excerpt: "\"Dialogue\" is an offer by the SBC. Artificial intelligence is more and more present in different areas of our lives. Is AI an opportunity or a threat? Join the multilingual discussion on the \"dialogue\" platform."
-publishedDateTime: 2023-11-16T06:30:00Z
-originalUrl: "https://www.swissinfo.ch/eng/sci-tech/artificial-intelligence--an-opportunity-or-a-risk-/48981440"
-webUrl: "https://www.swissinfo.ch/eng/sci-tech/artificial-intelligence--an-opportunity-or-a-risk-/48981440"
+title: "Artificial Intelligence: An Opportunity Or A Risk?"
+excerpt: "The original read: \"Berset still has to fix it.\" What artificial intelligence produces can be funny, sometimes even bizarre. However, it gets serious when a so-called chatbot suddenly advises a man to commit suicide or a self-driving car causes an accident."
+publishedDateTime: 2023-11-16T09:25:00Z
+originalUrl: "https://menafn.com/1107436957/Artificial-Intelligence-An-Opportunity-Or-A-Risk"
+webUrl: "https://menafn.com/1107436957/Artificial-Intelligence-An-Opportunity-Or-A-Risk"
 type: article
 
 provider:
-  name: Swissinfo
-  domain: swissinfo.ch
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.swissinfo.ch/resource/image/48981442/landscape_ratio16x9/1920/1080/72fa7e42ddee3d54f275baebd42891e5/C0172CBB82A087B2CD6FC30F954AC6E3/template_dialog--3-.png"
-    width: 1920
-    height: 1080
+  - url: "https://menafn.com/updates/pr/2023-11/16/S_d738fimage_story.png"
+    width: 960
+    height: 540
     isCached: true
 
-secured: "wC13EkVfYL/kSJw9/EehuGefOvdhaFvGoag87DFCjQ8IyEtpr1ckWPOOm8uGDGLx83YRbm55ch8BAuCiWYda1u3Odw1J8l09pqRDFDhz2D2y4b7+MwOnhyyu9LJIdwW5pJjcMcDLOZSQSXbAfbdWzUBqtzxt6sC49NA3zfYo5lPRg4b+bMP8Ldau9L6l9wdhGjanly+nBJl2zsXgJhs5xjnImTL0lfY0C5QsHIRennscH4zoRzukOINKxMstM6OeN6/y5T8s4fkh51nSSxGODhSkOkt/yqBw8QfefCtnDS9A3weZXA0pHurY+32l1ozNH5E/K9x5pAQsDdEW64NIe+bIRoaVJHfzoDFtxXUVATF1zuyvY4veJEDiD56PNkEJbaDXLr+Bc9UkH8X3OxEf3DhvKqWEB96L8ZKYqTbLemKCfuGzg3fXUfOXuft6Fu45bF2WwiWFBJ0goKEEeVMP8tdVUPTLNhZPODKCfFV3r21Xt3wMvBPnT314OEenraQvWMsDF2dvDYLJelAH/Xb0Wg==;zspi/L4PgUv0JLr14nee6Q=="
+secured: "NcHSbbcKmCAnUz3pOLYtXTrdDt6rxa0a/Im7qhUL+AJgtrDB1rhlPNaaxbK8PmZozD8d1k1Wud5W0uuWCMrKmQkICDXYjLasu2mOi6d2QdhIqtmS/g2zZiwMHPIRhvhxqrdWJ+sSTRx2OQxZpB/V8AKj5+J0w7pMjXUx9BuF8gur6hhhs5To1fa8FLKA6fbzzEbntHeiFgamCSnweTWag+NgHS4g/e09RHa3fsK0wYE4eycxNyaEt8DWhVmi5i9qa0D89RiQeIXZkoQ3w5IBTFu5aGISSzSN3ocAU33U6SDHNS2R2KalbBd+hKj8WLGpy2jSXVVA9u0VGBPP8Mxy6GPsgyt6TidpWz8SRqJ7o6o=;prlwbu3ggEP2UFEVIVzjeA=="
 ---
 

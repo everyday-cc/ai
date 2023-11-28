@@ -105,6 +105,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Sports Illustrated suffers ‘insane fall from grace’ after being called out for using AI-generated content on its site"
+    excerpt: "A major media brand has been accused of publishing articles by fake writers, generated with artificial intelligence, in what loyal readers have slammed as an “insane fall from grace”."
+    publishedDateTime: 2023-11-28T10:11:00Z
+    webUrl: "https://www.news.com.au/sport/more-sports/sports-illustrated-suffers-insane-fall-from-grace-after-being-called-out-for-using-aigenerated-content-on-its-site/news-story/4cbf1e0483d1280a425fe158b788c694"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 0
 
 secured: "CVGyM9Fk8bq+q9MlnR1pYZbiGy/I+JdV+UpEt71jaLG9aa0+elm5LRZ5WQiz5ahyQ6PJ2J4nfjhzm1zvAC2FrlBkhf0TnT82TrSY3TTzjJMLMQz/Es2tZOm1bCzmW3ylboue7Y9Mtne/SV9ZKlpwPXHS/uT6bCeBwKgltFMeZYQm2UxavwYBV4Pq7B3ko4EReAZRAHPU+4OvL9++AkiDFmgTNrDqhzlLwlX6589BUSAMT8UqIsWQNpe2QSE4b3VVcYTzKdUi/XFjCZUQVPM866ABp4NzMX/ejJlb18fwjlgVhO+3X/xaKyUGAnK/J1uIqnUW332fYOevE0h3ZFZGnoyuhuGnLx9qGtdLWhL0pi8jyATv/rYO5mZnQEF38y4/Ygq7svImkMut/I2/XbbIuizJS7raNSziiBcDKbN+ysr5sLmKXZPEYaG+vgNL2Hh8TR+BNimdjrriONEOTkCx38iGS8A9XI/ltEHVrmyWq83fMdAqJ7WnDtu+CUXpzwaf3LIrT+j+ZftWglSVUm81aw==;y8E7oko5+sDolYRjgDtbmA=="
 ---

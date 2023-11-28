@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-28-clear-will-upgrade-to-facial-recognition-for-airport-security.md",
+      "title": "Clear will upgrade to facial recognition for airport security",
+      "excerpt": "The Clear registered-travel program will begin using facial recognition technology at its airport security lanes over the course of 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.travelweekly.com/Travel-News/Airline-News/clear-to-upgrade-to-facial-recognition",
+      "originalUrl": "https://www.travelweekly.com/Travel-News/Airline-News/clear-to-upgrade-to-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ik.imgkit.net/3vlqs5axxjf/TW/uploadedImages/Art/2023/1204/T1204CLEAR_C.jpg?tr=w-1200%2Cfo-auto",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Travel Weekly",
+        "domain": "travelweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-11-27-ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024.md",
       "title": "AI-Powered Robotics: Exploring the Latest Innovations and Applications in 2024",
       "excerpt": "Introduction: In the fast-paced landscape of technology, artificial intelligence (AI) continues to revolutionize industries, and the field of robotics is no exception. Furthermore, as we delve into the year 2024,",
@@ -175,49 +219,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-25-clearview-ai-tops-40-billion-reference-images-in-facial-recognition-database.md",
-      "title": "Clearview AI tops 40 billion reference images in facial recognition database",
-      "excerpt": "Clearview AI’s reference database for facial recognition searches has surpassed 40 billion images, double its volume of just 20 months ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202311/clearview-ai-tops-40-billion-reference-images-in-facial-recognition-database",
-      "originalUrl": "https://www.biometricupdate.com/202311/clearview-ai-tops-40-billion-reference-images-in-facial-recognition-database",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/04/04171202/shutterstock_2164724765-scaled.jpg",
-          "width": 2048,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-24T21:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-24-formula-one-trials-ai-to-tackle-track-limits-breaches.md",
       "title": "Formula One trials AI to tackle track limits breaches",
       "excerpt": "The AI will sort out the genuine breaches ... violations at turn six was \"completely unsatisfactory\" and a solution needed to be found before the start of next season. Tim Malyon, the FIA's head of remote operations and deputy race director, said the ...",
@@ -226,7 +227,7 @@
       "originalUrl": "https://www.reuters.com/sports/motor-sports/formula-one-trials-ai-tackle-track-limits-breaches-2023-11-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {

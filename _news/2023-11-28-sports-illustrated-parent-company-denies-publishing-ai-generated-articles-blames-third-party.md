@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/sports/sports-illustrated-parent-company-den
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/sports-illustrated-parent-company-denies-publishing-ai-generated-articles-blames-third-party.amp"
 type: article
 quality: 76
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -110,6 +110,15 @@ related:
       name: Augusta Free Press
       domain: augustafreepress.com
     quality: 17
+  - title: "Sports Illustrated suffers ‘insane fall from grace’ after being called out for using AI-generated content on its site"
+    excerpt: "A major media brand has been accused of publishing articles by fake writers, generated with artificial intelligence, in what loyal readers have slammed as an “insane fall from grace”."
+    publishedDateTime: 2023-11-28T10:11:00Z
+    webUrl: "https://www.news.com.au/sport/more-sports/sports-illustrated-suffers-insane-fall-from-grace-after-being-called-out-for-using-aigenerated-content-on-its-site/news-story/4cbf1e0483d1280a425fe158b788c694"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 0
 
 secured: "2bQcFc8FpanEzK3y5iNVFTvCbEDDmg0RWz8EJXy+xop1ow6hozKV1vWZVQy5Sxk3DwbQi4RQm6MiBKKPcDS32be62qQHqPuhqCF6VrxTBESWZ9bk3iwVwv3jwky6Db2nKeMXTN3MvZnjakS/1qdAhLGd4ZbsclU5I+ue64bVjehDkaa4AmLTfqk10lGLQ6/6xYkoKvu98t8tMKs7WBEkTobN3XBYhj7vnJ2uSdPxjF+5QWA6lw2KipjGqhMrtgn6u5gOPEeYJWK0FkMLYaxCvaLtyd+ynt58zhu3WCUedluETS1vk/pphQatJLYvQQrJFvutrTXfNrgqY1RUI0Cx98ixmTVJor6qegdJqanHjFc=;7NlPhqmnOBg+9x2mZVgdDA=="
 ---

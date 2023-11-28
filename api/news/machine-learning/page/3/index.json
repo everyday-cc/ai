@@ -2,6 +2,42 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-31-zeroone-achieves-aws-machine-learning-competency-leading-the-mena-region.md",
+      "title": "Zero&One achieves AWS machine learning competency, leading the MENA region",
+      "excerpt": "This remarkable achievement underscores Zero&One's leadership in harnessing the transformative potential of cloud technology, empowering businesses to unlock new opportunities, enhance operational efficiency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/zero-and-one-achieves-aws-machine-learning-competency-leading-the-mena-region-quwh74gh",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/zero-and-one-achieves-aws-machine-learning-competency-leading-the-mena-region-quwh74gh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T12:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-ai-and-machine-learning-in-uk-financial-services-the-public-response-to-the-fca-and-pra.md",
       "title": "AI and Machine Learning in UK financial services: the public response to the FCA and PRA",
       "excerpt": "in financial services and mentioned a joint paper published by the Prudential Regulation Authority (PRA) and Financial Conduct Authority (FCA) on AI and machine learning DP5/22 - Artificial Intelligence and Machine Learning | Bank of England (DP).",
@@ -1236,59 +1272,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler.md",
-      "title": "Automatically redact PII for machine learning using Amazon SageMaker Data Wrangler",
-      "excerpt": "Customers increasingly want to use deep learning approaches such as large language models (LLMs) to automate the extraction of data and insights. For many industries, data that is useful for machine learning (ML) may contain personally identifiable information (PII). To ensure customer privacy and maintain",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/sagemaker-pipelines.png",
-          "width": 811,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T16:57:49Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

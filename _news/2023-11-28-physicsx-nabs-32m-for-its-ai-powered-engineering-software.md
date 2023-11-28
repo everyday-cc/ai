@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/11/27/physicsx-nabs-32m-ai-powered-e
 webUrl: "https://siliconangle.com/2023/11/27/physicsx-nabs-32m-ai-powered-engineering-software/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,42 @@ images:
     width: 718
     height: 400
     isCached: true
+
+related:
+  - title: "Google Alum's Biotech Startup Cradle Raises $24M To Boost AI-Powered Protein Design And Engineering"
+    excerpt: "Dutch biotech startup Cradle has raised $24 million in Series A funding as it looks to boost its protein design and engineering process."
+    publishedDateTime: 2023-11-28T09:10:00Z
+    webUrl: "https://www.benzinga.com/general/biotech/23/11/35973584/google-alums-biotech-startup-cradle-raises-24m-to-boost-ai-powered-protein-design-and-engineering"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35973584"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35973584"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Cradle-Biotech-Logo.png?width=1200&height=800&fit=crop"
+        width: 873
+        height: 582
+        isCached: true
+  - title: "Eu­ro­pean AI start­up rais­es $24M for pro­tein de­sign soft­ware ser­vice"
+    excerpt: "A European startup is betting that drug companies big and small will look to outsource artificial intelligence expertise that can help design new protein-based medicines. Cradle said Monday that it ra"
+    publishedDateTime: 2023-11-28T00:01:00Z
+    webUrl: "https://endpts.com/european-ai-startup-raises-24m-for-protein-design-software-service/"
+    type: article
+    provider:
+      name: ENDPOINTS NEWS
+      domain: endpts.com
+    quality: 15
+  - title: "Biotech startup Cradle raises $24 million Series A to accelerate AI technology"
+    excerpt: "Cradle, the biotech startup using generative AI to help scientists design and engineer proteins, has raised $24 million in Series A funding."
+    publishedDateTime: 2023-11-23T13:36:00Z
+    webUrl: "https://www.biopharma-reporter.com/Article/2023/11/23/biotech-startup-cradle-raises-24-million-series-a-to-accelerate-ai-technology?aca_news_section=Global+Industry+News"
+    type: article
+    provider:
+      name: biopharma-reporter
+      domain: biopharma-reporter.com
+    quality: 13
 
 secured: "sXaxGWqe1Su1aJPj9AYwSzq3znEA/ISpDEpcNalRWgZH+ZR9ZQhTw/PLDmBDz/Z00WIIGhC/b34NTwQ65Z/73lQKL5/bOQTbIhWm4KezttCeiD6pgT9+VjsHbh0agsurRGXdQs3ULJf6Cq7Pjn9tlKnXRTmjsuTT6hV+8qpKxvBxfQYRVFymt0bH73d31WKcnNtmB1vqoOUky84QBSywB5ecO6mWay5O/ohYtOtFhqVH6P2yhJapYh9EqhNjNinU5de7woKoUvwm0FHGkpXaxbsIutW4amaTzyo5hyG9Sp66yHMTovaAGoJFVVhPQ3MGHyOWQfx29DyPyCRO4UgF8RzFxI5OWDdzyfpFLi5pTpWPrw0VThauSi4P7MMu897YhQ8zC6Jk8ODwHEsKYAGsO/+ZYOfYxmuaeRtJNBEFXVV13IgamMwOw5pSXQUWXpRC7YepqL3REQgUdYFxgwq++Hw3crjqDIhks6PQvdxSlRLuaPU+eP/TI9R4xzP16NW4L2y1dN8B9WwqHgfvmhGlZQ==;rzrCq7F3/hhGAqkCJ0OhMQ=="
 ---

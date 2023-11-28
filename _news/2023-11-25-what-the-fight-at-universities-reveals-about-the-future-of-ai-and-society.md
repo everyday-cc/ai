@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-at-universities-reveals-about-the-future-of-ai-and-society/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI and the Rise of Mediocrity"
+    excerpt: "Read More: Pausing AI Developments Isn't Enough. We Need to Shut it All Down"
+    publishedDateTime: 2023-11-27T12:00:00Z
+    webUrl: "https://time.com/6337835/ai-mediocrity-essay/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/11/ai-mediocrity-sameness-illustration.jpg?quality=85"
+        width: 1847
+        height: 1623
+        isCached: true
   - title: "What Universal Music Group really thinks about generative AI and copyright law…"
     excerpt: "MBW has digested UMG's revelatory 99-page submission to the US Copyright Office on generative AI. Here's what we've discovered."
     publishedDateTime: 2023-11-23T18:48:00Z

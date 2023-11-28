@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-to-apply-natural-language-processin
 webUrl: "https://venturebeat.com/ai/how-to-apply-natural-language-processing-to-cybersecurity/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -80,15 +80,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "CISA Roadmap for AI Cybersecurity: Defense of Critical Infrastructure, “Secure by Design” AI Prioritized"
-    excerpt: "CISA has released a roadmap establishing four overarching broad goals, with five more specific lines of effort that appear to indicate concrete immediate priorities. Defensive AI cybersecurity measures and plans for critical infrastructure adoption are repeating themes."
-    publishedDateTime: 2023-11-23T11:00:00Z
-    webUrl: "https://www.cpomagazine.com/cyber-security/cisa-roadmap-for-ai-cybersecurity-defense-of-critical-infrastructure-secure-by-design-ai-prioritized/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 2
 
 secured: "jgXIijYJsxTtgKrvdNss6jGJNJzUm0A2y041E4T+32DfjuAgTuZAD97U8ODeyr9lELT+C4pkHxoNx5pCX8MFj5n/5d+a0YxgytzYMbfXG/fuH7r7I6Oqnw6mykR4Khp488VnT3PO83x1jmQRZC49sSiMHMGjsYvKWOJhhXgOTl96zrsfe1o0ITe6YBRisknh385r7/7xgeWjFFE5pFCg2fHyliaaNhaxFYhgLH/5xjxX7AZ95d+hY7EHxiJ2CzLzZcTlKWIKSZBhshMkzHXMkIgbK1iLoxawuVsfuqCvkt9jMns1LSj+r+R7lthCgQeir6FxkL7yKrrGb8kPWwO93puZnTY4LpsWjyBRxmKAkaE=;RyD+xGaxB8v9/DXfV6To6w=="
 ---

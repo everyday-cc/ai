@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Kaleidofin: Fintech platform for the women, by the women"
-    excerpt: "Chennai-headquartered financial technology platform Kaleidofin helps under-banked customers, particularly women, meet their real-life goals by providing tailored financial solutions"
-    publishedDateTime: 2023-11-23T09:24:00Z
-    webUrl: "https://www.forbesindia.com/article/startups/kaleidofin-fintech-platform-for-the-women-by-the-women/89893/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/startups/kaleidofin-fintech-platform-for-the-women-by-the-women/89893/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/startups/kaleidofin-fintech-platform-for-the-women-by-the-women/89893/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 44
-    images:
-      - url: "https://www.forbesindia.com/media/images/2023/Nov/img_223301_sucharitamukherjee.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Quasar Markets Wins 2023 Benzinga Fintech Award"
     excerpt: "Quasar Markets' Innovative Fusion of AI, Web3, and Finance Makes Waves at the 2023 Benzinga Fintech AwardsNew York, New York--(Newsfile Corp. -) - Quasar Markets stands out in fintech for its"
     publishedDateTime: 2023-11-26T01:26:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/tech-mahindra-
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/tech-mahindra-launches-a-sports-cloud-platform-built-on-aws-hvmlx4ym?amp=1"
 type: article
 quality: 59
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: Zawya
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tech Mahindra and AWS Partner to Amplify Fan Sporting Experience Globally"
+    excerpt: "The platform will also use AWS native services, AWS Elemental MediaLive, AWS Elemental MediaConvert, Amazon Kinesis Data Streams, Amazon Managed Blockchain, and Amazon SageMaker. You want to cultivate an amiable atmosphere at work with your team."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/tech-mahindra-and-aws-partner-to-amplify-fan-experience/466002"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 68
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1701167284-Hithere1.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Tech Mahindra to build sports cloud platform on AWS"
     excerpt: "The platform will build next-generation digital capabilities for sports organisations and deliver immersive sports experiences worldwide."
     publishedDateTime: 2023-11-27T10:18:00Z
@@ -80,15 +94,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "HDFC Securities launches mobile trading app HDFC SKY on AWS cloud"
-    excerpt: "Amazon Web Services (AWS) on Monday said HDFC Securities, which is among the leading investment service providers in India, has launched its mobile trading app, HDFC SKY on the AWS cloud."
-    publishedDateTime: 2023-11-27T15:09:00Z
-    webUrl: "https://www.business-standard.com/companies/news/hdfc-securities-launches-mobile-trading-app-hdfc-sky-on-aws-cloud-123112700976_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 19
   - title: "Tech Mahindra, AWS join hands to build a sports cloud platform"
     excerpt: "Tech Mahindra on Monday announced it has collaborated with Amazon Web Services (AWS) to build a sports cloud platform. The offering focuses on building next-generation digital capabilities for sports organisations and delivering immersive and personalised experiences to sporting enthusiasts worldwide."
     publishedDateTime: 2023-11-27T22:36:00Z

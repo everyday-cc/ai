@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-26T07:00:00Z
 originalUrl: "https://www.irishtimes.com/opinion/2023/11/26/breda-obrien-artificial-intelligence-is-only-as-awful-as-the-humans-who-created-it/"
 webUrl: "https://www.irishtimes.com/opinion/2023/11/26/breda-obrien-artificial-intelligence-is-only-as-awful-as-the-humans-who-created-it/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.irishtimes.com/resizer/ZAe0hmTDdBh_-PWu0X2r06Qdw2E=/1200x630/filters:format(jpg):quality(70):focal(2066x930:2076x940)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/ZGO7XH7TR5OERCP3AE543UHP5Y.jpg"

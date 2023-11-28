@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "6 Alternatives To ChatGPT"
+    excerpt: "In the short 12 months since its launch, generative AI platform ChatGPT has become the most widely recognised AI language model. According to a recent Forb"
+    publishedDateTime: 2023-11-28T10:28:00Z
+    webUrl: "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/11/image1-4.jpg"
+        width: 1999
+        height: 1232
+        isCached: true
   - title: "Microsoft Adds ChatGPT AI To Windows 11's Command Line, But There's A Catch"
     excerpt: "ChatGPT's AI capabilities in the Windows Terminal can come in handy for explaining errors, generating commands and providing recommendations."
     publishedDateTime: 2023-11-27T07:43:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-fuelcell-energ
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-fuelcell-energy-to-use-ai-in-effort-to-forge-longer-life-fuel-cell-systems-1032853438"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ provider:
 topics:
   - Meta AI
   - AI
+
+related:
+  - title: "FuelCell Energy Partners With IBM: Leveraging AI To Enhance Clean Energy Technology And Efficiency"
+    excerpt: "FuelCell Energy, Inc (NASDAQ: FCEL) has partnered with cloud computing and AI services provider International Business Machines Corporation (NYSE: IBM) to boost the performance of its technology using"
+    publishedDateTime: 2023-11-28T10:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fuelcell-energy-partners-with-ibm-leveraging-ai-to-enhance-clean-energy-technology-and-efficiency-1032854053"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/11/28/fcel.png"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "XuWgQvbtAtNPAq+XXEWlOS7KNjR5q8JCMminGGhsMBs72B5jahe4WKojjUQPosa2y3cplDMJQq0onvkX3lNtY2jzub1f/I1TS+07ebG0/4C516/p/v1d0XEYH9gBq7rlZdtnCUet2XREG/kFnpXNrKdpVrmKLmfkg21cotlRgI+ADcCaWTLJ2+K4eRTPej9iAHJZPjLf1VR66Oiby2y8VsD/i/nz+jwR8HSMhIa9C0vp2xEefAcDJINpaXgYoOv2ntebwZ44l9P8OglhLPLb6bVPSQIqlZEBDTaxO6DT8RghKNMzcWMEZw/zWCZUDeRP2fhciyIImJFHMZqoPh+ARg0Z2F/7OfNJggTaGLksFZ8=;8WiD92ZE5mI1ykdmcyrrbA=="
 ---

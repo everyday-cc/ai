@@ -7,7 +7,7 @@ originalUrl: "https://artreview.com/richard-prince-clearview-ai-and-your-face-ga
 webUrl: "https://artreview.com/richard-prince-clearview-ai-and-your-face-gagosian/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,31 +23,6 @@ images:
     width: 2560
     height: 1679
     isCached: true
-
-related:
-  - title: "Clearview AI tops 40 billion reference images in facial recognition database"
-    excerpt: "Clearview AI’s reference database for facial recognition searches has surpassed 40 billion images, double its volume of just 20 months ago."
-    publishedDateTime: 2023-11-24T21:14:00Z
-    webUrl: "https://www.biometricupdate.com/202311/clearview-ai-tops-40-billion-reference-images-in-facial-recognition-database"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 51
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/04/04171202/shutterstock_2164724765-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "Clearview AI tops 40B reference images in facial recognition database"
-    excerpt: "Clearview AI’s reference database for facial recognition searches has surpassed 40 billion images, double its volume of just 20 months ago."
-    publishedDateTime: 2023-11-24T19:23:00Z
-    webUrl: "https://www.biometricupdate.com/202311/clearview-ai-tops-40b-reference-images-in-facial-recognition-database"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
 
 secured: "O6vUXEc8f+WfGCpj6FzMqPGXD8bayLTD7uZJoLUjXgRFDoTxR9nrjIfwmiiTV7l9Aj3k4w7f2+nkeyFiK/+AV9oW6RooC/ksSO6P2YKTXCI+GLSK5qo9I9G2cbniEFM9w165qHbai/Fe16ijZTw2ONH4F9IMjmxjEAGiRbZiPlYt0Ix4WQ78pPAGefty0hWJpoMigv9M/4p93g1OIRUy5GR4ml1b+VkFwB83yz25iHsFWFtZGY8w7wmN/rEpUaUY78Mr0DIKFUq367Vfp4ask9mLK+NcgKqozSwjDaMU51MTUVyizS3r+y9/F5ZdSjFLkyZob1lCQ4oFuFhki+4PqcUmOU0Aaw9GMcgsX/CyHBe25hjp6I9xEXPcT4d7QA22y1LqEY4gNQCRHZrx6zDRsxsS38FfXp0913XDsXW6KC9u4gL2VEGTEbu7akeohV+BK3v6YMujSi9h0K31Fl9ZQmEfgW8aCPMowiErT5uiX7qcJAWGAGiyM65c4pc91PVW58CGvRVKuUq4r2Jf95QQfw==;xfRyEmGBwoNdzUFMPg38Wg=="
 ---

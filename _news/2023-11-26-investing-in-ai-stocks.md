@@ -30,75 +30,49 @@ images:
     isCached: true
 
 related:
-  - title: "The top 7 media people in AI"
-    excerpt: "Joy Buolamwini, Algorithmic Justice League Dr. Buolamwini's research found that major tech companies' AI-driven facial recognition tools ... largely due to information they saw on sites like Facebook, Carlton was inspired to study technology and society."
-    publishedDateTime: 2023-11-23T10:45:00Z
-    webUrl: "https://www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11"
-    ampWebUrl: "https://www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-media-people-artificial-intelligence-ai-100-2023-11?amp"
+  - title: "Clarity AI and AWS Advance their Sustainable Investing"
+    excerpt: "AWS announced that Clarity AI is now available on AWS. The Clarity AI platform will analyze massive data points for investors."
+    publishedDateTime: 2023-11-27T16:28:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
     images:
-      - url: "https://i.insider.com/655d34449c7d23cb3b9e85ad?width=1200&format=jpeg"
-        width: 800
-        height: 400
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/11/Clarity-AI-and-AWS-Advance-their-Sustainable-Investing.jpg"
+        width: 1500
+        height: 844
         isCached: true
-  - title: "AI and the Rise of Mediocrity"
-    excerpt: "Read More: Pausing AI Developments Isn't Enough. We Need to Shut it All Down"
-    publishedDateTime: 2023-11-27T12:00:00Z
-    webUrl: "https://time.com/6337835/ai-mediocrity-essay/"
+  - title: "Clarity AI and AWS Advance Sustainable Investing at Scale"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Clarity AI, a leading technology c"
+    publishedDateTime: 2023-11-27T05:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231126075357/en/Clarity-AI-and-AWS-Advance-Sustainable-Investing-at-Scale"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/11/ai-mediocrity-sameness-illustration.jpg?quality=85"
-        width: 1847
-        height: 1623
-        isCached: true
-  - title: "Today in AI: Sam Altman as CEO of OpenAI is strategic win for Nadella, What is AGI? and AWS India AI ready initiative to train people"
-    excerpt: "AGI is more of a general term, referring to Artificial Intelligence that has not been trained to excel ... The cloud service provider also earmarked $12 million for AWS Generative AI Scholarship, wherein it will provide Udacity scholarships to more than ..."
-    publishedDateTime: 2023-11-23T09:37:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-sam-altman-as-ceo-of-openai-is-strategic-win-for-nadella-what-is-agi-and-aws-india-ai-ready-initiative-to-train-people-11799571.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-sam-altman-as-ceo-of-openai-is-strategic-win-for-nadella-what-is-agi-and-aws-india-ai-ready-initiative-to-train-people-11799571.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-sam-altman-as-ceo-of-openai-is-strategic-win-for-nadella-what-is-agi-and-aws-india-ai-ready-initiative-to-train-people-11799571.html/amp"
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
+  - title: "Clarity AI taps AWS for sustainable investing at scale"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Clarity AI, a leading technology company that delivers environmental and social insights to ensure that companies and consumers invest and purchase sustainably,"
+    publishedDateTime: 2023-11-27T18:47:00Z
+    webUrl: "https://www.finextra.com/pressarticle/98937/clarity-ai-taps-aws-for-sustainable-investing-at-scale"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 43
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "MONAI medical imaging AI cloud service introduced by NVIDIA"
-    excerpt: "NVIDIA has recently announced the availability of a new hosted cloud service making medical imaging AI analysis and comparison even easier"
-    publishedDateTime: 2023-11-27T11:14:00Z
-    webUrl: "https://www.geeky-gadgets.com/monai-medical-imaging-ai/"
+      name: Finextra
+      domain: finextra.com
+    quality: 34
+  - title: "The Very Group selects AWS to transform the shopping experience with generative AI"
+    excerpt: "The Very Group (‘Very’), a leading UK online retailer, today announced an expanded collaboration with Amazon Web Services (AWS) to accelerate"
+    publishedDateTime: 2023-11-27T09:16:00Z
+    webUrl: "https://fashionunited.uk/press/retail/the-very-group-selects-aws-to-transform-the-shopping-experience-with-generative-ai/2023112772775"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/NVIDIA-MONAI-medical-imaging-AI.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "6 Ways AI Allows People To Work Multiple Jobs at the Same Time"
-    excerpt: "Many of the predictions around the rise of artificial intelligence -- specifically \"generative\" AI like ChatGPT -- have bordered on doomsday, at least for the job market. Goldman Sachs, for"
-    publishedDateTime: 2023-11-27T18:00:00Z
-    webUrl: "https://www.aol.com/finance/6-ways-ai-allows-people-160023502.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
+      name: FashionUnited
+      domain: fashionunited.uk
+    quality: 28
 
 secured: "XwIJ5YBSrMTx5WrV9TNfMv7HtnsJ5Re5F2M11efyGW4Z2aNNvV0pY3heRWreq6Fxrqem2ZtcRHHXZr6fzHLqPqlGyOLAY6Sce0vzlIGPuGALnNdmsDPwFEQ5dzBrvmA1DZQML/PVEg6Q7NI/aU5UVK0DVRzD9DB88zD6vBTgfP/2yV/gLNrrdVsinPlfdoA0zynMWjIr45IAssm77KknAgA4xH2TWobT4CT4AAFHXDpHAlIUXweIhfNO7tvtZTdtyNY+S7X05WSdPydc3Yui0MB4ZgXq1k97DofMLtzMfrgwgKVC0ShfvnDNh+486+WTgDr0/zqXTPiZmT/WEQRXQlVw1kxIfQkxg29EKP9ZMRw=;Qzzr9jSiMjzyfoG7AgVkQA=="
 ---

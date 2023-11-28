@@ -107,6 +107,15 @@ related:
       name: Augusta Free Press
       domain: augustafreepress.com
     quality: 17
+  - title: "Sports Illustrated suffers ‘insane fall from grace’ after being called out for using AI-generated content on its site"
+    excerpt: "A major media brand has been accused of publishing articles by fake writers, generated with artificial intelligence, in what loyal readers have slammed as an “insane fall from grace”."
+    publishedDateTime: 2023-11-28T10:11:00Z
+    webUrl: "https://www.news.com.au/sport/more-sports/sports-illustrated-suffers-insane-fall-from-grace-after-being-called-out-for-using-aigenerated-content-on-its-site/news-story/4cbf1e0483d1280a425fe158b788c694"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 0
 
 secured: "GoFIkeeJVcSUivPxaMwx0BI3wsfpZxhUyXh9VINQnD3S6o0G6ZEXAgXz02o/MLaMRBDPb9dNVUMzNzKV+kkKSiVTuI1c0g6B3JZYhWhF8+b4mmJZL3OlrxOSF6LiBq+hUo/bGQCZrn3YnUyF6nLXPcKTqH0UTe8/4d/EvJTsBWvwJPDmBw990srZDgUiLBVonWTJqtX6Vs17awKnBRBMtDvAmEwIpYMdKVtpRG5xBpZXXu6t3LGd/ap2OLqqE7b3r2LLObMQo5/BaUa0nhXcxby83FJbO/FZc6Q6ZaYaAdC8kZNZp7mUK1zg6Et5lJSaMwi5xHMsD99ykZmojEqw49EqBFUBHPR1ylFmaTOf0nk=;YFfvbtmlfEuVFkNCIpaY3Q=="
 ---
