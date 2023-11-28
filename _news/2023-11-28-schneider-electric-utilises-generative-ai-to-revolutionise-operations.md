@@ -35,15 +35,6 @@ related:
         width: 564
         height: 327
         isCached: true
-  - title: "Revolutionizing AI Work With New Hardware Structures"
-    excerpt: "Basically speaking, the processes are done in memory, rather than by sending the relevant data through a processor. The hardware setup involves the use of machines called analog to digital converters, which is pretty much what it sounds like."
-    publishedDateTime: 2023-11-23T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/11/23/revolutionizing-ai-work-with-new-hardware-structures/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Market Leaders Collaborate with Synopsys to Realize Gains of Generative AI Across Synopsys.ai Full EDA Stack"
     excerpt: "Synopsys, a pioneer in AI-driven EDA, aims to revolutionize the industry with generative AI capabilities, starting with Synopsys.ai Copilot, across the Synopsys.ai suite, building on its AI-driven optimization and data analytics solutions."
     publishedDateTime: 2023-11-27T14:35:00Z

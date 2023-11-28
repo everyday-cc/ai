@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/23/11/27/new-multi-national-ai-sec
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://f1.econotimes.com/2023/11/sna0u7ztkj_th_1024x0.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Cross-government cybersecurity best practices announced for safer AI development"
-    excerpt: "The guidelines are broken down into four key areas within the AI system development lifecycle: secure design, secure development, secure deployment, and secure operation and maintenance. These cover the waterfront, including threat modeling, supply chain security, protecting AI and model infrastructure, and updating AI models."
-    publishedDateTime: 2023-11-27T20:15:00Z
-    webUrl: "https://siliconangle.com/2023/11/27/cross-government-cybersecurity-best-practices-announced-safer-ai-development/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/a-2729794_1280.png"
-        width: 1280
-        height: 1092
         isCached: true
 
 secured: "fPu3fN1P5911pECV1ZpVq6IjouAqUUZ4t7ipviJiJ6Sy41bDqQdl/A5v8kn88DZ43Q6rv1sLroOOQnYFtsrXDwMeFMah7JnXjoIDR4gQ4HUnfbz/6DFQgPuYHbpesaE5E6SVCLV11FryngxQU1Tp9HeVX7tm3b58+jaMgBi0a+3g+Yucn70l5NAywGIZwvFr+eVcUMsEcki2SyHhkxclKl0CJaYha6DItTy/RVyhv72pN1MEo0P+dtNIrZdELeGK2IRJP7hNpPqNiSfoNUaOv0IdelmdJfh8LHaIMHy2lrSmkOZV/HB7TUUP5qSeFndf2ZZgU+gChyA8epex/VcxkI27kmcjsGxPFtZC9EQI8rk=;rt1t3qVaJhoSMRJrulTJmQ=="

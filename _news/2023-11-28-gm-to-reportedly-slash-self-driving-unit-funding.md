@@ -107,20 +107,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Tesla Full Self-Driving in process of entering Chinese market: reports"
-    excerpt: "US electric car maker Tesla said its Full Self-Driving (FSD) function is now in progress to deploy in the Chinese market, as reported by the Chinese media outlet CHINAFUND on Thursday, citing sources from Tesla China."
-    publishedDateTime: 2023-11-23T16:47:00Z
-    webUrl: "https://www.globaltimes.cn/page/202311/1302435.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-09-07/b0485774-df20-49dc-80d2-d35a46e1e088.jpeg"
-        width: 1009
-        height: 673
-        isCached: true
   - title: "Tesla's Self-Driving Tech Faces Roadblock In UK: Report"
     excerpt: "Tesla, Inc TSLA +0.64% Get Free Report is reportedly facing a potential ban on selling its \"full self-driving\" technology in Britain as new driverless car laws are likely introduced by the Department for Transport, preventing carmakers from labeling vehicles as \"self-driving\" unless they meet strict government standards."
     publishedDateTime: 2023-11-27T13:10:00Z
@@ -140,6 +126,6 @@ related:
       domain: washingtontimes.com
     quality: 13
 
-secured: "rYm4Ciu+U501b6PL/QozyTnxhcqLWUkunwdvZ055aTly0cTUwwj+tZsuFoVMxrnnKQ+neJyKgB/c9jBPQccFUC82UltfjOnFOpqJCw+HVQZ0puenwEK5SozNXNvpfNEE8/exaVaLkFw+GBNAMSXNXZ2lUkbscH+wrJKjJNs5aHBfjfzl1kPgw5TDnsrFLsD9cBqwejEnFrhdfQ0XWpp9YQoww5anXV+RzFNCcJGq1obd+dqMHlWPqXwj8WXAd2uGp83sF8lpOeqHhHXpkUzU9oSW4FiQVo7Mp1ViTUyNO4cQn6PT6Odann4vBjnGihFGlnUf43lzyOA8CucboTSXhqtZbF3GEKoRN5ed3XA9zSA=;pGrsQpWkM9cDkYzTHUcbTg=="
+secured: "ICGp+fzQuIU8Wu+l2AOmizsK+LNwFJrEDuN+vFvelyKIZz+LJZxOLuixpBNfmjOWbbWxOtFh8iETooBIhd6ViNhRZiC3maoxpERnfsLg0t8VJC0Zl4CxFYW1tjQo3Vye+BrGLVefbJe9wPvOTo/qpaNpU5bfk2f8AkX8ZzKQiyyBrgGKStv+41aevJ8inVdnSe22YTnOJHhpZ0GVlIQRXjuHUKcLEF7bKsgR6+z3I2Zie2NARwCI/wHBAXqpRpKCOAdW61f9L6I44vCASZVOA1+zIyUCpbKS8RQGxipPDQt7836QILjmR7p5AXWWnoyB5rCilvLCSoHWj2EZtOvCXDgMzHQsj+o/+jTUHEK1YxyXkx7P8zrmtczZobh97NqtTWua3GJ0MDHzLSTM06/BSgmmTSsWCeXGF4FIGZQpQ5SKXSnAW1ADeosEutWuczWnXw1DxLYLCYH0p1n/9peL61OTEepkSwmKjIkbgbiTRz/z1xCBjYpfl/PNpXRDIItIOkssLBZCq3+hbhOGeqdeeA==;bI/RQAWjRoODY8l3bLobEQ=="
 ---
 

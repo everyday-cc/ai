@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "US cybersecurity official urges safeguards against artificial intelligence threats: 'Moving too fast'"
+    excerpt: "The potential threat posed by the rapid development of artificial intelligence (AI) means safeguards need to be built in to systems from the start rather than tacked on later, a top U.S. official said on Monday. \"We've normalized a world where technology ..."
+    publishedDateTime: 2023-11-28T16:29:00Z
+    webUrl: "https://www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast"
+    ampWebUrl: "https://www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/367176d7-5269-4f16-bc88-2c715ae4fb4b/65b136b9-c40d-47d4-b08f-8fff5f5d6578/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to apply natural language processing to cybersecurity"
     excerpt: "Here’s the exciting part — natural language processing (NLP) is stepping onto the scene. This innovative technology enhances traditional cybersecurity methods, offering intelligent data analysis and threat identification. As digital interactions evolve ..."
     publishedDateTime: 2023-11-24T02:17:00Z
@@ -48,19 +64,19 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "The Role of Artificial Intelligence in Cybersecurity: A Double-Edged Sword”"
-    excerpt: "Introduction In the ever-evolving landscape of cybersecurity, Artificial Intelligence (AI) has emerged as a potent weapon against cyber threats. With its ability to analyze vast datasets, identify patterns,"
-    publishedDateTime: 2023-11-25T00:38:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-cybersecurity-a-double-edged-sword/"
+  - title: "Cross-government cybersecurity best practices announced for safer AI development"
+    excerpt: "The guidelines are broken down into four key areas within the AI system development lifecycle: secure design, secure development, secure deployment, and secure operation and maintenance. These cover the waterfront, including threat modeling, supply chain security, protecting AI and model infrastructure, and updating AI models."
+    publishedDateTime: 2023-11-27T20:15:00Z
+    webUrl: "https://siliconangle.com/2023/11/27/cross-government-cybersecurity-best-practices-announced-safer-ai-development/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 35
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/The-Role-of-Artificial-Intelligence-in-Cybersecurity-A-Double-Edged-Sword.jpg"
-        width: 650
-        height: 450
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/a-2729794_1280.png"
+        width: 1280
+        height: 1092
         isCached: true
   - title: "Artificial Intelligence and Cybersecurity: Safeguarding the Digital Landscape in 2024"
     excerpt: "Introduction: In the dynamic and ever-evolving realm of cybersecurity, the integration of Artificial Intelligence (AI) has become a game-changer. Additionally, as we step into 2024, the fusion of AI and cybersecurity promises to revolutionize how organizations protect their digital assets."

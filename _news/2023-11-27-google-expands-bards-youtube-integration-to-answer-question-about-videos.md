@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Bard gets the ability to understand YouTube videos"
-    excerpt: "For example, recently Google announced that its AI chatbot Bard now offers a deeper analysis of YouTube video content, which could be very useful to some people. In all clarity, Bard’s ability to analyze YouTube videos is not new. It stems from a previous September update ."
-    publishedDateTime: 2023-11-23T15:36:00Z
-    webUrl: "https://knowtechie.com/google-bard-youtube-interpretation/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 24
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2023/11/Google-Bard-Extensions-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Too Lazy To Watch YouTube Videos? Google Bard Can Now Do It For You And Answer Your Questions"
     excerpt: "Google Bard has received a new update that adds the ability to ask questions about YouTube videos. Google is rolling out this feature as a YouTube extension within Bard. What Happened: Alphabet ..."
     publishedDateTime: 2023-11-26T00:00:00Z

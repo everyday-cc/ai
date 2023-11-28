@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated-influencer-can-pull-in-10000-euros-a-month/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -76,29 +76,6 @@ related:
         width: 1242
         height: 830
         isCached: true
-  - title: "A Spanish agency became so sick of models and influencers that they created their own with AI—and she’s raking in up to $11,000 a month"
-    excerpt: "Aitana, described by her creators as the first Spanish AI model, was so convincing an unnamed famous Latin actor even called the agency the ask her on a date."
-    publishedDateTime: 2023-11-23T16:51:00Z
-    webUrl: "https://www.aol.com/finance/spanish-agency-became-sick-models-145135613.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 7
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/3RPyh9p.sAn3X.CeZSKC5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/3a3d94d64be852e43683eb289b36349c"
-        width: 1199
-        height: 800
-        isCached: true
-  - title: "A Spanish agency became so sick of models and influencers that they created their own with AI—and she’s raking in up to $11,000 a month"
-    excerpt: "Aitana, described by her creators as the first Spanish AI model, was so convincing an unnamed famous Latin actor even called the agency the ask her on a date."
-    publishedDateTime: 2023-11-23T13:51:00Z
-    webUrl: "https://www.aol.com/spanish-agency-became-sick-models-145135613.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 0
 
 secured: "YjfXlDbH989/jyzr2U2RrNDtSw1dfHZomNb2SVXKwntJG4t2kmPootw7IXaxJkQv91ga7GoRBt//pcZmhGrHSvJKDDSdDcX3MK/cHgSPAq3jXYT6Fp24rpqodlWlDY/Mn1zKY43Nl/ZBOMAoZrMau5KFD1MKxHWXloPzsbfxzJe6luQRH6hON6Lx91PMmZucWZb+N0pUtW4zT0rUWxxaLDQGc90F5hEiormXeZvxJz9i6rHLrHgqNpYMMmZ7AZy10x7LJfhKtCaV82EWQqmgAgfPu+nAMKkfenhWGk+acY690YYccOjPyyitRyw8x97py9Qx1HIoogXkmHuueR5rDleIEd3152XcMlFql9ZjR4/kIKlgShn8fBvof/5EOEtSsXcslRlfA0KhR6XYj6dJ3W0kzc40mkbQIMdygjSuYDor0CAx+Z+yo5U7cQuJd9J4yeVDfOYZu7vWcZkjagxlDTUH7mSUd7G6tTzODzmtaQ+jOEaUHApLGUpCkc2cUZCDXkoUNN+k9Z2hOJoBSoYqng==;mX5ek719jN6YMFWz2JoXCg=="
 ---

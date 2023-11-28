@@ -49,15 +49,6 @@ related:
       name: ENDPOINTS NEWS
       domain: endpts.com
     quality: 15
-  - title: "Biotech startup Cradle raises $24 million Series A to accelerate AI technology"
-    excerpt: "Cradle, the biotech startup using generative AI to help scientists design and engineer proteins, has raised $24 million in Series A funding."
-    publishedDateTime: 2023-11-23T13:36:00Z
-    webUrl: "https://www.biopharma-reporter.com/Article/2023/11/23/biotech-startup-cradle-raises-24-million-series-a-to-accelerate-ai-technology?aca_news_section=Global+Industry+News"
-    type: article
-    provider:
-      name: biopharma-reporter
-      domain: biopharma-reporter.com
-    quality: 13
 
 secured: "92xj176NWaG6hWoZuLGncJeR89TJ1E5B6LHGjOyTO04zWq4QxF3HyJvf1jM/C3jAcuH6ACkdRmTGp5wsQ+4V67CTisWgF+Kigntqyvp6LYRvT1Vz8syWUQvh2JAztlXcjbC99iYaaUHjwKNS2gBctlopbZfyuK3l7D5r1gbt9OzUKieKRB1tNNhqtnfppsM6+J8eC/Scu5zz/+oHRlJYSxxAyvS7m9hpT9zqeN8L/V0kdDd02DMTBuIw8yGP9hsZrLNaKmZvrTN2mrjzREB79TJx/98WvZxVnzApVy8izfyAOOduuUfN2AWn643UAroHSvpgdrDFtVcks+R5kQvTGQ5dHRlLRyuAb+9om3d9Rw0=;+PB//yAzi5w/m8+e3eojlw=="
 ---

@@ -57,6 +57,24 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Chinese companies are repurposing GeForce RTX 4090s into AI GPUs"
+    excerpt: "Companies are circumventing the US tech export ban to China by creating blower AI accelerators from Nvidia GeForce RTX 4090 graphics cards."
+    publishedDateTime: 2023-11-28T14:42:00Z
+    webUrl: "https://www.pcgamesn.com/nvidia/geforce-rtx-4090-ai-graphics-cards-china-ban"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 34
+  - title: "Nvidia RTX 4090 GPU Pricing Is Officially Ludicrous"
+    excerpt: "Right now, the site doesn't have a single RTX 4090 in stock, so you can forget about finding an FE card there any time soon. Also, according to Videocardz, you can't buy one from Microcenter that includes shipping anymore."
+    publishedDateTime: 2023-11-28T13:14:00Z
+    webUrl: "https://www.extremetech.com/gaming/nvidia-rtx-4090-gpu-pricing-is-officially-ludicrous"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "5UwRnUIWAm4xA5YXlqJAaNp8vaC7dXT4eOIgsa7zBbzhv0vYZxBZE6UtKYKsyMvwSSWpZCLr45vsPm7MUbXLz1ppGe6n2YGjF+4Wt4YuG7Mhzz4cv6NhypHrd+/qp5he8KRCIiaS66rsoEZo0TX0LWsT0rpNOQIPoUHnF5j0wYkItGod40zEUnxCPLeNTOmBN2gc5nmjA8jwI7CipgR5LZ9gCQSy4Gx/LNtbmBgq0A4vW82ry15bVrN8/pMtnEXM4393mSY6AKaon0V9lfLywrT5v/tFsnO2y2MOLpqST5rA+fWuDKiMgYxGWk+wkBkQhwsh6WCadL041cWvFqE/OssGE2J5qAFDFIjr8MAq3M3CG6NWU2dGj3NLnCt4CFt15bU4ZHrjWrioWe92HBtjKRRNtUlpXXqxZ4tfAw9xNROb7xwlTzFReH/1w7i5ixo/BRel3Tq3kYI4o//+ZCSsDJuhuAFnH+fDm2BeD9X1S64s+4KXQSYhrvDZFME52D4sTkgqgzQt2tEi7DSgvYEntA==;AaoE2jxQFtVWCNpP/fka3A=="
 ---

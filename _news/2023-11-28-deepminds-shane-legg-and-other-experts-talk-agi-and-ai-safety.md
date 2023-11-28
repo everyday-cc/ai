@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google's DeepMind AI can make better weather forecasts than supercomputers"
-    excerpt: "DeepMind's new machine learning algorithm takes less than a minute to make its forecasts and can run on a desktop. But it won't replace traditional forecasts anytime soon."
-    publishedDateTime: 2023-11-23T17:01:00Z
-    webUrl: "https://www.space.com/google-deepmind-ai-weather-forecasts-artificial-intelligence"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 52
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/3vmfhoLHduNWUsmYkCBMWW-1200-80.jpg"
-        width: 970
-        height: 546
-        isCached: true
   - title: "DeepMind’s Shane Legg and Other Experts Talk AGI and AI Safety"
     excerpt: "Can we get AI large language models to rediscover human compatible (aligned) ethics ? Can we create AI world models that are pro-life, pro-humanity and pro-civilization. Can we create an AI that is an ethics and policy expert system? Paul Christiano (world ..."
     publishedDateTime: 2023-11-27T00:01:00Z

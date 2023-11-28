@@ -76,15 +76,6 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 34
-  - title: "European port deploys facial recognition to tackle drug trade"
-    excerpt: "The first visitor screening system using facial recognition technology has been introduced to a Belgian terminal to combat the surge in drug smuggling at Europe’s biggest ports."
-    publishedDateTime: 2023-11-23T13:23:00Z
-    webUrl: "https://www.tradewindsnews.com/technology/european-port-deploys-facial-recognition-to-tackle-drug-trade/2-1-1559540"
-    type: article
-    provider:
-      name: TradeWinds
-      domain: tradewindsnews.com
-    quality: 19
 
 secured: "Sl1wW0wlWOCfnH/7W2ptg9a2Xf8zHqGnDjfnzoqKeDfDsSOv6FdUCUhV347s7wyZtX1FIVWmgQg/zrGq/0m0gWznUr5sLhtN2HYSB0xsWLZ5+DdSsEfp9/l7YdgaYZEjz5aUrn5xyNgnYX57bQIXPCuwzdwYi3FW5xueWG3L8v2haKGd2jik0jlfItGPxNokgDXBZIJt0sb3OgUonWMYJfq5/AAPgQKkukY/bK2lKNDLGLkAgBhS2DgzjBgkgvQXN7cgKx/fZNP1w4JzCzTzyQK9q9IRsA7zAVHffN9KOpXW11VtoZEuH6JnEYNDgrcZYJsjqom11TQBvkZuiBLaVAacsyrlpf2u3aM3UXZAbpo=;ucYsh+eqWqHWodSWrkVihA=="
 ---

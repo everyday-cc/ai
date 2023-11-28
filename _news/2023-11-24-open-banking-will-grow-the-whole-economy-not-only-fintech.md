@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
         width: 400
         height: 250
         isCached: true
+  - title: "President of This Full-Service Agency Servicing Fintechs Sits Down With Benzinga At The 2023 Global Fintech Deal Day"
+    excerpt: "The Benzinga Global Fintech Deal Day brings together renowned companies and ... Mr. Stiles spoke about the changes he is seeing in the industry, especially in regards to AI and the challenges around fundraising. Watch the full interview here: This post ..."
+    publishedDateTime: 2023-11-28T10:24:00Z
+    webUrl: "https://www.benzinga.com/23/11/35981496/president-of-this-full-service-agency-servicing-fintechs-sits-down-with-benzinga-at-the-2023-global"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35981496"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35981496"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/fintech-deal-day-new-york-shutter.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
+        isCached: true
   - title: "I Attended The Singapore FinTech Festival For The First Time As A Fresh Graduate. Here’s Why I Loved It"
     excerpt: "The Singapore FinTech Festival (SFF) is an annual flagship event organised in Singapore that brings together different fintech companies around the world"
     publishedDateTime: 2023-11-23T22:59:00Z
@@ -89,6 +105,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Exclusive video: Fintech risk – when things go wrong"
+    excerpt: "In a fireside chat on Stage 1, Alex Phillips, SVP of FINPRO at Marsh, discusses the common risks for emerging fintechs today. Having worked in the insurance industry for over 20 years, Phillips delivers key insights on ways fintechs can protect their business from the pitfalls on the journey to sustained growth."
+    publishedDateTime: 2023-11-28T13:00:00Z
+    webUrl: "https://fintechmagazine.com/videos/exclusive-video-fintech-risk-when-things-go-wrong"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "AxRzmLg+Fu7ul7gLTnFR5H8Nl04kAEBndZRyOkyMNZbxIUqrirsTvq7g8VZNaFXNVCU0inmfE1mauvOG3nG96x9Jrqx7wsjUh+A4qtI4gBk9USZDUqWvIKWuhFewav5X7zDWkK0UbqAwdIg2pHLln7WoYSRwfg4vziFvtQPzipfRtX2UXX76Zog9FasPtd5J0Ii4axrCfqD2U1RNtc+dH5hk+U2xjP+8ARthy6HxI3xL1bJAmPEccPB4c0YDFZoX3W1Y3TvgCoa6UylzXEpI5a98jR6e4XuAk3PdBFAKk0YQawblMTBvZoXfzOtHJyx10API2r5VFjovcgUTs4WwIkVXLJSZhtpxctQDrazGglOckw6h8tOvHlQ9KMKgj5HdgYsRrtZr3co1EaAXmc5IO+4ZhorVaa8aQt2IU+4RZk/l4ZpXSY3HcRmaVP47LvdZonaLVQWc0zBepgziKnpytw098j8z/tiiFc4oJ3kpSRC86XQRKZ+BVQ+Npt+DF9sFLnCxdh82jQaOdRaXiiKzqg==;rXcDNvdnOfNNjLAlZ9VdKQ=="
 ---

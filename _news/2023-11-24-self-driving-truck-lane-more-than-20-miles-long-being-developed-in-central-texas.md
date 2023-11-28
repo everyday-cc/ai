@@ -43,6 +43,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "GM to slash spending on self-driving unit Cruise after...GM to slash spending on self-driving unit Cruise after pedestrian..."
+    excerpt: "General Motors Company (NYSE:GM) is reducing spending on its self-driving unit Cruise after it suspended testing of its robotaxis following an accident involving a pedestrian, Financial Times reported on Tuesday. According to the Financial Times ..."
+    publishedDateTime: 2023-11-28T14:53:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1034481/gm-to-slash-spending-on-self-driving-unit-cruise-after-pedestrian-accident-report-1034481.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 0
 
 secured: "HPtjNnzwNdsnlH+7RJ6KzyOIuXZZCzPeJ8rfTXMCgu43vbIGSL+nUqadrKr3uuSCs2wnn1/2/FLvfgZJ3CqWpnKoRysRKV/gwf2eGddlO+H2puZcPYxLhveSYlEdhFNr6HWIEM2mJypi4ISgquqtMXNsSkPe0q+XqpGQM6OfIVB6WVwiVj1MEO/Cuh+VpgxQlag3MfWjJzJSdluU8xJkjDmzY1HuizyriglRc+l/N602I3jcT+LWbS5IHiWu8Y7uS1zEHCUpoxWh10Iz1+qfMIEmbkS6Q5EwvI+HQKoVkiGfisZpZGUFfY2vPwvjIIkQHpxByvMDzbp01fUNbxgK1wRGUQHhMFo0cOVpThzqLoVcVnc3f3bO9sjD4IDTA/MvtZr6pAF/jYQZbkCTQljiXaSl8E5qBAL1DQz83KoXKoHZwrYeRXc4I7ZdtjvbfEwnnHOelM9BpmXUVWUT9x0Yj2hSh+CFNvKO1p8YRhlYw23Fdt1H3sfzCl53+0wkfJZVEX+bZgZ9aZOTuxsoJ0nfWw==;OInP98Ju/FJ9OGr+qvoWPg=="
 ---

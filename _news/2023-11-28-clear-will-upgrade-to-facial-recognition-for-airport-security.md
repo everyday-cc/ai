@@ -7,7 +7,7 @@ originalUrl: "https://www.travelweekly.com/Travel-News/Airline-News/clear-to-upg
 webUrl: "https://www.travelweekly.com/Travel-News/Airline-News/clear-to-upgrade-to-facial-recognition"
 type: article
 quality: 71
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 34
-  - title: "European port deploys facial recognition to tackle drug trade"
-    excerpt: "The first visitor screening system using facial recognition technology has been introduced to a Belgian terminal to combat the surge in drug smuggling at Europe’s biggest ports."
-    publishedDateTime: 2023-11-23T13:23:00Z
-    webUrl: "https://www.tradewindsnews.com/technology/european-port-deploys-facial-recognition-to-tackle-drug-trade/2-1-1559540"
-    type: article
-    provider:
-      name: TradeWinds
-      domain: tradewindsnews.com
-    quality: 19
 
 secured: "tWDNe6C9p3eqbVzZ7pXLUUYxHwVGAgIeNrg/AxW7CSWJOnsfqriUsJSuiZRhhOxwnDRbkcKBWLfRlos/oIRkIwX10j8TYK+ERdYmPETMuFGyx5H5fctvQQewLsB1CHbnh9nvC1sN3p0NWWjrDgwjDFmaxBNlBBzSizo7UezeBNoYmVL+Ol2zE/7r5PFt//Ampesj182j0ymDjYYNEi/AHhM6r4F/3Fx7WPbPC2B7JmIgdHsBWBquWJhRXWwcdQaqdEtQykT/MfxDHIMgQSR+y0KYhCWa8D7nEKqe8BWCcR2ZTo2XCBgL7QJVwFoRBlLuG64m7rDPXfgAMcsXUIWOlSnaJxv1FdXAqU7XCtVey1YrEOvwkgLuS+IyQQb3PG9LKZkAbMK0V/fL1Y217CdF6iPf5k5BvjHRtSB9urXkYsTUyGwS7H1S/rPoe5Zt8oLnqkPDRB8wwkOXrivScD8U9GhtEa4c4UKJd2Zojdjwk1rZyfvggVoAJiPOiOwwIQKG0jkAeori+0sDNFm0i4lsAQ==;ISTLCxEJ8j9NHih9RBA9/g=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "UP Assembly to introduce speech recognition software"
-excerpt: "LUCKNOW: The Uttar Pradesh Assembly will now introduce speech recognition software. A tender has been issued for the development and procurement of the software and the entire process is being conducted through the e-tender portal."
-publishedDateTime: 2023-11-28T04:56:00Z
-originalUrl: "https://www.punjabnewsexpress.com/national/news/up-assembly-to-introduce-speech-recognition-software-230523"
-webUrl: "https://www.punjabnewsexpress.com/national/news/up-assembly-to-introduce-speech-recognition-software-230523"
+excerpt: "The Uttar Pradesh Assembly will now introduce speech recognition software. A tender has been issued for the development and procurement of the software and the entire process is being conducted through the e-tender portal."
+publishedDateTime: 2023-11-28T03:59:00Z
+originalUrl: "https://www.ibtimes.co.in/assembly-introduce-speech-recognition-software-864259"
+webUrl: "https://www.ibtimes.co.in/assembly-introduce-speech-recognition-software-864259"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: punjabnewsexpress
-  domain: punjabnewsexpress.com
+  name: IBTimes India
+  domain: ibtimes.co.in
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.punjabnewsexpress.com/images/article/article230523.jpg"
-    width: 740
-    height: 494
+  - url: "https://data1.ibtimes.co.in/en/full/792460/lucknow-monsoon-session-uttar-pradesh-assembly.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -49,6 +49,6 @@ related:
       domain: newjerseyhills.com
     quality: 4
 
-secured: "O8xg49WDRAqZojw479pGyy0JatOlYs9Fw3VcMSermpJHx7Q0arqxYkA7XotD3QaxYQQx9Xt4SerhOs0oUvRiWsmjNF2JtICblfeYxu11maEXbgV5tzq8oc+ShNZFrlImR1NqM8cMdO2Kcr5EBPKHeUjhMpmTYoviQ1d+rWHIZErDyvP/Bz91vuRkN5nDnVgGDnVrBuXYEIU+635DOzAF4KGMr8n9TWThgTdYnMbZ6TLq0HcUXvDXm8aZl46Ekfzs9RSQizUL86Nrry8p2X4SNCQIqQyRTTelIyzSSiaZNlNUJHG9Gfehult38e6FSx1hs3cHwHO7lcOZMlni54N993/qQSU2ORcSbH2kjZuycn1P1ewIiY+/J9FtWaZi/WgSMHk3guaGtLiq2o0TytO9ATsD7S4DORhKVMucPEyjkrWFjAScZjqdptlje+ks34t7GxalCqB2m305aZHYi/8RLwyJ+V/0r7tnjkcTpGbg3b+YH1KBrBzv4NeYu+01L1wgZah/qwa/8KV8CjLxZVWULw==;OpcaRpGU05fydU1sC0Rl2Q=="
+secured: "N5EUuz78YXRIIa4KJIjXUT/dBJCIokvWyho2aQH6RLcuC35A/9rZMG1nPeD3CVhc6P3C1maVXMWYyZsqZahyV42iRGCm8810tfEMyfnBBixvvs0sMIKswoCuOVZ5G30IR49tNaSfybV+oHoYvBLgK6v/xAflUQvQwbcNfWHwH++aNQqnixm0izxNrjlycs6krANWnjtGVY/9b9/C3QOvvmz1+goBueuW/6xwB/3s8Nac9Ou/q5VbgcRvGNQQ9qaIw8Gbv/rk+k2HJApzZDB4sBWZQjlOYn5uEeF+5CTESuTKYEDlp492miNvQ9LU/b9L1Es6E5EvEVLa8jNhipnDjxN4e+o83MINJfi1hlbLWxI=;D+U7uAU/LCqChGohDzHEeQ=="
 ---
 

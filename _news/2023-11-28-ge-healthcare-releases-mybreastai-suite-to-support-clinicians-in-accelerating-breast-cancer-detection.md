@@ -41,6 +41,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "iCAD’s AI-powered solutions to Help Accelerate Breast Cancer Detection in New Collaboration with GE Healthcare"
+    excerpt: "today announced that key artificial intelligence (AI) powered solutions from iCAD’s ProFound Breast Health Suite are the first applications to be offered in GE HealthCare’s new MyBreastAI Suite* offering. As breast cancer becomes the most commonly ..."
+    publishedDateTime: 2023-11-28T08:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/icad-s-ai-powered-solutions-to-help-accelerate-breast-cancer-detection-in-new-collaboration-with-ge-healthcare-1032854573"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "QXjGNDGZh4+dFLXlOJm2Xtt59l1EefuzkTe0RncZ4Af83C0pkZjxtt3JfvjS41qFG8vfMJvrieHascMbL/npTnxQxT7nUMt91STy1xa0XZUBo717Uh1OVJG+CjtAFlAMLVKanjsO8VDEW79+3tUfLWTL98A9vvrd4p81Jn2J4lrkv9ZlMLs6oDVIT3ojaYAdvaeV7MLi0/R5sEwkt/AVLtKk0xeQmtgud8byQBEX4l+7wxJtESp77Shhsk8Zi6rlzR8rCTerQZiu1hMPvHdcYfQ7vMHvY114B0VDmmH/q1nEqGiXDJaPB9SZfHWBC8BpQ8XmVB0H8MEyQncB1rnzs5s7fGcMd9soUVHYiYLoyqg=;LsU47gCeyHciz8BNKJVVRA=="
 ---

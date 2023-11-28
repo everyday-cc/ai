@@ -76,19 +76,21 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "With Sam Altman’s return, a shift in AI from idealism to pragmatism"
-    excerpt: "In fact, the Open AI saga marks the start of a new, more grown-up phase for the AI industry. For Open AI, Mr Altman’s triumphant return may supercharge its ambitions. For Microsoft, which stood by Mr Altman in his hour of need,"
-    publishedDateTime: 2023-11-23T15:08:00Z
-    webUrl: "https://www.economist.com/business/2023/11/23/sam-altmans-return-marks-a-new-phase-for-openai"
+  - title: "What Does Sam Altman’s Firing — and Quick Reinstatement — Mean for the Future of AI?"
+    excerpt: "Altman, who helped start OpenAI as a nonprofit research lab back in 2015, was removed as CEO Friday in a sudden and mostly unexplained exit that stunned the industry. And while his chief executive title was swiftly reinstated just days later,"
+    publishedDateTime: 2023-11-28T15:10:00Z
+    webUrl: "https://nowthisnews.com/news/what-does-sam-altmans-firing-and-quick-reinstatement-mean-for-the-future-of-ai"
+    ampWebUrl: "https://nowthisnews.com/amphtml/news/what-does-sam-altmans-firing-and-quick-reinstatement-mean-for-the-future-of-ai"
+    cdnAmpWebUrl: "https://nowthisnews-com.cdn.ampproject.org/c/s/nowthisnews.com/amphtml/news/what-does-sam-altmans-firing-and-quick-reinstatement-mean-for-the-future-of-ai"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
-    quality: 37
+      name: NowThis News
+      domain: nowthisnews.com
+    quality: 50
     images:
-      - url: "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20231125_WBC479.png"
-        width: 608
-        height: 740
+      - url: "https://assets3.thrillist.com/v1/image/3167994/828x610/flatten;crop;webp=auto;jpeg_quality=60.jpg"
+        width: 828
+        height: 610
         isCached: true
   - title: "AI Developments Will Speed Up with the Defeat of anti-Altman Allies"
     excerpt: "Created to build a machine version of AGI, OpenAI has been building it as fast as possible while, strategically, its CEO has been pushing an anti-competitive regulatory environment by warning that the innovation on AI is becoming extremely dangerous and governments should get involved."
@@ -129,20 +131,6 @@ related:
     quality: 33
     images:
       - url: "https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2023/11/Untitled-design2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "What does Sam Altman’s firing — and quick reinstatement — mean for the future of AI?"
-    excerpt: "If you’re just catching up on the OpenAI saga and what’s at stake for the artificial intelligence space as a whole, you’ve come to the right place. Here’s a rundown of what you need to know."
-    publishedDateTime: 2023-11-23T15:10:00Z
-    webUrl: "https://www.baltimoresun.com/business/ct-biz-sam-altman-ai-20231123-2g37rwaqwrbenihfsxgkcgjcfu-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 30
-    images:
-      - url: "https://www.baltimoresun.com/resizer/RjK_7Wt4EkQqEOhfzWlFXWB7juw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/4PNFMUGA4SWEZ73JASYJCFYHGQ.jpg"
         width: 1200
         height: 630
         isCached: true

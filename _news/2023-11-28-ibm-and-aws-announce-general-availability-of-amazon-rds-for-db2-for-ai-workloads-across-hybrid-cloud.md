@@ -24,6 +24,17 @@ images:
     height: 408
     isCached: true
 
+related:
+  - title: "AWS Announces the General Availability of Amazon S3 Express One Zone"
+    excerpt: "AWS has been continually expanding its services to support virtually any workload, and it now has more than 240 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI), Internet of ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.01net.it/aws-announces-the-general-availability-of-amazon-s3-express-one-zone/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 34
+
 secured: "ZuI0Ag5rQEdIbIbs/vthPrdm0tR1BU+PwdtMgWiDX4Zps/qJ7iTuAhU6yPu9MnjUgtTXMGGQ2piuMgwxK7sXw57TcelSN+F8+KO9skgR2j2/sR1ygRACnZv+LFFeYwgkg0pr36JlRzyRDH800r3kgt52d7F+P887gmzhY4JLfnXlGvAnmoqHFeGNYawAL+PPQJ5MrWVeDIGJQ8KndYHQ6qq/ibQbNLAxWIGEDmssFdJhfzCpyYGClaS8QjULxItktnt6TK0ykCkec2iEZiUyg/+Gw0kypBUUCqn0XR1P2nqOaz2CvuH3OzfgrJ79yxfBckiNOJgPJEd6DnQ7WLV4T3kawJf5VthpFwzDXj6vdLl6w8J+S/oh7B098IhnfqbmaZ/hdQLxs7opzdDhizvOr67t5kZz4UckHsrZ7kior9HemIA1NwnZHMZazImj6PYMFlgLq3PPI3B/obO9gTYXSqHX9nstxiQufG/XeNo7FKSMg6UFyo2yCuk0IOWaqMXCvtiqZO9VTgS3NoUPZZBsTg==;EQqGXOolCsggmcu7TgqlSg=="
 ---
 

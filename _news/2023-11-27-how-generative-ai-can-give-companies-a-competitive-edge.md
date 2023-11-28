@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "The Latest State of Play for the Regulation of AI in the UK Financial Services Industry"
+    excerpt: "conducted a joint survey to gain understanding on the use of machine learning (ML) in the UK financial services industry (the First ML Survey). The First ML Survey was sent to almost three hundred firms, including banks, credit brokers, e-money ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-latest-state-of-play-for-the-3421569/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 33
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.3900_5142.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Nearly 80% of British teenagers have used generative AI"
     excerpt: "Almost four in five British teenagers have used generative AI tools and services, according to the media watchdog, underscoring the rapid adoption of the fast-evolving technology among a new generation of internet users."
     publishedDateTime: 2023-11-28T00:01:00Z

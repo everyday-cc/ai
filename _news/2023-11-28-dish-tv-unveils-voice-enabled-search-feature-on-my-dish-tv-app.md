@@ -41,6 +41,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Dish TV Elevates User Experience with Pioneering Voice Search Feature on the 'My Dish TV App'"
+    excerpt: "Dish TV, India's leading DTH company, has introduced a voice-enabled search feature to its mobile app - 'My Dish TV App'."
+    publishedDateTime: 2023-11-28T15:42:00Z
+    webUrl: "https://www.equitybulls.com/category.php?id=340258"
+    type: article
+    provider:
+      name: Equity Bulls
+      domain: equitybulls.com
+    quality: 0
 
 secured: "pDajoB1yD4aHceR+Iw1jBM0aMIjhcDsC++VCTzaz89sq14MIKx8skTCiynlsRmiKm6zxMHQu8Gxuttqhvm1YcRtpOlAjG2ZDIFpWtjtbRbezX/oCtRib4zI0rhDrEWb9+CwnsybbkxsqyPjKbnYDaW5FxcAgILmF7+tDsEcmJqky1IBDarif1DzUID4M+dt3f7s3wzW3pF1p298tb077gY4zwz+IfES1V1J0U45Xu0L7xsVZnJynbRUmhUAIJdZlRz8+KkT9fQCDOtu60hCjzvLjYY6HROfxrhmvceOKmix7egsWtX6srmPcHoN+BRCQeA+nyOOabwqgB979eCggOq1w/eZHFzdcRKKinOWtEl4hVvym8Z6YNA7tX3BdCXL7fR0pPs5dgBNzXsgQDYW6ofv3MhibSjnsfHHzyLSZdYt9GXUrMoSdCz3iRvF+GCeMqkUKcLbnHHB5psXnoqtpyacnYzvkPfbJ7PR+neKwEafNYU7203xc3iXGfb8vpSxrGDPKnVLjBUc5AKGd3plDwQ==;jr5ZYzrd/WHCNYpmyXtrLg=="
 ---

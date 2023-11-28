@@ -32,22 +32,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Testing Artificial Intelligence Regulation"
-    excerpt: "8. EU AI Act: first regulation on artificial intelligence. 9. Jobin, A., Ienca, M. & Vayena, E. The global landscape of AI ethics guidelines. Nat Mach Intell. 1, 389–399 (2019). 10. BBC News. Alexa tells 10-year-old girl to touch live plug with penny."
-    publishedDateTime: 2023-11-27T00:01:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/decisions-in-context/202311/testing-artificial-intelligence-regulation"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/decisions-in-context/202311/testing-artificial-intelligence-regulation?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/decisions-in-context/202311/testing-artificial-intelligence-regulation?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 61
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-11/anh-tuan-to-KgiXRaqYVpM-unsplash.jpg?itok=d2flEFmx"
-        width: 1528
-        height: 800
-        isCached: true
 
 secured: "+0aGE6fLufVkxKZKeGg/1SvRl/jf5t84SPpTsf4UjOL59iYH9U9RAhZjt8CxumtG+rQkC/RE7iXX0H11q2h4RNNVfJ3rqu3+UNkvtqjj2sNCuEx4TE7MB6x22eZzgl0vM5I1NHdqD0TEl/wdtmqWZXTLCnKLmpYvPMB0Cgf4IcpWRrTZWGqKOEMqinqhL26YWrtFahbAroLbQIvyJ7mBHBcWT502HmebSjhwx4EhjvPqeEM2aQT/DRZHGKt2aDAtVOI9ztDi0jDMH4htpsR2Ib9SpVrlGHo6xJltNQuoEG9Z01dW9vEAE/Px9S9uxEM2grBfmFRYanEaKkn1EDo1vTOK/XF1SmDSHEBwj27MWcMn2cD83Gq3d/2/1SnuToEzCZgxJLeJYR5rFv/0d4AH+jDEtsQ0ZXsHEqCNH/crwMNyVl5ZNk2bntoVT8iTVN0RyNbqVuXbBr/TlmaiP/JssZYgzq2CNQT5NEp3QXn5yMR3QbLDo1aRKVAEfxDBd1hfEtJ6xGjOhGfFNV5rw0985g==;Y9eW7+PsvJ1y4KxTpIypWQ=="
 ---

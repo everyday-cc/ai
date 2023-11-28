@@ -19,17 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Worldwide Data Center Robotics Market Size Projected to Reach USD 63.93 Billion By 2032, With 22.2% CAGR: Polaris Market Research"
-    excerpt: "Polaris Market Research has published a recent study report titled \"Data Center Robotics Market Share, Size, Trends, Industry Analysis Report, By Component (Hardware,"
-    publishedDateTime: 2023-11-28T06:48:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35972747/worldwide-data-center-robotics-market-size-projected-to-reach-usd-63-93-billion-by-2032-with-22-2-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35972747"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35972747"
+  - title: "Artificial Intelligence (AI) Diagnosis Market to Reach US$ 5,773.6 Million by 2030: Coherent Market Insights"
+    excerpt: "Burlingame, Nov. 28, 2023 (GLOBE NEWSWIRE) -- According to Coherent Market Insights, The global artificial intelligence in drug discovery market was valued at US$ 1,502.9 Mn in 2022 and is forecast to reach a value of US$ 5,773.6 Mn by 2030 at a CAGR of ..."
+    publishedDateTime: 2023-11-28T09:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35980258/artificial-intelligence-ai-diagnosis-market-to-reach-us-5-773-6-million-by-2030-coherent-market-in"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35980258"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35980258"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 45
+    quality: 53
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market to Hit US$ 3,547.4 Million by 2030: Coherent Market Insights"
+    excerpt: "According to Coherent Market Insights, The global artificial intelligence in drug discovery market was valued at US$ 1,016.1Mn in 2022 and is forecast to reach a value of"
+    publishedDateTime: 2023-11-24T10:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35937513/artificial-intelligence-in-drug-discovery-market-to-hit-us-3-547-4-million-by-2030-coherent-market"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35937513"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35937513"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043

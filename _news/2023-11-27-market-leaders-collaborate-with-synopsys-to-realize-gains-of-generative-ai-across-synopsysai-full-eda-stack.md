@@ -35,15 +35,6 @@ related:
         width: 564
         height: 327
         isCached: true
-  - title: "Revolutionizing AI Work With New Hardware Structures"
-    excerpt: "Basically speaking, the processes are done in memory, rather than by sending the relevant data through a processor. The hardware setup involves the use of machines called analog to digital converters, which is pretty much what it sounds like."
-    publishedDateTime: 2023-11-23T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/11/23/revolutionizing-ai-work-with-new-hardware-structures/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Schneider Electric utilises Generative AI to revolutionise operations"
     excerpt: "Schneider Electric, an expert in the digital transformation of energy management and automation, is leveraging Generative Artificial Intelligence (GenAI) by incorporating Microsoft Azure OpenAI to tra"
     publishedDateTime: 2023-11-27T16:35:00Z

@@ -24,49 +24,72 @@ images:
     isCached: true
 
 related:
-  - title: "New multi-national AI security guidelines are toothless and weak"
-    excerpt: "The United States, United Kingdom, and 16 other countries want to keep the development of AI systems secure, but a framework issued by the group offers common sense recommendations, and lacks firm action points."
-    publishedDateTime: 2023-11-27T13:42:00Z
-    webUrl: "https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak"
-    ampWebUrl: "https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak/amp/"
+  - title: "US cybersecurity official urges safeguards against artificial intelligence threats: 'Moving too fast'"
+    excerpt: "The potential threat posed by the rapid development of artificial intelligence (AI) means safeguards need to be built in to systems from the start rather than tacked on later, a top U.S. official said on Monday. \"We've normalized a world where technology ..."
+    publishedDateTime: 2023-11-28T16:29:00Z
+    webUrl: "https://www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast"
+    ampWebUrl: "https://www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast.amp"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 74
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
     images:
-      - url: "https://photos5.appleinsider.com/gallery/57461-117058-56228-114301-lede-xl-xl.jpg"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/367176d7-5269-4f16-bc88-2c715ae4fb4b/65b136b9-c40d-47d4-b08f-8fff5f5d6578/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
-        height: 768
+        height: 675
         isCached: true
-  - title: "4 key takeaways from new global AI security guidelines"
-    excerpt: "AI security guidelines developed by the United States' Cybersecurity ... SiliconAngle reports that Israel-based large language model security startup Lasso Security has landed a $6 million investment as part of a seed funding round, which will be allocated ..."
-    publishedDateTime: 2023-11-27T00:01:00Z
-    webUrl: "https://www.scmagazine.com/news/4-key-takeaways-from-new-global-ai-security-guidelines"
+  - title: "How to apply natural language processing to cybersecurity"
+    excerpt: "Here’s the exciting part — natural language processing (NLP) is stepping onto the scene. This innovative technology enhances traditional cybersecurity methods, offering intelligent data analysis and threat identification. As digital interactions evolve ..."
+    publishedDateTime: 2023-11-24T02:17:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-apply-natural-language-processing-to-cybersecurity/"
     type: article
     provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2023/11/1127_artificial_intelligence.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_626404406-e1623836461847.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "Global Effort to Safeguard Artificial Intelligence with New Security Guidelines"
-    excerpt: "In a significant step towards ensuring the safety of artificial intelligence (AI) technologies, a group of 18 countries recently came together to establish guidelines to protect AI models from security breaches."
-    publishedDateTime: 2023-11-27T08:54:00Z
-    webUrl: "https://www.econotimes.com/Global-Effort-to-Safeguard-Artificial-Intelligence-with-New-Security-Guidelines-1666841"
+  - title: "How generative AI will enhance cybersecurity in a zero-trust world"
+    excerpt: "Despite the potential for productivity gains across marketing, operations and especially security, the concerns of generative AI compromising intellectual property and data confidentiality are high for security executives."
+    publishedDateTime: 2023-11-27T14:00:00Z
+    webUrl: "https://venturebeat.com/security/how-generative-ai-will-enhance-cybersecurity-in-a-zero-trust-world/"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 50
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Unraveling the Duality: Artificial Intelligence’s Role in Cybersecurity"
+    excerpt: "Introduction The debate surrounding the integration of Artificial Intelligence (AI) revolves around a central question: friend or foe? This inquiry, pivotal in discussions about the transformative impact of AI on cybersecurity,"
+    publishedDateTime: 2023-11-27T14:57:00Z
+    webUrl: "https://techbullion.com/unraveling-the-duality-artificial-intelligences-role-in-cybersecurity/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
     images:
-      - url: "https://f1.econotimes.com/2023/11/sna0u7ztkj_th_1024x0.jpg"
-        width: 1024
-        height: 576
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Unraveling-the-Duality-Artificial-Intelligences-Role-in-Cybersecurity.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Artificial Intelligence and Cybersecurity: Safeguarding the Digital Landscape in 2024"
+    excerpt: "Introduction: In the dynamic and ever-evolving realm of cybersecurity, the integration of Artificial Intelligence (AI) has become a game-changer. Additionally, as we step into 2024, the fusion of AI and cybersecurity promises to revolutionize how organizations protect their digital assets."
+    publishedDateTime: 2023-11-27T10:50:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-and-cybersecurity-safeguarding-the-digital-landscape-in-2024/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 30
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Artificial-Intelligence-and-Cybersecurity-Safeguarding-the-Digital-Landscape-in-2024.jpg"
+        width: 650
+        height: 450
         isCached: true
 
 secured: "FCjuBbNmMrD7A7FYKZX8s3ZTr7+ApR6g+DPfbxs41NCOZ0PmTc4H2KUsN7wBqxVi+ws1czS0cPAUVJ9Xp1W7xVpiP114i7acXKgK6FdkcgoR2X75wuWVGG1KBegRSTYU8WKOXOOqMaydx6nonLr+Q2OXEb2cCoTq0Spi0Sf932iOxJwnioEPqByDvq4m521khx1etj11GDqBx5dSewA5b1JunYzJxn+6q1qdAn4EVYpS0Sy78J1/9pj2YUK46zqWiKZvVWGWudsXd+u2SLl46tUCl23C3YBkvXSUPVtxFxJsNK25NmQbFhJ3qmZsJSR5juCMONo6SKL7718suKBi6PvmwKjqJ21O5+Hl6EI6rSJcMo66CeU1QYCLkelztIsjgvbeHgk2JqaWWm4T1mrY80cWsyO9Fyo1p73AT1W+YYvXafk0Ei+QFW2Ox4UgMFPsLCp2gGXTZXeszL5RPp9NaAXWKa2fwolXPruI2dkDDd+HVFMwbwGf53v6PJ2vt91A7050rmC6HdnqzZJvnbC69g==;HrjzDBuZsaoN2QKP33TN4w=="

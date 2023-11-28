@@ -32,6 +32,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 76
+  - title: "How AI Can Help Sales Teams Craft More Personalized Pitches"
+    excerpt: "In the past, hours of leg work and research were required to create relevant and resonant sales interactions. With seller time at a premium, this sort of intensive prep work typically falls by the wayside for average sellers."
+    publishedDateTime: 2023-11-28T13:14:00Z
+    webUrl: "https://hbr.org/2023/11/how-ai-can-help-sales-teams-craft-more-personalized-pitches"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 34
 
 secured: "a9gCgYntJn61ZtsqMs+WpRP82O4AOe8tWT7+irHm+pht1QDK8Qol+XizStMxiaDioazy5KV71pympGOjDRvaUh5pqgix27IuZdOKuadXzzmWgrjc8XWak9bqPUJ0tb4Dwj+23F1p1U6s9/syRGtLP+TfAC+UJY7jLvOPwW7WIT5cpIpJ/Y4bHcL/dJ0VHSy9U4Z9BBg3FII/qjyHz80ajZAI7ojSRJU8YF5Fc9PLdLEsP+Gx9bLopo6BQB/7w5T96cbwHaiL8JWBh3+E+LSe1lGyAShhCiHLchRKa6C7VkiyPfOOrC3c0mfYleG0PWfJv4alYwUw735E+HdD9BGOKlhgV6viF6rY6G6WxtjRlgI=;sKVLMKofIvxbCiIMPuCmVg=="
 ---

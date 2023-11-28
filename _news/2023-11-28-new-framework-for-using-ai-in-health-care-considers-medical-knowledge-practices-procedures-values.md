@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-k
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -28,34 +28,84 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare professionals to get AI training as Singapore continues push towards preventive care"
-    excerpt: "Artificial intelligence (AI) algorithms can be run on mammograms to help screen for breast cancer and detect changes in the eye among diabetes patients, for instance."
-    publishedDateTime: 2023-11-24T18:52:00Z
-    webUrl: "https://www.channelnewsasia.com/singapore/artificial-intelligence-healthcare-singhealth-ai-singapore-3943526"
+  - title: "The Practical Impact Of AI For The Masses"
+    excerpt: "At the event, the leadership highlighted the concept of superpowers on demand. The message was that AI's best manifestation would be augmented intelligence for humans."
+    publishedDateTime: 2023-11-28T14:59:00Z
+    webUrl: "https://www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/"
+    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/amp/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--Xn_oHPQ7--/c_crop,h_767,w_1364,x_0,y_1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2022/10/10/istock-1140691167.jpg?itok=TSyeBcja"
-        width: 1200
-        height: 676
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6565003681045ee522bb2f47/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Navigating Healthcare Challenges: Artificial Intelligence Emerges As Crucial Ally In Patient Care"
-    excerpt: "AI tools enable medical professionals to identify patients at risk of developing certain diseases, facilitating earlier intervention and personalized care. These tools not only assist in"
-    publishedDateTime: 2023-11-27T08:55:00Z
-    webUrl: "https://thelogicalindian.com/trending/ai-in-healthcare-revolutionizing-patient-care-for-a-healthier-future-41484"
+  - title: "Unraveling the Technical and Ethical Requirements of Artificial Intelligence"
+    excerpt: "In the rapidly evolving landscape of technology, Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and societies. As the influence of AI continues to grow, it becomes imperative to delve into the technical and ethical considerations that underpin its development and deployment."
+    publishedDateTime: 2023-11-23T22:42:00Z
+    webUrl: "https://techbullion.com/unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence/"
     type: article
     provider:
-      name: The Logical Indian
-      domain: thelogicalindian.com
-    quality: 41
+      name: Impacts
+      domain: techbullion.com
+    quality: 53
     images:
-      - url: "https://thelogicalindian.com/h-upload/2023/11/27/234486-tli-13.jpg"
-        width: 1200
-        height: 630
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/Ethics-requirement.jpg"
+        width: 800
+        height: 400
         isCached: true
+  - title: "AI’s Odyssey: Tracing the Development of Artificial Intelligence Before the Year 2000"
+    excerpt: "Introduction: Artificial Intelligence (AI) has become an integral part of our modern technological landscape, shaping the way we live and work. However, its journey to prominence was not an overnight success."
+    publishedDateTime: 2023-11-24T11:18:00Z
+    webUrl: "https://techbullion.com/ais-odyssey-tracing-the-development-of-artificial-intelligence-before-the-year-2000/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 49
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/AIs-Odyssey-Tracing-the-Development-of-Artificial-Intelligence-Before-the-Year-2000.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "The implications of AI on human morality"
+    excerpt: "Mergan Velayudan, Acting CIO at MultiChoice Group, discusses the importance of human oversight when it comes to AI and ethics."
+    publishedDateTime: 2023-11-28T06:49:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
+  - title: "The Impact of Artificial Intelligence on the Legal Industry: A Paradigm Shift"
+    excerpt: "Introduction The traditional structure of law firms, characterized by a pyramid model with a few partners overseeing a larger group of junior lawyers, is on the brink of obsolescence due to the advent of artificial intelligence (AI)."
+    publishedDateTime: 2023-11-27T15:39:00Z
+    webUrl: "https://www.jdjournal.com/2023/11/27/the-impact-of-artificial-intelligence-on-the-legal-industry-a-paradigm-shift/"
+    type: article
+    provider:
+      name: Legal News
+      domain: jdjournal.com
+    quality: 34
+    images:
+      - url: "https://d1ew8vst3yq0j8.cloudfront.net/wp-content/uploads/2023/11/AI-for-lawyers-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "The Impact of Artificial Intelligence on the Real Estate Industry"
+    excerpt: "Artificial Intelligence has become a transformative force across diverse sectors, and the real estate industry is a notable example. Its impact is palpable acro"
+    publishedDateTime: 2023-11-27T13:34:00Z
+    webUrl: "https://www.tribuneindia.com/news/impact-feature/the-impact-of-artificial-intelligence-on-the-real-estate-industry-566451"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 17
 
 secured: "OI8mC9PxInlHqIUtxXuJwcoCKf7bwNJHA0yAvHpt40XcO+1F5PkERFkUNbKx7hLhW1CtgozwHleODoONkpGQTC8+7G11NQSHAVNSmspaCR0rd5q3c0E2L5uxIknOWGAKkKPnU5IYmgh1mOzq+JM9jFrHGadN8uShmDnj6kIuc7EIS3t44jFMsPI/n+Ytn8jIx7oMpD1qUSJwIqkYmHQAfgVA6y7P/ENVnaixNO0ZxxenrR8q8yuYaM8ZC4tlTIZacc4YpeP+HoXRkfSOmkfuJQxmAA4TWjagin1Sk49FdAY3NR+rGctZRGuOfVGQjOWnZ0Q7FzT3fGFL72FCNJz66urQtAph7mjjKSIgN/+7FmMNKDQ+IcGeNrFCoQBWXkTngnQtiREPD89AlJ0DxLK3xbK3NPKpAWKAuwUxlGGbuKeUmvegTSGIg3SLAVGwyXZGHG1KC90SUYhgvntUfO69aGwIA9J8isIoJzdc/MYyViTKUZBme3wUPRz1I4WbZ5SEe0CHmjsYJWWh/LIzX9Pofw==;GG0VyGiRmr0bTKx+FPZYyQ=="
 ---

@@ -34,6 +34,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 19
+  - title: "No more badges and PIN, AWS launches palm-scanning authentication service for companies"
+    excerpt: "Amazon Web Services (AWS) on Tuesday announced a new palm-scanning identity service that will allow companies to authenticate people when entering physical premises."
+    publishedDateTime: 2023-11-28T14:40:00Z
+    webUrl: "https://www.ibtimes.co.in/no-more-badges-pin-aws-launches-palm-scanning-authentication-service-companies-864279"
+    type: article
+    provider:
+      name: IBTimes India
+      domain: ibtimes.co.in
+    quality: 11
 
 secured: "jOPrNxekhiJYebXk0BKVWaqqWJNxB46UmVxAX/mezX2+4245Bwzf1ASFUl2bbM1s3HzfuXoQCGYIqxeYNZ/3afboVTHXSveP8u16/Yv51+2OHYeJu4HpwR/U02GX5VfEi0a1zqNqBvXMmDSmjagsbCIFVd2dpKXzOHWu0NjQyFIwmVTv9YP1m8kM9x1coPHm8cf4dyV0Rzta8vYhcWfErWveInTvTLt28YGUutM2V+NHnaF/wr4Yk4LnXbKaKWSfL7+oYL8t/ztAkgv8uVHE+U40fZe9Wv8lvodKg9rG9kIvyAkBfbPVmZ1JwuOFWeKFGHABeO2R1jfbdKuA5499XihkY9521rqXyZgATmEPlbA=;feoMz4KGW6YB+kf1iY9Gng=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "IBM Collaborates with AWS to Launch a New Cloud Database Offering, Enabling Customers to Optimize Data Management for AI Workloads"
-excerpt: "Combines IBM Db2 database and Amazon RDS to help businesses manage data with flexibility, security, and scalability to help unlock greater value. ARMONK, N.Y., Nov. 27, 2023 /PRNe"
-publishedDateTime: 2023-11-27T20:53:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/11/27/9923586.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/11/27/9923586.htm"
+excerpt: "Invent 2023 that it has been working with Amazon Web Services (AWS) on the general availability of Amazon Relational Database Service (Amazon RDS) for Db2, a fully managed cloud offering designed to make it easier for database customers to manage data for artificial intelligence (AI) workloads across hybrid cloud environments."
+publishedDateTime: 2023-11-28T12:59:00Z
+originalUrl: "https://www.datanami.com/this-just-in/ibm-collaborates-with-aws-to-launch-a-new-cloud-database-offering-enabling-customers-to-optimize-data-management-for-ai-workloads/"
+webUrl: "https://www.datanami.com/this-just-in/ibm-collaborates-with-aws-to-launch-a-new-cloud-database-offering-enabling-customers-to-optimize-data-management-for-ai-workloads/"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/2286159/IBM_AWS_Social_Logo.jpg"
-    width: 400
-    height: 225
-    isCached: true
 
 related:
   - title: "Qlik Expands Customers’ Ability to Scale AI for Impact with AWS"
@@ -49,6 +43,6 @@ related:
         height: 367
         isCached: true
 
-secured: "Qu0GJXSvtxUcWEatZAZ9pJemwx8VMCAhL647zrAmfSY3ldQO9P0quvgrFuAWhIZamJhXYyycCNBJO5FOGJSV7rByyUtWQBVydnGSM0z3PCKBQJkDhwFeMtoFUwGrbQoJ1QsFAQNMnWtSsr0kQ8agQ83Jqe3dMAlGOxz3UynHBb2M4sEhj3nqP5IZJ67nH2Efs4D8yuNP+J5lgjN8wH2Lc0wPkcsjWEo3ykazWgUGE3oFnBlTScDsldxDjeKvfOy4c1uasgZuzxyi13MOL3x16VZWqxbdCXZS90hZV1LCM9zxhfPHqulPYmAmKGjy7VGJK63K/8VC9KR0N8HtbSNEwqAst33xjW4ddu2duQIhSvuNkkWcEa45S4gR2Q6J+264Teie/KdGq8pzHG3x76H1dIdViJXArDfgAPRX+AFbFrjyUV5oemFL/FSQbA+MLb3QxqWKI25dsvIoKS9A3E8VN1SgjQdPnmE3Gv88IIM1wVDvS6BwV7JMIZ3XkfdEdTESsIUzlJ3iPMovbk3eJhb8Eg==;SyFQSL+NDFGAoa7GcFf76g=="
+secured: "sn+bHmsd6/FcUB2qu1FtbRPmgXA82p567AV/xBuS8HvpVe8OeNfZb7v4DaEhlQmdhASvl8ygpFs44f0H76q82E3tKuirODzeDhC0/t7+Ekpv7cVfZ8Hgy5UOQ2NkpvUdOGjfKDbuloG+5SJYBn5Fh5mbNK25kyzxj6Z1X1PHaG+8ktht2/eWST8BCpK1YZ3CqWSJBI9tWTk6w46+Sy5WeIABpyp3MFUxSMVjoZmZL01ARcfUscdvQf9c+mBmUb5f8F924Z+To85i9vV+hoLg8qBuav2igZTU6ClLZuDD0srptgGnPjtpEZHvyYMyR5pXc4MK6dqLNYCEgODwO3yibYkCnia9jxglUHtV/9EWXtk=;b1XumKInMzrEtJkr0VNPxw=="
 ---
 

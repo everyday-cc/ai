@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/11/28/how-to
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/11/28/how-to-tell-whether-content-was-generated-by-ai/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "Here are the best AI content detectors to use"
+    excerpt: "Here are the top AI content detectors available, their use cases, and their respective advantages and limitations."
+    publishedDateTime: 2023-11-28T12:57:00Z
+    webUrl: "https://www.androidauthority.com/best-ai-content-detectors-3379779/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 47
 
 secured: "ZL69zAUN4YJDxX0JPHPjLFlsA49Hn8vk+P7Wh86zEtDGYdk65AT2/X6c0a1rirNPc7YC03Ex9F3NwEZpy9qIb99dsH6h7iVGHjrw0bbAjAtLe+EHVnRxNMRIyi7IeUDiA+dCbPqIH7EQhp1ILgavotvRueD7CVP4exaluixrVWjKnpkN2anpm6KU11iL0JVrYBPmGVDRogZz6jhXiBpAn4ECNyMlcx2ImNrcI7n54YEKVF8TCkWy3DHpvvxFbKBZNk0jcM9B79tUxjxnMl8QGcAOL7dU/c0vSL55WMPC49kjFDQVZuu96kPdFdMYWkiupT6jD+wy4ZVcniof4x9p0CcVB9lqwkDhCG3grZ4ZsfQ=;tgKxoduJ3hI/LFOp7cXkPQ=="
 ---

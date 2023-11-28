@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "No more badges and PIN, AWS launches palm-scanning authentication service for companies"
+    excerpt: "Amazon Web Services (AWS) on Tuesday announced a new palm-scanning identity service that will allow companies to authenticate people when entering physical premises."
+    publishedDateTime: 2023-11-28T14:40:00Z
+    webUrl: "https://www.ibtimes.co.in/no-more-badges-pin-aws-launches-palm-scanning-authentication-service-companies-864279"
+    type: article
+    provider:
+      name: IBTimes India
+      domain: ibtimes.co.in
+    quality: 11
 
 secured: "irHcYkrqD3EQYEWWUoMi917zFM8X1u0PesXwLZ7pF8AUHylaLwIJFP8xczyyOBCdlMHEn9AW6q3WZHr8K2g7VijZw9KIkY2e5iCeX62okqVMqQmJu8J2IPm20OKTHckbP5zoEE50uf3hpQmbKCR9ryENqPDXInhYarxs8yjfNo6rkzdIniL4e3YfHTX6mH4DQ+pCyK2XsUw7ovSkg/1biIWhqs1hN0m33EbFTAwXh2PDG56FKZWIKfSh4Sw0qsvNNxNK1fpVLtoXKmyjRtlDetPrtlBK7V/In/mlkXxSOJ1BiSEFHQxuztzMY8SFQtwDMMW4qntUAMnBn1APRpG3amqRd6NjY24RqKDZN6cREhXMowJyFeuCjMA38F9H23H1IqP5BPbF/b1FF7X/gF7TqT8KuYj7tr7mDjLFa4NCYpUs6Uke0AKmOtmBT+9ii8/lUHFM7RM0+GtsA4Zshb6BfRYUdejf6SDmoTMKW5LXxv06aZw0aeK3LucmUkEOrvJSBIFx5BaTgloTXUgem0Wkqw==;IkjePb+fPw/TZD5aXVSJHg=="
 ---

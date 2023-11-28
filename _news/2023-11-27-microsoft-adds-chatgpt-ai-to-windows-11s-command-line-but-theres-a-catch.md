@@ -101,6 +101,34 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft Releases ML.NET 3.0"
+    excerpt: "Microsoft has announced the release of ML.NET 3.0, its open-source, cross-platform, and .NET-based machine learning (ML) framework."
+    publishedDateTime: 2023-11-28T15:02:00Z
+    webUrl: "https://www.thurrott.com/dev/293679/microsoft-releases-ml-net-3-0"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 56
+    images:
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2023/11/ml.net-model-builder-thumb.jpg"
+        width: 1066
+        height: 600
+        isCached: true
+  - title: "Microsoft reveals the hardware needed to run ChatGPT"
+    excerpt: "Discover the Microsoft hardware and supercomputers built to run OpenAI's ChatGPT AI model. Making the chatbot accessible to users worldwide"
+    publishedDateTime: 2023-11-28T14:44:00Z
+    webUrl: "https://www.geeky-gadgets.com/microsoft-reveals-the-hardware-needed-to-run-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/what-hardware-is-required-to-run-ChatGPT.jpg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "Microsoft’s AI-powered Bing is coming for Google’s Bard-infused … – Vox.com"
     excerpt: "Google bookended Microsoft’s big AI search announcement with underwhelming AI news of its own.Microsoft has officially taken the lead in the race"
     publishedDateTime: 2023-11-27T15:22:00Z
@@ -114,20 +142,6 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14258.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Flywheel and Microsoft collaborate to unlock powerful data insights in medical imaging"
-    excerpt: "Healthcare breakthroughs have long-standing barriers when it comes to unlocking the powerful insights trapped in medical imaging data."
-    publishedDateTime: 2023-11-23T16:58:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2023/11/23/flywheel-and-microsoft-collaborate-to-unlock-powerful-data"
-    type: article
-    provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 31
-    images:
-      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/publications/pharmaceutical-science/outsourcing-pharma.com/article/2023/11/23/flywheel-and-microsoft-collaborate-to-unlock-powerful-data/16962507-2-eng-GB/Flywheel-and-Microsoft-collaborate-to-unlock-powerful-data.jpg"
-        width: 725
-        height: 510
         isCached: true
   - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
     excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"

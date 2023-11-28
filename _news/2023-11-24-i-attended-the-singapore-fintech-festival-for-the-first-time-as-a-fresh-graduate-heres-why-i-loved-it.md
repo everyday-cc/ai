@@ -85,6 +85,31 @@ related:
         width: 400
         height: 250
         isCached: true
+  - title: "President of This Full-Service Agency Servicing Fintechs Sits Down With Benzinga At The 2023 Global Fintech Deal Day"
+    excerpt: "The Benzinga Global Fintech Deal Day brings together renowned companies and ... Mr. Stiles spoke about the changes he is seeing in the industry, especially in regards to AI and the challenges around fundraising. Watch the full interview here: This post ..."
+    publishedDateTime: 2023-11-28T10:24:00Z
+    webUrl: "https://www.benzinga.com/23/11/35981496/president-of-this-full-service-agency-servicing-fintechs-sits-down-with-benzinga-at-the-2023-global"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35981496"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35981496"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/fintech-deal-day-new-york-shutter.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
+        isCached: true
+  - title: "Exclusive video: Fintech risk – when things go wrong"
+    excerpt: "In a fireside chat on Stage 1, Alex Phillips, SVP of FINPRO at Marsh, discusses the common risks for emerging fintechs today. Having worked in the insurance industry for over 20 years, Phillips delivers key insights on ways fintechs can protect their business from the pitfalls on the journey to sustained growth."
+    publishedDateTime: 2023-11-28T13:00:00Z
+    webUrl: "https://fintechmagazine.com/videos/exclusive-video-fintech-risk-when-things-go-wrong"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "9wJF75o5SwAPOPGXLVybB/Yptpsfz9SMc0z/URzDmF8BoAwL59rQLt3K0cADIXBJsxa4vyY5A0GPPoCwF186lH5UJb5nj4y5yI2YiRT9nr7CJ3r9qaQYXZRxMudq3wLGGtr1q0T6G89FoFGtWSSH6krTXni7qA4iGCwy9MxhIdtbG1FC7u7hwPzRHxrVhJS4NunxWK2EwVRTFkL4kzzxsTWbQa17AjTkopfAY8txKEnip1d4TsXDhmuBbHAPG2Hufd4SDYx5QCRWP58kNojXp/Er5UZNImlgRLU3hKozP8/BrGAVP2VYB69yQD4P8OM/e3sdCCP9doZyTZI0mf2p4CDPLE67iSVyeIJPJAt6FNE=;r/BHn574KrSoXZnBSejB2Q=="
 ---

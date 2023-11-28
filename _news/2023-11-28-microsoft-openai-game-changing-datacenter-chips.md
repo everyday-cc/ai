@@ -7,7 +7,7 @@ originalUrl: "https://www.dmnews.com/microsoft-openai-game-changing-datacenter-c
 webUrl: "https://www.dmnews.com/microsoft-openai-game-changing-datacenter-chips/"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -18,17 +18,6 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
-
-related:
-  - title: "Schneider Electric Integrates Microsoft Azure OpenAI for Sustainable Solutions"
-    excerpt: "Generative AI automates content generation for marketing, personalizes customer interactions and streamlines decision-making processes, making it a game-changer for the business world. Businesses can"
-    publishedDateTime: 2023-11-27T16:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35963749/schneider-electric-integrates-microsoft-azure-openai-for-sustainable-solutions"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
 
 secured: "tHLx5vD6d5ZX5Rj/2Q9slJ54iZ4vuSROe3aQ4ZiF81s3zPv7EX/zJ8wLRzXXUMI9+eCUbPlHzN8eMt7WuHGwIQ3CY2BrmCnDqyUvN8er7UD8R4X3epn9OwB0GTJoEnRjLmAWxcWjIugAh4e71A3YIK5sWKYmzcfz7heGI1hmCRMx8tyZ1/xyH8v+3EcxMXmbkJ2aBOpjn3z4s0BiBhXcHRgNMkKziG7XAiNKkT5/BgE95azdkVQuzxphcX3QMsgcdTHxG9MMvvzh4XG0IwRMbZmbXIr44v1+episxWr7TnR1AmRRV+iMquoYuydlCmNMdzjkRsaicm4k4ywHkZSbfYobQ/DnSYx0vSpC3fT2ivDwl/ZxV+j9NmO8AqS0VYZE/v5RlFLo4kl/l0GLLiIqGV3kBBg0z/Xx4kXCREARHnC4XnYsDigYx1RX+AHU2yn0+5B/k8foDQCRbbCYePSAoX9DW6rcfrqunXCL8pviz9mRcZNOGYBDRpEB4uel4TXR0oKcDDvor+koQN7U1+w2vQ==;uZBwoDGIICguJWeSA7Bkdw=="
 ---

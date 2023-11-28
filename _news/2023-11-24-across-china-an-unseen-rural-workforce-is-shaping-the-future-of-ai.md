@@ -55,6 +55,20 @@ related:
         width: 512
         height: 338
         isCached: true
+  - title: "For Better or Worse: AI Is Transforming the Workplace"
+    excerpt: "Share on Facebook. Opens in a new tab or window Share on ... but human judgment is essential for maximizing its power. It is known that AI can create \"false facts,\" but research shows that only half of employees believe they know when to question the ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.medpagetoday.com/opinion/focusonpolicy/107557"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 39
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/107xxx/107557.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "C0axLZ6witL/4Fs5qn8BEtF5NrefuEoNlIGN9+iuuUnu33wqTCu2ch82hgGFXZy7rAN/ncheq+lc6jdPA9KwBC/9XWBdRKYp+8smFntYvq3cbmMpVItP1itbvqa+V5Wxv7gWjG4GV9zTz0TANrPv5kpHBIBAJsGoVOoTtVf4OS6xNUtbtfVIkJ9ESxZwLrRPUwYlp6ycL+Y4casDWFlIkFl3CbBK78iNAZ7ghF2rypM4w+VZ1u63xOIrFj/0hW8cQjFXUDmellCU0awDYHpincer5JC/Lzbj9dgd94hjhNv3LbP68tzuuILkzIwDd1MZswikW1w6DjYWUn+6klPEA2XskRA+ZiHtlDppRfZS6MeNsZgy9tiKglXo/nWLeeH/3tD03gl4BcZOM+3u6TxMPOnorZ56hRu9hjEdpwlSnUfx9MgoujCy+494o9TJ4Z151quJ0yJ1Hms4hJxNYQJ3fWLOXMIhl3CZir8EOUWFbVaySGonB/Bm4/uYP+xMeVUI5Ssq7ufM4yRC/2Z81Xb34g==;EkvDNDwvNF8lI/zFoQ+m9A=="
 ---

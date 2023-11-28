@@ -9,7 +9,7 @@ ampWebUrl: "https://globalnews.ca/news/10110598/artificial-intelligence-canada-f
 cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/10110598/artificial-intelligence-canada-future/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 958
     height: 768
     isCached: true
-
-related:
-  - title: "PROTEIN INDUSTRIES CANADA EXPANDS CALL FOR ARTIFICIAL INTELLIGENCE PROJECTS"
-    excerpt: "Protein Industries Canada is opening an expanded call for projects under the Pan-Canadian Artificial Intelligence Strategy. This call will consider projects that span the entire agriculture and food value-chain,"
-    publishedDateTime: 2023-11-23T16:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/protein-industries-canada-expands-call-for-artificial-intelligence-projects-1032846281"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
 
 secured: "gLPW/8DEAxx7Z9mrFPukNabnMlgNoYUL3O7q61ZqOty4VGljq2blGZaC8dPSQbhzqp8Fs/vtnQfvalMAMYFe67vI/iEdVnXX9ilSEZG5/VHzYxEXtJNaHpwcHXP86nfH4Rzn7xtgdet+ZVEvjfNywKqoFbSCNIV5EGzrwEI1a9NAasIEOO+Gr1Dmr+kGy3t2nYlgicuRwaZkCrDe/70kR/OvTiw6fgq1skcUzIcfELMUP61o4nF+vsGJ01HjW+0uBwD8vJDa/aCiTy/gphDaJvK99dRHnOAVGb6dgEzkBF9KD1Atca8qonRgNIJTtkJvmsXqYueparWvy729rxUs6osPrsuNMTyv5aWubEqDSBw=;2DHxHBHQgTdmqqmNne8TnA=="
 ---

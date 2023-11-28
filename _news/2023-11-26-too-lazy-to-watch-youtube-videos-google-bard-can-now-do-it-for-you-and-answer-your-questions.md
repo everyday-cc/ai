@@ -35,20 +35,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Google Bard gets the ability to understand YouTube videos"
-    excerpt: "For example, recently Google announced that its AI chatbot Bard now offers a deeper analysis of YouTube video content, which could be very useful to some people. In all clarity, Bard’s ability to analyze YouTube videos is not new. It stems from a previous September update ."
-    publishedDateTime: 2023-11-23T15:36:00Z
-    webUrl: "https://knowtechie.com/google-bard-youtube-interpretation/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 24
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2023/11/Google-Bard-Extensions-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "codnADFf9hgd2azb8nrIrwUSPmsWKT4yqDdJQA3W3Y8qNbONW49KEWy5+dRPHfBSob0hVMPhVIk6V5BnikYeTif+8pyZbGkdCrEQy1HjBklmd6OJ7FLemoC/OTA6qxTCkliERLMFi8QYpBqB6P3KiefPmYYkjoFPaGFm1BpDipGZdG1MtiH8KbPo5PJdNl0RU8XnKduSh0EYwzOgKP2g41klzXUf0pOAffd95JxMfcoBpPsNWQtpyoCrxsJAdhtzTp9KGhZJxw5Ig5Z1QxUl2qUnYmgSWJ1GvJXB1/GNrhTFm3zzPjoRRt2YfL7e7O3zrqNAydSc2OrCUYhTYttsjnh7QHz1LddBLOoqZqs1iQA=;cACJvw1CubjCSP1RxD69QA=="
 ---

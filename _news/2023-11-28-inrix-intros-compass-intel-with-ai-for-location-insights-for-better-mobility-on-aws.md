@@ -39,15 +39,6 @@ related:
         width: 266
         height: 400
         isCached: true
-  - title: "Synopsys Partners with AMD, Intel, and Microsoft to Advance Generative AI in Semiconductor Industry"
-    excerpt: "This expands upon Synopsys’ recent announcement to deliver Synopsys.ai Copilot, the first in a series of GenAI capabilities for chip design. The integration of GenAI across the Synopsys.ai suite will provide chip designers with collaborative capabilities ..."
-    publishedDateTime: 2023-11-27T00:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/synopsys-partners-with-amd-intel-and-microsoft-to-advance-generative-ai-in-semiconductor-industry/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 22
 
 secured: "9mrk8WHZFOslnH6ouwxnhZ2xnQPkF4vlYxvUFbsROU1hVnpGlnR9a1Ojjo4ohVwW/JGAR6YlUTW7oCFXcN+si9+t6pBhVd448UH1KbGdKh2ot5ZFpJBlUgDfvVa5+Yi0D1vMLS4ZtaxfRtuYvzRD3d6Yp6B0XYDgut9JJuoCVObTU6StJAnRFyVmEOCE4NrpQ6iBTZyhXUWMnjAjXXfKNodg7cMCVQJXYsoY+Lm271YXDhXlT+GmqmpoIR71wxU3IcqBO5FtkXOoj4/brMi54KeVWjyQqLbTgx1zwC4/ZbqyLrE0rQ+LMi8MrfVqxEcOJQzXZnZSRKG5vuIMaQUSAWGZJkdqMYzopOUp5ZXHWmC1hZp3YF0VFpqR/+ZmDwC7rBirb66/sdZfa+BxEA45TvGSf4M8+F5ERd8GW+wjMA5C6PTfEywQg7duCjOuIgGR6/wQ7yJvorJNmNb4DHXhmiiHuvHc4rPeC7KSQgenMdNKBSauA4GnHCgsPgYeXtvTsmGg4dQPRAQ8m98hA0zojg==;WFVug987RdGlitSLP9/XjA=="
 ---

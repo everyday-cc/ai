@@ -7,8 +7,8 @@ originalUrl: "https://businessnewswales.com/new-research-paves-way-for-artificia
 webUrl: "https://businessnewswales.com/new-research-paves-way-for-artificial-intelligence-in-education/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: https//businessnewswales.com
@@ -34,6 +34,15 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 30
+  - title: "Pryon Accelerates AI Research and Innovation with Oracle"
+    excerpt: "Pryon selects Oracle Cloud Infrastructure as its cloud provider to ramp up AI-enhanced knowledge management research and large language model training RALEIGH, N.C., Nov. /PRNewswire/ -- Pryon, an ind"
+    publishedDateTime: 2023-11-28T12:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/n35977571/pryon-accelerates-ai-research-and-innovation-with-oracle"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "xq7YkRES0QoQWBrvR6APBGNVpmPBkFpCN7ePagtVaCinUyptjgk9mX/F2myi41dPUagpvIKwWhSrkWBOVKkLtHhCOZBF/5fmdaYqy0XXnM43Eo/FPzUV/cSRmiE2ZiLuNXGbWJ2DNWaCwXYmFfrpsjDr+jTMpswYleeLhW4lowgzhtalrRM46s8oQvymrUmFLeFBwB31zS8UQtey7/JcsNI+ouNNB+DGlQ3PH/9EsftYUdDdbINxHjMtGFajQuROXq4IEvknz0zdICL16VmJOrCsiLR51uggLKeboZIZJl8eMVjHQL353oiThIie0nVowT+kJDhU12pGwCdUcH+aaeUSEjF2qKF62h+BGSce4Ns=;6kWBgpbUIdvuQwy8aLy5Gw=="
 ---

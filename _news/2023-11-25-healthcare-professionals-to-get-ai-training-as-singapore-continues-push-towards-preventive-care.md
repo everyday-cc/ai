@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/singapore/artificial-intelligence-
 webUrl: "https://www.channelnewsasia.com/singapore/artificial-intelligence-healthcare-singhealth-ai-singapore-3943526"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "New framework for using AI in health care considers medical knowledge, practices, procedures, values"
-    excerpt: "Health care organizations are looking to artificial intelligence (AI) tools to improve patient care, but their translation into clinical settings has been inconsistent, in part because evaluating AI in health care remains challenging."
-    publishedDateTime: 2023-11-27T22:06:00Z
-    webUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 46
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-system.jpg"
-        width: 1920
-        height: 1372
-        isCached: true
   - title: "Navigating Healthcare Challenges: Artificial Intelligence Emerges As Crucial Ally In Patient Care"
     excerpt: "AI tools enable medical professionals to identify patients at risk of developing certain diseases, facilitating earlier intervention and personalized care. These tools not only assist in"
     publishedDateTime: 2023-11-27T08:55:00Z
@@ -56,6 +40,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Hyundai Unveils Robot-Operated EV Plant in Singapore"
+    excerpt: "After beating General Motors and Ford in US electric vehicle (EV) sales in Q3, Hyundai Motor Group plans to keep its momentum going in the market."
+    publishedDateTime: 2023-11-27T17:55:00Z
+    webUrl: "https://www.automation.com/en-us/articles/november-2023/hyundai-robot-operated-ev-plant-singapore"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 34
 
 secured: "gU9gW5O7rIC1q15KAZwem1+3vXVdngC3U+UDNctAi3XNWg/2ZoGNp5ahC564VcNqXAAPo/OIrMrxdUiwMFVWlAtmQStR+WBnM7oul2LJh+tP7EbEsotK/215kKo1nHP0IZWRK5Mb+OoHvjKo6y7yAGgUdoredklSzxPjV24lCMRHhdKeqn5vIRlRQJY7lzAlFeS9pI/gcBAfC94tCcrSi0HXFWv6UHXoYrsjuvHR6bdXfFiCjfc0fkqrd2erZiLoUWIxvhy3/c+XITLsn68Dz4wUJtnHFu6w2yEyfducJs7rTzkY+4nZb6wsjLm29rYUMuawUuYplhTWJjqwbz+BKZ7KhdeJsEzFV4ozmcy/2iI=;LJQFcyj+lClLJgvI7YAQ/g=="
 ---

@@ -75,15 +75,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "European port deploys facial recognition to tackle drug trade"
-    excerpt: "The first visitor screening system using facial recognition technology has been introduced to a Belgian terminal to combat the surge in drug smuggling at Europe’s biggest ports."
-    publishedDateTime: 2023-11-23T13:23:00Z
-    webUrl: "https://www.tradewindsnews.com/technology/european-port-deploys-facial-recognition-to-tackle-drug-trade/2-1-1559540"
-    type: article
-    provider:
-      name: TradeWinds
-      domain: tradewindsnews.com
-    quality: 19
 
 secured: "28MfeYZeoW+BrUlD1dQxTdK7mIbQ2BDnDoqzZ2A11hwwEyVVkHrsR86Dc/n3H6RvoUHT7drsmcZcQrX4wziulm0ZUk0a2udQ9djfIY1f+sFIaKhzWWGX1yHr0eZYuROIZ4eT1yw8H/cynXJOoHA+wj9jgmN112fKUX/8LwYW9wfUUQLBZeFycPSmbjqxQ+3Q1ljBjj+dL/l5p43pVgoOvfeZzrmLkG2SoDOdA0oHBKmwcjj0sIlN0x172cc8MN5KEoVEgaTb3XLJePQcRgdts4Ds37RrBl1+y0EKMc1dIV9cXc3po+620H4tHlbrLITZToRKrIy9dH7Tu29XAjZWvx1sOfMuewgiFhmPAO9JgpxHa6l4C3FsA5hiZPJLFJpajzRcCkuiB2a+dTwppqW1CT2IoGIDtyS+X1IULqm8CuKYE37sJ8OjHcbaOoWMJQHcVEkm43mgW83swX6DkIMFzlaPHREdKSjA5KkYbthygn6mOO58QxDMFte5wqc35Bhg/kT/P+KrIr8NKiMWYLfr3g==;IT0RS5lTpS8Is0PGF0mJkQ=="
 ---

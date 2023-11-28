@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI In Fintech Market Hits US$ 54 Billion, Fueled by a 16.5% CAGR Surge"
+    excerpt: "The size of the worldwide AI in fintech market was estimated at US$ 10.1 billion in 2021 and is predicted to increase by 16.4% year over year to US$ 11.76 billion in 2022. Demand is anticipated to increase from 2022 to 2032 at a (CAGR) of 16."
+    publishedDateTime: 2023-11-28T06:28:00Z
+    webUrl: "https://www.fmiblog.com/2023/11/28/ai-in-fintech-market-hits-us-54-billion-fueled-by-a-16-5-cagr-surge/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 39
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/11/AI-in-Fintech-Market.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Embedded Smart Cameras Market Eyes a Robust 34.2% CAGR Journey to US$ 1,24,725.1 Million by 2033"
     excerpt: "The embedded smart cameras market is poised for remarkable growth, with a projected (CAGR) of 34.2% expected between 2023 and 2033. This surge in growth is anticipated to culminate in a substantial market value,"
     publishedDateTime: 2023-11-24T01:26:00Z

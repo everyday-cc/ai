@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-th
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 34
+  - title: "Clarity AI and AWS advance sustainable investing at scale"
+    excerpt: "Clarity AI is collaborating with AWS to change how companies and consumers make informed decisions aligned with their sustainability goals."
+    publishedDateTime: 2023-11-28T13:32:00Z
+    webUrl: "https://ventureburn.com/2023/11/clarity-ai-and-aws-advance-sustainable-investing-at-scale/"
+    type: article
+    provider:
+      name: Ventureburn
+      domain: ventureburn.com
+    quality: 34
   - title: "Clarity AI taps AWS for sustainable investing at scale"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Clarity AI, a leading technology company that delivers environmental and social insights to ensure that companies and consumers invest and purchase sustainably,"
     publishedDateTime: 2023-11-27T18:47:00Z
@@ -58,6 +67,15 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
+    quality: 34
+  - title: "UK retailer The Very Group embarks on gen-AI push with AWS"
+    excerpt: "The Very Group's collaboration with AWS is geared towards improving the customer experience through personalisation"
+    publishedDateTime: 2023-11-28T09:01:00Z
+    webUrl: "https://www.computerweekly.com/news/366561332/UK-retailer-The-Very-Group-embarks-on-gen-AI-push-with-AWS"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
     quality: 34
   - title: "The Very Group selects AWS to transform the shopping experience with generative AI"
     excerpt: "The Very Group (‘Very’), a leading UK online retailer, today announced an expanded collaboration with Amazon Web Services (AWS) to accelerate"

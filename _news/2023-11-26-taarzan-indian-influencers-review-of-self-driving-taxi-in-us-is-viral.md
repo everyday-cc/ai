@@ -73,29 +73,6 @@ related:
         width: 1242
         height: 830
         isCached: true
-  - title: "A Spanish agency became so sick of models and influencers that they created their own with AI—and she’s raking in up to $11,000 a month"
-    excerpt: "Aitana, described by her creators as the first Spanish AI model, was so convincing an unnamed famous Latin actor even called the agency the ask her on a date."
-    publishedDateTime: 2023-11-23T16:51:00Z
-    webUrl: "https://www.aol.com/finance/spanish-agency-became-sick-models-145135613.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 7
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/3RPyh9p.sAn3X.CeZSKC5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/3a3d94d64be852e43683eb289b36349c"
-        width: 1199
-        height: 800
-        isCached: true
-  - title: "A Spanish agency became so sick of models and influencers that they created their own with AI—and she’s raking in up to $11,000 a month"
-    excerpt: "Aitana, described by her creators as the first Spanish AI model, was so convincing an unnamed famous Latin actor even called the agency the ask her on a date."
-    publishedDateTime: 2023-11-23T13:51:00Z
-    webUrl: "https://www.aol.com/spanish-agency-became-sick-models-145135613.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 0
 
 secured: "he/RrFLcijIHTVPpadI8oMcrcRdO/47tZKt3HcCZjXwtSYupDw2UliyUri3up0QuLZW8cQE2y0ljpZNrk/7ixNfffVCom254JDF2bKDeFGseMaTWuUx1ZxCmz0IeBFxydRRHXlmI+er97iIHUHMHxCnfsbIndfzslQk9UsTaO9LNUAzlLuif9stydPhvJRCtJwclqhG3oV7/BQ/hRfOTBNeFMLyDLsxKjDJ1a2iRPQEMTRdVCVaEsMw0ag53hFNeVilCg4aLVllDe7TAp77Id5e83ccNjI8b6GcaJ4bDTRRowyG31SlIA6Qv1NERu61pu5zo3HukhU1gEhMlU0vwqmjigGQlewFUAWesVx1lEgjU1Ad4dDVPcpptoAjdWwAe9gBvgjs9t8mRMELzSf5zmDgkQ/buQ7uoh3QGb//QrclAx7KpcwksvJdpT7kzWivkKNSQK+BgMQ04gjEkj46IwyPoeJFhmyYzc8TDEKzAoR/BVs+3ACf1eTQNjqkvoqE/OqynSMBvtF5LfdExxRDDPg==;e1XkGzYd4vXXpHbonVuNVg=="
 ---

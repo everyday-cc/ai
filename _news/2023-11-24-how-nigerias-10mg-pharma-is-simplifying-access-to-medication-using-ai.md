@@ -9,8 +9,8 @@ ampWebUrl: "https://disrupt-africa.com/2023/11/24/how-nigerias-10mg-pharma-is-si
 cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/11/24/how-nigerias-10mg-pharma-is-simplifying-access-to-medication-using-ai/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: disrupt-africa
@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Nigeria Tells Industrialists To Embrace Artificial Intelligence, Green Energy To Improve Efficiency"
-    excerpt: "By adopting these cutting-edge technologies, we can boost the competitiveness of our local manufacturers and position Nigeria as a global manufacturing hub.”"
-    publishedDateTime: 2023-11-23T14:16:00Z
-    webUrl: "https://www.arise.tv/nigeria-tells-industrialists-to-embrace-artificial-intelligence-green-energy-to-improve-efficiency/"
-    type: article
-    provider:
-      name: Arise
-      domain: arise.tv
-    quality: 5
 
 secured: "CkBmKcrB0QDKk2sj9fG9ddjiFwSB5OrMlSSfUShdq0wipQbFzM0lSWn1AJU+gSi5Z2xW5nTxnrn/XJITY9r4PlYYP2qbmeaCExGxF0nSDpJ4huC/gm298qqRZ864IiUXPyQjGhGSsC3oAyf8EkeUMTKaQdd+wB0jNKuRhZPGEmi5DUQHE7v1MhjxKX7ri7m3G4lJ+3OHlRc7L5nZ/vD8YZOCW0JLtKISo+/Zpoi6gOrTui2oZ23Nve31ZCuIU3tFAEYnSGKj5VjRgOTG45nvvgsxnN5GUhLwaLmDBEU7lGpMOtoBluAVwmurtpRbsyG77GoFu+YSqbv8mYuNvzUrU8EoGARtz/0B39XmkslXJIKGP2KfK0Xbq6BR0SrKTAAcJVebhtgqcypw9E1f5mTkQe+PKipy/OQAnV8Op86NkHuACtKIMxeAPi2WcapaxsRSCUX1UktgrvNmGTD2csizek3p6kKe56NLdS7HFGTQ61r2PyPQ9L+bHN6s8Ddfw8Hbjqx6utITeKgCcY4zNEPJPw==;NMCWAl4Bnpvv4pRkxjUhsg=="
 ---

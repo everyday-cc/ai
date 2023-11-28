@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "The Latest State of Play for the Regulation of AI in the UK Financial Services Industry"
+    excerpt: "conducted a joint survey to gain understanding on the use of machine learning (ML) in the UK financial services industry (the First ML Survey). The First ML Survey was sent to almost three hundred firms, including banks, credit brokers, e-money ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-latest-state-of-play-for-the-3421569/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 33
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.3900_5142.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "hyw2x0wcQ1kRJAhY5dAY2Fa9UQmjLBq412+YWCGKhzfIZbvfBhHlTdz+yc8hBcrOi4LkND2WlWEjIlwJqmfQ8CP39kJQLNJPTRR/XvGw/UVtEIDKr+ppNEEiwTTZJhKznEDWl1sfwST0XU4QsGtVqq4hTobgabbubdFEXqkPZ6zTcRmFiIdO2eR2xFh/WbWBTe0SPxFDnjPWzzRVhrV0HCdDGt6Gebp5x74cjq2Lgp9Tsz35nJFdG/lDYvUfqJ5VUD4qID6kPMdmoOGFCKO+/8CbqyH0l9UUNMVFigaVbj6W6OANz6ZveDlgqujFlzVa9Fq4zyE9r52zLynkz6ZE49ni1mZioYAzbVk6ovXHm2lNQsW9YNWWAkjrzr1Z3S2mwiTFMmVVVvPBghLXnMk84mI3B/QUFkHUkr8+6CVZQgzlZUqp3FCJXU8J2QM2KWA9tksHWwS9a1DmVikNNUOmv182eZ3uwNFckRkIUiRvenm6x0tXfeJRpCOnkAXRV8qXB0XHQOvp2hsHbAgqc5pwpg==;433qVtaGmZJoPwH28qCEAA=="
 ---

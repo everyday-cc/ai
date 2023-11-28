@@ -47,6 +47,15 @@ related:
         width: 1235
         height: 630
         isCached: true
+  - title: "ReWalk Robotics Demonstrates AI Autonomous Decision Making in Next Generation Exoskeleton Prototype"
+    excerpt: "As part of the Israel Innovation Authority’s MAGNET incentive program, the Human Robot Interaction Consortium (the “HRI Consortium”), the company has reached a milestone by integrating advanced sensing technologies and artificial intelligence (“AI ..."
+    publishedDateTime: 2023-11-28T08:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/rewalk-robotics-demonstrates-ai-autonomous-decision-making-in-next-generation-exoskeleton-prototype-1032854557"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
   - title: "Kyndryl Signs Multi-Year Strategic Collaboration Agreement with AWS to Accelerate Customer Adoption of Generative AI Solutions"
     excerpt: "Establish the Kyndryl and AWS Innovation Factory, a mutual investment to co-create generative AI and ML solutions focused on specific industry use cases. Leveraging the Innovation Factory and Kyndryl's data-driven capabilities, customers can jump-start their cloud modernization journey and accelerate their business transformation."
     publishedDateTime: 2023-11-27T22:37:00Z

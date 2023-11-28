@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/security-solutions-and-consulting-service
 webUrl: "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/"
 type: article
 quality: 120
-heat: 270
+heat: 280
 published: true
 
 provider:
@@ -54,6 +54,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/11/create_an_image_for_a_tech_news_article_titled__Amazon_AWS_aims_to_outshine_Microsoft_with_Gen_AI_offerings_at_Re_Invent_sneak_peek-e1701155872114.png?w=1200&strip=all"
         width: 1013
         height: 481
+        isCached: true
+  - title: "Amazon AWS Transcription Platform Enters a New Era with Generative AI"
+    excerpt: "Amazon Web Services (AWS) recently announced that its transcription platform, Amazon Transcribe, is now powered by generative AI."
+    publishedDateTime: 2023-11-28T14:01:00Z
+    webUrl: "https://www.jagranjosh.com/general-knowledge/amazon-aws-gets-generative-ai-1701180099-1"
+    ampWebUrl: "https://www.jagranjosh.com/general-knowledge/amp/amazon-aws-gets-generative-ai-1701180099-1"
+    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/amazon-aws-gets-generative-ai-1701180099-1"
+    type: article
+    provider:
+      name: jagranjosh.com
+      domain: jagranjosh.com
+    quality: 76
+    images:
+      - url: "https://img.jagranjosh.com/images/2023/November/28112023/aws-transcribe.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "How AI Is Transforming Leasing, Security And Resident Services"
     excerpt: "Check out Benzinga's favorite private market real estate offerings and start collecting your share of the rental income. From leasing and security to enhanced resident services, artificial intelligence (AI) can help property managers improve their ..."

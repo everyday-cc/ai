@@ -115,20 +115,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Tesla Full Self-Driving in process of entering Chinese market: reports"
-    excerpt: "US electric car maker Tesla said its Full Self-Driving (FSD) function is now in progress to deploy in the Chinese market, as reported by the Chinese media outlet CHINAFUND on Thursday, citing sources from Tesla China."
-    publishedDateTime: 2023-11-23T16:47:00Z
-    webUrl: "https://www.globaltimes.cn/page/202311/1302435.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-09-07/b0485774-df20-49dc-80d2-d35a46e1e088.jpeg"
-        width: 1009
-        height: 673
-        isCached: true
   - title: "Tesla's Self-Driving Tech Faces Roadblock In UK: Report"
     excerpt: "Tesla, Inc TSLA +0.64% Get Free Report is reportedly facing a potential ban on selling its \"full self-driving\" technology in Britain as new driverless car laws are likely introduced by the Department for Transport, preventing carmakers from labeling vehicles as \"self-driving\" unless they meet strict government standards."
     publishedDateTime: 2023-11-27T13:10:00Z

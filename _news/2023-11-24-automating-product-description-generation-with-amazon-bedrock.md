@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-product-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1235
         height: 630
         isCached: true
+  - title: "ReWalk Robotics Demonstrates AI Autonomous Decision Making in Next Generation Exoskeleton Prototype"
+    excerpt: "As part of the Israel Innovation Authority’s MAGNET incentive program, the Human Robot Interaction Consortium (the “HRI Consortium”), the company has reached a milestone by integrating advanced sensing technologies and artificial intelligence (“AI ..."
+    publishedDateTime: 2023-11-28T08:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/rewalk-robotics-demonstrates-ai-autonomous-decision-making-in-next-generation-exoskeleton-prototype-1032854557"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
   - title: "LaunchDarkly Collaborates with AWS to Generate Product Experiments Using Amazon Bedrock"
     excerpt: "LaunchDarkly, a platform that helps engineering teams build products that customers love, today announced an early"
     publishedDateTime: 2023-11-27T19:41:00Z

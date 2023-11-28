@@ -35,19 +35,14 @@ related:
       domain: businessinsider.com
     quality: 64
   - title: "IBM Collaborates with AWS to Launch a New Cloud Database Offering, Enabling Customers to Optimize Data Management for AI Workloads"
-    excerpt: "Combines IBM Db2 database and Amazon RDS to help businesses manage data with flexibility, security, and scalability to help unlock greater value. ARMONK, N.Y., Nov. 27, 2023 /PRNe"
-    publishedDateTime: 2023-11-27T20:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/27/9923586.htm"
+    excerpt: "Invent 2023 that it has been working with Amazon Web Services (AWS) on the general availability of Amazon Relational Database Service (Amazon RDS) for Db2, a fully managed cloud offering designed to make it easier for database customers to manage data for artificial intelligence (AI) workloads across hybrid cloud environments."
+    publishedDateTime: 2023-11-28T12:59:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-collaborates-with-aws-to-launch-a-new-cloud-database-offering-enabling-customers-to-optimize-data-management-for-ai-workloads/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/2286159/IBM_AWS_Social_Logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
+      name: datanami.com
+      domain: datanami.com
+    quality: 4
 
 secured: "juctWQq5pjuc1npI7bFcyb9pexpQTAb4wOt5D6dOhwd7xf+DOYuEhvqPcK9Y76vr2SSZXdrko8egkMz6mM0XQ2hnkvMpKAVeA6Rvc0sInahqCCJroofjKhEG4s8IZghj20hAW7yDnVmowz/tRn0Fc3lMzI9fSmEjp/JJ2/N+9NYGJapssVjgFZHaTr6BP0NN4pPW7oCea7mRVVJmbBgkKenGLTjXfh/eeco60n8pLZ7bquXFnJJIaSfdauxPv3TPgvyrxzTJDK9C9ZR+RZcwJhtU0aZUrvztbG/DoX/+xVkqHUIEYZ0wodqcO71HJIEYGhLEsE85oOKoIXzH8iWiXDgrAZc1AUwEcW6WqSCCX5k=;ru8VP7MkQXYmA55CZ3jEBQ=="
 ---

@@ -59,6 +59,22 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 59
+  - title: "Procurement in the age of AI"
+    excerpt: "But recent advances in natural language processing (NLP), pattern recognition, cognitive analytics, and large language models (LLMs) are “opening up opportunities to make procurement more efficient and effective,” says Julie Scully, director of ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/amazon_business_cart.png"
+        width: 1200
+        height: 1340
+        isCached: true
   - title: "Healthcare in the age of AI: How will artificial intelligence impact future decision-making?"
     excerpt: "Authored by: Constanza Salas, Jhon Galindo and Rachel Howard"
     publishedDateTime: 2023-11-24T11:06:00Z
@@ -138,6 +154,15 @@ related:
       name: Healthcare Dive
       domain: healthcaredive.com
     quality: 34
+  - title: "XTB hires head of artificial intelligence"
+    excerpt: "XTB, a global fintech offering online investing platform and mobile app, announced today the appointment of Tomasz Gawron to lead the company's Artificial Intelligence (AI) department."
+    publishedDateTime: 2023-11-28T13:43:00Z
+    webUrl: "https://www.finextra.com/pressarticle/98957/xtb-hires-head-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "g7lVS5OkZc9KiiNX/ln8Y0403hoVCmv0vkDDwZp6r2AIiY99aXiKiMn2Ugh14q6PyeypT/eEf/EBhaeCa8xEldkdXPBepjr3//JfMMUmWBymOxxUnewEzx8RqMxXAN6aFLwaQbJdf+guY70JlqKfS/ClVSglgYGC7Q5v9AX2dxy7zaQBQa2Lw4OolegOPb78w9ZoFAjOfnmDhJTHuamJFFFX6KrRrdq28LhUlgciwWw8aDX3W/5SLc8PkIXXTs8UI/iWujAA8ZlYWrd3X1DxHB7TJEu4z6dmlr4FSKltGry4I1A1WTaymrOyIw/LVM0pk+HnuplRWLxOQE1Sh5MDlRLC+P+kThBCzUxWbxERg0666iKIESWldwcBgZ5klEcRwC7J3vs+wl/Nx0dY/w3yuMIl0IRLOwscOEXuoe39UZL+4atHgMMkS5RJRxj/aTz5vRm8hOBlWxbkna79dmfKIPWGjGXrPNHOhahSBg8ejGxRVkytgphNECm7UohQmObesVANG6B/HwjV0H8kHwYwhw==;OPmrVDYA9yMmGroeI+lDOw=="
 ---

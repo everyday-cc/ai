@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Cross-government cybersecurity best practices announced for safer AI development"
-    excerpt: "The guidelines are broken down into four key areas within the AI system development lifecycle: secure design, secure development, secure deployment, and secure operation and maintenance. These cover the waterfront, including threat modeling, supply chain security, protecting AI and model infrastructure, and updating AI models."
-    publishedDateTime: 2023-11-27T20:15:00Z
-    webUrl: "https://siliconangle.com/2023/11/27/cross-government-cybersecurity-best-practices-announced-safer-ai-development/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/a-2729794_1280.png"
-        width: 1280
-        height: 1092
-        isCached: true
 
 secured: "RqgzNPQ0+LcpM/cf3MP653LDwzB4svBC0wvddJQwGvHyJa8i0jPHHFm6IRtMFriW0jAnmEdQaeUB/goWkcwMrB+u9Q5mw9kV4+DReGEBG5pAvFmlDNLPCdKsnSaYBSCgrMkTeH5AFu4nnXWEdZpIHuDof0c5D16vhZ52OWIMnQRM20Ris9vFR95n8E7zf4CjO8yzyEVItx5KaDVc546QKkblaggaAoQ6Qvu6lF+AssWF1y+p+248FZXe1jSrcYUOsBgstrNxLOmW4ogGiORX6kcz69hKSopi90IcrgnTOmQt04IrYQ0LQBBpvVEGaW1rU9KpTI4wbJ6x1KUZOMLB9Uv1WG4q1nspD+8KSukRzNQ=;koDbiGZ3UWbQOLppEoe0wA=="
 ---
