@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-11-13-is-artificial-intelligence-all-that-intelligent-ai-influencers-worry-about-wishful-thinking.md",
+      "title": "Is artificial intelligence all that intelligent? AI influencers worry about wishful thinking",
+      "excerpt": "Two of Time's top 100 influencers on artificial intelligence, Ted Chiang and Emily Bender, explore the potential dark side of generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/ai-chiang-bender-wishful-thinking/?n=@",
+      "originalUrl": "https://www.geekwire.com/2023/ai-chiang-bender-wishful-thinking/?n=@",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T17:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-13-ai-is-here-ypsilanti-schools-weigh-integrity-ethics-of-new-technology.md",
       "title": "‘AI is here.’ Ypsilanti schools weigh integrity, ethics of new technology",
       "excerpt": "Ypsilanti Community Schools has been carefully rolling AI-powered tools into its lesson plans since last summer, officials said.",
@@ -813,50 +856,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive.md",
-      "title": "Cognitive Technology Education Services, Inc. Unveils Revolutionary Gamified IT Learning App, \"CognITive\"",
-      "excerpt": "DAYTON, Ohio, Nov. 10, 2023 /PRNewswire/ -- Cognitive Technology Education Services, Inc., a pioneering company in the field of technology education, is thrilled to announce the upcoming launch of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive/article_9a52e99b-6bae-5462-8892-cd9d2bc7a978.html",
-      "originalUrl": "https://www.news-journal.com/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive/article_9a52e99b-6bae-5462-8892-cd9d2bc7a978.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/7/f6/7f635be9-5d37-5005-a0b6-6e05368d3ab4/654e42177da2c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T22:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
       ]
     },
     {

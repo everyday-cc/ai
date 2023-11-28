@@ -9,7 +9,7 @@ ampWebUrl: "https://bestmediainfo.com/amp/2023/11/google-may-invest-4-million-in
 cdnAmpWebUrl: "https://bestmediainfo-com.cdn.ampproject.org/c/s/bestmediainfo.com/amp/2023/11/google-may-invest-4-million-in-indian-ai-startup-corover-ai"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPFaJJTEFajL5wM3OT_UqB8iLdbzzPaK5pwKZtEO8vUTDzbnm-OP6XtsuwAeoLSBLGk_pd7jgaJlI2uG7iwmrpRo-LT1KI4Kjpks-sBR1av_v7HmxkVdjQPqnYgKUwnOLVcnqublCSdNXPmXzl8wrB-wROesc5bprAZ2-597IlIYiy7Qxi9jefEI0mGJc/s16000/20231127_124130_0000.png"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Adobe's Rephrase.ai Acquisition Marks Strategic Entry into Indian Startup"
-    excerpt: "Adobe's Rephrase.ai Acquisition Marks Strategic Entry into Indian Startup - Adobe, headquartered in San Jose, has completed its first acquisition of an Indian tech startup by"
-    publishedDateTime: 2023-11-23T05:57:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/adobes-rephraseai-acquisition-marks-strategic-entry-into-indian-startup-nid-226611-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 36
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/8146QZ57.jpg"
-        width: 570
-        height: 367
         isCached: true
   - title: "AI firm BRAIIN Holdings forays into India, plans to invest $100 million"
     excerpt: "Through several synergistic acquisitions, the company's market capitalization increased from $215 million to $572 million over the past six months"

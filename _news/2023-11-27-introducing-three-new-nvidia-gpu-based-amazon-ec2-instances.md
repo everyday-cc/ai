@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-three-ne
 webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-three-new-nvidia-gpu-based-amazon-ec2-instances/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
     quality: 52
     images:
       - url: "https://img.digitimes.com/newsshow/20231123pd214_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "GPU antitrust to challenge Nvidia"
+    excerpt: "Nvidia should have been prepared for antitrust action concerning AI GPUs, according to sources at motherboard manufacturers. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.digitimes.com/news/a20231127PD229/nvidia-ai-gpu-antitrust-motherboard.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231127pd229_files/2_b.jpg"
         width: 640
         height: 427
         isCached: true

@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft gives up on internet search to build a better AI brand"
+    excerpt: "The company is going all in on generative artificial intelligence, even if that means walking away from its fight over internet search with Google."
+    publishedDateTime: 2023-11-28T01:59:00Z
+    webUrl: "https://www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.html"
+    ampWebUrl: "https://www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/10/0-microsoft-copilot-100946694-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Adds ChatGPT AI To Windows 11's Command Line, But There's A Catch"
     excerpt: "ChatGPT's AI capabilities in the Windows Terminal can come in handy for explaining errors, generating commands and providing recommendations."
     publishedDateTime: 2023-11-27T07:43:00Z

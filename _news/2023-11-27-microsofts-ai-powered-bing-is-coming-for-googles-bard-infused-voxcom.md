@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft gives up on internet search to build a better AI brand"
+    excerpt: "The company is going all in on generative artificial intelligence, even if that means walking away from its fight over internet search with Google."
+    publishedDateTime: 2023-11-28T01:59:00Z
+    webUrl: "https://www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.html"
+    ampWebUrl: "https://www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/10/0-microsoft-copilot-100946694-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
     excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
     publishedDateTime: 2023-11-25T10:38:00Z

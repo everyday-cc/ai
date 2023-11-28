@@ -101,20 +101,6 @@ related:
         width: 400
         height: 250
         isCached: true
-  - title: "The fintech stocks surging in the AltFi Fintech Index amid a market rally"
-    excerpt: "Keep up with the latest in the world of fintech and alternative finance by subscribing to our newsletters. Get the latest headlines, expert insights and reports and be the first to know about upcoming events."
-    publishedDateTime: 2023-11-23T05:30:00Z
-    webUrl: "https://www.altfi.com/article/the-fintech-stocks-surging-in-the-altfi-fintech-index-amid-a-market-rally"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 23
-    images:
-      - url: "https://images.ctfassets.net/2chiqpnroeav/2FBPvgGjIFcejmMyqXJDLJ/cf822caf84afe7de0d8dccc58ed81964/pexels-anna-nekrashevich-6802042.jpg"
-        width: 5799
-        height: 3664
-        isCached: true
 
 secured: "9wJF75o5SwAPOPGXLVybB/Yptpsfz9SMc0z/URzDmF8BoAwL59rQLt3K0cADIXBJsxa4vyY5A0GPPoCwF186lH5UJb5nj4y5yI2YiRT9nr7CJ3r9qaQYXZRxMudq3wLGGtr1q0T6G89FoFGtWSSH6krTXni7qA4iGCwy9MxhIdtbG1FC7u7hwPzRHxrVhJS4NunxWK2EwVRTFkL4kzzxsTWbQa17AjTkopfAY8txKEnip1d4TsXDhmuBbHAPG2Hufd4SDYx5QCRWP58kNojXp/Er5UZNImlgRLU3hKozP8/BrGAVP2VYB69yQD4P8OM/e3sdCCP9doZyTZI0mf2p4CDPLE67iSVyeIJPJAt6FNE=;r/BHn574KrSoXZnBSejB2Q=="
 ---

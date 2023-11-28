@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/tech-mahindra-
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/tech-mahindra-launches-a-sports-cloud-platform-built-on-aws-hvmlx4ym?amp=1"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -97,6 +97,15 @@ related:
     provider:
       name: Canindia.com
       domain: canindia.com
+    quality: 19
+  - title: "Tech Mahindra Partners with AWS to Develop Sports Cloud Platform"
+    excerpt: "Tech Mahindra, a leading provider of digital transformation services, has teamed up with Amazon Web Services (AWS) to create a"
+    publishedDateTime: 2023-11-28T06:54:00Z
+    webUrl: "https://www.dqindia.com/tech-mahindra-partners-with-aws-to-develop-sports-cloud-platform/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
     quality: 19
   - title: "Tech Mahindra Launches A Sports Cloud Platform Built On AWS To Provide An Immersive Fan Experience Globally, Powered By AI, ML, Analytics, And AR/VR"
     excerpt: "To provide personalized fan experiences while offering data-driven insights to sports enthusiasts and organizations worldwide. Dubai: Tech"

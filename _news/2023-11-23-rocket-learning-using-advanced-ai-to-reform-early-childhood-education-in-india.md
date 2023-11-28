@@ -56,20 +56,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Adobe's Rephrase.ai Acquisition Marks Strategic Entry into Indian Startup"
-    excerpt: "Adobe's Rephrase.ai Acquisition Marks Strategic Entry into Indian Startup - Adobe, headquartered in San Jose, has completed its first acquisition of an Indian tech startup by"
-    publishedDateTime: 2023-11-23T05:57:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/adobes-rephraseai-acquisition-marks-strategic-entry-into-indian-startup-nid-226611-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 36
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/8146QZ57.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "AI firm BRAIIN Holdings forays into India, plans to invest $100 million"
     excerpt: "Through several synergistic acquisitions, the company's market capitalization increased from $215 million to $572 million over the past six months"
     publishedDateTime: 2023-11-26T12:30:00Z

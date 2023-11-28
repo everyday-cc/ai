@@ -55,6 +55,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The implications of AI on human morality"
+    excerpt: "Mergan Velayudan, Acting CIO at MultiChoice Group, discusses the importance of human oversight when it comes to AI and ethics."
+    publishedDateTime: 2023-11-28T06:49:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
 
 secured: "EyKjWhfFzlbcjuLYzndwvWsk2kEW37NihgkMWMmmz33StsRZLcHVnelgeIvFQvZalAtFYmBnBeUqpA9h9LewThN6KEGCssoybAqJH2NLo9ixCqnUeb8VLuw/p/bTew8BCa5rDFuKW1gVQsDjzeMPVHosZxV8LXxN2UQSjwz1rtGgxmYJisCiqvjWukU65Mmd39wqMVjC71wWW+6pu3t4DnI5QqKEWb5AU2X2dbKini/7q3/aZMeo9/vNNipeJCar6EC/I5wJsdE0+buOa24zj+nWtbAFoln6tx6930YkgSXavwAkdtFXKe1H5Y4Ab8RIAP6ueg3ywOpUDnfk3lm9D5SUoI0CuT19ffsI3nhvTvvIVBCmt1Ye5dAhDTIB9mG0xH7BbT3jEwCbG4DpTzHPGh1iYf5GXYjY6hVWz00fx7Hj6itZr7d2kIzVdgmeB2R5AIevbu1mafP1K1PtlXSlsj3+PwCjON9OMiDYWlgMxBHy0CHaP7sRqBe6530KyySV+5VoUmNuN96ot+AsfH59Nw==;wzSn+6AR2o+xZgwW97vPKw=="
 ---

@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-11-08-cast-ai-which-helps-companies-optimize-cloud-spend-lands-35m.md",
+      "title": "Cast AI, which helps companies optimize cloud spend, lands $35M",
+      "excerpt": "Cast AI, a startup developing an algorithm-driven platform to help companies automatically optimize cloud usage, has raised new venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/07/cast-ai-which-helps-companies-optimize-cloud-spend-lands-35m/",
+      "originalUrl": "https://techcrunch.com/2023/11/07/cast-ai-which-helps-companies-optimize-cloud-spend-lands-35m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-500665269.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/07/cast-ai-which-helps-companies-optimize-cloud-spend-lands-35m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/07/cast-ai-which-helps-companies-optimize-cloud-spend-lands-35m/amp/",
+      "publishedDateTime": "2023-11-07T18:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-britain-says-car-makers-not-owners-liable-for-self-driving-crashes.md",
       "title": "Britain Says Car Makers Not Owners Liable For Self-Driving Crashes",
       "excerpt": "Britain will make the makers rather than the owners of self-driving cars legally liable for any crashes under a framework for developing autonomous vehicles (AV), the government said.",
@@ -1188,57 +1240,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-andreessen-horowitz-is-not-at-all-techno-optimistic-about-this-particular-ai-scenario.md",
-      "title": "Andreessen Horowitz is not at all 'techno-optimistic' about this particular AI scenario",
-      "excerpt": "The famed venture capital firm a16z is fighting alongside major tech companies against potential copyright rules that would address generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/marc-andreessen-horowitz-ai-copyright-2023-11",
-      "originalUrl": "https://www.businessinsider.com/marc-andreessen-horowitz-ai-copyright-2023-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6549910136d588dc55cbe0dc?width=1200&format=jpeg",
-          "width": 620,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/marc-andreessen-horowitz-ai-copyright-2023-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marc-andreessen-horowitz-ai-copyright-2023-11?amp",
-      "publishedDateTime": "2023-11-07T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

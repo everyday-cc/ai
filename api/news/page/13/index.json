@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-11-14-ai-enhanced-enhanced-security-operations-solutions-startup-radiant-security-raises-15m.md",
+      "title": "AI-enhanced enhanced security operations solutions startup Radiant Security raises $15M",
+      "excerpt": "Artificial intelligence-enhanced security operations solutions startup Radiant Security Inc. today announced that it has raised $15 million in new funding for additional research and development.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/11/14/ai-enhanced-enhanced-security-operations-solutions-startup-radiant-security-raises-15m/",
+      "originalUrl": "https://siliconangle.com/2023/11/14/ai-enhanced-enhanced-security-operations-solutions-startup-radiant-security-raises-15m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/radiantsecurity.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-starting-holiday-shopping-early-use-amazons-buy-with-prime-to-score-benefits.md",
       "title": "Starting holiday shopping early? Use Amazon's Buy with Prime to score benefits.",
       "excerpt": "Amazon is extending its Prime benefits to users interested in shopping on a retailer's website but getting Prime benefits through an expanded program. Amazon’s Buy with Prime launched earlier ...",
@@ -899,49 +942,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-the-21-weirdest-most-hilarious-things-you-can-buy-on-amazon.md",
-      "title": "The 21 Weirdest, Most Hilarious Things You Can Buy on Amazon",
-      "excerpt": "Amazon is your go-to site for almost everything. Between the Amazon products you use every day and the perfect Amazon Prime gifts for everyone on your list, how could it not be? It’s smart ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/list/strange-things-amazon/",
-      "originalUrl": "https://www.rd.com/list/strange-things-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rd.com/wp-content/uploads/2021/06/The-21-Weirdest-Most-Hilarious-Things-You-Can-Buy-on-Amazon_FT_via-amazon.com_.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

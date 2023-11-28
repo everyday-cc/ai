@@ -2,36 +2,36 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-11-11-microsoft-celebrates-cognitive-services-milestones-with-new-ai-capabilities.md",
-      "title": "Microsoft celebrates Cognitive Services milestones with new AI capabilities",
-      "excerpt": "Value stream management involves people in the organization to examine workflows and other processes to ensure they are deriving the maximum value from their efforts while eliminating waste — of ...",
+      "path": "_news/2023-11-11-cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive.md",
+      "title": "Cognitive Technology Education Services, Inc. Unveils Revolutionary Gamified IT Learning App, \"CognITive\"",
+      "excerpt": "DAYTON, Ohio, Nov. 10, 2023 /PRNewswire/ -- Cognitive Technology Education Services, Inc., a pioneering company in the field of technology education, is thrilled to announce the upcoming launch of ...",
       "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
-      "originalUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20231110cl65428/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20231110cl65428/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2273645/Cognitive_Technology_Education_Services_Logo.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T16:32:00Z",
+      "publishedDateTime": "2023-11-10T16:24:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AI in Education"
       ]
     },
     {

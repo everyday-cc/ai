@@ -62,6 +62,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "GPU antitrust to challenge Nvidia"
+    excerpt: "Nvidia should have been prepared for antitrust action concerning AI GPUs, according to sources at motherboard manufacturers. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.digitimes.com/news/a20231127PD229/nvidia-ai-gpu-antitrust-motherboard.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231127pd229_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "os51gjLE0qMeI6MA2G1hreCnsQK4jDx8n8hmo4QtnxBJ62BiIOAVpNZqWWp0wTpkOxKSzJEZO399U8oNV81OycZfAqbSAldg1+geyS7Sy8zh71lyqb0ZVSbJ34RNaDSShPFVJ/tq2In6jj4ADMgPaV/asia5+5Z5GZ5wS0smcX9P7j+94/jTh6udhV2y41BW2vBXg80ZEcSi3o9g19Cdo2CkLEJWxVMkIfgZXfSNECqWyv3Vhq/gMdFw9L0r8tcUrUBSAvzHqCpH1gLVfXE6UHg8Q5EzLGVaE4RG/EpflgeTpPKnZpzT7nEhD/IyCh0ZNqnAkFYMXgFPAfr+hz3sMOMKqHWHk1Xcr2PZHMs/zexw9tYcQwK2fkTM5+UXylUvRjVWOG860HywpH9AIzFUm9C9Kgr253L3a+uEVxlKVHs+EHq+mnB+T5hycpFKBxvxfflmKou7tldFQEYtUnIy8pk2pphnfLlHixAhP918h0pntrZmwDjVNARGGiM6BtlbThECnStJhg1ZoYRfA3A4bg==;GxCoRCo35qWEImP02hz8mw=="
 ---

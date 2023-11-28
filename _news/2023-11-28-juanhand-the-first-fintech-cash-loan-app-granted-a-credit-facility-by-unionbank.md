@@ -87,20 +87,6 @@ related:
         width: 400
         height: 250
         isCached: true
-  - title: "The fintech stocks surging in the AltFi Fintech Index amid a market rally"
-    excerpt: "Keep up with the latest in the world of fintech and alternative finance by subscribing to our newsletters. Get the latest headlines, expert insights and reports and be the first to know about upcoming events."
-    publishedDateTime: 2023-11-23T05:30:00Z
-    webUrl: "https://www.altfi.com/article/the-fintech-stocks-surging-in-the-altfi-fintech-index-amid-a-market-rally"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 23
-    images:
-      - url: "https://images.ctfassets.net/2chiqpnroeav/2FBPvgGjIFcejmMyqXJDLJ/cf822caf84afe7de0d8dccc58ed81964/pexels-anna-nekrashevich-6802042.jpg"
-        width: 5799
-        height: 3664
-        isCached: true
   - title: "I Attended The Singapore FinTech Festival For The First Time As A Fresh Graduate. Here’s Why I Loved It"
     excerpt: "The Singapore FinTech Festival (SFF) is an annual flagship event organised in Singapore that brings together different fintech companies around the world"
     publishedDateTime: 2023-11-23T22:59:00Z
@@ -116,6 +102,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "3ej5wrYcvEk9f52nWmPZhjge147o6WNsd2T7f2vQV59c/jU6OhpoPViXgat5kOADtdcv9bZWqL1i7t1LF+ZoqIE7wCIXtvovT/GdYolC5wlKhSdAY2og4ahrJPumlRLfYBTvi44p5gaXHjdG3fB4Sc7GQzqzWmfT/WLz0jTkaTvxX+22d2UMoXATqcdCJBI4T4CpwzqWLFH6fWubuq3O/56E4OhaxbOwrVU0Of+jxEfZsTIfkittg5PvYcsuXbenUBKvgnV22QnjvJBwW0sLxMja1uMjGWadLHFvteTr+yuZclnqbNXcTxLBJCWypZApPvEp0FNOOviGrhBOGpSmM5LCORFZn3Kyl2cX7BeE0ww=;Uas4CB/+UgF9LHeGVeTkFg=="
+secured: "NKjzkdGzMiNLIBNKeFlFesVALrZA1e5lW32c3l1Z6FaWwCdPu6SNYdPR/yeTU5hBj2+VVFlYgoqd6egL7wLNSjyDx+O8CgfP2DHYYUVDyasSrXhRq5B6dMpNpcmr5hd+yKupBcku0sJBfUL1V6WvNXt5jOVrpt4Y7DvQgceUEJ+KypWAWtr8flWGFAZLSTU7F5C40b2mYnI+rQP7zWnrJ+hnzwS1o1L8WyleivRNVe+yvglp9duXQSUKeMoaSEPrl7ZU9nuzvM8KFyxvUxJBrkFE8yHQux8BZQSZm7j8n7cMEO6nD7c9unHI5QzW5/L86MubVcnZxRhCLM7r3v6c8PmOgvqcQIzQtEWXW6aRq3dLTDXkl9OsKCU4RuxtDLgcxXx2a84HiDCKbLNY7ocOvLBb9XjB7NVnhLWO0R+kPjySznthB714u9TPqVgzUdDmPFdW9ahRyguq9ADBaTjlVJ5GHewspW8NWor7eGSbGMFZKsvWGxcJPdC7ii3vOj27atiBfFkzutl3XUjRnywu/Q==;Eux/i02kzoKvFb4q6cifiQ=="
 ---
 

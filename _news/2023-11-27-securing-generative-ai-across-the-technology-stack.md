@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-27T15:34:00Z
 originalUrl: "https://techcrunch.com/2023/11/27/securing-generative-ai-across-the-technology-stack/"
 webUrl: "https://techcrunch.com/2023/11/27/securing-generative-ai-across-the-technology-stack/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1317246529.jpg?resize=1200,501"
@@ -195,6 +196,6 @@ related:
       domain: channelvisionmag.com
     quality: 19
 
-secured: "/vcDyfIBMhUJskORPiDio+V3R0Z5xb8bvuEyzX0k40YdxpfwMfcgTfH+nBkAFokj3U89QG9hFU/p6pPWmRGIBbEBm4htE/pvQh/Y17Jil//shcU0eksM0EFtmUt+jNgG91B2DrKTJyn3IrKKXKWMvNBoJpAJQN3ra0tQpRHitePZa8BXnOUJIHhv5rFZ0ejL6kQUwkHGLJFE1K5cCBb/i7U1NpN3+0mgc9bpI/d1vkeljsCVdNchlx39qgXGUTafeVLpMnye3DhWLp8Xi+f+rdFl2h1xI2NZx19PE02OfUSMu7vRbTTlCq1SFHn5gURJYNoqKVrMJQxxiUBzxtEsGI/lwvDa9PiXh3lHWLFPHuM=;VT4xTdV0wjwkxonvV5UFvA=="
+secured: "+Vpv1L0AxzDowZIgHxVzOIShxJ8WOVUYfiXiMul/AkCED3IvqyZ3gG/KRy7w8UAfj7BVhRxdSqJylBAg3+/IO/0jqvtBfzXjHXPkObBXUfT3gjQyWWqhASckazctCsTNqSqvHk/T2ALyVggOVBqtjZoVhqDsSz6lqwg3xKjtGIdQDiq6ZYlVZjLfHvpa/BF2sWyRB8jUgn07wk/ec9YiqVECQLReGYNQEphcW8BNHPkO1CyOC82VsuGZh0QsCHLhaOW6jef3UI6Kj/mCquDOkHJbYUsjw96Mg5s0ZCkJGmbpt7pFS7kwLS1SZoa1sDWniScs1kDT4SrA9Z13J8AJvkR50bgrx70jjU5SewG1WV26sLGvCPGPDS53xdH7CtdGPqzPR4prO8T3W3FnaIMEtoh/tFwcBppKln+eZC0FVux65zeMOabrscyXt0CQ5Ud+iR5SIfKI850vgolxcEqUQZruQ1FaGqIykA2bE66KpeatlNQDZq3mikTY9oTDNSFWEThkeR+cNsghmIBHTwx36w==;Cuqzn+fuhebIi2hbtivnTg=="
 ---
 

@@ -100,6 +100,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Developments Will Speed Up with the Defeat of anti-Altman Allies"
+    excerpt: "Created to build a machine version of AGI, OpenAI has been building it as fast as possible while, strategically, its CEO has been pushing an anti-competitive regulatory environment by warning that the innovation on AI is becoming extremely dangerous and governments should get involved."
+    publishedDateTime: 2023-11-28T06:15:00Z
+    webUrl: "https://iblnews.org/ai-developments-will-speed-up-with-the-defeat-of-anti-altman-allies/"
+    type: article
+    provider:
+      name: IBL News
+      domain: iblnews.org
+    quality: 37
+    images:
+      - url: "https://iblnews.org/wp-content/uploads/2023/12/samaltmantwarnings-696x392.jpg"
+        width: 696
+        height: 392
+        isCached: true
   - title: "OpenAI CEO Sam Altman Funds Longevity Startup With Goal To Increase Human Lifespan By 10 Years – Yahoo Finance"
     excerpt: "A startup firm backed by an artificial intelligence (AI) industry leader aims to expand human lifespan by 10 years.Sam Altman is the CEO of OpenAI, the"
     publishedDateTime: 2023-11-24T07:40:00Z

@@ -67,6 +67,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "AI chip boom fuels Taiwan firm’s 40% rally, beating Qualcomm"
+    excerpt: "A five-month rally in MediaTek looks set to extend as booming demand for smartphones and a promising new AI chip brighten the company’s outlook."
+    publishedDateTime: 2023-11-28T05:00:00Z
+    webUrl: "https://www.japantimes.co.jp/business/2023/11/28/tech/ai-taiwan-mediatek-qualcomm/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 54
+    images:
+      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/11/28/265999.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "AI chip boom fuels Taiwan firm's 40% rally, beating Qualcomm, peers"
     excerpt: "The buzz surrounding MediaTek casts a spotlight on growing competition between semiconductor firms that are exploiting the use of AI to grab a larger share of the smartphone business"
     publishedDateTime: 2023-11-27T12:53:00Z

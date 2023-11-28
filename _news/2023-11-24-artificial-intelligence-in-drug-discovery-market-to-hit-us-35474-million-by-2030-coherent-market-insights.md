@@ -26,6 +26,22 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "AI In Fintech Market Hits US$ 54 Billion, Fueled by a 16.5% CAGR Surge"
+    excerpt: "The size of the worldwide AI in fintech market was estimated at US$ 10.1 billion in 2021 and is predicted to increase by 16.4% year over year to US$ 11.76 billion in 2022. Demand is anticipated to increase from 2022 to 2032 at a (CAGR) of 16."
+    publishedDateTime: 2023-11-28T06:28:00Z
+    webUrl: "https://www.fmiblog.com/2023/11/28/ai-in-fintech-market-hits-us-54-billion-fueled-by-a-16-5-cagr-surge/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 39
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/11/AI-in-Fintech-Market.jpg"
+        width: 750
+        height: 500
+        isCached: true
+
 secured: "c9iyvRGCIyPMQctaYME0In6NqFo4+S3PVUIofJ2RoSeVUGf0OpufOdBttDXbebXGKyhC8UHweEu0LhbocNRZP+pO90svC6NfDX7H8tYrc6/wPWHxymDY9bwCwbPnur/oXarRmjTY/m+aE5WrepsUs5uF4DjuHky82KeFo/YYJh9EhPD0xdelrPMGTdCXi5dwsM9d8oUPcvPZergNN0JrFgEcJsd2qtLUl/aoKOwd7dvFTEPpqC1k3tzX6AAgmb5RLrMy29YUSa8tyOTK6q8XmJ7NqadIvs487ND/oG91vLWeByH09Dkld9tXqoYF2YOvHLQjlqP2bkX6XRkJLTInY2mElpO39N/WYaJpFBuCq1Q=;LkosLw8LfpDbLCWnIh8KIA=="
 ---
 

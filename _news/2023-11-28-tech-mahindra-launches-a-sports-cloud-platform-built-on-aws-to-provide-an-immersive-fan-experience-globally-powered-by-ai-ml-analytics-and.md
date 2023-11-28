@@ -107,6 +107,15 @@ related:
       name: Canindia.com
       domain: canindia.com
     quality: 19
+  - title: "Tech Mahindra Partners with AWS to Develop Sports Cloud Platform"
+    excerpt: "Tech Mahindra, a leading provider of digital transformation services, has teamed up with Amazon Web Services (AWS) to create a"
+    publishedDateTime: 2023-11-28T06:54:00Z
+    webUrl: "https://www.dqindia.com/tech-mahindra-partners-with-aws-to-develop-sports-cloud-platform/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
 
 secured: "9SfkzWIJeCskJLX5xVCc7M/amsU+hZ+XX0EAMgE0eQrD5sh+07sDZgCbC6NQLg0RnqBy3LOzgioyo+UiTFjEYoEVBRAVyezXalgrQwN6bWnoxik41SH3VfHrxTVLkMri69Y/hSx9HACpnMXHUH9P8NL4ZNWoTjVyT3kFjU82HeBxIpwKmxTRQ40FXq0hycgK/NapIeTMA31nPDaqYw1bPP4EimaArJKuucuZ5MmJ/XAXqihOYbDrkKOzmZDTTnlKdIiv1Q03oIaSp8AiVmC+9Jc6q0hu/ldXeD0u8lsNaR+Tnp0AeYkFr4igHd2fqmQ22rRk6JnXYIH1mc7AtzdqYOZIQyc2FnyJD3w0Yeusuk/rC6JSw0Ze5ZwvREU9k13gGQo3YY4XO5PH43cCrnlqX4xwk7C2ANFhXgIfZ58DBBexK2sYbwdgkYvDt3pqqj1ytQxcFW4WuTUgoRffLUMrbbg5vIpZDGLvbzQRAii+gLZytaKjxVOvwV5Yh7i4ty/Pnku6CT8i28GBlI6IevFRqA==;a8LdAtOgCFA22jn9Bq3kEg=="
 ---

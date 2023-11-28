@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-25-what-the-fight-at-universities-reveals-about-the-future-of-ai-and-society.md",
+      "title": "What The Fight At Universities Reveals About The Future Of AI and Society",
+      "excerpt": "The trouble at universities is a mirror of the trouble in society. AI can make it worse or fix it, depending on our collective choices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-at-universities-reveals-about-the-future-of-ai-and-society/",
+      "originalUrl": "https://www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-at-universities-reveals-about-the-future-of-ai-and-society/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/656082929c619314f8c602ee/0x0.jpg?format=jpg&crop=3000,1686,x0,y155,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-at-universities-reveals-about-the-future-of-ai-and-society/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-at-universities-reveals-about-the-future-of-ai-and-society/amp/",
+      "publishedDateTime": "2023-11-24T16:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-ai-drives-chip-sector-recovery.md",
       "title": "AI drives chip sector recovery",
       "excerpt": "The growing demand for AI applications has made a visible impact on the semiconductor sectorGlobal semiconductor sector revenues have grown for two",
@@ -53,7 +104,7 @@
       "originalUrl": "https://www.forbes.com/sites/simonconstable/2023/11/24/ai-wizard-sam-altman-shows-what-real-leadership-is-his-bosses-were-clueless/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -104,7 +155,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -627,7 +678,7 @@
       "originalUrl": "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -998,7 +1049,7 @@
       "originalUrl": "https://www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1136,40 +1187,6 @@
         "Facebook AI",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-23-artificial-intelligence-are-ai-chips-different-from-traditional-processors.md",
-      "title": "Artificial Intelligence: Are AI chips different from traditional processors",
-      "excerpt": "AI chips executes numerous calculations parallelly, exhibiting remarkable speed and efficiency advantage over CPUs",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
-      "originalUrl": "https://www.business-standard.com/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.business-standard.com/amp/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
-      "cdnAmpWebUrl": "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/artificial-intelligence-are-ai-chips-different-from-traditional-processors-123112300182_1.html",
-      "publishedDateTime": "2023-11-23T04:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

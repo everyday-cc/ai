@@ -9,7 +9,7 @@ ampWebUrl: "https://www.steelguru.com/amp/story/steel/revolutionizing-steel-mill
 cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/steel/revolutionizing-steel-mill-operations-with-ai-vision"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Saving corals with artificial intelligence"
-    excerpt: "Australian Taryn Foster has spent her whole life exploring the coral reefs in Western Australia. As a result, she has witnessed the damage caused by climate change. With her company Coral Maker, she now wants to take up the fight for corals - with artificial intelligence (AI) and robotics."
-    publishedDateTime: 2023-11-23T06:20:00Z
-    webUrl: "https://www.sbs.com.au/language/german/en/podcast-episode/mit-kunstlicher-intelligenz-korallen-retten/cbdi08fi5"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 39
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/ff52531/2147483647/strip/true/crop/8419x4736+0+226/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F5d%2Fca%2F7e6df41c4e52b83af99b574d4e57%2Fcoral-maker-autodesk-111.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Schneider Electric utilises Generative AI to revolutionise operations"
     excerpt: "Schneider Electric, an expert in the digital transformation of energy management and automation, is leveraging Generative Artificial Intelligence (GenAI) by incorporating Microsoft Azure OpenAI to tra"
     publishedDateTime: 2023-11-27T16:35:00Z

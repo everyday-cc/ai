@@ -34,18 +34,18 @@ related:
         height: 1152
         isCached: true
   - title: "UP Assembly to introduce speech recognition software"
-    excerpt: "The Uttar Pradesh Assembly will now introduce speech recognition software. A tender has been issued for the development and procurement of the software and the entire process is being conducted through the e-tender portal."
-    publishedDateTime: 2023-11-28T03:59:00Z
-    webUrl: "https://www.ibtimes.co.in/assembly-introduce-speech-recognition-software-864259"
+    excerpt: "LUCKNOW: The Uttar Pradesh Assembly will now introduce speech recognition software. A tender has been issued for the development and procurement of the software and the entire process is being conducted through the e-tender portal."
+    publishedDateTime: 2023-11-28T04:56:00Z
+    webUrl: "https://www.punjabnewsexpress.com/national/news/up-assembly-to-introduce-speech-recognition-software-230523"
     type: article
     provider:
-      name: IBTimes India
-      domain: ibtimes.co.in
+      name: punjabnewsexpress
+      domain: punjabnewsexpress.com
     quality: 39
     images:
-      - url: "https://data1.ibtimes.co.in/en/full/792460/lucknow-monsoon-session-uttar-pradesh-assembly.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.punjabnewsexpress.com/images/article/article230523.jpg"
+        width: 740
+        height: 494
         isCached: true
 
 secured: "7TerXImmudPYJxzlK8N0OdB9DvQ3KwVqme/m8YXQ8jO5fUBJkhdErUsqWHyMgefUD8QF7J7zbu4DustI/YVrV/3rVl3UYgrL1BaCd0AZdu/KVPprSMrz+uXvgUS4nLvQrZQthtTaqCEAFfCANr6B6YpeEemV/4WgGZ1bWNBGruv8dtU+dpU82ANsc5zfGydlxLaAayWwv+2YBAuJLNghEyeHtS43YxxeNwxwVvI3An4orq1u0LJkbKaEIjkVlSEjVsWHUSxA+FqA1PX7m1rKmGl+xsNQHJNqHYpwsZqz0JLeQdm6/jZ1aHYLkW12PUBp9iEDxpDdd4MX0PHjBwIyDzu9TyPAn8jyIZE92iyT0xuncWE61kpa7/bZhduA7tjfz0/J+6dniQ7C4d+6/3zdXIiuIQ67oGr9Cgxjbq3ixghOzjnMOc8dz8gaFfuvOiEYRcE/r/q/ocgnS0516dK2NjmSqPKl+UWyTfh51kEi5Dnf+Ac/W2mlEFYD5NnKVm7ev6UA4zSsn24di8VQv/daUQ==;kYGgyVMuMiC3sVWYoU1qlA=="

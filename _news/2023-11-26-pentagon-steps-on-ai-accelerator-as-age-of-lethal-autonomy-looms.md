@@ -90,15 +90,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon Invites Applications for Free Courses on Artificial Intelligence"
-    excerpt: "Amazon, the US-based internet giant, has announced that it would offer free educational courses on generative AI as part of"
-    publishedDateTime: 2023-11-23T05:41:00Z
-    webUrl: "https://www.dqindia.com/amazon-invites-applications-for-free-courses-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
   - title: "Pentagon’s AI initiatives accelerate hard decisions on lethal autonomous weapons."
     excerpt: "\"The Department of Defense is struggling to adopt the AI developments from the last machine-learning breakthrough,\" said Gregory Allen, a former top Pentagon AI official now at the Center for Strategic and International Studies think tank."
     publishedDateTime: 2023-11-27T18:44:00Z

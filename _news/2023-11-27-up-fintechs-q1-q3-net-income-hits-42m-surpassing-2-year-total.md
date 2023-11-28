@@ -25,17 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "UP Fintech's Q1-Q3 Net Income Hits $42M, Surpassing 2-Year Total"
-    excerpt: "UP Fintech added 28,803 new global account holders, bringing the total to 2.15 million. Funded accounts increased by 24,604, reaching approximately 865,500, marking a 14.8% YoY growth. The total account balance amounted to approximately US$18."
-    publishedDateTime: 2023-11-28T04:10:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2311/S00405/up-fintechs-q1-q3-net-income-hits-42m-surpassing-2-year-total.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2311/S00405/up-fintechs-q1-q3-net-income-hits-42m-surpassing-2-year-total.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2311/S00405/up-fintechs-q1-q3-net-income-hits-42m-surpassing-2-year-total.htm"
+  - title: "UP Fintech’s Q1-Q3 Net Income Hits $42M, Surpassing 2-Year Total"
+    excerpt: "UP Fintech Holding Limited (“UP Fintech” or the “Company”, Nasdaq: TIGR, and all its subsidiaries and consolidated entities), a leading online brokerage firm committed to redefining global investing through next-generation technologies,"
+    publishedDateTime: 2023-11-28T05:01:00Z
+    webUrl: "https://business.scoop.co.nz/2023/11/28/up-fintechs-q1-q3-net-income-hits-42m-surpassing-2-year-total/"
     type: article
     provider:
       name: Scoop
       domain: scoop.co.nz
     quality: 24
+    images:
+      - url: "https://img.scoop.co.nz/stories/images/1509/scoop_placeholder.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "JXjZkqLfTQCRdhStECaTc9230ULMGDc9BkUEyQZrQbjHbnY2I9HtHJjRtGzNWvDOtu9WEeSXUDdgP0YFIr/LB4ji2XRFwzoromRkeE4h6PrB7p2Xo+DTybh6hM9rKHMp04kl7SYl43NJX0vk1PnaIXhF83z56ED2fis0dGHf9RyU+CLoXXuEQ/f2vdMVY+l+Yu/9G9ThEJPhlyUl4xk+uNVFrNnJ7SgLvdWJc5Fr2bz4G/MAr5MjgUX11R2j0c1I0bZgjAb50mfTUdqavXkv7sImnE5odw6q9AVo3zTaWug/7jFaqx+EuWHHq3clUDiYxvHY0fvIJ0HEq9GFarWr8wrl8xQVhTxbAr/z9zmwjAI=;X6z9+DESUePepC147rhwGg=="
 ---

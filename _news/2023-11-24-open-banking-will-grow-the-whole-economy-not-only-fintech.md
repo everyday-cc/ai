@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?121001"
         width: 400
         height: 250
-        isCached: true
-  - title: "The fintech stocks surging in the AltFi Fintech Index amid a market rally"
-    excerpt: "Keep up with the latest in the world of fintech and alternative finance by subscribing to our newsletters. Get the latest headlines, expert insights and reports and be the first to know about upcoming events."
-    publishedDateTime: 2023-11-23T05:30:00Z
-    webUrl: "https://www.altfi.com/article/the-fintech-stocks-surging-in-the-altfi-fintech-index-amid-a-market-rally"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 23
-    images:
-      - url: "https://images.ctfassets.net/2chiqpnroeav/2FBPvgGjIFcejmMyqXJDLJ/cf822caf84afe7de0d8dccc58ed81964/pexels-anna-nekrashevich-6802042.jpg"
-        width: 5799
-        height: 3664
         isCached: true
   - title: "I Attended The Singapore FinTech Festival For The First Time As A Fresh Graduate. Here’s Why I Loved It"
     excerpt: "The Singapore FinTech Festival (SFF) is an annual flagship event organised in Singapore that brings together different fintech companies around the world"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bnnbloomberg.ca/ai-chip-boom-fuels-taiwan-firm-s-40-rall
 cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/ai-chip-boom-fuels-taiwan-firm-s-40-rally-beating-qualcomm-and-peers-1.2003756.amp.html"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/11/28/2023-10-26T054629Z907204938RC2VCZ9CSNH8RTRMADP3JAPAN-AUTOS-DENSO.JPG"
         width: 860
         height: 573
+        isCached: true
+  - title: "AI chip boom fuels Taiwan firm’s 40% rally, beating Qualcomm"
+    excerpt: "A five-month rally in MediaTek looks set to extend as booming demand for smartphones and a promising new AI chip brighten the company’s outlook."
+    publishedDateTime: 2023-11-28T05:00:00Z
+    webUrl: "https://www.japantimes.co.jp/business/2023/11/28/tech/ai-taiwan-mediatek-qualcomm/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 54
+    images:
+      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/11/28/265999.jpg"
+        width: 1000
+        height: 666
         isCached: true
   - title: "Taiwan tech firm’s stock soars 40% on booming demand for smartphones and its new AI chip—leaving U.S. rival Qualcomm behind"
     excerpt: "NurPhoto - Getty A five-month rally in MediaTek Inc. looks set to extend as booming demand for smartphones and a promising new AI chip brighten the company’s outlook. The Taiwanese tech firm’s stock has soared almost 40% since the end of June ..."

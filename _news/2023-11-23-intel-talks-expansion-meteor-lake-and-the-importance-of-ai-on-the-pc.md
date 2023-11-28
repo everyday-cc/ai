@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-ex
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "The implications of AI on human morality"
+    excerpt: "Mergan Velayudan, Acting CIO at MultiChoice Group, discusses the importance of human oversight when it comes to AI and ethics."
+    publishedDateTime: 2023-11-28T06:49:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
 
 secured: "+VJ0MHMb6JlwMerBZ+Yl8rjS8T5xVDQW9NZPrvwoDNvrXeKZaDjgvK93eTZ0a3lz2rYvvP+U8vBB5zqh4FEY6ThI/DLQHRTAE7umefarzKjgEuOqCzFK+8apGxCLUDRT9S051PlP+QgTmyu3mouMSLyhCLa6S5u+7PmBmZvZ8muZ1k0NdlcuVPv+5ulMxk0XD5+59L63Zjc4cvNx+lt8cdpdAvbM/zYPzAm3j++VxNV/LREyF85j4XzqDDWKdaldJsGNMoqexC9leu4b+TsHqNTgGFJ4Ga8xC9TAM+St0eHNqJmkwuajavuaYUoKOJQd5aWXwgnZRR7fSnoqAE6doBLtkdoAchWLSuEEtvUTPMIDzvmVfdfs3xFynPpbC5KAmVsuYbEcS2SKXe9VETCmxzfST2Dv9z8RWkAnWeAAiiQvJ+sxQ4lr3NppX603iAY9VTXRTBd+A1C+vN2U/YEeMtyDZr13pQnekMmVJKwo4p6RWayM+15sj8YNt6KIj12YQV43vsakD87x/KGR5lRCiQ==;tDnMD8oULMhJIPtmB7m7mw=="
 ---

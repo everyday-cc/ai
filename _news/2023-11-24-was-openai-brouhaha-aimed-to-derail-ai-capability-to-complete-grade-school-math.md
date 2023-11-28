@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 785
         isCached: true
-  - title: "Thursday briefing: What the meltdown at OpenAI means for the future of artificial intelligence"
-    excerpt: "Why Sam Altman was fired as the company’s CEO, why he was rehired – and what it all means for the field"
-    publishedDateTime: 2023-11-23T05:53:00Z
-    webUrl: "https://www.theguardian.com/world/2023/nov/23/first-edition-openai-sam-altman"
-    ampWebUrl: "https://amp.theguardian.com/world/2023/nov/23/first-edition-openai-sam-altman"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/nov/23/first-edition-openai-sam-altman"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 60
-    images:
-      - url: "https://i.guim.co.uk/img/media/4f8463ac76baecd281714a8d1cd460f04856f42a/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=cbf2b7b0a793fb8fd30d3e7c0a7e97ae"
-        width: 620
-        height: 372
-        isCached: true
   - title: "AI Startup Cohere’s CEO Slams Effective Altruism in Wake of OpenAI Drama"
     excerpt: "The chief executive officer of artificial intelligence startup Cohere criticized the “self-righteousness” of the effective altruism movement and those overly concerned with th"
     publishedDateTime: 2023-11-24T01:06:00Z

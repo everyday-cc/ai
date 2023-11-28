@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/simonconstable/2023/11/24/ai-wizard-sam
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonconstable/2023/11/24/ai-wizard-sam-altman-shows-what-real-leadership-is-his-bosses-were-clueless/amp/"
 type: article
 quality: 84
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/d4876b120477fefa6ed3e124024779fef07ef007/0_77_5392_3237/master/5392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=579b6731d066428c619e2d6ad34bc241"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI Developments Will Speed Up with the Defeat of anti-Altman Allies"
+    excerpt: "Created to build a machine version of AGI, OpenAI has been building it as fast as possible while, strategically, its CEO has been pushing an anti-competitive regulatory environment by warning that the innovation on AI is becoming extremely dangerous and governments should get involved."
+    publishedDateTime: 2023-11-28T06:15:00Z
+    webUrl: "https://iblnews.org/ai-developments-will-speed-up-with-the-defeat-of-anti-altman-allies/"
+    type: article
+    provider:
+      name: IBL News
+      domain: iblnews.org
+    quality: 37
+    images:
+      - url: "https://iblnews.org/wp-content/uploads/2023/12/samaltmantwarnings-696x392.jpg"
+        width: 696
+        height: 392
         isCached: true
   - title: "OpenAI CEO Sam Altman Funds Longevity Startup With Goal To Increase Human Lifespan By 10 Years – Yahoo Finance"
     excerpt: "A startup firm backed by an artificial intelligence (AI) industry leader aims to expand human lifespan by 10 years.Sam Altman is the CEO of OpenAI, the"

@@ -304,6 +304,50 @@
       ]
     },
     {
+      "path": "_news/2023-11-11-cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive.md",
+      "title": "Cognitive Technology Education Services, Inc. Unveils Revolutionary Gamified IT Learning App, \"CognITive\"",
+      "excerpt": "DAYTON, Ohio, Nov. 10, 2023 /PRNewswire/ -- Cognitive Technology Education Services, Inc., a pioneering company in the field of technology education, is thrilled to announce the upcoming launch of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20231110cl65428/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20231110cl65428/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2273645/Cognitive_Technology_Education_Services_Logo.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T16:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-german-ai-startup-hope-of-europe-cites-existential-danger.md",
       "title": "German AI startup, hope of Europe, cites 'existential danger'",
       "excerpt": "Europe's hope to rival OpenAI, Aleph Alpha, may have just raised close to 500 million euros ($534 million) from investors this week, but its co-founder said Friday the start-up was in a battle to even survive.",
@@ -1165,57 +1209,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-the-ai-debate-is-happening-in-a-cocoon.md",
-      "title": "The AI Debate Is Happening in a Cocoon",
-      "excerpt": "Earlier this year, executives at Anthropic, Google DeepMind, OpenAI, and other AI companies declared in a joint letter that “mitigating the risk of extinction from A.I. should be a global priority alongside other societal-scale risks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/ideas/archive/2023/11/focus-problems-artificial-intelligence-causing-today/675941/",
-      "originalUrl": "https://www.theatlantic.com/ideas/archive/2023/11/focus-problems-artificial-intelligence-causing-today/675941/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/trZtLmEi_KYz6aK0zWMAxjqZ3Hg=/0x43:2000x1085/1200x625/media/img/mt/2023/11/robot_calendar/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T21:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
