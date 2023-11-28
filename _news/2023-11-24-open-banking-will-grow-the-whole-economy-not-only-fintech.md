@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/fintech-deal-day-new-york-shutter.jpeg?width=1200&height=800&fit=crop"
         width: 830
         height: 553
-        isCached: true
-  - title: "I Attended The Singapore FinTech Festival For The First Time As A Fresh Graduate. Here’s Why I Loved It"
-    excerpt: "The Singapore FinTech Festival (SFF) is an annual flagship event organised in Singapore that brings together different fintech companies around the world"
-    publishedDateTime: 2023-11-23T22:59:00Z
-    webUrl: "https://dollarsandsense.sg/attended-singapore-fintech-festival-first-time-fresh-graduate-heres-loved/"
-    type: article
-    provider:
-      name: DollarsAndSense
-      domain: dollarsandsense.sg
-    quality: 8
-    images:
-      - url: "https://dollarsandsense.sg/wp-content/uploads/2023/11/SFF-Map.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Exclusive video: Fintech risk – when things go wrong"
     excerpt: "In a fireside chat on Stage 1, Alex Phillips, SVP of FINPRO at Marsh, discusses the common risks for emerging fintechs today. Having worked in the insurance industry for over 20 years, Phillips delivers key insights on ways fintechs can protect their business from the pitfalls on the journey to sustained growth."

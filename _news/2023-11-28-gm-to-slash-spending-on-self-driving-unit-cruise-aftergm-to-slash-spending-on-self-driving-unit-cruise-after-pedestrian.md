@@ -19,22 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving truck lane more than 20 miles long being developed in Texas"
-    excerpt: "TxDOT is partnering with a startup company to launch a program designed to improve self-driving trucks on Texas roadways."
-    publishedDateTime: 2023-11-23T21:39:00Z
-    webUrl: "https://www.khou.com/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
-    ampWebUrl: "https://www.khou.com/amp/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/texas/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
+  - title: "GM to cut spending on self-driving unit Cruise after accident"
+    excerpt: "Roula Khalaf, Editor of the FT, selects her favourite stories in this weekly newsletter. General Motors is to scale back ambitions for its self-driving unit Cruise following a pedestrian injury last month, which led it to suspend testing. The carmaker ..."
+    publishedDateTime: 2023-11-28T04:10:00Z
+    webUrl: "https://www.ft.com/content/ce34d544-d32a-4ccb-a69a-b2d24525becd"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 43
-    images:
-      - url: "https://media.khou.com/assets/KVUE/images/1f96cf21-5a34-46a3-b001-0c0b49348bb6/1f96cf21-5a34-46a3-b001-0c0b49348bb6_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
+      name: The Financial Times
+      domain: ft.com
+    quality: 4
+  - title: "Is the Self-Driving Taxi Revolution Slowing Down?"
+    excerpt: "The hype around self-driving taxis in recent years seemed to have hit a fever pitch, but recent accidents and negative publicity appear to have set the new technology back somewhat."
+    publishedDateTime: 2023-11-27T17:00:00Z
+    webUrl: "https://oilprice.com/Energy/Energy-General/Is-the-Self-Driving-Taxi-Revolution-Slowing-Down.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 4
 
 secured: "Gml1ePhAKfz8xrbqjw/rLUnqoh7/mtXsp4relqkvVLrT40wd7DRutu8ybTR2SLa6LxJYoS0peNnB6kckaKPADGrEQKU9GRH3aq8Y7dDRfpc+DgQQ7JnTTp2vZD/MxIPNd0oBg5B3ZcvSCMD3ZKKrEZicTlrrwQFlrttxNc8Yen3tuMF8e9IbcvbxMEwGtCDV5QwHiJqkL0zaiarEyX68XN+kZv2CK/k58zhRFVii/6ZijDRiNePKMlQ6YoJCvtss5+Dxzvr8JOhNqsw0fYYACVU+Qhorpbbn2GRnUvZuTruo/e/V0l9B/7AaMWpW2tEwSkHMh7NvjT4v7u694yMidtXi6ppN44ji/wucnieSorI=;mAh+WhldufsZgXJG261rWw=="
 ---

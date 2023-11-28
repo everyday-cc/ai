@@ -39,20 +39,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Stability AI debuts Stable Video Diffusion models in research preview"
-    excerpt: "Stability AI has announced the release of Stable Video Diffusion to mark its entry into the much-sought video generation space. Available for research purposes only, Stable Video Diffusion (SVD) includes two state-of-the-art AI models – SVD and SVD-XT ..."
-    publishedDateTime: 2023-11-23T19:30:00Z
-    webUrl: "https://venturebeat.com/ai/stability-ai-debuts-stable-video-diffusion-models-in-research-preview/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 71
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.29.08-Photo-of-a-person-of-Hispanic-descent-in-a-relaxed-pose-having-a-video-conference-with-an-advanced-looking-robot.-The-laptop-from-which-the-call-is-m-e1700766229577.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "63Utiwwemd19FQY9cvASZHmjqzG87Wk74sDOdTxM6Xuufya+WHBxfFCQqSRsnMTpq3iyac9TncLptL9R+YtTQ44q6QZuTSsGSVvjytk2/daXhXaQiHkt5JIYJY3qguhdbm0MLy92IOPGzVf+MVS2GAvvBlqMV19BM4o5s2sL43I9aOJ05qIOw+ATqkKeBNn2By2kd68y1zAV3HfqmfemQJ3k2b0vHw1RLt0+JvgSa5dd9BWEkXVEUWrVgrQslSxS0KBiFQRp++sJTyLkTC6x0fOdVFpq+sHejtePy1oHJ4ptAJNV35WIObdLzRMa77q6VG5UKVcq0t+NzYLT7Kmj4xb7QjRuzwZXJv7zO82MwN1SRkf62guHnmNizOHtDb1HvPHE8Vi+hXWOVnVGraXUcSpIJ1o0nXkJhTgYEOO5T1ag7v+vZ8D5spUSR6Yvax1g3Dudf5AzpT9l2/9nDbal+G6+CMmjz0q8AFW4AMLFrNRQ/22Qwusmnp3lqsyF75oP43Yh+JB3nMpnoWyKwrLKmQ==;VBT4gT/S/LvccX5xfsqpgQ=="
 ---

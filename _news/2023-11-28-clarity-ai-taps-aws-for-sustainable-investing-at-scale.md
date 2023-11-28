@@ -19,81 +19,101 @@ topics:
   - AI
 
 related:
-  - title: "Clarity AI and AWS Advance their Sustainable Investing"
-    excerpt: "AWS announced that Clarity AI is now available on AWS. The Clarity AI platform will analyze massive data points for investors."
-    publishedDateTime: 2023-11-27T16:28:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/clarity-ai-and-aws-advance-their-sustainable-investing/amp/"
+  - title: "AWS Launches New Chips for AI Training and Its Own AI Chatbot"
+    excerpt: "Invent, NVIDIA contributed GPUs to Amazon's cloud efforts and added a retriever system to its AI Enterprise Software platform on AWS Marketplace."
+    publishedDateTime: 2023-11-28T20:49:00Z
+    webUrl: "https://www.techrepublic.com/article/aws-re-invent-2023-keynote/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 101
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/11/Clarity-AI-and-AWS-Advance-their-Sustainable-Investing.jpg"
-        width: 1500
-        height: 844
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/amazon-graviton4-nov-23.jpeg"
+        width: 660
+        height: 372
         isCached: true
-  - title: "Investing in AI Stocks"
-    excerpt: "The launch of ChatGPT has set off a boom in artificial intelligence ... including automated clinical documentation in healthcare to reduce paperwork and administrative needs."
-    publishedDateTime: 2023-11-25T16:52:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
+  - title: "AI chatbot helps reduce customer agents' workload: IndiGo"
+    excerpt: "In a release, the carrier also said its data scientists did research on Generative Pre-trained Transformers (GPT) and programmed the bot using extensive prompt engineering to mimic human behaviour, respond to emotions and even infuse humour into interactions."
+    publishedDateTime: 2023-11-27T12:55:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/ai-chatbot-helps-reduce-customer-agents-workload-indigo-11816991.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/ai-chatbot-helps-reduce-customer-agents-workload-indigo-11816991.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/ai-chatbot-helps-reduce-customer-agents-workload-indigo-11816991.html/amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
     images:
-      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
-        width: 600
-        height: 337
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Collage-Maker-22-Sep-2023-03-59-PM-372.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Clarity AI and AWS Advance Sustainable Investing at Scale"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Clarity AI, a leading technology c"
-    publishedDateTime: 2023-11-27T05:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231126075357/en/Clarity-AI-and-AWS-Advance-Sustainable-Investing-at-Scale"
+  - title: "Teradata launches its AI discovery and exploration tools on AWS cloud"
+    excerpt: "Teradata is best known for its big-data software platform VantageCloud Lake, which can be used by enterprises to analyze their business information for useful insights. Its analytics feature set is known as ClearScape Analytics, and the new AI platform is said to be heavily reliant on its capabilities."
+    publishedDateTime: 2023-11-28T16:00:00Z
+    webUrl: "https://siliconangle.com/2023/11/28/teradata-launches-ai-discovery-exploration-tools-aws-cloud/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
-  - title: "Clarity AI and AWS advance sustainable investing at scale"
-    excerpt: "Clarity AI is collaborating with AWS to change how companies and consumers make informed decisions aligned with their sustainability goals."
-    publishedDateTime: 2023-11-28T13:32:00Z
-    webUrl: "https://ventureburn.com/2023/11/clarity-ai-and-aws-advance-sustainable-investing-at-scale/"
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/image_2023-11-24_071943410.png"
+        width: 997
+        height: 552
+        isCached: true
+  - title: "AWS enters enterprise chatbot fray with Q"
+    excerpt: "In the wake of OpenAI’s leadership crisis, the hyperscaler also doubled down on a multimodel AI strategy and deepened its Anthropic alliance."
+    publishedDateTime: 2023-11-28T22:54:00Z
+    webUrl: "https://www.ciodive.com/news/AWS-unveils-Amazon-Q-enterprise-generative-AI-assistant/700924/"
     type: article
     provider:
-      name: Ventureburn
-      domain: ventureburn.com
-    quality: 34
-  - title: "UK retailer The Very Group embarks on gen-AI push with AWS"
-    excerpt: "The Very Group's collaboration with AWS is geared towards improving the customer experience through personalisation"
-    publishedDateTime: 2023-11-28T09:01:00Z
-    webUrl: "https://www.computerweekly.com/news/366561332/UK-retailer-The-Very-Group-embarks-on-gen-AI-push-with-AWS"
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/x0Ip8P74z9_neZ9HBmOntqtkyn08Ezv-Ek1PpNhsM10/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1JJVjIzX0QzU2VsaXBza3lfS2V5bm90ZV8wMTc1MGEuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "Google is launching its Bard AI chatbot to the public – Business Insider"
+    excerpt: "Google says that you can use Bard to “boost your productivity, accelerate your ideas and fuel your curiosity.” It functions similarly to OpenAI’s ChatGPT: you prompt it with a question or a task – say,"
+    publishedDateTime: 2023-11-24T03:17:00Z
+    webUrl: "https://www.inferse.com/804061/google-is-launching-its-bard-ai-chatbot-to-the-public-business-insider/"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 34
-  - title: "Teradata AI Unlimited Now Available on AWS"
-    excerpt: "Teradata (NYSE: TDC) announced that Teradata AI Unlimited is now available in private preview on Amazon Web Service (AWS) through AWS Marketplace. Teradata AI Unlimited is Teradata’s serverless artificial intelligence and machine learning (AI/ML) engine designed to allow data scientists,"
-    publishedDateTime: 2023-11-28T17:03:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/11/28/teradata-ai-unlimited-now-available-on-aws"
+      name: Inferse
+      domain: inferse.com
+    quality: 38
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-12996.png"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Google Bard vs OpenAI ChatGPT: Which chatbot is better and why? – Lifestyle Asia Singapore"
+    excerpt: "Looks like there soon might be a battle of the AI chatbots. Recently, Google announced its AI Chatbot Bard, which will be direct competition for Open"
+    publishedDateTime: 2023-11-27T14:00:00Z
+    webUrl: "https://www.inferse.com/806644/google-bard-vs-openai-chatgpt-which-chatbot-is-better-and-why-lifestyle-asia-singapore/"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 34
-  - title: "The Very Group selects AWS to transform the shopping experience with generative AI"
-    excerpt: "The Very Group (‘Very’), a leading UK online retailer, today announced an expanded collaboration with Amazon Web Services (AWS) to accelerate"
-    publishedDateTime: 2023-11-27T09:16:00Z
-    webUrl: "https://fashionunited.uk/press/retail/the-very-group-selects-aws-to-transform-the-shopping-experience-with-generative-ai/2023112772775"
+      name: Inferse
+      domain: inferse.com
+    quality: 26
+  - title: "ChatGPT gained 1 million users in under a week. Here’s why the AI chatbot is primed to disrupt search as we know it – Fortune"
+    excerpt: "We are all used to entering search queries online and getting relevant links in response. But what if you could get an instant answer from a robot? And what"
+    publishedDateTime: 2023-11-24T08:11:00Z
+    webUrl: "https://www.inferse.com/804258/chatgpt-gained-1-million-users-in-under-a-week-heres-why-the-ai-chatbot-is-primed-to-disrupt-search-as-we-know-it-fortune/"
     type: article
     provider:
-      name: FashionUnited
-      domain: fashionunited.uk
-    quality: 28
+      name: Inferse
+      domain: inferse.com
+    quality: 12
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13093.png"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "tVwFT449ha/XytqxYIU62zCWt/HvdnkB6diV06MzKZJUoNNgVfLkxnTUKyuLMQsKiq3uoQjH3N3wbWyr33KqksEV2G4Sj6hhXJfxZo2LM1E+igyAgpH6oTU+7jAqMhwHKE2PE81Huku36rQL3ILY6rHxLgFVWjqdXyJNyh8SNVSR/GR/cWF9vOgi5FYdWIENFNTtHLk2qWP8DlYYoUzTiiXbW0r/wxxsxWuHnV6WoErhTK7TN8YnoMHMpU/9UgwBBoG43c9NTM1/xUoatTNKaKDyf7fzs04EhSbuDb3VHbhy9ST0kENBcpduc3BhY/2ri4J6Nx2e2j1JimgYe9dF49BmUG2Wntj5hLBZkTP60qE=;pyVTCpvhVDDByfJw4+V2rQ=="
 ---

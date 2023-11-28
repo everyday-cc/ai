@@ -73,6 +73,22 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Sports Illustrated is the latest media company damaged by an AI experiment gone wrong"
+    excerpt: "While there’s nothing wrong in media companies experimenting with artificial intelligence, “the mistake is in trying to hide it, and in doing it poorly,” said Tom Rosenstiel, a University of Maryland professor who teaches journalism ethics."
+    publishedDateTime: 2023-11-28T14:44:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/sports-illustrated-latest-media-company-damaged-ai-experiment-105225139"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/sports-illustrated-latest-media-company-damaged-ai-experiment-105225139"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/sports-illustrated-latest-media-company-damaged-ai-experiment-105225139"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 52
+    images:
+      - url: "https://s.abcnews.com/images/Sports/wirestory_479cc3869c0638df5bbb26d4b1e4f18f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Children making AI-generated child abuse images, says charity"
     excerpt: "Children are making indecent images of other children using artificial intelligence (AI) image generators, according to a UK charity. The UK Safer Internet Centre (UKSIC) said it had received \"a small number of reports\" from schools but called for action now before the problem grew."
     publishedDateTime: 2023-11-27T15:03:00Z
@@ -107,6 +123,24 @@ related:
       name: Augusta Free Press
       domain: augustafreepress.com
     quality: 17
+  - title: "Sports Illustrated accused of publishing articles written by AI"
+    excerpt: "Report by Futurism finds articles written by fake authors but Arena Group says articles were commercial content"
+    publishedDateTime: 2023-11-28T18:11:00Z
+    webUrl: "https://www.theguardian.com/media/2023/nov/28/sports-illustrated-ai-writers"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
+  - title: "Sports Illustrated’s reported use of AI authors, alleged cover-up causes outrage"
+    excerpt: "Explosive allegations that Sports Illustrated ran articles under artificial-intelligence authors – and later attempted to cover up doing so – continue to outrage readers, the outlet’s employees"
+    publishedDateTime: 2023-11-28T19:19:00Z
+    webUrl: "https://www.nydailynews.com/2023/11/28/sports-illustrated-ai-authors-alleged-cover-up-outrage/"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 14
   - title: "Sports Illustrated suffers ‘insane fall from grace’ after being called out for using AI-generated content on its site"
     excerpt: "A major media brand has been accused of publishing articles by fake writers, generated with artificial intelligence, in what loyal readers have slammed as an “insane fall from grace”."
     publishedDateTime: 2023-11-28T10:11:00Z

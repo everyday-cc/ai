@@ -27,15 +27,15 @@ images:
 related:
   - title: "For first time, researchers use artificial intelligence to build a robot"
     excerpt: "A team of researchers at Northwestern University say they have developed the first artificial intelligence program that has built a robot. They say what the robot can do isn't the main point, but it's what this breakthrough could mean for the future of AI."
-    publishedDateTime: 2023-11-26T02:40:00Z
-    webUrl: "https://www.cbsnews.com/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/"
+    publishedDateTime: 2023-11-26T03:34:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 53
     images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/26/097fc25d-9740-482c-a7f7-585384471371/thumbnail/1200x630/1f6a4051781ebb7c07542a511e850d61/cbsn-fusion-for-first-time-researchers-use-artificial-intelligence-to-build-a-robot-thumbnail-2479090-640x360.jpg?v=5659e73acd91751548aa89950cf015b0"
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/26/097fc25d-9740-482c-a7f7-585384471371/thumbnail/1200x630/1f6a4051781ebb7c07542a511e850d61/cbsn-fusion-for-first-time-researchers-use-artificial-intelligence-to-build-a-robot-thumbnail-2479090-640x360.jpg?v=d785468072c93affb6a366f2958aca39"
         width: 1200
         height: 630
         isCached: true

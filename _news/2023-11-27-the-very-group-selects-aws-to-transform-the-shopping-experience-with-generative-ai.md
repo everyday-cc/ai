@@ -67,15 +67,6 @@ related:
       name: Ventureburn
       domain: ventureburn.com
     quality: 34
-  - title: "Clarity AI taps AWS for sustainable investing at scale"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Clarity AI, a leading technology company that delivers environmental and social insights to ensure that companies and consumers invest and purchase sustainably,"
-    publishedDateTime: 2023-11-27T18:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/98937/clarity-ai-taps-aws-for-sustainable-investing-at-scale"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 34
   - title: "UK retailer The Very Group embarks on gen-AI push with AWS"
     excerpt: "The Very Group's collaboration with AWS is geared towards improving the customer experience through personalisation"
     publishedDateTime: 2023-11-28T09:01:00Z
@@ -86,13 +77,13 @@ related:
       domain: computerweekly.com
     quality: 34
   - title: "Teradata AI Unlimited Now Available on AWS"
-    excerpt: "Teradata (NYSE: TDC) announced that Teradata AI Unlimited is now available in private preview on Amazon Web Service (AWS) through AWS Marketplace. Teradata AI Unlimited is Teradata’s serverless artificial intelligence and machine learning (AI/ML) engine designed to allow data scientists,"
-    publishedDateTime: 2023-11-28T17:03:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/11/28/teradata-ai-unlimited-now-available-on-aws"
+    excerpt: "Teradata today announced that Teradata AI Unlimited is now available in private preview on Amazon Web Service (AWS) through"
+    publishedDateTime: 2023-11-28T20:08:00Z
+    webUrl: "https://www.datanami.com/this-just-in/teradata-ai-unlimited-now-available-on-aws/"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: datanami.com
+      domain: datanami.com
     quality: 34
 
 secured: "kSSqKg8QqLDWxf683IM/Op8D7d7cRm5R0Fpt7wvXfoX35G2bpWn1elZG4XdGElcdyCxJ28l8FJpIWciaIkZSjnj5bkhAJsxG0QqNm3dVSeL5ldhlrfVv8xE0x2ilsFHSG6QnyPwUeF0Ho8LnZeKx4H52Lee6M9A4vCuzRpMBxcOsMIW4OMuo712xcbr9sDwisoy3YuKa6Za3VZtfTS+3UMy+L954ikHUa+4/nN7U5YbiLSIFs1bNkZ0H19M2VGbOTav6LylTIRd6Is5eiyvY/6Vs3C0UhOFwXDjapVIL0X59XUxiO5hicJeSa9RbI6UM4mWVIECQ0j23AaD7I9lt41DjdgkTobslGB/rauRV8Is=;1GrqloW3kYUPov876eVP8Q=="

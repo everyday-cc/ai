@@ -197,6 +197,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AWS and Nvidia expand partnership in generative AI."
+    excerpt: "AWS will be the first cloud provider to deploy Nvidia’s GH200 chips, originally announced for release in 2024. Nvidia said GH200 has triple the memory of the popular H100 chips. Nvidia CEO Jensen Huang,"
+    publishedDateTime: 2023-11-28T20:53:00Z
+    webUrl: "https://www.theverge.com/2023/11/28/23979546/aws-and-nvidia-expand-partnership-in-generative-ai"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 66
   - title: "Nvidia Delays AI Chip Launch in China Amid Export Rule Compliance"
     excerpt: "Nvidia has informed its Chinese customers of a delay in the launch of its anticipated artificial intelligence (AI) chip, the H20."
     publishedDateTime: 2023-11-25T05:59:00Z
@@ -211,6 +220,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "AWS Unveils Graviton4, Trainium2 Chips"
+    excerpt: "Invent, Amazon Web Services announced the next generation of two AWS-designed chip families — AWS Graviton4 and AWS Trainium2 — that the company said delivers  advancements in price performance and energy efficiency for such workloads as machine learning (ML) training and generative artificial intelligence (AI) applications."
+    publishedDateTime: 2023-11-28T19:37:00Z
+    webUrl: "https://insidehpc.com/2023/11/aws-unveils-graviton4-trainium2-chips/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 51
   - title: "Nvidia delays launch of new China-focused AI chip"
     excerpt: "Nvidia has told customers in China it is delaying the launch of a new artificial intelligence chip it designed to comply with US export rules until the first quarter of next year, two sources familiar with the matter said."
     publishedDateTime: 2023-11-26T19:53:00Z

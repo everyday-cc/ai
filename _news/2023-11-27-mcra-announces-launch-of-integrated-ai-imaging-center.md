@@ -52,6 +52,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "AWS rolls out new customization and management tools in its Bedrock AI service"
+    excerpt: "Developers using Bedrock LLMs, customized versions of those models and AI agents now have access to a new feature called Guardrails for Amazon Bedrock. Currently in preview, it’s designed to prevent AI applications from ingesting sensitive data or generating harmful output."
+    publishedDateTime: 2023-11-28T19:48:00Z
+    webUrl: "https://siliconangle.com/2023/11/28/aws-rolls-new-ai-customization-management-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
 
 secured: "Y4Ip9tLFLXw46fnx50HgcDpI13hfXRAqHKUsyK2hOneoUAvyf5eWsQSWMW1oDdlXdbb2yC5zSsVQoiRgi6pzko2jmgumIejNgeWtluq4irv4qZncd5jNlIli6GKx9FCJkWqSVAoxCHRkM/U/okhx8X7PYmgikXdsX8X3PNVW9DDiWQC0zJqGt4M7EUVj8yP0hORxy4IYYnIIzvmCsLyLxFcy86A5T44k6eKX1R8ehaO0SgcMiOSndGgB9/fenoXT8k23GZGvInTpKjYnvzc9iYErwVi3PHs8ySeoooP7/g4wrpSbKJRyUIoD29ILL05wHzrfrX6G1f7yXkF/IHUuyPjFILeETpxrf14suwfps1cbf/Q+2J09yiVLsO4eou3NY1o/avlembUcw1LeCH2oEc04VwS8Vp2+6E1ebaTqQYyobBITOkLOdH40QHizDMaW9UkIeIq8mH7l468HE7qM5Z0mK64RuVfDoe6ToSbNLa1p0I5x1vHthnV7Yqj1LKUXtWFGGtLhLP+lcKbemVdeZg==;dYHKeq1lkqgHIoZxZpr4Xw=="
 ---

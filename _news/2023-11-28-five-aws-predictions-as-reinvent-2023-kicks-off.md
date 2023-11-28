@@ -126,6 +126,20 @@ related:
         width: 786
         height: 524
         isCached: true
+  - title: "AWS CEO’s 6 Boldest Re:Invent Remarks On New AI, Chips And ‘Other Clouds’"
+    excerpt: "Invent 2023 keynote today about new generative AI products, Amazon Q, Bedrock, Graviton 4 processors and other cloud providers."
+    publishedDateTime: 2023-11-28T20:38:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-ceo-s-6-boldest-re-invent-remarks-on-new-ai-chips-and-other-clouds-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 70
+    images:
+      - url: "https://www.crn.com/resources/0287-1991a64e1de9-5f4f857d6e12-1000/selipsky-intro.jpeg"
+        width: 611
+        height: 459
+        isCached: true
   - title: "AWS re:Invent grabs the spotlight, with cloud, cybersecurity and AI in a business focus"
     excerpt: "Invent conference opens in Las Vegas this week, AWS will make the case that it, too, has a leading role in the transformation that lies at the nexus of artificial intelligence, cloud computing and cybersecurity."
     publishedDateTime: 2023-11-27T15:12:00Z
@@ -237,6 +251,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 28
+  - title: "AWS Joins Forces With Amgen on Generative AI Solutions to Accelerate Advanced Therapies"
+    excerpt: "The new facility will feature the latest digital and robotic technology, including the implementation of a connected digital platform on AWS using Amazon SageMaker, a fully managed service to build, train, and deploy machine learning (ML) models ..."
+    publishedDateTime: 2023-11-28T13:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35986299/aws-joins-forces-with-amgen-on-generative-ai-solutions-to-accelerate-advanced-therapies"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
   - title: "AWS re:Invent grabs the spotlight, with cloud, cybersecurity and AI in a business focus"
     excerpt: "Invent conference opens in Las Vegas this week, AWS will make the case that it, too, has a leading role in the transformation that lies at the nexus of artificial intelligence, cloud computing and cybersecurity."
     publishedDateTime: 2023-11-27T19:07:00Z

@@ -51,6 +51,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Learn how to assess the risk of AI systems"
+    excerpt: "Artificial intelligence (AI) is a rapidly evolving field with the potential to improve and transform many aspects of society. In 2023, the pace of adoption of AI technologies has accelerated further with the development of powerful foundation models (FMs) and a resulting advancement in generative AI"
+    publishedDateTime: 2023-11-28T22:15:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-to-assess-risk-of-ai-systems/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/28/ML-15867-imaage007-riskmatrix-1007x630.jpg"
+        width: 1007
+        height: 630
+        isCached: true
   - title: "Alibaba Redirects Focus from Quantum Research to AI in Healthcare and Agriculture"
     excerpt: "By investing in AI for agriculture and healthcare, Alibaba is not only aligning with current market trends but also addressing challenges."
     publishedDateTime: 2023-11-28T02:59:00Z
@@ -154,6 +168,15 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
+    quality: 19
+  - title: "Get real: Artificial intelligence in health"
+    excerpt: "The report analyzed 10 key products in global health: five drugs and drug combinations for HIV, tuberculosis and malaria; a bed net for malaria; three tests for tuberculosis and HIV; and oxygen-producing facilities. The dolutegravir-based HIV drug combination was the most polluting."
+    publishedDateTime: 2023-11-28T18:00:00Z
+    webUrl: "https://www.politico.com/newsletters/future-pulse/2023/11/28/get-real-artificial-intelligence-in-health-00128828"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
     quality: 19
   - title: "The fight for the soul of AI"
     excerpt: "Can one organization, or one person, maintain the brain of a scientist, the drive of a capitalist and the cautious heart of a regulatory agency?"

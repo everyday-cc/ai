@@ -39,6 +39,20 @@ related:
         width: 958
         height: 476
         isCached: true
+  - title: "GenAI Boost: AWS To Get Nvidia DGX Cloud Service, EC2 Instance Powered By 32 Grace Hopper Chips"
+    excerpt: "Amazon Web Services plans to launch Nvidia's DGX Cloud service and an instance with 32 of the semiconductor firm's Grace Hopper chips."
+    publishedDateTime: 2023-11-28T21:02:00Z
+    webUrl: "https://www.crn.com/news/cloud/genai-boost-aws-to-get-nvidia-dgx-cloud-service-ec2-instance-powered-by-32-grace-hopper-chips"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 59
+    images:
+      - url: "https://www.crn.com/resources/027f-1798c9f33804-64f5c2dfdb40-1000/nvidia-launches-dgx-cloud.jpeg"
+        width: 611
+        height: 458
+        isCached: true
   - title: "Supply chain hopes upcoming AMD MI300 GPU can challenge Nvidia's dominance"
     excerpt: "The supply chain hopes that the forthcoming AMD MI300 GPU can pose some challenge to Nvidia, preventing it from having excessive control in the AI sector, according to industry sources."
     publishedDateTime: 2023-11-24T01:28:00Z

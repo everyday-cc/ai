@@ -130,6 +130,20 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images"
+    excerpt: "AI art generators are in a weird place. They can attempt to make just about anything you can think of, from a dog skateboarding in outer space, to a cup of coffee floating in the ocean. Putting the ethics of AI art aside, some of these creations do not hit ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://lifehacker.com/tech/chat-gpt-make-it-more-ai-images-trend"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 56
+    images:
+      - url: "https://lifehacker.com/imagery/articles/01HGBQS23N1QDMYX4N8FJAYHDF/hero-image.fill.size_1200x675.png"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Microsoft’s AI-powered Bing is coming for Google’s Bard-infused … – Vox.com"
     excerpt: "Google bookended Microsoft’s big AI search announcement with underwhelming AI news of its own.Microsoft has officially taken the lead in the race"
     publishedDateTime: 2023-11-27T15:22:00Z
@@ -147,7 +161,7 @@ related:
   - title: "OneNeck Earns Four Microsoft AI Cloud Partner Designations"
     excerpt: "OneNeck has earned four Microsoft Solutions Partner Designations in the new AI Cloud Partner Program, superseding our previous Gold and Silver statuses. The designations are: Digital & App Innovation: Evolving applications to leverage advanced services in Azure. Modern Work: Helping customers enhance productivity and security using Microsoft 365."
     publishedDateTime: 2023-11-28T18:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924506.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-oneneck-earns-four-microsoft-ai-cloud-partner-designations-/2023/11/28/9924506.htm"
     type: article
     provider:
       name: TMCnet
@@ -162,20 +176,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 16
-  - title: "ChatGPT gained 1 million users in under a week. Here’s why the AI chatbot is primed to disrupt search as we know it – Fortune"
-    excerpt: "We are all used to entering search queries online and getting relevant links in response. But what if you could get an instant answer from a robot? And what"
-    publishedDateTime: 2023-11-24T08:11:00Z
-    webUrl: "https://www.inferse.com/804258/chatgpt-gained-1-million-users-in-under-a-week-heres-why-the-ai-chatbot-is-primed-to-disrupt-search-as-we-know-it-fortune/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 12
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13093.png"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "dIAbTvRMWM6dCXohwi0J8ao9onPPi25CIehOPy29BZpoUllhEh/ppfKJVcfKx7tCbrzwU2A0cNuTKkZsug1m73m31ofZ1rZBws7Macdc2nYXFgOYw/jNq9lhMrqDirXXfiEfnJugEXW5MsvKCOlyYNvfWuqjibM1bJCWnvAifgweKvedOfqk5vOC8adNEup7+Nk7/6tGg+nOL+EJ12tgMD2qAlB1IUuqjRFupUzOV+umWB+ZTF3qGMFt5sNbnoJ6m5YBU/l6nFJ4mlPXEGHkz09CUPQrnvBMOF1eT9ivqpjvTNlTb+ZvvFkg5kpy6pLv5dx4kVvldxoSbsqh3/YpB3Qydc8fxuTg2ci4AsEDw0dzpQIwD6ojajSd3Sh/sM2wFnuewAdH/pIaSBxgKlhFIzDz7uPcVrcV990FDALjIXvmXTcFN889EBcINolYs2gER2njdA4vVhOyj0QzDpBqLq9PbxcNMPQyvBJ0jKuaW8FK0EBVYNAf3HKUvFwQw8sWK6K0Bs/yyelJMZ/rikuyaQ==;mBx/zqeZXayqvgDhb/FYWw=="
 ---

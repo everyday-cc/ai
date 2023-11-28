@@ -69,6 +69,15 @@ related:
         width: 564
         height: 327
         isCached: true
+  - title: "Informatica Broadens Relationship with AWS, Announces Deeper Integrations Across Generative AI, AWS HealthLake and Amazon S3"
+    excerpt: "Latest developments reflect a commitment to wider collaboration between the two cloud leaders and Informatica's significant AI-powered platform growth and adoption in AWS Marketplace Informatica (NYSE:INFA),"
+    publishedDateTime: 2023-11-28T13:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35979181/informatica-broadens-relationship-with-aws-announces-deeper-integrations-across-generative-ai-aws-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
 
 secured: "3nFApmwVuGE9wL+HWPaSyUfVi97qW2f/OAA6CMkLCR+fSIMnmo0YwVgrscTerYD71Ci1xXbr600LKyk/uj1USBPL8Ef+lRgyTs6eoNq4uHH3d9rqvAhz3wBrZsZ+rSY/1AmOofExKru8I7hzKsBjP8l1zols8aXp/EtlpsGJH7BNCsZ3ahczq0bDm+BydalwKHzppPc5owbDxxgz/t6m7MLimrmZ7m2Dr+JqlsjN8o0giwmvL0whTK+fv2iHEBCCQ2tQqbqoJ83sCklSDUBxOeY75G53PbZR5ysr5C1Totm0XzlhHP851nPzqghswUmOSlH94dl9Z4f4sY14S/x8J+DoQUXE2qlalYVSh3xpzug=;4Oi5E1/jMxYJvrtUPL9IUw=="
 ---

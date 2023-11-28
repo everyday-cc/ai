@@ -41,6 +41,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "AWS takes the cheap shots"
+    excerpt: "Google has long had a reputation in the world of AI and machine learning in general. With tools like SageMaker, Bedrock and now its Q assistant, AWS is arguably on equal footing, but it’s not in its natural element — and its rhetoric shows that."
+    publishedDateTime: 2023-11-28T19:44:00Z
+    webUrl: "https://techcrunch.com/2023/11/28/aws-takes-the-cheap-shots/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
 
 secured: "CccBIMmDiArUp4tlhRG2ng7bXbXnRc9M7Vgc3QbZNsnuLwpvDPTugiMY2Lm06Epf74OMx7zSMiWHBS6jV4ik1b39A6VtWc4+4eGsovhab63mXGbL4qXLAzN8Pz5RU7TW7kDCg+FXrPZ5BS38h/w8+d9QigbCA5abQziocPQROHc7bvIi4DFa42zovSZUCEoQPGAA2V+hzuPH0v0Kbn78PkyBu2JxfPPTYGixUsJ9CsJEUlBjjSNrVbqEE7JzuSxd77QQZmxFrAfQUdaGF096/rcK333kM7J12tMxA7hIbmbrpHVAPqTK227A4liBXswRdx7J9jIK0BW9ILaJx5oqG/AoTgRxzc1Y87FJbHk/FnmZ7ZmTM1pOWGLhyvfFml5BA2pOf5BlV6zBdiGi7cFKS+USOQTnG7Cd6aJKrnGVO19E3Sjm4zX7cEoMmYQFzdx1ENTZuvCog41prTNYlcCLzku+6EdAq1DAReH4Ywdub8b3AnATqd2hWmTyK5P55QovvWaRrlBTjdVcvlif1vnhpQ==;TXG2POkup8gVOKdMPQVqrw=="
 ---

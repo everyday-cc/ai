@@ -1,22 +1,42 @@
 ---
 category: news
 title: "Artificial Intelligence in Entertainment Among Hot Topics at Focus 2023"
-excerpt: "A prominent topic in this year’s conference program is artificial intelligence. Three sessions will focus on the subject of AI: “The Write Approach: How Can AI and Humans Hold Hands,” “AI: Who Watches the Watchmen? The Legal and Ethical Issues,” and “Revolutionizing the Art of Imagination: AI in VFX and Animation.”"
-publishedDateTime: 2023-11-24T12:21:00Z
-originalUrl: "https://variety.com/2023/film/global/artificial-intelligence-in-entertainment-hot-topic-at-focus-2023-1235803469/"
-webUrl: "https://variety.com/2023/film/global/artificial-intelligence-in-entertainment-hot-topic-at-focus-2023-1235803469/"
+excerpt: "A prominent topic in this year’s conference program is artificial intelligence. Three sessions will focus on the subject of AI: “The Write Approach: How Can AI and Humans Hold Hands,” “AI ..."
+publishedDateTime: 2023-11-24T13:23:00Z
+originalUrl: "https://variety.com/2023/artisans/features/artificial-intelligence-in-entertainment-hot-topic-at-focus-2023-1235803469/"
+webUrl: "https://variety.com/2023/artisans/features/artificial-intelligence-in-entertainment-hot-topic-at-focus-2023-1235803469/"
+ampWebUrl: "https://variety.com/2023/artisans/features/artificial-intelligence-in-entertainment-hot-topic-at-focus-2023-1235803469/amp/"
+cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/artisans/features/artificial-intelligence-in-entertainment-hot-topic-at-focus-2023-1235803469/amp/"
 type: article
-quality: 32
-heat: 32
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
   name: Variety
   domain: variety.com
 
 topics:
+  - AI in Autos
   - AI
 
-secured: "IupEde/Hym8zykWsiug1IlaFgFr0v6tsMvFYlrViNQqBnuEZv4WSErMR8E7J/zEicKu0hn+8WgVpB8rDh7gWBw0fD8HYpJWcPmSfBu+pq9yrpgNGlwkFGA9rH4iMap6Chi6vszwBlUOhMmwzreJRvYcW1fiozoGO4/1lvzsDQVKL79kS7Zp0P+O/gHeMNfZYv5aUk2wGku5dZOqleLdeFCf5obEOWr/OTYJZ+1m9EcBGTvqALDcqOcETa2+aiABD5UgaMR3yoNfPnJAYwQs8lDzE8NlMCKB4CcFXyxxt8U2t+bq3HYS7Q4yC1O54EKzHMJp949iW4nfpXNt8NTaSKcDdR/Q+gTNUpDu+9QYuMw85TQ3rQY6hDWN8z6tAHOTL5YRx8pvPnpPeyyq6r+xY+qin0pIWqPPMsYr+w6LfjY1S7VbE7ZMkx+4VZi6uV6EAHANGQwzHqebfyjK0rjHkwu70axDsoZ7I+HjvcwjI8tKUC0H8YKixXHQ9DQMGR1jAnC2aPgKnYvNIctQvdwooLw==;SvAWteMUieucFS6gGl1FRg=="
+images:
+  - url: "https://variety.com/wp-content/uploads/2023/05/Napoleon-Movie.jpg?w=1000&h=563&crop=1"
+    width: 1000
+    height: 563
+    isCached: true
+
+related:
+  - title: "Students explore ethics of AI in Education at WISE 2023"
+    excerpt: "Essential ethical practices for students using artificial intelligence (AI) in their education have been explored by young learners at the 2023 WISE, through a session led by"
+    publishedDateTime: 2023-11-28T19:57:00Z
+    webUrl: "https://www.gulf-times.com/article/672600/qatar/students-explore-ethics-of-ai-in-education-at-wise-2023"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 51
+
+secured: "DQ9PRPcLOudubc6Uur3BDZHambmrwAyTJJ2oCagS8laURiBJUUAqxgJoeQOwBYnW9xzUlRKa9QGHN4LQEwG/yRpZM/VibRe7vNL2lgxbNV1Z7nTGP8BM05tWmzGK255wAxD4RZUYz5cweQhwxxciVfjzbeF4DslHL7dAO+OhE2btdLlMpXmfkfhZFSvlgzfV/CZf4sxSOEVrIU3WDKAivTNQ9+/GtGLeKspK901DJqWBIHNVQ2lnW6q2wJBDOuHMgmqiLAOh5k/DI8r9kh2Ygi22T90TuM6AePumX1714tOX64VQ5hzdDvcZch3Fp9N15Xylur2o+AnjqbsT+PEY0Ryky8fKmnIjS9yJmX9PXRI=;axS3cD8p+JPMCzY66Npekg=="
 ---
 

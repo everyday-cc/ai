@@ -41,6 +41,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "AWS Announces 3 Serverless Innovations to Help Customers Analyze and Manage Data at Any Scale"
+    excerpt: "AWS is also releasing a new Amazon Redshift Serverless capability that uses artificial intelligence (AI) to predict workloads and automatically scale and optimize resources to help customers meet their price-performance targets. These announcements build ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-announces-3-serverless-innovations-to-help-customers-analyze-and-manage-data-at-any-scale/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 8
   - title: "Infor Introduces Enterprise Automation Solution on AWS to Help Companies Rapidly Scale Automation and Achieve Business Results Faster"
     excerpt: "NewsVoir Mumbai Maharashtra [India] November 28 Infor the industry cloud company today announced its Infor Enterprise Automation solution a set of Infor Operating Service Infor OS multi-tenant cloud s"
     publishedDateTime: 2023-11-28T12:23:00Z
@@ -55,6 +64,15 @@ related:
         width: 630
         height: 473
         isCached: true
+  - title: "AWS Announces Four Zero-ETL Integrations to Make Data Access and Analysis Faster and Easier Across Data Stores"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced new integrations that enable customers"
+    publishedDateTime: 2023-11-28T22:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231127634964/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "F+O7l+uqyyRuAxlrNut76gyyQYLt+e7guIRPzrIYLxCtGsSQ+FKJVfVX5oNWwYL2AClkgSH6qjno+s+QzhZMl2JGHZxdWF8jFT8R4rZQ3iGQH9LDZB3WrkmhJthIqGg9c9ix68sk/DyzwHSHXIaIGj03EVQRZZJxHw51C1NNjJM5QoElPM20rKdxZp+JBKS5yEdhHwaTUnVfrCg6exEUGSbyr60DceBwcC6Zmt5lZ9rCdO10fzDBlUwU44hEQ63xAJU9WO8J5arhpEMKkfgZVq07hDnD+mqp8wJ8tIKqTALfdMbfW+NYV1RqRC4GF17Db91uwaTd7UVS089dcGh5XvrrDGcMyTuhtU5kE4P8gjU=;wznV8hcZdwKOsKBlbMXwOg=="
 ---

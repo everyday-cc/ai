@@ -80,6 +80,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
+  - title: "AWS Announces Amazon Q to Reimagine the Future of Work"
+    excerpt: "Amazon Q builds on AWS's history of taking complex, expensive technologies and making them accessible to customers of all sizes and technical abilities, with a data-first approach and enterprise-grade security and privacy built-in from the start."
+    publishedDateTime: 2023-11-28T18:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924564.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "wT8KJGH7sxNGnIGoRYz7vnAUvsp07WE9wDiKE8cbyl120I0vY19HUnVfZX8Y0WkrKAvjZSxdkoiTD6Voc7mF17oD1tI1Kr0lX4QUZ1phvvwA63OAjc4UKdDqSjIahS+KsGTiwYDYFXoBCAcIQ0NH1WOjPH5CxtdftQmarTu0wyfa6e4J8vgMv1KyTr0z+X3SgA23JCmVkZxBiDP3gos063DZXb1M0DrH7uHMAYVbZHojEnTAfrVK0Cei0g3Zex5jQd5aRX80S5kGgiyDPdn7CoUFpUSX9wtHklf6mv7yusnGxKBacQvy3YlC+y+qAAB0BkxiYXmuEXWdW+e7s23mJyzVaUA4Z1KOjPsyg+8PZoE=;fuhcodO+79PrL1LzboEUrA=="
 ---

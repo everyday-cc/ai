@@ -50,6 +50,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "AWS rolls out new customization and management tools in its Bedrock AI service"
+    excerpt: "Developers using Bedrock LLMs, customized versions of those models and AI agents now have access to a new feature called Guardrails for Amazon Bedrock. Currently in preview, it’s designed to prevent AI applications from ingesting sensitive data or generating harmful output."
+    publishedDateTime: 2023-11-28T19:48:00Z
+    webUrl: "https://siliconangle.com/2023/11/28/aws-rolls-new-ai-customization-management-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
 
 secured: "POl4GJluibrG633tb0TyMP22BExXW9bLP6qeOF8iTiGubKFmi9MayU+rCX6KVawWokdTNtmFwilKspOB5IOfxqpJV/chDjfKGTReypOemTuMgp//1zTQ0aP0etRA66Yjw03qT730ojEkYm727a7VEPHbGAhXl5T2itWby6xXfZJgoGVZbbWqk0MGP6uOygWJn/hXNnamp2C1ctx7iBWLoE4kGF3kYlYdVHiV+gbdc/pSTiZU/mlChN7ueJAwrAK325wrlBqZRPGMBAcE8DC5tOATwlWyrDfGkDeRmq6FxVPVcjE4QZFqgW0Lp0hlIkQuceLWlBDg4KnZJ5m/l5xEZ+P0EZVFGAeYk/Yb848IiDE=;i1j/z4fVH/kG0iyg6AOBZQ=="
 ---

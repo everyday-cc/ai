@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/11/26/1083841/finding-value-in
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/amp/"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon Unveils Q, A Generative AI Solution For Enterprise"
+    excerpt: "Amazon Q is touted as a sophisticated AI-powered assistant designed to navigate the vast seas of corporate data and streamline a variety of office tasks."
+    publishedDateTime: 2023-11-28T18:36:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/11/28/amazon-unveils-q-a-generative-ai-solution-for-enterprise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How generative AI can give companies a competitive edge"
     excerpt: "Hasit Trivedi is the CTO of digital technologies and global head of AI at Tech Mahindra. Generative artificial intelligence (AI) is poised to lead the next level of growth and unv"
     publishedDateTime: 2023-11-27T02:04:00Z

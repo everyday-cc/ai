@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/putin-approve-new-ai-strategy-c
 webUrl: "https://www.reuters.com/technology/putin-approve-new-ai-strategy-calls-boost-supercomputers-2023-11-24/"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -84,6 +84,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AWS and NVIDIA Announce Strategic Collaboration to Offer New Supercomputing Infrastructure, Software, and Services for Generative AI"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and NVIDIA (NASDAQ: NVDA) today announced an expansion"
+    publishedDateTime: 2023-11-28T17:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231127986225/en/AWS-and-NVIDIA-Announce-Strategic-Collaboration-to-Offer-New-Supercomputing-Infrastructure-Software-and-Services-for-Generative-AI/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 5
 
 secured: "bAJN/TTsBMI3Z6uuU1oSzQrNHYniiu++NxD2cR53GzHmENYurQWM/YsGfpvFJ7o2kHG0Gt8bQYjsLGknZaHberD+N85yo5SWk25SFkS95txPPCg56qyLB87aOXx22Km+ks6Q4LUU5vUBU+gP3RTdAx0YObranbHhju6zS140R1KbRVY4L9HYrRFw38XG3d+T0Ux4cxICnrEmJ5Gj2S6epXCVmhM2y3EQ1W/qDoEWIl72wqlWiXqlE+Fk0kUjD7WAXDCl0MQAo4dMwS7buYJRkzD3IKfDibAEZHETbLpsU6lbGdTVvUkqX4rQWLDalBThhvOI3GEbp7dqBKeDf6pbOV+v89gZ4s+N3Am1Xw5Lslw=;s7eSxrXeSCe4zNcVMrfoDw=="
 ---

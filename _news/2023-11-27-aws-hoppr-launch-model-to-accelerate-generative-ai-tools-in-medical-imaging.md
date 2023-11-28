@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2023/11/amazon-ai-technology-healthcare/"
 webUrl: "https://medcitynews.com/2023/11/amazon-ai-technology-healthcare/"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "AWS rolls out new customization and management tools in its Bedrock AI service"
+    excerpt: "Developers using Bedrock LLMs, customized versions of those models and AI agents now have access to a new feature called Guardrails for Amazon Bedrock. Currently in preview, it’s designed to prevent AI applications from ingesting sensitive data or generating harmful output."
+    publishedDateTime: 2023-11-28T19:48:00Z
+    webUrl: "https://siliconangle.com/2023/11/28/aws-rolls-new-ai-customization-management-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
 
 secured: "E6kdpZbcxIy3bHWqkGaJigHNge9mALiuCPe/hI/R6qAsqm84e6t0KhdLgyH+r8Rt+6Czp0gZ+ktZUWtsDoPSwi1sQqhy1vw2FwYmHVaOpJe8XW5uGMGronxH/YsuHfpiG6/181VVJ7KInrIX1J0BcHq2cMlgLjyL7BCTwdgwO5t8SnKiAiSkRS2bqwef1EKoMNxoLXINfeP3qmnESycwGvtomu9fvnX0QoC7iieEKHra3Kppn7Zw0zK2HC/zL91L28S7a+ieeAKcrJ07YSPE2yVT/MjViAfPm6CZd5z3m5M/aB/rjwC35ZBsGw8jD0X3N3pYc/yW1pJ0BIz2E1yEJCnZtNLrTdhWOm21DRibXSAG8fU0/zu8PByM8AJYi4ZL/0jgYisjpMIaEdqr0WOoZYkFSQGuR9VZy8YzZkgXEIDyvsuexrQK7ffT7butU0HnH1zs1bsdyyNrp4I5LPt5WlODR+IRAAobd2xAjKcd0NlJ0n7dLo5wa6U6l0CbT7SiGYuz8ODNTtMZj3MhdfrGIA==;1T/YKZlbdmzF+zfbjeFZmg=="
 ---

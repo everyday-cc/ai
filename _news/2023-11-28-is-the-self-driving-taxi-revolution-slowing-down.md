@@ -28,6 +28,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 4
+  - title: "GM to slash spending on self-driving unit Cruise after...GM to slash spending on self-driving unit Cruise after pedestrian..."
+    excerpt: "General Motors Company (NYSE:GM) is reducing spending on its self-driving unit Cruise after it suspended testing of its robotaxis following an accident involving a pedestrian, Financial Times reported on Tuesday. According to the Financial Times ..."
+    publishedDateTime: 2023-11-28T14:53:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1034481/gm-to-slash-spending-on-self-driving-unit-cruise-after-pedestrian-accident-report-1034481.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 0
 
 secured: "jSJJuiK3V10NFoC2ogz06Ohdd71EBvD1ybZXSP4plK4UAKC/Ue5n4VzVg+vft5Z8X5DayNXPhEH1/JnnyYxTexlMlF/s/v+ad8iQ4DopB8IJW/e0dOjURkkYhUoJPBACTiXQCiPMVnXXK/+Revneq7ABcBwrlTTD1uxynV8+tLN5c2xOnDrVlrtttIp7DOCx/+mHfYoFf+eF5nuXfw5bSRBjcGjsy0EEmo6uFjacqNAu0f83ADwLTiDsgTBiaBPvzhcqo8U+1pvEvfFFEHYrwdSgZxpT8D+I0X1V15o3Pza86zpq9zKZeYVPiCkzasTYBPr9JyWAd43QsrIKhlJHn9PCaxufFjHcN3i0zpAXBx8=;2b5DuZadhRUeojEKj8uyeQ=="
 ---

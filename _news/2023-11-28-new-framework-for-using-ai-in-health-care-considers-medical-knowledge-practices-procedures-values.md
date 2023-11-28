@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-k
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -28,51 +28,47 @@ images:
     isCached: true
 
 related:
-  - title: "Ensuring Data Privacy: 20 Best Practices For Businesses In The AI Age"
-    excerpt: "Ian Gotts, Elements.cloud The fusion of AI and transparency leads to trust. By publishing an AI ethics charter, an organization illuminates its dedication to data privacy. A transparent AI ethics charter is more than a document; it’s a promise."
-    publishedDateTime: 2023-11-28T15:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/amp/"
+  - title: "Healthcare professionals to get AI training as Singapore continues push towards preventive care"
+    excerpt: "Artificial intelligence (AI) algorithms can be run on mammograms to help screen for breast cancer and detect changes in the eye among diabetes patients, for instance."
+    publishedDateTime: 2023-11-24T18:52:00Z
+    webUrl: "https://www.channelnewsasia.com/singapore/artificial-intelligence-healthcare-singhealth-ai-singapore-3943526"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 44
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5fa5af64c1571671084b661d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--Xn_oHPQ7--/c_crop,h_767,w_1364,x_0,y_1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2022/10/10/istock-1140691167.jpg?itok=TSyeBcja"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "The Practical Impact Of AI For The Masses"
-    excerpt: "At the event, the leadership highlighted the concept of superpowers on demand. The message was that AI's best manifestation would be augmented intelligence for humans."
-    publishedDateTime: 2023-11-28T14:59:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/"
-    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/amp/"
+  - title: "Navigating Healthcare Challenges: Artificial Intelligence Emerges As Crucial Ally In Patient Care"
+    excerpt: "AI tools enable medical professionals to identify patients at risk of developing certain diseases, facilitating earlier intervention and personalized care. These tools not only assist in"
+    publishedDateTime: 2023-11-27T08:55:00Z
+    webUrl: "https://thelogicalindian.com/trending/ai-in-healthcare-revolutionizing-patient-care-for-a-healthier-future-41484"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Logical Indian
+      domain: thelogicalindian.com
+    quality: 41
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6565003681045ee522bb2f47/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://thelogicalindian.com/h-upload/2023/11/27/234486-tli-13.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "How to Protect Your Privacy When Using Undress AI Tool"
-    excerpt: "Hello tech enthusiasts! In an era where artificial intelligence is reshaping boundaries it thrilling yet daunting to witness innovations like the Undress AI tools These tools use neural networks and"
-    publishedDateTime: 2023-11-27T16:43:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/274046891/how-to-protect-your-privacy-when-using-undress-ai-tool"
+  - title: "A new framework for evaluating AI in health care: Moving beyond tool performance"
+    excerpt: "Health care organizations are looking to artificial intelligence (AI) tools to improve patient care, but their translation into clinical settings has been inconsistent, in part because evaluating AI in health care remains challenging."
+    publishedDateTime: 2023-11-28T16:00:00Z
+    webUrl: "https://www.news-medical.net/news/20231127/A-new-framework-for-evaluating-AI-in-health-care-Moving-beyond-tool-performance.aspx"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
+      name: News Medical
+      domain: news-medical.net
+    quality: 34
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1700994204615.jpg"
-        width: 630
-        height: 420
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "OI8mC9PxInlHqIUtxXuJwcoCKf7bwNJHA0yAvHpt40XcO+1F5PkERFkUNbKx7hLhW1CtgozwHleODoONkpGQTC8+7G11NQSHAVNSmspaCR0rd5q3c0E2L5uxIknOWGAKkKPnU5IYmgh1mOzq+JM9jFrHGadN8uShmDnj6kIuc7EIS3t44jFMsPI/n+Ytn8jIx7oMpD1qUSJwIqkYmHQAfgVA6y7P/ENVnaixNO0ZxxenrR8q8yuYaM8ZC4tlTIZacc4YpeP+HoXRkfSOmkfuJQxmAA4TWjagin1Sk49FdAY3NR+rGctZRGuOfVGQjOWnZ0Q7FzT3fGFL72FCNJz66urQtAph7mjjKSIgN/+7FmMNKDQ+IcGeNrFCoQBWXkTngnQtiREPD89AlJ0DxLK3xbK3NPKpAWKAuwUxlGGbuKeUmvegTSGIg3SLAVGwyXZGHG1KC90SUYhgvntUfO69aGwIA9J8isIoJzdc/MYyViTKUZBme3wUPRz1I4WbZ5SEe0CHmjsYJWWh/LIzX9Pofw==;GG0VyGiRmr0bTKx+FPZYyQ=="

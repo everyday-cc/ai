@@ -95,20 +95,6 @@ related:
         width: 830
         height: 553
         isCached: true
-  - title: "I Attended The Singapore FinTech Festival For The First Time As A Fresh Graduate. Here’s Why I Loved It"
-    excerpt: "The Singapore FinTech Festival (SFF) is an annual flagship event organised in Singapore that brings together different fintech companies around the world"
-    publishedDateTime: 2023-11-23T22:59:00Z
-    webUrl: "https://dollarsandsense.sg/attended-singapore-fintech-festival-first-time-fresh-graduate-heres-loved/"
-    type: article
-    provider:
-      name: DollarsAndSense
-      domain: dollarsandsense.sg
-    quality: 8
-    images:
-      - url: "https://dollarsandsense.sg/wp-content/uploads/2023/11/SFF-Map.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "/KCOrqX4M3ngW1qn8FFTzBdnIQ5VqLFZRjIiajwK1XdhCTK55vp3eUvwbN3KypFZhOa6AFFa1zzP4HHZPKG9BA0nNrjISvzZCVMi0WAlR50AK2izM7SBVf/MRQKnjBEJLBN1jhcH/KcDYH71doZTtFfBpHYN8AA/CD+fwXueWqmF2aoFyPl/Opj/KPPzi4WcK85U+8U4zgMLVS3ZEZ3CJNbXl6iXOnQWhKhG/IR0+6V7UgWkK58sxjuKrODCYSiv4hh5wJeNYTwstkwyedMW2KN4aWfPSA6eousqt3Pw9QH7NtzdbM7gjlZyUcweRrxlj0+dPKyYK0kZvWugJeNaXphH7CixJNMvIzxsjLTa/dWQr7/EsZJ5fWMofnzp1Nh5/x47k1wgBeRIu7ZYjX6BODw7/+16/8TjT0hDZjoiOe5lP62LyJDU9dbK4oWVPecaaoZVXch88CHATmTw3Ic/eRr1tHZutiwxqgkSbTTjzxFjzSi2tqxNvbQroi4+PD6PelDWgvOObsoSeGadZCWcXA==;sy/6/jY4/OstRE521cEyKA=="
 ---

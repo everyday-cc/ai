@@ -41,6 +41,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 34
+  - title: "AI finally brings personalization to edtech"
+    excerpt: "Students are prompted to complete daily streaks and can see how they rank among their friends on the platform. This startup set the AI tutor to work in the language education space, now offered for English and Spanish learners. Speak helps break that ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://vator.tv/news/2023-11-28-ai-finally-brings-personalization-to-edtech"
+    type: article
+    provider:
+      name: vator
+      domain: vator.tv
+    quality: 17
 
 secured: "a9gCgYntJn61ZtsqMs+WpRP82O4AOe8tWT7+irHm+pht1QDK8Qol+XizStMxiaDioazy5KV71pympGOjDRvaUh5pqgix27IuZdOKuadXzzmWgrjc8XWak9bqPUJ0tb4Dwj+23F1p1U6s9/syRGtLP+TfAC+UJY7jLvOPwW7WIT5cpIpJ/Y4bHcL/dJ0VHSy9U4Z9BBg3FII/qjyHz80ajZAI7ojSRJU8YF5Fc9PLdLEsP+Gx9bLopo6BQB/7w5T96cbwHaiL8JWBh3+E+LSe1lGyAShhCiHLchRKa6C7VkiyPfOOrC3c0mfYleG0PWfJv4alYwUw735E+HdD9BGOKlhgV6viF6rY6G6WxtjRlgI=;sKVLMKofIvxbCiIMPuCmVg=="
 ---

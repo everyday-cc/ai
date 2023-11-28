@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personal
 webUrl: "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 34
+  - title: "AI finally brings personalization to edtech"
+    excerpt: "Students are prompted to complete daily streaks and can see how they rank among their friends on the platform. This startup set the AI tutor to work in the language education space, now offered for English and Spanish learners. Speak helps break that ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://vator.tv/news/2023-11-28-ai-finally-brings-personalization-to-edtech"
+    type: article
+    provider:
+      name: vator
+      domain: vator.tv
+    quality: 17
 
 secured: "MTg5beyud99Yc3JrKhlfkt0emB97CElcel7Ba67Dv8HB9jT7K71o4RsuaQYHvpWkbW9aFGibq39yYg2XN4teJualMFyaOuPrYkOY9V595ECr7/igy5YLASDLEkDRFdmvDLPpR+p33X1QKiO4+8ox09iwawUhtsC3bUqygVFs5/Q3nLSmNXxQtFsQo6ZAUiHR3dgYFHMm5P0/FPo5mlaic+Cg2a5PakH16fhwxBgkHmg2o5yTkmUJa6nRMUwy8vNdLSGT34sd/At8H2x9Tw3y7lPym+X+zYzdC1UHrKBGfUIdOo5o2wK2v5XyWXjObOJOnirmhDJkkEAIbHvNi29QVPycXSk7neVt6pjYe2dINZE=;xCFxkVF56YY22VFfdJaxrw=="
 ---

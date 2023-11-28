@@ -90,22 +90,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 41
-  - title: "Austin launches new dashboard to track incidents involving self-driving vehicles"
-    excerpt: "AUSTIN, Texas — While Cruise vehicles remain on the streets of Austin with someone in the driver's seat, other companies are still testing their self-driving cars in the city. As a result, Austin's Downtown Commission says they now have a new dashboard ..."
-    publishedDateTime: 2023-11-23T22:44:00Z
-    webUrl: "https://www.kvue.com/article/news/local/austin-self-driving-incident-dashboard-launched-downtown-commission-txdot/269-4b28657b-e8e3-4757-982c-1e12b2fd544c"
-    ampWebUrl: "https://www.kvue.com/amp/article/news/local/austin-self-driving-incident-dashboard-launched-downtown-commission-txdot/269-4b28657b-e8e3-4757-982c-1e12b2fd544c"
-    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/austin-self-driving-incident-dashboard-launched-downtown-commission-txdot/269-4b28657b-e8e3-4757-982c-1e12b2fd544c"
-    type: article
-    provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 39
-    images:
-      - url: "https://media.kvue.com/assets/KVUE/images/f2a6e632-f68b-42ad-be72-e0afe66aee7d/f2a6e632-f68b-42ad-be72-e0afe66aee7d_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Tesla's Self-Driving Tech Faces Roadblock In UK: Report"
     excerpt: "Tesla, Inc TSLA +0.64% Get Free Report is reportedly facing a potential ban on selling its \"full self-driving\" technology in Britain as new driverless car laws are likely introduced by the Department for Transport, preventing carmakers from labeling vehicles as \"self-driving\" unless they meet strict government standards."
     publishedDateTime: 2023-11-27T13:10:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/johnwerner/2023/11/28/the-social-side-of-a
 ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/11/28/the-social-side-of-ai-think-carefully-about-the-future/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/11/28/the-social-side-of-ai-think-carefully-about-the-future/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/655a427d46c7abb4b9c20364/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -63,6 +64,6 @@ related:
         height: 768
         isCached: true
 
-secured: "wdYuaKM0fs8y/LUOeByvD2WcZ04BvT/aV3eAtWaDhdbxLEaPYdoq/dTa+o8JrQbthoZYdrYdCoZcFJXBQqAovkCBn0GavVDURdUJcXlSUp8x3TzOrdszBde1wkmWO+llb6LJ+4CRV39Kez1AALJ067ikO5c9fW9RKTn+Y5k+vMktDDorX6KPBDb9u3HaJ1IbC+DRIuyP4FKbscCFB9MYPnOe4FrCvvTkCYMIgakpYveVeId2u9ccRwFum0PsBR1KRYAXDIERJ9KJ560U+bNl4WHISJhZlJyAJJuNpnOTGrZQUzoLE5qhTi1E0PuG5pSeCUrGKX+WOPOQhxG4pRD/AKpfZJvJX664YGeM0prPRi4=;yb6LBTXgsqq8qtNgxcCcMA=="
+secured: "N9q2311U/2Bsfxndbkg2wfDSqxp+c3IcNNzNO2XzeW+PtpbyruEwNrNVi+Df+vf/5inNYvRg2Rn7WT5jIwOqK32azB1KpdFrl67lqkDoibLSi8l43U2dXtzVeODwpWLIbx3/TjHVFecniniHSt4k+v1vcJMSLW1+QYJe0tQSUY08S29GLTP/7BlLv5nm7pS20eovvVRRsMEuEihzr/rRfVoTdaqEKLh71wzE15rbxBEZkAKPyol48nGl1LebjT1pewr4Q6BtU1AGfMhet3QtwCIRhrykS1pxsyvopu7TZaCPbERFqysCLhXAp4+qfXljy72wlg7UeAOoCNDXzCbR5HqJnsBFnok4vgBzYmfA4pVEWtqzPJD1Nc6bYwjId1ZOf7u4ZW5vEow9UgdSX5GL+hgFswu8RXWqP2OFvV4EREFK0X9pjO/vSXltGfVN7ZneE64HlhetJFTPZuB3M/+squSuPXQmPdJAlAsQvemFzeqtb7yw+m7x/eRZ68C5otN5aWL26SLXhEH2K0PCztgKLA==;IA/ncpf3hFusjOhGTJnJgA=="
 ---
 

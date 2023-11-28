@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/why-physical-operations-are-uniquely-po
 webUrl: "https://venturebeat.com/ai/why-physical-operations-are-uniquely-positioned-for-ai-transformation/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -69,7 +69,16 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
+  - title: "Informatica Broadens Relationship with AWS, Announces Deeper Integrations Across Generative AI, AWS HealthLake and Amazon S3"
+    excerpt: "Latest developments reflect a commitment to wider collaboration between the two cloud leaders and Informatica's significant AI-powered platform growth and adoption in AWS Marketplace Informatica (NYSE:INFA),"
+    publishedDateTime: 2023-11-28T13:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35979181/informatica-broadens-relationship-with-aws-announces-deeper-integrations-across-generative-ai-aws-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
 
-secured: "qRNvlXPn/vd3wXAiYzW0stIUhiTWurrIGqFTksnhXahupWtP378/Kcb+NvENws3S+QupSoODEy53DWEerwNZTGNR94oqIdnh0X2b0oQbWwNJzo9JKmygiKceCEhRM/RdX2cZVUMXGhwOpLCnW2ExrnfSTEJHQVxP1JMdoP8IBG6a7ucjbfVeB6Kw5W+3/GOa/Y1f8/US5oGNrMprBi7Km3E2pH3VWRsh7K/ohjyMcbalWhn/qeqn5MPNwCwfhBysfBKFshXvvysuR3AMIL0Md7qtcMwCfL/4rJBn4mbkVWAz5e1mOQNqx6ZkTft0B+kFLkyiHZvBMtFnUgRVsJOeq7AG+MTfb5IR/JwrCy8pPpk=;Sh98o7m678xbUyvt8UzE6Q=="
+secured: "p090WrCFeLM7jme9Lu1XPVgfre2x6gXg4/oHHXbhlrwPM4BThig+NZy5QWeMLQjqJPZluong/OpkTszVb4bg5vSp/o5CKRc/GZtR8wcUVRKHrr+voOtZjhXZgazEolnd2PlnIgYXAAgDXS3nKzi9dVtTd3O/glJGzj6f1Z4Hx8Koi7Uu0sSK0Y75Tn+oXaVoKIHJ4/9DfUuEXjKuiHAznhOcQVF10FSeN/dluEtqu+5swNWXv1472Vi1HTDQ7br6zWIDdq5DHF+CCBiDxymjuvTzfI7twbx9KiFg4dv/1VsOJA5uyc94hw9rI0uRvTqs9Gbhf6r5W+VxA9mM1uAdx7/oFWNKnoB3ANfoYw5SGIIMXecBR0bQFns8MwX/S+taRFp8svv7SAh1N9a5d/n88+STM11jq0ryU8U0CyxBIpAvTcIbWguIgmvyjuIN4mTVTcCZphAnC9I/BkOjH6WyYw1kFe9hsSdcYdTXpBxd7JFRIxed8/lEK+KOVRsuU7kKU1pwiP8BwugqPxeM+dgdSA==;/5B4I/0fMfIsUFfnFWP4eA=="
 ---
 

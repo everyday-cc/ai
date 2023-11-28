@@ -81,6 +81,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AWS and NVIDIA Announce Strategic Collaboration to Offer New Supercomputing Infrastructure, Software, and Services for Generative AI"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and NVIDIA (NASDAQ: NVDA) today announced an expansion"
+    publishedDateTime: 2023-11-28T17:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231127986225/en/AWS-and-NVIDIA-Announce-Strategic-Collaboration-to-Offer-New-Supercomputing-Infrastructure-Software-and-Services-for-Generative-AI/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 5
 
 secured: "uNKT9rkt+aFHoBA0qT1CTCJ2DKYaYgxNyKdfzCKTAxB9UMtsG+jzCZKvm3iEKxowPnh6wvVKdM5Kb42w0rAhuFM4eHgnsWfXk6cABs8r4NvKwl0ohIqEYYh7Inriwy5npQLIJccwn+qLXJp9myv4ULaOtkQMl+HHB3ta63L257dIOtiHv6u4/BhokSkmID9s0W0V6lC+hge6C2yQcpfoSfvc+2Ta1UJKqwSDSMLctZugkZr2GjCVYXDaVkpBH5VjsKdxJfYalpBIdT+90GUmey/EmSyBTUxP0DEqrTtuwtNrQVeWwzQNvnglZDpTyYWt41ao2N9eznQRoWa8xQmDad7e54rlADAGVrqTKG63asQ=;q1o2zRx3n/X2Sul+ojjL1A=="
 ---

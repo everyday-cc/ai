@@ -51,6 +51,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 44
+  - title: "Why a San Francisco AI startup is buying $150M of computing hardware from Dell"
+    excerpt: "S.F.-based Imbue inked a deal to purchase $150 million worth of computing hardware from Dell in order to train its foundational AI models."
+    publishedDateTime: 2023-11-28T18:00:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/11/28/ai-startup-imbue-150-million-dell-hardware.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
 
 secured: "UZ0mr7veE5r89mmS0c9IplFWm9e3OGLoqwgaov/IXYDcrI2y/jzmSFSES4VTZHy+csbLc+K4KRGcLws0yKHnViONjVc1P7jtdKmABh8FFxXJ9rboZX6qfleM8zW3QMFBLNly2elltcf18KYV7T99Afdkf2W+LrYt9FjC0n6vORDEnULCLVpsSTY/xnrPCGP6o2TMQJRF4NBdOiiK4M/fVxtTvW9ZjKPsl4Nno6TgzuObgxFTCSlSyW2ji/axa6gY72RpimzcgSkg9GefLH+wtgEEeCLJ72a9fnOFrbp3ln+/8ZMf6LuWS2RRKUf6c7v0JHWdsOumGdYLkLKe/SyVl7Y7q3gXR09qDNPFKVCVTCU=;ZuhMxlHcQLKAwyijtO0B9A=="
 ---

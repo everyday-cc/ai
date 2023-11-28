@@ -7,7 +7,7 @@ originalUrl: "https://www.iphoneincanada.ca/2023/11/28/amazon-latest-ai-training
 webUrl: "https://www.iphoneincanada.ca/2023/11/28/amazon-latest-ai-training-chips/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 800
     height: 333
     isCached: true
+
+related:
+  - title: "Amazon just announced a new AI chip: find out more"
+    excerpt: "Amazon announced the Trainium2 chip at its Reinvent conference today. The tech behemoth also unveiled the Graivton4 processor on Tuesday."
+    publishedDateTime: 2023-11-28T17:36:00Z
+    webUrl: "https://invezz.com/news/2023/11/28/amazon-announce-new-ai-chip-trainium2/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 34
 
 secured: "+jpHfnewdGtpYNGqSCfz2fXcgd4lQdvMAxM7K9hRliuphRXAZgZ/UkeVsj4VTvj4GBUqAc9UedsM80oYf7lCO4F7FW30JQj9kR3nKuj1P/x+Feb2a6OMViQHEnTM+Mq87wOGMh2tU532F8MezV6I94r/YFnh4NqpZwdrFOVKqOS9lYfL1TVxkMk6k/+iLSk24HfL/+M3cM5cBQvAsugZ29R1e+pismpuVEBAkWiWReCnJh95npU1yrlhbFsq3i2HlHaxNfvJW4o34DhsN/yJokrlGkdVV2wz4rrVyi0+MqsccUJ+R3cRBRnsYseDftNJpLETMPVkXU8Ap7souyWwlOatAlEwKPpU+inHHbzNc64=;oH0aqJQcXqj3CIpjK58xIQ=="
 ---

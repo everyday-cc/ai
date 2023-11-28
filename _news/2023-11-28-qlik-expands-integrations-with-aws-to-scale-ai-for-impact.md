@@ -39,20 +39,6 @@ related:
         width: 266
         height: 400
         isCached: true
-  - title: "Teradata launches its AI discovery and exploration tools on AWS cloud"
-    excerpt: "Teradata is best known for its big-data software platform VantageCloud Lake, which can be used by enterprises to analyze their business information for useful insights. Its analytics feature set is known as ClearScape Analytics, and the new AI platform is said to be heavily reliant on its capabilities."
-    publishedDateTime: 2023-11-28T16:00:00Z
-    webUrl: "https://siliconangle.com/2023/11/28/teradata-launches-ai-discovery-exploration-tools-aws-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/image_2023-11-24_071943410.png"
-        width: 997
-        height: 552
-        isCached: true
   - title: "INRIX Intros Compass Intel with AI for Location Insights for Better Mobility on AWS"
     excerpt: "Proactive Transportation Strategy: Merging historical and real-time data seamlessly, Compass provides in-depth insights integrated across INRIX’s robust INRIX IQ suite to help cities and businesses adopt smarter, safer, and more sustainable mobility strategies."
     publishedDateTime: 2023-11-28T00:19:00Z

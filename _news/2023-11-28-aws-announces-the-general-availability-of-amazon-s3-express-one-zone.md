@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35983293"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35983293"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 19
+  - title: "AWS Announces Amazon Q to Reimagine the Future of Work"
+    excerpt: "Amazon Q builds on AWS's history of taking complex, expensive technologies and making them accessible to customers of all sizes and technical abilities, with a data-first approach and enterprise-grade security and privacy built-in from the start."
+    publishedDateTime: 2023-11-28T18:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924564.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
 
 secured: "FEnd+4g0x+ZPh8yqDPul20wx2voDLzTENJ0rtAP6cNZojCqxo9am1GEJrb2ByWMtrZX7vw93fil5frVdYPbwDCSBCGFfpxy2ZPcEaiHcTVffghlFTQkRXGUtaBbewBtFMc0+3ohKh3MvUeHRg5agdWRguubtsQHY3hhTxGNIhUOszwIQuUIXDJWdG1IWtge2sCAdTq6QcmaDzb4Cpw3utRfUZ4vhNhVHXpss5lNOgTAJXj71LyzZDQBPfJ/i2PIBImHr9ifBWTiX6KTtsr4KkqCF6iwjYazitMKRx0Q60UuiQ2Rkq0qLUSnMgFQZ9ZB/Rp8MpVdFYia3SyVY1EXqwRP3viZaIDsgf9CdfIjfl2Y=;XY2gh+3gwYBu3nl/sgouCg=="

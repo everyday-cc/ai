@@ -55,6 +55,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AWS Announces 3 Serverless Innovations to Help Customers Analyze and Manage Data at Any Scale"
+    excerpt: "AWS is also releasing a new Amazon Redshift Serverless capability that uses artificial intelligence (AI) to predict workloads and automatically scale and optimize resources to help customers meet their price-performance targets. These announcements build ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-announces-3-serverless-innovations-to-help-customers-analyze-and-manage-data-at-any-scale/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 8
+  - title: "AWS Announces Four Zero-ETL Integrations to Make Data Access and Analysis Faster and Easier Across Data Stores"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced new integrations that enable customers"
+    publishedDateTime: 2023-11-28T22:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231127634964/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "MrIzAU8V26ntkPCTUeJcGa5KMONBIXcr4tUiSC3cLn2mivB2KA0+tusap7FO2sETT5P27Z7rHZh6Uh9vdBtg441m6LM5CFmQfDhaJys/esCy8l+YxPGKP8OOAybBlOS4wKKTf3Pq33Xj4+Qe78P8Phem9zB127FYshqznqMzhiJVv8/pd9gl+t+8nptVV8gRUkcKRjaBTHw8+SsUe9ejbymsecQ51w4QxPAIyw4mHwGrE+tG+w+q8SrohyRw7H4PlpyQkyjegVGU19Ls5NZWZ3H3+A+REQHShHzKfejoUPIk/Ya6AQyGFpAGO++rRZl3nIcfXzXGNfwkZmsCqDe0dYtrIuWBks3KLJZtJkkXTGM=;EPEgGZFupj42hYns4AHtVg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.stripes.com/theaters/us/2023-11-25/california-benefits
 webUrl: "https://www.stripes.com/theaters/us/2023-11-25/california-benefits-risks-artificial-intelligence-12163210.html"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless cars immune from traffic tickets in California under current laws"
-    excerpt: "An NBC Bay Area investigation reveals autonomous vehicles in California cannot be cited for moving traffic violations since transportation laws require tickets to be issued to actual “drivers.”"
-    publishedDateTime: 2023-11-23T23:03:00Z
-    webUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/"
-    ampWebUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
-    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
-    type: article
-    provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
-    quality: 56
-    images:
-      - url: "https://media.nbclosangeles.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "California explores how to put AI to work in state government"
     excerpt: "A new report outlines the benefits and risks of generative AI as California looks to develop guidelines for the evolving technology."
     publishedDateTime: 2023-11-27T14:30:00Z

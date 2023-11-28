@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Best practices for augmenting human intelligence with AI"
+    excerpt: "Enabling participation in the AI-driven economy to be underpinned by fairness, transparency, explainability, robustness and privacy. \nThe post Best practices for augmenting human intelligence with AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-28T20:00:00Z
+    webUrl: "https://www.ibm.com/blog/best-practices-for-augmenting-human-intelligence-with-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Ensuring Data Privacy: 20 Best Practices For Businesses In The AI Age"
     excerpt: "Ian Gotts, Elements.cloud The fusion of AI and transparency leads to trust. By publishing an AI ethics charter, an organization illuminates its dedication to data privacy. A transparent AI ethics charter is more than a document; it’s a promise."
     publishedDateTime: 2023-11-28T15:15:00Z
@@ -46,35 +55,19 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "New framework for using AI in health care considers medical knowledge, practices, procedures, values"
-    excerpt: "Health care organizations are looking to artificial intelligence (AI) tools to improve patient care, but their translation into clinical settings has been inconsistent, in part because evaluating AI in health care remains challenging."
-    publishedDateTime: 2023-11-27T22:06:00Z
-    webUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
+  - title: "Making artificial intelligence fit for all our human futures"
+    excerpt: "It was a privilege to introduce my Private Member’s Bill on artificial intelligence (AI) into the House of Lords this month. In the Bill I have tried to incorporate much of what I believe we need to sort, in short order, when it comes to AI. Every King ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.computerweekly.com/opinion/Making-artificial-intelligence-fit-for-all-our-human-futures"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 46
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 37
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-system.jpg"
-        width: 1920
-        height: 1372
-        isCached: true
-  - title: "How to Protect Your Privacy When Using Undress AI Tool"
-    excerpt: "Hello tech enthusiasts! In an era where artificial intelligence is reshaping boundaries it thrilling yet daunting to witness innovations like the Undress AI tools These tools use neural networks and"
-    publishedDateTime: 2023-11-27T16:43:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/274046891/how-to-protect-your-privacy-when-using-undress-ai-tool"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1700994204615.jpg"
-        width: 630
-        height: 420
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-281123-cover-500px.jpg"
+        width: 500
+        height: 354
         isCached: true
 
 secured: "mfR6CH7i69XIxsP2SGFXOqGnipW1VQ1taq+fMecYopbNQejGlsUFYW+4/u+hJWfO6okjgKyu49V2z2qcO4e+66UuVoJZHrhXpv9Ha+tfHjPC+r7G9skqvVUeo2zwyZL7AMf2d4f34dzjr3uYm0smfm4W43K8sC4SjPcwHPAj8wSXhjnMaoJnjqFSp5gu4RxAd/zeY/xg/8euHH98GAjeDC3PVANAGMHn8IakBvev8cMDirbVyffPPvbv8snrmtG2m/HOfS+h9w4EvbWrgjj1+m+/vgJZHHDyohtLFlGuop1bsqxuB5DbfKecadq9fjfAvkqvG9JtXjZeAjbb/rcMtz0hCkxEcETLkAuLJtgry5A=;zs6a7iBEggMoCzEGTNFZqQ=="

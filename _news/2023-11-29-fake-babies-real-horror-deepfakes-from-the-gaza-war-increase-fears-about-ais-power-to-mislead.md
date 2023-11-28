@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "AntiFake AI tech could keep your voice from being deepfaked"
+    excerpt: "Additionally, replicated voices could be used to bypass voice-recognition security systems. While there are already technologies designed to determine if supposedly legitimate voices are deepfakes, AntiFake is reportedly one of the very first systems to ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://newatlas.com/science/antifake-voice-deepfake-protection/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 69
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/b2fe4fc/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6a%2Fef%2F49d10454473f9001ea064d040a81%2Fdepositphotos-16361363-l.jpg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "From Deepfakes To Rogue Superintelligence, Here Is Dark Side Of Artificial Intelligence"
     excerpt: "Deepfakes are just the tip of the iceberg. From spreading misinformation to reflecting real-world bias, there are several darker aspects of artificial intelligence (AI)."
     publishedDateTime: 2023-11-27T02:28:00Z

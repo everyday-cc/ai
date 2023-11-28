@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35971991"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35971991"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AWS takes the cheap shots"
+    excerpt: "Google has long had a reputation in the world of AI and machine learning in general. With tools like SageMaker, Bedrock and now its Q assistant, AWS is arguably on equal footing, but it’s not in its natural element — and its rhetoric shows that."
+    publishedDateTime: 2023-11-28T19:44:00Z
+    webUrl: "https://techcrunch.com/2023/11/28/aws-takes-the-cheap-shots/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
   - title: "Deloitte’s Bolt-on 2.0 migrates to AWS"
     excerpt: "Deloitte’s Bolt-on 2.0 migrates to AWS to optimise tax reporting and supply chain processes for businesses in India"
     publishedDateTime: 2023-11-24T05:29:00Z

@@ -1,0 +1,193 @@
+---
+category: news
+title: "Get real: Artificial intelligence in health"
+excerpt: "The report analyzed 10 key products in global health: five drugs and drug combinations for HIV, tuberculosis and malaria; a bed net for malaria; three tests for tuberculosis and HIV; and oxygen-producing facilities. The dolutegravir-based HIV drug combination was the most polluting."
+publishedDateTime: 2023-11-28T18:00:00Z
+originalUrl: "https://www.politico.com/newsletters/future-pulse/2023/11/28/get-real-artificial-intelligence-in-health-00128828"
+webUrl: "https://www.politico.com/newsletters/future-pulse/2023/11/28/get-real-artificial-intelligence-in-health-00128828"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: Politico
+  domain: politico.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+related:
+  - title: "Risks Of AI In Healthcare Come To Light"
+    excerpt: "AI is a new frontier and can be potentially extremely helpful in healthcare. It can also be extremely harmful. A class action lawsuit describes alleged harm."
+    publishedDateTime: 2023-11-25T18:24:00Z
+    webUrl: "https://www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/"
+    ampWebUrl: "https://www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65623b21796ce4c2f2011280/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "The Rise Of Artificial Intelligence In Marketing"
+    excerpt: "Today, we possess new AI tools to scrutinize data sets, suggest changes and create innovative content like never before."
+    publishedDateTime: 2023-11-27T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/27/the-rise-of-artificial-intelligence-in-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/27/the-rise-of-artificial-intelligence-in-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/11/27/the-rise-of-artificial-intelligence-in-marketing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650353a2f5d79fd4bd28ff09/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Learn how to assess the risk of AI systems"
+    excerpt: "Artificial intelligence (AI) is a rapidly evolving field with the potential to improve and transform many aspects of society. In 2023, the pace of adoption of AI technologies has accelerated further with the development of powerful foundation models (FMs) and a resulting advancement in generative AI"
+    publishedDateTime: 2023-11-28T22:15:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-to-assess-risk-of-ai-systems/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/28/ML-15867-imaage007-riskmatrix-1007x630.jpg"
+        width: 1007
+        height: 630
+        isCached: true
+  - title: "Alibaba Redirects Focus from Quantum Research to AI in Healthcare and Agriculture"
+    excerpt: "By investing in AI for agriculture and healthcare, Alibaba is not only aligning with current market trends but also addressing challenges."
+    publishedDateTime: 2023-11-28T02:59:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/28/alibaba-quantum-research-focus-shift-ai-healthcare/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 59
+  - title: "Procurement in the age of AI"
+    excerpt: "But recent advances in natural language processing (NLP), pattern recognition, cognitive analytics, and large language models (LLMs) are “opening up opportunities to make procurement more efficient and effective,” says Julie Scully, director of ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/amazon_business_cart.png"
+        width: 1200
+        height: 1340
+        isCached: true
+  - title: "Healthcare in the age of AI: How will artificial intelligence impact future decision-making?"
+    excerpt: "Authored by: Constanza Salas, Jhon Galindo and Rachel Howard"
+    publishedDateTime: 2023-11-24T11:06:00Z
+    webUrl: "https://www.pmlive.com/pmhub/healthcare_market_research/109066_the_research_partnership/white_papers_and_resources/healthcare_in_the_age_of_ai_how_will_artificial_intelligence_impact_future_decision-making"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 58
+    images:
+      - url: "https://www.pmlive.com/__data/assets/image/0006/1503879/Artboard_1.jpg"
+        width: 358
+        height: 238
+        isCached: true
+  - title: "AI in Healthcare 2024: Transforming Patient Care with Innovative Technologies"
+    excerpt: "Introduction: Artificial Intelligence (AI) has emerged as a powerful force in reshaping the landscape of healthcare. As we delve into 2024, the integration of AI in healthcare promises groundbreaking transformations,"
+    publishedDateTime: 2023-11-27T08:45:00Z
+    webUrl: "https://techbullion.com/ai-in-healthcare-2024-transforming-patient-care-with-innovative-technologies/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 51
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-in-Healthcare-2024-Transforming-Patient-Care-with-Innovative-Technologies.jpg"
+        width: 650
+        height: 450
+        isCached: true
+  - title: "WHO outline’s responsible regulations needed for Artificial Intelligence in healthcare"
+    excerpt: "The World Health Organization recently published a new document outlining essential regulatory considerations for applying AI in healthcare"
+    publishedDateTime: 2023-11-24T16:29:00Z
+    webUrl: "https://www.openaccessgovernment.org/who-outlines-responsible-regulations-needed-for-artificial-intelligence-in-healthcare/170622/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 46
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/11/iStock-1396801868-scaled.jpg"
+        width: 2000
+        height: 1334
+        isCached: true
+  - title: "AI expert: 'It’s the age of AI right now in health care'"
+    excerpt: "During a routine visit with the medical oncologist, a cancer patient brings up a new symptom that could be a side effect of cancer treatment."
+    publishedDateTime: 2023-11-27T01:00:00Z
+    webUrl: "https://www.joplinglobe.com/cnhi_network/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_346300ca-c8d4-53cf-bc1c-c6cdb66d5000.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/5/69/569c359a-7879-58c0-b576-70ed05dca068/6560befc288f5.image.jpg?crop=1700%2C893%2C0%2C70&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IU experts speak on the role AI plays in the health care system"
+    excerpt: "Artificial intelligence continues to play a huge role in the health care industry. Experts speak on the benefits and drawbacks the tech may have."
+    publishedDateTime: 2023-11-27T00:23:00Z
+    webUrl: "https://www.wthitv.com/news/iu-experts-speak-on-the-role-ai-plays-in-the-health-care-system/article_f41706c8-8ccb-11ee-9b39-f37960a52902.html"
+    type: article
+    provider:
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wthitv.com/content/tncms/assets/v3/editorial/2/c0/2c030702-8ccd-11ee-8e79-5be480a419cd/6564010d386a4.image.png?crop=1576%2C827%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI to take center stage in healthcare in 2024"
+    excerpt: "Even more change is on the horizon and 2024 is likely to bring significant transformation to the healthcare industry. Changes will be characterized by the rapid explosion of artificial intelligence and its integration across the healthcare ecosystem, unlocking the potential to improve healthcare delivery and patient outcomes."
+    publishedDateTime: 2023-11-27T14:43:00Z
+    webUrl: "https://www.healthcaredive.com/spons/ai-to-take-center-stage-in-healthcare-in-2024/700098/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 34
+  - title: "XTB hires head of artificial intelligence"
+    excerpt: "XTB, a global fintech offering online investing platform and mobile app, announced today the appointment of Tomasz Gawron to lead the company's Artificial Intelligence (AI) department."
+    publishedDateTime: 2023-11-28T13:43:00Z
+    webUrl: "https://www.finextra.com/pressarticle/98957/xtb-hires-head-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "The fight for the soul of AI"
+    excerpt: "Can one organization, or one person, maintain the brain of a scientist, the drive of a capitalist and the cautious heart of a regulatory agency?"
+    publishedDateTime: 2023-11-24T19:41:00Z
+    webUrl: "https://www.seattletimes.com/opinion/the-fight-for-the-soul-of-ai/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
+
+secured: "lPwAkX0+rTEPfdVGBseNRIZAU7qPMJ7Q0bz413yuSg2pt5A66EnJNz3KEH1HAOipqndY7Jm+hBDWopqX4ODo0k2OY+aFOYKO065HDl83gLuw1hA5wOCrS6SjZWW4wfpKdjvDJnmN8xkpMAYrNSDLexB5dntGddZS6SwlX0OcKXXqEAsU+SCsN7vYG0Sgjm3btnKGEAXduHeOF8EWVQjI5NceMXtxj7PzpcUoST4dxCDriJhDYDZHdJSPo2Z1yE6Oomfu/8az7187qDf534feXqE0boqTp7aXYB9NGmQ98CCIpqUsBJpJYEafWzWuO8dqg0U8zsq1Vu9b6oi2iJL6SewvPncu+11rlFPX/LwpY95B4emE0cG0EFvgNKiUzY1R0f8Q9QN8WXZsRXLC3g8cZ48M7uLRcO5L7HUgDr4QJRPNfkwekHnoH6nNEeTGatzHTlctWzHRwG1Qzbl3PEtez9LnObre7XPPlLlC+P7Le2A0k9x8ZjMvEauG2Sl0L6bfR4IFF2SS52obq0WFCDuzXA==;V5k00JiaEzTg9zlLDCrx1w=="
+---
+

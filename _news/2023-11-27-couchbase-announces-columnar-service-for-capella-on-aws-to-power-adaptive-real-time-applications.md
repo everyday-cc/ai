@@ -18,6 +18,17 @@ topics:
   - AWS AI
   - AI
 
+related:
+  - title: "Couchbase announces new Capella columnar service to enable real-time analytics for adaptive applications"
+    excerpt: "Couchbase, Inc., the cloud database platform company, has announced a new Capella columnar service on Amazon Web Services (AWS) at AWS re:Invent 2023, enabling organisations to harness real-time analytics to build adaptive applications."
+    publishedDateTime: 2023-11-28T19:30:00Z
+    webUrl: "https://www.logisticsit.com/articles/2023/11/28/couchbase-announces-new-capella-columnar-service-to-enable-real-time-analytics-for-adaptive-applications"
+    type: article
+    provider:
+      name: Manufacturing & Logistics IT Magazine
+      domain: logisticsit.com
+    quality: 0
+
 secured: "WGpNCUUNZSsz8VmPoCeVyXUR8Q/fElh7BWl6hFOncRzBJvOYKJLfQy76CjVaLJbyHw3gHt0RZ7INgW+j6XZcodJ1trLuq7QPy3Aefua4Nl6mFO4Rc4VgrHNih92Fy/TTyjaHmgSUhWOUXdYkXYPcvSxLX/THNcJ2x8uQIv3uWgm/O/KEG341B6Yn3lnjH9keqFpO1X6wCRd7bU7eEzl9Dp9FpxzDVNlc4D751E/7hilVUbFcTWa2+Rwy9znpCiTK84nfQ4HWrg4fo+v4IOz4s/lm0hd/Vq6hrJLS8oAtKfnD+jRxWvogcxGmI37cMvonB9V37Tct9Xae/YBYBuXgW6KWPIXrakWdCakPs/hvnbq6ysXU6RZsd6bMnP4kbwl3M4YMudA+qAuBNQjbfQhFQZ5XffawuIGNIwby1NvrvB/aXxpgSH4CE/3V62SDBSl+GgagsIxZ6smmgKgsAIO3+ujtjqrzF3MZpvJU9cZosnbVemD4kYRuyC6D+S9iFvOnXlUHxxMfGMmrALS8Tto1OQ==;bui263VU0y3363KkQjEaXA=="
 ---
 

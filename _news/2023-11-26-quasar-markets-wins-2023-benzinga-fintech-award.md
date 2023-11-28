@@ -87,20 +87,6 @@ related:
         width: 830
         height: 553
         isCached: true
-  - title: "I Attended The Singapore FinTech Festival For The First Time As A Fresh Graduate. Here’s Why I Loved It"
-    excerpt: "The Singapore FinTech Festival (SFF) is an annual flagship event organised in Singapore that brings together different fintech companies around the world"
-    publishedDateTime: 2023-11-23T22:59:00Z
-    webUrl: "https://dollarsandsense.sg/attended-singapore-fintech-festival-first-time-fresh-graduate-heres-loved/"
-    type: article
-    provider:
-      name: DollarsAndSense
-      domain: dollarsandsense.sg
-    quality: 8
-    images:
-      - url: "https://dollarsandsense.sg/wp-content/uploads/2023/11/SFF-Map.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Exclusive video: Fintech risk – when things go wrong"
     excerpt: "In a fireside chat on Stage 1, Alex Phillips, SVP of FINPRO at Marsh, discusses the common risks for emerging fintechs today. Having worked in the insurance industry for over 20 years, Phillips delivers key insights on ways fintechs can protect their business from the pitfalls on the journey to sustained growth."
     publishedDateTime: 2023-11-28T13:00:00Z

@@ -25,156 +25,96 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft brings ChatGPT AI to Windows 11’s command line, and here’s a closer look"
-    excerpt: "ChatGPT-powered “AI chat” on Windows 11. ChatGPT integration is now available in Terminal (Canary), a new development channel to test experimental features ahead of a wider rollout. With ChatGPT AI Chat in Terminal,"
-    publishedDateTime: 2023-11-24T00:20:00Z
-    webUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/"
-    ampWebUrl: "https://www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/11/24/microsoft-brings-chatgpt-ai-to-windows-11s-command-line-terminal-closer-look/amp/"
+  - title: "AWS Launches New Chips for AI Training and Its Own AI Chatbot"
+    excerpt: "Invent, NVIDIA contributed GPUs to Amazon's cloud efforts and added a retriever system to its AI Enterprise Software platform on AWS Marketplace."
+    publishedDateTime: 2023-11-28T20:49:00Z
+    webUrl: "https://www.techrepublic.com/article/aws-re-invent-2023-keynote/"
     type: article
     provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 83
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 101
     images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/09/Windows-Terminal-with-AI-on-Windows-11.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/11/amazon-graviton4-nov-23.jpeg"
+        width: 660
+        height: 372
         isCached: true
-  - title: "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU"
-    excerpt: "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,"
-    publishedDateTime: 2023-11-25T11:06:00Z
-    webUrl: "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/"
+  - title: "AI chatbot helps reduce customer agents' workload: IndiGo"
+    excerpt: "In a release, the carrier also said its data scientists did research on Generative Pre-trained Transformers (GPT) and programmed the bot using extensive prompt engineering to mimic human behaviour, respond to emotions and even infuse humour into interactions."
+    publishedDateTime: 2023-11-27T12:55:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/ai-chatbot-helps-reduce-customer-agents-workload-indigo-11816991.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/ai-chatbot-helps-reduce-customer-agents-workload-indigo-11816991.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/ai-chatbot-helps-reduce-customer-agents-workload-indigo-11816991.html/amp"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 74
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
     images:
-      - url: "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft gives up on internet search to build a better AI brand"
-    excerpt: "The company is going all in on generative artificial intelligence, even if that means walking away from its fight over internet search with Google."
-    publishedDateTime: 2023-11-28T01:59:00Z
-    webUrl: "https://www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.html"
-    ampWebUrl: "https://www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/10/0-microsoft-copilot-100946694-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "6 Alternatives To ChatGPT"
-    excerpt: "In the short 12 months since its launch, generative AI platform ChatGPT has become the most widely recognised AI language model. According to a recent Forb"
-    publishedDateTime: 2023-11-28T10:28:00Z
-    webUrl: "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/11/image1-4.jpg"
-        width: 1999
-        height: 1232
-        isCached: true
-  - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
-    excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
-    publishedDateTime: 2023-11-25T10:38:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 68
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Microsoft Adds ChatGPT AI To Windows 11's Command Line, But There's A Catch"
-    excerpt: "ChatGPT's AI capabilities in the Windows Terminal can come in handy for explaining errors, generating commands and providing recommendations."
-    publishedDateTime: 2023-11-27T07:43:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-adds-chatgpt-ai-windows-11s-command-line-theres-catch-1721824"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 67
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1717654/chatgpt.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Microsoft Releases ML.NET 3.0"
-    excerpt: "Microsoft has announced the release of ML.NET 3.0, its open-source, cross-platform, and .NET-based machine learning (ML) framework."
-    publishedDateTime: 2023-11-28T15:02:00Z
-    webUrl: "https://www.thurrott.com/dev/293679/microsoft-releases-ml-net-3-0"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 56
-    images:
-      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2023/11/ml.net-model-builder-thumb.jpg"
-        width: 1066
-        height: 600
-        isCached: true
-  - title: "Microsoft reveals the hardware needed to run ChatGPT"
-    excerpt: "Discover the Microsoft hardware and supercomputers built to run OpenAI's ChatGPT AI model. Making the chatbot accessible to users worldwide"
-    publishedDateTime: 2023-11-28T14:44:00Z
-    webUrl: "https://www.geeky-gadgets.com/microsoft-reveals-the-hardware-needed-to-run-chatgpt/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/what-hardware-is-required-to-run-ChatGPT.jpg"
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Collage-Maker-22-Sep-2023-03-59-PM-372.jpg"
         width: 1280
-        height: 717
+        height: 720
         isCached: true
-  - title: "Microsoft’s AI-powered Bing is coming for Google’s Bard-infused … – Vox.com"
-    excerpt: "Google bookended Microsoft’s big AI search announcement with underwhelming AI news of its own.Microsoft has officially taken the lead in the race"
-    publishedDateTime: 2023-11-27T15:22:00Z
-    webUrl: "https://www.inferse.com/806674/microsofts-ai-powered-bing-is-coming-for-googles-bard-infused-vox-com/"
+  - title: "Teradata launches its AI discovery and exploration tools on AWS cloud"
+    excerpt: "Teradata is best known for its big-data software platform VantageCloud Lake, which can be used by enterprises to analyze their business information for useful insights. Its analytics feature set is known as ClearScape Analytics, and the new AI platform is said to be heavily reliant on its capabilities."
+    publishedDateTime: 2023-11-28T16:00:00Z
+    webUrl: "https://siliconangle.com/2023/11/28/teradata-launches-ai-discovery-exploration-tools-aws-cloud/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 54
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14258.png"
-        width: 1200
-        height: 628
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/image_2023-11-24_071943410.png"
+        width: 997
+        height: 552
         isCached: true
-  - title: "OneNeck Earns Four Microsoft AI Cloud Partner Designations"
-    excerpt: "OneNeck has earned four Microsoft Solutions Partner Designations in the new AI Cloud Partner Program, superseding our previous Gold and Silver statuses. The designations are: Digital & App Innovation: Evolving applications to leverage advanced services in Azure. Modern Work: Helping customers enhance productivity and security using Microsoft 365."
-    publishedDateTime: 2023-11-28T18:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924506.htm"
+  - title: "AWS enters enterprise chatbot fray with Q"
+    excerpt: "In the wake of OpenAI’s leadership crisis, the hyperscaler also doubled down on a multimodel AI strategy and deepened its Anthropic alliance."
+    publishedDateTime: 2023-11-28T22:54:00Z
+    webUrl: "https://www.ciodive.com/news/AWS-unveils-Amazon-Q-enterprise-generative-AI-assistant/700924/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-  - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
-    excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"
-    publishedDateTime: 2023-11-24T20:22:00Z
-    webUrl: "https://www.inferse.com/804736/elon-musk-unveils-new-artificial-intelligence-bot-to-rival-chatgpt-time/"
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/x0Ip8P74z9_neZ9HBmOntqtkyn08Ezv-Ek1PpNhsM10/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1JJVjIzX0QzU2VsaXBza3lfS2V5bm90ZV8wMTc1MGEuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "Google is launching its Bard AI chatbot to the public – Business Insider"
+    excerpt: "Google says that you can use Bard to “boost your productivity, accelerate your ideas and fuel your curiosity.” It functions similarly to OpenAI’s ChatGPT: you prompt it with a question or a task – say,"
+    publishedDateTime: 2023-11-24T03:17:00Z
+    webUrl: "https://www.inferse.com/804061/google-is-launching-its-bard-ai-chatbot-to-the-public-business-insider/"
     type: article
     provider:
       name: Inferse
       domain: inferse.com
-    quality: 16
+    quality: 38
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-12996.png"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Clarity AI taps AWS for sustainable investing at scale"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Clarity AI, a leading technology company that delivers environmental and social insights to ensure that companies and consumers invest and purchase sustainably,"
+    publishedDateTime: 2023-11-27T18:47:00Z
+    webUrl: "https://www.finextra.com/pressarticle/98937/clarity-ai-taps-aws-for-sustainable-investing-at-scale"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 34
+  - title: "Google Bard vs OpenAI ChatGPT: Which chatbot is better and why? – Lifestyle Asia Singapore"
+    excerpt: "Looks like there soon might be a battle of the AI chatbots. Recently, Google announced its AI Chatbot Bard, which will be direct competition for Open"
+    publishedDateTime: 2023-11-27T14:00:00Z
+    webUrl: "https://www.inferse.com/806644/google-bard-vs-openai-chatgpt-which-chatbot-is-better-and-why-lifestyle-asia-singapore/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 26
 
 secured: "/b/iqOdUdmFWmqk4h2al3QRBJAtXsUJzsuRxsKCaGbXf+OLV1y9aTmLfXZPw3xAngainVqd/z8dXtV4ou3v8dOfUysiY84yauqcJ4L1+wlTTgGmXibfHxqdakHHpKgAA9LyLzPD6hn1c2Hmz0HEQgoFhvMs/P2b2hbFCU6I/j8RJ5JLLinmiAbOTf8+Zfq+PiikUvON4mKoQBv02NxS8mvGrI3uXsyPhZbEEg1Tp9q468TQGmCOBmbByWfD2PJGJ66KuNPfg1iX5gyhymJ3PcA1cWOgpeQ91qR5/4PcvkBfoae7Go+B30qLlTyiBjSZveNIqslus0P7w05ndRBIHbxghxxabAFzQlwniqzF6MeU=;qE3kmqiAP6Wr91W2kqHETQ=="
 ---

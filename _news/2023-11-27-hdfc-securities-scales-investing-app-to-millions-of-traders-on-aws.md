@@ -113,6 +113,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AWS previews Amazon Q: an AI-powered business assistant coming first to IT pros and developers"
+    excerpt: "a new generative artificial intelligence-powered assistant that can be tailored for a customer’s business, which will first be rolled out to assist information technology teams and developers. The company unveiled Amazon Q during AWS re:Invent 2023 ..."
+    publishedDateTime: 2023-11-28T20:00:00Z
+    webUrl: "https://siliconangle.com/2023/11/28/aws-previews-amazon-q-ai-powered-business-assistant-coming-first-pros-developers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 42
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/adamq.jpeg"
+        width: 1199
+        height: 798
+        isCached: true
   - title: "AI-assisted Credit Checks to Enhance Mia-Platform’s Embedded Finance Offering"
     excerpt: "Mia-Platform, the end-to-end platform builder, has announced a new partnership with Genio Diligence, a specialist provider of due diligence services to credit institutions and credit brokers. The partnership will see Genio Diligence’s AI solution for preventing credit-related risks made available to developers operating in the embedded finance sector,"
     publishedDateTime: 2023-11-27T13:19:00Z

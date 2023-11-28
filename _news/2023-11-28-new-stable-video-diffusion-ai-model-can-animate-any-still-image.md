@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/11/stability-ai-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stability AI debuts Stable Video Diffusion models in research preview"
-    excerpt: "Stability AI has announced the release of Stable Video Diffusion to mark its entry into the much-sought video generation space. Available for research purposes only, Stable Video Diffusion (SVD) includes two state-of-the-art AI models – SVD and SVD-XT ..."
-    publishedDateTime: 2023-11-23T19:30:00Z
-    webUrl: "https://venturebeat.com/ai/stability-ai-debuts-stable-video-diffusion-models-in-research-preview/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 71
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.29.08-Photo-of-a-person-of-Hispanic-descent-in-a-relaxed-pose-having-a-video-conference-with-an-advanced-looking-robot.-The-laptop-from-which-the-call-is-m-e1700766229577.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Stability AI releases Stable Video Diffusion, which turns pictures into short videos"
     excerpt: "On Tuesday, Stability AI released Stable Video Diffusion, a new free AI research tool that can turn any still image into a short video—with mixed results. It's an open-weights preview of two AI models that use a technique called image-to-video, and it can run locally on a machine with an Nvidia GPU."
     publishedDateTime: 2023-11-27T20:27:00Z

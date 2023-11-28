@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon Unveils Q, A Generative AI Solution For Enterprise"
+    excerpt: "Amazon Q is touted as a sophisticated AI-powered assistant designed to navigate the vast seas of corporate data and streamline a variety of office tasks."
+    publishedDateTime: 2023-11-28T18:36:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/11/28/amazon-unveils-q-a-generative-ai-solution-for-enterprise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Navigating the AI Minefield in Financial Fraud Battles"
     excerpt: "Delve into the complex world of financial fraud, AI advancements, and cybersecurity challenges, with insights from Anna Convery from Jumio."
     publishedDateTime: 2023-11-28T08:50:00Z

@@ -66,6 +66,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
+  - title: "Informatica Broadens Relationship with AWS, Announces Deeper Integrations Across Generative AI, AWS HealthLake and Amazon S3"
+    excerpt: "Latest developments reflect a commitment to wider collaboration between the two cloud leaders and Informatica's significant AI-powered platform growth and adoption in AWS Marketplace Informatica (NYSE:INFA),"
+    publishedDateTime: 2023-11-28T13:14:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35979181/informatica-broadens-relationship-with-aws-announces-deeper-integrations-across-generative-ai-aws-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
 
 secured: "M+w6Q/Y9L2HM/CqPTYrA8dshtcBAraQ6jvv7zrjHxXyl9ppWMsgzyQOzkZSc6+Xievka4TdfyXwXYTfEK5oVM0XrHeOdZZijPDmK5P3bje/Rk9yUSTVzNuxn75ig1iw0bh5b0u0+vCbxDawJBcieLh+RjbGZegU5UWrSbPMdQVFmBAgB6fH6+pAgDtxhWoWE94BvAdhotkIBHHkq6XhjRKqD7mzq3wYF2rBTw41YPiBUFf1soogbN69kjj/pj/UVAmZTAXu4HqWWGqfarLXrEuKf5hmZfrYXChQZSRIlRm2D2N/WQnn8y8BcubUTcyTdZC1vzg2G/McPEwvx5c+s1e1KvMCk+bbcMgj4Fju9fJK2G3uUU4XLzMuoPDb/u0ToypsqUT0MzKB1Pv05eTmpUsAvDIDJq5kcwVBomm+J6fBy0UtEuydEo5Q4yfrv6ajJdyjYcWk0T0Pe6fyE2PD3XUlWqYYGmeuRryX6ktd5TqtJ7UpamkaEZeKwJXocSVE5awOFu2QVLrhyAhZS8cXZIQ==;WCHjejs1kcOxJv8PqlkOPQ=="
 ---

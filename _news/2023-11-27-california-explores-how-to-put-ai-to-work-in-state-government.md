@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Driverless cars immune from traffic tickets in California under current laws"
-    excerpt: "An NBC Bay Area investigation reveals autonomous vehicles in California cannot be cited for moving traffic violations since transportation laws require tickets to be issued to actual “drivers.”"
-    publishedDateTime: 2023-11-23T23:03:00Z
-    webUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/"
-    ampWebUrl: "https://www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
-    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/driverless-cars-traffic-tickets-california-transportation-laws/3276194/?amp=1"
-    type: article
-    provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
-    quality: 56
-    images:
-      - url: "https://media.nbclosangeles.com/2023/11/Title-Image_color-corrected.png?resize=1200%2C675&quality=85&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "California examines benefits, risks of using artificial intelligence in state government"
     excerpt: "Generative AI could help quickly translate government materials into multiple languages, analyze tax claims to detect fraud, summarize public comments and answer questions about state services. Still,"
     publishedDateTime: 2023-11-25T19:28:00Z

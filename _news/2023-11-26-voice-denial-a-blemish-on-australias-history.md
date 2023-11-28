@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "After the Voice, how will Australia close the gap?"
-    excerpt: "The comprehensive failure of the referendum on an Indigenous Voice to Parliament means the path forward for Indigenous recognition is once again an open question. Later today, the Joint Council on Closing the Gap will meet for the first time since the referendum vote."
-    publishedDateTime: 2023-11-23T20:31:00Z
-    webUrl: "https://www.abc.net.au/listen/programs/radionational-breakfast/after-the-voice-how-will-australia-close-the-gap-/103144244"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 24
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/b7d3908ebf2ea360d6410ef13db82052?impolicy=wcms_crop_resize&cropH=900&cropW=1600&xPos=0&yPos=0&width=862&height=485"
-        width: 862
-        height: 485
-        isCached: true
-  - title: "Truth after the Voice"
-    excerpt: "The lost opportunity of the Voice referendum revealed Australians’ poor understanding ... After 12 years of a formal recognition process in Australia, the caravan was poised to leave. The mass exoneration of the nation for the defeat of recognition ..."
-    publishedDateTime: 2023-11-24T01:44:00Z
-    webUrl: "https://www.themonthly.com.au/issue/2023/december/megan-davis/truth-after-voice"
-    type: article
-    provider:
-      name: The Monthly
-      domain: themonthly.com.au
-    quality: 24
-    images:
-      - url: "https://www.themonthly.com.au/sites/default/files/styles/the_nation_reviewed/public/Davis_1223_social.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Voice denial a blemish on Australia's history"
     excerpt: "Denying Indigenous Australians a Voice to Parliament has exposed an absence of compassion that has set our nation backwards in time."
     publishedDateTime: 2023-11-24T05:00:00Z
@@ -87,15 +59,6 @@ related:
       name: SBS
       domain: sbs.com.au
     quality: 4
-  - title: "Voters still back giving Indigenous Australians a say in policy that affects them despite voice result: survey"
-    excerpt: "ANU research reports 61% of voters would have backed constitutional recognition, though Indigenous groups have consistently rejected it as symbolic"
-    publishedDateTime: 2023-11-27T12:59:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/nov/28/voice-referendum-australia-voters-back-indigenous-constitutional-recognition"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 0
 
 secured: "5qPQjwx2VZ2QTEOzXhqHiQlgXy4epwBZ4UfIoddbFXGNs0ZsLMt7so7fso+L0dc4vUIjR0j/yOgTJ3iRHjBH90uogQECRDvtho9/EFaUEcVpEI+3XfCUGlJBvCo/J1lVF+kUXcTdCCcGP9P9GzQJKpQ1Qz/PTqY9R/Ld+lAyZ4WHMIvpLJmcVpEMoCrduI65ZeFB/Zn7unogAUQZSOkTgX7qq0L3SI6pWf4HR4uSqK2JWyheJ3d+r/3GCyKVvsKBiXt5EAOqgOpokSc81jg5A+Mb7y5LAW4gEHBVYESrlxmGFcjivVoSeEpUQYGCUQkNyLLbVE7n2ILagJslfG+ZUgbnzF17tyR5kI+8uiaUnnEu9F0KUOW8vzMu/VquNfh1eZubhaVubNLl0XteFGRSbTo8BAlXI90cI1f/SBbNYFYFzVYVapBkvqBEWpgs2Km3b7QwNoO8SygIJ08d3fXUvyNI8E2x5X6ecvqgmmWq3TzE8Nan8h25PwgNq7+m7FKqNTpl255AzxhYB+wo0mwTRw==;eqXKNLHnEYreBzDABlB+3A=="
 ---

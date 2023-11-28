@@ -52,15 +52,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 45
-  - title: "I think Microsoft Azure “Eagle” is probably the most important tech news of 2023 that you haven't heard of — here's why"
-    excerpt: "The 1,123,200-core Eagle is fitted powered by the Intel Xeon Platinum 8480C 48C CPU alongside 14,400 Nvidia H100 GPUs, alongside Nvidia InfiniBand NDR technology, which increases AI and HPC performance. The Azure Cobalt CPU, based on the Arm Neoverse CSS ..."
-    publishedDateTime: 2023-11-23T20:32:00Z
-    webUrl: "https://www.techradar.com/pro/i-think-microsoft-azure-eagle-is-probably-the-most-important-tech-news-of-2023-that-you-havent-heard-of-heres-why"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 40
   - title: "How Microsoft goes around seeking unfettered ownership of artificial general intelligence"
     excerpt: "It is becoming increasingly clear that OpenAI's convoluted corporate structure led to conflicting motivations and incentives within the company."
     publishedDateTime: 2023-11-27T03:59:00Z

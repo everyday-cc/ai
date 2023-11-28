@@ -54,6 +54,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why a San Francisco AI startup is buying $150M of computing hardware from Dell"
+    excerpt: "S.F.-based Imbue inked a deal to purchase $150 million worth of computing hardware from Dell in order to train its foundational AI models."
+    publishedDateTime: 2023-11-28T18:00:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/11/28/ai-startup-imbue-150-million-dell-hardware.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
 
 secured: "sgMM6X2Sa/8uYK/1jzghRTiBpIVzyjyJaBlOIfsDFC3275Ia87g9rU4jnwhbagc1+O83/3H+DXV09Zn6RZMeRNA5cX/M2hiiegt0ithA+d+F2XCPalerUCVMiwo/vRKKKjKZZwI+vp3JD2PTB1rUVTA3OEAo+4fV8JmvC8bKDQtbLsxRre9WEY3t+qrAFuvjUYEbUWerr8SlywhM+dO9AaH91b22npSWKRaLbIah2ErkI+76fHPau7ZfFsJuXYIoV1GfDvkuLbeMsPHZNxRmJ1hlM19veOf9KYkYwz/BiB22EoNVFTcJJnLDsqtqV32HJt2OwoyYBl82pqs2aRzvZG+rLRyzhSQ0V8qmXkSMdI8=;3A6uLdwM2aOG400963q0Gg=="
 ---

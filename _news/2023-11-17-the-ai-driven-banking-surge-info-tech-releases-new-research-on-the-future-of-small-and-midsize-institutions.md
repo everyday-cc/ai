@@ -18,6 +18,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Meta AI
 
 images:
   - url: "https://mma.prnewswire.com/media/2279503/Info_Tech_Research_Group_The_AI_Driven_Banking_Surge__Info_Tech.jpg"

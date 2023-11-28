@@ -59,6 +59,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Learn how to assess the risk of AI systems"
+    excerpt: "Artificial intelligence (AI) is a rapidly evolving field with the potential to improve and transform many aspects of society. In 2023, the pace of adoption of AI technologies has accelerated further with the development of powerful foundation models (FMs) and a resulting advancement in generative AI"
+    publishedDateTime: 2023-11-28T22:15:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-to-assess-risk-of-ai-systems/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/28/ML-15867-imaage007-riskmatrix-1007x630.jpg"
+        width: 1007
+        height: 630
+        isCached: true
   - title: "Alibaba Redirects Focus from Quantum Research to AI in Healthcare and Agriculture"
     excerpt: "By investing in AI for agriculture and healthcare, Alibaba is not only aligning with current market trends but also addressing challenges."
     publishedDateTime: 2023-11-28T02:59:00Z
@@ -156,6 +170,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Get real: Artificial intelligence in health"
+    excerpt: "The report analyzed 10 key products in global health: five drugs and drug combinations for HIV, tuberculosis and malaria; a bed net for malaria; three tests for tuberculosis and HIV; and oxygen-producing facilities. The dolutegravir-based HIV drug combination was the most polluting."
+    publishedDateTime: 2023-11-28T18:00:00Z
+    webUrl: "https://www.politico.com/newsletters/future-pulse/2023/11/28/get-real-artificial-intelligence-in-health-00128828"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 19
   - title: "The fight for the soul of AI"
     excerpt: "Can one organization, or one person, maintain the brain of a scientist, the drive of a capitalist and the cautious heart of a regulatory agency?"
     publishedDateTime: 2023-11-24T19:41:00Z
@@ -166,6 +189,6 @@ related:
       domain: seattletimes.com
     quality: 17
 
-secured: "GfA2jSiBUuBOH9xkjGpLGvNcK7VFknawJomkjB+JK69pWI8enjaNIMId2zp3uA5FH3UiJKnxZ9U8HEipMAKoua8hE8rcF05dVVfMWzFAzGNKaPlKD7Y0LSDALrHLHdtOuVpSRqhAcvP/YeVLKF9IwRZdbSsRvukRJaw5e1eL9/2acT46HSdhQWOj3UFX9c03NNaEX9gAe1PWvVoyifArvzaX89lTp8iMJQG6DDbvDw/QM3m80Am8gtFITKy2vBlhwPXx5xd+Au6OgEdzlgGcTdcY+Vk2dre8cWNMO5qQ2LwmJ65L7apNy+FL0hNk1RpAyOL6wUz9xfywJAfmG2HpiVkT1qrRaJ/ORGxgX2g/aSk=;ocPbrFeu9Vpcg5DrmtaPlQ=="
+secured: "7q94pj/OHRoWDSvz7QGq8lzPRiQa/52hO3PJqlmX09MlDhqpAfJRuGQnQgZM5bj/VU+N/9Y18z8rSHaEeQTFx12OKwXgeJsy8A36b0d71ZEBsIdl5hq4g7DWMnmww+dHJNyJF5WL30bc4Se18h1JN6s/fRlFciYTp3z22phKetqj22kvKcN3bgexiVxTHyYSItnAlLNFrFeWm2H3txOpvXZI+WLQSMBGqe5YFDAFDEtJq9YRziyOz2jH2vq3cmV3EppHAbzHJ/wr/s2yrpLeYZmspByeaJ9+WIGDesgfjn1q2mtMm6YOCW8DkU14a28jZTs9EN9299JeYBXA+f/xTPPrXJdOUYcSeWeoH1DM7YwWZWcfm2weUbFP8nSsh+ffld330NeTtXnbBK/SAz3jmKK3yYY65e+xvqnWggroM+XNQI19VMK0ufaELogm9zmfSka7m7xb01VBbr7rniYK/AnM0NZBTnTOpM7tn9z6CNtAKb+WfQPqh7is/ja+tiseu+JdhvFpBkt3+LQD2I/sdw==;ZP3Uj8fcyfGYFkBCr4a9ZQ=="
 ---
 

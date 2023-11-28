@@ -57,15 +57,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 45
-  - title: "I think Microsoft Azure “Eagle” is probably the most important tech news of 2023 that you haven't heard of — here's why"
-    excerpt: "The 1,123,200-core Eagle is fitted powered by the Intel Xeon Platinum 8480C 48C CPU alongside 14,400 Nvidia H100 GPUs, alongside Nvidia InfiniBand NDR technology, which increases AI and HPC performance. The Azure Cobalt CPU, based on the Arm Neoverse CSS ..."
-    publishedDateTime: 2023-11-23T20:32:00Z
-    webUrl: "https://www.techradar.com/pro/i-think-microsoft-azure-eagle-is-probably-the-most-important-tech-news-of-2023-that-you-havent-heard-of-heres-why"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 40
   - title: "Synopsys Partners with AMD, Intel, and Microsoft to Advance Generative AI in Semiconductor Industry"
     excerpt: "This expands upon Synopsys’ recent announcement to deliver Synopsys.ai Copilot, the first in a series of GenAI capabilities for chip design. The integration of GenAI across the Synopsys.ai suite will provide chip designers with collaborative capabilities ..."
     publishedDateTime: 2023-11-27T00:01:00Z
