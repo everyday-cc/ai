@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Putin unveils Russia’s new AI strategy to rival Western advances in artificial intelligence"
+    excerpt: "Vladimir Putin has unveiled what he calls Russia ’s new strategy to counter Western dominance of the field of artifical intelligence, claiming that new AI models “cancel Russian culture”. The president addressed an AI conference in Moscow on Friday where he said Russian investment in AI development was being increased across all sectors."
+    publishedDateTime: 2023-11-27T09:33:00Z
+    webUrl: "https://www.aol.com/news/putin-unveils-russia-ai-strategy-073334840.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 42
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/f9504bc9c278574e2c51fcc40380bf32"
+        width: 1200
+        height: 741
+        isCached: true
   - title: "Putin to boost AI work in Russia to fight a Western monopoly he says is ‘unacceptable and dangerous’"
     excerpt: "Russian President Vladimir Putin on Friday announced a plan to endorse a national strategy for the development of artificial intelligence, emphasizing that it’s essential to prevent a Western monopoly."
     publishedDateTime: 2023-11-24T22:50:00Z

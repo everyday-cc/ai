@@ -68,6 +68,20 @@ related:
         width: 834
         height: 556
         isCached: true
+  - title: "Securing generative AI across the technology stack"
+    excerpt: "As organizations increasingly rely on generative AI capabilities, they will need AI security platforms to be successful."
+    publishedDateTime: 2023-11-27T15:34:00Z
+    webUrl: "https://techcrunch.com/2023/11/27/securing-generative-ai-across-the-technology-stack/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1317246529.jpg?resize=1200,501"
+        width: 1200
+        height: 501
+        isCached: true
   - title: "IBM and AWS strengthen alliance to propel generative AI solutions across critical use cases"
     excerpt: "Explore the transformative collaboration between IBM and AWS, as they elevate generative AI solutions for critical use cases."
     publishedDateTime: 2023-11-27T21:04:00Z

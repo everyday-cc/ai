@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "UP Assembly to introduce speech recognition software"
+    excerpt: "The Uttar Pradesh Assembly will now introduce speech recognition software. A tender has been issued for the development and procurement of the software and the entire process is being conducted through the e-tender portal."
+    publishedDateTime: 2023-11-28T03:59:00Z
+    webUrl: "https://www.ibtimes.co.in/assembly-introduce-speech-recognition-software-864259"
+    type: article
+    provider:
+      name: IBTimes India
+      domain: ibtimes.co.in
+    quality: 39
+    images:
+      - url: "https://data1.ibtimes.co.in/en/full/792460/lucknow-monsoon-session-uttar-pradesh-assembly.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "P.G. Chambers speech pathologist wins national recognition"
     excerpt: "HANOVER TWP. - Jennifer Jacobs, a senior speech language pathologist at P.G. Chambers School in Cedar Knolls, has been selected as the National Association of Private Special Education Centers’ (NAPSE"
     publishedDateTime: 2023-11-24T16:10:00Z

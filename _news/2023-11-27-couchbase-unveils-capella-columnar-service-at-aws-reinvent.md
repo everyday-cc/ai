@@ -60,6 +60,20 @@ related:
         width: 834
         height: 556
         isCached: true
+  - title: "Securing generative AI across the technology stack"
+    excerpt: "As organizations increasingly rely on generative AI capabilities, they will need AI security platforms to be successful."
+    publishedDateTime: 2023-11-27T15:34:00Z
+    webUrl: "https://techcrunch.com/2023/11/27/securing-generative-ai-across-the-technology-stack/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1317246529.jpg?resize=1200,501"
+        width: 1200
+        height: 501
+        isCached: true
   - title: "AWS re:Invent grabs the spotlight, with cloud, cybersecurity and AI in a business focus"
     excerpt: "Invent conference opens in Las Vegas this week, AWS will make the case that it, too, has a leading role in the transformation that lies at the nexus of artificial intelligence, cloud computing and cybersecurity."
     publishedDateTime: 2023-11-27T15:12:00Z

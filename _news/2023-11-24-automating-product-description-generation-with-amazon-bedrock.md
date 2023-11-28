@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-product-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 11
+  - title: "Kyndryl Signs Multi-Year Strategic Collaboration Agreement with AWS to Accelerate Customer Adoption of Generative AI Solutions"
+    excerpt: "Establish the Kyndryl and AWS Innovation Factory, a mutual investment to co-create generative AI and ML solutions focused on specific industry use cases. Leveraging the Innovation Factory and Kyndryl's data-driven capabilities, customers can jump-start their cloud modernization journey and accelerate their business transformation."
+    publishedDateTime: 2023-11-27T22:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/27/9923647.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "4suwKY7I0VxAi9Q2+wXXImomzKRCjXAOc2E5mE9xSxOhOsTAByoLxUtV3sjBNWg1T4Yjvgxr+2okHW9G4O6zTYXHpXiK0FTUfmgLOHKrACxrT3nFlSxhCm8IIMat/Wduon/KbtFTyI9j+Y4j5ZsoN7VLmf34H9fVuNFwW+zibkrBzrrrkO2njXhuT8RUI5wVwcfMp+mHx71cyn5eKrX0GcCuPMGLwauO1qI7fhfwwar7Wep3ehk77jkoTulgbqXpWup+nMJZcv3EQvrd/mC8VSZ4pNkC4Fs0GC8X9x/t3uJk3Sg3DzTO1j+Cz9tA+sxonyGjZsz/BhLqwfmqkSzaY+U2CB7+roDpSPLA+3dPBfI=;Vtc0jAYo3y45Y/bO6BQ/wQ=="
 ---

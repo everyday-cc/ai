@@ -58,15 +58,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kyndryl Signs Multi-Year Strategic Collaboration Agreement with AWS to Accelerate Customer Adoption of Generative AI Solutions"
-    excerpt: "NYSE:KD) Kyndryl Signs Multi-Year Strategic Collaboration Agreement with AWS to Accelerate Customer Adoption of Generative AI Solutions"
-    publishedDateTime: 2023-11-27T22:40:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/11/27/kyndryl-signs-multi-year-strategic-collaboration-agreement-with-aws-to"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 6
   - title: "Market Leaders Collaborate with Synopsys to Realize Gains of Generative AI Across Synopsys.ai Full EDA Stack"
     excerpt: "Synopsys, a pioneer in AI-driven EDA, aims to revolutionize the industry with generative AI capabilities, starting with Synopsys.ai Copilot, across the Synopsys.ai suite, building on its AI-driven optimization and data analytics solutions."
     publishedDateTime: 2023-11-27T14:35:00Z

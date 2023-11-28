@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How generative AI will deliver significant benefits to the service industry"
+    excerpt: "The promise of automation, customization of products and services, accelerated innovation, and commitment to employee skills development points to a future where generative AI orchestrates a sustainable and innovative path forward for service trades."
+    publishedDateTime: 2023-11-27T13:23:00Z
+    webUrl: "https://www.zdnet.com/article/how-generative-ai-will-deliver-significant-benefits-to-the-service-industry/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-generative-ai-will-deliver-significant-benefits-to-the-service-industry/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-generative-ai-will-deliver-significant-benefits-to-the-service-industry/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/eb431826fdf0117fb9bcc919203b6d9f5170089c/2023/11/27/6ddf91c3-3a57-4901-a4e4-2f1b30bcfc8a/foodservicegettyimages-1634747795.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Three-quarters of finance executives expect generative AI to replace them"
     excerpt: "NatWest is tapping IBM’s data platform, as well as the IT giant’s Watson AI technology, to create Cora+ as part of its customer support. According recent research from IBM’s Institute for Business Value, over 40% of banking and financial markets ..."
     publishedDateTime: 2023-11-23T10:03:00Z

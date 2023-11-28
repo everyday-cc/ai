@@ -42,6 +42,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How generative AI will deliver significant benefits to the service industry"
+    excerpt: "The promise of automation, customization of products and services, accelerated innovation, and commitment to employee skills development points to a future where generative AI orchestrates a sustainable and innovative path forward for service trades."
+    publishedDateTime: 2023-11-27T13:23:00Z
+    webUrl: "https://www.zdnet.com/article/how-generative-ai-will-deliver-significant-benefits-to-the-service-industry/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-generative-ai-will-deliver-significant-benefits-to-the-service-industry/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-generative-ai-will-deliver-significant-benefits-to-the-service-industry/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/eb431826fdf0117fb9bcc919203b6d9f5170089c/2023/11/27/6ddf91c3-3a57-4901-a4e4-2f1b30bcfc8a/foodservicegettyimages-1634747795.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Generative AI offers companies and their employees more effective ways of working"
     excerpt: "PwC has extended its collaboration with Microsoft with the launch of its new PwC generative artificial intelligence (AI) business centre. Enabled by Microsoft technology, the PwC generative AI Business Centre will help organisations to achieve returns on their investments in a safe and secure way."
     publishedDateTime: 2023-11-27T05:00:00Z

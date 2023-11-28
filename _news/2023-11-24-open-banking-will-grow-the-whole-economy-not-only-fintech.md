@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "JuanHand, the first FinTech Cash Loan App granted a Credit Facility by UnionBank"
+    excerpt: "UnionBank, a multi-awarded financial institution and one of the country’s top 5 banks, has extended a credit facility to Wefund Lending Corporation, the operator of the fastest growing FinTech"
+    publishedDateTime: 2023-11-28T03:25:00Z
+    webUrl: "https://business.inquirer.net/433992/juanhand-the-first-fintech-cash-loan-app-granted-a-credit-facility-by-unionbank"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 34
+    images:
+      - url: "https://business.inquirer.net/files/2023/11/ONLINE_PR_FINAL_JuanHand_Unionbank_Ti-620x343.jpg"
+        width: 620
+        height: 343
         isCached: true
   - title: "Experts Discuss Fintech Market Revamping Tech Trends"
     excerpt: "( MENAFN - The Peninsula) Joel Johnson | The Peninsula"

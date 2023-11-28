@@ -150,20 +150,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 45
-  - title: "OpenAI researchers warned board of AI breakthrough"
-    excerpt: "Some at OpenAI believe Q* (pronounced Q-Star) could be a breakthrough in the start-up’s search for what’s known as artificial general intelligence (AGI), one of the people said. OpenAI defines AGI as autonomous systems that surpass humans in most economically valuable tasks."
-    publishedDateTime: 2023-11-23T04:38:00Z
-    webUrl: "https://techcentral.co.za/openai-researchers-warned-ai-breakthrough/235696/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 39
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2023/10/machine-learning-artificial-intelligence-1500-800-2.jpg"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "OpenAI researchers warned of powerful AI discovery before company chaos"
     excerpt: "Some staff at ChatGPT creator believe breakthrough relates to startup’s search for what’s known as artificial general intelligence (AGI)"
     publishedDateTime: 2023-11-23T12:39:00Z

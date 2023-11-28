@@ -6,8 +6,8 @@ publishedDateTime: 2023-11-28T00:21:00Z
 originalUrl: "https://www.michigandaily.com/opinion/artificial-intelligence-should-unlock-the-past-not-the-future/"
 webUrl: "https://www.michigandaily.com/opinion/artificial-intelligence-should-unlock-the-past-not-the-future/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.michigandaily.com/wp-content/uploads/2023/11/IMG_0069.png"

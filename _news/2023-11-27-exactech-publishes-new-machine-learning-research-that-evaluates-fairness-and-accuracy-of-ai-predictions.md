@@ -33,22 +33,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Mastering the art of differentiation: Vital competencies for thriving in the age of artificial intelligence"
-    excerpt: "In this age of AI, mastering these vital competencies not only propels your journey toward professional success but also equips you to unlock the transformative potential of AI, ensuring your prominence and prosperity in an increasingly automated world."
-    publishedDateTime: 2023-11-25T10:15:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-mastering-the-art-of-differentiationvital-competencies-for-thriving-in-the-age-of-artificial-intelligence-3316881/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 39
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/Untitled-design-2023-11-24T171540.538.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Addressing Gender and Intersectional Bias in Artificial Intelligence"
     excerpt: "The vast potential of artificial intelligence (AI) technologies is transforming our understanding of and relationship with traditional technical, creative, and professional workflows. The promise of AI is tempered and distorted, however, both by the ..."
     publishedDateTime: 2023-11-27T00:01:00Z

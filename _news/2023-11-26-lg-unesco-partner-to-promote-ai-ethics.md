@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20231126000092"
 cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20231126000092"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 630
     height: 419
     isCached: true
+
+related:
+  - title: "UNESCO brings key stakeholders together for an inclusive dialogue on AI governance in Nepal"
+    excerpt: "UNESCO Kathmandu along with the Ministry of Communication and Information Technology (MoCIT) organized the “Multistakeholder Dialogue on Artificial Intelligence Governance in Nepal” in collaboration with the Department of Languages and Mass Communication,"
+    publishedDateTime: 2023-11-28T04:27:00Z
+    webUrl: "https://thehimalayantimes.com/kathmandu/unesco-brings-key-stakeholders-together-for-an-inclusive-dialogue-on-ai-governance-in-nepal"
+    ampWebUrl: "https://thehimalayantimes.com/ampArticle/1024203"
+    cdnAmpWebUrl: "https://thehimalayantimes-com.cdn.ampproject.org/c/s/thehimalayantimes.com/ampArticle/1024203"
+    type: article
+    provider:
+      name: The Himalayan Times
+      domain: thehimalayantimes.com
+    quality: 49
+    images:
+      - url: "https://thehimalayantimes.com/thehimalayantimes/uploads/images/2023/11/28/28491.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "hAOykzg1oAKbpR97Df+4MKC679n0YhUntZhmgI5wVOwif2ni29WUVlQGKe7bDnZn9lCfSRW6QzaSjZqZ+u+nbcUhyc9pNIpQ50v+OoFlSbAe+G+W+Rvr2uZuvpM9sud+eqqmolRvoGD4rYhlwcOg7okh1pKFLobf4LMsklj0GKbcvGBQ+bqzhKWkJ7zUs/QFYS+LpZt9LDOody4PSDq5ND5HRTAYLbSIfPwZb58LKIYDZoJRjxrEFm181lBMXMc2wr7utFgCYT+gPPRl2g6vC5vOOIS8hPCjQQyAVsTbt+U/IU6mu9or57Q1hXf5e2NPV137gfBrwKZY0nq0dEh3AL5/A14i5ZjI08hc14dft5u2ictIza/obJW1sazBj2EDlNYbLmKm+c9Whrmy5mhQW3BqMFPGSyr4iBbFU6IuAdLdiLnTGcZNHyjfEavKGaL1hEv6OnhpeWms8CBF428puwWptc3Nb+h/DvPANib1MaNUkUzD6BmEiiIuiBHXt9Dxty1cPFtFUZwRxEBoYXqVTg==;l0bkcQ41ZbhqTZg5BgIYqg=="
 ---

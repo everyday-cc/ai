@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "AWS expands partnership with HDFC Securities, TCS, and Tech Mahindra"
+    excerpt: "HDFC Securities is now looking to harness the power of machine learning (ML) on AWS to serve its customers better by offering personalised and tailored experiences. The company is"
+    publishedDateTime: 2023-11-28T02:34:00Z
+    webUrl: "https://yourstory.com/enterprise-story/2023/11/aws-expands-partnership-hdfc-securities-tcs-tech-mahindra"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/aws-1-1677684714702.png?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
   - title: "HDFC Securities launches mobile trading app HDFC SKY on AWS cloud"
     excerpt: "Amazon Web Services (AWS) on Monday said HDFC Securities, which is among the leading investment service providers in India, has launched its mobile trading app, HDFC SKY on the AWS cloud."
     publishedDateTime: 2023-11-27T15:09:00Z

@@ -57,6 +57,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Alibaba Redirects Focus from Quantum Research to AI in Healthcare and Agriculture"
+    excerpt: "By investing in AI for agriculture and healthcare, Alibaba is not only aligning with current market trends but also addressing challenges."
+    publishedDateTime: 2023-11-28T02:59:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/28/alibaba-quantum-research-focus-shift-ai-healthcare/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 59
   - title: "AI in Healthcare 2024: Transforming Patient Care with Innovative Technologies"
     excerpt: "Introduction: Artificial Intelligence (AI) has emerged as a powerful force in reshaping the landscape of healthcare. As we delve into 2024, the integration of AI in healthcare promises groundbreaking transformations,"
     publishedDateTime: 2023-11-27T08:45:00Z

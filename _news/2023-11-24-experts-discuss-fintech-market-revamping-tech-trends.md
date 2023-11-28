@@ -73,6 +73,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "JuanHand, the first FinTech Cash Loan App granted a Credit Facility by UnionBank"
+    excerpt: "UnionBank, a multi-awarded financial institution and one of the country’s top 5 banks, has extended a credit facility to Wefund Lending Corporation, the operator of the fastest growing FinTech"
+    publishedDateTime: 2023-11-28T03:25:00Z
+    webUrl: "https://business.inquirer.net/433992/juanhand-the-first-fintech-cash-loan-app-granted-a-credit-facility-by-unionbank"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 34
+    images:
+      - url: "https://business.inquirer.net/files/2023/11/ONLINE_PR_FINAL_JuanHand_Unionbank_Ti-620x343.jpg"
+        width: 620
+        height: 343
+        isCached: true
   - title: "The fintech stocks surging in the AltFi Fintech Index amid a market rally"
     excerpt: "Keep up with the latest in the world of fintech and alternative finance by subscribing to our newsletters. Get the latest headlines, expert insights and reports and be the first to know about upcoming events."
     publishedDateTime: 2023-11-23T05:30:00Z

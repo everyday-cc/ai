@@ -165,20 +165,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 45
-  - title: "OpenAI researchers warned board of AI breakthrough"
-    excerpt: "Some at OpenAI believe Q* (pronounced Q-Star) could be a breakthrough in the start-up’s search for what’s known as artificial general intelligence (AGI), one of the people said. OpenAI defines AGI as autonomous systems that surpass humans in most economically valuable tasks."
-    publishedDateTime: 2023-11-23T04:38:00Z
-    webUrl: "https://techcentral.co.za/openai-researchers-warned-ai-breakthrough/235696/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 39
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2023/10/machine-learning-artificial-intelligence-1500-800-2.jpg"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "China’s Baidu AI Ernie 4.0 Is Better Than OpenAI GPT 4"
     excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
     publishedDateTime: 2023-11-27T12:09:00Z

@@ -47,6 +47,15 @@ related:
         width: 1235
         height: 630
         isCached: true
+  - title: "Kyndryl Signs Multi-Year Strategic Collaboration Agreement with AWS to Accelerate Customer Adoption of Generative AI Solutions"
+    excerpt: "Establish the Kyndryl and AWS Innovation Factory, a mutual investment to co-create generative AI and ML solutions focused on specific industry use cases. Leveraging the Innovation Factory and Kyndryl's data-driven capabilities, customers can jump-start their cloud modernization journey and accelerate their business transformation."
+    publishedDateTime: 2023-11-27T22:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/27/9923647.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "t/P6ZRVV7WVsOlqnUA1VvDL3/pGzQ9kjXx3f3ZDULYJXS4tkATvkWBtXYfyf2vo51fjrAfqo2WWlfC6c3VvfphHFOU7ciQlMnitNQ0bQWiAi5rV/M1JwBXGyHWtfBb6kZsgBxZ/Nw8CXgvO1Pta00uIseF95wZlEnrt/vXoYhTzSNwUMpKmS70z++g+rUDO9dz3mi8kPKvHeGxzNv7ZSRI0DvT73jAvzA7krjK0EGfHikv1vE9YECmu3QY6o2XOo0eyCsLu698ngs0uTCZ8kZuWk5y1M8s7qiDFTVVNIHGoTRfGBoLK4pF5xCKEBUaQ5CT/w1X9nDwxPluGLfmU+OgIbkU8nBIjM7JAUU3XNaT77FQ7RVPjVfkojtwe5mTRjmxfmlAlegpaNh0MMcM0GEyzChpq2w4x0fydzW1l/ApinjMvLmt/S0879rkCKZUN2jVIKFeOxS70S0MzdtjD/rlGA7x/VWDlAK8h7cszY8x38yrNvF+27Y4dARyQzjWW4ZSl0LKlY/Wyko2GUXwfxpg==;0KHAEndxV8uta2kBdcZFBA=="
 ---

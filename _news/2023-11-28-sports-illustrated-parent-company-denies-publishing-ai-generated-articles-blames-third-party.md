@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/sports/sports-illustrated-parent-company-den
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/sports-illustrated-parent-company-denies-publishing-ai-generated-articles-blames-third-party.amp"
 type: article
 quality: 76
-heat: 136
+heat: 138
 published: true
 
 provider:
@@ -111,6 +111,6 @@ related:
       domain: augustafreepress.com
     quality: 17
 
-secured: "Yq2rd5usG8xCiegavm2lZt5aBVk667vNNlz2sWc83EcEtlTLst8UuyJQ+tp2wsuWKiqkRqWUD7Yjs0iH8iFt09Ao8sH3kcpnfECPC+U3pagqsLN+d+u9lU4BFe8MDSsrZHYjolE3R9fTREgRwOlZHmZEesC0VHuznZ3QO6N4XpRY9gvfILjyY4qnpkSPpVOV/19V6eSjqsUjeT4hCrsJa+VjUqteV39m+AugYodq7u7xXeopIHDSvWBBeK2mgmR3ClmnprFrJqFLZDS68ghhiM+jOZrGhmMf8kySuZNIu5S1k1Dv8b3payHsQ6ahSbVXPKmUTJwtbZFyHC4nk6NlUvwR4WX1BDNEb3DmDZ2q/r8=;7Uve+KEIvE9hoA3ClbeG1w=="
+secured: "2bQcFc8FpanEzK3y5iNVFTvCbEDDmg0RWz8EJXy+xop1ow6hozKV1vWZVQy5Sxk3DwbQi4RQm6MiBKKPcDS32be62qQHqPuhqCF6VrxTBESWZ9bk3iwVwv3jwky6Db2nKeMXTN3MvZnjakS/1qdAhLGd4ZbsclU5I+ue64bVjehDkaa4AmLTfqk10lGLQ6/6xYkoKvu98t8tMKs7WBEkTobN3XBYhj7vnJ2uSdPxjF+5QWA6lw2KipjGqhMrtgn6u5gOPEeYJWK0FkMLYaxCvaLtyd+ynt58zhu3WCUedluETS1vk/pphQatJLYvQQrJFvutrTXfNrgqY1RUI0Cx98ixmTVJor6qegdJqanHjFc=;7NlPhqmnOBg+9x2mZVgdDA=="
 ---
 

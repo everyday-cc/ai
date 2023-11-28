@@ -53,6 +53,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 11
+  - title: "Kyndryl Signs Multi-Year Strategic Collaboration Agreement with AWS to Accelerate Customer Adoption of Generative AI Solutions"
+    excerpt: "Establish the Kyndryl and AWS Innovation Factory, a mutual investment to co-create generative AI and ML solutions focused on specific industry use cases. Leveraging the Innovation Factory and Kyndryl's data-driven capabilities, customers can jump-start their cloud modernization journey and accelerate their business transformation."
+    publishedDateTime: 2023-11-27T22:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/27/9923647.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "3fBu8k7lQTrzlYfglxcInnRdmHZU1dylikyMYWal4ezDJNrrPWuo1eO3Xs/fbkOvzoyFiG29m7uCnGlswwcLM8ruua6WnIwIYJJjPF2OTkGSs/YbJQQA5KCNw7hrKJq7GY7G7HRpbKQPTKe96guFOxVD1kuowY/PAI10WE4f9QKEm30gfWL9BWzhnv/ImOPILrk7knSETagISxYTWNGDFzYycc1UxUWafsI3mTS/w3HmfO/fSPzCe3xzdYrYxmd8YeqgBg/vZNNHhlwb33ZvjgI+Pzig8tOPngzK8SsIp0VEtqrSc0mSGKLgr+T0bdaLN+Zd8agl2l8sDoR7NV8wy2pw3DKo+XtT2ONHHVi0p6I=;3SkFf9ad1m2+y2PpJkJhoA=="
 ---

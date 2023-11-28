@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "AWS expands partnership with HDFC Securities, TCS, and Tech Mahindra"
+    excerpt: "HDFC Securities is now looking to harness the power of machine learning (ML) on AWS to serve its customers better by offering personalised and tailored experiences. The company is"
+    publishedDateTime: 2023-11-28T02:34:00Z
+    webUrl: "https://yourstory.com/enterprise-story/2023/11/aws-expands-partnership-hdfc-securities-tcs-tech-mahindra"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/aws-1-1677684714702.png?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Tech Mahindra, AWS join hands to build a sports cloud platform"
     excerpt: "Tech Mahindra on Monday announced it has collaborated with Amazon Web Services (AWS) to build a sports cloud platform. The offering focuses on building next-generation digital capabilities for sports organisations and delivering immersive and personalised experiences to sporting enthusiasts worldwide."
     publishedDateTime: 2023-11-27T22:36:00Z
