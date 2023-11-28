@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates
 webUrl: "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates-with-aws-foundational-model-/2023/11/27/9923370.htm"
 type: article
 quality: 69
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -26,6 +26,34 @@ images:
     isCached: true
 
 related:
+  - title: "Qlik Expands Integrations with AWS to Scale AI for Impact"
+    excerpt: "This integration builds on Qlik’s portfolio of native, engine-level integrations with Amazon SageMaker, Amazon SageMaker Autopilot, and Amazon Comprehend, which are already enabling customers to leverage AI and machine learning (ML) in prediction and ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Qlik-Expands-Integrations-with-AWS-to-Scale-AI-for-Impact-161584.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 54
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Teradata launches its AI discovery and exploration tools on AWS cloud"
+    excerpt: "Teradata is best known for its big-data software platform VantageCloud Lake, which can be used by enterprises to analyze their business information for useful insights. Its analytics feature set is known as ClearScape Analytics, and the new AI platform is said to be heavily reliant on its capabilities."
+    publishedDateTime: 2023-11-28T16:00:00Z
+    webUrl: "https://siliconangle.com/2023/11/28/teradata-launches-ai-discovery-exploration-tools-aws-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/image_2023-11-24_071943410.png"
+        width: 997
+        height: 552
+        isCached: true
   - title: "INRIX Intros Compass Intel with AI for Location Insights for Better Mobility on AWS"
     excerpt: "Proactive Transportation Strategy: Merging historical and real-time data seamlessly, Compass provides in-depth insights integrated across INRIX’s robust INRIX IQ suite to help cities and businesses adopt smarter, safer, and more sustainable mobility strategies."
     publishedDateTime: 2023-11-28T00:19:00Z

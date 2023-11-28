@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck lane more than 20 miles long being developed in Central Texas"
-    excerpt: "AUSTIN, Texas — TxDOT is partnering with a company to launch a program designed to improve self-driving trucks on Texas roadways. The technology will focus on a 21-mile stretch of State Highway 130 from Georgetown to Del Valle. By next year, special pole ..."
-    publishedDateTime: 2023-11-23T18:03:00Z
-    webUrl: "https://www.wfaa.com/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
-    ampWebUrl: "https://www.wfaa.com/amp/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/state/texas-news/txdot-smart-freight-corridor/269-f1b14e5c-2bd9-4ddd-8350-f61b8f4807cb"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 39
-    images:
-      - url: "https://media.wfaa.com/assets/KVUE/images/1f96cf21-5a34-46a3-b001-0c0b49348bb6/1f96cf21-5a34-46a3-b001-0c0b49348bb6_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "GM to slash spending on self-driving unit Cruise after...GM to slash spending on self-driving unit Cruise after pedestrian..."
     excerpt: "General Motors Company (NYSE:GM) is reducing spending on its self-driving unit Cruise after it suspended testing of its robotaxis following an accident involving a pedestrian, Financial Times reported on Tuesday. According to the Financial Times ..."
     publishedDateTime: 2023-11-28T14:53:00Z

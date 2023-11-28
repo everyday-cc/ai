@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/274047802/infor-introduces-ent
 webUrl: "https://www.bignewsnetwork.com/news/274047802/infor-introduces-enterprise-automation-solution-on-aws-to-help-companies-rapidly-scale-automation-and-achieve-business-results-faster"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 630
     height: 473
     isCached: true
+
+related:
+  - title: "AWS Announces Four Zero-ETL Integrations to Make Data Access and Analysis Faster and Easier Across Data Stores"
+    excerpt: "\"To help customers fuel innovation with data, AWS offers the industry's broadest and deepest set of data services for storing and querying any type of data at scale,\" said Dr. Swami Sivasubramanian, vice president of Data and Artificial Intelligence at AWS."
+    publishedDateTime: 2023-11-28T13:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35985858/aws-announces-four-zero-etl-integrations-to-make-data-access-and-analysis-faster-and-easier-across"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35985858"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35985858"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Salesforce and AWS set to integrate more services"
+    excerpt: "Also being supported will be Salesforce Data Cloud, expanding data sharing across additional AWS technologies. These Data Cloud integrations will be governed by new centralised access controls, which will give customers the ability to manage secure user access at the folder, object, and file level in Amazon S3."
+    publishedDateTime: 2023-11-28T08:43:00Z
+    webUrl: "https://htxt.co.za/2023/11/28/salesforce-and-aws-set-to-integrate-more-services/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 39
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2023/11/AWS_Partnership.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "MrIzAU8V26ntkPCTUeJcGa5KMONBIXcr4tUiSC3cLn2mivB2KA0+tusap7FO2sETT5P27Z7rHZh6Uh9vdBtg441m6LM5CFmQfDhaJys/esCy8l+YxPGKP8OOAybBlOS4wKKTf3Pq33Xj4+Qe78P8Phem9zB127FYshqznqMzhiJVv8/pd9gl+t+8nptVV8gRUkcKRjaBTHw8+SsUe9ejbymsecQ51w4QxPAIyw4mHwGrE+tG+w+q8SrohyRw7H4PlpyQkyjegVGU19Ls5NZWZ3H3+A+REQHShHzKfejoUPIk/Ya6AQyGFpAGO++rRZl3nIcfXzXGNfwkZmsCqDe0dYtrIuWBks3KLJZtJkkXTGM=;EPEgGZFupj42hYns4AHtVg=="
 ---

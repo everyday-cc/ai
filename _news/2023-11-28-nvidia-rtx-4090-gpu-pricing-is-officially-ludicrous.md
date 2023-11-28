@@ -19,61 +19,62 @@ topics:
   - AI
 
 related:
-  - title: "Thousands of RTX 4090 GPUs Are Being Rebuilt for AI Computing in China"
-    excerpt: "In China, Nvidia's RTX 4090 is being repurposed in the thousands. The GPU components are taken out, and put in a new PCB and cooler design!"
-    publishedDateTime: 2023-11-24T05:12:00Z
-    webUrl: "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/"
-    ampWebUrl: "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/"
+  - title: "Introducing three new NVIDIA GPU-based Amazon EC2 instances"
+    excerpt: "Amazon Elastic Compute Cloud (Amazon EC2) accelerated computing portfolio offers the broadest choice of accelerators to power your artificial intelligence (AI), machine learning (ML), graphics, and high performance computing (HPC) workloads. We are excited to announce the expansion of this portfolio"
+    publishedDateTime: 2023-11-27T23:14:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-three-new-nvidia-gpu-based-amazon-ec2-instances/"
     type: article
     provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 74
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
     images:
-      - url: "https://beebom.com/wp-content/uploads/2023/11/nvidia-geforce-rtx-4090.jpg"
-        width: 1250
-        height: 750
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/27/introducing-three-nvidia-gpu-based-instances.jpg"
+        width: 958
+        height: 476
         isCached: true
-  - title: "From GPUs to NPUs: Evolution of AI hardware in smartphones"
-    excerpt: "Dedicated AI hardware was necessary to advance beyond the GPU. The solution that emerged was the Neural Processing Unit or NPU – a microprocessor developed specifically for neural network machine learning. In a nutshell, an NPU’s speciality is crunching numbers for machine learning models."
-    publishedDateTime: 2023-11-24T11:41:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/gpu-npu-role-ai-smartphones-9040864/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/gpu-npu-role-ai-smartphones-9040864/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/gpu-npu-role-ai-smartphones-9040864/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2023/11/cpu-gpu-npu-featured.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "RTX 4090 dismantled in China, blower style cooler added, sold as Al GPU instead"
-    excerpt: "Chinese companies are ripping apart GeForce RTX 4090 graphics cards, turning them into AI accelerators, and making some serious money out of it."
-    publishedDateTime: 2023-11-24T01:11:00Z
-    webUrl: "https://www.tweaktown.com/news/94549/rtx-4090-dismantled-in-china-blower-style-cooler-added-sold-as-al-gpu-instead/index.html"
+  - title: "NVIDIA delays new H20 AI GPU shipments in to China, first chip designed after US sanctions"
+    excerpt: "NVIDIA's first AI GPU designed to comply with US export rules into China -- the H20 AI GPU -- has been delayed from December, to Feb/March 2024."
+    publishedDateTime: 2023-11-27T00:57:00Z
+    webUrl: "https://www.tweaktown.com/news/94577/nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions/index.html"
     type: article
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 35
+    quality: 59
     images:
-      - url: "https://static.tweaktown.com/news/9/4/94549_901_rtx-4090-dismantled-in-china-blower-style-cooler-added-sold-as-al-gpu-instead_full.jpg"
+      - url: "https://static.tweaktown.com/news/9/4/94577_502_nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions_full.png"
         width: 1500
-        height: 751
+        height: 836
         isCached: true
-  - title: "Chinese companies are repurposing GeForce RTX 4090s into AI GPUs"
-    excerpt: "Companies are circumventing the US tech export ban to China by creating blower AI accelerators from Nvidia GeForce RTX 4090 graphics cards."
-    publishedDateTime: 2023-11-28T14:42:00Z
-    webUrl: "https://www.pcgamesn.com/nvidia/geforce-rtx-4090-ai-graphics-cards-china-ban"
+  - title: "Supply chain hopes upcoming AMD MI300 GPU can challenge Nvidia's dominance"
+    excerpt: "The supply chain hopes that the forthcoming AMD MI300 GPU can pose some challenge to Nvidia, preventing it from having excessive control in the AI sector, according to industry sources."
+    publishedDateTime: 2023-11-24T01:28:00Z
+    webUrl: "https://www.digitimes.com/news/a20231123PD214/amd-mi300-ai-gpu-nvidia.html"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 34
+      name: Digi Times
+      domain: digitimes.com
+    quality: 52
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231123pd214_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "GPU antitrust to challenge Nvidia"
+    excerpt: "Nvidia should have been prepared for antitrust action concerning AI GPUs, according to sources at motherboard manufacturers. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.digitimes.com/news/a20231127PD229/nvidia-ai-gpu-antitrust-motherboard.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231127pd229_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "nYDnEC+iTvyBMqRZodDeIYIdhdPirXLusGC9pTXr7PxtDLXO6pmsaFSwX3PgfWPtOUcgAWxKrO9fUfs6B9bTX/Daz7egizCoGcNZUGpFtsJic7cHrtgwPLMbJ0TcN09W9nk4XG6wUa9cShqooltUOt/1oCt68+tdUj23RfdCweygGZalcFjweNWSfr1fZOWUlN0PB4J77NpjV5n/bDpdD2T9VnFGtdL+tLIQqdww2DFHROdzN73yYlAd/qotOcF8+DqxDX2tlfCEJAvjEQ79BEv1t6sAgVEXjmtnxPYdsAPkXWMTf27UaJi8xvFj1mHxzAI1Z2gwI1KAizP9JoNEOPAoC9as1L8OelpHjPR8kD5Gu/5T0P42V6d7S3z4dS5M/njtZrNWfacTFUn7CQZipM9UZiWQEZiJ31k8r1GTkC6ia23rB4wH4oTvanwbnVYn/LJ/Ide0ZpL8EAXo8roB8KrygV2luuxItRka6y1rq3L4Y0N6Bph8uq7EX5oseWuqrc77tx6BDOamwMPrBMnxYA==;n6H6r/kre4qAw74d3c7lUA=="
 ---

@@ -26,85 +26,39 @@ images:
     isCached: true
 
 related:
-  - title: "The Practical Impact Of AI For The Masses"
-    excerpt: "At the event, the leadership highlighted the concept of superpowers on demand. The message was that AI's best manifestation would be augmented intelligence for humans."
-    publishedDateTime: 2023-11-28T14:59:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/"
-    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/amp/"
+  - title: "Using AI to track icebergs"
+    excerpt: "Researchers are using a new AI tool to detect icebergs in the Southern Ocean. This is the first step in being able to track the complete life cycle of most icebergs across Antarctica from satellite data."
+    publishedDateTime: 2023-11-24T18:33:00Z
+    webUrl: "https://phys.org/news/2023-11-ai-track-icebergs.html"
+    ampWebUrl: "https://phys.org/news/2023-11-ai-track-icebergs.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-ai-track-icebergs.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6565003681045ee522bb2f47/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/using-ai-to-track-iceb.jpg"
+        width: 1280
+        height: 1588
         isCached: true
-  - title: "Unraveling the Technical and Ethical Requirements of Artificial Intelligence"
-    excerpt: "In the rapidly evolving landscape of technology, Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and societies. As the influence of AI continues to grow, it becomes imperative to delve into the technical and ethical considerations that underpin its development and deployment."
-    publishedDateTime: 2023-11-23T22:42:00Z
-    webUrl: "https://techbullion.com/unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence/"
+  - title: "How Amazon is using AI to deliver orders even faster"
+    excerpt: "For online retailers like Amazon, Cyber Monday is one of the biggest shopping days of the year, and the company is using artificial intelligence to help with the demand. CBS News' Kris Van Cleave got exclusive access to Amazon's Robotics Research and Development Center,"
+    publishedDateTime: 2023-11-27T14:02:00Z
+    webUrl: "https://www.cbsnews.com/video/how-amazon-is-using-ai-to-deliver-orders-even-faster/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 53
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Ethics-requirement.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "New framework for using AI in health care considers medical knowledge, practices, procedures, values"
-    excerpt: "Health care organizations are looking to artificial intelligence (AI) tools to improve patient care, but their translation into clinical settings has been inconsistent, in part because evaluating AI in health care remains challenging."
-    publishedDateTime: 2023-11-27T22:06:00Z
-    webUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
+  - title: "Zachary schools using artificial intelligence to help detect weapons"
+    excerpt: "Zachary school leaders are looking at ways to improve security, including using artificial intelligence to help detect weapons. The school district is bringing in ZeroEyes, which uses AI technology and cameras to monitor campuses for firearms and alert ..."
+    publishedDateTime: 2023-11-27T00:01:00Z
+    webUrl: "https://www.theadvocate.com/baton_rouge/news/communities/zachary/zachary-schools-using-artificial-intelligence-to-help-detect-weapons/article_55aec67e-87e4-11ee-a4bd-b7b126e24383.html"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 46
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-system.jpg"
-        width: 1920
-        height: 1372
-        isCached: true
-  - title: "The implications of AI on human morality"
-    excerpt: "Mergan Velayudan, Acting CIO at MultiChoice Group, discusses the importance of human oversight when it comes to AI and ethics."
-    publishedDateTime: 2023-11-28T06:49:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
-  - title: "The Impact of Artificial Intelligence on the Legal Industry: A Paradigm Shift"
-    excerpt: "Introduction The traditional structure of law firms, characterized by a pyramid model with a few partners overseeing a larger group of junior lawyers, is on the brink of obsolescence due to the advent of artificial intelligence (AI)."
-    publishedDateTime: 2023-11-27T15:39:00Z
-    webUrl: "https://www.jdjournal.com/2023/11/27/the-impact-of-artificial-intelligence-on-the-legal-industry-a-paradigm-shift/"
-    type: article
-    provider:
-      name: Legal News
-      domain: jdjournal.com
-    quality: 34
-    images:
-      - url: "https://d1ew8vst3yq0j8.cloudfront.net/wp-content/uploads/2023/11/AI-for-lawyers-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "The Impact of Artificial Intelligence on the Real Estate Industry"
-    excerpt: "Artificial Intelligence has become a transformative force across diverse sectors, and the real estate industry is a notable example. Its impact is palpable acro"
-    publishedDateTime: 2023-11-27T13:34:00Z
-    webUrl: "https://www.tribuneindia.com/news/impact-feature/the-impact-of-artificial-intelligence-on-the-real-estate-industry-566451"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
+      name: The Advocate
+      domain: theadvocate.com
     quality: 17
 
 secured: "A2twvALvM8O66K4/LywIKhDDud0pesmkgqeMKa5rwO6M1X2+6AHLiaUKsrEAn4c21nSeTy342X5ahEqvQRfNw/2WFvONp5yrcr+EH3OaX/yKMSXuXHViLMqf9k3JLQ3KvzaCxQPK9l/FFNVuunFTC/QytKlRcbjFvV3aF0Z/LjykMOAFoiW+k2FqrUnxlW8+jajU4zEGDVImQ0rHs8hyL0PHo4ubqm2h9Un/cxdpFAXkAQ5DyOKfHf9TeQVk2/iauFfHd4bSToR77cth5N3MWYrJh5m84RyuVvevbYTVFspIQhcD8VE5saspgfXmnINjTrVcF4Mmw8ADvI1e4VpUYiaO0PJmWvTZZFngQPWW4DbPnBqL00hjQeONk3RlyYxnrW8pqlqf93puk/9RjrSVF7TAfkuD6Kk/Z71kDQKtgTVRK7zF/CP+ELBTjcJGn2ihRw/pXyoseDMzJWpBusjePKLADP+nyHn94pZ6s2VUE45WuptpmAjnpTWdxHpG5ByVLF2weY3DMfwbwtFkM60kOA==;s+32kLRHStWLHH6CNBrlqQ=="

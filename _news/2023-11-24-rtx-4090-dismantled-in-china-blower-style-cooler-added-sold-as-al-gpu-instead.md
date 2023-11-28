@@ -41,6 +41,22 @@ related:
         width: 1250
         height: 750
         isCached: true
+  - title: "China Circumvents GPU Ban By Stripping GeForce RTX 3090 Cards As AI Race Heats Up"
+    excerpt: "With the stock of GeForce RTX 4090 disappearing rapidly, China has turned to the GeForce RTX 3090 as a backup choice."
+    publishedDateTime: 2023-11-28T17:13:00Z
+    webUrl: "https://hothardware.com/news/china-is-circumventing-its-gpu-ban-by-stripping-rtx-3090-cards"
+    ampWebUrl: "https://amp.hothardware.com/news/china-is-circumventing-its-gpu-ban-by-stripping-rtx-3090-cards"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/china-is-circumventing-its-gpu-ban-by-stripping-rtx-3090-cards"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 69
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/63199/content/3090.jpg"
+        width: 708
+        height: 399
+        isCached: true
   - title: "From GPUs to NPUs: Evolution of AI hardware in smartphones"
     excerpt: "Dedicated AI hardware was necessary to advance beyond the GPU. The solution that emerged was the Neural Processing Unit or NPU – a microprocessor developed specifically for neural network machine learning. In a nutshell, an NPU’s speciality is crunching numbers for machine learning models."
     publishedDateTime: 2023-11-24T11:41:00Z
@@ -66,15 +82,6 @@ related:
       name: PCGamesN
       domain: pcgamesn.com
     quality: 34
-  - title: "Nvidia RTX 4090 GPU Pricing Is Officially Ludicrous"
-    excerpt: "Right now, the site doesn't have a single RTX 4090 in stock, so you can forget about finding an FE card there any time soon. Also, according to Videocardz, you can't buy one from Microcenter that includes shipping anymore."
-    publishedDateTime: 2023-11-28T13:14:00Z
-    webUrl: "https://www.extremetech.com/gaming/nvidia-rtx-4090-gpu-pricing-is-officially-ludicrous"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "5UwRnUIWAm4xA5YXlqJAaNp8vaC7dXT4eOIgsa7zBbzhv0vYZxBZE6UtKYKsyMvwSSWpZCLr45vsPm7MUbXLz1ppGe6n2YGjF+4Wt4YuG7Mhzz4cv6NhypHrd+/qp5he8KRCIiaS66rsoEZo0TX0LWsT0rpNOQIPoUHnF5j0wYkItGod40zEUnxCPLeNTOmBN2gc5nmjA8jwI7CipgR5LZ9gCQSy4Gx/LNtbmBgq0A4vW82ry15bVrN8/pMtnEXM4393mSY6AKaon0V9lfLywrT5v/tFsnO2y2MOLpqST5rA+fWuDKiMgYxGWk+wkBkQhwsh6WCadL041cWvFqE/OssGE2J5qAFDFIjr8MAq3M3CG6NWU2dGj3NLnCt4CFt15bU4ZHrjWrioWe92HBtjKRRNtUlpXXqxZ4tfAw9xNROb7xwlTzFReH/1w7i5ixo/BRel3Tq3kYI4o//+ZCSsDJuhuAFnH+fDm2BeD9X1S64s+4KXQSYhrvDZFME52D4sTkgqgzQt2tEi7DSgvYEntA==;AaoE2jxQFtVWCNpP/fka3A=="
 ---

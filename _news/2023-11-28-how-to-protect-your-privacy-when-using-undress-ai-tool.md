@@ -25,21 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Meta to support project for using Gen AI in consumer grievance redressal"
-    excerpt: "Social network major Meta on Tuesday said it will support a National Law School of India University's research project for using generative AI technologies to enhance efficiency in consumer grievance redressal system."
-    publishedDateTime: 2023-11-28T12:34:00Z
-    webUrl: "https://www.devdiscourse.com/article/education/2727196-meta-to-support-project-for-using-gen-ai-in-consumer-grievance-redressal"
-    ampWebUrl: "https://www.devdiscourse.com/article/education/2727196-meta-to-support-project-for-using-gen-ai-in-consumer-grievance-redressal?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2727196-meta-to-support-project-for-using-gen-ai-in-consumer-grievance-redressal?amp"
+  - title: "Ensuring Data Privacy: 20 Best Practices For Businesses In The AI Age"
+    excerpt: "Ian Gotts, Elements.cloud The fusion of AI and transparency leads to trust. By publishing an AI ethics charter, an organization illuminates its dedication to data privacy. A transparent AI ethics charter is more than a document; it’s a promise."
+    publishedDateTime: 2023-11-28T15:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/amp/"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 58
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_19_56_6666387.jpg?width=1280"
-        width: 1280
-        height: 853
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fa5af64c1571671084b661d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "The Practical Impact Of AI For The Masses"
+    excerpt: "At the event, the leadership highlighted the concept of superpowers on demand. The message was that AI's best manifestation would be augmented intelligence for humans."
+    publishedDateTime: 2023-11-28T14:59:00Z
+    webUrl: "https://www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/"
+    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6565003681045ee522bb2f47/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "New framework for using AI in health care considers medical knowledge, practices, procedures, values"
+    excerpt: "Health care organizations are looking to artificial intelligence (AI) tools to improve patient care, but their translation into clinical settings has been inconsistent, in part because evaluating AI in health care remains challenging."
+    publishedDateTime: 2023-11-27T22:06:00Z
+    webUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-system.jpg"
+        width: 1920
+        height: 1372
         isCached: true
 
 secured: "y9Ky7LzLWMiAhlnnaq+xI8xOujQfodNeX6MDk0qxVNa4aS3jted+iJDSBkZSfr+JUwZbNDEWMyCGJfxvPpJq+YpOQ75elLOlQF7NE2gzHCbxEmoX5inmh9mB0rH46E2I4pGE1hvhizofKybZIuySAON64nsu0H8DLoiVBoAEbMZim4Tf+5ECHVg6oSXoppnhc+cC5CmI++bi9r8sUftxri+Flrp/IB3KAG4rQNJs1vpP34WRo2YX181p72xLm8Nu7YZ88Sgfi+VlthPGM8J3OiB0NZNoqATI8BMRbrVJFRw55RJTWqdDwnxPzUB0hRh6PGr/a6G/jZKZeU36f/w3neWyg9e3uDAoZRWFyIFUprc=;otZweb4/Gh4Wpqp9jZ1HfQ=="

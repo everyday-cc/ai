@@ -39,6 +39,34 @@ related:
         width: 266
         height: 400
         isCached: true
+  - title: "Qlik Expands Integrations with AWS to Scale AI for Impact"
+    excerpt: "This integration builds on Qlik’s portfolio of native, engine-level integrations with Amazon SageMaker, Amazon SageMaker Autopilot, and Amazon Comprehend, which are already enabling customers to leverage AI and machine learning (ML) in prediction and ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Qlik-Expands-Integrations-with-AWS-to-Scale-AI-for-Impact-161584.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 54
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Teradata launches its AI discovery and exploration tools on AWS cloud"
+    excerpt: "Teradata is best known for its big-data software platform VantageCloud Lake, which can be used by enterprises to analyze their business information for useful insights. Its analytics feature set is known as ClearScape Analytics, and the new AI platform is said to be heavily reliant on its capabilities."
+    publishedDateTime: 2023-11-28T16:00:00Z
+    webUrl: "https://siliconangle.com/2023/11/28/teradata-launches-ai-discovery-exploration-tools-aws-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/image_2023-11-24_071943410.png"
+        width: 997
+        height: 552
+        isCached: true
 
 secured: "9mrk8WHZFOslnH6ouwxnhZ2xnQPkF4vlYxvUFbsROU1hVnpGlnR9a1Ojjo4ohVwW/JGAR6YlUTW7oCFXcN+si9+t6pBhVd448UH1KbGdKh2ot5ZFpJBlUgDfvVa5+Yi0D1vMLS4ZtaxfRtuYvzRD3d6Yp6B0XYDgut9JJuoCVObTU6StJAnRFyVmEOCE4NrpQ6iBTZyhXUWMnjAjXXfKNodg7cMCVQJXYsoY+Lm271YXDhXlT+GmqmpoIR71wxU3IcqBO5FtkXOoj4/brMi54KeVWjyQqLbTgx1zwC4/ZbqyLrE0rQ+LMi8MrfVqxEcOJQzXZnZSRKG5vuIMaQUSAWGZJkdqMYzopOUp5ZXHWmC1hZp3YF0VFpqR/+ZmDwC7rBirb66/sdZfa+BxEA45TvGSf4M8+F5ERd8GW+wjMA5C6PTfEywQg7duCjOuIgGR6/wQ7yJvorJNmNb4DHXhmiiHuvHc4rPeC7KSQgenMdNKBSauA4GnHCgsPgYeXtvTsmGg4dQPRAQ8m98hA0zojg==;WFVug987RdGlitSLP9/XjA=="
 ---

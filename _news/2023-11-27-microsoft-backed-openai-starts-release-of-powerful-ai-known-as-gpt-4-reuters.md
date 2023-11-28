@@ -103,20 +103,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Was OpenAI Brouhaha Aimed To Derail AI Capability To Complete Grade School Math?"
-    excerpt: "It is being reported that a group of staff researchers at OpenAI conveyed their concerns to the board of directors"
-    publishedDateTime: 2023-11-23T17:48:00Z
-    webUrl: "https://thedeepdive.ca/was-openai-brouhaha-aimed-to-derail-ai-capability-to-complete-grade-school-math/"
-    type: article
-    provider:
-      name: thedeepdive
-      domain: thedeepdive.ca
-    quality: 51
-    images:
-      - url: "https://thedeepdive.ca/wp-content/uploads/2023/11/header-template-75.jpg"
-        width: 1117
-        height: 629
-        isCached: true
   - title: "This week in AI: The OpenAI debacle shows the perils of going commercial"
     excerpt: "So until an AI can do it for you, here’s a handy roundup of recent stories in the world of machine learning, along with notable research ... much of Microsoft’s investment in OpenAI is in the form of Azure cloud credits, and the threat of withholding ..."
     publishedDateTime: 2023-11-27T20:46:00Z
@@ -163,15 +149,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "OpenAI Researchers Warned the Board of an AI Discovery that Could Threaten Humanity"
-    excerpt: "Four days ahead of Sam Altman‘s ouster, several staff researchers wrote a letter to the board of directors warning of a powerful AI discovery, called Project Q*, that they said could threaten humanity. Reuters reported yesterday about it quoting as sources two people familiar with the matter."
-    publishedDateTime: 2023-11-23T19:11:00Z
-    webUrl: "https://iblnews.org/openai-researchers-warned-the-board-of-an-ai-discovery-that-could-threaten-humanity/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 13
 
 secured: "f49nAINdGFkYRmCPEjNo5Cgc+hzRhoJBhyb6HTFJ8hxPh/O8AQScpiCdLEetfs4OvjIWrA+JXwDEgw10NXKWjtJLQ3GcSB0KyfGx9o11xYittkWKHiJ4mCW+BcoZH/KXB0Z2Jsyh6ZqkbrwD+KHjuonngilc8il1N1AIKYF9WzzSP3C4XAZ/KHCw2KELcSyHU9tUvt7+EJxsgQAelEHNMuU1/WVikVTh0ezqp5imKmo4EN6H9kCccCycriuZCtZNRLJ8agr2D/umqltz1DkdUm99oQhwVIrW3kr/69HTlmsddleO0bNqunI0OXFOHel7j20H2cc02cU6pE2usufHnqI5pF6YOlJmirQP/C2xEkE=;i2Yqi4gPt2UpGW+nXMq9Cw=="
 ---

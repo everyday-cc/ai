@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/23/11/ab35964540/schneider-
 webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35964540/schneider-electric-utilises-generative-ai-to-revolutionise-operations"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,30 +19,14 @@ topics:
   - AI
 
 related:
-  - title: "Revolutionizing Steel Mill Operations with AI Vision"
-    excerpt: "Synopsis: Primetals Technologies pioneers AI-driven computer vision to detect strip cross cracks, reducing downtime and equipment damage at thyssenkrupp Hohenli"
-    publishedDateTime: 2023-11-27T05:50:00Z
-    webUrl: "https://www.steelguru.com/steel/revolutionizing-steel-mill-operations-with-ai-vision"
-    ampWebUrl: "https://www.steelguru.com/amp/story/steel/revolutionizing-steel-mill-operations-with-ai-vision"
-    cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/steel/revolutionizing-steel-mill-operations-with-ai-vision"
+  - title: "Couchbase Centralizes Operational and Real-Time Analytics for Building More Intelligent, Adaptive Applications"
+    excerpt: "Capella’s service also features connectors for migrating data from Amazon DynamoDB, Amazon DocumentDB, and Amazon Relational Database Service (Amazon RDS), in addition to connectors for data migration to Amazon SageMaker. “We are continuing to innovate ..."
+    publishedDateTime: 2023-11-27T00:01:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Couchbase-Centralizes-Operational-and-Real-Time-Analytics-for-Building-More-Intelligent-Adaptive-Applications-161573.aspx"
     type: article
     provider:
-      name: Steel News
-      domain: steelguru.com
-    quality: 59
-    images:
-      - url: "https://gumlet.assettype.com/steelguru%2F2023-11%2F2729572e-f360-450c-9e29-a4b25a32723a%2FThyssenkrupp.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true"
-        width: 564
-        height: 327
-        isCached: true
-  - title: "Market Leaders Collaborate with Synopsys to Realize Gains of Generative AI Across Synopsys.ai Full EDA Stack"
-    excerpt: "Synopsys, a pioneer in AI-driven EDA, aims to revolutionize the industry with generative AI capabilities, starting with Synopsys.ai Copilot, across the Synopsys.ai suite, building on its AI-driven optimization and data analytics solutions."
-    publishedDateTime: 2023-11-27T14:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/27/9923421.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: dbta
+      domain: dbta.com
     quality: 0
 
 secured: "lAaQfK+v/lQrj7yLYMlW6uQB7kV+TIcYfW7xKntdG4OqfFPUp9/SUGp1d2x2atWe2Q8CqS0Q6A5Euqjk220C/HCPCZXIwjkx58ibQvIQyRvZjAaEp4UKBBjIYm90hzFH2prFFmHOeTYOPhZYd6Vy/3hz2Tedc/YfSBO/TzeUC54C0Szl9HgqJmowMtP7y9wsK6IUQ9TATVUHGQ7bL1HDWkrQGOqHyIqiaLSQFLwSLwX5Abp5a6Xy+q1z+HRdq4Xh5e6fpNMm7I4OYz2ktvnQg+cJCBXY5PEgGi/utopiY00ClAY4W4kW5XETchbND+dJNUwCG43/qQyv1I9GO2i4hr4u44BVA6FzX1OIw4vPoH4=;MN0EYQbtJ+miPrLjlWp69w=="

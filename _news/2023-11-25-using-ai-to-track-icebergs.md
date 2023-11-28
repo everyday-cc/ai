@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-11-ai-track-icebergs.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-ai-track-icebergs.amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI’s Odyssey: Tracing the Development of Artificial Intelligence Before the Year 2000"
+    excerpt: "Introduction: Artificial Intelligence (AI) has become an integral part of our modern technological landscape, shaping the way we live and work. However, its journey to prominence was not an overnight success."
+    publishedDateTime: 2023-11-24T11:18:00Z
+    webUrl: "https://techbullion.com/ais-odyssey-tracing-the-development-of-artificial-intelligence-before-the-year-2000/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 49
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/AIs-Odyssey-Tracing-the-Development-of-Artificial-Intelligence-Before-the-Year-2000.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "How Amazon is using AI to deliver orders even faster"
     excerpt: "For online retailers like Amazon, Cyber Monday is one of the biggest shopping days of the year, and the company is using artificial intelligence to help with the demand. CBS News' Kris Van Cleave got exclusive access to Amazon's Robotics Research and Development Center,"
     publishedDateTime: 2023-11-27T14:02:00Z

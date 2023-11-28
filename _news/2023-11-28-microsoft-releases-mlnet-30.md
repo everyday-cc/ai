@@ -144,6 +144,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "OneNeck Earns Four Microsoft AI Cloud Partner Designations"
+    excerpt: "OneNeck has earned four Microsoft Solutions Partner Designations in the new AI Cloud Partner Program, superseding our previous Gold and Silver statuses. The designations are: Digital & App Innovation: Evolving applications to leverage advanced services in Azure. Modern Work: Helping customers enhance productivity and security using Microsoft 365."
+    publishedDateTime: 2023-11-28T18:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924506.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
     excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"
     publishedDateTime: 2023-11-24T20:22:00Z
@@ -168,6 +177,6 @@ related:
         height: 600
         isCached: true
 
-secured: "YCDyQCX8ssR6Lh5oIYQa4nS5gzLLBMGfQaSZ30Abn/1xs/y0x6yA37QSfXfMHfd+BwtT0XkJkNkR4vG9i/gQFihA8N9eBTXOMfZp5KZrDPs9Lr/c5bFhLOgkhKJ1XF9kEh9W65oksYJg4fSA4NL3jwCRuRlUC0oMCXeuMvX9+ZCyQ4Dki0gxRBkI52hP94jJn9yX0/yqHcJnZxFvWe8ZsJvsYHpaGNvzBUlDfDrsvE31gBTrVJG9/94rfulzAsVE1+YOFdKFyNKBobe9aY/G+/P1O/aF31iSOa/JP9zUchMLCZN69EhhAxPe1DK7D8Gly8E0Vw2l9N92rZsQp586KADum19rWO9utH2qSDMsY3s=;GL3yrPNj1HDClmfnm0IN7g=="
+secured: "dIAbTvRMWM6dCXohwi0J8ao9onPPi25CIehOPy29BZpoUllhEh/ppfKJVcfKx7tCbrzwU2A0cNuTKkZsug1m73m31ofZ1rZBws7Macdc2nYXFgOYw/jNq9lhMrqDirXXfiEfnJugEXW5MsvKCOlyYNvfWuqjibM1bJCWnvAifgweKvedOfqk5vOC8adNEup7+Nk7/6tGg+nOL+EJ12tgMD2qAlB1IUuqjRFupUzOV+umWB+ZTF3qGMFt5sNbnoJ6m5YBU/l6nFJ4mlPXEGHkz09CUPQrnvBMOF1eT9ivqpjvTNlTb+ZvvFkg5kpy6pLv5dx4kVvldxoSbsqh3/YpB3Qydc8fxuTg2ci4AsEDw0dzpQIwD6ojajSd3Sh/sM2wFnuewAdH/pIaSBxgKlhFIzDz7uPcVrcV990FDALjIXvmXTcFN889EBcINolYs2gER2njdA4vVhOyj0QzDpBqLq9PbxcNMPQyvBJ0jKuaW8FK0EBVYNAf3HKUvFwQw8sWK6K0Bs/yyelJMZ/rikuyaQ==;mBx/zqeZXayqvgDhb/FYWw=="
 ---
 

@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "For Better or Worse: AI Is Transforming the Workplace"
+    excerpt: "Share on Facebook. Opens in a new tab or window Share on ... but human judgment is essential for maximizing its power. It is known that AI can create \"false facts,\" but research shows that only half of employees believe they know when to question the ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.medpagetoday.com/opinion/focusonpolicy/107557"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 41
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/107xxx/107557.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Across China, an Unseen Rural Workforce Is Shaping the Future of AI"
     excerpt: "Data labeling jobs in rural areas are empowering women and the marginalized while also aiding poverty alleviation. But as advanced AI begins to eclipse traditional methods, the future demand for such human-driven jobs faces uncertainty."
     publishedDateTime: 2023-11-24T01:25:00Z
@@ -53,20 +67,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/11/How-will-AI-technologies-shape-the-future-of-video-content-creation.png"
         width: 512
         height: 338
-        isCached: true
-  - title: "For Better or Worse: AI Is Transforming the Workplace"
-    excerpt: "Share on Facebook. Opens in a new tab or window Share on ... but human judgment is essential for maximizing its power. It is known that AI can create \"false facts,\" but research shows that only half of employees believe they know when to question the ..."
-    publishedDateTime: 2023-11-28T00:00:00Z
-    webUrl: "https://www.medpagetoday.com/opinion/focusonpolicy/107557"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 39
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/107xxx/107557.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "tPHLJWPwgtXa1jTDig17uQW5eDmEocQuu+ge0r3UGIs+lqIZA+MMz7OxCp7aJxjDuTvgk/1iDUYzchXYoKCEHb3wTNHsw90esy2KumDlvu3JIKx4UCDCtfGKZ4pDcoOPaV2gpafZUYBeXm2oMcukd9IcNhgwWw+c9qT7uUOTND6aq++yJgnFGlCS17pITI8S7YMojtgBiddbTJv0MhVA4Dt6IRNm/qUXfaRS+l9OZO69sNKPgtSKXK2wkJfhyDP6qkjbcwjC2FVHCX8+OHxyrCKXQOdGKcp9cUKsemdWCFH3CUVSCw91x4Sl/KlexwuzEAiRQflh1mxmR9KSMahtkhO5m1i8hVddnmaLHv9+QmI=;f6FXQ5uDGmQU42DgICG7Ig=="

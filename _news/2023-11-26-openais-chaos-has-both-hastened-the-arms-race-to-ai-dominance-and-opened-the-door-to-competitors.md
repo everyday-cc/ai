@@ -93,20 +93,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Was OpenAI Brouhaha Aimed To Derail AI Capability To Complete Grade School Math?"
-    excerpt: "It is being reported that a group of staff researchers at OpenAI conveyed their concerns to the board of directors"
-    publishedDateTime: 2023-11-23T17:48:00Z
-    webUrl: "https://thedeepdive.ca/was-openai-brouhaha-aimed-to-derail-ai-capability-to-complete-grade-school-math/"
-    type: article
-    provider:
-      name: thedeepdive
-      domain: thedeepdive.ca
-    quality: 51
-    images:
-      - url: "https://thedeepdive.ca/wp-content/uploads/2023/11/header-template-75.jpg"
-        width: 1117
-        height: 629
-        isCached: true
   - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4 – Reuters"
     excerpt: "The startup OpenAI on Tuesday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage"
     publishedDateTime: 2023-11-26T20:33:00Z
@@ -167,15 +153,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "OpenAI Researchers Warned the Board of an AI Discovery that Could Threaten Humanity"
-    excerpt: "Four days ahead of Sam Altman‘s ouster, several staff researchers wrote a letter to the board of directors warning of a powerful AI discovery, called Project Q*, that they said could threaten humanity. Reuters reported yesterday about it quoting as sources two people familiar with the matter."
-    publishedDateTime: 2023-11-23T19:11:00Z
-    webUrl: "https://iblnews.org/openai-researchers-warned-the-board-of-an-ai-discovery-that-could-threaten-humanity/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 13
 
 secured: "ihr5oeLN2SRht9YbmiA9vX9oMgw7AXuKA51hTH372/WmeVhSY70xDNegDA/qnF4W6+uzqZvmzx1CudnBF19SUZxkqpFuReAYexMPco6/6xkt7LIfqtigKmK/uf2hhjYWVFJDUFBzIR97FMacZFYpfftt1zAuCPMOqOwqtbpM2pMUWp98JwITRYB8PUaYgLHLOBQ83RPD7VIDoD9K3DYKPKlYwDDWM+yBW64955kurtugBDxjrflM0i5fmvii/nAfRYTUXL2aiC6JEoEidsmT5y18Au0NM2SNR/JWGOhvj2L2Ygz2LQ0SRxpOXTftqM0GAXnm0cRUEPiKD1DkBkRruixd34ExnKxFhn1nQYQN5T8=;2hMK62cwlFZg+/i/yFbV+w=="
 ---

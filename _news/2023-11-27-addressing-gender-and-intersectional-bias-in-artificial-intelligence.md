@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-27T00:01:00Z
 originalUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/11/addressing-gender-and-intersectional-bias-in-artificial-intelligence/"
 webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/11/addressing-gender-and-intersectional-bias-in-artificial-intelligence/"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://www.mccormick.northwestern.edu/images/news/2023/11/addressing-gender-and-intersectional-bias-in-artificial-intelligence-social.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "StudentAI.app Sets a New Standard in EdTech with the Launch of Interactive AI Tools for Students and AI Teacher Collaboration"
@@ -42,6 +48,6 @@ related:
       domain: businesswire.com
     quality: 18
 
-secured: "shwbSOhTE59deugLkJ4rmWpKJ2jnDOxX1fqnFRWoZ2X1hNaL/yXSxl6kBjvJY3tix4ayMJWSUIuHHl3uYFjdQJSLSqfHOGZcPsPjItt1AuemE5wJ1b5cNz3GMZQoegV/sMhyMjZFhyjkGOe7Sk9S+qUIbK3DS9YQGAKJ9jDf+nIGQUG5kTwGs0kfjNiEHXzoZj1hxUL6HSmUD141SPpmLlD1EkZWLaUlnTWsuPJzev3AXj2ckgg1YM+5GGjsPe8TbedlLjv7eUv8iVPpDTol84/P6Pxx5t7B6KdZIBDCyfgllDbewlP/eHWR/oJUpOtQYNgQcB7lm1tv+nmCqa1dp/7XBDPQYW0QZTvoER7edU0=;fuQ4KBrRcv+f2j58amRanw=="
+secured: "GtmdTMOz2fg8oQqKUK0ysvjMIG6ieu255wP+ihzjvE8Mww3SvPhhzsEQwKHrlV4275FzGYj7JnbovNekGsZgw6DQo/g9Y61WQFQwC4wsOumYbdeRqskBX/RKp/iX4MBNbD6rQMHseGSDn2DLAun1NnKbTFUmDyPGntQuPRnxbHvryPJTxX2mW8+vgHPOIhvIZoaiVTDQ5Luw3Hx9iAMwtNTmqkEhFxkM9vnDBb0TbM7JT8xniG6DX/9vO2k2J2emW86G4TeKE0d2ggwuhLnVm2NGAnd7vOanN2OT4VX+u7SjnVsvuI39s6lRtMLGN6PE0gb8GzXYdUYLNaMVqA36kKD6STiG3Aqii3fjvGlhljY=;bqdHC87dS7hGlAYvgCVYkg=="
 ---
 

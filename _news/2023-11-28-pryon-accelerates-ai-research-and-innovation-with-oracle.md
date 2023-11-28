@@ -19,29 +19,96 @@ topics:
   - AI
 
 related:
-  - title: "New Research Paves Way for Artificial Intelligence in Education"
-    excerpt: "Over 500 respondents contributed to the Department for Education’s call for evidence on generative AI. Education professionals, Artificial Intelligence"
-    publishedDateTime: 2023-11-28T11:51:00Z
-    webUrl: "https://businessnewswales.com/new-research-paves-way-for-artificial-intelligence-in-education/"
+  - title: "Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons."
+    excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"
+    publishedDateTime: 2023-11-26T01:18:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152244"
     type: article
     provider:
-      name: https//businessnewswales.com
-      domain: businessnewswales.com
-    quality: 54
+      name: ABC
+      domain: abcnews.go.com
+    quality: 52
     images:
-      - url: "https://businessnewswales.com/wp-content/uploads/headway-5QgIuuBxKwM-unsplash-ai-education-meeting-laptop.jpg"
-        width: 750
-        height: 500
+      - url: "https://s.abcnews.com/images/US/wirestory_0773b4937801e7a0573f44b57a9a5942_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "QSTP session explores growing influence of Artificial Intelligence on education"
-    excerpt: "Qatar Science & Technology Park (QSTP), part of Qatar Foundation, is a Free Zone, accelerator and incubator for tech-product development in Qatar. The park fosters an innovation and entrepreneurship ecosystem in Qatar that works to accelerate commercialization of market-ready technologies to realize Qatar’s national diversification drive."
-    publishedDateTime: 2023-11-26T13:53:00Z
-    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/qstp-session-explores-growing-influence-of-artificial-intelligence-on-education-fhd9br2b"
+  - title: "Pentagon steps on AI accelerator as age of lethal autonomy looms"
+    excerpt: "Artificial intelligence employed by the U.S. military has piloted pint-sized surveillance drones in special operations forces’"
+    publishedDateTime: 2023-11-25T14:48:00Z
+    webUrl: "https://mynorthwest.com/3940672/pentagon-steps-on-ai-accelerator-as-age-of-lethal-autonomy-looms/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 30
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 39
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
+        width: 452
+        height: 282
+        isCached: true
+  - title: "Pentagon amps up AI program as lethal autonomy looms"
+    excerpt: "For years, U.S. military services have continued to increase their use of AI technology, but only in the past decade have they embraced revolutionary advances in artificial intelligence that will fundamentally alter the nature of war."
+    publishedDateTime: 2023-11-25T16:42:00Z
+    webUrl: "https://apnews.com/video/military-and-defense-artificial-intelligence-u-s-department-of-defense-district-of-columbia-general-news-d009fdbe8d064455a89a5c22e04bcb61"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://dims.apnews.com/dims4/default/2801d95/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F68%2Fd9%2F0261bc35db3613bf7242dde66991%2Fus-md-military-artificial-intelligence-20231125cr-1920x1080.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence informing Pentagon’s use of autonomous weapons"
+    excerpt: "Artificial intelligence employed by the U.S. military has piloted pint-sized surveillance drones in special operations forces’ missions and helped Ukraine in its war against Rus"
+    publishedDateTime: 2023-11-27T00:43:00Z
+    webUrl: "https://www.columbian.com/news/2023/nov/26/artificial-intelligence-informing-pentagons-use-of-autonomous-weapons/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 37
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2023/11/Military_AIs_Challenge_87677-daaa3.jpg"
+        width: 899
+        height: 599
+        isCached: true
+  - title: "Pentagon's AI Initiatives Accelerate Hard Decisions on Lethal Autonomous Weapons"
+    excerpt: "The Longshot, an air-launched unmanned aircraft that General Atomics is developing with the Defense Advanced Research Project Agency for use in tandem with piloted Air Force jets, is displayed at the Air & Space Forces Association Air, Space & Cyber Conference, Wednesday, Sept. 13, 2023 in Oxon Hill, Md."
+    publishedDateTime: 2023-11-27T15:41:00Z
+    webUrl: "https://www.manufacturing.net/laws-regulations/news/22880077/pentagons-ai-initiatives-accelerate-hard-decisions-on-lethal-autonomous-weapons"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 34
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/11/pentagon.6564b62011ed4.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C459%2C5063%2C2848&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pentagon steps on AI accelerator as age of lethal autonomy looms"
+    excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"
+    publishedDateTime: 2023-11-25T17:26:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/pentagon-steps-ai-accelerator-age-lethal-autonomy-looms-105152243"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 17
+  - title: "Pentagon’s AI initiatives accelerate hard decisions on lethal autonomous weapons."
+    excerpt: "\"The Department of Defense is struggling to adopt the AI developments from the last machine-learning breakthrough,\" said Gregory Allen, a former top Pentagon AI official now at the Center for Strategic and International Studies think tank."
+    publishedDateTime: 2023-11-27T18:44:00Z
+    webUrl: "https://sentinelcolorado.com/uncategorized/pentagons-ai-initiatives-accelerate-hard-decisions-on-lethal-autonomous-weapons/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 14
 
 secured: "GaS7XAMFNm5Gg+RDQTzRLjEF+t/CcfZj7dHTjxd1pZCWNGQ8tvw6oW7/sry3TP67KwrsNW/oUD54TltORhT3Zv5TgGqSxJNwnunGolckKLlOrR9eJq3TZUbkof9IkNUSwf+euWr5h6/cMDaPqb+tWQj7lgyR7Mq8b7NrshSNJPnhUijoAvd3S8djvQW3N4miin9opqu1yENZXkUt1xYnNS2ePlrBPRpYFCQ+HdKd8m79kbiiRYbMnX1R49KNF3ONA90d3nNPt12nvWirXnv9wB0+tZXCrcf7EFGIbFKnV4Z8mNr16QUck+oY7PK/GVZpYFriZQi2dEIPyXYAILJjlS6woMPOcFQjFjlDEO0ekIo=;DEpzG+1ZCxbjqURDSPdMXw=="
 ---

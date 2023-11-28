@@ -43,6 +43,22 @@ related:
         width: 1250
         height: 750
         isCached: true
+  - title: "China Circumvents GPU Ban By Stripping GeForce RTX 3090 Cards As AI Race Heats Up"
+    excerpt: "With the stock of GeForce RTX 4090 disappearing rapidly, China has turned to the GeForce RTX 3090 as a backup choice."
+    publishedDateTime: 2023-11-28T17:13:00Z
+    webUrl: "https://hothardware.com/news/china-is-circumventing-its-gpu-ban-by-stripping-rtx-3090-cards"
+    ampWebUrl: "https://amp.hothardware.com/news/china-is-circumventing-its-gpu-ban-by-stripping-rtx-3090-cards"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/china-is-circumventing-its-gpu-ban-by-stripping-rtx-3090-cards"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 69
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/63199/content/3090.jpg"
+        width: 708
+        height: 399
+        isCached: true
   - title: "RTX 4090 dismantled in China, blower style cooler added, sold as Al GPU instead"
     excerpt: "Chinese companies are ripping apart GeForce RTX 4090 graphics cards, turning them into AI accelerators, and making some serious money out of it."
     publishedDateTime: 2023-11-24T01:11:00Z
@@ -66,15 +82,6 @@ related:
       name: PCGamesN
       domain: pcgamesn.com
     quality: 34
-  - title: "Nvidia RTX 4090 GPU Pricing Is Officially Ludicrous"
-    excerpt: "Right now, the site doesn't have a single RTX 4090 in stock, so you can forget about finding an FE card there any time soon. Also, according to Videocardz, you can't buy one from Microcenter that includes shipping anymore."
-    publishedDateTime: 2023-11-28T13:14:00Z
-    webUrl: "https://www.extremetech.com/gaming/nvidia-rtx-4090-gpu-pricing-is-officially-ludicrous"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "mDSa8LU/E3AKXxPGPoKktbSpVfjE0EHFMDow8BiQ+2Wz0Gl9YVyagM9PKjkUI2hfiyfuSxn5xCR6yaJFqBHR/l/eWkQPOFVc5QDRV9ONd0O552ihkKob5TM++e/6FC0cHJMXW8rQWxlN+XA4kLAqDUeUsMcwqme3lup5oAuFHDaN/4GSsbqQ/QhRWN8QUS7jCkBhD/kdFJwWJCDKjhFWXYSjllOIYMgzCbCbph3EiNqiaKoELG4JL6++tT+Rs7bskduvq0bkWBE4xpRHVicOLWYwpdq4vnNU3acLKwqK/u4o5BgRLaY8KvOIErT/t0FYZRhvsAaUUaAg6+mUw5FZGHTREPoj1Ejt6tMyiBQ0C3o=;y+C0yroKgvelm6+mQ7G5Kg=="
 ---

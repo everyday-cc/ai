@@ -8,9 +8,9 @@ webUrl: "https://www.cnbc.com/2023/11/28/amazon-reveals-trainium2-ai-chip-while-
 ampWebUrl: "https://www.cnbc.com/amp/2023/11/28/amazon-reveals-trainium2-ai-chip-while-deepening-nvidia-relationship.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/28/amazon-reveals-trainium2-ai-chip-while-deepening-nvidia-relationship.html"
 type: article
-quality: 104
-heat: 384
-published: true
+quality: 106
+heat: -1
+published: false
 
 provider:
   name: CNBC
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/107339733-1701155445926-gettyimages-1259130628-COLLISION_2023.jpeg?v=1701155556"
@@ -31,19 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Introducing three new NVIDIA GPU-based Amazon EC2 instances"
-    excerpt: "Amazon Elastic Compute Cloud (Amazon EC2) accelerated computing portfolio offers the broadest choice of accelerators to power your artificial intelligence (AI), machine learning (ML), graphics, and high performance computing (HPC) workloads. We are excited to announce the expansion of this portfolio"
-    publishedDateTime: 2023-11-27T23:14:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-three-new-nvidia-gpu-based-amazon-ec2-instances/"
+  - title: "AWS unveils new Trainium AI chip and Graviton 4, extends Nvidia partnership"
+    excerpt: "In addition to the two new chips, Amazon said it extended its strategic partnership with AI chip giant Nvidia. AWS will be the first cloud service to run the forthcoming GH200 Grace Hopper multi-chip product from Nvidia, which combines the Grace ARM-based CPU and the Hopper H100 GPU chip."
+    publishedDateTime: 2023-11-28T10:30:00Z
+    webUrl: "https://www.zdnet.com/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
+      name: ZDNet
+      domain: zdnet.com
+    quality: 119
+    images:
+      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
+        width: 480
+        height: 480
+        isCached: true
+  - title: "Amazon unveils new chips for training and running AI models"
+    excerpt: "There’s a shortage of GPUs as the demand for generative AI, which is often trained and run on GPUs, grows. Nvidia’s best-performing chips are reportedly sold out until 2024. The CEO of chipmaker TSMC was less optimistic recently, suggesting that the ..."
+    publishedDateTime: 2023-11-28T16:38:00Z
+    webUrl: "https://techcrunch.com/2023/11/28/amazon-unveils-new-chips-for-training-and-running-ai-models/"
+    ampWebUrl: "https://techcrunch.com/2023/11/28/amazon-unveils-new-chips-for-training-and-running-ai-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/28/amazon-unveils-new-chips-for-training-and-running-ai-models/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1252532025.jpg?resize=1200,799"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Amazon's AWS Pushes AI Boundaries With New Chips And Nvidia Partnership"
+    excerpt: "AWS and Nvidia Corp NVDA -1.13% Get Free Report are collaborating to bring Nvidia's DGX Cloud to AWS. This includes deploying a new family of GPUs and a giant AI supercomputer to halve the training time and cost for large language models annually."
+    publishedDateTime: 2023-11-28T17:44:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/23/11/35984290/amazons-aws-pushes-ai-boundaries-with-new-chips-and-nvidia-partnership"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35984290"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35984290"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 91
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/27/introducing-three-nvidia-gpu-based-instances.jpg"
-        width: 958
-        height: 476
+      - url: "https://cdn.benzinga.com/files/images/story/2023/11/28/amzn_aws_0.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Nvidia shares fall after China AI chip is delayed"
     excerpt: "Citing two sources familiar with the matter, Reuters writes that the delayed chip is the H20, the most powerful of three AI-focused products Nvidia has developed"
@@ -58,22 +93,6 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-24-image-18.jpg"
         width: 4686
         height: 2661
-        isCached: true
-  - title: "Opinion: Nvidia looks poised to lead AI — but there’s one big question about its growth"
-    excerpt: "The driver of this growth is its data center segment, responsible for the GPU (graphics processing units) and chips that have been powering high-performance computing..."
-    publishedDateTime: 2023-11-27T20:19:00Z
-    webUrl: "https://www.marketwatch.com/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 81
-    images:
-      - url: "https://images.mktw.net/im-747436/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Nvidia delays launch of new China-focused AI chip: Sources"
     excerpt: "Nvidia has told customers in China it is delaying the launch of a new artificial intelligence chip it designed to comply with US export rules until th"
@@ -106,22 +125,6 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/s7bnqg/article67569502.ece/alternates/FREE_1200/2023-11-24T052805Z_715528354_RC2KOZ9X1Q6Y_RTRMADP_3_NVIDIA-CHINA.JPG"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Nvidia delays rollout of new custom-made AI chip for China, shares dip"
-    excerpt: "Nvidia (NASDAQ: NVDA) has informed Chinese customers of a delay in launching its new artificial intelligence chip, the H20, designed to comply with U.S. export rules. Shares in the chipmaker declined 2.2% in pre-market Friday trade."
-    publishedDateTime: 2023-11-24T10:24:00Z
-    webUrl: "https://au.investing.com/news/stock-market-news/nvidia-delays-rollout-of-new-custommade-ai-chip-for-china-shares-dip-432SI-3047505"
-    ampWebUrl: "https://m.au.investing.com/news/stock-market-news/nvidia-delays-rollout-of-new-custommade-ai-chip-for-china-shares-dip-432SI-3047505?ampMode=1"
-    cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/nvidia-delays-rollout-of-new-custommade-ai-chip-for-china-shares-dip-432SI-3047505?ampMode=1"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 74
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXMPEB1A16P_L.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "NVIDIA delays the launch of new AI chips focused on China"
     excerpt: "The delayed chip is the H20, the most powerful of three China-focused chips Nvidia has developed to comply with fresh US export restrictions, the sources said, and could complicate its efforts to preserve market share in China against local rivals like Huawei,"
@@ -187,20 +190,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Key AI Debates For 2024: Nvidia Competitors Threaten Semiconductor Giant's Dominance With Custom Chips"
-    excerpt: "Morgan Stanley analyst Brian Nowak delved into how AI conversations will intensify in 2024 and singled out potential beneficiaries."
-    publishedDateTime: 2023-11-23T17:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/key-ai-debates-for-2024-nvidia-competitors-threaten-semiconductor-giant-s-dominance-with-custom-chips-1032846466"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/artificial-intelligence-illustration.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Exclusive-Nvidia Delays Launch of New China-Focused AI Chip -Sources"
     excerpt: "The H20, L20 and L2 include most of Nvidia's newest features for AI work, but have had some of their computing power measures cut back to comply with new U.S. rules, according to SemiAnalysis' analysis of the chips' specifications."
     publishedDateTime: 2023-11-24T05:53:00Z
@@ -210,66 +199,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
-  - title: "Nvidia Delays Launch of AI Chip for China amid Export Compliance Challenges, NVDA Stock 1% Down"
-    excerpt: "Nvidia Corp (NASDAQ: NVDA), the California-based AI chip giant, has notified its Chinese customers of a delay in the launch of its new artificial intelligence chip, H20, designed to comply with the latest United States export regulations, Reuters reported Friday, citing two sources familiar with the matter."
-    publishedDateTime: 2023-11-24T16:46:00Z
-    webUrl: "https://www.coinspeaker.com/nvidia-delay-launch-ai-chip/"
-    ampWebUrl: "https://www.coinspeaker.com/nvidia-delay-launch-ai-chip/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/nvidia-delay-launch-ai-chip/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 62
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/11/nvidia-delay-launch-ai-chip.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Nvidia’s made-for-China chip delayed due to integration issues: Report"
-    excerpt: "Nvidia’s AI-focused H20 GPUs bypass US restrictions on China’s silicon access, including limits on chip performance and density."
-    publishedDateTime: 2023-11-24T12:50:00Z
-    webUrl: "https://www.networkworld.com/article/1249182/nvidias-made-for-china-chip-delayed-due-to-integration-issues-report.html"
-    ampWebUrl: "https://www.networkworld.com/article/1249182/nvidias-made-for-china-chip-delayed-due-to-integration-issues-report.html/amp/"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1249182/nvidias-made-for-china-chip-delayed-due-to-integration-issues-report.html/amp/"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://www.networkworld.com/wp-content/uploads/2023/11/semiconductor_chips_manufacturing-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "NVIDIA delays new H20 AI GPU shipments in to China, first chip designed after US sanctions"
-    excerpt: "NVIDIA's first AI GPU designed to comply with US export rules into China -- the H20 AI GPU -- has been delayed from December, to Feb/March 2024."
-    publishedDateTime: 2023-11-27T00:57:00Z
-    webUrl: "https://www.tweaktown.com/news/94577/nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
-    images:
-      - url: "https://static.tweaktown.com/news/9/4/94577_502_nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions_full.png"
-        width: 1500
-        height: 836
-        isCached: true
-  - title: "NVIDIA postpones launch of H20 China-specific AI chip"
-    excerpt: "NVIDIA has informed its Chinese customers about a delay in the launch of its new artificial intelligence (AI) chip, the H20, until early next year"
-    publishedDateTime: 2023-11-24T09:24:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/nvidia-delays-launch-of-new-china-focused-ai-chip/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 54
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l20520231124142034.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Nvidia Delays AI Chip Launch in China Amid Export Rule Compliance"
     excerpt: "Nvidia has informed its Chinese customers of a delay in the launch of its anticipated artificial intelligence (AI) chip, the H20."
     publishedDateTime: 2023-11-25T05:59:00Z
@@ -284,99 +213,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Nvidia delays AI chip designed for China: ‘Nvidia has demand without China’"
-    excerpt: "Nvidia delays an AI chip it specifically designed for China. Wedbush analyst Bryson says Nvidia has demand without China."
-    publishedDateTime: 2023-11-24T14:52:00Z
-    webUrl: "https://invezz.com/news/2023/11/24/nvidia-delays-ai-chip-designed-for-china/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 52
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/02/161973057-m1-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Nvidia faces setback as the launch of China-focused AI Chip, H20, delayed amid integration challenges"
-    excerpt: "Nvidia, the California-based AI chip giant, has announced a delay in the launch of its highly anticipated China-focused AI chip, H20."
-    publishedDateTime: 2023-11-27T19:10:00Z
-    webUrl: "https://www.gizmochina.com/2023/11/27/nvidia-faces-setback-as-the-launch-of-china-focused-ai-chip-h20-delayed-amid-integration-challenges/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 49
-  - title: "Nvidia sells half a million AI chips in just three months netting $10 billion-plus"
-    excerpt: "With that in mind, the latest news is that Nvidia has sold 500,000 of its H100 AI chips in the most recent completed quarter of 2023 according to research outfit Omdia. Most estimates of unit prices of the H100 range between $20,000 to $40,000 a pop, putting Nvidia's revenues for those sales at between $10 billion and $20 billion."
-    publishedDateTime: 2023-11-28T15:34:00Z
-    webUrl: "https://www.pcgamer.com/nvidia-sells-half-a-million-ai-chips-in-just-three-months-netting-dollar10-billion-plus/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 48
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/c3RwNWN8XeDGfgrBXGaR4f-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Investors flock back to AI fund on rate cut hopes, Nvidia results"
-    excerpt: "The Global X Robotics & Artificial Intelligence ETF received $35.5 million in net inflows in the week ending on Wednesday, its strongest since June earlier this year, according to Lipper data."
-    publishedDateTime: 2023-11-24T05:11:00Z
-    webUrl: "https://www.aol.com/investors-flock-back-ai-fund-131141195.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/15956a8a29bc3c93c3b3f2c772ea148e"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "MONAI medical imaging AI cloud service introduced by NVIDIA"
-    excerpt: "NVIDIA has recently announced the availability of a new hosted cloud service making medical imaging AI analysis and comparison even easier"
-    publishedDateTime: 2023-11-27T11:14:00Z
-    webUrl: "https://www.geeky-gadgets.com/monai-medical-imaging-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/NVIDIA-MONAI-medical-imaging-AI.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "GPU antitrust to challenge Nvidia"
-    excerpt: "Nvidia should have been prepared for antitrust action concerning AI GPUs, according to sources at motherboard manufacturers. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my ..."
-    publishedDateTime: 2023-11-28T00:00:00Z
-    webUrl: "https://www.digitimes.com/news/a20231127PD229/nvidia-ai-gpu-antitrust-motherboard.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231127pd229_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Nvidia revenues soar amid hyperscaler AI rush"
-    excerpt: "The chipmaker's products underpin the AI services at the center of an enterprise adoption wave, but research and development are still underway."
-    publishedDateTime: 2023-11-27T21:35:00Z
-    webUrl: "https://www.ciodive.com/news/Nvidia-revenue-growth-spikes-hyperscaler-AI-rush/700752/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/imgproxy/tVw2nHB2Ssuz9fEkfD1t3AZcgAx-GQVeXKFKCMVIM_M/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzOTkyMzg5MTMuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "Nvidia delays launch of new China-focused AI chip"
     excerpt: "Nvidia has told customers in China it is delaying the launch of a new artificial intelligence chip it designed to comply with US export rules until the first quarter of next year, two sources familiar with the matter said."
     publishedDateTime: 2023-11-26T19:53:00Z
@@ -386,44 +222,7 @@ related:
       name: IT News For Australia Business
       domain: itnews.com.au
     quality: 34
-  - title: "These artificial intelligence (AI) stocks are better buys than Nvidia"
-    excerpt: "While Nvidia has been one of the best investments in 2023, there are better options going into the new year. Investors interested in AI might be better off now buying stocks in companies that are at earlier stages in their AI expansions and have more room for growth over the long term."
-    publishedDateTime: 2023-11-24T10:27:00Z
-    webUrl: "https://www.azcentral.com/story/money/2023/11/24/nvidia-or-artificial-intelligence-ai-stocks-to-buy/71664718007/"
-    type: article
-    provider:
-      name: AZ Central
-      domain: azcentral.com
-    quality: 32
-  - title: "Informatica Broadens Relationship with AWS, Announces Deeper Integrations Across Generative AI, AWS HealthLake and Amazon S3"
-    excerpt: "With Amazon Bedrock now generally available, Informatica has taken steps to develop deeper integrations with the generative AI service. Amazon Bedrock is a fully managed service that makes foundation models (FMs) from leading AI companies accessible via an API to build and scale generative AI applications."
-    publishedDateTime: 2023-11-28T15:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-informatica-broadens-relationship-with-aws-announces-deeper-integrations-/2023/11/28/9924329.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Today in AI: Digital India Act to combat ill effects, AI now a \"short-term risk\" for investors, Nvidia delays launch of China-focused chip"
-    excerpt: "The aim of the Digital India Act (DIA) 2023 is to deal with the ill effects of artificial intelligence (AI) and it will succeed the current IT Act, Minister of State for Electronics and IT Rajeev Chandrasekhar said on Friday."
-    publishedDateTime: 2023-11-27T09:18:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-digital-india-act-to-combat-ill-effects-ai-now-a-short-term-risk-for-investors-nvidia-delays-launch-of-china-focused-chip-11816421.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 20
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
 
-secured: "TD1hXR17bk6YTZkTioGIGbTDoyZdYrEOYr0ee6qgB84NK+HNSJyGFd18o3eCldc/ENwgB5qvA8leBgR7lriBcJnWknmXNAUSSglaMvBay7xhpGtUsWBDLRWwtiJbcq/OGgIh7suapwey0fl09fwLsLDWUewFdeqFqjz8XF2OwNwDV6crh1rBrSpvwPlUlbyPcAWnbCsZaXHtsm1/xaB/DVIu+lH5XE/J3NDKV5exw52KJ7zLhyNRK6N79ml1EutqMjx6SzKaFNIXiVWlhere4tmH7ATjU/pp88OZhJEs+P4i187nyOzYXmE2m/KQpmcmWgGWAfp7EueoJJEk6yAte5zilD4zfl8utjlsol4d3OE=;Ajq5YWidAdKOqzcMEsPbTg=="
+secured: "eIkOP0c/zflDQpxgnveMpcrwdoUvi6+LSW+GVJ4gfNiHveU5aItIyjmBD/xUrJAlZeCSeI+3MUOm+WKNUSJ001h7jVW65GQep7RapsTYp21lrxSUB8UxRoKB0dwPkie4cblyKs2cMJ5Ac+HXSScdZ9ETHuX32e1iERp6SgMr76e6ck7QXKEvdZuPnloYotNQXlVnosWFk0YmTnk19MmSnSaQ6HikjNrOaqGWNnvEzMDvIE4UYNNByhXT96l29Po0nGLM44kWNadVH+wM1TTZe4PU17KqtZOviUeLulcd31km8wVhYq76O3u62lBpYO/mWZIAhmxRYa86QnnNBFDQDldP6OmcQVr89CG8MPCLvK/jdSa9EEOJUKplf8BQKym7ouZ2x892I3cFtqreCsc10NancntW7+6U26rFyJcLXO5KLP1NyC4UVKviBrLmqoC9OJndYnsC+r6uX5E6sHSGSXmeyDYLhGa+0rgqmblrgC1sslu6QYhbd4arUJMpcI5q1I02uLvWPL72kOLqz2uFmA==;EXxqpaagWqU8DS7aPEtqNg=="
 ---
 

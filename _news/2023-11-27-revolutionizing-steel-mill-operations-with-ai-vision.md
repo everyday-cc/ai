@@ -9,8 +9,8 @@ ampWebUrl: "https://www.steelguru.com/amp/story/steel/revolutionizing-steel-mill
 cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/steel/revolutionizing-steel-mill-operations-with-ai-vision"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Steel News
@@ -27,24 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Schneider Electric utilises Generative AI to revolutionise operations"
-    excerpt: "Schneider Electric, an expert in the digital transformation of energy management and automation, is leveraging Generative Artificial Intelligence (GenAI) by incorporating Microsoft Azure OpenAI to tra"
-    publishedDateTime: 2023-11-27T16:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35964540/schneider-electric-utilises-generative-ai-to-revolutionise-operations"
+  - title: "Why physical operations are uniquely positioned for AI transformation"
+    excerpt: "With physical operations, companies deal with massive, petabyte-scale data in the cloud -- AI is the natural fit for extracting value from it."
+    publishedDateTime: 2023-11-28T15:12:00Z
+    webUrl: "https://venturebeat.com/ai/why-physical-operations-are-uniquely-positioned-for-ai-transformation/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
-  - title: "Market Leaders Collaborate with Synopsys to Realize Gains of Generative AI Across Synopsys.ai Full EDA Stack"
-    excerpt: "Synopsys, a pioneer in AI-driven EDA, aims to revolutionize the industry with generative AI capabilities, starting with Synopsys.ai Copilot, across the Synopsys.ai suite, building on its AI-driven optimization and data analytics solutions."
-    publishedDateTime: 2023-11-27T14:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/27/9923421.htm"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_323830010.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 688
+        isCached: true
+  - title: "Testing Artificial Intelligence Regulation"
+    excerpt: "8. EU AI Act: first regulation on artificial intelligence. 9. Jobin, A., Ienca, M. & Vayena, E. The global landscape of AI ethics guidelines. Nat Mach Intell. 1, 389–399 (2019). 10. BBC News. Alexa tells 10-year-old girl to touch live plug with penny."
+    publishedDateTime: 2023-11-27T00:01:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/decisions-in-context/202311/testing-artificial-intelligence-regulation"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/decisions-in-context/202311/testing-artificial-intelligence-regulation?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/decisions-in-context/202311/testing-artificial-intelligence-regulation?amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 61
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-11/anh-tuan-to-KgiXRaqYVpM-unsplash.jpg?itok=d2flEFmx"
+        width: 1528
+        height: 800
+        isCached: true
+  - title: "iCAD’s AI-powered solutions to Help Accelerate Breast Cancer Detection in New Collaboration with GE Healthcare"
+    excerpt: "today announced that key artificial intelligence (AI) powered solutions from iCAD’s ProFound Breast Health Suite are the first applications to be offered in GE HealthCare’s new MyBreastAI Suite* offering. As breast cancer becomes the most commonly ..."
+    publishedDateTime: 2023-11-28T08:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/icad-s-ai-powered-solutions-to-help-accelerate-breast-cancer-detection-in-new-collaboration-with-ge-healthcare-1032854573"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "M+w6Q/Y9L2HM/CqPTYrA8dshtcBAraQ6jvv7zrjHxXyl9ppWMsgzyQOzkZSc6+Xievka4TdfyXwXYTfEK5oVM0XrHeOdZZijPDmK5P3bje/Rk9yUSTVzNuxn75ig1iw0bh5b0u0+vCbxDawJBcieLh+RjbGZegU5UWrSbPMdQVFmBAgB6fH6+pAgDtxhWoWE94BvAdhotkIBHHkq6XhjRKqD7mzq3wYF2rBTw41YPiBUFf1soogbN69kjj/pj/UVAmZTAXu4HqWWGqfarLXrEuKf5hmZfrYXChQZSRIlRm2D2N/WQnn8y8BcubUTcyTdZC1vzg2G/McPEwvx5c+s1e1KvMCk+bbcMgj4Fju9fJK2G3uUU4XLzMuoPDb/u0ToypsqUT0MzKB1Pv05eTmpUsAvDIDJq5kcwVBomm+J6fBy0UtEuydEo5Q4yfrv6ajJdyjYcWk0T0Pe6fyE2PD3XUlWqYYGmeuRryX6ktd5TqtJ7UpamkaEZeKwJXocSVE5awOFu2QVLrhyAhZS8cXZIQ==;WCHjejs1kcOxJv8PqlkOPQ=="
 ---

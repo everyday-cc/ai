@@ -82,6 +82,15 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 34
+  - title: "Teradata AI Unlimited Now Available on AWS"
+    excerpt: "Teradata (NYSE: TDC) announced that Teradata AI Unlimited is now available in private preview on Amazon Web Service (AWS) through AWS Marketplace. Teradata AI Unlimited is Teradata’s serverless artificial intelligence and machine learning (AI/ML) engine designed to allow data scientists,"
+    publishedDateTime: 2023-11-28T17:03:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/11/28/teradata-ai-unlimited-now-available-on-aws"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 34
   - title: "The Very Group selects AWS to transform the shopping experience with generative AI"
     excerpt: "The Very Group (‘Very’), a leading UK online retailer, today announced an expanded collaboration with Amazon Web Services (AWS) to accelerate"
     publishedDateTime: 2023-11-27T09:16:00Z

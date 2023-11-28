@@ -24,86 +24,132 @@ images:
     isCached: true
 
 related:
-  - title: "The Practical Impact Of AI For The Masses"
-    excerpt: "At the event, the leadership highlighted the concept of superpowers on demand. The message was that AI's best manifestation would be augmented intelligence for humans."
-    publishedDateTime: 2023-11-28T14:59:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/"
-    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/amp/"
+  - title: "Artificial intelligence: who are the leaders in AI in damage estimation for the automotive industry?"
+    excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
+    publishedDateTime: 2023-11-24T02:01:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-ai-in-damage-estimation-automotive/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Just Auto
+      domain: just-auto.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6565003681045ee522bb2f47/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/AI-in-damage-estimation.jpg"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Unraveling the Technical and Ethical Requirements of Artificial Intelligence"
-    excerpt: "In the rapidly evolving landscape of technology, Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and societies. As the influence of AI continues to grow, it becomes imperative to delve into the technical and ethical considerations that underpin its development and deployment."
-    publishedDateTime: 2023-11-23T22:42:00Z
-    webUrl: "https://techbullion.com/unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence/"
+  - title: "The AI industry must make sure that important communities aren’t left behind | Opinion"
+    excerpt: "The age of AI has begun. But as artificial intelligence (AI) continues to scale across industries and functions, it is imperative that marginalized and underrepresented communities are afforded the opportunity to thrive in the age of AI, and not get left behind."
+    publishedDateTime: 2023-11-24T12:30:00Z
+    webUrl: "https://www.aol.com/news/ai-industry-must-sure-important-103000190.html"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 53
+      name: AOL
+      domain: aol.com
+    quality: 31
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Ethics-requirement.jpg"
-        width: 800
-        height: 400
+      - url: "https://media.zenfs.com/en/aol_charlotte_observer_mcclatchy_259/28755a383c34f5e9104cae08db823dd5"
+        width: 1140
+        height: 760
         isCached: true
-  - title: "AI’s Odyssey: Tracing the Development of Artificial Intelligence Before the Year 2000"
-    excerpt: "Introduction: Artificial Intelligence (AI) has become an integral part of our modern technological landscape, shaping the way we live and work. However, its journey to prominence was not an overnight success."
-    publishedDateTime: 2023-11-24T11:18:00Z
-    webUrl: "https://techbullion.com/ais-odyssey-tracing-the-development-of-artificial-intelligence-before-the-year-2000/"
+  - title: "Artificial intelligence: who are the leaders in autonomous lane changing for the automotive industry?"
+    excerpt: "Autonomous lane changing is the ability of a self-driving vehicle to change lanes on its own without any input from the driver or human operator. The technology incorporates sensors, algorithms, and decision-making models to calculate the safest and quickest possible lane change for the vehicle."
+    publishedDateTime: 2023-11-24T02:16:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-lane-changing-automotive/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 49
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/AIs-Odyssey-Tracing-the-Development-of-Artificial-Intelligence-Before-the-Year-2000.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_autonomous-lane-changing.jpg"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "New framework for using AI in health care considers medical knowledge, practices, procedures, values"
-    excerpt: "Health care organizations are looking to artificial intelligence (AI) tools to improve patient care, but their translation into clinical settings has been inconsistent, in part because evaluating AI in health care remains challenging."
-    publishedDateTime: 2023-11-27T22:06:00Z
-    webUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
+  - title: "Artificial intelligence: who are the leaders in autonomous vehicle ECUs for the automotive industry?"
+    excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
+    publishedDateTime: 2023-11-24T02:27:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-vehicle-ecus-automotive/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 46
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-system.jpg"
-        width: 1920
-        height: 1372
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_autonomous-vehicle-ECUs.jpg"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "The implications of AI on human morality"
-    excerpt: "Mergan Velayudan, Acting CIO at MultiChoice Group, discusses the importance of human oversight when it comes to AI and ethics."
-    publishedDateTime: 2023-11-28T06:49:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
+  - title: "Artificial intelligence: who are the leaders in adaptive driver alerting for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Activity is driven by technological advancements in artificial intelligence (AI) and machine learning, consu"
+    publishedDateTime: 2023-11-24T01:53:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-adaptive-driver-alerting-automotive/"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
-  - title: "The Impact of Artificial Intelligence on the Real Estate Industry"
-    excerpt: "Artificial Intelligence has become a transformative force across diverse sectors, and the real estate industry is a notable example. Its impact is palpable acro"
-    publishedDateTime: 2023-11-27T13:34:00Z
-    webUrl: "https://www.tribuneindia.com/news/impact-feature/the-impact-of-artificial-intelligence-on-the-real-estate-industry-566451"
+      name: Just Auto
+      domain: just-auto.com
+    quality: 22
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Adaptive-driver-alerting.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in autonomous on-demand logistics for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Activity is driven by factors such as the growth of e-commerce, the shortage of truck drivers, the rising cost of fuel, the demand for convenient delivery options,"
+    publishedDateTime: 2023-11-24T02:21:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-on-demand-logistics-automotive/"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 17
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_autonomous-on-demand-logistics.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in obstacle detection radar-LiDAR for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Innovation in autonomous vehicles (AVs) is driven by safety, cost, performance, and convenience, and growing importance of technologies such as data processing and fusion,"
+    publishedDateTime: 2023-11-24T13:23:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-obstacle-detection-radar-lidar-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_LiDAR-point-cloud-processing.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Artificial intelligence: who are the leaders in collaborative autonomous driving for the automotive industry?"
+    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Collaborative autonomous driving (CAD) is driving innovation in the automotive industry due to its potential to improve safety, efficiency,"
+    publishedDateTime: 2023-11-24T12:21:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-collaborative-autonomous-driving-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 18
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_collaborative-autonomous-driving.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Internet of Things: who are the leaders in object sensing radars for the automotive industry?"
+    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over one million patents, there are 300+ innovation areas that will shape the future of the industry."
+    publishedDateTime: 2023-11-24T02:09:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-iot-object-sensing-radars-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 13
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_IoT_object-sensing-radars.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "14LOBsMsgdMs/VnMOSsmxQofUOwJwkuLeeDEe9z/ysYB/rmgxQGm3Zf/Hxf86ZoWB3IXPHsDIx/WFdPre8lQ22ub4NqN30nFJf8AUOTfPRg7tEbbhw9SlcFkW1OxEoDrEWZtWt8rd6bLwy6eDWPomymWnpmefSElEcylwRguqI7sAnqKxd/ExxzAyxsyYq2QCI6RdgjWOCVQ+G9dLqr407QBUyEaaHmgOqaau6oW0G3zjm2O2Sr1aqJ/eS3rJYU4q1juraV4IJMPe8EBYZ8tgfAfGiT/utZ+mq3I2G6J2eCg9GAl/5lRQe8x5+pVqwJu1rjIvZJc0iCc0hlAPGdSq0xoOrSX4owk56j1kVca7ag=;oB9Gh5YUou1c08IwkngETg=="
 ---

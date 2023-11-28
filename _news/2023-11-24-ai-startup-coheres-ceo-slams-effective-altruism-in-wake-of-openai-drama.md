@@ -88,20 +88,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Was OpenAI Brouhaha Aimed To Derail AI Capability To Complete Grade School Math?"
-    excerpt: "It is being reported that a group of staff researchers at OpenAI conveyed their concerns to the board of directors"
-    publishedDateTime: 2023-11-23T17:48:00Z
-    webUrl: "https://thedeepdive.ca/was-openai-brouhaha-aimed-to-derail-ai-capability-to-complete-grade-school-math/"
-    type: article
-    provider:
-      name: thedeepdive
-      domain: thedeepdive.ca
-    quality: 51
-    images:
-      - url: "https://thedeepdive.ca/wp-content/uploads/2023/11/header-template-75.jpg"
-        width: 1117
-        height: 629
-        isCached: true
   - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4 – Reuters"
     excerpt: "The startup OpenAI on Tuesday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage"
     publishedDateTime: 2023-11-26T20:33:00Z
@@ -162,15 +148,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "OpenAI Researchers Warned the Board of an AI Discovery that Could Threaten Humanity"
-    excerpt: "Four days ahead of Sam Altman‘s ouster, several staff researchers wrote a letter to the board of directors warning of a powerful AI discovery, called Project Q*, that they said could threaten humanity. Reuters reported yesterday about it quoting as sources two people familiar with the matter."
-    publishedDateTime: 2023-11-23T19:11:00Z
-    webUrl: "https://iblnews.org/openai-researchers-warned-the-board-of-an-ai-discovery-that-could-threaten-humanity/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 13
 
 secured: "95BNWiufYpluHon0sZE5adGHTqYoorZUf5Tg5xJLG5HTl9qFLmrJvVmtrNwxJmwgIgSktA708Xno8VhkT4pjzmcn3FR0SAayoPlBKAdhHk2OU7O7eauxsR8oO+t7N2GDCVMMy8UaJMTCfsMjjbU1tOQ1TrTEVcZD4++gU7N49oQpcsH+VBWeu+6Mp4HBuppxHO4i0n9QH6vcQyH88tj/DvJizYKaU8XThHH5LxxBwNNID3pCpcAlRZMPT0XdGDILIr2ZJTrEX8bX6DtS23S783CHxtVgnbt/jSSkfY/cua7nok+Od3qGQ6iVJfUzpUUStkZ8Ht8mTU4PGq8hzC9Oyef7Jyome6saS8ZWNoYs+pWab4DE3lCE+KbDZgk4qtSC22hdVCqjOuA4Vtw7UeFbrUpsDdsi7AVRA3vum1R4IqzgEHhVoHdcFnMlHpxOVZrxM0O7NwJN3ciE86j7jixjxCUqtidgo6ctVpbb/UEzJ2ZAzNCNfnw6aM2qlZ92M0Y5+dA3y+cY/eSIQl1c89bO5g==;Tib1MiUfQZs44+qzIAjgaw=="
 ---

@@ -34,6 +34,20 @@ related:
         width: 1280
         height: 1588
         isCached: true
+  - title: "AI’s Odyssey: Tracing the Development of Artificial Intelligence Before the Year 2000"
+    excerpt: "Introduction: Artificial Intelligence (AI) has become an integral part of our modern technological landscape, shaping the way we live and work. However, its journey to prominence was not an overnight success."
+    publishedDateTime: 2023-11-24T11:18:00Z
+    webUrl: "https://techbullion.com/ais-odyssey-tracing-the-development-of-artificial-intelligence-before-the-year-2000/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 49
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/AIs-Odyssey-Tracing-the-Development-of-Artificial-Intelligence-Before-the-Year-2000.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Zachary schools using artificial intelligence to help detect weapons"
     excerpt: "Zachary school leaders are looking at ways to improve security, including using artificial intelligence to help detect weapons. The school district is bringing in ZeroEyes, which uses AI technology and cameras to monitor campuses for firearms and alert ..."
     publishedDateTime: 2023-11-27T00:01:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-28T12:59:00Z
 originalUrl: "https://www.datanami.com/this-just-in/ibm-collaborates-with-aws-to-launch-a-new-cloud-database-offering-enabling-customers-to-optimize-data-management-for-ai-workloads/"
 webUrl: "https://www.datanami.com/this-just-in/ibm-collaborates-with-aws-to-launch-a-new-cloud-database-offering-enabling-customers-to-optimize-data-management-for-ai-workloads/"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.datanami.com/wp-content/uploads/2023/10/AWS-IBM-300x300.png"
+    width: 300
+    height: 300
+    isCached: true
 
 related:
   - title: "Qlik Expands Customers’ Ability to Scale AI for Impact with AWS"
@@ -43,6 +49,6 @@ related:
         height: 367
         isCached: true
 
-secured: "sn+bHmsd6/FcUB2qu1FtbRPmgXA82p567AV/xBuS8HvpVe8OeNfZb7v4DaEhlQmdhASvl8ygpFs44f0H76q82E3tKuirODzeDhC0/t7+Ekpv7cVfZ8Hgy5UOQ2NkpvUdOGjfKDbuloG+5SJYBn5Fh5mbNK25kyzxj6Z1X1PHaG+8ktht2/eWST8BCpK1YZ3CqWSJBI9tWTk6w46+Sy5WeIABpyp3MFUxSMVjoZmZL01ARcfUscdvQf9c+mBmUb5f8F924Z+To85i9vV+hoLg8qBuav2igZTU6ClLZuDD0srptgGnPjtpEZHvyYMyR5pXc4MK6dqLNYCEgODwO3yibYkCnia9jxglUHtV/9EWXtk=;b1XumKInMzrEtJkr0VNPxw=="
+secured: "jqJJhLtWw18Fq6hYtdvPf2zW0fcfOo6F8UXmJX8V2fvDeBE0SAoUeHzZ6tokDzZg20/VqGfPRQBXXFl0ns/EnHIiTLfP9ReiXoe4juFLkqIZ/2Z3Szz1Gi3lvSXQGj1OdxfKfnttOjVv8aJmsIxqPqQvPVotsyxbVqpC/MAwWvaHJMbi7oIw3rBxP3D6/Iiq0hQcn79RS+ZmG1t/vQK4e9IucLEl171XwCXcJWNGfv0//nYgiFNHt3EPbcWN160wsnahhtB0qgUKU5Dvemlqty6g4ES9du7c95GZkIyhv6rWx3qNtommqCBcQuH8V0ySxZoNEcOSyfU4369POu2EkoCrGb8bpk6KO/MlaJt/8V4=;joeie2/eR7SmH9GFWKw7UA=="
 ---
 

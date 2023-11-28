@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pryon Accelerates AI Research and Innovation with Oracle"
+    excerpt: "Pryon selects Oracle Cloud Infrastructure as its cloud provider to ramp up AI-enhanced knowledge management research and large language model training RALEIGH, N.C., Nov. /PRNewswire/ -- Pryon, an ind"
+    publishedDateTime: 2023-11-28T12:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/n35977571/pryon-accelerates-ai-research-and-innovation-with-oracle"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
   - title: "Pentagon steps on AI accelerator as age of lethal autonomy looms"
     excerpt: "Artificial intelligence employed by the Pentagon has piloted pint-sized surveillance drones, helped Ukraine fight Russia, predicts when Air Force jets need maintenance and tracks rivals’ satellites in"
     publishedDateTime: 2023-11-25T17:26:00Z

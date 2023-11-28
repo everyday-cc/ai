@@ -28,50 +28,45 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon unveils new chips for training and running AI models"
-    excerpt: "There’s a shortage of GPUs as the demand for generative AI, which is often trained and run on GPUs, grows. Nvidia’s best-performing chips are reportedly sold out until 2024. The CEO of chipmaker TSMC was less optimistic recently, suggesting that the ..."
-    publishedDateTime: 2023-11-28T16:38:00Z
-    webUrl: "https://techcrunch.com/2023/11/28/amazon-unveils-new-chips-for-training-and-running-ai-models/"
-    ampWebUrl: "https://techcrunch.com/2023/11/28/amazon-unveils-new-chips-for-training-and-running-ai-models/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/28/amazon-unveils-new-chips-for-training-and-running-ai-models/amp/"
+  - title: "Why physical operations are uniquely positioned for AI transformation"
+    excerpt: "With physical operations, companies deal with massive, petabyte-scale data in the cloud -- AI is the natural fit for extracting value from it."
+    publishedDateTime: 2023-11-28T15:12:00Z
+    webUrl: "https://venturebeat.com/ai/why-physical-operations-are-uniquely-positioned-for-ai-transformation/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1252532025.jpg?resize=1200,799"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_323830010.jpeg?w=1200&strip=all"
         width: 1200
-        height: 799
+        height: 688
         isCached: true
-  - title: "Amazon Research Day 2023: A Stage for Amazon's Machine Learning and Artificial Intelligence Brilliance"
-    excerpt: "Bengaluru, Nov 28 (UNI) Amazon India on Tuesday announced its annual Amazon Research Day (ARD), scheduled for December 1, 2023 here."
-    publishedDateTime: 2023-11-28T14:37:00Z
-    webUrl: "https://uniindia.com/~/amazon-research-day-2023-a-stage-for-amazon-s-machine-learning-and-artificial-intelligence-brilliance/Business Economy/news/3095575.html"
+  - title: "Revolutionizing Steel Mill Operations with AI Vision"
+    excerpt: "Synopsis: Primetals Technologies pioneers AI-driven computer vision to detect strip cross cracks, reducing downtime and equipment damage at thyssenkrupp Hohenli"
+    publishedDateTime: 2023-11-27T05:50:00Z
+    webUrl: "https://www.steelguru.com/steel/revolutionizing-steel-mill-operations-with-ai-vision"
+    ampWebUrl: "https://www.steelguru.com/amp/story/steel/revolutionizing-steel-mill-operations-with-ai-vision"
+    cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/steel/revolutionizing-steel-mill-operations-with-ai-vision"
     type: article
     provider:
-      name: uniindia
-      domain: uniindia.com
-    quality: 38
+      name: Steel News
+      domain: steelguru.com
+    quality: 59
     images:
-      - url: "http://www.uniindia.com/cms/gall_content/2023/11/2023_11$largeimg28_Nov_2023_200728417.jpg"
-        width: 600
-        height: 350
+      - url: "https://gumlet.assettype.com/steelguru%2F2023-11%2F2729572e-f360-450c-9e29-a4b25a32723a%2FThyssenkrupp.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true"
+        width: 564
+        height: 327
         isCached: true
-  - title: "Amazon using AI to help with delivery"
-    excerpt: "Amazon says its 2023 Black Friday sales were the highest in the company's history. Amazon executive Beryl Tomay joins CBS News to discuss how artificial intelligence and robots are helping get packages to your doorstep."
-    publishedDateTime: 2023-11-28T01:55:00Z
-    webUrl: "https://www.cbsnews.com/video/amazon-using-ai-to-help-delivery/"
+  - title: "iCAD’s AI-powered solutions to Help Accelerate Breast Cancer Detection in New Collaboration with GE Healthcare"
+    excerpt: "today announced that key artificial intelligence (AI) powered solutions from iCAD’s ProFound Breast Health Suite are the first applications to be offered in GE HealthCare’s new MyBreastAI Suite* offering. As breast cancer becomes the most commonly ..."
+    publishedDateTime: 2023-11-28T08:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/icad-s-ai-powered-solutions-to-help-accelerate-breast-cancer-detection-in-new-collaboration-with-ge-healthcare-1032854573"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/11/28/72b88010-acca-4e7b-bcaa-a64be76869d1/thumbnail/1200x630/76121ee8aca8d547f641d0b71478ca4a/cbsn-fusion-amazon-using-ai-to-help-delivery-thumbnail.jpg?v=5659e73acd91751548aa89950cf015b0"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "Jkmj2aa2JDgJe0H3LUCRpNqL0nh09JQ8B2xTyRPt0vgCNBYKcuQAzdL3k4a8IwpQzHJZIsDTxHOBQ0BVj8zFsIK/LNL/n5w2pMugce8gmd18NtMatY8aXHxF+3OJgQ2WisME4SNi60m0DbAOHhviaOXJ4XtpFDnlRpPvj4EOxUSrd525D9PzL5SBrZibv7GQXmiHcpy40gswhBuTcj3Qva/8RsswPf4VxVUjYVyCGhOcMWYmD2mTuN3sA7gWbKLqiQKHaE3kkNExJLwSLUMq42tAhAFOixoL+YNFPkkaRIA/XFpCieiMgRz6YVlyPCa0QzMNIdULDprjf9KJZtvQ045xy2mVnIPO+Wn9fr4+xfg=;zqi/Zc6fDkd/PCyDGpUqPw=="
 ---

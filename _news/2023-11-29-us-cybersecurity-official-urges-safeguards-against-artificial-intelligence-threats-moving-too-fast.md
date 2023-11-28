@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/us-cybersecurity-official-urges-safeguard
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast.amp"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "AI can shore up federal cybersecurity overwhelmed by data, GDIT says"
+    excerpt: "Spending by the Department of Veterans Affairs on AI tripled in a two-year period, spurred by machine-learning and virtual-reality obligations, the software and consulting business said. “We’re going to start to find that AI is not only in almost ..."
+    publishedDateTime: 2023-11-28T10:53:00Z
+    webUrl: "https://www.defensenews.com/it-networks/2023/11/28/ai-can-shore-up-federal-cybersecurity-overwhelmed-by-data-gdit-says/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 37
+    images:
+      - url: "https://www.defensenews.com/resizer/j44OYw33MIGEujxPNagOpVcDLVM=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/EINOQ3JS4NCVRALXYXLGZV5CYM.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Cross-government cybersecurity best practices announced for safer AI development"
     excerpt: "The guidelines are broken down into four key areas within the AI system development lifecycle: secure design, secure development, secure deployment, and secure operation and maintenance. These cover the waterfront, including threat modeling, supply chain security, protecting AI and model infrastructure, and updating AI models."
     publishedDateTime: 2023-11-27T20:15:00Z
@@ -96,6 +110,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Z7eaS0OkvCEDPp2GfGLvO4r04CpV+2qs/ZO3nyW7koqZ+jkdemDdS4fXQ6kHRJuhee+VM37JwZyw3trgtRtrX/YS71sgvu+KGTS/hhHkZhQw8r9XhaLr8QgyuQgbF+Mbc40lONDk3toyh2NoRck0HK0Cy+CB8tphLOXbIdqmLAfCq8YGuk76TxGa+3JXJVzEfk4VHHM7CpvkIgBCAZe+yS1oFtdxtQA6pZJS3LamgZLpgEyiGaav5T0ccwSJnVTPnbKO5U9ONIBseWldIcHhVBIMLF7J9rybqDISe9S93DqYNr6UPBY/VzbGa9KcRbFrj/VMFh2wBY8UtLARemW2MoCEdjPGp/Rv+UkbCSd5Vfk=;aoZ322Hb0lEbI87AuaJd8Q=="
+secured: "1UWvGlrojdmA+LyX7P5VOGOg+XPJqWRSWY08nGMdrpl9+eU3vBfo3yzvEb2xPKOwIhBFIo14l/YYwc8ydkPE3AW44Uahc8I7bMoPRS46i5inn+gYHa03bzzNXPzPTbBg0W9mj7qXgcQQ5tAspuP0QxHMZ6jaefujgrzN2aKBqJel598NM3GdJTxTv4+zwMWD282gh2Khk8Yj+37zKADCL2GpqT7i+sDienQCB5HTu+Sxm5ZaYN8SeFjGh3a0K0jED3bbwU2knU7cjx3M8n+0RDAtb7edD2ADRXfJ6b8Qqx1ibuF9yDUty8V9S1zGqDLzkEp68jl8rzux0qYQRAwiXZ5HYX+NB7cuz2xrrZunYtPA1Wj/ihTEQOwSsCRZiZyYLW/IzwUfjK1kFemb4kjgRKwQobVKtYUHsrsWIDLaJMnp998+/Okib+Xgflz7/1gO0QXu5QPz5YRHdSB7xxx2qUBYZmIhBJrO63tQV1zbUE6NysrAUcg7vEcepKqJKbrRWnAmK5Qg1u/2owmM9UQZJA==;izRgQTUGadVCVYGoynZWlA=="
 ---
 

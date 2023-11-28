@@ -77,6 +77,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "AI can shore up federal cybersecurity overwhelmed by data, GDIT says"
+    excerpt: "Spending by the Department of Veterans Affairs on AI tripled in a two-year period, spurred by machine-learning and virtual-reality obligations, the software and consulting business said. “We’re going to start to find that AI is not only in almost ..."
+    publishedDateTime: 2023-11-28T10:53:00Z
+    webUrl: "https://www.defensenews.com/it-networks/2023/11/28/ai-can-shore-up-federal-cybersecurity-overwhelmed-by-data-gdit-says/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 37
+    images:
+      - url: "https://www.defensenews.com/resizer/j44OYw33MIGEujxPNagOpVcDLVM=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/EINOQ3JS4NCVRALXYXLGZV5CYM.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Artificial Intelligence and Cybersecurity: Safeguarding the Digital Landscape in 2024"
     excerpt: "Introduction: In the dynamic and ever-evolving realm of cybersecurity, the integration of Artificial Intelligence (AI) has become a game-changer. Additionally, as we step into 2024, the fusion of AI and cybersecurity promises to revolutionize how organizations protect their digital assets."
     publishedDateTime: 2023-11-27T10:50:00Z

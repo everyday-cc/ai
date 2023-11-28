@@ -144,6 +144,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "OneNeck Earns Four Microsoft AI Cloud Partner Designations"
+    excerpt: "OneNeck has earned four Microsoft Solutions Partner Designations in the new AI Cloud Partner Program, superseding our previous Gold and Silver statuses. The designations are: Digital & App Innovation: Evolving applications to leverage advanced services in Azure. Modern Work: Helping customers enhance productivity and security using Microsoft 365."
+    publishedDateTime: 2023-11-28T18:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924506.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
     excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"
     publishedDateTime: 2023-11-24T20:22:00Z

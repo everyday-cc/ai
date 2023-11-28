@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/amp/"
 type: article
 quality: 73
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Has Enhanced Bard's Understanding Of YouTube Videos"
+    excerpt: "The AI can only repeat what was in the video, but it can still help users better understand a key point that might have been overlooked."
+    publishedDateTime: 2023-11-28T18:25:00Z
+    webUrl: "https://www.forbes.com/sites/petersuciu/2023/11/28/google-has-enhanced-bards-understanding-of-youtube-videos/"
+    ampWebUrl: "https://www.forbes.com/sites/petersuciu/2023/11/28/google-has-enhanced-bards-understanding-of-youtube-videos/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/11/28/google-has-enhanced-bards-understanding-of-youtube-videos/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65662f6cdf22a0dcbc648341/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
   - title: "Too Lazy To Watch YouTube Videos? Google Bard Can Now Do It For You And Answer Your Questions"
     excerpt: "Google Bard has received a new update that adds the ability to ask questions about YouTube videos. Google is rolling out this feature as a YouTube extension within Bard. What Happened: Alphabet ..."
     publishedDateTime: 2023-11-26T00:00:00Z

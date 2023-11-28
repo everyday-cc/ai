@@ -186,6 +186,34 @@ related:
         width: 1245
         height: 700
         isCached: true
+  - title: "AWS, NVIDIA Partner on New Supercomputing Infrastructure, Software, and Services for Generative AI"
+    excerpt: "LAS VEGAS —Amazon Web Services, Inc. (AWS) and NVIDIA have announced an expansion of their ongoing strategic collaboration to deliver the most advanced infrastructure, software, and services to customers working in the area of generative artificial intelligence."
+    publishedDateTime: 2023-11-28T18:01:00Z
+    webUrl: "https://www.tvtechnology.com/news/aws-nvidia-partner-on-new-supercomputing-infrastructure-software-and-services-for-generative-ai"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 42
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/A89qDFQSheec7vTBDNJc4d-1200-80.jpg"
+        width: 1000
+        height: 618
+        isCached: true
+  - title: "Exploring Data Enrichment and Storage Systems for Generative AI Video"
+    excerpt: "This potentially saves hours of work thanks to content tagging and automated object recognition while accelerating content movement and archiving activities. Enabling teams in any size of organization to get up and running with new AI applications faster ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.tvtechnology.com/opinion/exploring-data-enrichment-and-storage-systems-for-generative-ai-video"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/A89qDFQSheec7vTBDNJc4d-1200-80.jpg"
+        width: 1000
+        height: 618
+        isCached: true
   - title: "Tech firm uses a brace of generative AI tools to slash content production times"
     excerpt: "The company, which makes a secure platform for file sharing, file transfers and email, uses a suite of generative AI platforms for everything from email marketing to sales training. Executives estimate they’ve realized 10-fold efficiency improvements while doubling inbound search traffic and generating a record volume of sales leads."
     publishedDateTime: 2023-11-26T01:22:00Z

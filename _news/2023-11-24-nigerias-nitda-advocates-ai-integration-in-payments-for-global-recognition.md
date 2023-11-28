@@ -7,7 +7,7 @@ originalUrl: "https://cointelegraph.com/news/nigeria-nitda-advocates-ai-integrat
 webUrl: "https://cointelegraph.com/news/nigeria-nitda-advocates-ai-integration-payments-global-recognition"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Nigeria’s 10mg Pharma is simplifying access to medication using AI"
-    excerpt: "Nigerian startup 10mg Pharma is using AI-driven code trees to simplify access to low-interest credits and low-cost medications for healthcare providers in Africa."
-    publishedDateTime: 2023-11-24T05:59:00Z
-    webUrl: "https://disrupt-africa.com/2023/11/24/how-nigerias-10mg-pharma-is-simplifying-access-to-medication-using-ai/"
-    ampWebUrl: "https://disrupt-africa.com/2023/11/24/how-nigerias-10mg-pharma-is-simplifying-access-to-medication-using-ai/"
-    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/11/24/how-nigerias-10mg-pharma-is-simplifying-access-to-medication-using-ai/"
+  - title: "Local cloud vies for role in India’s facial recognition surveillance systems"
+    excerpt: "Developments in India offer insight into how the government intends to leverage advanced edge computing technology while managing privacy and security concerns."
+    publishedDateTime: 2023-11-24T17:47:00Z
+    webUrl: "https://www.biometricupdate.com/202311/local-cloud-vies-for-role-in-indias-facial-recognition-surveillance-systems"
     type: article
     provider:
-      name: disrupt-africa
-      domain: disrupt-africa.com
-    quality: 57
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
     images:
-      - url: "https://disrupt-africa.com/wp-content/uploads/2023/11/10mg-Pharma.jpg"
-        width: 946
-        height: 475
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/16135058/cctv-surveillance-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
 
 secured: "II759wbpb6gPD5CdbjYctAGG5zprwmV6JEYaGPxkqH3VMjthXJnSmnHvkYpmeYoOFFjsSyndWzVCy1K/7oSvd/7etz6Yf4YYxm9ZAQ7Fhsto/fiiS7jZxXEf+gzU0PDbo3n5lXD2XC4XQDKAr7VluTTP4YX748W1rguu/VqtTcri3BcUDF6g5h+CkXd9Alj5DQ21tDAhCceWxslHSnSG3s1edc+QnUD3PvX+ekOtMg50LDmaBRHR2p5MxtaoIH95Qqo3Y94HJgGcSXAYuyIVKtWwIPOBSCh9Hd9WPQdct0p4RvFqvnUdOMnXSLsvQLg9j6sPeeLQxxoUg2/Utbdc5ypFw1JtrQpIFyLE4o0pnpxPj/2F8RKzhBNLUPQQwuDmfxH8H9mAn+rFHuZRqCxrdC42DTNLn5L39xMroQBKkday/ESaoe6U7U8mevhMopJ3s1S+L39cGxdEqhxiLm65G2SHtMu69GVi0rM/6eAKZIZAURGyz1bEhFSd4cygAbr57LufdoivaXVlYtmmtIlH2A==;6SlpPKDyPbzwntVS0O5tFw=="

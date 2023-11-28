@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/11/28/the-practical-imp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/amp/"
 type: article
 quality: 87
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,33 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Unraveling the Technical and Ethical Requirements of Artificial Intelligence"
-    excerpt: "In the rapidly evolving landscape of technology, Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and societies. As the influence of AI continues to grow, it becomes imperative to delve into the technical and ethical considerations that underpin its development and deployment."
-    publishedDateTime: 2023-11-23T22:42:00Z
-    webUrl: "https://techbullion.com/unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence/"
+  - title: "Ensuring Data Privacy: 20 Best Practices For Businesses In The AI Age"
+    excerpt: "Ian Gotts, Elements.cloud The fusion of AI and transparency leads to trust. By publishing an AI ethics charter, an organization illuminates its dedication to data privacy. A transparent AI ethics charter is more than a document; it’s a promise."
+    publishedDateTime: 2023-11-28T15:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/amp/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 53
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Ethics-requirement.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "AI’s Odyssey: Tracing the Development of Artificial Intelligence Before the Year 2000"
-    excerpt: "Introduction: Artificial Intelligence (AI) has become an integral part of our modern technological landscape, shaping the way we live and work. However, its journey to prominence was not an overnight success."
-    publishedDateTime: 2023-11-24T11:18:00Z
-    webUrl: "https://techbullion.com/ais-odyssey-tracing-the-development-of-artificial-intelligence-before-the-year-2000/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 49
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/AIs-Odyssey-Tracing-the-Development-of-Artificial-Intelligence-Before-the-Year-2000.jpg"
-        width: 600
-        height: 450
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fa5af64c1571671084b661d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
   - title: "New framework for using AI in health care considers medical knowledge, practices, procedures, values"
     excerpt: "Health care organizations are looking to artificial intelligence (AI) tools to improve patient care, but their translation into clinical settings has been inconsistent, in part because evaluating AI in health care remains challenging."
@@ -74,40 +62,20 @@ related:
         width: 1920
         height: 1372
         isCached: true
-  - title: "The implications of AI on human morality"
-    excerpt: "Mergan Velayudan, Acting CIO at MultiChoice Group, discusses the importance of human oversight when it comes to AI and ethics."
-    publishedDateTime: 2023-11-28T06:49:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
+  - title: "How to Protect Your Privacy When Using Undress AI Tool"
+    excerpt: "Hello tech enthusiasts! In an era where artificial intelligence is reshaping boundaries it thrilling yet daunting to witness innovations like the Undress AI tools These tools use neural networks and"
+    publishedDateTime: 2023-11-27T16:43:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274046891/how-to-protect-your-privacy-when-using-undress-ai-tool"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 39
-  - title: "The Impact of Artificial Intelligence on the Legal Industry: A Paradigm Shift"
-    excerpt: "Introduction The traditional structure of law firms, characterized by a pyramid model with a few partners overseeing a larger group of junior lawyers, is on the brink of obsolescence due to the advent of artificial intelligence (AI)."
-    publishedDateTime: 2023-11-27T15:39:00Z
-    webUrl: "https://www.jdjournal.com/2023/11/27/the-impact-of-artificial-intelligence-on-the-legal-industry-a-paradigm-shift/"
-    type: article
-    provider:
-      name: Legal News
-      domain: jdjournal.com
-    quality: 34
     images:
-      - url: "https://d1ew8vst3yq0j8.cloudfront.net/wp-content/uploads/2023/11/AI-for-lawyers-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://cdn.bignewsnetwork.com/cus1700994204615.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "The Impact of Artificial Intelligence on the Real Estate Industry"
-    excerpt: "Artificial Intelligence has become a transformative force across diverse sectors, and the real estate industry is a notable example. Its impact is palpable acro"
-    publishedDateTime: 2023-11-27T13:34:00Z
-    webUrl: "https://www.tribuneindia.com/news/impact-feature/the-impact-of-artificial-intelligence-on-the-real-estate-industry-566451"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 17
 
 secured: "mfR6CH7i69XIxsP2SGFXOqGnipW1VQ1taq+fMecYopbNQejGlsUFYW+4/u+hJWfO6okjgKyu49V2z2qcO4e+66UuVoJZHrhXpv9Ha+tfHjPC+r7G9skqvVUeo2zwyZL7AMf2d4f34dzjr3uYm0smfm4W43K8sC4SjPcwHPAj8wSXhjnMaoJnjqFSp5gu4RxAd/zeY/xg/8euHH98GAjeDC3PVANAGMHn8IakBvev8cMDirbVyffPPvbv8snrmtG2m/HOfS+h9w4EvbWrgjj1+m+/vgJZHHDyohtLFlGuop1bsqxuB5DbfKecadq9fjfAvkqvG9JtXjZeAjbb/rcMtz0hCkxEcETLkAuLJtgry5A=;zs6a7iBEggMoCzEGTNFZqQ=="
 ---

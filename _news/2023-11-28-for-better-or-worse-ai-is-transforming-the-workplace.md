@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-28T00:00:00Z
 originalUrl: "https://www.medpagetoday.com/opinion/focusonpolicy/107557"
 webUrl: "https://www.medpagetoday.com/opinion/focusonpolicy/107557"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://assets.medpagetoday.net/media/images/107xxx/107557.jpg"
@@ -70,6 +71,6 @@ related:
         height: 338
         isCached: true
 
-secured: "BU2dsaWk9ntlkNnf5iGrjOvc2XynO/90ya8OtWVN7iGg60P/43TSfDEBMsDO0nXYixURrtSgr+infg9ayarkDkvYCo2v4C5ij/iieXcBPgX8PoyVkSEUJu2h4JGqxpojYEFe9b+HkPZDbsQKFicCMzDWGWMl2veQ6QkAxchEDTfWwthZpsMFbGRbxan2rqB1ays/SlfXPWu7sXeo7bHBQYf8IENexMZ/9fcUycWthL8mCgqdb7CWc9xW38BNsOu0/tjyFL2XC3LRaBS82fY2OTMjakghY/ICJ0yCsLGWX2VtZH05bPPVliWtwr16fUhrUZwcuQS4PVRjez1xpZOloIz4itECImsfwJcjpoMvWTE=;oyRhcIxusZRFEWwGjjpr+Q=="
+secured: "GwzqtpKjjD9wQcbob3BsM2WzLsunvRwUTHx1p+blw3mdw0WaVYp/VrlDBsaCotX29dOMwFB7+B9fgXcWwmdYU6pxpe2R7HzunZGSSQ3RuIMl5Bphb/zqGRFk29sRAza4U5Ck10OMDOk6cjreh9a0WbrMJsZBLH/DHGKEpI6WwjpuLIFKFf7+4hLsCWt4oDhCKlJ80S6Qo44CmQj/Dh937pLqTwOSbvX15yJLwX3jqT7G2N3DUBv0D+Zbne0I3bVsccYyg1APX1Na4S7PJPc9BuRYZu/ETbeI8mipwCijsNW2ZYv/Zv142lTHpvQtInbuuUF5UszKgULu1XiLIScV0txdchxfh4IoJO0Nmfqc/x5uedzGR/qdYB+jS9kg8S3Ksz/FjHuD4eeAU7NJhNp3YYG6QYcGNuqCwWDmKO/N3xox5hweggy5227EX+DYS5vgy+EonK/lahPFkLyw0v0jMYz/Nz/z+XhMmACNJL3zEPSXliT6xXhlYQgRRL8dCmyynDhS6DCSCB23JPmcNy5rsQ==;xTWCBbSQvXsF1TcAqE+oGg=="
 ---
 

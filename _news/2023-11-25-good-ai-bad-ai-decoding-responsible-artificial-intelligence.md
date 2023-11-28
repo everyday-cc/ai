@@ -7,7 +7,7 @@ originalUrl: "https://techxplore.com/news/2023-11-good-ai-bad-decoding-responsib
 webUrl: "https://techxplore.com/news/2023-11-good-ai-bad-decoding-responsible.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Here’s who’s responsible for AI in federal agencies"
+    excerpt: "Amid growing attention on artificial intelligence, more than a third of major agencies have appointed chief AI officers."
+    publishedDateTime: 2023-11-28T17:59:00Z
+    webUrl: "https://fedscoop.com/heres-whos-responsible-for-ai-in-federal-agencies/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2023/11/i-2vxP7fv-X5.jpg?w=505"
+        width: 505
+        height: 336
+        isCached: true
 
 secured: "03tBt+oFZckdIDvI0X9GySvfW6+ucM+FNv4OCpalMmMRB3Vz3fFfmbkJVSDZRFS4RvXDNGWPyM9ze8e3BJoxNCqLFRYAQDdDnNKC4JTcbQIvoGKMMCIfvnLzRtxuoykS7oJ8VEEb9LKqfqbYlJ76iUeBo8MaJ9n/QctsE6wrHCGiHaz44HKXdmv8aVBRCfWAujGeSOkPiDALiZUOQCwFMLX5slq4FnJun5g8SpDUQ8nUqDjBWdR4qWnc11ZmVX7yE/6N2yVOxDjOwQM9mnaxJimC3KL2J3y6WY2lA1gv1OrvHq7dSee4DCm5L5ooHlpHePdc9IrUmvjGCywi8d5TRhZ099LMs2TvJPLY/BtXShg=;xiyfdvH7CKsre71Qe4ctWA=="
 ---

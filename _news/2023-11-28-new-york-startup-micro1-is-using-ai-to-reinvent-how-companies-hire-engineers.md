@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/new-york-startup-micro1-is-using-ai-to-
 webUrl: "https://venturebeat.com/ai/new-york-startup-micro1-is-using-ai-to-reinvent-how-companies-hire-engineers/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,40 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Micron Warns Of Higher-Than-Expected Operating Expenses And Dell Lands A Deal With AI Startup"
+    excerpt: "Dell Makes A Deal To Solidify Its AI Footing Dell Technologies Inc DELL revealed it inked a $150 million deal with an AI startup. Dell will be supplying computing hardware to Imbue as it continues to work on growing its AI footprint. Imbue recently raised ..."
+    publishedDateTime: 2023-11-28T12:22:00Z
+    webUrl: "https://www.benzinga.com/23/11/35984731/micron-warns-of-higher-than-expected-operating-expenses-and-dell-lands-a-deal-with-ai-startup"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35984731"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35984731"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
+    images:
+      - url: "https://cdn.benzinga.com/files/smart-microchip-background-motherboard-closeup-technology.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Dell Partners With NVIDIA-Backed AI Startup Imbue In $150M Deal To Advance AI Reasoning Models"
+    excerpt: "Dell Technologies Inc. (NYSE: DELL) inked a pact worth $150 million with AI startup Imbue to build a new high-performance computing cluster for"
+    publishedDateTime: 2023-11-28T16:55:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/23/11/35983741/dell-partners-with-nvidia-backed-ai-startup-imbue-in-150m-deal-to-advance-ai-reasoning-models"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35983741"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35983741"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/11/28/dell_1.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "sgMM6X2Sa/8uYK/1jzghRTiBpIVzyjyJaBlOIfsDFC3275Ia87g9rU4jnwhbagc1+O83/3H+DXV09Zn6RZMeRNA5cX/M2hiiegt0ithA+d+F2XCPalerUCVMiwo/vRKKKjKZZwI+vp3JD2PTB1rUVTA3OEAo+4fV8JmvC8bKDQtbLsxRre9WEY3t+qrAFuvjUYEbUWerr8SlywhM+dO9AaH91b22npSWKRaLbIah2ErkI+76fHPau7ZfFsJuXYIoV1GfDvkuLbeMsPHZNxRmJ1hlM19veOf9KYkYwz/BiB22EoNVFTcJJnLDsqtqV32HJt2OwoyYBl82pqs2aRzvZG+rLRyzhSQ0V8qmXkSMdI8=;3A6uLdwM2aOG400963q0Gg=="
 ---

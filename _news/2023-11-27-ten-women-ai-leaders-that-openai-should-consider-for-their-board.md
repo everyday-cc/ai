@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 177
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Was OpenAI Brouhaha Aimed To Derail AI Capability To Complete Grade School Math?"
-    excerpt: "It is being reported that a group of staff researchers at OpenAI conveyed their concerns to the board of directors"
-    publishedDateTime: 2023-11-23T17:48:00Z
-    webUrl: "https://thedeepdive.ca/was-openai-brouhaha-aimed-to-derail-ai-capability-to-complete-grade-school-math/"
-    type: article
-    provider:
-      name: thedeepdive
-      domain: thedeepdive.ca
-    quality: 51
-    images:
-      - url: "https://thedeepdive.ca/wp-content/uploads/2023/11/header-template-75.jpg"
-        width: 1117
-        height: 629
-        isCached: true
   - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4 – Reuters"
     excerpt: "The startup OpenAI on Tuesday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage"
     publishedDateTime: 2023-11-26T20:33:00Z
@@ -166,15 +152,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "OpenAI Researchers Warned the Board of an AI Discovery that Could Threaten Humanity"
-    excerpt: "Four days ahead of Sam Altman‘s ouster, several staff researchers wrote a letter to the board of directors warning of a powerful AI discovery, called Project Q*, that they said could threaten humanity. Reuters reported yesterday about it quoting as sources two people familiar with the matter."
-    publishedDateTime: 2023-11-23T19:11:00Z
-    webUrl: "https://iblnews.org/openai-researchers-warned-the-board-of-an-ai-discovery-that-could-threaten-humanity/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 13
 
 secured: "0ImDRxxdnD8iXKGizKflWdD0PVaWcT4X/ULD+P+CdHvwRIjXhrgkrhTRhrvI0/jTMOcpnrUjgmojwIO/51PtZSQ6qjT1OAATk70YC98Du49NXP1seOneyGCWJ3tp/Hlp5e2TQRPy7GQAAJ7CmwrACnkFs8Dmf0c0cuTatgmrfh8g60ermDHxAM+ii05GKO6wApE84f7E+Gk1wGX0/xMr3VRveCOz22qE+yNxJ9YSeSwMrBYtoVCVA8nX7/CWnYHDQVmxTm8jtUBFFrx0I+3NDJpjWweYQCqSiyXGphNLgaQ2B1CDuwKOnDo5syt8XXz5rhNnzNFg2pttSAUNXbQ5wbsLVYwy+K1pYSjItUrq/J3EBVtTy0kAgMb+xA9mZjh1kdIl1WPO76lbSZqV/WboISQn4cTw6bcIik74feXxFmD6ZY1++8Mc+eVMXAPCgbycTGO/Cb3RDhh1Prb6c5j/fDXoLHfDv0v/mKnXOIZMNNqUIBKj8KtnVaP9PaXmo0uhq4697ULbmBscrgWIIFs0hw==;gAPaCsf6ZKoKCTGOBZExYA=="
 ---

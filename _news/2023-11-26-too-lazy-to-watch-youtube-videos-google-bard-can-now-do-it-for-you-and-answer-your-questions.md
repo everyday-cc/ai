@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Google Has Enhanced Bard's Understanding Of YouTube Videos"
+    excerpt: "The AI can only repeat what was in the video, but it can still help users better understand a key point that might have been overlooked."
+    publishedDateTime: 2023-11-28T18:25:00Z
+    webUrl: "https://www.forbes.com/sites/petersuciu/2023/11/28/google-has-enhanced-bards-understanding-of-youtube-videos/"
+    ampWebUrl: "https://www.forbes.com/sites/petersuciu/2023/11/28/google-has-enhanced-bards-understanding-of-youtube-videos/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/11/28/google-has-enhanced-bards-understanding-of-youtube-videos/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65662f6cdf22a0dcbc648341/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
   - title: "Google Expands Bard’s YouTube Integration To Answer Question About Videos"
     excerpt: "In a recent update shared by Google, Bard AI expanded its understanding of YouTube videos. Google’s generative AI LLM is now equipped to respond to specific inquiries directly related to the content of a video, allowing users to ask Bard questions about a certain video. It can also summarize a video simply by inputing the YouTube URL."
     publishedDateTime: 2023-11-27T03:18:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35961445"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35961445"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "iCAD’s AI-powered solutions to Help Accelerate Breast Cancer Detection in New Collaboration with GE Healthcare"
-    excerpt: "today announced that key artificial intelligence (AI) powered solutions from iCAD’s ProFound Breast Health Suite are the first applications to be offered in GE HealthCare’s new MyBreastAI Suite* offering. As breast cancer becomes the most commonly ..."
-    publishedDateTime: 2023-11-28T08:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/icad-s-ai-powered-solutions-to-help-accelerate-breast-cancer-detection-in-new-collaboration-with-ge-healthcare-1032854573"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
   - title: "GE HealthCare Releases MyBreastAI Suite to Support Clinicians in Accelerating Breast Cancer Detection"
     excerpt: "MyBreastAI Suite will first be available in the United States and will be distributed, installed and supported by GE HealthCare as part of the company's Senographe Pristina mammography portfolio. This product may not be available in your country or region. Please contact your GE HealthCare representative for more information."
     publishedDateTime: 2023-11-27T16:10:00Z

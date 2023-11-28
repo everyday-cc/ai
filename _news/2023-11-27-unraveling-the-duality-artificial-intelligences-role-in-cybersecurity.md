@@ -64,6 +64,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "AI can shore up federal cybersecurity overwhelmed by data, GDIT says"
+    excerpt: "Spending by the Department of Veterans Affairs on AI tripled in a two-year period, spurred by machine-learning and virtual-reality obligations, the software and consulting business said. “We’re going to start to find that AI is not only in almost ..."
+    publishedDateTime: 2023-11-28T10:53:00Z
+    webUrl: "https://www.defensenews.com/it-networks/2023/11/28/ai-can-shore-up-federal-cybersecurity-overwhelmed-by-data-gdit-says/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 37
+    images:
+      - url: "https://www.defensenews.com/resizer/j44OYw33MIGEujxPNagOpVcDLVM=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/EINOQ3JS4NCVRALXYXLGZV5CYM.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Cross-government cybersecurity best practices announced for safer AI development"
     excerpt: "The guidelines are broken down into four key areas within the AI system development lifecycle: secure design, secure development, secure deployment, and secure operation and maintenance. These cover the waterfront, including threat modeling, supply chain security, protecting AI and model infrastructure, and updating AI models."
     publishedDateTime: 2023-11-27T20:15:00Z

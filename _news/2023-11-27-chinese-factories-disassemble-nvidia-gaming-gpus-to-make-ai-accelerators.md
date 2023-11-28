@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/chinese-factories-disas
 webUrl: "https://www.datacenterdynamics.com/en/news/chinese-factories-disassemble-nvidia-gaming-gpus-to-make-ai-accelerators/"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,104 @@ images:
     isCached: true
 
 related:
-  - title: "Wipro To Bring Generative AI To Healthcare Insurance Companies Using NVIDIA AI Enterprise"
-    excerpt: "Wipro announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI"
-    publishedDateTime: 2023-11-24T10:43:00Z
-    webUrl: "https://www.indianweb2.com/2023/11/wipro-to-bring-generative-ai-to.html"
+  - title: "Nvidia delays rollout of new custom-made AI chip for China, shares dip"
+    excerpt: "Nvidia (NASDAQ: NVDA) has informed Chinese customers of a delay in launching its new artificial intelligence chip, the H20, designed to comply with U.S. export rules. Shares in the chipmaker declined 2.2% in pre-market Friday trade."
+    publishedDateTime: 2023-11-24T10:24:00Z
+    webUrl: "https://au.investing.com/news/stock-market-news/nvidia-delays-rollout-of-new-custommade-ai-chip-for-china-shares-dip-432SI-3047505"
+    ampWebUrl: "https://m.au.investing.com/news/stock-market-news/nvidia-delays-rollout-of-new-custommade-ai-chip-for-china-shares-dip-432SI-3047505?ampMode=1"
+    cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/nvidia-delays-rollout-of-new-custommade-ai-chip-for-china-shares-dip-432SI-3047505?ampMode=1"
     type: article
     provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 45
+      name: Investing
+      domain: investing.com
+    quality: 74
     images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG2FYxGdd4iyCv3Ind4m3LSaPOA8yDjaypLKRtn_DVLR6oxoUm_u72jA_sZc5l_pq0KGji5-fZopwzH-HFRC0vG8rKvDuXicK2V6lRNv2c9dFE8D_RO5vNLCP4n-er_PbCMo5TDChOaB_Qebkq_RqyGYh13RQ6k-f9zvA35b0OtvcF0eTHA-xizi3JNMM/s16000/20231124_161022_0000.png"
-        width: 1000
-        height: 600
+      - url: "https://i-invdn-com.investing.com/news/LYNXMPEB1A16P_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Nvidia Delays Launch of AI Chip for China amid Export Compliance Challenges, NVDA Stock 1% Down"
+    excerpt: "Nvidia Corp (NASDAQ: NVDA), the California-based AI chip giant, has notified its Chinese customers of a delay in the launch of its new artificial intelligence chip, H20, designed to comply with the latest United States export regulations, Reuters reported Friday, citing two sources familiar with the matter."
+    publishedDateTime: 2023-11-24T16:46:00Z
+    webUrl: "https://www.coinspeaker.com/nvidia-delay-launch-ai-chip/"
+    ampWebUrl: "https://www.coinspeaker.com/nvidia-delay-launch-ai-chip/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/nvidia-delay-launch-ai-chip/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 62
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/11/nvidia-delay-launch-ai-chip.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Nvidia’s made-for-China chip delayed due to integration issues: Report"
+    excerpt: "Nvidia’s AI-focused H20 GPUs bypass US restrictions on China’s silicon access, including limits on chip performance and density."
+    publishedDateTime: 2023-11-24T12:50:00Z
+    webUrl: "https://www.networkworld.com/article/1249182/nvidias-made-for-china-chip-delayed-due-to-integration-issues-report.html"
+    ampWebUrl: "https://www.networkworld.com/article/1249182/nvidias-made-for-china-chip-delayed-due-to-integration-issues-report.html/amp/"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1249182/nvidias-made-for-china-chip-delayed-due-to-integration-issues-report.html/amp/"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://www.networkworld.com/wp-content/uploads/2023/11/semiconductor_chips_manufacturing-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "NVIDIA postpones launch of H20 China-specific AI chip"
+    excerpt: "NVIDIA has informed its Chinese customers about a delay in the launch of its new artificial intelligence (AI) chip, the H20, until early next year"
+    publishedDateTime: 2023-11-24T09:24:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/nvidia-delays-launch-of-new-china-focused-ai-chip/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 54
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l20520231124142034.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Nvidia delays AI chip designed for China: ‘Nvidia has demand without China’"
+    excerpt: "Nvidia delays an AI chip it specifically designed for China. Wedbush analyst Bryson says Nvidia has demand without China."
+    publishedDateTime: 2023-11-24T14:52:00Z
+    webUrl: "https://invezz.com/news/2023/11/24/nvidia-delays-ai-chip-designed-for-china/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 52
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/02/161973057-m1-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Nvidia faces setback as the launch of China-focused AI Chip, H20, delayed amid integration challenges"
+    excerpt: "Nvidia, the California-based AI chip giant, has announced a delay in the launch of its highly anticipated China-focused AI chip, H20."
+    publishedDateTime: 2023-11-27T19:10:00Z
+    webUrl: "https://www.gizmochina.com/2023/11/27/nvidia-faces-setback-as-the-launch-of-china-focused-ai-chip-h20-delayed-amid-integration-challenges/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 49
+  - title: "Today in AI: Digital India Act to combat ill effects, AI now a \"short-term risk\" for investors, Nvidia delays launch of China-focused chip"
+    excerpt: "The aim of the Digital India Act (DIA) 2023 is to deal with the ill effects of artificial intelligence (AI) and it will succeed the current IT Act, Minister of State for Electronics and IT Rajeev Chandrasekhar said on Friday."
+    publishedDateTime: 2023-11-27T09:18:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-digital-india-act-to-combat-ill-effects-ai-now-a-short-term-risk-for-investors-nvidia-delays-launch-of-china-focused-chip-11816421.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 20
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image-770x433.jpg"
+        width: 770
+        height: 433
         isCached: true
 
 secured: "6Pt7dEWaHjHS0V38xD2GOEQk1O4oOqTdpVAUqqSv+mGBJnhKmAMJDxNcntcK/YCINEAyenVH6EQ0cNHk0N6HvlrTwAZqDYCDXINY/1R//+dlLAlPapf9VRgKDk5iOK3Pj1wmgE0BYSuTldn5Wqnj2VS1DBKTotAIe5Oc7TKX5EsnD+G/BMl8eGjXhx2UMadBbpDHOJ/D3Iqg1ZRmO4Ch0qQumSTcdJkCmufswqjfK7cj83rV+YqOQTB0jGym18dpIHjPxYKjofiabpWkMHag4Mt6BnX4vupFgpeqm9bjOBZHrFko4aKNrZWOdDAE1G1kcti4Lo4CoEWk/CKcU+lU9TngUNyfVe4x/mMkRyh1RhI=;ds//lcZfnIjPGvEQuVZM3w=="

@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2023-11-27-ge-healthcare-releases-mybreastai-suite-to-support-clinicians-in-accelerating-breast-cancer-detection.md",
-      "title": "GE HealthCare Releases MyBreastAI Suite to Support Clinicians in Accelerating Breast Cancer Detection",
-      "excerpt": "New offering provides an all-in-one AI platform optimized for mammography, that seamlessly integrates artificial intelligence (AI) applications from iCAD to aid clinicians in breast cancer detection a",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b35961445/ge-healthcare-releases-mybreastai-suite-to-support-clinicians-in-accelerating-breast-cancer-detect",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b35961445/ge-healthcare-releases-mybreastai-suite-to-support-clinicians-in-accelerating-breast-cancer-detect",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35961445",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35961445",
-      "publishedDateTime": "2023-11-27T14:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-26-risks-of-ai-in-healthcare-come-to-light.md",
       "title": "Risks Of AI In Healthcare Come To Light",
       "excerpt": "AI is a new frontier and can be potentially extremely helpful in healthcare. It can also be extremely harmful. A class action lawsuit describes alleged harm.",
@@ -145,6 +102,50 @@
       ],
       "topics": [
         "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-11-24-unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence.md",
+      "title": "Unraveling the Technical and Ethical Requirements of Artificial Intelligence",
+      "excerpt": "In the rapidly evolving landscape of technology, Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and societies. As the influence of AI continues to grow, it becomes imperative to delve into the technical and ethical considerations that underpin its development and deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence/",
+      "originalUrl": "https://techbullion.com/unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/11/Ethics-requirement.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-23T22:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
         "AI in Healthcare"
       ]
     },

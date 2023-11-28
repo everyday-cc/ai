@@ -150,6 +150,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "OneNeck Earns Four Microsoft AI Cloud Partner Designations"
+    excerpt: "OneNeck has earned four Microsoft Solutions Partner Designations in the new AI Cloud Partner Program, superseding our previous Gold and Silver statuses. The designations are: Digital & App Innovation: Evolving applications to leverage advanced services in Azure. Modern Work: Helping customers enhance productivity and security using Microsoft 365."
+    publishedDateTime: 2023-11-28T18:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924506.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "ChatGPT gained 1 million users in under a week. Here’s why the AI chatbot is primed to disrupt search as we know it – Fortune"
     excerpt: "We are all used to entering search queries online and getting relevant links in response. But what if you could get an instant answer from a robot? And what"
     publishedDateTime: 2023-11-24T08:11:00Z

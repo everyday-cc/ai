@@ -41,7 +41,12 @@ related:
     provider:
       name: mccormick.northwestern.edu
       domain: northwestern.edu
-    quality: 17
+    quality: 37
+    images:
+      - url: "https://www.mccormick.northwestern.edu/images/news/2023/11/addressing-gender-and-intersectional-bias-in-artificial-intelligence-social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FpD9lUoKogxhPiX2jaOyxoK/h9+nG6rDm0F2Sh4EE57Gxv9tSXLTpA7ZX6qUw6ASzJR2PMe+O4os82zIjR3Zw+4cEdQCHBxXh81Pmg1HD8UF0zmR2rujav2ZZLQ9Yx4dRTyGzHyCstpC4eFffJtOAyAa6M6j6ztdHHntpu169FN9DwLUuJulSmj9xQI8PzGLdyW8/4LJhhvo35D/JHjzboIXUsczOAbkfNVSW5f2q44OhjhQvngrElc8v2oG2m36apsD+EHJFOaZtH+RjgWKjlFNigAR0b9VK0Z9VwHUkSE7mMCf5X/aiPhN4Y5UBUjOV+hln8LZgA2Tuxq0pohHlJv/06NoI0Dk6Jg4zPvjwP2ZDU4DQDNQ1Pa8S0A21pcBpDMctJpqESnHvQmagkGu7a1cnl3CWxoX2UpVNonFQg5yNKUg8188+eTXMGUIiZA1Ps73NUz8FW+q/cyOemWTjMId179pwajG5E4oux8WEwRsbI+UKvrCQhkFzCzI0D6Eyl7IguTGCzovyo66UzexdA==;dGt5NOJaQHF5DDfGu8FR9g=="
 ---

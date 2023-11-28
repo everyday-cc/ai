@@ -56,6 +56,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 65
+  - title: "Informatica Broadens Relationship with AWS, Announces Deeper Integrations Across Generative AI, AWS HealthLake and Amazon S3"
+    excerpt: "With Amazon Bedrock now generally available, Informatica has taken steps to develop deeper integrations with the generative AI service. Amazon Bedrock is a fully managed service that makes foundation models (FMs) from leading AI companies accessible via an API to build and scale generative AI applications."
+    publishedDateTime: 2023-11-28T15:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-informatica-broadens-relationship-with-aws-announces-deeper-integrations-/2023/11/28/9924329.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "LaunchDarkly Collaborates with AWS to Generate Product Experiments Using Amazon Bedrock"
     excerpt: "LaunchDarkly, a platform that helps engineering teams build products that customers love, today announced an early"
     publishedDateTime: 2023-11-27T19:41:00Z

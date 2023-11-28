@@ -42,7 +42,12 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 4
+    quality: 24
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/10/AWS-IBM-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "juctWQq5pjuc1npI7bFcyb9pexpQTAb4wOt5D6dOhwd7xf+DOYuEhvqPcK9Y76vr2SSZXdrko8egkMz6mM0XQ2hnkvMpKAVeA6Rvc0sInahqCCJroofjKhEG4s8IZghj20hAW7yDnVmowz/tRn0Fc3lMzI9fSmEjp/JJ2/N+9NYGJapssVjgFZHaTr6BP0NN4pPW7oCea7mRVVJmbBgkKenGLTjXfh/eeco60n8pLZ7bquXFnJJIaSfdauxPv3TPgvyrxzTJDK9C9ZR+RZcwJhtU0aZUrvztbG/DoX/+xVkqHUIEYZ0wodqcO71HJIEYGhLEsE85oOKoIXzH8iWiXDgrAZc1AUwEcW6WqSCCX5k=;ru8VP7MkQXYmA55CZ3jEBQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://uniindia.com/~/amazon-research-day-2023-a-stage-for-amazon
 webUrl: "https://uniindia.com/~/amazon-research-day-2023-a-stage-for-amazon-s-machine-learning-and-artificial-intelligence-brilliance/Business Economy/news/3095575.html"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,53 +25,25 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon unveils new chips for training and running AI models"
-    excerpt: "There’s a shortage of GPUs as the demand for generative AI, which is often trained and run on GPUs, grows. Nvidia’s best-performing chips are reportedly sold out until 2024. The CEO of chipmaker TSMC was less optimistic recently, suggesting that the ..."
-    publishedDateTime: 2023-11-28T16:38:00Z
-    webUrl: "https://techcrunch.com/2023/11/28/amazon-unveils-new-chips-for-training-and-running-ai-models/"
-    ampWebUrl: "https://techcrunch.com/2023/11/28/amazon-unveils-new-chips-for-training-and-running-ai-models/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/28/amazon-unveils-new-chips-for-training-and-running-ai-models/amp/"
+  - title: "AI Journey 2023: a vision of the future"
+    excerpt: "The event focused on the latest advancements in neural networks and their role in scientific discoveries, as well as the impact of AI on business and society as a whole"
+    publishedDateTime: 2023-11-28T13:30:00Z
+    webUrl: "https://www.arabianbusiness.com/resources/ai-journey-2023-a-vision-of-the-future"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1252532025.jpg?resize=1200,799"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Testing Artificial Intelligence Regulation"
-    excerpt: "8. EU AI Act: first regulation on artificial intelligence. 9. Jobin, A., Ienca, M. & Vayena, E. The global landscape of AI ethics guidelines. Nat Mach Intell. 1, 389–399 (2019). 10. BBC News. Alexa tells 10-year-old girl to touch live plug with penny."
-    publishedDateTime: 2023-11-27T00:01:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/decisions-in-context/202311/testing-artificial-intelligence-regulation"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/decisions-in-context/202311/testing-artificial-intelligence-regulation?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/decisions-in-context/202311/testing-artificial-intelligence-regulation?amp"
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
+  - title: "SUO 2023: Artificial Intelligence for Diagnosis and Grading of Prostate Cancer"
+    excerpt: "(UroToday.com) The 2023 Society of Urologic Oncology (SUO) annual meeting held in Washington, D.C. between November 28 th and December 1 st, 2023, was host to a prostate cancer course. Dr. Peter Humphrey presented a comprehensive overview of the novel applications of artificial intelligence tools in urologic pathology."
+    publishedDateTime: 2023-11-28T17:55:00Z
+    webUrl: "https://www.urotoday.com/conference-highlights/suo-2023/suo-2023-prostate-cancer/148256-suo-2023-artificial-intelligence-for-diagnosis-and-grading-of-prostate-cancer.html"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 61
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-11/anh-tuan-to-KgiXRaqYVpM-unsplash.jpg?itok=d2flEFmx"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "Amazon using AI to help with delivery"
-    excerpt: "Amazon says its 2023 Black Friday sales were the highest in the company's history. Amazon executive Beryl Tomay joins CBS News to discuss how artificial intelligence and robots are helping get packages to your doorstep."
-    publishedDateTime: 2023-11-28T01:55:00Z
-    webUrl: "https://www.cbsnews.com/video/amazon-using-ai-to-help-delivery/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/11/28/72b88010-acca-4e7b-bcaa-a64be76869d1/thumbnail/1200x630/76121ee8aca8d547f641d0b71478ca4a/cbsn-fusion-amazon-using-ai-to-help-delivery-thumbnail.jpg?v=5659e73acd91751548aa89950cf015b0"
-        width: 1200
-        height: 630
-        isCached: true
+      name: UroToday
+      domain: urotoday.com
+    quality: 13
 
-secured: "kTM+caA3BaeagaGNxDij6XMDBOqSXSjQFvR3t6UnYvHVnQhUQLZgZOyUI6Xkxz1aM1P/FtlJX0N2kRKwMGztgbcYWoSJT7yQ+W+hfDZgEfBQJNZ4SqlCBNVO9RrKAMJyRVu5KVmqZqI9LR3eBtf5IwXVuYiuHGDWj+gqCnT1Xq87vehx458Yzp1ysLc/yI7MbgynQD96Pr+BFyOuXUOCYApFJuDiMh7q5+mAOU0pFb9GrEdLvvxZweIsuo2fxqXESXWtPzG7tmyzluwIp10/HH/oxIJfQwACJlD7hPgufkuhdEMgv796s35TbSUisJebcANI0s1Dgncdy0Q00pUMm5xmmsLziaptDRcXNBGuWJM=;tWG3/9KFadE9T4jAzCxG8Q=="
+secured: "bmd1lOMKL+ZhRAgTuPy1pB9lPgcbUbJ0H7NopnwL+y5cfs+xyDG67Ealvh14gKIEf2zMHHwqZlvAHAC4rcAUOFU/AHBReTxZkqZZvEZANEpvkaP4Y/NfhXx94IjaSPvv8uzfeTBS9tgh124d0nXGdDW0ww3Wqsme0skqpH3N05GATw5gq3PLUWK1jq8wlqbv49qwmBTCMxKa2JnVjSyUVuwsAdvm1bd3fLMr8T/KlTuzDOZ+uuNLwCEYdA31zP2FzoLZysMbni6pxKoRxtMVkFvtKHYn4USHbB3yHlkKJRXaVSzquigzD8V+YTvbh1fwX48R9FuX0y11vHKgxWo/lkwXF/r27Brv0aT8YNRteIxOHlj3aP0IxQh08DVSwfzY7ikPznwv4WHDOJSNkhNC8hs02itco18QTMWXDl8HXAWNq+qqOM2X8+HNIPqfwRkKvyHwGWLKtKbbSzxrXu/pVBA3j6rERyb1GO1rKiLLpljBPyRnSSgFxHBqh1UZv0L5gWLtKTNvJhxLEkfYvd0FDw==;BXqR9eNjWGScREuEZGtbVw=="
 ---
 

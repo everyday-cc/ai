@@ -7,8 +7,8 @@ originalUrl: "https://businessnewswales.com/new-research-paves-way-for-artificia
 webUrl: "https://businessnewswales.com/new-research-paves-way-for-artificial-intelligence-in-education/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: https//businessnewswales.com
@@ -25,24 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "QSTP session explores growing influence of Artificial Intelligence on education"
-    excerpt: "Qatar Science & Technology Park (QSTP), part of Qatar Foundation, is a Free Zone, accelerator and incubator for tech-product development in Qatar. The park fosters an innovation and entrepreneurship ecosystem in Qatar that works to accelerate commercialization of market-ready technologies to realize Qatar’s national diversification drive."
-    publishedDateTime: 2023-11-26T13:53:00Z
-    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/qstp-session-explores-growing-influence-of-artificial-intelligence-on-education-fhd9br2b"
+  - title: "Kolide Survey Finds 89% of Knowledge Workers Use AI, But Businesses Fail to Provide Governance or Education"
+    excerpt: "Kolide partnered with Dimensional Research to survey over 300 knowledge workers and found that a staggering 89% use generative AI tools for work tasks at least once a month. These tools include applications such as ChatGPT for writing tasks and GitHub Copilot for coding."
+    publishedDateTime: 2023-11-28T18:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kolide-survey-finds-89-of-knowledge-workers-use-ai-but-businesses-fail-to-provide-governance-or-education-1032855946"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 30
-  - title: "Pryon Accelerates AI Research and Innovation with Oracle"
-    excerpt: "Pryon selects Oracle Cloud Infrastructure as its cloud provider to ramp up AI-enhanced knowledge management research and large language model training RALEIGH, N.C., Nov. /PRNewswire/ -- Pryon, an ind"
-    publishedDateTime: 2023-11-28T12:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/n35977571/pryon-accelerates-ai-research-and-innovation-with-oracle"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://mma.prnewswire.com/media/2287401/Kolide_Survey.jpg"
+        width: 400
+        height: 274
+        isCached: true
 
 secured: "xq7YkRES0QoQWBrvR6APBGNVpmPBkFpCN7ePagtVaCinUyptjgk9mX/F2myi41dPUagpvIKwWhSrkWBOVKkLtHhCOZBF/5fmdaYqy0XXnM43Eo/FPzUV/cSRmiE2ZiLuNXGbWJ2DNWaCwXYmFfrpsjDr+jTMpswYleeLhW4lowgzhtalrRM46s8oQvymrUmFLeFBwB31zS8UQtey7/JcsNI+ouNNB+DGlQ3PH/9EsftYUdDdbINxHjMtGFajQuROXq4IEvknz0zdICL16VmJOrCsiLR51uggLKeboZIZJl8eMVjHQL353oiThIie0nVowT+kJDhU12pGwCdUcH+aaeUSEjF2qKF62h+BGSce4Ns=;6kWBgpbUIdvuQwy8aLy5Gw=="
 ---

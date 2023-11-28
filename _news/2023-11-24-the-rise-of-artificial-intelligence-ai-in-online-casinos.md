@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chiangraitimes.com/tech/the-rise-of-artificial-intellige
 cdnAmpWebUrl: "https://www-chiangraitimes-com.cdn.ampproject.org/c/s/www.chiangraitimes.com/tech/the-rise-of-artificial-intelligence-ai-in-online-casinos/?amp=1"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 300
     height: 300
     isCached: true
+
+related:
+  - title: "AI and the Rise of Mediocrity"
+    excerpt: "Read More: Pausing AI Developments Isn't Enough. We Need to Shut it All Down"
+    publishedDateTime: 2023-11-27T12:00:00Z
+    webUrl: "https://time.com/6337835/ai-mediocrity-essay/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/11/ai-mediocrity-sameness-illustration.jpg?quality=85"
+        width: 1847
+        height: 1623
+        isCached: true
 
 secured: "UMOZan7U8KqRGc1bq4Yo0VHhDbjpebIUk0Gh0tYSiOjhAMuSSQ4IPCjiNZ5t6qR9TQiiLRmQe4EIuibEks9PZ1hb9t55JICLc3bEMZahVCJfw//uX1Uq4vY55NyQk7Uf8KAXz9RXJdJV654cM55z+CTY3Zp1WRa1Uf9qhb/LNmaaYyKVswqrGAa+soQIgjxEkHwlLpb5iVsYkTosGvlOs9XIEgql2CK2X6H6Uh7pC7XG0kFJ4QEq9o5zvnrElmJedXW1yy3ZqNde/CDPVMkr7K/eXPnRTB3xKMV6RsiUjvWBUdeotnywpjVpCEz6iaFgfzRx0hJagNgBz6KYf+HBjFTFWl8gdoqmwApXWG4n5Hg=;OAV2gB7hoMNYS86aFWDtcg=="
 ---

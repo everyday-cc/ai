@@ -89,20 +89,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Was OpenAI Brouhaha Aimed To Derail AI Capability To Complete Grade School Math?"
-    excerpt: "It is being reported that a group of staff researchers at OpenAI conveyed their concerns to the board of directors"
-    publishedDateTime: 2023-11-23T17:48:00Z
-    webUrl: "https://thedeepdive.ca/was-openai-brouhaha-aimed-to-derail-ai-capability-to-complete-grade-school-math/"
-    type: article
-    provider:
-      name: thedeepdive
-      domain: thedeepdive.ca
-    quality: 51
-    images:
-      - url: "https://thedeepdive.ca/wp-content/uploads/2023/11/header-template-75.jpg"
-        width: 1117
-        height: 629
-        isCached: true
   - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4 – Reuters"
     excerpt: "The startup OpenAI on Tuesday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage"
     publishedDateTime: 2023-11-26T20:33:00Z
@@ -163,15 +149,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "OpenAI Researchers Warned the Board of an AI Discovery that Could Threaten Humanity"
-    excerpt: "Four days ahead of Sam Altman‘s ouster, several staff researchers wrote a letter to the board of directors warning of a powerful AI discovery, called Project Q*, that they said could threaten humanity. Reuters reported yesterday about it quoting as sources two people familiar with the matter."
-    publishedDateTime: 2023-11-23T19:11:00Z
-    webUrl: "https://iblnews.org/openai-researchers-warned-the-board-of-an-ai-discovery-that-could-threaten-humanity/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 13
 
 secured: "+DxllUjvwzZ9BV5QQUJN2O67zzTLWBJuSHy0QvGj1L08NoLHgqM26EyVao2lGwCxrJU6RP8e8QAGCrTSwaVzdKGk4nhgIG34vIFvbNP25CTxQH/YYp7+YL/FK/O3tCYfZL3JVRNblKgFsoe380Z4w1fcd9jBG1053r2TfOZe0pE0+gY0meQ/RY70QKe2JSi5e31DU+AKFVXEqcFnmBLAq9pRj9bC139hBCJFfds3cQ23sbM4Z3Mw1kDwx/eScF4N7MEeTX1POmR19xsBNMapx8ZoI6gr0/ANwZe7mJMhke2B6GXgPZtz94io2LPCLkdHrld1BdLHhYGBRz4hEDOWq6XZfqCpDyBI2x3DTeqmdQE=;ULJUSwrqiWw+jvut+EQ9vw=="
 ---

@@ -144,6 +144,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "OneNeck Earns Four Microsoft AI Cloud Partner Designations"
+    excerpt: "OneNeck has earned four Microsoft Solutions Partner Designations in the new AI Cloud Partner Program, superseding our previous Gold and Silver statuses. The designations are: Digital & App Innovation: Evolving applications to leverage advanced services in Azure. Modern Work: Helping customers enhance productivity and security using Microsoft 365."
+    publishedDateTime: 2023-11-28T18:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9924506.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
     excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"
     publishedDateTime: 2023-11-24T20:22:00Z
@@ -168,6 +177,6 @@ related:
         height: 600
         isCached: true
 
-secured: "NB8xaYuzgHPGqW2NJeQ+d55lKhMPnSkMfJiXtsRfMbGdBLp4Ndmq+0VBfvrMmP1rDridV1J+JnIBLTgFq2UJ4DFTWRW0Xrx2ZIjjYQrFp1yjZ39nW/NlT20oxwx0DNFkNxs0FGYTqFgvFLMwUZ5oS4ymKTp0zO26BRKvB47D+1n/iZeRimTUaXoPTClP0hG2aTzMQG/evHiutSjg97FIeIYlHzS0to5PcMhUUdqabOg8btVCz8Nk0ROFDKqQn5Kwk8o+pWZWUT3p9NvzHMd0mPKVlRCkD0iso/cv1kdwgbWplteagYwYVv/OabGYTmumRq855VdP8FEiVQD+bp3DVkgu/q+pi4PYUaoyeyy8eMo=;JhAmPbSiGS1xspckSxEnTg=="
+secured: "8pxnXO9+V9PGBe9u8cFpjR8o4v/sOzMeCuUS1StViRdV8b0+TWU9jPTA3kerRURaqG7E8N4OLHSoEohI+7KFlL2sLLd0XQRYpYG58NI2QhfrEg1WCTjmY2bARMCW/fdrohubNv3ioI0mUc4spxRapI0NZaE3JwfON5TS2oaNTeLg+ZZ7TCLLh18MlyBobXCFD+gnvynHNp7TQHZGe1fXB5DIhywYB+3k4MTNjF7w3c/ZhfvweKhB2nBl6njPfP72F+FjvMqCgdkqokxAcob5KjUkI9WAAUY0Wp6wIecWK/5+BRUGEUKkQV4mxcnfB2WkIFidlgVDfJZK10N2D/Yo9px/y5GoPH0OXzY0s6XCJsnNHBaTyGCm5++ZPEiXRvwSQzG7QFdPgfzE5i9ZQyL/LPoqcRn1Z8ZrIEugc967uYTl6Z88WOGNPhser2MMnKSxFsQqqs4t9JUdz8variKNQry/uHwDOwWvXs0ACZiG17zki4cuEStNpgBVAkuXdF6Y1PKdyi60rt0tAth+/fVeLA==;PlL+KnrRE6pIoNIKPsDxIQ=="
 ---
 

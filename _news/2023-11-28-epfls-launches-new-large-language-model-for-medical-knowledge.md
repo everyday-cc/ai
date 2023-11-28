@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Researchers develop large language model for medical knowledge"
+    excerpt: "Researchers from EPFL have just released Meditron, the world's best performing open source large language model tailored to the medical field designed to help guide clinical decision-making."
+    publishedDateTime: 2023-11-28T17:55:00Z
+    webUrl: "https://techxplore.com/news/2023-11-large-language-medical-knowledge.html"
+    ampWebUrl: "https://techxplore.com/news/2023-11-large-language-medical-knowledge.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-large-language-medical-knowledge.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/medical-data-2.jpg"
+        width: 1920
+        height: 1920
+        isCached: true
   - title: "Making large language models relevant to an organization"
     excerpt: "and a host of other natural language processing use cases. One example of such a use case is a voice assistant designed using an LLM. The dataset changes hands in the following manner (human ..."
     publishedDateTime: 2023-11-25T04:22:00Z

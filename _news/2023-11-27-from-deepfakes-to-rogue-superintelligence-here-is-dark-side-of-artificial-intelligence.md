@@ -19,6 +19,19 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Fake babies, real horror: Deepfakes from the Gaza war increase fears about AI’s power to mislead"
+    excerpt: "While this technology shows promise, those using AI to lie are often a step ahead, according to David Doermann, a computer scientist who led an effort at the Defense Advanced Research Projects Agency to respond to the national security threats posed by AI ..."
+    publishedDateTime: 2023-11-28T16:58:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-fake-babies-real-horror-deepfakes-from-the-gaza-war-increase-fears-about-ais-power-to-mislead/"
+    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-fake-babies-real-horror-deepfakes-from-the-gaza-war-increase-fears-about-ais-power-to-mislead/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-fake-babies-real-horror-deepfakes-from-the-gaza-war-increase-fears-about-ais-power-to-mislead/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 26
+
 secured: "grS/0Kexow+9jZzzWksE8P4JOKNMYHrJpRk5anH0FdNLvBEUVPOOGswlA6PGs+wlNSxDtFhR3dPOUSzitBbZR2uzIM5zIhWxfV8yAPnWzYz/D1cm/yV5vI2VxObn9tKybpGHOcOrhSzNgSI0TKE3iJIc4JyJnwGcvebYIxpkSygdMGmb/MdmB/G2hloNTyIyRHqoCk6Tc2wItLceK55gahntGsAI86ecoLy4QTpz1lX+MxtIfZLDAh8yn3OpI82dzI/d0qOuDYF5vaZGq4LSlELBYpn4PEwaHtGsmfzW6BPGSU4+QRCB2Jd04s7HtxYXTKqi6F7KoxvfhV9eKyL5bX0CvmQDwmNdBLd/WvA/v7w=;0CcRznpD0g4waH0cgxFIrQ=="
 ---
 

@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Impact of Artificial Intelligence on the Legal Industry: A Paradigm Shift"
+    excerpt: "Introduction The traditional structure of law firms, characterized by a pyramid model with a few partners overseeing a larger group of junior lawyers, is on the brink of obsolescence due to the advent of artificial intelligence (AI)."
+    publishedDateTime: 2023-11-27T15:39:00Z
+    webUrl: "https://www.jdjournal.com/2023/11/27/the-impact-of-artificial-intelligence-on-the-legal-industry-a-paradigm-shift/"
+    type: article
+    provider:
+      name: Legal News
+      domain: jdjournal.com
+    quality: 34
+    images:
+      - url: "https://d1ew8vst3yq0j8.cloudfront.net/wp-content/uploads/2023/11/AI-for-lawyers-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "The AI industry must make sure that important communities aren’t left behind | Opinion"
     excerpt: "The age of AI has begun. But as artificial intelligence (AI) continues to scale across industries and functions, it is imperative that marginalized and underrepresented communities are afforded the opportunity to thrive in the age of AI, and not get left behind."
     publishedDateTime: 2023-11-24T12:30:00Z
