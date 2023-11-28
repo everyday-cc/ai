@@ -1,34 +1,44 @@
 ---
 category: news
-title: "Application modernization overview"
-excerpt: "Application modernization is the process of updating legacy applications leveraging modern technologies. Learn more in this post.\nThe post Application modernization overview appeared first on IBM Blog.\n"
-publishedDateTime: 2023-11-25T00:00:00Z
-originalUrl: "https://www.ibm.com/blog/application-modernization-overview/"
-webUrl: "https://www.ibm.com/blog/application-modernization-overview/"
+title: "Africa: A torchbearer in AI innovation and application"
+excerpt: "Africa is not just ready to join the AI conversation, it is poised to lead it says Kerushan Govender, founder and CEO of"
+publishedDateTime: 2023-11-28T08:53:00Z
+originalUrl: "https://www.bizcommunity.com/Article/196/16/244152.html"
+webUrl: "https://www.bizcommunity.com/Article/196/16/244152.html"
 type: article
-quality: 104
-heat: 144
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: IBM
-  domain: ibm.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Bizcommunity
+  domain: bizcommunity.com
 
 topics:
-  - IBM AI
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://www.ibm.com/blog/wp-content/uploads/2023/11/Screenshot-2023-11-22-at-12.03.16%E2%80%AFPM.png"
-    width: 1180
-    height: 912
+  - url: "https://biz-file.com/c/2306/703882-1200x624.jpg?5"
+    width: 1200
+    height: 624
     isCached: true
 
 related:
+  - title: "Application modernization overview"
+    excerpt: "Application modernization is the process of updating legacy applications leveraging modern technologies. Learn more in this post.\nThe post Application modernization overview appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-25T00:00:00Z
+    webUrl: "https://www.ibm.com/blog/application-modernization-overview/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 104
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/11/Screenshot-2023-11-22-at-12.03.16%E2%80%AFPM.png"
+        width: 1180
+        height: 912
+        isCached: true
   - title: "Voice no voters back simple recognition, want more action on reconciliation"
     excerpt: "A national vote on constitutional recognition of Aboriginal and Torres Strait Islander people that didn’t include the Voice to Parliament would likely have succeeded, a new study of voter attitudes reveals."
     publishedDateTime: 2023-11-27T11:00:00Z
@@ -44,20 +54,6 @@ related:
       - url: "https://images.thewest.com.au/publication/C-12695067/700171f8aca183959447f9ce382c8da57e129c8f-16x9-x0y59w800h450.jpg?imwidth=1200"
         width: 800
         height: 450
-        isCached: true
-  - title: "Africa: A torchbearer in AI innovation and application"
-    excerpt: "Africa is not just ready to join the AI conversation, it is poised to lead it says Kerushan Govender, founder and CEO of"
-    publishedDateTime: 2023-11-28T08:53:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/16/244152.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 39
-    images:
-      - url: "https://biz-file.com/c/2306/703882-1200x624.jpg?5"
-        width: 1200
-        height: 624
         isCached: true
   - title: "Precisely Expands AWS Mainframe Modernization Data Replication With Support for IBM i Systems"
     excerpt: "Precisely, a global leader in data integrity, today announced at AWS re:Invent 2023 that it is working with Amazon Web Services (AWS) to expand AWS Mainframe Modernization Data Replication with Precisely. Customers will now have a capability to replicate IBM i series data to the AWS Cloud in near real-time."
@@ -78,6 +74,6 @@ related:
       domain: businesswire.com
     quality: 23
 
-secured: "+cNOLiOqtyIetYbJAaYaKEscjNNrIkRxzf9XrECOisZQLqW6GwH6WS88fDP4rupNUTpqacbJOIh+AoZ/aBMK9h8KQeD9lzruU0JUzK1deEJAPKywXGT1A4wogJnQMeqaKrKlyZ1PTd9Gifxc9T81gESaluk/UWortswAGUDYm7OvdJBkuNqn0s3alRAw7jUtIR/X7Siay5LiVfrqqSYH6BQJxlmfYjltS5kLAAt80yBvJhpwYoUI3uRAiCTjDKpfpSkiFF4JUDbbW5iUJXs+z3CABGfBlrNolfvINoI9er1XwAg9h/C05P1CAeBZSeqwj4vW6JmvHigQEfs1OhTcx6tzIv3BM9eAtvJ2v4b7BbU=;JmMN/YCQvicKy/8LmEinBw=="
+secured: "g728kRWbUMWQHIrVIItDEUbN0MexSbyl+3EgaKduY3w31oVHojlBHZguj0ntjJl1XqwZCOCIC8omg5Vdm2aNlfn7RGgri2ISBnXRWqQ156rwFiECSqZxkhbjTc/xQyhzIwUYv4X41+t+SUMWWHaSy1IG4b6lY+EOFXKTKlFioV5XqbcsuIVwzChGcayfHRdXaWj+jjTcKQ6HKesmZdI72vnOP9AmTcrrCuLhFwmOUKVRH4IUudfEOzPCrjBXNnDTXg5gyn6LUu/uW9D+OdZ3lM1RbQujBEF6qDlXUToP3TzIqioxKaILPbK+NQmXyEVS4ZSlO6QGJtWgR18wkBWW9s83evIeh4yzV2uUQLI+cdA=;9B+dCDEFGevANuqWNAVBKQ=="
 ---
 

@@ -50,6 +50,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Exclusive: Amazon AWS aims to outshine Microsoft with Gen AI offerings at Re:Invent"
+    excerpt: "Swami Sivasubramanian, Amazon AWS’s vice president of Data and AI, gave VentureBeat a preview of what to expect from AWS' keynotes, including building Bedrock apps in less than a minute, more LLM choice,"
+    publishedDateTime: 2023-11-28T07:38:00Z
+    webUrl: "https://venturebeat.com/ai/exclusive-amazon-aws-aims-to-outshine-microsoft-with-gen-ai-offerings-at-reinvent/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/create_an_image_for_a_tech_news_article_titled__Amazon_AWS_aims_to_outshine_Microsoft_with_Gen_AI_offerings_at_Re_Invent_sneak_peek-e1701155872114.png?w=1200&strip=all"
+        width: 1013
+        height: 481
+        isCached: true
   - title: "How AI Is Transforming Leasing, Security And Resident Services"
     excerpt: "Check out Benzinga's favorite private market real estate offerings and start collecting your share of the rental income. From leasing and security to enhanced resident services, artificial intelligence (AI) can help property managers improve their ..."
     publishedDateTime: 2023-11-24T11:01:00Z

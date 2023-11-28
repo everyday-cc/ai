@@ -55,20 +55,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Google Expands Bard's Understanding Of YouTube Videos"
-    excerpt: "Google Bard gets a new YouTube extension to make it smarter than before. Wikimedia Commons Google has updated Bard's YouTube extension, making its widely popular AI-powered chatbot smarter than ..."
-    publishedDateTime: 2023-11-23T08:19:00Z
-    webUrl: "https://www.ibtimes.co.uk/google-expands-bards-understanding-youtube-videos-1721775"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 24
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1719632/google-bard.jpg"
-        width: 2048
-        height: 1294
-        isCached: true
   - title: "Too Lazy To Watch YouTube Videos? Google Bard Can Now Do It For You And Answer Your Questions"
     excerpt: "Google Bard has received a new update that adds the ability to ask questions about YouTube videos. Google is rolling out this feature as a YouTube extension within Bard. What Happened: Alphabet ..."
     publishedDateTime: 2023-11-26T00:00:00Z

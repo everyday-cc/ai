@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Tech firm uses a brace of generative AI tools to slash content production times"
-excerpt: "The company, which makes a secure platform for file sharing, file transfers and email, uses a suite of generative AI platforms for everything from email marketing to sales training. Executives estimate they’ve realized 10-fold efficiency improvements while doubling inbound search traffic and generating a record volume of sales leads."
-publishedDateTime: 2023-11-26T01:22:00Z
-originalUrl: "https://siliconangle.com/2023/11/24/tech-firm-uses-brace-generative-ai-tools-slash-content-production-times/"
-webUrl: "https://siliconangle.com/2023/11/24/tech-firm-uses-brace-generative-ai-tools-slash-content-production-times/"
+title: "Exclusive: Amazon AWS aims to outshine Microsoft with Gen AI offerings at Re:Invent"
+excerpt: "Swami Sivasubramanian, Amazon AWS’s vice president of Data and AI, gave VentureBeat a preview of what to expect from AWS' keynotes, including building Bedrock apps in less than a minute, more LLM choice,"
+publishedDateTime: 2023-11-28T07:38:00Z
+originalUrl: "https://venturebeat.com/ai/exclusive-amazon-aws-aims-to-outshine-microsoft-with-gen-ai-offerings-at-reinvent/"
+webUrl: "https://venturebeat.com/ai/exclusive-amazon-aws-aims-to-outshine-microsoft-with-gen-ai-offerings-at-reinvent/"
 type: article
-quality: 35
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
+  - AI Hardware
   - AI
+  - AWS AI
+  - Microsoft AI
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ezgif.com-webp-to-jpg-1.jpg"
-    width: 1024
-    height: 764
+  - url: "https://venturebeat.com/wp-content/uploads/2023/11/create_an_image_for_a_tech_news_article_titled__Amazon_AWS_aims_to_outshine_Microsoft_with_Gen_AI_offerings_at_Re_Invent_sneak_peek-e1701155872114.png?w=1200&strip=all"
+    width: 1013
+    height: 481
     isCached: true
 
 related:
@@ -49,20 +55,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6564b3caa2f7513e30cdb0a1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
-        isCached: true
-  - title: "Exclusive: Amazon AWS aims to outshine Microsoft with Gen AI offerings at Re:Invent"
-    excerpt: "Swami Sivasubramanian, Amazon AWS’s vice president of Data and AI, gave VentureBeat a preview of what to expect from AWS' keynotes, including building Bedrock apps in less than a minute, more LLM choice,"
-    publishedDateTime: 2023-11-28T07:38:00Z
-    webUrl: "https://venturebeat.com/ai/exclusive-amazon-aws-aims-to-outshine-microsoft-with-gen-ai-offerings-at-reinvent/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/11/create_an_image_for_a_tech_news_article_titled__Amazon_AWS_aims_to_outshine_Microsoft_with_Gen_AI_offerings_at_Re_Invent_sneak_peek-e1701155872114.png?w=1200&strip=all"
-        width: 1013
-        height: 481
         isCached: true
   - title: "How AI Is Transforming Leasing, Security And Resident Services"
     excerpt: "Check out Benzinga's favorite private market real estate offerings and start collecting your share of the rental income. From leasing and security to enhanced resident services, artificial intelligence (AI) can help property managers improve their ..."
@@ -168,6 +160,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Tech firm uses a brace of generative AI tools to slash content production times"
+    excerpt: "The company, which makes a secure platform for file sharing, file transfers and email, uses a suite of generative AI platforms for everything from email marketing to sales training. Executives estimate they’ve realized 10-fold efficiency improvements while doubling inbound search traffic and generating a record volume of sales leads."
+    publishedDateTime: 2023-11-26T01:22:00Z
+    webUrl: "https://siliconangle.com/2023/11/24/tech-firm-uses-brace-generative-ai-tools-slash-content-production-times/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/ezgif.com-webp-to-jpg-1.jpg"
+        width: 1024
+        height: 764
+        isCached: true
   - title: "Exclusive Q&A: Ahead of re:Invent, AWS chief Adam Selipsky lays out a broad AI strategy"
     excerpt: "As Amazon Web Services Chief Executive Adam Selipsky prepares for his third re:Invent conference, it’s no surprise that artificial intelligence dominates his thinking."
     publishedDateTime: 2023-11-27T19:00:00Z
@@ -205,6 +211,6 @@ related:
       domain: channelvisionmag.com
     quality: 19
 
-secured: "S6YoqQfGaCIBJbZUp1e1lhbqQWvMaW+qeWBvbWIiK58Qh2voKjrMFCO6fXC/aIgl+5Vx/ZAPw7QYxLQhvgfVBaaeXz0+whZ3nVDTnnJbcgpsi6lX1VzIhKo6jYL10SWDnrin1wOteXaVp9gfm02QcSyNm1eyBq5ANdvjSHGmivM1n2IEFNyj+gTR/fYqa7pj0T0FAs8rozLYGOB+4Tg0yKFSSYXP4dbFCfRbdjP/52SX5kf0q0aVtDB1vw0Uqg72LUXkBGmX0vXedyB1b84TwWRkj24X6bfIGy0S6MC9xszK7drcICyiydUdPbVQna8oaWUUXBbGsABWAY+PdkaWjE8DD4SK1CXmQhXtDbKH180=;QKmVi4/AKY3aDtrO1jxAhA=="
+secured: "8joK/+DpaPRkk8qlcNerM/cXMjAeTcyqUzctSSWl1JoNtmBT2i8nXLNzqM1aJhTWBkBvwAV/Tfa+BuL6UAcJx0lJxgYXWma0U2eLqjN9iCchAsgzbTYXXR6CnN5P2HzPD918eZaKNF+y0pVvqvxYPuYilWDwD/jv1PTf5/6tUtoAU0kBP0BfH0jLmws83JEbpkF/VAfh+djwYAqZLUeUtfyRy/Z6R/ZNUCAyKdtySeEG4Zrql3z6t21bKVYf0fD7TxhjCLJb03lYUvecKqN7P4zba3DYPpXCf/v+H9Y1Ymy5nwwua2j5NS/sDYMVi8PXfHOXkntBCga69lmlTwylybFJq2NascU3gcAfUyVK0LA=;VmehSo8jxNfvuRlqKl+STw=="
 ---
 

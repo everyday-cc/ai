@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/security-solutions-and-consulting-service
 webUrl: "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/"
 type: article
 quality: 120
-heat: 250
+heat: 260
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6564b3caa2f7513e30cdb0a1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
+        isCached: true
+  - title: "Exclusive: Amazon AWS aims to outshine Microsoft with Gen AI offerings at Re:Invent"
+    excerpt: "Swami Sivasubramanian, Amazon AWS’s vice president of Data and AI, gave VentureBeat a preview of what to expect from AWS' keynotes, including building Bedrock apps in less than a minute, more LLM choice,"
+    publishedDateTime: 2023-11-28T07:38:00Z
+    webUrl: "https://venturebeat.com/ai/exclusive-amazon-aws-aims-to-outshine-microsoft-with-gen-ai-offerings-at-reinvent/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/11/create_an_image_for_a_tech_news_article_titled__Amazon_AWS_aims_to_outshine_Microsoft_with_Gen_AI_offerings_at_Re_Invent_sneak_peek-e1701155872114.png?w=1200&strip=all"
+        width: 1013
+        height: 481
         isCached: true
   - title: "How AI Is Transforming Leasing, Security And Resident Services"
     excerpt: "Check out Benzinga's favorite private market real estate offerings and start collecting your share of the rental income. From leasing and security to enhanced resident services, artificial intelligence (AI) can help property managers improve their ..."
@@ -196,6 +210,6 @@ related:
       domain: channelvisionmag.com
     quality: 19
 
-secured: "IdLs+1XgloCZY+CV7o7r6reH6aUiM27LFzEfI6oXEf/oQccCVYntW9nY53PKAVtAQ68R2cdI1FBnGXZaJsV1bbbJpjssFJYACS95+uRYISGMpLq/jAd29DFDheK4HlKr8wDrEcme7gp/viLMYHYJZWbfako/DXGFUnSankcmZiy9BoK2/rhdYJ0oG20PhIPw45DZf/ZbKP+cAxoc6U1UPfldUj4/11V0b/TorxkLVn4MXWnDhYJHDZ3JHnJxpVzRsd68RjStUo4DV5KISmsuGhR+xBGV9hf20ZjMcVz+rxzIJt5Grqcv5BYZpqi+bhFvG3Glf+qQRrp3e7+z+S8GcKRjjIB30VAvmaCwTHtCo8Y=;tbDq2o+yGeaBkQcstq/UfA=="
+secured: "OG24qVmTC7zEeKqKr5n6maOu1ZpL5FndCraXAHQ1d+xwUxewaEwO9RM53yx4sseKLNJadYG/jNCxUDjj0eph1nwmOUavrBZcqs2jSvIATkYWYJdZmkb6jt+bFIvmOuDUPtYFHe1CxIKiXchGPkY456DBQLEqZjg5nQNpvak8T0T/GSqMlQWn2Igwnktn//NCqRvt/T63RofpRXheTLbS7a7nI43V0SDA+RmWqDw4O52MbbTVyboyaCV7ue15qC1vhM/6b7pB1L3kqYU1XhIGTZj4DYytyigr3+h2ggkH+x0iVOVEovb0hkN7/h/iaOi8TXiF50bvlZ93SaNzIhlpbYpvnPvexkJ08qIjVikHvtk=;RnWI3VoK+Utm9PS3qcgv0Q=="
 ---
 

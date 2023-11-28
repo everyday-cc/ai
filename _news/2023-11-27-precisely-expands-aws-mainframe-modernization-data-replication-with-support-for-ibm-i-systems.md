@@ -49,6 +49,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Africa: A torchbearer in AI innovation and application"
+    excerpt: "Africa is not just ready to join the AI conversation, it is poised to lead it says Kerushan Govender, founder and CEO of"
+    publishedDateTime: 2023-11-28T08:53:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/16/244152.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 39
+    images:
+      - url: "https://biz-file.com/c/2306/703882-1200x624.jpg?5"
+        width: 1200
+        height: 624
+        isCached: true
   - title: "Precisely Expands AWS Mainframe Modernization Data Replication With Support for IBM i Systems"
     excerpt: "Precisely, a global leader in data integrity, announces expansion of AWS Mainframe Modernization Data Replication with support for IBM i systems."
     publishedDateTime: 2023-11-27T18:00:00Z

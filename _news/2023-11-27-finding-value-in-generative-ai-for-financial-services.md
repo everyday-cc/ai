@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/11/26/1083841/finding-value-in
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://cdn.wamda.com/feature-images/bea41bf41903664.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Navigating the AI Minefield in Financial Fraud Battles"
+    excerpt: "Delve into the complex world of financial fraud, AI advancements, and cybersecurity challenges, with insights from Anna Convery from Jumio."
+    publishedDateTime: 2023-11-28T08:50:00Z
+    webUrl: "https://fintechnews.sg/80719/ai/navigating-the-ai-minefield-in-financial-fraud-battles/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 39
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Navigating-the-AI-Minefield-in-Financial-Fraud-Battle.jpg"
+        width: 1024
+        height: 567
         isCached: true
   - title: "Governor’s Office issues initial generative artificial intelligence report on Tuesday"
     excerpt: "On Tuesday, the Governor's Office released a report about the emerging possibilities and potential pitfalls of generative artificial intelligence."

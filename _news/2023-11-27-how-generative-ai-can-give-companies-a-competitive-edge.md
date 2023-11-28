@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Navigating the AI Minefield in Financial Fraud Battles"
+    excerpt: "Delve into the complex world of financial fraud, AI advancements, and cybersecurity challenges, with insights from Anna Convery from Jumio."
+    publishedDateTime: 2023-11-28T08:50:00Z
+    webUrl: "https://fintechnews.sg/80719/ai/navigating-the-ai-minefield-in-financial-fraud-battles/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 39
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Navigating-the-AI-Minefield-in-Financial-Fraud-Battle.jpg"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Governor’s Office issues initial generative artificial intelligence report on Tuesday"
     excerpt: "On Tuesday, the Governor's Office released a report about the emerging possibilities and potential pitfalls of generative artificial intelligence."
     publishedDateTime: 2023-11-24T01:43:00Z

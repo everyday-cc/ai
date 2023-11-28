@@ -56,6 +56,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Navigating the AI Minefield in Financial Fraud Battles"
+    excerpt: "Delve into the complex world of financial fraud, AI advancements, and cybersecurity challenges, with insights from Anna Convery from Jumio."
+    publishedDateTime: 2023-11-28T08:50:00Z
+    webUrl: "https://fintechnews.sg/80719/ai/navigating-the-ai-minefield-in-financial-fraud-battles/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 39
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Navigating-the-AI-Minefield-in-Financial-Fraud-Battle.jpg"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Nearly 80% of British teenagers have used generative AI"
     excerpt: "Almost four in five British teenagers have used generative AI tools and services, according to the media watchdog, underscoring the rapid adoption of the fast-evolving technology among a new generation of internet users."
     publishedDateTime: 2023-11-28T00:01:00Z

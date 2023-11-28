@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2023/11/24/embedded-smart-cameras-market-e
 webUrl: "https://www.fmiblog.com/2023/11/24/embedded-smart-cameras-market-eyes-a-robust-34-2-cagr-journey-to-us-124725-1-million-by-2033/"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -25,38 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Global Educational Robots Market Expected to Reach $5 Billion by 2032"
-    excerpt: "The global educational robots market is poised for remarkable growth, with projections indicating a substantial increase in market value over the next decade. According to the latest report by Future Market Insights (FMI),"
-    publishedDateTime: 2023-11-23T12:17:00Z
-    webUrl: "https://www.fmiblog.com/2023/11/23/global-educational-robots-market-expected-to-reach-5-billion-by-2032/"
+  - title: "Industrial Machine Vision Market Sees a Bright Future: Projected 6.9% CAGR Targets US$ 16.46 Billion by 2032"
+    excerpt: "The industrial machine vision market refers to the use of advanced vision systems and technologies in various industrial applications. Machine vision systems utilize cameras, sensors, and image processing algorithms to automate inspection,"
+    publishedDateTime: 2023-11-27T01:58:00Z
+    webUrl: "https://www.fmiblog.com/2023/11/27/industrial-machine-vision-market-sees-a-bright-future-projected-6-9-cagr-targets-us-16-46-billion-by-2032/"
     type: article
     provider:
       name: Future Market Insights
       domain: fmiblog.com
-    quality: 39
+    quality: 5
     images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/11/Education-4-1.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/11/Industrial-Machine-Vision-Market.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Automotive Robotics Market Size is Expected to Reach USD 17,207 Million Growing at a CAGR of 13.15% by 2030: Straits Research"
-    excerpt: "Automation is delegating previously human-performed tasks to machines to increase productivity, reduce human error, and facilitate the organization of"
-    publishedDateTime: 2023-11-27T16:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35964830/automotive-robotics-market-size-is-expected-to-reach-usd-17-207-million-growing-at-a-cagr-of-13-15"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
-  - title: "Global Artificial Ventilation and Anaesthesia Masks Industry Projects 5.0% CAGR, Scaling to US$3.9 Billion in 2032 | FMI"
-    excerpt: "In 2021, the Global Artificial Ventilation and Anaesthesia Masks Industry was on track to reach a valuation of US$ 2.3 billion. Anticipated Market Growth: By the end of 2032, the market for artificial ventilation and anaesthesia masks is expected to soar to approximately US$ 3."
-    publishedDateTime: 2023-11-23T13:16:00Z
-    webUrl: "https://www.fmiblog.com/2023/11/23/global-artificial-ventilation-and-anaesthesia-masks-industry-projects-5-0-cagr-scaling-to-us3-9-billion-in-2032-fmi/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "WkjuKdrWjCcCK+btBivX73MAPvcvS0HQsAwPCOrdE3+2QH7kxpgYFl9BbQuefonZRPu3J8yhQ+4v/XEM5Oq/H/xbyGAiiKC8YAZEZRFRUMw3NM2wrVsErqhnLwREAJl3T6YG4lqSKISHmeCK+bDW24BoWbdg11Ac3aI291MCQ70/AfE0TEMjRCeUnsDhfHj6c7Mu8TG5IOKnckfBwciJXdrnGg3dr27g6r73+y2kLaqDEukmUN1YzybTxGmKMARJqnwz4YgEIPt42bnUUxyIwSGOhlhLsIdnX7arjtu+7nbtC2Fv6uCYbe2j7WfIKsgxjBjlTiDJNc3aWs2RoMEXBlRf/Xye9OW2R0E/Hq3oWy07duu0GT+VrJmydPhN8n3Y8KFAGARPCzoXFeFEg2E4qVQTD4xKPi1FR2gXCYMu7O6v7V7eMhs7hoWXTyFctbYhVgw7cLYQPDm+QbZBnDJI0pSDOYlZ+fOh4Ct/f5uLl3/gJv7bhcEnNisu/eUFCdBDQIQ0962ATwCox8boPA1wqw==;WCGjGdVZL6K/x8LDRl1jgA=="
 ---

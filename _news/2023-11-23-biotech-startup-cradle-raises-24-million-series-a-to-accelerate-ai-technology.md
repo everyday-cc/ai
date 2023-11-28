@@ -18,15 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "RegTech Startup Aptus.AI Secures $3.3m in Pre-Series A Funding"
-    excerpt: "RegTech startup Aptus.AI has announced raising €3 million ($3.3 million) in a pre-Series A funding round anchored by Programma 103 under VC P101 Sgr."
-    publishedDateTime: 2023-11-25T04:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/11/216911-regtech-startup-aptus-ai-secures-3-3m-in-pre-series-a-funding/"
+  - title: "Cradle uses generative AI to design proteins more efficiently. See the 17-slide deck it used to secure $24 million from Index Ventures."
+    excerpt: "The Dutch startup's aim is to help scientists design proteins more quickly than the industry standard, with its AI-based software."
+    publishedDateTime: 2023-11-28T08:00:00Z
+    webUrl: "https://www.businessinsider.com/cradle-pitch-deck-ai-startup-secures-24-million-series-a"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 17
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: "https://i.insider.com/6564b248fe5bc6545ebc57dd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "SGXSvGIciRYkdtZ/DMuoojuetmxn63N1ZUaFQBC+gOQF8SInbbE+RIY8ng9QNarh0vIunLPz6ZrA/buC3ee/yVFZeZdKiuzdWfE+bLfc373WuNTlZRfKhbZAUDAj2arZnkSYM2NGBQ9Hqmm7u7987vpNrCI9XT//a2X16PRWRy34/4Y6k6lB9XhFi9KtbF78YdNuMmq6oqJKG7e80wuvzINBrb8jKa5r+mDRyajmGijZPOkoi2o6DTfF9uD1lWnUvbc8lI4/EjgTmbN+2USFyoYMo89Oa3uVQu1XzM0PMSk6lDR85PEBGTDjSqq9+inywMgFFHr/OZxDkGS6fi8zlXIpXc4baB2WMXL4UTU+1tT2th01Lm4HGwLz9pH+H6r9SG+827DwiinxSJFmhxF+C2Eo8Ld/dEU8zjXYXpZTCEDI/PitxhK3fmpFaxwbqA93EzvFrWQg5+FVTG4oeooj4M47ASBYCdCbIpgmdHiFuDlZB1UpBna/yfD29QUm/1D0/GOf8HoJwZUdHKGnPGO6uA==;k3HoREzvjy/SYhsRFbyy3g=="
 ---
