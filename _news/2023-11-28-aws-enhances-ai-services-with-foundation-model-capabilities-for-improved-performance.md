@@ -53,6 +53,22 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Today in AI: SenseTime denies revenue inflation allegations, IndiGo launches AI chatbot, TCS partners with AWS"
+    excerpt: "Shares of SenseTime, a Chinese Artificial Intelligence (AI) company ... right solutions for their unique business needs and transform their organisations, using AWS’ services such as Amazon Bedrock. The TCS AWD GenAI practice will focus on using ..."
+    publishedDateTime: 2023-11-28T12:45:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-sensetime-denies-revenue-inflation-allegations-indigo-launches-ai-chatbot-tcs-partners-with-aws-11823381.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-sensetime-denies-revenue-inflation-allegations-indigo-launches-ai-chatbot-tcs-partners-with-aws-11823381.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-sensetime-denies-revenue-inflation-allegations-indigo-launches-ai-chatbot-tcs-partners-with-aws-11823381.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 54
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AWS Announces Three Serverless Innovations to Help Customers Analyze and Manage Data at Any Scale"
     excerpt: "AWS is also releasing a new Amazon Redshift Serverless capability that uses artificial intelligence (AI) to predict workloads and automatically scale and optimize resources to help customers meet their price-performance targets. These announcements build ..."
     publishedDateTime: 2023-11-27T23:51:00Z

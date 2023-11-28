@@ -54,6 +54,20 @@ related:
         width: 1847
         height: 1623
         isCached: true
+  - title: "The Future of AI and Outdoor Maintenance Technology"
+    excerpt: "An expert in autonomous mowing discusses why robotic mowing can improve efficiencies, reduce dependency on human labor and eliminate waste."
+    publishedDateTime: 2023-11-24T08:42:00Z
+    webUrl: "https://www.greenindustrypros.com/mowing-maintenance/mowing/article/22879763/electric-sheep-the-future-of-ai-and-outdoor-maintenance-technology"
+    type: article
+    provider:
+      name: Green Industry Pros
+      domain: greenindustrypros.com
+    quality: 39
+    images:
+      - url: "https://img.greenindustrypros.com/files/base/acbm/gip/image/2023/11/AdobeStock_288304009.655bb67fe2cda.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 632
+        isCached: true
 
 secured: "TKGiWKVZFSSHqJ1Bn6bMCeV5iOXb+tUNn4uCsuluMs2m7z3wnCXzxz0vjzkLomV46thLqAYGYJDgARnbChWyzPIrHGA9PjvWntQzH3wYuCAHpa2XROZVk4P8pwIL6GdsE3d1nPetLhGiqT4OZD5Rd3K50dZzaOMw43g081nfMmOTFTLPU2Wlkepv8cRENJNA5VF4bMvqQ1LSaZlDK5dO75DhfEYfLjQJWBT9CsXjxtg7EgiTcbuFM7e94GDVFhoJIDRkj+IcfN+it0VAccA0lg78/L4wBBMJC47iCMIW2+b6cBuQ7AusikkcbQYaDQnFFq+tHtoIIQ2StUSW3eIDlF0rEp60gZvPSFxAwYMF8NM=;oX4tacyZ9KmV4TJpL6cTTw=="
 ---

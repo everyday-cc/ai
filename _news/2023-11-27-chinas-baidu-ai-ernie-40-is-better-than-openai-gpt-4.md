@@ -149,20 +149,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 45
-  - title: "OpenAI researchers warned of powerful AI discovery before company chaos"
-    excerpt: "Some staff at ChatGPT creator believe breakthrough relates to startup’s search for what’s known as artificial general intelligence (AGI)"
-    publishedDateTime: 2023-11-23T12:39:00Z
-    webUrl: "https://www.aol.com/news/openai-researchers-warned-powerful-ai-103916487.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/41365508796aff005913473394bf365c"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "What the OpenAI drama means for AI progress — and safety"
     excerpt: "Stability AI and Cohere are other often-cited rivals. West notes that these start-ups rely heavily on the vast and expensive computing resources provided by just three companies — Google, Microsoft and Amazon — potentially creating a race for dominance ..."
     publishedDateTime: 2023-11-23T23:43:00Z

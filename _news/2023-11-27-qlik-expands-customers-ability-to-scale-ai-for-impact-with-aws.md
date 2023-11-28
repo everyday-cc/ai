@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/qlik-expands-custo
 webUrl: "https://markets.businessinsider.com/news/stocks/qlik-expands-customers-ability-to-scale-ai-for-impact-with-aws-1032851221"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Kyndryl Signs Agreement with AWS to Accelerate Customer Adoption of Generative AI Solutions"
+    excerpt: "Kyndryl Signs Agreement with AWS to Accelerate Customer Adoption of Generative AI Solutions - Kyndryl the world’s largest IT infrastructure services provider, announced a multi-year"
+    publishedDateTime: 2023-11-28T11:34:00Z
+    webUrl: "https://www.siliconindia.com/news/general/kyndryl-signs-agreement-with-aws-to-accelerate-customer-adoption-of-generative-ai-solutions-nid-226696-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 44
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/5C4c9g1R.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "IBM Collaborates with AWS to Launch a New Cloud Database Offering, Enabling Customers to Optimize Data Management for AI Workloads"
     excerpt: "Combines IBM Db2 database and Amazon RDS to help businesses manage data with flexibility, security, and scalability to help unlock greater value. ARMONK, N.Y., Nov. 27, 2023 /PRNe"
     publishedDateTime: 2023-11-27T20:53:00Z

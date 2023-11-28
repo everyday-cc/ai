@@ -128,20 +128,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "AI breakthrough that could threaten humanity might have been key to Sam Altman’s firing"
-    excerpt: "Current programs like AI are good at writing and language translation as they predict the next word. Answers to the same prompt might vary as a result. But with math, there can only be an answer. Once math is conquered, AI will have greater reasoning ..."
-    publishedDateTime: 2023-11-23T11:51:00Z
-    webUrl: "https://bgr.com/tech/ai-breakthrough-that-could-threaten-humanity-might-have-been-key-to-sam-altmans-firing/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 33
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/11/openai-devday-2023-chatgpt-1.jpg?quality=82&strip=all"
-        width: 1600
-        height: 817
-        isCached: true
   - title: "What does Sam Altman’s firing — and quick reinstatement — mean for the future of AI?"
     excerpt: "If you’re just catching up on the OpenAI saga and what’s at stake for the artificial intelligence space as a whole, you’ve come to the right place. Here’s a rundown of what you need to know."
     publishedDateTime: 2023-11-23T15:10:00Z

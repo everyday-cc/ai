@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-24-edge-compute-maker-simaai-hires-former-aws-exec-as-new-cbo-read-our-exclusive-interview.md",
+      "title": "Edge compute maker SIMA.ai hires former AWS exec as new CBO. Read our exclusive interview.",
+      "excerpt": "AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More San Jose-based edge computing startup SiMa.ai has made waves recently with the release of Palette Edgematic,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/edge-compute-maker-sima-ai-hires-former-aws-exec-as-new-cbo-read-our-exclusive-interview/",
+      "originalUrl": "https://venturebeat.com/ai/edge-compute-maker-sima-ai-hires-former-aws-exec-as-new-cbo-read-our-exclusive-interview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/Untitled-design-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T13:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-24-amazon-will-pay-you-25-to-stock-up-on-paper-towels-and-more-home-essentials-for-the-holidays.md",
+      "title": "Amazon will pay you $25 to stock up on paper towels and more home essentials for the holidays",
+      "excerpt": "You don't need a special coupon code or an Amazon Prime membership to get this deal. Just buy $100 worth of qualifying home goods, and you'll automatically get the $25 credit to spend on a later ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/amazon-proctor-and-gamble-bulk-essentials-sale/",
+      "originalUrl": "https://www.cbsnews.com/essentials/amazon-proctor-and-gamble-bulk-essentials-sale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/13/ccaf512f-3ea4-448b-916f-d1fe53919bc3/thumbnail/1200x630/d3d53d1687d8db0bad8221b4730fda2e/amazon-proctor-and-gamble-sale.jpg?v=5799c2de91a486f8a37c0b0f0daf468a",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-24T13:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-24-amazoncom-inc-amazon-web-services-to-launch-aws-european-sovereign-cloud.md",
       "title": "Amazon.com, Inc.: Amazon Web Services to Launch AWS European Sovereign Cloud",
       "excerpt": "0,000 0,000 24.10. AWS European Sovereign Cloud will be a new, independent cloud for Europe that gives customers in highly regulated industries and the public sector further choice and flexibility to address evolving data residency and resilience ...",

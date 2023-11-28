@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/ai-powered-robotics-exploring-the-latest-i
 webUrl: "https://techbullion.com/ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024/"
 type: article
 quality: 67
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Skyline Robotics Wins Fast Company Next Big Things in Tech Award"
+    excerpt: "Skyline Robotics' Next Big Things in Tech Award is the latest accolade for the company in 2023. The company has received PropTech Breakthrough Award for \"Construction Robotics Solution of the Year,\" a 2023 RBR50 Robotics Innovation Award in the Technology, Products and Services category, and was named to the 2023 BuiltWorlds Robotics 50 List."
+    publishedDateTime: 2023-11-28T12:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9923914.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "How OPPO uses robotics and AI to innovate in the smartphone space"
     excerpt: "OPPO hosted a \"Tech Insider\" event for journalists and creators that shows how the brand develops innovative tech through robotics and AI."
     publishedDateTime: 2023-11-26T11:37:00Z

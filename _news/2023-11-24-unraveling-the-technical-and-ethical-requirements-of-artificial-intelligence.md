@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/unraveling-the-technical-and-ethical-requi
 webUrl: "https://techbullion.com/unraveling-the-technical-and-ethical-requirements-of-artificial-intelligence/"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "TELUS expands reconciliation commitments to include AI in 5th annual TELUS Indigenous Reconciliation & Connectivity Report"
-    excerpt: "detailing how the company is on track or exceeding its reconciliation commitments and announcing a new goal to incorporate Indigenous perspectives into its data ethics and artificial intelligence (AI) strategy. The 2023 report features artwork by ..."
-    publishedDateTime: 2023-11-23T11:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/telus-expands-reconciliation-commitments-to-include-ai-in-5th-annual-telus-indigenous-reconciliation-connectivity-report-1032846324"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
 
 secured: "hMXaKwtVvUfTG7vr3n0gccghUduYQMV73YX+3cqeImA6TmkIwFNqCR0aSmfskYKqnyENgAzfe0uxpAtWLbJidb8sWfwz64f5TgPIS36DPLyyispcIkIyPguvFQ0GdK84eUPCAwVctRFohKtDTiN5FKQAFiBjz7KZ5+z/cqCjnt/5s6RiaAS2eODj5aOKKz8CC7zlbuaKTyjncWxkv1E6iG7HmoJhrvLEna/83CxpO5G0X1BBikR55xx3wnRMVPkt1pXcJlcCdo4uvYPXzNWPfyGADjjUP9iESevfuwJmbv3eGnF4e8MDa/eb0HII3N/ECDOlHyyOFYhG9QqscCTmUpBA2C452SlmbbDuVVVtZuwYA6/n3/ekUzJsYMg0joz9J94uENhqbhEBD+z/7KsttCnhM5NJ3K6Ny23B8xEgasfPoPdGdwa4cwCfucPrjrdif8cfc/AOGATSS320JHVAK76vp+71xxpTSI9ulAMB1KuTbSibOiqPmgkzqQ3+0kVkSRoXdlTMc/tZi6gM1AAjsg==;Xb05+nnhbK+cCzo2b0zZBQ=="
 ---

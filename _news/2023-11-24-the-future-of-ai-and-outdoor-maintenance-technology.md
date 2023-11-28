@@ -25,47 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Talks Expansion, Meteor Lake And The Importance Of AI On The PC."
-    excerpt: "Intel's new Fab 34 manufacturing facility in Ireland is where its Meteor Lake next generation processors will be made. The facility is hugely important"
-    publishedDateTime: 2023-11-23T11:51:00Z
-    webUrl: "https://www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/"
-    ampWebUrl: "https://www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/amp/"
+  - title: "What The Fight At Universities Reveals About The Future Of AI and Society"
+    excerpt: "The trouble at universities is a mirror of the trouble in society. AI can make it worse or fix it, depending on our collective choices."
+    publishedDateTime: 2023-11-24T16:31:00Z
+    webUrl: "https://www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-at-universities-reveals-about-the-future-of-ai-and-society/"
+    ampWebUrl: "https://www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-at-universities-reveals-about-the-future-of-ai-and-society/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-at-universities-reveals-about-the-future-of-ai-and-society/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 86
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655f3639923dbc4e3c593114/0x0.jpg?format=jpg&crop=2337,1316,x75,y335,safe&height=900&width=1600&fit=bounds"
-        width: 1598
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/656082929c619314f8c602ee/0x0.jpg?format=jpg&crop=3000,1686,x0,y155,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
         isCached: true
-  - title: "INRIX Intros Compass Intel with AI for Location Insights for Better Mobility on AWS"
-    excerpt: "Proactive Transportation Strategy: Merging historical and real-time data seamlessly, Compass provides in-depth insights integrated across INRIX’s robust INRIX IQ suite to help cities and businesses adopt smarter, safer, and more sustainable mobility strategies."
-    publishedDateTime: 2023-11-28T00:19:00Z
-    webUrl: "https://www.autoconnectedcar.com/2023/11/inrix-intros-compass-intel-with-ai-for-location-insights-for-better-mobility-on-aws/"
+  - title: "AI and the Rise of Mediocrity"
+    excerpt: "Read More: Pausing AI Developments Isn't Enough. We Need to Shut it All Down"
+    publishedDateTime: 2023-11-27T12:00:00Z
+    webUrl: "https://time.com/6337835/ai-mediocrity-essay/"
     type: article
     provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 48
+      name: Time
+      domain: time.com
+    quality: 67
     images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2023/11/INRIX_Compass_Brain-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://api.time.com/wp-content/uploads/2023/11/ai-mediocrity-sameness-illustration.jpg?quality=85"
+        width: 1847
+        height: 1623
         isCached: true
-  - title: "The implications of AI on human morality"
-    excerpt: "Mergan Velayudan, Acting CIO at MultiChoice Group, discusses the importance of human oversight when it comes to AI and ethics."
-    publishedDateTime: 2023-11-28T06:49:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
+  - title: "What Universal Music Group really thinks about generative AI and copyright law…"
+    excerpt: "MBW has digested UMG's revelatory 99-page submission to the US Copyright Office on generative AI. Here's what we've discovered."
+    publishedDateTime: 2023-11-23T18:48:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/what-universal-music-group-really-thinks-about-generative-ai-and-copyright-law/"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 33
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2023/11/MBW-REACTS_face-JKBX.jpg"
+        width: 1358
+        height: 768
+        isCached: true
 
 secured: "EyKjWhfFzlbcjuLYzndwvWsk2kEW37NihgkMWMmmz33StsRZLcHVnelgeIvFQvZalAtFYmBnBeUqpA9h9LewThN6KEGCssoybAqJH2NLo9ixCqnUeb8VLuw/p/bTew8BCa5rDFuKW1gVQsDjzeMPVHosZxV8LXxN2UQSjwz1rtGgxmYJisCiqvjWukU65Mmd39wqMVjC71wWW+6pu3t4DnI5QqKEWb5AU2X2dbKini/7q3/aZMeo9/vNNipeJCar6EC/I5wJsdE0+buOa24zj+nWtbAFoln6tx6930YkgSXavwAkdtFXKe1H5Y4Ab8RIAP6ueg3ywOpUDnfk3lm9D5SUoI0CuT19ffsI3nhvTvvIVBCmt1Ye5dAhDTIB9mG0xH7BbT3jEwCbG4DpTzHPGh1iYf5GXYjY6hVWz00fx7Hj6itZr7d2kIzVdgmeB2R5AIevbu1mafP1K1PtlXSlsj3+PwCjON9OMiDYWlgMxBHy0CHaP7sRqBe6530KyySV+5VoUmNuN96ot+AsfH59Nw==;wzSn+6AR2o+xZgwW97vPKw=="
 ---

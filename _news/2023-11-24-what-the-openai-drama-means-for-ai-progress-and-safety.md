@@ -148,20 +148,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 45
-  - title: "OpenAI researchers warned of powerful AI discovery before company chaos"
-    excerpt: "Some staff at ChatGPT creator believe breakthrough relates to startup’s search for what’s known as artificial general intelligence (AGI)"
-    publishedDateTime: 2023-11-23T12:39:00Z
-    webUrl: "https://www.aol.com/news/openai-researchers-warned-powerful-ai-103916487.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/41365508796aff005913473394bf365c"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "China’s Baidu AI Ernie 4.0 Is Better Than OpenAI GPT 4"
     excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
     publishedDateTime: 2023-11-27T12:09:00Z

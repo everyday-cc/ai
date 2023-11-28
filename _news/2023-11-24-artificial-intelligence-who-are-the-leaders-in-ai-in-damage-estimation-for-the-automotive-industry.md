@@ -7,7 +7,7 @@ originalUrl: "https://www.just-auto.com/data-insights/innovators-ai-ai-in-damage
 webUrl: "https://www.just-auto.com/data-insights/innovators-ai-ai-in-damage-estimation-automotive/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence: who are the leaders in fault monitoring AI for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is leveraging artificial intelligence (AI) for fault monitoring due to the increasing complexity of vehicles,"
-    publishedDateTime: 2023-11-24T12:41:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-fault-monitoring-ai-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_fault-monitoring-AI.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "The Impact of Artificial Intelligence on the Legal Industry: A Paradigm Shift"
     excerpt: "Introduction The traditional structure of law firms, characterized by a pyramid model with a few partners overseeing a larger group of junior lawyers, is on the brink of obsolescence due to the advent of artificial intelligence (AI)."
     publishedDateTime: 2023-11-27T15:39:00Z
@@ -150,15 +136,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Artificial intelligence: who are the leaders in moving obstacle prediction AI for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is advancing moving obstacle prediction AI due to growing demand for autonomous vehicles, advancements in LiDAR and camera sensor technology,"
-    publishedDateTime: 2023-11-24T12:54:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-moving-obstacle-prediction-ai-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 14
   - title: "Internet of Things: who are the leaders in object sensing radars for the automotive industry?"
     excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over one million patents, there are 300+ innovation areas that will shape the future of the industry."
     publishedDateTime: 2023-11-24T02:09:00Z

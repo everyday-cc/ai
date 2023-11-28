@@ -48,15 +48,6 @@ related:
       name: developingtelecoms.com
       domain: developingtelecoms.com
     quality: 34
-  - title: "TELUS expands reconciliation commitments to include AI in 5th annual TELUS Indigenous Reconciliation & Connectivity Report"
-    excerpt: "detailing how the company is on track or exceeding its reconciliation commitments and announcing a new goal to incorporate Indigenous perspectives into its data ethics and artificial intelligence (AI) strategy. The 2023 report features artwork by ..."
-    publishedDateTime: 2023-11-23T11:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/telus-expands-reconciliation-commitments-to-include-ai-in-5th-annual-telus-indigenous-reconciliation-connectivity-report-1032846324"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
 
 secured: "M6Jh+wx+KAhrD4W+/LgdeOV7Oj5Kr0XjM72grqyFWJLZT3DXNdV0m79o5aImO7G8UJkDiuwE/fNH744q5JJ2aIqXv6l0daoAVtbgwLHKjErXjuCkhMsYAQsMEtV17+b7yKo32CfuMxeMaEiZNqIlKhHZSyg/9reKMU+a3wM0dLhdyQkVz/JtyiL5FmvPNhGE+hBspxHOxZBocnaxSXdWZGIViujRchhKrcOXmxgwJDkvYzQv+i35h0M6/+qwmumfF4yPbCSuCZLQSqMYo0SakenB5R6la5HHqudwA5q5aaJSTFibL2huH8prhyWqS3M1nwU0H4jBRCyZwFlhRqftNk2Hk7OeTYSU71siBLLjdmhRI9TTK0sPfMQcq/V9RT0eYHh/3gfOQbVj8YyFrGJBUsZ3AAemCb+V70XC5DkJsbCcbJNNZr6K6QgD3/OsgCDGS9u96VQxiKpd7dWFljDbDYKBBYIq3Ovr3IfDje0+zNXsoM+BwFZumIm682PAQEurLCySa66Lk4G37H1aUwG2Mw==;cpElVQYUkmU/+eoVt32AsA=="
 ---

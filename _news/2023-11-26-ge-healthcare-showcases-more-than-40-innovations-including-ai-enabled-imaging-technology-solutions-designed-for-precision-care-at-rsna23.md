@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Smart Reporting to Showcase Integration of AI in Radiology Workflow at RSNA 2023"
-    excerpt: "Smart Reporting is thrilled to announce its participation in the upcoming Imaging Artificial Intelligence in Practice (IAIP) demonstration,"
-    publishedDateTime: 2023-11-23T12:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/smart-reporting-to-showcase-integration-of-ai-in-radiology-workflow-at-rsna-2023-1032845570"
+  - title: "AWAK Technologies Announces FDA Breakthrough Device Designation for their Artificial Intelligence Enabled Kidney Disease Prediction Tool"
+    excerpt: "AWAK Technologies (AWAK), a pioneering medical technology company developing a wearable dialysis product and other complementary solutions for chronic kidney disease (CKD)"
+    publishedDateTime: 2023-11-27T12:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/n35956474/awak-technologies-announces-fda-breakthrough-device-designation-for-their-artificial-intelligence-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35956474"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35956474"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/JWCf3hd96gY1gRkT5qBPAQm2QWo1/1700577207816-0.jpg"
-        width: 650
-        height: 412
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "sZc+lDtCJaVUvmfCAXkZfwYnFW5zl/TQlnHD41ui3imZHCXGRkIUIgO9QzQPwXYFp3gmdzDdSiPOJY7W9VAvw96CQ8qGTVhnQyt9Wb3GUcsXM2R77U4mHgti92eb4bz75RTUCGPYvkvXYmRLGq2tA/2DlYWbNO5JSfuA86xYmn1mAVgENwX6O3HNgaitY68qnS5SxKXVMGQ9oUibWl+9dBE6tR+XBDxR7N/ZqUfBu0sJxYPcyM2wcdcwvaFs7KsVVfC1sOv+fNG7Mr3EYKDGop3tI9JGoK3gTmdKp7iigRkzmsDiTD/omMrdsWX3Ad4cetgBPlrHtRL1bTaVJA0yZyWXMiaQFkDoQKK0jiE0ogE=;6Ad65Jybj1b1r4zMuOyzyw=="

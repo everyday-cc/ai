@@ -25,47 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Talks Expansion, Meteor Lake And The Importance Of AI On The PC."
-    excerpt: "Intel's new Fab 34 manufacturing facility in Ireland is where its Meteor Lake next generation processors will be made. The facility is hugely important"
-    publishedDateTime: 2023-11-23T11:51:00Z
-    webUrl: "https://www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/"
-    ampWebUrl: "https://www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/amp/"
+  - title: "Privacera AI Governance Integrates with AWS on Foundational Model Security"
+    excerpt: "Last month, Privacera announced the General Availability of Privacera AI Governance (PAIG), one of the industry's first comprehensive AI data governance solutions. Visit Privacera's website to request a demo on PAIG or to learn about generative AI Governance."
+    publishedDateTime: 2023-11-27T15:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates-with-aws-foundational-model-/2023/11/27/9923370.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655f3639923dbc4e3c593114/0x0.jpg?format=jpg&crop=2337,1316,x75,y335,safe&height=900&width=1600&fit=bounds"
-        width: 1598
-        height: 900
+      - url: "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg"
+        width: 266
+        height: 400
         isCached: true
-  - title: "The Future of AI and Outdoor Maintenance Technology"
-    excerpt: "An expert in autonomous mowing discusses why robotic mowing can improve efficiencies, reduce dependency on human labor and eliminate waste."
-    publishedDateTime: 2023-11-24T08:42:00Z
-    webUrl: "https://www.greenindustrypros.com/mowing-maintenance/mowing/article/22879763/electric-sheep-the-future-of-ai-and-outdoor-maintenance-technology"
+  - title: "Synopsys Partners with AMD, Intel, and Microsoft to Advance Generative AI in Semiconductor Industry"
+    excerpt: "This expands upon Synopsys’ recent announcement to deliver Synopsys.ai Copilot, the first in a series of GenAI capabilities for chip design. The integration of GenAI across the Synopsys.ai suite will provide chip designers with collaborative capabilities ..."
+    publishedDateTime: 2023-11-27T00:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/synopsys-partners-with-amd-intel-and-microsoft-to-advance-generative-ai-in-semiconductor-industry/"
     type: article
     provider:
-      name: Green Industry Pros
-      domain: greenindustrypros.com
-    quality: 39
-    images:
-      - url: "https://img.greenindustrypros.com/files/base/acbm/gip/image/2023/11/AdobeStock_288304009.655bb67fe2cda.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 632
-        isCached: true
-  - title: "The implications of AI on human morality"
-    excerpt: "Mergan Velayudan, Acting CIO at MultiChoice Group, discusses the importance of human oversight when it comes to AI and ethics."
-    publishedDateTime: 2023-11-28T06:49:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
+      name: datanami.com
+      domain: datanami.com
+    quality: 22
 
 secured: "9mrk8WHZFOslnH6ouwxnhZ2xnQPkF4vlYxvUFbsROU1hVnpGlnR9a1Ojjo4ohVwW/JGAR6YlUTW7oCFXcN+si9+t6pBhVd448UH1KbGdKh2ot5ZFpJBlUgDfvVa5+Yi0D1vMLS4ZtaxfRtuYvzRD3d6Yp6B0XYDgut9JJuoCVObTU6StJAnRFyVmEOCE4NrpQ6iBTZyhXUWMnjAjXXfKNodg7cMCVQJXYsoY+Lm271YXDhXlT+GmqmpoIR71wxU3IcqBO5FtkXOoj4/brMi54KeVWjyQqLbTgx1zwC4/ZbqyLrE0rQ+LMi8MrfVqxEcOJQzXZnZSRKG5vuIMaQUSAWGZJkdqMYzopOUp5ZXHWmC1hZp3YF0VFpqR/+ZmDwC7rBirb66/sdZfa+BxEA45TvGSf4M8+F5ERd8GW+wjMA5C6PTfEywQg7duCjOuIgGR6/wQ7yJvorJNmNb4DHXhmiiHuvHc4rPeC7KSQgenMdNKBSauA4GnHCgsPgYeXtvTsmGg4dQPRAQ8m98hA0zojg==;WFVug987RdGlitSLP9/XjA=="
 ---

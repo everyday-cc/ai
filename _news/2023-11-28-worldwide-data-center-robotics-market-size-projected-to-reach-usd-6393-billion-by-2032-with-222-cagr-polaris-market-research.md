@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Educational Robots Market Expected to Reach $5 Billion by 2032"
-    excerpt: "The global educational robots market is poised for remarkable growth, with projections indicating a substantial increase in market value over the next decade. According to the latest report by Future Market Insights (FMI),"
-    publishedDateTime: 2023-11-23T12:17:00Z
-    webUrl: "https://www.fmiblog.com/2023/11/23/global-educational-robots-market-expected-to-reach-5-billion-by-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 39
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/11/Education-4-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Automotive Robotics Market Size is Expected to Reach USD 17,207 Million Growing at a CAGR of 13.15% by 2030: Straits Research"
     excerpt: "Automation is delegating previously human-performed tasks to machines to increase productivity, reduce human error, and facilitate the organization of"
     publishedDateTime: 2023-11-27T16:49:00Z

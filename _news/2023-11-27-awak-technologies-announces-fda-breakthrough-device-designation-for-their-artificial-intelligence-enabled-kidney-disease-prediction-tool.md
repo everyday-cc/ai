@@ -26,6 +26,22 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "GE HealthCare Showcases More Than 40 Innovations, Including AI-Enabled Imaging Technology Solutions Designed for Precision Care at RSNA23"
+    excerpt: "GE HealthCare (Nasdaq: GEHC) will highlight more than 40 innovations, including several key artificial intelligence (AI)-enabled technologies within the Imaging, Ultrasound, and digital space at the Radiological Society of North America's (RSNA) 2023 Annual Meeting taking place Nov."
+    publishedDateTime: 2023-11-26T14:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ge-healthcare-showcases-more-than-40-innovations-including-/2023/11/26/9923072.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+
 secured: "guneAA0udDr8+FFORtTRHo0S9/VEfcu3F53Zky5USC6RP+mUW5NUt7GI1TSJPIog1oVuUGX7ReE0oHW77HSQ8YVYpU5dRZabII4vZjYdmBds6kzUJ8fc3qGfGMd22Hn2aLwy2hWPh82KLvnNOCdHhRtNLTuuJZ9Q8QIth7nPkhZNunkYc3228CPp8SdBer7CLqgISNpvcj/OTe7K7HN6+6dxkYoDiANg1tZWvymHxWsw0yTHK3xKf5JWqc7mgF1stW4Zrna27nz3OSh3yqcaj3pGi2ITvQrJO2hrYJqgFEfmTQpKuMbeQEdZ3Q7BhZSFjZhEgAy4zBrC+R4rJ0wwojLMo5l6H03wg1J8cKBeJW8=;JyZiHrHGBQvX0o0H9AJTdw=="
 ---
 

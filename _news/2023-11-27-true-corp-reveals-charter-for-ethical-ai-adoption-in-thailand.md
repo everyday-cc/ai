@@ -47,15 +47,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "TELUS expands reconciliation commitments to include AI in 5th annual TELUS Indigenous Reconciliation & Connectivity Report"
-    excerpt: "detailing how the company is on track or exceeding its reconciliation commitments and announcing a new goal to incorporate Indigenous perspectives into its data ethics and artificial intelligence (AI) strategy. The 2023 report features artwork by ..."
-    publishedDateTime: 2023-11-23T11:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/telus-expands-reconciliation-commitments-to-include-ai-in-5th-annual-telus-indigenous-reconciliation-connectivity-report-1032846324"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
 
 secured: "qvwgLFG+GjAXGzHPda0tFiRRAbmWtccZl3H1RiVo6U6RjrVxpwIr7FgnYyVDjxWBPIkf0eIuZxF1VaMpOfLQYPiy9qLlCeiIfDx7nbzmEAwVaMYX5JSvRVs4PbATfUPXi5Gpmd2Z8xCPkgFD6PgVuT/btnrzhMpMdxXL2/IUbL8/zcs678fesgV6I4bnJvpqjd1YQU3jRTI2RpdFBxxpxMEGjBOtrzAAj47wkoY9kikgc2cIkIGRXGJiq19WYy0V8gVxeMx4NnwzsQeOfQTfNIL8P0x4Tv4WVsbuALLi2aDVIgt9m8JVVQktDOKOim5N6blb5l+Fc7jCAJ5kegi5RAyaI6v29n6rmbVMfKYRPydw7hSt6lHttTz1NpIGkBqgllHNzVIskIXYUfvDKREXgsnKphnC6VNu39xA0AZvSoM++MBQhlHRPrgnY2uQswrDr6kXcR+YXaAatIp1tDr5LgVvB48hyVhjVH6GrTdQU03bwkC4XhHU9bxGw4sj3QkhpWo69OqiTIHqBSoHV8bu1g==;eKnDbs7P79ntcebLCRc/cQ=="
 ---

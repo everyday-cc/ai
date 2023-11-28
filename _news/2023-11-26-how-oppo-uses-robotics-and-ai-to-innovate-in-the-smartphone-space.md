@@ -33,6 +33,20 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Skyline Robotics Wins Fast Company Next Big Things in Tech Award"
+    excerpt: "Skyline Robotics' Next Big Things in Tech Award is the latest accolade for the company in 2023. The company has received PropTech Breakthrough Award for \"Construction Robotics Solution of the Year,\" a 2023 RBR50 Robotics Innovation Award in the Technology, Products and Services category, and was named to the 2023 BuiltWorlds Robotics 50 List."
+    publishedDateTime: 2023-11-28T12:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9923914.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Artificial Intelligence in the 90s: A Decade of Innovation and Challenges"
     excerpt: "Introduction: The 1990s marked a pivotal era for the development of Artificial Intelligence (AI), witnessing both unprecedented innovation and formidable challenges. As technology advanced, researchers and enthusiasts alike grappled with the possibilities and limitations of AI."
     publishedDateTime: 2023-11-24T11:53:00Z

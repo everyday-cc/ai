@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/guest-articles/guest-research/artificial-intell
 webUrl: "https://itwire.com/guest-articles/guest-research/artificial-intelligence,-sustainability-lead-data-centre-trends-in-2024.html"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 375
     height: 562
     isCached: true
+
+related:
+  - title: "MPU-Bell Centre of English Organizes AI Creative English Language Teaching Forum"
+    excerpt: "Entering its 21st year, the MPU-Bell Centre of English will continue to provide high-quality English training for local and mainland universities and schools, and offer a more diverse range of international English examination certifications, aiming to contribute to positioning Macao as a base for English training and international examinations."
+    publishedDateTime: 2023-11-28T11:53:00Z
+    webUrl: "https://www.gcs.gov.mo/detail/en/N23KbFkM7b"
+    type: article
+    provider:
+      name: 澳门特别行政区政府
+      domain: gcs.gov.mo
+    quality: 34
+    images:
+      - url: "https://www.gcs.gov.mo/fp/N23KbFkM7b_f20231128153713qAjI/m/"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "ViSJeebxIZcsKkSnCVhSX3qDszk6uT6ngIAqpJMo3K82OqJKxWsvBscapcCHH0Ffczv/5T5FDbDeZoxN7+D888pui5rwMZyEkuCNas6LISU3U/4ohgenHvduBd4edkFnlTrF4EZ8HWFCLCk9NQTlQyuLvuW0zYA0zzv6zy2F5yMqPTMTz/YxBziW+Q5BRwz+gfBb35J0ZXxHwnQwVWX25B9uvpbzZOPUuoY103aobdQUS6EB6ymqqrKDVeKZC3e7tqY33QDfe6S+whjvDhbhag47Yo+iJOAnfhQP17ohCxaC8b8O4sfKs/D//l4+S+T1t+YmCxTVeiIAHJz46fxbbvu2Eb16ttc1ZZgky0ArdQw=;aaYf8L5vMZLh9HfRrGxCug=="
 ---

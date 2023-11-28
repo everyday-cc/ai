@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates
 webUrl: "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates-with-aws-foundational-model-/2023/11/27/9923370.htm"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "INRIX Intros Compass Intel with AI for Location Insights for Better Mobility on AWS"
+    excerpt: "Proactive Transportation Strategy: Merging historical and real-time data seamlessly, Compass provides in-depth insights integrated across INRIX’s robust INRIX IQ suite to help cities and businesses adopt smarter, safer, and more sustainable mobility strategies."
+    publishedDateTime: 2023-11-28T00:19:00Z
+    webUrl: "https://www.autoconnectedcar.com/2023/11/inrix-intros-compass-intel-with-ai-for-location-insights-for-better-mobility-on-aws/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 48
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2023/11/INRIX_Compass_Brain-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Synopsys Partners with AMD, Intel, and Microsoft to Advance Generative AI in Semiconductor Industry"
     excerpt: "This expands upon Synopsys’ recent announcement to deliver Synopsys.ai Copilot, the first in a series of GenAI capabilities for chip design. The integration of GenAI across the Synopsys.ai suite will provide chip designers with collaborative capabilities ..."
     publishedDateTime: 2023-11-27T00:01:00Z

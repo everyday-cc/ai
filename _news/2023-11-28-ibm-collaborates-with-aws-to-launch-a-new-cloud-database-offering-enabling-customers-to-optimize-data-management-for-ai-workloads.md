@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Kyndryl Signs Agreement with AWS to Accelerate Customer Adoption of Generative AI Solutions"
+    excerpt: "Kyndryl Signs Agreement with AWS to Accelerate Customer Adoption of Generative AI Solutions - Kyndryl the world’s largest IT infrastructure services provider, announced a multi-year"
+    publishedDateTime: 2023-11-28T11:34:00Z
+    webUrl: "https://www.siliconindia.com/news/general/kyndryl-signs-agreement-with-aws-to-accelerate-customer-adoption-of-generative-ai-solutions-nid-226696-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 44
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/5C4c9g1R.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "Qu0GJXSvtxUcWEatZAZ9pJemwx8VMCAhL647zrAmfSY3ldQO9P0quvgrFuAWhIZamJhXYyycCNBJO5FOGJSV7rByyUtWQBVydnGSM0z3PCKBQJkDhwFeMtoFUwGrbQoJ1QsFAQNMnWtSsr0kQ8agQ83Jqe3dMAlGOxz3UynHBb2M4sEhj3nqP5IZJ67nH2Efs4D8yuNP+J5lgjN8wH2Lc0wPkcsjWEo3ykazWgUGE3oFnBlTScDsldxDjeKvfOy4c1uasgZuzxyi13MOL3x16VZWqxbdCXZS90hZV1LCM9zxhfPHqulPYmAmKGjy7VGJK63K/8VC9KR0N8HtbSNEwqAst33xjW4ddu2duQIhSvuNkkWcEa45S4gR2Q6J+264Teie/KdGq8pzHG3x76H1dIdViJXArDfgAPRX+AFbFrjyUV5oemFL/FSQbA+MLb3QxqWKI25dsvIoKS9A3E8VN1SgjQdPnmE3Gv88IIM1wVDvS6BwV7JMIZ3XkfdEdTESsIUzlJ3iPMovbk3eJhb8Eg==;SyFQSL+NDFGAoa7GcFf76g=="
 ---

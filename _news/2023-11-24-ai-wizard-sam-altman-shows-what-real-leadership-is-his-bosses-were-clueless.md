@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/simonconstable/2023/11/24/ai-wizard-sam
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonconstable/2023/11/24/ai-wizard-sam-altman-shows-what-real-leadership-is-his-bosses-were-clueless/amp/"
 type: article
 quality: 84
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -117,20 +117,6 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-13074.png"
         width: 600
         height: 400
-        isCached: true
-  - title: "AI breakthrough that could threaten humanity might have been key to Sam Altman’s firing"
-    excerpt: "Current programs like AI are good at writing and language translation as they predict the next word. Answers to the same prompt might vary as a result. But with math, there can only be an answer. Once math is conquered, AI will have greater reasoning ..."
-    publishedDateTime: 2023-11-23T11:51:00Z
-    webUrl: "https://bgr.com/tech/ai-breakthrough-that-could-threaten-humanity-might-have-been-key-to-sam-altmans-firing/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 33
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/11/openai-devday-2023-chatgpt-1.jpg?quality=82&strip=all"
-        width: 1600
-        height: 817
         isCached: true
   - title: "‘What If Sam Altman Was A Black Woman’ Debate About Bias In AI Engulfs Twitter"
     excerpt: "Following Sam Altman’s ouster from OpenAI many compared Altman's exit and return to the unceremonious firing of Dr. Timnit Gebru."

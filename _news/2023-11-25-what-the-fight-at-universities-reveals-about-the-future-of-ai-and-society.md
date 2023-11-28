@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nathanfurr1/2023/11/24/what-the-fight-at-universities-reveals-about-the-future-of-ai-and-society/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2023/11/ai-mediocrity-sameness-illustration.jpg?quality=85"
         width: 1847
         height: 1623
+        isCached: true
+  - title: "The Future of AI and Outdoor Maintenance Technology"
+    excerpt: "An expert in autonomous mowing discusses why robotic mowing can improve efficiencies, reduce dependency on human labor and eliminate waste."
+    publishedDateTime: 2023-11-24T08:42:00Z
+    webUrl: "https://www.greenindustrypros.com/mowing-maintenance/mowing/article/22879763/electric-sheep-the-future-of-ai-and-outdoor-maintenance-technology"
+    type: article
+    provider:
+      name: Green Industry Pros
+      domain: greenindustrypros.com
+    quality: 39
+    images:
+      - url: "https://img.greenindustrypros.com/files/base/acbm/gip/image/2023/11/AdobeStock_288304009.655bb67fe2cda.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 632
         isCached: true
   - title: "What Universal Music Group really thinks about generative AI and copyright law…"
     excerpt: "MBW has digested UMG's revelatory 99-page submission to the US Copyright Office on generative AI. Here's what we've discovered."

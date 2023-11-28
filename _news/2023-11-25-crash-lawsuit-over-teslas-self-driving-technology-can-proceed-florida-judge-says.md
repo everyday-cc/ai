@@ -74,6 +74,22 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "GM to reportedly slash self-driving unit funding"
+    excerpt: "General Motors will slash spending on its Cruise autonomous driving unit, the Financial Times reported Tuesday, citing people familiar with the matter. According to the report, the company will"
+    publishedDateTime: 2023-11-28T12:32:00Z
+    webUrl: "https://www.teletrader.com/gm-to-reportedly-slash-self-driving-unit-funding/news/details/61055345"
+    ampWebUrl: "https://www.teletrader.com/amp/news/details/61055345"
+    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/61055345"
+    type: article
+    provider:
+      name: teletrader.com
+      domain: teletrader.com
+    quality: 44
+    images:
+      - url: "https://cdn.ttweb.net/News/images/307180.jpg?preset=w800_q70"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Tesla starts releasing to employees FSD v12 – a critical update to self-driving effort"
     excerpt: "Tesla has started releasing to employees its FSD v12 update, which is apparently critical to Tesla’s achieving its self-driving"
     publishedDateTime: 2023-11-24T19:14:00Z

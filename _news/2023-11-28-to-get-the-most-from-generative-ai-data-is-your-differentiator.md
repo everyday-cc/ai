@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/sponsored/story/to-get-the-most-from-generat
 webUrl: "https://www.wired.com/sponsored/story/to-get-the-most-from-generative-ai-data-is-your-differentiator/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 3 biggest risks from generative AI - and how to deal with them"
-    excerpt: "Also: The ethics of generative AI: How we can harness this powerful technology Add in ethical issues and fears that models can be biased, and business leaders face a confluence of input and output risks. Litan says executives managing the rollout of ..."
-    publishedDateTime: 2023-11-27T20:12:00Z
-    webUrl: "https://www.zdnet.com/article/the-3-biggest-risks-from-generative-ai-and-how-to-deal-with-them/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
   - title: "Mastering the art of differentiation: Vital competencies for thriving in the age of artificial intelligence"
     excerpt: "In this age of AI, mastering these vital competencies not only propels your journey toward professional success but also equips you to unlock the transformative potential of AI, ensuring your prominence and prosperity in an increasingly automated world."
     publishedDateTime: 2023-11-25T10:15:00Z

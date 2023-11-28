@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence: who are the leaders in fault monitoring AI for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is leveraging artificial intelligence (AI) for fault monitoring due to the increasing complexity of vehicles,"
-    publishedDateTime: 2023-11-24T12:41:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-fault-monitoring-ai-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_fault-monitoring-AI.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Artificial intelligence: who are the leaders in AI in damage estimation for the automotive industry?"
     excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
     publishedDateTime: 2023-11-24T02:01:00Z
@@ -165,15 +151,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Artificial intelligence: who are the leaders in moving obstacle prediction AI for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is advancing moving obstacle prediction AI due to growing demand for autonomous vehicles, advancements in LiDAR and camera sensor technology,"
-    publishedDateTime: 2023-11-24T12:54:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-moving-obstacle-prediction-ai-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 14
 
 secured: "EylE+VtFYSJNTk3JV6okprLzQ27SYP+v/EbknbT3BKIVaKkaUrSLkTR2LgJ2uQWLnJJEunyzasqQvIxlNA1TyAsfouFrEvJL2GmlW/qyG5wPyqIEHljkhpiQa4rxHCU7MhR1ReD3RRJ/RAc0KZsg+tLBVxXEHNaOUXRcJr70UllyQnllp2kw3E56ysxUF+cgh38k0TSXUBBPucxDSyv7aaUDThPBxLFbVmspNGjy4ZLQ1PIfa4vjMGewoNd5aVY0id86BqbaKaeC6nv36EWk2xMb2Cj/ivXd/s0uXZ/xkg8aKsndu+YNJ1r0NGdf+PQ9u5AY7245x+v6cw/G7j1dB/Yyf77NtiKFI3cXR7p2OYQxbDlVWrywLAWpqK8xFAVKyEMOVRq+Vc6wVvam9nLmWR36dTf4PO/d4/QEFaqin00+ZpSGRSUABXpu5u30jDgo6xIKnJZQSXgPdAKfsUvuxa6fb+GC/nuT03JhYmT1myFaadVGSLYGuMW+C5ZQFgYmio9MeDgBoiLA0434bUt92A==;Sh0Fm5MrTbaLTC1sCgYbIQ=="
 ---

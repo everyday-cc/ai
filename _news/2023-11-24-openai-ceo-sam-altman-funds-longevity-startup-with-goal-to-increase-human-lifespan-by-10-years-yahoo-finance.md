@@ -115,20 +115,6 @@ related:
         width: 696
         height: 392
         isCached: true
-  - title: "AI breakthrough that could threaten humanity might have been key to Sam Altman’s firing"
-    excerpt: "Current programs like AI are good at writing and language translation as they predict the next word. Answers to the same prompt might vary as a result. But with math, there can only be an answer. Once math is conquered, AI will have greater reasoning ..."
-    publishedDateTime: 2023-11-23T11:51:00Z
-    webUrl: "https://bgr.com/tech/ai-breakthrough-that-could-threaten-humanity-might-have-been-key-to-sam-altmans-firing/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 33
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/11/openai-devday-2023-chatgpt-1.jpg?quality=82&strip=all"
-        width: 1600
-        height: 817
-        isCached: true
   - title: "‘What If Sam Altman Was A Black Woman’ Debate About Bias In AI Engulfs Twitter"
     excerpt: "Following Sam Altman’s ouster from OpenAI many compared Altman's exit and return to the unceremonious firing of Dr. Timnit Gebru."
     publishedDateTime: 2023-11-26T02:14:00Z

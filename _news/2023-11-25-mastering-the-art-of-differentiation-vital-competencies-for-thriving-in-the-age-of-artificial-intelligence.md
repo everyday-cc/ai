@@ -40,15 +40,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "The 3 biggest risks from generative AI - and how to deal with them"
-    excerpt: "Also: The ethics of generative AI: How we can harness this powerful technology Add in ethical issues and fears that models can be biased, and business leaders face a confluence of input and output risks. Litan says executives managing the rollout of ..."
-    publishedDateTime: 2023-11-27T20:12:00Z
-    webUrl: "https://www.zdnet.com/article/the-3-biggest-risks-from-generative-ai-and-how-to-deal-with-them/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
 
 secured: "DHkPV28Ke1EW8gIZIh81A9+CkYSSMMv2DbiDnKU17xDFKCVgomKve6CNYm8CNJW9eTjaOByM6QzPYhBprBmUgp4piBBIrOHhoaYqL4y8MtjBe298joScWmlvR9VU5t9RFp7NuR7i5gLm4y78P/cDqZDqyGpE9I5waxmgmSqoPJuK1oKpOEAUfIwGmwOSj/FUzWgCElUPUiMldVDyXc+RgQtml/nvfstKN62UcUwLUqYy9eBtyrTw3LiLPcMlhp99E9GfgAN1MRvJsor3WCYKp2SqzAvpA0w+LGmw7j4tUfQeFyz64aDXfUJ6HP3ZxXZX16oggmWpVuSDcbmtj+p13lMQk2g6ieczygoOaE2L2Cs=;r2INbk7IuRcFAwW0rnZd8g=="
 ---

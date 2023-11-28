@@ -41,20 +41,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Google’s Bard AI to Revolutionize Your YouTube Experience"
-    excerpt: "Google's Bard AI will now be able to extract valuable information from videos without having the users hit the pause button."
-    publishedDateTime: 2023-11-23T11:33:00Z
-    webUrl: "https://techreport.com/news/googles-bard-ai-to-revolutionize-your-youtube-watching-experience/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 39
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/11/shutterstock_2014798901.jpg?_t=1700739279"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Too Lazy To Watch YouTube Videos? Google Bard Can Now Do It For You And Answer Your Questions"
     excerpt: "Google Bard has received a new update that adds the ability to ask questions about YouTube videos. Google is rolling out this feature as a YouTube extension within Bard. What Happened: Alphabet ..."
     publishedDateTime: 2023-11-26T00:00:00Z

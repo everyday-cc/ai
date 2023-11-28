@@ -55,6 +55,22 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Today in AI: SenseTime denies revenue inflation allegations, IndiGo launches AI chatbot, TCS partners with AWS"
+    excerpt: "Shares of SenseTime, a Chinese Artificial Intelligence (AI) company ... right solutions for their unique business needs and transform their organisations, using AWS’ services such as Amazon Bedrock. The TCS AWD GenAI practice will focus on using ..."
+    publishedDateTime: 2023-11-28T12:45:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-sensetime-denies-revenue-inflation-allegations-indigo-launches-ai-chatbot-tcs-partners-with-aws-11823381.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-sensetime-denies-revenue-inflation-allegations-indigo-launches-ai-chatbot-tcs-partners-with-aws-11823381.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-sensetime-denies-revenue-inflation-allegations-indigo-launches-ai-chatbot-tcs-partners-with-aws-11823381.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 54
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AWS enhances AI services with foundation model capabilities for improved performance"
     excerpt: "Announced at the annual re:Invent 2023 conference, the enhanced capabilities include Amazon Transcribe now offering FM-powered language support and AI-enhanced call analytics, Amazon Personalize now using FM to generate more compiling content, and Amazon Lex now using large language models to provide accurate and conversation responses."
     publishedDateTime: 2023-11-28T01:18:00Z

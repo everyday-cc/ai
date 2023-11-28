@@ -35,20 +35,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Global Educational Robots Market Expected to Reach $5 Billion by 2032"
-    excerpt: "The global educational robots market is poised for remarkable growth, with projections indicating a substantial increase in market value over the next decade. According to the latest report by Future Market Insights (FMI),"
-    publishedDateTime: 2023-11-23T12:17:00Z
-    webUrl: "https://www.fmiblog.com/2023/11/23/global-educational-robots-market-expected-to-reach-5-billion-by-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 39
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/11/Education-4-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "dC28RRVLR2KaXI26Fw2TF9QoS+V0RKBYl4oCbFWVDunKP7t4uAqYTgIMjp776oJdShAgyOAJ6LFDduSS1jolPf4V/ImDIOO1Xq2NVAyeKq7s26O4Y5DTNCoJdiCYZqWbXpUx+VDe70eeaQ1IKkFmqA7KA9aWY3CFZo3USKDa4Pas8/E762gr2WOuRDBDemwXSpa0hZ0tuza0GxBB+AowOkRgoGX8Ro6oHiNOm+SnHoT5AzmEg3NwXY5OJ35wy/W6TSErh/XrkWdjllZxyWFB85JwnYFzTYbz1kMnxyJBZgOHjQMJhx+kRwBTsHm+3Jslz3fCyJ/PzFTgd095ge3fSkzhnaf5UM9/3tIrlfTlzEQ=;yJ5wHcknejcE0leDaC4lnA=="
 ---

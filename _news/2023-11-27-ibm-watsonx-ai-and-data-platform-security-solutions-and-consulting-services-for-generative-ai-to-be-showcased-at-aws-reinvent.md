@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/security-solutions-and-consulting-service
 webUrl: "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/"
 type: article
 quality: 120
-heat: 260
+heat: 270
 published: true
 
 provider:
@@ -84,6 +84,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1317246529.jpg?resize=1200,501"
         width: 1200
         height: 501
+        isCached: true
+  - title: "IBM and AWS expand partnership to accelerate generative AI adoption in Africa"
+    excerpt: "The new generative AI capabilities give clients tools to enhance business serviceability and availability for their applications hosted on AWS through intelligent issue resolution and observability te"
+    publishedDateTime: 2023-11-28T11:56:00Z
+    webUrl: "https://www.zawya.com/en/world/africa/ibm-and-aws-expand-partnership-to-accelerate-generative-ai-adoption-in-africa-n6kabb4c"
+    ampWebUrl: "https://www.zawya.com/en/world/africa/ibm-and-aws-expand-partnership-to-accelerate-generative-ai-adoption-in-africa-n6kabb4c?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/africa/ibm-and-aws-expand-partnership-to-accelerate-generative-ai-adoption-in-africa-n6kabb4c?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 71
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NWZhODY0MTYtNjZjMi00/2/1481133084.jpeg?f=3%3A2"
+        width: 786
+        height: 524
         isCached: true
   - title: "AWS re:Invent grabs the spotlight, with cloud, cybersecurity and AI in a business focus"
     excerpt: "Invent conference opens in Las Vegas this week, AWS will make the case that it, too, has a leading role in the transformation that lies at the nexus of artificial intelligence, cloud computing and cybersecurity."
