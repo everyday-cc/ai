@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Facebook and Instagram will require political advertisers to disclose AI deepfakes"
-excerpt: "If political advertisers are using *** I to put fake stuff on Facebook, they'll have to tell you they're doing it. Facebook's parent company meta has announced that starting in 2024 political ..."
-publishedDateTime: 2023-11-09T03:48:00Z
-originalUrl: "https://www.4029tv.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
-webUrl: "https://www.4029tv.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
-ampWebUrl: "https://www.4029tv.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
-cdnAmpWebUrl: "https://www-4029tv-com.cdn.ampproject.org/c/s/www.4029tv.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
+excerpt: "Meta, parent company of Instagram and Facebook, will require political advertisers around the world to disclose any use of artificial intelligence in their ads, starting next year, the company said Wednesday, as part of a broader move to limit so-called ..."
+publishedDateTime: 2023-11-09T03:55:00Z
+originalUrl: "https://www.wapt.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
+webUrl: "https://www.wapt.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
+ampWebUrl: "https://www.wapt.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
+cdnAmpWebUrl: "https://www-wapt-com.cdn.ampproject.org/c/s/www.wapt.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807"
 type: article
 
 provider:
-  name: 4029tv
-  domain: 4029tv.com
+  name: WAPT
+  domain: wapt.com
 
 topics:
   - Meta AI
@@ -23,6 +23,6 @@ images:
     height: 676
     isCached: true
 
-secured: "bUmFxCNL2abAMBdH/WhTjn4TbmfgOrCfZ1WqBS831tCd3bJ/k6/XJ3fIHOGZ8CJLiDuJz1oz9VU+JjAuY4VMf42j1zxe+uSVwFkyJel9zarKi+UgeRQmKPOe5tnNN+CSMgNMA7iDaYiFkuYhAg/Gd/ccFpdgfM92G54c0euRmeOnU+1TC8L7D1VGwxT74YchSzPgIzrkETbaCyt4TD0BvjUApUaT+fWX/Sz+sQBuw0orlIGnoljADAkGLwb8/s6Rvlj262wmjvY0dGJCv/tYnsyyAbjxB52vsIInJGGS0h4fxRaDpOMKtoSG/bK/ynUOv7qouzpNgFf6vwkk3T3d/Q59+zpgX4auNaAyFrqsmnk=;+/+NM6h14l4dmUQU68SWxw=="
+secured: "qUW6DNissjAcRPejf7QewPssq6m9yIZsCMLcBpfJZxyqJoKy/jW2L9V32JqAPTZRZkb2OnLvYJ0ibqTIYzeJ26bICc/S92A/rvEze+jCVjZ29BF4GhX/3yF2RwUVxmcnjGE6ZIZqsV4NcWwPtctAsytXQjSrzcYn2brmAXVJtvtv1w3cJ4wB7u8jp2EfI+E9mSJH6dCZhn1UIdM0JMe+YRDR9rQbMbJ7Q1Ojmdy2cSY+gYaqrYVsLVzdKMcKiufqHtawXHZueUKrscWi8Lk8F5/K6nsxE2eG8Nejul0ADtdiMTQjVsJtKr9wecdhYLF782IwLQu+g8c4N4ZnhgKVCmSikgI9QhXpGiqwJp6IoB4=;FvodUqRL50Xuu1scVbRcog=="
 ---
 

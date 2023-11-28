@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial Intelligence, sustainability at ‘forefront’ in 2024: Vertiv"
-    excerpt: "Intense, urgent demand for artificial intelligence (AI) capabilities and the \"duelling pressure\" to reduce energy consumption, costs and greenhouse gas emissions loom large over the data centre industry - and will be at the forfefront - heading into 2024 ..."
-    publishedDateTime: 2023-11-23T02:57:00Z
-    webUrl: "https://itwire.com/it-industry-news/strategy/artificial-intelligence,-sustainability-at-‘forefront’-in-2024-vertiv.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 52
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/a1770fd13a35220da1cafb035a7ed839_M.jpg"
-        width: 375
-        height: 563
-        isCached: true
 
 secured: "ViSJeebxIZcsKkSnCVhSX3qDszk6uT6ngIAqpJMo3K82OqJKxWsvBscapcCHH0Ffczv/5T5FDbDeZoxN7+D888pui5rwMZyEkuCNas6LISU3U/4ohgenHvduBd4edkFnlTrF4EZ8HWFCLCk9NQTlQyuLvuW0zYA0zzv6zy2F5yMqPTMTz/YxBziW+Q5BRwz+gfBb35J0ZXxHwnQwVWX25B9uvpbzZOPUuoY103aobdQUS6EB6ymqqrKDVeKZC3e7tqY33QDfe6S+whjvDhbhag47Yo+iJOAnfhQP17ohCxaC8b8O4sfKs/D//l4+S+T1t+YmCxTVeiIAHJz46fxbbvu2Eb16ttc1ZZgky0ArdQw=;aaYf8L5vMZLh9HfRrGxCug=="
 ---

@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Adobe buys Indian generative AI startup Rephrase.ai: What makes the deal important"
-    excerpt: "Adobe has acquired Rephrase.ai, a Bengaluru-based startup that runs an AI-powered video creation platform. The deal will allow Adobe to integrate Rephrase's technology with its Creative Cloud video-editing platform, enhancing its offerings. Rephrase.ai ..."
-    publishedDateTime: 2023-11-23T01:37:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/adobe-buys-indian-generative-ai-startup-rephrase-ai-what-makes-the-deal-important/articleshow/105425071.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/adobe-buys-indian-generative-ai-startup-rephrase-ai-what-makes-the-deal-important/amp_articleshow/105425071.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/adobe-buys-indian-generative-ai-startup-rephrase-ai-what-makes-the-deal-important/amp_articleshow/105425071.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 51
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-105425070,width-1280,height-720,resizemode-4/105425070.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Governor’s Office issues initial generative artificial intelligence report on Tuesday"
     excerpt: "On Tuesday, the Governor's Office released a report about the emerging possibilities and potential pitfalls of generative artificial intelligence."
     publishedDateTime: 2023-11-24T01:43:00Z

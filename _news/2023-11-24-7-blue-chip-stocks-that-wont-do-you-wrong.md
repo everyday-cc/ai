@@ -32,6 +32,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "3 Top-Rated AI Stocks That Analysts Are Loving Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) makes people’s lives easier. And"
+    publishedDateTime: 2023-11-28T01:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-top-rated-ai-stocks-that-analysts-are-loving-now-1032852835"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "pYM5t2XiavSB4isRxiC2Z5iBSkfUYMNirlW9DS7tBn+WOko6onW6I5iW6D30AyYxO42j+rgl842sr2kA1EnlYPljIiUqePzJY0Bl7DCWLYaZVVNcbVNMbeYD6SiviAeP86Q1yUh6h0/KAdt+WKL+K6NpLlAK41gRvnIudG60kmz3+g1izEKtwquREJzVJC5JY/wvYsxX0qVC2HkV0Nto7o4PZjjNdvk/g+p3kaPthSHJpxVsx/egEfETJc183jWk1n4OILOo6Kf/eCvnLLbtx7YoKkatJV0FC9MZCUIdsPbhT/fJf3bj6a4j9O/NB0fLp8xm3XFbgHCsLBHA48PFx9UAmc3A6X/Y55sFiLNPnL8=;p4trxeY6cs3SNFh9O8Qwgw=="
 ---

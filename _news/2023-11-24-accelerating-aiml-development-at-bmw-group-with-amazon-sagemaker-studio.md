@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/"
 type: article
 quality: 120
-heat: 170
+heat: 160
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Simplifying AI development with Azure AI Studio"
-    excerpt: "Microsoft’s cloud-based AI development environment, now in public preview, takes a more streamlined approach to building AI-powered applications."
-    publishedDateTime: 2023-11-23T02:03:00Z
-    webUrl: "https://www.infoworld.com/article/3711360/simplifying-ai-development-with-azure-ai-studio.html"
-    ampWebUrl: "https://www.infoworld.com/article/3711360/simplifying-ai-development-with-azure-ai-studio.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711360/simplifying-ai-development-with-azure-ai-studio.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
-    images:
-      - url: "https://images.techhive.com/images/article/2014/04/futuristic-flowchart-135523847-100264958-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Optimizing costs for Amazon SageMaker Canvas with automatic shutdown of idle apps"
     excerpt: "Amazon SageMaker Canvas is a rich, no-code Machine Learning (ML) and Generative AI workspace that has allowed customers all over the world to more easily adopt ML technologies to solve old and new challenges thanks to its visual, no-code interface. It does so by covering the ML workflow end-to-end: whether"
     publishedDateTime: 2023-11-24T17:30:59Z

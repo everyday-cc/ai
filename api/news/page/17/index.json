@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-11-11-what-successful-early-adopters-of-generative-ai-have-learned.md",
+      "title": "What Successful Early Adopters Of Generative AI Have Learned",
+      "excerpt": "Generative AI is still in the hype phase, and the real challenge lies in how businesses can adapt, scale, and ethically deploy these tools to realize tangible outcomes",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/654e7241ce90a1eac32d936f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/11/10/what-successful-early-adopters-of-generative-ai-have-learned/amp/",
+      "publishedDateTime": "2023-11-10T17:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-how-we-taught-google-translate-to-recognize-homonyms.md",
       "title": "How we taught Google Translate to recognize homonyms",
       "excerpt": "How Google Translate’s neural model taught it to understand bass from bass.",
@@ -1159,58 +1210,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-meta-will-require-political-advertisers-to-disclose-when-they-use-ai.md",
-      "title": "Meta Will Require Political Advertisers To Disclose When They Use AI",
-      "excerpt": "Meta vowed to remove content that violates its policies, whether it was created by AI or a person, and said its independent fact-checking partners will review and rate viral misinformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petersuciu/2023/11/09/meta-will-require-political-advertisers-to-disclose-when-they-use-ai/",
-      "originalUrl": "https://www.forbes.com/sites/petersuciu/2023/11/09/meta-will-require-political-advertisers-to-disclose-when-they-use-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654d2696b140537bbfa4a692/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petersuciu/2023/11/09/meta-will-require-political-advertisers-to-disclose-when-they-use-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2023/11/09/meta-will-require-political-advertisers-to-disclose-when-they-use-ai/amp/",
-      "publishedDateTime": "2023-11-09T18:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

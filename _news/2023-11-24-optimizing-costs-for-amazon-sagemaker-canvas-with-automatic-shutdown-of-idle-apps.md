@@ -43,22 +43,6 @@ related:
         width: 971
         height: 492
         isCached: true
-  - title: "Simplifying AI development with Azure AI Studio"
-    excerpt: "Microsoft’s cloud-based AI development environment, now in public preview, takes a more streamlined approach to building AI-powered applications."
-    publishedDateTime: 2023-11-23T02:03:00Z
-    webUrl: "https://www.infoworld.com/article/3711360/simplifying-ai-development-with-azure-ai-studio.html"
-    ampWebUrl: "https://www.infoworld.com/article/3711360/simplifying-ai-development-with-azure-ai-studio.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711360/simplifying-ai-development-with-azure-ai-studio.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
-    images:
-      - url: "https://images.techhive.com/images/article/2014/04/futuristic-flowchart-135523847-100264958-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Boost inference performance for LLMs with new Amazon SageMaker containers"
     excerpt: "Today, Amazon SageMaker launches a new version (0.25.0) of Large Model Inference (LMI) Deep Learning Containers (DLCs) and adds support for NVIDIA’s TensorRT-LLM Library. With these upgrades, you can effortlessly access state-of-the-art tooling to optimize large language models (LLMs) on SageMaker and"
     publishedDateTime: 2023-11-27T20:06:59Z

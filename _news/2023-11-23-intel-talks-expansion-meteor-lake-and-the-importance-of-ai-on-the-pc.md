@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-ex
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antonyleather/2023/11/23/intel-talks-expansion-meteor-lake-and-the-importance-of-ai-on-the-pc/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "INRIX Intros Compass Intel with AI for Location Insights for Better Mobility on AWS"
+    excerpt: "Proactive Transportation Strategy: Merging historical and real-time data seamlessly, Compass provides in-depth insights integrated across INRIX’s robust INRIX IQ suite to help cities and businesses adopt smarter, safer, and more sustainable mobility strategies."
+    publishedDateTime: 2023-11-28T00:19:00Z
+    webUrl: "https://www.autoconnectedcar.com/2023/11/inrix-intros-compass-intel-with-ai-for-location-insights-for-better-mobility-on-aws/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 48
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2023/11/INRIX_Compass_Brain-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "The Future of AI and Outdoor Maintenance Technology"
     excerpt: "An expert in autonomous mowing discusses why robotic mowing can improve efficiencies, reduce dependency on human labor and eliminate waste."
     publishedDateTime: 2023-11-24T08:42:00Z

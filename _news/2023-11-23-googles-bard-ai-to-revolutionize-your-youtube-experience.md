@@ -41,20 +41,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Google Bard can Now Comprehend YouTube Videos and Answer Questions"
-    excerpt: "Bard's \"Extensions\" already linked it with various Google apps, enhancing its ability to provide more personalized responses"
-    publishedDateTime: 2023-11-23T02:19:00Z
-    webUrl: "https://www.gizmochina.com/2023/11/23/google-bard-youtube-video/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 54
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/google-bard-ai-android-phones.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Google Bard gets the ability to understand YouTube videos"
     excerpt: "For example, recently Google announced that its AI chatbot Bard now offers a deeper analysis of YouTube video content, which could be very useful to some people. In all clarity, Bard’s ability to analyze YouTube videos is not new. It stems from a previous September update ."
     publishedDateTime: 2023-11-23T15:36:00Z

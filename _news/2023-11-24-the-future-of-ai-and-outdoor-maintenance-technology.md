@@ -41,6 +41,20 @@ related:
         width: 1598
         height: 900
         isCached: true
+  - title: "INRIX Intros Compass Intel with AI for Location Insights for Better Mobility on AWS"
+    excerpt: "Proactive Transportation Strategy: Merging historical and real-time data seamlessly, Compass provides in-depth insights integrated across INRIX’s robust INRIX IQ suite to help cities and businesses adopt smarter, safer, and more sustainable mobility strategies."
+    publishedDateTime: 2023-11-28T00:19:00Z
+    webUrl: "https://www.autoconnectedcar.com/2023/11/inrix-intros-compass-intel-with-ai-for-location-insights-for-better-mobility-on-aws/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 48
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2023/11/INRIX_Compass_Brain-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "EyKjWhfFzlbcjuLYzndwvWsk2kEW37NihgkMWMmmz33StsRZLcHVnelgeIvFQvZalAtFYmBnBeUqpA9h9LewThN6KEGCssoybAqJH2NLo9ixCqnUeb8VLuw/p/bTew8BCa5rDFuKW1gVQsDjzeMPVHosZxV8LXxN2UQSjwz1rtGgxmYJisCiqvjWukU65Mmd39wqMVjC71wWW+6pu3t4DnI5QqKEWb5AU2X2dbKini/7q3/aZMeo9/vNNipeJCar6EC/I5wJsdE0+buOa24zj+nWtbAFoln6tx6930YkgSXavwAkdtFXKe1H5Y4Ab8RIAP6ueg3ywOpUDnfk3lm9D5SUoI0CuT19ffsI3nhvTvvIVBCmt1Ye5dAhDTIB9mG0xH7BbT3jEwCbG4DpTzHPGh1iYf5GXYjY6hVWz00fx7Hj6itZr7d2kIzVdgmeB2R5AIevbu1mafP1K1PtlXSlsj3+PwCjON9OMiDYWlgMxBHy0CHaP7sRqBe6530KyySV+5VoUmNuN96ot+AsfH59Nw==;wzSn+6AR2o+xZgwW97vPKw=="
 ---

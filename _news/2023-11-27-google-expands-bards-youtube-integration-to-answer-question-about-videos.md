@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/amp/"
 type: article
 quality: 73
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Bard can Now Comprehend YouTube Videos and Answer Questions"
-    excerpt: "Bard's \"Extensions\" already linked it with various Google apps, enhancing its ability to provide more personalized responses"
-    publishedDateTime: 2023-11-23T02:19:00Z
-    webUrl: "https://www.gizmochina.com/2023/11/23/google-bard-youtube-video/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 54
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/google-bard-ai-android-phones.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Google’s Bard AI to Revolutionize Your YouTube Experience"
     excerpt: "Google's Bard AI will now be able to extract valuable information from videos without having the users hit the pause button."
     publishedDateTime: 2023-11-23T11:33:00Z

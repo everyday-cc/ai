@@ -53,6 +53,34 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "AWS enhances AI services with foundation model capabilities for improved performance"
+    excerpt: "Announced at the annual re:Invent 2023 conference, the enhanced capabilities include Amazon Transcribe now offering FM-powered language support and AI-enhanced call analytics, Amazon Personalize now using FM to generate more compiling content, and Amazon Lex now using large language models to provide accurate and conversation responses."
+    publishedDateTime: 2023-11-28T01:18:00Z
+    webUrl: "https://siliconangle.com/2023/11/27/aws-enhances-ai-services-foundation-model-capabilities-improved-performance/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/aws-1.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "AWS enhances AI services with foundational model capabilities for improved performance"
+    excerpt: "Amazon Web Services Inc. today announced a range of new artificial intelligence service capabilities that are ... Amazon’s automatic speech recognition service, is said by AWS to deliver significant accuracy improvement between 20% and 50% across most ..."
+    publishedDateTime: 2023-11-28T01:09:00Z
+    webUrl: "https://siliconangle.com/2023/11/27/aws-enhances-ai-services-foundational-model-capabilities-improved-performance/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 46
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/aws-1.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "AI-assisted Credit Checks to Enhance Mia-Platform’s Embedded Finance Offering"
     excerpt: "Mia-Platform, the end-to-end platform builder, has announced a new partnership with Genio Diligence, a specialist provider of due diligence services to credit institutions and credit brokers. The partnership will see Genio Diligence’s AI solution for preventing credit-related risks made available to developers operating in the embedded finance sector,"
     publishedDateTime: 2023-11-27T13:19:00Z

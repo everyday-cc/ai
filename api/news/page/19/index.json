@@ -2,6 +2,41 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-11-09-medcerts-combines-conversational-ai-generative-ai-and-natural-language-processing-for-a-revolutionary-new-ai-addition-to-online-healthcare.md",
+      "title": "MedCerts Combines Conversational AI, Generative AI, and Natural Language Processing For a Revolutionary New AI Addition To Online Healthcare Training",
+      "excerpt": "By combining Conversational AI, Generative AI, and Natural Language Processing (NLP), MedCerts gives learners realistic patient scenarios that are customized in each and every interaction without duplication within an End-to-End (E2E) platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231109758687/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231109758687/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-smart-disruption-china-will-mass-produce-ai-powered-humanoid-robots-by-2025-to-unsettle-industry.md",
       "title": "Smart disruption? China will mass-produce AI-powered humanoid robots by 2025 to unsettle industry",
       "excerpt": "China hopes to disrupt industries and how factories function just like how smartphones disrupted human interaction. For that, they are planning to start manufacturing AI powered humanoid robots en mas",
@@ -385,10 +420,10 @@
     {
       "path": "_news/2023-11-09-facebook-and-instagram-will-require-political-advertisers-to-disclose-ai-deepfakes.md",
       "title": "Facebook and Instagram will require political advertisers to disclose AI deepfakes",
-      "excerpt": "If political advertisers are using *** I to put fake stuff on Facebook, they'll have to tell you they're doing it. Facebook's parent company meta has announced that starting in 2024 political ...",
+      "excerpt": "Meta, parent company of Instagram and Facebook, will require political advertisers around the world to disclose any use of artificial intelligence in their ads, starting next year, the company said Wednesday, as part of a broader move to limit so-called ...",
       "sourceUrl": null,
-      "webUrl": "https://www.4029tv.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
-      "originalUrl": "https://www.4029tv.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
+      "webUrl": "https://www.wapt.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
+      "originalUrl": "https://www.wapt.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -405,13 +440,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.4029tv.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
-      "cdnAmpWebUrl": "https://www-4029tv-com.cdn.ampproject.org/c/s/www.4029tv.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
-      "publishedDateTime": "2023-11-09T03:48:00Z",
+      "ampWebUrl": "https://www.wapt.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
+      "cdnAmpWebUrl": "https://www-wapt-com.cdn.ampproject.org/c/s/www.wapt.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
+      "publishedDateTime": "2023-11-09T03:55:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "4029tv",
-        "domain": "4029tv.com",
+        "name": "WAPT",
+        "domain": "wapt.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1058,58 +1093,6 @@
         "AWS AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws.md",
-      "title": "Build a medical imaging AI inference pipeline with MONAI Deploy on AWS",
-      "excerpt": "In this post, we show you how to create a MAP connector to AWS HealthImaging, which is reusable in applications built with the MONAI Deploy App SDK, to integrate with and accelerate image data retrieval from a cloud-native DICOM store to medical imaging AI workloads. The MONAI Deploy SDK can be used",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/02/monaideploy_arch-1260x571.png",
-          "width": 1260,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T18:47:42Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

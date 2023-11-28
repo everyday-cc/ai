@@ -318,15 +318,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Nvidia’s Record Performance and Leadership in AI Drive Buy Rating and Optimistic Growth Forecast"
-    excerpt: "Analyst Cody Acree of Benchmark Co. reiterated a Buy rating on Nvidia (NVDA – Research Report), with a price target of ... The rapid adoption of Generative AI and Large Language Models by major consumer internet companies and cloud service providers ..."
-    publishedDateTime: 2023-11-23T02:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-record-performance-and-leadership-in-ai-drive-buy-rating-and-optimistic-growth-forecast-1032844290"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
   - title: "Nvidia delays launch of new China-focused AI chip"
     excerpt: "Nvidia has told customers in China it is delaying the launch of a new artificial intelligence chip it designed to comply with US export rules until the first quarter of next year, two sources familiar with the matter said."
     publishedDateTime: 2023-11-26T19:53:00Z

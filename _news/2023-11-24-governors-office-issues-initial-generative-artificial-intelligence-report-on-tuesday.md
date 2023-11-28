@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Adobe buys Indian generative AI startup Rephrase.ai: What makes the deal important"
-    excerpt: "Adobe has acquired Rephrase.ai, a Bengaluru-based startup that runs an AI-powered video creation platform. The deal will allow Adobe to integrate Rephrase's technology with its Creative Cloud video-editing platform, enhancing its offerings. Rephrase.ai ..."
-    publishedDateTime: 2023-11-23T01:37:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/adobe-buys-indian-generative-ai-startup-rephrase-ai-what-makes-the-deal-important/articleshow/105425071.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/adobe-buys-indian-generative-ai-startup-rephrase-ai-what-makes-the-deal-important/amp_articleshow/105425071.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/adobe-buys-indian-generative-ai-startup-rephrase-ai-what-makes-the-deal-important/amp_articleshow/105425071.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 51
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-105425070,width-1280,height-720,resizemode-4/105425070.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How generative AI can give companies a competitive edge"
     excerpt: "Hasit Trivedi is the CTO of digital technologies and global head of AI at Tech Mahindra. Generative artificial intelligence (AI) is poised to lead the next level of growth and unv"
     publishedDateTime: 2023-11-27T02:04:00Z
