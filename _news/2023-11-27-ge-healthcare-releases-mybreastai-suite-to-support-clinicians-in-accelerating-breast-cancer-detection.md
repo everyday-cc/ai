@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35961445"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35961445"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "GE HealthCare Releases MyBreastAI Suite to Support Clinicians in Accelerating Breast Cancer Detection"
+    excerpt: "MyBreastAI Suite will first be available in the United States and will be distributed, installed and supported by GE HealthCare as part of the company's Senographe Pristina mammography portfolio. This product may not be available in your country or region. Please contact your GE HealthCare representative for more information."
+    publishedDateTime: 2023-11-27T16:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/11/27/9923468.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "2ySwj0QMngK/ISLR6QYOCH0ZTY7EUTdbtCHBx7CzJM3VWcsxh03Y9vJv3YD+2GKCxCkNaRGTEqYzY2Dr8IH3yAzHfxkL3Y7v3vtz1CV/o1RDQUwV7uS5mnVT0aojV/hDfTwkk5zvFRI/VAvh+BViR9BajFWvKcDkT3AtEbUBOOSTbbXvI8PbGGCJ6VkpvVL7UNyZyni0EnWUcoHjrDpudAPfb6nPwL90l5HVY8/N3weKC3ooINEfjf7gEwiMoHD+l8gHW6NG+FSZBWJtkBkUHiNJ9z6pBTiLejZ7wkgE/u+UiWl1vV4FdhTAAwx58YcJyiQCXr5QfmQh/2BwgTFshTNZDf8T65ZjpPCI0KbUuvU=;jJrW1msU5h12kY+Cx7poMg=="
 ---

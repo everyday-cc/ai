@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "It’s Time to Build AI Weapons"
-    excerpt: "The risk of using artificial intelligence in weapons is the one point almost everyone agrees upon. But they are gravely, dangerously wrong."
-    publishedDateTime: 2023-11-22T23:34:00Z
-    webUrl: "https://www.nysun.com/article/its-time-to-build-ai-weapons"
-    type: article
-    provider:
-      name: New York Sun
-      domain: nysun.com
-    quality: 37
-    images:
-      - url: "https://wp.nysun.com/wp-content/uploads/2023/11/weapon-scaled.jpg?w=1200&h=630&fit=fill&fm=jpg&fl=progressive"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "sOehY9QIwmjadPrf+yTc8N8QZ29EJ6x06RfRkaI5mC8Y0YVOIgYXLKgXyKnfHwEgCqG/n2PJb0rka/HUi0Hvx4FFwE/+m2J+3emV7epg7/QA64YpVu7K0fKa1G98RRsg1395IGA6VCzt/VAqcV/HvUKcQ6viW367Y4zGvlFK8MiUBTucXREpsIH4gxiCp8SbNtopzBAW0vq+QESgkE6UjjUC8YVd5HfOG4E2ri+YyeetDcIzC8TO4uhEe6F6si9/oTq9eSgyJDea9vkhKcxswZlogYRG2NWc73f/bCKcbSlo31sGeBhWV+u8CD6rwndAmdkGvectHAyZYyUEIN5YmVL1YeIAQBq6LLwtXdCL2BIE2fjjudVxMTyQU/XM1RZfkun8fX2LcO+ZzyzLBRCHvWf7U2U6k7JzYJTlV2uxw/B2azGXD82nYNI5GYtP1eI+IySJmc3albNBs7Y0XwNzf5R3dJLFIAHKQXcT0Cv52wK8yj3QsdkPYneWM5BYf/ZPr8rftXHjmBQcZdtAiJnuFg==;kwGKPhEaIFhYjCWKlhqsMA=="
 ---

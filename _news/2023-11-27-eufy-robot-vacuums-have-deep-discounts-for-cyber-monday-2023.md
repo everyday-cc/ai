@@ -72,6 +72,22 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 49
+  - title: "Craft meaningful content in seconds with this AI-powered tool for only $20 this Cyber Monday"
+    excerpt: "Churn out valuable content in seconds with a subscription to this AI tool on sale for $19.97 through Nov. 27."
+    publishedDateTime: 2023-11-28T00:34:00Z
+    webUrl: "https://www.popsci.com/sponsored-content/ai-powered-content-maker-cyber-monday-deal/"
+    ampWebUrl: "https://www.popsci.com/sponsored-content/ai-powered-content-maker-cyber-monday-deal/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-content/ai-powered-content-maker-cyber-monday-deal/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 48
+    images:
+      - url: "https://www.popsci.com/uploads/2023/11/28/image.jpeg?auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "OxTAkMUscXtribPmzJF2VIih6Zo4o1R8n6xhngq0gKae1k8hH7JYKg5T1muIEcqpwYE7Lo4uo+tfXj0Hek0yBr9WNBo1t9Zm8voY2NCGBlD3JO4UR10eXShPl7Rcx87lWXYHtYSaqaQ7HnsF8OPGZdU1QMssZ5usV02Aa9/60pHvqpNd37CpIpnBBbPhEtg8bnbJ/NRSX6WCgbMFDWpMH0VMFQ9BVVQzcnuw5QRMiUcBSAzPNkFr3SVrt7tNpmXi1vBl0ikD10yo5kC7a4+6JYbq9LJkHjHeSQu30s4rHxpWhJnvFYcTZJxua2/M+Q38W7f9evus8mbFjd1bKdsNd99lUogHZTBK0gNoi6ciB0I=;paWGVqaB/5a/njFL4fSZvA=="
 ---

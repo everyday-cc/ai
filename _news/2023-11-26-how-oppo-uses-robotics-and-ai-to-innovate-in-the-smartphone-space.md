@@ -33,20 +33,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "AI in Healthcare 2024: Transforming Patient Care with Innovative Technologies"
-    excerpt: "Introduction: Artificial Intelligence (AI) has emerged as a powerful force in reshaping the landscape of healthcare. As we delve into 2024, the integration of AI in healthcare promises groundbreaking transformations,"
-    publishedDateTime: 2023-11-27T08:45:00Z
-    webUrl: "https://techbullion.com/ai-in-healthcare-2024-transforming-patient-care-with-innovative-technologies/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 51
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-in-Healthcare-2024-Transforming-Patient-Care-with-Innovative-Technologies.jpg"
-        width: 650
-        height: 450
-        isCached: true
   - title: "Artificial Intelligence in the 90s: A Decade of Innovation and Challenges"
     excerpt: "Introduction: The 1990s marked a pivotal era for the development of Artificial Intelligence (AI), witnessing both unprecedented innovation and formidable challenges. As technology advanced, researchers and enthusiasts alike grappled with the possibilities and limitations of AI."
     publishedDateTime: 2023-11-24T11:53:00Z

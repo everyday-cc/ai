@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/ai-powered-robotics-exploring-the-latest-i
 webUrl: "https://techbullion.com/ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024/"
 type: article
 quality: 67
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Healthcare 2024: Transforming Patient Care with Innovative Technologies"
-    excerpt: "Introduction: Artificial Intelligence (AI) has emerged as a powerful force in reshaping the landscape of healthcare. As we delve into 2024, the integration of AI in healthcare promises groundbreaking transformations,"
-    publishedDateTime: 2023-11-27T08:45:00Z
-    webUrl: "https://techbullion.com/ai-in-healthcare-2024-transforming-patient-care-with-innovative-technologies/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 51
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-in-Healthcare-2024-Transforming-Patient-Care-with-Innovative-Technologies.jpg"
-        width: 650
-        height: 450
-        isCached: true
   - title: "How OPPO uses robotics and AI to innovate in the smartphone space"
     excerpt: "OPPO hosted a \"Tech Insider\" event for journalists and creators that shows how the brand develops innovative tech through robotics and AI."
     publishedDateTime: 2023-11-26T11:37:00Z

@@ -72,6 +72,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Nearly 80% of British teenagers have used generative AI"
+    excerpt: "Almost four in five British teenagers have used generative AI tools and services, according to the media watchdog, underscoring the rapid adoption of the fast-evolving technology among a new generation of internet users."
+    publishedDateTime: 2023-11-28T00:01:00Z
+    webUrl: "https://www.ft.com/content/6054706b-b339-48a4-a6b4-d64b0bfd346f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "YXwKZ87YNW/Qcfi7xwu4R/ond5vQCE9XYZ1c/Bs2IERWmgEg30r0Hue6+nQt1Pl4rqZ7i4LFZIs2IsHjwQ1/YjcaJQUZaO4nGZAoV5k0q5alkSnSi+2ElO97tWl2JCV8BRT2Ef3Xal2QcJoXO9BN5EvxFn33kXBKLlr0Se4JtIl9HGUGm7DOyX0flwflaPpaxIb7d1uumVOSy+YiWuUU6pqK2m5uD2FFMlLvVpkCIuOq6LT1vMulpESXLcUUAL53K7kMNxE2V7x6VZZkko35FYruw3PkgKEl+1QQIu8GvXe6SLsX8K3Yp2m7DDobnXO27arOkQePAhWijoM7NOLoemW8UMRll5BeeMl09zR51RdOukbtIO/gA0huuJ8eaWdAHCySKPSsTeDPUOaqTpRC6pAkDGkTO9enIqQrMdgnq1Tu7vBJQKvEmkfJc9hoR0xeVMdHEJh3+qi9c1c6Tm7CpV1TZk7BEqMVkhm256SK7orMvJRSbvmsoSKxWJz3EDVvtTSefXDeD2Ibh/gXSJFUfA==;r5G9sRYun8IeYIwO1crGNA=="
 ---

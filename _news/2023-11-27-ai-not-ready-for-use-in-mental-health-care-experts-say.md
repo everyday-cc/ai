@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/cnhi_network/ai-not-ready-for-use-in-m
 webUrl: "https://www.joplinglobe.com/cnhi_network/ai-not-ready-for-use-in-mental-health-care-experts-say/article_7b5f020d-5d37-5155-848b-b076b2c6a610.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 400
     height: 391
     isCached: true
-
-related:
-  - title: "AI expert: 'It’s the age of AI right now in health care'"
-    excerpt: "During a routine visit with the medical oncologist, a cancer patient brings up a new symptom that could be a side effect of cancer treatment."
-    publishedDateTime: 2023-11-27T01:00:00Z
-    webUrl: "https://www.joplinglobe.com/cnhi_network/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_346300ca-c8d4-53cf-bc1c-c6cdb66d5000.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/5/69/569c359a-7879-58c0-b576-70ed05dca068/6560befc288f5.image.jpg?crop=1700%2C893%2C0%2C70&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "IU experts speak on the role AI plays in the health care system"
-    excerpt: "Artificial intelligence continues to play a huge role in the health care industry. Experts speak on the benefits and drawbacks the tech may have."
-    publishedDateTime: 2023-11-27T00:23:00Z
-    webUrl: "https://www.wthitv.com/news/iu-experts-speak-on-the-role-ai-plays-in-the-health-care-system/article_f41706c8-8ccb-11ee-9b39-f37960a52902.html"
-    type: article
-    provider:
-      name: WTHI-TV
-      domain: wthitv.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wthitv.com/content/tncms/assets/v3/editorial/2/c0/2c030702-8ccd-11ee-8e79-5be480a419cd/6564010d386a4.image.png?crop=1576%2C827%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "OM3qVx+ZwdD4Wi4J8nzxo7Yv4T6L2bjd/ftQxsgF+CADS9scqMqouJMsIyrQ/cwCBz/Bt57V5wp3kfkhcS+hU95fudyrji0fRn/yPeUeiLe/pMQUXYkvZOpEjjn9bw2mn1j4K0rC8q6+Iqke73lT6W1NzZLd23LA8528rijHH4ACKmQEo1rFNnFp2tpsKpMEU62CM7/XQ7/kKWZOZxGPAALTmsFmvqzVxiIZ6ic2qFYrl7W5C8scPvLu57FOtrRjKIZsFVRuvc8FV7ycmNK1fc6Mhv/yaurkyv/nwUoGGCPuWyzFyC/RjWq1dcgB6jVv1K5zOWDGGdhc85h0M4/v8t6aB8qdC4tci7Xmsw+WWc+x/I2yXm34Rsw9DWtqQPvgJAmI6fBW8oaHC6t82zb7X+f4VyN2dvrRO4PBJrvvMRkp2bkjfBKBQmBUIbfsRAMJ7g32aCa2bzOzCowr0Q8iXWpJyS2ez1/KD/aKmcx1GaAYRLMJlpav14X714cVunSlwPBeHBeBumqMpLfZIxcldw==;qMECvnyje4VqSXr9MOoeCg=="
 ---

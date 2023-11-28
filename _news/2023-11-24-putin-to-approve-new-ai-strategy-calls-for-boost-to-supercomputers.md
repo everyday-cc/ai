@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/putin-approve-new-ai-strategy-c
 webUrl: "https://www.reuters.com/technology/putin-approve-new-ai-strategy-calls-boost-supercomputers-2023-11-24/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2023/11/24/Russia_Putin_21596_c0-225-5391-3369_s1200x700.jpg?af9dca67c31e2e088f2bcbb236003be7397af912"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Putin Unveils Plans for Russian AI Technology That Critics Fear Can Be Used to Win Wars and Manipulate Elections"
+    excerpt: "Vladimir Putin announced plans to roll out his own artificial intelligence (AI) bot that will rival Western technologies, RadarOnline.com has learned. While the despot claimed Russian AI bots would strengthen the country's culture and preserve history, critics fear Putin will use the new technology to win wars and manipulate elections."
+    publishedDateTime: 2023-11-28T00:45:00Z
+    webUrl: "https://radaronline.com/p/putin-unveils-ai-robot-critics-fear-technology-used-to-win-wars/"
+    type: article
+    provider:
+      name: radaronline
+      domain: radaronline.com
+    quality: 18
+    images:
+      - url: "https://media.radaronline.com/brand-img/8e8Kci9GJ/1200x628/putin-looking-unwell3-1701116163551.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "bAJN/TTsBMI3Z6uuU1oSzQrNHYniiu++NxD2cR53GzHmENYurQWM/YsGfpvFJ7o2kHG0Gt8bQYjsLGknZaHberD+N85yo5SWk25SFkS95txPPCg56qyLB87aOXx22Km+ks6Q4LUU5vUBU+gP3RTdAx0YObranbHhju6zS140R1KbRVY4L9HYrRFw38XG3d+T0Ux4cxICnrEmJ5Gj2S6epXCVmhM2y3EQ1W/qDoEWIl72wqlWiXqlE+Fk0kUjD7WAXDCl0MQAo4dMwS7buYJRkzD3IKfDibAEZHETbLpsU6lbGdTVvUkqX4rQWLDalBThhvOI3GEbp7dqBKeDf6pbOV+v89gZ4s+N3Am1Xw5Lslw=;s7eSxrXeSCe4zNcVMrfoDw=="

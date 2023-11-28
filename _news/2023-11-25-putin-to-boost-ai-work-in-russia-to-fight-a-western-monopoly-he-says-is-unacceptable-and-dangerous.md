@@ -53,6 +53,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Putin Unveils Plans for Russian AI Technology That Critics Fear Can Be Used to Win Wars and Manipulate Elections"
+    excerpt: "Vladimir Putin announced plans to roll out his own artificial intelligence (AI) bot that will rival Western technologies, RadarOnline.com has learned. While the despot claimed Russian AI bots would strengthen the country's culture and preserve history, critics fear Putin will use the new technology to win wars and manipulate elections."
+    publishedDateTime: 2023-11-28T00:45:00Z
+    webUrl: "https://radaronline.com/p/putin-unveils-ai-robot-critics-fear-technology-used-to-win-wars/"
+    type: article
+    provider:
+      name: radaronline
+      domain: radaronline.com
+    quality: 18
+    images:
+      - url: "https://media.radaronline.com/brand-img/8e8Kci9GJ/1200x628/putin-looking-unwell3-1701116163551.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "uNKT9rkt+aFHoBA0qT1CTCJ2DKYaYgxNyKdfzCKTAxB9UMtsG+jzCZKvm3iEKxowPnh6wvVKdM5Kb42w0rAhuFM4eHgnsWfXk6cABs8r4NvKwl0ohIqEYYh7Inriwy5npQLIJccwn+qLXJp9myv4ULaOtkQMl+HHB3ta63L257dIOtiHv6u4/BhokSkmID9s0W0V6lC+hge6C2yQcpfoSfvc+2Ta1UJKqwSDSMLctZugkZr2GjCVYXDaVkpBH5VjsKdxJfYalpBIdT+90GUmey/EmSyBTUxP0DEqrTtuwtNrQVeWwzQNvnglZDpTyYWt41ao2N9eznQRoWa8xQmDad7e54rlADAGVrqTKG63asQ=;q1o2zRx3n/X2Sul+ojjL1A=="
 ---

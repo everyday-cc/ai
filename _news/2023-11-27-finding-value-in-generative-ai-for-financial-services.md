@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/11/26/1083841/finding-value-in
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Nearly 80% of British teenagers have used generative AI"
+    excerpt: "Almost four in five British teenagers have used generative AI tools and services, according to the media watchdog, underscoring the rapid adoption of the fast-evolving technology among a new generation of internet users."
+    publishedDateTime: 2023-11-28T00:01:00Z
+    webUrl: "https://www.ft.com/content/6054706b-b339-48a4-a6b4-d64b0bfd346f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "hwmpjq6KgmTtSUxO6b2RcBh1xvoAncf83R53cHRP4jxsWG3ytafkdzZg3SjG7V8uqCkOoUSxjWk681Z45P0NUhL0cG2op3nCG/ZtjoyrTt9sBqJLvFwE53nHCjt6o+lopHBCS22oD0V0FZW4ZULFHCBU5KDYbu86Xu8ULAR2nW49RHDNu4MtdUW+BeEr1sF0pOJgfF1mWtkRMc4dTIzQmyv53O9T9abxZkFCCIKIs3KP+rvXqHSpIMh9mIpMJ+3afc8aHCbF8LN35798YWQuXk67UQmFNtGHgn45jKjUX7pQ47EQggzkPgbxL5LttrnBH1+hdCkEnpiR0pakIVXZIUGmhT2L6z1zSvVqVVBxreRazE1rxgZ/UjylcFaUiVspB3IVlbb9pRbjyJHfVjVnJfgw+P1hCz5FjwNdyuVNKau1WhE/4ntsDYvir/1DQnzamlODuPUt9X0HeFVSrKZvidZH7f0DcaiSPcy4oqVvwz/VxwFndFsi5EGUczgx6uA60uN3nwEofrWaJ8aLlpFHBA==;2zw+sdT0dcrxgafxm0QteQ=="
 ---

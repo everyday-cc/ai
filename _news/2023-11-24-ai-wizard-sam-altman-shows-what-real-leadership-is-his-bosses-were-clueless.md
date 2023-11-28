@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/simonconstable/2023/11/24/ai-wizard-sam
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonconstable/2023/11/24/ai-wizard-sam-altman-shows-what-real-leadership-is-his-bosses-were-clueless/amp/"
 type: article
 quality: 84
-heat: 204
+heat: 174
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sam Altman's ouster at OpenAI precipitated by letter to board about AI breakthrough, sources tell Reuters"
-    excerpt: "The previously unreported letter and AI algorithm was a catalyst that caused the board to ... progress on Q*, which some internally believe could be a breakthrough in the startup's search for superintelligence, also known as artificial general intelligence ..."
-    publishedDateTime: 2023-11-22T23:09:00Z
-    webUrl: "https://www.cnbc.com/2023/11/22/sam-altmans-ouster-at-openai-precipitated-by-letter-to-board-about-ai-breakthrough-sources-tell-reuters.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/11/22/sam-altmans-ouster-at-openai-precipitated-by-letter-to-board-about-ai-breakthrough-sources-tell-reuters.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/22/sam-altmans-ouster-at-openai-precipitated-by-letter-to-board-about-ai-breakthrough-sources-tell-reuters.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107337809-1700657784105-gettyimages-1258550475-SKOREA_OPENAI.jpeg?v=1700657941"
-        width: 4500
-        height: 3001
-        isCached: true
   - title: "The Sam Altman saga reveals the need for AI transparency"
     excerpt: "The Altman-OpenAI saga has left many industry observers with a Silicon Valley-style case of whiplash. There’s also a fair measure of uncertainty around this next-gen OpenAI – both in terms of its ongoing stability and its approach to the future growth of AI as a whole."
     publishedDateTime: 2023-11-25T17:00:00Z
@@ -77,22 +61,6 @@ related:
       - url: "https://media.whas11.com/assets/CCT/images/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804/f9ccb4a8-33e9-4b24-842e-cf0ecf8fe804_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Today in AI: Sam Altman as CEO of OpenAI is strategic win for Nadella, What is AGI? and AWS India AI ready initiative to train people"
-    excerpt: "AGI is more of a general term, referring to Artificial Intelligence that has not been trained to excel ... The cloud service provider also earmarked $12 million for AWS Generative AI Scholarship, wherein it will provide Udacity scholarships to more than ..."
-    publishedDateTime: 2023-11-23T09:37:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-sam-altman-as-ceo-of-openai-is-strategic-win-for-nadella-what-is-agi-and-aws-india-ai-ready-initiative-to-train-people-11799571.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-sam-altman-as-ceo-of-openai-is-strategic-win-for-nadella-what-is-agi-and-aws-india-ai-ready-initiative-to-train-people-11799571.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-sam-altman-as-ceo-of-openai-is-strategic-win-for-nadella-what-is-agi-and-aws-india-ai-ready-initiative-to-train-people-11799571.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 43
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "With Sam Altman’s return, a shift in AI from idealism to pragmatism"
     excerpt: "In fact, the Open AI saga marks the start of a new, more grown-up phase for the AI industry. For Open AI, Mr Altman’s triumphant return may supercharge its ambitions. For Microsoft, which stood by Mr Altman in his hour of need,"
@@ -192,15 +160,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Live news: News updates from November 22: Sam Altman to return as Open AI CEO, Far-right leader set to come first in Dutch elections"
-    excerpt: "Keep abreast of significant corporate, financial and political developments around the world. Stay informed and spot emerging risks and opportunities with independent global reporting, expert commentary and analysis you can trust."
-    publishedDateTime: 2023-11-22T23:59:00Z
-    webUrl: "https://www.ft.com/content/6280aa4e-73d1-40b7-b9e0-cb1ba9789e6b"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 0
 
 secured: "sC+Hb31kTecPXXQNWFJwFJrHQJPaeZPnJ5mIiJ3lTvXVgQjTHHDWQL88GxwAUkOoYD+iG6BlzVw4h3nJLbyTxVYhZ6Ld8jrJ9qT8m9xu4x4Rgb2uOHhxHM88Z+UKl+iJfZZXYth7SakpzZdEk3YBRc7Ws/xUKjqTTLdZDfoi94VMItv17KOSDguAP69D+jfME35xbPyTG3UtF80VtSf88WrDlgsRXzJ5sRZHdK1GxAzDULgxtYsLyh753RlHuv0gj080aVPWN6Y2u/eh/ISfOheXL04FK2UhNuVo+prNzqcLgZynuhn8Fl7SWsMdxIgmGcsGMFvyK0e+qwdZ6hEMNTH6WiVOl12IbV5G8pjzl+U=;J6wDB77D90XYmQmw03lrKQ=="
 ---

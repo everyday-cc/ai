@@ -42,20 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How to Translate Languages with ChatGPT: Bridging Communication Gaps with AI"
-    excerpt: "ChatGPT signifies the dawn of a transformative phase in the realm of AI-powered language translation. Its exceptional proficiency in grasping the nuances of context and generating natural, fluent language across a diverse range of linguistic landscapes ..."
-    publishedDateTime: 2023-11-23T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-translate-languages-with-chatgpt-bridging-communication-gaps-with-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 68
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/Translate-Languages-ChatGPT.jpg"
-        width: 1280
-        height: 731
-        isCached: true
   - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
     excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
     publishedDateTime: 2023-11-25T10:38:00Z
@@ -97,20 +83,6 @@ related:
     quality: 54
     images:
       - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14258.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4 – Reuters"
-    excerpt: "The startup OpenAI on Tuesday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage"
-    publishedDateTime: 2023-11-26T20:33:00Z
-    webUrl: "https://www.inferse.com/806227/microsoft-backed-openai-starts-release-of-powerful-ai-known-as-gpt-4-reuters/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 50
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14044.png"
         width: 1200
         height: 628
         isCached: true

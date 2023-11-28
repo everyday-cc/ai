@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "New method uses crowdsourced feedback to help train robots"
+    excerpt: "A new technique enables an AI agent to be guided by data crowdsourced asynchronously from nonexpert human users as it learns to complete a task through reinforcement learning. The method trains the robot faster and better than other approaches."
+    publishedDateTime: 2023-11-27T23:07:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/11/231127132237.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "New method uses crowdsourced feedback to train robots"
     excerpt: "To teach an AI agent a new task, like how to open a kitchen cabinet, researchers often use reinforcement learning—a trial-and-error process where the agent is rewarded for taking actions that get it closer to the goal."
     publishedDateTime: 2023-11-27T14:52:00Z

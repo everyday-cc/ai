@@ -53,6 +53,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "AI chip boom fuels MediaTek’s 40% rally, beating Qualcomm and peers"
+    excerpt: "The gains have been fuelled by robust appetite for mobile devices that utilise the company’s chips, especially in China. Read more at straitstimes.com."
+    publishedDateTime: 2023-11-28T00:13:00Z
+    webUrl: "https://www.straitstimes.com/business/ai-chip-boom-fuels-mediatek-s-40-rally-beating-qualcomm-and-peers"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/11/28/2023-10-26T054629Z907204938RC2VCZ9CSNH8RTRMADP3JAPAN-AUTOS-DENSO.JPG"
+        width: 860
+        height: 573
+        isCached: true
   - title: "AI chip boom fuels Taiwan firm's 40% rally, beating Qualcomm, peers"
     excerpt: "The buzz surrounding MediaTek casts a spotlight on growing competition between semiconductor firms that are exploiting the use of AI to grab a larger share of the smartphone business"
     publishedDateTime: 2023-11-27T12:53:00Z
@@ -61,15 +75,6 @@ related:
     provider:
       name: Business Standard
       domain: business-standard.com
-    quality: 34
-  - title: "AI chip boom fuels MediaTek’s 40% rally, beating Qualcomm and peers"
-    excerpt: "A FIVE-MONTH rally in MediaTek looks set to extend as booming demand for smartphones and a promising new AI chip brighten the company’s outlook. Read more at The Business Times."
-    publishedDateTime: 2023-11-27T16:31:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ai-chip-boom-fuels-mediateks-40-rally-beating-qualcomm-and"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
     quality: 34
 
 secured: "1h5WpGof9wZsbvjVWo6S3rHnFMHc+Cg6VwJr1ac5TVH5YauoJycqzIU/gbYSeF+wEQFqmQTBgDtu9ZztfKBro17R8dTXr5D9T39HTnGBT28t7SoVMVjWM6GUKqN/QQU8vmzr5D7Kq8BX5jagUlu0v5oTYZVasrugxzvmQtAXzjJRdXTiGl3zmgKijDZo6IDi8NTtxLVIpPHc7jBwrZCirfJ4/jVh0040odV3Y4n8o0EohGu9aG9HpEa/m3t5tsCpA8TOW1VWZ+MW0Ir0aom+7i80nzy4pxc15VMWYjaLaBGkL9DMAinOTUFFuzVQIHhoBeqnGd6OvWoZ6nwYRkUXe/m4+guMFAL+9vkTurB9p2M=;UAYJAJqnE0hf1eSxMM3+nQ=="

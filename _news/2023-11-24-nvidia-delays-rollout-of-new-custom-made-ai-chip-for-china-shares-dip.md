@@ -151,15 +151,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Exclusive-Nvidia Delays Launch of New China-Focused AI Chip -Sources"
-    excerpt: "The H20, L20 and L2 include most of Nvidia's newest features for AI work, but have had some of their computing power measures cut back to comply with new U.S. rules, according to SemiAnalysis' analysis of the chips' specifications."
-    publishedDateTime: 2023-11-24T05:53:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-11-24/exclusive-nvidia-delays-launch-of-new-china-focused-ai-chip-sources"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Nvidia Delays Launch of AI Chip for China amid Export Compliance Challenges, NVDA Stock 1% Down"
     excerpt: "Nvidia Corp (NASDAQ: NVDA), the California-based AI chip giant, has notified its Chinese customers of a delay in the launch of its new artificial intelligence chip, H20, designed to comply with the latest United States export regulations, Reuters reported Friday, citing two sources familiar with the matter."
     publishedDateTime: 2023-11-24T16:46:00Z
@@ -191,20 +182,6 @@ related:
       - url: "https://www.networkworld.com/wp-content/uploads/2023/11/semiconductor_chips_manufacturing-1.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "NVIDIA delays new H20 AI GPU shipments in to China, first chip designed after US sanctions"
-    excerpt: "NVIDIA's first AI GPU designed to comply with US export rules into China -- the H20 AI GPU -- has been delayed from December, to Feb/March 2024."
-    publishedDateTime: 2023-11-27T00:57:00Z
-    webUrl: "https://www.tweaktown.com/news/94577/nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
-    images:
-      - url: "https://static.tweaktown.com/news/9/4/94577_502_nvidia-delays-new-h20-ai-gpu-shipments-in-to-china-first-chip-designed-after-us-sanctions_full.png"
-        width: 1500
-        height: 836
         isCached: true
   - title: "NVIDIA postpones launch of H20 China-specific AI chip"
     excerpt: "NVIDIA has informed its Chinese customers about a delay in the launch of its new artificial intelligence (AI) chip, the H20, until early next year"
@@ -326,20 +303,6 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/15956a8a29bc3c93c3b3f2c772ea148e"
         width: 800
         height: 533
-        isCached: true
-  - title: "MONAI medical imaging AI cloud service introduced by NVIDIA"
-    excerpt: "NVIDIA has recently announced the availability of a new hosted cloud service making medical imaging AI analysis and comparison even easier"
-    publishedDateTime: 2023-11-27T11:14:00Z
-    webUrl: "https://www.geeky-gadgets.com/monai-medical-imaging-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/NVIDIA-MONAI-medical-imaging-AI.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Nvidia revenues soar amid hyperscaler AI rush"
     excerpt: "The chipmaker's products underpin the AI services at the center of an enterprise adoption wave, but research and development are still underway."

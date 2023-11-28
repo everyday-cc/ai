@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Will AI Improve Healthcare? Consumers Think So, New Surveys Show"
-    excerpt: "With AI dominating headlines, new surveys show that despite some caution, many consumers are optimistic about AI's potential to transform healthcare for the better."
-    publishedDateTime: 2023-11-23T01:00:00Z
-    webUrl: "https://www.forbes.com/sites/debgordon/2023/11/22/will-ai-improve-healthcare-consumers-think-so-new-surveys-show/"
-    ampWebUrl: "https://www.forbes.com/sites/debgordon/2023/11/22/will-ai-improve-healthcare-consumers-think-so-new-surveys-show/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/debgordon/2023/11/22/will-ai-improve-healthcare-consumers-think-so-new-surveys-show/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655e976e3f96a38160726e17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1406
-        height: 900
-        isCached: true
   - title: "Risks Of AI In Healthcare Come To Light"
     excerpt: "AI is a new frontier and can be potentially extremely helpful in healthcare. It can also be extremely harmful. A class action lawsuit describes alleged harm."
     publishedDateTime: 2023-11-25T18:24:00Z
@@ -54,6 +38,22 @@ related:
     quality: 104
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65623b21796ce4c2f2011280/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "The Rise Of Artificial Intelligence In Marketing"
+    excerpt: "Today, we possess new AI tools to scrutinize data sets, suggest changes and create innovative content like never before."
+    publishedDateTime: 2023-11-27T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/27/the-rise-of-artificial-intelligence-in-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/27/the-rise-of-artificial-intelligence-in-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/11/27/the-rise-of-artificial-intelligence-in-marketing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/650353a2f5d79fd4bd28ff09/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
         isCached: true
@@ -71,6 +71,20 @@ related:
         width: 358
         height: 238
         isCached: true
+  - title: "AI in Healthcare 2024: Transforming Patient Care with Innovative Technologies"
+    excerpt: "Introduction: Artificial Intelligence (AI) has emerged as a powerful force in reshaping the landscape of healthcare. As we delve into 2024, the integration of AI in healthcare promises groundbreaking transformations,"
+    publishedDateTime: 2023-11-27T08:45:00Z
+    webUrl: "https://techbullion.com/ai-in-healthcare-2024-transforming-patient-care-with-innovative-technologies/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 51
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/11/AI-in-Healthcare-2024-Transforming-Patient-Care-with-Innovative-Technologies.jpg"
+        width: 650
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence in health care"
     excerpt: "As we move more into the future, artificial intelligence will make more of an impact in the employment landscape and how businesses operate and hire. The Murfreesboro Police Department released ..."
     publishedDateTime: 2023-11-23T09:30:00Z
@@ -85,6 +99,34 @@ related:
         width: 396
         height: 202
         isCached: true
+  - title: "AI expert: 'It’s the age of AI right now in health care'"
+    excerpt: "During a routine visit with the medical oncologist, a cancer patient brings up a new symptom that could be a side effect of cancer treatment."
+    publishedDateTime: 2023-11-27T01:00:00Z
+    webUrl: "https://www.joplinglobe.com/cnhi_network/ai-expert-it-s-the-age-of-ai-right-now-in-health-care/article_346300ca-c8d4-53cf-bc1c-c6cdb66d5000.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/5/69/569c359a-7879-58c0-b576-70ed05dca068/6560befc288f5.image.jpg?crop=1700%2C893%2C0%2C70&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IU experts speak on the role AI plays in the health care system"
+    excerpt: "Artificial intelligence continues to play a huge role in the health care industry. Experts speak on the benefits and drawbacks the tech may have."
+    publishedDateTime: 2023-11-27T00:23:00Z
+    webUrl: "https://www.wthitv.com/news/iu-experts-speak-on-the-role-ai-plays-in-the-health-care-system/article_f41706c8-8ccb-11ee-9b39-f37960a52902.html"
+    type: article
+    provider:
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wthitv.com/content/tncms/assets/v3/editorial/2/c0/2c030702-8ccd-11ee-8e79-5be480a419cd/6564010d386a4.image.png?crop=1576%2C827%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI to take center stage in healthcare in 2024"
     excerpt: "Even more change is on the horizon and 2024 is likely to bring significant transformation to the healthcare industry. Changes will be characterized by the rapid explosion of artificial intelligence and its integration across the healthcare ecosystem, unlocking the potential to improve healthcare delivery and patient outcomes."
     publishedDateTime: 2023-11-27T14:43:00Z
@@ -94,6 +136,15 @@ related:
       name: Healthcare Dive
       domain: healthcaredive.com
     quality: 34
+  - title: "The fight for the soul of AI"
+    excerpt: "Can one organization, or one person, maintain the brain of a scientist, the drive of a capitalist and the cautious heart of a regulatory agency?"
+    publishedDateTime: 2023-11-24T19:41:00Z
+    webUrl: "https://www.seattletimes.com/opinion/the-fight-for-the-soul-of-ai/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "pKHPxqraA+oY38MONByF6ngdAz7a6ibVpffTf4yhm69rNIZtChSdWvg9K4P2teYEjfeYUqySncXWhFfuSGG6UTKvni/Li4O/lWrZsFwvOt+I0Q57cOFBLHXaKLZqG7Q5VoehDt1FbvZJEkkJtJ9HhMLzaQF19czmP6IBGtgCg9uGh/YyuS15kee9kgtogevJEFlawgDLXF1EBz4iIgBmCIvtJkfLQgY/yXgt0R1IrE9/aWTuV0F4ctKC0fU0HYGgR14fUBK6CVFHZGSSynj3LRhx6Yprz0dqsCctebYxmhnDn8/lin11U2uVmOBNjWh/oY9sDMBENnRlU8P5wopIxvQK0ujoGRT5BH4gMtIqZMhMfL17YsTm+oo3Remb7fCV8SNib/z0bSEqDU8LmLAfkzpESa8CD/yaehzjlFeWknd/NAb97wXXj/rD5f/PVQwCZcScT4c89fWuJGSwjs/8hgOLP7PL8YLCb9YiZm82/vSz4HMHzqNpZ3srvzWmKVVeGzI5lOGYfyCMy7g3Xvcogw==;6S6+a9+F3fgpmdatdshvGg=="
 ---

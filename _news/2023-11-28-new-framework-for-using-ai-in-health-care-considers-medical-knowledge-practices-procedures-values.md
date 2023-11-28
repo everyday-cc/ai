@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-know
 ampWebUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
 type: article
-quality: 44
-heat: -1
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-system.jpg"
@@ -55,16 +56,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Hyundai Unveils Robot-Operated EV Plant in Singapore"
-    excerpt: "After beating General Motors and Ford in US electric vehicle (EV) sales in Q3, Hyundai Motor Group plans to keep its momentum going in the market."
-    publishedDateTime: 2023-11-27T17:55:00Z
-    webUrl: "https://www.automation.com/en-us/articles/november-2023/hyundai-robot-operated-ev-plant-singapore"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 34
 
-secured: "zvJULr5Tl8KfaaH+GSiafg5k6Dyah2Y2FBikdqHbqq5ssCrOotjhQBLEp6SK0m2pWZgtrQnprpH0VGnC9qhwgQFfeVnk5MqMwPJsW++hjDf+O2CBHTG0Iv2YoXg+uT8voXcOSwRdCRWPjoyid0fPnrHFuJax+fQCmLLgsxIiMY4sUZCbV1ITaO08BiKmmwf+igruadNCE9af79fMNgNbjQFE7g14IzbjbYJdJBmaBN4c7ZdNxQHBtlrOTlNHKFTlJEp6hfHjpfQ+T5OsH9xvu+UpjsY2V/FMpFt8O2rU3XVr0ez48eUNd9q5tmCKuomx0X+3wGpIIXyUtHpv7NWSLWw4FdqX/hSInTbp2qgb9Hw=;Vdf9QbEM3Ln/UlMMwpGOtg=="
+secured: "OI8mC9PxInlHqIUtxXuJwcoCKf7bwNJHA0yAvHpt40XcO+1F5PkERFkUNbKx7hLhW1CtgozwHleODoONkpGQTC8+7G11NQSHAVNSmspaCR0rd5q3c0E2L5uxIknOWGAKkKPnU5IYmgh1mOzq+JM9jFrHGadN8uShmDnj6kIuc7EIS3t44jFMsPI/n+Ytn8jIx7oMpD1qUSJwIqkYmHQAfgVA6y7P/ENVnaixNO0ZxxenrR8q8yuYaM8ZC4tlTIZacc4YpeP+HoXRkfSOmkfuJQxmAA4TWjagin1Sk49FdAY3NR+rGctZRGuOfVGQjOWnZ0Q7FzT3fGFL72FCNJz66urQtAph7mjjKSIgN/+7FmMNKDQ+IcGeNrFCoQBWXkTngnQtiREPD89AlJ0DxLK3xbK3NPKpAWKAuwUxlGGbuKeUmvegTSGIg3SLAVGwyXZGHG1KC90SUYhgvntUfO69aGwIA9J8isIoJzdc/MYyViTKUZBme3wUPRz1I4WbZ5SEe0CHmjsYJWWh/LIzX9Pofw==;GG0VyGiRmr0bTKx+FPZYyQ=="
 ---
 

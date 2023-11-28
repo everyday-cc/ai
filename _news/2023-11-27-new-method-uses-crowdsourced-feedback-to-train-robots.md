@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-11-method-crowdsourced-feedback-rob
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-method-crowdsourced-feedback-robots.amp"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,15 @@ topics:
   - AI
 
 related:
+  - title: "New method uses crowdsourced feedback to help train robots"
+    excerpt: "A new technique enables an AI agent to be guided by data crowdsourced asynchronously from nonexpert human users as it learns to complete a task through reinforcement learning. The method trains the robot faster and better than other approaches."
+    publishedDateTime: 2023-11-27T23:07:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/11/231127132237.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "New method uses crowdsourced feedback to help train robots"
     excerpt: "who leads the Improbable AI Lab in the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). In the future, this method could help a robot learn to perform specific tasks in a user’s home quickly, without the owner needing to show the ..."
     publishedDateTime: 2023-11-27T00:01:00Z

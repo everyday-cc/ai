@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-artificial-intelligence-in-game-development-and-gameplay-3318730/lite/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The Role Of AI In The Changing Landscape Of QA"
+    excerpt: "The use of AI as a strategic business tool can bring significant benefits, yet there are organizational and ethical challenges, especially in quality assurance (QA)."
+    publishedDateTime: 2023-11-27T14:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/27/the-role-of-ai-in-the-changing-landscape-of-qa/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "jNnl/htFOWYdO9JCk7IX8eN87t/6xMIntyYZwSUShNUwzmEySJTSEone55NR2D+jd3nIqdFt1i0uH8w967bBA+7GrV0Ui6nowlY4CmnLOj9lpLNOWzCY4ErObND33Cm4iVrolUKPxc4gNLfGmmlAGcjU96E+w7KOHHj3SN5sTUOxb/3BOjOwcyLhze79vNnMiZeJpkIJiH7aAbx/nL++AO5AvqZUp2p1welkmQwhLSjeN3x+tX4qnqk+XZKaiGbWVmiCKr3TCfOIvrDGX5RATi0KFIBqWRkRYwCF5zAfAR2Sm1ASYEA/a/gFrC3/3raxf46iJEzeFd9VuX+D7H6XSDBzfhFfSJizRz41qcCgUvI=;+sJ+G4zsSPHL0696q0kQzg=="
 ---

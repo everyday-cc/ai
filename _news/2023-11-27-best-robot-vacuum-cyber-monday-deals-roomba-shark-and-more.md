@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/?amp"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -68,6 +68,22 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 49
+  - title: "Craft meaningful content in seconds with this AI-powered tool for only $20 this Cyber Monday"
+    excerpt: "Churn out valuable content in seconds with a subscription to this AI tool on sale for $19.97 through Nov. 27."
+    publishedDateTime: 2023-11-28T00:34:00Z
+    webUrl: "https://www.popsci.com/sponsored-content/ai-powered-content-maker-cyber-monday-deal/"
+    ampWebUrl: "https://www.popsci.com/sponsored-content/ai-powered-content-maker-cyber-monday-deal/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-content/ai-powered-content-maker-cyber-monday-deal/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 48
+    images:
+      - url: "https://www.popsci.com/uploads/2023/11/28/image.jpeg?auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "eufy robot vacuums have deep discounts for Cyber Monday 2023"
     excerpt: "To start things off, we have one of my favorite new upper-mid-range robot vacuum models ... a self-empty station that holds up to 45 days of debris, laser navigation, AI-assisted mapping, and more. This model retails for $650, but it’s on sale for ..."
     publishedDateTime: 2023-11-27T09:25:00Z

@@ -84,6 +84,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 19
+  - title: "Tech Mahindra, AWS join hands to build a sports cloud platform"
+    excerpt: "Tech Mahindra on Monday announced it has collaborated with Amazon Web Services (AWS) to build a sports cloud platform. The offering focuses on building next-generation digital capabilities for sports organisations and delivering immersive and personalised experiences to sporting enthusiasts worldwide."
+    publishedDateTime: 2023-11-27T22:36:00Z
+    webUrl: "https://www.canindia.com/tech-mahindra-aws-join-hands-to-build-a-sports-cloud-platform/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 19
 
 secured: "9SfkzWIJeCskJLX5xVCc7M/amsU+hZ+XX0EAMgE0eQrD5sh+07sDZgCbC6NQLg0RnqBy3LOzgioyo+UiTFjEYoEVBRAVyezXalgrQwN6bWnoxik41SH3VfHrxTVLkMri69Y/hSx9HACpnMXHUH9P8NL4ZNWoTjVyT3kFjU82HeBxIpwKmxTRQ40FXq0hycgK/NapIeTMA31nPDaqYw1bPP4EimaArJKuucuZ5MmJ/XAXqihOYbDrkKOzmZDTTnlKdIiv1Q03oIaSp8AiVmC+9Jc6q0hu/ldXeD0u8lsNaR+Tnp0AeYkFr4igHd2fqmQ22rRk6JnXYIH1mc7AtzdqYOZIQyc2FnyJD3w0Yeusuk/rC6JSw0Ze5ZwvREU9k13gGQo3YY4XO5PH43cCrnlqX4xwk7C2ANFhXgIfZ58DBBexK2sYbwdgkYvDt3pqqj1ytQxcFW4WuTUgoRffLUMrbbg5vIpZDGLvbzQRAii+gLZytaKjxVOvwV5Yh7i4ty/Pnku6CT8i28GBlI6IevFRqA==;a8LdAtOgCFA22jn9Bq3kEg=="
 ---

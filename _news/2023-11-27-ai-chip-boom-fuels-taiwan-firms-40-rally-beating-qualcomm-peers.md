@@ -49,6 +49,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "AI chip boom fuels MediaTek’s 40% rally, beating Qualcomm and peers"
+    excerpt: "The gains have been fuelled by robust appetite for mobile devices that utilise the company’s chips, especially in China. Read more at straitstimes.com."
+    publishedDateTime: 2023-11-28T00:13:00Z
+    webUrl: "https://www.straitstimes.com/business/ai-chip-boom-fuels-mediatek-s-40-rally-beating-qualcomm-and-peers"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/11/28/2023-10-26T054629Z907204938RC2VCZ9CSNH8RTRMADP3JAPAN-AUTOS-DENSO.JPG"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Taiwan tech firm’s stock soars 40% on booming demand for smartphones and its new AI chip—leaving U.S. rival Qualcomm behind"
     excerpt: "NurPhoto - Getty A five-month rally in MediaTek Inc. looks set to extend as booming demand for smartphones and a promising new AI chip brighten the company’s outlook. The Taiwanese tech firm’s stock has soared almost 40% since the end of June ..."
     publishedDateTime: 2023-11-27T13:12:00Z
@@ -58,15 +72,6 @@ related:
       name: Fortune
       domain: fortune.com
     quality: 38
-  - title: "AI chip boom fuels MediaTek’s 40% rally, beating Qualcomm and peers"
-    excerpt: "A FIVE-MONTH rally in MediaTek looks set to extend as booming demand for smartphones and a promising new AI chip brighten the company’s outlook. Read more at The Business Times."
-    publishedDateTime: 2023-11-27T16:31:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ai-chip-boom-fuels-mediateks-40-rally-beating-qualcomm-and"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 34
 
 secured: "V0d0veH4sNbgUY3I7ocAcxNE0kDKjV5js6FIU9Md/2pCx+7gUclcoup9LEOo8QhALjuhzIxS7IH38S86ceSQkst8XA1pEV8Osy6rqLonqehsIj1BTx6EFZq+xv44xctsU7+234bn5bDzw2HM2kJplTsGUF3pttoNnrsEJeIT2hNnDOdbKHiKw3SIfeZ08J5Yo2V5JJmmucj912ru7shkGql36iDWDtPHxciWurVI1Mnozma4c/mO66sge0mjZHq02adwZDePiZ+TNzpHsISW65h5hWwpX7fkJPJ9TK+8leneusVe4n1gV43Z/S0vvsKGXnbo3yInSkdHmbwKo0gx/sd/dr7A/+M/9LSL4cCYgPMvJp9jdDc6ymQkCfI0/pSSGWXxGeEf2Cw87ArNTCauTuBh7g/cb4CSoA7tlKCIPeKrfm7TanOnPHJW3Ow1hyCJ0D5fU9a4FfzlpZWO4AtWPMboVWBXbPQ1MPAvmfAJ/1I0Fts9/M8KIRP62J3NtbYPD+HTMybziMWUTvwv7pRQXA==;6VC8guW2C6CuowwmjiTodg=="
 ---

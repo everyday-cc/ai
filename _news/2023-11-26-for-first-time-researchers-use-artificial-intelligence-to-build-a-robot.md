@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/for-first-time-researchers-use-artif
 webUrl: "https://www.cbsnews.com/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/"
 type: article
 quality: 53
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: CBS News
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "It’s Time to Build AI Weapons"
-    excerpt: "The risk of using artificial intelligence in weapons is the one point almost everyone agrees upon. But they are gravely, dangerously wrong."
-    publishedDateTime: 2023-11-22T23:34:00Z
-    webUrl: "https://www.nysun.com/article/its-time-to-build-ai-weapons"
-    type: article
-    provider:
-      name: New York Sun
-      domain: nysun.com
-    quality: 37
-    images:
-      - url: "https://wp.nysun.com/wp-content/uploads/2023/11/weapon-scaled.jpg?w=1200&h=630&fit=fill&fm=jpg&fl=progressive"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Kerala startup offers AI platform to help market investors do real-time research"
     excerpt: "Nikhil has joined hands with T R Shamsudheen, a first-generation entrepreneur, for his second venture- Algorithma Digitech Private Limited- a fintech company that has its office at the Kerala Startup Mission (KSU) campus in Kalamassery,"
     publishedDateTime: 2023-11-25T05:16:00Z
