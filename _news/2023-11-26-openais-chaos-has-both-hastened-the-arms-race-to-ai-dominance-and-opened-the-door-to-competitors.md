@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 785
         isCached: true
-  - title: "AI Startup Cohere’s CEO Slams Effective Altruism in Wake of OpenAI Drama"
-    excerpt: "The chief executive officer of artificial intelligence startup Cohere criticized the “self-righteousness” of the effective altruism movement and those overly concerned with th"
-    publishedDateTime: 2023-11-24T01:06:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-cohere-s-ceo-slams-effective-altruism-in-wake-of-openai-drama-71700717899430.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-cohere-s-ceo-slams-effective-altruism-in-wake-of-openai-drama-71700717899430.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-cohere-s-ceo-slams-effective-altruism-in-wake-of-openai-drama-71700717899430.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 56
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/11/24/1600x900/UK-GOMEZ-8_1700787630959_1700787649517.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "OpenAI’s ‘humanity-threatening’ AI model: What lessons from Google and Meta teach"
     excerpt: "OpenAI board sacked CEO Sam Altman due to concerns over commercialising advances, including a breakthrough project called Q*. Similar instances have o"
     publishedDateTime: 2023-11-24T12:10:00Z

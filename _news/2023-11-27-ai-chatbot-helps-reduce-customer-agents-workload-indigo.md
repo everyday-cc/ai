@@ -40,6 +40,20 @@ related:
         width: 660
         height: 372
         isCached: true
+  - title: "Could AI Become Your New Boss? Amazon Launches Custom Chatbots for Businesses"
+    excerpt: "Amazon Q is a new chatbot for businesses that answers questions using a company's private data and tailors responses to specific job functions."
+    publishedDateTime: 2023-11-28T23:50:00Z
+    webUrl: "https://www.pcmag.com/news/could-ai-become-your-new-boss-amazon-launches-custom-chatbots-for-businesses"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 64
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05RGa8ecizxH42TpR2Y4lzp-1.fit_lim.size_1200x630.v1701212765.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Teradata launches its AI discovery and exploration tools on AWS cloud"
     excerpt: "Teradata is best known for its big-data software platform VantageCloud Lake, which can be used by enterprises to analyze their business information for useful insights. Its analytics feature set is known as ClearScape Analytics, and the new AI platform is said to be heavily reliant on its capabilities."
     publishedDateTime: 2023-11-28T16:00:00Z

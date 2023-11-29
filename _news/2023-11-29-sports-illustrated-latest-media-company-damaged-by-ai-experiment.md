@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Report: Sports Illustrated published AI articles under fake bylines"
+    excerpt: "While there’s nothing wrong in media companies experimenting with artificial intelligence, “the mistake is in trying to hide it, and in doing it poorly,” said Tom Rosenstiel, a University of Maryland professor who teaches journalism ethics."
+    publishedDateTime: 2023-11-28T12:02:00Z
+    webUrl: "https://www.12newsnow.com/article/news/nation-world/sports-illustrated-ai-articles-fake-writers/507-a2d8e9ef-c390-4944-aa01-c3dd87c87d3c"
+    ampWebUrl: "https://www.12newsnow.com/amp/article/news/nation-world/sports-illustrated-ai-articles-fake-writers/507-a2d8e9ef-c390-4944-aa01-c3dd87c87d3c"
+    cdnAmpWebUrl: "https://www-12newsnow-com.cdn.ampproject.org/c/s/www.12newsnow.com/amp/article/news/nation-world/sports-illustrated-ai-articles-fake-writers/507-a2d8e9ef-c390-4944-aa01-c3dd87c87d3c"
+    type: article
+    provider:
+      name: 12 NEWS
+      domain: 12newsnow.com
+    quality: 59
+    images:
+      - url: "https://media.12newsnow.com/assets/CCT/images/b54e0f2e-767f-4009-86ee-ea368e8618ee/b54e0f2e-767f-4009-86ee-ea368e8618ee_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Children making AI-generated child abuse images, says charity"
     excerpt: "Children are making indecent images of other children using artificial intelligence (AI) image generators, according to a UK charity. The UK Safer Internet Centre (UKSIC) said it had received \"a small number of reports\" from schools but called for action now before the problem grew."
     publishedDateTime: 2023-11-27T16:07:00Z
@@ -143,6 +159,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2023/11/28/Media_Counterfeit_Writers_07767_c0-393-4075-2770_s1200x700.jpg?7d335347f157cf186a831de44fe9a5dba9decdf7"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Sports Illustrated Union Says It’s “Horrified” by Publication of AI-Generated Writers"
+    excerpt: "The human members of the Sports Illustrated Union have made their feelings about the Arena Group's fake writer-penned content clear."
+    publishedDateTime: 2023-11-29T02:43:00Z
+    webUrl: "https://futurism.com/sports-illustrated-union-horrified-ai-writers"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 32
+    images:
+      - url: "https://wp-assets.futurism.com/2023/11/sports-illustrated-union-horrified-ai-writers.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Students display AI-generated art works through December"
     excerpt: "“I see AI-generated art differently though: one uses one’s creativity to imagine possible scenes, then one types words to start the AI making your picture.” Ward said that each picture began with a student’s idea, and the AI did the painting ..."

@@ -90,6 +90,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon unveils AI chip to compete with Microsoft, Nvidia and AMD"
+    excerpt: "Amazon unveils Trainium2 chip for training large language models, offering 4x faster training and 2x energy efficiency than previous Trainium chips. T"
+    publishedDateTime: 2023-11-29T02:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-unveils-ai-chip-to-compete-with-microsoft-nvidia-and-amd/articleshow/105572624.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-unveils-ai-chip-to-compete-with-microsoft-nvidia-and-amd/amp_articleshow/105572624.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-unveils-ai-chip-to-compete-with-microsoft-nvidia-and-amd/amp_articleshow/105572624.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 91
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-105572630,width-1280,height-720,resizemode-4/105572630.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Nvidia shares fall after China AI chip is delayed"
     excerpt: "Citing two sources familiar with the matter, Reuters writes that the delayed chip is the H20, the most powerful of three AI-focused products Nvidia has developed"
     publishedDateTime: 2023-11-24T17:17:00Z

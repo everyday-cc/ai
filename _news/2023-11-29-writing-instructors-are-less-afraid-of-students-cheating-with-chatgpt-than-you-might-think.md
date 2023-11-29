@@ -33,6 +33,20 @@ related:
         width: 1999
         height: 1232
         isCached: true
+  - title: "ChatGPT's First Year: Udemy Data Highlights Unprecedented Global Demand for Generative AI Skills"
+    excerpt: "We believe Udemy was the first global learning platform to provide content on learning generative AI skills, with a ChatGPT course on Udemy just 11 days after its launch,” said Scott Rogers, Senior Vice President of Supply Strategy at Udemy."
+    publishedDateTime: 2023-11-28T17:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-s-first-year-udemy-data-highlights-unprecedented-global-demand-for-generative-ai-skills-1032855703"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/6707632d-778b-440c-9fe9-7b633bf2a020"
+        width: 1200
+        height: 550
+        isCached: true
   - title: "Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images"
     excerpt: "AI art generators are in a weird place. They can attempt to make just about anything you can think of, from a dog skateboarding in outer space, to a cup of coffee floating in the ocean. Putting the ethics of AI art aside, some of these creations do not hit ..."
     publishedDateTime: 2023-11-28T00:00:00Z

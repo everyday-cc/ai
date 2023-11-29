@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 135
 published: true
 
 provider:
@@ -69,6 +69,6 @@ related:
       domain: datanami.com
     quality: 34
 
-secured: "aPQP5xyNwzx+3B2DCpFHlpE8mwk990M8O5fcG23G3uhoCHhLzNVOVYnnPO52AQ0FduGA6FHI2pm6xXWKnEP9zJq3i//1qxDhuzLXmNZ8hnZWyUumG5eiO+pSPzJnkqxfUWTQsBINUspPfeFIEY7f3d8XZ7Ze4UQayowrEwWXZSAxVE8kbhMTkz9xzZxbVIse/x5OSokA2DwgbWzvg1AhBfQLmXxGCljxB8I6QYqnklzBUhQC60PEXf61nDOXIH/DOOUUXhlcF3MRDTj1uphQtoGFehOe0Qkz5YoKffJQKWBxn0X5SrheT2g2lHhxcdFrhbDmbwajKmXKiKlgrXWZppEr2N3JqT5zYT1cVEWAfDQ=;V6Oyp0wNV8yXJbKKoCveXg=="
+secured: "VfBMzSogUYmoHkKFexXkkkFd6yctJRBh6SMmy3fYU1Gl5pXFlpCiIYJ4O80n0Ktc5pkaHRajdkWjUra/eCvuGOp1LK+Qbp/AfLMAIAD6y2SNc0IrMA9KaB6sw2BvvSQ3C9i30Ub98eIKUO1vlHfvk6vDjuBjY9Zc2pIhKABFE48DsfwE4OQLWbZOIj0XUmIE32/m2flisW7L0GES471VSRwWuAqPgdmLNVsqBjoBl2wlvAT8fNDJ52wHwl5ZpCTxF7EoeErgJxJRqZtKqTjzblfIY56tkjxnmjFdh29eJdexbzgBzlDHxlC9lKJkVm4AbablZ2T0BRB/sPCGI67nPYC4A9hW52Qgzw+a5F5T4JNQ34gasFRarJrdbp77qKu/H0wPwZu9iBYDl1SM1zXOJrvTy61mTc+SPkwrRYz7rXIlw3tP9M83z19k9cHTuOP8yfdFxPth9ilnVNp40HOmdx0iRkgNVzYd7O4DewlkT4TdEzRLAoGJZnQlsy/Bu9ELFWK8AsySVtRKG6/UuHKp6Q==;vNom02hhXQ33cnpbn3MWSA=="
 ---
 

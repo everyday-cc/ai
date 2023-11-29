@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/aws-re-invent-2023-keynote/"
 webUrl: "https://www.techrepublic.com/article/aws-re-invent-2023-keynote/"
 type: article
 quality: 101
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Could AI Become Your New Boss? Amazon Launches Custom Chatbots for Businesses"
+    excerpt: "Amazon Q is a new chatbot for businesses that answers questions using a company's private data and tailors responses to specific job functions."
+    publishedDateTime: 2023-11-28T23:50:00Z
+    webUrl: "https://www.pcmag.com/news/could-ai-become-your-new-boss-amazon-launches-custom-chatbots-for-businesses"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 64
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05RGa8ecizxH42TpR2Y4lzp-1.fit_lim.size_1200x630.v1701212765.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "AI chatbot helps reduce customer agents' workload: IndiGo"
     excerpt: "In a release, the carrier also said its data scientists did research on Generative Pre-trained Transformers (GPT) and programmed the bot using extensive prompt engineering to mimic human behaviour, respond to emotions and even infuse humour into interactions."
     publishedDateTime: 2023-11-27T12:55:00Z

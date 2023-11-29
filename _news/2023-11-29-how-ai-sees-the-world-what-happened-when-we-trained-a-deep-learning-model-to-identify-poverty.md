@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-11-ai-world-deep-poverty.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-world-deep-poverty.amp"
 type: article
 quality: 61
-heat: 81
+heat: 82
 published: true
 
 provider:

@@ -2,17 +2,17 @@
 category: news
 title: "'If you have a face, you have a place in the conversation about AI,' expert says"
 excerpt: "Computer scientist Joy Buolamwini warns that facial recognition technology is riddled with the biases of its creators. She is the author of Unmasking AI and founder of the Algorithmic Justice League."
-publishedDateTime: 2023-11-28T22:21:00Z
-originalUrl: "https://news.wfsu.org/npr-news/2023-11-28/if-you-have-a-face-you-have-a-place-in-the-conversation-about-ai-expert-says"
-webUrl: "https://news.wfsu.org/npr-news/2023-11-28/if-you-have-a-face-you-have-a-place-in-the-conversation-about-ai-expert-says"
+publishedDateTime: 2023-11-29T01:21:00Z
+originalUrl: "https://www.kalw.org/npr-news/2023-11-28/if-you-have-a-face-you-have-a-place-in-the-conversation-about-ai-expert-says"
+webUrl: "https://www.kalw.org/npr-news/2023-11-28/if-you-have-a-face-you-have-a-place-in-the-conversation-about-ai-expert-says"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: WFSU
-  domain: wfsu.org
+  name: KALW
+  domain: kalw.org
 
 topics:
   - Computer Vision
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "7F+cKLEqjSk3lXfhdq0XZwKlHJ2x2SE4AKxFQWOLHyf3v6+VIZrXWJiZUCHLZ0Rr4b0Lf01yVpP8VnUUTFAN8Ez/Ni+6hvYfNxB74Qv0WSwTUcEB6jAEbXvWQ/GYxv/2FhNgnTZy3osoe92nw1sm2N9qyd5TV+Z/Om8YbVJZkl6FlZlhz6Bs0653ONyhkGbowq1eRM3IhnKpbjtWgQ8uz1comsx6V/ZSwjyihCUr/Pc4aWkGxO74z5AhosDc4vDWal8EmEjKMoCzEOOJxysmmJK6lvZSelrdtJpHie7Stx86f0HTjjxjw73MAam8GlkmJ65617l3VuDWFYQsBGcVTJ3bIDfMQd5w9ifefF/rBhxt5adXvpj8WgNU/cPalHbJRY5hw+ocS+DxAy5dtBlxO6ubd7HrFuZrdCY/wE99s6FcAyVOh6K2U0BW1ob+d99oauZowORfXT1DxIHlfNU8nJ/iqOAi3mX9bxKW8hY5sbiMXXUnJuf7jTxbp3K45ILutzjdlR7ekwPdKIVuhvURIA==;q9ymJ7aPPAnnnv90SeiZtA=="
+secured: "vyppmumqKtjdoslc538KMgszmZ6qxHfhEGphN/nXEqbYWAkK8uG6oKNWlZ1bZZPR3AwnBLRKa+TVIS9YK2XSDe9JJOL9nOgBb87ma8ux6NJINMWVFQ5VXMuT2l4Yx8XDdyho8Wazu2oA0G4EhRwfzbY6ML07DbRBwecNk1XCERGnY4vAhGWYtzRy/Phwbi5+7rVg2J63Av2vRS6AhruqZh4wh23fH8+BqPMC/UsX9/IBMAgUjHQhPIhogaR7289wYSoB5qJHYFdmtf5zJfxAhb9fbdqCoxfIviHIoW1kV/OYky5Ia/X1q3YLEIoGTwT15vLgrVQehjejWkI6hsaFt6CXoLeRRCdXn+q6KZ2ULb4=;e7EvV013+APV+XMJL6iQBQ=="
 ---
 

@@ -88,20 +88,6 @@ related:
         width: 828
         height: 610
         isCached: true
-  - title: "He’s back: Sam Altman and the chaos at the heart of the AI industry"
-    excerpt: "The CEO of OpenAI was sacked and then rehired days later, after staff threatened to follow him. But what does this corporate drama tell us about the future of AI? Blake Montgomery explains"
-    publishedDateTime: 2023-11-24T02:00:00Z
-    webUrl: "https://www.theguardian.com/news/audio/2023/nov/24/sam-altman-chaos-heart-ai-industry-podcast"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 37
-    images:
-      - url: "https://i.guim.co.uk/img/media/d4876b120477fefa6ed3e124024779fef07ef007/0_77_5392_3237/master/5392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=579b6731d066428c619e2d6ad34bc241"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "OpenAI CEO Sam Altman Funds Longevity Startup With Goal To Increase Human Lifespan By 10 Years – Yahoo Finance"
     excerpt: "A startup firm backed by an artificial intelligence (AI) industry leader aims to expand human lifespan by 10 years.Sam Altman is the CEO of OpenAI, the"
     publishedDateTime: 2023-11-24T07:40:00Z

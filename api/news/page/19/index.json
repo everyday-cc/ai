@@ -2,6 +2,232 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-11-10-use-machine-learning-without-writing-a-single-line-of-code-with-amazon-sagemaker-canvas.md",
+      "title": "Use machine learning without writing a single line of code with Amazon SageMaker Canvas",
+      "excerpt": "In the recent past, using machine learning (ML) to make predictions, especially for data in the form of text and images, required extensive ML knowledge for creating and tuning of deep learning models. Today, ML has become more accessible to any user who wants to use ML models to generate business value.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-machine-learning-without-writing-a-single-line-of-code-with-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-machine-learning-without-writing-a-single-line-of-code-with-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/03/mlblog_img1-1260x552.png",
+          "width": 1260,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T16:57:42Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-11-microsoft-celebrates-cognitive-services-milestones-with-new-ai-capabilities.md",
+      "title": "Microsoft celebrates Cognitive Services milestones with new AI capabilities",
+      "excerpt": "Value stream management involves people in the organization to examine workflows and other processes to ensure they are deriving the maximum value from their efforts while eliminating waste — of ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
+      "originalUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T16:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-11-cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive.md",
+      "title": "Cognitive Technology Education Services, Inc. Unveils Revolutionary Gamified IT Learning App, \"CognITive\"",
+      "excerpt": "DAYTON, Ohio, Nov. 10, 2023 /PRNewswire/ -- Cognitive Technology Education Services, Inc., a pioneering company in the field of technology education, is thrilled to announce the upcoming launch of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20231110cl65428/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20231110cl65428/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2273645/Cognitive_Technology_Education_Services_Logo.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T16:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-11-10-german-ai-startup-hope-of-europe-cites-existential-danger.md",
+      "title": "German AI startup, hope of Europe, cites 'existential danger'",
+      "excerpt": "Europe's hope to rival OpenAI, Aleph Alpha, may have just raised close to 500 million euros ($534 million) from investors this week, but its co-founder said Friday the start-up was in a battle to even survive.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-11-german-ai-startup-europe-cites.html",
+      "originalUrl": "https://techxplore.com/news/2023-11-german-ai-startup-europe-cites.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/openai.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-11-german-ai-startup-europe-cites.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-german-ai-startup-europe-cites.amp",
+      "publishedDateTime": "2023-11-10T15:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-10-cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive.md",
+      "title": "Cognitive Technology Education Services, Inc. Unveils Revolutionary Gamified IT Learning App, \"CognITive\"",
+      "excerpt": "DAYTON, Ohio, Nov. 10, 2023 /PRNewswire/ -- Cognitive Technology Education Services, Inc., a pioneering company in the field of technology education, is thrilled to announce the upcoming launch of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive/article_d181727c-f794-5e79-b3ad-2b0fced7fe8b.html",
+      "originalUrl": "https://www.victoriaadvocate.com/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive/article_d181727c-f794-5e79-b3ad-2b0fced7fe8b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/a6/ca65185a-7066-54be-b14e-6908093fa5c6/654e42240ca7b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-10T15:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-github-universe-open-source-trends-report-and-new-ai-security-products.md",
       "title": "GitHub Universe: Open Source Trends Report and New AI Security Products",
       "excerpt": "GitHub Advanced Security gains some AI features, and GitHub Copilot now includes a chatbot option. Github Copilot Enterprise is expected in February 2024.",
@@ -976,247 +1202,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-deep-learning-based-system-paves-the-way-for-efficient-battery-health-assessment.md",
-      "title": "Deep learning-based system paves the way for efficient battery health assessment",
-      "excerpt": "As the electric vehicle market continues to surge, the assessment of used batteries has become increasingly crucial. A team of researchers, led by Professor Donghyuk Kim and Professor Yunseok Choi in the School of Energy and Chemical Engineering at UNIST,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-11-deep-learning-based-paves-efficient-battery.html",
-      "originalUrl": "https://techxplore.com/news/2023-11-deep-learning-based-paves-efficient-battery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/revolutionary-deep-lea-1.jpg",
-          "width": 1280,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-11-deep-learning-based-paves-efficient-battery.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-deep-learning-based-paves-efficient-battery.amp",
-      "publishedDateTime": "2023-11-09T18:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-reuters-next-goldman-sachs-developing-dozen-generative-ai-projects-exec.md",
-      "title": "Reuters NEXT Goldman Sachs developing dozen generative AI projects -exec",
-      "excerpt": "Goldman Sachs is working on a dozen projects which will incorporate generative artificial intelligence into its business practices, a senior executive at the Wall Street giant told the Reuters NEXT conference in New York on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/reuters-next-goldman-sachs-developing-dozen-generative-ai-projects-exec-2023-11-09/",
-      "originalUrl": "https://www.reuters.com/technology/reuters-next-goldman-sachs-developing-dozen-generative-ai-projects-exec-2023-11-09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/8bfTGGsCeKLJiNs87-Qi_iq9sAs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WLFAS2R4G5LYVOT7GTFHYAZGOE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T17:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-ai-ethics-board-in-us-doj-would-advise-on-facial-recognition-deployment.md",
-      "title": "AI ethics board in US DOJ would advise on facial recognition deployment",
-      "excerpt": "Members would review legal and ethics compliance when using facial recognition and related algorithms for law enforcement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202311/ai-ethics-board-in-us-doj-would-advise-on-facial-recognition-deployment",
-      "originalUrl": "https://www.biometricupdate.com/202311/ai-ethics-board-in-us-doj-would-advise-on-facial-recognition-deployment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg",
-          "width": 2048,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T17:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-former-apple-designers-launch-700-humane-ai-pin-as-smartphone-replacement.md",
-      "title": "Former Apple designers launch $700 Humane AI Pin as smartphone replacement",
-      "excerpt": "The Humane AI Pin attaches to the lapel and is designed to replace your smartphone, allowing the user to make calls, send texts and look up information",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html",
-      "originalUrl": "https://www.cnbc.com/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107331667-1699553938651-humane-press-shield-lifestyle-2.png?v=1699554038",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/09/former-apple-designers-at-humane-launch-hands-free-ai-powered-pin.html",
-      "publishedDateTime": "2023-11-09T17:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-humanes-ai-pin-promises-an-ambient-computing-future-for-699-plus-24-a-month.md",
-      "title": "Humane’s Ai Pin promises an ‘ambient computing’ future for $699 (plus $24 a month)",
-      "excerpt": "It’s here. After months of hype, leaks and reveals, Humane has officially revealed the Ai Pin. The small device magnetically attaches to its wearer’s",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/09/humanes-ai-pin/",
-      "originalUrl": "https://techcrunch.com/2023/11/09/humanes-ai-pin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/humane-press-shield-lifestyle-2.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/09/humanes-ai-pin/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/09/humanes-ai-pin/amp/",
-      "publishedDateTime": "2023-11-09T17:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

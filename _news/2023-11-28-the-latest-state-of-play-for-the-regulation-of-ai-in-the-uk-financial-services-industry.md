@@ -79,20 +79,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Governor’s Office issues initial generative artificial intelligence report on Tuesday"
-    excerpt: "On Tuesday, the Governor's Office released a report about the emerging possibilities and potential pitfalls of generative artificial intelligence."
-    publishedDateTime: 2023-11-24T01:43:00Z
-    webUrl: "https://keyt.com/news/california/2023/11/23/governors-office-issues-initial-generative-artificial-intelligence-report-on-tuesday/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 34
-    images:
-      - url: "https://keyt.b-cdn.net/2023/02/Seal_of_the_Governor_of_California.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Nearly 80% of British teenagers have used generative AI"
     excerpt: "Almost four in five British teenagers have used generative AI tools and services, according to the media watchdog, underscoring the rapid adoption of the fast-evolving technology among a new generation of internet users."
     publishedDateTime: 2023-11-28T00:01:00Z

@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/30/b0af8181-af32-490a-ab05-fbbf97de4c12/thumbnail/1200x630/1a6cd3d5d08f273ce42312cb6cdb5d1b/ai.jpg?v=5659e73acd91751548aa89950cf015b0"

@@ -42,20 +42,6 @@ related:
         width: 759
         height: 506
         isCached: true
-  - title: "Across China, an Unseen Rural Workforce Is Shaping the Future of AI"
-    excerpt: "Data labeling jobs in rural areas are empowering women and the marginalized while also aiding poverty alleviation. But as advanced AI begins to eclipse traditional methods, the future demand for such human-driven jobs faces uncertainty."
-    publishedDateTime: 2023-11-24T01:25:00Z
-    webUrl: "https://www.sixthtone.com/news/1014142"
-    type: article
-    provider:
-      name: Sixth Tone
-      domain: sixthtone.com
-    quality: 39
-    images:
-      - url: "https://image5.sixthtone.com/image/5/73/498.jpg"
-        width: 3000
-        height: 1500
-        isCached: true
   - title: "How will AI technologies shape the future of video content creation?"
     excerpt: "AI is changing virtually every industry imaginable.New AI-driven technologies and platforms are shifting the speed at which we operate, what we can accomplish, and even what and how we perceive content."
     publishedDateTime: 2023-11-24T06:27:00Z

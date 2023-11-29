@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated-influencer-can-pull-in-10000-euros-a-month/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://c.ndtvimg.com/2023-11/o587ebfo_neha-deepak-shah_625x300_26_November_23.jpeg?ver-20231128.06"
         width: 335
         height: 384
-        isCached: true
-  - title: "Spanish influencer agency designed this AI model after deciding real-life influencers are a pain"
-    excerpt: "Meet Aitana Lopez, a gorgeous young influencer from Barcelona who has 122,000 followers on Instagram - even though she's an AI creation."
-    publishedDateTime: 2023-11-24T01:11:00Z
-    webUrl: "https://bgr.com/business/spanish-influencer-agency-designed-this-ai-model-after-deciding-real-life-influencers-are-a-pain/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 24
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/11/Screenshot-2023-11-23-at-10.39.09 AM.jpg?quality=82&strip=all"
-        width: 1242
-        height: 830
         isCached: true
 
 secured: "YjfXlDbH989/jyzr2U2RrNDtSw1dfHZomNb2SVXKwntJG4t2kmPootw7IXaxJkQv91ga7GoRBt//pcZmhGrHSvJKDDSdDcX3MK/cHgSPAq3jXYT6Fp24rpqodlWlDY/Mn1zKY43Nl/ZBOMAoZrMau5KFD1MKxHWXloPzsbfxzJe6luQRH6hON6Lx91PMmZucWZb+N0pUtW4zT0rUWxxaLDQGc90F5hEiormXeZvxJz9i6rHLrHgqNpYMMmZ7AZy10x7LJfhKtCaV82EWQqmgAgfPu+nAMKkfenhWGk+acY690YYccOjPyyitRyw8x97py9Qx1HIoogXkmHuueR5rDleIEd3152XcMlFql9ZjR4/kIKlgShn8fBvof/5EOEtSsXcslRlfA0KhR6XYj6dJ3W0kzc40mkbQIMdygjSuYDor0CAx+Z+yo5U7cQuJd9J4yeVDfOYZu7vWcZkjagxlDTUH7mSUd7G6tTzODzmtaQ+jOEaUHApLGUpCkc2cUZCDXkoUNN+k9Z2hOJoBSoYqng==;mX5ek719jN6YMFWz2JoXCg=="

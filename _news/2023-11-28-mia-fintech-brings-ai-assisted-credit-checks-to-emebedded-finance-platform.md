@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 1568
         isCached: true
+  - title: "Fintechs leading the change for AI adoption in risk and compliance"
+    excerpt: "According to a study by Moody Analytics, AI adoption for risk and compliance is highest among fintech companies."
+    publishedDateTime: 2023-11-29T00:45:00Z
+    webUrl: "https://techwireasia.com/2023/11/why-are-fintechs-leading-the-change-for-ai-adoption-in-risk-and-compliance/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/11/AI_risk_and_compliance_3.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "87zQFaKB5/i36bnWAm8N4I+scY/kdE2MNQ5/hRfOgsjfC3u0ad+SKIJnpiCxaqRvOBDr9PGJZYBPCs21go7TO7EkZzXPOao/IOX1K+2605044c22rUmI3zRu88b6zKqGRCbWAyI6YUmF+W2Ie3KOjZH6RhrPRo7NQN/g59/T1LTGidAgSFwgrjFqGRAYRdKx7STIHmO2LiHkR3PJrCoFdWQVMD1Bt9VqQ7utgKxeh5EwCc8U8VKZZJgfcHnsPuGyTBZW2iLhMRQdY/f6SppRcbLnKKdCzcnjVh5bo0o+3twwjroukM5b59B7AbMM3X63s8B4QhzmgQesvzjGr+hoE7g6pGpWIGH00D0cFBsuuN0=;TOyOh00cYaZGZXCzT81tzA=="
 ---

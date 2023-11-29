@@ -59,20 +59,6 @@ related:
         width: 708
         height: 399
         isCached: true
-  - title: "RTX 4090 dismantled in China, blower style cooler added, sold as Al GPU instead"
-    excerpt: "Chinese companies are ripping apart GeForce RTX 4090 graphics cards, turning them into AI accelerators, and making some serious money out of it."
-    publishedDateTime: 2023-11-24T01:11:00Z
-    webUrl: "https://www.tweaktown.com/news/94549/rtx-4090-dismantled-in-china-blower-style-cooler-added-sold-as-al-gpu-instead/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 35
-    images:
-      - url: "https://static.tweaktown.com/news/9/4/94549_901_rtx-4090-dismantled-in-china-blower-style-cooler-added-sold-as-al-gpu-instead_full.jpg"
-        width: 1500
-        height: 751
-        isCached: true
   - title: "Chinese companies are repurposing GeForce RTX 4090s into AI GPUs"
     excerpt: "Companies are circumventing the US tech export ban to China by creating blower AI accelerators from Nvidia GeForce RTX 4090 graphics cards."
     publishedDateTime: 2023-11-28T14:42:00Z

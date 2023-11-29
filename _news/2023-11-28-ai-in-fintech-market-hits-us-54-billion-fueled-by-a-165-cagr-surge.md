@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Embedded Smart Cameras Market Eyes a Robust 34.2% CAGR Journey to US$ 1,24,725.1 Million by 2033"
-    excerpt: "The embedded smart cameras market is poised for remarkable growth, with a projected (CAGR) of 34.2% expected between 2023 and 2033. This surge in growth is anticipated to culminate in a substantial market value,"
-    publishedDateTime: 2023-11-24T01:26:00Z
-    webUrl: "https://www.fmiblog.com/2023/11/24/embedded-smart-cameras-market-eyes-a-robust-34-2-cagr-journey-to-us-124725-1-million-by-2033/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 11
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/11/Embedded-Smart-Cameras-Market.jpg"
-        width: 1000
-        height: 392
-        isCached: true
   - title: "Industrial Machine Vision Market Sees a Bright Future: Projected 6.9% CAGR Targets US$ 16.46 Billion by 2032"
     excerpt: "The industrial machine vision market refers to the use of advanced vision systems and technologies in various industrial applications. Machine vision systems utilize cameras, sensors, and image processing algorithms to automate inspection,"
     publishedDateTime: 2023-11-27T01:58:00Z

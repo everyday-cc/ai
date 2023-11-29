@@ -28,63 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "Why physical operations are uniquely positioned for AI transformation"
-    excerpt: "With physical operations, companies deal with massive, petabyte-scale data in the cloud -- AI is the natural fit for extracting value from it."
-    publishedDateTime: 2023-11-28T15:12:00Z
-    webUrl: "https://venturebeat.com/ai/why-physical-operations-are-uniquely-positioned-for-ai-transformation/"
+  - title: "Meta updates political advertising rules to cover AI-generated images and videos"
+    excerpt: "Meta revealed on Tuesday more details about its policies on political ads, including a mandate that advertisers disclose when they use artificial intelligence to alter images and videos in certain political ads."
+    publishedDateTime: 2023-11-28T22:51:00Z
+    webUrl: "https://www.cnbc.com/2023/11/28/meta-updates-political-ad-rules-to-cover-ai-generated-images-videos.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/11/28/meta-updates-political-ad-rules-to-cover-ai-generated-images-videos.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/28/meta-updates-political-ad-rules-to-cover-ai-generated-images-videos.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: CNBC
+      domain: cnbc.com
+    quality: 82
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/11/AdobeStock_323830010.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 688
+      - url: "https://image.cnbcfm.com/api/v1/image/107300099-16946163562023-09-13t142711z_29451630_rc2m73a2hmaj_rtrmadp_0_usa-ai-congress.jpeg?v=1698177669"
+        width: 3500
+        height: 2239
         isCached: true
-  - title: "Revolutionizing Steel Mill Operations with AI Vision"
-    excerpt: "Synopsis: Primetals Technologies pioneers AI-driven computer vision to detect strip cross cracks, reducing downtime and equipment damage at thyssenkrupp Hohenli"
-    publishedDateTime: 2023-11-27T05:50:00Z
-    webUrl: "https://www.steelguru.com/steel/revolutionizing-steel-mill-operations-with-ai-vision"
-    ampWebUrl: "https://www.steelguru.com/amp/story/steel/revolutionizing-steel-mill-operations-with-ai-vision"
-    cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/steel/revolutionizing-steel-mill-operations-with-ai-vision"
-    type: article
-    provider:
-      name: Steel News
-      domain: steelguru.com
-    quality: 59
-    images:
-      - url: "https://gumlet.assettype.com/steelguru%2F2023-11%2F2729572e-f360-450c-9e29-a4b25a32723a%2FThyssenkrupp.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true"
-        width: 564
-        height: 327
-        isCached: true
-  - title: "iCAD’s AI-powered solutions to Help Accelerate Breast Cancer Detection in New Collaboration with GE Healthcare"
-    excerpt: "today announced that key artificial intelligence (AI) powered solutions from iCAD’s ProFound Breast Health Suite are the first applications to be offered in GE HealthCare’s new MyBreastAI Suite* offering. As breast cancer becomes the most commonly ..."
-    publishedDateTime: 2023-11-28T08:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/icad-s-ai-powered-solutions-to-help-accelerate-breast-cancer-detection-in-new-collaboration-with-ge-healthcare-1032854573"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
-  - title: "Informatica Broadens Relationship with AWS, Announces Deeper Integrations Across Generative AI, AWS HealthLake and Amazon S3"
-    excerpt: "Latest developments reflect a commitment to wider collaboration between the two cloud leaders and Informatica's significant AI-powered platform growth and adoption in AWS Marketplace Informatica (NYSE:INFA),"
-    publishedDateTime: 2023-11-28T13:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35979181/informatica-broadens-relationship-with-aws-announces-deeper-integrations-across-generative-ai-aws-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
-  - title: "Informatica Broadens Relationship with AWS, Announces Deeper Integrations Across Generative AI, AWS HealthLake and Amazon S3"
-    excerpt: "Informatica unveiled a trio of new integrations with Amazon Web Services (AWS) at AWS re:Invent 2023, the annual"
-    publishedDateTime: 2023-11-28T22:57:00Z
-    webUrl: "https://www.datanami.com/this-just-in/informatica-broadens-relationship-with-aws-announces-deeper-integrations-across-generative-ai-aws-healthlake-and-amazon-s3/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 7
 
 secured: "Jkmj2aa2JDgJe0H3LUCRpNqL0nh09JQ8B2xTyRPt0vgCNBYKcuQAzdL3k4a8IwpQzHJZIsDTxHOBQ0BVj8zFsIK/LNL/n5w2pMugce8gmd18NtMatY8aXHxF+3OJgQ2WisME4SNi60m0DbAOHhviaOXJ4XtpFDnlRpPvj4EOxUSrd525D9PzL5SBrZibv7GQXmiHcpy40gswhBuTcj3Qva/8RsswPf4VxVUjYVyCGhOcMWYmD2mTuN3sA7gWbKLqiQKHaE3kkNExJLwSLUMq42tAhAFOixoL+YNFPkkaRIA/XFpCieiMgRz6YVlyPCa0QzMNIdULDprjf9KJZtvQ045xy2mVnIPO+Wn9fr4+xfg=;zqi/Zc6fDkd/PCyDGpUqPw=="
 ---

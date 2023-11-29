@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/best-practices-for-augmenting-human-intel
 webUrl: "https://www.ibm.com/blog/best-practices-for-augmenting-human-intelligence-with-ai/"
 type: article
 quality: 99
-heat: 129
+heat: 130
 published: true
 
 provider:

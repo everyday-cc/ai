@@ -61,20 +61,6 @@ related:
         width: 611
         height: 458
         isCached: true
-  - title: "Supply chain hopes upcoming AMD MI300 GPU can challenge Nvidia's dominance"
-    excerpt: "The supply chain hopes that the forthcoming AMD MI300 GPU can pose some challenge to Nvidia, preventing it from having excessive control in the AI sector, according to industry sources."
-    publishedDateTime: 2023-11-24T01:28:00Z
-    webUrl: "https://www.digitimes.com/news/a20231123PD214/amd-mi300-ai-gpu-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 52
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231123pd214_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "GPU antitrust to challenge Nvidia"
     excerpt: "Nvidia should have been prepared for antitrust action concerning AI GPUs, according to sources at motherboard manufacturers. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my ..."
     publishedDateTime: 2023-11-28T00:00:00Z

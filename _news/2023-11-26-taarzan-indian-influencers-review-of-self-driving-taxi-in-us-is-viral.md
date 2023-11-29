@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Spanish influencer agency designed this AI model after deciding real-life influencers are a pain"
-    excerpt: "Meet Aitana Lopez, a gorgeous young influencer from Barcelona who has 122,000 followers on Instagram - even though she's an AI creation."
-    publishedDateTime: 2023-11-24T01:11:00Z
-    webUrl: "https://bgr.com/business/spanish-influencer-agency-designed-this-ai-model-after-deciding-real-life-influencers-are-a-pain/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 24
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/11/Screenshot-2023-11-23-at-10.39.09 AM.jpg?quality=82&strip=all"
-        width: 1242
-        height: 830
-        isCached: true
 
 secured: "he/RrFLcijIHTVPpadI8oMcrcRdO/47tZKt3HcCZjXwtSYupDw2UliyUri3up0QuLZW8cQE2y0ljpZNrk/7ixNfffVCom254JDF2bKDeFGseMaTWuUx1ZxCmz0IeBFxydRRHXlmI+er97iIHUHMHxCnfsbIndfzslQk9UsTaO9LNUAzlLuif9stydPhvJRCtJwclqhG3oV7/BQ/hRfOTBNeFMLyDLsxKjDJ1a2iRPQEMTRdVCVaEsMw0ag53hFNeVilCg4aLVllDe7TAp77Id5e83ccNjI8b6GcaJ4bDTRRowyG31SlIA6Qv1NERu61pu5zo3HukhU1gEhMlU0vwqmjigGQlewFUAWesVx1lEgjU1Ad4dDVPcpptoAjdWwAe9gBvgjs9t8mRMELzSf5zmDgkQ/buQ7uoh3QGb//QrclAx7KpcwksvJdpT7kzWivkKNSQK+BgMQ04gjEkj46IwyPoeJFhmyYzc8TDEKzAoR/BVs+3ACf1eTQNjqkvoqE/OqynSMBvtF5LfdExxRDDPg==;e1XkGzYd4vXXpHbonVuNVg=="
 ---

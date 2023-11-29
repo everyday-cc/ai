@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-11-28-6-alternatives-to-chatgpt.md",
+      "title": "6 Alternatives To ChatGPT",
+      "excerpt": "In the short 12 months since its launch, generative AI platform ChatGPT has become the most widely recognised AI language model. According to a recent Forb",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/",
+      "originalUrl": "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/11/image1-4.jpg",
+          "width": 1999,
+          "height": 1232,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T10:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-3-robotics-stocks-that-could-be-multibaggers-in-the-making.md",
+      "title": "3 Robotics Stocks That Could Be Multibaggers in the Making",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The robotics sector is rapidly expanding, promising transformative potential",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-1032853990",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-1032853990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T10:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-28-artificial-intelligence-ai-diagnosis-market-to-reach-us-57736-million-by-2030-coherent-market-insights.md",
+      "title": "Artificial Intelligence (AI) Diagnosis Market to Reach US$ 5,773.6 Million by 2030: Coherent Market Insights",
+      "excerpt": "Burlingame, Nov. 28, 2023 (GLOBE NEWSWIRE) -- According to Coherent Market Insights, The global artificial intelligence in drug discovery market was valued at US$ 1,502.9 Mn in 2022 and is forecast to reach a value of US$ 5,773.6 Mn by 2030 at a CAGR of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/g35980258/artificial-intelligence-ai-diagnosis-market-to-reach-us-5-773-6-million-by-2030-coherent-market-in",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/g35980258/artificial-intelligence-ai-diagnosis-market-to-reach-us-5-773-6-million-by-2030-coherent-market-in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35980258",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35980258",
+      "publishedDateTime": "2023-11-28T09:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-28-dataiku-awarded-2023-aws-global-isv-aiml-partner-of-the-year-award.md",
       "title": "Dataiku Awarded 2023 AWS Global ISV AI/ML Partner of the Year Award",
       "excerpt": "Dataiku, the platform for Everyday AI, today announced that it received the 2023 AWS Global ISV AI/ML Partner of the Year Award at AWS re:Invent 2023. This recognition, alongside the 2023 AWS Geo ISV Partner of the Year Award in France,",
@@ -157,7 +295,7 @@
       "originalUrl": "https://www.travelweekly.com/Travel-News/Airline-News/clear-to-upgrade-to-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -201,7 +339,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/technology/2726659-aussie-startup-leonardoai-leverages-aws-to-manage-explosive-growth",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -287,7 +425,7 @@
       "originalUrl": "https://www.foxnews.com/sports/sports-illustrated-parent-company-denies-publishing-ai-generated-articles-blames-third-party",
       "featuredContent": null,
       "highlight": null,
-      "heat": 198,
+      "heat": 218,
       "tags": null,
       "images": [
         {
@@ -493,7 +631,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-three-new-nvidia-gpu-based-amazon-ec2-instances/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -546,7 +684,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2023/11/231127132237.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "",
@@ -727,6 +865,49 @@
       ]
     },
     {
+      "path": "_news/2023-11-28-fintechs-lead-sector-to-benefit-from-ai-adoption.md",
+      "title": "Fintechs Lead Sector to Benefit from AI Adoption",
+      "excerpt": "According to  Moody's Analytics, Fintech is the leading sector for AI adoption with 18% of Fintechs currently actively using AI, double the percentage of",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/11/217061-fintechs-lead-sector-to-benefit-from-ai-adoption/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/11/217061-fintechs-lead-sector-to-benefit-from-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Cyber-Dollar-AI-Artificial-Intelligence.jpg",
+          "width": 1200,
+          "height": 1568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/11/217061-fintechs-lead-sector-to-benefit-from-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/217061-fintechs-lead-sector-to-benefit-from-ai-adoption/amp/",
+      "publishedDateTime": "2023-11-27T21:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-28-new-stable-video-diffusion-ai-model-can-animate-any-still-image.md",
       "title": "New “Stable Video Diffusion” AI model can animate any still image",
       "excerpt": "On Tuesday, Stability AI released Stable Video Diffusion, a new free AI research tool that can turn any still image into a short video—with mixed results. It's an open-weights preview of two AI models that use a technique called image-to-video, and it can run locally on a machine with an Nvidia GPU.",
@@ -787,7 +968,7 @@
       "originalUrl": "https://www.marketwatch.com/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1009,197 +1190,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-ibm-watsonx-ai-and-data-platform-security-solutions-and-consulting-services-for-generative-ai-to-be-showcased-at-aws-reinvent.md",
-      "title": "IBM watsonx AI and data platform, security solutions and consulting services for generative AI to be showcased at AWS re:Invent",
-      "excerpt": "During AWS re:Invent, IBM will be unveiling several exciting pieces of news about our fast-growing partnerships.\nThe post IBM watsonx AI and data platform, security solutions and consulting services for generative AI to be showcased at AWS re:Invent appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/",
-      "originalUrl": "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 350,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-27T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-new-multi-national-ai-security-guidelines-are-toothless-and-weak.md",
-      "title": "New multi-national AI security guidelines are toothless and weak",
-      "excerpt": "The United States, United Kingdom, and 16 other countries want to keep the development of AI systems secure, but a framework issued by the group offers common sense recommendations, and lacks firm action points.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak",
-      "originalUrl": "https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/57461-117058-56228-114301-lede-xl-xl.jpg",
-          "width": 1200,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak/amp/",
-      "publishedDateTime": "2023-11-27T13:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-ai-appetite-the-progress-needed-for-brands-to-gain-more-confidence.md",
-      "title": "AI Appetite: The Progress Needed For Brands To Gain More Confidence",
-      "excerpt": "There are also unanswered questions, like how to ensure data privacy, combat AI bias, and protect human creativity. As a result, the comfort level organizations have for adoption varies widely. We hear it loud and clear from our clients: AI is worth exploring—with caution and a healthy dose of skepticism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/27/ai-appetite-the-progress-needed-for-brands-to-gain-more-confidence/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/27/ai-appetite-the-progress-needed-for-brands-to-gain-more-confidence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655e06382f4b332fdb03a5f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1308,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/27/ai-appetite-the-progress-needed-for-brands-to-gain-more-confidence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/11/27/ai-appetite-the-progress-needed-for-brands-to-gain-more-confidence/amp/",
-      "publishedDateTime": "2023-11-27T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-what-to-know-about-ai-enabled-digital-twins-in-manufacturing.md",
-      "title": "What To Know About AI-Enabled Digital Twins In Manufacturing",
-      "excerpt": "Within smart manufacturing, AI-powered digital twins have emerged as a critical technology. As a digital counterpart of a real-world system, digital twins provide a digital representation using data from sensors and Internet of Things (IoT) devices to mimic a physical object or system in real time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/what-to-know-about-ai-enabled-digital-twins-in-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/what-to-know-about-ai-enabled-digital-twins-in-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63860f8728a0637179459796/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/what-to-know-about-ai-enabled-digital-twins-in-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/27/what-to-know-about-ai-enabled-digital-twins-in-manufacturing/amp/",
-      "publishedDateTime": "2023-11-27T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

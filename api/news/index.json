@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-11-29-could-ai-chatbots-be-our-future-therapists-a-psychologist-weighs-in.md",
+      "title": "Could AI Chatbots Be Our Future Therapists? A Psychologist Weighs In",
+      "excerpt": "Discover the power of AI in therapy, and how digital approaches could break accessibility constraints in mental healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traversmark/2023/11/28/could-ai-chatbots-be-our-future-therapists-a-psychologist-weighs-in/",
+      "originalUrl": "https://www.forbes.com/sites/traversmark/2023/11/28/could-ai-chatbots-be-our-future-therapists-a-psychologist-weighs-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6565e581888efea0b78455ed/0x0.jpg?format=jpg&crop=1276,598,x0,y174,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traversmark/2023/11/28/could-ai-chatbots-be-our-future-therapists-a-psychologist-weighs-in/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/11/28/could-ai-chatbots-be-our-future-therapists-a-psychologist-weighs-in/amp/",
+      "publishedDateTime": "2023-11-29T01:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-pika-labs-raises-55m-launches-new-ai-video-platform-to-take-on-runway.md",
+      "title": "Pika Labs raises $55M, launches new AI video platform to take on Runway",
+      "excerpt": "The investment takes the company's fund-raise to $55 million and marks the launch of Pika 1.0, which allows video generation and editing with text prompts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/pika-labs-raises-55m-launches-new-ai-video-platform-to-take-on-runway/",
+      "originalUrl": "https://venturebeat.com/ai/pika-labs-raises-55m-launches-new-ai-video-platform-to-take-on-runway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/11/cfr0z3n_a_robot_stands_behind_a_large_movie_camera_directing_a__30c5e0ff-c7f8-4030-911c-6d00e8ea2676.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T00:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-aws-widens-data-pipelines-creates-gen-ai-assistant.md",
       "title": "AWS Widens Data Pipelines + Creates Gen-AI Assistant",
       "excerpt": "Because data exists in so varied a set of structures and forms that we can do much with it - but, that means we need ways to connect all our data.",
@@ -10,7 +112,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -105,6 +207,57 @@
       ]
     },
     {
+      "path": "_news/2023-11-29-meta-updates-political-advertising-rules-to-cover-ai-generated-images-and-videos.md",
+      "title": "Meta updates political advertising rules to cover AI-generated images and videos",
+      "excerpt": "Meta revealed on Tuesday more details about its policies on political ads, including a mandate that advertisers disclose when they use artificial intelligence to alter images and videos in certain political ads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/11/28/meta-updates-political-ad-rules-to-cover-ai-generated-images-videos.html",
+      "originalUrl": "https://www.cnbc.com/2023/11/28/meta-updates-political-ad-rules-to-cover-ai-generated-images-videos.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107300099-16946163562023-09-13t142711z_29451630_rc2m73a2hmaj_rtrmadp_0_usa-ai-congress.jpeg?v=1698177669",
+          "width": 3500,
+          "height": 2239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/28/meta-updates-political-ad-rules-to-cover-ai-generated-images-videos.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/28/meta-updates-political-ad-rules-to-cover-ai-generated-images-videos.html",
+      "publishedDateTime": "2023-11-28T22:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-aws-launches-new-chips-for-ai-training-and-its-own-ai-chatbot.md",
       "title": "AWS Launches New Chips for AI Training and Its Own AI Chatbot",
       "excerpt": "Invent, NVIDIA contributed GPUs to Amazon's cloud efforts and added a retriever system to its AI Enterprise Software platform on AWS Marketplace.",
@@ -113,7 +266,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-re-invent-2023-keynote/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -166,7 +319,7 @@
       "originalUrl": "https://visualstudiomagazine.com/articles/2023/11/28/ml-net-3-0.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -211,7 +364,7 @@
       "originalUrl": "https://www.ibm.com/blog/best-practices-for-augmenting-human-intelligence-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 130,
       "tags": null,
       "images": null,
       "content": "",
@@ -254,7 +407,7 @@
       "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/11/28/ai-and-environmental-sustainability--a-symbiotic-relationship/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -453,7 +606,7 @@
       "originalUrl": "https://techxplore.com/news/2023-11-ai-world-deep-poverty.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -599,7 +752,7 @@
       "originalUrl": "https://www.foxnews.com/us/us-cybersecurity-official-urges-safeguards-artificial-intelligence-threats-moving-too-fast",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -736,7 +889,7 @@
       "originalUrl": "https://venturebeat.com/ai/why-physical-operations-are-uniquely-positioned-for-ai-transformation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1020,7 +1173,7 @@
       "originalUrl": "https://www.zdnet.com/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 279,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -1062,144 +1215,6 @@
         "AI Hardware",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-6-alternatives-to-chatgpt.md",
-      "title": "6 Alternatives To ChatGPT",
-      "excerpt": "In the short 12 months since its launch, generative AI platform ChatGPT has become the most widely recognised AI language model. According to a recent Forb",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/",
-      "originalUrl": "https://www.forbes.com/uk/advisor/business/software/alternatives-to-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/11/image1-4.jpg",
-          "width": 1999,
-          "height": 1232,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T10:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-3-robotics-stocks-that-could-be-multibaggers-in-the-making.md",
-      "title": "3 Robotics Stocks That Could Be Multibaggers in the Making",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The robotics sector is rapidly expanding, promising transformative potential",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-1032853990",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-that-could-be-multibaggers-in-the-making-1032853990",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T10:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-artificial-intelligence-ai-diagnosis-market-to-reach-us-57736-million-by-2030-coherent-market-insights.md",
-      "title": "Artificial Intelligence (AI) Diagnosis Market to Reach US$ 5,773.6 Million by 2030: Coherent Market Insights",
-      "excerpt": "Burlingame, Nov. 28, 2023 (GLOBE NEWSWIRE) -- According to Coherent Market Insights, The global artificial intelligence in drug discovery market was valued at US$ 1,502.9 Mn in 2022 and is forecast to reach a value of US$ 5,773.6 Mn by 2030 at a CAGR of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/g35980258/artificial-intelligence-ai-diagnosis-market-to-reach-us-5-773-6-million-by-2030-coherent-market-in",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/g35980258/artificial-intelligence-ai-diagnosis-market-to-reach-us-5-773-6-million-by-2030-coherent-market-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35980258",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35980258",
-      "publishedDateTime": "2023-11-28T09:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

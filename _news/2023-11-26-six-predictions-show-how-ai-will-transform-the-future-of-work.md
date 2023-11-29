@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/six-predict
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/six-predictions-show-how-ai-will-transform-the-future-of-work-cwdvz88j?amp=1"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://assets.medpagetoday.net/media/images/107xxx/107557.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Across China, an Unseen Rural Workforce Is Shaping the Future of AI"
-    excerpt: "Data labeling jobs in rural areas are empowering women and the marginalized while also aiding poverty alleviation. But as advanced AI begins to eclipse traditional methods, the future demand for such human-driven jobs faces uncertainty."
-    publishedDateTime: 2023-11-24T01:25:00Z
-    webUrl: "https://www.sixthtone.com/news/1014142"
-    type: article
-    provider:
-      name: Sixth Tone
-      domain: sixthtone.com
-    quality: 39
-    images:
-      - url: "https://image5.sixthtone.com/image/5/73/498.jpg"
-        width: 3000
-        height: 1500
         isCached: true
   - title: "How will AI technologies shape the future of video content creation?"
     excerpt: "AI is changing virtually every industry imaginable.New AI-driven technologies and platforms are shifting the speed at which we operate, what we can accomplish, and even what and how we perceive content."

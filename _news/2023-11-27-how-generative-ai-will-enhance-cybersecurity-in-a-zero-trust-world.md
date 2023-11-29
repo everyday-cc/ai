@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How to apply natural language processing to cybersecurity"
-    excerpt: "Here’s the exciting part — natural language processing (NLP) is stepping onto the scene. This innovative technology enhances traditional cybersecurity methods, offering intelligent data analysis and threat identification. As digital interactions evolve ..."
-    publishedDateTime: 2023-11-24T02:17:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-apply-natural-language-processing-to-cybersecurity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_626404406-e1623836461847.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Unraveling the Duality: Artificial Intelligence’s Role in Cybersecurity"
     excerpt: "Introduction The debate surrounding the integration of Artificial Intelligence (AI) revolves around a central question: friend or foe? This inquiry, pivotal in discussions about the transformative impact of AI on cybersecurity,"
     publishedDateTime: 2023-11-27T14:57:00Z

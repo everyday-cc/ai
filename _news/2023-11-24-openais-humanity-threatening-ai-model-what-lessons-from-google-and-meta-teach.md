@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 785
         isCached: true
-  - title: "AI Startup Cohere’s CEO Slams Effective Altruism in Wake of OpenAI Drama"
-    excerpt: "The chief executive officer of artificial intelligence startup Cohere criticized the “self-righteousness” of the effective altruism movement and those overly concerned with th"
-    publishedDateTime: 2023-11-24T01:06:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-cohere-s-ceo-slams-effective-altruism-in-wake-of-openai-drama-71700717899430.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-cohere-s-ceo-slams-effective-altruism-in-wake-of-openai-drama-71700717899430.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-cohere-s-ceo-slams-effective-altruism-in-wake-of-openai-drama-71700717899430.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 56
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/11/24/1600x900/UK-GOMEZ-8_1700787630959_1700787649517.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4 – Reuters"
     excerpt: "The startup OpenAI on Tuesday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage"
     publishedDateTime: 2023-11-26T20:33:00Z

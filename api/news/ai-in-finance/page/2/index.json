@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-31-biden-signs-ai-executive-order-tech-majors-see-gains-higher-than-broader-tech-index.md",
+      "title": "Biden Signs AI Executive Order, Tech Majors See Gains Higher Than Broader Tech Index",
+      "excerpt": "With the year 2023 almost at its end, the crypto, digital asset and AI space has seen some major changes in terms of regulations and operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/fintech/23/10/35501962/biden-signs-ai-executive-order-tech-majors-see-gains-higher-than-broader-tech-index",
+      "originalUrl": "https://www.benzinga.com/fintech/23/10/35501962/biden-signs-ai-executive-order-tech-majors-see-gains-higher-than-broader-tech-index",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35501962",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35501962",
+      "publishedDateTime": "2023-10-30T21:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-waiting-for-fintech-the-moment-at-money2020.md",
       "title": "Waiting For Fintech – The Moment At Money2020",
       "excerpt": "This year’s Money20/20 just wrapped up. I asked leading venture capitalists and CEOs of fintechs for their reflections. Here are five.",

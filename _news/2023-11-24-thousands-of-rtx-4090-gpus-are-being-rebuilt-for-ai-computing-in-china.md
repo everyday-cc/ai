@@ -9,7 +9,7 @@ ampWebUrl: "https://beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/"
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/rtx-4090-gpus-re-built-ai-compute-in-china/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://images.indianexpress.com/2023/11/cpu-gpu-npu-featured.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "RTX 4090 dismantled in China, blower style cooler added, sold as Al GPU instead"
-    excerpt: "Chinese companies are ripping apart GeForce RTX 4090 graphics cards, turning them into AI accelerators, and making some serious money out of it."
-    publishedDateTime: 2023-11-24T01:11:00Z
-    webUrl: "https://www.tweaktown.com/news/94549/rtx-4090-dismantled-in-china-blower-style-cooler-added-sold-as-al-gpu-instead/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 35
-    images:
-      - url: "https://static.tweaktown.com/news/9/4/94549_901_rtx-4090-dismantled-in-china-blower-style-cooler-added-sold-as-al-gpu-instead_full.jpg"
-        width: 1500
-        height: 751
         isCached: true
   - title: "Chinese companies are repurposing GeForce RTX 4090s into AI GPUs"
     excerpt: "Companies are circumventing the US tech export ban to China by creating blower AI accelerators from Nvidia GeForce RTX 4090 graphics cards."

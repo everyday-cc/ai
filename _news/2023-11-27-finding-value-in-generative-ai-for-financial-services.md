@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/11/26/1083841/finding-value-in
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/26/1083841/finding-value-in-generative-ai-for-financial-services/amp/"
 type: article
 quality: 57
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://fintechnews.sg/wp-content/uploads/2023/11/Navigating-the-AI-Minefield-in-Financial-Fraud-Battle.jpg"
         width: 1024
         height: 567
-        isCached: true
-  - title: "Governor’s Office issues initial generative artificial intelligence report on Tuesday"
-    excerpt: "On Tuesday, the Governor's Office released a report about the emerging possibilities and potential pitfalls of generative artificial intelligence."
-    publishedDateTime: 2023-11-24T01:43:00Z
-    webUrl: "https://keyt.com/news/california/2023/11/23/governors-office-issues-initial-generative-artificial-intelligence-report-on-tuesday/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 34
-    images:
-      - url: "https://keyt.b-cdn.net/2023/02/Seal_of_the_Governor_of_California.png"
-        width: 1200
-        height: 1200
         isCached: true
   - title: "The Latest State of Play for the Regulation of AI in the UK Financial Services Industry"
     excerpt: "conducted a joint survey to gain understanding on the use of machine learning (ML) in the UK financial services industry (the First ML Survey). The First ML Survey was sent to almost three hundred firms, including banks, credit brokers, e-money ..."

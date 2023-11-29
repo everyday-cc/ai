@@ -55,20 +55,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Across China, an Unseen Rural Workforce Is Shaping the Future of AI"
-    excerpt: "Data labeling jobs in rural areas are empowering women and the marginalized while also aiding poverty alleviation. But as advanced AI begins to eclipse traditional methods, the future demand for such human-driven jobs faces uncertainty."
-    publishedDateTime: 2023-11-24T01:25:00Z
-    webUrl: "https://www.sixthtone.com/news/1014142"
-    type: article
-    provider:
-      name: Sixth Tone
-      domain: sixthtone.com
-    quality: 39
-    images:
-      - url: "https://image5.sixthtone.com/image/5/73/498.jpg"
-        width: 3000
-        height: 1500
-        isCached: true
 
 secured: "a1kLHqWrwuNsRdTL5ybrVuuOErWccyeYP3L9z9dPMOJiCSoZ7/iwJ9VoGzV+WmJO4Ra/cQz8Mj7x4chQE3U/VgAZHaHrY7HrXHwKFmQsoMg433RTzaIvXIVQQQMkCgfOPb+X9LkHtSnPcpum1QtXmUN/KU0XrQtBzLe/U5PJEHEJElUYnJm8z1F6TsbXUJghGeNEvBiGdWdyOE04FdQINAUQhnlSHzmt7hx8inKdlBfC8ak39R1w2gVbDqofWfrEkTGAFf9+l3uwOQg/qE/GYNH3wd1GnJ/7xan7p31zYav4xqe0eOizDEAS9Mi9ODNM4ugmz3H3qn27eRDfrtxT9P+uQUFe9VLcZ5CfZUVxsc5k3Iq3sRLIBchCBpTsuWbVZfUQge2zQQvrlfpEWvq+OFSCMRi+ogQHCY3A20XxkWBvHKGah/wkypMCCFI7L8suEkbpB7fDf4THOMECNDckq8te+iMomPWFQrulggBEFqfAhA15Vkrc9Kwj4yjwYmmBm7IyjiWBm0b7nDKWcZyYUQ==;rlzfttjAcUGsuYXiSskzag=="
 ---
