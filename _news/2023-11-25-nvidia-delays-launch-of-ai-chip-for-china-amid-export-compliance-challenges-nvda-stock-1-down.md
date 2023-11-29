@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coinspeaker.com/nvidia-delay-launch-ai-chip/amp/"
 cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/nvidia-delay-launch-ai-chip/amp/"
 type: article
 quality: 62
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s made-for-China chip delayed due to integration issues: Report"
-    excerpt: "Nvidia’s AI-focused H20 GPUs bypass US restrictions on China’s silicon access, including limits on chip performance and density."
-    publishedDateTime: 2023-11-24T12:50:00Z
-    webUrl: "https://www.networkworld.com/article/1249182/nvidias-made-for-china-chip-delayed-due-to-integration-issues-report.html"
-    ampWebUrl: "https://www.networkworld.com/article/1249182/nvidias-made-for-china-chip-delayed-due-to-integration-issues-report.html/amp/"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1249182/nvidias-made-for-china-chip-delayed-due-to-integration-issues-report.html/amp/"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://www.networkworld.com/wp-content/uploads/2023/11/semiconductor_chips_manufacturing-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Chinese factories disassemble Nvidia gaming GPUs to make AI accelerators"
     excerpt: "In this vacuum, and amid a GPU demand surge thanks to AI, Chinese manufacturers have sprung up to convert remaining RTX 4090s for server use. The companies disassemble the graphics cards, desolder the GPU and memory components, and then reassemble them on ..."
     publishedDateTime: 2023-11-27T00:01:00Z

@@ -50,6 +50,15 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "How Gen Z's AI Fluency Can Help Companies Succeed"
+    excerpt: "AI, particularly generative AI, stands at the frontier of technological evolution, presenting opportunities and challenges that resonate strongly with Gen Z. As digital natives, Gen Z will not only use these tools extensively in the coming years but will also bear the brunt of their impact—both positive and negative."
+    publishedDateTime: 2023-11-28T15:21:00Z
+    webUrl: "https://time.com/collection/time100-voices/6340117/gen-z-using-ai-at-work/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 47
   - title: "How Companies Can Build Trustworthy AI Assistants"
     excerpt: "The journey of the AI assistant is already well underway. We’re seeing the evolution to agent take shape in three phases: assistant, concierge, and agent. This evolution is exciting and promises to make our lives much easier — eliminating mundane tasks and helping us become more productive."
     publishedDateTime: 2023-11-27T13:25:00Z

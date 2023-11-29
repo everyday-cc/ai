@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Putin to approve new AI strategy, calls for boost to supercomputers"
-    excerpt: "President Vladimir Putin said on Friday that he would soon approve a new version of Russia's strategy for Artificial Intelligence development, and called for a significant increase in the expansion of supercomputers."
-    publishedDateTime: 2023-11-24T11:45:00Z
-    webUrl: "https://www.reuters.com/technology/putin-approve-new-ai-strategy-calls-boost-supercomputers-2023-11-24/"
+  - title: "Western monopoly in AI 'dangerous, and unacceptable', says Russia's Vladimir Putin"
+    excerpt: "During his more than two decades in power, Putin has overseen a multi-pronged crackdown on the opposition and civil society groups, and promoted “traditional values” to counter purported Western influence — policies that have become even more oppressive after he sent troops into Ukraine in February 2022."
+    publishedDateTime: 2023-11-26T12:33:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 53
     images:
-      - url: "https://www.reuters.com/resizer/w8AY1jmnjn74VzZlvhJzKC65XqE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GIQ7S6IANVNHLOP2N5OPYHGRP4.jpg"
-        width: 1200
-        height: 628
+      - url: "https://images.hindustantimes.com/tech/img/2023/11/26/1600x900/artificial_intelligence_1698542010139_1700960383653.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Vladimir Putin warns ‘alien’ artificial intelligence cancelling Russian culture"
+    excerpt: "Russian president Vladimir Putin speaks during an artificial intelligence conference in Moscow (Picture: Getty) Vladimir Putin is poised to approve an ‘ambitious’ Russian strategy for the development of artificial intelligence (AI),"
+    publishedDateTime: 2023-11-27T07:48:00Z
+    webUrl: "https://metro.co.uk/2023/11/27/vladimir-putin-warns-alien-ai-cancelling-russian-culture-19884148/"
+    ampWebUrl: "https://metro.co.uk/2023/11/27/vladimir-putin-warns-alien-ai-cancelling-russian-culture-19884148/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/11/27/vladimir-putin-warns-alien-ai-cancelling-russian-culture-19884148/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 53
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2023/11/GettyImages-1771036808.jpg?quality=90&strip=all&zoom=1&resize=594%2C395"
+        width: 594
+        height: 395
         isCached: true
   - title: "Putin unveils Russia’s new AI strategy to rival Western advances in artificial intelligence"
     excerpt: "Vladimir Putin has unveiled what he calls Russia ’s new strategy to counter Western dominance of the field of artifical intelligence, claiming that new AI models “cancel Russian culture”. The president addressed an AI conference in Moscow on Friday where he said Russian investment in AI development was being increased across all sectors."
@@ -67,29 +85,20 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Putin Unveils Plans for Russian AI Technology That Critics Fear Can Be Used to Win Wars and Manipulate Elections"
-    excerpt: "Vladimir Putin announced plans to roll out his own artificial intelligence (AI) bot that will rival Western technologies, RadarOnline.com has learned. While the despot claimed Russian AI bots would strengthen the country's culture and preserve history, critics fear Putin will use the new technology to win wars and manipulate elections."
-    publishedDateTime: 2023-11-28T00:45:00Z
-    webUrl: "https://radaronline.com/p/putin-unveils-ai-robot-critics-fear-technology-used-to-win-wars/"
+  - title: "Putin: West dominating AI industry, Russia must step up"
+    excerpt: "President Vladimir Putin said that the West had a “dangerous” monopoly over artificial intelligence and Russia needed to rival “biased” Western chatbots with its own technology."
+    publishedDateTime: 2023-11-27T16:06:00Z
+    webUrl: "https://interestingengineering.com/culture/putin-west-dominating-ai-industry-russia-must-step-up"
     type: article
     provider:
-      name: radaronline
-      domain: radaronline.com
-    quality: 18
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
     images:
-      - url: "https://media.radaronline.com/brand-img/8e8Kci9GJ/1200x628/putin-looking-unwell3-1701116163551.jpg"
-        width: 1200
-        height: 628
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/11/27/image/jpeg/7DGD9w05UB9DvtonUzPZemlhWUC1C0p6lfpNHePo.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "AWS and NVIDIA Announce Strategic Collaboration to Offer New Supercomputing Infrastructure, Software, and Services for Generative AI"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and NVIDIA (NASDAQ: NVDA) today announced an expansion"
-    publishedDateTime: 2023-11-28T17:13:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231127986225/en/AWS-and-NVIDIA-Announce-Strategic-Collaboration-to-Offer-New-Supercomputing-Infrastructure-Software-and-Services-for-Generative-AI/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 5
 
 secured: "uNKT9rkt+aFHoBA0qT1CTCJ2DKYaYgxNyKdfzCKTAxB9UMtsG+jzCZKvm3iEKxowPnh6wvVKdM5Kb42w0rAhuFM4eHgnsWfXk6cABs8r4NvKwl0ohIqEYYh7Inriwy5npQLIJccwn+qLXJp9myv4ULaOtkQMl+HHB3ta63L257dIOtiHv6u4/BhokSkmID9s0W0V6lC+hge6C2yQcpfoSfvc+2Ta1UJKqwSDSMLctZugkZr2GjCVYXDaVkpBH5VjsKdxJfYalpBIdT+90GUmey/EmSyBTUxP0DEqrTtuwtNrQVeWwzQNvnglZDpTyYWt41ao2N9eznQRoWa8xQmDad7e54rlADAGVrqTKG63asQ=;q1o2zRx3n/X2Sul+ojjL1A=="
 ---

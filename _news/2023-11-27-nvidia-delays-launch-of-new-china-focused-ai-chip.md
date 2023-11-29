@@ -127,22 +127,6 @@ related:
         width: 4686
         height: 2661
         isCached: true
-  - title: "Nvidia delays launch of new China-focused AI chip"
-    excerpt: "Nvidia delays H20 AI chip launch in China until Q1 2021 due to server integration issues; L20 launch still on schedule. U.S. export curbs create opportunity for rivals like Huawei to win orders that may have gone to Nvidia."
-    publishedDateTime: 2023-11-24T11:11:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/s7bnqg/article67569502.ece/alternates/FREE_1200/2023-11-24T052805Z_715528354_RC2KOZ9X1Q6Y_RTRMADP_3_NVIDIA-CHINA.JPG"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Nvidia delays launch of new AI chip in China amid US export rules"
     excerpt: "Touted as the most potent among three China-targeted chips developed by Nvidia, the H20 faces a setback in its market debut. This delay may potentially impact Nvidia's competitive stance in China agai"
     publishedDateTime: 2023-11-25T04:05:00Z

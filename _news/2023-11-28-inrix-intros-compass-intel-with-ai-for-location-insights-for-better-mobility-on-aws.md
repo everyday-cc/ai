@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Astronomer Accelerates AI Workflows with Integrations for Top LLM Providers"
+    excerpt: "Astronomer has announced a new set of Apache Airflow integrations to accelerate LLMOps (large language model operations) and support AI use cases. Modern, data-first organizations are now able to connect to the most widely-used LLM services and vector databases with integrations across the AI ecosystem,"
+    publishedDateTime: 2023-11-29T12:11:00Z
+    webUrl: "https://www.datanami.com/this-just-in/astronomer-accelerates-ai-workflows-with-integrations-for-top-llm-providers/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/11/astronomer-logo.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "9mrk8WHZFOslnH6ouwxnhZ2xnQPkF4vlYxvUFbsROU1hVnpGlnR9a1Ojjo4ohVwW/JGAR6YlUTW7oCFXcN+si9+t6pBhVd448UH1KbGdKh2ot5ZFpJBlUgDfvVa5+Yi0D1vMLS4ZtaxfRtuYvzRD3d6Yp6B0XYDgut9JJuoCVObTU6StJAnRFyVmEOCE4NrpQ6iBTZyhXUWMnjAjXXfKNodg7cMCVQJXYsoY+Lm271YXDhXlT+GmqmpoIR71wxU3IcqBO5FtkXOoj4/brMi54KeVWjyQqLbTgx1zwC4/ZbqyLrE0rQ+LMi8MrfVqxEcOJQzXZnZSRKG5vuIMaQUSAWGZJkdqMYzopOUp5ZXHWmC1hZp3YF0VFpqR/+ZmDwC7rBirb66/sdZfa+BxEA45TvGSf4M8+F5ERd8GW+wjMA5C6PTfEywQg7duCjOuIgGR6/wQ7yJvorJNmNb4DHXhmiiHuvHc4rPeC7KSQgenMdNKBSauA4GnHCgsPgYeXtvTsmGg4dQPRAQ8m98hA0zojg==;WFVug987RdGlitSLP9/XjA=="
 ---

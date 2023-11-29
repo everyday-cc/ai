@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 1568
         isCached: true
-  - title: "MIA-Fintech brings AI-assisted credit checks to emebedded finance platform"
-    excerpt: "Mia-Platform, the end-to-end platform builder, has announced a new partnership with Genio Diligence, a specialist provider of due diligence services to credit institutions and credit brokers."
-    publishedDateTime: 2023-11-27T16:55:00Z
-    webUrl: "https://www.finextra.com/pressarticle/98930/mia-fintech-brings-ai-assisted-credit-checks-to-emebedded-finance-platform"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 52
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "YAGC0K+4PHPazDGWvcDNvHAxVvhf/NqVbJnSQbBPKJRtqv+vWbHmfUQUklaSOfzbkuKySNvo3oZhdeMFfxlwMQZunrIT1tGzDXKJTpK/m9uyZqLPY/TXPcvb4CNg4KxmawiNem8sUtGMigHz2JwBTMTTz77dJB5Uai76XDx8J7QggvTAWB84//Vj4oSN64NF2CxrnG5ML2H/58P7ytt1b8+VVAw7GqXIg8l+O7wrp1cNC/eT/A3LeOAupNFMUd3x+vQQozV8vlwVrD9zWC26SeFpa4g4pbc/FLBOVZ//m2pZsxBu9KluOAsmJhkVuoa9AGksfvGnFrwjvRroUjGxTVlkhYQwUf9q//enjKaFvYdd0ohRYdlmdMNIlUnd97ClRIrcG012ii4HWkUMWST4uHGE2r0+oBxM2TUty4ENOV4kzwFDwyMzUV9iMDdHUPLHanX3S1m6pE6ENvgDkTyXUQUpW6yDmtfR5fAqq4tKIgysB3mAgvdgAcVweqquVBkjzJ7m6AnKZ6EU/NnVEbcIdg==;puuRj1jY6jzf6NApJ+KkEw=="
 ---

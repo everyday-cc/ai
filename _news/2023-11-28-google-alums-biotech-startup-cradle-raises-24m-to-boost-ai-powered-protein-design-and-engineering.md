@@ -40,6 +40,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Startup Cradle tucks in $24m for protein engineering AI"
+    excerpt: "Dutch-Swiss startup Cradle has raised €22 million ($24 million) in first-round financing to develop its generative artificial intelligence (genAI) and synthetic biology platform for designing protein-based therapeutics and other compounds."
+    publishedDateTime: 2023-11-29T12:31:00Z
+    webUrl: "https://pharmaphorum.com/news/startup-cradle-tucks-24m-protein-engineering-ai"
+    type: article
+    provider:
+      name: pharmaphorum
+      domain: pharmaphorum.com
+    quality: 37
+    images:
+      - url: "https://pharmaphorum.com/sites/default/files/2023-11/Stef_Van_Grieken_Cradle.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Eu­ro­pean AI start­up rais­es $24M for pro­tein de­sign soft­ware ser­vice"
     excerpt: "A European startup is betting that drug companies big and small will look to outsource artificial intelligence expertise that can help design new protein-based medicines. Cradle said Monday that it ra"
     publishedDateTime: 2023-11-28T00:01:00Z

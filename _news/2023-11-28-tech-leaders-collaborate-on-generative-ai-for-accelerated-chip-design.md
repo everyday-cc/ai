@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How To Start Navigating The Legal Minefield Of AI-Generated Content: 7 Tips For Creative Agencies"
+    excerpt: "Unsurprisingly, the Pew Research Center finds that over a third of Americans are mostly apprehensive about AI. A critical question for creative agencies is: Should firms use AI to create work for clients, and to what extent? Furthermore, who owns the ..."
+    publishedDateTime: 2023-11-29T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/11/29/how-to-start-navigating-the-legal-minefield-of-ai-generated-content-7-tips-for-creative-agencies/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/11/29/how-to-start-navigating-the-legal-minefield-of-ai-generated-content-7-tips-for-creative-agencies/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/11/29/how-to-start-navigating-the-legal-minefield-of-ai-generated-content-7-tips-for-creative-agencies/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6565e91947943306e8a6557f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1348
+        height: 900
+        isCached: true
   - title: "The Most Thought-Provoking Generative Artificial Intelligence Quotes Of 2023"
     excerpt: "Explore generative AI's societal impact in quotes, from existential risks to vast economic prospects, spanning optimistic to dystopian views."
     publishedDateTime: 2023-11-29T06:28:00Z
@@ -141,20 +157,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Artificial intelligence: who are the leaders in fault monitoring AI for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is leveraging artificial intelligence (AI) for fault monitoring due to the increasing complexity of vehicles,"
-    publishedDateTime: 2023-11-24T12:41:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-fault-monitoring-ai-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_fault-monitoring-AI.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Adobe Express rolls out new generative AI features – The Verge"
     excerpt: "By Jess Weatherbed, a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and"
     publishedDateTime: 2023-11-26T03:37:00Z
@@ -169,29 +171,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Artificial intelligence: who are the leaders in collaborative autonomous driving for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. Collaborative autonomous driving (CAD) is driving innovation in the automotive industry due to its potential to improve safety, efficiency,"
-    publishedDateTime: 2023-11-24T12:21:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-collaborative-autonomous-driving-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 18
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_collaborative-autonomous-driving.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Artificial intelligence: who are the leaders in moving obstacle prediction AI for the automotive industry?"
-    excerpt: "The automotive industry continues to be a hotbed of patent innovation. The automotive industry is advancing moving obstacle prediction AI due to growing demand for autonomous vehicles, advancements in LiDAR and camera sensor technology,"
-    publishedDateTime: 2023-11-24T12:54:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-moving-obstacle-prediction-ai-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 14
   - title: "Food for Thought: Artificial General Intelligence (AGI) and the Future Automotive Industry"
     excerpt: "Artificial General Intelligence (AGI) represents the next epochal leap in the evolution of artificial intelligence, standing on the cusp of redefining"
     publishedDateTime: 2023-11-26T20:57:00Z
@@ -206,15 +185,6 @@ related:
         width: 1000
         height: 753
         isCached: true
-  - title: "Artificial intelligence: who are the leaders in end-to-end learning models for the automotive industry?"
-    excerpt: "However, not all innovations are equal and nor do they follow a constant upward trend. Instead, their evolution takes the form of an S-shaped curve that reflects their typical lifecycle from early emergence to accelerating adoption, before finally stabilizing and reaching maturity."
-    publishedDateTime: 2023-11-24T12:25:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-end-to-end-learning-models-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 5
 
 secured: "B7eYKowM+G8rO/NNjAT8BDQcf0tI56UvgnNgJm5UMoldUiLGGaJ5j6zd/TmjiYfY+SHR0yQKsDD675/k9fFeoWP3RXUuz9sWOdCK3d77e5g5+KYgyL2jIGHlY3y4x0YjsN5WqdxXAIAmo8KZdQTBstf5dH9JiqxC9ayhNxdEknsaxj3bEsjwqdwvYHCgnqso9H/85jV8MVW4lj3y1v1qmKUeUb3GDFQY4t7qSOFZzt/AOc2gEkMHjxKDIyQ7OBgeYfgQR0BVyIwv42LznY0quFHt8y5plgK5pyvjG+0LZARSrV8TWHHpHkY/M/cEwOR0z0h4Z9qETC8ygzZxaltwTUDTvtHVkcOzw0qIecaw9053yMFXcy5mg0J8bf7thc0Sg+KbHMyi3oLUCOpx06jgTOhtGGhjeXfhCO+JR5LkSdzJikMAjaw41ZmpLQggWpwsHdQ9ULoiaHONZwvtIZiZEZlzboVccmblGAHc3OmvGAlw60XNGDwU53K0kTfcjMxD9cV0lZcjDryopYEWtI2zPA==;3cqiipqhvnObO82kLPM2IA=="
 ---

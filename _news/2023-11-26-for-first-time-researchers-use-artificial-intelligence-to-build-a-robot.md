@@ -1,13 +1,13 @@
 ---
 category: news
 title: "For first time, researchers use artificial intelligence to build a robot"
-excerpt: "A team of researchers at Northwestern University say they have developed the first artificial intelligence program that has built a robot. They say what the robot can do isn't the main point, but it's what this breakthrough could mean for the future of AI."
-publishedDateTime: 2023-11-26T03:34:00Z
-originalUrl: "https://www.cbsnews.com/sanfrancisco/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/"
-webUrl: "https://www.cbsnews.com/sanfrancisco/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/"
+excerpt: "A team of researchers at Northwestern University say they have developed the first artificial intelligence program that has built a robot. They say what the robot can do isn't the main point ..."
+publishedDateTime: 2023-11-26T04:02:00Z
+originalUrl: "https://www.cbsnews.com/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/"
+webUrl: "https://www.cbsnews.com/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/"
 type: article
-quality: 53
-heat: 63
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -15,8 +15,9 @@ provider:
   domain: cbsnews.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/26/097fc25d-9740-482c-a7f7-585384471371/thumbnail/1200x630/1f6a4051781ebb7c07542a511e850d61/cbsn-fusion-for-first-time-researchers-use-artificial-intelligence-to-build-a-robot-thumbnail-2479090-640x360.jpg?v=d785468072c93affb6a366f2958aca39"
@@ -40,6 +41,6 @@ related:
         height: 650
         isCached: true
 
-secured: "ocV2owiwPe3XeWbEOiqnK+7vdFqeM3xn/4+Sv32Y83GLJCEQbScUBrDDZEehwEvlFidbL6pZc6LZ3EZi9urkz0g6jCWhTIVal6SZ95loim8wp2V7xIUeXpU4zGdbrPsWc3H6rXz5YyLYW/nAH9k4As7P0GRZh5UZq7Z3x+t/0olTdXGtdbHAQTT4mMPXdI4dNvHyBmIoQBFIaLoDGcQJ5ZhGYVHrQGu7ZaXrv/i5tY5VAWPnMnTybey28/pqqbwTRJ/kFYJPBlOvwR0Ny+QdX4/TAiFaqkjAwQ4qBdaPg+LzcI9pvWfAzltLiHWlwK9YuGOiI6Mp3P1HzomusoClGHV2XcczLm/TVVWZ3OQNHz4=;+IToyQVnZOZCZzXiUaDgNw=="
+secured: "5tygzszjJwihGx4aBCF0B9TMU1JpJmA6FRhNfceqLadRDPDIJxNqMcrnWO4SxFnsYrBQGWzB8LTrrMLV4wR77TBL5AuOXpA0eICfUWLzTktQ/Nqh6tSB+6HATBSfi6yRfasTUDf/OLe+jpCu4YspNWbBgBx489+mUPexZc0MYdU83QFEOW+yyPabmtqUsH9cp4h88m3w3eJ5BX0Ahf/9FrzpPsL9fJH3IppwXXM94EoFTM1WfB8dBxrt0gg9bcf5Gw6LQ1Zw0041Peql+btcKxwJ5irWGBaY8EQvDsqyA2mSsCGsHl7HoMElxsotr9mT2Kj684r+gqTsxIFqKjayd0lPHj7+gzGWtqiBfMi3KXY=;ISztq3Na06oXdRpaCo//rQ=="
 ---
 

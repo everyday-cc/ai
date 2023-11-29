@@ -6,7 +6,7 @@ publishedDateTime: 2023-11-29T08:23:00Z
 originalUrl: "https://undark.org/2023/11/29/military-artificial-intelligence/"
 webUrl: "https://undark.org/2023/11/29/military-artificial-intelligence/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://undark.org/wp-content/uploads/2023/11/GettyImages-497592562_crop.jpg"
@@ -39,6 +40,6 @@ related:
         height: 675
         isCached: true
 
-secured: "MfZVlNqu6IB6YDnoKcmMS6FcRLYhfJtagL919IFoJzdM5Pyqc/nDoIvK01qwkvXYPZeSDgCaiHBSh8PCRWPW1Q6zVQtMQC7TtZ/s9wNaZQBiMogYpvplklNe9PsjJcyrwjl2xse+4Hmkmq35znepYfJJ2AmMjSGEjsAXF4BJEXt45NmzUZanw9BWiDBTAUpCzCIK4RBMqsSwBRz3WjdrQTuJiCkATpMx+6rZfNb7p0YvSGkmuEpOoULrKOXNrhqXx4UAsf2VYlXtVycV1sQfFftz2XelcwwRe5knod4fDMwkmSXhL5YUxyTyg2wPx0/sc4JuHkhfUPrNgVz0RuehOyva/lVeFoT4J2Pbff7Dpbk=;2Db8QWuhd5emys9zuBa/dg=="
+secured: "RZ0+XjXNkRVl91UBvJ3fM3JEsFkeRTMKDcfARASYu5vBCQof+MjLc7mt13msjJrp5t5nVypAUK4+JRUR004+L3VMdL2R08CDFSDtVrqiN8L12qzSoywZEyjxPT7jpGiPCaJAYu8BHz6ivNe2AgFdGi0afmm7r2xHNSUbl8hwTh3d1y2zWIbxxYQLOPnkWz08b5qagSL3rYJp9MURrP0Bx6756OKZ4Bw74ynOuhsJTbKt60Uz3Y01xC42kZW69e24d6NhSrhOeS0SFT7DUS9OcBxM3dtYE1WDU7cWLmxemZonL5HOfnTPCL50BnIn7pFelsZ+E9edMJpQ2TX382D1L3hdm1sPpMl3G3/RKPALRL1frO+/RSpr1cJRodWf77l+cM59mqbjR8H0zxO8j6Kvvl4O4ljycn/0msAehUVzDLd7vLxqI1mxlRMxup6K43kNUf7WgkWkToRx6WPTUqB3Xz/cfO8cBmimJ4fM7z937iwe2UBdvPBEQExko5XxBpvq8h3mv8dFMNDGWo41RKhk/Q==;gxzfYJqZuZPxW9T+OcyfwQ=="
 ---
 

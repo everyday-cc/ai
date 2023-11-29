@@ -48,20 +48,6 @@ related:
       name: ungeek
       domain: ungeek.ph
     quality: 49
-  - title: "Artificial Intelligence in the 90s: A Decade of Innovation and Challenges"
-    excerpt: "Introduction: The 1990s marked a pivotal era for the development of Artificial Intelligence (AI), witnessing both unprecedented innovation and formidable challenges. As technology advanced, researchers and enthusiasts alike grappled with the possibilities and limitations of AI."
-    publishedDateTime: 2023-11-24T11:53:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-in-the-90s-a-decade-of-innovation-and-challenges/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 38
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/Artificial-Intelligence-in-the-90s-A-Decade-of-Innovation-and-Challenges.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Accounting in 2024: Artificial intelligence, tech innovation and more"
     excerpt: "How finance and accounting teams start 2024 will set the stage for defining the rest of the year and positioning for sustained success."
     publishedDateTime: 2023-11-24T15:29:00Z

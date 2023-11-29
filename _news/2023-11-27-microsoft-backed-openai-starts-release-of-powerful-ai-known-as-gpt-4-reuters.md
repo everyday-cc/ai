@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 785
         isCached: true
-  - title: "OpenAI’s ‘humanity-threatening’ AI model: What lessons from Google and Meta teach"
-    excerpt: "OpenAI board sacked CEO Sam Altman due to concerns over commercialising advances, including a breakthrough project called Q*. Similar instances have o"
-    publishedDateTime: 2023-11-24T12:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/openais-humanity-threatening-ai-model-what-lessons-from-google-and-meta-teach/articleshow/105476734.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/openais-humanity-threatening-ai-model-what-lessons-from-google-and-meta-teach/amp_articleshow/105476734.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/openais-humanity-threatening-ai-model-what-lessons-from-google-and-meta-teach/amp_articleshow/105476734.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-105476835,width-1280,height-720,resizemode-4/105476835.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "This week in AI: The OpenAI debacle shows the perils of going commercial"
     excerpt: "So until an AI can do it for you, here’s a handy roundup of recent stories in the world of machine learning, along with notable research ... much of Microsoft’s investment in OpenAI is in the form of Azure cloud credits, and the threat of withholding ..."
     publishedDateTime: 2023-11-27T20:46:00Z

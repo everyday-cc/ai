@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Nvidia’s made-for-China chip delayed due to integration issues: Report"
-    excerpt: "Nvidia’s AI-focused H20 GPUs bypass US restrictions on China’s silicon access, including limits on chip performance and density."
-    publishedDateTime: 2023-11-24T12:50:00Z
-    webUrl: "https://www.networkworld.com/article/1249182/nvidias-made-for-china-chip-delayed-due-to-integration-issues-report.html"
-    ampWebUrl: "https://www.networkworld.com/article/1249182/nvidias-made-for-china-chip-delayed-due-to-integration-issues-report.html/amp/"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1249182/nvidias-made-for-china-chip-delayed-due-to-integration-issues-report.html/amp/"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://www.networkworld.com/wp-content/uploads/2023/11/semiconductor_chips_manufacturing-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Nvidia delays AI chip designed for China: ‘Nvidia has demand without China’"
     excerpt: "Nvidia delays an AI chip it specifically designed for China. Wedbush analyst Bryson says Nvidia has demand without China."
     publishedDateTime: 2023-11-24T14:52:00Z

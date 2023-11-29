@@ -24,6 +24,22 @@ images:
     height: 324
     isCached: true
 
+related:
+  - title: "UK Government Funding to Boost Self-Driving Transport Technologies"
+    excerpt: "Up to £150 million of funding to 2030 to support the UK’s position among world leaders in self-driving technologies. Last week, the Government announced"
+    publishedDateTime: 2023-11-29T05:40:00Z
+    webUrl: "https://businessnewswales.com/uk-government-funding-to-boost-self-driving-transport-technologies/"
+    type: article
+    provider:
+      name: https//businessnewswales.com
+      domain: businessnewswales.com
+    quality: 24
+    images:
+      - url: "https://businessnewswales.com/wp-content/uploads/road-lorry.jpg"
+        width: 750
+        height: 500
+        isCached: true
+
 secured: "nVzvuGggN8+RWfpAo3UbnxHFHVRZT8WGRUfo3ggta6ZiUkkBdL4mEbnT08nLc3CIDCOVIk0n9zAmqwGwU5v7R/RAprH8DxLCo0cPhTx4RcFLMkA1I2d3dHEjvy3bOqckaqdbB/8w/c3j+ZYgDeMq7w1aundzi01yFStdg2/rD0MFRCFaf+gRZoiuI5nsseqgFAHOD4+8aC3mU5IOfbA//JuGwTGzms84agW398/8WLjFh+MocNpl1JQV3D1AiRgRC6PzJYBe/ZoViTMx/t8d6y/1x9ygy7TWJXXcXwCOKd/kUJb4SszOk609fkwBA5e9PU1X5DXcKZmKgrnW+OPTgQFICH0UUM70ZQQWt+bqH2uQ5XZGpT5fgdfQCi4aAmsVbuaFELuQ1RDr7PgKIyIS8aZdfML+fkreaYGLZ9scGesDjWQcnVLtGHeA8OnNPgTUdvJJrbArSRy7py8LDeKhzersTMEI5iLYxXNBpO89WO+JxxgDUnTpukFirhgRIxexFc4ZGSHCy8uKdD+/pmuiBw==;5iUNgi1VrShOMfxTGx9xiA=="
 ---
 

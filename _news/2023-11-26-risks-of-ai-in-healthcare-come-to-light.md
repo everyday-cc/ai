@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/amp/"
 type: article
 quality: 104
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 59
-  - title: "Healthcare in the age of AI: How will artificial intelligence impact future decision-making?"
-    excerpt: "Authored by: Constanza Salas, Jhon Galindo and Rachel Howard"
-    publishedDateTime: 2023-11-24T11:06:00Z
-    webUrl: "https://www.pmlive.com/pmhub/healthcare_market_research/109066_the_research_partnership/white_papers_and_resources/healthcare_in_the_age_of_ai_how_will_artificial_intelligence_impact_future_decision-making"
-    type: article
-    provider:
-      name: PMLiVE
-      domain: pmlive.com
-    quality: 58
-    images:
-      - url: "https://www.pmlive.com/__data/assets/image/0006/1503879/Artboard_1.jpg"
-        width: 358
-        height: 238
-        isCached: true
   - title: "AI in Healthcare 2024: Transforming Patient Care with Innovative Technologies"
     excerpt: "Introduction: Artificial Intelligence (AI) has emerged as a powerful force in reshaping the landscape of healthcare. As we delve into 2024, the integration of AI in healthcare promises groundbreaking transformations,"
     publishedDateTime: 2023-11-27T08:45:00Z

@@ -38,20 +38,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "The AI industry must make sure that important communities aren’t left behind | Opinion"
-    excerpt: "The age of AI has begun. But as artificial intelligence (AI) continues to scale across industries and functions, it is imperative that marginalized and underrepresented communities are afforded the opportunity to thrive in the age of AI, and not get left behind."
-    publishedDateTime: 2023-11-24T12:30:00Z
-    webUrl: "https://www.aol.com/news/ai-industry-must-sure-important-103000190.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 31
-    images:
-      - url: "https://media.zenfs.com/en/aol_charlotte_observer_mcclatchy_259/28755a383c34f5e9104cae08db823dd5"
-        width: 1140
-        height: 760
-        isCached: true
 
 secured: "rl5op0vaguAbf893zSNwGZtSqDhiQ8LdrW89fZNnB107UKD+wOaMRDgW58VyoXqU6XaRtP6s/WpyTggOKP54bBewD+5f676JJ6aHQUliqAYklxUKyDEgJRVn9qR32a00TOIznGgX6IoiEk6bU4ZZJsj0nQYfATYlw+YxB66XJzHgINT+mQB/uOTYHV/sKoit+G4kV8s3c8wtXV69DayP2n0siZ/hpEQghcMDIms+ACG5/WH6SNPdS9Nu95I/TVIGF77Z1r3TqHcHoa827/kY3dJHmKMZmBHRZVNMvDCbv3CKg4AErn0pLoHIgLAntG08DaKaE8vLTvGkpsJDR+ujhSZ8G8fTVgrY70rEE1t/wBA1j2ovhOuL9pGI4lrs2WWAAtCfdlRRFpcJ+K227hI6AFwOrYEVKUw9QyvWw5r30DPxDkTFV4n110C6P+iXENj3bc+l/byLAI/I+zmpetLQbLcVjxvE7SoOZrvZv1BVM3OYq93nWQoIRaWDtnNxtwh1thNTuyUnTJTekBB3HxBzNw==;If6udXUPgxVmOAmEJt1QiA=="
 ---

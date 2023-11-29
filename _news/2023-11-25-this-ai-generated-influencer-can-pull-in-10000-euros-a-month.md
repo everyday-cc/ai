@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2023/11/24/this-ai-generated-influencer-can-pull-in-10000-euros-a-month/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "An agency created an AI model who earns up to $11,000 a month because it was tired of influencers 'who have egos'"
-    excerpt: "Aitana López is a Spanish AI model and influencer with 124,000 followers on Instagram. She was created by a Barcelona-based agency."
-    publishedDateTime: 2023-11-24T12:36:00Z
-    webUrl: "https://www.businessinsider.com/ai-influencer-aitana-clueless-agency-tech-spain-2023-11"
-    ampWebUrl: "https://www.businessinsider.com/ai-influencer-aitana-clueless-agency-tech-spain-2023-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-influencer-aitana-clueless-agency-tech-spain-2023-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://i.insider.com/65607b7e9c7d23cb3b9f5071?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "\"Taarzan\": Indian Influencer's Review Of Self-Driving Taxi In US Is Viral"
     excerpt: "Indian chef, Neha Deepak Shah who appeared on MasterChef India Season 4 in 2015 recently shared her experience of booking a self-driving taxi in the US."
     publishedDateTime: 2023-11-26T10:04:00Z

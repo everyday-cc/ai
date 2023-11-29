@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebekahbastian/2023/11/26/ten-women-ai-leaders-that-openai-should-consider-for-their-board/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1419366342.jpg?resize=1200,785"
         width: 1200
         height: 785
-        isCached: true
-  - title: "OpenAI’s ‘humanity-threatening’ AI model: What lessons from Google and Meta teach"
-    excerpt: "OpenAI board sacked CEO Sam Altman due to concerns over commercialising advances, including a breakthrough project called Q*. Similar instances have o"
-    publishedDateTime: 2023-11-24T12:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/openais-humanity-threatening-ai-model-what-lessons-from-google-and-meta-teach/articleshow/105476734.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/openais-humanity-threatening-ai-model-what-lessons-from-google-and-meta-teach/amp_articleshow/105476734.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/openais-humanity-threatening-ai-model-what-lessons-from-google-and-meta-teach/amp_articleshow/105476734.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-105476835,width-1280,height-720,resizemode-4/105476835.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4 – Reuters"
     excerpt: "The startup OpenAI on Tuesday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage"

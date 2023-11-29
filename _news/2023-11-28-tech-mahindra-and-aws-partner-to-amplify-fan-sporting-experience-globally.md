@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/tech-mahindra-a
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/tech-mahindra-and-aws-partner-to-amplify-fan-experience/466002"
 type: article
 quality: 68
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -97,6 +97,20 @@ related:
       - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/aws-1-1677684714702.png?fm=png&auto=format"
         width: 800
         height: 400
+        isCached: true
+  - title: "Enabling fans to experience sports like never before: Tech Mahindra"
+    excerpt: "As sports become more immersive, Tech Mahindra is leveraging new-age technologies to deploy its sports cloud offering and enhance the"
+    publishedDateTime: 2023-11-29T11:52:00Z
+    webUrl: "https://glamsham.com/world/sports/enabling-fans-to-experience-sports-like-never-before-tech-mahindra"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 24
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/11/Enabling-fans-to-experience-sports-like-never-before-_pic-courtesy-news-agency.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Tech Mahindra, AWS join hands to build a sports cloud platform"
     excerpt: "Tech Mahindra on Monday announced it has collaborated with Amazon Web Services (AWS) to build a sports cloud platform. The offering focuses on building next-generation digital capabilities for sports organisations and delivering immersive and personalised experiences to sporting enthusiasts worldwide."

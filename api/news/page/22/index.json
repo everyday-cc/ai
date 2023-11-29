@@ -2,6 +2,160 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-11-09-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
+      "title": "Honda planning self-driving electric vehicle fitted with AI",
+      "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing. Honda ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asahi.com/ajw/articles/14760121",
+      "originalUrl": "https://www.asahi.com/ajw/articles/14760121",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p.potaufeu.asahi.com/c996-p/picture/27207743/e21cf678151f1180730d954a38af462c.jpg",
+          "width": 660,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "朝日新聞社",
+        "domain": "asahi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-neural-network-model-quantization-on-mobile.md",
+      "title": "Neural Network Model Quantization On Mobile",
+      "excerpt": "In this blog, we will talk about quantization in the context of neural network (NN) models, as the process of reducing the precision of the weights, biases, and activations. Moving from floating-point representations to low-precision fixed integer values ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/neural-network-model-quantization-on-mobile/",
+      "originalUrl": "https://semiengineering.com/neural-network-model-quantization-on-mobile/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/Arm_Neural-network-model-quantization-on-mobile-table2.png?resize=344%2C256&#038;ssl=1",
+          "width": 344,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-speech-and-voice-recognition-market-is-booming-across-the-global-players-alphabet-voicevault-acapela-group.md",
+      "title": "Speech and Voice Recognition Market is Booming Across the Global Players Alphabet, VoiceVault, Acapela Group",
+      "excerpt": "Speech and Voice Recognition Market Insights 2023 With “The global Speech and Voice Recognition market size was valued at USD 9026.92 million in 2021 and is expected to expand at a CAGR of 22.23 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/speech-and-voice-recognition-market-is-booming-across-the-global-players-alphabet-voicevault-acapela-group",
+      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/speech-and-voice-recognition-market-is-booming-across-the-global-players-alphabet-voicevault-acapela-group",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-09-the-secret-genius-of-modern-life-review-clever-dog-is-this-disco-dancing-robot-the-future-of-border-control-writes-christopher-stevens.md",
+      "title": "The Secret Genius Of Modern Life review: Clever dog! Is this disco dancing robot the future of border control? writes CHRISTOPHER STEVENS",
+      "excerpt": "This is the Artificial Intelligence we need in our lives — a bright yellow, dancing robot dog with a rotating ... the dog has been developed by a border control firm for use at airports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/tvshowbiz/article-12726983/The-Secret-Genius-Modern-Life-review-CHRISTOPHER-STEVENS.html",
+      "originalUrl": "https://www.dailymail.co.uk/tvshowbiz/article-12726983/The-Secret-Genius-Modern-Life-review-CHRISTOPHER-STEVENS.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-09T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-vmware-enlists-intel-ibm-watsonx-for-private-ai-initiative.md",
       "title": "VMware enlists Intel, IBM watsonx for private AI initiative",
       "excerpt": "Credit: VMware VMware has two new corporate partners, in the form of Intel and IBM, for its private AI initiative. The partnerships will provide new architectures for users looking to keep their ...",
@@ -1024,204 +1178,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-aeva-to-supply-self-driving-sensors-to-ntt-backed-may-mobility.md",
-      "title": "Aeva to supply self-driving sensors to NTT-backed May Mobility",
-      "excerpt": "Nov 8 (Reuters) - Aeva Technologies (AEVA.N) on Wednesday said it has inked a deal to supply May Mobility with a key sensor for its self-driving shuttles. Silicon Valley-based Aeva has developed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/aeva-supply-self-driving-sensors-ntt-backed-may-mobility-2023-11-08/",
-      "originalUrl": "https://www.reuters.com/technology/aeva-supply-self-driving-sensors-ntt-backed-may-mobility-2023-11-08/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/0P1ETEQPn6jvMP1yMSQvBcmT8eo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JVHEMIAZMRI3HKP74RAF6XLNPY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T15:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-in-2024-ai-will-boost-big-cloud-players-but-threaten-them-too.md",
-      "title": "In 2024, AI Will Boost Big Cloud Players — But Threaten Them, Too",
-      "excerpt": "The impact of AI on the cloud market is obvious enough: The hyperscalers have the scope to host GPUs that otherwise strain data center capacity and pocketbooks. Customers want the GPU processors that are critical to AI, and the three biggest cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654ba354f21f417307edb692/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1050,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/in-2024-ai-will-boost-big-cloud-players---but-threaten-them-too/amp/",
-      "publishedDateTime": "2023-11-08T15:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024.md",
-      "title": "EX Recession And AI Revolution Will Reshape The Future Of Work In 2024",
-      "excerpt": "Generative AI lit a fire of innovation under a previously fallow artificial intelligence market. In 2024, employees and employers both stand to benefit: Employees will be empowered with new generative AI-based tools,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654baec230d1aa1a1f10f5af/0x0.png?format=png&height=900&width=1600&fit=bounds",
-          "width": 1050,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/11/08/ex-recession-and-ai-revolution-will-reshape-the-future-of-work-in-2024/amp/",
-      "publishedDateTime": "2023-11-08T14:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-worlds-first-ai-robot-ceo-becomes-an-honorary-professor.md",
-      "title": "World’s first AI robot CEO becomes an honorary professor",
-      "excerpt": "The world's first AI robot CEO has become an honorary professor. Mika, who heads up Polish rum firm Dictador, was presented the award during the recent 2023/24 Collegium Humanum University inauguration in Warsaw.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tiogapublishing.com/news/nation/world-s-first-ai-robot-ceo-becomes-an-honorary-professor/article_a2a8c5f2-fe04-540c-8618-b3a8f695126e.html",
-      "originalUrl": "https://www.tiogapublishing.com/news/nation/world-s-first-ai-robot-ceo-becomes-an-honorary-professor/article_a2a8c5f2-fe04-540c-8618-b3a8f695126e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/assets/v3/editorial/1/00/1000df76-be8a-5120-9dfc-46fdbc76f7cc/654bb4901de33.image.jpg?crop=1280%2C672%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-08T14:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TiogaPublishing.com",
-        "domain": "tiogapublishing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

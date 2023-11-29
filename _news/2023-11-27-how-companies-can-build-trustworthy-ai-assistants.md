@@ -50,6 +50,15 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "How Gen Z's AI Fluency Can Help Companies Succeed"
+    excerpt: "AI, particularly generative AI, stands at the frontier of technological evolution, presenting opportunities and challenges that resonate strongly with Gen Z. As digital natives, Gen Z will not only use these tools extensively in the coming years but will also bear the brunt of their impact—both positive and negative."
+    publishedDateTime: 2023-11-28T15:21:00Z
+    webUrl: "https://time.com/collection/time100-voices/6340117/gen-z-using-ai-at-work/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 47
   - title: "AI predicts developmental paths in premature babies"
     excerpt: "In essence, the AI model the researchers created was able to identify with ... This study is a step towards that future, where technology and medicine intertwine to ensure the best possible start in life for all children, regardless of how early they ..."
     publishedDateTime: 2023-11-28T00:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html"
 type: article
 quality: 53
-heat: 73
+heat: 103
 published: true
 
 provider:
@@ -43,6 +43,34 @@ related:
         width: 594
         height: 395
         isCached: true
+  - title: "Putin unveils Russia’s new AI strategy to rival Western advances in artificial intelligence"
+    excerpt: "Vladimir Putin has unveiled what he calls Russia ’s new strategy to counter Western dominance of the field of artifical intelligence, claiming that new AI models “cancel Russian culture”. The president addressed an AI conference in Moscow on Friday where he said Russian investment in AI development was being increased across all sectors."
+    publishedDateTime: 2023-11-27T10:15:00Z
+    webUrl: "https://www.aol.com/putin-unveils-russia-ai-strategy-081421759.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 44
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/f9504bc9c278574e2c51fcc40380bf32"
+        width: 1200
+        height: 741
+        isCached: true
+  - title: "Putin to boost AI work in Russia to prevent Western monopoly"
+    excerpt: "MOSCOW (AP) -- Russian President Vladimir Putin on Friday announced a plan to endorse a national strategy for the development of artificial intelligence, emphasizing it's essential to prevent a Western monopoly."
+    publishedDateTime: 2023-11-25T10:00:00Z
+    webUrl: "https://www.newstribune.com/news/2023/nov/25/putin-to-boost-ai-work-in-russia-to-prevent/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/205891590_205891590-066f71ebc2554bf3bc9e37f2c8f7a4c3_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Putin: West dominating AI industry, Russia must step up"
     excerpt: "President Vladimir Putin said that the West had a “dangerous” monopoly over artificial intelligence and Russia needed to rival “biased” Western chatbots with its own technology."
     publishedDateTime: 2023-11-27T16:06:00Z
@@ -56,6 +84,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/11/27/image/jpeg/7DGD9w05UB9DvtonUzPZemlhWUC1C0p6lfpNHePo.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Putin to boost AI work in Russia to fight a Western monopoly he says is ‘unacceptable and dangerous’"
+    excerpt: "Russian President Vladimir Putin on Friday announced a plan to endorse a national strategy for the development of artificial intelligence, emphasizing that it’s essential to prevent a Western monopoly."
+    publishedDateTime: 2023-11-24T22:50:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/nov/24/putin-to-boost-ai-work-in-russia-to-fight-western-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 24
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/11/24/Russia_Putin_21596_c0-225-5391-3369_s1200x700.jpg?af9dca67c31e2e088f2bcbb236003be7397af912"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "ogKznb/DJd5zC/czV0elM5Ck0/PpoS5MsVCwxc0n14gh4kRyH26CmvOdnYkYEkVV1/fV9XG/ux2Y1S70ErczMbNsdGq8gaB7387KThICwLKtxy78ZdS4+ZOP+nw6XChQvkI7d7ZEdtDv5YcYQF6AK3X+CT8VdEHts5vF7sXyZzkpm+mc+0VZ/CMS28QqV3PY58bl0BLF0taR7iBBFp/I6Gxe0n86hz1dbbajFoQB+n4cUPVUZ3u/Eu3tum/6IQjhEeNWb7o0tVQ9RoAeMUCuqrfHD6RXN/QkZmfHPNSS5DZwu0/nbqedhgVMc8i+y+thejhtoRay4Z+6FJ029RdQqC2xRJpJ+cVimgDyVQzretI=;QSDbKwbNqZIWmZ6ecBGT2Q=="

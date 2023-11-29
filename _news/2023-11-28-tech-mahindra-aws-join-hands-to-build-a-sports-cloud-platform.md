@@ -102,6 +102,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Enabling fans to experience sports like never before: Tech Mahindra"
+    excerpt: "As sports become more immersive, Tech Mahindra is leveraging new-age technologies to deploy its sports cloud offering and enhance the"
+    publishedDateTime: 2023-11-29T11:52:00Z
+    webUrl: "https://glamsham.com/world/sports/enabling-fans-to-experience-sports-like-never-before-tech-mahindra"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 24
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/11/Enabling-fans-to-experience-sports-like-never-before-_pic-courtesy-news-agency.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tech Mahindra Partners with AWS to Develop Sports Cloud Platform"
     excerpt: "Tech Mahindra, a leading provider of digital transformation services, has teamed up with Amazon Web Services (AWS) to create a"
     publishedDateTime: 2023-11-28T06:54:00Z

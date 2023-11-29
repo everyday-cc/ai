@@ -96,20 +96,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 59
-  - title: "Healthcare in the age of AI: How will artificial intelligence impact future decision-making?"
-    excerpt: "Authored by: Constanza Salas, Jhon Galindo and Rachel Howard"
-    publishedDateTime: 2023-11-24T11:06:00Z
-    webUrl: "https://www.pmlive.com/pmhub/healthcare_market_research/109066_the_research_partnership/white_papers_and_resources/healthcare_in_the_age_of_ai_how_will_artificial_intelligence_impact_future_decision-making"
-    type: article
-    provider:
-      name: PMLiVE
-      domain: pmlive.com
-    quality: 58
-    images:
-      - url: "https://www.pmlive.com/__data/assets/image/0006/1503879/Artboard_1.jpg"
-        width: 358
-        height: 238
-        isCached: true
   - title: "WHO outline’s responsible regulations needed for Artificial Intelligence in healthcare"
     excerpt: "The World Health Organization recently published a new document outlining essential regulatory considerations for applying AI in healthcare"
     publishedDateTime: 2023-11-24T16:29:00Z

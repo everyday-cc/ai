@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates
 webUrl: "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates-with-aws-foundational-model-/2023/11/27/9923370.htm"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2023/11/INRIX_Compass_Brain-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Astronomer Accelerates AI Workflows with Integrations for Top LLM Providers"
+    excerpt: "Astronomer has announced a new set of Apache Airflow integrations to accelerate LLMOps (large language model operations) and support AI use cases. Modern, data-first organizations are now able to connect to the most widely-used LLM services and vector databases with integrations across the AI ecosystem,"
+    publishedDateTime: 2023-11-29T12:11:00Z
+    webUrl: "https://www.datanami.com/this-just-in/astronomer-accelerates-ai-workflows-with-integrations-for-top-llm-providers/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/11/astronomer-logo.png"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "DfoLi5vSeFVgEt/oRPREVrtDnvC8J6sOsi6Fi9xl4++ooMp3IhW+aLP4noZRrTUQ/JxYLYJ88zEIR3EGlpDCWlZdt6mLQ3i0s0bcW2nPlTqLGOAn9Lpjb/FHqTilUrYWUeqZYXHXM+91wxdgzZ3GccAs9uf1CWgf7El+RljPlfGNso57ShqDiTmri95xyStk7pY5HbagCLNp6ISnZGXmDGptOQK8yg0Qc4BguL5KOgOQzD2ipW9pfuIUB5mDWMz01YqQ6AMc4LzD0JNS9pM1heV8p3AuPNccs8lyrtJP2i/QvAG1241EcIoKcikv1ma6AtUpxBUP62R0Vl5axx1hQZrTOvZJqfIGhKooppbT8GyHDKL8ObKH7PhKGLSXP4r5zkW9mLIlXanT24FrrI9KNPd+VtZNABFTR0HdY2tp47GF+K4gPjoElAfqeFP1Z2AxkUxF/frMY/sDrnHxN2h3u2vHf0VDwpKKGrOvo8mGWbpRBHBOR5i5bWJ8dqKOoIEFzrx/UZFdim86wfph4V4xOw==;1xh6XKBBjA2Kb90yx5s3OA=="

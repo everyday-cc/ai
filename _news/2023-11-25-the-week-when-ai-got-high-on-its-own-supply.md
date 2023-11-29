@@ -37,7 +37,7 @@ related:
     provider:
       name: Undark
       domain: undark.org
-    quality: 37
+    quality: 39
     images:
       - url: "https://undark.org/wp-content/uploads/2023/11/GettyImages-497592562_crop.jpg"
         width: 1920

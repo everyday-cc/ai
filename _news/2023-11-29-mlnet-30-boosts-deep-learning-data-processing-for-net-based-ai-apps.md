@@ -50,6 +50,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "The Future Of AI-Powered Document Processing"
+    excerpt: "That transformation is already significantly underway. As we have all read, generative AI platforms like ChatGPT, which utilize natural language processing and large language model algorithms for deep learning, can recognize, summarize, translate and ..."
+    publishedDateTime: 2023-11-29T10:59:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/29/the-future-of-ai-powered-document-processing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/29/the-future-of-ai-powered-document-processing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/29/the-future-of-ai-powered-document-processing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64d1437884b2fe5fcc65f247/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1440
+        height: 900
+        isCached: true
   - title: "Investing in AI Stocks"
     excerpt: "The launch of ChatGPT has set off a boom in artificial intelligence ... including automated clinical documentation in healthcare to reduce paperwork and administrative needs."
     publishedDateTime: 2023-11-25T16:52:00Z

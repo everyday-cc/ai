@@ -65,6 +65,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 44
+  - title: "Dell strikes $150M hardware deal with AI start-up"
+    excerpt: "Dell Technologies secured a $150 million deal with AI start-up Imbue to build a compute cluster for training foundation models optimised for reasoning, which marked a customer win for its server business. Imbue stated it is already using the cluster to ..."
+    publishedDateTime: 2023-11-29T00:00:00Z
+    webUrl: "https://www.mobileworldlive.com/ai-cloud/dell-strikes-150m-hardware-deal-with-ai-start-up/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 37
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2021/06/16115419/Dell_building_SS_generic.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Dell inks US$150 mil hardware deal with AI startup Imbue"
     excerpt: "Imbue is one of a handful of artificial intelligence startups building their own AI foundation models from scratch."
     publishedDateTime: 2023-11-29T08:01:00Z
@@ -84,6 +98,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "hEfX/VJZzTVtWM0GtlFbE8WNZ6MqTC+YN3fHYbIUhic95xlrV+t1ELn8VYjTqPlYVrFxaVFMOUhWosVVpOz5I4EE0xTcSTQevWaxs6PuZ/P8w70hSebuFcs0tn+SgbfwMjj8edavfOenLXz+jSrYBf81q8+CYEnAzWXYytXvrM3fpltJBRh2SqZv8+WhBd2j/zrOj5hnca04q+j4OgXD/H6QdhvcJIL61N13QO3tvoUXoCPDH5LRPcxL3GudfN6+LINPsZ7H60wCY1MAMyF7Fv9vGkTfxxeDmtXpcba6AGslKPjkCela0IxhmYmLrEVqk7Lw8Xu11YTeQR/9/krOnpsQQiDznF/icmnjAHb/hZE=;LkW3CL6vUH/aVYTwWs7k2g=="
+secured: "BYG+jgC/8J5tLQ4xIucM4LZADucjXvxYEKwjys1mlMQbzVP2alcPggFYAF29X/fk4bVWzAo8EZSreGIU1yzqK0iuD0yrZUkhQzaRozHVeSRxifR45mFySu7M2PzGt4IsgyAzTZQkngWRKSiYQ6Q8Db8sEnWRJ/RxI/0j1WZSRc5IoWOc22Gom6j7B8h4ed+bjVlMXCJjROMpGzJ7ofTE7SDXIWKMI2f1TSu3+NVSVZuCd/y+JT2e49y+TdVsIXnfCrXpYvXEPEGgVdqtOdsUuD0nvsYC5Jrh7O1Sem/PqZ7eIo7kk7sqiWhtZp385X4dFDLX8zYnJ6TDuiWMGnJ/I7ofJYGGfN0Q1WhcltqzDg6dB7cUz5sWrCYNcVW+msSwm4KQb4QTxJW8+ZGr4vD+M2lytLdbh3hC9KoM652dkl23xkLPmtpNE0otJu3D03dbYenKdQik8/OsDQZa9pIZP5m6WF0RnjGSoEdf4ABE260KNil8tciHZ9+GvHQGyyQtSqMZf6zALloBWtnajiWFpw==;tXO8OGTaS6pTZanvpJbdaw=="
 ---
 

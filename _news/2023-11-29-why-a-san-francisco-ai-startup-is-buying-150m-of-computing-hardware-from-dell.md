@@ -73,6 +73,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Dell strikes $150M hardware deal with AI start-up"
+    excerpt: "Dell Technologies secured a $150 million deal with AI start-up Imbue to build a compute cluster for training foundation models optimised for reasoning, which marked a customer win for its server business. Imbue stated it is already using the cluster to ..."
+    publishedDateTime: 2023-11-29T00:00:00Z
+    webUrl: "https://www.mobileworldlive.com/ai-cloud/dell-strikes-150m-hardware-deal-with-ai-start-up/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 37
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2021/06/16115419/Dell_building_SS_generic.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Dell inks US$150 mil hardware deal with AI startup Imbue"
     excerpt: "Imbue is one of a handful of artificial intelligence startups building their own AI foundation models from scratch."
     publishedDateTime: 2023-11-29T08:01:00Z
