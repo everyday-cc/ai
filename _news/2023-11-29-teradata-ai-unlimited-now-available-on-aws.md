@@ -63,20 +63,6 @@ related:
         width: 1037
         height: 399
         isCached: true
-  - title: "How gen AI is assisting payment scams"
-    excerpt: "Cybercrime-as-a-service tools are using generative artificial intelligence in new ways to crack payment card security, according to a new report from Arkose Labs."
-    publishedDateTime: 2023-11-28T00:40:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/how-gen-ai-is-assisting-payment-scams"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/9cc6ceb/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F3d%2Ff8%2Fa71eb1b54738bca2c783058f2677%2Fadobestock-651061619.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ytafcH7MeRKKwENSkn+Bi4ta5kYc/UBrhD/fSbfpJ5WVfrUV6ot1ROJ27v0LnmBcqxFvBZtpEwILy8EbVmRuor8c2wDVuFF6WwmxuLNLvzXB+CZa6L2QFHGV17gyDZjNqEob47xydw627PWrvV5iFF3RnYs501/xpfxp4TJD5mxMogxWnA4w1wUO78KUJwzX0NKZiBpmVRPjnq88llpTIr31AOzsoPB3EUdYkUc2erOpMQGp0ob6m0BlKi+GcrVN7FAZta6ReyfaS6z4TN13FxdyMAo3aSKJu5Lzqou5vZQDnJRK7bg1CTIeNrK7dlvYRUv+6yULQeXo/hC1OsC+lPSwvilcTwAq8x8WJlKsNE6Z1KdTkFw0pTJpCHCel9s27Asqhb4U6NQAkAt4ZRwKEP+GLBt6cj9R3W84YaMjtZ3QV/yytmdjhjw+NeAIqhi6ItUVr6jzfrMudI+druJ9peYiopZ3FOKCsjqZMNEiqW5pn9C43PjCvK/pGA3o0wYJMpOBpPphMhZbIx2X5L7VfA==;LwTgs61plHqd5mdfRMU8Lw=="
 ---

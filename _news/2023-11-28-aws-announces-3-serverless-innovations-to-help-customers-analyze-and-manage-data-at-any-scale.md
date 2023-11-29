@@ -49,6 +49,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Accor Collaborates With AWS to Deliver Exceptional Guest Experiences"
+    excerpt: "“At Accor, we strive to improve our customers' experience every day,” said Myriam El Harraq, senior vice president, Brands, User Experience and Innovation at Accor. “Our collaboration with AWS is part of our commitment to innovation and our determination to harness the latest AI technologies to make travel easier, smarter, and more enjoyable.”"
+    publishedDateTime: 2023-11-29T07:01:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/accor-collaborates-with-aws-to-deliver-exceptional-guest-experiences/article_a0aaab7a-2a33-5905-bb8f-5c37ffc29720.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Infor Introduces Enterprise Automation Solution on AWS to Help Companies Rapidly Scale Automation and Achieve Business Results Faster"
     excerpt: "NewsVoir Mumbai Maharashtra [India] November 28 Infor the industry cloud company today announced its Infor Enterprise Automation solution a set of Infor Operating Service Infor OS multi-tenant cloud s"
     publishedDateTime: 2023-11-28T12:23:00Z

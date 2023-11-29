@@ -86,22 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon unveils AI chip to compete with Microsoft, Nvidia and AMD"
-    excerpt: "Amazon unveils Trainium2 chip for training large language models, offering 4x faster training and 2x energy efficiency than previous Trainium chips. T"
-    publishedDateTime: 2023-11-29T02:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-unveils-ai-chip-to-compete-with-microsoft-nvidia-and-amd/articleshow/105572624.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-unveils-ai-chip-to-compete-with-microsoft-nvidia-and-amd/amp_articleshow/105572624.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-unveils-ai-chip-to-compete-with-microsoft-nvidia-and-amd/amp_articleshow/105572624.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 91
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-105572630,width-1280,height-720,resizemode-4/105572630.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Amazon's AWS Pushes AI Boundaries With New Chips And Nvidia Partnership"
     excerpt: "AWS and Nvidia Corp NVDA -1.13% Get Free Report are collaborating to bring Nvidia's DGX Cloud to AWS. This includes deploying a new family of GPUs and a giant AI supercomputer to halve the training time and cost for large language models annually."
     publishedDateTime: 2023-11-28T17:44:00Z
@@ -164,38 +148,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NVIDIA delays the launch of new AI chips focused on China"
-    excerpt: "The delayed chip is the H20, the most powerful of three China-focused chips Nvidia has developed to comply with fresh US export restrictions, the sources said, and could complicate its efforts to preserve market share in China against local rivals like Huawei,"
-    publishedDateTime: 2023-11-24T09:49:00Z
-    webUrl: "https://www.cnbctv18.com/technology/nvidia-delays-the-launch-of-new-ai-chips-focused-on-china-18404991.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/nvidia-delays-the-launch-of-new-ai-chips-focused-on-china-18404991.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/nvidia-delays-the-launch-of-new-ai-chips-focused-on-china-18404991.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 74
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/11/nvidia-1-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
-  - title: "Nvidia may have delayed launch of new China-focused AI chip"
-    excerpt: "Nvidia has reportedly delayed the launch of its new AI chip for the Chinese market for the second time. The delayed chip, called H20, is facing integr"
-    publishedDateTime: 2023-11-24T10:32:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-may-have-delayed-launch-of-new-china-focused-ai-chip/articleshow/105473227.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-may-have-delayed-launch-of-new-china-focused-ai-chip/amp_articleshow/105473227.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-may-have-delayed-launch-of-new-china-focused-ai-chip/amp_articleshow/105473227.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-105473603,width-1280,height-720,resizemode-4/105473603.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Nvidia delays launch of new AI chip in China amid US export rules"
     excerpt: "Touted as the most potent among three China-targeted chips developed by Nvidia, the H20 faces a setback in its market debut. This delay may potentially impact Nvidia's competitive stance in China agai"
     publishedDateTime: 2023-11-25T04:05:00Z
@@ -227,6 +179,22 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/05/6-Nvidia-Corp.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Amazon announces new AI chip as it deepens Nvidia relationship"
+    excerpt: "AWS will host a computing cluster for Nvidia to use. Simultaneously, AWS announced a new chip for training AI models, an Nvidia GPU alternative."
+    publishedDateTime: 2023-11-28T16:54:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/amazon-announces-new-ai-chip-as-it-deepens-nvidia-relationship/4900892/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/amazon-announces-new-ai-chip-as-it-deepens-nvidia-relationship/4900892/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/amazon-announces-new-ai-chip-as-it-deepens-nvidia-relationship/4900892/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
+    images:
+      - url: "https://media.nbcnewyork.com/2023/11/107339733-1701194797112-107339733-1701155445926-gettyimages-1259130628-COLLISION_2023.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Amazon unveils new AI chip for training AI"
     excerpt: "Amazon has recently unveiled its brand new AI chip that will be used for the company's cloud computing service. Named Trainium2, the second-generation chip is designed for training AI systems and is said to be four times faster and twice as energy ..."

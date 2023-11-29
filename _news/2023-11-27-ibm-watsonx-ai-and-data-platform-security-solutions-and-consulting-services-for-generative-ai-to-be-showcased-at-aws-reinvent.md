@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/security-solutions-and-consulting-service
 webUrl: "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/"
 type: article
 quality: 120
-heat: 380
+heat: 370
 published: true
 
 provider:
@@ -86,22 +86,6 @@ related:
       - url: "https://img.jagranjosh.com/images/2023/November/28112023/aws-transcribe.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "How AI Is Transforming Leasing, Security And Resident Services"
-    excerpt: "Check out Benzinga's favorite private market real estate offerings and start collecting your share of the rental income. From leasing and security to enhanced resident services, artificial intelligence (AI) can help property managers improve their ..."
-    publishedDateTime: 2023-11-24T11:01:00Z
-    webUrl: "https://www.benzinga.com/real-estate/23/11/35941423/how-ai-is-transforming-leasing-security-and-resident-services"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35941423"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35941423"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Business-People-And-Humanoid-Ai-Robot-Si.jpeg?width=1200&height=800&fit=crop"
-        width: 834
-        height: 556
         isCached: true
   - title: "Highlights from the AWS re:Invent keynote: Q AI, strong bedrock foundation, and a smarter cloud"
     excerpt: "In a wide ranging keynote session that was nearly 2.5 hours long, Adam Selipsky, CEO of Amazon Web Services, detailed the continued progress"

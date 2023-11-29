@@ -37,20 +37,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 55
-  - title: "Accor Collaborates With AWS to Deliver Exceptional Guest Experiences"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Accor S.A., Europe's largest hospitality company, has launched a first-of-its-kind generative artificial intelligence (generative AI) solution using AWS."
-    publishedDateTime: 2023-11-29T08:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/29/9924794.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "AI finally brings personalization to edtech"
     excerpt: "Students are prompted to complete daily streaks and can see how they rank among their friends on the platform. This startup set the AI tutor to work in the language education space, now offered for English and Spanish learners. Speak helps break that ..."
     publishedDateTime: 2023-11-28T00:00:00Z

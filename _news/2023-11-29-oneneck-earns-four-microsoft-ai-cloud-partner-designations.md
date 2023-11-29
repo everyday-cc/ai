@@ -19,6 +19,38 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft ML.NET 3.0 expands deep learning capabilities"
+    excerpt: "Update to the machine learning framework for .NET developers brings new capabilities in object detection, named entity recognition, and question answering."
+    publishedDateTime: 2023-11-29T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 123
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/04/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large-100946747-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Amazon unveils AI chip to compete with Microsoft, Nvidia and AMD"
+    excerpt: "Amazon unveils Trainium2 chip for training large language models, offering 4x faster training and 2x energy efficiency than previous Trainium chips. T"
+    publishedDateTime: 2023-11-29T02:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-unveils-ai-chip-to-compete-with-microsoft-nvidia-and-amd/articleshow/105572624.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-unveils-ai-chip-to-compete-with-microsoft-nvidia-and-amd/amp_articleshow/105572624.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-unveils-ai-chip-to-compete-with-microsoft-nvidia-and-amd/amp_articleshow/105572624.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 91
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-105572630,width-1280,height-720,resizemode-4/105572630.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Intapp solutions now available in the Microsoft Azure Marketplace"
     excerpt: "PALO ALTO, Calif., Nov. 28, 2023 (GLOBE NEWSWIRE) -- Intapp (NASDAQ: INTA), a leading provider of cloud software for the global professional and financial services industry, today announced the availability of its solutions in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2023-11-28T14:59:00Z
@@ -43,6 +75,50 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/10/0-microsoft-copilot-100946694-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
+    excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
+    publishedDateTime: 2023-11-25T10:38:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 68
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Microsoft Adds ChatGPT AI To Windows 11's Command Line, But There's A Catch"
+    excerpt: "ChatGPT's AI capabilities in the Windows Terminal can come in handy for explaining errors, generating commands and providing recommendations."
+    publishedDateTime: 2023-11-27T07:43:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-adds-chatgpt-ai-windows-11s-command-line-theres-catch-1721824"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 67
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1717654/chatgpt.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Amazon Unveils New AI Chip for Cloud Computing as Rivalry with Microsoft, Google Intensifies"
+    excerpt: "Amazon.com revealed a state-of-the-art artificial intelligence chip for its cloud computing service. This move intensifies the fierce competition with Microsoft as both tech giants aim to dominate the rapidly"
+    publishedDateTime: 2023-11-29T08:59:00Z
+    webUrl: "https://www.econotimes.com/Amazon-Unveils-New-AI-Chip-for-Cloud-Computing-as-Rivalry-with-Microsoft-Google-Intensifies-1667034"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 60
+    images:
+      - url: "https://f1.econotimes.com/2023/11/vemnao06oi_th_1024x0.jpg"
+        width: 1024
+        height: 650
         isCached: true
   - title: "Microsoft Releases ML.NET 3.0"
     excerpt: "Microsoft has announced the release of ML.NET 3.0, its open-source, cross-platform, and .NET-based machine learning (ML) framework."
@@ -72,29 +148,29 @@ related:
         width: 1280
         height: 717
         isCached: true
-  - title: "Informatica deploys Microsoft Azure pod in Canada"
-    excerpt: "Informatica says IDMC improves analytics and AI workloads on Azure by ensuring data is high quality and trustworthy. Customers can now access IDMC as an Azure Native Service purchased through the Azure Marketplace. Informatica has customers in more than ..."
-    publishedDateTime: 2023-11-24T09:53:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/informatica-deploys-microsoft-azure-pod-in-canada/"
+  - title: "Microsoft’s AI-powered Bing is coming for Google’s Bard-infused … – Vox.com"
+    excerpt: "Google bookended Microsoft’s big AI search announcement with underwhelming AI news of its own.Microsoft has officially taken the lead in the race"
+    publishedDateTime: 2023-11-27T15:22:00Z
+    webUrl: "https://www.inferse.com/806674/microsofts-ai-powered-bing-is-coming-for-googles-bard-infused-vox-com/"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
+      name: Inferse
+      domain: inferse.com
     quality: 54
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/1637699511013.2e16d0ba.fill-1200x630.jpg"
-        width: 450
-        height: 237
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14258.png"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Schneider Electric Integrates Microsoft Azure OpenAI for Sustainable Solutions"
-    excerpt: "Generative AI automates content generation for marketing, personalizes customer interactions and streamlines decision-making processes, making it a game-changer for the business world. Businesses can"
-    publishedDateTime: 2023-11-27T16:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35963749/schneider-electric-integrates-microsoft-azure-openai-for-sustainable-solutions"
+  - title: "Microsoft & OpenAI: Game-Changing Datacenter Chips"
+    excerpt: "Microsoft has officially declared its intentions to introduce its own datacenter processors, consisting of an AI-focused chip"
+    publishedDateTime: 2023-11-27T18:28:00Z
+    webUrl: "https://www.dmnews.com/microsoft-openai-game-changing-datacenter-chips/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 51
   - title: "How Microsoft goes around seeking unfettered ownership of artificial general intelligence"
     excerpt: "It is becoming increasingly clear that OpenAI's convoluted corporate structure led to conflicting motivations and incentives within the company."
     publishedDateTime: 2023-11-27T03:59:00Z
@@ -109,15 +185,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Synopsys Partners with AMD, Intel, and Microsoft to Advance Generative AI in Semiconductor Industry"
-    excerpt: "This expands upon Synopsys’ recent announcement to deliver Synopsys.ai Copilot, the first in a series of GenAI capabilities for chip design. The integration of GenAI across the Synopsys.ai suite will provide chip designers with collaborative capabilities ..."
-    publishedDateTime: 2023-11-27T00:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/synopsys-partners-with-amd-intel-and-microsoft-to-advance-generative-ai-in-semiconductor-industry/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 22
 
 secured: "X/zuzRLWmcx+PsWWqSux8BlgYu0oJJYtfes5syqkh5AtecS/+hgtq17CUGw7SAxJXCTiH32cdQj1a6W4ju2PaMnIPh4jCjRSDPRhL182x5EsC73GlLrD8cKFyEJs6ncse8mGz7rXKT5rdITKQN7SZgpTmR2hC87zVPkIqtFLJ5mCCoIYSiAhC8sRfij7tVOvFTgLj/fg7NLfouf+QFTqigdkJMuHVC+8MP3jwsgRROpjpDw0heaKbyA5W9XQXdBl9GLWdz6RnVqL31qnCqgTweY/nGLgLafFHBPltTaCMQCvZa4CPHop8IVmYuB5cYNE5Rqv42dAPcSV+qlR+dC4KZ/665SjZ+yboQvQIDkm0pm64l42imjq1QrI8a6IKXV/yMV71+EEq+7bcxhuLloq48g+eHm/70bM/dxqc1Ymhaw3qvx1gLO1OwBhDliOVfpNJkex6ycttFKKtrDsAPVGLAk1sIpqWyiWd0HuihyHueVkUiZujn1smwiEJX0M+5rj/FsRDzG8sUxfgqkFL/4mJQ==;tD2JaCAa6wJhMd0Ll5+Q7g=="
 ---

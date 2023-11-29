@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Amazon is building its own AI chips"
+    excerpt: "Open relationship with Nvidia Amazon's cloud-computing unit announced updated versions of its in-house computer chips while forging closer ties with Nvidia. Apparently, Amazon has a dual strategy to ensure it can get enough supplies of crucial data-centre processors and this involves close"
+    publishedDateTime: 2023-11-29T10:31:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58018-amazon-is-building-its-own-ai-chips"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/73b5d627e8c6966ca720b1ded965216e_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "AWS enters enterprise chatbot fray with Q"
     excerpt: "In the wake of OpenAI’s leadership crisis, the hyperscaler also doubled down on a multimodel AI strategy and deepened its Anthropic alliance."
     publishedDateTime: 2023-11-28T22:54:00Z

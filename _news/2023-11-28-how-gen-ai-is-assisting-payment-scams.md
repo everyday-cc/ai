@@ -24,59 +24,126 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Widens Data Pipelines + Creates Gen-AI Assistant"
-    excerpt: "Because data exists in so varied a set of structures and forms that we can do much with it - but, that means we need ways to connect all our data."
-    publishedDateTime: 2023-11-28T23:30:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/"
-    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/amp/"
+  - title: "Real-time artificial intelligence and event processing  "
+    excerpt: "Event-driven architecture helps business and IT teams interpret and act on real-time information about situations across the organization.\nThe post Real-time artificial intelligence and event processing   appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-29T10:00:00Z
+    webUrl: "https://www.ibm.com/blog/real-time-artificial-intelligence-and-event-processing/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65667326d20fbb7c71172c59/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 640
-        height: 358
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/11/172d5199-04b9-44dd-9d25a5233c3d7c42.blog-lead-space-40x21-1-1.jpg"
+        width: 2400
+        height: 1260
         isCached: true
-  - title: "Amazon Q AI AWS chatbot for businesses launches"
-    excerpt: "Amazon has today launched a new AI powered assistant specifically designed for IT professionals ... you through every stage of AWS application development. From the initial research to the intricacies of coding and optimization, Amazon Q has been designed ..."
-    publishedDateTime: 2023-11-29T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/amazon-q-ai-aws/"
+  - title: "Best practices for augmenting human intelligence with AI"
+    excerpt: "Enabling participation in the AI-driven economy to be underpinned by fairness, transparency, explainability, robustness and privacy. \nThe post Best practices for augmenting human intelligence with AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-28T20:00:00Z
+    webUrl: "https://www.ibm.com/blog/best-practices-for-augmenting-human-intelligence-with-ai/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "ML.NET 3.0 Boosts Deep Learning, Data Processing for .NET-Based AI Apps"
+    excerpt: "ML.NET 3.0, enhancing deep learning and data processing scenarios in the company's machine language framework that lets devs create AI-infused apps completely within the .NET ecosystem."
+    publishedDateTime: 2023-11-28T20:47:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/11/28/ml-net-3-0.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 73
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/Amazon-Q-AI.jpg"
+      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ColorSwirlPinkSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Investing in AI Stocks"
+    excerpt: "The launch of ChatGPT has set off a boom in artificial intelligence ... including automated clinical documentation in healthcare to reduce paperwork and administrative needs."
+    publishedDateTime: 2023-11-25T16:52:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Procurement in the age of AI"
+    excerpt: "But recent advances in natural language processing (NLP), pattern recognition, cognitive analytics, and large language models (LLMs) are “opening up opportunities to make procurement more efficient and effective,” says Julie Scully, director of ..."
+    publishedDateTime: 2023-11-28T00:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/amazon_business_cart.png"
+        width: 1200
+        height: 1340
+        isCached: true
+  - title: "Using AI to track icebergs"
+    excerpt: "Researchers are using a new AI tool to detect icebergs in the Southern Ocean. This is the first step in being able to track the complete life cycle of most icebergs across Antarctica from satellite data."
+    publishedDateTime: 2023-11-24T18:33:00Z
+    webUrl: "https://phys.org/news/2023-11-ai-track-icebergs.html"
+    ampWebUrl: "https://phys.org/news/2023-11-ai-track-icebergs.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-ai-track-icebergs.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/using-ai-to-track-iceb.jpg"
         width: 1280
-        height: 719
+        height: 1588
         isCached: true
-  - title: "Leonardo.Ai Accelerates Global Growth, Generates 700 Million AI Images in Less Than a Year on AWS"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com company, today announced that Leonardo.Ai, an Australian generative artificial intelligence (generative AI) content"
-    publishedDateTime: 2023-11-28T10:17:00Z
-    webUrl: "https://www.impulsegamer.com/leonardo-ai-accelerates-global-growth-generates-700-million-ai-images-in-less-than-a-year-on-aws/"
+  - title: "AI causing ethical concerns for events"
+    excerpt: "The ethics of using artificial intelligence in event organising is a concern for 63 per cent of associations, according to a new white paper."
+    publishedDateTime: 2023-11-27T03:42:00Z
+    webUrl: "https://www.spicenews.com.au/spice-news/ai-causing-ethical-concerns-for-events/"
     type: article
     provider:
-      name: Impulse Gamer
-      domain: impulsegamer.com
-    quality: 41
+      name: Spice News
+      domain: spicenews.com.au
+    quality: 54
     images:
-      - url: "https://www.impulsegamer.com/articles/wp-content/uploads/2023/11/leo.jpg"
-        width: 1037
-        height: 399
+      - url: "https://www.spicenews.com.au/wp-content/uploads/2023/11/artificialintelligence.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Teradata AI Unlimited Now Available on AWS"
-    excerpt: "Teradata today announced that Teradata AI Unlimited is now available in private preview on Amazon Web Service (AWS) through"
-    publishedDateTime: 2023-11-28T20:08:00Z
-    webUrl: "https://www.datanami.com/this-just-in/teradata-ai-unlimited-now-available-on-aws/"
+  - title: "AWS previews Amazon Q: an AI-powered business assistant coming first to IT pros and developers"
+    excerpt: "a new generative artificial intelligence-powered assistant that can be tailored for a customer’s business, which will first be rolled out to assist information technology teams and developers. The company unveiled Amazon Q during AWS re:Invent 2023 ..."
+    publishedDateTime: 2023-11-28T20:00:00Z
+    webUrl: "https://siliconangle.com/2023/11/28/aws-previews-amazon-q-ai-powered-business-assistant-coming-first-pros-developers/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 42
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/adamq.jpeg"
+        width: 1199
+        height: 798
+        isCached: true
+  - title: "Is AI About to Steal Your Job"
+    excerpt: "Almost all US jobs from truck driver to childcare provider to software developer include skills that can be done or at least supplemented by gener"
+    publishedDateTime: 2023-11-28T13:43:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274047912/is-ai-about-to-steal-your-job"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 19
 
 secured: "j1jvQVyYb7f2TxbPlh0CwQ5HA4K0lEUyh0Ek3b4pzuVSYRjK0guFHYv1K2omHaV4nqhPO76r7/G2aCLf2IcFmssFQ3XT3S0SzpWNmrsoGXvXIvsVomDliKhTbwlWPm3gp6couU4vHFgVf9RirG/Uphjc6EeZ7swYlqyMV89jAUZ74EEKRfOQ0pLP6Ib+JDwLUNqZKu3xu+x5xTDQFPvTcjMkvCygzKcluOsNs7J35Fy7CkQ6cEqIqDrv6bN8NyzrB6Gc1JRYbRhLOpjhyqHpRB9OSvnH+NUncCIY2fNBPXcBYI5SBXhjYZzmfYVKV5F/1TZZmGUhwbkvKa4xuXZKoxmnMesfRGBpROgpfmaYqoM=;nOfsm0phb/r5OwQS8BQ1nw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/best-practices-for-augmenting-human-intel
 webUrl: "https://www.ibm.com/blog/best-practices-for-augmenting-human-intelligence-with-ai/"
 type: article
 quality: 99
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -23,52 +23,131 @@ topics:
   - AI
 
 related:
-  - title: "Ensuring Data Privacy: 20 Best Practices For Businesses In The AI Age"
-    excerpt: "Ian Gotts, Elements.cloud The fusion of AI and transparency leads to trust. By publishing an AI ethics charter, an organization illuminates its dedication to data privacy. A transparent AI ethics charter is more than a document; it’s a promise."
-    publishedDateTime: 2023-11-28T15:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/amp/"
+  - title: "Real-time artificial intelligence and event processing  "
+    excerpt: "Event-driven architecture helps business and IT teams interpret and act on real-time information about situations across the organization.\nThe post Real-time artificial intelligence and event processing   appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-11-29T10:00:00Z
+    webUrl: "https://www.ibm.com/blog/real-time-artificial-intelligence-and-event-processing/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5fa5af64c1571671084b661d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/11/172d5199-04b9-44dd-9d25a5233c3d7c42.blog-lead-space-40x21-1-1.jpg"
+        width: 2400
+        height: 1260
         isCached: true
-  - title: "The Practical Impact Of AI For The Masses"
-    excerpt: "At the event, the leadership highlighted the concept of superpowers on demand. The message was that AI's best manifestation would be augmented intelligence for humans."
-    publishedDateTime: 2023-11-28T14:59:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/"
-    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/11/28/the-practical-impact-of-ai-for-the-masses/amp/"
+  - title: "ML.NET 3.0 Boosts Deep Learning, Data Processing for .NET-Based AI Apps"
+    excerpt: "ML.NET 3.0, enhancing deep learning and data processing scenarios in the company's machine language framework that lets devs create AI-infused apps completely within the .NET ecosystem."
+    publishedDateTime: 2023-11-28T20:47:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/11/28/ml-net-3-0.aspx"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 73
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6565003681045ee522bb2f47/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ColorSwirlPinkSmall.jpg"
+        width: 647
+        height: 450
         isCached: true
-  - title: "Making artificial intelligence fit for all our human futures"
-    excerpt: "It was a privilege to introduce my Private Member’s Bill on artificial intelligence (AI) into the House of Lords this month. In the Bill I have tried to incorporate much of what I believe we need to sort, in short order, when it comes to AI. Every King ..."
+  - title: "Investing in AI Stocks"
+    excerpt: "The launch of ChatGPT has set off a boom in artificial intelligence ... including automated clinical documentation in healthcare to reduce paperwork and administrative needs."
+    publishedDateTime: 2023-11-25T16:52:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/investing-in-ai-stocks.width-600.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Procurement in the age of AI"
+    excerpt: "But recent advances in natural language processing (NLP), pattern recognition, cognitive analytics, and large language models (LLMs) are “opening up opportunities to make procurement more efficient and effective,” says Julie Scully, director of ..."
     publishedDateTime: 2023-11-28T00:00:00Z
-    webUrl: "https://www.computerweekly.com/opinion/Making-artificial-intelligence-fit-for-all-our-human-futures"
+    webUrl: "https://www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/amp/"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/amazon_business_cart.png"
+        width: 1200
+        height: 1340
+        isCached: true
+  - title: "Using AI to track icebergs"
+    excerpt: "Researchers are using a new AI tool to detect icebergs in the Southern Ocean. This is the first step in being able to track the complete life cycle of most icebergs across Antarctica from satellite data."
+    publishedDateTime: 2023-11-24T18:33:00Z
+    webUrl: "https://phys.org/news/2023-11-ai-track-icebergs.html"
+    ampWebUrl: "https://phys.org/news/2023-11-ai-track-icebergs.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-ai-track-icebergs.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/using-ai-to-track-iceb.jpg"
+        width: 1280
+        height: 1588
+        isCached: true
+  - title: "AI causing ethical concerns for events"
+    excerpt: "The ethics of using artificial intelligence in event organising is a concern for 63 per cent of associations, according to a new white paper."
+    publishedDateTime: 2023-11-27T03:42:00Z
+    webUrl: "https://www.spicenews.com.au/spice-news/ai-causing-ethical-concerns-for-events/"
+    type: article
+    provider:
+      name: Spice News
+      domain: spicenews.com.au
+    quality: 54
+    images:
+      - url: "https://www.spicenews.com.au/wp-content/uploads/2023/11/artificialintelligence.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "AWS previews Amazon Q: an AI-powered business assistant coming first to IT pros and developers"
+    excerpt: "a new generative artificial intelligence-powered assistant that can be tailored for a customer’s business, which will first be rolled out to assist information technology teams and developers. The company unveiled Amazon Q during AWS re:Invent 2023 ..."
+    publishedDateTime: 2023-11-28T20:00:00Z
+    webUrl: "https://siliconangle.com/2023/11/28/aws-previews-amazon-q-ai-powered-business-assistant-coming-first-pros-developers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 42
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/adamq.jpeg"
+        width: 1199
+        height: 798
+        isCached: true
+  - title: "How gen AI is assisting payment scams"
+    excerpt: "Cybercrime-as-a-service tools are using generative artificial intelligence in new ways to crack payment card security, according to a new report from Arkose Labs."
+    publishedDateTime: 2023-11-28T00:40:00Z
+    webUrl: "https://www.americanbanker.com/payments/news/how-gen-ai-is-assisting-payment-scams"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
     quality: 37
     images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-281123-cover-500px.jpg"
-        width: 500
-        height: 354
+      - url: "https://arizent.brightspotcdn.com/dims4/default/9cc6ceb/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F3d%2Ff8%2Fa71eb1b54738bca2c783058f2677%2Fadobestock-651061619.jpeg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Is AI About to Steal Your Job"
+    excerpt: "Almost all US jobs from truck driver to childcare provider to software developer include skills that can be done or at least supplemented by gener"
+    publishedDateTime: 2023-11-28T13:43:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274047912/is-ai-about-to-steal-your-job"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 19
 
 secured: "yNgzVbeM8BlGLUu/ZRVRjwFOGFqJRcOW/snpwh997aGyFU8Og0x9LSrXWYfL3qjrdMMWtlAa/8FV2gm3PY2TauTEbIsLf9HLj5eGv4hmlAWux13J+E2y7EfNvIhWo0ricwv/cAk/HqTXATktGzffzJPdIm+b21o11cnzBrMdV8IRGsvZgvUeuNaaRXNPEjNIu0I5vgURtr5VqHaZ7kyVkK5mtF7YMO/MyEMhrRo0OBoG8GOsTDh4Gftp2rXYhCl8hvEfO5RLYGMkOgQdVHaCsBRSOY6Xcf4ZN5OMpB0WbSwiEC6LnF7cGNgUkSMBzaZbCdt0yb4vWXz7ZVe3Qjsao4zFSUK0MXOkt+Cgt3W8iBs=;xVvg4fqvUpg184ERY3CZBw=="
 ---

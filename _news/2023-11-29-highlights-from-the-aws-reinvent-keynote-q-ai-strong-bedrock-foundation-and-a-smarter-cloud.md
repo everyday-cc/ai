@@ -100,22 +100,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How AI Is Transforming Leasing, Security And Resident Services"
-    excerpt: "Check out Benzinga's favorite private market real estate offerings and start collecting your share of the rental income. From leasing and security to enhanced resident services, artificial intelligence (AI) can help property managers improve their ..."
-    publishedDateTime: 2023-11-24T11:01:00Z
-    webUrl: "https://www.benzinga.com/real-estate/23/11/35941423/how-ai-is-transforming-leasing-security-and-resident-services"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35941423"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35941423"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Business-People-And-Humanoid-Ai-Robot-Si.jpeg?width=1200&height=800&fit=crop"
-        width: 834
-        height: 556
-        isCached: true
   - title: "Securing generative AI across the technology stack"
     excerpt: "As organizations increasingly rely on generative AI capabilities, they will need AI security platforms to be successful."
     publishedDateTime: 2023-11-27T15:34:00Z
@@ -385,6 +369,6 @@ related:
       domain: channelvisionmag.com
     quality: 19
 
-secured: "Yy99TOoqcdV1f8CzT5kos4VPuDHrbuKRGv7PmhScvSS5VRjWlZDqhReTNjM/2XWFkKCBeHVxCtXSF6pQX9LqX0kO7ZRpNpEcDslwBz1sKZ9/MFGSuXZCAS7/kIiaWsH/rcEuGbcByCrbWXujFAMXIwkdsoSlQAMmNk/4flz/fZoNYCm4HdpgWejXa+KBkCe+96TJQnKU8bnJD+J9n+PotZlG7VmxFl+F7T0zzUrJXITclTVDRuBtJilXvsNyKRPpd7qb3hhty96Ur1k903WwTmeSWwyxxthPWx6TGHvMobEocEFNmGhj7xmSOR3/XGpH2yGv3nZJdv/l9/usMHhA4Kld7KAu8wT71j4CqNARSQ8=;a965e8za7NioJr+MnPAcHw=="
+secured: "OA2Q855spnRK0bBJ5FePXIqwHeQ+4mxC4TxnsE/FM0VfgNwGGlX2WXEEc9TtmwhExro7T/nCss8oQRKphIYVy9GlNmXGkz9d7eFaSeInhGias5k7BvhGtRKOacOrrcX57it1evXHcWssYbWWKY9iAbYeVWaPXqnoWYeY5Un1yENYjXDxoUrgssnRQaA+uLoRNJV0QY/CChQCo+sHmYKjcMdnAj7xAx/MdLXV1HFKbttJ94GTmSZVttzcNp12cszfgu8nTzylj5ig5ePUUu2Gj3vq2ZnWrHjLVfaWmfzNxtPqYji5PfXYNF886q5P/VaVEmftTxA86MIpSlPRfKKh6r6H8LGZu+zCNHXagGTEpDd8yBcwBFCy6OVvnDtFoza8HdQFMUneruAjJdBNXaM/jnTrl4ZRz0LiT1Q28BEVFVfQAxNphvGUDd7PvkcGozBslVu2uWmfdlA33xhkARLmguKmUqRpLD0i2XX8PjJ61xLM3eND8vnvaZ/KKiegy0jk9mx2AJzSrMJdZECGMr34XQ==;oLvTT6RHqhxz0UejMopMxw=="
 ---
 

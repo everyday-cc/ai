@@ -9,7 +9,7 @@ ampWebUrl: "https://variety.com/2023/artisans/features/artificial-intelligence-i
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/artisans/features/artificial-intelligence-in-entertainment-hot-topic-at-focus-2023-1235803469/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1000
     height: 563
     isCached: true
-
-related:
-  - title: "Students explore ethics of AI in Education at WISE 2023"
-    excerpt: "Essential ethical practices for students using artificial intelligence (AI) in their education have been explored by young learners at the 2023 WISE, through a session led by"
-    publishedDateTime: 2023-11-28T19:57:00Z
-    webUrl: "https://www.gulf-times.com/article/672600/qatar/students-explore-ethics-of-ai-in-education-at-wise-2023"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 51
 
 secured: "DQ9PRPcLOudubc6Uur3BDZHambmrwAyTJJ2oCagS8laURiBJUUAqxgJoeQOwBYnW9xzUlRKa9QGHN4LQEwG/yRpZM/VibRe7vNL2lgxbNV1Z7nTGP8BM05tWmzGK255wAxD4RZUYz5cweQhwxxciVfjzbeF4DslHL7dAO+OhE2btdLlMpXmfkfhZFSvlgzfV/CZf4sxSOEVrIU3WDKAivTNQ9+/GtGLeKspK901DJqWBIHNVQ2lnW6q2wJBDOuHMgmqiLAOh5k/DI8r9kh2Ygi22T90TuM6AePumX1714tOX64VQ5hzdDvcZch3Fp9N15Xylur2o+AnjqbsT+PEY0Ryky8fKmnIjS9yJmX9PXRI=;axS3cD8p+JPMCzY66Npekg=="
 ---

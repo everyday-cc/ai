@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/boston/news/colleges-ai-artificial-intel
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/colleges-ai-artificial-intelligence-student-policy-question-everything/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: CBS News
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "StudentAI.app Sets a New Standard in EdTech with the Launch of Interactive AI Tools for Students and AI Teacher Collaboration"
-    excerpt: "StudentAI.app addresses these critical issues head-on by launching a platform that not only transforms passive learning into an interactive, engaging process but also equips students with sophisticated tools for personal and professional development."
-    publishedDateTime: 2023-11-25T03:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/studentai-app-sets-a-new-standard-in-edtech-with-the-launch-of-interactive-ai-tools-for-students-and-ai-teacher-collaboration-1032848965"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/1700638633530-0.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Question Everything: How are colleges handling the use of artificial intelligence?"
     excerpt: "A recent survey revealed that 56% of college students admit completing assignments using AI technology. WBZ-TV's Kristina Rex reports."
     publishedDateTime: 2023-11-28T23:26:00Z

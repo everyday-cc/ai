@@ -33,20 +33,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "The Evolution of Machine Learning: A Journey through AI Before the Turn of the Millennium"
-    excerpt: "Introduction The landscape of artificial intelligence (AI) has undergone a remarkable transformation over the years, particularly in the realm of machine learning. As we delve into the evolution of machine learning before the turn of the millennium,"
-    publishedDateTime: 2023-11-24T09:43:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-machine-learning-a-journey-through-ai-before-the-turn-of-the-millennium/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 45
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/vitaly-sacred-7Rhal4dap78-unsplash.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "y1oE283EXtxsjFVpUhWkFHldfxgraYKPYYQKK1yRTU2k1d4uBjjpcdHrkA7DcJrQDzVUZB2bJn/kLOwxQpkeEDDaKffUKlMpvNISDB+/OFuSbwRJuwA9b33Qoflc/lt7/dbVKejaGlfFFsAS0YutfWo44NCDFF+knUIUQVHS65FLuBmObxzsqm7i5FGslir8SpQ7T9yWJAUJNvZmeTq+cSmuZEbmtrFS3x+i7Grl1VnRS1RaMW7twwFa68POjebJMLB2Rp3w6b151SpqRZiTpYuBVNwUef+AW6gX+9Aj/gr+WYUsQtsiJMtmzYAR+lajfw8jgTjXVQ7bBH7mOjA9Oo4S+p/9qZkqFfdHNPDYd4AHyXqlTXvQ9WvhDPHazQw/0YTGSuIZdjf65wmtmjsoesCT994IRUrwC4RL6wmBottM3r3HC93cRoVEDyJCJX3nLDOypBCa+nKDIjvB/Aark/7H0A1ZEL8+969maait4VhPiOGbCwrsMTFbwiuV5ZzZQ5L8oiWjPGYgwxUqoPKbEA==;4gTHeBMDK9eeSa78ON4tLg=="
 ---

@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Dell Secures $150 Million Hardware Deal with AI Startup Imbue"
+    excerpt: "To expand its presence in the competitive AI market, Dell Technologies Inc. has inked a lucrative $150 million deal with Imbue"
+    publishedDateTime: 2023-11-29T09:51:00Z
+    webUrl: "https://analyticsindiamag.com/dell-secures-150-million-hardware-deal-with-ai-startup-imbue/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/11/Dell.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Dell inks US$150 mil hardware deal with AI startup Imbue"
     excerpt: "Imbue is one of a handful of artificial intelligence startups building their own AI foundation models from scratch."
     publishedDateTime: 2023-11-29T08:01:00Z

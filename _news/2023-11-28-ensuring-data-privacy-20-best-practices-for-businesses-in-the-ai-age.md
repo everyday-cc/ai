@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/28/ensuring-data-privacy-20-best-practices-for-businesses-in-the-ai-age/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Forbes
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Best practices for augmenting human intelligence with AI"
-    excerpt: "Enabling participation in the AI-driven economy to be underpinned by fairness, transparency, explainability, robustness and privacy. \nThe post Best practices for augmenting human intelligence with AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-11-28T20:00:00Z
-    webUrl: "https://www.ibm.com/blog/best-practices-for-augmenting-human-intelligence-with-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
   - title: "The Practical Impact Of AI For The Masses"
     excerpt: "At the event, the leadership highlighted the concept of superpowers on demand. The message was that AI's best manifestation would be augmented intelligence for humans."
     publishedDateTime: 2023-11-28T14:59:00Z
@@ -56,19 +47,35 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Making artificial intelligence fit for all our human futures"
-    excerpt: "It was a privilege to introduce my Private Member’s Bill on artificial intelligence (AI) into the House of Lords this month. In the Bill I have tried to incorporate much of what I believe we need to sort, in short order, when it comes to AI. Every King ..."
-    publishedDateTime: 2023-11-28T00:00:00Z
-    webUrl: "https://www.computerweekly.com/opinion/Making-artificial-intelligence-fit-for-all-our-human-futures"
+  - title: "New framework for using AI in health care considers medical knowledge, practices, procedures, values"
+    excerpt: "Health care organizations are looking to artificial intelligence (AI) tools to improve patient care, but their translation into clinical settings has been inconsistent, in part because evaluating AI in health care remains challenging."
+    publishedDateTime: 2023-11-27T22:06:00Z
+    webUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-11-framework-ai-health-medical-knowledge.amp"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 37
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 46
     images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-281123-cover-500px.jpg"
-        width: 500
-        height: 354
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-system.jpg"
+        width: 1920
+        height: 1372
+        isCached: true
+  - title: "How to Protect Your Privacy When Using Undress AI Tool"
+    excerpt: "Hello tech enthusiasts! In an era where artificial intelligence is reshaping boundaries it thrilling yet daunting to witness innovations like the Undress AI tools These tools use neural networks and"
+    publishedDateTime: 2023-11-27T16:43:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274046891/how-to-protect-your-privacy-when-using-undress-ai-tool"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1700994204615.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "qKiSBnEPmqp0jijcbgzdlvtYgA3LN2zsx+hiPXnzqKOARc/WLiCWGmGHanxJJ9QkM/zJO+waAMJk9hcTx+PSwboMrM1MDkfh8qW8o2LWJJcwNC0esjv+YPHTH+V8c1x5BRkfwDL+bm/t56DOnC+M2B/ipAK+MglDbSjmKPZZw3ElrrOG+n1ogz+H3cu5/3BiJqXCysJMzIJzJbwdi40YI6FJUj5yoYiiZ17laXPF9tYSSFp11z0mywZji2gxm3H4gjv6XL5/pnmGySegiJNO6rB5RnDLd0pdOICO1WWF0vJA1kiny5sRgq31FKj5lPBHcEobqxtUCzFgr5IaIcrsjDB9gIDeXtT5uh0YfKLxLpa0h3VmppvO+5eM+DSzRO1BlIfY5e4ijBccXjn6dUWj1s3ONiJAU+J3cwjRlf16UJNL0HmkQhdScGFrA5fhyUO9UNB9Wx2wmiKpV42cFNqAwSqCfLiEIVSJjn+O62eibViI7Fouh9l88XK2P7XNjgL17XTiiNKq+Z2yY4qtcxcyKA==;7u8rp7ajXiBCQgDlcjYNcQ=="

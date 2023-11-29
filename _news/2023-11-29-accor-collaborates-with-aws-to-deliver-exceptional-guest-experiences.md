@@ -1,67 +1,93 @@
 ---
 category: news
 title: "Accor Collaborates With AWS to Deliver Exceptional Guest Experiences"
-excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Accor S.A., Europe's largest hospitality company, has launched a first-of-its-kind generative artificial intelligence (generative AI) solution using AWS."
-publishedDateTime: 2023-11-29T08:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/11/29/9924794.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/11/29/9924794.htm"
+excerpt: "“At Accor, we strive to improve our customers' experience every day,” said Myriam El Harraq, senior vice president, Brands, User Experience and Innovation at Accor. “Our collaboration with AWS is part of our commitment to innovation and our determination to harness the latest AI technologies to make travel easier, smarter, and more enjoyable.”"
+publishedDateTime: 2023-11-29T07:01:00Z
+originalUrl: "https://www.valdostadailytimes.com/ap/business/accor-collaborates-with-aws-to-deliver-exceptional-guest-experiences/article_a0aaab7a-2a33-5905-bb8f-5c37ffc29720.html"
+webUrl: "https://www.valdostadailytimes.com/ap/business/accor-collaborates-with-aws-to-deliver-exceptional-guest-experiences/article_a0aaab7a-2a33-5905-bb8f-5c37ffc29720.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://images.tmcnet.com/tmc/world.jpg"
-    width: 1200
-    height: 627
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
-  - title: "Drive hyper-personalized customer experiences with Amazon Personalize and generative AI"
-    excerpt: "Today, we are excited to announce three launches that will help you enhance personalized customer experiences using Amazon Personalize and generative AI. Whether you’re looking for a managed solution or build your own, you can use these new capabilities to power your journey. Amazon Personalize is a"
-    publishedDateTime: 2023-11-26T19:41:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/"
+  - title: "AWS Announces Four Zero-ETL Integrations to Make Data Access and Analysis Faster and Easier Across Data Stores"
+    excerpt: "\"To help customers fuel innovation with data, AWS offers the industry's broadest and deepest set of data services for storing and querying any type of data at scale,\" said Dr. Swami Sivasubramanian, vice president of Data and Artificial Intelligence at AWS."
+    publishedDateTime: 2023-11-28T13:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/b35985858/aws-announces-four-zero-etl-integrations-to-make-data-access-and-analysis-faster-and-easier-across"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35985858"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35985858"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
-  - title: "Build brand loyalty by recommending actions to your users with Amazon Personalize Next Best Action"
-    excerpt: "Amazon Personalize is excited to announce the new Next Best Action (aws-next-best-action) recipe to help you determine the best actions to suggest to your individual users that will enable you to increase brand loyalty and conversion. Amazon Personalize is a fully managed machine learning (ML) service"
-    publishedDateTime: 2023-11-26T19:39:54Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-brand-loyalty-by-recommending-actions-to-your-users-with-amazon-personalize-next-best-action/"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Salesforce and AWS set to integrate more services"
+    excerpt: "Also being supported will be Salesforce Data Cloud, expanding data sharing across additional AWS technologies. These Data Cloud integrations will be governed by new centralised access controls, which will give customers the ability to manage secure user access at the folder, object, and file level in Amazon S3."
+    publishedDateTime: 2023-11-28T08:43:00Z
+    webUrl: "https://htxt.co.za/2023/11/28/salesforce-and-aws-set-to-integrate-more-services/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 55
-  - title: "How AI Can Help Sales Teams Craft More Personalized Pitches"
-    excerpt: "In the past, hours of leg work and research were required to create relevant and resonant sales interactions. With seller time at a premium, this sort of intensive prep work typically falls by the wayside for average sellers."
-    publishedDateTime: 2023-11-28T13:14:00Z
-    webUrl: "https://hbr.org/2023/11/how-ai-can-help-sales-teams-craft-more-personalized-pitches"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 34
-  - title: "AI finally brings personalization to edtech"
-    excerpt: "Students are prompted to complete daily streaks and can see how they rank among their friends on the platform. This startup set the AI tutor to work in the language education space, now offered for English and Spanish learners. Speak helps break that ..."
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 39
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2023/11/AWS_Partnership.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AWS Announces 3 Serverless Innovations to Help Customers Analyze and Manage Data at Any Scale"
+    excerpt: "AWS is also releasing a new Amazon Redshift Serverless capability that uses artificial intelligence (AI) to predict workloads and automatically scale and optimize resources to help customers meet their price-performance targets. These announcements build ..."
     publishedDateTime: 2023-11-28T00:00:00Z
-    webUrl: "https://vator.tv/news/2023-11-28-ai-finally-brings-personalization-to-edtech"
+    webUrl: "https://www.datanami.com/this-just-in/aws-announces-3-serverless-innovations-to-help-customers-analyze-and-manage-data-at-any-scale/"
     type: article
     provider:
-      name: vator
-      domain: vator.tv
-    quality: 17
+      name: datanami.com
+      domain: datanami.com
+    quality: 8
+  - title: "Infor Introduces Enterprise Automation Solution on AWS to Help Companies Rapidly Scale Automation and Achieve Business Results Faster"
+    excerpt: "NewsVoir Mumbai Maharashtra [India] November 28 Infor the industry cloud company today announced its Infor Enterprise Automation solution a set of Infor Operating Service Infor OS multi-tenant cloud s"
+    publishedDateTime: 2023-11-28T12:23:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274047802/infor-introduces-enterprise-automation-solution-on-aws-to-help-companies-rapidly-scale-automation-and-achieve-business-results-faster"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 8
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ZTRiOGVjNmMtZDE.jpg"
+        width: 630
+        height: 473
+        isCached: true
+  - title: "AWS Announces Four Zero-ETL Integrations to Make Data Access and Analysis Faster and Easier Across Data Stores"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced new integrations that enable customers"
+    publishedDateTime: 2023-11-28T22:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231127634964/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
-secured: "TwOpb0esz4eoB4HnWpESzPKCeKlAXG4CDe3fYNvHVRMACRK5fl6CWMYO+k15Cp10epUBfY0G3XYZLZjH2BVwR0hxqElY9xrvI5z+GCyE+zOaTwQGPDi2qJ8CaLjTBjOeezQRxtrccsSRGDNmbkjeWfWw1sXZTQyeR0yPxGT89GX1Wv3G5S4zf+felWEbPECTdmj1pgmdCNpKaqJ8DwE5fMJK9Od3lX+QNq0L4sUETuh0Qzrv4EaAs1WikGbEJ+kB1QXZCyF39sk5qO4838D8xJayh0L4j8O0qgdugstvNjtMXxt2sbVkxOWhuzG7RVYdaqVozVTHMfij8W3TcgrunOC1WAfkeVH1GZGAPpOxTYk=;tYR3/t/QmL6d4j1UY7lDTw=="
+secured: "dvgri3abb+d3AZApauP9sRAJPymvmg3mnPr6XpV/ziLFe30qs9EKbndG5eY8FkO+qPNa1aL8PSy5I2K5BDmJRXXyXJH5ZSob9hC6EKdCmL9yriULatwZv4FcwQWFkvFNQOOMB2BfiPbqI3ArQxHZlVhpR1S7RRLRopjt17DcgJXqgqUJDRcnmp0+27t5wP0tSEgV7/ih8y/7i7fLhXffpdWzeyOBvdmAdpHGMag68V8fGMgeFNGErqeI7s4z0WnefVhLXoKDLteMW6H9J4oRAl3kSNKyyf7OBkAeK6UE0NTBwB13outVF2dqjZUZog7BFeHt89esv+QKqz14CdPXM/V+8nKTwUfNCvRZd2KIgKk=;DuogxcEa5qyDEGCLYosJ0g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/11/24/open-banking-will-grow-the-whole-economy-not-only-fintech/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://business.inquirer.net/files/2023/11/ONLINE_PR_FINAL_JuanHand_Unionbank_Ti-620x343.jpg"
         width: 620
         height: 343
-        isCached: true
-  - title: "Experts Discuss Fintech Market Revamping Tech Trends"
-    excerpt: "( MENAFN - The Peninsula) Joel Johnson | The Peninsula"
-    publishedDateTime: 2023-11-24T10:54:00Z
-    webUrl: "https://menafn.com/1107480950/Experts-Discuss-Fintech-Market-Revamping-Tech-Trends"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?121001"
-        width: 400
-        height: 250
         isCached: true
   - title: "President of This Full-Service Agency Servicing Fintechs Sits Down With Benzinga At The 2023 Global Fintech Deal Day"
     excerpt: "The Benzinga Global Fintech Deal Day brings together renowned companies and ... Mr. Stiles spoke about the changes he is seeing in the industry, especially in regards to AI and the challenges around fundraising. Watch the full interview here: This post ..."

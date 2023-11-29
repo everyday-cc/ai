@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/11/28/can-the-eu-com
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/11/28/can-the-eu-complete-its-ai-act/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1195
     height: 900
     isCached: true
-
-related:
-  - title: "Digital advocacy group criticizes current scope of the EU AI Act"
-    excerpt: "In an open letter signed by members of Digital Europe, the group warned that over-regulation of the AI industry could negatively impact the region’s ability to become a global leader in the technology."
-    publishedDateTime: 2023-11-24T09:23:00Z
-    webUrl: "https://www.computerworld.com/article/3711381/digital-advocacy-group-criticizes-current-scope-of-the-eu-ai-act.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
 
 secured: "u+xEKhHCzwAup5eFKaPaP8u84G0sl+hINxFURUS0QGTfPVU8EzoxFVTQvDPnhrOceMaXXZBOHo6sW7w4FlkJ7hlL8dbBOVJjFVYGCd1A/rqMUr8LCMcw7uC+iALtbVKJv81WGd6cDcUevaefVDr/eg+yi1ml3zsliqLYtux0N1WcodpsWq67Cn75eRYhDtrlvnxdvd/NhRxz0FAe+145JwMQC2UzDGbP83Jv0wacPVhQJkU6XpHyZuk/ygMmOigNpBLaAAmUK/TQ7/Bw27Xy6Qxhm/sEzDNVYJebx/F7vaD7B7cDbZ1i/j3YBD7VSAups0NZbPDuIRcyhEDXC3pM8M2zf8A4EB6e+ZMILzvEt0ajlTNeCtHnoc9ot4cGuCEFSyM8GHFZzkpZRk4ejPiW5tjzz41EjhIgEVUifJrRTZSPZdMO4ydHDYwWOAOFjO9wkrbYQd0irY+xljHe1eleoDGfonVKik+VYkwg3L4oCGtHWfQTsDPxoyuGPYUyrRXTwAQCC5nWXqHuGucqaOtqUA==;VtDrEDFc6ik7FO3Xjz4m7A=="
 ---

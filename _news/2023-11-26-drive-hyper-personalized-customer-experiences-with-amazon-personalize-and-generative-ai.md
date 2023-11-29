@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personal
 webUrl: "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -32,20 +32,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 55
-  - title: "Accor Collaborates With AWS to Deliver Exceptional Guest Experiences"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Accor S.A., Europe's largest hospitality company, has launched a first-of-its-kind generative artificial intelligence (generative AI) solution using AWS."
-    publishedDateTime: 2023-11-29T08:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/11/29/9924794.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "How AI Can Help Sales Teams Craft More Personalized Pitches"
     excerpt: "In the past, hours of leg work and research were required to create relevant and resonant sales interactions. With seller time at a premium, this sort of intensive prep work typically falls by the wayside for average sellers."
     publishedDateTime: 2023-11-28T13:14:00Z

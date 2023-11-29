@@ -7,7 +7,7 @@ originalUrl: "https://www.travelweekly.com/Travel-News/Airline-News/clear-to-upg
 webUrl: "https://www.travelweekly.com/Travel-News/Airline-News/clear-to-upgrade-to-facial-recognition"
 type: article
 quality: 71
-heat: 112
+heat: 111
 published: true
 
 provider:

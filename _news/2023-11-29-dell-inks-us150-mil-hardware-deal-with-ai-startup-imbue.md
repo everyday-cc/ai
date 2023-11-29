@@ -59,6 +59,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 44
+  - title: "Dell Secures $150 Million Hardware Deal with AI Startup Imbue"
+    excerpt: "To expand its presence in the competitive AI market, Dell Technologies Inc. has inked a lucrative $150 million deal with Imbue"
+    publishedDateTime: 2023-11-29T09:51:00Z
+    webUrl: "https://analyticsindiamag.com/dell-secures-150-million-hardware-deal-with-ai-startup-imbue/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/11/Dell.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Why a San Francisco AI startup is buying $150M of computing hardware from Dell"
     excerpt: "S.F.-based Imbue inked a deal to purchase $150 million worth of computing hardware from Dell in order to train its foundational AI models."
     publishedDateTime: 2023-11-28T18:00:00Z

@@ -85,22 +85,6 @@ related:
         width: 784
         height: 667
         isCached: true
-  - title: "Procurement in the age of AI"
-    excerpt: "But recent advances in natural language processing (NLP), pattern recognition, cognitive analytics, and large language models (LLMs) are “opening up opportunities to make procurement more efficient and effective,” says Julie Scully, director of ..."
-    publishedDateTime: 2023-11-28T00:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/amazon_business_cart.png"
-        width: 1200
-        height: 1340
-        isCached: true
   - title: "Healthcare in the age of AI: How will artificial intelligence impact future decision-making?"
     excerpt: "Authored by: Constanza Salas, Jhon Galindo and Rachel Howard"
     publishedDateTime: 2023-11-24T11:06:00Z

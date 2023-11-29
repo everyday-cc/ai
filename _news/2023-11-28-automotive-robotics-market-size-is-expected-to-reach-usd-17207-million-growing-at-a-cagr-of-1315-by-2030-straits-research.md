@@ -35,22 +35,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market to Hit US$ 3,547.4 Million by 2030: Coherent Market Insights"
-    excerpt: "According to Coherent Market Insights, The global artificial intelligence in drug discovery market was valued at US$ 1,016.1Mn in 2022 and is forecast to reach a value of"
-    publishedDateTime: 2023-11-24T10:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/11/g35937513/artificial-intelligence-in-drug-discovery-market-to-hit-us-3-547-4-million-by-2030-coherent-market"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35937513"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35937513"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "dC28RRVLR2KaXI26Fw2TF9QoS+V0RKBYl4oCbFWVDunKP7t4uAqYTgIMjp776oJdShAgyOAJ6LFDduSS1jolPf4V/ImDIOO1Xq2NVAyeKq7s26O4Y5DTNCoJdiCYZqWbXpUx+VDe70eeaQ1IKkFmqA7KA9aWY3CFZo3USKDa4Pas8/E762gr2WOuRDBDemwXSpa0hZ0tuza0GxBB+AowOkRgoGX8Ro6oHiNOm+SnHoT5AzmEg3NwXY5OJ35wy/W6TSErh/XrkWdjllZxyWFB85JwnYFzTYbz1kMnxyJBZgOHjQMJhx+kRwBTsHm+3Jslz3fCyJ/PzFTgd095ge3fSkzhnaf5UM9/3tIrlfTlzEQ=;yJ5wHcknejcE0leDaC4lnA=="
 ---

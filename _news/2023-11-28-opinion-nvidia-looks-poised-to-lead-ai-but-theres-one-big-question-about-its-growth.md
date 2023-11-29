@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-looks-poised-to-lead-ai
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-looks-poised-to-lead-ai-but-theres-one-big-question-about-its-growth-80a41f77"
 type: article
 quality: 81
-heat: 102
+heat: 91
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "These artificial intelligence (AI) stocks are better buys than Nvidia"
-    excerpt: "While Nvidia has been one of the best investments in 2023, there are better options going into the new year. Investors interested in AI might be better off now buying stocks in companies that are at earlier stages in their AI expansions and have more room for growth over the long term."
-    publishedDateTime: 2023-11-24T10:27:00Z
-    webUrl: "https://www.azcentral.com/story/money/2023/11/24/nvidia-or-artificial-intelligence-ai-stocks-to-buy/71664718007/"
-    type: article
-    provider:
-      name: AZ Central
-      domain: azcentral.com
-    quality: 32
 
 secured: "dkJmUkYadUpy1gLRGNF9U8PN4p6OK/qg69Gg9UDkihlqgs2iotdE/Za4GqT9H36XbZOAJtqV+WpyHzByzm/RE//mK7F86C5WlZYDhHySM0K6V95ol+moc57C9CKCFSAyBbCLRV9Dz5eUECon2jRBVug/Aa56H90HGTze0M6FyT8jiVtpU2tVx393w0bn4BSAYcNtzD92s+noac6UjrKy0cosCAQhOVARGVg9LoI2PEXeqryYjhv+tIo/EHcGB30/t21nwRTooqCPJfXXhe1srTBTKelS0DVKtLcZk4aPN8sxOodhn5XJd2mHZdUfWjJ5/IyNCvvi1wpnajYR0BQa+rI15mQF9CaRaUYISVVgQ9E=;0iQTdadbX8KZT3iWK/2OfQ=="
 ---

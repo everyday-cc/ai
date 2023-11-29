@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/23/11/ab35964540/schneider-
 webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35964540/schneider-electric-utilises-generative-ai-to-revolutionise-operations"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Schneider Electric Integrates Microsoft Azure OpenAI for Sustainable Solutions"
+    excerpt: "Generative AI automates content generation for marketing, personalizes customer interactions and streamlines decision-making processes, making it a game-changer for the business world. Businesses can"
+    publishedDateTime: 2023-11-27T16:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/11/ab35963749/schneider-electric-integrates-microsoft-azure-openai-for-sustainable-solutions"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
 
 secured: "lAaQfK+v/lQrj7yLYMlW6uQB7kV+TIcYfW7xKntdG4OqfFPUp9/SUGp1d2x2atWe2Q8CqS0Q6A5Euqjk220C/HCPCZXIwjkx58ibQvIQyRvZjAaEp4UKBBjIYm90hzFH2prFFmHOeTYOPhZYd6Vy/3hz2Tedc/YfSBO/TzeUC54C0Szl9HgqJmowMtP7y9wsK6IUQ9TATVUHGQ7bL1HDWkrQGOqHyIqiaLSQFLwSLwX5Abp5a6Xy+q1z+HRdq4Xh5e6fpNMm7I4OYz2ktvnQg+cJCBXY5PEgGi/utopiY00ClAY4W4kW5XETchbND+dJNUwCG43/qQyv1I9GO2i4hr4u44BVA6FzX1OIw4vPoH4=;MN0EYQbtJ+miPrLjlWp69w=="
 ---

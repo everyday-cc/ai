@@ -28,35 +28,67 @@ images:
     isCached: true
 
 related:
-  - title: "How are local colleges handling students' use of artificial intelligence?"
-    excerpt: "BOSTON - There are a lot of myths, predictions, and half-truths about artificial intelligence: it's coming for your job. It's too risky. Generative AI, harnessed through programs like ChatGPT, is a popular technology that can be used to create new content ..."
-    publishedDateTime: 2023-11-28T23:35:00Z
-    webUrl: "https://www.cbsnews.com/boston/news/colleges-ai-artificial-intelligence-student-policy-question-everything/"
-    ampWebUrl: "https://www.cbsnews.com/amp/boston/news/colleges-ai-artificial-intelligence-student-policy-question-everything/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/colleges-ai-artificial-intelligence-student-policy-question-everything/"
+  - title: "Students Explore The Ethics Of Ai In Education At 2023 Wise Summit"
+    excerpt: "The global conference on the future of education, hosted by Qatar Foundation’s (QF) education think tank WISE at Qatar National Convention Centre, featured a discussion on ‘Artificial Intelligence and the Challenges of Education and Ethics’ on the ..."
+    publishedDateTime: 2023-11-29T09:14:00Z
+    webUrl: "https://www.albawaba.com/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 56
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 91
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/15/7b544a11-e02c-452c-8747-125a1d777d82/thumbnail/1200x630/c263c2762996494805c384964e845ad1/gettyimages-658984267.jpg?v=d785468072c93affb6a366f2958aca39"
-        width: 1200
-        height: 630
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-11/image002_0.png?itok=4z_erHTq"
+        width: 1434
+        height: 840
         isCached: true
-  - title: "Question Everything: How are colleges handling the use of artificial intelligence?"
-    excerpt: "A recent survey revealed that 56% of college students admit completing assignments using AI technology. WBZ-TV's Kristina Rex reports."
-    publishedDateTime: 2023-11-28T23:26:00Z
-    webUrl: "https://www.cbsnews.com/boston/video/question-everything-how-are-colleges-handling-the-use-of-artificial-intelligence/"
+  - title: "New Research Paves Way for Artificial Intelligence in Education"
+    excerpt: "Over 500 respondents contributed to the Department for Education’s call for evidence on generative AI. Education professionals, Artificial Intelligence"
+    publishedDateTime: 2023-11-28T11:51:00Z
+    webUrl: "https://businessnewswales.com/new-research-paves-way-for-artificial-intelligence-in-education/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 31
+      name: https//businessnewswales.com
+      domain: businessnewswales.com
+    quality: 54
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/28/e06a8958-3ce5-4f81-97b4-93a982af8aee/thumbnail/1200x630/bfbe5b36e614a4c12817629d117b8863/fa074a1a5fe05154bad5e2717de9538d.jpg?v=d785468072c93affb6a366f2958aca39"
-        width: 1200
-        height: 630
+      - url: "https://businessnewswales.com/wp-content/uploads/headway-5QgIuuBxKwM-unsplash-ai-education-meeting-laptop.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Students explore ethics of AI in Education at WISE 2023"
+    excerpt: "Essential ethical practices for students using artificial intelligence (AI) in their education have been explored by young learners at the 2023 WISE, through a session led by"
+    publishedDateTime: 2023-11-28T19:57:00Z
+    webUrl: "https://www.gulf-times.com/article/672600/qatar/students-explore-ethics-of-ai-in-education-at-wise-2023"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 51
+  - title: "QSTP session explores growing influence of Artificial Intelligence on education"
+    excerpt: "Qatar Science & Technology Park (QSTP), part of Qatar Foundation, is a Free Zone, accelerator and incubator for tech-product development in Qatar. The park fosters an innovation and entrepreneurship ecosystem in Qatar that works to accelerate commercialization of market-ready technologies to realize Qatar’s national diversification drive."
+    publishedDateTime: 2023-11-26T13:53:00Z
+    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/qstp-session-explores-growing-influence-of-artificial-intelligence-on-education-fhd9br2b"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 30
+  - title: "Concerns Rise as UK School Pupils Exploit AI to Create Indecent Imagery of Fellow Students"
+    excerpt: "In addition to government initiatives, schools are being urged to strengthen their educational programs on digital ethics, emphasising the responsible use of technology and the potential consequences of misusing AI tools. Parents, too, are encouraged to ..."
+    publishedDateTime: 2023-11-29T00:56:00Z
+    webUrl: "https://www.ibtimes.co.uk/concerns-rise-uk-school-pupils-exploit-ai-create-indecent-imagery-fellow-students-1721840"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 29
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1720521/uk-entertainment-industry-fails-tackle-rampant-sexual-abuse.jpg"
+        width: 768
+        height: 563
         isCached: true
 
 secured: "z+zqNC/7/i1rMGV0jSiZ4y/uONtNHNBDtn9bbBZ51Kh74dbxQy3BjP3YAVbJHqgGAt5r2qfOs/hVS9jcygu6qvIRHevjbcKHigoOkZWRITULUVKwntp1uhs6B0wvLuPE/T+qCmF9OoL+IBm1x4ooXiXcPauB2Mwkcq2M6fII9HxdBmrlxZByRqKVp55NcJog7TFDjdbBErVmCVCrwgiORsL/hyf75NMPb519ffp6Qha4J2SZIJTPzJn99YEaXresocOgQLvRQosEcx+M8JU9xtr2COPM4f/2Gq0x6CRBfACqP8MJWcvvZshXiqeKF1qLSmIl8TEOPiTfum7Mxzy1dFy28mZgGgWzl5zJIiM6JFH6PuxyExKa+WRfTkl6umUF3zr/tf0Dl2xqK8sfuJS3CRuaUazotMjkaFhgTZDt+LepjJRV4O4MhcX18PjBsKIwo8416p3WTtFZcl1Q9KF3U+wE1UR1pKS5O5KXdCH6G3w3w7tKofB2LlJsztwSkQjXDvs30tlsN424ePpKcrVamw==;bYrEfaqfXfKYENdliTPtBA=="

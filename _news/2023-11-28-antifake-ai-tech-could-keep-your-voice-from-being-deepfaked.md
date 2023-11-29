@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fake babies, real horror: Deepfakes from the Gaza war increase fears about AI's power to mislead"
+    excerpt: "The war in Gaza is highlighting the latest advances in artificial intelligence as a way to spread fake images and disinformation"
+    publishedDateTime: 2023-11-29T09:58:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/fake-babies-real-horror-deepfakes-gaza-war-increase-105213043"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/fake-babies-real-horror-deepfakes-gaza-war-increase-105213043"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/fake-babies-real-horror-deepfakes-gaza-war-increase-105213043"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_a1bb303b637ffbbb9cbc3aa1e000db47_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "From Deepfakes To Rogue Superintelligence, Here Is Dark Side Of Artificial Intelligence"
     excerpt: "Deepfakes are just the tip of the iceberg. From spreading misinformation to reflecting real-world bias, there are several darker aspects of artificial intelligence (AI)."
     publishedDateTime: 2023-11-27T02:28:00Z
@@ -40,17 +56,6 @@ related:
       name: Outlookindia
       domain: outlookindia.com
     quality: 29
-  - title: "Fake babies, real horror: Deepfakes from the Gaza war increase fears about AI’s power to mislead"
-    excerpt: "While this technology shows promise, those using AI to lie are often a step ahead, according to David Doermann, a computer scientist who led an effort at the Defense Advanced Research Projects Agency to respond to the national security threats posed by AI ..."
-    publishedDateTime: 2023-11-28T16:58:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-fake-babies-real-horror-deepfakes-from-the-gaza-war-increase-fears-about-ais-power-to-mislead/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-fake-babies-real-horror-deepfakes-from-the-gaza-war-increase-fears-about-ais-power-to-mislead/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-fake-babies-real-horror-deepfakes-from-the-gaza-war-increase-fears-about-ais-power-to-mislead/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 26
 
 secured: "7/p+rh7Nwwswot3T9JNK5EdxXBwe98acTn8W1nfli+OzYmL8ps3ye1UmCfidh5fLbQH+Wm853qvxfoOKsaPr7K0o+thKrHmqLoAibjd9DfIp3l2SQFXLXHRemxHm9Apwekwoo4PmVllQ2faCbE4guzjHbmh8qNLEYdjquBDP/24HgBbulYxhxacakfoTSftuspTjCjE4pWXJTNeYZuJbK/CDEDcFsY1EPek0gwzRv7qm6rCFx1YzK1jF2KuQubzBKXpiig6fx7+CNG4INmXuFCVBLmNJn8WykoUFYnlbDVj2Z0vHi7WglLgcHGXF7a30Ne3t+azurFi3SRdTFbS4faEz5Noa4dWrAc7SCJlv+GW5tkxHI8zDWcKtJy9zMlsAv4gYhAF7+RA9VcKrSRkvkqEqBBvE3E2mFsRFLvwZyFSMjDcZ1sSGCUWLno8Xtis9ejFU4j0zPG+s+mpSSrD/PMwCpd9hLDFZr5Ez2tqgL/PKnHlqYjTUg3fyIwyvTq5mkg3Z9e8p35dtaoG8e+FL+Q==;G+1wu9lKrEuETG1ROVy7jw=="
 ---

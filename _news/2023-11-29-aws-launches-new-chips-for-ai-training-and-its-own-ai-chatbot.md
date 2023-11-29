@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/aws-re-invent-2023-keynote/"
 webUrl: "https://www.techrepublic.com/article/aws-re-invent-2023-keynote/"
 type: article
 quality: 101
-heat: 181
+heat: 194
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/09/Collage-Maker-22-Sep-2023-03-59-PM-372.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Amazon is building its own AI chips"
+    excerpt: "Open relationship with Nvidia Amazon's cloud-computing unit announced updated versions of its in-house computer chips while forging closer ties with Nvidia. Apparently, Amazon has a dual strategy to ensure it can get enough supplies of crucial data-centre processors and this involves close"
+    publishedDateTime: 2023-11-29T10:31:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58018-amazon-is-building-its-own-ai-chips"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/73b5d627e8c6966ca720b1ded965216e_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Teradata launches its AI discovery and exploration tools on AWS cloud"
     excerpt: "Teradata is best known for its big-data software platform VantageCloud Lake, which can be used by enterprises to analyze their business information for useful insights. Its analytics feature set is known as ClearScape Analytics, and the new AI platform is said to be heavily reliant on its capabilities."

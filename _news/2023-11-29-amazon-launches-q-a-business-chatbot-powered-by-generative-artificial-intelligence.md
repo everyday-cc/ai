@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Amazon is building its own AI chips"
+    excerpt: "Open relationship with Nvidia Amazon's cloud-computing unit announced updated versions of its in-house computer chips while forging closer ties with Nvidia. Apparently, Amazon has a dual strategy to ensure it can get enough supplies of crucial data-centre processors and this involves close"
+    publishedDateTime: 2023-11-29T10:31:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58018-amazon-is-building-its-own-ai-chips"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/73b5d627e8c6966ca720b1ded965216e_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Teradata launches its AI discovery and exploration tools on AWS cloud"
     excerpt: "Teradata is best known for its big-data software platform VantageCloud Lake, which can be used by enterprises to analyze their business information for useful insights. Its analytics feature set is known as ClearScape Analytics, and the new AI platform is said to be heavily reliant on its capabilities."
     publishedDateTime: 2023-11-28T16:00:00Z
@@ -125,6 +139,6 @@ related:
       domain: seattletimes.com
     quality: 17
 
-secured: "6BpKiR+xc7mx84dJBfDrjtPR00+USoAS3Z+zP+kjY/wh982jTRZec8vmak2XT6ly0pGIt3CKAkMPqOCdWXOUphIw0CbrvEVD9kiz3PBNNsQA2qWglYHCGSQ9g93xFPjLjCT76w1Ns981Yc0NGAQ46tdwuoSx2o1jJEb9z0P/m0YHpnGGrWcSz1Gh8IIwZmOObrjz3UFlkIMeR8XGzqOGQH6CNEIvCOoVMSKcaecNWxPBFDI8o+L8ZC1cwdCtPbSbIkvf3Nar61ms4I8FnI1mOeYgEyLhWdKj3xiB5hOIQeDt//Utlw173rqRsM+yJfMAQbTgGMdb4zZkPMO+ouaVo0Bx8rlugQ0v8byRgIEwYgY=;889tHOhHzIFTw5vDWW98dg=="
+secured: "/TomyhPUq1/eWmyn30wJwrnD3ErW+hrJ6CnBinHk7QsgZtm+pNCwpZJdY40JuvC82KXLkruSO5f0ywlv+A4fwxwKYwxA9TzESN0rI4jmSPxVesU0lzWqbx6e3FPEl/kZGCEQTu7YrQHwjUasmYgOF7p3DHBhMNkelBLnFUY9dkMnvMQBakOGT8TOP7ex2OZX+y4grmEAG3avQT1mAAXIHEC2BHld0Za9QPYzYcNORD1Vqy0ryiaVDvttXJ7u81IVXHnbtPTQOvlsLTTNNUdcqdkJ3vWOm3Fwdthi2k15WLnqfJXm3YhEO1hLJ9y6kLMtZ3i0tBgqUFktBzipeZ6EjmEYkWmm43tNEag/+eFFiwhmGcrSESGtmUBxlwA04i/b6vyD6lWz7U6Y7JYfq7dbrLIxwZlp4vXF4sZGZt9l3O72PUl7STSeS0VRUwiWl/1zIxtt9odFU6UUUYvcGfYaKzHWHKKMXia1ObwGLG/cf0haTOwfrV33CqGvmgPKHZpQVmc6OX48PkxwXhTIkQElPw==;M16cc2ByECzVExjS04tCDA=="
 ---
 

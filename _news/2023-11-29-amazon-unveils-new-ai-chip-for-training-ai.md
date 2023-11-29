@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon unveils AI chip to compete with Microsoft, Nvidia and AMD"
-    excerpt: "Amazon unveils Trainium2 chip for training large language models, offering 4x faster training and 2x energy efficiency than previous Trainium chips. T"
-    publishedDateTime: 2023-11-29T02:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-unveils-ai-chip-to-compete-with-microsoft-nvidia-and-amd/articleshow/105572624.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/amazon-unveils-ai-chip-to-compete-with-microsoft-nvidia-and-amd/amp_articleshow/105572624.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/amazon-unveils-ai-chip-to-compete-with-microsoft-nvidia-and-amd/amp_articleshow/105572624.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 91
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-105572630,width-1280,height-720,resizemode-4/105572630.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Amazon's AWS Pushes AI Boundaries With New Chips And Nvidia Partnership"
     excerpt: "AWS and Nvidia Corp NVDA -1.13% Get Free Report are collaborating to bring Nvidia's DGX Cloud to AWS. This includes deploying a new family of GPUs and a giant AI supercomputer to halve the training time and cost for large language models annually."
     publishedDateTime: 2023-11-28T17:44:00Z
@@ -167,38 +151,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NVIDIA delays the launch of new AI chips focused on China"
-    excerpt: "The delayed chip is the H20, the most powerful of three China-focused chips Nvidia has developed to comply with fresh US export restrictions, the sources said, and could complicate its efforts to preserve market share in China against local rivals like Huawei,"
-    publishedDateTime: 2023-11-24T09:49:00Z
-    webUrl: "https://www.cnbctv18.com/technology/nvidia-delays-the-launch-of-new-ai-chips-focused-on-china-18404991.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/nvidia-delays-the-launch-of-new-ai-chips-focused-on-china-18404991.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/nvidia-delays-the-launch-of-new-ai-chips-focused-on-china-18404991.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 74
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/11/nvidia-1-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
-  - title: "Nvidia may have delayed launch of new China-focused AI chip"
-    excerpt: "Nvidia has reportedly delayed the launch of its new AI chip for the Chinese market for the second time. The delayed chip, called H20, is facing integr"
-    publishedDateTime: 2023-11-24T10:32:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-may-have-delayed-launch-of-new-china-focused-ai-chip/articleshow/105473227.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-may-have-delayed-launch-of-new-china-focused-ai-chip/amp_articleshow/105473227.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-may-have-delayed-launch-of-new-china-focused-ai-chip/amp_articleshow/105473227.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-105473603,width-1280,height-720,resizemode-4/105473603.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Nvidia delays launch of new AI chip in China amid US export rules"
     excerpt: "Touted as the most potent among three China-targeted chips developed by Nvidia, the H20 faces a setback in its market debut. This delay may potentially impact Nvidia's competitive stance in China agai"
     publishedDateTime: 2023-11-25T04:05:00Z
@@ -230,6 +182,22 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/05/6-Nvidia-Corp.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Amazon announces new AI chip as it deepens Nvidia relationship"
+    excerpt: "AWS will host a computing cluster for Nvidia to use. Simultaneously, AWS announced a new chip for training AI models, an Nvidia GPU alternative."
+    publishedDateTime: 2023-11-28T16:54:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/amazon-announces-new-ai-chip-as-it-deepens-nvidia-relationship/4900892/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/amazon-announces-new-ai-chip-as-it-deepens-nvidia-relationship/4900892/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/amazon-announces-new-ai-chip-as-it-deepens-nvidia-relationship/4900892/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
+    images:
+      - url: "https://media.nbcnewyork.com/2023/11/107339733-1701194797112-107339733-1701155445926-gettyimages-1259130628-COLLISION_2023.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AWS and Nvidia expand partnership in generative AI."
     excerpt: "AWS will be the first cloud provider to deploy Nvidia’s GH200 chips, originally announced for release in 2024. Nvidia said GH200 has triple the memory of the popular H100 chips. Nvidia CEO Jensen Huang,"
@@ -296,6 +264,6 @@ related:
         height: 408
         isCached: true
 
-secured: "4+PG3K2mgCI/QLn7brRLDIFCB3vRor22+/zcRQh8bxXNm/Fgx2854z2xtfuMpxqgpSJnJ/yWT0WnAlRS8uOYWG+fp8mNzmnVLve8sqPv+tynkxBmtsrAP+I1a0suIBMhWuOh0kGTwac123GXF0iBQQ1gceqq2sQ/EKjeP77FFQrgrEPnupJr90hoWoU+H9HeYDnaTQDFi3/AHDPr1Pk94m870aS+bTtkhnOcgDXM1/u2Og0nyELH5B1eprINheoCN5XRuxDnaIKQ8yYyMdb05eOouVs4+0DwBVSTvtqed7M2sLQcMHZl/0bk3IE4ET20mChtErtk+noJnkHg21yiOGrYfGvzQcLfj40jfFrpeDY=;dHl7FQr8WHar1Eb3pFp6Og=="
+secured: "oEIzDrsmNhEoL0fqBpnh1iirYnzbslKYti3qonKT5txt/n7UCYqc26wz2LQCzlAaHJgZpnALPG5i5vivWKqzpi3Ab6PeCiQ301GvGtDjEq+ZAGQ9HceixH2ublRudMFbSn3J8CZ3jc8LhFmJ5lskFN3DHRtH5YY1A7tp7V2XeffB8TnRq7V2IgQvKwtDOKgYpuzPyQyqLDzEidvEFoFKFjjlsJMvZHJ388vgxHmB9yIm7POps5NuknYwZ5AjbbMAJpBzpAqxobAqxtuOfnjfnMha8CcUe8++iBcnI4GuevAqFtSL0qW/Hc3SOoXyMqYn7ct0jnk0wtkpRlwDdFSS6J8rwpqwk7VG9UQcwEOk0e8NiGaJaV3VS6PSPawg4veOWlRpb68meP8IUb9RRwd4xA3prZ7C4z4BGs3yxZ405KqQ+kROLN1/fBGk2s8bbwXYFmsHzTXSuej0kez/XRLO+5QCWeaTYXpIy+cSdld25GdaT/asISQqW0SBSecVfJWeMPQqLE3/ZzEtDPer3O0m3A==;/yRBoUddzB8S4I3VA4vg/w=="
 ---
 

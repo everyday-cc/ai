@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/how
 cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/how-aws-empowers-asean-organisations-innovate-generative-ai"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 84
+published: true
 
 provider:
   name: The Edge Singapore
@@ -21,6 +21,29 @@ topics:
   - AI
 
 related:
+  - title: "AI empowers people with variations in mental functions to excel in jobs"
+    excerpt: "Kochi-based social enterprise startup Inclusys Foundation is scaling up its technology-assisted professional education programme to reach a broader audience."
+    publishedDateTime: 2023-11-29T09:44:00Z
+    webUrl: "https://uniindia.com/~/ai-empowers-people-with-variations-in-mental-functions-to-excel-in-jobs/Business Economy/news/3095886.html"
+    type: article
+    provider:
+      name: uniindia
+      domain: uniindia.com
+    quality: 39
+    images:
+      - url: "http://www.uniindia.com/cms/gall_content/2023/11/2023_11$largeimg29_Nov_2023_151436303.jpg"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "The Very Group selects AWS to transform the shopping experience with generative AI"
+    excerpt: "The Very Group (‘Very’), a leading UK online retailer, today announced an expanded collaboration with Amazon Web Services (AWS) to accelerate"
+    publishedDateTime: 2023-11-27T09:16:00Z
+    webUrl: "https://fashionunited.uk/press/retail/the-very-group-selects-aws-to-transform-the-shopping-experience-with-generative-ai/2023112772775"
+    type: article
+    provider:
+      name: FashionUnited
+      domain: fashionunited.uk
+    quality: 28
   - title: "AWS Unveils Next Generation AWS-Designed Chips"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the next generation of two AWS-designed chip families-AWS Graviton4 and AWS Trainium2-delivering advancements in price performance and energy efficiency for a broad range of customer workloads,"
     publishedDateTime: 2023-11-28T17:56:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/video/how-ai-is-changing-breast-cancer-scr
 webUrl: "https://www.cbsnews.com/video/how-ai-is-changing-breast-cancer-screenings/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AI Model Predicts Breast Cancer Risk Without Racial Bias"
+    excerpt: "The predictive rate of both DCIS and invasive cancer was 0.71 across all races. The AUC in predicting DCIS was 0.77 in non-white patients and 0.71 in white patients. The AUC in predicting invasive cancer was 0.72 in non-white patients and 0.71 in white patients."
+    publishedDateTime: 2023-11-29T10:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-model-predicts-breast-cancer-risk-without-racial-bias-1032857687"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/2285186/New_RSNA_Signature_Logo.jpg"
+        width: 400
+        height: 202
+        isCached: true
 
 secured: "1BeeBXuz8fvzmJSBf6aMhKtGUhS5+bA3PuPnISDdqpp3N1X1Zad+q3ewFh0jWDd3TFZ1AmphJZCKe33idhxCIGfu4TDvNvKEUEUUFZq3pf2cdm1w41GB/oRVAHzsWR+GTrPPN/PjdaloCTn16NcwFRYWFECKOG7ZiIEMREclSAsJk9hjHCuOSK8mQEIV34ZJCGEkQSZcrLEiD/1XpH9syQuffcZ0Di++yP1eKQOj9L8uTlUsuSNrAq7b1ST2d2oyx8sxDYVHzdR6H+fCye3Kbq9hitnCFGB7K3TsYbyK3P+WbsPbPj9m83sH8USd6egFm5JhQYyT+shaxd8P0/qak6qGY6JZmZRn7owlrV/hpqA=;Yq9MtxnwegzZ+/6bRU1i/w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/best-ai-courses"
 webUrl: "https://mashable.com/article/best-ai-courses"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/11/image1-4.jpg"
         width: 1999
         height: 1232
-        isCached: true
-  - title: "Microsoft Adds ChatGPT AI To Windows 11's Command Line, But There's A Catch"
-    excerpt: "ChatGPT's AI capabilities in the Windows Terminal can come in handy for explaining errors, generating commands and providing recommendations."
-    publishedDateTime: 2023-11-27T07:43:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-adds-chatgpt-ai-windows-11s-command-line-theres-catch-1721824"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 67
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1717654/chatgpt.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images"
     excerpt: "AI art generators are in a weird place. They can attempt to make just about anything you can think of, from a dog skateboarding in outer space, to a cup of coffee floating in the ocean. Putting the ethics of AI art aside, some of these creations do not hit ..."

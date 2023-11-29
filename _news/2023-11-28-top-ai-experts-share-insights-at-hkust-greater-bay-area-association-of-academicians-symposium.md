@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9923810.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/11/28/9923810.htm"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Top AI experts share insights at HKUST-Greater Bay Area Association of Academicians symposium"
-    excerpt: "In his keynote speech, Prof. LeCun envisioned objective-driven AI will help predict the future, and Joint Embedding Predictive Architecture (JEPA) model will make a paradigm shift in predictive modeling, that JEPA could bring about a \"new Renaissance.\""
-    publishedDateTime: 2023-11-29T01:46:00Z
-    webUrl: "https://www.digitimes.com/biz/news.asp?feed=3722"
+  - title: "Top AI brains envision what’s next for AI"
+    excerpt: "Yann LeCun, hailed by the media as one of the “Godfathers of AI,” has shared with AI experts, scholars, industry leaders from around the world and students at a symposium held recently in Hong Kong. Entitled AI NEW HORIZONS 2023: A Symposium with Scientific Leaders,"
+    publishedDateTime: 2023-11-29T09:58:00Z
+    webUrl: "https://www.scmp.com/presented/tech/topics/gbaaa-x-hkust-ai-new-horizons-2023/article/3243174/top-ai-brains-envision-whats-next-ai"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 28
+      name: scmp.com
+      domain: scmp.com
+    quality: 69
     images:
-      - url: "https://img.digitimes.com/ad/en_20231113_asasemiconductor_bigbutton.jpg"
-        width: 336
-        height: 280
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_scmp_120/public/d8/images/2023/11/29/AGS_2989_cropped_1_New.JPG?itok=gXPnN6N6"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "9qlQaxYvLPN/d/MdZhAm+NMKeutxvljFbHTWzdZoQD3R/iDPYqdQBkmYipYG9IYr63RvElIBD0VvdKLan4zkg0YKwqMmOHXNvMRvEDGXRuJtKnFfIQ6k+glEeCpjeMct3JGozmde40GJqty5FENyrknFR9+PC0Gbo7QlcvzrW/iRV/Yv/k8FdCdwE+ebL88860u4l35ijpfxA6+C+WljMxFIXb847X3ELHZupZvjUHiwGDtmqzxrbKezFQavrDhjObo/3pYK1yKH6mwKbIAPyx0BJ5oOKbqfjAZRfD1y8RrAudE/naDvxoLpBLVW5scT1zj7yr1PbnTdYPFTuV7ytvIf7WfPiwxQMIFRKAD8brY=;WrsrWu3Rs7ejfmXj1S2wmg=="

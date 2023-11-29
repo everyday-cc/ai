@@ -115,6 +115,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Sports Illustrated is the latest media company damaged by an AI experiment gone wrong"
+    excerpt: "While there’s nothing wrong in media companies experimenting with artificial intelligence, “the mistake is in trying to hide it, and in doing it poorly,” said Tom Rosenstiel, a University of Maryland professor who teaches journalism ethics."
+    publishedDateTime: 2023-11-28T19:02:00Z
+    webUrl: "https://www.9news.com/article/news/nation-world/sports-illustrated-ai-articles-fake-writers/507-a2d8e9ef-c390-4944-aa01-c3dd87c87d3c"
+    ampWebUrl: "https://www.9news.com/amp/article/news/nation-world/sports-illustrated-ai-articles-fake-writers/507-a2d8e9ef-c390-4944-aa01-c3dd87c87d3c"
+    cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/nation-world/sports-illustrated-ai-articles-fake-writers/507-a2d8e9ef-c390-4944-aa01-c3dd87c87d3c"
+    type: article
+    provider:
+      name: 9NEWS
+      domain: 9news.com
+    quality: 52
+    images:
+      - url: "https://media.9news.com/assets/CCT/images/b54e0f2e-767f-4009-86ee-ea368e8618ee/b54e0f2e-767f-4009-86ee-ea368e8618ee_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Children making AI-generated child abuse images, says charity"
     excerpt: "Children are making indecent images of other children using artificial intelligence (AI) image generators, according to a UK charity. The UK Safer Internet Centre (UKSIC) said it had received \"a small number of reports\" from schools but called for action now before the problem grew."
     publishedDateTime: 2023-11-27T15:03:00Z

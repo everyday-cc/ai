@@ -28,273 +28,164 @@ images:
     isCached: true
 
 related:
-  - title: "AWS unveils new Trainium AI chip and Graviton 4, extends Nvidia partnership"
-    excerpt: "In addition to the two new chips, Amazon said it extended its strategic partnership with AI chip giant Nvidia. AWS will be the first cloud service to run the forthcoming GH200 Grace Hopper multi-chip product from Nvidia, which combines the Grace ARM-based CPU and the Hopper H100 GPU chip."
-    publishedDateTime: 2023-11-28T10:30:00Z
-    webUrl: "https://www.zdnet.com/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-unveils-new-trainium-ai-chip-and-graviton-4-extends-nvidia-partnership/"
+  - title: "Microsoft ML.NET 3.0 expands deep learning capabilities"
+    excerpt: "Update to the machine learning framework for .NET developers brings new capabilities in object detection, named entity recognition, and question answering."
+    publishedDateTime: 2023-11-29T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.amp.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 119
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 123
     images:
-      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
-        width: 480
-        height: 480
-        isCached: true
-  - title: "Amazon announces new AI chip as it deepens Nvidia relationship"
-    excerpt: "AWS will host a computing cluster for Nvidia to use. Simultaneously, AWS announced a new chip for training AI models, an Nvidia GPU alternative."
-    publishedDateTime: 2023-11-28T14:41:00Z
-    webUrl: "https://www.cnbc.com/2023/11/28/amazon-reveals-trainium2-ai-chip-while-deepening-nvidia-relationship.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/11/28/amazon-reveals-trainium2-ai-chip-while-deepening-nvidia-relationship.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/28/amazon-reveals-trainium2-ai-chip-while-deepening-nvidia-relationship.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 106
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107339733-1701155445926-gettyimages-1259130628-COLLISION_2023.jpeg?v=1701155556"
-        width: 4000
-        height: 2666
-        isCached: true
-  - title: "Amazon unveils new chips for training and running AI models"
-    excerpt: "There’s a shortage of GPUs as the demand for generative AI, which is often trained and run on GPUs, grows. Nvidia’s best-performing chips are reportedly sold out until 2024. The CEO of chipmaker TSMC was less optimistic recently, suggesting that the ..."
-    publishedDateTime: 2023-11-28T16:38:00Z
-    webUrl: "https://techcrunch.com/2023/11/28/amazon-unveils-new-chips-for-training-and-running-ai-models/"
-    ampWebUrl: "https://techcrunch.com/2023/11/28/amazon-unveils-new-chips-for-training-and-running-ai-models/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/28/amazon-unveils-new-chips-for-training-and-running-ai-models/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1252532025.jpg?resize=1200,799"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "AWS says its new AI chip will train foundation models faster."
-    excerpt: "AWS CEO Adam Selipsky said the second generation of the company’s Trainium chip can train models four times faster than its predecessor. Trainium 2 has three times the memory as the first chip."
-    publishedDateTime: 2023-11-29T00:36:00Z
-    webUrl: "https://www.theverge.com/2023/11/28/23980237/aws-says-its-new-ai-chip-will-train-foundation-models-faster"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 101
-    images:
-      - url: "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Amazon's AWS Pushes AI Boundaries With New Chips And Nvidia Partnership"
-    excerpt: "AWS and Nvidia Corp NVDA -1.13% Get Free Report are collaborating to bring Nvidia's DGX Cloud to AWS. This includes deploying a new family of GPUs and a giant AI supercomputer to halve the training time and cost for large language models annually."
-    publishedDateTime: 2023-11-28T17:44:00Z
-    webUrl: "https://www.benzinga.com/markets/equities/23/11/35984290/amazons-aws-pushes-ai-boundaries-with-new-chips-and-nvidia-partnership"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35984290"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35984290"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 91
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/11/28/amzn_aws_0.png?width=1200&height=800&fit=crop"
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/04/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large-100946747-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true
-  - title: "AWS Taps Nvidia NVSwitch For Beefy AI GPU Nodes"
-    excerpt: "Since the advent of distributed computing, there has been a tension between the tight coherency of memory and its compute within a node – the base level of a unit of compute – and the looser coherency over the network across those nodes."
-    publishedDateTime: 2023-11-29T04:31:00Z
-    webUrl: "https://www.nextplatform.com/2023/11/28/aws-adopts-nvidia-nvswitch-for-beefy-ai-gpu-nodes/"
-    ampWebUrl: "https://www.nextplatform.com/2023/11/28/aws-adopts-nvidia-nvswitch-for-beefy-ai-gpu-nodes/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/11/28/aws-adopts-nvidia-nvswitch-for-beefy-ai-gpu-nodes/amp/"
+  - title: "Intapp solutions now available in the Microsoft Azure Marketplace"
+    excerpt: "PALO ALTO, Calif., Nov. 28, 2023 (GLOBE NEWSWIRE) -- Intapp (NASDAQ: INTA), a leading provider of cloud software for the global professional and financial services industry, today announced the availability of its solutions in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2023-11-28T14:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/intapp-solutions-now-available-in-the-microsoft-azure-marketplace-1032854956"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 91
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/11/aws-ceiba-tree-logo.jpg"
-        width: 779
-        height: 528
-        isCached: true
-  - title: "Nvidia shares fall after China AI chip is delayed"
-    excerpt: "Citing two sources familiar with the matter, Reuters writes that the delayed chip is the H20, the most powerful of three AI-focused products Nvidia has developed"
-    publishedDateTime: 2023-11-24T17:17:00Z
-    webUrl: "https://www.techspot.com/news/100955-nvidia-shares-fall-after-new-china-focused-ai.html"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+  - title: "Microsoft gives up on internet search to build a better AI brand"
+    excerpt: "The company is going all in on generative artificial intelligence, even if that means walking away from its fight over internet search with Google."
+    publishedDateTime: 2023-11-28T01:59:00Z
+    webUrl: "https://www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.html"
+    ampWebUrl: "https://www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711460/microsoft-gives-up-on-internet-search-to-build-a-better-ai-brand.amp.html"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 84
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-24-image-18.jpg"
-        width: 4686
-        height: 2661
-        isCached: true
-  - title: "Nvidia delays launch of new China-focused AI chip"
-    excerpt: "Nvidia delays H20 AI chip launch in China until Q1 2021 due to server integration issues; L20 launch still on schedule. U.S. export curbs create opportunity for rivals like Huawei to win orders that may have gone to Nvidia."
-    publishedDateTime: 2023-11-24T11:11:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nvidia-delays-launch-of-new-china-focused-ai-chip/article67569500.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
+      name: Computerworld
+      domain: computerworld.com
     quality: 74
     images:
-      - url: "https://th-i.thgim.com/public/incoming/s7bnqg/article67569502.ece/alternates/FREE_1200/2023-11-24T052805Z_715528354_RC2KOZ9X1Q6Y_RTRMADP_3_NVIDIA-CHINA.JPG"
+      - url: "https://images.idgesg.net/images/article/2023/10/0-microsoft-copilot-100946694-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "NVIDIA delays the launch of new AI chips focused on China"
-    excerpt: "The delayed chip is the H20, the most powerful of three China-focused chips Nvidia has developed to comply with fresh US export restrictions, the sources said, and could complicate its efforts to preserve market share in China against local rivals like Huawei,"
-    publishedDateTime: 2023-11-24T09:49:00Z
-    webUrl: "https://www.cnbctv18.com/technology/nvidia-delays-the-launch-of-new-ai-chips-focused-on-china-18404991.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/nvidia-delays-the-launch-of-new-ai-chips-focused-on-china-18404991.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/nvidia-delays-the-launch-of-new-ai-chips-focused-on-china-18404991.htm/amp"
+  - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
+    excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
+    publishedDateTime: 2023-11-25T10:38:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 74
+      name: This Day
+      domain: thisdaylive.com
+    quality: 68
     images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/11/nvidia-1-1019x573.jpg"
-        width: 1019
-        height: 573
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Nvidia may have delayed launch of new China-focused AI chip"
-    excerpt: "Nvidia has reportedly delayed the launch of its new AI chip for the Chinese market for the second time. The delayed chip, called H20, is facing integr"
-    publishedDateTime: 2023-11-24T10:32:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-may-have-delayed-launch-of-new-china-focused-ai-chip/articleshow/105473227.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-may-have-delayed-launch-of-new-china-focused-ai-chip/amp_articleshow/105473227.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-may-have-delayed-launch-of-new-china-focused-ai-chip/amp_articleshow/105473227.cms"
+  - title: "Microsoft Adds ChatGPT AI To Windows 11's Command Line, But There's A Catch"
+    excerpt: "ChatGPT's AI capabilities in the Windows Terminal can come in handy for explaining errors, generating commands and providing recommendations."
+    publishedDateTime: 2023-11-27T07:43:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-adds-chatgpt-ai-windows-11s-command-line-theres-catch-1721824"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 67
     images:
-      - url: "https://static.toiimg.com/thumb/msid-105473603,width-1280,height-720,resizemode-4/105473603.jpg"
+      - url: "https://d.ibtimes.co.uk/en/full/1717654/chatgpt.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Amazon Unveils New AI Chip for Cloud Computing as Rivalry with Microsoft, Google Intensifies"
+    excerpt: "Amazon.com revealed a state-of-the-art artificial intelligence chip for its cloud computing service. This move intensifies the fierce competition with Microsoft as both tech giants aim to dominate the rapidly"
+    publishedDateTime: 2023-11-29T08:59:00Z
+    webUrl: "https://www.econotimes.com/Amazon-Unveils-New-AI-Chip-for-Cloud-Computing-as-Rivalry-with-Microsoft-Google-Intensifies-1667034"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 60
+    images:
+      - url: "https://f1.econotimes.com/2023/11/vemnao06oi_th_1024x0.jpg"
+        width: 1024
+        height: 650
+        isCached: true
+  - title: "Microsoft Releases ML.NET 3.0"
+    excerpt: "Microsoft has announced the release of ML.NET 3.0, its open-source, cross-platform, and .NET-based machine learning (ML) framework."
+    publishedDateTime: 2023-11-28T15:02:00Z
+    webUrl: "https://www.thurrott.com/dev/293679/microsoft-releases-ml-net-3-0"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 56
+    images:
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2023/11/ml.net-model-builder-thumb.jpg"
+        width: 1066
+        height: 600
+        isCached: true
+  - title: "Microsoft reveals the hardware needed to run ChatGPT"
+    excerpt: "Discover the Microsoft hardware and supercomputers built to run OpenAI's ChatGPT AI model. Making the chatbot accessible to users worldwide"
+    publishedDateTime: 2023-11-28T14:44:00Z
+    webUrl: "https://www.geeky-gadgets.com/microsoft-reveals-the-hardware-needed-to-run-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/what-hardware-is-required-to-run-ChatGPT.jpg"
         width: 1280
-        height: 720
+        height: 717
         isCached: true
-  - title: "Nvidia delays launch of new AI chip in China amid US export rules"
-    excerpt: "Touted as the most potent among three China-targeted chips developed by Nvidia, the H20 faces a setback in its market debut. This delay may potentially impact Nvidia's competitive stance in China agai"
-    publishedDateTime: 2023-11-25T04:05:00Z
-    webUrl: "https://www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules-11700877282885.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules/amp-11700877282885.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nvidia-delays-launch-of-new-ai-chip-in-china-amid-us-export-rules/amp-11700877282885.html"
+  - title: "Microsoft’s AI-powered Bing is coming for Google’s Bard-infused … – Vox.com"
+    excerpt: "Google bookended Microsoft’s big AI search announcement with underwhelming AI news of its own.Microsoft has officially taken the lead in the race"
+    publishedDateTime: 2023-11-27T15:22:00Z
+    webUrl: "https://www.inferse.com/806674/microsofts-ai-powered-bing-is-coming-for-googles-bard-infused-vox-com/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/11/25/1600x900/NVIDIA-RESULTS-ETFS-0_1700881880436_1700881905113.JPG"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Nvidia delays launch of new China-focused AI chip"
-    excerpt: "The U.S. export curbs have created an opportunity for rivals such as Huawei to win orders that may have otherwise gone to Nvidia, whose graphics processing units (GPUs) dominate the AI market."
-    publishedDateTime: 2023-11-25T02:52:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/nvidia-delays-launch-of-new-china-focused-ai-chip-11809501.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/nvidia-delays-launch-of-new-china-focused-ai-chip-11809501.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/nvidia-delays-launch-of-new-china-focused-ai-chip-11809501.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/6-Nvidia-Corp.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Amazon unveils new AI chip for training AI"
-    excerpt: "Amazon has recently unveiled its brand new AI chip that will be used for the company's cloud computing service. Named Trainium2, the second-generation chip is designed for training AI systems and is said to be four times faster and twice as energy ..."
-    publishedDateTime: 2023-11-29T08:16:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/amazon-unveils-new-ai-chip-training-ai-3481791"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/amazon-unveils-new-ai-chip-training-ai-3481791?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/amazon-unveils-new-ai-chip-training-ai-3481791?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 74
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/11/29/amazon.jpg?itok=JBxmYswF"
-        width: 750
-        height: 393
-        isCached: true
-  - title: "AWS and Nvidia expand partnership in generative AI."
-    excerpt: "AWS will be the first cloud provider to deploy Nvidia’s GH200 chips, originally announced for release in 2024. Nvidia said GH200 has triple the memory of the popular H100 chips. Nvidia CEO Jensen Huang,"
-    publishedDateTime: 2023-11-28T20:53:00Z
-    webUrl: "https://www.theverge.com/2023/11/28/23979546/aws-and-nvidia-expand-partnership-in-generative-ai"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 66
-  - title: "Nvidia Delays AI Chip Launch in China Amid Export Rule Compliance"
-    excerpt: "Nvidia has informed its Chinese customers of a delay in the launch of its anticipated artificial intelligence (AI) chip, the H20."
-    publishedDateTime: 2023-11-25T05:59:00Z
-    webUrl: "https://techreport.com/news/nvidia-delays-ai-chip-launch-in-china-amid-export-rule-compliance/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
+      name: Inferse
+      domain: inferse.com
     quality: 54
     images:
-      - url: "https://techreport.com/wp-content/uploads/2023/11/NVIDIA-RTX-4000-Series-Mobility-GPUs-Feature-Image.jpg"
-        width: 2000
-        height: 1125
+      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14258.png"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "AWS Unveils Graviton4, Trainium2 Chips"
-    excerpt: "Invent, Amazon Web Services announced the next generation of two AWS-designed chip families — AWS Graviton4 and AWS Trainium2 — that the company said delivers  advancements in price performance and energy efficiency for such workloads as machine learning (ML) training and generative artificial intelligence (AI) applications."
-    publishedDateTime: 2023-11-28T19:37:00Z
-    webUrl: "https://insidehpc.com/2023/11/aws-unveils-graviton4-trainium2-chips/"
+  - title: "Microsoft & OpenAI: Game-Changing Datacenter Chips"
+    excerpt: "Microsoft has officially declared its intentions to introduce its own datacenter processors, consisting of an AI-focused chip"
+    publishedDateTime: 2023-11-27T18:28:00Z
+    webUrl: "https://www.dmnews.com/microsoft-openai-game-changing-datacenter-chips/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
+      name: Direct Marketing News
+      domain: dmnews.com
     quality: 51
-  - title: "Nvidia delays launch of new China-focused AI chip"
-    excerpt: "Nvidia has told customers in China it is delaying the launch of a new artificial intelligence chip it designed to comply with US export rules until the first quarter of next year, two sources familiar with the matter said."
-    publishedDateTime: 2023-11-26T19:53:00Z
-    webUrl: "https://www.itnews.com.au/news/nvidia-delays-launch-of-new-china-focused-ai-chip-602800"
+  - title: "OneNeck Earns Four Microsoft AI Cloud Partner Designations"
+    excerpt: "OneNeck has earned four Microsoft Solutions Partner Designations in the new AI Cloud Partner Program, superseding our previous Gold and Silver statuses. The designations are: Digital & App Innovation: Evolving applications to leverage advanced services in Azure. Modern Work: Helping customers enhance productivity and security using Microsoft 365."
+    publishedDateTime: 2023-11-28T18:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-oneneck-earns-four-microsoft-ai-cloud-partner-designations-/2023/11/28/9924506.htm"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
+      name: TMCnet
+      domain: tmcnet.com
     quality: 34
-  - title: "Amazon Unveils Graviton4 SoC with 96 Arm Neoverse V2 Cores and Trainium2 AI Chips"
-    excerpt: "Amazon Web Services (AWS) is introducing two new data center chips, the Graviton4 processor and the Trainium2 AI chip. Graviton4 boasts 96 Arm Neoverse V2 cores, a significant increase from its predecessor,"
-    publishedDateTime: 2023-11-29T07:37:00Z
-    webUrl: "https://www.guru3d.com/story/amazon-unveils-graviton4-soc-with-96-arm-neoverse-v2-cores-and-trainium2-ai-chips/"
+  - title: "How Microsoft goes around seeking unfettered ownership of artificial general intelligence"
+    excerpt: "It is becoming increasingly clear that OpenAI's convoluted corporate structure led to conflicting motivations and incentives within the company."
+    publishedDateTime: 2023-11-27T03:59:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/how-microsoft-goes-around-seeking-unfettered-ownership-of-artificial-general-intelligence/105524388"
     type: article
     provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 29
-  - title: "AWS Unveils Updated AWS Graviton4 and AWS Trainium2 Processor Families to Offer Enhanced Price Performance and Energy Efficiency"
-    excerpt: "Invent, Amazon Web Services, an Amazon.com company, yesterday announced the next generation of two AWS-designed chip families—AWS Graviton4 and AWS Trainium2"
-    publishedDateTime: 2023-11-29T03:01:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/34053-aws-unveils-updated-aws-graviton4-and-aws-trainium2-processor-families-to-offer-enhanced-price-performance-and-energy-efficiency"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 25
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 30
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/5cc2cdf2ae077fa7427e89ab7fb16239.jpg?t=20231129_025535"
-        width: 753
-        height: 408
+      - url: "https://etimg.etb2bimg.com/thumb/msid-105524388,imgsize-62402,width-1200,height=765,overlay-etcio/artificial-intelligence/how-microsoft-goes-around-seeking-unfettered-ownership-of-artificial-general-intelligence.jpg"
+        width: 1200
+        height: 765
         isCached: true
 
 secured: "T5JPfG53K6zwtrfC2G1U6TGnwxhumZ6Nmg7XdpQH7B1n1SmwPo1HgKxMMjM699gdp0sWcR+yh9CAnbvbI+KVQQmRvCYUUu/OaRAUjSWC/o+9lotZwVSk0uEuSkwu8Ie3xc4TNNjDDzfoLCzGNl+GYpxY0h9ytGlvGu0lhsGaDeNhRdunMjU26lycl7aAL1OaH9AszG7plM8jR/GoAsJwIt8TMT7n0/kEnFFp9kW2G0MyK22LsE1wK/xRIqL2m/feLmbx0e2Wp3qP1gXZqgvLaK8cQYu/xu/orAGmg00EC5TNrLWFsBBZzC4UGJhasZumQrI/Zqz8N9YcOUC6tpChyERTl6TsM4xKVDoQUuKqbnIUNt8jAd8NRErkfwDH0HxGj7z0qpAPAAC/gFZ93Ci99tclDXaLpOAjyAWt7VcWE60IMllbpv6aF/zygHUJ5SS6pCbadI1X9E7l4bUalDlJrToD3dYqB8DfM6JTyCYcOiLcgcZKug64OTiyUq4aHi1i7JnM15/y40hoMivHqJ5k5Q==;fbZIgiNuOGKz9WLo2FoP3A=="

@@ -22,21 +22,42 @@ topics:
   - AI
 
 related:
-  - title: "The role of artificial intelligence in game development and gameplay"
-    excerpt: "Artificial Intelligence (AI) has found its way into nearly every facet of our lives and the gaming industry is no exception, where developers are perpetually seeking innovative ways to augment player experiences and create immersive virtual worlds."
-    publishedDateTime: 2023-11-27T06:40:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-artificial-intelligence-in-game-development-and-gameplay-3318730/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-artificial-intelligence-in-game-development-and-gameplay-3318730/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-artificial-intelligence-in-game-development-and-gameplay-3318730/lite/"
+  - title: "AI and the Rise of Mediocrity"
+    excerpt: "Read More: Pausing AI Developments Isn't Enough. We Need to Shut it All Down"
+    publishedDateTime: 2023-11-27T12:00:00Z
+    webUrl: "https://time.com/6337835/ai-mediocrity-essay/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 57
+      name: Time
+      domain: time.com
+    quality: 67
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/11/Untitled-design360.jpg"
-        width: 1200
-        height: 675
+      - url: "https://api.time.com/wp-content/uploads/2023/11/ai-mediocrity-sameness-illustration.jpg?quality=85"
+        width: 1847
+        height: 1623
+        isCached: true
+  - title: "Three Ways To Encourage The Safe And Effective Use Of AI"
+    excerpt: "While we still learn and experiment with AI, following these three steps can help you lead your organization to first use AI with integrity and confidence."
+    publishedDateTime: 2023-11-27T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/three-ways-to-encourage-the-safe-and-effective-use-of-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "The era of Artificial Intelligence and the reconfiguration of the workplace"
+    excerpt: "Despite the many challenges it has faced throughout its history, artificial intelligence has undergone rapid evolution, shaping a transformative process in the workplace. One of the initial challenges it had to confront was to demonstrate whether this tool poses an imminent threat to employment or,"
+    publishedDateTime: 2023-11-27T20:35:00Z
+    webUrl: "https://signalscv.com/2023/11/the-era-of-artificial-intelligence-and-the-reconfiguration-of-the-workplace/"
+    type: article
+    provider:
+      name: SignalSCV
+      domain: signalscv.com
+    quality: 37
+    images:
+      - url: "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/11/27133407/mannequin-915135_1280-800x559.jpg"
+        width: 800
+        height: 559
         isCached: true
 
 secured: "lUEtiXHjE2JL9cWyysb3EyPPOoifL8v1ZayYqnWvBeuaTxn1h20UXftRGyKt7qBgDbVPEA4w6jEex/GQKJl+/bv7BhM7Spx19uUi69Bt5Lqj7vuBrIY9F8x1WOVv1jDRFOpSdBTTdQwpq1LMXZkYn13LPt9mmiS/4yvZyWwsvdMTAhXevxgWmH3nktUWPM1AXbw2pgn/ACncMMHERpsQwoT3DCHlD0eg3/yfE153/otVDXuhn/lgXDR988Mp8Q6VBQCQYPatM4VdMXGvNYS5uxufVg2O1zbFiuh+4ffD1hhI0E8+bxd3yFAeaaZUP3sXEVsXQcxhZ0syKNMQKbRIKrcw5J+9vSVa3qL1V4SuwqcW61tlU0XWNo66iQ7HqCTqKRvxRuM2aZebAHm+puR+2tS23XNIto/rKg56I/TpJwu16rE9bGgJsaDI3Y6gJfZI3HkF2j7OWeHidBrpcg9rsUwNR4QfPn8a8QMoPYxRtYpIk+aNLuKH00osk7PsKDL8nEcDIEG+3MOFvjZa+6Qj+g==;f5b2CY+NlAfVMTiEJFkHsg=="

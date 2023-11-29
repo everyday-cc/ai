@@ -73,20 +73,6 @@ related:
         width: 620
         height: 343
         isCached: true
-  - title: "Experts Discuss Fintech Market Revamping Tech Trends"
-    excerpt: "( MENAFN - The Peninsula) Joel Johnson | The Peninsula"
-    publishedDateTime: 2023-11-24T10:54:00Z
-    webUrl: "https://menafn.com/1107480950/Experts-Discuss-Fintech-Market-Revamping-Tech-Trends"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?121001"
-        width: 400
-        height: 250
-        isCached: true
   - title: "Exclusive video: Fintech risk – when things go wrong"
     excerpt: "In a fireside chat on Stage 1, Alex Phillips, SVP of FINPRO at Marsh, discusses the common risks for emerging fintechs today. Having worked in the insurance industry for over 20 years, Phillips delivers key insights on ways fintechs can protect their business from the pitfalls on the journey to sustained growth."
     publishedDateTime: 2023-11-28T13:00:00Z

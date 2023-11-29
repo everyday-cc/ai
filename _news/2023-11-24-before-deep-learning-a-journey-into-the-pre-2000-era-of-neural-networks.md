@@ -7,8 +7,8 @@ originalUrl: "https://techbullion.com/before-deep-learning-a-journey-into-the-pr
 webUrl: "https://techbullion.com/before-deep-learning-a-journey-into-the-pre-2000-era-of-neural-networks/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Impacts
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Evolution of Machine Learning: A Journey through AI Before the Turn of the Millennium"
-    excerpt: "Introduction The landscape of artificial intelligence (AI) has undergone a remarkable transformation over the years, particularly in the realm of machine learning. As we delve into the evolution of machine learning before the turn of the millennium,"
-    publishedDateTime: 2023-11-24T09:43:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-machine-learning-a-journey-through-ai-before-the-turn-of-the-millennium/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 45
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/11/vitaly-sacred-7Rhal4dap78-unsplash.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "The future of machine learning: Trends to watch in 2024"
     excerpt: "As we move into 2024, the spotlight turns to multimodal AI models, which represent a leap in sophistication by processing and interpreting diverse data types, including text, images, and sound, to deliver more nuanced and human-like decisions."
     publishedDateTime: 2023-11-26T13:08:00Z

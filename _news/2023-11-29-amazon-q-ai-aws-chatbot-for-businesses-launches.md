@@ -56,20 +56,6 @@ related:
         width: 1037
         height: 399
         isCached: true
-  - title: "How gen AI is assisting payment scams"
-    excerpt: "Cybercrime-as-a-service tools are using generative artificial intelligence in new ways to crack payment card security, according to a new report from Arkose Labs."
-    publishedDateTime: 2023-11-28T00:40:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/how-gen-ai-is-assisting-payment-scams"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/9cc6ceb/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F3d%2Ff8%2Fa71eb1b54738bca2c783058f2677%2Fadobestock-651061619.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Teradata AI Unlimited Now Available on AWS"
     excerpt: "Teradata today announced that Teradata AI Unlimited is now available in private preview on Amazon Web Service (AWS) through"
     publishedDateTime: 2023-11-28T20:08:00Z

@@ -29,15 +29,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
-  - title: "QSTP session explores growing influence of Artificial Intelligence on education"
-    excerpt: "Qatar Science & Technology Park (QSTP), part of Qatar Foundation, is a Free Zone, accelerator and incubator for tech-product development in Qatar. The park fosters an innovation and entrepreneurship ecosystem in Qatar that works to accelerate commercialization of market-ready technologies to realize Qatar’s national diversification drive."
-    publishedDateTime: 2023-11-26T13:53:00Z
-    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/qstp-session-explores-growing-influence-of-artificial-intelligence-on-education-fhd9br2b"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 30
   - title: "tech-i 58: When human creativity meets artificial intelligence"
     excerpt: "The December 2023 issue of tech-i magazine looks at some of the many ways in which EBU Members are leveraging AI technologies to benefit audiences, including reports on projects at ORF (Austria), EO/NPO (Netherlands) and Czech Radio (p."
     publishedDateTime: 2023-11-27T13:49:00Z

@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "The era of Artificial Intelligence and the reconfiguration of the workplace"
-    excerpt: "Despite the many challenges it has faced throughout its history, artificial intelligence has undergone rapid evolution, shaping a transformative process in the workplace. One of the initial challenges it had to confront was to demonstrate whether this tool poses an imminent threat to employment or,"
-    publishedDateTime: 2023-11-27T20:35:00Z
-    webUrl: "https://signalscv.com/2023/11/the-era-of-artificial-intelligence-and-the-reconfiguration-of-the-workplace/"
-    type: article
-    provider:
-      name: SignalSCV
-      domain: signalscv.com
-    quality: 37
-    images:
-      - url: "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/11/27133407/mannequin-915135_1280-800x559.jpg"
-        width: 800
-        height: 559
-        isCached: true
   - title: "The Pioneering Era: Tracing the Roots of Expert Systems in Artificial Intelligence before 2000"
     excerpt: "Introduction: The landscape of artificial intelligence (AI) has evolved exponentially over the years, with a fascinating journey that predates the new millennium. In the formative years before 2000, the rise of expert systems marked a significant milestone in the realm of AI."
     publishedDateTime: 2023-11-24T11:46:00Z

@@ -96,22 +96,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 59
-  - title: "Procurement in the age of AI"
-    excerpt: "But recent advances in natural language processing (NLP), pattern recognition, cognitive analytics, and large language models (LLMs) are “opening up opportunities to make procurement more efficient and effective,” says Julie Scully, director of ..."
-    publishedDateTime: 2023-11-28T00:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/28/1083628/procurement-in-the-age-of-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/11/amazon_business_cart.png"
-        width: 1200
-        height: 1340
-        isCached: true
   - title: "AI in Healthcare 2024: Transforming Patient Care with Innovative Technologies"
     excerpt: "Introduction: Artificial Intelligence (AI) has emerged as a powerful force in reshaping the landscape of healthcare. As we delve into 2024, the integration of AI in healthcare promises groundbreaking transformations,"
     publishedDateTime: 2023-11-27T08:45:00Z

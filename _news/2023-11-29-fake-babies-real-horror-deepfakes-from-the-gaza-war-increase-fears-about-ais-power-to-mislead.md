@@ -1,24 +1,29 @@
 ---
 category: news
-title: "Fake babies, real horror: Deepfakes from the Gaza war increase fears about AI’s power to mislead"
-excerpt: "While this technology shows promise, those using AI to lie are often a step ahead, according to David Doermann, a computer scientist who led an effort at the Defense Advanced Research Projects Agency to respond to the national security threats posed by AI ..."
-publishedDateTime: 2023-11-28T16:58:00Z
-originalUrl: "https://thehill.com/homenews/ap/ap-technology/ap-fake-babies-real-horror-deepfakes-from-the-gaza-war-increase-fears-about-ais-power-to-mislead/"
-webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-fake-babies-real-horror-deepfakes-from-the-gaza-war-increase-fears-about-ais-power-to-mislead/"
-ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-fake-babies-real-horror-deepfakes-from-the-gaza-war-increase-fears-about-ais-power-to-mislead/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-fake-babies-real-horror-deepfakes-from-the-gaza-war-increase-fears-about-ais-power-to-mislead/amp/"
+title: "Fake babies, real horror: Deepfakes from the Gaza war increase fears about AI's power to mislead"
+excerpt: "The war in Gaza is highlighting the latest advances in artificial intelligence as a way to spread fake images and disinformation"
+publishedDateTime: 2023-11-29T09:58:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/fake-babies-real-horror-deepfakes-gaza-war-increase-105213043"
+webUrl: "https://abcnews.go.com/US/wireStory/fake-babies-real-horror-deepfakes-gaza-war-increase-105213043"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/fake-babies-real-horror-deepfakes-gaza-war-increase-105213043"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/fake-babies-real-horror-deepfakes-gaza-war-increase-105213043"
 type: article
-quality: 26
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Meta AI
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/US/wirestory_a1bb303b637ffbbb9cbc3aa1e000db47_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "AntiFake AI tech could keep your voice from being deepfaked"
@@ -47,6 +52,6 @@ related:
       domain: outlookindia.com
     quality: 29
 
-secured: "LGR5Gl502QzIm9ojyAfBdOlhRqY274orAnX8r0Alx4hqCg5VZ1/xGes8QZzBVW1RZEsL2PNUnSsPPThYzpNHAcCStTAX7kiRhbbiSgyWn+fLvBtqUVnbCv/HMqgAWa7sYl+U2lwg/B3E19HbkznHs/OoZHko2e2mjgDKR3AFTrSlhd7RbPJtGasb0uXDqmgJaZl6PVb7I6S5eux80XYFlQOuP0WgWvH08iq7rAijgybjelZDo+47PBewkx87aEw8s/FerxIdDFm0wFVSLRAALpqF0yCIQ+R+/I6B5KI6GwYFFxkq8bjUIxTab4mhUd3HyPeVR30SqV86NeuJ7em8BVdvRH6+zf1SHX7OuKP44mlsYA43GXDJwDQttoGjNj/V4MeOkXGskTK7vuxUxDuP35ms2kTgMZqBUlWNLaIO5rsPjbDxWH2kje/LIV72v+hvhO+PZTg6FIeV+CyfzAdzublYG/7CnWBiWvN5LyP3Lr4KB+tRktunb9/KwVv22R+LQWnCtd+EKlxXcSGcH4r2Zw==;Qu9h3Vw1+jWDm2dWSfGOZA=="
+secured: "Gmn3Zld+AlUSDvcFUdLEIBfYIP18DI+aBYIG0W2/+ETgx3GLnSC9YdwgOv+/XNSooKx6j7yQ0VWcgHHiFK+kO1LqZpcSXUAOk9kwzx2y3ruDmrS51+lBZDycjAgJYPy8o0IjKpv9zL9iHnQH0EXJrWMWmMLaOFb90AakppxcaT8xgtA4OUL4Nv5aORqXE8hq9hsWdGX8z1GvMhcMH7ywp/8pC8qbxd15/5vnZo5KEya32raYuoh3Gn7LKhkKHUe5f/vSmGW6Pp2nv7dGQu1kZR11oAU9Hpwq3etSfy+AIhNQNCGLFjFdd0a37dmwJpswSvg7vrz5PbKyuzJ6Lqd2v5v9kdJI13n+1sQXdee+abk=;YJ9tZJxRSvoeSc6Pco79fA=="
 ---
 

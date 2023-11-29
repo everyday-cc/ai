@@ -19,44 +19,73 @@ topics:
   - AI in Education
 
 related:
-  - title: "The implications of AI on human morality"
-    excerpt: "Mergan Velayudan, Acting CIO at MultiChoice Group, discusses the importance of human oversight when it comes to AI and ethics."
-    publishedDateTime: 2023-11-28T06:49:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/517495-the-implications-of-ai-on-human-morality.html/amp"
+  - title: "Students Explore The Ethics Of Ai In Education At 2023 Wise Summit"
+    excerpt: "The global conference on the future of education, hosted by Qatar Foundation’s (QF) education think tank WISE at Qatar National Convention Centre, featured a discussion on ‘Artificial Intelligence and the Challenges of Education and Ethics’ on the ..."
+    publishedDateTime: 2023-11-29T09:14:00Z
+    webUrl: "https://www.albawaba.com/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/students-explore-ethics-ai-education-2023-wise-summit-1543450"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
-  - title: "Artificial intelligence here to widen human horizon"
-    excerpt: "Artificial intelligence is not here to render people jobless but, rather, to expand their horizons and creation of content. This was the overriding message at the inaugural Uganda Entrepreneurship Congress and Exhibition, organized by the department of Marketing and Management of Makerere University at the university on November 16 and 17, 2023."
-    publishedDateTime: 2023-11-27T15:31:00Z
-    webUrl: "https://observer.ug/businessnews/79868-artificial-intelligence-here-to-widen-human-horizon"
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 91
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-11/image002_0.png?itok=4z_erHTq"
+        width: 1434
+        height: 840
+        isCached: true
+  - title: "New Research Paves Way for Artificial Intelligence in Education"
+    excerpt: "Over 500 respondents contributed to the Department for Education’s call for evidence on generative AI. Education professionals, Artificial Intelligence"
+    publishedDateTime: 2023-11-28T11:51:00Z
+    webUrl: "https://businessnewswales.com/new-research-paves-way-for-artificial-intelligence-in-education/"
     type: article
     provider:
-      name: The Observer
-      domain: observer.ug
-    quality: 17
-  - title: "tech-i 58: When human creativity meets artificial intelligence"
-    excerpt: "The December 2023 issue of tech-i magazine looks at some of the many ways in which EBU Members are leveraging AI technologies to benefit audiences, including reports on projects at ORF (Austria), EO/NPO (Netherlands) and Czech Radio (p."
-    publishedDateTime: 2023-11-27T13:49:00Z
-    webUrl: "https://tech.ebu.ch/news/2023/11/tech-i-58-when-human-creativity-meets-artificial-intelligence"
+      name: https//businessnewswales.com
+      domain: businessnewswales.com
+    quality: 54
+    images:
+      - url: "https://businessnewswales.com/wp-content/uploads/headway-5QgIuuBxKwM-unsplash-ai-education-meeting-laptop.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Students explore ethics of AI in Education at WISE 2023"
+    excerpt: "Essential ethical practices for students using artificial intelligence (AI) in their education have been explored by young learners at the 2023 WISE, through a session led by"
+    publishedDateTime: 2023-11-28T19:57:00Z
+    webUrl: "https://www.gulf-times.com/article/672600/qatar/students-explore-ethics-of-ai-in-education-at-wise-2023"
     type: article
     provider:
-      name: tech.ebu
-      domain: tech.ebu.ch
-    quality: 17
-  - title: "The Impact of Artificial Intelligence on the Real Estate Industry"
-    excerpt: "Artificial Intelligence has become a transformative force across diverse sectors, and the real estate industry is a notable example. Its impact is palpable acro"
-    publishedDateTime: 2023-11-27T13:34:00Z
-    webUrl: "https://www.tribuneindia.com/news/impact-feature/the-impact-of-artificial-intelligence-on-the-real-estate-industry-566451"
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 51
+  - title: "StudentAI.app Sets a New Standard in EdTech with the Launch of Interactive AI Tools for Students and AI Teacher Collaboration"
+    excerpt: "StudentAI.app addresses these critical issues head-on by launching a platform that not only transforms passive learning into an interactive, engaging process but also equips students with sophisticated tools for personal and professional development."
+    publishedDateTime: 2023-11-25T03:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/studentai-app-sets-a-new-standard-in-edtech-with-the-launch-of-interactive-ai-tools-for-students-and-ai-teacher-collaboration-1032848965"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 17
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/1700638633530-0.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Concerns Rise as UK School Pupils Exploit AI to Create Indecent Imagery of Fellow Students"
+    excerpt: "In addition to government initiatives, schools are being urged to strengthen their educational programs on digital ethics, emphasising the responsible use of technology and the potential consequences of misusing AI tools. Parents, too, are encouraged to ..."
+    publishedDateTime: 2023-11-29T00:56:00Z
+    webUrl: "https://www.ibtimes.co.uk/concerns-rise-uk-school-pupils-exploit-ai-create-indecent-imagery-fellow-students-1721840"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 29
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1720521/uk-entertainment-industry-fails-tackle-rampant-sexual-abuse.jpg"
+        width: 768
+        height: 563
+        isCached: true
 
 secured: "io3GdD7KQa4g67Cni+26Q8pejbpNlbdT3x8Cyhovq4wvUX1ZXLZDXuXnj0EY/Cz68FAp1RDC1Xnn6WFgV8XwlNcguZ6VVzVxqQByoX3b1PLx8OEVurY1IH6roHBQk2jWu5RVSellwrsxveKGKeV5QgGs6YHTD8n9DQV5JYM14tV5XdLaYUA2NviKmdfLLbdvSmJazzCu1H6tyQzPKLk4zIG9SvNuoudKwMQIQwN+ZGe6N/D2y5naMbv5EmpieXjp6CYKkupAPnAN6HVUjWB4uK432mrVvxvNtyR1cFkhQd7CdwJgkw2y2YWWeNh3ljRi6oyasuIcC7MlfNAc8P8MzTzhA6bhV0PxrCp14qfNZ2MXGB8u80hmeGj4qimVn8YBh9wr3vlL2TYFD5fK/OJIsQ9dJc0KKN/UD6DnfS3I2i53kCim18C2wU5RF0Z28d3af7tPiRvaFRM5GiqdNWq2Lch5wxE1NVjWPgiyEtr94/lE3qheNo3OnbjXKzg7gKTU4k/iG2oEFU16DjYI+WRCGA==;eJLHTRlyEtxZj635+AO9Gg=="
 ---

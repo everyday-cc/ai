@@ -54,20 +54,6 @@ related:
         width: 1999
         height: 1232
         isCached: true
-  - title: "Microsoft Adds ChatGPT AI To Windows 11's Command Line, But There's A Catch"
-    excerpt: "ChatGPT's AI capabilities in the Windows Terminal can come in handy for explaining errors, generating commands and providing recommendations."
-    publishedDateTime: 2023-11-27T07:43:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-adds-chatgpt-ai-windows-11s-command-line-theres-catch-1721824"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 67
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1717654/chatgpt.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Elon Musk Unveils New Artificial Intelligence Bot to Rival ChatGPT – TIME"
     excerpt: "Elon Musk revealed his own artificial intelligence bot to challenge ChatGPT, claiming the prototype is already superior to ChatGPT 3.5 across several"
     publishedDateTime: 2023-11-24T20:22:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/monai-medical-imaging-ai/"
 webUrl: "https://www.geeky-gadgets.com/monai-medical-imaging-ai/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Wipro To Bring Generative AI To Healthcare Insurance Companies Using NVIDIA AI Enterprise"
-    excerpt: "Wipro announced a collaboration with NVIDIA to help healthcare companies accelerate adoption of generative artificial intelligence (gen AI) through AI"
-    publishedDateTime: 2023-11-24T10:43:00Z
-    webUrl: "https://www.indianweb2.com/2023/11/wipro-to-bring-generative-ai-to.html"
+  - title: "Nvidia revenues soar amid hyperscaler AI rush"
+    excerpt: "The chipmaker's products underpin the AI services at the center of an enterprise adoption wave, but research and development are still underway."
+    publishedDateTime: 2023-11-27T21:35:00Z
+    webUrl: "https://www.ciodive.com/news/Nvidia-revenue-growth-spikes-hyperscaler-AI-rush/700752/"
     type: article
     provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 45
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
     images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG2FYxGdd4iyCv3Ind4m3LSaPOA8yDjaypLKRtn_DVLR6oxoUm_u72jA_sZc5l_pq0KGji5-fZopwzH-HFRC0vG8rKvDuXicK2V6lRNv2c9dFE8D_RO5vNLCP4n-er_PbCMo5TDChOaB_Qebkq_RqyGYh13RQ6k-f9zvA35b0OtvcF0eTHA-xizi3JNMM/s16000/20231124_161022_0000.png"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "NVIDIA Releases Major Omniverse Upgrade With Generative AI and … – NVIDIA Blog"
-    excerpt: "SIGGRAPH—NVIDIA today announced a major release of its NVIDIA Omniverse™ platform, offering new foundation applications and services for"
-    publishedDateTime: 2023-11-28T23:18:00Z
-    webUrl: "https://www.inferse.com/807530/nvidia-releases-major-omniverse-upgrade-with-generative-ai-and-nvidia-blog/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 35
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14675.png"
-        width: 1600
-        height: 900
+      - url: "https://www.ciodive.com/imgproxy/tVw2nHB2Ssuz9fEkfD1t3AZcgAx-GQVeXKFKCMVIM_M/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzOTkyMzg5MTMuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
 
 secured: "oErghU87IGP3EgPI0xstVUONklqLJbR/Ye3vK4PFp4E/CO5N/cdx5ocZ8ih/8eR4OinYFCp0OjuUFAO8EW80foMQBbWSBNrP6VLfB5OEvVIxRascMZzhZbqpkkHfV4TiIcLGREVS9eeVqXvQ2OfUT9UmgIkQINKjwFKm5tkYw7O3XINiU74UbNWLcTLLaNZIAkXNJrWKzH2knvqB5ruDZgYGWqsCCx3MVGRDLI23KWdv3aNydsm9DcLVdFhqDNlyTttE8q3SrZWDGCi+gqdc4ZpdpwKNN0a8Wjp//ISdmr/PC8mj+P5trcnpMaDAMiSoF1EHETvwx7kOe8d9V13oZV4rmL0bujVQyrl0YBCxoLs=;r7nbjnEVfREpQncPXocmCg=="

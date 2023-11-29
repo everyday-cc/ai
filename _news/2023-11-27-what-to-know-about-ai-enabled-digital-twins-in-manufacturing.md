@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/what-to-kn
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/27/what-to-know-about-ai-enabled-digital-twins-in-manufacturing/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1350
     height: 900
     isCached: true
-
-related:
-  - title: "Is AI About to Steal Your Job"
-    excerpt: "Almost all US jobs from truck driver to childcare provider to software developer include skills that can be done or at least supplemented by gener"
-    publishedDateTime: 2023-11-28T13:43:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/274047912/is-ai-about-to-steal-your-job"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 19
 
 secured: "t9/hz9pgyc3s1b3OQt71+3rXb/koTKktPsbb7ifNX+vfNfEwI0Do5meHDxP8qN2wEw0ZmAQcLZD+gfZno8gDRNxbJQjFw8PMbtbLKUv4WUKeavseuYvwktfORFXDf0VP3tF6KckFenTO8rpg9tjp6CdwyoMCUtcsnyrXYxrKNyuqegsd04SymppcAp7+WsUbxrzYGJCUY55/4isy70vD8EA8z3Ceyb7I4TjJdU9jtKRIgYqFbXfKKa0sZFTKMrpLXdM5MndzYfyGu9YVV44bKv//3R0IOzySIHEVQXHIdVobb0IMif4ZpuqvYgfksAvlCIzyT0bcecifKYXoI+p3aoSUMXU/LxxbQcQiQWDzzho=;mp9ZhgUOvLKF7B41q9VRDQ=="
 ---

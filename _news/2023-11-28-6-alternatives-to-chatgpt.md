@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Adds ChatGPT AI To Windows 11's Command Line, But There's A Catch"
-    excerpt: "ChatGPT's AI capabilities in the Windows Terminal can come in handy for explaining errors, generating commands and providing recommendations."
-    publishedDateTime: 2023-11-27T07:43:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-adds-chatgpt-ai-windows-11s-command-line-theres-catch-1721824"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 67
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1717654/chatgpt.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images"
     excerpt: "AI art generators are in a weird place. They can attempt to make just about anything you can think of, from a dog skateboarding in outer space, to a cup of coffee floating in the ocean. Putting the ethics of AI art aside, some of these creations do not hit ..."
     publishedDateTime: 2023-11-28T00:00:00Z

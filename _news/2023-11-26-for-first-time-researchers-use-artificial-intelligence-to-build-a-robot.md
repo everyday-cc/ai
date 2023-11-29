@@ -3,8 +3,8 @@ category: news
 title: "For first time, researchers use artificial intelligence to build a robot"
 excerpt: "A team of researchers at Northwestern University say they have developed the first artificial intelligence program that has built a robot. They say what the robot can do isn't the main point, but it's what this breakthrough could mean for the future of AI."
 publishedDateTime: 2023-11-26T03:34:00Z
-originalUrl: "https://www.cbsnews.com/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/"
-webUrl: "https://www.cbsnews.com/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/"
+originalUrl: "https://www.cbsnews.com/sanfrancisco/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/"
+webUrl: "https://www.cbsnews.com/sanfrancisco/video/for-first-time-researchers-use-artificial-intelligence-to-build-a-robot/"
 type: article
 quality: 53
 heat: 63
@@ -40,6 +40,6 @@ related:
         height: 650
         isCached: true
 
-secured: "unAAhntuIbofH/3s073QOT7Iy0zaGrr3kEuxptoTjLym7ZMdX0kJIc3n7U8G+CDvGOzFuCREr3FazIdaEuU40+MSdVmc4iIW8T9UmIfgxhgOP2y8X0qow8kP4CISWmLANDorB3kG1rbRCGNOrCPYSOKqANNfznUsw1u6b03xezHiXTXUi/kgKxMItkNSPIsXfZTQFAbj1rUnPZMDfyOqjn8M47yciIjrtkdciSn4PKeKtftS/BZEDEsVhwJgTZEFeyFt+uJ/A9Z5fKrarpAGkfLKNQ8rGP0n2C+plUwC6XFDyo1TN6/UeVIUq/MYrHq1G2kLVhGKNDWRTgHzHQr6vYCIYeX/So+I/MzEr2dFDsI=;fuSXYUOTrl4teTsi+JCXdA=="
+secured: "ocV2owiwPe3XeWbEOiqnK+7vdFqeM3xn/4+Sv32Y83GLJCEQbScUBrDDZEehwEvlFidbL6pZc6LZ3EZi9urkz0g6jCWhTIVal6SZ95loim8wp2V7xIUeXpU4zGdbrPsWc3H6rXz5YyLYW/nAH9k4As7P0GRZh5UZq7Z3x+t/0olTdXGtdbHAQTT4mMPXdI4dNvHyBmIoQBFIaLoDGcQJ5ZhGYVHrQGu7ZaXrv/i5tY5VAWPnMnTybey28/pqqbwTRJ/kFYJPBlOvwR0Ny+QdX4/TAiFaqkjAwQ4qBdaPg+LzcI9pvWfAzltLiHWlwK9YuGOiI6Mp3P1HzomusoClGHV2XcczLm/TVVWZ3OQNHz4=;+IToyQVnZOZCZzXiUaDgNw=="
 ---
 

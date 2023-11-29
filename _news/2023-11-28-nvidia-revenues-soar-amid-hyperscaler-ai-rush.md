@@ -7,7 +7,7 @@ originalUrl: "https://www.ciodive.com/news/Nvidia-revenue-growth-spikes-hypersca
 webUrl: "https://www.ciodive.com/news/Nvidia-revenue-growth-spikes-hyperscaler-AI-rush/700752/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 770
     height: 435
     isCached: true
+
+related:
+  - title: "MONAI medical imaging AI cloud service introduced by NVIDIA"
+    excerpt: "NVIDIA has recently announced the availability of a new hosted cloud service making medical imaging AI analysis and comparison even easier"
+    publishedDateTime: 2023-11-27T11:14:00Z
+    webUrl: "https://www.geeky-gadgets.com/monai-medical-imaging-ai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/NVIDIA-MONAI-medical-imaging-AI.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "3JPg8cTVSr89tfLl4MGrHNj4FkObt6FCakNelGqV1ca5YXA272KVTjS622A5qhXt94NDDmpi/whTnlYj4BrbSQEj2uDTTEiSqeywK6uFAeE52f5ENk6sMlURqCkZIJl3HOvevq/EHBtuD4RXOxw5mzPNGiF5NcSWVJLJnOQ9hP0soJC3skI3REpaf2LKxKVGuJcjBcyVqIDswaji72KjJ/gnkIzhG0Av91VbYA1zlj3rK321Mzx2EhyEhlTPg2owDWffuOOM6n6GIz0iwH7TA5GZND9AnPfJi38k2xUwPcueyouM0jKW26WqPY+wAEkC8kP3aEDyPkBQei6sR2BzmgxwPqi1VSiGfWrGUdfNtvg=;Hl9vI9//aGZck7tWeLtA+w=="
 ---

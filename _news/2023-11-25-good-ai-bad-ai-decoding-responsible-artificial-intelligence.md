@@ -33,36 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Announces 100 New Services, Updates to Help Accelerate AI Transformation"
-    excerpt: "Microsoft has said it introduced around 100 new services and updates as part of its AI-forward strategy, including key developments within its productivity and security offerings. The announcements were made at Microsoft Ignite 2023 – the company’s annual conference for developers and IT professionals, according to a statement by the company."
-    publishedDateTime: 2023-11-25T10:38:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/11/25/microsoft-announces-100-new-services-updates-to-help-accelerate-ai-transformation"
+  - title: "Synopsys Partners with AMD, Intel, and Microsoft to Advance Generative AI in Semiconductor Industry"
+    excerpt: "This expands upon Synopsys’ recent announcement to deliver Synopsys.ai Copilot, the first in a series of GenAI capabilities for chip design. The integration of GenAI across the Synopsys.ai suite will provide chip designers with collaborative capabilities ..."
+    publishedDateTime: 2023-11-27T00:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/synopsys-partners-with-amd-intel-and-microsoft-to-advance-generative-ai-in-semiconductor-industry/"
     type: article
     provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 68
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Microsoft’s AI-powered Bing is coming for Google’s Bard-infused … – Vox.com"
-    excerpt: "Google bookended Microsoft’s big AI search announcement with underwhelming AI news of its own.Microsoft has officially taken the lead in the race"
-    publishedDateTime: 2023-11-27T15:22:00Z
-    webUrl: "https://www.inferse.com/806674/microsofts-ai-powered-bing-is-coming-for-googles-bard-infused-vox-com/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 54
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/11/wp-header-logo-14258.png"
-        width: 1200
-        height: 628
-        isCached: true
+      name: datanami.com
+      domain: datanami.com
+    quality: 22
 
 secured: "03tBt+oFZckdIDvI0X9GySvfW6+ucM+FNv4OCpalMmMRB3Vz3fFfmbkJVSDZRFS4RvXDNGWPyM9ze8e3BJoxNCqLFRYAQDdDnNKC4JTcbQIvoGKMMCIfvnLzRtxuoykS7oJ8VEEb9LKqfqbYlJ76iUeBo8MaJ9n/QctsE6wrHCGiHaz44HKXdmv8aVBRCfWAujGeSOkPiDALiZUOQCwFMLX5slq4FnJun5g8SpDUQ8nUqDjBWdR4qWnc11ZmVX7yE/6N2yVOxDjOwQM9mnaxJimC3KL2J3y6WY2lA1gv1OrvHq7dSee4DCm5L5ooHlpHePdc9IrUmvjGCywi8d5TRhZ099LMs2TvJPLY/BtXShg=;xiyfdvH7CKsre71Qe4ctWA=="
 ---

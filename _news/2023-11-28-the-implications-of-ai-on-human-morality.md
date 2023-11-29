@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "QSTP session explores growing influence of Artificial Intelligence on education"
-    excerpt: "Qatar Science & Technology Park (QSTP), part of Qatar Foundation, is a Free Zone, accelerator and incubator for tech-product development in Qatar. The park fosters an innovation and entrepreneurship ecosystem in Qatar that works to accelerate commercialization of market-ready technologies to realize Qatar’s national diversification drive."
-    publishedDateTime: 2023-11-26T13:53:00Z
-    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/qstp-session-explores-growing-influence-of-artificial-intelligence-on-education-fhd9br2b"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 30
   - title: "Artificial intelligence here to widen human horizon"
     excerpt: "Artificial intelligence is not here to render people jobless but, rather, to expand their horizons and creation of content. This was the overriding message at the inaugural Uganda Entrepreneurship Congress and Exhibition, organized by the department of Marketing and Management of Makerere University at the university on November 16 and 17, 2023."
     publishedDateTime: 2023-11-27T15:31:00Z
